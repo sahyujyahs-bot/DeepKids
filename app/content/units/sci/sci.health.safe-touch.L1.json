@@ -1,0 +1,2919 @@
+{
+ "id": "sci.health.safe-touch.L1",
+ "title": "My body is mine: safe and unsafe touch",
+ "level": 1,
+ "summary": {
+  "text": "A hug from someone you love feels warm and a pinch hurts, but a doctor's injection hurts and yet keeps you well. So how do we tell which touch is safe? In this lesson you find out how your skin feels touch. You also learn three body rules: my body belongs to me, I can say no, and I tell a trusted grown-up. You learn which secrets are never kept, and that other people, other animals and even plants have a say about touch too.",
+  "art": "A child standing with one hand on their chest, with five trusted grown-ups drawn small around them, one for each finger of the other raised hand."
+ },
+ "intro": {
+  "hook": "Hold out your hand. Ask someone in your family, 'May I press my palm on yours?' Wait for the answer. If they say yes, press your palms together. Who is touching whom?",
+  "text": "You felt their hand, and they felt yours, at the very same time. A touch always happens to two people together. That is why both get a say. You asked first, and you waited for a yes. Today you will find out how skin feels a touch, which touches are safe, which are unsafe, and what to do about an unsafe one.",
+  "art": "Two palms pressed flat together, one small and one large, seen from the side."
+ },
+ "outcomes": [
+  "I can say that my body belongs to me, and that other people's bodies belong to them.",
+  "I can tell a safe touch from an unsafe touch, which some people call a good touch and a bad touch.",
+  "I can name my private parts by their real names and say the rule about them.",
+  "I can say no, go away and tell a trusted grown-up, and I know that telling later is also right.",
+  "I can tell a surprise from a secret that must never be kept.",
+  "I can name five trusted grown-ups I would talk to, and I know I keep telling until someone helps.",
+  "I can ask before I touch another person or another animal, and I stop when the answer is no."
+ ],
+ "explanations": [
+  {
+   "concept": "Your body belongs to you",
+   "status": "defined",
+   "definition": "Your body is yours. You have a say in who touches you and how.",
+   "description": "Your arms, your hair, your tummy and your feet are all yours. Nobody else lives in your body. You are the one who feels what happens to your body. So you get a say about touch. You may say, 'Yes, I would like a hug.' You may say, 'No, thank you.' Grown-ups keep you clean, fed and safe. That is their job. But your body is still yours, even when you are small.",
+   "examples": [
+    "An aunt wants to pinch your cheeks. You may say, 'Please don't. I will say namaste.'",
+    "A friend wants to hold your hand in the line. You may say yes or no.",
+    "Your hair, your school bag and your tiffin are yours too. But only your body can feel."
+   ],
+   "perspectives": [
+    {
+     "who": "The United Nations Convention on the Rights of the Child, 1989, article 19",
+     "explanation": "Nearly every country, India among them, has agreed that every child must be kept safe from being hurt in body or mind. India signed this promise in 1992."
+    },
+    {
+     "who": "Many families in India and elsewhere",
+     "explanation": "Elders decide many things for a small child, and a polite child greets relatives the way the family does. Many parents now keep the greeting and let the child choose the kind: a namaste, a wave, a high five or a hug."
+    }
+   ],
+   "art": "A child drawing a chalk outline around themselves on the floor, smiling.",
+   "context": "This card gives the first body rule: my body belongs to me."
+  },
+  {
+   "concept": "Your skin feels every touch with tiny sensors",
+   "status": "defined",
+   "definition": "A sensor is a tiny part of the body that notices something and sends a message to the brain. Skin has touch sensors all over.",
+   "description": "Your skin covers all of you. Inside your skin are tiny sensors. A sensor notices something and sends a message along a nerve to your brain. Some sensors notice a light stroke. Some notice a hard press. Some notice hot, cold or pain. Your fingertips and lips have the most touch sensors, packed close together. Your back has far fewer. That is why you read a coin's edge with a fingertip and never with your back.",
+   "examples": [
+    "Two pencil points about 3 millimetres apart feel like two points on a fingertip. On the back they feel like one point until they are about 4 centimetres apart.",
+    "With your eyes shut you can tell a coin from a button by touch alone.",
+    "An elephant's trunk tip and a cat's whiskers are full of touch sensors too."
+   ],
+   "one_view": "That skin holds touch sensors, and that fingertips have more than the back, has been measured many times and is agreed.",
+   "art": "A zoomed-in drawing of skin with small dots for sensors, crowded on a fingertip and far apart on a back.",
+   "context": "This card says how the body feels a touch at all, before we sort touches into safe and unsafe.",
+   "perspectives": []
+  },
+  {
+   "concept": "A safe touch is good for the body",
+   "status": "defined",
+   "definition": "A safe touch is a touch you are happy to have, that does not hurt you, and that nobody asks you to hide. Many people call it a good touch.",
+   "description": "A hug from Amma. Holding hands to cross the road. A pat on the back from your teacher. A friend's high five. These are safe touches. You feel warm, cared for and calm. Scientists have found that gentle touch is good for the body. Skin has special nerves that answer best to a slow, soft stroke. Tiny babies who are held against a parent's bare chest grow better.",
+   "examples": [
+    "In 1986 Tiffany Field, a scientist in the United States, found that very small babies who were gently massaged each day gained weight faster than babies who were not.",
+    "In 1978 doctors in Bogotá, Colombia, began asking mothers to hold very small babies skin to skin on the chest all day. It is called kangaroo care, and hospitals across India now use it. Fathers do it too.",
+    "Monkeys sit and comb each other's fur with their fingers. This calms them and keeps friends close."
+   ],
+   "perspectives": [
+    {
+     "who": "Scientists who study touch, such as Tiffany Field and Håkan Olausson",
+     "explanation": "Gentle touch slows the heart and lowers the body's worry chemicals. Olausson's team in Sweden showed in 2002 that some skin nerves carry only the feeling of a soft, slow stroke."
+    },
+    {
+     "who": "People who do not enjoy much touch",
+     "explanation": "Some children and grown-ups find hugs too tight or too much. They show love with words, time and play. Their way is just as real."
+    }
+   ],
+   "art": "A father holding a tiny baby skin to skin against his chest, both wrapped in one cloth.",
+   "context": "This card says what a safe touch, or good touch, is and why bodies need it."
+  },
+  {
+   "concept": "Even a safe touch needs your yes",
+   "status": "defined",
+   "definition": "A yes that you give freely is called consent. A touch without your yes can be stopped, even if the person means well.",
+   "description": "A tickle is fun until you have had enough. Then you say 'Stop', and the tickling must stop at once. The same hug can feel lovely today and wrong tomorrow. That is all right. Your yes is for this touch, now. You can change your mind in the middle. People who love you want to know what you like. Saying no to a hug is not rude. You can offer something else.",
+   "examples": [
+    "'No hug today, Thatha. Shall we do a fist bump?'",
+    "You say 'Stop' in a tickle game, and your cousin stops. That is a good game.",
+    "A friend says no to holding hands. You say 'Okay' and walk beside them."
+   ],
+   "perspectives": [
+    {
+     "who": "Body-safety teachers, such as the Tulir centre in Chennai",
+     "explanation": "A child who is listened to about small touches, like hugs and tickles, learns that their no counts. That child finds it easier to speak up about an unsafe touch."
+    },
+    {
+     "who": "Elders who worry about manners",
+     "explanation": "Some elders feel hurt when a child refuses a hug, and fear the child is being taught disrespect. A greeting the child chooses keeps both the respect and the child's say."
+    }
+   ],
+   "art": "A child offering a fist bump to a grandfather who has opened his arms for a hug, both smiling.",
+   "context": "This card adds that a touch can be stopped at any time, even a friendly one."
+  },
+  {
+   "concept": "Private parts have real names",
+   "status": "defined",
+   "definition": "Private parts are the parts of the body that underwear covers. Their real names are penis, vulva, bottom and chest.",
+   "description": "Some parts of your body are private. Private means not for everyone to see or touch. Your underwear covers them. Boys have a penis. Girls have a vulva. Everyone has a bottom and a chest. Your mouth is special too, because nobody may put anything in your mouth that you do not want. These names are plain body words, like elbow and knee. Many families also have home words. Learn the real names as well, so that a doctor or a teacher understands you at once.",
+   "examples": [
+    "'My knee hurts.' 'My vulva is itching.' Both are plain sentences a doctor needs to hear.",
+    "A swimming costume covers the private parts. That is an easy way to remember them."
+   ],
+   "perspectives": [
+    {
+     "who": "Sandy Wurtele, a psychologist in the United States who has studied body-safety lessons since the 1980s",
+     "explanation": "Her studies found that children of three to five can learn the real names easily, and are not upset by them. A child who knows the names can say clearly what happened."
+    },
+    {
+     "who": "Families who feel shy about these words",
+     "explanation": "In many homes these parts are never named aloud, out of modesty. The worry is real. But silence also teaches a child that these parts cannot be talked about, even when something is wrong."
+    }
+   ],
+   "art": "A plain outline of a child in a vest and shorts, with the covered areas shaded and the mouth marked with a small star.",
+   "context": "This card names the private parts, because we cannot make a rule about parts that have no names."
+  },
+  {
+   "concept": "The rule for private parts",
+   "status": "defined",
+   "definition": "Nobody touches or looks at your private parts, asks you to touch or look at theirs, or shows you pictures of private parts. The only reason is to keep you clean or healthy, and that is never a secret.",
+   "description": "Here is the rule. Nobody touches your private parts. Nobody asks you to touch theirs. Nobody shows you theirs, or pictures of them, and nobody takes pictures of yours. There is one reason a grown-up may touch or look. It is to keep you clean or healthy. A parent helps a small child wash. A doctor checks you while your parent is in the room, and says what she is doing and why. That kind of touch is quick, and nobody hides it.",
+   "examples": [
+    "A doctor says, 'I need to look at the rash on your bottom. Amma is right here.' This is safe.",
+    "Someone says, 'Let me see under your clothes, and don't tell.' This breaks the rule.",
+    "The rule is the same for an older child, a relative, a teacher, a neighbour or a stranger."
+   ],
+   "one_view": "People who work to keep children safe, and the law in India, agree on this rule. The different views are about how to teach it, and they come in other cards.",
+   "art": "A doctor with a stethoscope kneeling by a child, with the child's mother sitting beside them holding the child's hand.",
+   "context": "This card gives the one clear rule about private parts, and the clean-and-healthy reason that is never hidden.",
+   "perspectives": []
+  },
+  {
+   "concept": "An unsafe touch: three signs",
+   "status": "defined",
+   "definition": "An unsafe touch is a touch that hurts you on purpose, or breaks the private-parts rule, or comes with a demand to keep it secret. Many people call it a bad touch.",
+   "description": "A touch is unsafe if it has any one of three signs. One: someone hurts you on purpose, by hitting, pinching, kicking or pulling hair. Two: the touch breaks the rule for private parts. Three: the person says, 'Don't tell anyone.' Many books call this a bad touch. The touch is what is bad. The child is never bad. You may also hear 'good touch and bad touch' at school. They mean the same as safe and unsafe.",
+   "examples": [
+    "A bigger child twists your arm in the playground. Sign one.",
+    "Someone touches you under your clothes when you do not need washing or a doctor. Sign two.",
+    "Someone holds you on their lap too tightly and whispers, 'This is our secret.' Sign three."
+   ],
+   "perspectives": [
+    {
+     "who": "Cordelia Anderson, a teacher in Minneapolis in the United States, in the late 1970s",
+     "explanation": "She saw that touch is not only good or bad. She drew a line with caring touch at one end, hurting touch at the other, and confusing touch in the middle. Children told her the middle was the hardest part to talk about."
+    },
+    {
+     "who": "School books in India that teach 'good touch and bad touch'",
+     "explanation": "Two short words are easy for a six-year-old to remember and to say to a parent. Most Indian schools and police programmes use these words for that reason."
+    }
+   ],
+   "art": "Three small pictures in a row: a pinch on an arm, a hand reaching towards the shaded area of a child outline, and a finger held to lips in a 'shh'.",
+   "context": "This card says what an unsafe touch, or bad touch, is, with three signs a child can check."
+  },
+  {
+   "concept": "Your body gives you warning feelings",
+   "status": "defined",
+   "definition": "A warning feeling is a change in the body that tells you something may be wrong, such as a fast heart or a tight tummy.",
+   "description": "When something seems wrong, your body tells you before you find the words. Your heart beats fast. Your tummy feels tight or fluttery. Your hands get sweaty. Your legs want to move away. You may feel like crying. These are warning feelings. A small part deep in your brain raises the alarm, and your body gets ready. Other animals have this alarm too. A warning feeling means: stop, notice, and tell a trusted grown-up what you felt.",
+   "examples": [
+    "A deer lifts her head and holds still when she hears a twig snap.",
+    "You feel a tight tummy when a big dog runs at you.",
+    "You feel 'yucky and mixed up' when someone stands too close. That counts as a warning."
+   ],
+   "perspectives": [
+    {
+     "who": "Peg Flandreau West, who began the Protective Behaviours programme in Madison in the United States in the 1970s",
+     "explanation": "She taught children to notice these body signals and named them 'early warning signs'. Her first idea was that everyone has the right to feel safe all the time."
+    },
+    {
+     "who": "Doctors who study the brain",
+     "explanation": "The alarm is quick and rough. It also rings for things that are safe, such as a stage, an exam or a loud cracker. So a warning feeling is a reason to check, and it is not proof by itself."
+    }
+   ],
+   "art": "A child's body outline with small marks at the heart, tummy, palms and knees showing where warning feelings are felt.",
+   "context": "This card names the body's own alarm, which helps a child notice an unsafe touch."
+  },
+  {
+   "concept": "A feeling alone cannot sort every touch",
+   "status": "defined",
+   "definition": "Some safe touches feel bad, and some unsafe touches do not hurt. So we check the three signs as well as the feeling.",
+   "description": "An injection hurts, and it is safe. The nurse tells you why, your parent is there, and nobody hides it. Having a splinter pulled out hurts, and it helps you. Now the other way round. An unsafe touch may not hurt at all. It may tickle, or feel strange, or come from someone you like, with sweets. That is very confusing. So do not ask only, 'Did it feel bad?' Ask the three signs. Did someone hurt me on purpose? Did it break the private-parts rule? Did they want it kept secret?",
+   "examples": [
+    "A dentist's drill feels horrid. It is safe: it keeps your teeth well and nobody hides it.",
+    "A grown-up strokes a child under the clothes and gives a chocolate. It does not hurt. It is unsafe, by signs two and three."
+   ],
+   "perspectives": [
+    {
+     "who": "Researchers such as Sandy Wurtele and David Finkelhor",
+     "explanation": "They found that 'bad touch' misleads some children, because the unsafe touch did not feel bad to them. Some children then think they are the ones who did wrong. A rule that does not depend on the feeling protects better."
+    },
+    {
+     "who": "Teachers who stay with feelings",
+     "explanation": "A six-year-old may forget a rule and still notice a yucky feeling. So most programmes teach both: trust the feeling, and know the rule."
+    }
+   ],
+   "art": "Two pictures side by side: a nurse giving an injection with a parent holding the child, and a hand offering a chocolate with a question mark above it.",
+   "context": "This card pushes against the idea that a bad touch always feels bad, and gives a surer test."
+  },
+  {
+   "concept": "No, Go, Tell",
+   "status": "defined",
+   "definition": "When a touch is unsafe: say no in a big voice, go away to where other people are, and tell a trusted grown-up.",
+   "description": "There are three things to do about an unsafe touch. No: say 'No!' or 'Stop! I don't like that!' in a big, loud voice. You are allowed to be loud and rude to stay safe. Go: move away. Go to where other people are. Tell: tell a trusted grown-up what happened, as soon as you can. If you could not say no or go, you can still tell. Telling works later too, even after many days.",
+   "examples": [
+    "Practise the big voice at home: stand tall, hand out like a stop sign, and say 'No! Stop!'",
+    "On a bus, 'go' can mean moving to stand beside a woman with children, or the bus driver.",
+    "'Amma, yesterday something happened that I did not like.' That is a fine way to begin telling."
+   ],
+   "one_view": "Body-safety programmes across the world teach these same three steps. The next card says what happens when a child cannot do the first two.",
+   "art": "Three small pictures: a child with a hand out like a stop sign, the child walking towards a group of people, and the child talking to a grown-up who is kneeling to listen.",
+   "context": "This card gives the three actions: say no, go away, tell.",
+   "perspectives": []
+  },
+  {
+   "concept": "Sometimes the body freezes, and a freeze is not a yes",
+   "status": "defined",
+   "definition": "To freeze is to go still and silent when frightened. The body does this by itself. It does not mean the child agreed.",
+   "description": "Sometimes a frightened child cannot shout or run. The body goes stiff and quiet. The voice will not come. This is called freezing. The body chooses it faster than you can think. Many animals freeze when they are scared. A rabbit sits stone-still under a hawk. A lizard stops halfway up the wall. Freezing has kept animals alive for a very long time. So if you froze, your body was trying to keep you safe. You did nothing wrong. You can still tell.",
+   "examples": [
+    "A child is touched in an unsafe way and stays silent. Later she tells her father. That is exactly right.",
+    "A squirrel caught in the open flattens against a branch and does not move a whisker."
+   ],
+   "perspectives": [
+    {
+     "who": "Scientists who study fear in humans and other animals",
+     "explanation": "They count three quick answers to danger: fight, run away, or freeze. Which one comes is decided by old parts of the brain in less than a second."
+    },
+    {
+     "who": "Many parents and teachers of earlier generations, in India and elsewhere",
+     "explanation": "For a long time, many grown-ups asked, 'Why didn't you shout?' and took silence to mean nothing bad had happened. Studies of freezing showed this was unfair. Courts in India do not treat a child's silence as agreement."
+    }
+   ],
+   "art": "A rabbit sitting very still in grass with the shadow of a bird passing over, beside a child standing still with wide eyes.",
+   "context": "This card says why a child may not be able to say no, and that this is never a yes."
+  },
+  {
+   "concept": "A surprise is told soon. An unsafe secret is never kept",
+   "status": "defined",
+   "definition": "A surprise is something happy that will be told soon. An unsafe secret is about touch, or makes you worried, or is meant to be kept for ever.",
+   "description": "A surprise is fun. You hide Akka's birthday present, and in two days everyone knows and laughs. An unsafe secret is different. It is about a touch, or about private parts. Or it sits in your tummy and worries you. Or the person says you must never tell. They may give you a gift to keep quiet. They may say something scary will happen if you tell. Those words are a trick. Secrets like these are never kept. You tell a trusted grown-up, and you will not be in trouble.",
+   "examples": [
+    "'Don't tell Appa we made him a card.' A surprise. He will see it on Sunday.",
+    "'Don't tell anyone I touched you, or your mother will be angry.' An unsafe secret. Tell.",
+    "'I'll give you a chocolate every day if this stays between us.' An unsafe secret. Tell."
+   ],
+   "one_view": "People who study how children are harmed agree that the demand for secrecy is one of the surest signs. A family rule of 'we have surprises, we do not have secrets' takes that power away.",
+   "art": "A wrapped present with a ribbon on one side, and on the other side a closed box with a worried face drawn on it.",
+   "context": "This card says which secrets are never kept, and why someone asks for one.",
+   "perspectives": []
+  },
+  {
+   "concept": "Trusted grown-ups: five on your hand",
+   "status": "defined",
+   "definition": "A trusted grown-up is an adult who listens to you, believes you and helps keep you safe.",
+   "description": "Hold up one hand. Choose one trusted grown-up for each finger. A trusted grown-up listens, believes you and does not ask for unsafe secrets. Choose some from home and at least one from outside home, such as a teacher. If the first grown-up is busy, or does not believe you, tell the next one. Keep telling until someone helps. In India, any child can also call 1098. It is a free phone line for children, open day and night.",
+   "examples": [
+    "Thumb: Amma. First finger: Appa. Middle finger: Paatti. Ring finger: my class teacher. Little finger: Sharada aunty next door.",
+    "If the unsafe touch came from someone on your hand, tell another finger."
+   ],
+   "perspectives": [
+    {
+     "who": "Jeroo Billimoria, a social worker in Mumbai",
+     "explanation": "In 1996 she started Childline, the 1098 phone line, after street children kept ringing her own phone at night for help. It grew to cover the whole country."
+    },
+    {
+     "who": "The Protective Behaviours programme",
+     "explanation": "Its second idea is that nothing is so awful that we cannot talk about it with someone we trust. It also began the habit of naming helpers on the fingers of one hand."
+    }
+   ],
+   "art": "An open child's hand with a tiny face drawn above each fingertip, and '1098' written on the palm.",
+   "context": "This card says whom to tell, and that a child keeps telling until someone helps."
+  },
+  {
+   "concept": "An unsafe touch can come from someone you know",
+   "status": "defined",
+   "definition": "The body rules are about the touch. They are the same whoever the person is.",
+   "description": "Many people think danger comes only from strangers. Studies show something else. A person who gives an unsafe touch is more often someone the child knows: a neighbour, a relative, an older child, a helper. This is hard to think about. Most people you know are kind and safe. So we do not sort people into safe and unsafe by how well we know them. We look at the touch. The three signs work for anyone at all. And they work for boys and for girls.",
+   "examples": [
+    "In 2007 the Government of India asked more than 12,000 children in 13 states. About half of those who had been touched unsafely said it was by someone they knew and trusted.",
+    "The same study found that boys were harmed about as often as girls."
+   ],
+   "perspectives": [
+    {
+     "who": "David Finkelhor, a researcher in the United States, from 1979",
+     "explanation": "His surveys were among the first to show that most harm to children comes from people they know. He argued that teaching only 'do not talk to strangers' leaves children unprotected."
+    },
+    {
+     "who": "Parents and teachers who teach 'stranger danger'",
+     "explanation": "A stranger who offers a lift or sweets is a real risk, though a rarer one. It is still right to teach a child never to go anywhere with anyone without asking the grown-up in charge."
+    }
+   ],
+   "art": "A child holding a card with the three signs drawn on it, with many different people standing around, none marked as good or bad.",
+   "context": "This card pushes against the idea that only strangers are a danger, and says the rule is about the touch."
+  },
+  {
+   "concept": "It is never the child's fault",
+   "status": "defined",
+   "definition": "When an older person breaks the body rules, the older person did wrong. The child did not.",
+   "description": "If someone gives you an unsafe touch, the fault is theirs. It is theirs even if you did not say no. It is theirs even if you took the sweet, or liked the person, or kept the secret for a while. Grown-ups and older children know the rules. They are the ones who must follow them. In India there is a law, made in 2012, that protects every child under 18 from unsafe touch. A good grown-up who hears about it says: 'Thank you for telling me. I believe you. It is not your fault.'",
+   "examples": [
+    "A child kept an unsafe secret for a month and then told her teacher. She did right by telling. She did no wrong by waiting.",
+    "The law is called the Protection of Children from Sexual Offences Act. People call it POCSO."
+   ],
+   "one_view": "The law, doctors and everyone who works with children agree on this. No honest view puts the blame on a child.",
+   "art": "A grown-up kneeling to a child's height with open hands, saying 'I believe you' in a speech bubble.",
+   "context": "This card says where the blame lies, so that no child carries it.",
+   "perspectives": []
+  },
+  {
+   "concept": "Other people's bodies belong to them",
+   "status": "defined",
+   "definition": "The body rules work both ways. I ask before I touch, and I stop when someone says no.",
+   "description": "Your body is yours. In the same way, your friend's body is your friend's. So you ask before you hug, climb on, tickle or carry someone. You watch their face and listen. If they say no, or pull back, or go quiet, you stop. You never hit, bite or pinch to get your way. And you never look at or touch anyone's private parts. The rule that keeps you safe is the same rule that keeps others safe from you.",
+   "examples": [
+    "'Can I hug you?' 'Not now.' 'Okay!' That is the whole of it.",
+    "Your baby brother cannot say no in words. He turns his head away and fusses. That is his no.",
+    "In a wrestling game, 'stop' always means stop."
+   ],
+   "perspectives": [
+    {
+     "who": "The Thirukkural, by the Tamil poet Thiruvalluvar, kural 316",
+     "explanation": "What a person has felt as painful to themselves, they must not do to another. The poem was written in Tamil about 1,500 to 2,000 years ago."
+    },
+    {
+     "who": "The Acharanga Sutra, the oldest Jain scripture, book 1, lecture 4, lesson 1",
+     "explanation": "No breathing, living, feeling being should be hurt, ill-treated or tormented. Jain teachers call this ahimsa, which means not harming."
+    }
+   ],
+   "art": "Two children facing each other, one with arms half open asking, the other holding up a hand and smiling.",
+   "context": "This card turns the rule around: I also ask, and I also stop."
+  },
+  {
+   "concept": "Other animals and plants say yes and no to touch",
+   "status": "defined",
+   "definition": "Every living being feels touch and answers in their own way. We learn their signs and respect them.",
+   "description": "A cat who wants a stroke pushes her head into your hand. A cat who has had enough flicks her tail and walks off. A dog who wants to play bows down with front legs low and tail up. A puppy yelps when a bite is too hard, and the game stops. These are their yes and their no. Plants feel touch too. Brush a touch-me-not plant, and their leaves fold shut in a second or two. So ask an animal as well: hold out your hand, wait, and let them come to you.",
+   "examples": [
+    "Marc Bekoff, a scientist who has studied dog play since the 1970s, found that dogs use the play bow to ask, 'Shall we play?' They also use it to say, 'That bite was only play.'",
+    "In 2014 Monica Gagliano dropped touch-me-not plants gently, again and again. The plants stopped folding once they had learned the drop did no harm. They still remembered a month later.",
+    "A calf turns away from a hand they do not know and walks back to their mother."
+   ],
+   "perspectives": [
+    {
+     "who": "Monica Gagliano and other scientists who study plant behaviour",
+     "explanation": "Plants feel, learn and remember. The touch-me-not told a harmless drop from a harmful shake and changed what they did."
+    },
+    {
+     "who": "Plant scientists such as Lincoln Taiz",
+     "explanation": "They call the folding an automatic response, and say words like 'learn' and 'feel' should be kept for beings with nerves. The two groups still disagree."
+    }
+   ],
+   "art": "A dog in a play bow, a cat walking away with tail flicking, and a touch-me-not plant with half the leaves folded.",
+   "context": "This card looks beyond people: other beings also have a say about touch."
+  },
+  {
+   "concept": "People greet and show love in many ways",
+   "status": "defined",
+   "definition": "How much people touch, and how, differs from family to family and place to place. The body rules stay the same everywhere.",
+   "description": "In many Indian homes people greet with joined palms and no touch at all. Namaste, vanakkam, namaskara and sat sri akal are greetings like this. Younger people may touch an elder's feet. Friends shake hands or hug. Māori people of New Zealand press noses and foreheads together, which is called a hongi. In France friends kiss the air beside each cheek. No one way is the right way. Some families hug all day, and some hardly at all. In every one of them, the three signs of an unsafe touch are the same.",
+   "examples": [
+    "A child from a hugging family meets a friend from a namaste family. Each asks the other, 'What do you like?'",
+    "During the Covid years, people all over the world greeted without touching, and still showed care."
+   ],
+   "one_view": "That greeting customs differ across the world is plain to see. Nobody claims one custom is correct for all.",
+   "art": "Four pairs of people greeting: joined palms, touching an elder's feet, a handshake and a hongi.",
+   "context": "This card shows that touch customs differ, while the safety rule does not.",
+   "perspectives": []
+  },
+  {
+   "concept": "What does 'mine' mean, when we say 'my body'?",
+   "status": "idea",
+   "definition": "We use 'my body' to mean 'the body I feel from the inside and have a say over'. What a self is, and how it is joined to a body, has no agreed answer.",
+   "description": "You say 'my bag' and 'my body'. A bag can be given away. A body cannot. Your body is built from food, water and air that came from outside you. And yet only you feel your tummy ache. So what does 'mine' mean here? For keeping safe, the meaning is clear: you have the say. But ask what the 'I' is that has a body, and thinkers have given different answers for thousands of years. Science has no final answer either. What do you think?",
+   "examples": [
+    "You can lend your pencil. Can you lend your hand?",
+    "The skin you had as a baby has been replaced many times. Is this the same body?"
+   ],
+   "perspectives": [
+    {
+     "who": "The Katha Upanishad, chapter 1, section 3, verse 3",
+     "explanation": "Know the self as the rider in a chariot, and the body as the chariot. The body is yours to look after, and you are more than the body."
+    },
+    {
+     "who": "The Buddha, in the Anattalakkhana Sutta (Samyutta Nikaya 22.59)",
+     "explanation": "The body is not the self, because we cannot order the body, 'Be like this, do not fall ill.' He taught that no fixed, unchanging self can be found."
+    },
+    {
+     "who": "The Charvaka thinkers of ancient India, as reported by Madhava in the 14th century CE",
+     "explanation": "There is no rider apart from the chariot. The self is the living, aware body, and nothing else."
+    },
+    {
+     "who": "Most brain scientists today",
+     "explanation": "The feeling of owning a body is built by the brain from touch, sight and the sensors inside the body. How that building gives an inner feeling at all is not known."
+    }
+   ],
+   "art": "A child looking at their own open hands with a thought bubble holding a small chariot, a question mark and a mirror.",
+   "context": "This card asks what 'my' means in 'my body', and says where science and philosophy have no final answer."
+  }
+ ],
+ "agreed": [
+  {
+   "text": "Touch is among the first senses to start working, long before birth.",
+   "evidence": "Doctors who study babies in the womb find that the skin around the mouth answers to touch about eight weeks after life in the womb begins. Hearing and sight start working months later."
+  },
+  {
+   "text": "A child who is believed and comforted after telling does better than a child who is doubted.",
+   "evidence": "Many studies of children who were harmed have compared those whose parents believed and supported them with those whose parents did not. The supported children had fewer fears and sleep troubles later. This is why the grown-up's first words matter so much."
+  },
+  {
+   "text": "Many children wait a long time before telling, and some never tell as children.",
+   "evidence": "Surveys of adults in many countries, India among them, find that a large share of those harmed in childhood told nobody for years. Fear of not being believed and fear of getting someone into trouble are the reasons given most often."
+  }
+ ],
+ "challenging": [
+  {
+   "claim": "'Good touch and bad touch' are the wrong words to teach.",
+   "who": "Cordelia Anderson, Sandy Wurtele and many body-safety teachers since the 1980s",
+   "for": "An unsafe touch may not feel bad, so the words can mislead. 'Bad touch' can also make a child feel that they are bad. 'Safe' and 'unsafe', with a clear rule, depend less on a feeling.",
+   "against": "Six-year-olds remember 'good' and 'bad' easily. Indian school books, the police and most parents already use them. A child who knows any words at all is better protected than a child who knows none.",
+   "status": "debated",
+   "context": "School books say 'good touch and bad touch'. Many teachers now prefer 'safe and unsafe'. This lesson uses both so a child knows each."
+  },
+  {
+   "claim": "Body-safety lessons for children do not stop harm, and they put the burden on the child.",
+   "who": "Some researchers and child-protection workers, set against reviewers such as Kerryann Walsh",
+   "for": "Keeping children safe is the job of adults. A small child cannot be expected to stop a determined older person. Walsh's review of 24 trials in 2015 found no proof yet that lessons lower the number of children harmed.",
+   "against": "The same review found that children who had lessons knew more, used safer actions in tests, and were more likely to tell an adult. Telling early can stop harm from going on.",
+   "status": "debated",
+   "context": "Do lessons like this one work? The evidence says children learn and tell more. It cannot yet say if fewer children are harmed."
+  },
+  {
+   "claim": "A polite child should hug and kiss relatives when told to.",
+   "who": "Many elders, in India and elsewhere",
+   "for": "Greeting elders warmly is a way of showing respect and belonging. A refused hug can hurt a grandparent who means only love.",
+   "against": "A child who is made to accept touch from 'nice' people learns that their no does not count with people they know. Those are the very people the rule most needs to cover. Respect can be shown with a greeting the child chooses.",
+   "status": "debated",
+   "context": "Families really disagree about this. It is worth talking over at home before the next family gathering."
+  },
+  {
+   "claim": "Teaching small children the real names of private parts takes away their innocence.",
+   "who": "Some parents and some school boards",
+   "for": "These words feel grown-up and embarrassing, and parents fear that naming the parts brings attention to them too early.",
+   "against": "Studies of young children find no harm from learning the names. Children who know them can describe a problem clearly to a parent or doctor.",
+   "status": "minority",
+   "context": "Some families do not want these words used. Most doctors and researchers advise using them, plainly, like any other body word."
+  }
+ ],
+ "big_questions": [
+  {
+   "q": "When your palm presses your friend's palm, who is touching and who is being touched?",
+   "kind": "deep",
+   "hint": "Try it. Then try touching your own left hand with your right, and ask which hand is the toucher."
+  },
+  {
+   "q": "An injection hurts and is safe. A tricky touch may not hurt and is unsafe. So what really makes a touch safe?",
+   "kind": "deep",
+   "hint": "Think about who knows, who says why, and who gets to say no."
+  },
+  {
+   "q": "Your body is made of things that were once outside you. In what way is it 'yours'?",
+   "kind": "deep",
+   "hint": "Compare 'my bag', 'my sister' and 'my body'. Does 'my' mean the same each time?"
+  },
+  {
+   "q": "A cat cannot say 'no' in words. How sure can we be about what another being wants?",
+   "kind": "big",
+   "hint": "List the signs a cat, a baby and a friend give. Which are easy to read and which are easy to miss?"
+  },
+  {
+   "q": "If a touch-me-not plant folds when touched, does the plant mind being touched?",
+   "kind": "deep",
+   "hint": "Think about what you would need to find out, and how you could test it kindly."
+  },
+  {
+   "q": "Why might a kind person find it hard to hear a child say no?",
+   "kind": "big",
+   "hint": "Think about how the grown-up feels, and what the grown-up was taught as a child."
+  },
+  {
+   "q": "Is it ever right for a grown-up to touch a child who is saying no?",
+   "kind": "big",
+   "hint": "Think about pulling a child back from a road, and giving medicine. What makes those different from an unsafe touch?"
+  },
+  {
+   "q": "Why is a secret so powerful that one sentence, 'Don't tell', can keep a child quiet?",
+   "kind": "big",
+   "hint": "Think about what the child fears will happen, and who made the child fear it."
+  }
+ ],
+ "story": {
+  "title": "Karuppi's No",
+  "mins": 8,
+  "read_aloud": true,
+  "note": "A made-up story set in Kochi, Kerala. The people and the cat are imagined. What is real: cats show a yes and a no with their head, ears and tail, frightened animals and children often freeze, and a good grown-up believes a child who tells. Read it with your child on your lap or beside you, and stop to talk wherever your child wants to.",
+  "text": [
+   "Meenu was six, and she wanted very much to carry the cat. The cat lived on the wall between Meenu's house and the next one. She was black all over, so everyone in the lane called her Karuppi.",
+   "Every evening Meenu ran out and scooped Karuppi up. Every evening Karuppi went stiff as a stick. Her ears went flat. Then she wriggled, dropped to the ground and shot under the hibiscus.",
+   "'She doesn't like me,' said Meenu.",
+   "Her grandmother, Ammamma, was sorting fish on the back step. 'She likes you well enough,' said Ammamma. 'She does not like being grabbed. Did you ask her?'",
+   "'Cats can't talk!'",
+   "'Sit down,' said Ammamma. 'Hold out one finger. Then wait.'",
+   "Meenu sat. She held out a finger. Waiting was hard. A crow shouted. The fish smelt of the sea. At last a black nose came out from under the hibiscus. Karuppi sniffed the finger. Then she pushed her whole head into Meenu's hand.",
+   "'That is her yes,' said Ammamma. 'The stiff back was her no. She has been saying it all week. You were not listening.'",
+   "Meenu stroked the cat, twice. Karuppi's tail began to flick. Meenu lifted her hand away. Karuppi stayed.",
+   "On Saturday, Meenu went next door to return a steel dabba. Shaji uncle was on the verandah with his phone. Meenu had known him all her life. 'Come and see this car game,' he said. 'Sit here.' He lifted her on to his lap.",
+   "The game was good. But Shaji uncle's hand was on her leg, and then it was under the edge of her frock, and it stayed there. Meenu's tummy went tight. Her heart went fast. She wanted to say something and no words came. She went stiff as a stick.",
+   "'This is our game,' said Shaji uncle softly. 'No need to tell Appa. I'll get you a Dairy Milk.'",
+   "Stiff as a stick. Where had she seen that? Karuppi. That was Karuppi's no.",
+   "Meenu wriggled, the way the cat did. She slid off his lap. She did not take the dabba lid, or say goodbye. She ran home.",
+   "Appa was grinding coconut for the fish curry. Meenu stood in the kitchen doorway. The words were stuck. She thought about the Dairy Milk, and about 'no need to tell'. A surprise makes people happy when they hear it. This did not feel like that. This sat in her tummy like a stone.",
+   "'Appa,' she said. 'Shaji uncle put his hand under my frock. He said don't tell.'",
+   "Appa switched off the grinder. He washed his hands and sat down on the floor, so that his face was level with hers. His eyes were wet, but his voice was steady.",
+   "'Thank you for telling me,' he said. 'I believe you. You did nothing wrong. Not one thing.'",
+   "'But I didn't say no,' Meenu whispered. 'I didn't shout like Teacher said. I just went stiff.'",
+   "'Meenu,' said Appa, 'what does Karuppi do when you grab her?'",
+   "'She goes stiff.'",
+   "'And is that a yes?'",
+   "Meenu shook her head.",
+   "'Your body said no before your mouth could,' said Appa. 'He should have listened. He is a grown man. He knows the rule. And then you got away, and you told me. That is everything you could do, and you did it. Now it is my turn. Ammamma and I will make sure this does not happen again, to you or to any child in this lane.'",
+   "Meenu leaned against him. The stone in her tummy was smaller already.",
+   "That evening she sat on the back step and held out one finger. Karuppi came, sniffed, and pushed her head into Meenu's hand.",
+   "'Ammamma,' said Meenu, 'Karuppi knew how to say no all along. Who taught her?'",
+   "Ammamma thought about it for a long time. 'I don't think anyone did,' she said. 'I think every body knows. The hard part is the listening.'"
+  ],
+  "epiphany": "A no can be said by a body before a mouth can say it, and a frozen body has not said yes. Telling afterwards is still telling.",
+  "ask": [
+   "Karuppi went stiff, and Meenu went stiff. What was each of them saying?",
+   "Appa said three things first: 'Thank you for telling me. I believe you. You did nothing wrong.' Why do you think he chose those three?",
+   "Ammamma said every body knows how to say no. Do you think that is true of a baby? Of a tree?",
+   "Who are the five grown-ups you would tell?"
+  ],
+  "art": [
+   "A black cat pushing her head into a small girl's outstretched hand on a back step, with a grandmother sorting fish behind them.",
+   "A father sitting on a kitchen floor at eye level with his daughter, his hands open, a stone grinder behind him."
+  ]
+ },
+ "how_we_found_out": {
+  "story": "For a long time, most people believed that children were harmed only by strangers, and only rarely. It fitted what they saw: the newspapers told of strangers, and no child at home said anything. Then researchers began to ask people directly. In 1979 David Finkelhor in the United States surveyed college students about their childhoods. Many had been touched unsafely, most often by someone they knew, and most had told nobody. In the late 1970s Cordelia Anderson, a teacher in Minneapolis, began talking with children about kinds of touch, and found they had no words for the confusing kind. In India, the journalist Pinki Virani broke a long silence with her book 'Bitter Chocolate' in 2000. In 2007 the Ministry of Women and Child Development asked 12,447 children in 13 states. About half reported some unsafe touch, boys about as often as girls, and half of those named a person they knew and trusted. Five years later India passed a law to protect every child under 18.",
+  "who": "David Finkelhor, Cordelia Anderson, Jeroo Billimoria, Pinki Virani, and the 12,447 children who answered India's 2007 study",
+  "when": "1979 to 2012",
+  "wrong_idea": "Children are harmed only by strangers, it happens very rarely, and a child who is harmed will say so at once."
+ },
+ "roots": {
+  "context": "You have learnt how skin feels a touch, and the rules that keep bodies safe. Now we ask what touch tells us about who we are and how we are joined to others.",
+  "deep_truth": {
+   "truth": "Press your palm on someone's palm. You feel their hand, and they feel yours, at the same moment. Nobody can touch without being touched. So every touch belongs to two beings together, and each of them has a say in it.",
+   "habit": "We speak of touch as something one person does and another person receives, as in 'she touched him'. That way of speaking gives the touch to the toucher alone. The palm test shows that the same touch is felt on both sides, so it cannot belong to one side.",
+   "evidence": "In the palm-to-palm test, and in the two-pencil test on the skin, the child feels a touch only where two skins or two things meet. The meeting is one event with two feelers."
+  },
+  "three": {
+   "who_am_i": "Your skin is where you stop and the world starts. Your skin is also where you feel the world. So the same place that marks you off from others is the place where you meet them. Knowing this, you can look after your edge and still reach across it kindly.",
+   "what_is_life": "Every living being feels touch and answers. A cat pushes into a hand or walks away. A touch-me-not folds. A baby turns their head. To be alive is to feel what meets you and to have a say about it.",
+   "what_is_this_world": "Nothing in the world is touched from nowhere. Each touch is a meeting of two. A world built of meetings goes well when each side listens to the other, and badly when one side stops listening."
+  },
+  "thread": "Touch is the one sense that always works both ways at once. You can see without being seen, and hear without being heard. You cannot touch without being touched. So touch shows very plainly that two beings can share one happening. The body rules in this lesson follow from that: if a touch belongs to both, then both must agree. Many old teachings reached the same rule from the other direction, by saying that what hurts me also hurts you.",
+  "teachings": [
+   {
+    "source": "Thirukkural, kural 316",
+    "teaching": "What you have known as pain in yourself, do not do to another.",
+    "link": "The poet asks the reader to use their own skin as the measure. The lesson's science agrees that other beings have the same kinds of sensors and the same alarm."
+   },
+   {
+    "source": "Acharanga Sutra, book 1, lecture 4, lesson 1",
+    "teaching": "All breathing, living, feeling beings should not be hurt, ill-treated or tormented. This, the text says, is the pure and lasting law.",
+    "link": "The Jain teaching stretches the rule past people to every being who feels. The cat, the dog and the touch-me-not in this lesson show that feeling touch is not a human thing only."
+   },
+   {
+    "source": "Katha Upanishad, chapter 1, section 3, verse 3",
+    "teaching": "Know the self as the rider and the body as the chariot.",
+    "link": "The sage says you are more than your body, and also that the chariot is in your keeping. The lesson's first rule, my body is mine, is the keeping part."
+   }
+  ],
+  "science": [
+   {
+    "text": "The skin and the brain grow from the same thin layer of cells in the first weeks of life in the womb. Touch sensors are the brain's own reach to the surface of the body.",
+    "status": "settled"
+   },
+   {
+    "text": "How the brain builds the feeling 'this body is mine', and why there is any inner feeling at all, is not known.",
+    "status": "open"
+   }
+  ],
+  "other_view": {
+   "who": "The Buddha's teaching of anatta, no fixed self",
+   "view": "The Buddha taught that the body is not 'mine' in any lasting way, because it changes, falls ill and grows old without asking us. On this view, 'my body is mine' is a useful rule for keeping safe, and not a deep truth about what we are. Care for all bodies follows from seeing that none is truly owned."
+  },
+  "practice": {
+   "title": "The edge of me",
+   "mins": 3,
+   "say": "Sit comfortably. Put one hand flat on your chest. Feel your chest rise and fall three times. Say quietly, 'This body is mine.' Now rub your palms together until they are warm. Hold them a finger-width apart without touching. Can you feel the warmth across the gap? Now ask me, 'May I press my palm on yours?' If I say yes, press gently. Notice that we both feel it. Last, hold up one hand and name a trusted grown-up for each finger.",
+   "kid": "Put one hand on your chest. Feel three breaths. Say, 'This body is mine.' Rub your hands until they are warm, then hold them close without touching. Then count five trusted grown-ups on your fingers."
+  },
+  "ask": [
+   "Where exactly do you end? At your skin, at your warmth, at your shadow, or somewhere else?",
+   "If a touch belongs to two beings, what should happen when one says yes and the other says no?",
+   "A tree cannot walk away from a hand. How would a tree say no?"
+  ],
+  "art": "Two hands, one small and one large, palm to palm, with a soft glow where they meet."
+ },
+ "open_questions": [
+  {
+   "q": "Do lessons like this one lower the number of children who are harmed?",
+   "why_open": "Trials show that children learn the rules and tell adults more often. To show that fewer children are harmed, researchers would have to follow thousands of children for years and count something that is usually hidden. No study has done that well yet."
+  },
+  {
+   "q": "Do plants feel a touch, or only respond to it?",
+   "why_open": "Plants sense touch and change what they do, and touch-me-not plants learn. Scientists do not agree on what 'feel' should mean for a being with no nerves, and nobody has a test for inner feeling in any being."
+  },
+  {
+   "q": "Why does gentle touch from another person calm the body, when our own touch calms far less?",
+   "why_open": "The slow-stroke nerves in skin are part of the answer. But the brain also treats a touch it expects from itself differently from a touch that comes from another, and how the two are joined is still being worked out."
+  },
+  {
+   "q": "How does the brain make the feeling that this body is mine?",
+   "why_open": "Tricks such as the rubber hand test, reported by Matthew Botvinick and Jonathan Cohen in 1998, show the feeling can shift to a rubber hand within minutes. So the feeling is built, moment by moment. How it is built, and why it comes with an inner experience, is unknown."
+  }
+ ],
+ "sources": {
+  "founder": [
+   "Founder's sheet: Consent Charades (thumbs up, sideways, down to safe touch requests), in the growing-up notes and the biology track sheet, used in the activity 'Ask first'."
+  ],
+  "science": [
+   "Ministry of Women and Child Development, Government of India (2007). Study on Child Abuse: India 2007.",
+   "The Protection of Children from Sexual Offences Act, 2012 (India).",
+   "United Nations Convention on the Rights of the Child (1989), article 19.",
+   "Finkelhor, D. (1979). Sexually Victimized Children. Free Press.",
+   "Walsh, K., Zwi, K., Woolfenden, S., Shlonsky, A. (2015). School-based education programmes for the prevention of child sexual abuse. Cochrane Database of Systematic Reviews.",
+   "Wurtele, S. K., Kenny, M. C. (2010). Partnering with parents to prevent childhood sexual abuse. Child Abuse Review, 19.",
+   "Field, T. M. and others (1986). Tactile and kinesthetic stimulation effects on preterm neonates. Pediatrics, 77.",
+   "Olausson, H. and others (2002). Unmyelinated tactile afferents signal touch and project to insular cortex. Nature Neuroscience, 5.",
+   "Gagliano, M., Renton, M., Depczynski, M., Mancuso, S. (2014). Experience teaches plants to learn faster and forget slower in environments where it matters. Oecologia, 175.",
+   "Bekoff, M. (1995). Play signals as punctuation: the structure of social play in canids. Behaviour, 132.",
+   "Botvinick, M., Cohen, J. (1998). Rubber hands 'feel' touch that eyes see. Nature, 391.",
+   "Virani, P. (2000). Bitter Chocolate: Child Sexual Abuse in India. Penguin."
+  ]
+ },
+ "playtest": "Checked: every card keeps one idea. The words good touch and bad touch appear and are tied to safe and unsafe. Talking to family is delivered by the trusted grown-ups card. No living being is called 'it'. Every hands-on part was walked through for a flat with only household things. In the two-pencil test, blunt pencils side by side feel like two on a fingertip, about 1 centimetre on a palm, and about 2 to 4 centimetres or more on a forearm and the upper back. Fingers cannot get as close as the 3 millimetres that scientists measure with fine tools. Facts still to verify: the 2007 Indian study figures (12,447 children, 13 states), Childline 1098 beginning in Mumbai in 1996 and joining the 112 system, Tiffany Field 1986, kangaroo care in Bogota in 1978, Cordelia Anderson and Peg Flandreau West in the 1970s, the 2015 Cochrane review of 24 trials, the wording of Thirukkural 316, Acharanga Sutra 1.4.1, Katha Upanishad 1.3.3 and Samyutta Nikaya 22.59, touch answering at about eight weeks in the womb, and Gagliano 2014. The Tulir point on its card should be checked with Tulir in Chennai. The three films still need to be chosen. A parent should know: read the story yourself first. It includes a neighbour who puts a hand under a child's frock and asks for secrecy, and the father's believing answer. If your child tells you something while you read, say the father's three sentences, stay calm, and call 1098 for advice. The game cards and the child's practice use only safe pretends and never ask a child to act out or describe a touch.",
+ "terms": [
+  {
+   "term": "touch",
+   "meaning": "When one thing meets your body, and you feel it.",
+   "example": "You feel a soft towel on your cheek after a bath.",
+   "art": "A towel pressed against a child's smiling cheek."
+  },
+  {
+   "term": "skin",
+   "meaning": "The soft covering all over the outside of your body.",
+   "example": "Your skin is what you feel when you rub your two hands together.",
+   "art": "A child rubbing both palms together, with arrows pointing at the skin."
+  },
+  {
+   "term": "sensor",
+   "meaning": "A tiny part of the body that notices something and sends a message to the brain.",
+   "example": "A touch sensor in your fingertip notices a feather and tells your brain, 'Something soft is here.'",
+   "art": "A greatly enlarged drawing of a fingertip with tiny dots and a thin line going up to a brain."
+  },
+  {
+   "term": "nerve",
+   "meaning": "A thin thread inside the body that carries messages between the sensors and the brain.",
+   "example": "When you touch a hot cup, a nerve carries the message 'hot' to your brain very fast.",
+   "art": "A thin line running from a fingertip up an arm to a head."
+  },
+  {
+   "term": "body rules",
+   "meaning": "Three simple rules that keep bodies safe: my body belongs to me, I can say no, and I tell a trusted grown-up.",
+   "example": "You can say your three body rules on three fingers.",
+   "art": "Three raised fingers, each with a small picture: a child, a big mouth, a helping hand."
+  },
+  {
+   "term": "safe touch",
+   "meaning": "A touch you are happy to have, that does not hurt you, and that nobody asks you to hide. Many people call it a good touch.",
+   "example": "A hug from Amma that you like, or a high five from a friend.",
+   "art": "Two children giving each other a high five, both smiling."
+  },
+  {
+   "term": "consent",
+   "meaning": "Saying yes to something, freely, and knowing that you can change your mind and say no.",
+   "example": "A friend asks, 'May I hug you?' You say, 'Yes.' That yes is consent. If you later say, 'Stop,' the hug stops.",
+   "art": "A girl nodding yes while a boy waits with open arms."
+  },
+  {
+   "term": "private parts",
+   "meaning": "The parts of your body that your underwear covers. They are private, which means they are only yours.",
+   "example": "When you put on your vest and shorts, they cover your private parts.",
+   "art": "A plain outline of a child in underwear, with the underwear shaded."
+  },
+  {
+   "term": "penis",
+   "meaning": "The private part that many boys have between the legs. It is its real name.",
+   "example": "A doctor uses the word penis when she checks that a boy is healthy.",
+   "art": "A plain label with the word penis and no body drawn."
+  },
+  {
+   "term": "vulva",
+   "meaning": "The outside private part that girls have between the legs. It is its real name.",
+   "example": "A doctor uses the word vulva when she checks that a girl is healthy.",
+   "art": "A plain label with the word vulva and no body drawn."
+  },
+  {
+   "term": "bottom",
+   "meaning": "The part you sit on, which is also a private part. Its other name is buttocks.",
+   "example": "Your bottom is covered by your underwear when you sit on a bench.",
+   "art": "A plain label with the word bottom and no body drawn."
+  },
+  {
+   "term": "chest",
+   "meaning": "The front of the body between the neck and the tummy. Parts of it are private.",
+   "example": "Put your hand on your chest and feel it rise when you breathe in.",
+   "art": "A child with one hand flat on the middle of the chest."
+  },
+  {
+   "term": "unsafe touch",
+   "meaning": "A touch that hurts you on purpose, or breaks the rule about private parts, or comes with a demand to keep it secret. Many people call it a bad touch.",
+   "example": "Someone asking you to hide a touch is an unsafe touch, even if it did not hurt.",
+   "art": "A red stop hand held up in front of a child."
+  },
+  {
+   "term": "warning feeling",
+   "meaning": "A change in your body that tells you something may be wrong.",
+   "example": "Your tummy goes tight and your heart beats fast when something feels wrong.",
+   "art": "A child with a tight frown, one hand on the tummy, and small arrows showing a fast heart."
+  },
+  {
+   "term": "No, Go, Tell",
+   "meaning": "The three things to do about an unsafe touch. Say no in a big voice. Go away to where other people are. Tell a trusted grown-up.",
+   "example": "If a touch is unsafe, you say 'No!', you walk to the grown-ups in the next room, and then you tell.",
+   "art": "Three small pictures in a row: a big open mouth, a child walking through a door, a child talking to an adult."
+  },
+  {
+   "term": "freeze",
+   "meaning": "To go still and quiet when you are very frightened. The body does it by itself.",
+   "example": "A cat goes stiff when she is grabbed. A frozen body has not said yes.",
+   "art": "A cat stiff as a plank with flat ears."
+  },
+  {
+   "term": "surprise",
+   "meaning": "Something happy that you keep quiet about for a short time, and then tell.",
+   "example": "A birthday card for Amma is hidden until her birthday morning.",
+   "art": "A hidden gift behind a child's back, with a smiling face."
+  },
+  {
+   "term": "unsafe secret",
+   "meaning": "A secret about touch, or one that makes you worried, or one you are told to keep for ever. We never keep it.",
+   "example": "'Do not tell your mother what happened' is an unsafe secret. You tell anyway.",
+   "art": "A closed box with a heavy stone inside and a worried face on the lid."
+  },
+  {
+   "term": "trusted grown-up",
+   "meaning": "A grown-up who listens to you, believes you and helps keep you safe.",
+   "example": "A teacher who listens when you say you are worried is a trusted grown-up.",
+   "art": "A hand drawn round with a small grown-up face on each finger."
+  },
+  {
+   "term": "believe",
+   "meaning": "To think that someone is telling the truth. A good grown-up believes a child who tells.",
+   "example": "'I believe you' are the three most helpful words for a child to hear.",
+   "art": "A grown-up kneeling to a child's height, nodding."
+  },
+  {
+   "term": "fault",
+   "meaning": "The blame for something wrong. When an older person breaks the body rules, the fault is theirs, never the child's.",
+   "example": "A child who is frightened and cannot shout is not at fault.",
+   "art": "A pointing finger turned away from a child and towards a grown-up shape."
+  },
+  {
+   "term": "1098",
+   "meaning": "The telephone number of Childline in India. A child or any grown-up can call it for free, at any time, from any state, to ask for help.",
+   "example": "A child at a railway station sees the 1098 poster and a grown-up calls the number.",
+   "art": "A phone with the digits 1098 on the screen."
+  },
+  {
+   "term": "greeting",
+   "meaning": "A way of saying hello. People greet with namaste, a wave, a handshake, a bow, a hug or a touch on an elder's feet.",
+   "example": "In the morning your family may say 'Vanakkam' or 'Namaste' with joined hands.",
+   "art": "Four small pictures of greetings: joined hands, a wave, a bow and a high five."
+  },
+  {
+   "term": "respect",
+   "meaning": "Caring how another person or being feels, and listening to what they say or show.",
+   "example": "You stop when your friend says 'Stop'. That is respect.",
+   "art": "Two children facing each other, one with a raised palm and one stepping back."
+  },
+  {
+   "term": "touch-me-not",
+   "meaning": "A small plant, called Mimosa pudica, that folds her leaves when you touch her and opens them again after a few minutes.",
+   "example": "A child brushes a touch-me-not leaf, and the leaves fold in a few seconds.",
+   "art": "A branch of a touch-me-not plant with one half of the leaves open and the other half folded."
+  }
+ ],
+ "experiments": [
+  {
+   "id": "e1",
+   "title": "The two-pencil test: where does my skin feel the most?",
+   "mins": 30,
+   "days": 1,
+   "question": "Is every part of your skin equally good at feeling two touches as two? Or do some places feel more than others?",
+   "predict": "Before you start, guess. Will your fingertip, your palm, your arm or your back feel two pencil points as two? Which one will be the best? Say why you think so.",
+   "fair_test": "The same two pencils are used on every place. The same grown-up does all the touching, with the same light press, on the same side of the body. The gaps are tried in the same order. Each gap is tried three times, because one try can be a lucky guess. Some tries use only one point, so the child cannot just say 'two' every time. The one thing that changes is the place on the body.",
+   "results_table": [
+    "Place on the body",
+    "Two points side by side",
+    "Two points 1 cm apart",
+    "Two points 2 cm apart",
+    "Two points 4 cm apart"
+   ],
+   "materials": [
+    {
+     "item": "2 pencils with rounded, blunt tips. Rub each tip on paper until it is smooth",
+     "qty": 2
+    },
+    {
+     "item": "a ruler of 15 or 30 centimetres",
+     "qty": 1
+    },
+    {
+     "item": "a sheet of paper and a pencil for the results table",
+     "qty": 1
+    },
+    {
+     "item": "a scarf or a clean cloth to cover the eyes, or just closed eyes",
+     "qty": 1
+    }
+   ],
+   "record": "Draw the table on the paper. Put the four places down the side. For each gap, write 'two' if the child felt two points, or 'one' if the child felt one. Then colour the places in order, from the one that felt two points soonest to the one that needed the biggest gap.",
+   "context": "In this investigation you find out that skin is not the same all over. Some places have many more touch sensors than others. You also practise asking, 'May I touch you?' before every touch, and waiting for the answer.",
+   "setup": [
+    {
+     "art": "A child sitting at a table with eyes closed and one fingertip resting on the table, a grown-up beside holding two pencils.",
+     "caption": "1. Sit the child at a table. The child's eyes are closed. The grown-up asks, 'May I touch your fingertip?'"
+    },
+    {
+     "art": "Two pencils held side by side, with a ruler beside them showing a 1 centimetre gap between the tips.",
+     "caption": "2. Set the gap between the two pencil tips with the ruler. Try side by side, 1, 2 and 4 centimetres."
+    },
+    {
+     "art": "A drawn results table with four places down the side and four gaps across the top, with ticks in some squares.",
+     "caption": "3. Write 'one' or 'two' in the table for each try."
+    },
+    {
+     "art": "A grown-up touching a child's forearm with two pencils while the child's eyes stay closed.",
+     "caption": "4. Do the same on the palm, the forearm and the upper back."
+    }
+   ],
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 3,
+     "do": "Sit the child at a table and show the two pencils. Say that you will only ever touch the child if the child says yes. Round the pencil tips by rubbing them on paper until they feel smooth. Then draw the results table.",
+     "say": "This test finds out how well your skin can tell one touch from two. I will ask 'May I touch you?' each time, and you can say yes or no.",
+     "kid": "Look at the two pencils. They are blunt. You can say yes or no each time.",
+     "adult": false,
+     "ask": [
+      {
+       "q": "Which place do you think will feel two touches best? Why do you think so?",
+       "good": [
+        "Any guess with a reason, such as the fingertip because we use it to feel things.",
+        "It is a guess, so every answer is fine."
+       ]
+      }
+     ],
+     "parent": "Use only blunt pencils or cotton buds, never pins or pointed things. A pencil with a smooth, rubbed tip is enough. If the child says no at any time, stop that try and ask if they want to carry on. Keep the press the same each time, just enough to feel and never to hurt."
+    },
+    {
+     "id": "s2",
+     "mins": 3,
+     "do": "Ask the child to close the eyes. Ask, 'May I touch your fingertip?' Wait for a yes. Touch the fingertip once with one pencil, and then with two pencils side by side. Ask 'one or two?' each time.",
+     "say": "Eyes closed. May I touch your fingertip? Tell me, one touch or two touches?",
+     "kid": "Close your eyes. Say 'yes' or 'no' to a touch. Then say 'one' or 'two'.",
+     "adult": false,
+     "parent": "Do three tries at each gap. Mix in some tries with one pencil only, so the answer is not always 'two'. Count a gap as 'two' only if the child says two in at least two of three tries. Cold fingers feel less, so warm them first by rubbing the hands together."
+    },
+    {
+     "id": "s3",
+     "mins": 5,
+     "do": "Do the fingertip with gaps of 1 cm, 2 cm and 4 cm. Then do the palm. Ask 'May I touch your palm?' each time. Write 'one' or 'two' in the table.",
+     "say": "Next is your palm. May I touch your palm? One or two?",
+     "kid": "Do the palm the same way. Say 'one' or 'two'.",
+     "adult": false,
+     "ask": [
+      {
+       "q": "Does the palm feel two points as easily as the fingertip?",
+       "good": [
+        "Almost. The palm needs the pencils a little farther apart.",
+        "The fingertip felt two points even when they were very close, and the palm needed a bigger gap."
+       ]
+      }
+     ],
+     "parent": "Expect two points to feel like two on the fingertip even when the pencils are side by side. On the palm they need about 1 centimetre. Results vary a little between children and that is normal."
+    },
+    {
+     "id": "s4",
+     "mins": 5,
+     "do": "Do the forearm, the inside part between the wrist and the elbow, with the same gaps. Ask 'May I touch your arm?' first. Record each result.",
+     "say": "Now the arm. May I touch your arm? One or two?",
+     "kid": "Do the forearm. Say 'one' or 'two'.",
+     "adult": false,
+     "parent": "Most children feel one point on the forearm until the gap is about 2 to 4 centimetres. If the child feels two at 4 centimetres, that is fine too. Write what really happened."
+    },
+    {
+     "id": "s5",
+     "mins": 4,
+     "do": "Do the upper back, between the shoulder blades, over a thin cotton shirt. Ask, 'May I touch your back?' first. Try the same gaps and record them.",
+     "say": "Last is your back. May I touch your back? One or two?",
+     "kid": "Do the back. Say 'one' or 'two'.",
+     "adult": false,
+     "ask": [
+      {
+       "q": "What happened to the two points on the back?",
+       "good": [
+        "They felt like one until the pencils were far apart.",
+        "The back needed the biggest gap, about 4 centimetres or more."
+       ]
+      }
+     ],
+     "parent": "A thin shirt makes the gap a little bigger. That is fine. Say so if the child asks. On most backs the two points feel like one until about 4 centimetres or more."
+    },
+    {
+     "id": "s6",
+     "mins": 6,
+     "do": "Swap places. The child now holds the pencils, asks 'May I touch your fingertip?' and waits for the answer. Say 'yes' once and 'no' once, and show that the child stops at once when the answer is no.",
+     "say": "Now you are the toucher. Ask me first. Wait for my answer. I will say no once, so you can practise stopping.",
+     "kid": "Swap places. Ask 'May I touch your fingertip?' and wait. If the answer is 'no', stop.",
+     "adult": false,
+     "ask": [
+      {
+       "q": "How did it feel when the grown-up said no and you stopped?",
+       "good": [
+        "Good. We listened and nobody was upset.",
+        "Fine. Asking and stopping is how friends stay friends."
+       ]
+      }
+     ],
+     "parent": "Say 'no' calmly so the child learns that a no is just an answer. Thank the child for stopping. This step practises the rule that the same body rules work both ways."
+    },
+    {
+     "id": "s7",
+     "mins": 4,
+     "do": "Colour the places in order on the table, from 'felt two soonest' to 'needed the biggest gap'. Ask the child what they notice. Then say what the test cannot tell us.",
+     "say": "Which place felt the most? Which felt the least? Why do you think that is?",
+     "kid": "Look at your table. Which place felt two the soonest? Which needed the biggest gap?",
+     "adult": false,
+     "ask": [
+      {
+       "q": "Why does the fingertip feel two points when they are so close?",
+       "good": [
+        "The fingertip has many more touch sensors packed close together.",
+        "There are more sensors, so each pencil point meets its own sensor."
+       ]
+      }
+     ],
+     "parent": "The test tells us how well each place sorts out two touches. It cannot say which place feels the strongest or most painful, and it cannot say how a different person would feel. Scientists use this test with finer tools and find about 3 millimetres on a fingertip and about 4 centimetres on the back. With pencils you will find a bigger gap on the fingertip.",
+     "think": "If your fingertips have the most sensors, which jobs do they do that your back never does?"
+    }
+   ]
+  }
+ ],
+ "activities": [
+  {
+   "id": "a1",
+   "title": "My helping hand: five grown-ups I can tell",
+   "mins": 15,
+   "days": 1,
+   "context": "In this activity you draw round your own hand and write one trusted grown-up on each finger. You will know exactly who to tell when you need help.",
+   "materials": [
+    {
+     "item": "a sheet of paper",
+     "qty": 1
+    },
+    {
+     "item": "a pencil and some crayons",
+     "qty": 1
+    }
+   ],
+   "schedule": [
+    {
+     "day": 1,
+     "mins": 15,
+     "what": "Draw round your hand, name five trusted grown-ups, and decide what to do if the first one does not help."
+    }
+   ],
+   "record": "Keep the hand drawing. Put it where your child can see it, such as beside the bed or inside the school bag.",
+   "setup": [
+    {
+     "art": "A child's hand held flat on a sheet of paper with a pencil drawing round it.",
+     "caption": "1. Put your hand flat on the paper. Draw round it."
+    },
+    {
+     "art": "A hand outline with a small name and face drawn on every finger.",
+     "caption": "2. Write or draw one trusted grown-up on each finger."
+    },
+    {
+     "art": "The same hand outline with the number 1098 written in the palm.",
+     "caption": "3. Write 1098 in the middle of the palm."
+    }
+   ],
+   "flow": [
+    {
+     "id": "a1s1",
+     "mins": 4,
+     "do": "Put the child's hand flat on a sheet of paper and draw round it. Help with the thumb. Let the child colour in the hand.",
+     "say": "Put your hand flat. I will draw round it. Now it is your helping hand.",
+     "kid": "Put your hand on the paper. Draw round it.",
+     "adult": false
+    },
+    {
+     "id": "a1s2",
+     "mins": 5,
+     "do": "Ask the child to think of five grown-ups who listen, who believe, and who would help. They can be family, a teacher, a neighbour, a friend's parent or a doctor. Write or draw each on one finger.",
+     "say": "Who listens to you? Who would believe you? Who would help you? Let us write one on each finger.",
+     "kid": "Write or draw one trusted grown-up on each finger. Think of someone who listens.",
+     "adult": false,
+     "ask": [
+      {
+       "q": "Why did you choose that grown-up?",
+       "good": [
+        "They listen and they help.",
+        "They believe me when I tell them things."
+       ]
+      }
+     ],
+     "parent": "Not every child has the same family. Accept any five who truly listen. If the child can name only two, gently help them find more, such as a teacher or a school helper. At least one should be someone at school and one someone outside the home."
+    },
+    {
+     "id": "a1s3",
+     "mins": 3,
+     "do": "Write 1098 in the middle of the palm. Say that this is the number of Childline, which anyone can ring for free in any state to ask for help.",
+     "say": "If you ever have no grown-up near, 1098 is a number a grown-up can ring for help. Let us write it in the middle.",
+     "kid": "Write 1098 in the middle of your palm. It is a number for help.",
+     "adult": false,
+     "parent": "Childline 1098 began in Mumbai in 1996. It works in every state, and it now joins the 112 emergency number. You ring it for advice or help, and the person on the phone listens."
+    },
+    {
+     "id": "a1s4",
+     "mins": 3,
+     "do": "Ask what the child would do if the first grown-up does not help. Show that they go on to the next finger. Say that you keep telling until someone helps.",
+     "say": "What if the first one is too busy? Which finger comes next? We keep telling until somebody helps.",
+     "kid": "Touch the next finger. Keep telling until someone helps.",
+     "adult": false,
+     "ask": [
+      {
+       "q": "What do you do if the first grown-up does not help?",
+       "good": [
+        "Tell the next grown-up, and the next, until someone helps.",
+        "Keep telling. It is never too late."
+       ]
+      }
+     ],
+     "parent": "A child sometimes tells once, is not believed, and stops. This step teaches the child to go on to the next finger. Say it aloud once more, with feeling.",
+     "think": "Which of your five do you think would believe you right away?"
+    }
+   ]
+  },
+  {
+   "id": "a2",
+   "title": "The big voice: practise No, Go, Tell with a toy",
+   "mins": 15,
+   "days": 1,
+   "context": "In this activity you practise your big voice and the three steps of No, Go, Tell. You use a safe pretend, with a toy that wants your crayon. You never act out a real touch.",
+   "materials": [
+    {
+     "item": "a soft toy or a puppet",
+     "qty": 1
+    },
+    {
+     "item": "a crayon or a spoon for the pretend game",
+     "qty": 1
+    }
+   ],
+   "schedule": [
+    {
+     "day": 1,
+     "mins": 15,
+     "what": "Practise the big voice, then No, Go and Tell, with a toy, and learn the sign for when words stick."
+    }
+   ],
+   "record": "Make a tick on a paper for each step the child practised: No, Go, Tell, and the help sign.",
+   "setup": [
+    {
+     "art": "A child with a big open mouth saying 'No!' and a small soft toy holding a crayon.",
+     "caption": "1. Say No in a big voice to the toy that wants your crayon."
+    },
+    {
+     "art": "A child walking through a doorway into a room with a grown-up.",
+     "caption": "2. Go to where other people are."
+    },
+    {
+     "art": "A child talking to an adult, with a speech bubble.",
+     "caption": "3. Tell a trusted grown-up in plain words."
+    }
+   ],
+   "flow": [
+    {
+     "id": "a2s1",
+     "mins": 3,
+     "do": "Say a word such as 'No' in a whisper. Then say it in a normal voice, and then in a big, strong voice, not a scream. Do it together.",
+     "say": "Let us find your big voice. Say 'No' in a whisper. Now normal. Now big!",
+     "kid": "Say 'No' small, then bigger, then as big and strong as you can.",
+     "adult": false,
+     "parent": "A big voice is a strong, clear voice, not a scream. If the child is shy, whisper first, then a bit louder each time. Praise the effort."
+    },
+    {
+     "id": "a2s2",
+     "mins": 4,
+     "do": "Hold up the toy. Let the toy try to take the child's crayon. The child says 'No, that is my crayon!' in the big voice, and the toy gives it back at once.",
+     "say": "The toy wants your crayon! Say 'No!' in your big voice. Good. The toy stops. That is how it works.",
+     "kid": "The toy wants your crayon. Say 'No!' in your big voice.",
+     "adult": false,
+     "ask": [
+      {
+       "q": "What did the toy do when you said no?",
+       "good": [
+        "It stopped and gave the crayon back.",
+        "It listened. A no should be listened to."
+       ]
+      }
+     ],
+     "parent": "This pretend uses a crayon and not a touch. It lets the child feel what a strong no is. Never ask a child to act out a touch, even with a toy."
+    },
+    {
+     "id": "a2s3",
+     "mins": 3,
+     "do": "Say that the next step is Go. Ask the child to walk from one room to the room where another person is, saying 'Go to people'.",
+     "say": "The next step is Go. Go to where other people are, like the kitchen or the verandah. Let us walk there.",
+     "kid": "Walk to where a grown-up is. This is Go.",
+     "adult": false,
+     "parent": "Going to people is safer than staying alone. At school it means a teacher, the office or a group of children. Outside, a shop or a crowd."
+    },
+    {
+     "id": "a2s4",
+     "mins": 3,
+     "do": "Teach the child these exact words: 'Something happened and I want to tell you.' Practise saying them to you, and then to another grown-up.",
+     "say": "The last step is Tell. Say these words after me: 'Something happened and I want to tell you.'",
+     "kid": "Say, 'Something happened and I want to tell you.' to a grown-up.",
+     "adult": false,
+     "ask": [
+      {
+       "q": "Whom would you say it to?",
+       "good": [
+        "One of my five helping hand grown-ups.",
+        "Someone who listens and believes me."
+       ]
+      }
+     ],
+     "parent": "These words let a child begin without having to describe what happened. When the child says them, stop what you are doing, get down to their height, and say: 'Thank you for telling me. I believe you. You did nothing wrong.'"
+    },
+    {
+     "id": "a2s5",
+     "mins": 2,
+     "do": "Ask what the child could do if words get stuck. Show the sign of holding up the helping hand, or drawing, or saying the family code word.",
+     "say": "Sometimes words get stuck, and that is all right. You can hold up your helping hand, or draw it, and I will come.",
+     "kid": "If words get stuck, hold up your helping hand. A grown-up will come.",
+     "adult": false,
+     "parent": "This step links to the freeze card. A frozen or quiet child has not said yes. Accept any way the child finds to tell you.",
+     "think": "What could you do if your words got stuck?"
+    }
+   ]
+  },
+  {
+   "id": "a3",
+   "title": "Surprise or unsafe secret? Drop it in the right bowl",
+   "mins": 12,
+   "days": 1,
+   "context": "In this activity you hear short sentences and decide if each is a happy surprise or an unsafe secret. You drop a button in the right bowl.",
+   "materials": [
+    {
+     "item": "2 bowls or 2 plates, one marked with a gift and one with a stop sign",
+     "qty": 2
+    },
+    {
+     "item": "8 small things to drop, such as buttons, dried beans or bits of paper",
+     "qty": 8
+    }
+   ],
+   "schedule": [
+    {
+     "day": 1,
+     "mins": 12,
+     "what": "Listen to eight short sentences and drop a button in the surprise bowl or the unsafe-secret bowl."
+    }
+   ],
+   "record": "Count the buttons in each bowl and say why each sentence went where it did.",
+   "setup": [
+    {
+     "art": "Two bowls on a table, one with a small gift picture and one with a stop sign picture.",
+     "caption": "1. Mark one bowl with a gift and one bowl with a stop sign."
+    },
+    {
+     "art": "A grown-up reading from a card and a child holding a button over the two bowls.",
+     "caption": "2. The grown-up reads a sentence. The child drops the button in a bowl."
+    }
+   ],
+   "flow": [
+    {
+     "id": "a3s1",
+     "mins": 3,
+     "do": "Mark one bowl with a gift and one with a stop sign. Explain: a surprise makes people happy and gets told soon. An unsafe secret is about touch, makes you worried, or is meant to be kept for ever.",
+     "say": "A surprise is happy and gets told soon. An unsafe secret is about touch, or makes you worried, or must be kept for ever. We never keep those.",
+     "kid": "Look at the two bowls. One is for surprises and one is for unsafe secrets.",
+     "adult": false,
+     "parent": "The sentences are for the grown-up to read. The child only chooses a bowl. Never ask the child to say or show what an unsafe secret might be."
+    },
+    {
+     "id": "a3s2",
+     "mins": 6,
+     "do": "Read these eight sentences one at a time. The child drops a button in a bowl and says why. Sentences: 1. A birthday card for Amma, to be told on her birthday. 2. 'This is our secret. Do not tell your mother.' 3. A cake hidden for Appa's party. 4. 'I will give you a sweet if you do not tell.' 5. A new toy hidden for a friend. 6. 'Do not tell anyone what I did to you.' 7. A drawing hidden for a teacher on Teacher's Day. 8. 'If you tell, you will get into trouble.'",
+     "say": "Surprise bowl or unsafe-secret bowl? Why?",
+     "kid": "Listen to the sentence. Drop a button in the surprise bowl or the unsafe-secret bowl.",
+     "adult": false,
+     "ask": [
+      {
+       "q": "How can you tell a surprise from an unsafe secret?",
+       "good": [
+        "A surprise is happy and told soon. An unsafe secret is never kept.",
+        "A surprise makes people smile. An unsafe secret makes you worried."
+       ]
+      }
+     ],
+     "parent": "Answers: 1, 3, 5 and 7 are surprises. 2, 4, 6 and 8 are unsafe secrets. For each unsafe one, say: 'We tell a trusted grown-up anyway.' A person who asks for a secret like this may be trying to stop the child telling."
+    },
+    {
+     "id": "a3s3",
+     "mins": 3,
+     "do": "Count the buttons in each bowl. Ask what a child does if someone asks for an unsafe secret.",
+     "say": "Four surprises and four unsafe secrets. What do we do with an unsafe secret?",
+     "kid": "Count the buttons. What do you do with an unsafe secret? You tell.",
+     "adult": false,
+     "ask": [
+      {
+       "q": "What do you do with an unsafe secret?",
+       "good": [
+        "Tell a trusted grown-up anyway.",
+        "Never keep it, even if someone says not to tell."
+       ]
+      }
+     ],
+     "parent": "Say clearly that telling about an unsafe secret never gets the child into trouble.",
+     "think": "Why might someone ask a child to keep a secret like that?"
+    }
+   ]
+  },
+  {
+   "id": "a4",
+   "title": "Ask first: greetings with a toy and a thumb",
+   "mins": 15,
+   "days": 1,
+   "context": "In this activity you practise asking before you touch, and listening to the answer, with a soft toy and your thumbs. You learn that there are many ways to say hello.",
+   "materials": [
+    {
+     "item": "a soft toy",
+     "qty": 1
+    }
+   ],
+   "schedule": [
+    {
+     "day": 1,
+     "mins": 15,
+     "what": "Practise asking 'May I?' with a toy, use thumbs for yes, maybe and no, and make a menu of greetings."
+    }
+   ],
+   "record": "Draw four greetings on a paper strip: a wave, joined hands, a high five and a smile.",
+   "setup": [
+    {
+     "art": "A child with a soft toy, asking 'May I hug you?' while the toy's paws show a thumbs-up.",
+     "caption": "1. Ask the toy, 'May I hug you?' Listen to the answer."
+    },
+    {
+     "art": "Three thumbs: one up, one sideways and one down, each with a word below.",
+     "caption": "2. A thumb up means yes. A thumb sideways means maybe, ask me again. A thumb down means no."
+    },
+    {
+     "art": "Four small pictures of greetings in a row: wave, joined hands, high five and smile.",
+     "caption": "3. Draw four ways to say hello."
+    }
+   ],
+   "flow": [
+    {
+     "id": "a4s1",
+     "mins": 4,
+     "do": "Hold up the toy. Let the child ask, 'May I hug you?' Answer for the toy with a thumb up, sideways or down. If the thumb is down, the child says 'All right' and does not hug.",
+     "say": "Ask the toy first. 'May I hug you?' The toy will show a thumb.",
+     "kid": "Ask the toy, 'May I hug you?' Look at the toy's thumb.",
+     "adult": false,
+     "ask": [
+      {
+       "q": "What did you do when the toy said no?",
+       "good": [
+        "I stopped and said all right.",
+        "I did not hug. I waved instead."
+       ]
+      }
+     ],
+     "parent": "Say the toy's answer clearly and change it from round to round. A child who stops at a thumb down is learning respect."
+    },
+    {
+     "id": "a4s2",
+     "mins": 4,
+     "do": "Now swap. Ask the child, 'May I give you a high five?' The child shows a thumb. Always accept the answer.",
+     "say": "Now it is my turn to ask. May I give you a high five? Show me your thumb.",
+     "kid": "Show a thumb. Up, sideways or down. It is your choice.",
+     "adult": false,
+     "ask": [
+      {
+       "q": "What does a thumb sideways mean?",
+       "good": [
+        "Maybe. Ask me again, or ask me what I want.",
+        "I am not sure yet."
+       ]
+      }
+     ],
+     "parent": "If the child shows sideways, say, 'Thank you for telling me. I will wait.' Do not push. This practises a child's right to say not now."
+    },
+    {
+     "id": "a4s3",
+     "mins": 4,
+     "do": "Talk about greetings. Say that people greet by joined hands, a wave, a bow, touching an elder's feet, a hug or a handshake. Let the child choose four ways and draw them.",
+     "say": "Lots of people say hello in lots of ways. Which four would you like to use? Draw them.",
+     "kid": "Draw four ways to say hello. Pick the ones you like.",
+     "adult": false,
+     "ask": [
+      {
+       "q": "Which greeting do you like best, and why?",
+       "good": [
+        "Any answer with a reason, such as a wave because I can do it from far away.",
+        "Joined hands, because I can say namaste."
+       ]
+      }
+     ],
+     "parent": "Different families greet differently, and that is fine. The body rules stay the same everywhere. A child who does not want to touch an elder's feet or be hugged can choose another greeting."
+    },
+    {
+     "id": "a4s4",
+     "mins": 3,
+     "do": "Show the child the menu of greetings. Say that when a relative wants a kiss or a hug, the child may offer a greeting from the menu instead.",
+     "say": "When someone wants a hug and you do not, you can say, 'I will wave.' You can choose.",
+     "kid": "Pick a greeting from your menu. You may offer it any time.",
+     "adult": false,
+     "parent": "Give the child a polite sentence: 'No thank you, I will say namaste.' Support them if a relative is hurt.",
+     "think": "What greeting would you like to give your teacher tomorrow?"
+    }
+   ]
+  },
+  {
+   "id": "a5",
+   "title": "The mystery bag: what does my skin feel?",
+   "mins": 10,
+   "days": 1,
+   "context": "In this activity you feel hidden things with your eyes closed and guess what each is. You notice that your fingertips feel best.",
+   "materials": [
+    {
+     "item": "a cloth bag or a pillowcase",
+     "qty": 1
+    },
+    {
+     "item": "6 small things from the house, such as a spoon, a cotton ball, a coin, a button, a rough cloth and a marble",
+     "qty": 6
+    }
+   ],
+   "schedule": [
+    {
+     "day": 1,
+     "mins": 10,
+     "what": "Feel six hidden things with your fingers, guess what each is, and then try with the back of your hand."
+    }
+   ],
+   "record": "Draw a happy face for each thing you guessed right and a thinking face for each thing you could not guess.",
+   "setup": [
+    {
+     "art": "A cloth bag with a child's hand inside it and the child's eyes closed.",
+     "caption": "1. Put six things in the bag. Feel one without looking."
+    },
+    {
+     "art": "A child touching a spoon to the back of the hand with eyes shut.",
+     "caption": "2. Now try one on the back of your hand."
+    }
+   ],
+   "flow": [
+    {
+     "id": "a5s1",
+     "mins": 5,
+     "do": "Put six things in the bag. The child puts one hand in the bag, feels one thing and says what it feels like (soft, rough, cold, smooth) and what it is. Then take it out to check.",
+     "say": "Put your hand in. Feel one thing. Is it soft or rough? Cold or warm? What is it?",
+     "kid": "Put your hand in the bag. Feel one thing. Say what you think it is.",
+     "adult": false,
+     "ask": [
+      {
+       "q": "What helped you guess?",
+       "good": [
+        "How it felt, such as rough or cold.",
+        "The shape and the weight."
+       ]
+      }
+     ],
+     "parent": "All six things are safe. Do not use anything sharp. Let the child keep the thing and say words for what they feel."
+    },
+    {
+     "id": "a5s2",
+     "mins": 5,
+     "do": "Ask the child to close the eyes and hold out the back of the hand. Touch it with the spoon, the cotton ball and the coin. Ask if it is as easy to tell as with the fingertips.",
+     "say": "Now guess from the back of your hand. Is it harder or easier than with your fingers?",
+     "kid": "Close your eyes. Guess from the back of your hand.",
+     "adult": false,
+     "ask": [
+      {
+       "q": "Was it easier with your fingers or the back of your hand?",
+       "good": [
+        "Easier with my fingers, because they have more sensors.",
+        "The fingers, because fingertips are good at feeling."
+       ]
+      }
+     ],
+     "parent": "Ask first: 'May I touch the back of your hand?' Fingertips have many sensors and the back of the hand has fewer.",
+     "think": "Why do you think a fingertip is so much better at feeling?"
+    }
+   ]
+  },
+  {
+   "id": "a6",
+   "title": "Reading a yes and a no: an animal or a plant, if you have one nearby",
+   "mins": 15,
+   "days": 1,
+   "context": "In this activity you watch an animal or a plant and learn their signs for yes and no to touch. You do this from a distance and never touch without asking. Do it only if you have an animal or a plant nearby.",
+   "materials": [
+    {
+     "item": "a pet, a street cat or a crow nearby, or a touch-me-not plant, or the photos in a book",
+     "qty": 1
+    },
+    {
+     "item": "a sheet of paper and a pencil",
+     "qty": 1
+    }
+   ],
+   "schedule": [
+    {
+     "day": 1,
+     "mins": 15,
+     "what": "Watch from a distance for the signs of yes and no, and draw one sign."
+    }
+   ],
+   "record": "Draw the animal or plant. Write 'yes' beside the sign that says 'come' and 'no' beside the sign that says 'go away'.",
+   "setup": [
+    {
+     "art": "A child sitting on the ground watching a cat on a wall from several steps away.",
+     "caption": "1. Sit a few steps away and watch."
+    },
+    {
+     "art": "A drawing of a cat with flat ears and a stiff back labelled 'no', and a cat with a lifted tail labelled 'yes'.",
+     "caption": "2. Draw one sign of yes and one sign of no."
+    }
+   ],
+   "flow": [
+    {
+     "id": "a6s1",
+     "mins": 6,
+     "do": "Find an animal or a plant. Sit a few steps away and watch quietly for five minutes. Look at the ears, the tail, the body and the way they move. Do not touch. Ask the child what they notice.",
+     "say": "Sit quietly. Watch the ears, the tail and the body. Are they saying come close or stay away?",
+     "kid": "Sit still. Watch the animal or the plant. Do not touch.",
+     "adult": false,
+     "ask": [
+      {
+       "q": "What signs do you see?",
+       "good": [
+        "A tail up or a head pushing forward means come. Flat ears or a stiff back means no.",
+        "A touch-me-not that folds means she does not want to be touched."
+       ]
+      }
+     ],
+     "parent": "Never touch a street animal. A cat who flattens her ears, a dog who backs away or a bird that flaps is saying no. If there is no animal or plant in ten minutes, look at pictures in a book instead. If you have a touch-me-not, brush one leaf lightly with a finger once, and watch her fold."
+    },
+    {
+     "id": "a6s2",
+     "mins": 5,
+     "do": "Draw one sign that says yes and one that says no. Write 'yes' and 'no' beside them.",
+     "say": "Draw one sign that says yes and one that says no.",
+     "kid": "Draw a sign for yes and a sign for no.",
+     "adult": false,
+     "parent": "Every animal has signs. A baby turns her head away. A dog wags her tail. This is also how we learn to listen to a person who cannot say the words."
+    },
+    {
+     "id": "a6s3",
+     "mins": 4,
+     "do": "Ask the child how we can know what another being wants when they cannot say it in words.",
+     "say": "How can we know what a cat wants? Or a baby? Or a plant?",
+     "kid": "How can we tell what another being wants?",
+     "adult": false,
+     "ask": [
+      {
+       "q": "How can we tell what another being wants?",
+       "good": [
+        "We watch their body and listen for signs.",
+        "We stop when they show no."
+       ]
+      }
+     ],
+     "parent": "This links to the big question about animals and plants. There is no single answer. We watch, we listen, and when we are not sure we stop.",
+     "think": "If a touch-me-not folds when touched, does she mind being touched?"
+    }
+   ]
+  }
+ ],
+ "projects": [
+  {
+   "id": "p1",
+   "title": "Our family help plan: a code word, a poster and a number",
+   "days": 3,
+   "mins": 45,
+   "context": "In this project your family makes a plan for asking for help. You make a poster of the three body rules, choose a family code word and put the Childline number where everyone can see it.",
+   "materials": [
+    {
+     "item": "a large sheet of paper or the back of a calendar",
+     "qty": 1
+    },
+    {
+     "item": "crayons or colour pencils",
+     "qty": 1
+    },
+    {
+     "item": "sticky tape or a magnet for the fridge",
+     "qty": 1
+    },
+    {
+     "item": "small slips of paper",
+     "qty": 5
+    }
+   ],
+   "schedule": [
+    {
+     "day": 1,
+     "mins": 15,
+     "what": "Draw a poster of the three body rules."
+    },
+    {
+     "day": 2,
+     "mins": 15,
+     "what": "Choose a family code word and write the Childline number 1098 and five trusted grown-ups' names on the poster."
+    },
+    {
+     "day": 3,
+     "mins": 15,
+     "what": "Practise using the code word and say the plan out loud together."
+    }
+   ],
+   "record": "Keep the poster where the family can see it. Write the date on the back and the code word on a separate slip in a place the parent and child both know.",
+   "setup": [
+    {
+     "art": "A large sheet of paper with three drawn boxes: a child with a hand on the chest, a mouth saying no, and a hand holding a helping hand.",
+     "caption": "1. Draw the three body rules in three boxes."
+    },
+    {
+     "art": "A fridge with a poster stuck on it, with 1098 written in large digits at the bottom.",
+     "caption": "2. Stick the poster on the fridge and add 1098."
+    },
+    {
+     "art": "A parent and a child whispering a word together with a smile.",
+     "caption": "3. Choose a code word together."
+    }
+   ],
+   "flow": [
+    {
+     "id": "p1s1",
+     "mins": 15,
+     "do": "Fold the paper into three parts. Draw one rule in each part. Write the rule words under each picture.",
+     "say": "We are making our family's body rules poster. Part one says 'My body is mine', with a child's hand on the chest. Part two says 'I can say no', with a big mouth. Part three says 'I tell a trusted grown-up', with a hand. What will you draw?",
+     "kid": "Draw three boxes. Draw each rule. Colour them.",
+     "adult": false,
+     "ask": [
+      {
+       "q": "Which rule is your favourite and why?",
+       "good": [
+        "Any answer with a reason.",
+        "My body is mine, because nobody else lives in it."
+       ]
+      }
+     ],
+     "parent": "The three rules are the heart of this lesson. Let the child choose pictures that they understand. Do not hurry it."
+    },
+    {
+     "id": "p1s2",
+     "mins": 15,
+     "do": "Choose a family code word. It should be a silly word that nobody would say by accident, such as 'purple dosa'. Write it on a slip and keep it safe. Add 1098 and the five trusted names to the poster.",
+     "say": "If you ever need me to come quickly, or you need to be picked up, you say our code word. I will come and I will not ask questions in front of others.",
+     "kid": "Choose a code word with your family. Add 1098 to the poster.",
+     "adult": false,
+     "ask": [
+      {
+       "q": "When would you use the code word?",
+       "good": [
+        "When I need help and cannot say why in front of others.",
+        "When something feels wrong and I want to go home."
+       ]
+      }
+     ],
+     "parent": "A code word lets a child ask for help from anywhere, even by phone or in front of other people. Promise to come, to believe the child, and to ask for the story only when you are alone together. Keep your promise every time, or the word will lose its power.",
+     "wait": "Leave the poster on the fridge for a day"
+    },
+    {
+     "id": "p1s3",
+     "mins": 15,
+     "do": "Practise together. The child says the code word, and the parent comes at once and says, 'Thank you for telling me. I believe you.' Then the family says the three rules and No, Go, Tell out loud.",
+     "say": "Let us test our plan. Say the code word. I will come at once. Now let us say the three body rules together.",
+     "kid": "Say the code word. Say the rules with your family.",
+     "adult": false,
+     "ask": [
+      {
+       "q": "How did it feel when I came right away?",
+       "good": [
+        "Safe. I know you will come.",
+        "Good. I do not need to explain."
+       ]
+      }
+     ],
+     "parent": "Practise it once a few weeks later, so that the child remembers. Do the practice calmly, as a game. Never use the code word for anything else.",
+     "think": "Who else should know our family code word?"
+    }
+   ]
+  }
+ ],
+ "challenges": [
+  {
+   "id": "ch1",
+   "title": "A help sign for when words get stuck",
+   "mins": 25,
+   "context": "This is a design problem. Sometimes a big feeling makes words stick, and a child cannot say what is wrong. How could a child ask for help without any words?",
+   "problem": "Design a sign, a card or a signal that a child can use to ask a trusted grown-up for help when words will not come.",
+   "constraints": [
+    "It must be quick, and a child of six can do it alone.",
+    "It must not need a phone or anything costly.",
+    "A trusted grown-up must understand it at once, without a long explanation.",
+    "It must work at home and at school."
+   ],
+   "materials": [
+    "paper and crayons",
+    "some sticky tape",
+    "a toy, a clothes peg or a bracelet"
+   ],
+   "setup": [
+    {
+     "art": "A child with a closed mouth and a worried face, one hand held up showing a drawn palm.",
+     "caption": "1. Think of a time when words got stuck, such as when you felt shy."
+    },
+    {
+     "art": "Three small sketches: a hand sign, a card and a toy at a door.",
+     "caption": "2. Draw three ideas for a sign."
+    },
+    {
+     "art": "A grown-up at the end of a room looking at a child making a sign.",
+     "caption": "3. Test one sign from across the room."
+    }
+   ],
+   "flow": [
+    {
+     "id": "ch1s1",
+     "mins": 5,
+     "do": "Ask the child to remember a time when they felt too shy or frightened to speak. It could be at a party or at the doctor. Let them say how their body felt.",
+     "say": "Has there been a time when you wanted to say something and the words would not come? What happened in your body?",
+     "kid": "Think of a time when your words got stuck. How did your body feel?",
+     "adult": false,
+     "ask": [
+      {
+       "q": "Why might words get stuck?",
+       "good": [
+        "A big feeling makes the throat tight and the mouth stop.",
+        "We feel shy or frightened."
+       ]
+      }
+     ],
+     "parent": "Freezing and going silent is common and is nobody's fault. This step builds on what the child learned about freezing."
+    },
+    {
+     "id": "ch1s2",
+     "mins": 8,
+     "do": "Try the usual ideas one by one. Test each from across the room while the other person watches. The ideas are a code word, a raised helping hand, and a card with a red circle that the child hands over. The last idea is a small toy that the child puts on the table.",
+     "say": "Let us try each idea. I will stand across the room. Can you show me you need help, without speaking?",
+     "kid": "Try each sign. Can the grown-up see it from far away?",
+     "adult": false,
+     "ask": [
+      {
+       "q": "Which sign was easiest to see and to do?",
+       "good": [
+        "The raised hand, because it is quick.",
+        "The card, because the grown-up knows at once."
+       ]
+      }
+     ],
+     "parent": "Let the child try every idea. Every method is good as long as the adult notices it. There is no right answer."
+    },
+    {
+     "id": "ch1s3",
+     "mins": 7,
+     "do": "Now look for creative ideas. A child could leave a drawing on the pillow or put a toy at the door. A child could tie a coloured thread on the school bag. Or a child could write 'I need to tell you something' in a notebook that the grown-up reads at bedtime.",
+     "say": "Can you think of a sign nobody would notice except you and your trusted grown-up?",
+     "kid": "Think of a secret sign that only you and your grown-up know.",
+     "adult": false,
+     "ask": [
+      {
+       "q": "Which one would you choose, and why?",
+       "good": [
+        "Any sign the child can use at once and the grown-up will see.",
+        "A drawing on the pillow, because I can do it when I am alone."
+       ]
+      }
+     ],
+     "parent": "These signs do not replace words. They are for the times when words do not come. A child can also use a few words, a drawing or a note."
+    },
+    {
+     "id": "ch1s4",
+     "mins": 5,
+     "do": "Let the child choose one sign. Show it to a second trusted grown-up and test if that grown-up understands it too.",
+     "say": "Pick the sign you like best. Let us show it to another grown-up and see if they understand.",
+     "kid": "Show your sign to another grown-up. Do they understand?",
+     "adult": false,
+     "parent": "A sign only works if the trusted grown-ups know it. Tell them all.",
+     "think": "What would you do if your sign did not work the first time?"
+    }
+   ],
+   "general": [
+    "A code word that the family agrees.",
+    "A raised helping hand with the palm open.",
+    "A card with a coloured circle that the child hands over."
+   ],
+   "creative": [
+    "A toy placed at the grown-up's door or on the pillow.",
+    "A drawing or a note in a notebook that the grown-up checks every evening.",
+    "A coloured thread tied to a school bag that the teacher knows means 'I need to talk'."
+   ],
+   "your_turn": "Design your own sign. Test it with two different trusted grown-ups. What would you change?"
+  }
+ ],
+ "games": [
+  {
+   "id": "g1",
+   "title": "Green, amber, red: the touch lights game",
+   "mins": 20,
+   "players": [
+    "with a parent",
+    "with friends"
+   ],
+   "context": "In this game a grown-up reads a card about a touch, and the child puts it on a green, amber or red mat. The team earns a counter for every card put in the colour that the back says, and for every good reason.",
+   "setup": [
+    {
+     "art": "Three paper mats laid in a row, coloured green, amber and red, like a traffic light turned on its side.",
+     "caption": "1. Colour three sheets of paper green, amber and red and lay them in a row."
+    },
+    {
+     "art": "A pile of 18 situation cards face down beside the mats and a small bowl of counters.",
+     "caption": "2. Cut out the 18 cards and shuffle them. Put them face down."
+    },
+    {
+     "art": "A parent and a child at a table, the child holding a card above the amber mat.",
+     "caption": "3. Take turns. The grown-up reads, the child chooses a mat."
+    }
+   ],
+   "printables": [
+    {
+     "kind": "mats",
+     "title": "3 colour mats to colour by hand",
+     "items": [
+      "Green mat: a safe touch. I like it, it does not hurt me, and nothing is hidden.",
+      "Amber mat: I am not sure, or I do not want it. I can say no thank you, and tell a trusted grown-up if it goes on.",
+      "Red mat: an unsafe touch. I say No, I Go to other people, and I Tell a trusted grown-up."
+     ]
+    },
+    {
+     "kind": "cards",
+     "title": "18 situation cards, with the answer on the back",
+     "items": [
+      {
+       "f": "Amma gives you a hug and you like it.",
+       "b": "Green. A safe touch you are happy to have, and nothing is hidden."
+      },
+      {
+       "f": "Your teacher gives you a high five for a good answer.",
+       "b": "Green. A safe touch, and everyone can see it."
+      },
+      {
+       "f": "A grown-up holds your hand to cross a busy road.",
+       "b": "Green. A safe touch that keeps you safe."
+      },
+      {
+       "f": "The doctor looks in your ear. Your parent is in the room, and the doctor tells you what she is doing.",
+       "b": "Green. The doctor and your parent know, and the doctor says why."
+      },
+      {
+       "f": "You have an injection at the clinic. It stings. Your parent is holding your hand.",
+       "b": "Green. It hurts a little, but everyone knows, it keeps you well, and nothing is hidden."
+      },
+      {
+       "f": "An aunt wants to pinch your cheek, and you do not like it.",
+       "b": "Amber. You can say, 'No thank you, I will say namaste.' If she goes on, tell a trusted grown-up."
+      },
+      {
+       "f": "A relative wants a kiss, but you do not feel like it today.",
+       "b": "Amber. You may say no thank you and offer a wave. You are allowed to choose."
+      },
+      {
+       "f": "A friend keeps tickling you after you say, 'Stop.'",
+       "b": "Amber. Say 'Stop' in a big voice. If the friend does not stop, tell a trusted grown-up."
+      },
+      {
+       "f": "Someone you do not know well says, 'Come and sit on my lap.'",
+       "b": "Amber. You do not have to. Go to your grown-up and tell them."
+      },
+      {
+       "f": "A person gives you a gift and says, 'Give me a hug to say thank you.'",
+       "b": "Amber. You can say thank you in your own way. You do not have to hug."
+      },
+      {
+       "f": "A person says, 'Take off your underwear so I can see your private parts.'",
+       "b": "Red. This breaks the private-parts rule. Say No. Go to other people. Tell a trusted grown-up."
+      },
+      {
+       "f": "Someone asks you to look at pictures of private parts.",
+       "b": "Red. This breaks the private-parts rule. Say No. Go. Tell."
+      },
+      {
+       "f": "A person says, 'Do not tell your mother. I will give you a sweet.'",
+       "b": "Red. A person who asks you to hide something is giving you an unsafe secret. Tell a trusted grown-up."
+      },
+      {
+       "f": "Someone hits you hard on purpose.",
+       "b": "Red. A touch that hurts you on purpose is unsafe. Say No. Go. Tell."
+      },
+      {
+       "f": "An older person asks you to touch their private parts.",
+       "b": "Red. Nobody may ask you to do this. Say No. Go. Tell. It is never your fault."
+      },
+      {
+       "f": "A person you know well says, 'This is our special game. Do not tell.'",
+       "b": "Red. A secret about touch is never kept, even from someone you know. Tell a trusted grown-up."
+      },
+      {
+       "f": "Someone says, 'If you tell, you will get into trouble.'",
+       "b": "Red. An unsafe secret is never kept. You will not get into trouble. Tell a trusted grown-up."
+      },
+      {
+       "f": "A person says, 'You cannot tell anyone. Nobody will believe you.'",
+       "b": "Red. Keep telling until someone helps. A trusted grown-up will believe you."
+      }
+     ]
+    }
+   ],
+   "rules": [
+    "The grown-up reads the front of a card aloud. The child puts the card on the green, amber or red mat and says why.",
+    "Then turn the card over and read the back. If the colour is the same as the back, the team takes a counter.",
+    "If the child chose another colour but gave a good reason, the team takes a counter too, because some cards can be argued both ways.",
+    "Whenever a card goes on the red mat, say 'No, Go, Tell' together.",
+    "The game ends when all 18 cards have been used. The team counts the counters.",
+    "Play again to beat your own number. With friends, take turns to choose a mat, and work as one team."
+   ],
+   "flow": [
+    {
+     "id": "g1s1",
+     "mins": 5,
+     "do": "Colour three sheets green, amber and red. Cut out the 18 cards from the printed sheet and shuffle them. Read the rules on the three mats.",
+     "say": "Green means safe, amber means not sure or not wanted, red means unsafe. Let us colour the mats.",
+     "kid": "Colour the three mats. Cut out the cards.",
+     "adult": false,
+     "parent": "The cards are read by the grown-up. The child only picks a mat. Cutting is for the grown-up if the child is under 8."
+    },
+    {
+     "id": "g1s2",
+     "mins": 10,
+     "do": "Play. The grown-up reads each card. The child chooses a mat. Read the back. Add a counter if the colours match or if the child's reason is good. Say 'No, Go, Tell' every time a card goes on the red mat.",
+     "say": "Here is the next card. Where does it go, and why?",
+     "kid": "Listen to the card. Pick a mat. Say why.",
+     "adult": false,
+     "ask": [
+      {
+       "q": "Why did that card go on that mat?",
+       "good": [
+        "It is safe, so green. Everyone knows and it does not hurt me.",
+        "It breaks a rule, so red."
+       ]
+      },
+      {
+       "q": "Can an injection that stings be green?",
+       "good": [
+        "Yes. It stings, but everyone knows about it and nothing is hidden.",
+        "Yes, because it is not hidden and it is to keep me healthy."
+       ]
+      }
+     ],
+     "parent": "If a card is hard, stop and talk. Some answers can be argued both ways. Praise the reason as much as the colour. If a child says a red card is their fault, say clearly that it is never a child's fault."
+    },
+    {
+     "id": "g1s3",
+     "mins": 5,
+     "do": "Count the counters. Ask what the child learned. Play again if there is time.",
+     "say": "How many counters did we win? Which card made you think the most?",
+     "kid": "Count the counters. Which card made you think?",
+     "adult": false,
+     "ask": [
+      {
+       "q": "Which card made you think the most?",
+       "good": [
+        "Any card with a reason.",
+        "The injection card, because it hurts but is safe."
+       ]
+      }
+     ],
+     "parent": "This game teaches that a touch is sorted by who knows, why and who can say no, and not only by how it feels.",
+     "think": "Which card did you want to put on two mats?"
+    }
+   ]
+  }
+ ],
+ "worksheets": [
+  {
+   "id": "ws-core",
+   "title": "Safe and unsafe touch (core)",
+   "tier": "core",
+   "mins": 20,
+   "context": "This sheet checks that you can tell a safe touch from an unsafe touch, and that you know what to do about an unsafe one.",
+   "items": [
+    {
+     "t": "mcq",
+     "p": "A friend wants to hold your hand and you do not. What is a kind thing to say?",
+     "opts": [
+      "No thanks, but I will wave.",
+      "You have to say yes.",
+      "Pretend to be asleep."
+     ],
+     "a": 0,
+     "why": "Your body is yours, so you can say no. A wave is a kind way to say it. Saying yes when you mean no, or pretending to sleep, hides what you want.",
+     "outcome": 0
+    },
+    {
+     "t": "truefalse",
+     "p": "True or false: A touch that comes with 'do not tell anyone' is a safe touch.",
+     "a": false,
+     "why": "False. A safe touch is never hidden. A touch that comes with a demand to keep it secret is unsafe, and we tell a trusted grown-up.",
+     "outcome": 1
+    },
+    {
+     "t": "match",
+     "p": "Match each of No, Go and Tell to what you do.",
+     "pairs": [
+      [
+       "No",
+       "Say it in a big voice"
+      ],
+      [
+       "Go",
+       "Move to where other people are"
+      ],
+      [
+       "Tell",
+       "Speak to a trusted grown-up"
+      ]
+     ],
+     "a": "as given",
+     "why": "Each step has its own job. No is your voice, Go is your feet, and Tell is your words to a trusted grown-up.",
+     "outcome": 3
+    },
+    {
+     "t": "sort",
+     "p": "Sort each into a surprise or an unsafe secret.",
+     "cats": [
+      "Surprise",
+      "Unsafe secret"
+     ],
+     "items": [
+      [
+       "A birthday card for Amma, told on her birthday",
+       "Surprise"
+      ],
+      [
+       "'Do not tell your mother what happened'",
+       "Unsafe secret"
+      ],
+      [
+       "A hidden gift for a friend, told on the day",
+       "Surprise"
+      ],
+      [
+       "A secret that makes your tummy feel like a stone",
+       "Unsafe secret"
+      ]
+     ],
+     "a": "as given",
+     "why": "A surprise is happy and told soon. An unsafe secret is about touch, makes you worried, or is meant to be kept for ever.",
+     "outcome": 4
+    },
+    {
+     "t": "order",
+     "p": "Put these three steps in the order you do them when a touch is unsafe.",
+     "a": [
+      "Say no in a big voice",
+      "Go to where other people are",
+      "Tell a trusted grown-up"
+     ],
+     "why": "You say no first, then you go to safe people, and then you tell. If words get stuck, you can still go and tell.",
+     "outcome": 3
+    },
+    {
+     "t": "fill",
+     "p": "Private parts are the parts your ____ cover.",
+     "a": [
+      "underwear"
+     ],
+     "why": "The private parts are the parts that underwear covers. They are private, which means they are only yours.",
+     "outcome": 2
+    },
+    {
+     "t": "draw",
+     "p": "Draw your hand. On each finger, write or draw one trusted grown-up.",
+     "a": "A hand with five fingers, each with a name or a face of a grown-up who listens, believes and helps.",
+     "why": "Knowing exactly who you would tell means you do not have to think hard when you are upset.",
+     "outcome": 5
+    },
+    {
+     "t": "write",
+     "p": "What can you do if your words get stuck?",
+     "lines": 2,
+     "a": "A good answer says that you can hold up your helping hand, draw, go to a grown-up, or tell later. It says that telling later is also right.",
+     "why": "Words can stick when a feeling is big. A sign, a drawing or telling later are all ways of telling.",
+     "outcome": 3
+    },
+    {
+     "t": "perspective",
+     "p": "Two ways to name touches.",
+     "views": [
+      {
+       "who": "A friend (an imagined view)",
+       "says": "'Good touch' and 'bad touch' are easy words to remember."
+      },
+      {
+       "who": "A teacher (an imagined view)",
+       "says": "An injection hurts but is safe, so I say 'safe touch' and 'unsafe touch'."
+      }
+     ],
+     "ask": "Which words would you use, and why?",
+     "a": "Answers vary. A good answer notices that an injection is safe but hurts. It also notices that some unsafe touches do not hurt. So 'safe' and 'unsafe' fit better. Either answer is fine with a reason.",
+     "why": "People use both pairs of words. 'Good' and 'bad' are easy, but 'safe' and 'unsafe' tell you what to check: who knows, why, and whether you can say no.",
+     "outcome": 1
+    },
+    {
+     "t": "mcq",
+     "p": "A dog backs away with her tail down when you reach for her. What should you do?",
+     "opts": [
+      "Stop and leave her alone.",
+      "Hug her tighter.",
+      "Follow her."
+     ],
+     "a": 0,
+     "why": "Her body says no. We listen to other beings, as well as to people, and we stop.",
+     "outcome": 6
+    }
+   ]
+  },
+  {
+   "id": "ws-stretch",
+   "title": "Warning feelings, freezing and asking first (stretch)",
+   "tier": "stretch",
+   "mins": 20,
+   "context": "This sheet checks that you understand the warning feelings, freezing, real names and how to ask before you touch.",
+   "items": [
+    {
+     "t": "mcq",
+     "p": "An injection hurts, but it is safe. Why?",
+     "opts": [
+      "Everyone knows, it keeps you well, nothing is hidden.",
+      "Because it hurts, it must be good.",
+      "Because the doctor is tall."
+     ],
+     "a": 0,
+     "why": "A safe touch does not depend on how it feels. It depends on who knows, why it happens and that nothing is kept secret.",
+     "outcome": 1
+    },
+    {
+     "t": "truefalse",
+     "p": "True or false: A tight tummy during a touch is a warning feeling worth listening to.",
+     "a": true,
+     "why": "True. Your body gives warning feelings, such as a fast heart or a tight tummy. We listen to them, and we also check the three signs of an unsafe touch.",
+     "outcome": 1
+    },
+    {
+     "t": "mcq",
+     "p": "A child goes very still and says nothing when a touch feels wrong. What does that mean?",
+     "opts": [
+      "The body froze. It is not a yes.",
+      "The child agreed.",
+      "The child did not mind."
+     ],
+     "a": 0,
+     "why": "Bodies sometimes freeze when frightened. Freezing is the body's way of coping and is never a yes.",
+     "outcome": 3
+    },
+    {
+     "t": "sort",
+     "p": "Sort each touch into safe or unsafe.",
+     "cats": [
+      "Safe touch",
+      "Unsafe touch"
+     ],
+     "items": [
+      [
+       "A hug from Amma that you like",
+       "Safe touch"
+      ],
+      [
+       "A touch that comes with 'do not tell'",
+       "Unsafe touch"
+      ],
+      [
+       "A teacher's pat on the back",
+       "Safe touch"
+      ],
+      [
+       "Someone asking to see your private parts",
+       "Unsafe touch"
+      ]
+     ],
+     "a": "as given",
+     "why": "A safe touch is a touch you are happy to have, that does not hurt and is not hidden. An unsafe touch hurts on purpose, breaks the private-parts rule or comes with a demand for secrecy.",
+     "outcome": 1
+    },
+    {
+     "t": "match",
+     "p": "Match each being to their way of saying no.",
+     "pairs": [
+      [
+       "A cat",
+       "Goes stiff and flattens her ears"
+      ],
+      [
+       "A baby",
+       "Turns her head away"
+      ],
+      [
+       "A touch-me-not plant",
+       "Folds her leaves"
+      ],
+      [
+       "A friend",
+       "Says 'stop'"
+      ]
+     ],
+     "a": "as given",
+     "why": "Every being has a way of saying no. We learn the signs and stop.",
+     "outcome": 6
+    },
+    {
+     "t": "odd",
+     "p": "Which one is odd? A high five, a hug you like, a 'do not tell' touch, holding hands to cross.",
+     "a": "A touch with 'do not tell'",
+     "why": "The other three are safe touches. A touch that comes with a demand to keep it secret is an unsafe touch.",
+     "outcome": 1
+    },
+    {
+     "t": "fill",
+     "p": "A surprise is told ____ and makes people happy.",
+     "a": [
+      "soon"
+     ],
+     "why": "A surprise is a happy secret told after a short while. An unsafe secret is never told, and that is the difference.",
+     "outcome": 4
+    },
+    {
+     "t": "write",
+     "p": "Why do we use real names such as penis and vulva?",
+     "lines": 2,
+     "a": "A good answer says that real names help us talk to a grown-up clearly. We cannot make a rule about parts that have no names. Silly names can hide what a child means.",
+     "why": "With real names, a child, a parent and a doctor all understand each other at once.",
+     "outcome": 2
+    },
+    {
+     "t": "draw",
+     "p": "Draw two friends. One asks, 'May I hug you?' and the other answers. Show both faces.",
+     "a": "Two figures, a speech bubble with 'May I hug you?', and an answer such as yes, no or a wave. The asking friend waits and listens.",
+     "why": "Asking first and listening to the answer is how we respect another person's body.",
+     "outcome": 6
+    },
+    {
+     "t": "perspective",
+     "p": "Two ways to tell a grown-up.",
+     "views": [
+      {
+       "who": "A parent (an imagined view)",
+       "says": "A child should say it in words, so I know exactly what happened."
+      },
+      {
+       "who": "A teacher (an imagined view)",
+       "says": "A child can draw it, or hand me a note, if the words get stuck."
+      }
+     ],
+     "ask": "Which would you choose if the words would not come?",
+     "a": "Answers vary. A strong answer says that any way of telling is right, and that a drawing or a note can be a first step. The words can come later.",
+     "why": "Both are right. The point is that the child tells, and a grown-up listens and believes. How a child tells matters less than the telling.",
+     "outcome": 3
+    }
+   ]
+  },
+  {
+   "id": "ws-challenge",
+   "title": "Who is at fault, and what does 'mine' mean? (challenge)",
+   "tier": "challenge",
+   "mins": 20,
+   "context": "This sheet checks that you can think about where the fault lies, who may touch whom, and what we mean by 'my body'.",
+   "items": [
+    {
+     "t": "mcq",
+     "p": "A child tells a grown-up. The grown-up says, 'Do not be silly.' What next?",
+     "opts": [
+      "Keep telling another trusted grown-up.",
+      "Stop telling and say nothing.",
+      "Wait until you are older."
+     ],
+     "a": 0,
+     "why": "A child keeps telling until someone helps. The first grown-up may be busy, frightened or wrong. Another one will believe and help.",
+     "outcome": 5
+    },
+    {
+     "t": "truefalse",
+     "p": "True or false: Only strangers can give an unsafe touch.",
+     "a": false,
+     "why": "False. An unsafe touch can come from someone the child knows. The body rules are about the touch, and they are the same for everyone.",
+     "outcome": 1
+    },
+    {
+     "t": "write",
+     "p": "When an older person breaks the body rules, whose fault is it? Say why.",
+     "lines": 3,
+     "a": "A good answer says that it is always the older person's fault. A child cannot be blamed for what a grown-up chooses to do. A child may be quiet, frozen or too shy to say no, and none of that is a yes.",
+     "why": "A child who thinks it is their fault may stay silent. Saying plainly where the fault lies helps a child tell.",
+     "outcome": 3
+    },
+    {
+     "t": "mcq",
+     "p": "A baby cousin turns her head away when you lean in for a kiss. What is she saying?",
+     "opts": [
+      "No, not now.",
+      "Yes, please.",
+      "Nothing."
+     ],
+     "a": 0,
+     "why": "A baby says no with her body, because she has no words yet. We watch for these signs and we stop.",
+     "outcome": 6
+    },
+    {
+     "t": "truefalse",
+     "p": "True or false: Even a safe touch needs your yes, so a hug that you liked can still be stopped.",
+     "a": true,
+     "why": "True. A yes is a yes for now. You can change your mind at any time, and the other person stops.",
+     "outcome": 0
+    },
+    {
+     "t": "match",
+     "p": "Match each sentence to the right word.",
+     "pairs": [
+      [
+       "A party that the family plans for Appa",
+       "A surprise"
+      ],
+      [
+       "'I will give you a sweet if you do not tell'",
+       "An unsafe secret"
+      ],
+      [
+       "A hidden gift for a friend",
+       "A surprise"
+      ],
+      [
+       "'Nobody will believe you'",
+       "An unsafe secret"
+      ]
+     ],
+     "a": "as given",
+     "why": "A surprise is happy and gets told. A demand not to tell, or a warning that nobody will believe you, belongs to an unsafe secret.",
+     "outcome": 4
+    },
+    {
+     "t": "count",
+     "p": "You have five trusted grown-ups. Two are away this week. How many can you still tell?",
+     "a": "3",
+     "why": "5 take away 2 leaves 3. You can still tell three grown-ups, and you can tell the two when they come back.",
+     "outcome": 5
+    },
+    {
+     "t": "write",
+     "p": "Is your body really yours, if it grew from things that were outside you once? Say why you think so.",
+     "lines": 3,
+     "a": "Answers vary. A strong answer says that it is yours because only you feel it from the inside and you have a say in what happens to it. It may also say that 'mine' means something different for a bag and for a body.",
+     "why": "People disagree about what 'mine' means for a body. The safety rule does not wait for that question: you have a say.",
+     "outcome": 0
+    },
+    {
+     "t": "draw",
+     "p": "Draw a traffic light. Beside each colour, write what it means for a touch.",
+     "a": "Green for a safe touch I like. Amber for not sure or not wanted, so say no thank you and tell. Red for unsafe, so No, Go, Tell.",
+     "why": "A traffic light gives three clear choices that a child can remember quickly.",
+     "outcome": 1
+    },
+    {
+     "t": "perspective",
+     "p": "Is it ever right for a grown-up to touch a child who says no?",
+     "views": [
+      {
+       "who": "A parent (an imagined view)",
+       "says": "I pull my child back from a road even if she says no. That keeps her safe."
+      },
+      {
+       "who": "A teacher (an imagined view)",
+       "says": "A child's no is final for hugs and kisses, and I stop at once."
+      }
+     ],
+     "ask": "What is the difference between pulling a child from a road and an unsafe touch?",
+     "a": "Answers vary. A strong answer sees that stopping a child from danger is for her safety, is done openly, and is explained afterwards. An unsafe touch is hidden, hurts or breaks the private-parts rule. Both views can be right.",
+     "why": "A touch is sorted by why it happens, who knows and whether it is hidden. Both people care about the child's safety.",
+     "outcome": 1
+    }
+   ]
+  }
+ ],
+ "quiz": [
+  {
+   "t": "mcq",
+   "p": "A relative wants to pinch your cheek, and you do not like it. What may you say?",
+   "opts": [
+    "Nothing, because grown-ups decide",
+    "No thank you. I will say namaste.",
+    "You must let them"
+   ],
+   "a": 1,
+   "why": "Your body is yours, so you have a say, even with a grown-up who means well. You can say no thank you and offer a different greeting.",
+   "outcome": 0
+  },
+  {
+   "t": "mcq",
+   "p": "A doctor gives an injection while your parent watches and the doctor says why. Is it safe?",
+   "opts": [
+    "Yes, it keeps you well and nothing is hidden",
+    "No, because it hurts",
+    "Only if you do not cry"
+   ],
+   "a": 0,
+   "why": "A safe touch is not about whether it hurts. It is about who knows, why it happens and that nothing is hidden.",
+   "outcome": 1
+  },
+  {
+   "t": "mcq",
+   "p": "Which one is a sign of an unsafe touch?",
+   "opts": [
+    "Someone says, 'Do not tell anyone.'",
+    "A hug from Amma that you like",
+    "A high five from a friend"
+   ],
+   "a": 0,
+   "why": "A demand for secrecy is one of the three signs. The other two are a touch that hurts on purpose and a touch that breaks the private-parts rule.",
+   "outcome": 1
+  },
+  {
+   "t": "mcq",
+   "p": "A touch does not hurt at all, but the person says it is a secret. Is it safe?",
+   "opts": [
+    "Yes, because it does not hurt",
+    "No, a demand for secrecy is a sign of unsafe",
+    "Yes, if the person is a relative"
+   ],
+   "a": 1,
+   "why": "Some unsafe touches do not hurt. So we check the three signs and not only the feeling. A secret about touch is never kept.",
+   "outcome": 1
+  },
+  {
+   "t": "mcq",
+   "p": "Why do we use real names for private parts?",
+   "opts": [
+    "So we can tell a grown-up clearly",
+    "Because the names are rude",
+    "So we can use them as jokes"
+   ],
+   "a": 0,
+   "why": "Real names help a child tell a grown-up exactly what they mean, and help a doctor understand. We cannot make a rule about parts that have no names.",
+   "outcome": 2
+  },
+  {
+   "t": "mcq",
+   "p": "Who may touch your private parts?",
+   "opts": [
+    "Nobody, except to keep you clean or healthy, and never in secret",
+    "Any grown-up you know",
+    "Anyone who gives you a sweet"
+   ],
+   "a": 0,
+   "why": "The only reasons are to keep you clean or healthy, such as a parent bathing a small child or a doctor with your parent present. It is never a secret.",
+   "outcome": 2
+  },
+  {
+   "t": "mcq",
+   "p": "A touch feels unsafe. What three things do you do?",
+   "opts": [
+    "Say no, go away, tell",
+    "Stay quiet, wait, hope",
+    "Laugh, hide, forget"
+   ],
+   "a": 0,
+   "why": "No is your big voice, Go is moving to where other people are, and Tell is speaking to a trusted grown-up. If words stick, you can still go and tell.",
+   "outcome": 3
+  },
+  {
+   "t": "mcq",
+   "p": "A girl froze when a touch felt wrong. A week later she tells her mother. Was that right?",
+   "opts": [
+    "Yes, telling later is also right",
+    "No, it is too late now",
+    "No, she should have shouted"
+   ],
+   "a": 0,
+   "why": "Many children cannot speak at the time, and bodies sometimes freeze. Telling later still counts and a grown-up still helps.",
+   "outcome": 3
+  },
+  {
+   "t": "mcq",
+   "p": "Someone says, 'This is our secret,' about a touch. What do you do?",
+   "opts": [
+    "Tell a trusted grown-up anyway",
+    "Keep it, because you promised",
+    "Wait until you are older"
+   ],
+   "a": 0,
+   "why": "An unsafe secret is never kept. A person who asks for one is trying to stop you telling, and you will not get into trouble.",
+   "outcome": 4
+  },
+  {
+   "t": "mcq",
+   "p": "Why is a surprise different from an unsafe secret?",
+   "opts": [
+    "A surprise is happy and told soon",
+    "A surprise is bigger",
+    "They are the same"
+   ],
+   "a": 0,
+   "why": "A surprise is happy and will be told in a short time. An unsafe secret is about touch, makes you worried, or is meant to be kept for ever.",
+   "outcome": 4
+  },
+  {
+   "t": "mcq",
+   "p": "You told one grown-up and they did not help. What next?",
+   "opts": [
+    "Tell another until someone helps",
+    "Stop telling",
+    "Wait to grow up"
+   ],
+   "a": 0,
+   "why": "A child keeps telling until someone helps. A trusted grown-up is one who listens, believes and helps.",
+   "outcome": 5
+  },
+  {
+   "t": "mcq",
+   "p": "Which grown-up is a trusted grown-up?",
+   "opts": [
+    "One who listens, believes and helps",
+    "One who gives you sweets",
+    "One who is rich"
+   ],
+   "a": 0,
+   "why": "Trust comes from how a person treats you and what they do, never from sweets or from being a relative.",
+   "outcome": 5
+  },
+  {
+   "t": "mcq",
+   "p": "A friend says, 'Stop, I do not want that hug.' What do you do?",
+   "opts": [
+    "Stop right away",
+    "Hug anyway, once",
+    "Ask three more times"
+   ],
+   "a": 0,
+   "why": "Other people's bodies belong to them, so we stop when they say no. The body rules work in both directions.",
+   "outcome": 6
+  }
+ ],
+ "spotted": [
+  {
+   "text": "Watch a cat or a street dog when someone reaches out. Notice the ears, the tail and the back. A tail held up and a head pushed forward say come. Flat ears and a stiff back say stay away.",
+   "art": "A cat on a wall with a lifted tail, and the same cat with flat ears, side by side."
+  },
+  {
+   "text": "At a family function, notice how each person greets. Some join hands, some wave, some bow, some hug. See who asks first and who waits for an answer.",
+   "art": "Four relatives at a wedding greeting in four different ways."
+  },
+  {
+   "text": "When you wash your hands, notice that you feel the water most on your fingertips and much less on the back of your hand. That is your sensors doing their work.",
+   "art": "A child's hands under a tap, with small dots showing more sensors at the fingertips."
+  },
+  {
+   "text": "Look for a Childline 1098 poster at school, on a railway platform or in a bus. Read the number and say it aloud. Notice who would help if you rang it.",
+   "art": "A railway platform wall with a poster showing 1098 in large digits."
+  },
+  {
+   "text": "If you have a touch-me-not plant in a pot or by a path, brush one leaf with a finger. Watch her fold. Wait a few minutes and notice her open again.",
+   "art": "A touch-me-not branch with one side of leaves folded and the other open."
+  },
+  {
+   "text": "Notice the moments when a grown-up says, 'Is it all right if I...?' at school or at the clinic. A good nurse says what she is about to do before an injection. Notice how that feels.",
+   "art": "A nurse showing a child a small bandage before an injection while a parent holds the child's hand."
+  }
+ ],
+ "applications": [
+  "Doctors and nurses ask and explain before they touch you. A nurse says, 'I am going to give you a small injection now', and your parent is beside you. That is how a safe touch is done at a clinic.",
+  "Childline 1098 began in Mumbai in 1996 and now works in every state. A child, or any grown-up, can ring it for free to ask for help or advice. Look for the number on school walls and railway stations.",
+  "India's law, the Protection of Children from Sexual Offences Act, 2012, protects every child under 18. It says that a child who tells must be listened to and helped.",
+  "Schools teach body safety so that every child knows the rules. A teacher who says, 'You can always tell me', is part of the same plan as your helping hand.",
+  "Kangaroo care, where a mother or father holds a tiny baby skin to skin on the chest, is used in hospitals across India. It shows how much a safe touch helps a body to grow.",
+  "Many families in India massage newborn babies with oil. A gentle, slow touch from a loving person helps a baby to grow and to feel calm.",
+  "A family code word lets a child ask for help from anywhere. The child says one word, and a grown-up comes without asking questions in front of others."
+ ],
+ "ask_kids": [
+  "Who are the five grown-ups on your helping hand? What makes each one a good person to tell?",
+  "What can you say when a relative wants a kiss and you do not want to give one?",
+  "How would a cat tell you no? How would a baby?",
+  "What is the difference between a surprise and an unsafe secret?",
+  "If words ever got stuck, which of your signs would you use?",
+  "If a touch-me-not folds when you touch her, do you think she minds? How could you find out kindly?",
+  "Why do you think we ask before we touch another person?"
+ ],
+ "jokes": [
+  {
+   "j": "What does a cat say when you ask nicely before you pick her up?",
+   "a": "'Thank you, that was purr-fect manners!'"
+  },
+  {
+   "j": "How do you greet a tiger politely?",
+   "a": "From very, very far away, with a loud 'Namaste!'"
+  },
+  {
+   "j": "What did the left hand say to the right hand?",
+   "a": "'I will always give you five!'"
+  },
+  {
+   "j": "Which finger is best at saying no?",
+   "a": "The pointer finger. It can wag, 'No, no, no!' all day."
+  },
+  {
+   "j": "Why did the cat ask for permission before sitting on your lap?",
+   "a": "She wanted a purr-mission."
+  },
+  {
+   "j": "Why did the sensor go to the party on the fingertip?",
+   "a": "Because that is where all the touching news is."
+  },
+  {
+   "j": "Why could the dosa never keep a surprise?",
+   "a": "Because it always turned out to be on the plate by the end of the meal!"
+  },
+  {
+   "j": "What is a hand's favourite way to say hello to an elephant?",
+   "a": "Wave. A trunk shake would be too much."
+  },
+  {
+   "j": "Why can you not surprise yourself with a tap on the shoulder?",
+   "a": "Because your brain already knows who is coming."
+  }
+ ],
+ "maths": [
+  {
+   "problem": "On a fingertip, two pencil tips can feel like two when they are about 3 millimetres apart. On the back they need about 4 centimetres. One centimetre is 10 millimetres. How many millimetres is 4 centimetres? Is the back's gap more than ten times the fingertip's gap?",
+   "answer": "40 millimetres. Yes, more than ten times, because 10 × 3 is 30 and 40 is bigger than 30.",
+   "explain": "4 centimetres is 4 lots of 10 millimetres, which is 40 millimetres. Ten fingertip gaps make 10 × 3 = 30 millimetres, and 40 is more than 30.",
+   "math_unit": "math.length.comparing-length.L1",
+   "how": "e1",
+   "context": "This problem uses the real distances from the two-point test to compare how well two places on the skin can tell two touches apart.",
+   "why_maths": "The smaller the gap a place can feel, the more sensors it has. Comparing gaps lets us say how much better the fingertip is than the back."
+  },
+  {
+   "problem": "Imagine a small patch of fingertip skin holds 12 touch sensors, and a patch of back skin of the same size holds 3 sensors. How many times more sensors does the fingertip patch have?",
+   "answer": "4 times more. 12 ÷ 3 = 4.",
+   "explain": "We ask how many lots of 3 fit in 12. 3 + 3 + 3 + 3 is 12, so there are 4 lots. These numbers are made up to show the idea. The real numbers differ.",
+   "math_unit": "math.number-sense.counting.L1",
+   "context": "This problem shows why fingertips are better at feeling, using made-up numbers that follow the real pattern.",
+   "why_maths": "Counting how many lots of one number fit in another is how we compare two amounts."
+  }
+ ],
+ "song": {
+  "topic_level": "sci.health.L1",
+  "title": "My Body Is Mine",
+  "note": "Topic-level song"
+ },
+ "videos": [
+  {
+   "title": "A video for children on how the skin feels touch",
+   "channel": "",
+   "mins": 4,
+   "youtube": "mWeTqNdSQlE",
+   "why": "To see how touch sensors in the skin send messages along nerves to the brain.",
+   "check": "Found by YouTube search: \"The Sense of Touch - Senses for Kids\" by Smile and Learn - English. Title checked automatically; a parent may still preview it."
+  },
+  {
+   "title": "Body safety for young children: say No, go and tell",
+   "channel": "",
+   "mins": 5,
+   "youtube": "EnQ4pC-NO3k",
+   "why": "To hear the three body rules and No, Go, Tell in a calm voice.",
+   "check": "Found by YouTube search: \"SAY NO! 🖐️ | Body Safety Song for Kids | Learn to Set Boundaries & Stay Safe\" by EasyFun Kids. Title checked automatically; a parent may still preview it."
+  },
+  {
+   "title": "Mimosa pudica, the touch-me-not plant, folding her leaves",
+   "channel": "",
+   "mins": 3,
+   "youtube": "nPf3FbR6eQE",
+   "why": "To watch a touch-me-not fold when touched and open again a few minutes later.",
+   "check": "Found by YouTube search: \"Touch-me-not plant/sensitive plant (mimosa pudica) leaves in action | लाजाळूचे झाड\" by Akshay Marathe. Title checked automatically; a parent may still preview it."
+  }
+ ],
+ "links": [
+  {
+   "title": "Childline India Foundation, Mumbai",
+   "url": "https://www.childlineindia.org.in/",
+   "kind": "website",
+   "why": "The national helpline for children. A parent can read how Childline 1098 works and who to ring."
+  },
+  {
+   "title": "Tulir, Centre for the Prevention and Healing of Child Sexual Abuse, Chennai",
+   "url": "https://tulir.org/",
+   "kind": "website",
+   "why": "An Indian organisation that teaches families and schools about body safety and keeps books and guides for parents."
+  },
+  {
+   "title": "National Commission for Protection of Child Rights, New Delhi",
+   "url": "https://ncpcr.gov.in/",
+   "kind": "website",
+   "why": "The government body that watches over children's rights in India. A parent can find the law and the helpline numbers."
+  },
+  {
+   "title": "KidsHealth: Your skin",
+   "url": "https://kidshealth.org/en/kids/skin.html",
+   "kind": "website",
+   "why": "A child-friendly page about what skin is and what it does."
+  }
+ ],
+ "buy": [
+  {
+   "id": "b-cotton",
+   "item": "A small pack of cotton buds",
+   "kind": "material",
+   "why": "A soft alternative for the two-point test and for the mystery bag.",
+   "url": "https://www.amazon.in/s?k=cotton+buds",
+   "used_in": [
+    "e1",
+    "a5"
+   ],
+   "plan": "About ₹20 to ₹40. Two blunt pencils with the tips rubbed smooth do the same job, so buy only if you prefer."
+  },
+  {
+   "id": "b-ruler",
+   "item": "A 30 centimetre ruler",
+   "kind": "tool",
+   "why": "To set the gaps between the pencil tips in the two-point test.",
+   "url": "https://www.amazon.in/s?k=30+cm+ruler",
+   "used_in": [
+    "e1"
+   ],
+   "plan": "About ₹20. Instead, mark 1, 2 and 4 centimetres on a strip of paper using a school ruler."
+  },
+  {
+   "id": "b-colour",
+   "item": "Colour pencils or crayons, with green, amber (yellow or orange) and red",
+   "kind": "material",
+   "why": "For the helping hand, the mats of the touch lights game, and the family poster.",
+   "url": "https://www.amazon.in/s?k=colour+pencils+box",
+   "used_in": [
+    "a1",
+    "a4",
+    "g1",
+    "p1"
+   ],
+   "plan": "About ₹50 to ₹100 for a box. Any crayons you already have will do."
+  },
+  {
+   "id": "b-paper",
+   "item": "A pack of plain A4 paper and a large sheet or chart paper",
+   "kind": "material",
+   "why": "For the helping hand, the mats, the cards and the family poster.",
+   "url": "https://www.amazon.in/s?k=chart+paper+pack",
+   "used_in": [
+    "a1",
+    "a4",
+    "g1",
+    "p1",
+    "ch1"
+   ],
+   "plan": "About ₹30 to ₹80. The back of an old calendar or newspaper works for the poster."
+  },
+  {
+   "id": "b-print",
+   "item": "Printing of the 18 game cards and the three mats",
+   "kind": "printing",
+   "why": "The game needs cut-out cards and mats. Printing is optional.",
+   "url": "",
+   "used_in": [
+    "g1"
+   ],
+   "plan": "About ₹10 to ₹30 at any stationery or photocopy shop. Instead, copy the card words by hand onto 18 slips of paper."
+  },
+  {
+   "id": "b-book",
+   "item": "A picture book on body safety for young children, such as 'Your Body Belongs to You' by Cornelia Spelman",
+   "kind": "book",
+   "why": "A parent can read it aloud before or after the lesson. It gives the same three rules with pictures.",
+   "url": "https://www.amazon.in/s?k=Your+Body+Belongs+to+You+Cornelia+Spelman",
+   "used_in": [
+    "a1",
+    "a2"
+   ],
+   "plan": "About ₹500 to ₹800. Instead, borrow one from a school or town library, or ask a teacher."
+  }
+ ],
+ "warmup": [
+  {
+   "q": "What do the tiny sensors in your skin do?",
+   "a": "They notice a touch and send a message along a nerve to the brain."
+  },
+  {
+   "q": "Which part of your body feels two touches best, the fingertip or the back?",
+   "a": "The fingertip. It has many more sensors packed close together."
+  },
+  {
+   "q": "What are the three body rules?",
+   "a": "My body belongs to me. I can say no. I tell a trusted grown-up."
+  },
+  {
+   "q": "What is a safe touch?",
+   "a": "A touch you are happy to have, that does not hurt you, and that nobody asks you to hide."
+  },
+  {
+   "q": "What do you do about an unsafe touch?",
+   "a": "Say no, go away to where other people are, and tell a trusted grown-up."
+  },
+  {
+   "q": "What is a surprise?",
+   "a": "Something happy that you keep quiet for a short time and then tell."
+  },
+  {
+   "q": "Whom do you tell if the first grown-up does not help?",
+   "a": "The next trusted grown-up. You keep telling until someone helps."
+  },
+  {
+   "q": "What number can a grown-up ring for Childline in India?",
+   "a": "1098."
+  }
+ ],
+ "warm": {
+  "words": [
+   "TOUCH",
+   "NERVE",
+   "TRUST",
+   "VOICE",
+   "HANDS"
+  ],
+  "quiz": [
+   [
+    "Your skin has touch sensors all over it.",
+    true,
+    "Sensors in the skin notice a touch and send a message to the brain."
+   ],
+   [
+    "Only your fingertips can feel a touch.",
+    false,
+    "All of your skin can feel a touch. Fingertips have more sensors than most places."
+   ],
+   [
+    "A surprise is something happy that you tell soon.",
+    true,
+    "A surprise is told after a short time, and it makes people happy."
+   ],
+   [
+    "Only strangers can give an unsafe touch.",
+    false,
+    "It can also come from a person you know. The rule is about the touch, whoever the person is."
+   ],
+   [
+    "A frozen body has said yes.",
+    false,
+    "A body can go still when it is frightened. A freeze is never a yes."
+   ],
+   [
+    "You can tell a trusted grown-up about a touch days later.",
+    true,
+    "Telling later is still telling, and a trusted grown-up still helps."
+   ],
+   [
+    "A secret about touch should be kept for ever.",
+    false,
+    "An unsafe secret is never kept. You tell a trusted grown-up."
+   ],
+   [
+    "A cat that goes stiff and flattens her ears is saying yes.",
+    false,
+    "Her stiff back and flat ears are a no. Her body says stop."
+   ],
+   [
+    "You may stop a hug you said yes to earlier.",
+    true,
+    "A yes is for now. You can change your mind at any time."
+   ],
+   [
+    "Plants never answer when they are touched.",
+    false,
+    "A touch-me-not plant folds her leaves when touched."
+   ]
+  ],
+  "odd": [
+   [
+    [
+     "Fingertip",
+     "Lips",
+     "Back",
+     "Palm"
+    ],
+    "Back",
+    "The fingertip, lips and palm have many touch sensors. The back has far fewer."
+   ],
+   [
+    [
+     "High five",
+     "Hug you like",
+     "Hand to cross a road",
+     "Secret touch"
+    ],
+    "Secret touch",
+    "The other three are safe touches. A touch with a demand for secrecy is unsafe."
+   ],
+   [
+    [
+     "Say no",
+     "Go away",
+     "Tell",
+     "Keep quiet"
+    ],
+    "Keep quiet",
+    "No, Go and Tell are the three steps. Keeping quiet is not one of them."
+   ],
+   [
+    [
+     "Mother",
+     "Teacher",
+     "Friend's parent",
+     "Anyone with sweets"
+    ],
+    "Anyone with sweets",
+    "A trusted grown-up is one who listens, believes and helps, not one who gives sweets."
+   ],
+   [
+    [
+     "Cat",
+     "Baby",
+     "Touch-me-not",
+     "Stone"
+    ],
+    "Stone",
+    "A cat, a baby and a touch-me-not plant all answer to touch. A stone does not."
+   ]
+  ]
+ },
+ "cards_mins": 20,
+ "plan": {
+  "start_options": [
+   "e1",
+   "story",
+   "big_questions",
+   "cards",
+   "g1",
+   "a1"
+  ],
+  "default_order": [
+   "intro",
+   "e1",
+   "summary",
+   "terms",
+   "explanations",
+   "a5",
+   "story",
+   "a1",
+   "a2",
+   "g1",
+   "how_we_found_out",
+   "agreed",
+   "challenging",
+   "a3",
+   "a4",
+   "ch1",
+   "big_questions",
+   "open_questions",
+   "roots",
+   "quiz",
+   "a6",
+   "p1",
+   "ws-core",
+   "ws-stretch",
+   "ws-challenge"
+  ],
+  "core": [
+   "e1",
+   "a1",
+   "a2",
+   "g1"
+  ],
+  "spine": [
+   "intro",
+   "e1",
+   "explanations",
+   "roots",
+   "quiz"
+  ]
+ }
+}
