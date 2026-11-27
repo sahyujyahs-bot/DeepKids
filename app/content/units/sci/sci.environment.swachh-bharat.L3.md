@@ -1,7 +1,7 @@
 # Swachh Bharat: small actions for a clean India
 `sci.environment.swachh-bharat.L3`
 
-**Summary.** A family sweeps the house spotless and tips the dust outside the gate. Is the house clean now? In this lesson you sort one day of your own waste and find out what it is made of and where each part goes. You learn why wet and dry waste are kept apart, how a toilet and a compost pit make waste safe, and why spitting and littering harm people you never meet. You look at the Swachh Bharat Mission, at what it changed and what people still argue about, and at the workers who clean India every day.
+**Summary.** A family sweeps the house spotless and tips the dust outside the gate. Is the house clean now? In this lesson you sort one day of your own waste and find out what it is made of and where each part goes. You learn why wet and dry waste are kept apart. You learn how a toilet and a compost pit make waste safe, and why spitting and littering harm people you never meet. You look at the Swachh Bharat Mission, at what it changed and what people still argue about, and at the workers who clean India every day.
 
 **Intro.** *Think of the last thing you threw away. Where is it right now, this minute? Who has touched it since it left your hand?* Most of us cannot answer. The bin is where our knowing stops. But the thing did not stop. Someone lifted it, someone sorted it, and it is lying somewhere now, or it has become something else. Today you will be a detective of your own dustbin. You will find out what your family throws away in one day and follow each kind to where it goes next. Then you will see why a clean India is made of small actions, and what else it needs.
 
@@ -54,22 +54,23 @@
 - **sanitation worker**: A person whose job is to clean streets, drains, toilets, sewers or septic tanks. *e.g.* The person who sweeps your street at dawn is a sanitation worker.
 - **manual scavenging**: Cleaning human waste by hand from toilets, drains or tanks, with no safe equipment. It has been against the law since 1993. *e.g.* A man who goes down a blocked sewer with no mask or harness is doing manual scavenging, which the law forbids.
 - **caste**: A group that a person is born into in India. For many centuries it was used to decide a person's work and who could eat or marry with whom. The Constitution forbids unequal treatment because of caste. *e.g.* For centuries, cleaning toilets was forced on certain castes, whatever the children wanted to be.
-- **Dalit**: The name that many people from castes once treated as untouchable use for themselves, to stand together against unfair treatment. *e.g.* Dr B. R. Ambedkar was born into a community treated as untouchable, and he chaired the committee that wrote India's Constitution.
+- **Dalit**: The name that many people from castes once treated as untouchable use for themselves, to stand together against unfair treatment. *e.g.* Dr B. R. Ambedkar was born into a community treated as untouchable, and he chaired the Drafting Committee of India's Constitution.
 - **zero-landfill**: A place that sends almost nothing to a dump. Wet waste is composted or turned to gas, and dry waste is sold for recycling. *e.g.* A town that turns its wet waste into gas and sells its dry waste is working towards zero-landfill.
 - **scavenger**: An animal who eats dead animals or leftover food, and so cleans up what would rot. *e.g.* A crow that picks scraps from the gutter is a scavenger.
-- **vulture**: A large bird who feeds on dead animals. In India, vultures once cleaned away dead cattle within hours. *e.g.* Vultures can strip a dead cow to the bones in less than an hour.
+- **vulture**: A large bird who feeds on dead animals. In India, vultures once cleaned away dead cattle within hours. *e.g.* Vultures can strip a dead cow to the bones within about an hour.
 - **refuse**: To say no to something you do not need, so that it never becomes waste. *e.g.* When you say no to a plastic straw, you refuse it.
 - **reuse**: To use a thing again as it is, without changing it into something else. *e.g.* Refilling the same steel bottle every day is reuse.
 - **single-use plastic**: A plastic thing made to be thrown away after one use, such as a straw, a spoon or a thin carry bag. *e.g.* A plastic spoon given with a snack is used for ten minutes and then thrown away.
 - **microplastics**: Pieces of plastic smaller than a grain of rice, made when bigger pieces break up. *e.g.* Scientists have found microplastics in sea salt, in fish and in rain.
 - **clean-up**: A time when people come together to remove waste from a shared place. *e.g.* A weekend beach clean-up on Versova beach in Mumbai began with two people.
 - **system**: A set of rules, services and designs that shape what everyone does, such as waste collection and the packaging that companies make. *e.g.* A city truck that collects sorted waste each morning is part of the waste system.
+- **atom**: A tiny piece of matter, far too small to see. Everything you can touch is built from atoms. *e.g.* A peel is made of atoms. When bacteria eat it, the same atoms go into the soil and into the bacteria.
 
 ## Explanations
 ### Clean means harmful things are kept away from mouths, water and soil. It is different from tidy · *defined*
 **Definition:** In science, a clean place is one where germs and harmful waste cannot easily reach people, other living beings, water or food. A tidy place is one that looks neat.
 
-A swept room looks clean. A glass of clear water looks clean. Looks can mislead. Germs are living beings too small to see, and some of them cause illness. One spoonful of clear water can hold more germs than there are people in a town. So scientists ask a different question from 'does it look neat?'. They ask whether anything harmful can travel from here to a mouth, to drinking water, to food or to the soil. A tidy lane with an open drain beside the hand pump is not clean. A muddy garden with a covered compost pit is.
+A swept room looks clean. A glass of clear water looks clean. Looks can mislead. Germs are living beings too small to see, and some of them cause illness. A spoonful of pond water can look clear and still hold millions of germs. So scientists ask a different question from 'does it look neat?'. They ask whether anything harmful can travel from here to a mouth, to drinking water, to food or to the soil. A tidy lane with an open drain beside the hand pump is not clean. A muddy garden with a covered compost pit is.
 - e.g. A shining white plate wiped with a dirty cloth carries more germs than before.
 - e.g. A forest floor is covered in fallen leaves and is not dirty. The leaves are food for the soil.
 - e.g. A neat row of plastic bottles on a beach is tidy, and the plastic is still in the wrong place.
@@ -84,19 +85,19 @@ India's towns and cities throw away about 1.6 lakh tonnes of solid waste every d
 - e.g. A banana peel, an eggshell and used tea leaves are wet waste.
 - e.g. A milk packet, a newspaper and a steel-wool scrubber are dry waste.
 - e.g. A used plaster, a blade and a tube light are harmful waste.
-- e.g. A family of four in a town makes more than one kilogram of waste a day, which is about 500 kilograms in a year.
+- e.g. Many town families of four make 1 to 2 kilograms of waste a day. At 2 kilograms a day, that is about 730 kilograms in a year.
 ### Three bins: wet, dry and harmful. Mixing them spoils all three · *defined*
 **Definition:** Segregation means keeping different kinds of waste apart from the moment they are thrown away.
 
-Tip leftover sambar onto a newspaper. Now the paper is soggy and smelly, and no paper mill will take it. The sambar is full of ink and cannot go to compost. Two useful things have become one useless thing. That is why India's rules, made in 2016, ask every home to keep three kinds of waste apart. Wet waste goes in the green bin. Dry waste goes in the blue bin, rinsed and dry. Harmful waste, such as nappies, sanitary pads, bandages, blades and batteries, is wrapped and kept in a third bin. Sorting takes a few seconds at home. Un-mixing a truckload later is nearly impossible.
+Tip leftover sambar onto a newspaper. Now the paper is soggy and smelly, and no paper mill will take it. The sambar is full of ink and cannot go to compost. Two useful things have become one useless thing. That is why India's rules, made in 2016, ask every home to keep three kinds of waste apart. Many towns use a green bin for wet waste and a blue bin for dry waste, rinsed and dry. Harmful waste, such as nappies, sanitary pads, bandages, blades and batteries, is wrapped and kept in a third bin. The colour of that bin differs from town to town, so ask your collector. Sorting takes a few seconds at home. Un-mixing a truckload later is nearly impossible.
 - e.g. A curd cup rinsed with a splash of water can be recycled. A curd cup with curd in it spoils the whole sack.
 - e.g. Broken glass and blades are wrapped in paper and marked, because a person will handle the bag.
 - e.g. Coconut shells and bones rot very slowly, so many towns ask for them in dry waste.
 - e.g. Old phones, chargers and bulbs are 'e-waste' and go to special collection points.
 - **Waste workers' groups, such as SWaCH in Pune and Hasiru Dala in Bengaluru:** Sorting at home is the single act that most changes a waste worker's day. Clean, dry material earns them money. Mixed waste cuts their hands and makes them ill.
-- **Some city engineers and companies:** People will never sort reliably, so cities should collect mixed waste and use machines to separate or burn it. Critics answer that machines sort wet Indian waste poorly and that burning it gives little energy and dirty smoke.
+- **Some city engineers and companies:** People will never sort reliably. So cities should collect mixed waste and use machines to separate it or burn it. Critics reply that machines sort wet Indian waste poorly. They add that burning it gives little electricity and dirty smoke.
 ### Wet waste becomes compost, with the help of countless small living beings · *defined*
-**Definition:** Compost is the dark, crumbly, soil-like material left when living beings such as bacteria, fungi and earthworms have eaten and broken down plant and food waste, with air.
+**Definition:** Compost is the dark, crumbly, soil-like material left when living beings have eaten plant and food waste, with air. These beings are bacteria, fungi and earthworms.
 
 A peel left in a pot of soil does not vanish. Someone eats it. Bacteria and fungi, who are living beings mostly too small to see, feed on the peel. Earthworms, ants and beetles join in. They need three things: food, air and a little dampness. As they feed they give off warmth, and a big heap can get hotter inside than a summer afternoon. In two to three months the peels have become compost, dark and crumbly, smelling like earth after rain. Plants grow well in it. Nothing was thrown away. What the peel was made of went from a plant, to you, to the soil, and is ready for a plant again.
 - e.g. A home composter can be a clay pot with holes, layered with dry leaves to let air in.
@@ -105,7 +106,7 @@ A peel left in a pot of soil does not vanish. Someone eats it. Bacteria and fung
 - e.g. In Alappuzha, Kerala, neighbourhoods compost their wet waste in shared bins instead of sending it to a dump.
 - **Albert Howard and Gabrielle Howard, British plant scientists who worked in Indore from 1924 to 1931:** They studied how Indian farmers returned every scrap to the soil and worked out measured steps for it, known as the Indore method. Albert Howard wrote that the peasants of India were his professors. Gabrielle Howard, a trained plant scientist, did much of the research and is often left out.
 - **Soil scientists today:** Compost improves how soil holds water and feeds soil life. It carries less plant food than factory fertiliser, so many say that feeding the world needs both.
-- **Vrikshayurveda of Surapala, a Sanskrit book on plant care from about the 10th century CE:** It gives recipes for a liquid manure called kunapajala, made by letting animal and plant remains break down in water, and says which trees to feed with it. Turning waste into plant food is an old, written practice in India.
+- **Vrikshayurveda of Surapala, a Sanskrit book on plant care from about the 10th century CE:** It gives recipes for a liquid manure called kunapajala. This is made by letting animal and plant remains break down in water. The book says which trees to feed with it. Turning waste into plant food is an old, written practice in India.
 ### The same peel in a dump, with no air, makes a gas that burns and warms the Earth · *defined*
 **Definition:** Methane is a gas made when wet waste rots without air. It burns easily, and in the air it traps heat.
 
@@ -123,7 +124,7 @@ A plastic bottle does not walk to a factory. In India, most recycling begins wit
 - e.g. A used drinks bottle can be shredded, melted and spun into thread for cloth.
 - e.g. A shiny chips packet is plastic and metal foil stuck together. It is very hard to recycle, so almost nobody buys it.
 - **Waste pickers' unions, such as the Kagad Kach Patra Kashtakari Panchayat in Pune, formed in 1993:** Waste picking is skilled work that serves the whole city and the environment. Pickers should be paid by the city, given safety gear and health care, and have first right to the dry waste.
-- **Some city planners:** Waste work by hand is unsafe and should be replaced by companies with trucks and machines. Pickers' groups answer that this takes away the living of the poorest workers and recycles less.
+- **Some city planners:** Waste work by hand is unsafe and should be replaced by companies with trucks and machines. Pickers' groups answer that this takes away the living of waste pickers and recycles less.
 ### Germs from toilet waste reach mouths by a few known paths · *defined*
 **Definition:** Faeces is the solid waste a body passes out. Germs in faeces can reach another person's mouth through fingers, flies, fields, water and food.
 
@@ -146,9 +147,9 @@ Most Indian villages have no sewer pipes. The twin-pit toilet was designed for t
 **Definition:** The Harappan civilisation was a group of cities in the north-west of the Indian subcontinent, at its height from about 2600 BCE to 1900 BCE.
 
 Planned sanitation in this land is very old. At Mohenjo-daro, Harappa, Lothal and Dholavira, from about 2600 BCE, many houses had a bathing floor of tightly fitted bricks. Some had a toilet. Waste water ran through a pipe in the wall into a drain along the street. The street drains were built of baked brick and covered with slabs. They sloped gently so that water kept moving. At some corners there were pits where solids settled and could be dug out. Few other cities in the world had anything like this at that time. Nobody knows who cleaned the drains, or how those workers were treated.
-- e.g. Lothal, in Gujarat, had drains leading from houses to covered street drains and soak pits.
+- e.g. Lothal, in Gujarat, had brick drains leading from houses to the street.
 - e.g. Dholavira, in Kutch, had large stone drains to carry storm water to its reservoirs.
-- e.g. Kautilya's Arthashastra, book 2, chapter 36, sets fines for throwing dirt on a road and for letting mud or water collect there, with higher fines on the king's road.
+- e.g. Kautilya's Arthashastra, book 2, chapter 36, sets fines for throwing dirt on a road. It also fines people who let mud or water collect there, with higher fines on the king's road.
 - e.g. Rome's great sewer, the Cloaca Maxima, was begun about 600 BCE, some 2,000 years after the Harappan drains.
 - **Archaeologists such as Jonathan Mark Kenoyer:** The drains show shared rules and shared spending across a whole city. Someone planned the slopes, and someone kept the drains clear for centuries.
 - **Historians who ask about the workers:** The Harappan script has not been read, so we do not know if cleaning was shared by all, paid work, or forced on one group. Good drains tell us about engineering. They do not tell us whether the system was fair.
@@ -157,7 +158,7 @@ Planned sanitation in this land is very old. At Mohenjo-daro, Harappa, Lothal an
 
 Spit looks like water. It carries whatever germs are living in a person's mouth, nose and chest. When someone with a chest illness coughs or spits, tiny drops fly into the air and can be breathed in by people nearby. Tuberculosis, called TB, spreads this way, mostly through coughing. India has more TB patients than any other country. Spit on a floor is also trodden through and touched by small children and by other animals. Spit mixed with paan or gutkha does one more thing. It is slightly acid and it stains. Red streaks on walls and stairs are hard to remove, and over years they can eat into steel.
 - e.g. On Kolkata's Howrah Bridge, the steel bases of the hangers were found to be thinning from years of gutkha spit, and were given protective covers.
-- e.g. The railways spend a very large sum and a great deal of water every year washing spit stains from stations and coaches.
+- e.g. Indian Railways spends crores of rupees and a great deal of water every year on washing spit stains from stations and coaches.
 - e.g. During the 2020 pandemic, spitting in public was made a punishable offence across India.
 - e.g. A person who needs to spit can use a wash basin, a toilet or a tissue that goes in a bin.
 - **Doctors who study tuberculosis:** TB spreads mainly through the air when a sick person coughs, and much less from spit on the ground. They support no-spitting rules for general hygiene, and say that finding and treating patients early prevents far more TB.
@@ -168,25 +169,25 @@ Spit looks like water. It carries whatever germs are living in a person's mouth,
 
 Why does a person who would never throw a wrapper on the floor at home throw one on the road? One wrapper seems to make no difference. And a road is nobody's and everybody's. In 1990 the American researcher Robert Cialdini tested this. People found a paper slip on their car. In a car park already covered in litter, far more of them dropped the slip on the ground than in a clean car park. Litter tells the next person 'this is what people do here'. A clean street sends the opposite message. So the first wrapper matters most, and so does the first person who picks one up.
 - e.g. A corner where one bag of rubbish is dumped at night often has ten bags by the weekend.
-- e.g. In 2008, researchers in the Netherlands found that people littered about twice as often in a lane with scribbled walls as in the same lane with clean walls.
+- e.g. In 2008, researchers in the Netherlands tested a lane. People littered about twice as often when the walls were scribbled on as when the same walls were clean.
 - e.g. In Mumbai's floods of 26 July 2005, plastic bags blocked storm drains and made the flooding worse.
 - e.g. Some towns paint rangoli or plant flowers on old dumping corners, and the dumping stops.
 - **Garrett Hardin, an American ecologist, in 1968:** He called this the 'tragedy of the commons'. Each person gains a little by misusing a shared thing, and the cost is spread over everyone. He believed only private ownership or strict government control could prevent ruin.
-- **Elinor Ostrom, an American scholar, who won the Nobel Prize in economics in 2009:** She studied forests, fisheries and water channels around the world, including in Nepal and India. She found many communities that cared for shared things very well for centuries, with their own rules, their own watchers and fair shares. The tragedy is not certain.
+- **Elinor Ostrom, an American scholar, who won the Nobel Prize in economics in 2009:** She studied forests, fisheries and water channels around the world, including in Nepal. She found many communities that cared for shared things very well for centuries, with their own rules, their own watchers and fair shares. The tragedy is not certain.
 ### Street drains lead to rivers, and most of India's waste water reaches them untreated · *defined*
-**Definition:** Sewage is the used water from toilets, kitchens and bathrooms. A sewage treatment plant cleans it before it is let into a river or the sea.
+**Definition:** Sewage is the used water from toilets, kitchens and bathrooms. A sewage treatment plant cleans the sewage before it is let into a river or the sea.
 
 A wrapper dropped in a gutter does not stay there. The next rain carries it to a bigger drain, then to a stream, then to a river and at last to the sea. The used water from homes takes the same road. In a treatment plant, bacteria in large tanks eat most of the waste in the water before it is let go. India's towns and cities make about 72,000 million litres of sewage a day. Less than one-third of it is treated. The rest flows into rivers and lakes as it is. People downstream bathe in that river, water crops with it and often drink from it. So do fish, birds and dolphins.
 - e.g. The Ganga passes about a hundred towns and cities, each adding waste water to what the last one sent down.
 - e.g. The Namami Gange programme, begun in 2014, builds treatment plants and stops drains from emptying straight into the river.
 - e.g. Flowers offered at temples are now collected in several cities and turned into compost and incense sticks, instead of going into the river.
-- e.g. The Ganga river dolphin, India's national water animal, is nearly blind and finds fish by sound. Dirty, noisy water makes this harder for them.
+- e.g. The Ganga river dolphin, India's national water animal, is nearly blind and finds fish by sound. Dirty water and boat noise make this harder for them.
 - **River engineers:** A river is a flow of water to be measured and managed. The cure is more treatment plants, enough clean flow kept in the river, and factories made to treat their own waste.
 - **The Uttarakhand High Court, in March 2017:** The court declared the Ganga and the Yamuna to be living persons in law, with rights of their own. The Supreme Court put this order on hold a few months later, because it raised hard questions, such as who answers if a river floods.
-- **The Māori people of the Whanganui River in New Zealand:** They say: 'I am the river, and the river is me.' In March 2017 New Zealand's parliament recognised the Whanganui as a legal person, with two guardians to speak for the river.
-- **The Atharva Veda, book 12, hymn 1, verse 35:** The poet tells the Earth: whatever I dig from you, may it quickly grow again. May I not pierce your vital parts or your heart. The hymn treats the Earth as someone who can be hurt.
+- **The Māori people of the Whanganui River in New Zealand:** They say: 'I am the river, and the river is me.' In March 2017 New Zealand's parliament recognised the Whanganui as a legal person. That means the law treats the river as someone with rights. Two guardians speak for the river.
+- **The Atharva Veda, book 12, hymn 1, verse 35:** The poet asks the Earth that whatever is dug from her may quickly grow again, and asks not to hurt her. The hymn treats the Earth as someone who can be hurt. Its words are given in full in the Roots part.
 ### The Swachh Bharat Mission: toilets for every home, and cleaner towns · *defined*
-**Definition:** The Swachh Bharat Mission is a programme of the Government of India, begun on 2 October 2014, to end defecation in the open and to manage waste in every village and town.
+**Definition:** The Swachh Bharat Mission is a Government of India programme that began on 2 October 2014. It aims to end defecation in the open and to manage waste in every village and town.
 
 On 2 October 2014, Mahatma Gandhi's birthday, the Government of India began the Swachh Bharat Mission. 'Swachh Bharat' means 'Clean India'. Its first aim was that nobody should have to defecate in the open by 2 October 2019. The government gave families money to build toilets, and reports that more than ten crore home toilets were built in villages. Its second aim is clean towns: door-to-door collection, sorted waste, and no more rubbish mountains. Each year a survey ranks cities on cleanliness. It was not India's first such programme. Earlier ones began in 1986 and 1999. This one was far larger, and it made cleanliness something the whole country talked about.
 - e.g. The mission's sign is Gandhi's round spectacles, with 'Swachh' on one lens and 'Bharat' on the other.
@@ -196,18 +197,18 @@ On 2 October 2014, Mahatma Gandhi's birthday, the Government of India began the 
 ### Did Swachh Bharat work? The counts disagree · *debated*
 **Definition:** To judge a programme, people compare what was measured before and after. Different ways of measuring can give different answers.
 
-In October 2019 the government declared rural India open defecation free. It had counted toilets, village by village. Independent researchers counted something else: what people actually do. In 2018 a team revisited villages in Bihar, Madhya Pradesh, Rajasthan and Uttar Pradesh. Open defecation there had fallen a great deal, from about 70 in every 100 people to about 44. That is a big change in four years, and it is not zero. About one in four people who owned a toilet still went in the open. A national health survey in 2019 to 2021 found about one household in five without a toilet in use. So both things are true. Very much changed, and the work is unfinished.
+In October 2019 the government declared rural India open defecation free. It had counted toilets, village by village. Independent researchers counted something else: what people actually do. In 2018 a team revisited villages in Bihar, Madhya Pradesh, Rajasthan and Uttar Pradesh. Open defecation there had fallen a great deal, from about 70 percent of people to about 44 percent. That is a big change in four years, and it is not zero. About one in four people who owned a toilet still went in the open. A national health survey in 2019 to 2021 found about one household in five without a toilet in use. So both things are true. Very much changed, and the work is unfinished.
 - e.g. A toilet with no water nearby, or with a pit the family fears to empty, often becomes a store room.
 - e.g. A 2024 study linked the mission to tens of thousands fewer deaths of babies each year.
 - e.g. Some reports described officials shaming or fining people to push up the numbers.
 - e.g. Women and girls gain most from a home toilet: safety at night, and no long wait for darkness.
-- **The Government of India:** More than ten crore toilets were built and every village declared itself open defecation free, checked by a national survey. Toilet coverage rose from under 40 in 100 homes to nearly all in five years.
-- **Aashish Gupta, Diane Coffey, Dean Spears and colleagues at the research group r.i.c.e., in 2018 and 2019:** Their repeat survey found a large fall in open defecation, and also that it remained common in the four states they studied. They found some pressure and threats used on poor families, and argued that counting toilets overstates success.
-- **Suman Chakrabarti and colleagues, in 2024:** Comparing districts over twenty years, they found that districts where many toilets were built under the mission had clearly fewer deaths of babies and young children. They estimated 60,000 to 70,000 fewer infant deaths a year.
+- **The Government of India:** More than ten crore toilets were built, and every village declared itself open defecation free, as checked by a national survey. Toilet coverage rose from under 40 percent of homes to nearly all in five years.
+- **Aashish Gupta, Diane Coffey, Dean Spears and colleagues at the research group r.i.c.e., in 2018 and 2019:** Their repeat survey found a large fall in open defecation. It also found that open defecation stayed common in the four states they studied. They found that some poor families were pushed or threatened, and argued that counting toilets overstates success.
+- **Suman Chakrabarti and colleagues, in 2024:** Comparing districts before and after the mission, they found that districts where many toilets were built under the mission had clearly fewer deaths of babies and young children. They estimated 60,000 to 70,000 fewer infant deaths a year.
 ### Who cleans India? Sanitation workers, an old injustice, and two views of it · *debated*
 **Definition:** A sanitation worker is a person whose job is to clean streets, drains, toilets, sewers or septic tanks. Manual scavenging means cleaning human waste by hand.
 
-Every clean street was cleaned by someone. Every sewer was unblocked by someone. In India, for many centuries, this work was forced on certain castes, the people now called Dalits, and their children were given no other choice. Cleaning human waste by hand was banned by law in 1993 and again in 2013. It still happens. Workers still go down into sewers and septic tanks without safety gear, and by the government's own count more than 300 died doing so in five recent years. A clean India has to mean safe machines, fair pay and respect for these workers. It also means the work is no longer tied to birth.
+Every clean street was cleaned by someone. Every sewer was unblocked by someone. In India, for many centuries, this work was forced on certain castes, the people now called Dalits, and their children were given no other choice. Cleaning human waste by hand was banned by law in 1993 and again in 2013. It still happens. Workers still go down into sewers and septic tanks without safety gear. By the government's own count, more than 300 died doing so in five recent years. A clean India has to mean safe machines, fair pay and respect for these workers. It also means the work is no longer tied to birth.
 - e.g. Bezwada Wilson, born into a family of manual scavengers in Karnataka, leads the Safai Karmachari Andolan and won the Ramon Magsaysay Award in 2016.
 - e.g. In 2018 engineers in Kerala built 'Bandicoot', a robot that goes down a manhole and clears blocked sewers, so that no person has to.
 - e.g. In Kerala, women of the Haritha Karma Sena collect sorted waste from homes as paid, uniformed workers.
@@ -216,19 +217,19 @@ Every clean street was cleaned by someone. Every sewer was unblocked by someone.
 - **B. R. Ambedkar, in his 1945 book 'What Congress and Gandhi Have Done to the Untouchables':** He wrote that in India a person is a scavenger because of birth and not because of the work. Calling the work noble, he argued, keeps the same people doing it. What is needed is an end to caste, and other work, schooling and equal rights for those families.
 - **Bezwada Wilson and the Safai Karmachari Andolan:** Building crores of toilets without sewers or machines means more pits and tanks for people to clean by hand. They ask that the money and attention given to toilets also go to ending manual scavenging.
 ### Places that did it: Indore, Ambikapur, Alappuzha and Mawlynnong · *defined*
-**Definition:** A zero-landfill place is one where almost nothing is sent to a dump, because wet waste is composted or turned to gas and dry waste is sold for recycling.
+**Definition:** A zero-landfill place sends almost nothing to a dump. Its wet waste is composted or turned to gas, and its dry waste is sold for recycling.
 
 Four places in India show that it can be done, each in a different way. Indore, in Madhya Pradesh, has been ranked India's cleanest city every year from 2017 to 2023. Every home hands over sorted waste to a truck each morning. A plant turns the city's wet waste into gas that runs its buses. Ambikapur, in Chhattisgarh, is cleaned by women's groups who sort waste into many kinds and sell it. Alappuzha, in Kerala, closed its dump and composts in each neighbourhood. Mawlynnong, a Khasi village in Meghalaya, has had bamboo dustbins on every path for years, and every family sweeps the lanes.
-- e.g. Indore's gas plant, opened in 2022, takes about 550 tonnes of wet waste a day.
+- e.g. Indore's gas plant, opened in 2022, takes in roughly 550 tonnes of wet waste a day.
 - e.g. Ambikapur opened a 'Garbage Café' in 2019, where a kilogram of plastic waste buys a full meal.
 - e.g. In 2017 the United Nations Environment Programme named Alappuzha among five cities in the world tackling waste well.
 - e.g. A travel magazine called Mawlynnong the cleanest village in Asia in 2003.
-- **City officials in Indore:** Success came from strict rules: daily collection from every door, fines for littering and mixing, and thousands of workers and vehicles paid for by a user fee.
+- **City officials in Indore:** Success came from strict rules. Every door gets a daily collection. Littering and mixing are fined. Thousands of workers and vehicles are paid for by a user fee.
 - **People's groups in Alappuzha and Mawlynnong:** Success came from neighbours agreeing among themselves, with little machinery and little cost. They say a big city's plants and trucks are costly to run and that small, local ways last longer.
 ### Other living beings clean India too, and losing them costs lives · *defined*
 **Definition:** A scavenger is an animal who eats dead animals or leftover food. Scavengers and decomposers together clear away what would otherwise pile up and rot.
 
-Long before any mission, India had cleaners. Vultures stripped a dead cow to the bones in under an hour. Crows, kites, ants, dung beetles and bacteria took what was left. In the 1990s India's vultures began to die. The scientist Vibhu Prakash, of the Bombay Natural History Society, recorded the crash. More than 95 in every 100 were lost in about fifteen years. In 2004 a team led by Lindsay Oaks found the cause. A pain medicine given to cattle, called diclofenac, poisoned vultures who ate the dead cattle. With the vultures gone, carcasses lay rotting, stray dogs grew in number, and rabies spread. India banned the medicine for animals in 2006.
+Long before any mission, India had cleaners. Vultures stripped a dead cow to the bones in under an hour. Crows, kites, ants, dung beetles and bacteria took what was left. In the 1990s India's vultures began to die. The scientist Vibhu Prakash, of the Bombay Natural History Society, recorded the crash. More than 95 in every 100 were lost in about fifteen years. In 2004 a team led by Lindsay Oaks found the cause. A pain medicine given to cattle, called diclofenac, poisoned vultures who ate the dead cattle. With the vultures gone, dead animals lay rotting, stray dogs grew in number, and rabies spread. India banned the medicine for animals in 2006.
 - e.g. A 2024 study estimated that the loss of vultures led to about one lakh extra human deaths a year in India between 2000 and 2005.
 - e.g. Black kites circle above markets and dumps in most Indian cities and pick up scraps.
 - e.g. Ants clear a dropped crumb of food from a floor within hours.
@@ -236,15 +237,15 @@ Long before any mission, India had cleaners. Vultures stripped a dead cow to the
 - **Ecologists:** Scavengers do public health work for free. The vulture crash is one of the clearest cases anywhere of people's health depending on another animal.
 - **The Parsi community of India:** For centuries Parsis have laid their dead in open towers for vultures, so that the body neither dirties the earth nor wastes fire. With vultures gone, the community has had to rethink an ancient practice.
 ### The cleanest waste is the waste never made: refuse and reuse come before recycle · *debated*
-**Definition:** To refuse is to not take a thing you do not need. To reuse is to use a thing again as it is. Both come before recycling, which needs energy, water and work.
+**Definition:** To refuse is to not take a thing you do not need. To reuse is to use a thing again as it is. Both come before recycling, which needs fuel or electricity, water and work.
 
 Sorting helps. Making less helps more. Every wrapper not taken is one that nobody has to collect, sort or bury. India has old habits that do this. Food is served on a banana leaf or a plate of stitched sal leaves, and the plate goes to a cow or the compost heap. Tea comes in a clay kulhad. Lunch travels in a steel tiffin for thirty years. Milk came in a returned bottle. On 1 July 2022 India banned a list of throw-away plastic items, such as straws, plastic cutlery and thin carry bags. People disagree on how well bans work, and on what should replace plastic.
 - e.g. A steel bottle refilled every day for a year replaces hundreds of plastic bottles.
 - e.g. At many weddings and temple feasts in South India, meals are still served on banana leaves.
-- e.g. A cloth bag kept by the door only helps if it goes to the market every time.
+- e.g. A cloth bag saves waste only if it is used many times, because making the bag took water, land and fuel.
 - e.g. Mending a strap, a zip or a chappal keeps a whole thing out of the bin.
 - **Zero-waste campaigners, such as Bea Johnson, and the makers of India's 2022 ban:** Recycling cannot keep up with what is made. The only sure answer is to stop making throw-away things and to bring back refill and reuse.
-- **Researchers who measure a product's whole life, such as a Danish government study in 2018:** A cotton or paper bag takes more water, land and energy to make than a thin plastic one. It is better only if it is used a great many times. Swapping plastic for another throw-away thing can make matters worse.
+- **Researchers who measure a product's whole life, such as a Danish government study in 2018:** A cotton or paper bag takes more water, land and fuel to make than a thin plastic one. It is better only if it is used a great many times. Swapping plastic for another throw-away thing can make matters worse.
 - **Street vendors and small shopkeepers:** Plastic is cheap, light and keeps food dry. Leaf plates and paper cost more and leak. They ask that affordable replacements come before fines.
 ### Small actions and big systems: a clean-up helps, and it is not enough alone · *debated*
 **Definition:** A small action is something one person or family can do. A system is the set of rules, services and designs that shape what everyone does.
@@ -259,13 +260,13 @@ In October 2015 a lawyer named Afroz Shah and his 84-year-old neighbour began pi
 - **Researchers who study habits, such as Robert Cialdini:** Both matter, because each feeds the other. People follow what they see others doing, and governments act when enough people care.
 
 ## Mostly agreed
-- Where people gain toilets, clean water and handwashing, fewer children fall ill and more grow to their full height. *How we know:* Studies across India and other countries, including work by Dean Spears published in 2013, found that children in places with more open defecation were shorter on average for their age, because repeated gut infections stop the body from using food well.
-- Cholera and typhoid spread through water and food dirtied by faeces, and not through bad smells. *How we know:* John Snow mapped cholera deaths around one water pump in London in 1854. In Calcutta in 1884, Robert Koch identified the cholera bacteria, and in 1959 Sambhu Nath De showed how their poison causes the illness.
+- Where people gain toilets, clean water and handwashing, fewer children fall ill and children grow taller. *How we know:* Dean Spears and colleagues compared many countries in 2013. Where more people went in the open, children were shorter on average for their age. Repeated gut infections stop the body from using its food well.
+- Cholera and typhoid spread through water and food dirtied by faeces, and not through bad smells. *How we know:* John Snow mapped cholera deaths around one water pump in London in 1854. In 1884 Robert Koch found the cholera germ in Calcutta. In 1959 Sambhu Nath De showed how its poison causes the illness.
 - Plastic in the sea breaks into smaller and smaller pieces and does not go away. *How we know:* Since Richard Thompson's team named 'microplastics' in 2004, they have been found in sea salt, in fish, in rain and in human blood. Their effect on health is still being studied.
-- Burning rubbish in the open makes harmful smoke. *How we know:* Measurements of the air beside burning waste find fine particles and poisonous gases, especially when plastic burns. Indian law bans open burning of waste.
+- Burning rubbish in the open makes harmful smoke. *How we know:* Measurements of the air beside burning waste find fine dust and poisonous gases, especially when plastic burns. Indian law bans open burning of waste.
 
 ## How we found out
-**John Snow, Filippo Pacini, Robert Koch, Sambhu Nath De, 1854 to 1959.** For centuries, people in many countries believed that illness came from bad air. The idea was called miasma. It fitted what they saw: the smelliest, dirtiest lanes had the most sickness. In 1854 cholera struck Soho, in London. A doctor named John Snow marked every death on a street map. The marks crowded round one water pump in Broad Street. Workers at a nearby brewery, who drank beer and not pump water, stayed well. Snow had the pump handle taken off. The leaders of the city did not accept his idea for years. In the same year, in Florence, Filippo Pacini saw the cholera germ under his microscope, and was ignored. In 1884, in Calcutta, Robert Koch found the same germ in a water tank used by sick families, and the idea of bad air began to give way. In 1959, also in Calcutta, Sambhu Nath De showed how the germ's poison makes the gut pour out water. His work led to the simple salt-and-sugar drink that now saves lakhs of lives. He was never given a major prize.  
+**John Snow, Filippo Pacini, Robert Koch, Sambhu Nath De, 1854 to 1959.** For centuries, people in many countries believed that illness came from bad air. The idea was called miasma. It fitted what they saw: the smelliest, dirtiest lanes had the most sickness. In 1854 cholera struck Soho, in London. A doctor named John Snow marked every death on a street map. The marks crowded round one water pump in Broad Street. Workers at a nearby brewery, who drank beer and not pump water, stayed well. Snow had the pump handle taken off. The leaders of the city did not accept his idea for years. In the same year, in Florence, Filippo Pacini saw the cholera germ under his microscope, and was ignored. In 1884, in Calcutta, Robert Koch found the same germ in a water tank used by sick families. The idea of bad air began to give way. In 1959, also in Calcutta, Sambhu Nath De showed how the germ's poison makes the gut pour out water. His work led to the simple salt-and-sugar drink that now saves lakhs of lives. He was never given a major prize.  
 *What people believed before:* People believed that bad smells themselves caused disease. It was believable because dirty, smelly places really did have more illness. Snow's map and the later finding of the germ showed that the cause was in the water, carried from human waste.
 
 ## Challenging perspectives
@@ -280,7 +281,7 @@ In October 2015 a lawyer named Afroz Shah and his 84-year-old neighbour began pi
   Against: India's Supreme Court put the order on hold. Critics ask who pays when a river with legal personhood floods a town, and say strong pollution laws, properly enforced, would do more.
 - **Litter is caused by careless people, so teaching the public is the cure.** (Anti-litter campaigns in many countries since the 1950s; *minority*)  
   For: Experiments show that reminders, clean surroundings and good examples do reduce littering.  
-  Against: Historians such as Finis Dunaway have shown that packaging companies funded many of these campaigns to turn attention away from throw-away packing itself. Where there are no bins and no collection, careful people have nowhere to put waste.
+  Against: Historians such as Finis Dunaway have shown that packaging companies paid for many of these campaigns. The campaigns turned attention away from throw-away packing itself. Where there are no bins and no collection, careful people have nowhere to put waste.
 
 ## Roots
 You have followed your family's waste out of the door and seen where it goes. Now we ask where 'my place' ends, and what that tells us about ourselves and the world.
@@ -289,18 +290,18 @@ You have followed your family's waste out of the door and seen where it goes. No
 *Habit it breaks:* We speak of 'my house' and 'outside' as two separate places, and feel that pushing dirt over the line makes it gone. That line is drawn by us. Germs, water, flies and wrappers cross it without noticing.  
 *Evidence:* In the dustbin count, not one item ended at the bin. Each had a next place and a next someone. The paths of germs from open waste to a mouth, by fingers, flies, fields, water and food, all cross from 'outside' to 'inside'.
 
-- *who am i:* Your body takes in food and water and gives back peels, breath, sweat and waste every day. What leaves you becomes part of soil, water and other bodies. So you are less a closed box and more a place that things pass through. Knowing this, you can ask where 'you' end.
+- *who am i:* Your body takes in food and water and gives back peels, breath, sweat and waste every day. What leaves you becomes part of soil, water and other bodies. So you are not a closed box. You are a place that things pass through. Knowing this, you can ask where 'you' end.
 - *what is life:* In a forest, one being's waste is always another being's food. A leaf feeds a fungus, a fungus feeds a beetle, a beetle feeds a bird. Life keeps going by passing things on. Composting a peel puts you back inside that passing-on.
 - *what is this world:* The Earth has no outside bin. Everything ever thrown away is still here, changed or unchanged. A world where nothing can leave is a world where everything is shared, whether we mean to share it or not.
 
-The lesson began with a house swept clean and dust outside the gate. It ends with the gate looking less like a border. The water in your tap passed through other homes upstream. The person who sorts your bag is touched by what you put in it. The crow, the cow and the river meet your waste before any machine does. Seeing these links plainly is the science of public health. It also points further. Consciousness is the ground from which the house, the street and the river all arise, and none of them stands apart. Many people do not accept this last step, and one strong objection is given below.
+The lesson began with a house swept clean and dust outside the gate. It ends with the gate looking less like a border. The water in your tap passed through other homes upstream. The person who sorts your bag is touched by what you put in it. The crow, the cow and the river meet your waste before any machine does. Seeing these links plainly is the science of public health. It also points further. Some traditions go one step further. They say that everything, the house, the street and the river, arises from one awareness, and none of it stands apart. Science cannot test this step, and many people do not accept it. One strong objection is given below.
 
 - **Thirukkural, verse 298, by Thiruvalluvar:** Outer cleanness is made by water. Inner cleanness is seen in truthfulness. (The lesson shows how water, soap and toilets make the outside clean. The verse adds that a person can do all this and still deceive. Telling ourselves the dust is 'gone' when it is only outside the gate is a small untruth of this kind.)
 - **Atharva Veda, book 12, hymn 1 (the Hymn to the Earth), verse 35:** Whatever I dig from you, O Earth, may it quickly grow again. May I not pierce your vital parts or your heart. (The poet takes from the Earth and promises not to harm her. The lesson's science shows what that takes: returning wet waste to soil and keeping poisons out of water. The hymn speaks to the Earth as a someone. Science describes the Earth's soils and waters, and has no test for whether the Earth is a someone.)
 - **The saying of the Whanganui Māori people of New Zealand, written into their country's law in 2017:** 'I am the river, and the river is me.' (The water in a child's body was river and rain not long ago, and will be again. That is measured science. The Māori saying takes it as a statement of who they are.)
-- Science (settled): The atoms in a peel, in soil, in a plant and in a child are the same atoms passed around. Matter is never used up. It only moves and changes form.
-- Science (open): Whether rivers, forests or the Earth as a whole can be said to have awareness is a question a few scientists and philosophers take seriously and most do not.
-- Other view, B. R. Ambedkar: Ambedkar warned that fine words about unity and the nobility of cleaning have long been used while one group of people was made to do all the dirty work. On his view, what matters is not a feeling of oneness. What matters is law, schooling, machines and equal rights, so that no person is born into cleaning up after others.
+- Science (settled): Everything is made of atoms, tiny pieces of matter far too small to see. The atoms in a peel, in soil, in a plant and in a child are the same atoms passed around. Matter is never used up. It only moves and changes form.
+- Science (open): A few scientists and philosophers take seriously the question of whether rivers, forests or the Earth as a whole have awareness. Most do not.
+- Other view, B. R. Ambedkar: Ambedkar warned that fine words about unity, and about the nobility of cleaning, have long been used while one group of people was made to do all the cleaning. On his view, what matters is not a feeling of oneness. What matters is law, schooling, machines and equal rights, so that no person is born into cleaning up after others.
 - Practice, Follow one thing (4 min): Give your child one thing from today's waste, such as a peel or a clean wrapper. Say: 'Hold this in your hand. Take three slow breaths. Now, with your eyes closed, go backwards. Where was this before it reached our home? Who touched it? Go as far back as you can.' Wait. Then say: 'Now go forwards. Where will it be tomorrow? In a month? In a hundred years? Who will meet it?' Then let your child put it in the right bin.
 - Ask: Where does your home end? At the door, the gate, the drain or the river?
 - Ask: In a forest nothing is waste. What would have to change for that to be true in your home?
@@ -308,7 +309,7 @@ The lesson began with a house swept clean and dust outside the gate. It ends wit
 - Ask: Is the Earth a thing we live on, or someone we live with? How would you decide?
 
 ## Deep and big questions
-- *deep:* Soil in a garden is soil, and the same soil on a bed is dirt. So is 'dirty' something in the thing, or something about where the thing is? (hint: Try it with a banana peel, a fallen leaf and a drop of water in three different places.)
+- *deep:* Soil in a garden is soil, and the same soil on a bed is dirt. So is 'dirty' a property of the thing, or does it depend on where the thing is? (hint: Try it with a banana peel, a fallen leaf and a drop of water in three different places.)
 - *deep:* A peel turns to soil, and the soil grows a plant. At what moment does the peel stop being waste? (hint: Think about who is eating the peel at each stage.)
 - *deep:* If you sweep your house clean and push the dust onto the road, have you made the world cleaner, dirtier or the same? (hint: Ask where the edge of 'your place' really is, and who drew it.)
 - *deep:* A forest has no dustbins and no sweepers, and is not buried in waste. What does a forest do that a city does not? (hint: Follow a fallen leaf in a forest and a wrapper in a city, step by step.)
@@ -372,7 +373,7 @@ Her father opened his mouth, and found that he did not know.
 ### g1 · Three Bins: a sorting card game with arguments (25 min)
 - **rules:** There are 36 cards. Each has an item on the front and the answer on the back. Keep the answer side hidden.; On your turn, take the top card and read the front aloud. Say which bin you would put it in, and where it goes next. Then place the card on that bin and turn it over to read the back.; You score 1 point if your bin matches the back. You score 1 more point if your next stop matches the back in the main idea. You do not need the same words.; A card marked Argue card has two answers that can be defended. Say the bin you would choose and give one reason. You score 2 points for any bin with a reason, and 1 point if you give no reason.; A card that holds something sharp, medical or dirty is harmful waste. Say aloud that only a grown-up touches it in real life.; With 2 to 4 players, take turns round the table until the pile is gone. With 4 players, each takes 9 cards.; The game ends when the pile is empty. The player with the most points wins. If there is a tie, the tied players share the win.; Playing alone, turn all 36 cards yourself and add up your points. The most you can score is 72. Try to beat your own score next time.; If you do not agree with the back of a card, say why. Then ask a grown-up what your own town or building does. Your town's rule may be different.
 - **Printable bin sheets: 3 bin sheets, to copy by hand:** Wet waste. Write this in big letters on a green sheet or a plain sheet with a green mark.; Dry waste. Write this in big letters on a blue sheet or a plain sheet with a blue mark.; Harmful waste. Write this in big letters on a red sheet or a plain sheet with a red mark.
-- **Printable cards: 36 item cards: 10 wet, 14 dry, 7 harmful and 5 argue cards:** a banana peel (back: Wet bin. Next stop: a compost pit or a gas plant. Bacteria and fungi eat the peel.); leftover sambar rice (back: Wet bin. Next stop: compost, a gas plant or an animal's bowl. Cooked food rots fast.); used tea leaves (back: Wet bin. Next stop: compost. Tea leaves feed soil and plants.); a wilted marigold garland (back: Wet bin. Next stop: compost. Flowers rot and become soil.); onion skins (back: Wet bin. Next stop: compost. Skins rot slowly but they do rot.); eggshells (back: Wet bin. Next stop: compost. The shell gives soil a little calcium.); dried curry leaves (back: Wet bin. Next stop: compost. They crumble into the heap.); a stale roti (back: Wet bin. Next stop: compost, or a cow or crow if put out clean. Starving animals eat it fast.); lemon peels (back: Wet bin. Next stop: compost. A few peels at a time is fine.); vegetable cuttings (back: Wet bin. Next stop: compost or a gas plant. Cut small, they rot faster.); a clean plastic bottle with its cap (back: Dry bin. Next stop: a waste picker, then a dealer, then a factory that makes thread.); a milk packet, rinsed and dried (back: Dry bin. Next stop: a waste picker, then a factory that makes pipes and sheets. Rinsing keeps the sack clean.); a newspaper (back: Dry bin. Next stop: a waste picker, then a paper mill. It must stay dry.); an empty steel tin (back: Dry bin. Next stop: a waste picker, then a metal dealer who melts it.); a cardboard box, flattened (back: Dry bin. Next stop: a waste picker, then a paper mill. Flat boxes are easy to carry.); a torn cotton T-shirt (back: Dry bin. Next stop: a cloth dealer or a rag shop. It can also be cut up and reused at home.); a whole glass jar, rinsed (back: Dry bin, handed over with care. Next stop: a waste picker and a glass factory. A grown-up carries glass.); a shiny chips packet (back: Dry bin. Next stop: very often none. It is plastic and foil stuck together, so almost nobody can recycle it.); a broken plastic toy (back: Dry bin. Next stop: a waste picker, who may find a buyer for the plastic.); a worn-out chappal (back: Dry bin. Next stop: a waste picker or a cobbler's scrap heap. Rubber and cloth parts can be used again.); an egg tray made of pressed paper (back: Dry bin. Next stop: a paper mill, or the garden, where it breaks down in damp soil.); a finished school notebook (back: Dry bin. Next stop: a waste picker, then a paper mill. Better still, use the clean pages first.); a clean steel spoon with a bent handle (back: Dry bin. Next stop: a metal dealer who melts it.); an old rubber band (back: Dry bin. Next stop: very often a dump. Reusing it is better.); a used bandage, wrapped in paper (back: Harmful bin. Next stop: a sealed bag taken by the city's special van. Only a grown-up handles it.); an old medicine strip with tablets left (back: Harmful bin. Next stop: a pharmacy or a health centre that takes old medicine. Never throw tablets into the drain.); a small battery from a clock (back: Harmful bin. Next stop: an e-waste collection point. Batteries hold metals that poison soil.); a broken tube light, wrapped in newspaper (back: Harmful bin. Next stop: a collection point for lamps. A grown-up wraps it and carries it.); a used sanitary pad, wrapped (back: Harmful bin. Next stop: a sealed bag in the city's special van. Wrapping protects the worker who sorts it.); a used nappy, wrapped (back: Harmful bin. Next stop: a sealed bag in the city's special van. Faeces inside carries germs.); a used razor blade, wrapped and marked (back: Harmful bin. Next stop: a sealed bag in the city's special van. A grown-up wraps it so that no hand is cut.); Argue card: a curd cup with curd still in it (back: Both answers can be defended. If you rinse the cup first, it goes in the dry bin and can be recycled. If you leave the curd in, the whole sack of dry waste is spoilt. Best answer: rinse it, then dry bin.); Argue card: a paper plate soaked with sambar (back: Both answers can be defended. A paper plate is dry waste. Once it is soaked it cannot be recycled and it rots, so many towns want it in wet waste. Scrape the food off first.); Argue card: a coconut shell (back: Both answers can be defended. A shell comes from a coconut palm, so the shell counts as wet waste, but it rots very slowly. Many towns ask for shells in dry waste. Your town's rule decides, so find out what it is.); Argue card: a used paper tea bag (back: Both answers can be defended. The tea inside is wet waste. Many tea bags have a plastic mesh, which is dry waste. Empty the leaves into wet and put the bag where your town says.); Argue card: a banana-leaf plate with food stuck on it (back: Both answers can be defended. A leaf rots, so it goes in the wet bin with the food. If you clean the leaf and let it dry, it can be used again as a wrapper or a bed for a plant.)
+- **Printable cards: 36 item cards: 10 wet, 14 dry, 7 harmful and 5 argue cards:** a banana peel (back: Wet bin. Next stop: a compost pit or a gas plant. Bacteria and fungi eat the peel.); leftover sambar rice (back: Wet bin. Next stop: compost, a gas plant or an animal's bowl. Cooked food rots fast.); used tea leaves (back: Wet bin. Next stop: compost. Tea leaves feed soil and plants.); a wilted marigold garland (back: Wet bin. Next stop: compost. Flowers rot and become soil.); onion skins (back: Wet bin. Next stop: compost. Skins rot slowly but they do rot.); eggshells (back: Wet bin. Next stop: compost. The shell gives soil a little calcium.); dried curry leaves (back: Wet bin. Next stop: compost. They crumble into the heap.); a stale roti (back: Wet bin. Next stop: compost, or a cow or crow if put out clean. Hungry animals eat it fast.); lemon peels (back: Wet bin. Next stop: compost. A few peels at a time is fine.); vegetable cuttings (back: Wet bin. Next stop: compost or a gas plant. Cut small, they rot faster.); a clean plastic bottle with its cap (back: Dry bin. Next stop: a waste picker, then a dealer, then a factory that makes thread.); a milk packet, rinsed and dried (back: Dry bin. Next stop: a waste picker, then a factory that makes pipes and sheets. Rinsing keeps the sack clean.); a newspaper (back: Dry bin. Next stop: a waste picker, then a paper mill. It must stay dry.); an empty steel tin (back: Dry bin. Next stop: a waste picker, then a metal dealer who melts it.); a cardboard box, flattened (back: Dry bin. Next stop: a waste picker, then a paper mill. Flat boxes are easy to carry.); a torn cotton T-shirt (back: Dry bin. Next stop: a cloth dealer or a rag shop. It can also be cut up and reused at home.); a whole glass jar, rinsed (back: Dry bin, handed over with care. Next stop: a waste picker and a glass factory. A grown-up carries glass.); a shiny chips packet (back: Dry bin. Next stop: very often none. It is plastic and foil stuck together, so almost nobody can recycle it.); a broken plastic toy (back: Dry bin. Next stop: a waste picker, who may find a buyer for the plastic.); a worn-out chappal (back: Dry bin. Next stop: a waste picker or a cobbler's scrap heap. Rubber and cloth parts can be used again.); an egg tray made of pressed paper (back: Dry bin. Next stop: a paper mill, or the garden, where it breaks down in damp soil.); a finished school notebook (back: Dry bin. Next stop: a waste picker, then a paper mill. Better still, use the clean pages first.); a clean steel spoon with a bent handle (back: Dry bin. Next stop: a metal dealer who melts it.); an old rubber band (back: Dry bin. Next stop: very often a dump. Reusing it is better.); a used bandage, wrapped in paper (back: Harmful bin. Next stop: a sealed bag taken by the city's special van. Only a grown-up handles it.); an old medicine strip with tablets left (back: Harmful bin. Next stop: a special collection point. Some pharmacies and health centres take old medicine, so ask. Never throw tablets into the drain.); a small battery from a clock (back: Harmful bin. Next stop: an e-waste collection point. Batteries hold metals that poison soil.); a broken tube light, wrapped in newspaper (back: Harmful bin. Next stop: a collection point for lamps. A grown-up wraps it and carries it.); a used sanitary pad, wrapped (back: Harmful bin. Next stop: a sealed bag in the city's special van. Wrapping protects the worker who sorts it.); a used nappy, wrapped (back: Harmful bin. Next stop: a sealed bag in the city's special van. Faeces inside carries germs.); a used razor blade, wrapped and marked (back: Harmful bin. Next stop: a sealed bag in the city's special van. A grown-up wraps it so that no hand is cut.); Argue card: a curd cup with curd still in it (back: Both answers can be defended. If you rinse the cup first, it goes in the dry bin and can be recycled. If you leave the curd in, the whole sack of dry waste is spoilt. Best answer: rinse it, then dry bin.); Argue card: a paper plate soaked with sambar (back: Both answers can be defended. A paper plate is dry waste. Once it is soaked it cannot be recycled and it rots, so many towns want it in wet waste. Scrape the food off first.); Argue card: a coconut shell (back: Both answers can be defended. A shell comes from a coconut palm, so the shell counts as wet waste, but it rots very slowly. Many towns ask for shells in dry waste. Your town's rule decides, so find out what it is.); Argue card: a used paper tea bag (back: Both answers can be defended. The tea inside is wet waste. Many tea bags have a plastic mesh, which is dry waste. Empty the leaves into wet and put the bag where your town says.); Argue card: a banana-leaf plate with food stuck on it (back: Both answers can be defended. A leaf rots, so it goes in the wet bin with the food. If you clean the leaf and let it dry, it can be used again as a wrapper or a bed for a plant.)
 - **Printable score sheet: Score sheet, to copy by hand: one column for each player:** Name of each player at the top of a column.; A row for each turn. Write 2, 1 or 0 points.; A last row for the total.
 - **g1s1 (6 min)**  
   *Parent does:* Cut out the 36 cards from the printed sheet. Write Wet, Dry and Harmful on three sheets of paper.  
@@ -423,7 +424,7 @@ Her father opened his mouth, and found that he did not know.
   *Child mode:* Put on gloves or pick up tongs. Wait for the grown-up before opening anything.
   - Note: If anyone has dust allergy or asthma, a cloth mask helps. Do not sort in the kitchen. If the bucket smells strongly, sort quickly and cover it again.
 - **e1s4 (12 min)**  
-  *Parent does:* Tip the bucket onto the newspaper. Using gloves or tongs, lift each item to one of three plates or sheets: wet, dry and harmful. Items that are stuck together, such as a leaf plate with food on it, go to the kind that most of the item is. Leave glass, blades, medicine and anything wet from the toilet to the grown-up.  
+  *Parent does:* Tip the bucket onto the newspaper. Using gloves or tongs, lift each item to one of three plates or sheets: wet, dry and harmful. Some items are stuck together, such as a leaf plate with food on it. Put these in the kind that most of the item is. Leave glass, blades, medicine, nappies, pads and bandages to the grown-up.  
   *Parent says:* Pick up one thing at a time. Say what it is, say where it goes, and put it down. If you are not sure, say both bins and why.  
   *Child mode:* Lift one thing at a time with tongs. Say the bin before you put it down.
   - Ask: Which item was hardest to place, and why? (good: Items made of two things stuck together, such as a shiny chips packet or a leaf plate with food on it.; Items that were wet and dry at once, such as a curd cup with curd in it.)
@@ -432,7 +433,7 @@ Her father opened his mouth, and found that he did not know.
   *Parent does:* Count the items in each heap and write the numbers in the table. If you have a scale, weigh each heap on its plate, then take away the plate's weight. Wrap up the harmful heap again. Compare the heaps by eye: which one is biggest, and by how much?  
   *Parent says:* Count each heap by tens, and write the number. Is it what you guessed?  
   *Child mode:* Count the items in each heap. Write each number in the table.
-  - Note: Do not worry if your counts are very different from the national picture of about half wet. Cities and homes are different, and so are the days. For a scale, weigh the paper too and take it away.
+  - Note: Do not worry if your counts are very different from the national picture of about half wet. Cities and homes are different, and so are the days. If you use a scale, weigh each empty plate first, then subtract it.
   - Check: A bucket holds 20 wet items, 12 dry items and 3 harmful items. What share is wet? → **About half**
 - **e1s6 (10 min)**  
   *Parent does:* For each heap, find out where it goes next and who meets it there. Ask the family, the person who collects waste, or the housing society. If nobody knows, use the usual route and write that nobody here knew.  
@@ -506,7 +507,7 @@ Her father opened his mouth, and found that he did not know.
   *Parent does:* Sweep a second heap the same way. This time, lift it into a dustpan and tip it into the dry bin or onto the newspaper. Ask your child to compare the two heaps: which one can still travel?  
   *Parent says:* This heap is in the dustpan. Can it travel now? Which heap made the room cleaner, the first or the second?  
   *Child mode:* Lift the second heap into the dustpan. Tip it in the bin.
-  - Ask: Which heap can still travel, and which cannot? (good: The pushed heap can travel. The dustpan heap is in a bin and goes where the collector takes it.; Clean means a harmful thing is kept from reaching people. Only the second heap did that.)
+  - Ask: Which heap can still travel, and which cannot? (good: The pushed heap can travel. The dustpan heap is in a bin and goes where the collector takes it.; Clean means that nothing harmful can travel to people. Only the second heap was kept where it cannot travel.)
   - Note: Ask: 'If I swept my dust onto the road, is the road cleaner or dirtier?'
 - **a1s4 (3 min)**  
   *Parent does:* Ask your child to draw the two paths. Then ask which neighbour they would rather have: a house that sweeps dust out, or a house that bins it.  
@@ -556,7 +557,7 @@ Her father opened his mouth, and found that he did not know.
   *Parent says:* Look at the water in the bowl. Would you drink it? What is in it that was not there before?  
   *Child mode:* Compare the bowl's water with clean water. What is different?
   - Ask: What does the water carry that it did not hold before? (good: Soil, paper bits and tiny pieces that make it cloudy.; A real drain also carries oil, soap and germs, which we cannot see here.)
-  - Note: Real street water carries far more than this. The drain does not clean the water. It only moves it.
+  - Note: Real street water carries far more than this. The drain does not clean the water. It only moves it. Do not drink the bowl's water.
 - **a3s4 (4 min)**  
   *Parent does:* Ask your child to colour the picture. Then pour the water down a drain or onto a plant. Put the paper bits and rice in the dry bin or compost.  
   *Parent says:* Where did our rain-water go? Where would it go in a real street?  
@@ -592,7 +593,7 @@ Her father opened his mouth, and found that he did not know.
 - **safety:** The grown-up does all the cutting with scissors. The child marks, ties and tests.
 - **record:** Draw your bag. Write how many knots you tied, how much weight it held, and what you would change.
 - **a5s1 (6 min)**  
-  *Parent does:* Lay the T-shirt flat. Use chalk to draw a wide curve across each side of the neck so that it becomes a scoop. Mark a line across the bottom, 8 centimetres from the hem, and strips 2 centimetres wide along it from side to side.  
+  *Parent does:* Lay the T-shirt flat. Use chalk to draw a wide curve across each side of the neck so that it becomes a scoop. Mark a line across the bottom, 8 centimetres from the hem, and strips 3 centimetres wide along it from side to side.  
   *Parent says:* This T-shirt is going to be a bag. We mark where the grown-up will cut.  
   *Child mode:* Lay the T-shirt flat. Draw the lines with chalk.
   - Note: Any cotton T-shirt works. Knit cloth does not fray, so no hem is needed.
@@ -602,7 +603,7 @@ Her father opened his mouth, and found that he did not know.
   *Child mode:* Hold the shirt flat while the grown-up cuts.
   - Note: Cut through both layers at once so that front and back strips match. Cut the strips up to, and not past, the line.
 - **a5s3 (8 min)**  
-  *Parent does:* Tie each front strip to the strip behind it in a double knot, working from one side to the other. Pull each knot tight. At the end, check that no gap is left between any two knots, by pulling the bottom of the bag a little wide.  
+  *Parent does:* Tie each front strip to the strip behind it in a double knot, working from one side to the other. Pull each knot tight. Then tie each strip to the nearest strip of the next pair, to close the small holes. Pull the bottom of the bag a little wide and check that no gap is left.  
   *Parent says:* Tie a front strip to the one behind it. Tie it twice. Pull it tight. Go along the whole bottom.  
   *Child mode:* Tie each pair of strips twice. Pull tight. Go from side to side.
   - Ask: Why do we tie each pair twice? (good: One knot can slip under weight. A double knot holds.; Any answer about a knot coming loose is a good answer.)
@@ -614,7 +615,7 @@ Her father opened his mouth, and found that he did not know.
   - Note: If the bag leaks, tie another knot over the gap. A small gap is easy to mend.
   - Check: The bag leaks rice at the corners. What is the best fix? → **Tie each corner strip a second time.**
 - **a5s5 (4 min)**  
-  *Parent does:* Ask your child to hang the bag by the door, and to say how many thin carry bags it can replace in a year.  
+  *Parent does:* Ask your child to hang the bag by the door. Then ask how many thin carry bags it could replace in a year.  
   *Parent says:* Where will we keep it so that it goes with us every time?  
   *Child mode:* Hang the bag by the door.
   - Think: A cloth bag only helps if it goes to the market every time. What would make you remember?
@@ -629,13 +630,14 @@ Her father opened his mouth, and found that he did not know.
   *Parent says:* These two jars hold the same peels. One has air and soil. One has no air. What do you think will happen to each peel?  
   *Child mode:* Put the same peels in both jars. Add soil and paper to A. Add water to B.
   - Ask: What do you think will happen in jar A and jar B, and why? (good: In A, the peels will shrink, go dark and turn to soil, because tiny living beings eat them with air.; In B, the water will smell and look cloudy, because different bacteria work without air.)
-  - Note: Use a warm shelf, about 25 to 35 degrees. In cold weather, things go slower, and it may take 10 extra days. Keep both jars in the same place so the test is fair.
+  - Note: Use a warm shelf, about 25 to 35 degrees. In cold weather, things go slower, and it may take 10 extra days. Keep both jars in the same place so the test is fair. It is not a perfect test, because jar A also has soil and paper. It is a good first look at air against no air.
+  - Wait: Leave the jars for two days.
 - **p1s2 (5 min)**  
   *Parent does:* Look at both jars from the outside. Draw them and write what you see. Do not open them.  
   *Parent says:* Look closely. What has changed in A? What has changed in B? How is the water?  
   *Child mode:* Look at both jars. Draw what you see. Do not open them.
   - Note: By day 3, jar B often has small bubbles, cloudy water and some froth. Jar A may have some white threads. Both are normal.
-  - Wait: Leave the jars for two days.
+  - Wait: Leave the jars for four days, until day 7.
 - **p1s3 (10 min)**  
   *Parent does:* Look and measure again. Wave the smell towards you with a hand from about an arm's length from each jar. Write one word for each smell, such as earthy, sour, sweet or none. Measure the largest peel in jar A without opening, through the plastic.  
   *Parent says:* Smell it from far away, with your hand like a fan. Which smells like soil? Which smells sour?  
@@ -649,18 +651,18 @@ Her father opened his mouth, and found that he did not know.
   - Ask: Which jar smells stronger now, and why? (good: Jar B smells stronger, sour or like rotten eggs, because bacteria that live without air make smelly gases.; Jar A smells more like soil, because bacteria with air make little smell.)
   - Wait: Leave the jars for one more week.
 - **p1s5 (20 min) · grown-up needed**  
-  *Parent does:* With gloves on, empty jar A onto soil in a pot or the wet waste bin. A grown-up pours jar B into a toilet or onto soil far from the house, and puts the peels in the wet bin. Wash the jars. Compare the two drawings and write three sentences.  
+  *Parent does:* With gloves on, empty jar A onto soil in a pot or into the wet waste bin. A grown-up pours jar B into a toilet or onto soil far from the house. The peels go in the wet bin. Wash the jars. Compare the two drawings and write three sentences.  
   *Parent says:* Now compare jar A and jar B. Which one turned into soil? Which one was a smelly mess? What is the difference?  
   *Child mode:* Wash your hands with soap. Write three sentences about what you found.
-  - Ask: What do jars A and B tell you about a dump with no air? (good: In a dump with no air, wet waste rots in a smelly way and gives off methane, as in jar B.; A heap with air becomes soil, as in jar A.)
+  - Ask: What do jars A and B tell you about a dump with no air? (good: In a dump with no air, wet waste rots in a smelly way and gives off gases such as methane. Jar B showed this in a small way.; A heap with air becomes soil, as in jar A.)
   - Note: What the test cannot tell us: a jar is not a real dump or a real compost heap. Real heaps are hotter, bigger and have worms. Ask the child how they would change the test to be closer to the real thing.
 ### p2 · A week of less: refuse and reuse (65 min, 7 days)
 - **record:** Keep a table with the day, the number of single-use things thrown away and the ways you tried. Draw two bars, one for day 1 and one for day 7. Write what got easier, what stayed hard and who could change that.
 - **schedule:** day 1: Make a tally sheet and count every wrapper, bottle, thin bag and cup thrown away in the day. (15 min); day 2: Choose three ways to make less waste. (10 min); day 3: Try your three ways. Mark each time you manage it. (5 min); day 4: Try your three ways. Mark each time you manage it. (5 min); day 5: Try your three ways. Mark each time you manage it. (5 min); day 6: Try your three ways. Mark each time you manage it. (5 min); day 7: Count again for one day, draw both counts as bars and talk about what was hard. (20 min)
 - **p2s1 (15 min)**  
-  *Parent does:* Tape a sheet of paper beside the dustbin. Explain that everyone makes a mark each time they throw away a wrapper, a bottle, a cup, a thin bag or a plastic spoon. Choose an ordinary day. Do not touch the waste to count. Count at the moment of throwing.  
+  *Parent does:* Tape a sheet of paper beside the dustbin. Tell the family what to do. Everyone makes a mark each time they throw away a wrapper, a bottle, a cup, a thin bag or a spoon. Choose an ordinary day. Do not touch the waste to count. Count at the moment of throwing.  
   *Parent says:* Today we will count every wrapper, bottle and thin bag that we throw away. We just count. We do not change anything yet.  
-  *Child mode:* Make a mark on the sheet each time you throw away a wrapper or a bottle.
+  *Child mode:* Mark the sheet each time you throw away a wrapper or bottle.
   - Note: Pick an ordinary day. A birthday or festival would make an unusual count. If the family forgets some marks, say so on the sheet. A rough count is fine.
 - **p2s2 (10 min)**  
   *Parent does:* Show your child these ways. Carry a steel bottle. Say no to a straw or spoon. Carry a cloth bag to the shop. Use a steel tiffin. Use a plate and not a disposable one. Mend something. Ask your child to choose three.  
@@ -678,7 +680,7 @@ Her father opened his mouth, and found that he did not know.
   *Parent does:* On day 7, tally again for one ordinary day. Then draw the two bars on one graph and talk about what changed.  
   *Parent says:* Is the bar shorter? By how much? What was easier than you thought? What stayed hard?  
   *Child mode:* Count again today. Draw two bars. Write what changed.
-  - Check: Day 1 had 24 marks and day 7 had 18. What is the change? → **6 fewer, or a quarter fewer**
+  - Check: Day 1 had 30 marks and day 7 had 24. What is the change? → **6 fewer, or a fifth fewer**
   - Think: What would make the next week's bar even shorter, and who would need to help?
 
 ## Challenges
@@ -735,7 +737,7 @@ Her father opened his mouth, and found that he did not know.
   *Parent does:* Talk about who would empty a real trap, and when. Ask your child to draw the person.  
   *Parent says:* Who will empty the trap every day? What would they need to do the work safely?  
   *Child mode:* Draw the person who empties the trap. Write what they need.
-  - Note: This links to the sanitation workers in the lesson. A machine can help, but only a person can empty it.
+  - Note: This links to the sanitation workers in the lesson. A machine can help, and a person still has to empty the trap. That person needs gloves, fair pay and thanks.
   - Think: A trap in a real drain must be cleaned every day. Who does that, and are they paid, safe and thanked?
 ### ch3 · A hand-wash station that uses one mug of water and no tap (35 min)
 - **problem:** Make a hand-wash station that gives enough water to wash both hands for 20 seconds with soap. It must use less than one mug of water, about 250 millilitres. It must work without touching a tap with a dirty hand. There is more than one good answer.
@@ -753,7 +755,7 @@ Her father opened his mouth, and found that he did not know.
   *Parent does:* A grown-up makes two or three small holes in the cap of the bottle with a nail or a clean needle. Fill the bottle with water and tip it to see how it pours. Tie a string so that a foot or an elbow can tip it. Tie the soap near the station.  
   *Parent says:* The grown-up makes the holes. You tie the string and the soap.  
   *Child mode:* Tie the string and the soap. Wait for the grown-up to make the holes.
-  - Note: A thick needle pushed through the cap makes a small hole. Too many holes make the water run out too fast.
+  - Note: A thick needle pushed through the cap makes a small hole. Too many holes make the water run out too fast. If water runs out by itself when the bottle is upright, the holes are too big, so cover one with tape. If nothing comes out when you tip it, make one more hole.
 - **ch3s3 (10 min)**  
   *Parent does:* Test the station. Wash both hands with soap for 20 seconds. Measure the water used. Check whether each hand needed to touch the bottle.  
   *Parent says:* Time it, wash with soap, and rinse. How much water did you use? Did you touch the dirty part?  
@@ -774,8 +776,8 @@ Her father opened his mouth, and found that he did not know.
 3. (mcq) Why is a banana peel in the dry bin a problem?  
    Options: It wets and spoils the paper and plastic / It makes the bin too heavy / It turns the plastic yellow  
    **Answer:** It wets and spoils the paper and plastic. *Why:* A wet peel soaks paper, and dirty plastic is hard to sell. If you chose heavy, think about what the buyer sees: a sack that cannot be used.
-4. (fill) India's rules ask every home to keep ____ kinds of waste apart.  
-   **Answer:** ['3', 'three']. *Why:* Wet, dry and harmful. Each is handled in a different way.
+4. (fill) Wet waste soaks and spoils dry waste, so homes keep wet, dry and ____ waste in three separate bins.  
+   **Answer:** ['harmful']. *Why:* Wet, dry and harmful. Each is handled in a different way.
 5. (match) Match each helper or thing to what it does for a compost heap.  
    **Answer:** bacteria and fungi → break the peels into compost; earthworms → mix air into the soil; methane → a gas that burns and traps heat; dry leaves in the heap → let air in. *Why:* Compost is made by living beings eating peels with air. Methane is what you get instead when there is no air.
 6. (order) Put these in order, first to last: what happens to a peel in a compost pot.  
@@ -799,16 +801,16 @@ Her father opened his mouth, and found that he did not know.
    **Answer:** Answers vary. A strong answer says that sorting only helps if the truck keeps the bags apart. So the resident and the city both have a part.. *Why:* Both views are right in part. The resident is right that mixing in the truck cancels the sorting. The cooperative is right that sorting at home is what makes recycling possible.
 15. (mcq) Which small action keeps the most waste from ever being made?  
    Options: Refusing a thing you do not need / Recycling it after one use / Burning it in the street  
-   **Answer:** Refusing a thing you do not need. *Why:* If you refuse a thing, it never has to be made, carried, sorted or buried. Recycling needs energy and work. Burning plastic makes harmful smoke.
+   **Answer:** Refusing a thing you do not need. *Why:* If you refuse a thing, it never has to be made, carried, sorted or buried. Recycling needs fuel, water and work. Burning plastic makes harmful smoke.
 16. (draw) Draw one corner of your street. Mark where you would put a bin, and say why you chose that place.  
    **Answer:** A street corner with a bin near where people wait or eat. A reason, such as people drop wrappers while they wait. The bin is clear of the drain.. *Why:* People use a bin if it is close to where waste is made. A bin in a place where nobody passes does not help.
 ### Counts, paths and who cleans (stretch) (stretch, 16 questions)
-1. (mcq) A glass of clear water is tested and found to hold germs. What does that show?  
+1. (mcq) A glass of clear-looking water is tested and found to hold cholera germs. What does that show?  
    Options: Clear water can still be unsafe to drink / Germs are always visible / All germs cause illness  
-   **Answer:** Clear water can still be unsafe to drink. *Why:* Looking clean is not being clean. Many germs are too small to see, and some cause illness. Not all germs do, because most are harmless.
+   **Answer:** Clear water can still be unsafe to drink. *Why:* Looking clean is not being clean. Cholera germs are too small to see. Not all germs cause illness, because most are harmless, but this test found one that does.
 2. (truefalse) A forest floor covered in fallen leaves is dirty, because it is untidy.  
    **Answer:** False. *Why:* False. The leaves feed the soil, and nothing harmful travels from them to a mouth. Untidy and unclean are different things.
-3. (fill) A city makes 1.6 lakh tonnes of waste a day. Half is wet, which is ____ thousand tonnes.  
+3. (fill) India's towns and cities make 1.6 lakh tonnes of waste a day. Half is wet, which is ____ thousand tonnes.  
    **Answer:** ['80']. *Why:* 1.6 lakh is 160 thousand. Half of 160 thousand is 80 thousand tonnes.
 4. (match) Match each mix-up to what it spoils.  
    **Answer:** leftover food in a bag of paper → the paper cannot be recycled; broken glass in a mixed bag → a sorter's hands are cut; a battery in the wet bin → poison reaches the compost; curd in a plastic cup → the whole sack of plastic. *Why:* Mixing waste moves a problem from one heap to all of them, and the next person pays for it.
@@ -844,8 +846,8 @@ Her father opened his mouth, and found that he did not know.
 1. (truefalse) Tipping dust outside the gate makes the whole neighbourhood cleaner.  
    **Answer:** False. *Why:* False. The dust has only moved. A neighbour's house, a drain or a person's lungs now meets it.
 2. (mcq) A town's truck tips sorted wet and dry bags together into one pile. What is most likely?  
-   Options: Mixing in the truck spoils both heaps / Nothing, because trucks sort by themselves / The dry waste becomes wet  
-   **Answer:** Mixing in the truck spoils both heaps. *Why:* Sorting at home only helps if the heaps stay apart. A mixed pile has the same problem as a mixed bin. The dry waste is made dirty and is no longer wet or dry.
+   Options: Mixing in the truck spoils both heaps / Nothing, because trucks sort by themselves / The wet waste becomes dry  
+   **Answer:** Mixing in the truck spoils both heaps. *Why:* Sorting at home only helps if the heaps stay apart. A mixed pile has the same problem as a mixed bin. Wet waste soaks the dry waste, so both are spoilt.
 3. (truefalse) A peel buried deep in a dump rots in the same way as in a compost pit.  
    **Answer:** False. *Why:* False. In a pit with air, bacteria and fungi make compost. In a dump with no air, other bacteria make methane.
 4. (write) Methane is both a danger and a fuel. How can it be both?  
@@ -867,7 +869,7 @@ Her father opened his mouth, and found that he did not know.
    Options: A littered place leads more people to litter / Wrappers rot in a day / Wind carries every wrapper away  
    **Answer:** A littered place leads more people to litter. *Why:* Researchers found that people dropped more litter where there was already litter. One wrapper changes what the next person does.
 12. (truefalse) Recycling is always better than reusing a thing as it is.  
-   **Answer:** False. *Why:* False. Recycling needs energy, water and work. Using a thing again as it is, or refusing it, avoids all of that.
+   **Answer:** False. *Why:* False. Recycling needs fuel or electricity, water and work. Using a thing again as it is, or refusing it, avoids all of that.
 13. (draw) Draw the path of a wrapper from a lane to the sea. Mark two places where it could be stopped.  
    **Answer:** Lane, then drain, then bigger drain, stream, river, sea. Stops marked, for example a bin at the lane, a grill or trap at the drain, a treatment plant before the river.. *Why:* A wrapper follows the water. The earlier it is stopped, the fewer beings meet it.
 14. (write) Soil in a garden is soil. On a bed, it is dirt. Is 'dirty' in the thing or in the place?  
@@ -880,7 +882,7 @@ Her father opened his mouth, and found that he did not know.
 ## Videos
 - **How a twin-pit pour-flush toilet works** (to find, 5 min) id `to find`: To see the pan, the pipe bend and the two pits, and how waste becomes safe manure in the resting pit. *Check:* Find a short, clear animation or a talk by a sanitation organisation. Check that it shows the two pits taking turns. A parent should preview it.
 - **Composting at home with peels and dry leaves** (to find, 5 min) id `to find`: To see a home compost pot or pit being made and turned, and what finished compost looks like. *Check:* Choose a video made in India if possible, using a clay pot or a bin. Check that it uses air, dry leaves and a damp heap. A parent should preview it.
-- **How waste pickers sort and sell dry waste** (to find, 6 min) id `RV96feEKhuk`: To meet the people who sort bottles, paper and metal, and see how each kind has its own buyer. *Check:* Found by YouTube search: "How waste is sorted for recycling" by CNA. Title checked automatically; a parent may still preview it.
+- **How waste is sorted for recycling** (CNA, 6 min) id `RV96feEKhuk`: To see how recycling is sorted, and to compare it with the hand sorting that waste pickers do in India. *Check:* The title and channel were checked automatically. The film may be about another country and may show machines. A parent should preview it.
 
 ## Quiz
 1. (mcq) A lane is swept and neat, but an open drain runs beside its hand pump. Is it clean?  
@@ -888,10 +890,10 @@ Her father opened his mouth, and found that he did not know.
    **Answer:** No, because germs can reach the water. *Why:* Clean means harmful things are kept away from mouths, water and food. A neat lane can still let germs from the drain reach the pump. If you chose yes, you judged by looks and not by where things can travel.
 2. (mcq) Which place is cleanest in the scientific sense?  
    Options: A shiny plate wiped with a dirty cloth / A swept house with dust tipped outside / A muddy garden with a covered compost pit  
-   **Answer:** A muddy garden with a covered compost pit. *Why:* A plate wiped with a dirty cloth gets germs and not fewer, and dust tipped outside has only moved. A covered pit keeps harmful things away from people even though the garden is muddy.
+   **Answer:** A muddy garden with a covered compost pit. *Why:* A plate wiped with a dirty cloth gets more germs, not fewer, and dust tipped outside has only moved. A covered pit keeps harmful things away from people even though the garden is muddy.
 3. (mcq) Leftover sambar is tipped onto a pile of newspapers. What is the main problem?  
    Options: The paper becomes too heavy to lift / Two useful things become one that nobody can use / The sambar will never rot  
-   **Answer:** Two useful things become one that nobody can use. *Why:* Soaked paper cannot go to a paper mill, and food full of ink cannot go to compost. If you chose the weight, you saw a small problem and missed that both heaps are spoilt.
+   **Answer:** Two useful things become one that nobody can use. *Why:* Soaked paper cannot go to a paper mill, and food mixed with paper and ink cannot go to compost. If you chose the weight, you saw a small problem and missed that both heaps are spoilt.
 4. (mcq) Which of these belongs in the harmful bin?  
    Options: A used bandage / A banana peel / A rinsed milk packet / A cotton rag  
    **Answer:** A used bandage. *Why:* A bandage can carry germs and can hurt the person who sorts it, so it is wrapped and kept apart. A peel is wet waste, a clean packet is dry waste, and a rag is dry waste.
@@ -954,8 +956,8 @@ Her father opened his mouth, and found that he did not know.
 - **What do tiny pieces of plastic do inside living bodies?** Microplastics have been found in fish, in birds and in human blood. Studies on health effects are new and small, and scientists cannot yet say how much harm they cause.
 - **What makes a whole village or city change a habit and keep the change?** Indore and Mawlynnong changed in very different ways. Researchers have ideas about rules, examples and pride, and cannot yet predict which places will hold their gains.
 - **How many people in India still defecate in the open?** Government records and independent surveys give different numbers, because they count different things, and asking people about a private habit is hard to do accurately.
-- **Can any living being eat plastic fast enough to matter?** In 2016 Japanese scientists found bacteria who slowly digest one kind of bottle plastic. Whether such bacteria or their enzymes can ever clear real waste at useful speed is not known.
-- **Should rivers, forests and animals have rights in law?** Courts in India, New Zealand, Ecuador and Colombia have answered in different ways. It is a question of values as well as science, and countries are still working it out.
+- **Can any living being eat plastic fast enough to matter?** In 2016 Japanese scientists found bacteria who slowly digest one kind of bottle plastic. Whether such bacteria, or the tools they make to break plastic, can ever clear real waste at useful speed is not known.
+- **Should rivers, forests and animals have rights in law?** Courts and laws in India, New Zealand, Ecuador and Colombia have answered in different ways. It is a question of values as well as science, and countries are still working it out.
 
 ## Questions to ask kids
 - Think of the last thing you threw away. Where is it right now, and who has touched it since?
@@ -969,18 +971,18 @@ Her father opened his mouth, and found that he did not know.
 
 ## Jokes
 - What do you call a banana peel on its way to the compost pit? *A peel-grim on a long journey!*
-- Why do crows make such good street sweepers? *They clean up everything, and then they caw about it.*
+- Why do crows make such good street sweepers? *They pick up every crumb, and they are not shy about telling the whole street.*
 - Why was the soap so honest? *It always came clean.*
 - Knock knock. Who is there? Litter. Litter who? *Litter-ally everyone, if nobody picks me up!*
 - Why did the vulture win the medal for the cleanest table? *She never left a single crumb.*
-- Why did the earthworm love the compost heap? *It was an all-you-can-eat café, and the menu changed every day.*
+- Why did the earthworm love the compost heap? *The heap was an all-you-can-eat café, and the menu changed every day.*
 - The cloth bag said to the thin carry bag, 'See you around.' What did the thin bag answer? *'I will not. I am single-use.'*
 - Why did the tippy-tap get so much attention? *It was always dripping with style.*
 - Why did the dustbin go to the doctor? *It had too much on its plate, and everyone kept dumping on it.*
 
 ## Connected maths
 - In a dustbin count there were 20 wet items, 12 dry items and 3 harmful items. What fraction of all the items is wet? About what fraction is dry? **Wet: 20 out of 35, which is a little more than half. Dry: 12 out of 35, which is a little more than one-third.**. Total = 20 + 12 + 3 = 35. Wet is 20 ÷ 35, a bit more than 17.5 ÷ 35 = half. Dry is 12 ÷ 35, a bit more than 11.67 ÷ 35 = one-third. (queues `math.fractions.fractions-of-a-whole.L3`)
-- India's towns and cities make about 1.6 lakh tonnes of waste a day, or roughly half a kilogram for each person. About how many people is that? (1 tonne is 1,000 kilograms.) **About 32 crore people.**. 1.6 lakh tonnes = 160,000 × 1,000 = 160,000,000 kilograms. Divided by half a kilogram each: 160,000,000 ÷ 0.5 = 320,000,000, which is 32 crore. (queues `math.fractions.ratio-and-proportion.L3`)
+- India's towns and cities make about 1.6 lakh tonnes of waste a day, or roughly one-third of a kilogram for each person. About how many people is that? (1 tonne is 1,000 kilograms.) **About 48 crore people.**. 1.6 lakh tonnes = 160,000 × 1,000 = 160,000,000 kilograms. Dividing by one-third of a kilogram is the same as multiplying by 3: 160,000,000 × 3 = 480,000,000, which is 48 crore. (queues `math.fractions.ratio-and-proportion.L3`)
 - A family of four makes about 2 kilograms of waste a day. How much waste does each person make in a year of 365 days? **About 182 kilograms.**. 2 ÷ 4 = 0.5 kilograms for each person each day. 0.5 × 365 = 182.5 kilograms in a year. (queues `math.fractions.ratio-and-proportion.L3`)
 - A tippy-tap uses 250 millilitres for one hand wash. A running tap uses about 1 litre. A bucket holds 10 litres. How many washes does the bucket give with each method? **With the tippy-tap, 40 washes. With the running tap, 10 washes.**. 10 litres = 10,000 millilitres. 10,000 ÷ 250 = 40. 10,000 ÷ 1,000 = 10. The tippy-tap gives four times as many washes. (queues `math.weight-capacity.capacity.L3`)
 - A family counted 24 wrappers and bottles on day 1 and 18 on day 7. By what fraction did the count fall? If it kept falling by the same amount each day, after how many more days would it reach zero? **It fell by one quarter. It fell by 6 in 6 days, which is 1 a day, so it would reach zero after 18 more days. It cannot really keep falling like that.**. 24 − 18 = 6, and 6 out of 24 is one quarter. 6 fewer in 6 days is 1 fewer each day. 18 ÷ 1 = 18 more days. In real life, some waste always remains, so the pattern has to slow down. (queues `math.data.bar-charts.L3`)
@@ -990,8 +992,8 @@ Round and Round (sci.environment.L3): Topic-level song for Caring for the enviro
 
 ## Links
 - [Central Pollution Control Board, solid waste management](https://cpcb.nic.in) · website: For the parent. The government body that publishes India's yearly waste and sewage figures used in this lesson.
-- [Swachh Bharat Mission on MyGov](https://swachhbharat.mygov.in) · website: For the parent. The government's own page on the mission, with the aims, dates and its own counts.
-- [SWaCH, Pune: waste pickers' cooperative](https://www.swachcoop.com) · website: The website of the waste pickers' cooperative in Pune, which collects sorted waste from homes. It shows who does the work and how.
+- [Swachh Bharat Mission (Grameen), Government of India](https://swachhbharatmission.gov.in) · website: For the parent. The government's own site for the village part of the mission, with its aims, dates and its own counts.
+- [SWaCH, Pune: waste pickers' cooperative](https://swachcoop.com) · website: The website of the waste pickers' cooperative in Pune, which collects sorted waste from homes. It shows who does the work and how.
 - [Hasiru Dala, Bengaluru](https://hasirudala.in) · website: An organisation in Bengaluru that works with waste pickers. It shows what the work is and what workers ask for.
 - [World Health Organization: sanitation fact sheet](https://www.who.int/news-room/fact-sheets/detail/sanitation) · website: For the parent. A short fact sheet on why toilets and safe sanitation protect health.
 - [India Water Portal](https://www.indiawaterportal.org) · website: For the parent. Articles on India's rivers, drains and sewage, with sources.
