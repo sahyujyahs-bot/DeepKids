@@ -55,6 +55,9 @@ def _grade(t):
     words = re.findall(r"[A-Za-z']+", t)
     if not sen or not words: return 0
     return 0.39 * len(words) / len(sen) + 11.8 * sum(_syll(w) for w in words) / len(words) - 15.59
+JARGON = "mass energy atom atoms molecule molecules electron electrons proton neutron photon photons wavelength frequency velocity acceleration momentum inertia gravity density pressure particle particles nucleus organism evolution species ecosystem relativity spacetime vacuum plasma isotope radiation".split()
+ABSTRACT = re.compile(r"\b(?:gets? closer and closer|approach(?:es)?|tends? to|in the limit|the number that|as (?:the|it) [^.]{0,40}(?:shrinks|grows|gets) (?:smaller|larger|bigger))\b", re.I)
+VAGUE_PHRASE = re.compile(r"\b(?:more \w+ than there is|in some sense|sort of|something about|a bit like|and so on|and more)\b", re.I)
 ERA = re.compile(r"\b(?:about|around|in|since|by|from|until|written in)\s+(?:the year\s+)?(\d{3,4})\b(?!\s*(?:CE|BCE|AD|BC|kilo|metre|meter|centi|milli|years|days|hours|minutes|seconds|people|km|m\b|cm|kg|rupee|degrees|kinds|species|animals|plants|%))", re.I)
 def parent_test(u):
     skip = ("story", "more_stories", "sources", "playtest", "art")
@@ -78,6 +81,22 @@ def parent_test(u):
     if hard: W.append(f"reads too hard for a tired parent ({len(hard)} passages above reading grade 10; aim for 8 or less). Rewrite in shorter, plainer sentences with a real example. Hardest: " + " | ".join(f"{g} {p}: {t}…" for g, p, t in sorted(hard, reverse=True)[:3]))
     if longs: W.append(f"{len(longs)} sentences over 26 words in family text (the story is not counted). Split them. Longest: " + " | ".join(f"{p}: {t}…" for n, p, t in sorted(longs, reverse=True)[:3]))
     if eras: W.append(f"{len(eras)} years with no era: " + " | ".join(eras[:3]))
+    # science words used but never explained: a parent cannot be assumed to know them (found in review: "light has no mass")
+    allt = " ".join(t for _, t in blocks).lower()
+    known = " ".join(str(x.get("term", "")) + " " + str(x.get("meaning", "")) for x in u.get("terms", []) if isinstance(x, dict)).lower()
+    unexplained = []
+    for w in JARGON:
+        if re.search(r"\b" + w + r"\b", allt) and not re.search(r"\b" + w + r"\b", known) and not re.search(r"\b" + w + r"s?\b[^.]{0,25}\b(?:is|are|means|stands for)\b|\b(?:called|means)\b[^.]{0,30}\b" + w + r"\b|\b" + w + r"s?\b ?\(", allt):
+            unexplained.append(w)
+    if unexplained: W.append("science words used but never explained in plain words (add a term with an everyday example, or explain at first use): " + ", ".join(unexplained[:8]))
+    # an idea stated in the abstract with no numbers or scene beside it (found in review: "the number the average gets closer to")
+    abstract = []
+    for path, t in blocks:
+        if path.split(".")[0] in ("explanations", "agreed", "roots", "challenging", "big_questions") and ABSTRACT.search(t) and not re.search(r"\d", t):
+            abstract.append(f"{path}: {t[:60]}…")
+    if abstract: W.append(f"{len(abstract)} abstract statements with no example or numbers beside them (show it with a real scene and real numbers): " + " | ".join(abstract[:3]))
+    vagueph = [f"{p}: '{m.group(0)}'" for p, t in blocks for m in [VAGUE_PHRASE.search(t)] if m]
+    if vagueph: W.append("vague or empty phrases (say the real thing, with a number if there is one): " + " | ".join(vagueph[:4]))
     # a view's name must name someone: a person, a book, a school or a place, never a bare label like 'Everyday speech'
     vague = []
     for e in u.get("explanations", []):

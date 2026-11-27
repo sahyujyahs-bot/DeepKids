@@ -25,6 +25,17 @@ You are also the child's curious older friend: you notice when something is bori
 
 What you may not do alone: change a science claim you are unsure of, invent a source, a date, a quote or a number, or add a part that needs new research. List those under "Needs the writer or the founder".
 
+## Mistakes already found by real readers: look for these first
+
+Each one was found by the founder reading a finished unit, after the writer and a checker had passed it. They are listed in full, with examples, in `WRITER_BRIEF.md` section E2:
+1. a heading, title or view name that names nothing
+2. an idea stated in the abstract, with no scene or numbers beside it
+3. assumed knowledge: a fact or word used as a reason that the reader was never told
+4. a true detail with no purpose: ask "so what?" after every sentence
+5. a big word instead of a fact ("more energy than there is")
+6. a date with no era
+7. three ideas in one sentence
+
 ## The tests
 
 ### A. Meaning on one reading (every sentence, heading, title, caption, option)

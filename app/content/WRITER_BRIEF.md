@@ -123,6 +123,19 @@ Before and after:
 
 ---
 
+### E2. Seven mistakes real readers found. Never repeat them.
+
+A founder reading a finished unit on her phone found each of these. The checker now catches some, but you must not write them.
+1. **A heading or name that names nothing.** "Everyday speech" told the reader nothing. Every heading, card title and view name says what is inside. A view's name is a person, a book, a school of thought, a place or a clear group, never a bare label.
+2. **An idea stated in the abstract.** "The speed at a moment is the number that the average speed gets closer and closer to" is true and means nothing to a parent. Show it first: a real scene with real numbers (a car's averages over 1 second, 0.1 second and 0.01 second: 11, 10.1, 10.01, settling on 10). Then give the technical sentence. Every explanation has numbers or a scene beside it.
+3. **Assumed knowledge.** "Nothing that has mass can reach this speed" assumed the reader knew light has no mass. Before you use a fact as a reason, ask: does this reader already know the fact, and the word? If you are not sure, say it in one plain sentence. Every science word is explained at first use, or sits in `terms`.
+4. **A true detail with no purpose.** "However the watcher or the lamp is moving" was correct and did nothing, because the reader never saw why it matters. Ask "so what?" after every sentence. If the page does not answer, show the surprise with an example or cut the clause.
+5. **A big word instead of a fact.** "More energy than there is" sounds deep and says nothing. Say the real thing, with a number or a reason.
+6. **A date with no era.** "About 1150" left a reader asking "1150 what?" Years before about 1500 carry CE or BCE.
+7. **Three ideas in one sentence.** If a sentence needs a second reading, split it. A definition starts with the plain picture, then the technical statement.
+
+**The test, for every explanation, perspective, definition and heading:** read it aloud as a parent who never studied this and has no patience. Wherever you would stop, or the child would ask "what does that mean?", rewrite it before you go on.
+
 ## F. Questions test ideas, never the book
 
 Every question anywhere (quiz, refresher, worksheet, check, game, fill-in, match) asks about the idea: what it is, why it happens, what would change if, how you could test it. A child who understood but never read the story or the lesson must be able to answer it.
