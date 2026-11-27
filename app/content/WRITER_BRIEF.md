@@ -202,7 +202,7 @@ Step ids have no gaps. Step minutes add up to the part's minutes. A schedule's d
 | `summary` | 3 to 5 sentences, leading with the puzzle |
 | `intro` | `{hook, text, art}`: a 2-minute way in |
 | `outcomes` | 4 to 8 "By the end I can…" |
-| `terms` | `{term, meaning, example, art}` |
+| `terms` | `{term, meaning, example, art}`. Every word a child meets for the first time in the lesson gets a flashcard, in the order they are met: the plain word, a plain meaning, and a real scene as the example. An idea-rich lesson has 25 to 40 cards, not 8 |
 | `explanations` | `{concept, status, definition, description, examples[], perspectives, art, context}`. `status` is `defined`, `idea` or `debated` |
 | `agreed` | `{text, evidence}`: only NEW things, never a restated explanation |
 | `challenging` | 2 or more views, each with `who`, `for`, `against`, `status` (`accepted`, `debated`, `minority`, `rejected`). At least one still debated or minority |

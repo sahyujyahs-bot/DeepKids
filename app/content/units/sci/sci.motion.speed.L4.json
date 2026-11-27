@@ -51,10 +51,40 @@
    "art": "A train line with three stations and a single arrow underneath labelled 'whole distance ÷ whole time'."
   },
   {
+   "term": "Instantaneous speed",
+   "meaning": "How fast something is going at one moment. It is also called the speed at one moment, and a speedometer shows it.",
+   "example": "A scooter's needle shows 30 as you pass the bakery, even though the average speed for the whole trip is only 20.",
+   "art": "A scooter speedometer with the needle at 30 and a bakery in the background."
+  },
+  {
+   "term": "Variable speed",
+   "meaning": "A speed that changes during a trip. Almost every real trip has a variable speed.",
+   "example": "An autorickshaw on the way to school may show 0, then 30, then 12 on its meter.",
+   "art": "An autorickshaw meter shown three times, reading 0, 30 and 12."
+  },
+  {
    "term": "Steady speed",
    "meaning": "A speed that stays the same, so that equal distances take equal times.",
    "example": "The tip of a clock's second hand moves at a steady speed. A toy car rolling on the floor does not.",
    "art": "A clock face with equal gaps marked along the path of the second hand."
+  },
+  {
+   "term": "Speedometer",
+   "meaning": "The dial in a vehicle that shows how fast it is going at this moment.",
+   "example": "The driver of a bus watches the needle to keep below the speed limit.",
+   "art": "A bus dashboard with a round dial and a needle."
+  },
+  {
+   "term": "Acceleration",
+   "meaning": "How quickly a speed changes. Speeding up, slowing down and turning are all acceleration.",
+   "example": "An auto pulling away from a red light goes from 0 to 30 kilometres per hour in 6 seconds. Its speed grows by 5 kilometres per hour every second.",
+   "art": "An auto at a traffic light with three small speed labels: 0, 15, 30."
+  },
+  {
+   "term": "Velocity",
+   "meaning": "Speed together with the direction of travel. Two things with the same speed but different directions have different velocities.",
+   "example": "A bus going 40 kilometres per hour towards the north and a bus going 40 kilometres per hour towards the south have the same speed but different velocities.",
+   "art": "Two buses on a road, one with an arrow pointing north and one pointing south, both labelled 40 kilometres per hour."
   },
   {
    "term": "Reference point",
@@ -63,46 +93,22 @@
    "art": "A bus with a sleeping passenger, one arrow to the seat marked 0 and one arrow to a roadside tree marked 40."
   },
   {
+   "term": "Relative speed",
+   "meaning": "A speed measured against something that is moving too.",
+   "example": "Two buses side by side at 60 kilometres per hour have a relative speed of zero. From one of them, the other seems to stand still.",
+   "art": "Two buses side by side with a passenger looking across at the other bus."
+  },
+  {
+   "term": "Relativity",
+   "meaning": "The idea that every speed is measured against something. Einstein found that when speeds get huge, even time and length depend on who is measuring.",
+   "example": "Walking down a moving train, you go at about 4 kilometres per hour compared with the seats, and about 104 compared with the platform.",
+   "art": "A child walking down a train aisle, with the platform visible outside the window."
+  },
+  {
    "term": "Speed of light",
    "meaning": "The speed at which light travels through empty space, about 3 lakh kilometres every second.",
    "example": "Light from the Sun takes a little over 8 minutes to reach your window.",
    "art": "The Sun and the Earth with a dotted beam between them marked '8 minutes'."
-  },
-  {
-   "term": "Energy",
-   "meaning": "The thing that makes things move, heat up or glow. Physicists calculate a number for it that stays the same when things change, and nobody has a final definition of what it is.",
-   "example": "A rolling ball has energy of movement, and it gives some of it to a pin it hits.",
-   "art": "A ball rolling into a pin that falls over."
-  },
-  {
-   "term": "Atom",
-   "meaning": "One of the tiny building blocks that everything is made of.",
-   "example": "A drop of water holds billions of billions of atoms.",
-   "art": "A water drop zoomed in to show small round dots."
-  },
-  {
-   "term": "Mass",
-   "meaning": "How much stuff something is made of. The more mass, the harder it is to speed up.",
-   "example": "A full bucket has more mass than an empty one, so it is harder to push.",
-   "art": "An empty and a full bucket on a floor, with a hand pushing each."
-  },
-  {
-   "term": "Momentum",
-   "meaning": "A moving thing's mass times its speed. It is the push a moving thing carries.",
-   "example": "A heavy lorry at 10 kilometres per hour is harder to stop than a bicycle at the same speed.",
-   "art": "A lorry and a bicycle side by side with equal speed arrows."
-  },
-  {
-   "term": "Gravity",
-   "meaning": "The pull that makes things fall and keeps the Moon going round the Earth. Newton described how it acts, and Einstein described it as the bending of space and time. A theory that joins it with quantum physics does not yet exist.",
-   "example": "A dropped ball falls to the floor.",
-   "art": "A ball falling beside the Moon circling the Earth."
-  },
-  {
-   "term": "Particle",
-   "meaning": "A very tiny piece of matter. Atoms, and the smaller pieces inside them such as protons, neutrons and electrons, are particles.",
-   "example": "A proton is a particle inside an atom.",
-   "art": "A tiny dot inside a bigger ring of dots."
   },
   {
    "term": "Electromagnetic wave",
@@ -117,6 +123,84 @@
    "art": "A phone with wavy lines going to a tall tower."
   },
   {
+   "term": "Microwave",
+   "meaning": "A wave a little shorter than a radio wave. Phone towers use microwaves, and so does the oven in a kitchen.",
+   "example": "A microwave oven warms the water inside food. A phone tower sends calls as microwaves.",
+   "art": "A phone tower beside a kitchen microwave oven, both with wavy lines."
+  },
+  {
+   "term": "Time dilation",
+   "meaning": "The slowing of a moving clock, as seen by someone who is not moving along with it.",
+   "example": "Clocks in navigation satellites are corrected every day, because they tick a little differently from clocks on the ground.",
+   "art": "A satellite above the Earth with a small clock, and a clock on the ground below."
+  },
+  {
+   "term": "Mass",
+   "meaning": "How much stuff something is made of. The more mass, the harder it is to speed up.",
+   "example": "A full bucket has more mass than an empty one, so it is harder to push.",
+   "art": "An empty and a full bucket on a floor, with a hand pushing each."
+  },
+  {
+   "term": "Energy",
+   "meaning": "The thing that makes things move, heat up or glow. Physicists calculate a number for it that stays the same when things change, and nobody has a final definition of what it is.",
+   "example": "A rolling ball has energy of movement, and it gives some of it to a pin it hits.",
+   "art": "A ball rolling into a pin that falls over."
+  },
+  {
+   "term": "Momentum",
+   "meaning": "A moving thing's mass times its speed. It is the push a moving thing carries.",
+   "example": "A heavy lorry at 10 kilometres per hour is harder to stop than a bicycle at the same speed.",
+   "art": "A lorry and a bicycle side by side with equal speed arrows."
+  },
+  {
+   "term": "Gravity",
+   "meaning": "The pull that makes things fall and keeps the Moon going round the Earth. Newton described how it acts, and Einstein described it as the bending of space and time. A theory that joins it with quantum physics does not yet exist.",
+   "example": "A dropped ball falls to the floor.",
+   "art": "A ball falling beside the Moon circling the Earth."
+  },
+  {
+   "term": "Orbit",
+   "meaning": "The path of something that goes round something else, held in its path by gravity.",
+   "example": "The Moon orbits the Earth. The Earth orbits the Sun at about 30 kilometres every second.",
+   "art": "The Moon circling the Earth, and the Earth circling the Sun, drawn as two loops."
+  },
+  {
+   "term": "Particle",
+   "meaning": "A very tiny piece of matter. Atoms, and the smaller pieces inside them such as protons, neutrons and electrons, are particles.",
+   "example": "A proton is a particle inside an atom.",
+   "art": "A tiny dot inside a bigger ring of dots."
+  },
+  {
+   "term": "Atom",
+   "meaning": "One of the tiny building blocks that everything is made of.",
+   "example": "A drop of water holds billions of billions of atoms.",
+   "art": "A water drop zoomed in to show small round dots."
+  },
+  {
+   "term": "Proton",
+   "meaning": "A tiny particle in the centre of an atom.",
+   "example": "Every atom of hydrogen in a drop of water has one proton in its centre.",
+   "art": "A water drop zoomed in to one atom with a single dot at its centre."
+  },
+  {
+   "term": "Neutrino",
+   "meaning": "A tiny particle with very little mass that passes through almost everything.",
+   "example": "Billions of neutrinos from the Sun pass through your thumbnail every second, and you never feel them.",
+   "art": "A thumb with many faint arrows passing straight through it."
+  },
+  {
+   "term": "Large Hadron Collider",
+   "meaning": "A giant ring-shaped machine underground near Geneva, 27 kilometres round, that speeds up protons to nearly the speed of light.",
+   "example": "The protons go round the 27-kilometre ring more than 11,000 times every second.",
+   "art": "A huge ring drawn on a map of Switzerland and France, with a tiny proton inside it."
+  },
+  {
+   "term": "Vacuum",
+   "meaning": "A space with almost nothing in it, not even air. Sound cannot travel through a vacuum, and light can.",
+   "example": "The space between the stars is almost a vacuum. A steel flask keeps tea hot partly because there is almost no air in a layer inside its walls.",
+   "art": "A steel flask cut open to show the thin empty layer between its two walls."
+  },
+  {
    "term": "Ether",
    "meaning": "A still, invisible substance, the same everywhere, that was once guessed to carry light.",
    "example": "Michelson and Morley looked for an 'ether wind' in 1887 and found none.",
@@ -129,16 +213,46 @@
    "art": "A galaxy inside a faint ring of cloud."
   },
   {
-   "term": "Velocity",
-   "meaning": "Speed together with the direction of travel. Two things with the same speed but different directions have different velocities.",
-   "example": "A bus going 40 kilometres per hour towards the north and a bus going 40 kilometres per hour towards the south have the same speed but different velocities.",
-   "art": "Two buses on a road, one with an arrow pointing north and one pointing south, both labelled 40 kilometres per hour."
+   "term": "Dark energy",
+   "meaning": "The name for whatever is making the expansion of the universe speed up. Nobody knows what it is.",
+   "example": "The Planck satellite's measurements put dark energy at about 68 parts in 100 of everything in the universe.",
+   "art": "A pie of the universe, with a very big slice marked dark energy."
   },
   {
-   "term": "Vacuum",
-   "meaning": "A space with almost nothing in it, not even air. Sound cannot travel through a vacuum, and light can.",
-   "example": "The space between the stars is almost a vacuum. A steel flask keeps tea hot partly because there is almost no air in a layer inside its walls.",
-   "art": "A steel flask cut open to show the thin empty layer between its two walls."
+   "term": "Gravitational lensing",
+   "meaning": "The bending of light by something very heavy, such as a whole cluster of galaxies. It works like a lens.",
+   "example": "Astronomers see far galaxies stretched into curved arcs when a heavy cluster sits in front of them.",
+   "art": "A heavy galaxy cluster bending the light of a far galaxy into an arc."
+  },
+  {
+   "term": "Galaxy",
+   "meaning": "A huge group of billions of stars held together by gravity.",
+   "example": "Our Sun is one of hundreds of billions of stars in the Milky Way.",
+   "art": "The Milky Way drawn as a spiral with a small dot marking the Sun."
+  },
+  {
+   "term": "Tectonic plate",
+   "meaning": "One of the huge slabs of rock that make up the Earth's outer shell. They move very slowly.",
+   "example": "The plate that carries India moves north-east by about 5 centimetres a year, and its push built the Himalayas.",
+   "art": "A map of India on its plate with an arrow pointing north-east."
+  },
+  {
+   "term": "Eclipse",
+   "meaning": "When one thing moves into the shadow of another, so its light is hidden.",
+   "example": "Io, a moon of Jupiter, goes into Jupiter's shadow every 42 hours, and Ole Rømer timed these eclipses.",
+   "art": "Jupiter with its moon Io slipping into Jupiter's shadow."
+  },
+  {
+   "term": "Reaction time",
+   "meaning": "The time between seeing something and moving your body in answer. It is about a fifth of a second for most people.",
+   "example": "Hold a ruler for a friend and let go. The distance it falls before they catch it shows their reaction time.",
+   "art": "A child catching a falling ruler held by a friend."
+  },
+  {
+   "term": "Quantum",
+   "meaning": "A word for the physics of the very small, of atoms and the pieces inside them, where the rules are strange.",
+   "example": "Quantum physics is how scientists explain why atoms hold together at all.",
+   "art": "An atom zoomed in, with a small question mark beside it."
   }
  ],
  "explanations": [

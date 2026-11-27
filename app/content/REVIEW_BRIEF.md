@@ -45,6 +45,7 @@ Each one was found by the founder reading a finished unit, after the writer and 
 - Could a parent read this aloud once, and the child say "oh, I see"? If you re-read it, fix it.
 - **Headings and names must carry meaning.** A card title, explanation concept, activity title, perspective name or question must tell the reader what is inside. Not "Everyday speech". A view's name names a person, a book, a school of thought, a place or a clear group.
 - **No abstract sentence without a picture.** If a sentence states an idea in the abstract ("the number that the average gets closer to as the piece of time shrinks"), add a concrete example with real numbers or a real scene the child knows.
+- Every word a child meets for the first time has a flashcard (idea-rich units have 25 to 40), in the order the words are met.
 - Every science word is explained in plain words the first time, with an everyday example, then used the same way after.
 - Plain punctuation, full sentences, no shorthand, no riddles, no clever images. Years before about 1500 carry CE or BCE. Units are written out.
 - Reading load: paragraphs short, one idea each. If the script says a passage reads above grade 8, rewrite it.
