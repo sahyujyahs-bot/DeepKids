@@ -36,6 +36,15 @@ Children wonder about everything, and every wondering is worth keeping. Some won
 - e.g. 'Are ants clever?' is big. 'Do the ants on our kitchen wall find a grain of sugar faster than a grain of salt?' can be tested.
 - e.g. 'Why does the banana go bad?' becomes 'Does a banana get more brown spots each day?' You can count the spots every morning.
 - e.g. 'Do crows like our balcony?' becomes 'How many times does a crow land on our railing between 7 and 8 in the morning?'
+### Five ways to find out · *defined*
+**Definition:** The five main ways to find out are research, a fair test, observing over time, classifying and pattern seeking. Each one fits a different kind of question.
+
+Research means finding the answer in a book or a trusted source, when we cannot test it ourselves. A fair test changes one thing and keeps everything else the same, so we see what that one thing does. Observing over time means looking again and again, at set times, as with the cut apple. Classifying means sorting things into groups by what they have in common. Pattern seeking means looking across many records for something that keeps coming back, such as Tycho's star positions night after night. Choose the way that fits your question.
+- e.g. To learn how a weaver bird builds its nest, read a bird book or ask a bird watcher.
+- e.g. To see whether sunlight makes beans sprout faster, put beans in the sun and in a cupboard, and change nothing else.
+- e.g. Drawing the same tulsi bud every morning for a week shows how it opens.
+- e.g. Sorting the leaves in a garden into smooth and rough edges is classifying.
+- e.g. Counting the rainy days each month for a year may show when the monsoon comes.
 ### Making a plan before you start · *defined*
 **Definition:** A plan answers these questions before you begin: What is my question? What do I guess, and why? What will I look at? What will I compare, and what will I keep the same? How often will I look, and for how long? How will I write it down? What do I need, and what must be done safely?
 
@@ -533,7 +542,7 @@ So Farzana kept checking, once a month now. Imran gave up on the crack. But he d
   - Check: Why do scientists want other people to be able to repeat their tests? → **So others can check whether the result really happens**
 
 ## Worksheets
-### Plan It, Watch It (core) (core, 15 questions)
+### Plan It, Watch It (core) (core, 16 questions)
 1. (mcq) You wonder about the ants in your kitchen. Which of these questions can you find out at home by watching or testing?  
    Options: Why are there ants in the world? / Do the ants reach a grain of sugar or a grain of rice first? / Do ants have best friends?  
    **Answer:** Do the ants reach a grain of sugar or a grain of rice first?. *Why:* You can put a grain of sugar and a grain of rice near the ant trail and watch which one the ants reach first. The other two questions are real and interesting, but one test at home can't answer them. A strong answer says what you would actually do.
@@ -547,26 +556,28 @@ So Farzana kept checking, once a month now. Imran gave up on the crack. But he d
    **Answer:** ['Make the colour card and the table', 'Write your guess and your reason', 'Cut three slices at the same time', 'Score and draw each slice every 10 minutes', 'Compare the drawings in a row']. *Why:* The plan and the guess come first, before anything is cut, so the guess can't be changed after seeing the result. Then the test, then the looks, then the comparing.
 6. (sort) Sort these questions. Can you answer each with one look, or do you need a long watch over time?  
    **Answer:** What colour is a tomato's inside? → One look; Does our tulsi plant grow a new leaf each week? → Long watch; How many windows does our room have? → One look; Does the Moon change shape over a month? → Long watch; Is the steel tumbler shiny? → One look; How fast does a banana get brown spots? → Long watch. *Why:* Anything about how something changes needs a long watch, with looks at set times. A question about how something is right now needs only one look.
-7. (write) Someone says they don't need to write anything down during the apple test, because they will remember it. Write two reasons why a scientist writes things down at the time.  
+7. (match) Match each way of finding out to an example.  
+   **Answer:** Research → find the answer in a book or a trusted source, when we cannot test it ourselves; Fair test → change one thing, keep everything else the same, and watch what changes; Observing over time → look again at set times, and write down each look; Classifying → sort things into groups by what they have in common; Pattern seeking → look across many records for something that keeps coming back. *Why:* Each way answers a different kind of question. A strong answer can give an example from home for each one.
+8. (write) Someone says they don't need to write anything down during the apple test, because they will remember it. Write two reasons why a scientist writes things down at the time.  
    **Answer:** Memory changes, and fills gaps with what we expect, so we can remember wrongly without knowing. A record made at the time stays the same, so we can compare looks, and other people can check what we saw.. *Why:* A strong answer gives two different reasons: memory can be wrong, and a record can be checked and compared. A very strong answer gives an example, like the Spot the Change game.
-8. (draw) Draw the three apple slices from the brown apple watch as they looked after one hour: plain, lemon and under water. Colour them and write each one's score.  
+9. (draw) Draw the three apple slices from the brown apple watch as they looked after one hour: plain, lemon and under water. Colour them and write each one's score.  
    **Answer:** The plain slice brown or light brown (score 2 or 3), the lemon slice still cream (score 0), and the water slice pale or a little yellow (score 0 or 1).. *Why:* Results vary with the kind of apple. A strong drawing shows the plain slice browner than both others, and the lemon slice palest, and matches the child's own record.
-9. (mcq) The plain apple slice browned faster than the slice under water. What did the air give the plain slice that the water slice mostly didn't get?  
+10. (mcq) The plain apple slice browned faster than the slice under water. What did the air give the plain slice that the water slice mostly didn't get?  
    Options: Light / Oxygen / Dust / Warmth  
    **Answer:** Oxygen. *Why:* The browning needs oxygen from the air. Water keeps most of it away. Both slices were in the same light and warmth, so those can't explain the difference. Dust is too little to matter.
-10. (perspective) Two sisters in Kochi are planning the apple test. They disagree about when to look.  
+11. (perspective) Two sisters in Kochi are planning the apple test. They disagree about when to look.  
    **Answer:** A strong answer sees that the first child's plan is quicker and does show which slice ended up browner. Mini's plan also shows when and how fast each slice changed, which two looks can't show.. *Why:* Both plans answer a question, but not the same question. A strong answer says what each plan can and can't tell you, and chooses the one that fits the question asked.
-11. (odd) Which of these is NOT part of a plan for the apple test?  
+12. (odd) Which of these is NOT part of a plan for the apple test?  
    Options: How often to look / What to keep the same / The colour of your T-shirt / How to write it down  
    **Answer:** 2. *Why:* How often, what stays the same and how to record are all parts of a good plan. The colour of your T-shirt makes no difference to the apple.
-12. (write) Here is a wondering: 'Why does our dosa batter get bubbly?' Turn it into a question you could find out by watching or testing.  
+13. (write) Here is a wondering: 'Why does our dosa batter get bubbly?' Turn it into a question you could find out by watching or testing.  
    **Answer:** For example: 'Does the batter rise more in a warm place or in the fridge overnight?' or 'How much higher is the batter after 4 hours, 8 hours and 12 hours?'. *Why:* A strong question says what to look at or measure, and what to compare or how often to look.
-13. (mcq) Which of these is an observation of a cut apple slice?  
+14. (mcq) Which of these is an observation of a cut apple slice?  
    Options: The cut side is cream, wet and shiny, and it smells sweet / Apples are the best fruit / The apple slice is feeling sleepy  
    **Answer:** The cut side is cream, wet and shiny, and it smells sweet. *Why:* An observation is something you noticed with your eyes, nose, hands or ears. The other two are opinions or guesses, not things you noticed.
-14. (truefalse) A good record line needs only what you saw. The time does not matter.  
+15. (truefalse) A good record line needs only what you saw. The time does not matter.  
    **Answer:** False. *Why:* False. Without the time you cannot say how long a change took, or put the looks in order. Every record line says when, and what you saw.
-15. (write) Think of something at home that changes too slowly to see in one look. Say how you would find out how fast it changes: what you look at, how often you look, and how you write it down.  
+16. (write) Think of something at home that changes too slowly to see in one look. Say how you would find out how fast it changes: what you look at, how often you look, and how you write it down.  
    **Answer:** For example: a wet cloth drying on the line. Look at it every 15 minutes, touch it, score it dry, damp or wet, and write the time and the score each time.. *Why:* A strong answer picks something that really changes, chooses an interval that matches how fast it changes, and says what is written at each look.
 ### Fair Tests and Good Records (stretch) (stretch, 15 questions)
 1. (mcq) In an apple test, the plain slice was cut from a red apple and the lemon slice from a green apple. The lemon slice stayed paler. What is wrong with this test?  
@@ -685,6 +696,9 @@ So Farzana kept checking, once a month now. Imran gave up on the crack. But he d
 12. (mcq) People once believed the sky beyond the Moon never changes. What kind of evidence could show this idea is wrong?  
    Options: One person saying they once saw something odd / A new light far beyond the Moon, measured again and again / A picture in an old book  
    **Answer:** A new light far beyond the Moon, measured again and again. *Why:* A strong claim needs careful evidence. A new light, measured night after night and shown to be far beyond the Moon, would show that the sky out there can change.
+13. (mcq) You want to know whether a bean sprouts faster in sunlight or in a dark cupboard. Which way of finding out is this?  
+   Options: A fair test, changing only the light / Pattern seeking, looking across many records / Classifying, sorting beans into groups  
+   **Answer:** A fair test, changing only the light. *Why:* A fair test changes one thing, the light, and keeps the rest the same. Sorting beans into groups and looking for patterns in records do not test the light.
 
 ## Applications
 - Weather scientists record rainfall and temperature every day, and long records show how the climate is changing.

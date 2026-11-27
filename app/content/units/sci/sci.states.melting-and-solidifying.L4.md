@@ -21,6 +21,7 @@
 - **Freezing**: Freezing is another word for solidifying. People use it most for water, but scientists use it for any liquid, even melted iron. *e.g.* Water freezes into ice in the freezer. Melted bronze freezes while it is still glowing red.
 - **Melting point**: The melting point is the temperature at which a solid melts. Each pure substance has its own. *e.g.* Ice melts at 0 degrees Celsius. Gold melts at 1,064 degrees.
 - **Freezing point**: The freezing point is the temperature at which a liquid can turn solid. For a pure substance it is the same number as the melting point. *e.g.* Water can freeze at 0 degrees, the same temperature at which ice melts.
+- **Boiling point**: The temperature at which a liquid boils and turns into a gas, such as steam. *e.g.* At sea level, pure water boils at 100 degrees Celsius, so a pan of water with big bubbles is at 100.
 - **Particle**: A particle is a very tiny piece that a substance is made of, far too small to see. *e.g.* One small ice cube holds far more water particles than there are grains of sand on Marina Beach.
 - **Pure substance**: A pure substance is made of only one kind of particle. It melts at one exact temperature. *e.g.* Pure water and pure gold are pure substances.
 - **Mixture**: A mixture is two or more substances together. A mixture often melts bit by bit over a range of temperatures. *e.g.* Ghee is a mixture of many fats, so it goes soft and grainy before it turns fully clear.
@@ -36,7 +37,7 @@
 ### Melting, and the melting point · *defined*
 **Definition:** Melting is a solid turning into a liquid as it takes in heat. The temperature at which this happens is the melting point of that substance.
 
-A solid does not melt just because it is 'hot'. It melts when it reaches its own melting point. Ice melts at 0 degrees Celsius, which feels very cold to us. Coconut oil melts at about 24 degrees, butter at about 33, candle wax at about 60, and iron at 1,538. The metal mercury melts at minus 39 degrees, so it is a liquid in every room on Earth. Chemists use the melting point like a fingerprint. Two white powders that look the same can be told apart by the temperature at which each one melts.
+A solid does not melt just because it is 'hot'. It melts when it reaches its own melting point. Ice melts at 0 degrees Celsius, which feels very cold to us. Coconut oil melts at about 24 degrees, butter at about 33, candle wax at about 60, and iron at 1,538. The metal mercury melts at minus 39 degrees, so it is a liquid in every room on Earth. Chemists use the melting point like a fingerprint. Two white powders that look the same can be told apart by the temperature at which each one melts. At sea level, pure water boils at 100 degrees Celsius, and turns into steam. Up in the hills the air is thinner, so water boils a little cooler.
 - e.g. A cube of ice melts in a tumbler of water from the tap, because tap water is warmer than 0 degrees.
 - e.g. A steel ladle does not melt in boiling sambar, because steel melts at about 1,400 degrees.
 - e.g. The metal gallium melts at about 30 degrees, so a piece of it turns liquid in a warm hand.
@@ -522,7 +523,7 @@ Thenmozhi began to answer, and stopped. She had opened forty moulds and had neve
   - Think: Salt gave the ice no heat at all. So where did the heat come from when the salt melted the ice?
 
 ## Worksheets
-### Melting and solidifying: the main ideas (core, 15 questions)
+### Melting and solidifying: the main ideas (core, 16 questions)
 1. (mcq) Butter on a hot dosa turns runny. Which change is this?  
    Options: Dissolving / Melting / Evaporating  
    **Answer:** Melting. *Why:* Melting. One substance, butter, turns into its own liquid because of heat. Dissolving would need a second substance, a liquid for the butter to spread into.
@@ -544,19 +545,21 @@ Thenmozhi began to answer, and stopped. She had opened forty moulds and had neve
    **Answer:** True. *Why:* True. The particles are the same. In ice they are held in place, and in water they slide past each other.
 8. (fill) The temperature at which a solid turns into a liquid is its ____ ____.  
    **Answer:** ['melting point']. *Why:* Each pure substance has its own melting point. For ice it is 0 degrees Celsius.
-9. (fill) A change that can be undone, giving the same substance back, is a ____ change.  
+9. (fill) At sea level, pure water boils at ____ degrees Celsius.  
+   **Answer:** ['100']. *Why:* Pure water boils at 100 degrees Celsius at sea level, and turns into steam. In the hills, where the air is thinner, it boils a little cooler.
+10. (fill) A change that can be undone, giving the same substance back, is a ____ change.  
    **Answer:** ['reversible']. *Why:* Melting is undone by solidifying, so both are reversible changes.
-10. (match) Match each solid to its melting point in degrees Celsius.  
+11. (match) Match each solid to its melting point in degrees Celsius.  
    **Answer:** Ice → 0; Coconut oil → about 24; Candle wax → about 60; Iron → 1,538. *Why:* Ice melts in a cool room, coconut oil on a warm day, wax near a flame and iron only in a furnace.
-11. (sort) Sort each change: is it melting or dissolving?  
+12. (sort) Sort each change: is it melting or dissolving?  
    **Answer:** ghee on hot rice → Melting; salt in rasam → Dissolving; an ice cube in lemonade → Melting; jaggery in tea → Dissolving; wax beside a flame → Melting; sugar in milk → Dissolving. *Why:* Melting needs one substance and heat. Dissolving needs a solid and a different liquid for it to spread into.
-12. (order) Put in order what the particles do as ice from the freezer warms up and melts.  
+13. (order) Put in order what the particles do as ice from the freezer warms up and melts.  
    **Answer:** ['The particles shake a little on the spot', 'The particles shake harder and harder', 'Particles at the surface break out of their places', 'The particles slide past each other']. *Why:* Warming makes the particles shake harder. At the melting point the ones at the surface break free first, and then the whole solid becomes a liquid.
-13. (write) The ghee is hard in the morning and soft by afternoon. Nobody touched it. Explain why.  
+14. (write) The ghee is hard in the morning and soft by afternoon. Nobody touched it. Explain why.  
    **Answer:** The morning was cooler than the melting points of the fats in ghee, so they were solid. The afternoon was warmer, so some or all of them melted.. *Why:* A strong answer compares the temperature of the room with the melting point. It may add that ghee is a mixture and softens bit by bit.
-14. (draw) Draw the particles of wax as a solid and as a liquid. Show how they move.  
+15. (draw) Draw the particles of wax as a solid and as a liquid. Show how they move.  
    **Answer:** Solid: circles touching in neat rows, with small shake marks. Liquid: circles still touching but jumbled, with short arrows showing them sliding past each other.. *Why:* A strong drawing keeps the particles the same size and close together in both. Only the order and the movement change.
-15. (write) You want to know if salt makes ice melt faster. What would you keep the same, and what would you measure?  
+16. (write) You want to know if salt makes ice melt faster. What would you keep the same, and what would you measure?  
    **Answer:** Keep the same: the number and size of ice cubes, the bowls, the place and the time. Change only the salt. Measure the meltwater in teaspoons.. *Why:* A strong answer changes one thing only and names something that can be counted or measured.
 ### Hidden heat, salt and what comes back (stretch, 15 questions)
 1. (mcq) Ice and water are stirred in a tumbler in a warm room. What does a thermometer show while ice is left?  
@@ -643,38 +646,41 @@ Thenmozhi began to answer, and stopped. She had opened forty moulds and had neve
 2. (mcq) Pure water can freeze at 0 degrees. At what temperature does pure ice melt?  
    Options: 0 degrees / 4 degrees / 100 degrees  
    **Answer:** 0 degrees. *Why:* For a pure substance the melting point and the freezing point are the same temperature. 100 degrees is where water boils.
-3. (mcq) What do the particles of a solid do at its melting point?  
+3. (mcq) Pure water is heated in a pan at sea level. At what temperature does it boil and turn into steam?  
+   Options: About 100 degrees Celsius / About 0 degrees Celsius / About 60 degrees Celsius  
+   **Answer:** About 100 degrees Celsius. *Why:* At sea level, pure water boils at 100 degrees Celsius. 0 degrees is where it freezes and melts, not where it boils. About 60 is where candle wax melts, not water.
+4. (mcq) What do the particles of a solid do at its melting point?  
    Options: Break out of their places and slide past each other / Stop moving / Split into smaller particles  
    **Answer:** Break out of their places and slide past each other. *Why:* The particles shake hard enough to break out of their places. They never stop moving, and they do not split. They are the same particles in the liquid.
-4. (truefalse) True or false: when ice melts, each water particle melts too.  
+5. (truefalse) True or false: when ice melts, each water particle melts too.  
    **Answer:** False. *Why:* False. One particle cannot be solid or liquid. Melting is a change in how the particles are arranged and how they move.
-5. (mcq) Coconut oil melts at about 24 degrees. On which kitchen shelf is it solid?  
+6. (mcq) Coconut oil melts at about 24 degrees. On which kitchen shelf is it solid?  
    Options: Shimla, at 8 degrees / Chennai, at 33 degrees / Kochi, at 30 degrees  
    **Answer:** Shimla, at 8 degrees. *Why:* Only 8 degrees is below the melting point of 24. In Chennai and Kochi the shelf is warmer than 24, so the oil is liquid.
-6. (mcq) Mustard oil stays liquid through a Delhi winter. What does this tell you about its melting point?  
+7. (mcq) Mustard oil stays liquid through a Delhi winter. What does this tell you about its melting point?  
    Options: It is below the winter temperature / It is above 24 degrees / Mustard oil has none  
    **Answer:** It is below the winter temperature. *Why:* A substance is liquid when it is warmer than its melting point. So the melting point of mustard oil must be lower than a Delhi winter day.
-7. (mcq) A tumbler of ice and water stands in the sun. Half the ice has gone. How warm is the water, if stirred?  
+8. (mcq) A tumbler of ice and water stands in the sun. Half the ice has gone. How warm is the water, if stirred?  
    Options: About 0 degrees / About 15 degrees / As warm as the air  
    **Answer:** About 0 degrees. *Why:* While any ice is left, the heat from the sun goes into melting it. The stirred water stays at about 0 degrees.
-8. (mcq) You stir salt into a bowl of ice. What happens?  
+9. (mcq) You stir salt into a bowl of ice. What happens?  
    Options: It melts faster and gets colder / It melts faster and gets warmer / It melts more slowly and gets colder  
    **Answer:** It melts faster and gets colder. *Why:* Salt tips the balance towards melting, and melting takes in heat from the ice and the bowl. If you chose warmer, remember that salt gives no heat.
-9. (mcq) Why does a kulfi seller mix salt into the ice around the kulfi?  
+10. (mcq) Why does a kulfi seller mix salt into the ice around the kulfi?  
    Options: To make the ice mix colder than 0 degrees / To make the kulfi salty / To stop the ice from melting  
    **Answer:** To make the ice mix colder than 0 degrees. *Why:* Sweet milk freezes below 0 degrees, and plain ice is only at 0. Ice with salt can reach minus 15, which is cold enough. The salt makes the ice melt faster, not slower.
-10. (mcq) A goldsmith melts a ring and casts a coin from it. What is the same before and after?  
+11. (mcq) A goldsmith melts a ring and casts a coin from it. What is the same before and after?  
    Options: The substance and its weight / The shape / Nothing at all  
    **Answer:** The substance and its weight. *Why:* Melting and solidifying are reversible. The gold and its weight are unchanged. The shape is new, because the liquid took the shape of the mould.
-11. (mcq) Which sentence about window glass is true?  
+12. (mcq) Which sentence about window glass is true?  
    Options: It softens slowly, with no exact melting point / It melts at one exact temperature / It has flowed down in old windows  
    **Answer:** It softens slowly, with no exact melting point. *Why:* The particles of glass are jumbled, so it softens over a stretch of temperatures. Careful sums show old panes have not flowed. They were made uneven.
-12. (truefalse) True or false: scientists fully agree on how melting first starts inside a solid.  
+13. (truefalse) True or false: scientists fully agree on how melting first starts inside a solid.  
    **Answer:** False. *Why:* False. They agree on what melting is, but how the very first particles break free is still being studied.
-13. (mcq) In a fair test of salt on ice, what is the only thing that should change?  
+14. (mcq) In a fair test of salt on ice, what is the only thing that should change?  
    Options: What is sprinkled on the ice / The size of the bowls / The number of ice cubes  
    **Answer:** What is sprinkled on the ice. *Why:* If the bowls or the number of cubes changed too, you could not tell what caused the difference. Change one thing and keep the rest the same.
-14. (mcq) Your test gave 8 spoons of meltwater for salt and 3 for plain ice, once. What should you do next?  
+15. (mcq) Your test gave 8 spoons of meltwater for salt and 3 for plain ice, once. What should you do next?  
    Options: Repeat the test and compare / Change the numbers to look neater / Stop, because once is enough  
    **Answer:** Repeat the test and compare. *Why:* One try can be a fluke. If a second try gives nearly the same result, you can trust it more. Results are never changed to look neater.
 

@@ -115,6 +115,12 @@
    "art": "A zoom into the wall of a clay pot showing tiny tunnels with water seeping through."
   },
   {
+   "term": "Kiln",
+   "meaning": "A very hot oven in which a potter bakes clay pots until they are hard.",
+   "example": "A matka is baked in a kiln before it is sold.",
+   "art": "A potter placing clay pots into a glowing brick kiln."
+  },
+  {
    "term": "Evaporation",
    "meaning": "When a liquid slowly turns into a gas and goes into the air. Evaporation takes heat away, so it cools things down.",
    "example": "Wet clothes dry on the line because the water evaporates. Your wet skin feels cool in a breeze.",
@@ -131,6 +137,12 @@
    "meaning": "A material made by people, mostly from oil and gas. It is made of very long chains of atoms joined together. Plastics can be shaped into almost anything.",
    "example": "Buckets, toothbrushes and pen bodies are usually plastic.",
    "art": "A bucket, a toothbrush and a pen, and a zoom showing long tangled chains like noodles."
+  },
+  {
+   "term": "Polyester",
+   "meaning": "A plastic thread made from oil in a factory. It is strong, dries fast and does not soak up water.",
+   "example": "A rain jacket is often polyester, so water runs off it.",
+   "art": "A rain jacket with drops rolling off, and fine threads coming out of a factory nozzle."
   },
   {
    "term": "Atom",
@@ -245,6 +257,33 @@
    "how": "e2"
   },
   {
+   "concept": "Clothes for hot, cold and windy days",
+   "status": "defined",
+   "context": "This card is about choosing cloth for the weather.",
+   "definition": "Clothes are a thin layer between you and the weather, and each cloth has properties that suit some weather.",
+   "description": "On a hot, damp day, cotton is a good choice. It is absorbent, so it soaks up your sweat, and the sweat then dries and cools you. On a cold day, wool keeps your own heat in by trapping air, as in the sweater test. On a windy day, a tightly woven cloth works best, because it stops wind from blowing your warm air away. A thin, loosely woven shirt lets wind pass through. So the same cloth is not best for every day.",
+   "examples": [
+    "A cotton kurta is comfortable in a Delhi summer.",
+    "A woollen shawl in Kashmir keeps in warmth in winter.",
+    "A tightly woven jacket helps on a windy day on the hill."
+   ],
+   "perspectives": [],
+   "art": "Three children: one in a cotton kurta in the sun, one in a woollen cap and shawl, and one in a tight jacket on a windy hill."
+  },
+  {
+   "concept": "Silk and polyester: two very different threads",
+   "status": "defined",
+   "context": "This card compares silk, a thread made by an animal, and polyester, a thread made in a factory.",
+   "definition": "Silk is a natural thread from silkworm cocoons. Polyester is a plastic thread made from oil.",
+   "description": "Silk comes from the cocoon of a silkworm. The thread is very fine, smooth and shiny. It makes soft, light cloth for saris like the Kanchipuram and Banarasi. Many people value silk as a craft of India. Some people do not wear it, because the silkworm inside usually dies when the thread is taken out. Others wear silk and speak of the weavers' skill. Polyester is made in a factory from oil. It is a plastic, pulled into long thin threads. It is strong, dries fast and does not soak up water. That is good for a rain jacket. But it can feel sticky in hot, damp weather, because sweat cannot soak in.",
+   "examples": [
+    "A silk sari for a wedding is light to carry and has a soft shine.",
+    "A polyester rain jacket sheds water and dries on the line in an hour."
+   ],
+   "perspectives": [],
+   "art": "A silkworm cocoon unwinding into a fine shiny thread, beside a factory pulling plastic threads from a nozzle, and a small sari and a rain jacket below."
+  },
+  {
    "concept": "Why a clay pot keeps water cool",
    "status": "defined",
    "definition": "A clay pot, such as a matka or a kooja, is porous. Water seeps slowly through its tiny holes to the outside. There it evaporates, and evaporation takes heat away from the pot and the water inside.",
@@ -258,6 +297,33 @@
    "art": "A clay pot sweating tiny droplets on its outside, with wavy lines rising into the air and a blue cool glow inside.",
    "context": "A clay pot can keep water cooler than the air around it. This card explains how, using the Matka Mystery test.",
    "how": "e3"
+  },
+  {
+   "concept": "How a potter makes a pot",
+   "status": "defined",
+   "context": "This card is about how a potter turns wet clay into a pot that holds water.",
+   "definition": "A potter wets the clay, kneads it, shapes it on a spinning wheel, dries it and bakes it in a kiln.",
+   "description": "A potter first wets the clay, then kneads it, the way you knead roti dough. Kneading pushes out air bubbles and makes the clay even. Then she puts the lump in the middle of a wheel and spins it. With wet hands, she pulls the clay up into a pot. The clay must be neither too wet nor too dry. Too wet, and it slumps like soft mud. Too dry, and it cracks. She dries the pot in the shade, then bakes it in a kiln, a very hot oven. After baking, the clay is hard and does not turn back to mud in water. It still has tiny holes, so the pot is porous.",
+   "examples": [
+    "Potters in Kumhar colonies, like the one in Delhi, spin matkas and diyas on wheels before Diwali.",
+    "A child's mud model dries and cracks in the sun, because it was too dry when it was shaped and was never kneaded."
+   ],
+   "perspectives": [],
+   "art": "A potter's hands shaping a wet pot on a spinning wheel, with a bowl of water beside her and a kiln glowing behind."
+  },
+  {
+   "concept": "Water vessels: clay, brass, copper, steel and glass",
+   "status": "defined",
+   "context": "This card is about the vessels families choose to store water, and why.",
+   "definition": "Each vessel suits a different job, because of its properties.",
+   "description": "Before taps, people carried water home from wells, ponds and rivers in pots. When water runs short, families still keep it in vessels. A clay matka is porous, so it cools the water. A brass lota or a copper pot is strong, lasts for many years and can be scrubbed clean. Metals carry heat well, so the water in them warms up and cools down with the day. Many families believe that water kept overnight in copper is safer. Scientists have found that copper can kill some germs, but slowly, and it does not make dirty water safe. A steel pot is strong, does not break when dropped and is cheap. A glass jug is transparent, so you can see how much water is left, but it is brittle. In dry Rajasthan, families dug covered tanks, called kunds and tankas, to keep rain water for the months ahead.",
+   "examples": [
+    "A clay matka on a stand by the door keeps drinking water cool in summer.",
+    "A brass kalash in a puja room, or a copper pot, can be passed from grandmother to granddaughter.",
+    "A steel water bottle in a school bag does not break when it falls."
+   ],
+   "perspectives": [],
+   "art": "A row of four vessels on a shelf: a clay matka, a brass lota, a steel bottle and a glass jug, each with a small label of what it is good at."
   },
   {
    "concept": "Most objects are made of several materials",
@@ -1084,6 +1150,39 @@
      ],
      "a": 0,
      "why": "The folded cloth is an insulator. It has air trapped between its folds, so it slows heat moving down into the table. Steel and copper are conductors, so they pass the heat straight through. Picking the steel plate is a common guess, because it looks strong. But this job needs an insulator, not strength."
+    },
+    {
+     "t": "match",
+     "p": "Match each water vessel to the property that makes it a good choice.",
+     "pairs": [
+      [
+       "a clay matka",
+       "porous, so it cools the water"
+      ],
+      [
+       "a steel bottle",
+       "strong, so it does not break when dropped"
+      ],
+      [
+       "a glass jug",
+       "transparent, so you see how much water is left"
+      ],
+      [
+       "a brass lota",
+       "lasts for many years and can be scrubbed clean"
+      ]
+     ],
+     "a": "pairs as given",
+     "why": "Each vessel is good for a different job. No vessel is best at everything. A glass jug breaks, and a clay pot is brittle too."
+    },
+    {
+     "t": "fill",
+     "p": "A potter ________ the clay, like roti dough, to push out the air bubbles.",
+     "a": [
+      "kneads",
+      "knead"
+     ],
+     "why": "Kneading squeezes out air. Air bubbles can crack a pot when it is baked."
     }
    ]
   },
@@ -1323,6 +1422,62 @@
      ],
      "a": "order shown",
      "why": "Still air is an excellent insulator. Wool works mainly because it traps still air. Wood is an insulator too, but less good. Steel and copper are conductors, and copper is the better conductor, so it is the worst insulator."
+    },
+    {
+     "t": "order",
+     "p": "Put these steps of making a clay pot in order.",
+     "items": [
+      "Wet and knead the clay",
+      "Spin the clay on the wheel and shape it",
+      "Dry the pot in the shade",
+      "Bake the pot in a kiln"
+     ],
+     "a": "order shown",
+     "why": "The clay is kneaded first, then shaped while wet. It dries slowly in the shade. Last, the kiln makes it hard. If you bake a wet pot, it may crack."
+    },
+    {
+     "t": "sort",
+     "p": "Which cloth suits which weather? Sort them.",
+     "cats": [
+      "Hot, damp day",
+      "Cold day",
+      "Rainy day"
+     ],
+     "items": [
+      [
+       "a cotton kurta",
+       "Hot, damp day"
+      ],
+      [
+       "a woollen shawl",
+       "Cold day"
+      ],
+      [
+       "a polyester rain jacket",
+       "Rainy day"
+      ],
+      [
+       "a cotton towel to wipe sweat",
+       "Hot, damp day"
+      ],
+      [
+       "a woollen cap",
+       "Cold day"
+      ],
+      [
+       "a plastic poncho",
+       "Rainy day"
+      ]
+     ],
+     "a": "see items",
+     "why": "Cotton soaks up sweat, wool traps warm air, and polyester or plastic keeps water out. Each cloth suits a different weather."
+    },
+    {
+     "t": "write",
+     "p": "Some people wear silk saris. Some people choose not to, because the silkworm inside the cocoon usually dies. Say one fair reason for each view. Then say what you think.",
+     "lines": 4,
+     "a": "For example: Some people wear silk because it is a craft that weavers have passed down and it makes soft, light cloth. Others do not, because they care about the silkworm's life and choose cotton instead. I think ... because ...",
+     "why": "There are many views here. A strong answer gives a fair reason for each, and then gives your own thinking."
     }
    ]
   },
@@ -3156,6 +3311,58 @@
    "a": 0,
    "why": "The lotus leaf's surface has tiny waxy bumps. Water cannot spread on them, so it rolls off and carries dirt with it. Copying a living being's design like this is called biomimicry. Picking 'green colour' copies how the leaf looks, not how it works.",
    "outcome": 6
+  },
+  {
+   "t": "mcq",
+   "p": "It is a hot, sticky day in Chennai. Which shirt will keep you most comfortable?",
+   "opts": [
+    "A cotton shirt, because it soaks up sweat so it can dry and cool you",
+    "A woollen shirt, because wool is cool",
+    "A polyester shirt, because it soaks up sweat best",
+    "A plastic raincoat, because it is waterproof"
+   ],
+   "a": 0,
+   "why": "Cotton is absorbent. It takes up sweat and lets it dry, which cools you. Wool traps warm air, so it is too hot. Polyester does not soak up water, and a raincoat traps all the sweat.",
+   "outcome": 0
+  },
+  {
+   "t": "mcq",
+   "p": "What is polyester?",
+   "opts": [
+    "A plastic thread made from oil in a factory",
+    "A thread from silkworm cocoons",
+    "A thread from sheep",
+    "A thread from cotton plants"
+   ],
+   "a": 0,
+   "why": "Polyester is made from oil, so it is a plastic. Silk comes from silkworm cocoons, wool from sheep and cotton from cotton plants.",
+   "outcome": 0
+  },
+  {
+   "t": "mcq",
+   "p": "Why does a potter knead the clay before she puts it on the wheel?",
+   "opts": [
+    "To push out air bubbles and make the clay even",
+    "To make the clay hot",
+    "To make the clay porous",
+    "To make it dry faster"
+   ],
+   "a": 0,
+   "why": "Air bubbles can crack a pot when it is baked. Kneading squeezes them out and mixes the wet and dry parts. The pot becomes porous later, when it is baked. Kneading does not do that.",
+   "outcome": 0
+  },
+  {
+   "t": "mcq",
+   "p": "Why might a family carry water in a steel bottle on a crowded bus?",
+   "opts": [
+    "Steel is strong and does not break if it is dropped",
+    "Steel is porous, so it cools the water",
+    "Steel is transparent, so you can see the water",
+    "Steel soaks up water"
+   ],
+   "a": 0,
+   "why": "Steel is strong and tough, so it does not break when dropped. A clay pot is porous but brittle. A glass jug is transparent but breaks. Steel is not porous and does not soak up water.",
+   "outcome": 4
   }
  ],
  "applications": [

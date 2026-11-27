@@ -269,10 +269,11 @@
    "concept": "Almost all food starts with caught sunlight",
    "status": "defined",
    "definition": "Producers make food from things that are not food. Almost all producers on Earth use sunlight to do it. Every consumer lives on what producers made.",
-   "description": "Follow any food backwards and ask each time, 'and what did they eat?' The trail nearly always ends at a producer. On land the producers are mostly plants. In the sea they are mostly algae and cyanobacteria, which are tiny living beings that float near the surface. Cyanobacteria are bacteria that photosynthesise. The sea's producers do about half of all the photosynthesis on Earth. So 'food comes from plants' is a simplification. The fuller picture is that food comes from every living being that has chlorophyll. A sardine ate tiny animals that ate algae. A hen ate grain. A mushroom fed on dead straw. Each step passes on only a part of the energy, because every eater uses most of their food to stay alive. Producers catch only a small share of the sunlight that reaches the Earth, roughly one part in a thousand. All animals, fungi and most bacteria live on that share.",
+   "description": "Follow any food backwards and ask each time, 'and what did they eat?' The trail nearly always ends at a producer. On land the producers are mostly plants. In the sea they are mostly algae and cyanobacteria, which are tiny living beings that float near the surface. Cyanobacteria are bacteria that photosynthesise. The sea's producers do about half of all the photosynthesis on Earth. So 'food comes from plants' is a simplification. The fuller picture is that food comes from every living being that has chlorophyll. A sardine ate tiny animals that ate algae. A hen ate grain. A mushroom fed on dead straw. Each step passes on only a part of the energy, because every eater uses most of their food to stay alive. Producers catch only a small share of the sunlight that reaches the Earth, roughly one part in a thousand. All animals, fungi and most bacteria live on that share. Animals complete the balance of the air. In the light, a plant takes in carbon dioxide and gives out oxygen. Animals breathe the other way round: they take in oxygen and give out carbon dioxide. A plant also breathes in the dark, using oxygen, as every living cell does. Over time the air's oxygen and carbon dioxide stay in balance, because each kind of living being gives out what the other one uses.",
    "examples": [
     "Curd: sunlight was caught by grass, the cow ate the grass and made milk, and bacteria turned the milk into curd.",
     "Fish curry in Kochi: sunlight was caught by algae in the Arabian Sea, small animals ate the algae, and the fish ate them.",
+    "A cow in a village field breathes out carbon dioxide, and the grass beside it takes that carbon dioxide in to make sugar.",
     "Salt and water are on your plate too, but they give no energy. They are not food in this sense, and they do not come from sunlight."
    ],
    "perspectives": [],
@@ -2202,6 +2203,12 @@
      "outcome": 0
     },
     {
+     "t": "fill",
+     "p": "When an animal breathes, it takes in oxygen and gives out ________.",
+     "a": "carbon dioxide",
+     "why": "Animals breathe the other way round from a plant in the light. The plant takes in carbon dioxide and gives out oxygen, so the two living things keep the air in balance."
+    },
+    {
      "t": "mcq",
      "p": "In the Banana Clock, the very ripe slice hardly changed colour with iodine. Why?",
      "opts": [
@@ -2634,6 +2641,18 @@
    "a": 2,
    "why": "Nearly every chain begins with a plant, an alga or a cyanobacterium making food from light. Soil gives minerals and water, not energy.",
    "outcome": 5
+  },
+  {
+   "t": "mcq",
+   "p": "A leaf is in a dark room all night. What does it take in and give out?",
+   "opts": [
+    "Carbon dioxide in, oxygen out",
+    "Oxygen in, carbon dioxide out",
+    "Nothing at all, because the leaf is resting"
+   ],
+   "a": 1,
+   "why": "Every living cell breathes all day and night, taking in oxygen and giving out carbon dioxide. Carbon dioxide in and oxygen out needs light, so it stops in the dark.",
+   "outcome": 4
   },
   {
    "t": "mcq",

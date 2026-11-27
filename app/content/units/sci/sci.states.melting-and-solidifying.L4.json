@@ -54,6 +54,12 @@
    "art": "A thermometer showing 0 with an arrow pointing up labelled melting and an arrow pointing down labelled freezing."
   },
   {
+   "term": "Boiling point",
+   "meaning": "The temperature at which a liquid boils and turns into a gas, such as steam.",
+   "example": "At sea level, pure water boils at 100 degrees Celsius, so a pan of water with big bubbles is at 100.",
+   "art": "A steel pan of water with big bubbles rising, a cloud of steam above it, and a thermometer in the pan reading 100 degrees."
+  },
+  {
    "term": "Particle",
    "meaning": "A particle is a very tiny piece that a substance is made of, far too small to see.",
    "example": "One small ice cube holds far more water particles than there are grains of sand on Marina Beach.",
@@ -120,7 +126,7 @@
    "status": "defined",
    "context": "This card says what melting is and why 'hot' is a different number for every substance.",
    "definition": "Melting is a solid turning into a liquid as it takes in heat. The temperature at which this happens is the melting point of that substance.",
-   "description": "A solid does not melt just because it is 'hot'. It melts when it reaches its own melting point. Ice melts at 0 degrees Celsius, which feels very cold to us. Coconut oil melts at about 24 degrees, butter at about 33, candle wax at about 60, and iron at 1,538. The metal mercury melts at minus 39 degrees, so it is a liquid in every room on Earth. Chemists use the melting point like a fingerprint. Two white powders that look the same can be told apart by the temperature at which each one melts.",
+   "description": "A solid does not melt just because it is 'hot'. It melts when it reaches its own melting point. Ice melts at 0 degrees Celsius, which feels very cold to us. Coconut oil melts at about 24 degrees, butter at about 33, candle wax at about 60, and iron at 1,538. The metal mercury melts at minus 39 degrees, so it is a liquid in every room on Earth. Chemists use the melting point like a fingerprint. Two white powders that look the same can be told apart by the temperature at which each one melts. At sea level, pure water boils at 100 degrees Celsius, and turns into steam. Up in the hills the air is thinner, so water boils a little cooler.",
    "examples": [
     "A cube of ice melts in a tumbler of water from the tap, because tap water is warmer than 0 degrees.",
     "A steel ladle does not melt in boiling sambar, because steel melts at about 1,400 degrees.",
@@ -1763,6 +1769,15 @@
     },
     {
      "t": "fill",
+     "p": "At sea level, pure water boils at ____ degrees Celsius.",
+     "a": [
+      "100"
+     ],
+     "why": "Pure water boils at 100 degrees Celsius at sea level, and turns into steam. In the hills, where the air is thinner, it boils a little cooler.",
+     "outcome": 0
+    },
+    {
+     "t": "fill",
      "p": "A change that can be undone, giving the same substance back, is a ____ change.",
      "a": [
       "reversible"
@@ -2356,6 +2371,18 @@
    ],
    "a": 0,
    "why": "For a pure substance the melting point and the freezing point are the same temperature. 100 degrees is where water boils.",
+   "outcome": 0
+  },
+  {
+   "t": "mcq",
+   "p": "Pure water is heated in a pan at sea level. At what temperature does it boil and turn into steam?",
+   "opts": [
+    "About 100 degrees Celsius",
+    "About 0 degrees Celsius",
+    "About 60 degrees Celsius"
+   ],
+   "a": 0,
+   "why": "At sea level, pure water boils at 100 degrees Celsius. 0 degrees is where it freezes and melts, not where it boils. About 60 is where candle wax melts, not water.",
    "outcome": 0
   },
   {

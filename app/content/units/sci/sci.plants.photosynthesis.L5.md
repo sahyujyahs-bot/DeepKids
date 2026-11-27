@@ -105,9 +105,10 @@ Leaves hold other pigments besides chlorophyll. Red and purple pigments sit diss
 ### Almost all food starts with caught sunlight · *defined*
 **Definition:** Producers make food from things that are not food. Almost all producers on Earth use sunlight to do it. Every consumer lives on what producers made.
 
-Follow any food backwards and ask each time, 'and what did they eat?' The trail nearly always ends at a producer. On land the producers are mostly plants. In the sea they are mostly algae and cyanobacteria, which are tiny living beings that float near the surface. Cyanobacteria are bacteria that photosynthesise. The sea's producers do about half of all the photosynthesis on Earth. So 'food comes from plants' is a simplification. The fuller picture is that food comes from every living being that has chlorophyll. A sardine ate tiny animals that ate algae. A hen ate grain. A mushroom fed on dead straw. Each step passes on only a part of the energy, because every eater uses most of their food to stay alive. Producers catch only a small share of the sunlight that reaches the Earth, roughly one part in a thousand. All animals, fungi and most bacteria live on that share.
+Follow any food backwards and ask each time, 'and what did they eat?' The trail nearly always ends at a producer. On land the producers are mostly plants. In the sea they are mostly algae and cyanobacteria, which are tiny living beings that float near the surface. Cyanobacteria are bacteria that photosynthesise. The sea's producers do about half of all the photosynthesis on Earth. So 'food comes from plants' is a simplification. The fuller picture is that food comes from every living being that has chlorophyll. A sardine ate tiny animals that ate algae. A hen ate grain. A mushroom fed on dead straw. Each step passes on only a part of the energy, because every eater uses most of their food to stay alive. Producers catch only a small share of the sunlight that reaches the Earth, roughly one part in a thousand. All animals, fungi and most bacteria live on that share. Animals complete the balance of the air. In the light, a plant takes in carbon dioxide and gives out oxygen. Animals breathe the other way round: they take in oxygen and give out carbon dioxide. A plant also breathes in the dark, using oxygen, as every living cell does. Over time the air's oxygen and carbon dioxide stay in balance, because each kind of living being gives out what the other one uses.
 - e.g. Curd: sunlight was caught by grass, the cow ate the grass and made milk, and bacteria turned the milk into curd.
 - e.g. Fish curry in Kochi: sunlight was caught by algae in the Arabian Sea, small animals ate the algae, and the fish ate them.
+- e.g. A cow in a village field breathes out carbon dioxide, and the grass beside it takes that carbon dioxide in to make sugar.
 - e.g. Salt and water are on your plate too, but they give no energy. They are not food in this sense, and they do not come from sunlight.
 ### The 'almost': living beings fed by chemicals · *defined*
 **Definition:** A few living beings get their energy from chemicals that come out of rock, not from light. This is called chemosynthesis.
@@ -615,7 +616,7 @@ She ate the rice slowly. Then she went to find the blade.
 16. (mcq) A white patch on a leaf makes no food. How do its cells stay alive?  
    Options: They need no food / They eat the iodine / Green cells nearby send them sugar / They take food from the soil  
    **Answer:** Green cells nearby send them sugar. *Why:* Sucrose flows from the green cells to the white ones. Choosing 'from the soil' is an old idea about plants. Soil gives water and minerals, not food.
-### Light, starch and who feeds whom (stretch) (stretch, 16 questions)
+### Light, starch and who feeds whom (stretch) (stretch, 17 questions)
 1. (mcq) Which colours of light does chlorophyll take in most?  
    Options: Only green / Only white / Red and blue / Green and yellow  
    **Answer:** Red and blue. *Why:* Chlorophyll takes in mostly red and blue light. Choosing 'green' is a common mix-up. Green is the colour a leaf sends back most, which is why we see it.
@@ -636,21 +637,23 @@ She ate the rice slowly. Then she went to find the blade.
    **Answer:** ['Tiny sea algae', 'Tiny sea animals', 'Sardine', 'A child eating fish fry']. *Why:* The algae catch sunlight. Tiny animals eat the algae, the sardine eats them, and the child eats the sardine.
 9. (perspective) Three people talk about who makes a plant's food.  
    **Answer:** A strong answer uses evidence: the white patch for the textbook, a food chain for the physicist, or the Red Glow for the plant scientist. It also gives a fair point to another view.. *Why:* Each is right about one part. Chlorophyll is needed, the energy is the Sun's, and only the whole chloroplast can turn that energy into sugar.
-10. (mcq) In the Banana Clock, the very ripe slice hardly changed colour with iodine. Why?  
+10. (fill) When an animal breathes, it takes in oxygen and gives out ________.  
+   **Answer:** carbon dioxide. *Why:* Animals breathe the other way round from a plant in the light. The plant takes in carbon dioxide and gives out oxygen, so the two living things keep the air in balance.
+11. (mcq) In the Banana Clock, the very ripe slice hardly changed colour with iodine. Why?  
    Options: It had dried out / Its food had been used up / Iodine was too weak / Its starch had turned into sugar  
    **Answer:** Its starch had turned into sugar. *Why:* A ripening banana breaks starch into sugars, and sugar gives no colour with iodine. The food is still there, as sugar.
-11. (draw) Draw what happens to a photon's energy in a leaf, and in a jar of chlorophyll. Use two boxes.  
+12. (draw) Draw what happens to a photon's energy in a leaf, and in a jar of chlorophyll. Use two boxes.  
    **Answer:** Box 1: a photon lands on chlorophyll in a leaf, and an arrow leads on to 'sugar'. Box 2: a photon lands on chlorophyll in a jar, and arrows lead back out as 'red light' and 'heat'.. *Why:* A strong drawing shows the energy being passed on in the leaf and coming straight back out in the jar.
-12. (truefalse) True or false: plants store starch because starch dissolves easily in water.  
+13. (truefalse) True or false: plants store starch because starch dissolves easily in water.  
    **Answer:** False. *Why:* False. Starch does not dissolve. That is why it is good for storing. It sits in the cell as small grains and does not pull water in.
-13. (odd) Three of these photosynthesise. Which one does not?  
+14. (odd) Three of these photosynthesise. Which one does not?  
    Options: Seaweed / Cyanobacteria / Mushroom / Paddy plant  
    **Answer:** 2. *Why:* A mushroom is a fungus with no chlorophyll, and feeds on dead plants. Seaweed, cyanobacteria and paddy all make food from light.
-14. (write) A pure white seedling grows well for three weeks and then dies. Explain both parts.  
+15. (write) A pure white seedling grows well for three weeks and then dies. Explain both parts.  
    **Answer:** For three weeks the seedling lives on food stored in the seed. With no chlorophyll they catch no light and make no new food. When the seed is empty, they starve.. *Why:* A strong answer explains the good start by the seed's store, and the death by the missing chlorophyll.
-15. (match) Match each living being to the way they are fed.  
+16. (match) Match each living being to the way they are fed.  
    **Answer:** Dodder (amarbel) → takes sucrose from a green plant; Giant tubeworm → fed by bacteria that use chemicals; Reef coral → fed by algae living inside their body; Mushroom → feeds on dead plants; Hibiscus → makes food from light. *Why:* Only the hibiscus and the coral's algae catch light themselves. The others live on food that someone else made.
-16. (label) List the four liquids used in the starch test on a leaf. Beside each, write its job.  
+17. (label) List the four liquids used in the starch test on a leaf. Beside each, write its job.  
    **Answer:** ['Very hot water: kills the cells and lets liquids in', 'Warm spirit: takes out the chlorophyll', 'Warm rinse water: softens the leaf', 'Iodine: turns blue-black with starch']. *Why:* Each step does one job. Skipping the hot water or the spirit gives a result that is hard to read.
 ### Energy, the night and the 'almost' (challenge) (challenge, 16 questions)
 1. (write) People say 'the energy is in the sugar'. What is the more exact way to say it?  
@@ -726,10 +729,13 @@ She ate the rice slowly. Then she went to find the blade.
 10. (mcq) What comes first in nearly every food chain?  
    Options: A fungus / Soil / A producer that catches light / A small animal  
    **Answer:** A producer that catches light. *Why:* Nearly every chain begins with a plant, an alga or a cyanobacterium making food from light. Soil gives minerals and water, not energy.
-11. (mcq) What feeds the giant tubeworms at hot springs on the deep sea floor?  
+11. (mcq) A leaf is in a dark room all night. What does it take in and give out?  
+   Options: Carbon dioxide in, oxygen out / Oxygen in, carbon dioxide out / Nothing at all, because the leaf is resting  
+   **Answer:** Oxygen in, carbon dioxide out. *Why:* Every living cell breathes all day and night, taking in oxygen and giving out carbon dioxide. Carbon dioxide in and oxygen out needs light, so it stops in the dark.
+12. (mcq) What feeds the giant tubeworms at hot springs on the deep sea floor?  
    Options: Nothing at all / Bacteria that use chemicals for energy / Seaweed growing on the rocks / Sunlight shining down  
    **Answer:** Bacteria that use chemicals for energy. *Why:* No light reaches the deep sea floor, so no seaweed grows there. Bacteria inside the tubeworms make food using energy from chemicals in the hot water.
-12. (mcq) Which of these do scientists still argue about?  
+13. (mcq) Which of these do scientists still argue about?  
    Options: Whether leaves hold chlorophyll / Whether iodine shows starch / Whether plants need light / How a plant sets the speed of starch use at night  
    **Answer:** How a plant sets the speed of starch use at night. *Why:* Everyone agrees that leaves use starch at a steady rate that lasts until dawn. How the plant sets that rate is not settled.
 

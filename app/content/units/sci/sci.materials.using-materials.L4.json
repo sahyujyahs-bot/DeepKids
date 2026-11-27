@@ -35,6 +35,12 @@
    "art": "A balance with strong on one side and light on the other, tipping toward strong."
   },
   {
+   "term": "Braille",
+   "meaning": "A way of writing with raised dots that a person reads by touch with the fingers. Louis Braille, who was blind himself, made it in France in the 1800s.",
+   "example": "Many books for blind children are printed on thick paper with Braille dots.",
+   "art": "A fingertip reading a row of raised dots on a thick card."
+  },
+  {
    "term": "Decision matrix",
    "meaning": "A table that scores each material on each requirement, so you can compare them side by side. The rows are materials and the columns are requirements.",
    "example": "A table that scores steel, plastic and glass for a lunch box on cost, weight and safety.",
@@ -176,7 +182,8 @@
    "examples": [
     "A steel tumbler is strong but heavy and hot to hold. A paper cup is light but weak.",
     "A thick glass bottle does not leak, but it breaks if dropped. A plastic bottle does not break if dropped, but it may leak.",
-    "A bicycle frame of thin steel tube is light and strong, but costs more than a heavy frame."
+    "A bicycle frame of thin steel tube is light and strong, but costs more than a heavy frame.",
+    "Tissue paper soaks up water, so it wipes up spills. Thick cardboard is stiff, so it makes boxes. Braille paper is thick enough to hold raised dots that a blind child reads with the fingers."
    ],
    "perspectives": [],
    "art": "Five cups in a row, steel, glass, paper, clay and plastic, each with two small icons showing one thing it is good at and one thing it is bad at.",
@@ -2705,6 +2712,14 @@
     },
     {
      "t": "fill",
+     "p": "Braille paper is thick, so it can hold raised ____ that a blind child reads with the fingers.",
+     "a": [
+      "dots"
+     ],
+     "why": "Braille letters are made of raised dots. Thin paper would tear or flatten under them."
+    },
+    {
+     "t": "fill",
      "p": "A material made of fibres held by a matrix is called a ____.",
      "a": [
       "composite"
@@ -3285,6 +3300,18 @@
    "a": 0,
    "why": "Concrete is strong when squeezed and weak when pulled. The bars carry the pull. It is a composite.",
    "outcome": 1
+  },
+  {
+   "t": "mcq",
+   "p": "Tissue paper is used to wipe up a spill. Why is it a poor choice for a box?",
+   "opts": [
+    "It soaks up water well, but it is too thin and soft to hold a box's shape",
+    "It cannot be made from plant fibres",
+    "It is too thick to fold"
+   ],
+   "a": 0,
+   "why": "Tissue is thin, so it soaks up water and wipes well. A box needs stiff, thick cardboard that holds its shape. Tissue is made from plant fibres too, so that is not the reason.",
+   "outcome": 0
   }
  ],
  "videos": [

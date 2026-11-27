@@ -35,6 +35,12 @@
    "art": "A cut-away of a garden bed with dark crumbly loam, roots running through it and a worm in a gap."
   },
   {
+   "term": "Topsoil",
+   "meaning": "The dark top layer of soil. It holds the most humus, roots and living things, so it is the richest layer for a crop.",
+   "example": "Rain can wash topsoil off a bare field. A cover of straw or plants holds it in place.",
+   "art": "A cut-away of soil with a dark topsoil layer above paler subsoil."
+  },
+  {
    "term": "Pore",
    "meaning": "A tiny gap between the grains in soil. Pores hold air and water.",
    "example": "When you pour water on dry soil, bubbles pop out of the pores.",
@@ -129,9 +135,35 @@
    "meaning": "Growing two or more crops together in the same field in the same season.",
    "example": "Many farmers in Karnataka grow ragi with a row of red gram in between.",
    "art": "A field with rows of ragi and a row of tall red gram plants between them."
+  },
+  {
+   "term": "Alluvial soil",
+   "meaning": "A rich soil of sand, silt and clay that rivers carry down and leave on their plains and deltas.",
+   "example": "The wheat and rice fields of the Ganga plain grow on alluvial soil.",
+   "art": "A river with brown water spreading silt over a flat green plain."
+  },
+  {
+   "term": "Weed",
+   "meaning": "A plant that grows where the farmer did not plant it, and takes water, nutrients and light from the crop.",
+   "example": "A farmer cuts weeds from between the rows of young wheat with a khurpi.",
+   "art": "A row of young plants with a few weeds between them and a khurpi beside them."
   }
  ],
  "explanations": [
+  {
+   "concept": "What soil is made of: topsoil, and the parts of a sample",
+   "status": "defined",
+   "definition": "Soil is a mix of tiny bits of rock, rotted leaves and roots, water, air and living things. The dark top layer, called topsoil, is where most roots grow.",
+   "description": "Pick up a handful of garden soil. It looks like one thing, but it is a mix. There are grains of broken rock: sand, silt and clay, from biggest to smallest. There is humus, the dark, crumbly part made of rotted leaves and roots. There are gaps with water and air in them. There are also living beings: worms, tiny insects, fungi and bacteria. They feed on dead leaves and roots, and they turn them into nutrients that plants can use. The top layer is called topsoil. It is darker than the soil below because it holds the most humus. Most roots, worms and microbes live in it, so it is the richest layer for a crop. It can take hundreds of years to make a thin layer of topsoil, and rain and wind can carry it off a bare field. That is why mulch and plant cover matter. Below it, the subsoil is paler, harder and has less humus. You can split a handful of soil into its parts. Shake it in a jar of water and leave it. Heavy sand grains sink in a minute. Silt settles over some hours. Clay is so fine that the water stays cloudy for a day or more. Bits of humus and dead leaves float.",
+   "examples": [
+    "Soil shaken in a jar and left to settle makes layers: sand at the bottom, then silt, then cloudy clay water, with leaf bits floating on top.",
+    "A new road cutting shows dark topsoil on top and paler subsoil below it.",
+    "An earthworm in garden soil eats dead leaves and leaves behind crumbly soil full of nutrients."
+   ],
+   "perspectives": [],
+   "art": "A cut-away of a garden: dark topsoil with roots, a worm and leaf bits, paler subsoil below, and a jar beside it with the soil settling into layers.",
+   "context": "What is soil really made of, and where do roots live? This card opens the unit with the parts of a handful of soil."
+  },
   {
    "concept": "Texture decides how soil behaves with water",
    "status": "defined",
@@ -263,6 +295,20 @@
    "context": "Why do some farmers grow several crops in one field? This card explains intercropping."
   },
   {
+   "concept": "Weeds: plants that take from the crop",
+   "status": "defined",
+   "definition": "A weed is a plant growing where the farmer did not plant it. Weeds take water, nutrients and light from the crop, so farmers remove them early.",
+   "description": "A weed seed sprouts in the same wet, rich soil as a crop seed, and its roots drink the same water. In a weedy field the crop has to share its water and nutrients, so it grows weak and gives less grain. Young crops suffer most, because they are small and weeds grow fast. So farmers weed early, a few weeks after sowing. They pull weeds by hand, or cut them with a khurpi or a hoe. A cover of straw keeps weeds down too, because it shades the ground. Water also needs care. A farmer who waters along each row, or at each plant, feeds the crop's roots and leaves the weeds between the rows dry. Too much water wastes it and can drown roots. 'Weed' tells us where a plant is, not what it is. Bathua grows wild in wheat fields, and many families eat it as a green. The same plant is a weed to the farmer and a meal to the family.",
+   "examples": [
+    "A farmer bends over a young wheat field with a khurpi, cutting weeds between the rows.",
+    "A mulch of straw between vegetable rows keeps the weeds down and the soil damp.",
+    "Bathua, a weed in a winter wheat field, is cooked as saag in many homes."
+   ],
+   "perspectives": [],
+   "art": "A farmer with a khurpi between rows of young plants, with weeds in her basket, and a thin water channel running along the row.",
+   "context": "Why do farmers pull out weeds soon after sowing? This card explains how weeds take from a crop."
+  },
+  {
    "concept": "Salt in the soil",
    "status": "defined",
    "definition": "Water used on fields carries a little salt. When the water evaporates or is taken up by plants, the salt is left behind and builds up in the soil.",
@@ -289,6 +335,21 @@
    "perspectives": [],
    "art": "A pH scale as a colour strip from red acid on the left to purple neutral in the middle to blue-green alkaline on the right, with a tea bush at the acid end and a chalky field at the alkaline end.",
    "context": "Soils can be acidic or alkaline. What does that mean for plants? This card explains."
+  },
+  {
+   "concept": "Soils of India and the crops they suit",
+   "status": "defined",
+   "definition": "Different soils suit different crops. Clay holds water for long, sandy soil lets it run away, alluvial soil is a mix that suits most crops, and acidic soil is poor until it is cared for.",
+   "description": "Clay soil holds water for a long time and drains slowly. Rice grows with its roots in standing water, and sugarcane needs a lot of water. Both do well in clay. Sandy soil drains fast. Its loose grains are easy for tubers and pods to push through. Groundnut, melon and potato grow well in it. Alluvial soil is carried down by rivers and left on their plains and deltas. It is a mix of sand, silt and clay, with minerals washed down from the mountains. The Ganga plain and the Brahmaputra valley have it. It suits most crops, such as rice, wheat, sugarcane, pulses and vegetables. Acidic soil, like the red laterite soil of Kerala, is poor in nutrients, because heavy rain washes them away. Many crops do badly in it. A farmer can spread lime to cancel some of the acid, and add compost to bring back humus. Real fields are mixes, so these are rough guides. A farmer's own years of knowing the field count too.",
+   "examples": [
+    "Rice and sugarcane in heavy clay soil.",
+    "Groundnut and watermelon on the sandy bank of a river.",
+    "Wheat fields on the alluvial plain of Punjab and Uttar Pradesh.",
+    "A farmer in Kerala spreads lime and compost on red acidic soil before sowing."
+   ],
+   "perspectives": [],
+   "art": "A map of India with four small panels: a sugarcane field on dark clay, groundnut on pale sand, wheat on the river plain, and a bare red field with a bag of lime beside it.",
+   "context": "Why do farmers in different places grow different crops? This card links four kinds of soil to the crops that suit them."
   },
   {
    "concept": "Who is in charge of the trade between a bean and her bacteria?",
@@ -2277,6 +2338,100 @@
      "caption": "3. Test soil water and chalk water."
     }
    ]
+  },
+  {
+   "id": "a7",
+   "title": "Soil in a Jar and the Pour Test: what is in soil, and which soil holds water?",
+   "mins": 25,
+   "days": 2,
+   "materials": [
+    {
+     "item": "a clear glass jar with a lid, or a clear plastic bottle with the top cut off",
+     "qty": 1
+    },
+    {
+     "item": "a cup of garden soil, with stones picked out, and a cup of clean sand",
+     "qty": 1
+    },
+    {
+     "item": "two old plastic cups, each with five small holes poked in the bottom by a grown-up",
+     "qty": 1
+    },
+    {
+     "item": "a measuring jug marked in millilitres, a glass and a spoon",
+     "qty": 1
+    },
+    {
+     "item": "a pen to mark the jar, and a notebook",
+     "qty": 1
+    }
+   ],
+   "safety": "A grown-up pokes the holes in the cups. Do not put soil or water from the jar in your mouth. Wash hands with soap after touching soil.",
+   "schedule": [
+    {
+     "day": 1,
+     "mins": 20,
+     "what": "Shake garden soil in a jar of water and watch it settle. Then do the pour test on garden soil and sand."
+    },
+    {
+     "day": 2,
+     "mins": 5,
+     "what": "Look at the jar again and mark the layers."
+    }
+   ],
+   "record": "A drawing of the jar after one minute and after one day, with the parts named. A small table showing how much water ran through the sand and through the garden soil.",
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 6,
+     "do": "Fill the jar one-third with garden soil. Add water until it is nearly full. Put the lid on and shake hard for a minute. Put the jar down and do not touch it. Mark the level of the settled soil with a pen after one minute.",
+     "say": "Soil looks like one thing, but let's split it into its parts. Shake the jar, then watch what sinks first.",
+     "kid": "Shake the jar. Put it down. After one minute, what has sunk to the bottom?",
+     "parent": "After about a minute, the heavy sand sinks. Silt settles over some hours. Clay is so fine that the water stays cloudy for a day or more. Dark bits of humus and dead leaves float. Mark each layer with a pen as it appears. Two to four children: each child shakes their own jar of a different soil, if you have more than one, and compares.",
+     "context": "This is the first step of the Soil in a Jar activity. You shake soil in water to split it into sand, silt, clay and humus."
+    },
+    {
+     "id": "s2",
+     "mins": 4,
+     "do": "Look at the jar again the next morning. Draw the layers and name each one: sand, silt, clay water, and floating humus.",
+     "say": "Look at the jar now. Which layer is thickest? Where is the dark humus?",
+     "kid": "Draw the layers in the jar. Name each one.",
+     "check": {
+      "t": "mcq",
+      "q": "In the jar, the layer at the very bottom is made of the biggest grains. What is it?",
+      "options": [
+       "Sand",
+       "Clay",
+       "Humus"
+      ],
+      "a": 0,
+      "why": "The biggest grains are the heaviest, so they sink first and make the bottom layer. Clay grains are the smallest and settle last, or stay floating as cloudy water. Humus is light and floats."
+     }
+    },
+    {
+     "id": "s3",
+     "mins": 10,
+     "do": "1. Half fill one cup with sand and the other with garden soil. 2. Stand each cup over a glass. 3. Pour 100 millilitres of water slowly onto the sand. 4. Wait five minutes. 5. Measure the water in the glass. 6. Do the same with the garden soil.",
+     "say": "Which soil holds on to the water, and which lets it run through? Let's measure what comes out.",
+     "kid": "Pour 100 millilitres onto each soil. Wait. Measure what drips into the glass. Which soil held more water?",
+     "parent": "Sand lets most of the water run through, often 80 millilitres or more. Garden soil holds back more, so less runs out. The less that drips out, the more water the soil holds. The numbers change from soil to soil, so compare your own two cups."
+    }
+   ],
+   "context": "This is a home test. You shake soil in a jar to see its parts, and you pour water through two soils to see which one holds more water.",
+   "setup": [
+    {
+     "art": "A child shaking a closed glass jar of soil and water, with the lid on.",
+     "caption": "1. Shake the soil in water."
+    },
+    {
+     "art": "A jar on a table with a layer of sand at the bottom, silt above it, cloudy water and bits of leaf floating.",
+     "caption": "2. Let it settle, then name the layers."
+    },
+    {
+     "art": "Two plastic cups with holes, one with sand and one with soil, standing over two glasses with different amounts of water in them.",
+     "caption": "3. Pour water through each soil and measure what drips out."
+    }
+   ]
   }
  ],
  "projects": [
@@ -2651,6 +2806,15 @@
     },
     {
      "t": "fill",
+     "p": "The dark top layer of soil, where most roots and worms live, is called ____.",
+     "a": [
+      "topsoil"
+     ],
+     "why": "Topsoil holds the most humus, so it is dark and rich. Below it is the paler subsoil.",
+     "outcome": 0
+    },
+    {
+     "t": "fill",
      "p": "Water climbing up through the narrow gaps in soil is called capillary ____.",
      "a": [
       "rise"
@@ -2787,6 +2951,15 @@
      "how": "e2"
     },
     {
+     "t": "draw",
+     "p": "Draw your Soil Jar after one minute and after one day. Show the layers and label sand, silt, clay and humus.",
+     "a": "A jar with sand at the bottom, a thin layer of silt above it, cloudy water on top that is clear by the next day only if the soil has little clay, and bits of leaf floating at the top.",
+     "why": "A strong drawing shows the biggest grains at the bottom and the finest grains settling last, with humus floating.",
+     "art": "A page with two empty jars, one labelled after one minute and one labelled after one day.",
+     "how": "a7",
+     "outcome": 0
+    },
+    {
      "t": "mcq",
      "p": "A white crust of salt forms on the top of a dry field that has been watered for many years. Where did the salt come from?",
      "opts": [
@@ -2804,6 +2977,13 @@
      "a": true,
      "why": "True. They all belong to the bean family and have seeds in pods. Their roots carry nodules with nitrogen-fixing bacteria.",
      "outcome": 4
+    },
+    {
+     "t": "truefalse",
+     "p": "Weeds only take up space in a field. They do not use the crop's water.",
+     "a": false,
+     "why": "False. Weeds drink the same water and take the same nutrients as the crop, so a weedy field gives less grain. Early weeding protects young plants.",
+     "outcome": 2
     },
     {
      "t": "write",
@@ -3020,6 +3200,31 @@
      "why": "Each of these shows how a plant or a farmer works with the soil."
     },
     {
+     "t": "match",
+     "p": "Match each soil to the crop that suits it.",
+     "pairs": [
+      [
+       "Heavy clay soil",
+       "rice and sugarcane"
+      ],
+      [
+       "Loose sandy soil",
+       "groundnut and potato"
+      ],
+      [
+       "Alluvial soil of a river plain",
+       "wheat, rice and most crops"
+      ],
+      [
+       "Acidic soil with lime added",
+       "a field that can grow crops again"
+      ]
+     ],
+     "a": "pairs as given",
+     "why": "Clay holds the water that rice and sugarcane need. Sandy soil is loose for pods and tubers. Alluvial soil suits most crops. Lime cancels some acid in poor soil, so crops can grow again.",
+     "outcome": 6
+    },
+    {
      "t": "mcq",
      "p": "Which field is most likely to get a white salt crust?",
      "opts": [
@@ -3057,6 +3262,14 @@
      "a": "Grow a pulse in the field, add compost or manure, and perhaps some urea. The potassium is high, so she does not need to add more.",
      "why": "A strong answer matches the advice to what is low and leaves out what is high.",
      "outcome": 6
+    },
+    {
+     "t": "write",
+     "p": "A farmer waters her whole vegetable field with a hose, and weeds grow thick between the rows. Say what she could change, and why it would help.",
+     "lines": 4,
+     "a": "She could weed the field early, and put a mulch of straw between the rows. She could water along each row or at each plant, so the weeds between the rows stay dry. Weeds drink the same water and take the same nutrients as the crop, so keeping them down helps the crop.",
+     "why": "A strong answer names weeding or mulch, and says that weeds take water and nutrients from the crop.",
+     "outcome": 2
     },
     {
      "t": "truefalse",
@@ -3264,6 +3477,14 @@
      "a": "I would find out whether the soil can grow, take in food, respond and change as a whole, or whether those things are only done by the creatures in it. I would also want to know how much the creatures depend on each other.",
      "why": "There is no single answer. A strong answer says what evidence would help to decide.",
      "outcome": 6
+    },
+    {
+     "t": "write",
+     "p": "A farmer in Kerala has red acidic soil where crops do badly. Another farmer on a river plain has alluvial soil. Explain why they should not follow the same plan.",
+     "lines": 4,
+     "a": "The red soil is acidic and poor in nutrients, because heavy rain has washed them out. The farmer can add lime to cancel some acid, and compost to bring back humus. The alluvial soil is a rich mix of sand, silt and clay that suits most crops, so it may need only care. Each soil asks for a different plan.",
+     "why": "A strong answer says what is wrong with each soil, and gives one fitting step for each.",
+     "outcome": 6
     }
    ]
   }
@@ -3291,6 +3512,30 @@
    ],
    "a": 0,
    "why": "Loam is a mix of sand, silt, clay and humus. The sand lets extra water out, and the finer grains and humus hold water for roots.",
+   "outcome": 0
+  },
+  {
+   "t": "mcq",
+   "p": "Why is topsoil the richest layer for a crop?",
+   "opts": [
+    "It is dark with humus, and most roots and soil life live in it",
+    "It is the deepest layer, so it is the oldest",
+    "It is made only of clay"
+   ],
+   "a": 0,
+   "why": "Topsoil holds the most humus, the dark part made from rotted leaves and roots. Worms, fungi and bacteria live there and turn dead leaves into nutrients. The deeper subsoil is paler and holds less humus.",
+   "outcome": 0
+  },
+  {
+   "t": "mcq",
+   "p": "You shake soil in a jar of water and leave it for one minute. What has settled at the bottom?",
+   "opts": [
+    "Sand",
+    "Clay",
+    "Humus"
+   ],
+   "a": 0,
+   "why": "Sand grains are the biggest and heaviest, so they sink first. Silt settles over some hours, and the clay stays cloudy for a day or more. Humus is light and floats with the dead leaves.",
    "outcome": 0
   },
   {
@@ -3330,6 +3575,18 @@
    "why": "Evaporation from the top of the soil is slowed by a cover of mulch.",
    "outcome": 2,
    "how": "e3"
+  },
+  {
+   "t": "mcq",
+   "p": "Why does a farmer pull out weeds a few weeks after sowing?",
+   "opts": [
+    "Weeds take water and nutrients from the young crop",
+    "Weeds make the soil salty",
+    "Weeds are always poisonous"
+   ],
+   "a": 0,
+   "why": "Weeds drink the same water and take the same nutrients as the crop, so a crop that shares them grows weak. Some weeds, such as bathua, are good to eat, so they are not poisonous. They are only in the wrong place.",
+   "outcome": 2
   },
   {
    "t": "mcq",
@@ -3438,6 +3695,42 @@
    ],
    "a": 0,
    "why": "A pulse brings in nitrogen and compost adds humus, so the plan fixes both problems.",
+   "outcome": 6
+  },
+  {
+   "t": "mcq",
+   "p": "A farmer's field has acidic, poor soil. Which plan helps most?",
+   "opts": [
+    "Spread lime to cancel some acid, and add compost",
+    "Add more rainwater to wash the field",
+    "Leave it bare and wait"
+   ],
+   "a": 0,
+   "why": "Lime cancels some of the acid, and compost adds humus and nutrients. Heavy rain is what made the soil poor in the first place, because it washes nutrients away. A bare field will lose even more topsoil.",
+   "outcome": 6
+  },
+  {
+   "t": "mcq",
+   "p": "Which soil is carried down by rivers and suits most crops?",
+   "opts": [
+    "Alluvial soil",
+    "Acidic laterite soil",
+    "Pure sand"
+   ],
+   "a": 0,
+   "why": "Alluvial soil is a mix of sand, silt and clay left by rivers on plains and deltas, so it holds water and drains well. Laterite soil is poor in nutrients, and pure sand holds almost no water.",
+   "outcome": 6
+  },
+  {
+   "t": "mcq",
+   "p": "Which crop suits sandy soil, which drains fast and is loose?",
+   "opts": [
+    "Groundnut",
+    "Rice grown in standing water",
+    "Sugarcane, which needs a lot of water"
+   ],
+   "a": 0,
+   "why": "Loose sandy soil lets pods and tubers push through, and groundnut and potato grow well in it. Rice and sugarcane like clay, which holds water for long. Picking sugarcane is a natural guess, because it is a famous crop, but it needs more water than sand can hold.",
    "outcome": 6
   }
  ],
@@ -4010,6 +4303,7 @@
    "p1",
    "c1",
    "c2",
+   "a7",
    "big_questions",
    "ws-challenge",
    "open_questions",

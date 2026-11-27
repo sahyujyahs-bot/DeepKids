@@ -17,6 +17,7 @@
 ## Terms
 - **Requirement**: One thing a job needs from a material, such as strong, light, cheap or waterproof. A job usually has many requirements at once. *e.g.* A school bag must be light, strong, waterproof and cheap. Those are four requirements.
 - **Trade-off**: When getting more of one good thing means getting less of another. Every material choice is a trade-off. *e.g.* A thicker steel plate is stronger but heavier. A thinner plate is lighter but weaker.
+- **Braille**: A way of writing with raised dots that a person reads by touch with the fingers. Louis Braille, who was blind himself, made it in France in the 1800s. *e.g.* Many books for blind children are printed on thick paper with Braille dots.
 - **Decision matrix**: A table that scores each material on each requirement, so you can compare them side by side. The rows are materials and the columns are requirements. *e.g.* A table that scores steel, plastic and glass for a lunch box on cost, weight and safety.
 - **Weight (importance)**: A number that says how much a requirement matters for this job. A requirement that matters more gets a bigger weight. *e.g.* For a hot-day water bottle, keeping water cool gets a weight of 3 and looks gets a weight of 1.
 - **Score**: A number you give a material for one requirement. A higher score means it does better. *e.g.* Steel scores 5 for strong and 2 for light.
@@ -48,6 +49,7 @@ Think about a drinking cup. Steel does not break and lasts for years, but it is 
 - e.g. A steel tumbler is strong but heavy and hot to hold. A paper cup is light but weak.
 - e.g. A thick glass bottle does not leak, but it breaks if dropped. A plastic bottle does not break if dropped, but it may leak.
 - e.g. A bicycle frame of thin steel tube is light and strong, but costs more than a heavy frame.
+- e.g. Tissue paper soaks up water, so it wipes up spills. Thick cardboard is stiff, so it makes boxes. Braille paper is thick enough to hold raised dots that a blind child reads with the fingers.
 ### A decision matrix: scoring materials for a job · *defined*
 **Definition:** A decision matrix is a table that scores each material against each need, using weights for how much each need matters.
 
@@ -658,7 +660,7 @@ The village decided to do both. Mr. Das would build one small, light steel footb
    **Answer:** Source: a cotton field. Making: a mill and a tailor. Use: worn and washed many times. After: mended, passed on, or rotting in soil. Arrows go round the circle.. *Why:* A life cycle has four stages. Drawing them as a circle shows that what comes after can lead back to a source.
 16. (perspective) A village needs a footbridge over a stream. People have different ideas.  
    **Answer:** A strong answer weighs the needs: how soon, how long, cost, what happens after. Bamboo is quick and cheap but rots in a few years. Steel lasts but needs paint and is hard to dispose of. Roots take longest but last longest and leave no waste. Each person is right about one need. A village could also choose two.. *Why:* The best choice depends on what the village counts. A decision matrix shows how the weights decide.
-### Trade-offs and Whole Lives (stretch) (stretch, 17 questions)
+### Trade-offs and Whole Lives (stretch) (stretch, 18 questions)
 1. (mcq) A plastic tiffin box and a steel tiffin box both score 30 in a decision matrix. What is the best next step?  
    Options: Look at the weights and ask which need matters most for this job / Pick the plastic one / Pick the steel one / Throw both out  
    **Answer:** Look at the weights and ask which need matters most for this job. *Why:* A tie shows that the scores alone cannot settle the matter. The weights, which say what matters most, can. If the box is carried with curry, 'does not leak' gets a bigger weight.
@@ -667,36 +669,38 @@ The village decided to do both. Mr. Das would build one small, light steel footb
    **Answer:** The 600 rupee pair, at 300 rupees a year. *Why:* 600 divided by 2 years is 300 a year. 300 divided by half a year is 600 a year. So the dearer shoes cost less each year.
 3. (truefalse) Every time paper is recycled, the fibres get longer and the paper gets stronger.  
    **Answer:** False. *Why:* False. Each time paper is pulped and remade, the fibres get shorter and fewer, so the paper gets weaker.
-4. (fill) A material made of fibres held by a matrix is called a ____.  
+4. (fill) Braille paper is thick, so it can hold raised ____ that a blind child reads with the fingers.  
+   **Answer:** ['dots']. *Why:* Braille letters are made of raised dots. Thin paper would tear or flatten under them.
+5. (fill) A material made of fibres held by a matrix is called a ____.  
    **Answer:** ['composite']. *Why:* A composite is made of two or more materials joined so that the result can do what neither could do alone.
-5. (sort) For a steel pot, does making the walls thicker make each of these better or worse?  
+6. (sort) For a steel pot, does making the walls thicker make each of these better or worse?  
    **Answer:** How strong the pot is → Better; How light the pot is → Worse; How cheap the pot is → Worse; How long the pot lasts → Better; How fast the pot heats up → Worse; How well the pot keeps food hot → Better. *Why:* Thicker steel gives more strength and long life, and holds more heat. It also adds weight and cost, and takes longer to heat. That is a trade-off.
-6. (write) Give two reasons why the best roof for a house in Cherrapunji might not be the best roof for a house in the Thar desert.  
+7. (write) Give two reasons why the best roof for a house in Cherrapunji might not be the best roof for a house in the Thar desert.  
    **Answer:** In Cherrapunji, the roof has to shed very heavy rain, so it must be sloped and must not rot in the damp. In the Thar desert, the roof has to keep out the midday heat, so it must be thick and made of a material that heats slowly. The place changes which needs matter most.. *Why:* The same job can need different materials in different places, because the needs have different weights.
-7. (match) Match each place to a good reason for its choice.  
+8. (match) Match each place to a good reason for its choice.  
    **Answer:** A mud wall in the Thar desert → Thick walls heat slowly and keep the inside cool; Sloped tiles in rainy hills → Rain runs off quickly; A wooden chair in Leh → Wood is not icy to sit on; A clay matka in a village home → Water seeps through the clay and cools the water inside; A steel bottle in a school bag → It does not break. *Why:* Each choice answers a need that the place makes important: heat, rain, cold, cooling and rough handling.
-8. (mcq) Why does stainless steel rust much less than ordinary steel?  
+9. (mcq) Why does stainless steel rust much less than ordinary steel?  
    Options: It has chromium mixed in, which forms a thin protective skin on the surface / It has no iron in it / It is painted / It is made of aluminium  
    **Answer:** It has chromium mixed in, which forms a thin protective skin on the surface. *Why:* Chromium atoms in stainless steel form a very thin invisible layer that protects the metal below. Stainless steel is still an alloy of iron.
-9. (order) Put these scraps in order, from rotting fastest to rotting slowest, in warm damp soil.  
+10. (order) Put these scraps in order, from rotting fastest to rotting slowest, in warm damp soil.  
    **Answer:** order shown. *Why:* A banana peel is soft food for bacteria and fungi. Paper is made from plant fibres, but is drier and harder. Cotton is a tougher plant fibre and takes months. Plastic does not rot at all in a short time.
-10. (draw) Draw a mud brick with straw in it, and show a crack starting from one side. Show where the crack stops, and say why.  
+11. (draw) Draw a mud brick with straw in it, and show a crack starting from one side. Show where the crack stops, and say why.  
    **Answer:** A rectangle with straw lines through it. A crack starts at an edge and stops when it meets a straw fibre. The fibre carries the pull and stops the crack from running through.. *Why:* In a composite, the fibres stop cracks from running straight through the matrix.
-11. (truefalse) Aluminium can be melted and made into new things again and again with little loss of quality.  
+12. (truefalse) Aluminium can be melted and made into new things again and again with little loss of quality.  
    **Answer:** True. *Why:* True. Aluminium is a metal, and its atoms stay the same when it is melted. Recycling it takes far less energy than making new aluminium from ore.
-12. (mcq) In the past, tests of asbestos asked, 'does it do the job?' What question was missing?  
+13. (mcq) In the past, tests of asbestos asked, 'does it do the job?' What question was missing?  
    Options: What does it do to people's lungs years later? / What colour is it? / How cheap is it? / How big is it?  
    **Answer:** What does it do to people's lungs years later?. *Why:* A test answers only the question it asks. Asbestos did the job, but doctors found years later that its fibres could harm the lungs. This is why engineers look at the whole life.
-13. (perspective) Some campaigners want to ban all plastic. Others disagree.  
+14. (perspective) Some campaigners want to ban all plastic. Others disagree.  
    **Answer:** A strong answer weighs the harm against the benefits. The campaigner is right that single-use plastic is a huge problem. The doctor is right that some uses save lives. The designer's idea tries to keep what is useful and remove the harm.. *Why:* Banning all or keeping all are both too simple. Looking at the job, the whole life and the alternatives helps to decide.
-14. (mcq) In reinforced concrete, what do the steel bars do?  
+15. (mcq) In reinforced concrete, what do the steel bars do?  
    Options: They carry the pulling, which concrete is weak at / They make the concrete wet / They make the concrete lighter / They hold the concrete's colour  
    **Answer:** They carry the pulling, which concrete is weak at. *Why:* Concrete is strong when squeezed but weak when pulled. The steel bars carry the pull. This is a composite at work.
-15. (fill) A material that can be broken down by bacteria and fungi is called ____.  
+16. (fill) A material that can be broken down by bacteria and fungi is called ____.  
    **Answer:** ['biodegradable']. *Why:* Biodegradable materials return to the soil. A banana peel is one, and a plastic bag is not.
-16. (write) Explain in your own words why a bar made of weak paper and weak paste can be strong.  
+17. (write) Explain in your own words why a bar made of weak paper and weak paste can be strong.  
    **Answer:** The paste is brittle and snaps, and the paper bends. Together the paste holds the paper layers so they cannot slide, and the paper stops cracks from running through the paste. Each part does the job the other cannot do.. *Why:* A composite works because each material covers the other's weakness.
-17. (mcq) After two weeks, the cotton cloth in the Burial Test looks hardly changed. Which claim is fair?  
+18. (mcq) After two weeks, the cotton cloth in the Burial Test looks hardly changed. Which claim is fair?  
    Options: It changed little in two weeks, and may take months to rot / Cotton never rots / Cotton rots faster than banana peel / The test failed  
    **Answer:** It changed little in two weeks, and may take months to rot. *Why:* Two weeks is a short time. A test shows what happened in that time only. Cotton comes from a plant and can rot, but much more slowly than a peel.
 ### Hard Choices and Big Ideas (challenge) (challenge, 16 questions)
@@ -778,6 +782,9 @@ The village decided to do both. Mr. Das would build one small, light steel footb
 12. (mcq) What do the steel bars do in reinforced concrete?  
    Options: They carry the pull, which concrete is weak at / They make it heavier / They make it a liquid / They stop it drying  
    **Answer:** They carry the pull, which concrete is weak at. *Why:* Concrete is strong when squeezed and weak when pulled. The bars carry the pull. It is a composite.
+13. (mcq) Tissue paper is used to wipe up a spill. Why is it a poor choice for a box?  
+   Options: It soaks up water well, but it is too thin and soft to hold a box's shape / It cannot be made from plant fibres / It is too thick to fold  
+   **Answer:** It soaks up water well, but it is too thin and soft to hold a box's shape. *Why:* Tissue is thin, so it soaks up water and wipes well. A box needs stiff, thick cardboard that holds its shape. Tissue is made from plant fibres too, so that is not the reason.
 
 ## Applications
 - Building houses, bridges and roads from composites such as reinforced concrete.

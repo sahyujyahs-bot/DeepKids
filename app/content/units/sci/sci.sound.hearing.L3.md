@@ -97,6 +97,8 @@ When you talk, your voice reaches your cochlea in two ways: through the air into
 A moth flying at night has a problem: bats hunt moths in the dark. Many moths have ears on their bodies that hear the bats' ultrasound calls. When a bat comes close, the moth dives or zigzags away. Bats themselves call in ultrasound and listen to the echoes to find insects. A mouse is hunted by owls and cats, and mice call to each other in ultrasound. Cats and dogs hear higher sounds than we do. Elephants live in herds that spread out across a forest. Their low rumbles, partly infrasound, travel far, and other elephants hear them from kilometres away. A cricket hears with ears on her front legs.
 - e.g. A dog hears a dog whistle that people cannot.
 - e.g. Pigeons hear infrasound, far below the lowest sound we can hear.
+- e.g. A bird watcher can often name a bird by its call before she sees it. Each kind of bird has its own call.
+- e.g. Many birds sing most in the cool early morning, and go quieter in the hot middle of the day.
 - **Lazzaro Spallanzani and Donald Griffin:** Spallanzani in 1793 found that blinded bats could still fly. In 1938 Griffin showed that bats make and hear sounds above our range, called ultrasound.
 - **Katy Payne:** In 1984 she found that elephants call in sounds below our hearing, called infrasound, which can travel for kilometres across the ground and air.
 ### What does a bat hear when the echoes come back? · *idea*
@@ -570,7 +572,7 @@ That evening, Kavya put a small packet of foam earplugs in the drawer by the doo
    **Answer:** A strong answer agrees with the second child, because having to shout at arm's length means the sound is loud enough to harm hearing over time, and hair cells don't grow back. It gives the first child her due: pain is a real warning sign, and a short time near loud music is not a disaster. But no pain doesn't mean no harm.. *Why:* Both have part of it. Pain is a warning, but harm can start below the level that hurts.
 16. (fill) Sound that is too high for people to hear is called ____.  
    **Answer:** ['ultrasound']. *Why:* Ultra means beyond. Ultrasound is above about 20,000 hertz. Bats, dogs, cats and mice hear it.
-### Sound Detective (stretch) (stretch, 16 questions)
+### Sound Detective (stretch) (stretch, 17 questions)
 1. (mcq) Here are the results of a volume test of ear covers: open ears step 2, cupped hands step 3, towel step 5, ear flaps pressed shut step 8. Which cover blocked the most?  
    Options: Cupped hands / Towel / Ear flaps pressed shut / They all blocked the same  
    **Answer:** Ear flaps pressed shut. *Why:* The flaps needed 8 steps, 6 more than open ears, so they blocked the most. They seal the ear hole, while hands and towels leave gaps.
@@ -584,26 +586,28 @@ That evening, Kavya put a small packet of foam earplugs in the drawer by the doo
    **Answer:** True. *Why:* True. That is why you hear the drum beat of a neighbour's music but not the words. In the door test, the high note usually dropped more.
 6. (match) Match each animal to their hearing and how that hearing helps them.  
    **Answer:** Bat → hears echoes of their own ultrasound calls to find insects; Moth → hears bat calls and dives away; Elephant → hears low rumbles from herd members far away; Cat → hears the very high squeaks of mice; Cricket → hears with ears on her front legs. *Why:* Each animal hears the sounds their life depends on.
-7. (order) Sound has reached the cochlea. Put what happens next in order.  
+7. (fill) A bird watcher often names a bird by its ____ before she sees it.  
+   **Answer:** ['call']. *Why:* Each kind of bird has its own call. Learning the calls helps you find birds you cannot see.
+8. (order) Sound has reached the cochlea. Put what happens next in order.  
    **Answer:** ['the liquid inside ripples', 'the tufts on the hair cells bend', 'the hair cells send signals along the nerve', 'the brain makes the sound you hear']. *Why:* The ripple bends the tufts, the bending makes the signal, and the nerve carries it to the brain.
-8. (perspective) The first child's grandfather keeps the TV very loud. The family argues about what to do.  
+9. (perspective) The first child's grandfather keeps the TV very loud. The family argues about what to do.  
    **Answer:** A strong answer says Thatha probably hears low voices but not high ones, so he hears the deep newsreader but misses children's higher voices. It supports the mother: shouting makes voices higher and blurs them, while facing him and cutting noise helps, and an audiologist can test him. It gives the first child credit for wanting to help quickly.. *Why:* Each person sees part of it. Thatha's own words are the best clue.
-9. (mcq) Why does your recorded voice sound strange to you?  
+10. (mcq) Why does your recorded voice sound strange to you?  
    Options: The phone changes your voice / You normally hear yourself through the bones of your head too, which adds low sounds / Your voice is different in the morning / Phones only record high sounds  
    **Answer:** You normally hear yourself through the bones of your head too, which adds low sounds. *Why:* Other people hear only the air part of your voice. You also hear the bone part, which carries low sounds well. So you sound deeper to yourself than you really do to others.
-10. (draw) Draw the band of pitches, from very low to very high. Show where people hear, and put an elephant, a dog and a bat where they belong.  
+11. (draw) Draw the band of pitches, from very low to very high. Show where people hear, and put an elephant, a dog and a bat where they belong.  
    **Answer:** A long strip with people in the middle, the elephant reaching below the people's band, the dog reaching a bit above the people's band, and the bat far above the people's band.. *Why:* A strong drawing shows that people hear only the middle of a much bigger band.
-11. (fill) 1 ____ means one vibration in one second.  
+12. (fill) 1 ____ means one vibration in one second.  
    **Answer:** ['hertz']. *Why:* Hertz counts vibrations each second. A tone of 1,000 hertz vibrates 1,000 times every second.
-12. (sort) Sort these sounds: can most people hear them or not?  
+13. (sort) Sort these sounds: can most people hear them or not?  
    **Answer:** a mosquito's whine → Most people hear it; a dog whistle → Too high or too low for people; the lowest part of an elephant's rumble → Too high or too low for people; a pressure cooker whistle → Most people hear it; a bat's hunting call → Too high or too low for people; a koel's call → Most people hear it. *Why:* Dog whistles and bat calls are ultrasound. The lowest part of an elephant's rumble is infrasound. The others are in the middle band people hear.
-13. (write) A mixer grinder fails the arm's-length test. Give two ways to protect your ears without stopping the cooking.  
+14. (write) A mixer grinder fails the arm's-length test. Give two ways to protect your ears without stopping the cooking.  
    **Answer:** Shut the kitchen door and go to another room while it runs. Or keep it running only as long as needed.. *Why:* A strong answer uses distance, a barrier or less time.
-14. (truefalse) After a loud firecracker, your ears ring for a while. This is a sign the hair cells were hurt.  
+15. (truefalse) After a loud firecracker, your ears ring for a while. This is a sign the hair cells were hurt.  
    **Answer:** True. *Why:* True. Ringing and muffled hearing after loud sound mean hair cells were stressed. It usually gets better in a day, but if it happens again and again, the harm adds up.
-15. (fill) The unit that counts how loud a sound is, such as 30 for a whisper and 80 to 90 for a mixer grinder, is the ____.  
+16. (fill) The unit that counts how loud a sound is, such as 30 for a whisper and 80 to 90 for a mixer grinder, is the ____.  
    **Answer:** ['decibel', 'decibels']. *Why:* Loudness is measured in decibels. Sounds above about 85 decibels, heard for hours, can slowly harm hearing.
-16. (odd) Which of these does NOT hear ultrasound?  
+17. (odd) Which of these does NOT hear ultrasound?  
    Options: A bat / A dog / A person / A mouse  
    **Answer:** 2. *Why:* People cannot hear sounds above about 20,000 hertz. Bats, dogs and mice can.
 ### Hearing Scientist (challenge) (challenge, 15 questions)
@@ -684,6 +688,9 @@ That evening, Kavya put a small packet of foam earplugs in the drawer by the doo
 12. (mcq) A dog barks at a whistle that you can't hear at all. What is happening?  
    Options: The dog is imagining things / The whistle makes ultrasound, which dogs hear and people don't / The whistle is broken / Dogs hear through their noses  
    **Answer:** The whistle makes ultrasound, which dogs hear and people don't. *Why:* Dog whistles vibrate above 20,000 hertz. That is ultrasound: above our band, but inside a dog's.
+13. (mcq) A call comes from a tree, but you cannot see the bird. How can you find out which bird it is?  
+   Options: Compare the call with a bird-call guide or recording, and note the time of day / Decide it must be a bat, since bats also call / Guess from the colour of the tree / Birds all make the same call, so it cannot be told apart  
+   **Answer:** Compare the call with a bird-call guide or recording, and note the time of day. *Why:* Each kind of bird has its own call, and a guide or recording helps you match it. Bats make calls too high for us to hear, and birds do not all sing the same call.
 
 ## Applications
 - Hearing tests by audiologists, and newborn hearing checks in hospitals
