@@ -73,18 +73,20 @@ LAB(1,SS[1][0][0]+4.6,99,'10 min',()=>{const p=proj(0,5.8,-9);return [p[0],p[1]-
 scene('ball',PAPER,(g,s)=>{floor(g,0xe9dcc0);g.add(box(0xcdbd98,[0,.02,-12],[5,.06,50],0));
 const arm=new THREE.Group();arm.add(cyl(0xc98a5e,[0,0,6],[0,0,.4],.5,.34,.05),box(0xc98a5e,[0,0,-.3],[1.1,.4,1.1],.05));for(let i=0;i<4;i++)arm.add(cyl(0xc98a5e,[-.4+i*.27,0,-.7],[-.4+i*.27,-.05,-1.45],.1,.08,.03));arm.add(cyl(0xc98a5e,[.6,0,-.1],[.95,-.02,-.8],.13,.1,.03));g.add(arm);
 const ball=new THREE.Group();ball.add(sph(0xe8892b,[0,0,0],[.6,.6,.6],.05),mk(new THREE.TorusGeometry(.6,.03,8,32),0x7a3a10,[0,0,0],[0,0,0],[1,1,1],0),mk(new THREE.TorusGeometry(.6,.03,8,32),0x7a3a10,[0,0,0],[0,Math.PI/2,0],[1,1,1],0));
-const halo=[1.7,1.25,.95].map((r,i)=>{const m=new THREE.Mesh(new THREE.CircleGeometry(r,40),new THREE.MeshBasicMaterial({color:[0xffe9a0,0xffd24a,0xfff6c8][i],transparent:true,opacity:0,depthWrite:false}));m.position.set(0,0,0);m.renderOrder=-1;return m});halo.forEach(h=>{g.add(h)});g.add(ball);
+const gtex=(()=>{const cv=document.createElement('canvas');cv.width=cv.height=256;const x=cv.getContext('2d');const gr=x.createRadialGradient(128,128,0,128,128,128);gr.addColorStop(0,'rgba(255,252,215,1)');gr.addColorStop(.2,'rgba(255,225,120,.8)');gr.addColorStop(.5,'rgba(255,175,60,.3)');gr.addColorStop(1,'rgba(255,150,40,0)');x.fillStyle=gr;x.fillRect(0,0,256,256);return new THREE.CanvasTexture(cv)})();
+const spr=(sz,rO)=>{const m=new THREE.Sprite(new THREE.SpriteMaterial({map:gtex,blending:THREE.AdditiveBlending,transparent:true,depthWrite:false,depthTest:false,opacity:0}));m.scale.set(sz,sz,1);m.renderOrder=rO;return m};
+const halo=[spr(5.2,1),spr(2.3,12)];halo.forEach(h=>g.add(h));g.add(ball);const bmat=ball.children[0].children[0].material;
 const tick=[...Array(6)].map(()=>box(0xffc94a,[0,0,0],[.06,.06,.7],0));tick.forEach(k=>g.add(k));
 s.upd=(t)=>{const T1=1.55;const reach=sg(t,.5,T1,E.out),back=sg(t,T1+.1,T1+1.5,E.io);const az=lerp(3.6,.2,reach)+back*5;arm.position.set(0,.62+back*.7,az+.1);
 const rolling=t>T1;const bz=rolling?-1.85-(t-T1)*3.0:-1.85;ball.position.set(0,.6,bz);ball.rotation.x=bz/.6;
-const gl=rolling?sg(t,T1,T1+.8):0;halo.forEach((h,i)=>{h.material.opacity=[.22,.32,.5][i]*gl;h.position.set(0,.6,bz+.02*i);h.lookAt(cam.position)});
+const gl=rolling?sg(t,T1,T1+.9):0;halo.forEach((h,i)=>{h.material.opacity=[.75,.8][i]*gl*(1+.06*Math.sin(t*12));h.position.set(0,.6,bz)});bmat.emissive.set(0xff9a20);bmat.emissiveIntensity=gl*.95;bmat.color.set(gl>0?0xffc24a:0xe8892b);
 tick.forEach((k,i)=>{k.visible=rolling&&((Math.floor(t*15)+i)%3!==0);k.position.set((i%3-1)*.55,.4+(i%2)*.3,bz+1.2+i*.7)});
 cam.fov=34;cam.position.set(0,5.6,13);cam.lookAt(0,.7,Math.min(-1.5,bz-6));cam.updateProjectionMatrix();sun.target.position.set(0,0,bz)};
 LAB(2,1.0,99,'Vaisheshika thinkers of India',()=>[540,330],{s:40});LAB(2,SS[2][0][0]+3.4,99,'vega:<br>an inherent characteristic<br>of a rolled object',()=>[540,1380],{s:40,bg:'#fff3c4'});LAB(2,SS[2][1][0]+.2,99,'today: momentum',()=>[540,1520],{s:48,bg:'#fff3c4'});
 });
 // ===== 4 ORBIT (major axis vertical, Sun always in view)
 const SP=(g,n,seed)=>{let a=seed;const r=()=>(a=(a*16807)%2147483647)/2147483647;for(let i=0;i<n;i++){g.add(sph(0xffffff,[(r()-.5)*120,-8-r()*10,(r()-.5)*120],[.12,.12,.12],0,true))}};
-scene('orbit',NAVY,(g,s)=>{SP(g,160,12345);
+scene('orbit',NAVY,(g,s)=>{SP(g,160,12345);{let q=99;const r2=()=>(q=(q*16807)%2147483647)/2147483647;for(let i=0;i<220;i++){const az=r2()*6.28,el=(r2()-.3)*1.2,R=70;g.add(sph(0xffffff,[Math.cos(az)*Math.cos(el)*R,Math.sin(el)*R+4,Math.sin(az)*Math.cos(el)*R],[.18,.18,.18],0,true))}}
 const a=7.2,e=.6,b=a*Math.sqrt(1-e*e);const P2=(x,z)=>[z,0,-x]; // rotate: orbit x -> screen up
 const sunb=new THREE.Group();sunb.add(sph(0xffd24a,[0,0,0],[1.4,1.4,1.4],.06,true));[2.0,1.6,1.3].forEach((r,i)=>{const m=new THREE.Mesh(new THREE.CircleGeometry(r,40),new THREE.MeshBasicMaterial({color:0xffb52e,transparent:true,opacity:.18+i*.1,depthWrite:false}));m.rotation.x=-Math.PI/2;m.position.y=.02*i;sunb.add(m)});g.add(sunb);
 for(let i=0;i<120;i++){const E_=i/120*Math.PI*2;const p=P2(a*(Math.cos(E_)-e),b*Math.sin(E_));g.add(sph(0x6bb0f2,p,[.07,.07,.07],0,true))}
@@ -92,12 +94,12 @@ const earth=new THREE.Group();earth.add(sph(0x3a8fe0,[0,0,0],[.55,.55,.55],.05),
 const line=new THREE.Mesh(new THREE.BoxGeometry(1,.1,.1),new THREE.MeshBasicMaterial({color:0xffffff}));g.add(line);
 const arrow=new THREE.Group();const shaft=cyl(0xffe27a,[0,0,0],[1,0,0],.09,.09,.02);const head=cone(0xffe27a,[1,0,0],[0,0,-Math.PI/2],.26,.6,.02);arrow.add(shaft,head);g.add(arrow);
 const P=10.2;
-s.upd=(t)=>{const M=(2*Math.PI*(t+4.1)/P);let En=M;for(let i=0;i<14;i++)En=M+e*Math.sin(En);const ox=a*(Math.cos(En)-e),oz=b*Math.sin(En);const p=P2(ox,oz);earth.position.set(...p);earth.rotation.y=t*2;earth.scale.setScalar(1.7);
+s.upd=(t)=>{const M=(2*Math.PI*(t+4.1)/P);let En=M;for(let i=0;i<14;i++)En=M+e*Math.sin(En);const ox=a*(Math.cos(En)-e),oz=b*Math.sin(En);const p=P2(ox,oz);earth.position.set(...p);earth.rotation.y=t*2;earth.scale.setScalar(1.15);
 const r=Math.hypot(ox,oz),v=Math.sqrt(2/r-1/a);s.v=v;s.r=r;const dEn=1/(1-e*Math.cos(En));const vox=-a*Math.sin(En)*dEn,voz=b*Math.cos(En)*dEn;const vv=P2(vox,voz);const L=v*2.6;
 arrow.position.set(p[0],.05,p[2]);arrow.rotation.y=-Math.atan2(vv[2],vv[0]);shaft.scale.set(L,1,1);head.position.x=L-.0;head.scale.set(1,1,1);
 // distance line from Sun (0,0,0) to Earth
 line.position.set(p[0]/2,.05,p[2]/2);line.scale.set(Math.hypot(p[0],p[2]),1,1);line.rotation.y=-Math.atan2(p[2],p[0]);
-cam.fov=34;cam.position.set(0,44,15);cam.lookAt(0,0,-.5);cam.updateProjectionMatrix();sun.target.position.set(0,0,0)};
+const aw=new THREE.Vector3(p[0],0,p[2]).normalize();cam.fov=44;cam.position.set(p[0]+aw.x*11.5,5.6,p[2]+aw.z*11.5);cam.lookAt(p[0]*.52,.4,p[2]*.52);cam.updateProjectionMatrix();sun.target.position.set(0,0,0)};
 LAB(3,.5,99,'Bhaskara II: a planet\'s speed keeps changing',()=>[540,250],{s:38});
 LAB(3,1.0,99,()=>`distance to the Sun: ${s_.r<4.6?'SHORT':(s_.r>8.6?'LONG':'in between')}`,()=>{const p=proj(s_.p?s_.p[0]/2:0,0,s_.p?s_.p[2]/2:0);return [540,1510]},{s:42,bg:'#ffffff'});
 LAB(3,1.0,99,()=>`speed: ${s_.r<4.6?'FAST':(s_.r>8.6?'slow':'medium')}`,()=>[540,1620],{s:46,bg:'#ffe27a'});
@@ -235,13 +237,19 @@ function galaxy(kind,col,seed,sz){const g=new THREE.Group();let a=seed;const r=(
 for(let i=0;i<N;i++){let x,y,z,s_;if(kind=='spiral'){const rad=Math.pow(r(),.7);const ang=rad*5.4+(i%2)*Math.PI+(r()-.5)*.5*(1-rad*.3);x=rad*Math.cos(ang);z=rad*Math.sin(ang);y=(r()-.5)*.07*(1-rad);c.setRGB(1,.9,.6).lerp(new THREE.Color(col),Math.min(1,rad*1.15));s_=.025+r()*.035}else{const u=r()*6.28,v=Math.acos(2*r()-1),rr=Math.pow(r(),.6);x=Math.sin(v)*Math.cos(u)*rr*1.1;z=Math.sin(v)*Math.sin(u)*rr*.7;y=Math.cos(v)*rr*.5;c.setRGB(1,.82,.55).lerp(new THREE.Color(col),rr*.5);s_=.03+r()*.03}
 m.compose(new THREE.Vector3(x,y,z),q,new THREE.Vector3(s_,s_,s_));im.setMatrixAt(i,m);im.setColorAt(i,c)}im.instanceMatrix.needsUpdate=true;im.instanceColor.needsUpdate=true;g.add(im);
 const core=new THREE.Mesh(SPH,new THREE.MeshBasicMaterial({color:0xfff2c0}));core.scale.set(.2,.1,.2);g.add(core);[.7,.45].forEach((rr,i)=>{const h=new THREE.Mesh(new THREE.CircleGeometry(rr,36),new THREE.MeshBasicMaterial({color:col,transparent:true,opacity:.14+i*.12,depthWrite:false}));h.rotation.x=-Math.PI/2;h.position.y=-.01*i;g.add(h)});g.scale.setScalar(sz);return g}
-scene('stretch',NAVY,(g,s)=>{const fl=new THREE.Mesh(new THREE.PlaneGeometry(200,200),TM(0x1f2f66));fl.rotation.x=-Math.PI/2;fl.position.y=-.1;g.add(fl);SP(g,100,777);
-const lx=[],lz=[];for(let i=-12;i<=12;i++){const a=box(0x8fb4ff,[0,-.02,0],[.06,.05,60],0),b=box(0x8fb4ff,[0,-.02,0],[60,.05,.06],0);g.add(a,b);lx.push(a);lz.push(b)}
-const nodes=[[0,0,'our',1.0],[-1.6,-1.8,0xff8fb0,.8],[1.8,-1.2,0x9fe0ff,.9],[-1.4,1.7,0xc7a0ff,.85],[1.5,2.4,0xffb070,.7],[-.2,3.6,0x9fe0ff,.75],[0,-3.8,0xc7a0ff,.8],[2.3,.4,0xff8fb0,.6],[-2.3,.3,0xffb070,.7],[.3,-2.1,0x9fe0ff,.5]];
-const gal=nodes.map(([gx,gz,own,sz],i)=>{const G=galaxy(i%3==2?'ell':'spiral',own=='our'?0x9fc8ff:own,100+i*13,own=='our'?1.25:sz*1.1);g.add(G);G.rotation.x=.18*((i%3)-1);return [G,gx,gz]});
-s.upd=(t)=>{const k=1+1.4*sg(t,1.0,DUR[9]-2,E.io);const sp=1.7*k;lx.forEach((a,i)=>a.position.x=(i-12)*sp);lz.forEach((b,i)=>b.position.z=(i-12)*sp);gal.forEach(([G,gx,gz])=>{G.position.set(gx*k,.1,gz*k);G.rotation.y=t*.25});
+scene('stretch',NAVY,(g,s)=>{
+const uni={uS:{value:0}};
+const gp=new THREE.PlaneGeometry(90,90,360,360);gp.rotateX(-Math.PI/2);
+const sheet=new THREE.Mesh(gp,new THREE.ShaderMaterial({uniforms:uni,vertexShader:`uniform float uS;varying vec2 vO;
+vec3 warp(vec3 p,float s){p.x+=p.x*(1.1*s+.45*s*sin(p.z*.45));p.z+=p.z*(.6*s+.35*s*sin(p.x*.55+1.));p.x+=.22*s*p.z;return p;}
+void main(){vO=position.xz;vec3 p=warp(position,uS);gl_Position=projectionMatrix*modelViewMatrix*vec4(p,1.);}`,
+fragmentShader:`varying vec2 vO;void main(){vec2 g=vO/1.7;vec2 f=abs(fract(g-.5)-.5);vec2 w=fwidth(g);vec2 l=smoothstep(vec2(0.),w*1.8,f);float line=1.-min(l.x,l.y);float c=mod(floor(g.x)+floor(g.y),2.);vec3 base=mix(vec3(.08,.14,.34),vec3(.13,.22,.46),c);gl_FragColor=vec4(mix(base,vec3(.6,.75,1.),line),1.);}`}));sheet.frustumCulled=false;g.add(sheet);
+const wp=(x,z,s)=>{x+=x*(1.1*s+.45*s*Math.sin(z*.45));z+=z*(.6*s+.35*s*Math.sin(x*.55+1));x+=.22*s*z;return [x,z]};
+const nodes=[[0,0,'our',1.0],[-1.5,-2.0,0xff8fb0,.8],[1.7,-1.2,0x9fe0ff,.9],[-1.4,1.7,0xc7a0ff,.85],[1.5,2.4,0xffb070,.7],[-.2,3.6,0x9fe0ff,.75],[0,-3.8,0xc7a0ff,.8],[2.3,.4,0xff8fb0,.6],[-2.3,.3,0xffb070,.7],[.3,-2.1,0x9fe0ff,.5]];
+const gal=nodes.map(([gx,gz,own,sz],i)=>{const G=galaxy(i%3==2?'ell':'spiral',own=='our'?0x9fc8ff:own,100+i*13,own=='our'?1.0:sz*.85);g.add(G);G.rotation.x=.18*((i%3)-1);return [G,gx,gz]});
+s.upd=(t)=>{const sv=.85*sg(t,1.0,DUR[9]-1.8,E.io);uni.uS.value=sv;gal.forEach(([G,gx,gz])=>{const [x,z]=wp(gx,gz,sv);G.position.set(x,.15,z);G.rotation.y=t*.25});
 cam.fov=36;cam.position.set(0,27,8);cam.lookAt(0,0,0);cam.updateProjectionMatrix();sun.target.position.set(0,0,0)};
-LAB(9,.4,99,'Milky Way',()=>{const p=proj(0,.5,0);return [p[0],p[1]+90]},{s:34});LAB(9,.5,99,'space itself is stretching',()=>[540,260],{s:46,bg:'#fff3c4'});LAB(9,SS[9][1][0]+.2,99,'the space between them grows: no speed limit',()=>[540,1600],{s:38});
+LAB(9,.4,99,'Milky Way',()=>{const p=proj(0,.5,0);return [p[0],p[1]+90]},{s:34});LAB(9,.5,99,'space itself is stretching',()=>[540,260],{s:46,bg:'#fff3c4'});LAB(9,SS[9][1][0]+.2,99,'the squares stretch, and the galaxies are carried apart',()=>[540,1600],{s:34});
 });
 // ===== 11 APP
 const strip=document.createElement('div');strip.style.cssText='position:absolute;left:150px;top:150px;width:780px;height:1500px;overflow:hidden;border:9px solid #1b1a2e;border-radius:48px;background:#fff;display:none;box-shadow:16px 20px 0 #1b1a2e';const inner=document.createElement('div');inner.style.cssText='width:780px';for(let i=1;i<=7;i++){const im=document.createElement('img');im.src=`shots/c${i}.jpg`;im.style.cssText='display:block;width:780px;height:810px;border-bottom:6px solid #1b1a2e';inner.appendChild(im)}strip.appendChild(inner);ov.appendChild(strip);
