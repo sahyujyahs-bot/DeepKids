@@ -737,7 +737,7 @@ Murugan Mama took a handful of ulundu seeds from Paati's tin. He said they were 
 12. (draw) Draw your Salty Seeds test on day 3. Show the four saucers and how many seeds sprouted in each.  
    **Answer:** Four saucers in a row. The plain saucer has the most sprouted seeds, the pinch of salt saucer has a few less, the half spoon saucer has very few and the one spoon saucer has none.. *Why:* A strong drawing shows the number of sprouts falling as the salt rises.
 13. (draw) Draw your Soil Jar after one minute and after one day. Show the layers and label sand, silt, clay and humus.  
-   **Answer:** A jar with sand at the bottom, a thin layer of silt above it, cloudy water on top that is clear by the next day only if the soil has little clay, and bits of leaf floating at the top.. *Why:* A strong drawing shows the biggest grains at the bottom and the finest grains settling last, with humus floating.
+   **Answer:** A jar with sand at the bottom, silt above it, cloudy clay water above that, and leaf bits floating on top. After one day the water is clearer.. *Why:* A strong drawing shows the biggest grains at the bottom and the finest grains settling last, with humus floating.
 14. (mcq) A white crust of salt forms on the top of a dry field that has been watered for many years. Where did the salt come from?  
    Options: It was in the irrigation water, and stayed behind when the water evaporated / It fell from the sky in the rain / It was made by the roots of the crop  
    **Answer:** It was in the irrigation water, and stayed behind when the water evaporated. *Why:* All irrigation water carries a little dissolved salt. When the water evaporates or is used by plants, the salt stays behind and builds up.

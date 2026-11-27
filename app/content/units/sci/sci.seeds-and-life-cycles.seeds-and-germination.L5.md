@@ -32,6 +32,9 @@
 - **Seed bank (gene bank)**: A place that keeps seeds of many kinds of plants alive for a long time. The seeds are dried, sealed and frozen. *e.g.* India's National Genebank in New Delhi keeps more than 4 lakh seed samples in cold rooms.
 - **Soil seed bank**: All the living seeds lying in the soil of a place, waiting to germinate. *e.g.* Weeds that come up in a pot where you sowed nothing grew from the soil seed bank.
 - **Regrow (regenerate)**: To sow some stored seeds, grow the plants, and collect fresh seeds to put back in the bank. *e.g.* When fewer than 85 in 100 stored seeds germinate, a seed bank regrows the sample.
+- **Rabi**: A crop sown in the cool months after the monsoon and harvested in spring. *e.g.* Wheat, gram (chana) and mustard are rabi crops.
+- **Kharif**: A crop sown when the monsoon rains come and harvested in autumn. *e.g.* Rice, maize and soybean are kharif crops.
+- **Zaid**: A short crop grown in the hot months, before the monsoon rains. *e.g.* Watermelon, cucumber and muskmelon are zaid crops.
 
 ## Explanations
 ### Inside a seed, and the steps of germination · *defined*
@@ -102,6 +105,7 @@ A frozen seed is safe from floods, pests and war, but the seed does not change. 
 - e.g. Rahibai Popere, a farmer in Maharashtra, has saved many old crop varieties by growing and sharing them.
 - e.g. Women farmers of the Deccan Development Society in Telangana run village seed banks of millets. Seed is lent, and paid back after harvest.
 - e.g. After the tsunami of 2004, farmers in Nagapattinam in Tamil Nadu went back to old paddy that can grow in salty soil.
+- e.g. Farmers sow each crop in its own season. Rabi crops, such as wheat and gram, are sown in the cool months after the monsoon. Kharif crops, such as rice and maize, are sown when the monsoon rains come. Zaid crops, such as watermelon and cucumber, are sown in the hot months before the monsoon.
 - **Scientists who run frozen seed banks:** A freezer keeps thousands of varieties in one small room for a hundred years, at low cost. When a variety is lost from the fields, the bank can give it back. No village could keep growing so many varieties every year.
 - **Farmers and scientists who keep seeds growing, such as the ecologist Debal Deb in Odisha:** A seed in a freezer stops adapting to new weather and new pests. A variety also needs farmers who know how to grow, cook and choose that crop. So the seeds should be sown every year, in many fields.
 - **Many people who work with both:** The two ways cover each other's risks. Fields keep seeds adapting, and frozen banks are the back-up when a field is lost.
@@ -587,7 +591,7 @@ Thenmozhi sealed the lid of their pot with mud. Then she took a piece of charcoa
    **Answer:** ['18', 'eighteen']. *Why:* Minus 18 degrees Celsius is about the cold of a home freezer. Cold slows the ageing of a dry seed.
 15. (perspective) Where are old crop seeds safest?  
    **Answer:** Any view with a reason from the unit. For the freezer: dry, cold seeds age very slowly. For the field: frozen seeds do not adapt, and some seeds cannot be dried. For both: each covers the other's risk.. *Why:* Each view is partly right. A strong answer uses a fact about seeds, such as slow ageing in the cold. A strong answer also replies fairly to another view.
-### Dry, cold and counted (stretch) (stretch, 15 questions)
+### Dry, cold and counted (stretch) (stretch, 16 questions)
 1. (write) In the Freezer Test, dry seeds germinated equally well from the freezer and from the shelf. What does this show?  
    **Answer:** It shows that cold alone does not kill a dry seed. The two groups differ only in the freezer, and the result is the same.. *Why:* A strong answer names the one difference between the groups and says that this difference did not change the result.
 2. (mcq) Soaked seeds germinated 100 percent on a shelf and 0 percent frozen. Frozen dry seeds germinated 90 percent. What killed the seeds?  
@@ -606,20 +610,22 @@ Thenmozhi sealed the lid of their pot with mud. Then she took a piece of charcoa
    **Answer:** 50. *Why:* 80 percent means 8 of every 10 seeds grow. To get 40 plants you need 5 lots of 10 seeds, which is 50 seeds.
 8. (sort) Sort these seeds. Can each be dried and stored for years, or must each be sown fresh?  
    **Answer:** moong → Can be dried and stored; wheat → Can be dried and stored; paddy → Can be dried and stored; mango → Must be sown fresh; jackfruit → Must be sown fresh. *Why:* Moong, wheat and paddy dry out as they ripen and can wait for years. Mango and jackfruit seeds die if they dry, so they cannot be kept in a frozen seed bank.
-9. (order) Put the steps of a seed bank in order.  
+9. (sort) Sort these crops by season. Is each one rabi, kharif or zaid?  
+   **Answer:** wheat → Rabi; gram → Rabi; rice → Kharif; maize → Kharif; watermelon → Zaid. *Why:* Wheat and gram are sown after the monsoon, so they are rabi. Rice and maize are sown with the monsoon, so they are kharif. Watermelon is sown in the hot months, so it is zaid.
+10. (order) Put the steps of a seed bank in order.  
    **Answer:** ['Collect the seeds and note the place and date', 'Clean the seeds and test a sample', 'Dry the seeds slowly', 'Seal them in packets', 'Freeze the packets', 'Test a sample every few years']. *Why:* Seeds must be dry before they are sealed and frozen, or ice would kill them. Testing goes on for as long as the seeds are stored.
-10. (write) Why does a seed bank let a cold packet warm up before opening the packet?  
+11. (write) Why does a seed bank let a cold packet warm up before opening the packet?  
    **Answer:** Damp from the room air settles as water on anything cold. If the packet were opened cold, the dry seeds would take in that water. Wetter seeds age faster.. *Why:* A strong answer links the cold surface to damp settling on the seeds, and damp to faster ageing.
-11. (mcq) Why does a seed bank regrow a sample when germination falls below 85 percent?  
+12. (mcq) Why does a seed bank regrow a sample when germination falls below 85 percent?  
    Options: Fresh seeds replace the ageing ones / The freezer has become too full / Old seeds grow into weeds / Farmers ask for bigger seeds  
    **Answer:** Fresh seeds replace the ageing ones. *Why:* Stored seeds slowly die, even when frozen. Sowing them while most are still alive gives fresh seeds of the same variety to store again.
-12. (draw) Draw a soaked cell and a dry cell in a freezer. Show what the ice does in each.  
+13. (draw) Draw a soaked cell and a dry cell in a freezer. Show what the ice does in each.  
    **Answer:** The soaked cell is full of water, with sharp ice crystals poking through the thin skin of the cell. The dry cell is small and solid, with no crystals and an unbroken skin.. *Why:* A strong drawing shows ice only where there is water, and shows the damage as torn cell skins.
-13. (truefalse) Seeds soaked for a few hours and then dried can still germinate later.  
+14. (truefalse) Seeds soaked for a few hours and then dried can still germinate later.  
    **Answer:** True. *Why:* True. Before the root comes out, the embryo still has the protection of a dry seed. Farmers use this to make seeds come up faster.
-14. (match) Match each cause to its effect on a stored seed.  
+15. (match) Match each cause to its effect on a stored seed.  
    **Answer:** Kept very dry → Chemistry almost stops; Kept in damp air → The seed takes in water and ages fast; Kept cold and dry → Slow damage becomes even slower; Frozen while wet → Ice tears the cells. *Why:* Water speeds up the damage inside a seed, and cold slows the damage down. But cold with water inside the seed makes ice, which kills.
-15. (perspective) Is a dry seed in a jar alive?  
+16. (perspective) Is a dry seed in a jar alive?  
    **Answer:** Any view with a reason from the unit. One reason: a dry seed shows almost no activity. Another: a dry seed germinates with water and a boiled seed never does, so something is kept in the dry seed.. *Why:* This is a real disagreement among scientists. A strong answer uses a fact, such as the difference between a dry seed and a boiled seed. A strong answer also replies fairly to another view.
 ### Think like a seed scientist (challenge) (challenge, 15 questions)
 1. (write) Plan a fair test of warm and cool soaking water. Say what you change, measure and keep the same.  
@@ -697,6 +703,9 @@ Thenmozhi sealed the lid of their pot with mud. Then she took a piece of charcoa
 12. (mcq) What can a farmer's field do for a crop variety that a freezer cannot?  
    Options: Let the crop keep adapting / Keep the seeds safe from floods / Stop the seeds from ageing / Hold thousands of varieties in one room  
    **Answer:** Let the crop keep adapting. *Why:* Seeds sown every year face each year's weather and pests, and the plants that do well leave the most seed. A frozen seed stays as the seed was.
+13. (mcq) A crop is sown in the cool months after the monsoon and harvested in spring, like gram or wheat. What is its season called?  
+   Options: Rabi / Kharif / Zaid  
+   **Answer:** Rabi. *Why:* Rabi crops are sown after the monsoon and harvested in spring. Kharif crops are sown when the monsoon comes. Zaid crops are short crops grown in the hot months.
 
 ## Applications
 - Seed packets in India print the germination percentage and the date of the test. A farmer uses the number to decide how much seed to sow.

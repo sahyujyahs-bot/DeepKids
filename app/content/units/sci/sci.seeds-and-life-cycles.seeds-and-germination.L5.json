@@ -118,6 +118,24 @@
    "meaning": "To sow some stored seeds, grow the plants, and collect fresh seeds to put back in the bank.",
    "example": "When fewer than 85 in 100 stored seeds germinate, a seed bank regrows the sample.",
    "art": "A sealed seed packet with an arrow to a row of plants, and an arrow from the plants to a new packet."
+  },
+  {
+   "term": "Rabi",
+   "meaning": "A crop sown in the cool months after the monsoon and harvested in spring.",
+   "example": "Wheat, gram (chana) and mustard are rabi crops.",
+   "art": "A field of golden wheat under a winter sun."
+  },
+  {
+   "term": "Kharif",
+   "meaning": "A crop sown when the monsoon rains come and harvested in autumn.",
+   "example": "Rice, maize and soybean are kharif crops.",
+   "art": "A green paddy field after the first monsoon rain."
+  },
+  {
+   "term": "Zaid",
+   "meaning": "A short crop grown in the hot months, before the monsoon rains.",
+   "example": "Watermelon, cucumber and muskmelon are zaid crops.",
+   "art": "A sandy riverbed with melon vines in the summer heat."
   }
  ],
  "explanations": [
@@ -245,7 +263,8 @@
    "examples": [
     "Rahibai Popere, a farmer in Maharashtra, has saved many old crop varieties by growing and sharing them.",
     "Women farmers of the Deccan Development Society in Telangana run village seed banks of millets. Seed is lent, and paid back after harvest.",
-    "After the tsunami of 2004, farmers in Nagapattinam in Tamil Nadu went back to old paddy that can grow in salty soil."
+    "After the tsunami of 2004, farmers in Nagapattinam in Tamil Nadu went back to old paddy that can grow in salty soil.",
+    "Farmers sow each crop in its own season. Rabi crops, such as wheat and gram, are sown in the cool months after the monsoon. Kharif crops, such as rice and maize, are sown when the monsoon rains come. Zaid crops, such as watermelon and cucumber, are sown in the hot months before the monsoon."
    ],
    "perspectives": [
     {
@@ -2550,6 +2569,39 @@
      "outcome": 6
     },
     {
+     "t": "sort",
+     "p": "Sort these crops by season. Is each one rabi, kharif or zaid?",
+     "cats": [
+      "Rabi",
+      "Kharif",
+      "Zaid"
+     ],
+     "items": [
+      [
+       "wheat",
+       "Rabi"
+      ],
+      [
+       "gram",
+       "Rabi"
+      ],
+      [
+       "rice",
+       "Kharif"
+      ],
+      [
+       "maize",
+       "Kharif"
+      ],
+      [
+       "watermelon",
+       "Zaid"
+      ]
+     ],
+     "a": "see items",
+     "why": "Wheat and gram are sown after the monsoon, so they are rabi. Rice and maize are sown with the monsoon, so they are kharif. Watermelon is sown in the hot months, so it is zaid."
+    },
+    {
      "t": "order",
      "p": "Put the steps of a seed bank in order.",
      "items": [
@@ -3006,6 +3058,18 @@
    ],
    "a": 0,
    "why": "Seeds sown every year face each year's weather and pests, and the plants that do well leave the most seed. A frozen seed stays as the seed was.",
+   "outcome": 7
+  },
+  {
+   "t": "mcq",
+   "p": "A crop is sown in the cool months after the monsoon and harvested in spring, like gram or wheat. What is its season called?",
+   "opts": [
+    "Rabi",
+    "Kharif",
+    "Zaid"
+   ],
+   "a": 0,
+   "why": "Rabi crops are sown after the monsoon and harvested in spring. Kharif crops are sown when the monsoon comes. Zaid crops are short crops grown in the hot months.",
    "outcome": 7
   }
  ],

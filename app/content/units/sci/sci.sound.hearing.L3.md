@@ -97,7 +97,7 @@ When you talk, your voice reaches your cochlea in two ways: through the air into
 A moth flying at night has a problem: bats hunt moths in the dark. Many moths have ears on their bodies that hear the bats' ultrasound calls. When a bat comes close, the moth dives or zigzags away. Bats themselves call in ultrasound and listen to the echoes to find insects. A mouse is hunted by owls and cats, and mice call to each other in ultrasound. Cats and dogs hear higher sounds than we do. Elephants live in herds that spread out across a forest. Their low rumbles, partly infrasound, travel far, and other elephants hear them from kilometres away. A cricket hears with ears on her front legs.
 - e.g. A dog hears a dog whistle that people cannot.
 - e.g. Pigeons hear infrasound, far below the lowest sound we can hear.
-- e.g. A bird watcher can often name a bird by its call before she sees it. Each kind of bird has its own call.
+- e.g. A bird watcher can often name a bird from the song she hears, before she sees the bird. Every kind of bird sings a call that sounds different from the others.
 - e.g. Many birds sing most in the cool early morning, and go quieter in the hot middle of the day.
 - **Lazzaro Spallanzani and Donald Griffin:** Spallanzani in 1793 found that blinded bats could still fly. In 1938 Griffin showed that bats make and hear sounds above our range, called ultrasound.
 - **Katy Payne:** In 1984 she found that elephants call in sounds below our hearing, called infrasound, which can travel for kilometres across the ground and air.
@@ -586,8 +586,8 @@ That evening, Kavya put a small packet of foam earplugs in the drawer by the doo
    **Answer:** True. *Why:* True. That is why you hear the drum beat of a neighbour's music but not the words. In the door test, the high note usually dropped more.
 6. (match) Match each animal to their hearing and how that hearing helps them.  
    **Answer:** Bat → hears echoes of their own ultrasound calls to find insects; Moth → hears bat calls and dives away; Elephant → hears low rumbles from herd members far away; Cat → hears the very high squeaks of mice; Cricket → hears with ears on her front legs. *Why:* Each animal hears the sounds their life depends on.
-7. (fill) A bird watcher often names a bird by its ____ before she sees it.  
-   **Answer:** ['call']. *Why:* Each kind of bird has its own call. Learning the calls helps you find birds you cannot see.
+7. (fill) A bird watcher often names a bird from the ____ she hears before she sees the bird.  
+   **Answer:** ['call']. *Why:* Every kind of bird has calls that differ from other kinds. Learning the calls helps you find birds you cannot see.
 8. (order) Sound has reached the cochlea. Put what happens next in order.  
    **Answer:** ['the liquid inside ripples', 'the tufts on the hair cells bend', 'the hair cells send signals along the nerve', 'the brain makes the sound you hear']. *Why:* The ripple bends the tufts, the bending makes the signal, and the nerve carries it to the brain.
 9. (perspective) The first child's grandfather keeps the TV very loud. The family argues about what to do.  
@@ -689,8 +689,8 @@ That evening, Kavya put a small packet of foam earplugs in the drawer by the doo
    Options: The dog is imagining things / The whistle makes ultrasound, which dogs hear and people don't / The whistle is broken / Dogs hear through their noses  
    **Answer:** The whistle makes ultrasound, which dogs hear and people don't. *Why:* Dog whistles vibrate above 20,000 hertz. That is ultrasound: above our band, but inside a dog's.
 13. (mcq) A call comes from a tree, but you cannot see the bird. How can you find out which bird it is?  
-   Options: Compare the call with a bird-call guide or recording, and note the time of day / Decide it must be a bat, since bats also call / Guess from the colour of the tree / Birds all make the same call, so it cannot be told apart  
-   **Answer:** Compare the call with a bird-call guide or recording, and note the time of day. *Why:* Each kind of bird has its own call, and a guide or recording helps you match it. Bats make calls too high for us to hear, and birds do not all sing the same call.
+   Options: Compare the call with a bird-call guide or recording, and note the time of day / Decide the bird must be a bat, since bats also call / Guess from the colour of the tree / All birds sing the same call, so no call can be told apart  
+   **Answer:** Compare the call with a bird-call guide or recording, and note the time of day. *Why:* Each kind of bird has calls that differ from other kinds, and a guide or recording helps you match them. Bats make calls too high for us to hear, and birds do not all sing the same call.
 
 ## Applications
 - Hearing tests by audiologists, and newborn hearing checks in hospitals

@@ -637,7 +637,7 @@ She ate the rice slowly. Then she went to find the blade.
    **Answer:** ['Tiny sea algae', 'Tiny sea animals', 'Sardine', 'A child eating fish fry']. *Why:* The algae catch sunlight. Tiny animals eat the algae, the sardine eats them, and the child eats the sardine.
 9. (perspective) Three people talk about who makes a plant's food.  
    **Answer:** A strong answer uses evidence: the white patch for the textbook, a food chain for the physicist, or the Red Glow for the plant scientist. It also gives a fair point to another view.. *Why:* Each is right about one part. Chlorophyll is needed, the energy is the Sun's, and only the whole chloroplast can turn that energy into sugar.
-10. (fill) When an animal breathes, it takes in oxygen and gives out ________.  
+10. (fill) When animals breathe, they take in oxygen and give out ________.  
    **Answer:** carbon dioxide. *Why:* Animals breathe the other way round from a plant in the light. The plant takes in carbon dioxide and gives out oxygen, so the two living things keep the air in balance.
 11. (mcq) In the Banana Clock, the very ripe slice hardly changed colour with iodine. Why?  
    Options: It had dried out / Its food had been used up / Iodine was too weak / Its starch had turned into sugar  

@@ -2953,7 +2953,7 @@
     {
      "t": "draw",
      "p": "Draw your Soil Jar after one minute and after one day. Show the layers and label sand, silt, clay and humus.",
-     "a": "A jar with sand at the bottom, a thin layer of silt above it, cloudy water on top that is clear by the next day only if the soil has little clay, and bits of leaf floating at the top.",
+     "a": "A jar with sand at the bottom, silt above it, cloudy clay water above that, and leaf bits floating on top. After one day the water is clearer.",
      "why": "A strong drawing shows the biggest grains at the bottom and the finest grains settling last, with humus floating.",
      "art": "A page with two empty jars, one labelled after one minute and one labelled after one day.",
      "how": "a7",

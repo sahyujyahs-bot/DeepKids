@@ -42,6 +42,7 @@ The Moon is the Earth's natural satellite. The Earth and the other planets go ro
 - e.g. Jupiter has more than 90 known moons, and Saturn has more than 270.
 - e.g. India's first artificial satellite was Aryabhata, launched on 19 April 1975.
 - e.g. The Earth is a satellite of the Sun. One trip round takes one year.
+- e.g. The Earth also spins on an imaginary line through its poles, once about every 24 hours. That spin makes day and night. Its trip round the Sun takes a year, a slower motion.
 - **Astronomers who name the worlds (the International Astronomical Union):** The Moon goes round the Earth, so the Moon is the Earth's satellite. The balance point of the two lies inside the Earth, and that settles which one is the satellite.
 - **The writer and biochemist Isaac Asimov, in an essay of 1963:** The Sun pulls the Moon more than twice as hard as the Earth does. Seen from the Sun, the Moon's path never loops backwards. It always bends towards the Sun. So the Earth and the Moon can also be called a double planet, going round the Sun together.
 - **India's astronomers, in the Sanskrit tradition:** The old word is graha, which means 'one that seizes'. The Sun and the Moon were both counted as grahas, because both move against the stars. The newer word for a satellite, upagraha, means a companion graha. What we call a thing depends on what we choose to watch.
@@ -539,7 +540,7 @@ Nobody spoke. Paatti pressed her palm flat on the cool sand. "Sixty-eight years 
   - Think: What would you change if the sky above your district were already crowded with other people's satellites?
 
 ## Worksheets
-### Satellites, orbits and falling round (core) (core, 15 questions)
+### Satellites, orbits and falling round (core) (core, 16 questions)
 1. (mcq) Which of these is a natural satellite of the Earth?  
    Options: The Moon / INSAT-3DS / The space station / The Sun  
    **Answer:** The Moon. *Why:* The Moon goes round the Earth and nobody made it. INSAT-3DS and the space station were built by people. The Earth goes round the Sun, not the other way.
@@ -575,7 +576,9 @@ Nobody spoke. Paatti pressed her palm flat on the cool sand. "Sixty-eight years 
    **Answer:** Gravity reaches the satellite and is almost as strong there as on the ground. On the scale drawing the station was only 4 millimetres above the Earth. The satellite stays up because it moves sideways so fast that it keeps missing the ground as it falls.. *Why:* A strong answer says that gravity is still there, and gives sideways speed as the reason the satellite does not land. It uses the scale drawing, the whirling pouch or the water stream as evidence.
 15. (perspective) Three people talk about India's Mars mission.  
    **Answer:** A strong answer picks a view and supports it with facts, such as the cost, the lives saved by cyclone warnings, or the needs of children. It also grants a fair point to another view.. *Why:* People who care about India disagree on this. The economist is right that money is limited. The scientist is right that the cost was small and the skills are shared. The fisher is right to ask what reaches the ground.
-### Speeds, heights and the people who got us there (stretch) (stretch, 15 questions)
+16. (truefalse) True or false: a satellite above the equator can carry a television signal from one country to another.  
+   **Answer:** True. *Why:* A geostationary satellite stays over one spot above the equator, so it can relay television signals between distant countries.
+### Speeds, heights and the people who got us there (stretch) (stretch, 16 questions)
 1. (mcq) In a whirling test, the hanging load is made four times as heavy. About how long do ten rounds take now?  
    Options: Four times as long / Twice as long / The same time / Half as long  
    **Answer:** Half as long. *Why:* A stronger pull needs a faster circle. With four times the pull, the pouch must go about twice as fast, so ten rounds take about half the time. Expecting a heavier load to slow things down mixes up the load with the pouch.
@@ -611,6 +614,8 @@ Nobody spoke. Paatti pressed her palm flat on the cool sand. "Sixty-eight years 
    **Answer:** A moving thing goes straight unless something pushes or pulls it sideways. The Moon would go straight too. The Earth's gravity does the job of the wall and keeps bending the Moon's path into an orbit.. *Why:* A strong answer links the wall's push to the pull of gravity, and says that the Moon would move off in a straight line without it.
 15. (perspective) Three people talk about filling low orbit with satellites.  
    **Answer:** A strong answer weighs a benefit against a risk, uses a fact from the lesson, and suggests a rule, such as a limit on numbers or on brightness.. *Why:* Scientists and governments have not settled this. The engineer is right that low orbits clean themselves and that the internet helps people. The astronomer and the debris scientist are right that the costs fall on everyone, including those who were never asked.
+16. (fill) A satellite can spot a forest fire from space by its ____, because a fire is much hotter than the forest around it.  
+   **Answer:** ['heat', 'warmth', 'temperature']. *Why:* Satellite cameras that see heat pick out hot spots. Forest teams can then act before the smoke spreads.
 ### The Moon's fall, crowded skies and open debates (challenge) (challenge, 15 questions)
 1. (mcq) The Moon is 60 times as far from the Earth's centre as you are. How much weaker is the Earth's pull there?  
    Options: 60 times weaker / 120 times weaker / 3,600 times weaker / It is not weaker  
@@ -659,36 +664,45 @@ Nobody spoke. Paatti pressed her palm flat on the cool sand. "Sixty-eight years 
 2. (mcq) What does a planet go round, and what does a moon go round?  
    Options: A planet: a star. A moon: a planet / Both go round a star only / A planet: a moon. A moon: a star / Neither goes round anything  
    **Answer:** A planet: a star. A moon: a planet. *Why:* A planet is a satellite of a star, and a moon is a satellite of a planet. The Moon also travels round the Sun, along with the Earth.
-3. (mcq) Why does a satellite in orbit not hit the ground?  
+3. (mcq) What makes day and night on Earth?  
+   Options: The Earth spinning on its axis, about once every 24 hours / The Sun going round the Earth once each day / The Earth going round the Sun once each year  
+   **Answer:** The Earth spinning on its axis, about once every 24 hours. *Why:* The Earth turns round an imaginary line through its poles. The side facing the Sun has day, and the side turned away has night. The Sun does not go round the Earth. The trip round the Sun takes a year, so it is not what makes day and night.
+4. (mcq) Why does a satellite in orbit not hit the ground?  
    Options: Gravity does not reach it / It falls, and the ground curves away as fast / Thin air holds it up / Its engine holds it up  
    **Answer:** It falls, and the ground curves away as fast. *Why:* The satellite falls all the time. It moves sideways so fast that the round Earth curves away beneath it by the same amount. Gravity does reach it, and its engine is off.
-4. (mcq) A satellite is in orbit above the air. What would it do if gravity vanished?  
+5. (mcq) A satellite is in orbit above the air. What would it do if gravity vanished?  
    Options: Stay where it is / Go straight on, away from the Earth / Drop to the ground / Carry on in its circle  
    **Answer:** Go straight on, away from the Earth. *Why:* A moving thing goes straight unless something bends its path. Gravity is what bends a satellite's path into a circle. Without it, the satellite would leave along a straight line.
-5. (mcq) A thing above the air moves sideways at 9 kilometres every second. What is its path?  
+6. (mcq) A thing above the air moves sideways at 9 kilometres every second. What is its path?  
    Options: A circle / A stretched loop that comes back / Straight down / A path that never comes back  
    **Answer:** A stretched loop that comes back. *Why:* It is faster than the 7.8 needed for a circle and slower than the 11.2 needed to escape. So it swings out on an ellipse and returns.
-6. (truefalse) True or false: a spacecraft that reaches escape speed has gone beyond the reach of the Earth's gravity.  
+7. (truefalse) True or false: a spacecraft that reaches escape speed has gone beyond the reach of the Earth's gravity.  
    **Answer:** False. *Why:* False. The Earth's pull never ends. It only grows weaker. Escape speed means the spacecraft will never fall back, although the pull goes on slowing it a little for ever.
-7. (mcq) Imagine the space station standing still on a tower 400 kilometres tall. What would the astronauts feel?  
+8. (mcq) Imagine the space station standing still on a tower 400 kilometres tall. What would the astronauts feel?  
    Options: They would float / Nearly their normal weight / No weight at all / One sixth of their weight  
    **Answer:** Nearly their normal weight. *Why:* Gravity at that height is almost nine tenths as strong as on the ground, and the tower's floor would push up on them. They float in orbit only because the floor is falling with them. One sixth is the Moon's surface.
-8. (mcq) Which of these satellites takes the longest to go once round the Earth?  
+9. (mcq) Which of these satellites takes the longest to go once round the Earth?  
    Options: One that is 400 kilometres up / One that is 20,000 kilometres up / One that is 36,000 kilometres up / They all take the same time  
    **Answer:** One that is 36,000 kilometres up. *Why:* The higher the orbit, the weaker the pull, the slower the satellite and the longer its way round. The three trips take about 92 minutes, 12 hours and 1 day.
-9. (mcq) You whirl a pouch on a thread and double the hanging load. To keep the same circle, how must you whirl?  
+10. (mcq) You whirl a pouch on a thread and double the hanging load. To keep the same circle, how must you whirl?  
    Options: Faster / More slowly / At the same speed / It makes no difference  
    **Answer:** Faster. *Why:* A stronger pull bends the path more sharply, so the pouch must go faster to stay out on the same circle. If you whirl at the old speed, the load pulls the pouch in.
-10. (mcq) Which satellite would you choose to photograph every village in India in sharp detail?  
+11. (mcq) Which satellite would you choose to photograph every village in India in sharp detail?  
    Options: One in geostationary orbit / One in a low polar orbit / One in orbit round the Moon / A navigation satellite  
    **Answer:** One in a low polar orbit. *Why:* A low satellite is close enough to see detail. In a polar orbit, the Earth turns beneath it, so in time it passes over every village. A geostationary satellite is about 60 times farther away.
-11. (mcq) What did Mangalyaan do in September 2014?  
+12. (mcq) How can a satellite help forest teams find a fire early?  
+   Options: It picks up heat from hot spots on the ground, so teams see a fire before the smoke spreads / It measures how many trees stand in one place, from a spot on the ground / It blows cool wind over the trees to stop the fire  
+   **Answer:** It picks up heat from hot spots on the ground, so teams see a fire before the smoke spreads. *Why:* A fire is much hotter than the forest around it, and a satellite camera can see that heat from space. The other two answers do not describe what a satellite does. It measures heat, not trees, and it cannot blow wind.
+13. (mcq) A television signal must reach a dish in another country, and that dish never turns. Which orbit suits a satellite that relays it?  
+   Options: Geostationary orbit, about 35,786 km up above the equator / Low polar orbit, going over the poles / A low orbit where the satellite passes a town in a few minutes  
+   **Answer:** Geostationary orbit, about 35,786 km up above the equator. *Why:* A geostationary satellite goes round once a day, so it stays over one spot and a dish can keep pointing at it. A polar orbit moves over the whole Earth, and a low orbit rushes past in minutes, so neither holds still for a dish.
+14. (mcq) What did Mangalyaan do in September 2014?  
    Options: It landed on the Moon / It went into orbit round Mars / It became India's first satellite / It carried astronauts to a station  
    **Answer:** It went into orbit round Mars. *Why:* Mangalyaan went into orbit round Mars on 24 September 2014, at India's first try. The Moon landing was Chandrayaan-3 in 2023, and the first satellite was Aryabhata in 1975.
-12. (mcq) Why do some scientists worry about tens of thousands of new satellites?  
+15. (mcq) Why do some scientists worry about tens of thousands of new satellites?  
    Options: Crashes can make debris that causes more crashes / Satellites use up the Earth's gravity / They make the Earth much heavier / They block the Sun's light by day  
    **Answer:** Crashes can make debris that causes more crashes. *Why:* Donald Kessler showed in 1978 that in a crowded orbit, each crash makes pieces that can cause further crashes. Gravity cannot be used up, and satellites are tiny beside the Earth.
-13. (truefalse) True or false: scientists all agree on why stars at the edges of galaxies move so fast.  
+16. (truefalse) True or false: scientists all agree on why stars at the edges of galaxies move so fast.  
    **Answer:** False. *Why:* False. Most think unseen dark matter adds its pull, but no particle of it has been found. A smaller group thinks the rule for gravity needs changing when the pull is very weak.
 
 ## Applications

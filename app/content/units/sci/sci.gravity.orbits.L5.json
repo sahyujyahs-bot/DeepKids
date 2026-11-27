@@ -130,7 +130,8 @@
     "The Moon is 3,84,400 kilometres away and takes about 27 days to go round the Earth.",
     "Jupiter has more than 90 known moons, and Saturn has more than 270.",
     "India's first artificial satellite was Aryabhata, launched on 19 April 1975.",
-    "The Earth is a satellite of the Sun. One trip round takes one year."
+    "The Earth is a satellite of the Sun. One trip round takes one year.",
+    "The Earth also spins on an imaginary line through its poles, once about every 24 hours. That spin makes day and night. Its trip round the Sun takes a year, a slower motion."
    ],
    "perspectives": [
     {
@@ -1800,6 +1801,12 @@
      "a": "A strong answer picks a view and supports it with facts, such as the cost, the lives saved by cyclone warnings, or the needs of children. It also grants a fair point to another view.",
      "why": "People who care about India disagree on this. The economist is right that money is limited. The scientist is right that the cost was small and the skills are shared. The fisher is right to ask what reaches the ground.",
      "outcome": 7
+    },
+    {
+     "t": "truefalse",
+     "p": "True or false: a satellite above the equator can carry a television signal from one country to another.",
+     "a": true,
+     "why": "A geostationary satellite stays over one spot above the equator, so it can relay television signals between distant countries."
     }
    ]
   },
@@ -1992,6 +1999,16 @@
      "a": "A strong answer weighs a benefit against a risk, uses a fact from the lesson, and suggests a rule, such as a limit on numbers or on brightness.",
      "why": "Scientists and governments have not settled this. The engineer is right that low orbits clean themselves and that the internet helps people. The astronomer and the debris scientist are right that the costs fall on everyone, including those who were never asked.",
      "outcome": 7
+    },
+    {
+     "t": "fill",
+     "p": "A satellite can spot a forest fire from space by its ____, because a fire is much hotter than the forest around it.",
+     "a": [
+      "heat",
+      "warmth",
+      "temperature"
+     ],
+     "why": "Satellite cameras that see heat pick out hot spots. Forest teams can then act before the smoke spreads."
     }
    ]
   },
@@ -2224,6 +2241,18 @@
   },
   {
    "t": "mcq",
+   "p": "What makes day and night on Earth?",
+   "opts": [
+    "The Earth spinning on its axis, about once every 24 hours",
+    "The Sun going round the Earth once each day",
+    "The Earth going round the Sun once each year"
+   ],
+   "a": 0,
+   "why": "The Earth turns round an imaginary line through its poles. The side facing the Sun has day, and the side turned away has night. The Sun does not go round the Earth. The trip round the Sun takes a year, so it is not what makes day and night.",
+   "outcome": 0
+  },
+  {
+   "t": "mcq",
    "p": "Why does a satellite in orbit not hit the ground?",
    "opts": [
     "Gravity does not reach it",
@@ -2318,6 +2347,30 @@
    ],
    "a": 1,
    "why": "A low satellite is close enough to see detail. In a polar orbit, the Earth turns beneath it, so in time it passes over every village. A geostationary satellite is about 60 times farther away.",
+   "outcome": 5
+  },
+  {
+   "t": "mcq",
+   "p": "How can a satellite help forest teams find a fire early?",
+   "opts": [
+    "It picks up heat from hot spots on the ground, so teams see a fire before the smoke spreads",
+    "It measures how many trees stand in one place, from a spot on the ground",
+    "It blows cool wind over the trees to stop the fire"
+   ],
+   "a": 0,
+   "why": "A fire is much hotter than the forest around it, and a satellite camera can see that heat from space. The other two answers do not describe what a satellite does. It measures heat, not trees, and it cannot blow wind.",
+   "outcome": 5
+  },
+  {
+   "t": "mcq",
+   "p": "A television signal must reach a dish in another country, and that dish never turns. Which orbit suits a satellite that relays it?",
+   "opts": [
+    "Geostationary orbit, about 35,786 km up above the equator",
+    "Low polar orbit, going over the poles",
+    "A low orbit where the satellite passes a town in a few minutes"
+   ],
+   "a": 0,
+   "why": "A geostationary satellite goes round once a day, so it stays over one spot and a dish can keep pointing at it. A polar orbit moves over the whole Earth, and a low orbit rushes past in minutes, so neither holds still for a dish.",
    "outcome": 5
   },
   {

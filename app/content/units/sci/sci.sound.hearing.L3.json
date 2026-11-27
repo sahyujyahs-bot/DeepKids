@@ -299,7 +299,7 @@
    "examples": [
     "A dog hears a dog whistle that people cannot.",
     "Pigeons hear infrasound, far below the lowest sound we can hear.",
-    "A bird watcher can often name a bird by its call before she sees it. Each kind of bird has its own call.",
+    "A bird watcher can often name a bird from the song she hears, before she sees the bird. Every kind of bird sings a call that sounds different from the others.",
     "Many birds sing most in the cool early morning, and go quieter in the hot middle of the day."
    ],
    "perspectives": [
@@ -2158,13 +2158,13 @@
    "p": "A call comes from a tree, but you cannot see the bird. How can you find out which bird it is?",
    "opts": [
     "Compare the call with a bird-call guide or recording, and note the time of day",
-    "Decide it must be a bat, since bats also call",
+    "Decide the bird must be a bat, since bats also call",
     "Guess from the colour of the tree",
-    "Birds all make the same call, so it cannot be told apart"
+    "All birds sing the same call, so no call can be told apart"
    ],
    "a": 0,
    "outcome": 4,
-   "why": "Each kind of bird has its own call, and a guide or recording helps you match it. Bats make calls too high for us to hear, and birds do not all sing the same call."
+   "why": "Each kind of bird has calls that differ from other kinds, and a guide or recording helps you match them. Bats make calls too high for us to hear, and birds do not all sing the same call."
   }
  ],
  "worksheets": [
@@ -2467,11 +2467,11 @@
     },
     {
      "t": "fill",
-     "p": "A bird watcher often names a bird by its ____ before she sees it.",
+     "p": "A bird watcher often names a bird from the ____ she hears before she sees the bird.",
      "a": [
       "call"
      ],
-     "why": "Each kind of bird has its own call. Learning the calls helps you find birds you cannot see."
+     "why": "Every kind of bird has calls that differ from other kinds. Learning the calls helps you find birds you cannot see."
     },
     {
      "t": "order",
