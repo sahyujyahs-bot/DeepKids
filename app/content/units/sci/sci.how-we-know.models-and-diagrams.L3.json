@@ -24,7 +24,7 @@
   {
    "concept": "A model shows an object or an idea in a clear way",
    "status": "defined",
-   "definition": "A model is something made to stand for a real object, a process or an idea, It helps us see the real thing and think about it clearly.",
+   "definition": "A model is something made to stand for a real object, a process or an idea. It helps us see the real thing and think about it clearly.",
    "description": "Some things are hard to study directly. The Earth is too big to see all at once. A germ is too small. A mountain growing is too slow. Lightning is too fast and too dangerous. An idea, such as how sound travels, cannot be seen at all. So people make something that stands for the real thing and is easy to look at. That is a model. A globe stands for the Earth. A plastic skeleton stands for the bones inside you. A drawing of arrows stands for moving air. A model is not the real thing. It is a tool for thinking about the real thing.",
    "examples": [
     "A globe on a teacher's table is a model of the Earth.",
@@ -140,11 +140,11 @@
     },
     {
      "who": "Pacific navigators, such as Mau Piailug of Satawal island in 1976",
-     "explanation": "He sailed the voyaging canoe Hokule'a from Hawaii to Tahiti, more than 4,000 kilometres, with no map, compass or other instrument. His model was a star compass, a ring of places where stars rise and set, which he carried in his memory. Voyagers who steered by such models, including the Polynesian ancestors of the Maori, settled the islands of the Pacific."
+     "explanation": "In 1976 he sailed the canoe Hokule'a from Hawaii to Tahiti, more than 4,000 kilometres, with no map or compass. His model was a star compass, a ring of the places where stars rise and set. He carried it in his memory. Voyagers who steered by such models, including the Polynesian ancestors of the Maori, settled the islands of the Pacific."
     }
    ],
    "art": "An orange with a face of continents drawn on it, beside its peel flattened and torn, beside a rectangular world map with Greenland drawn huge.",
-   "context": "This card shows that a map is a model too, and that even a trusted map bends the truth in one way to keep it in another."
+   "context": "This card shows that a map is a model too. Even a trusted map bends the truth in one way to keep it in another."
   },
   {
    "concept": "Some models are made of numbers and run inside computers",
@@ -152,7 +152,7 @@
    "definition": "A computer model is a set of rules and numbers that stands for a real process, such as the weather. A computer works it out.",
    "description": "A model does not have to be a thing or a drawing. It can be a rule. 'Distance equals speed multiplied by time' is a model of a journey. A weather forecast comes from a very large model of this kind. The air over India is divided into boxes. For each box the computer holds numbers for heat, wind and wetness. Rules from science say how each box changes the boxes beside it. The computer steps the numbers forward, hour by hour, and out comes tomorrow's weather. The model leaves out a great deal, so the forecast is a likelihood and not a promise.",
    "examples": [
-    "In October 2013 forecasters at the India Meteorological Department used computer models to say, days ahead, where Cyclone Phailin would cross the coast. About ten lakh people in Odisha and Andhra Pradesh moved to safety, and fewer than fifty died. In 1999 a cyclone struck Odisha when forecasts and warnings were not as good, and about 10,000 people died.",
+    "In October 2013, forecasters in India used computer models to say where Cyclone Phailin would reach the coast. They gave the warning days ahead. About ten lakh people in Odisha and Andhra Pradesh moved to safety, and fewer than fifty died. In 1999 a cyclone hit Odisha when warnings were weaker, and about 10,000 people died.",
     "A recipe that says 'one tumbler of rice needs two tumblers of water' is a number model of cooking rice.",
     "Doctors use number models to work out how fast an illness might spread through a city."
    ],
@@ -182,7 +182,7 @@
     },
     {
      "who": "The physicist James Clerk Maxwell, in 1855",
-     "explanation": "He worked out the rules of electricity and magnetism by comparing them with flowing water. He warned that such a comparison lends its ideas without proving that the two things are truly alike."
+     "explanation": "He worked out the rules of electricity and magnetism by comparing them with flowing water. He warned that a comparison like this lends ideas. It does not prove that the two things are truly alike."
     }
    ],
    "art": "A heart drawn on the left and a hand pump at a village well on the right, with a ribbon between them marked 'like, in one way'.",
@@ -415,7 +415,7 @@
     },
     {
      "who": "James Gibson, an American scientist of seeing, in 1979",
-     "explanation": "He argued that there is no inner model. The light arriving at a moving animal already holds all the information needed, and the moving animal picks up that information directly."
+     "explanation": "He argued that there is no inner model. The light reaching a moving animal already holds all the information she needs. She picks it up directly."
     },
     {
      "who": "Gaudapada, in the Mandukya Karika, chapter 2, verses 17 and 18, about the 7th century CE",
@@ -448,11 +448,11 @@
   },
   {
    "text": "Building a physical model can lead to a discovery that measurements alone did not give.",
-   "evidence": "In 1953 James Watson and Francis Crick built a metal model of DNA and fitted its pieces together until the model agreed with the X-ray measurements of Rosalind Franklin and Raymond Gosling. Their first model of 1951 had three strands and was wrong. Franklin, who saw it, pointed out its flaws. Brenda Maddox tells this in her 2002 book about Franklin."
+   "evidence": "In 1953 James Watson and Francis Crick built a metal model of DNA. They fitted its pieces together until it agreed with the X-ray measurements of Rosalind Franklin and Raymond Gosling. Their first model of 1951 had three strands and was wrong. Franklin, who saw it, pointed out its flaws. Brenda Maddox tells this in her 2002 book about Franklin."
   },
   {
    "text": "People understand and remember an explanation better when they draw their own diagram of it.",
-   "evidence": "In 2011 Shaaron Ainsworth, Vaughan Prain and Russell Tytler wrote a review of classroom studies in the journal Science. They found that children who drew what they thought was happening, including the parts they could not see, often reasoned better than children who only read or copied."
+   "evidence": "In 2011 Shaaron Ainsworth, Vaughan Prain and Russell Tytler wrote a review of classroom studies in the journal Science. They found that children often reasoned better when they drew their own ideas of what was happening. This included the parts they could not see. Children who only read or copied gained less."
   },
   {
    "text": "Honeybees who watch a dance fly in the direction and to the distance that the dance shows.",
@@ -500,7 +500,7 @@
    "hint": "Imagine adding every lane, then every stone, then every ant. Ask how big the map would be and what you could use it for."
   },
   {
-   "q": "Ptolemy's model of the sky gave right answers for 1,400 years and was wrong. How could we find out if one of today's models is wrong in the same way?",
+   "q": "Ptolemy's sky model gave right answers for 1,400 years and was wrong. How could we find a hidden mistake in today's models?",
    "kind": "deep",
    "hint": "Think about what finally went against Ptolemy. Was it a better argument, or a new kind of looking?"
   },
@@ -510,32 +510,32 @@
    "hint": "Pick three real flowers from one plant and compare each with the diagram. Then ask where the diagram's flower exists."
   },
   {
-   "q": "Your eye has a spot that sees nothing, and you see no hole. How much of what you see right now is coming in, and how much is being filled in?",
+   "q": "Your eye has a spot that sees nothing, yet you see no hole. How much of what you see is filled in?",
    "kind": "deep",
    "hint": "Do the blind-spot test first. Then ask how you could ever check the rest of your view."
   },
   {
-   "q": "A bee's dance leaves out the colour and smell of the flowers. A phone map leaves out the trees. Who decides what a model leaves out, and what does that tell you about the maker?",
+   "q": "A bee's dance leaves out the flowers' colour and smell. Who decides what a model leaves out? What does that show?",
    "kind": "big",
    "hint": "Compare a map drawn by a bus driver, a postman and a crow, if a crow could draw."
   },
   {
-   "q": "You have a picture in your mind of what your best friend is like. Is that picture a model? What might it leave out?",
+   "q": "You have a picture in your mind of your best friend. Is that picture a model? What might it leave out?",
    "kind": "big",
    "hint": "Think of a time a friend surprised you. Ask what in your picture had to change."
   },
   {
-   "q": "Most world maps put north at the top and Europe near the middle. Would people think differently about the world if the map on the wall were turned upside down?",
+   "q": "Most world maps put north at the top and Europe in the middle. Would we think differently with the map upside down?",
    "kind": "big",
    "hint": "Turn an atlas page upside down and look at India for a full minute. Notice what looks important now."
   },
   {
-   "q": "When you say 'the heart is like a pump', you learn about the heart from a machine. Could people have understood the heart before pumps were invented?",
+   "q": "We say 'the heart is like a pump'. Could people understand the heart before pumps were invented?",
    "kind": "big",
    "hint": "Ask what people compared the heart with before there were pumps, and what a comparison can and cannot give you."
   },
   {
-   "q": "Is your idea of yourself, the 'me' you think about, also a model? If it is, who made it and what does it leave out?",
+   "q": "Is your idea of yourself also a model? If so, who made it, and what does it leave out?",
    "kind": "big",
    "hint": "Try to list everything that is true of you. Notice what you put first and what you never thought to add."
   }
@@ -583,7 +583,7 @@
   ]
  },
  "how_we_found_out": {
-  "story": "In 1781 William Herschel found a new planet, Uranus. By the 1820s Uranus was not where Newton's model of gravity said it should be, and its path kept drifting from the sums. People had two ideas. Either Newton's law fails far from the Sun, or an unseen planet is pulling Uranus. Most trusted Newton, because his law had worked everywhere else. In 1845 and 1846 John Couch Adams in England and Urbain Le Verrier in France each worked out where such a planet must be. On 23 September 1846 Johann Galle and his student Heinrich d'Arrest searched Berlin's sky where Le Verrier had said, and found Neptune within about one degree of that place. A model had pointed to a world nobody had seen. Then, in 1859, Le Verrier tried the same move on a small oddity in Mercury's path. He predicted a planet, Vulcan, and nobody ever found it. In 1915 Albert Einstein showed that his new model of gravity explained Mercury's path with no new planet at all.",
+  "story": "In 1781 William Herschel found a new planet, Uranus. By the 1820s Uranus was not where Newton's model of gravity said it should be, and its path kept drifting from the sums. People had two ideas. Either Newton's law fails far from the Sun, or an unseen planet is pulling Uranus. Most trusted Newton, because his law had worked everywhere else. In 1845 and 1846 John Couch Adams in England and Urbain Le Verrier in France each worked out where such a planet must be. On 23 September 1846 Johann Galle and his student Heinrich d'Arrest searched Berlin's sky where Le Verrier had said. They found Neptune within about one degree of that place. A model had pointed to a world nobody had seen. Then, in 1859, Le Verrier tried the same move on a small oddity in Mercury's path. He predicted a planet, Vulcan, and nobody ever found it. In 1915 Albert Einstein showed that his new model of gravity explained Mercury's path with no new planet at all.",
   "who": "William Herschel, John Couch Adams, Urbain Le Verrier, Johann Galle, Heinrich d'Arrest, Albert Einstein",
   "when": "1781 to 1915",
   "wrong_idea": "People believed that when a model's answer does not match what we see, the same repair always works: add something unseen. For Uranus this was right, and a new planet was found. For Mercury the same repair was wrong, and a whole new model of gravity was needed. Both guesses were reasonable until they were tested."
@@ -600,7 +600,7 @@
    "what_is_life": "A bee, a bat and a child each build a world from different signals, and each world is enough to live by. In that sense every living being makes models. Understanding this, you stop asking which being sees correctly and start asking what each one's seeing is for.",
    "what_is_this_world": "The Earth has a globe, a map and a weather model, and none of them is the Earth. The same is true of our best science. The world is what all the models are about, and it is more than any of them holds."
   },
-  "thread": "This lesson showed that leaving things out is how understanding works. A globe leaves out the rain, a diagram leaves out the shadows, and your eye leaves out a patch and covers the gap. That is not a fault to fix. It does mean that what we call 'the world' is always the world as shaped by a viewer. Some traditions go one step further. They say that awareness is the ground in which every view arises, the bee's and the child's alike: the views are many and partial, and the ground they arise in is one. Many scientists stop before this last step, and their view is given below.",
+  "thread": "This lesson showed that leaving things out is how understanding works. A globe leaves out the rain, a diagram leaves out the shadows, and your eye leaves out a patch and covers the gap. That is not a fault to fix. It does mean that what we call 'the world' is always the world as shaped by a viewer. Some traditions go one step further. They say that awareness is the ground in which every view arises, the bee's and the child's alike. The views are many and partial, and the ground they arise in is one. Many scientists stop before this last step, and their view is given below.",
   "teachings": [
    {
     "source": "Tao Te Ching, chapter 1",
@@ -2009,7 +2009,7 @@
      "qty": 1
     },
     {
-     "item": "a short route that is safe for your family, such as from your door to the building gate, a shop in the lane or a nearby park gate",
+     "item": "a short safe route, such as from your door to the building gate, a shop in the lane or a park gate",
      "qty": 1
     },
     {
@@ -2402,7 +2402,7 @@
     "Fold two edges up to make a channel, like a gutter, so that the paper has a deep edge on each side."
    ],
    "creative": [
-    "Fold a zigzag and glue a flat strip, cut from the same sheet, over the top, which makes a hollow box of folds, like the hollow beams of real bridges.",
+    "Fold a zigzag and glue a flat strip, cut from the same sheet, over the top. This makes a hollow box of folds, like the hollow beams of real bridges.",
     "Glue several thin paper tubes side by side, as bamboo tubes are tied together in a real footbridge.",
     "Curve the paper into an arch with its ends against the books, so that the load pushes the ends outward. Put a heavy book against each end so that the ends cannot slide."
    ],
@@ -2708,8 +2708,8 @@
    ],
    "rules": [
     "One player is the bee. The other is her sister. A window or a lamp stands for the Sun. Put the cards face down in a pile.",
-    "The sister waits out of the room, or with her eyes shut, while the bee draws a dance card, reads the front without showing it, and hides a small treat on the floor, as the back says.",
-    "The sister comes back and watches. The bee stands on a sheet of paper and dances. She walks in a straight line in the direction on the card, waggling her hips for the time on the card, and comes back to the paper.",
+    "The sister waits out of the room, or with her eyes shut. The bee draws a dance card and reads the front without showing it. She hides a small treat on the floor, as the back says.",
+    "The sister comes back and watches. The bee stands on a sheet of paper and dances. She walks in a straight line in the direction on the card, waggling her hips for the time on the card. Then she comes back to the paper.",
     "The sister reads the dance. She decides which way to go from the direction and how many steps from the time. One second of waggle is 3 steps. She walks that way from the paper and picks up the treat if she finds it.",
     "The bee shows the back of the card. If the sister found the treat, both score 1 point. If she was off by one step or less, both score 1 point too. Then swap roles.",
     "Play 6 rounds, three each. You are a team and add up your points together. With 5 or more points you win. With fewer, play the six rounds again.",
@@ -2908,7 +2908,7 @@
     },
     {
      "t": "perspective",
-     "p": "A child starts at a new school tomorrow. One map shows every tree, bench and window. A second map shows only the gate, the classrooms and the library, with arrows.",
+     "p": "A new child needs a school map. One shows every tree and bench. Another shows only the gate, classrooms and library.",
      "views": [
       {
        "who": "A child who likes details (an imagined view)",
@@ -2957,7 +2957,7 @@
     },
     {
      "t": "draw",
-     "p": "In a closed box a marble rolls freely, then stops with a click in the middle. It can still pass along the far edge. Draw the inside from above.",
+     "p": "A marble stops with a click in the middle of a box. It still rolls along the far edge. Draw the inside.",
      "a": "A rectangle with a wall drawn across the middle, and a gap between the end of the wall and the far side. The marble is shown on one side. A question mark or note says what is not certain, such as the wall's height.",
      "why": "The marble stopping in the middle says there is a wall. Rolling on only along the far edge says there is a gap there. A good model uses each clue, and a good drawing shows what is still a guess.",
      "outcome": 5
@@ -3152,14 +3152,14 @@
     },
     {
      "t": "draw",
-     "p": "Draw a diagram of water going from a tap into a glass. Use labels and arrows. Then write one thing you left out.",
+     "p": "Draw water going from a tap into a glass, with labels and arrows. Then write one thing you left out.",
      "a": "A tap, a glass and an arrow showing water moving down, with labels such as 'tap', 'water' and 'glass'. A good answer names a left-out thing, such as the pipe in the wall, the splashes or the colour of the glass.",
      "why": "A diagram has plain lines, labels and arrows. Everything not needed to explain the flow is left out.",
      "outcome": 2
     },
     {
      "t": "count",
-     "p": "A model is 50 times smaller than a real bridge. The bridge is 300 metres long. How long is the model, in metres?",
+     "p": "A model is 50 times smaller than a bridge 300 metres long. How long is the model, in metres?",
      "a": "6",
      "why": "300 ÷ 50 = 6. The model is 6 metres long. Every length on it is 50 times smaller than the real one.",
      "outcome": 3
@@ -3271,7 +3271,7 @@
     },
     {
      "t": "fill",
-     "p": "On a globe, 1 centimetre is 425 kilometres. Everest is about 9 kilometres high, so it is about ____ of a millimetre high.",
+     "p": "On a globe, 1 centimetre is 425 kilometres. Everest is 9 kilometres high. On the globe it is ____ millimetres.",
      "a": [
       "0.2",
       "one-fifth",
@@ -3320,7 +3320,7 @@
     },
     {
      "t": "write",
-     "p": "The eye has a spot that sees nothing, but we see no hole. Give one reason for calling seeing a model, and one against.",
+     "p": "The eye has a blind spot, yet we see no hole. Give one reason for calling seeing a model, and one against.",
      "lines": 3,
      "a": "For: the brain fills the gap with a guess made from what lies around it, so part of what we see is supplied. Against: the eye still receives real light from the world, and what we see changes when the world changes.",
      "why": "A strong answer gives a reason on each side and does not claim the question is settled.",
@@ -3347,14 +3347,14 @@
     },
     {
      "t": "draw",
-     "p": "Draw two models of a mango. One is for choosing a ripe mango, and one is for planting its seed. Say what each leaves out.",
+     "p": "Draw two models of a mango: one for choosing a ripe mango, one for planting its seed. Say what each leaves out.",
      "a": "One shows the outside, with the colour, the skin and the smell. The other shows the inside, with the flesh and the flat seed. Each leaves out what the other needs.",
      "why": "The first model is for a buyer, so the outside matters. The second is for a grower, so the seed matters. The job decides what to keep.",
      "outcome": 6
     },
     {
      "t": "count",
-     "p": "A diagram of a sparrow is 30 centimetres long. The real bird is 15 centimetres long. How many times bigger is the diagram?",
+     "p": "A diagram of a sparrow is 30 centimetres long. The real bird is 15 centimetres. How many times bigger is the diagram?",
      "a": "2",
      "why": "30 ÷ 15 = 2. The diagram is twice the size of the real bird. Scale tells you how a model compares with the real thing.",
      "outcome": 3
