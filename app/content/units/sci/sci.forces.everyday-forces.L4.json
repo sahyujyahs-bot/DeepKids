@@ -3,7 +3,7 @@
  "title": "Forces we meet every day: reading the pushes and pulls on a still book, a falling cone and your own arm",
  "level": 4,
  "summary": {
-  "text": "A book lies on a table and does not move. Is any force acting on the book? In this lesson you learn to read the forces on everyday things: the pull of gravity, the push of a table, the pull in a rope, the push of air and water, the pull of a magnet and the pull of your own muscles. You drop paper cones to find out what happens when the push of the air grows to match the pull of the Earth. Then you look underneath, and find that these many forces come down to very few, and that nobody can yet say what a force finally is.",
+  "text": "A book lies on a table and does not move. Is any force acting on it? In this lesson you learn to read the forces on everyday things, from the pull of gravity to the pull of your own muscles. You drop paper cones to find out what happens when the push of the air grows to match the pull of the Earth. Then you look underneath, and find that these many forces come down to very few, and that nobody can yet say what a force finally is.",
   "art": "A book resting on a table with one arrow pointing down from its centre and an equal arrow pointing up from the table, and a child looking puzzled beside it."
  },
  "intro": {
@@ -15,7 +15,7 @@
   "I can find the forces on an everyday thing by asking what touches it and what pulls it from a distance.",
   "I can name gravity, support force, friction, tension, air resistance, upthrust, magnetic force and muscle force, and give an everyday example of each.",
   "I can explain why a thing at rest, or moving at a steady speed, has balanced forces on it.",
-  "I can draw a force diagram for one thing, with an arrow for each force.",
+  "I can draw a labelled arrow for every push and pull on a book, a bucket or a kite.",
   "I can explain why a falling paper cone stops speeding up.",
   "I can say how a muscle makes a pull, and why a muscle often pulls harder than the load weighs.",
   "I can say which everyday forces are, underneath, the same electric and magnetic force, and what is still not known about gravity."
@@ -40,7 +40,7 @@
    "concept": "Gravity pulls on everything, all the time, towards the centre of the Earth",
    "status": "defined",
    "definition": "Gravity is the pull that the Earth has on every object. The size of this pull on an object is called its weight, and it is measured in newtons.",
-   "description": "The Earth pulls on you when you fall. The Earth also pulls on you just as hard when you sit, when you sleep and when you jump upward. Gravity never switches off. The pull on a one-kilogram bag of sugar is about 10 newtons. The newton is the unit of force. A child of 30 kilograms is pulled down with about 300 newtons. 'Down' means towards the centre of the Earth. So 'down' in Chennai and 'down' in Mexico point in nearly opposite directions. Gravity also works both ways. While the Earth pulls you with 300 newtons, you pull the Earth with 300 newtons. The Earth is so massive that your pull does not move it by any amount we could notice.",
+   "description": "The Earth pulls on you when you fall. The Earth also pulls on you just as hard when you sit, when you sleep and when you jump upward. Gravity never switches off. The pull on a one-kilogram bag of sugar is about 10 newtons. The newton is the unit of force. A child of 30 kilograms is pulled down with roughly 300 newtons. 'Down' means towards the centre of the Earth. So 'down' in Chennai and 'down' in Mexico point in nearly opposite directions. Gravity also works both ways. While the Earth pulls you with 300 newtons, you pull the Earth with 300 newtons. The Earth is so massive that your pull does not move it by any amount we could notice.",
    "examples": [
     "A ball thrown up is pulled down the whole time, even on the way up. That is why it slows.",
     "A mango on a branch is pulled down for months before the stalk gives way.",
@@ -59,7 +59,7 @@
    "examples": [
     "In a lift that starts downward quickly, you feel lighter for a moment, because the floor pushes up on you a little less.",
     "At the top of a jump on a trampoline, nothing pushes on you, and for a moment you feel weightless.",
-    "Rakesh Sharma in 1984, Sunita Williams on several flights, and Shubhanshu Shukla in 2025 all floated inside spacecraft while gravity held those craft in their paths round the Earth."
+    "Rakesh Sharma in 1984, Sunita Williams on several flights, and Shubhanshu Shukla in 2025 all floated inside spacecraft. Gravity was holding those craft in their paths round the Earth."
    ],
    "perspectives": [],
    "one_view": "The strength of gravity at that height and the speed of the station are measured, and every space agency flies by them.",
@@ -127,7 +127,7 @@
    "concept": "The force diagram: draw one thing alone, with an arrow for each force on it",
    "status": "defined",
    "definition": "A force diagram shows a single object with one arrow for each force acting on it. Each arrow points the way the force acts, and a longer arrow means a larger force.",
-   "description": "When many things push on many things, it is easy to get lost. So scientists draw one thing only. Draw the thing as a dot or a box. Leave out the table, the hand and the rope. Then add an arrow for each force that acts on your thing, and label it with what is doing the pushing or pulling. Take a kite held steady in the sky. Four forces act on the kite. The Earth pulls it down. The string pulls it down and back towards the flier. The wind pushes it upward, and the wind also pushes it backward. When the kite hangs still, the four arrows cancel.",
+   "description": "When many things push on many things, it is easy to get lost. So scientists draw one thing only. Draw the thing as a dot or a box. Leave out the table, the hand and the rope. Then add an arrow for each force that acts on your thing, and label it with what is doing the pushing or pulling. Take a kite held steady in the sky. Three forces act on the kite. The Earth pulls it down. The string pulls it down and back towards the flier. The wind pushes it up and away from the flier. When the kite hangs still, the three arrows cancel.",
    "examples": [
     "A book on a table: two arrows, weight down and support force up, of equal length.",
     "A bucket being raised from a well at a steady speed: rope pulling up and weight down, of equal length.",
@@ -208,14 +208,14 @@
    "description": "A magnet pulls on a steel pin before they touch. The force crosses air, paper, cloth and your finger. It is strong close up and fades very quickly with distance. Pull a fridge magnet one centimetre away from the door and you can hardly feel the pull. A magnet pulls strongly on only a few materials: iron and steel, nickel and cobalt. It does not pull copper, aluminium, gold or wood. Every magnet has two ends called poles, north and south. Two like poles push each other apart, which scientists call repelling. Two unlike poles pull together, which is called attracting. The Earth is itself a huge, weak magnet, and that is why a compass needle turns to point north.",
    "examples": [
     "A soft magnetic strip runs inside the rubber edge of a fridge door and holds the door shut.",
-    "The speaker in a phone and the motor in a mixer both have magnets inside.",
+    "The speaker in a phone and the motor in a toy car both have magnets inside.",
     "Some pencil boxes, bag flaps and cupboard doors close with small magnets.",
     "At a scrapyard, a crane with a magnet that can be switched on and off lifts steel and leaves plastic behind."
    ],
    "perspectives": [
     {
-     "who": "Shen Kuo, in China, in his 'Dream Pool Essays' of 1088 CE",
-     "explanation": "He described how to make a needle magnetic by rubbing it on a lodestone, a natural magnetic rock, and hanging it from a thread to find direction. He also noted that the needle points a little away from true south."
+     "who": "Shen Kuo, in China, in his 'Dream Pool Essays' of about 1088 CE",
+     "explanation": "He described how to make a needle magnetic by rubbing it on a lodestone, a natural magnetic rock. He then hung the needle from a thread to find direction. He also noted that the needle points a little away from true south."
     },
     {
      "who": "William Gilbert, in England, in his book 'De Magnete' of 1600",
@@ -238,7 +238,7 @@
     "A polyester shirt pulled off on a dry winter day crackles and clings.",
     "A balloon rubbed on a woollen sweater sticks to a wall.",
     "Dust gathers on a television screen because the screen becomes charged.",
-    "The Greek word for amber, a yellow fossil tree gum that pulls dust when rubbed, is 'elektron'. The word electricity comes from it."
+    "The Greek word for amber, a yellow tree gum, hardened over millions of years, that pulls dust when rubbed, is 'elektron'. The word electricity comes from it."
    ],
    "perspectives": [],
    "one_view": "The electric force between charged objects was measured by Charles-Augustin de Coulomb in 1785 and is agreed. This test works best on a dry day and poorly in monsoon damp.",
@@ -249,10 +249,10 @@
    "concept": "How a muscle makes a pull",
    "status": "defined",
    "definition": "Muscle force is the pull made when a muscle shortens. Inside the muscle, two kinds of protein thread slide past each other.",
-   "description": "Every push you give begins as a pull by a muscle. A muscle is a bundle of long cells called fibres. Inside each fibre lie two kinds of very thin thread, made of proteins. One kind carries tiny heads along its length. When the muscle gets a signal from a nerve, each head grabs the other thread, tugs, lets go and grabs again further along, like hands hauling a rope. The threads slide past each other and the fibre shortens. One head pulls with a force far too small to feel. A single muscle has many billions of heads, and their tiny pulls add up. This work uses energy from your food.",
+   "description": "Every push you give begins as a pull by a muscle. A muscle is a bundle of long cells called fibres. Inside each fibre lie two kinds of very thin thread, made of proteins. One kind carries tiny heads along its length. When the muscle gets a signal from a nerve, each head grabs the other thread and tugs. Then it lets go and grabs again further along, like hands hauling a rope. The threads slide past each other and the fibre shortens. One head pulls with a force far too small to feel. A single muscle has many billions of heads, and their tiny pulls add up. This work uses energy from your food. Energy is what lets a body move things or change them.",
    "examples": [
     "Your jaw muscles let your back teeth press together with a force of several hundred newtons, enough to crack a groundnut shell.",
-    "Your heart is a muscle who pulls about 100,000 times a day without a rest.",
+    "Your heart is a muscle that squeezes roughly 100,000 times a day without a rest.",
     "An ant can carry 10 to 50 times their own weight."
    ],
    "perspectives": [
@@ -262,7 +262,7 @@
     },
     {
      "who": "Ayurvedic texts such as the Charaka Samhita",
-     "explanation": "They explain all movement in the body, from a blink to a step, by vata, the moving principle carried by breath. This is an older account, framed differently from the measured one, and the two are not the same kind of claim."
+     "explanation": "They explain all movement in the body, from a blink to a step, by vata, the moving principle, linked with air and breath. This is an older account, framed differently from the measured one, and the two are not the same kind of claim."
     }
    ],
    "art": "A zoom-in from an arm to a muscle, to one fibre, to two kinds of thread with tiny heads on one thread gripping the other.",
@@ -272,11 +272,11 @@
    "concept": "Your bones are levers, so a muscle often pulls much harder than the load weighs",
    "status": "defined",
    "definition": "A lever is a stiff bar that turns about a fixed point. In the arm, the forearm bones are the bar, the elbow is the turning point and the muscle pulls close to the elbow.",
-   "description": "Hold a one-litre bottle of water in your hand with your elbow bent. The bottle weighs about 10 newtons. How hard is the muscle in your upper arm pulling? You might guess 10 newtons. The true answer is about 80. The muscle, called the biceps, is joined to the forearm only about 4 centimetres from the elbow. The bottle is about 32 centimetres from the elbow, which is 8 times as far. A pull close to the turning point must be much larger to balance a load far from it. So the muscle pulls with about 8 times the load. What the body gains in return is speed and reach. A small shortening of the muscle swings the hand a long way.",
+   "description": "Hold a one-litre bottle of water in your hand, with your elbow bent and your forearm level. The bottle weighs about 10 newtons. How hard is the muscle in your upper arm pulling? You might guess 10 newtons. The true answer is about 80. The muscle, called the biceps, is joined to the forearm only about 4 centimetres from the elbow. The bottle is about 32 centimetres from the elbow, which is 8 times as far. A pull close to the turning point must be much larger to balance a load far from it. So the muscle pulls with about 8 times the load. This is a simple picture, because other muscles share the work. What the body gains in return is speed and reach. A small shortening of the muscle swings the hand a long way.",
    "examples": [
     "A door is hard to push near the hinges and easy to push at the handle. It is the same rule.",
-    "When you stand on tiptoe, the calf muscle pulls up on the heel bone with more than your whole weight.",
-    "A grasshopper's leg muscle pulls on a short lever inside the leg, and the long leg swings fast enough to throw the grasshopper many body lengths."
+    "When you stand on tiptoe, your foot is a lever. The ball of the foot is the pivot, and the calf muscle pulls up on the heel bone.",
+    "A grasshopper's leg muscle pulls on a short lever inside the leg, and the long leg swings fast. The leg also stores the muscle's work in a springy part first, then lets go all at once, which throws the grasshopper many body lengths."
    ],
    "perspectives": [],
    "one_view": "The lever rule goes back to Archimedes and has been checked on arms with instruments. The exact numbers differ from one person's arm to another's.",
@@ -287,11 +287,11 @@
    "concept": "Every living being meets the same forces, each in their own way",
    "status": "defined",
    "definition": "Plants, animals and microbes sense and use gravity, grip, upthrust and magnetic force, each with their own body.",
-   "description": "Forces are not only a matter for people and machines. A seed planted upside down still sends their root downward. Cells in the root tip hold tiny heavy grains that settle to the lower side, and so the root senses which way gravity points and chooses where to grow. A gecko walks across a ceiling. Each toe carries a huge number of very fine hairs, which come so close to the surface that a weak electric pull between hair and ceiling holds the gecko up. A fish holds a small bag of gas inside the body and changes its size to rise or sink. Some birds sense the Earth's magnetic field and steer by it on long journeys.",
+   "description": "Forces are not only a matter for people and machines. A seed planted upside down still sends their root downward. Cells in the root tip hold tiny heavy grains. The grains settle to the lower side, so the root senses which way gravity points and grows that way. A gecko walks across a ceiling. Each toe carries a huge number of very fine hairs. The hairs come so close to the surface that a weak electric pull between hair and ceiling holds the gecko up. Most fish hold a small bag of gas inside the body and change its size to rise or sink. Some birds sense the Earth's magnetic field and steer by it on long journeys.",
    "examples": [
     "Charles Darwin and his son Francis showed in 1880 that the tip of a root is the part that senses gravity.",
     "Kellar Autumn and his colleagues measured the grip of a single gecko hair in 2000.",
-    "Wolfgang Wiltschko showed in the 1960s that European robins in a closed room change direction when a magnet is used to turn the magnetic field round them."
+    "In the 1960s Wolfgang Wiltschko put European robins in a closed room. When he turned the magnetic field round them with coils, the robins changed the way they faced."
    ],
    "perspectives": [
     {
@@ -300,7 +300,7 @@
     },
     {
      "who": "Plant scientists such as Lincoln Taiz",
-     "explanation": "He and others reply that the root's turning is fully explained by the settling grains and the growth chemicals they set moving, and that words like 'decide' should be kept for animals with brains."
+     "explanation": "He and others reply that the settling grains and the growth chemicals they set moving fully explain the root's turn. They say a word like 'decide' fits animals with brains, and that a root needs no deciding."
     }
    ],
    "art": "Four small panels: a bean root curving downward from a sideways seed, a gecko upside down on a ceiling, a fish with a small gas bag shown inside, and a robin beside a compass.",
@@ -310,7 +310,7 @@
    "concept": "Underneath, only four kinds of force are known, and most everyday forces are one of them",
    "status": "defined",
    "definition": "Physicists know of four basic forces: gravity, the electromagnetic force and two forces that act only inside the centres of atoms. Every everyday force except gravity is electromagnetic.",
-   "description": "This lesson has named many forces. Underneath, physicists have found only four kinds. Two of them act only inside the tiny centre of an atom, and you never meet them directly. That leaves two for daily life. One is gravity. The other is the electromagnetic force, which is the electric force and the magnetic force together. The push of a table, the grip of friction, the pull in a rope, the push of air and the tug of a muscle are all this one force. They come from electrons in the atoms of one thing pushing or pulling on the atoms of another. Even touch is this force. When you press a table, the electrons in your finger repel the electrons in the wood before the atoms ever meet.",
+   "description": "This lesson has named many forces. Underneath, physicists have found only four kinds. Two of them act only inside the tiny centre of an atom, and you never meet them directly. That leaves two for daily life. One is gravity. The other is the electromagnetic force, which is the electric force and the magnetic force together. The push of a table is this one force. So are the grip of friction, the pull in a rope, the push of air and the tug of a muscle. They come from electrons in the atoms of one thing pushing or pulling on the atoms of another. Even touch is this force. When you press a table, the electrons in your finger repel the electrons in the wood before the atoms ever meet.",
    "examples": [
     "A small magnet lifts a steel pin off the floor. In that contest, one small magnet beats the gravity of the whole Earth, which shows how weak gravity is by comparison.",
     "A rope holds because the atoms along each fibre attract their neighbours electrically.",
@@ -322,7 +322,7 @@
      "explanation": "They showed that the electromagnetic force and one of the forces inside the atom are two forms of one force. Many physicists hope that all four will turn out to be one."
     },
     {
-     "who": "Other physicists, such as Lee Smolin",
+     "who": "Physicists who think gravity is not a basic force like the others, such as Erik Verlinde",
      "explanation": "They point out that gravity has refused to join the others for a hundred years. They think gravity may be a different kind of thing, which is the subject of the next card."
     }
    ],
@@ -333,10 +333,10 @@
    "concept": "What is gravity? We know how it acts, and nobody knows what it finally is",
    "status": "debated",
    "definition": "Gravity is described very exactly by rules that predict how things fall and move. There is no agreed account of why masses draw towards each other.",
-   "description": "You can predict to a fraction of a second when a dropped ball will land. That does not mean anyone knows what gravity is. Isaac Newton gave the rule for how strongly two masses pull each other. He was asked what causes the pull, and wrote that he would make no guess. In 1915 Albert Einstein gave a different picture. A mass such as the Earth bends the space and time around it, and things move along the bends. In his picture a falling ball has no force on it at all. Both pictures predict everyday falling equally well. A third account, which would join gravity with the physics of tiny particles, does not yet exist.",
+   "description": "You can predict to a fraction of a second when a dropped ball will land. That does not mean anyone knows what gravity is. Isaac Newton gave the rule for how strongly two masses pull each other. He was asked what causes the pull, and wrote that he would make no guess. In 1915 Albert Einstein gave a different picture. A mass such as the Earth bends the space and time around it, and things move along the bends. Here 'time' means what a clock measures. Clocks measure it very exactly, yet science cannot yet say what time finally is. In his picture a falling ball has no force on it at all. Both pictures predict everyday falling equally well. A third account, which would join gravity with the physics of tiny particles, does not yet exist.",
    "examples": [
     "Satellite navigation on a phone works only because its sums include Einstein's bending of time near the Earth.",
-    "In 2015 instruments in the United States detected ripples in space from two black holes colliding far away, as Einstein's picture predicts. A third such instrument is being built at Hingoli in Maharashtra."
+    "In 2015 instruments in the United States picked up ripples in space. They came from two black holes that crashed together far away, as Einstein's picture predicts. Another such instrument is being built at Hingoli in Maharashtra."
    ],
    "perspectives": [
     {
@@ -356,8 +356,8 @@
      "explanation": "Gravity is not a pull. Mass bends space and time, and a falling thing is simply moving freely through bent space and time."
     },
     {
-     "who": "Physicists working on quantum gravity today, such as Abhay Ashtekar",
-     "explanation": "They expect that space itself is made of tiny separate pieces, or that gravity is carried by a particle called the graviton. No experiment has yet shown either."
+     "who": "Physicists who try to join gravity with the physics of tiny particles, such as Abhay Ashtekar",
+     "explanation": "Ashtekar works on the idea that space itself is made of tiny separate pieces. Others expect that gravity is carried by a particle called the graviton. No experiment has yet shown either."
     }
    ],
    "art": "A stretched cloth with a heavy ball in the middle making a dip and a marble circling the dip, beside a plain drawing of two balls joined by a pulling arrow, with a question mark between the two drawings.",
@@ -398,7 +398,7 @@
     "The Kallanai dam on the Kaveri in Tamil Nadu was built of rough stone under the Chola king Karikala, about the 2nd century CE. It still turns the river's water into the fields today.",
     "The Howrah Bridge in Kolkata, opened in 1943, hangs its road from two great steel arms that balance on two piers. Its steel is joined with rivets, which are metal pins hammered tight, and it has no nuts and bolts.",
     "The Bandra-Worli Sea Link in Mumbai, opened in 2009, holds up its road with slanting steel cables in tension.",
-    "The big fishing nets at Fort Kochi in Kerala are balanced by stones hung on ropes at the back, so a few people can raise a net wider than a room."
+    "The big fishing nets at Fort Kochi in Kerala are balanced by stones hung on ropes at the back. A few people can raise a net wider than a room."
    ],
    "perspectives": [],
    "one_view": "This is how structures are designed everywhere. The builders of Kallanai knew it by experience long before force diagrams existed.",
@@ -421,12 +421,12 @@
   },
   {
    "text": "Muscles and bones weaken when the usual forces are taken away.",
-   "evidence": "Astronauts who live for months in a space station lose bone and muscle, even with two hours of exercise a day, because their bodies are not pressed against a floor. Doctors measure the loss when they return."
+   "evidence": "Astronauts who live for months in a space station lose bone and muscle, even with two hours of exercise a day. The main reason is that their bodies are not pressed against a floor. Doctors measure the loss when they return."
   }
  ],
  "challenging": [
   {
-   "claim": "Gravity is not a basic force at all. It arises from something deeper, the way the pressure of air arises from many moving particles.",
+   "claim": "Gravity is not a basic force at all. It arises from something deeper, the way the push of air on a wall comes from many moving particles hitting it.",
    "who": "Erik Verlinde, a Dutch physicist, in 2010, building on work by Ted Jacobson in 1995",
    "for": "The mathematics of gravity looks surprisingly like the mathematics of heat. Verlinde showed that Newton's rule for gravity can be worked out from ideas about information and heat alone.",
    "against": "Most physicists are not persuaded. Tests of his idea against the motions of galaxies have given mixed results, and nobody has shown what the 'something deeper' is made of.",
@@ -453,7 +453,7 @@
    "claim": "Plants do not merely respond to gravity. They sense, weigh up and decide.",
    "who": "Monica Gagliano, Stefano Mancuso and other researchers in plant behaviour, since about 2005",
    "for": "A root tip responds to gravity, water, touch, light and chemicals together, and what the root does cannot be predicted from any one of them. Plants also behave differently after experience.",
-   "against": "In 2019 Lincoln Taiz and seven other plant scientists wrote that plants lack the body structures that, in animals, go with experience and choice, and that the results can be explained by chemistry alone.",
+   "against": "In 2019 Lincoln Taiz and seven other plant scientists wrote a reply. They said plants lack the body parts that go with experience and choice in animals. They said chemistry alone can explain the results.",
    "status": "debated",
    "context": "Scientists agree on what roots do. They disagree about which words describe it truly."
   }
@@ -550,7 +550,7 @@
   ]
  },
  "how_we_found_out": {
-  "story": "For nearly two thousand years, people who studied nature followed Aristotle. He taught that heavy things fall faster than light ones, in proportion to their weight, and that anything moving stops unless pushed. Both ideas fitted daily life: a stone beats a leaf to the ground, and a cart stops when the bullock does. About 530 CE, John Philoponus in Alexandria wrote that he had dropped two weights, one many times heavier than the other, and that they landed at almost the same moment. Few listened. In 1586 Simon Stevin in Holland dropped two lead balls, one ten times the weight of the other, from a church tower onto a wooden board. They struck with one sound. In 1638 Galileo Galilei, in Italy, published his own tests with balls rolling down slopes. He showed that falling things gain speed steadily, and reasoned that a leaf lags only because the air holds it back. In 1687 Isaac Newton gathered all this into three laws of motion and one rule for gravity. In 1971 an astronaut on the airless Moon dropped a hammer and a feather together, and the world watched them land as one.",
+  "story": "For nearly two thousand years, people who studied nature followed Aristotle. He taught that heavy things fall faster than light ones, in proportion to their weight, and that anything moving stops unless pushed. Both ideas fitted daily life: a stone beats a leaf to the ground, and a cart stops when the bullock does. About 530 CE, John Philoponus in Alexandria wrote that he had dropped two weights, one many times heavier than the other. He said they landed at almost the same moment. Few listened. In 1586 Simon Stevin in Holland dropped two lead balls, one ten times the weight of the other, from a church tower onto a wooden board. They struck with one sound. In 1638 Galileo Galilei, in Italy, published his own tests with balls rolling down slopes. He showed that falling things gain speed steadily, and reasoned that a leaf lags only because the air holds it back. In 1687 Isaac Newton gathered all this into three laws of motion and one rule for gravity. In 1971 an astronaut on the airless Moon dropped a hammer and a feather together, and the world watched them land as one.",
   "who": "Aristotle, John Philoponus, Simon Stevin, Galileo Galilei, Isaac Newton, David Scott",
   "when": "About 350 BCE to 1971",
   "wrong_idea": "People held that heavier things fall faster, and that motion needs a constant push. Both were believable because air resistance and friction are always present on Earth and hide what gravity alone does. Tests that made the hidden forces small showed the truth."
@@ -558,25 +558,25 @@
  "roots": {
   "context": "You have learnt to read the forces on still and moving things. Now we ask what that tells us about ourselves, about life and about this world.",
   "deep_truth": {
-   "truth": "A book resting on a table looks as if nothing is happening to it. You found that the Earth pulls the book down with about 5 newtons and the table pushes up with 5. Your paper cone fell steadily only when the push of the air matched the pull of the Earth. So rest and steadiness are a balance that is being kept at every moment.",
-   "habit": "We call a still thing 'at rest' and think of it as left alone, separate and doing nothing. That label hides the pushes and pulls that join the book to the table, the table to the floor and the floor to the Earth.",
-   "evidence": "The kitchen scale under the book showed a steady push, though nothing moved. In the cone test, four stacked cones fell about twice as fast as one, because each stack sped up until the air's push matched its weight, and then held that speed."
+   "truth": "On the scale under the books, the number went up when you pressed down and went down when you lifted, though nothing moved. The scale does not read the pull of the Earth by itself. It reads how hard its own top pushes up. So the weight you feel on a scale, or on your feet, is a push from below, and that push changes by exactly the amount needed.",
+   "habit": "We think weight is something a thing simply has, like its colour. But a scale and your feet feel the push of a surface. Take the surface away, as in a falling lift, and the feeling of weight goes, though the Earth pulls just as hard.",
+   "evidence": "In the scale test, pressing on the books raised the reading and lifting them lowered it, while the books stayed put. In the cone test, the push of the air grew until it matched the weight. In both, a push grew until it matched what it met."
   },
   "three": {
-   "who_am_i": "As you sit reading, the chair pushes up on you, your muscles pull on your bones, and your heart pulls a hundred thousand times a day. You are held in place by many forces in balance. Knowing this, you can feel that sitting still is something the chair, the Earth and your body are doing together.",
+   "who_am_i": "As you sit reading, what you feel as your weight is the chair pushing up on you. Your muscles pull on your bones, and your heart squeezes roughly 100,000 times a day. Feeling heavy is really feeling held up by the chair, the Earth and your own body together.",
    "what_is_life": "A root senses the pull of the Earth and grows down. A fish lets the water carry their weight. A muscle is billions of tiny pulls added together. Every living being lives by reading forces and answering them, and is never outside them.",
-   "what_is_this_world": "Follow the push under a book and you go from the table to the floor, to the ground and to the whole Earth, which is held in its path by the Sun. No object has been found that nothing pushes or pulls. The world is joined all the way through by these pushes and pulls."
+   "what_is_this_world": "Follow the push under a book and you go from the table to the floor, then to the ground and the whole Earth. The Sun holds the Earth in its path. No object has been found that nothing pushes or pulls. The world is joined all the way through by these pushes and pulls."
   },
-  "thread": "This lesson asked you to pick one thing and list the forces on it. Every list led to other things: the table, the rope, the water, the Earth. You could not finish describing one thing without bringing in the rest. That is a plain finding about forces. It also says something about what a 'separate thing' is. Consciousness is the ground from which every thing and every force arises, and the balance that holds a book on a table is that one ground holding itself. Many scientists accept the finding and not this last step, and their view is given below.",
+  "thread": "This lesson asked you to pick one thing and list the forces on it. Every list led to other things: the table, the rope, the water, the Earth. You could not finish describing one thing without bringing in the rest. That is a plain finding about forces. It suggests that a 'separate thing' is not as separate as it looks. Some teachers of oneness go one step further. They say consciousness is the ground from which every thing and every force arises. In their words, the balance holding a book on a table is that one ground holding itself. Many scientists accept the finding and not this last step, and their view is given below.",
   "teachings": [
    {
     "source": "Bhagavad Gita 4.18",
     "teaching": "Krishna says that the one who sees inaction in action, and action in inaction, is wise among people.",
-    "link": "The verse is about how a person should act, not about tables. The lesson's science gives a small, exact picture of its second half: a book lying still is the meeting point of two forces that never stop acting."
+    "link": "The verse is about how a person should act, not about tables. The lesson's science gives a small, exact picture of its second half. A book lying still is the meeting point of two forces that never stop acting."
    },
    {
     "source": "Heraclitus of Ephesus, about 500 BCE, fragment 51 in the Diels and Kranz numbering",
-    "teaching": "He wrote that people do not understand how a thing agrees with itself while pulling apart: there is a harmony of opposite pulls, as in the bow and the lyre.",
+    "teaching": "He wrote that people do not understand how a thing can agree with itself while pulling apart. There is a harmony of opposite pulls, as in the bow and the lyre.",
     "link": "A bow keeps its shape because wood and string pull against each other. The fishing net, the bridge and the tug of war rope in this lesson stand in the same way."
    },
    {
@@ -597,7 +597,7 @@
   ],
   "other_view": {
    "who": "Physicalist scientists, and the Charvaka school of ancient India",
-   "view": "Balanced forces are a matter of adding numbers. Nothing is 'holding' or 'keeping' anything, and a table does not act. The words of doing belong to living animals with brains. The joined-up picture is true as physics, and it shows no ground beneath physics."
+   "view": "Balanced forces are a matter of adding numbers. In this view nothing is 'holding' or 'keeping' anything, and a table does not act. Words like holding and keeping are only a way of speaking. The joined-up picture is true as physics, and it shows no ground beneath physics."
   },
   "practice": {
    "title": "Feeling the floor push back",
@@ -649,7 +649,7 @@
    "Galileo Galilei, 'Dialogues Concerning Two New Sciences', 1638."
   ]
  },
- "playtest": "Written from the cards and not yet tried by any family. Untried: the falling cones test (e1), the scale under the book (e2), the magnet and card test (e3), the seven activities, the two projects, the three challenges and the card game. The numbers given for results are estimates from calculation and must be checked by doing them. These are a single cone falling 2 metres in about 1.2 to 1.8 seconds, four stacked cones taking about 0.5 to 0.7 of that time, the coins a katori or a foil boat carries, the thickness of card a magnet pulls through, and roots turning down within 6 to 24 hours. Paper weight, cone width and drop height may need changing so that a single cone takes at least 1 second. Drop from a raised arm with the tips level with a mark at 2 metres, and never from a chair. The scale test depends on the scale used, the sprouting project on fresh moong and a warm room, and the balloon activity on dry air, so it is kept out of the core path. Facts still to verify: gravity at the space station's height being about nine-tenths of that on the ground, and its speed of 28,000 kilometres per hour. Shubhanshu Shukla's flight in 2025. Voyager 1 at about 17 kilometres each second. The dates and views given for Philoponus, Ibn Sina and the Vaisheshika idea of vega, and Vaisheshika Sutra 5.1.7. A large raindrop at about 9 metres each second, a skydiver at about 200 kilometres per hour and about 20 under a parachute. The 565 kilometres per hour badminton smash of 2023. Archimedes about 250 BCE, Shen Kuo in 1088 CE, Gilbert in 1600, Thales as reported in Aristotle's On the Soul, Coulomb in 1785, Stevin's test of 1586. The 1954 muscle papers and Jean Hanson's part. A back-tooth bite of several hundred newtons, and ants carrying 10 to 50 times their own weight. The biceps joined about 4 centimetres from the elbow and the factor of about 8, and the range of 3 to 4 centimetres and 5 to 8 times for a child's arm. The gecko study of 2000 and the Wiltschko robin work. Ørsted in 1820, Maxwell in 1865, and Salam, Glashow and Weinberg. The wording credited to Brahmagupta, which reaches us partly through al-Biruni, and to Bhaskara II. Newton's remark about making no hypotheses in the 1713 edition. The 2015 detection of ripples in space and the instrument planned at Hingoli. Kallanai's date, which historians give as the 1st or 2nd century CE. Howrah Bridge opened in 1943 with riveted steel, and Bandra-Worli Sea Link in 2009. The Apollo 15 hammer and feather. The band of weaker gravity under the Indian Ocean. The magnetic pole located in 1831 and its movement of more than 2,000 kilometres, and the Deccan Traps recording a flip of the field. Bhagavad Gita 4.18, Heraclitus fragment 51 and Tao Te Ching chapter 78. How the Kochi shore nets are worked. Also to check: the weights of a one rupee coin and a steel katori used in the maths, and the figures for tower cranes. The three videos have not yet been chosen and watched. The deep truth about rest as a kept balance has not been compared with the lessons on pushes and pulls, and the source lists for this lesson are empty.",
+ "playtest": "Written from the cards and not yet tried by any family. Untried: the falling cones test (e1), the scale under the book (e2), the magnet and card test (e3), the seven activities, the two projects, the three challenges and the card game. The numbers given for results are estimates from calculation and must be checked by doing them. These are a single cone falling 2 metres in about 1.2 to 1.8 seconds, four stacked cones taking about 0.5 to 0.7 of that time, the coins a katori or a foil boat carries, the thickness of card a magnet pulls through, and roots turning down within 6 to 24 hours. Paper weight, cone width and drop height may need changing so that a single cone takes at least 1 second. Drop from a raised arm with the tips level with a mark at 2 metres, and never from a chair. The scale test depends on the scale used, the sprouting project on fresh moong and a warm room, and the balloon activity on dry air, so it is kept out of the core path. Facts still to verify: gravity at the space station's height being about nine-tenths of that on the ground, and its speed of 28,000 kilometres per hour. Shubhanshu Shukla's flight in 2025. Voyager 1 at about 17 kilometres each second. The dates and views given for Philoponus, Ibn Sina and the Vaisheshika idea of vega, and Vaisheshika Sutra 5.1.7. A large raindrop at about 9 metres each second, a skydiver at about 200 kilometres per hour and about 20 under a parachute. The 565 kilometres per hour badminton smash of 2023. Archimedes about 250 BCE, Shen Kuo in 1088 CE, Gilbert in 1600, Thales as reported in Aristotle's On the Soul, Coulomb in 1785, Stevin's test of 1586. The 1954 muscle papers and Jean Hanson's part. A back-tooth bite of several hundred newtons, and ants carrying 10 to 50 times their own weight. The biceps joined about 4 centimetres from the elbow and the factor of about 8, and the range of 3 to 4 centimetres and 5 to 8 times for a child's arm. The gecko study of 2000 and the Wiltschko robin work. Ørsted in 1820, Maxwell in 1865, and Salam, Glashow and Weinberg. The wording credited to Brahmagupta, which reaches us partly through al-Biruni, and to Bhaskara II. Newton's remark about making no hypotheses in the 1713 edition. The 2015 detection of ripples in space and the instrument planned at Hingoli. Kallanai's date, which historians give as the 1st or 2nd century CE. Howrah Bridge opened in 1943 with riveted steel, and Bandra-Worli Sea Link in 2009. The Apollo 15 hammer and feather. The band of weaker gravity under the Indian Ocean. The magnetic pole located in 1831 and its movement of more than 2,000 kilometres, and the Deccan Traps recording a flip of the field. Bhagavad Gita 4.18, Heraclitus fragment 51 and Tao Te Ching chapter 78. How the Kochi shore nets are worked. Also to check: the weights of a one rupee coin and a steel katori used in the maths, and the figures for tower cranes. The three videos have not yet been chosen and watched. The source lists for this lesson are short and need a check. Review pass: the cone times were checked by calculation (single cone about 1.2 to 1.8 seconds, four stacked about 0.55 to 0.7 of that, steady speed doubling when weight is four times) but not by a family. The one rupee coin is taken as about 4 grams, and coin weight differs between series, so the coin count of about 20 needs checking with real coins. The deep truth was rewritten to the scale and the push of a surface, because the old one repeated the lessons on gravity and springs. Still to verify by a person: the 565 kilometres per hour smash, Ibn Sina and vega, the biceps distances, the katori weight of about 70 grams, and the count of concrete blocks on a tower crane (no number is given).",
  "cards_mins": 20,
  "terms": [
   {
@@ -893,6 +893,12 @@
    "art": "A bowl of dal beside a drawing of a tangled molecule."
   },
   {
+   "term": "Energy",
+   "meaning": "What lets anything move, heat up or change. Food gives a body energy, and fuel gives a bus energy. We can measure it, but science cannot yet say what energy finally is.",
+   "example": "A child who has eaten a banana has the energy to run across the playground.",
+   "art": "A child eating a banana on the left and running on the right, joined by a curved arrow."
+  },
+  {
    "term": "Nerve",
    "meaning": "A long bundle of fibres that carries signals between the body and the brain.",
    "example": "A nerve carries the signal 'pull' to the muscle in your arm.",
@@ -933,6 +939,12 @@
    "meaning": "A region of space where a force can be felt by something placed there.",
    "example": "A magnet has a magnetic field around it. A paper clip that enters the field feels a pull.",
    "art": "A bar magnet with curved lines looping from one end to the other."
+  },
+  {
+   "term": "Time",
+   "meaning": "What a clock measures: the seconds, minutes and hours between one thing happening and another. Clocks measure it very exactly, but science cannot yet say what time finally is.",
+   "example": "A cone that falls for 1.5 seconds has taken 1.5 seconds of time, as the stopwatch shows.",
+   "art": "A phone stopwatch showing 1.5 seconds beside a paper cone in mid-fall."
   },
   {
    "term": "Structure",
@@ -1074,7 +1086,7 @@
       },
       {
        "f": "A kite held steady in the sky by a string.",
-       "b": "Weight, down. Tension in the string, down and back. Air resistance, the push of the wind, up and back. All three cancel."
+       "b": "Weight, down. Tension in the string, down and towards the flier. Wind pushing on the kite, up and away from the flier. All three cancel."
       },
       {
        "f": "A forearm holding a bottle still, with the elbow bent at a right angle.",
@@ -1228,7 +1240,7 @@
     {
      "id": "e1s1",
      "mins": 7,
-     "do": "Draw round the lid on a sheet of paper five times and cut out the five circles. Cut one straight slit from the edge of each circle to its middle. Overlap the cut edges until the cone is about 12 centimetres across the open end. That is about the width of a steel katori's rim. Tape the seam in two places. Make all five cones in exactly the same way, so that they fit inside each other.",
+     "do": "Draw round the lid on a sheet of paper five times and cut out the five circles. Cut one straight slit from the edge of each circle to its middle. Overlap the cut edges until the cone is about 12 centimetres across the open end. Check the open end with a ruler. Tape the seam in two places. Make all five cones in exactly the same way, so that they fit inside each other.",
      "say": "We need five cones that are all the same. Why do you think we must make them the same?",
      "kid": "Cut out five paper circles. Cut a slit to the middle of each one. Roll each into a cone and tape it. Make all five the same.",
      "adult": false,
@@ -1270,7 +1282,7 @@
        ]
       }
      ],
-     "parent": "A single cone usually takes between 1.2 and 1.8 seconds to fall 2 metres. Your fingers are slow at starting and stopping, but they are slow by about the same amount both times, so most of the error cancels. If the single cone lands in under 1 second, the paper is thick or the cones are small. Make new cones from thinner paper, such as a notebook sheet or a newspaper page, or use paper muffin cases. A short time is still usable, because we compare the loads with each other."
+     "parent": "A single cone usually takes about 1.2 to 1.8 seconds to fall 2 metres. Never stand on a chair or stool to drop. If nobody can reach 2 metres, use a mark at 1.5 metres for every drop. All the times will then be shorter. Your fingers are slow at starting and stopping, but they are slow by about the same amount both times, so most of the error cancels. If the single cone lands in under 1 second, the paper is thick or the cones are small. Make new cones from thinner paper, such as a notebook sheet or a newspaper page, or use paper muffin cases. A short time is still usable, because we compare the loads with each other."
     },
     {
      "id": "e1s4",
@@ -1279,7 +1291,7 @@
      "say": "Before you time the stack of four, what do you think the time will be, compared with the single cone? Write it down. Then we will see.",
      "kid": "Time two stacked cones three times, and then four stacked cones three times. Write each time.",
      "adult": false,
-     "parent": "Expect two stacked cones to take about three quarters of the single cone's time, and four stacked cones to take between half and 0.7 of it. If the four-stack lands in about a quarter of the single time, or in the same time as one, check two things. Were the cones pressed firmly into each other? Were the tips level with the mark? If your result is a little different, keep it and say so. A real result is better than a tidy one."
+     "parent": "Expect two stacked cones to take about three quarters of the single cone's time, and four stacked cones to take about 0.55 to 0.7 of it. These numbers come from a calculation, not from a family test, so your own may differ. If the four-stack lands in about a quarter of the single time, or in the same time as one, check two things. Were the cones pressed firmly into each other? Were the tips level with the mark? If your result is a little different, keep it and say so. A real result is better than a tidy one."
     },
     {
      "id": "e1s5",
@@ -1297,7 +1309,7 @@
        ]
       }
      ],
-     "parent": "A single cone usually takes about 0.7 to 0.9 seconds from 1 metre, so the second metre takes about 0.5 to 0.7 seconds. That is only a little shorter than the first metre. A stone's second metre takes less than half as long as its first. So the cone is hardly speeding up in the second metre. It has reached a steady speed."
+     "parent": "A single cone usually takes about 0.7 to 1.0 seconds from 1 metre, so the second metre takes about 0.5 to 0.8 seconds. That is only a little shorter than the first metre. A stone's second metre takes less than half as long as its first. So the cone is hardly speeding up in the second metre. It has reached a steady speed."
     },
     {
      "id": "e1s6",
@@ -1315,7 +1327,7 @@
        ]
       }
      ],
-     "parent": "A typical result is about 1.4 metres per second for one cone and about 2.3 for four stacked. So four times the weight gave only about twice the speed. The reason is that the push of the air grows faster than the speed. Double the speed and the push grows about four times. So each stack stops speeding up when the push of the air equals its weight. A stack four times heavier needs twice the speed to do that. The test does not show why the push of air grows in this way, and it does not show what happens at much greater speeds. Ask what else the child would test: a bigger cone, a flatter cone, a different height.",
+     "parent": "A calculation suggests results near 1.4 metres per second for one cone and near 2.3 for four stacked, and yours may differ. So four times the weight gave far less than four times the speed. The steady speed itself is about double. The average over 2 metres is lower, because the cone is still speeding up at the start. The reason is that the push of the air grows faster than the speed. Double the speed and the push grows about four times. So each stack stops speeding up when the push of the air equals its weight. A stack four times heavier needs twice the speed to do that. The test does not show why the push of air grows in this way, and it does not show what happens at much greater speeds. Ask what else the child would test: a bigger cone, a flatter cone, a different height.",
      "think": "If you wanted a cone to fall more slowly still, what would you change, and why?"
     }
    ]
@@ -3050,12 +3062,12 @@
       "push of the wind"
      ],
      "a": [
-      "pull of the string: down and back, along the string",
+      "pull of the string: down and towards the flier, along the string",
       "weight of the kite: straight down",
-      "push of the wind: up and back, against the kite"
+      "push of the wind: up and away from the flier, against the kite"
      ],
      "art": "A diamond-shaped kite in the sky with a string leading down to the ground and three empty label lines.",
-     "why": "The kite is held steady, so the three forces balance. The string and the weight both pull partly downward, and the wind pushes up and back to cancel them.",
+     "why": "The kite is held steady, so the three forces balance. The string and the weight both pull partly downward, and the wind pushes up and away from the flier to cancel them.",
      "outcome": 3
     }
    ]
@@ -3174,7 +3186,7 @@
     },
     {
      "t": "write",
-     "p": "Four cones fell twice as fast as one. A friend expected four times as fast. Explain the mistake.",
+     "p": "Four cones fell far less than four times as fast as one. A friend expected four times as fast. Explain the mistake.",
      "lines": 3,
      "a": "The friend forgets the push of the air. A cone stops speeding up when the push of the air equals its weight. The push grows faster than the speed: twice the speed gives about four times the push. So four times the weight is matched at about twice the speed.",
      "why": "A strong answer says the push of the air grows faster than the speed, and uses the idea of a steady speed.",
@@ -3364,7 +3376,7 @@
        "says": "A root tip senses gravity, water, touch and light together, and then chooses where to grow. That is a kind of thinking."
       },
       {
-       "who": "Plant physiologists who call it a tropism",
+       "who": "Plant physiologists who call this a tropism",
        "says": "A tropism is a built-in response. Cells in the root sense gravity and growth chemicals make one side grow faster, with no choosing."
       }
      ],
@@ -3376,8 +3388,8 @@
     {
      "t": "draw",
      "p": "Draw the forces on a person leaning on a wall with straight arms, not slipping. Use four arrows.",
-     "a": "A person leaning at a slant, with weight down and a floor push up. Friction from the floor points away from the wall, and the wall pushes sideways. Up equals down, and the two sideways forces are equal.",
-     "why": "The person is still, so each pair of forces cancels. Friction from the floor must hold the feet from sliding away.",
+     "a": "A person leaning at a slant, with weight down and a floor push up. Friction from the floor points towards the wall, and the wall pushes back away from the wall. Up equals down, and the two sideways forces are equal.",
+     "why": "The person is still, so each pair of forces cancels. Friction from the floor must hold the feet from sliding away from the wall.",
      "outcome": 3,
      "art": "A blank space with a stick person leaning against a wall, hands on the wall, feet on the floor."
     },
@@ -3530,7 +3542,7 @@
     "10 newtons",
     "0 newtons, because the bag is not moving"
    ],
-   "a": 1,
+   "a": 0,
    "why": "The bag is still, so the forces are balanced and the down pull must equal the up pull, which is 20 newtons. Choosing 0 treats 'not moving' as 'no force'. Choosing 10 has no reason behind it.",
    "outcome": 2
   },
@@ -3585,7 +3597,7 @@
   },
   {
    "t": "mcq",
-   "p": "Four paper cones pressed together fall at about twice the speed of one cone, not four times. Why?",
+   "p": "Four paper cones pressed together fall far less than four times as fast as one cone. Why?",
    "opts": [
     "Cones cannot fall faster than one cone",
     "The air pushes four times harder on the stack at any speed",
@@ -3661,8 +3673,8 @@
   "A shop's old balance scale, the tarazu, is a lever with equal arms. A kilogram weight on one pan is balanced by 1 kilogram of rice on the other, because they are at equal distances from the middle. A parent can look at one in a local shop and ask how it would change if the arms were unequal.",
   "Shoes, tyres and cricket bats are made with grooves, patterns or rough rubber. These raise friction so that the shoe grips the ground and the tyre grips the road. The tyres of a bus have deep grooves that push water away so that the rubber, not a film of water, meets the road.",
   "A life jacket and a ship's hull work through upthrust. A hollow hull pushes aside a huge weight of water. Ships have a painted line on the side, the load line, which shows how low they may sit in the water. Look for it on a picture of a ship.",
-  "A compass needle turns because the Earth is a huge, weak magnet. Sailors used it for navigation for many centuries. In 1088 CE the Chinese scholar Shen Kuo described a magnetised needle that points a little off true north, which is why compasses need correcting.",
-  "A tower crane at a building site has a long arm in front and a heavy block of concrete at the back. The block balances the load, as the stones balance the net at Fort Kochi. Look for the block when you pass a building site."
+  "A compass needle turns because the Earth is a huge, weak magnet. Sailors used it for navigation for many centuries. About 1088 CE the Chinese scholar Shen Kuo described a magnetised needle that points a little off true north, which is why compasses need correcting.",
+  "A tower crane at a building site has a long arm in front and heavy concrete blocks at the back. The blocks balance the load, as the stones balance the net at Fort Kochi. Look for the blocks when you pass a building site."
  ],
  "spotted": [
   {
@@ -3742,8 +3754,8 @@
    "a": "'I can't let go of you. We have so much friction.'"
   },
   {
-   "j": "What did the pulley say to the rope that said it could only pull?",
-   "a": "'No problem. I will turn you round.'"
+   "j": "Why was the pulley such a good listener?",
+   "a": "It always turned things round."
   }
  ],
  "maths": [
@@ -3775,9 +3787,9 @@
    "why_maths": "A lever balances when the products on both sides are equal, so finding a missing number is solving a balance, exactly the maths of the lever."
   },
   {
-   "problem": "A steel katori pushes aside 150 millilitres of water when it is full to the brim without sinking. One millilitre of water weighs about 0.01 newtons, and the katori weighs 0.7 newtons. How many 1 rupee coins, each weighing about 0.05 newtons, can it carry before it sinks?",
-   "answer": "About 16 coins.",
-   "explain": "The most upthrust is 150 × 0.01 = 1.5 newtons. The katori itself uses 0.7, so 1.5 − 0.7 = 0.8 newtons is left for coins. 0.8 ÷ 0.05 = 16 coins.",
+   "problem": "A steel katori pushes aside 150 millilitres of water when it is full to the brim without sinking. One millilitre of water weighs about 0.01 newtons, and the katori weighs 0.7 newtons. How many 1 rupee coins, each weighing about 0.04 newtons (about 4 grams, which differs a little between coin series), can it carry before it sinks?",
+   "answer": "About 20 coins.",
+   "explain": "The most upthrust is 150 × 0.01 = 1.5 newtons. The katori itself uses 0.7, so 1.5 − 0.7 = 0.8 newtons is left for coins. 0.8 ÷ 0.04 = 20 coins.",
    "math_unit": "math.weight-capacity.weight.L4",
    "how": "a3",
    "context": "This problem works out how many coins the katori in the floating activity should carry. It uses the rule that upthrust equals the weight of the water pushed aside.",
@@ -3865,7 +3877,7 @@
    "check": "Found by YouTube search: \"Apollo 15 Hammer-Feather Drop\" by NASA Solar System. Title checked automatically; a parent may still preview it."
   },
   {
-   "title": "Terminal velocity explained with a falling object",
+   "title": "Terminal speed explained with a falling object",
    "channel": "to be matched",
    "mins": 5,
    "youtube": "k3AYX5INJ_4",

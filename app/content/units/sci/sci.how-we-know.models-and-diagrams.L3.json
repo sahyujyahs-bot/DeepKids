@@ -24,7 +24,7 @@
   {
    "concept": "A model shows an object or an idea in a clear way",
    "status": "defined",
-   "definition": "A model is something made to stand for a real object, a process or an idea, so that we can see it and think about it clearly.",
+   "definition": "A model is something made to stand for a real object, a process or an idea, It helps us see the real thing and think about it clearly.",
    "description": "Some things are hard to study directly. The Earth is too big to see all at once. A germ is too small. A mountain growing is too slow. Lightning is too fast and too dangerous. An idea, such as how sound travels, cannot be seen at all. So people make something that stands for the real thing and is easy to look at. That is a model. A globe stands for the Earth. A plastic skeleton stands for the bones inside you. A drawing of arrows stands for moving air. A model is not the real thing. It is a tool for thinking about the real thing.",
    "examples": [
     "A globe on a teacher's table is a model of the Earth.",
@@ -100,7 +100,7 @@
      "explanation": "A diagram is clearer than a picture for learning, because everything that does not matter has been taken away."
     },
     {
-     "who": "Field naturalists, such as the bird expert Salim Ali",
+     "who": "Bird watchers and other field naturalists",
      "explanation": "A clean drawing shows the perfect bird. The real bird in the bush is half hidden, wet or young. To know a living being you need pictures, notes and many hours of watching as well as the diagram."
     },
     {
@@ -133,6 +133,14 @@
     {
      "who": "Map-makers today",
      "explanation": "No flat map can keep sizes, shapes, distances and directions all true at once. This was proved by the mathematician Carl Friedrich Gauss in 1827. So you pick the map for the job."
+    },
+    {
+     "who": "Navigators of the Marshall Islands, in the Pacific Ocean",
+     "explanation": "Their stick charts are maps of the sea, not of the land. Bent palm ribs show how ocean swells curve round the islands, and a shell marks each island. The navigators learned the charts on land and did not carry them on voyages. At sea they felt the real swells through the canoe, and used the chart in their memory."
+    },
+    {
+     "who": "Pacific navigators, such as Mau Piailug of Satawal island in 1976",
+     "explanation": "He sailed the voyaging canoe Hokule'a from Hawaii to Tahiti, more than 4,000 kilometres, with no map, compass or other instrument. His model was a star compass, a ring of places where stars rise and set, which he carried in his memory. Voyagers who steered by such models, including the Polynesian ancestors of the Maori, settled the islands of the Pacific."
     }
    ],
    "art": "An orange with a face of continents drawn on it, beside its peel flattened and torn, beside a rectangular world map with Greenland drawn huge.",
@@ -141,10 +149,10 @@
   {
    "concept": "Some models are made of numbers and run inside computers",
    "status": "defined",
-   "definition": "A computer model is a set of rules and numbers that stands for a real process, such as the weather, and is worked out by a computer.",
+   "definition": "A computer model is a set of rules and numbers that stands for a real process, such as the weather. A computer works it out.",
    "description": "A model does not have to be a thing or a drawing. It can be a rule. 'Distance equals speed multiplied by time' is a model of a journey. A weather forecast comes from a very large model of this kind. The air over India is divided into boxes. For each box the computer holds numbers for heat, wind and wetness. Rules from science say how each box changes the boxes beside it. The computer steps the numbers forward, hour by hour, and out comes tomorrow's weather. The model leaves out a great deal, so the forecast is a likelihood and not a promise.",
    "examples": [
-    "In October 2013 the India Meteorological Department's models predicted the path of Cyclone Phailin days ahead. About ten lakh people in Odisha and Andhra Pradesh moved to safety. A cyclone of similar strength in 1999, before such models, killed about 10,000 people in Odisha.",
+    "In October 2013 forecasters at the India Meteorological Department used computer models to say, days ahead, where Cyclone Phailin would cross the coast. About ten lakh people in Odisha and Andhra Pradesh moved to safety, and fewer than fifty died. In 1999 a cyclone struck Odisha when forecasts and warnings were not as good, and about 10,000 people died.",
     "A recipe that says 'one tumbler of rice needs two tumblers of water' is a number model of cooking rice.",
     "Doctors use number models to work out how fast an illness might spread through a city."
    ],
@@ -159,9 +167,9 @@
    "definition": "An analogy is a comparison that explains something unfamiliar by saying it is like something familiar in one way.",
    "description": "You can build a model out of words. 'The heart is like a pump.' 'Electricity in a wire is like water in a pipe.' A comparison like this is called an analogy. It lets you carry what you know about one thing over to another. But an analogy is right in some ways and wrong in others, like every model. Cut a pipe and water spills on the floor. Cut a wire and no electricity pours out. So with every 'this is like that', ask two things. In what way is it like? And where does the likeness stop?",
    "examples": [
-    "'A seed is like a packed tiffin box.' True: the seed holds a food store for the young plant. Not true: nobody packed the seed from outside.",
+    "'A seed is like a packed tiffin box.' True: the seed holds a food store for the young plant. Not true: no cook packs a seed. The parent plant makes the food store, and the young plant inside is alive and grows.",
     "'The Earth is like a spinning top.' True: both spin about a line through the middle. Not true: nobody set the Earth spinning with a string.",
-    "'A nerve is like a telephone wire.' True: both carry signals. Not true: a nerve is alive and passes the signal along by their own chemistry."
+    "'A nerve is like a telephone wire.' True: both carry signals. Not true: a nerve is made of living cells, which pass the signal along by their own chemistry."
    ],
    "perspectives": [
     {
@@ -244,7 +252,7 @@
    "definition": "A scale model keeps every size and distance in the same proportion to the real thing. Some real things are spread out so widely that a true scale model will not fit on a page.",
    "description": "Textbook diagrams of the solar system show the Sun and the planets in a neat row, close together. Let us make that model true to scale. Let the Sun be a ball 22 centimetres across, about the size of a football. Then the Earth is a mustard seed 2 millimetres across. The seed must sit about 24 metres from the ball, which is two bus lengths. Neptune is a peppercorn about 700 metres away. No page can hold that. So the diagram cheats on distance to keep everything in view. Honest diagrams say so, with the words 'not to scale'.",
    "examples": [
-    "A diagram of an atom draws the centre large. If the centre of an atom were a grain of sand at the middle of a cricket ground, the edge of the atom would be near the boundary rope.",
+    "A diagram of an atom draws the centre large. Picture a grain of sand at the middle of a cricket ground. That is the centre of a light atom, and the whole atom reaches almost to the boundary rope.",
     "A map of India in an atlas draws the Ganga as a line you can see. At true scale the river would be far thinner than a hair on that page."
    ],
    "perspectives": [],
@@ -308,7 +316,7 @@
    "concept": "A diagram can be wrong and still be copied for years",
    "status": "defined",
    "definition": "A diagram looks certain because its lines are clean. It is only as true as the evidence behind it.",
-   "description": "Many school books once had a diagram of the tongue divided into zones: sweet at the tip, bitter at the back, sour and salty at the sides. It is wrong. Every part of the tongue that has taste buds can sense every taste. The mistake began when a German study of 1901 by David Hänig, which found only very small differences, was redrawn in a book of 1942 as a map with firm borders. The neat map was copied from book to book. In 1974 Virginia Collings tested it again and showed that the differences are tiny. You can test it too, with a grain of sugar on the back of your tongue.",
+   "description": "Many school books once had a diagram of the tongue divided into zones. Sweet was at the tip, bitter at the back, and sour and salty at the sides. It is wrong. Every part of the tongue that has taste buds can sense every taste. The mistake began in 1901, when a German scientist, David Hänig, found only very small differences between parts of the tongue. In 1942 a book redrew those small differences as a map with firm borders. The neat map was copied from book to book. In 1974 Virginia Collings tested it again and showed that the differences are tiny. You can test it too. Put a few grains of sugar on the back of your tongue and see what you taste.",
    "examples": [
     "A picture of an ape slowly straightening into a walking human suggests that living beings change in one straight line towards us. They do not. The family of living beings branches like a banyan.",
     "Diagrams often draw blood in veins as blue. Blood is always red, darker or brighter."
@@ -324,7 +332,7 @@
    "definition": "A test model is a small, cheap copy of something that is tried out first, so that mistakes are found before the real thing is built.",
    "description": "A real bridge, dam or rocket costs a great deal, and a mistake can kill. So engineers build a small model and test that. A model aeroplane is held in a tunnel while a fan blows air past, and instruments measure the push of the air. A model river, with real water and sand, shows where a flood would break the bank. Today many of these tests are first run as number models inside a computer. A physical model is then built to check the computer.",
    "examples": [
-    "In 1901 Wilbur and Orville Wright built a wind tunnel from a wooden box and a fan. They tested about 200 small wing shapes before building the aeroplane that flew in 1903.",
+    "In 1901 Wilbur and Orville Wright built a wind tunnel from a wooden box and a fan. They tested some two hundred small wing shapes before building the aeroplane that flew in 1903.",
     "The Central Water and Power Research Station in Pune, founded in 1916, builds models of rivers, dams and harbours that are as large as playgrounds.",
     "Small models of India's rockets and aircraft are tested in wind tunnels in Bengaluru before the real ones are built.",
     "A tailor cuts a paper pattern, a flat model of the blouse, before cutting the silk."
@@ -366,7 +374,7 @@
    "definition": "Scientists and philosophers disagree about whether a successful model describes the world as it really is or is only a tool that works.",
    "description": "The atom model works. The Sun-centred model works. Does that mean the world really is the way these models say? Or only that the models are handy for getting right answers? This is one of the oldest arguments in science, and it is not settled. Remember Ptolemy, whose model worked for 1,400 years and was wrong. Remember also the atom, which began as a model and was later photographed. One model turned out to be a mere tool. The other turned out to be a real thing. Nobody has a sure way to tell in advance which kind a new model is.",
    "examples": [
-    "A weather forecast of '70 in 100 chance of rain' is useful. It makes no claim that the sky contains a 70.",
+    "A weather forecast of '70 per cent chance of rain' is useful. It makes no claim that the sky contains a 70.",
     "A map is useful for finding the bus stand, and the bus stand is really there."
    ],
    "perspectives": [
@@ -394,10 +402,10 @@
    "concept": "The world you see may be a model that your body builds",
    "status": "idea",
    "definition": "Many scientists think that seeing is not like a camera taking a picture. The brain builds a best guess about what is out there and checks the guess against signals from the eyes.",
-   "description": "Each of your eyes has a small spot at the back where the nerve leaves. That spot has no light sensors, so it sees nothing. Yet you never notice a hole in the world. Why not? The usual explanation is that the brain fills the gap with a guess made from what lies around it. If that is right, part of what you see at this moment is not coming in through the eye. It is being supplied. Some scientists go further and say all seeing works like this: the brain keeps a running model of the world and uses the eyes to correct it. Others disagree. What seeing finally is, and why there is any inner experience at all, science cannot yet say.",
+   "description": "Each of your eyes has a small spot at the back where the nerve leaves. That spot has no light sensors, so it sees nothing. Yet you never notice a hole in the world. Why not? The usual explanation is that the brain fills the gap with a guess made from what lies around it. If that is right, part of what you see at this moment is not coming in through the eye. It is being supplied. Some scientists go further. They say all seeing works like this: the brain keeps a running model of the world and uses the eyes to correct it. Others disagree. What seeing finally is, and why there is any inner experience at all, science cannot yet say.",
    "examples": [
-    "The blind spot was found by Edme Mariotte in France in 1660. You can find your own with a dot and a cross drawn 10 centimetres apart on paper.",
-    "In dim light a coil of rope can look like a snake. Your eyes received the same light both times. What changed was the guess.",
+    "The blind spot was found by Edme Mariotte in France in 1660. You can find your own with a dot and a cross drawn 10 centimetres apart on paper, as in the blind-spot test.",
+    "In dim light a coil of rope can look like a snake. When the light comes on, the rope is only a rope. The rope did not change. What changed was how much your brain had to guess.",
     "A bee sees ultraviolet patterns on a flower that you cannot see. Her world and yours are built from different signals."
    ],
    "perspectives": [
@@ -407,11 +415,11 @@
     },
     {
      "who": "James Gibson, an American scientist of seeing, in 1979",
-     "explanation": "He argued that there is no inner model. The light arriving at a moving animal already holds all the information needed, and the animal picks it up directly."
+     "explanation": "He argued that there is no inner model. The light arriving at a moving animal already holds all the information needed, and the moving animal picks up that information directly."
     },
     {
      "who": "Gaudapada, in the Mandukya Karika, chapter 2, verses 17 and 18, about the 7th century CE",
-     "explanation": "He writes that a rope not seen clearly in the dark is imagined to be a snake, and when the rope is known the snake is gone. He uses this to say that we lay our own ideas over what is really there."
+     "explanation": "He writes that a rope, not seen clearly in the dark, is imagined to be a snake. When the rope is known, the snake is gone. He uses this to say that we lay our own ideas over what is really there."
     }
    ],
    "art": "A side view of an eye with the blind spot marked, and beside it a card with a cross and a dot for the blind-spot test.",
@@ -423,7 +431,7 @@
    "definition": "To judge a model, ask what it shows, what it leaves out, and where it stops being like the real thing.",
    "description": "You now have a way to read any model, diagram, map or comparison. First: what does this model show clearly? Second: what has it left out, and does that matter for my question? Third: where does it break, which means where would it give me a wrong answer? Try it on a globe. It shows the shapes and places of the lands. It leaves out height, weather and life. It breaks if you use it to guess how rough the Earth feels, because the globe is smooth and the Himalayas are not. A person who asks these three questions is hard to fool with a neat diagram.",
    "examples": [
-    "A food pyramid on a packet shows which foods to eat more of. It leaves out who paid for the packet.",
+    "A food pyramid on a packet shows which foods to eat more of. It leaves out how much food your own body needs, which depends on your age and your work.",
     "A toy stethoscope shows the shape of a doctor's tool. It breaks if you try to hear a heartbeat with it.",
     "A diagram of the water cycle shows one drop going round one loop. It leaves out that a drop may wait in the deep sea for hundreds of years."
    ],
@@ -435,16 +443,16 @@
  ],
  "agreed": [
   {
-   "text": "People were drawing accurate maps to scale thousands of years ago.",
-   "evidence": "A clay tablet from Nippur in ancient Iraq, made about 1500 BCE, shows the city's walls, canals and temple. When archaeologists dug at Nippur they found that the tablet's layout matched the ruins closely."
+   "text": "People drew careful maps of places thousands of years ago.",
+   "evidence": "A clay tablet from Nippur in ancient Iraq, made about 1500 BCE, shows the city's walls, canals and temple. Archaeologists who dug at Nippur found that the layout on the tablet matched the ruins closely."
   },
   {
    "text": "Building a physical model can lead to a discovery that measurements alone did not give.",
-   "evidence": "In 1953 James Watson and Francis Crick fitted metal model pieces together until the model agreed with the X-ray measurements of Rosalind Franklin and Raymond Gosling. Brenda Maddox tells this in her 2002 book about Franklin. Their first model of 1951, with three strands, was wrong, and it was a test against the measurements that showed it."
+   "evidence": "In 1953 James Watson and Francis Crick built a metal model of DNA and fitted its pieces together until the model agreed with the X-ray measurements of Rosalind Franklin and Raymond Gosling. Their first model of 1951 had three strands and was wrong. Franklin, who saw it, pointed out its flaws. Brenda Maddox tells this in her 2002 book about Franklin."
   },
   {
    "text": "People understand and remember an explanation better when they draw their own diagram of it.",
-   "evidence": "In 2011 Shaaron Ainsworth, Vaughan Prain and Russell Tytler gathered classroom studies in the journal Science. Children who drew what they thought was happening, including the parts they could not see, reasoned better than children who only read or copied."
+   "evidence": "In 2011 Shaaron Ainsworth, Vaughan Prain and Russell Tytler wrote a review of classroom studies in the journal Science. They found that children who drew what they thought was happening, including the parts they could not see, often reasoned better than children who only read or copied."
   },
   {
    "text": "Honeybees who watch a dance fly in the direction and to the distance that the dance shows.",
@@ -455,7 +463,7 @@
   {
    "claim": "A model that only predicts, without explaining why, is good enough for science.",
    "who": "Some builders of artificial intelligence weather models, since about 2022",
-   "for": "Computer programs trained on forty years of past weather now forecast several days ahead about as well as the models built from the rules of physics, and far faster. They contain no rules about air or heat.",
+   "for": "Computer programs trained on forty years of past weather now forecast several days ahead about as well as the models built from the rules of physics. They are far faster. They contain no rules about air or heat.",
    "against": "Many scientists reply that a model you cannot look inside may fail without warning when the world changes, as the climate is doing. Ptolemy's circles also predicted well without being right.",
    "status": "debated",
    "context": "This is a live argument among scientists about what a model is for: to predict, or also to understand."
@@ -575,7 +583,7 @@
   ]
  },
  "how_we_found_out": {
-  "story": "In 1781 William Herschel found a new planet, Uranus. By the 1820s Uranus was not where Newton's model of gravity said it should be, and its path kept drifting away from the sums. People had two ideas. Either Newton's law fails far from the Sun, or an unseen planet is pulling Uranus. Most trusted Newton, because his law had worked everywhere else. In 1845 and 1846 John Couch Adams in England and Urbain Le Verrier in France each worked out where such a planet must be. On 23 September 1846 Johann Galle and his student Heinrich d'Arrest looked at Berlin's sky where Le Verrier said, and found Neptune within about one degree. A model had pointed to a world nobody had seen. Then Le Verrier tried the same move on a small oddity in Mercury's path. He predicted a planet, Vulcan, and nobody ever found it. In 1915 Albert Einstein showed that his new model of gravity explained Mercury's path with no new planet at all.",
+  "story": "In 1781 William Herschel found a new planet, Uranus. By the 1820s Uranus was not where Newton's model of gravity said it should be, and its path kept drifting from the sums. People had two ideas. Either Newton's law fails far from the Sun, or an unseen planet is pulling Uranus. Most trusted Newton, because his law had worked everywhere else. In 1845 and 1846 John Couch Adams in England and Urbain Le Verrier in France each worked out where such a planet must be. On 23 September 1846 Johann Galle and his student Heinrich d'Arrest searched Berlin's sky where Le Verrier had said, and found Neptune within about one degree of that place. A model had pointed to a world nobody had seen. Then, in 1859, Le Verrier tried the same move on a small oddity in Mercury's path. He predicted a planet, Vulcan, and nobody ever found it. In 1915 Albert Einstein showed that his new model of gravity explained Mercury's path with no new planet at all.",
   "who": "William Herschel, John Couch Adams, Urbain Le Verrier, Johann Galle, Heinrich d'Arrest, Albert Einstein",
   "when": "1781 to 1915",
   "wrong_idea": "People believed that when a model's answer does not match what we see, the same repair always works: add something unseen. For Uranus this was right, and a new planet was found. For Mercury the same repair was wrong, and a whole new model of gravity was needed. Both guesses were reasonable until they were tested."
@@ -583,20 +591,20 @@
  "roots": {
   "context": "You have learnt that every model keeps a little and leaves out a lot. Now we ask what that tells us about our own seeing, about life and about this world.",
   "deep_truth": {
-   "truth": "Each of your eyes has a spot that sees nothing. You found it with a dot and a cross. Yet you have never seen a hole in the world, because something fills the gap with a likely guess. So part of what you see is supplied and not received. Plain seeing already has things left out and things put in, as every model does.",
+   "truth": "Each of your eyes has a spot that sees nothing. You found it with a dot and a cross. Yet you have never seen a hole in the world, because the brain fills the gap with a likely guess. So part of what you see is supplied and not received. Plain seeing already has things left out and things put in, as every model does.",
    "habit": "We say 'I saw it with my own eyes' as if seeing were the thing itself, with nothing chosen and nothing added. That habit makes us treat our own view as the world and other views as mistakes.",
-   "evidence": "In the blind-spot test, the dot vanished at about 30 centimetres from the eye, and the paper looked whole where the dot had been. Nothing in the eye reported that white paper. In the sealed box test, the child also built a confident picture of something never seen."
+   "evidence": "In the blind-spot test, the dot vanished at about 30 to 40 centimetres from the eye, and the paper looked whole where the dot had been. Nothing in the eye reported that white paper. In the sealed box test, the child also built a confident picture of something never seen."
   },
   "three": {
    "who_am_i": "You carry a model of yourself: your name, what you are good at, what you are like. It is useful, and it leaves most of you out, as a globe leaves out the rain. Knowing that it is a model lets you ask what is there before any model is made.",
-   "what_is_life": "A bee, a bat and a child each build a world from different signals, and each world is enough to live by. Every living being is a maker of models. Understanding this, you stop asking which being sees correctly and start asking what each one's seeing is for.",
+   "what_is_life": "A bee, a bat and a child each build a world from different signals, and each world is enough to live by. In that sense every living being makes models. Understanding this, you stop asking which being sees correctly and start asking what each one's seeing is for.",
    "what_is_this_world": "The Earth has a globe, a map and a weather model, and none of them is the Earth. The same is true of our best science. The world is what all the models are about, and it is more than any of them holds."
   },
-  "thread": "This lesson showed that leaving things out is how understanding works. A globe leaves out the rain, a diagram leaves out the shadows, and your eye leaves out a patch and covers the gap. That is not a fault to fix. It does mean that what we call 'the world' is always the world as shaped by a viewer. Consciousness is the ground in which every view arises, the bee's and the child's alike. The views are many and partial, and the ground they arise in is one. Many scientists stop before this last step, and their view is given below.",
+  "thread": "This lesson showed that leaving things out is how understanding works. A globe leaves out the rain, a diagram leaves out the shadows, and your eye leaves out a patch and covers the gap. That is not a fault to fix. It does mean that what we call 'the world' is always the world as shaped by a viewer. Some traditions go one step further. They say that awareness is the ground in which every view arises, the bee's and the child's alike: the views are many and partial, and the ground they arise in is one. Many scientists stop before this last step, and their view is given below.",
   "teachings": [
    {
     "source": "Tao Te Ching, chapter 1",
-    "teaching": "Laozi's book opens: the way that can be spoken of is not the lasting way, and the name that can be named is not the lasting name.",
+    "teaching": "Laozi's book opens with a warning. The way that can be spoken of is not the lasting way. The name that can be named is not the lasting name.",
     "link": "A name is a small model. The verse says that whatever can be put into a name or a description has already left the whole behind. The lesson found the same about maps and diagrams, by measuring what a globe leaves out."
    },
    {
@@ -616,7 +624,7 @@
     "status": "settled"
    },
    {
-    "text": "The brain may work chiefly by predicting what the senses will report and correcting its predictions. This idea, called predictive processing, is supported by many experiments and is not yet agreed.",
+    "text": "Some scientists think the brain works mainly by predicting what the senses will report, and then correcting the prediction. This idea is called predictive processing. Many experiments support it, but it is not yet agreed.",
     "status": "debated"
    }
   ],
@@ -652,7 +660,7 @@
   },
   {
    "q": "Can a computer model that predicts well, but cannot be looked inside, count as understanding?",
-   "why_open": "New weather models trained only on past weather forecast as well as models built from the rules of physics. Scientists disagree about whether prediction without explanation is knowledge, and about when such a model can be trusted."
+   "why_open": "Some new weather models learn only from past weather, with no rules of physics. They forecast about as well as the physics models. Scientists disagree on two things. Is a forecast with no explanation real knowledge? And when can such a model be trusted?"
   },
   {
    "q": "What is it like to be a bee following a dance?",
@@ -859,7 +867,7 @@
   },
   {
    "term": "Atom",
-   "meaning": "A particle so small that you cannot see it, which all things are built from. A full stop on this page is as wide as a few hundred thousand atoms in a row.",
+   "meaning": "A particle so small that you cannot see it, which all things are built from. A full stop on this page is about as wide as a million atoms in a row.",
    "example": "A single grain of salt holds far more atoms than anyone could count in a whole life.",
    "art": "A grain of salt with a magnified circle showing small balls."
   },
@@ -946,6 +954,18 @@
    "meaning": "The real place that a map or model is about, as against the map itself.",
    "example": "The street outside your gate is the territory, and the drawing of it on paper is the map.",
    "art": "A real street on one side and a drawing of it on the other."
+  },
+  {
+   "term": "Pulse",
+   "meaning": "The beat you can feel in your wrist or neck each time your heart pushes blood along. Counting the beats in a minute tells you how fast the heart is going.",
+   "example": "After you run, your pulse is faster than when you sit still.",
+   "art": "A child's two fingers resting on the inside of a wrist, with small beat marks beside them."
+  },
+  {
+   "term": "Cyclone",
+   "meaning": "A huge spinning storm with strong wind and heavy rain, which forms over warm sea and can flood the coast.",
+   "example": "A cyclone that crosses the coast of Odisha can blow down houses and flood villages.",
+   "art": "A swirl of cloud over a sea, with an arrow showing where it will cross the coast."
   }
  ],
  "experiments": [
@@ -1070,7 +1090,7 @@
        ]
       }
      ],
-     "parent": "A good test is one where the drawing makes a clear prediction that could turn out wrong. Help the child pick a tilt that the drawing speaks about, for example 'tilt towards the far corner from the gap, then slowly towards the other half'."
+     "parent": "A good test is one where the drawing makes a clear prediction that could turn out wrong. Help the child pick a tilt that the drawing speaks about. For example: tilt towards the far corner from the gap, then slowly towards the other half."
     },
     {
      "id": "s5",
@@ -1158,7 +1178,7 @@
    "mins": 20,
    "days": 1,
    "question": "Can a dot in front of you vanish while your eye is open and the dot is still there?",
-   "predict": "Before you start, guess. If you look hard at a cross, will a dot 10 centimetres to the side stay in view as you move the paper closer? Say why you think so.",
+   "predict": "Before you start, guess. You will stare only at the cross while the paper moves closer. Will a dot 10 centimetres to the side stay in view? Say why you think so.",
    "fair_test": "The same eye looks at the cross every time, and the other eye stays covered. The paper moves slowly towards the face and then away, always at the same pace. The test is done three times with each of two sheets, one blank and one ruled, because one try can be spoiled by a wandering eye. The head stays still and the eye stays on the cross.",
    "results_table": [
     "Sheet (blank or ruled)",
@@ -1240,7 +1260,7 @@
        ]
       }
      ],
-     "parent": "The dot usually vanishes at about 30 to 40 centimetres from the eye. If it does not vanish, keep the eye on the cross and move the paper more slowly. Check that the dot is on the same side as the open eye. If the left eye is covered, the dot is to the right of the cross. A very small child may need help to keep still. Expect most children to succeed in three or four tries."
+     "parent": "The dot usually vanishes at about 30 to 40 centimetres from the eye. If it does not vanish, keep the eye on the cross and move the paper more slowly. Check that the dot is on the same side as the open eye. If the left eye is covered, the dot is to the right of the cross. A very small child may need help to keep still. Expect most children to succeed in three or four tries. The distance is about 3.5 times the gap between the cross and the dot, so a longer gap makes the dot vanish farther away. Move the paper slowly and keep it from touching the face."
     },
     {
      "id": "s4",
@@ -1288,7 +1308,7 @@
    "title": "Torch and orange: use a model to explain day and night, then to predict the midnight Sun",
    "mins": 25,
    "days": 1,
-   "question": "Can a torch and an orange explain why day and night happen, and tell us what happens in the far north, a place we have never seen?",
+   "question": "Can a torch and an orange explain why day and night happen? Can they also tell us what happens in the far north, a place we have never seen?",
    "predict": "Before you tilt the orange, guess. If the orange leans towards the torch, will a dot right at the top ever go dark as the orange turns? Say why you think so.",
    "fair_test": "The torch stays in one place, at the same height as the middle of the orange, about 50 centimetres away. The room is as dark as you can make it. The orange turns at the same slow pace each time, three full turns for each lean. Only one thing changes between tests: the lean of the pencil, which is straight up, leaning towards the torch, or leaning away from it.",
    "results_table": [
@@ -1324,7 +1344,7 @@
     }
    ],
    "record": "Fill in the table for the three leans. Draw the orange, the torch and the pencil for each lean, and shade the lit half. Write one sentence each for what you think, what you saw and why.",
-   "context": "In this experiment you make a model of the Earth from an orange and use a torch for the Sun. First you use it to explain day and night. Then you use it to predict what happens in the far north, to find out if the model can tell you what you did not already know.",
+   "context": "Then you use it to predict what happens in the far north. This shows if the model can tell you what you did not already know.",
    "setup": [
     {
      "art": "An orange with a pencil pushed straight through it from top to bottom, a small ring drawn round the top end and a dot drawn near the middle.",
@@ -1850,7 +1870,7 @@
        ]
       }
      ],
-     "parent": "A child's resting pulse is usually 70 to 100 beats a minute and goes up to 120 to 160 after exercise. A pump that speeds itself up and slows itself down when the body needs it is not like a hand pump. Use a different finger from the thumb, because the thumb has its own pulse."
+     "parent": "A child's resting pulse is usually 70 to 100 beats a minute and goes up to 120 to 160 after exercise. A pump that speeds itself up and slows itself down when the body needs it is not like a hand pump. Press with two fingers and not the thumb, because the thumb has its own pulse. Stop the star jumps if your child feels dizzy or short of breath. A child with a heart or breathing problem should skip them and only count the resting pulse."
     },
     {
      "id": "a4s3",
@@ -1879,7 +1899,7 @@
    "title": "Peel an orange: why a flat map must stretch",
    "mins": 15,
    "days": 1,
-   "context": "In this activity you draw on an orange and peel it to see why a flat map of the round Earth must stretch or tear some part.",
+   "context": "In this activity you draw on an orange and peel it. You will see why a flat map of the round Earth must stretch or tear some part.",
    "materials": [
     {
      "item": "an orange or any round fruit with a loose skin",
@@ -2241,13 +2261,13 @@
     }
    ],
    "general": [
-    "Glue string for the walls and use a rough patch of sandpaper for the floor of the corridor, so that the walls and the route feel different.",
+    "Glue string for the walls. Use a rough patch of sandpaper for the floor of the corridor, so that the walls and the route feel different.",
     "Use a raised line for the way and a different patch for each room, with a key made of the same patches in a corner.",
     "Mark the doors by leaving a gap in the string wall and putting a bead in the gap."
    ],
    "creative": [
-    "Use a different smell for each room. Put a dab of cardamom on cotton for the kitchen and a dab of coconut oil on cloth for the bedroom. Then the reader's nose helps their fingers.",
-    "Make the map out of a cloth that folds, so that it can be carried and a corridor can be pulled out to be felt in full length.",
+    "Use a different smell for each room. Put a dab of cardamom on cotton for the kitchen and a dab of coconut oil on cloth for the bedroom. Then the reader's nose helps their fingers. Check first that nobody at home is allergic to the smells.",
+    "Make the map out of a cloth that folds, so that it can be carried. A corridor can then be pulled out and felt in its full length.",
     "Add small bells or a rattle of dal in a sealed packet at the door, so that the reader can feel and hear where they are."
    ],
    "your_turn": "Make your own touch map in a way that nobody here has thought of. What did you choose to leave out, and who decided it should be left out?"
@@ -2259,9 +2279,9 @@
    "context": "This is a design problem. Engineers test small models before they build a real bridge, because a mistake in a real one costs lives. You make test models of a paper bridge, load them with coins and find the strongest shape.",
    "problem": "Build the strongest bridge from one sheet of ordinary paper across a gap of 15 centimetres. The strongest holds the most coins in a small cup. There is more than one good answer.",
    "constraints": [
-    "Use one sheet of A4 paper, or a page of the same size from a notebook, for each bridge. No tape on the top.",
+    "Use one sheet of A4 paper, or a page of the same size from a notebook, for each bridge. Tape may join the paper to itself, but must not stick the bridge to the books.",
     "The bridge must rest on two piles of books with a gap of 15 centimetres between them, with 2 centimetres of paper on each side.",
-    "Load the bridge by adding coins one at a time to a light cup in the middle, and count how many it holds.",
+    "Load the bridge by adding coins one at a time to a light cup in the middle, and count how many it holds. Use one kind of coin, such as one-rupee coins, so that the counts can be compared.",
     "Test each shape at least twice and write down both numbers.",
     "Make at least three different shapes and predict how many coins each will hold before you test it."
    ],
@@ -2323,7 +2343,7 @@
        ]
       }
      ],
-     "parent": "A pleated bridge usually holds many times what a flat sheet does, often 10 to 30 coins. A tube may be stronger or weaker, depending on how it is held in place, so ask your child to hold or tape the ends. Stop adding coins when the bridge sags a lot or falls. Do each test twice and use both numbers.",
+     "parent": "A pleated bridge usually holds many times what a flat sheet does. How many coins depends on the paper and the coin, so compare your own shapes with each other and do not expect our numbers. A tube may be stronger or weaker, depending on how it is held in place, so ask your child to hold or tape the ends. Stop adding coins when the bridge sags a lot or falls. Do each test twice and use both numbers.",
      "check": {
       "t": "mcq",
       "q": "A bridge held 20 coins in one test and 12 in a second. What is the best thing to do?",
@@ -2382,9 +2402,9 @@
     "Fold two edges up to make a channel, like a gutter, so that the paper has a deep edge on each side."
    ],
    "creative": [
-    "Fold a zigzag and glue a flat sheet over the top, which makes a hollow box of folds, like the hollow beams of real bridges.",
+    "Fold a zigzag and glue a flat strip, cut from the same sheet, over the top, which makes a hollow box of folds, like the hollow beams of real bridges.",
     "Glue several thin paper tubes side by side, as bamboo tubes are tied together in a real footbridge.",
-    "Curve the paper into an arch with its ends against the books, so that the load pushes the ends outward and the books hold them."
+    "Curve the paper into an arch with its ends against the books, so that the load pushes the ends outward. Put a heavy book against each end so that the ends cannot slide."
    ],
    "your_turn": "Design a bridge of your own from one sheet of paper that nobody here has tried. Predict how many coins it will hold, and test it."
   }
@@ -2495,7 +2515,7 @@
       },
       {
        "f": "MODEL. The true-path track map. Shows where the tracks really run under the streets.",
-       "b": "It leaves out an easy look. It is hard to read on a platform, and it breaks for a person who only wants to know where to change."
+       "b": "It is crowded with every bend and detail, so it is hard to read on a platform. It breaks for a person who only wants to know where to change."
       },
       {
        "f": "MODEL. A globe. Shows the shapes, sizes and places of the lands without stretching them.",
@@ -2541,11 +2561,11 @@
    ],
    "rules": [
     "There are 10 model cards. Each model has a plain name, what it shows and, on the back, what it leaves out and where it breaks.",
-    "Shuffle the 16 job cards into a face-down pile. Deal 4 model cards to each player. Put the rest of the model cards face up in the middle.",
-    "On your turn, turn over the top job card and read it aloud without turning it over to its back. Pick one of your model cards that you think suits the job best. Put it down and say why in one sentence.",
+    "Shuffle the 16 job cards into a face-down pile. Lay all 10 model cards face up in the middle, where everyone can see them.",
+    "On your turn, turn over the top job card and read the job aloud, keeping the back hidden. Pick the model card that you think suits the job best. Point to it and say why in one sentence.",
     "Your turn ends with one challenge. Any other player may name one thing your model leaves out that the job needs. If you have an answer, say it. If not, you lose 1 point.",
-    "Then turn the job card over and read the best model and the reason. If your model is the best one, you score 2 points. If it is not but all players agree that your reason is good, you score 1 point. If the card says that two answers can be defended, either one scores 2 points.",
-    "Swap the model card you used for one from the middle. The job card goes under the pile of used jobs.",
+    "Then turn the job card over and read the best model and the reason. If your model is the best one, you score 2 points. If it is not, but all players agree that your reason is good, you score 1 point. If the card says that two answers can be defended, either one scores 2 points.",
+    "The job card goes under the pile of used jobs. The next player turns up a new job.",
     "When the job cards run out, add up the points. The player with the most points wins. If there is a tie, the player who gave the best argument chooses a model card for a last job that the players make up.",
     "When playing alone, turn up all 16 jobs one at a time, choose from all 10 models and score yourself. Try to beat your own score the next day."
    ],
@@ -2553,9 +2573,9 @@
     {
      "id": "g1s1",
      "mins": 6,
-     "do": "Cut out the 16 job cards and the 10 model cards. Read all the model cards aloud together. Say what each one shows and what it leaves out. Shuffle the job cards and deal four model cards each.",
+     "do": "Cut out the 16 job cards and the 10 model cards. Read all the model cards aloud together. Say what each one shows and what it leaves out. Shuffle the job cards and lay the model cards face up in the middle.",
      "say": "Here are ten kinds of model. Each one is good for some jobs and bad for others. Which would you use to find a train change? Which for a tunnel?",
-     "kid": "Cut out the cards. Read the ten models. Deal four to each player.",
+     "kid": "Cut out the cards. Read the ten models. Lay them face up.",
      "adult": false,
      "parent": "Cutting is for the grown-up if the child is under 8. Keep the cards in an envelope. A game for one child can be played alone, using all ten models."
     },
@@ -2570,7 +2590,7 @@
       {
        "q": "Which job had two models that could both be defended? What would you say for each?",
        "good": [
-        "The one with the roundabout, because a true-shape map and a flat map both show it.",
+        "The bird-watcher job, because a photograph and a labelled diagram can both be defended.",
         "The bridge job, because a physical model and a computer model both work.",
         "Any job where the reasons for two models were both good."
        ]
@@ -2682,17 +2702,17 @@
      "kind": "cards",
      "title": "How to read the dance, to copy by hand on a small card",
      "items": [
-      "Straight towards the window means the treat is that way. Every quarter-turn is as far round as a corner of the room. One second of waggle means 3 steps."
+      "Everyone faces the window. Right and left mean your own right and left when you face it. Straight towards the window means the treat is that way. A quarter-turn is as far round as the corner of a room. One second of waggle means 3 steps."
      ]
     }
    ],
    "rules": [
     "One player is the bee. The other is her sister. A window or a lamp stands for the Sun. Put the cards face down in a pile.",
-    "The bee draws a dance card, reads the front without showing it, and hides a small treat on the floor, as the back says. The sister is out of the room or has her eyes shut.",
-    "The bee stands on a sheet of paper and dances. She walks in a straight line in the direction on the card, waggling her hips for the time on the card, and comes back to the paper.",
-    "The sister reads the dance. She decides which way to go from the direction, and how many steps from the time. One second of waggle is 3 steps. She walks that way and picks up the treat if she finds it.",
+    "The sister waits out of the room, or with her eyes shut, while the bee draws a dance card, reads the front without showing it, and hides a small treat on the floor, as the back says.",
+    "The sister comes back and watches. The bee stands on a sheet of paper and dances. She walks in a straight line in the direction on the card, waggling her hips for the time on the card, and comes back to the paper.",
+    "The sister reads the dance. She decides which way to go from the direction and how many steps from the time. One second of waggle is 3 steps. She walks that way from the paper and picks up the treat if she finds it.",
     "The bee shows the back of the card. If the sister found the treat, both score 1 point. If she was off by one step or less, both score 1 point too. Then swap roles.",
-    "Play 6 rounds, three each. If the sisters find the treat in every round, they win together. If they find fewer than 4, they play the six rounds again.",
+    "Play 6 rounds, three each. You are a team and add up your points together. With 5 or more points you win. With fewer, play the six rounds again.",
     "Real bees use the angle to the Sun and about one second for every kilometre, so the game is a scale model of their dance."
    ],
    "flow": [
@@ -2722,7 +2742,7 @@
        ]
       }
      ],
-     "parent": "Use a treat such as a raisin or a pebble, and eat or put it away afterwards. A child under 8 can dance and read with a grown-up helping. Make the direction clear with an arm held out."
+     "parent": "Use a treat such as a raisin or a pebble, and eat or put it away afterwards. A child under 8 can dance and read with a grown-up helping. Make the direction clear with an arm held out. The sister can count the seconds of waggle aloud, one by one, or the bee can wave an arm for each second."
     },
     {
      "id": "g2s3",
@@ -2863,7 +2883,7 @@
      "t": "write",
      "p": "Think of your classroom. Name two things you would leave out of a map of it, and say why.",
      "lines": 3,
-     "a": "Any two things, such as the colour of the walls or what is on the notice board, with a reason about what the reader of the map needs. A strong answer says the map is for finding things, so only the things that help are kept.",
+     "a": "Any two things, such as the colour of the walls or what is on the notice board, with a reason about what the reader needs. A strong answer says the map is for finding things, so only the things that help are kept.",
      "why": "A good answer names two things and gives a reason tied to the job of the map.",
      "outcome": 3
     },
@@ -2888,7 +2908,7 @@
     },
     {
      "t": "perspective",
-     "p": "Two ways to draw a map of a new school for a child who starts tomorrow.",
+     "p": "A child starts at a new school tomorrow. One map shows every tree, bench and window. A second map shows only the gate, the classrooms and the library, with arrows.",
      "views": [
       {
        "who": "A child who likes details (an imagined view)",
@@ -2899,7 +2919,7 @@
        "says": "Draw only the gate, the classrooms and the library, with arrows. Then the map is easy to follow."
       }
      ],
-     "ask": "Which map would help a new child find the library on the first morning? Could the first one also be useful?",
+     "ask": "Which map would help the new child find the library on the first morning? Could the first one also be useful?",
      "a": "Answers vary. A strong answer says the second map is quicker to read for finding the library. The first could be useful for a different job, such as finding a tree to sit under. Neither is wrong, and each has a job.",
      "why": "The first map keeps more but is harder to read. The second keeps less but is clearer for one job. This is the trade-off in every model.",
      "outcome": 6
@@ -2937,7 +2957,7 @@
     },
     {
      "t": "draw",
-     "p": "A marble stops with a click in the middle of a closed box. It rolls on only along the far edge. Draw the inside from above.",
+     "p": "In a closed box a marble rolls freely, then stops with a click in the middle. It can still pass along the far edge. Draw the inside from above.",
      "a": "A rectangle with a wall drawn across the middle, and a gap between the end of the wall and the far side. The marble is shown on one side. A question mark or note says what is not certain, such as the wall's height.",
      "why": "The marble stopping in the middle says there is a wall. Rolling on only along the far edge says there is a gap there. A good model uses each clue, and a good drawing shows what is still a guess.",
      "outcome": 5
@@ -3022,7 +3042,7 @@
       ],
       [
        "A flat map is like the land",
-       "A map cannot be walked on or smelled"
+       "A flat map stretches some lands, because the Earth is round"
       ]
      ],
      "a": "as given",
@@ -3206,7 +3226,7 @@
     },
     {
      "t": "write",
-     "p": "A friend says, 'My model must be right, because it has never got a prediction wrong.' What test could still show it wrong?",
+     "p": "A friend says, 'My model must be right, because it has never been wrong.' What test could still show it wrong?",
      "lines": 3,
      "a": "A new prediction in a new situation that the model has never been tried on, one that could fail. Only a test that could go wrong can show that a model is right so far.",
      "why": "A model that has only been used where it is known to work has not been tested hard.",
@@ -3234,7 +3254,7 @@
       ],
       [
        "A weather forecast model",
-       "what happens if its starting numbers are wrong"
+       "what the weather will be, for certain, on your street"
       ],
       [
        "A plastic skeleton",
@@ -3590,7 +3610,7 @@
    "art": "A textbook diagram of the heart with labels, beside a small photo of a real heart."
   },
   {
-   "text": "When the weather forecast on TV or a phone says 'rain tomorrow, 70 per cent', notice that it is a prediction from a model, not a certain fact. Check the next day and see if it was right.",
+   "text": "When the weather forecast on TV or a phone says 'rain tomorrow, 70 per cent', notice that this is a prediction from a model. It is not a certain fact. Check the next day and see if it was right.",
    "art": "A phone weather app showing a cloud and the number 70 per cent."
   },
   {
@@ -3626,8 +3646,8 @@
    "a": "Because it was so well-rounded."
   },
   {
-   "j": "A man made a map of his town at the same size as the town. Where did he keep it?",
-   "a": "On the town, and everyone said it was exactly what they were standing on."
+   "j": "Why was the full-size map of the country never used?",
+   "a": "Nobody could find a table big enough, and the farmers wanted their sunshine back."
   },
   {
    "j": "Why is the metro map always so calm?",
@@ -3736,7 +3756,7 @@
    "item": "A football or a ball about 22 centimetres across",
    "kind": "material",
    "why": "Used as the Sun in the solar system walk. About ₹150 to ₹400. A small ball from a toy shop is enough.",
-   "url": "https://www.amazon.in/s?k=small+football+size+3",
+   "url": "https://www.amazon.in/s?k=football+size+5",
    "used_in": [
     "a3"
    ],

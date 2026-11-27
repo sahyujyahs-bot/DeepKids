@@ -3,12 +3,12 @@
  "title": "Rainwater harvesting: catching the rain",
  "level": 3,
  "summary": {
-  "text": "In December 2015 Chennai was under flood water, and in June 2019 the same city's taps ran dry. How can one place have too much water and too little? In this lesson you work out how much rain lands on a roof, and build a model that catches it and lets it sink into different kinds of ground. You find out why rain that sinks in refills wells and why rain that runs off is lost by evening. You also meet the stepwells, johads, eris and desert kunds with which people across India have caught the rain for thousands of years.",
+  "text": "In December 2015 Chennai was under flood water, and in June 2019 the same city's taps ran dry. How can one place have too much water and too little? You work out how much rain lands on a roof, then build a model that catches it and lets it sink into different kinds of ground. You find out why rain that sinks in refills wells and why rain that runs off is lost by evening. You also meet the stepwells, johads, eris and desert kunds with which people across India have caught the rain for thousands of years.",
   "art": "A house in the rain with water running from the roof through a pipe into a covered tank and a pit in the ground, and beside the house an open well with the water level drawn rising."
  },
  "intro": {
   "hook": "The next time it rains, stand at a window and pick one raindrop that lands on the road. Where will that drop be in one hour? In one month?",
-  "text": "A drop that lands on a hard road is in a drain within minutes and on the way to the sea within hours. A drop that lands on soft soil may sink in and stay under the ground for months or years, until a root or a well finds it. The rain is the same. What it lands on decides the rest. Today you will make it rain on a model roof and on three kinds of ground, and measure what you catch. Then you will see how this one idea has kept towns alive in deserts.",
+  "text": "A drop that lands on a hard road is in a drain within minutes and on the way to the sea within hours. A drop that lands on soft soil may sink in. It may stay under the ground for months or years, until a root or a well finds it. The rain is the same. What it lands on decides the rest. Today you will make it rain on a model roof and on three kinds of ground, and measure what you catch. Then you will see how this one idea has kept towns alive in deserts.",
   "art": "Two raindrops falling side by side, one onto a tarred road with an arrow to a drain and the sea, one onto soil with an arrow going down to a blue layer under the ground and a well."
  },
  "outcomes": [
@@ -43,7 +43,7 @@
    "definition": "Rainfall is measured as the depth of water the rain would leave on flat ground if none ran off or soaked in, in millimetres. The area that collects rain is called the catchment.",
    "description": "How much water lands on a roof? There is an easy sum. Picture a flat square, one metre on each side. If one millimetre of rain falls on it, the square holds exactly one litre. So litres of rain equal the area in square metres times the rain in millimetres. A roof of 100 square metres is about the size of a small flat. Chennai gets about 1,400 millimetres of rain in a year. So 100 times 1,400 is 1,40,000 litres falling on that one roof each year. Some splashes away or dries off. About four-fifths can be caught, which is more than a lakh litres.",
    "examples": [
-    "Jaisalmer, in the Thar desert, gets only about 200 millimetres a year. The same roof there still receives about 20,000 litres, enough for a family's drinking and cooking for a year.",
+    "Jaisalmer, in the Thar desert, gets only about 200 millimetres a year. The same roof there still receives about 20,000 litres. At 20 litres a day for each of four people, that is drinking and cooking water for about eight months.",
     "Mawsynram, in Meghalaya, gets about 11,800 millimetres a year, among the highest in the world.",
     "A heavy shower of 20 millimetres puts 2,000 litres on a 100 square metre roof in an afternoon.",
     "A rain gauge is a straight-sided jar with a scale. It measures the depth of rain in millimetres."
@@ -87,7 +87,7 @@
    "definition": "Run-off is rain that flows away over the surface. Infiltration is rain soaking down into the ground.",
    "description": "Rain that lands has two roads. It can run off over the surface, or it can soak in. On soil with plants, most of a gentle rain soaks in. On concrete, tar and tiles, almost all of it runs off, fast. A city is mostly hard surface. So in a big storm the water rushes to the low places all at once and floods them. Two days later it has reached the sea. Very little has gone into the ground. When summer comes, the wells are empty. In December 2015 Chennai was flooded. In June 2019 its four main lakes were nearly dry. The yearly rain had not changed much. The ground had.",
    "examples": [
-    "Chennai's Pallikaranai marsh, which once soaked up flood water like a sponge, has shrunk from about 5,000 hectares to about 600 as buildings spread over it.",
+    "Chennai's Pallikaranai marsh, which once soaked up flood water like a sponge, has shrunk from about 5,000 hectares to roughly 600 as buildings spread over it. A hectare is a square with sides of 100 metres.",
     "A paved courtyard sheds a shower in minutes. A garden of the same size is still damp the next day.",
     "A sloping field with bare soil loses rain and soil together. Low ridges built across the slope slow both.",
     "A lake bed built over with houses is still the lowest ground, and the water still goes there."
@@ -213,9 +213,9 @@
    "concept": "India pumps more groundwater than any other country, faster than rain puts it back",
    "status": "defined",
    "definition": "A borewell is a narrow, deep hole drilled by machine to reach groundwater, with a pump to lift it.",
-   "description": "A dug well reaches down perhaps 10 or 20 metres. A borewell can go down 300. Since the 1960s, India has drilled crores of them. Today India pumps about 250 cubic kilometres of groundwater a year. That is about a quarter of all the groundwater pumped in the world. It is more than China and the United States together. Most of it waters crops. In many districts, more is pumped out each year than the rain puts back. So the water table falls, wells are drilled deeper, and shallow wells and village ponds go dry. Rainwater harvesting puts water back. It works only if less is taken out than goes in.",
+   "description": "A dug well reaches down perhaps 10 or 20 metres. A borewell can go down 300. Since the 1960s, India has drilled crores of them. Today India pumps roughly 250 cubic kilometres of groundwater a year. One cubic kilometre is a block of water a kilometre long, a kilometre wide and a kilometre deep, which is a thousand billion litres. That is about a quarter of all the groundwater pumped in the world. It is more than China and the United States together. Most of it waters crops. In many districts, more is pumped out each year than the rain puts back. So the water table falls, wells are drilled deeper, and shallow wells and village ponds go dry. Rainwater harvesting puts water back. It works only if less is taken out than goes in.",
    "examples": [
-    "In 2009 two satellites that weigh the Earth from space showed that Punjab, Haryana, Rajasthan and Delhi had lost more than 100 cubic kilometres of groundwater in six years.",
+    "In 2009 scientists used two satellites that weigh the Earth from space. They found that Punjab, Haryana, Rajasthan and Delhi had lost more than 100 cubic kilometres of groundwater in six years.",
     "Growing one kilogram of rice with pumped water can use about 3,000 to 5,000 litres.",
     "In parts of Punjab the water table has been falling by about half a metre or more each year.",
     "Deep water is often very old. Some of it fell as rain thousands of years ago and will not come back in our lifetimes."
@@ -260,10 +260,10 @@
   {
    "concept": "Johads: earth walls that brought a river back",
    "status": "defined",
-   "definition": "A johad is a curved wall of earth built across a slope or a small stream, to hold monsoon run-off long enough for it to soak into the ground.",
+   "definition": "A johad is a curved wall of earth built across a slope or a small stream. It holds monsoon run-off long enough for it to soak into the ground.",
    "description": "In the 1980s the Alwar district of Rajasthan was drying. Wells were empty, and men had left the villages to find work. In 1985 a young man, Rajendra Singh, came to the village of Gopalpura wanting to help. An old farmer, Mangu Lal Meena, told him to stop talking and dig. He showed him where the village's old johads had stood. A johad is a curved earth wall across the path of the rain. It makes a pond in the monsoon, and the pond slowly soaks away into the ground. The villagers rebuilt theirs by hand. Wells filled. Over fifteen years, villages across Alwar built thousands. The Arvari, a river dry for decades, began to flow all year.",
    "examples": [
-    "The women of the villages carried much of the earth and gained most. They no longer walked hours each day for water.",
+    "Many women joined in the digging and gained most. They no longer walked hours each day for water.",
     "In 1999 about 70 villages formed the Arvari River Parliament to agree on rules, such as growing no sugarcane, which is a thirsty crop.",
     "Rajendra Singh's group, Tarun Bharat Sangh, received the Ramon Magsaysay Award in 2001 and the Stockholm Water Prize in 2015.",
     "A johad's site is chosen by reading the land: where the rain runs, and where the rock below has cracks."
@@ -284,8 +284,8 @@
   {
    "concept": "Eris and keres: chains of tanks across South India",
    "status": "defined",
-   "definition": "A tank, called an eri in Tamil, a kere in Kannada and a cheruvu in Telugu, is a wide, shallow lake made by building a long earth wall across a gentle slope to hold monsoon run-off.",
-   "description": "Much of South India has hard rock below and rain in one short season. People there built tanks. A long, low earth wall across a gentle slope holds the run-off as a broad lake. A stone sluice lets water out to the paddy fields below. A stone spillway lets extra water pass safely on. The tanks were built in chains. The overflow of the highest tank fills the next one down, and so on, until hardly a drop reaches the sea unused. Tamil Nadu alone has about 39,000 tanks. Stone inscriptions at Uttaramerur, from about 920 CE, record a village committee chosen each year to look after the tank.",
+   "definition": "A tank is a wide, shallow lake made by building a long earth wall across a gentle slope to hold monsoon run-off. It is called an eri in Tamil, a kere in Kannada and a cheruvu in Telugu.",
+   "description": "Much of South India has hard rock below and rain in one short season. People there built tanks. A long, low earth wall across a gentle slope holds the run-off as a broad lake. A stone sluice lets water out to the paddy fields below. A stone spillway lets extra water pass safely on. The tanks were built in chains. The overflow of the highest tank fills the next one down, and then the next. So the water goes all down the slope, until hardly a drop reaches the sea unused. Tamil Nadu alone has about 39,000 tanks. Stone inscriptions at Uttaramerur, from about 920 CE, record a village committee chosen each year to look after the tank.",
    "examples": [
     "The silt dug out of a tank bed each summer was spread on fields as manure, which also kept the tank deep.",
     "Ramappa lake in Telangana was built under the Kakatiya rulers in the 13th century CE and still waters fields.",
@@ -312,14 +312,14 @@
    "description": "The Thar desert gets very little rain, and the groundwater is often deep and salty. People there found two answers. The first is the kund. A circle of ground is cleaned and plastered so that it slopes gently inward, like a saucer. At the centre is a covered tank under the ground. One good storm fills it, and the cover keeps the water cool, dark and clean for a year. The second is stranger. In some places a hard layer of gypsum lies under the sand. Rain that sinks in cannot pass it. The damp stays in the sand above, sweet and separate from the salty water below. A narrow well, the kuin, gathers this damp, a few pots a day.",
    "examples": [
     "A kuin is so narrow that the digger works with a short tool, in a space barely wider than their shoulders.",
-    "Desert families name three kinds of water: palar pani, which is rain, patali pani, which is deep groundwater, and rejani pani, the damp held in the sand between.",
-    "Gadisar lake at Jaisalmer was built in 1367 CE and supplied the town for about 600 years.",
+    "Desert families name three kinds of water. Palar pani is rain, patali pani is deep groundwater, and rejani pani is the damp held in the sand between.",
+    "Gadisar lake at Jaisalmer was built in 1367 CE and supplied the town for hundreds of years.",
     "A khadin is a desert field with an earth wall at its lower end. Run-off collects there, soaks in, and a crop is grown on the damp soil."
    ],
    "perspectives": [
     {
      "who": "Anupam Mishra, in his 1995 book 'Rajasthan ki Rajat Boondein'",
-     "explanation": "He recorded these methods from the people who build them and named their communities. He argued that this is exact science, worked out without laboratories, and that engineers had ignored it because it was not written in their language."
+     "explanation": "He recorded these methods from the people who build them and named their communities. He argued that this is exact science, worked out without laboratories. He said engineers had ignored it because it was not written in their language."
     },
     {
      "who": "Government water engineers",
@@ -333,7 +333,7 @@
    "concept": "Hill and mountain ways: bamboo pipes, the zabo, and towers of ice",
    "status": "defined",
    "definition": "In hills, harvesting means slowing water as it runs downhill. In cold deserts, it means keeping winter water frozen until it is needed in spring.",
-   "description": "On a steep hillside, rain is gone in minutes. In Meghalaya, Khasi and Jaintia farmers split bamboo into channels and lead spring water for hundreds of metres along the slope. At each fork the flow divides, until it reaches every plant as a slow drip. In Kikruma, a village in Nagaland, the Chakhesang people built the zabo. Forest is kept on the hilltop. Ponds below it catch the run-off. The water then passes through cattle yards and reaches the rice terraces carrying manure. In Ladakh, where it hardly rains, the engineer Chewang Norphel began in 1987 to freeze stream water on shaded slopes in winter. In 2013 Sonam Wangchuk began building cones of ice called ice stupas.",
+   "description": "On a steep hillside, rain is gone in minutes. In Meghalaya, Khasi and Jaintia farmers split bamboo into channels and lead spring water for hundreds of metres along the slope. At each fork the flow divides, until it reaches every plant as a slow drip. In Kikruma, a village in Nagaland, the Chakhesang people built the zabo. Forest is kept on the hilltop. Ponds below it catch the run-off. The water then passes through cattle yards and reaches the rice terraces carrying manure. In Ladakh, where it hardly rains, the engineer Chewang Norphel began in the late 1980s to freeze stream water on shaded slopes in winter. In 2013 Sonam Wangchuk began building cones of ice called ice stupas.",
    "examples": [
     "A bamboo system can take about 20 litres a minute at the top and deliver it as a few dozen drops a minute at each plant.",
     "An ice stupa is a tall cone, so little of its surface faces the sun, and it melts slowly through spring when fields need water.",
@@ -343,11 +343,11 @@
    "perspectives": [
     {
      "who": "The hill communities who built these systems",
-     "explanation": "Each system is a set of shared rules as much as a set of channels: who keeps the forest, who cleans the ponds, whose field gets water first."
+     "explanation": "Each system is a set of shared rules as much as a set of channels. The rules say who keeps the forest, who cleans the ponds and whose field gets water first."
     },
     {
      "who": "Scientists who study glaciers, such as Marcus Nüsser's group in 2019",
-     "explanation": "They measured Ladakh's artificial ice stores and found them useful for a village in spring. They also found the stores too small to replace the shrinking natural glaciers that feed them, and warned against calling them a cure for climate change."
+     "explanation": "They measured Ladakh's artificial ice stores and found them useful for a village in spring. But the stores are too small to replace the shrinking natural glaciers that feed them. They warned against calling ice stupas a cure for climate change."
     }
    ],
    "art": "Three scenes: split-bamboo channels branching along a slope with drops falling at the roots of vines, a hillside with forest, ponds, a cattle yard and rice terraces in order from top to bottom, and a tall ice cone in a brown mountain valley.",
@@ -357,7 +357,7 @@
    "concept": "The oldest records: Dholavira's reservoirs, a lake repaired for 800 years, and a rain gauge",
    "status": "defined",
    "definition": "A reservoir is a large store of water made by people. An inscription is writing cut into stone or metal to last.",
-   "description": "Catching rain is among India's oldest sciences. Dholavira, a Harappan city in the salt desert of Kutch, flourished from about 3000 BCE to 1500 BCE. Its people built dams across two seasonal streams and led the water into at least 16 reservoirs, some cut into solid rock. At Girnar in Gujarat, a rock inscription of the ruler Rudradaman, from about 150 CE, tells the story of a lake called Sudarshana. It was built about 450 years earlier under Chandragupta Maurya, improved under Ashoka, broken by a storm and repaired by Rudradaman, who records that he did not tax the people for it. The lake was repaired again about 300 years later. People looked after it for some 800 years.",
+   "description": "Catching rain is among India's oldest sciences. Dholavira, a Harappan city in the salt desert of Kutch, flourished from about 3000 BCE to 1500 BCE. Its people built dams across two seasonal streams and led the water into at least 16 reservoirs, some cut into solid rock. At Girnar in Gujarat, a rock inscription of the ruler Rudradaman, from about 150 CE, tells the story of a lake called Sudarshana. It was built about 450 years earlier under Chandragupta Maurya. It was improved under Ashoka, broken by a storm and repaired by Rudradaman, who records that he did not tax the people for it. The lake was repaired again about 300 years later. People looked after it for some 800 years.",
    "examples": [
     "Kautilya's Arthashastra, book 2, chapter 5, tells the keeper of the storehouse to set out a bowl of fixed width as a rain gauge. Chapter 24 lists how much rain different regions receive.",
     "Varahamihira's Brihat Samhita, written in the 6th century CE, has a chapter on finding underground water from signs such as termite mounds and certain trees.",
@@ -419,7 +419,7 @@
    "perspectives": [
     {
      "who": "M. Dinesh Kumar and colleagues, Indian water researchers, in 2008",
-     "explanation": "In naturally dry basins, they found that intensive harvesting upstream often cut the flow into reservoirs downstream. They called the hope of 'new' water there a mirage, and asked that harvesting be planned for a whole basin."
+     "explanation": "In naturally dry basins, they found that harvesting a lot upstream often cut the flow into reservoirs downstream. They called the hope of 'new' water there a mirage, like a lake in the desert that is not really there. They asked that harvesting be planned for a whole basin."
     },
     {
      "who": "Rajendra Singh, and researchers such as Tushaar Shah",
@@ -443,15 +443,15 @@
    "definition": "A sponge landscape is land whose plants, soil and wet ground soak up rain and release it slowly.",
    "description": "People did not invent rainwater harvesting. In the Namib desert of Africa, a beetle climbs a dune at dawn and stands head-down in the fog. Drops gather on the beetle's back and roll to the mouth. The thorny devil, a lizard of the Australian desert, has skin grooved with tiny channels. Water that touches any part of the body is drawn along the grooves to the mouth. Elephants dig wells in dry river beds with their feet and trunks, and many other animals drink there after them. Beavers build dams of sticks that raise the water table across a whole valley. A forest does it on the largest scale. Leaves, roots and deep leaf litter slow the rain and feed streams all year.",
    "examples": [
-    "The shola forests and grasslands on top of the Western Ghats soak up the monsoon and release it slowly into the rivers of Kerala, Tamil Nadu and Karnataka.",
+    "The shola forests and grasslands on top of the Western Ghats soak up the monsoon. They release it slowly into the rivers of Kerala, Tamil Nadu and Karnataka.",
     "On a large tree, rain runs along the branches and down the trunk, and reaches the soil right at the roots.",
-    "A desert rhubarb plant, studied in 2009, has grooved leaves that channel light rain to its root and so collects many times the water its neighbours get.",
+    "A desert rhubarb plant, studied in 2009, has grooved leaves that channel light rain to its root. It collects many times the water its neighbours get.",
     "Engineers have copied the beetle and the lizard to design fog-catching nets and surfaces that move water without pumps."
    ],
    "perspectives": [
     {
      "who": "Ecologists",
-     "explanation": "Beavers, elephants and forests are 'ecosystem engineers'. They reshape how water moves, and many other beings depend on what they build. Protecting them is water management."
+     "explanation": "Beavers, elephants and forests are 'ecosystem engineers'. An ecosystem is a place with all the living beings in it, and the water, soil and air they share. They reshape how water moves, and many other beings depend on what they build. Protecting them is water management."
     },
     {
      "who": "Robert Jackson and colleagues, in 2005",
@@ -464,7 +464,7 @@
   {
    "concept": "Harvesting today: laws, recharge wells and 'sponge cities'",
    "status": "defined",
-   "definition": "A sponge city is a city designed so that most rain soaks in where it falls, through parks, ponds, rooftop gardens and paving that lets water through.",
+   "definition": "A sponge city is a city designed to soak up most rain where it falls. It uses parks, ponds, rooftop gardens and paving that lets water through.",
    "description": "The old idea is being built into new cities. Tamil Nadu has required every building to harvest rain since 2003. Bengaluru requires it for larger plots. Singapore, an island with no large river, collects rain from about two-thirds of its land. In China, the landscape designer Yu Kongjian argued that cities should stop fighting water with concrete drains. From about 2013 China began building 'sponge cities', with wetland parks, ponds and paving that lets water through. The aim is to soak up most of a storm where it lands. Engineers still test how well this works in the very heaviest rain. The idea is the one that built the johad and the eri: slow the water down.",
    "examples": [
     "Paving blocks with gaps between them let rain through to the soil. A car park laid this way floods less.",
@@ -489,7 +489,7 @@
  "agreed": [
   {
    "text": "Nearly all the liquid fresh water on Earth is under the ground.",
-   "evidence": "Surveys of the world's water, such as those gathered by Igor Shiklomanov in 1993, find that groundwater holds about 99 in every 100 parts of all liquid fresh water. Rivers and lakes together hold less than one part."
+   "evidence": "Surveys of the world's water, gathered by Igor Shiklomanov in 1993, find this. Groundwater holds about 99 in every 100 parts of all liquid fresh water. Rivers and lakes together hold less than one part."
   },
   {
    "text": "India receives a very large amount of rain and snow, and can use only about a quarter of it.",
@@ -497,17 +497,17 @@
   },
   {
    "text": "Water under the ground can be dated, and some of it is thousands of years old.",
-   "evidence": "Scientists measure rare kinds of atoms in water that change at a known rate. Shallow well water is often a few months to a few decades old. Water from deep borewells in north-west India has been dated to thousands of years."
+   "evidence": "Scientists measure rare substances in water that slowly break down at a known rate, like a slow clock. Shallow well water is often a few months to a few decades old. Water from deep borewells in north-west India has been dated to thousands of years."
   },
   {
    "text": "Covering soil with plants or mulch greatly increases how much rain soaks in.",
-   "evidence": "Field trials in India and elsewhere that compare bare plots with covered plots on the same slope find far less run-off and far less soil washed away from the covered ones."
+   "evidence": "Farmers and scientists have tested this in field trials in India and elsewhere. They compare a bare plot with a covered plot on the same slope. The covered plot loses far less rain as run-off, and far less soil is washed away."
   }
  ],
  "challenging": [
   {
    "claim": "Rainwater harvesting creates new water for a dry region.",
-   "who": "Many campaigns and government programmes",
+   "who": "Tarun Bharat Sangh in Alwar, and the Government of India's 'Catch the Rain' campaign",
    "for": "In Alwar and Saurashtra, wells filled and dry-season river flow returned after thousands of small structures were built. Water in the ground is saved from evaporation.",
    "against": "M. Dinesh Kumar and colleagues found in 2008 that in basins where all the water is already used, harvesting upstream reduced flow to reservoirs downstream. The total rain is fixed. Harvesting changes who gets it and when.",
    "status": "debated",
@@ -517,7 +517,7 @@
    "claim": "India's traditional water systems were run fairly by village communities.",
    "who": "Many writers on traditional water wisdom, including the authors of 'Dying Wisdom' in 1997",
    "for": "Inscriptions such as those at Uttaramerur record elected tank committees, and many systems worked for centuries on shared labour and shared rules.",
-   "against": "David Mosse's study of Tamil Nadu tanks, and the history of struggles such as Mahad in 1927, show that control often lay with dominant castes and that Dalits were excluded from the water.",
+   "against": "David Mosse studied the tanks of Tamil Nadu. He found that dominant castes and local chiefs often controlled them, and that Dalits were kept away from the water. The struggle at Mahad in 1927 shows the same.",
    "status": "debated",
    "context": "A view held with affection and challenged with evidence. It matters, because reviving a system also means choosing its rules."
   },
@@ -525,7 +525,7 @@
    "claim": "Planting more trees always brings more water.",
    "who": "A common belief, and many tree-planting drives",
    "for": "Natural forests on hills slow the rain, hold soil and feed streams through the dry season. Clearing them causes floods and dry springs.",
-   "against": "Robert Jackson and colleagues found in 2005 that plantations of fast-growing trees on former grassland usually reduced stream flow, because the trees used more water than the grass had.",
+   "against": "Robert Jackson and colleagues found in 2005 that plantations of fast-growing trees on former grassland usually reduced stream flow. The trees used more water than the grass had.",
    "status": "minority",
    "context": "Most people take it for granted that trees mean water. The evidence says it depends on which trees, where, and what grew there before."
   },
@@ -643,15 +643,15 @@
    "evidence": "In the model, a cup of water left the hard plate at once and left the soil slowly over several minutes. Chennai flooded in December 2015 and ran dry in June 2019 with little change in its yearly rain."
   },
   "three": {
-   "who_am_i": "More than half of your body is water. Every drop of it fell as rain somewhere, and you will hand it on within weeks. You are one of the places where the rain is slowed down for a while. Seeing this, you can ask whether the water is passing through you, or is you.",
+   "who_am_i": "More than half of your body is water. Almost all of it fell as rain somewhere, and you will hand it on within weeks. You are one of the places where the rain is slowed down for a while. Seeing this, you can ask whether the water is passing through you, or is you.",
    "what_is_life": "A forest, a beaver's pond, a root and a cell all do the same thing: they hold water back from running straight to the sea. Wherever water lingers, living beings gather. Life can be seen as water taking the long way round.",
    "what_is_this_world": "The Earth has had nearly the same water for billions of years. The rain on your roof has been ocean, glacier, river and the sap of ancient trees. The world does not make new water for each of us. It lends the same water to everyone in turn."
   },
-  "thread": "The model made one thing plain: speed decides whether water is a gift or a loss. The johad, the eri, the kund and the forest are all ways of asking water to stay a little longer. Your own body is another. Under the ground there are no fences, so water that one family slows becomes water that a whole street can draw. The science of aquifers says this in numbers. It also suggests something more. Consciousness is the ground from which the rain, the land and the drinker all arise, and the water moving between them is one thing passing through many hands. Many people do not take this last step, and their view is given below.",
+  "thread": "The model made one thing plain: speed decides whether water is a gift or a loss. The johad, the eri, the kund and the forest are all ways of asking water to stay a little longer. Your own body is another. Under the ground there are no fences, so water that one family slows becomes water that a whole street can draw. The science of aquifers says this in numbers. Some traditions go one step further. They say that consciousness is the ground from which the rain, the land and the drinker all arise. They say that the water moving between them is one thing passing through many hands. Science does not say this, and many people do not take the last step. Their view is given below.",
   "teachings": [
    {
     "source": "Rig Veda, book 7, hymn 49, verse 2",
-    "teaching": "The poet calls on the waters that come from the sky, the waters that flow in dug channels and the waters that rise by themselves, all of them bright and pure, whose goal is the sea. May those waters protect me here.",
+    "teaching": "The poet calls on the waters that come from the sky. The poet calls on the waters that flow in dug channels and the waters that rise by themselves. All of them are bright and pure, and their goal is the sea. May those waters protect me here.",
     "link": "More than three thousand years ago the poet sorted water as this lesson does: rain, water that people dig for, and springs. The verse sees them as one family of waters on one journey to the sea, and asks them to stay and protect. Harvesting is the practical form of that request."
    },
    {
@@ -682,7 +682,7 @@
   "practice": {
    "title": "One slow glass",
    "mins": 3,
-   "say": "Pour your child a glass of water. Say: 'Before you drink, look at it. This water was a cloud once. It fell as rain, perhaps on a hill far away. It ran, or it sank, or it waited in the ground. Take one small sip and hold it in your mouth. Breathe out slowly. Now swallow. By tomorrow some of this water will be in your blood, your tears and your breath.' Drink the rest in silence, one slow sip at a time.",
+   "say": "Pour your child a glass of water. Read these lines slowly, one at a time. 'Before you drink, look at the water. It was a cloud once. It fell as rain, perhaps on a hill far away. It ran, or it sank, or it waited in the ground. Take one small sip and hold it in your mouth. Breathe out slowly. Now swallow. By tomorrow, some of this water will be in your blood, your tears and your breath.' Drink the rest in silence. Take it one slow sip at a time.",
    "kid": "Pour a glass of water. Look at it before you drink. This water was once a cloud, then rain. Take one small sip and hold it in your mouth. Breathe out slowly, then swallow. Drink the rest slowly, without talking. By tomorrow some of it will be part of you."
   },
   "ask": [
@@ -704,7 +704,7 @@
   },
   {
    "q": "Is the monsoon changing?",
-   "why_open": "Records suggest fewer gentle rainy days and more very heavy bursts in parts of India. Scientists disagree on how much is due to a warming climate, to dust and smoke in the air, or to natural swings."
+   "why_open": "Records suggest fewer gentle rainy days and a greater number of very heavy bursts. Scientists disagree on how much is due to a warming climate, to dust and smoke in the air, or to natural swings."
   },
   {
    "q": "How harmful are the tiny traces of factory chemicals now found in rain?",
@@ -790,7 +790,7 @@
   {
    "term": "millimetre",
    "meaning": "A small length. Ten millimetres make one centimetre, and a thousand make one metre.",
-   "example": "The thickness of a one-rupee coin is about 2 millimetres.",
+   "example": "A one-rupee coin is about 1.5 millimetres thick.",
    "art": "A ruler with a coin standing on its edge beside the millimetre marks."
   },
   {
@@ -1046,6 +1046,12 @@
    "art": "A forested hill with water soaking down through leaves into the soil."
   },
   {
+   "term": "ecosystem",
+   "meaning": "A place with all the living beings in it, and the water, soil and air they share.",
+   "example": "A pond with its fish, frogs, plants, mud and water is one ecosystem.",
+   "art": "A pond with fish, a frog, water plants and a heron, in one frame."
+  },
+  {
    "term": "sponge city",
    "meaning": "A city designed so that most rain soaks in where it falls, through parks, ponds and paving that lets water through.",
    "example": "China began building sponge cities from about 2013.",
@@ -1056,6 +1062,12 @@
    "meaning": "Water turning into a gas and rising into the air.",
    "example": "A bowl of water left open in the sun gets lower each day because of evaporation.",
    "art": "A shallow tray of water in the sun with arrows rising from the surface."
+  },
+  {
+   "term": "mulch",
+   "meaning": "A cover of dry leaves or straw laid on top of soil.",
+   "example": "A layer of dry leaves on a pot keeps the soil damp for longer.",
+   "art": "A plant pot with a thick layer of dry leaves on the soil."
   }
  ],
  "games": [
@@ -1266,7 +1278,7 @@
    ],
    "rules": [
     "You need a steel bowl as the tank, a small bowl for the village downstream, and dried beans or chana. Use 3 beans for each household at the start, put in the tank. 2 to 4 households can play. Each player is one household.",
-    "Each year, turn over a year card. Read it aloud. Put the rain beans in the tank. The tank holds at most 6 beans for each household. Any more beans overflow into the downstream bowl.",
+    "Shuffle the 12 year cards and use eight of them, one for each year. Each year, turn over a year card. Read it aloud. Put the rain beans in the tank. The tank holds at most 6 beans for each household. Any more beans overflow into the downstream bowl.",
     "Follow any event on the card. In a drought year the village may take up to 3 beans from the downstream bowl.",
     "Each household must take 2 beans from the tank each year for its need. Take them one household at a time, round the table. If the tank is empty, that household goes thirsty and takes a thirsty mark.",
     "Silt: at the end of each year, the tank loses 1 bean for each household, unless one household has dug out the silt. One household digs each year, in turn round the table. A household that digs takes only 1 bean that year, and takes 3 the next year.",
@@ -1888,7 +1900,7 @@
        ]
       }
      ],
-     "parent": "Real rain is even over a small square. Sprinkling is only close to even. If a lot of water splashes out of the square, the depth will be low. A result of 3 to 7 millimetres is good."
+     "parent": "Real rain is even over a small square. Sprinkling is only close to even. If a lot of water splashes out of the square, the depth will be low. A result of 3 to 7 millimetres is good. Work on a floor that can get wet, and wipe up spills at once so that nobody slips."
     },
     {
      "id": "a1s3",
@@ -2378,7 +2390,7 @@
      "qty": 1
     },
     {
-     "item": "the numbers for Chennai (about 1,400 millimetres a year), Jaisalmer (about 200) and Mawsynram (about 11,800)",
+     "item": "the numbers for Chennai (about 1,400 millimetres a year), Jaisalmer (roughly 200 millimetres) and Mawsynram (roughly 11,800 millimetres)",
      "qty": 1
     }
    ],
@@ -2419,7 +2431,7 @@
      "mins": 10,
      "do": "Multiply the area by the rainfall in millimetres for each of the three places. Each millimetre on each square metre is one litre. Write the three answers. Then take four-fifths of each, because some water splashes or dries, and call that what you could catch.",
      "say": "Our floor is 12 square metres. In Jaisalmer, 200 millimetres falls. How many litres fall on it in a year? And in Chennai? And in Mawsynram?",
-     "kid": "Multiply the area by 200, then by 1,400, then by 11,800. Write the three answers.",
+     "kid": "Find the area times 200. Then find the area times 1,400, and the area times 11,800. Write the three answers.",
      "adult": false,
      "ask": [
       {
@@ -3190,7 +3202,7 @@
      "t": "write",
      "p": "A hillside farm loses soil and water in every shower. Which of India's old methods would you try, and why?",
      "lines": 3,
-     "a": "Answers vary. A good answer picks one, for example earth walls across the slope like a johad, or covering the soil with leaves and trees, and says it slows the water so it can soak in.",
+     "a": "Answers vary. A good answer picks one method. For example, earth walls across the slope like a johad, or covering the soil with leaves and trees. It says the method slows the water so it can soak in.",
      "why": "A strong answer ties the method to slowing water on a slope and does not just name it.",
      "outcome": 4
     },
@@ -3336,7 +3348,7 @@
      "t": "count",
      "p": "A tank holds 6,000 litres. Five people use 20 litres each every day. For how many days does the tank last?",
      "a": "60",
-     "why": "Each day the family uses 5 times 20, which is 100 litres. 6,000 divided by 100 is 60 days.",
+     "why": "Each day the family uses 5 times 20, which is 100 litres. The tank holds 60 lots of 100 litres, so it lasts 60 days.",
      "outcome": 1
     },
     {
@@ -3408,7 +3420,7 @@
       }
      ],
      "ask": "Which would you build for your district, or would you build both? What would you need to find out first?",
-     "a": "Answers vary. A strong answer weighs what each protects and what each costs, and names something to check, such as how dry the basin is or who would be moved.",
+     "a": "Answers vary. A strong answer weighs what each protects and what each costs. It names something to check, such as how dry the basin is or who would be moved.",
      "why": "Both views have evidence behind them, and scientists and engineers still argue about where each suits best.",
      "outcome": 6
     }
@@ -3518,7 +3530,7 @@
      "t": "write",
      "p": "A rule says every house must harvest rain. A neighbour says, 'It is my rain.' Give one reason for each view.",
      "lines": 3,
-     "a": "Answers vary. A reason for the rule is that harvested rain refills wells for everyone and cuts floods. A reason for the neighbour is that the cost and work fall on one household and people do not like being told what to do on their own land.",
+     "a": "Answers vary. A reason for the rule is that harvested rain refills wells for everyone and cuts floods. A reason for the neighbour is that the cost and the work fall on one household. People also do not like being told what to do on their own land.",
      "why": "A strong answer gives a fair reason for each side and does not call either one foolish.",
      "outcome": 6
     },
@@ -3579,7 +3591,7 @@
       }
      ],
      "ask": "What would you do, and what would you want to know first?",
-     "a": "Answers vary. A strong answer says the tank must be clean, covered and the water filtered and boiled, and that scientists still argue about how much the traces matter.",
+     "a": "Answers vary. A strong answer says the tank must be clean and covered, and the water must be filtered and boiled. It also says that scientists still argue about how much the traces matter.",
      "why": "Both views rest on evidence. Long use shows rain can be safe when kept well. The new findings show there is something in rain that we cannot see.",
      "outcome": 2
     }
@@ -3621,7 +3633,7 @@
     "7 times"
    ],
    "a": 3,
-   "why": "1,400 divided by 200 is 7. The litres on a roof grow in step with the millimetres, so the second roof gets 7 times as much. Subtracting 1,200 gives an amount, not a comparison.",
+   "why": "The number 200 goes into 1,400 seven times. The litres on a roof grow in step with the millimetres, so the second roof gets 7 times as much. Subtracting 1,200 gives an amount, not a comparison.",
    "outcome": 1
   },
   {
@@ -3860,8 +3872,8 @@
    "a": "It knew it would be taken for a drain."
   },
   {
-   "j": "What kind of tank never holds a drop of water?",
-   "a": "A think tank."
+   "j": "What did the water table say to the raindrop?",
+   "a": "'Thanks for dropping in!'"
   }
  ],
  "maths": [
@@ -3985,7 +3997,7 @@
   },
   {
    "id": "b-clay",
-   "item": "Modelling clay or pottery clay, about 250 grams",
+   "item": "Modelling clay or pottery clay, roughly 250 grams",
    "kind": "material",
    "why": "For the third ground in the funnel test. It costs about Rs 40 to 100.",
    "url": "https://www.amazon.in/s?k=modelling+clay+natural",
@@ -4023,7 +4035,7 @@
   },
   {
    "id": "b-beans",
-   "item": "Dried beans or chana, about 100 grams",
+   "item": "Dried beans or chana, roughly 100 grams",
    "kind": "material",
    "why": "As water tokens in the village tank game. They cost about Rs 20.",
    "url": "https://www.amazon.in/s?k=rajma+beans+500g",
@@ -4073,7 +4085,7 @@
    "id": "b-book",
    "item": "Aaj Bhi Khare Hain Talaab, by Anupam Mishra",
    "kind": "book",
-   "why": "A book in Hindi about the tanks and ponds of India and the people who built them. Check the price in a bookshop. A parent can read parts aloud.",
+   "why": "A book first published in Hindi in 1993 by the Gandhi Peace Foundation. It tells of the tanks and ponds of India and the people who built and kept them. Its author gave up his copyright, and it has been translated into many languages, including English as 'The Ponds are Still Relevant'. Copies can be downloaded free from the India Water Portal. A parent can read parts aloud.",
    "url": "https://www.amazon.in/s?k=aaj+bhi+khare+hain+talaab",
    "used_in": [
     "a6"

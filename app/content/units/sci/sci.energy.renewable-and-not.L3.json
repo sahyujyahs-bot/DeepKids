@@ -3,7 +3,7 @@
  "title": "Renewable and non-renewable energy: what runs out, what comes back, and who decides",
  "level": 3,
  "summary": {
-  "text": "A lump of coal and a gust of wind can both light the same bulb. So why do people say that one will run out and the other will not? In this lesson you sort energy sources by how fast they come back after we use them. You find that coal, oil and gas are sunlight caught by living beings hundreds of millions of years ago, and that wind, rain and firewood are sunlight caught this week or this year. Then you test, with two bowls of beans, how a source that comes back can still run out when we take too fast.",
+  "text": "A lump of coal and a gust of wind can both light the same bulb. So why do people say that one will run out and the other will not? In this lesson you sort energy sources by how fast they come back after we use them. You find that coal, oil and gas are sunlight caught long ago by living beings, and that wind, rain and firewood are sunlight caught this year. Then you test, with two bowls of beans, how a source that comes back can still run out when we take too fast.",
   "art": "A kitchen at dusk with one glowing bulb, and two faint paths leading to it: one from a black lump of coal and one from a white wind turbine on a hill."
  },
  "intro": {
@@ -30,7 +30,7 @@
     "Idli and sambar are the energy source for your morning run.",
     "A cylinder of cooking gas is the energy source for the dosa tawa.",
     "Diesel is the energy source for a bus, and electricity is the energy source for a metro train.",
-    "Sunlight is the energy source for a neem tree, who uses it to build leaves, wood and seeds."
+    "Sunlight is the energy source for a neem tree, who builds leaves, wood and seeds from the light."
    ],
    "perspectives": [
     {
@@ -85,7 +85,7 @@
    "concept": "A non-renewable source takes millions of years to form",
    "status": "defined",
    "definition": "A non-renewable energy source is one that forms so slowly that, once we use it, it will not come back for millions of years.",
-   "description": "Coal, oil and natural gas are non-renewable. They do form in nature, but very slowly. Most of India's coal took shape from forests that grew about 250 to 300 million years ago. People started burning coal in large amounts only about 250 years ago. So we are using in a few hundred years what took millions of years to make. That is like filling a bucket one drop each year and then emptying it with a mug. New coal is still forming in swamps today. It will be ready long after anyone we can imagine.",
+   "description": "Coal, oil and natural gas are non-renewable. They do form in nature, but very slowly. Most of India's coal took shape from forests that grew roughly 250 to 300 million years ago. People started burning coal in large amounts only about 250 years ago. So we are using in a few hundred years what took millions of years to make. That is like filling a bucket one drop each year and then emptying it with a mug. New coal is still forming in swamps today. It will be ready long after anyone we can imagine.",
    "examples": [
     "Coal is dug at Jharia in Jharkhand, Talcher in Odisha, Singareni in Telangana and Neyveli in Tamil Nadu.",
     "Oil is pumped from under the sea at Bombay High, off Mumbai, and from the ground at Digboi in Assam, where oil was struck in 1889.",
@@ -105,7 +105,7 @@
    "examples": [
     "Miners sometimes find the print of a leaf or a piece of tree bark pressed into a slab of coal.",
     "Oil did not come from dinosaurs. Most of it came from sea beings too small to see without a microscope.",
-    "At Neyveli in Tamil Nadu the fuel is lignite, a soft brown coal that is much younger than black coal and still looks a little like wood."
+    "At Neyveli in Tamil Nadu the fuel is lignite. This soft brown coal is much younger than black coal and still looks a little like wood."
    ],
    "perspectives": [
     {
@@ -137,7 +137,7 @@
     },
     {
      "who": "Elinor Ostrom, who won the Nobel Prize in economics in 2009",
-     "explanation": "She studied forests, fishing grounds and water channels shared by villages around the world, including in Nepal. She found that many villages keep a shared source alive for hundreds of years by making their own rules about how much each family may take."
+     "explanation": "She studied forests, fishing grounds and water channels that villages share, in Nepal and many other places. She found that many villages keep a shared source alive for hundreds of years. They do it by making their own rules about how much each family may take."
     },
     {
      "who": "Forest communities of India, such as the Bishnoi of Rajasthan",
@@ -178,16 +178,31 @@
    "concept": "How much sunlight reaches us: about 1,000 watts on each square metre",
    "status": "defined",
    "definition": "On a clear day at noon, sunlight brings about 1,000 watts of power to each square metre of ground that faces the Sun.",
-   "description": "A watt measures how fast energy arrives. An LED bulb uses about 9 watts. At noon on a clear day, a patch of ground one metre long and one metre wide receives about 1,000 watts of sunlight. That is the power of about 100 LED bulbs falling on a space the size of a small table. Add up the whole Earth, and the sunlight that arrives in one to two hours holds about as much energy as all the people of the world use in a whole year. So there is plenty of sunlight. The hard part is catching it, because it is spread thinly and stops at night.",
+   "description": "A watt measures how fast energy arrives. An LED bulb uses about 9 watts. At noon on a clear day, a patch of ground one metre long and one metre wide receives about 1,000 watts of sunlight. That is the power of more than 100 LED bulbs falling on a space the size of a small table. Now think of the whole Earth. The sunlight that arrives in one to two hours holds about as much energy as all the people of the world use in a whole year. So there is plenty of sunlight. The hard part is catching it, because it is spread thinly and stops at night.",
    "examples": [
     "A black car seat left in the sun becomes too hot to touch. That heat is sunlight collected by one small surface.",
     "Clothes on a line in Chennai dry in about two hours on a sunny day, with no fuel at all.",
-    "Most of India gets clear sunshine on about 250 to 300 days a year."
+    "Much of India gets clear sunshine on roughly 250 to 300 days a year."
    ],
    "perspectives": [],
    "one_view": "These amounts are measured by instruments on the ground and on satellites, and scientists agree on them.",
    "art": "A one-metre square chalked on a terrace in bright sun, with 100 small bulbs drawn inside the square.",
    "context": "This card puts a number on sunlight, so you can see how much there is to catch."
+  },
+  {
+   "concept": "Electricity is counted in units: one unit is 1,000 watt-hours",
+   "status": "defined",
+   "definition": "A unit of electricity is 1,000 watt-hours, which is the energy that a 1,000 watt machine uses in one hour.",
+   "description": "A watt tells how fast energy is used. To know how much energy is used, we also need the time. A 9 watt bulb that is on for 5 hours uses 9 times 5, which is 45 watt-hours. A watt-hour is one watt used for one hour. Your electricity bill does not count watt-hours. It counts units, and one unit is 1,000 watt-hours. A 1,000 watt iron that runs for one hour uses one unit. So does a 9 watt LED bulb that stays on for about 110 hours.",
+   "examples": [
+    "A 60 watt fan that runs for 10 hours uses 600 watt-hours, which is 0.6 of a unit.",
+    "A bill of 150 units for a month is 5 units a day. That is the same as a 1,000 watt iron running for 5 hours every day.",
+    "The meter at your home counts units. Its numbers go up faster when a hungrier machine is running."
+   ],
+   "perspectives": [],
+   "one_view": "A unit is an agreed way to count, so that a bill means the same thing in every home. Its other name is the kilowatt-hour, and electricity bills around the world use it.",
+   "art": "A home electricity meter with a small iron on one side and a clock at one hour on the other.",
+   "context": "This card gives the unit that the bill uses, so that the later numbers about India and about saving make sense."
   },
   {
    "concept": "Two ways to catch sunlight: as heat and as electricity",
@@ -246,7 +261,7 @@
    "perspectives": [
     {
      "who": "Engineers who promote biomass",
-     "explanation": "The gas given off in burning was taken from the air by the plant only a year or two ago. A new plant takes it back. So the amount in the air stays about the same."
+     "explanation": "The gas given off in burning was taken from the air by the plant only a year or two ago. A new plant takes that gas back from the air. So the amount in the air stays about the same."
     },
     {
      "who": "Doctors and the World Health Organization",
@@ -260,10 +275,10 @@
    "concept": "Burning fossil fuels adds carbon dioxide to the air, and that warms the Earth",
    "status": "defined",
    "definition": "Carbon dioxide is a gas given off when anything containing carbon burns. In the air it lets sunlight in and slows the escape of heat.",
-   "description": "Ancient plants took a gas called carbon dioxide out of the air and built their bodies from it. When coal, oil or gas burns, that carbon dioxide goes back into the air, all at once. Carbon dioxide has no colour and no smell. It lets sunlight pass down to the ground. It holds back some of the heat that the warm ground gives off. So more carbon dioxide means a warmer Earth. Before factories, about 280 of every million parts of air were carbon dioxide. Today the number is above 420. The Earth is now a little more than 1 degree Celsius warmer than it was 150 years ago.",
+   "description": "Ancient plants took a gas called carbon dioxide out of the air and built their bodies from it. When coal, oil or gas burns, that carbon dioxide goes back into the air, all at once. Carbon dioxide has no colour and no smell. It lets sunlight pass down to the ground. It holds back some of the heat that the warm ground gives off. So more carbon dioxide means a warmer Earth. Before factories, roughly 280 of every million parts of air were carbon dioxide. Today the number is above 420. The Earth is now a little more than 1 degree Celsius warmer than it was 150 years ago.",
    "examples": [
     "One degree sounds small. It is enough to melt glaciers in the Himalayas faster, raise the sea and make heat waves stronger.",
-    "Burning one litre of petrol puts about 2.3 kilograms of carbon dioxide into the air, more than the petrol weighed, because the carbon joins with oxygen from the air.",
+    "Burning one litre of petrol puts about 2.3 kilograms of carbon dioxide into the air. That is more than the petrol weighed, because the carbon joins with oxygen from the air.",
     "Coal smoke also carries soot and other gases that make city air unhealthy to breathe."
    ],
    "perspectives": [
@@ -289,7 +304,7 @@
    "definition": "Every way of collecting energy changes the land, the water or the lives of beings nearby. Renewable sources do this too.",
    "description": "A big dam makes clean electricity for a hundred years. It also drowns the valley behind it: forests, fields, temples, villages. Fish who swim upriver to lay eggs find a wall. Wind turbines and solar parks need a lot of land, and the wires that carry their electricity cross the paths of birds. Solar panels and batteries need metals that are dug from mines. None of this means renewable energy is bad. It means every source has a cost that someone pays. Often the ones who pay are forest people, farmers and wild beings who do not get the electricity.",
    "examples": [
-    "The Sardar Sarovar dam on the Narmada moved about 40,000 families by official counts, and more by other counts. The Narmada Bachao Andolan, led by Medha Patkar, argued for those families for decades.",
+    "The Sardar Sarovar dam on the Narmada moved about 40,000 families by official counts. Some other counts are higher. The Narmada Bachao Andolan, led by Medha Patkar, argued for those families for decades.",
     "Fewer than 200 great Indian bustards are left, mostly in Rajasthan and Gujarat. These large birds fly low and die when they hit power lines. In 2021 the Supreme Court of India ordered some lines to be put underground.",
     "A worn-out solar panel holds glass, aluminium and silicon that can be used again, but only if someone collects it."
    ],
@@ -304,7 +319,7 @@
     },
     {
      "who": "Wildlife scientists at the Wildlife Institute of India",
-     "explanation": "Clean energy and wild beings can both be served if wires are buried or marked where rare birds fly, and if parks are built on land that is already damaged."
+     "explanation": "Clean energy and wild beings can both be served. Wires can be buried or marked where rare birds fly, and parks can be built on land that is already damaged."
     }
    ],
    "art": "A dam with a bright town below it on one side and, on the other side, the tops of trees and a hut roof showing above the water of the reservoir.",
@@ -323,7 +338,7 @@
    "perspectives": [
     {
      "who": "Supporters, such as many engineers of India's Department of Atomic Energy",
-     "explanation": "Nuclear stations run day and night in any weather and add almost no carbon dioxide. Counting deaths for each unit of electricity, nuclear power has harmed far fewer people than coal smoke has."
+     "explanation": "Nuclear stations run day and night in any weather and add almost no carbon dioxide. For the same amount of electricity made, nuclear power has harmed far fewer people than coal smoke has."
     },
     {
      "who": "Opponents, such as the fishing communities who protested at Kudankulam in 2011 and 2012",
@@ -340,12 +355,12 @@
    "description": "People have been predicting the end of oil for a hundred years, and the date keeps moving. Why? Because the amount we can use depends on two changing things: the tools for getting it and the price people will pay. New tools reach oil that old tools could not. A higher price makes a difficult mine worth opening. So the last tonne of coal will probably never be dug. Long before then, coal will cost more than the other choices. Many scientists now say the real limit is the air. Most of the known coal must stay in the ground if the Earth is not to warm much more.",
    "examples": [
     "In 1956 the geologist M. King Hubbert predicted that oil from the United States would reach its highest level around 1970 and then fall. It did fall after 1970. Then new drilling methods pushed it above the 1970 level by 2018.",
-    "A saying often credited to Sheikh Ahmed Zaki Yamani, once the oil minister of Saudi Arabia, goes: the Stone Age did not end because the world ran out of stone."
+    "Sheikh Ahmed Zaki Yamani was once the oil minister of Saudi Arabia. He is often said to have remarked that the Stone Age did not end because the world ran out of stone. People found better tools while there was still plenty of stone."
    ],
    "perspectives": [
     {
      "who": "Geologists who follow M. King Hubbert",
-     "explanation": "Every oil field gives more each year until about half is gone, and then less. Add up all the fields and the world must reach a peak. The easy fuel goes first, and what is left costs more and more to reach."
+     "explanation": "Every oil field gives more each year until about half is gone, and then less. Add up all the fields and the world must reach a peak. The easy fuel goes first, and what is left is deeper and dearer to reach."
     },
     {
      "who": "Economists such as Morris Adelman",
@@ -353,7 +368,7 @@
     },
     {
      "who": "Christophe McGlade and Paul Ekins, in the journal Nature in 2015",
-     "explanation": "They calculated that to keep warming under 2 degrees Celsius, more than 80 parts in every 100 of the world's known coal should not be burnt before 2050. On this view the fuel will not run out. We must choose to leave it."
+     "explanation": "They calculated how much coal can be burnt if warming is to stay under 2 degrees Celsius. More than 80 parts in every 100 of the world's known coal should not be burnt before 2050. On this view the fuel will not run out. We must choose to leave it."
     }
    ],
    "art": "A graph shaped like a hill labelled 'oil pumped each year', with a second, later hump drawn in dotted line and a question mark above it.",
@@ -363,10 +378,10 @@
    "concept": "Where India's electricity comes from today",
    "status": "defined",
    "definition": "In about 2024, around 7 of every 10 units of electricity made in India came from burning coal. The rest came mostly from water, Sun, wind and nuclear fuel. These shares change every year.",
-   "description": "India has a great deal of coal and few oil fields. So coal power stations made most of the country's electricity in about 2024, around 7 units in every 10. This is changing quickly, and the shares are different every year, so look up the latest ones. Counted by size, about half of India's power stations were running on sources other than fossil fuels by about 2025. But they do not make half the electricity. A coal station can run all day and night. A solar park works only in daylight, and a wind farm only when the wind blows. India has promised to add no more carbon dioxide to the air, on balance, by the year 2070.",
+   "description": "India has a great deal of coal and few oil fields. So coal power stations made most of the country's electricity in about 2024, around 7 units in every 10. Looking at how much they can make at their best, about half of India's power stations used sources other than fossil fuels by about 2025. But they do not make half the electricity. A coal station can run all day and night. A solar park works only in daylight, and a wind farm only when the wind blows. India has promised to add no more carbon dioxide to the air, on balance, by the year 2070. These figures are from about 2024 and 2025. They change every year, so look up the latest ones.",
    "examples": [
     "The power station at Thoothukudi in Tamil Nadu burns coal brought by ship.",
-    "Tamil Nadu, Gujarat, Rajasthan and Karnataka make the most wind and solar electricity.",
+    "Tamil Nadu, Gujarat, Rajasthan and Karnataka are among the states that make the most wind and solar electricity.",
     "Most of the oil India uses, more than 8 parts in every 10 in about 2024, is bought from other countries.",
     "An electric scooter charged in India today still runs partly on coal, because the charging electricity comes mostly from coal."
    ],
@@ -395,11 +410,11 @@
    "concept": "Using less is the quickest way to make a source last",
    "status": "defined",
    "definition": "Saving energy means getting the same light, cooking or travel from less energy.",
-   "description": "There are two ways to make a bowl of beans last. Add beans more quickly, or take them more slowly. The second way is open to every family today. An LED bulb of 9 watts gives as much light as an old glass bulb of 60 watts. So six or seven LED bulbs can shine on the energy that one old bulb used. Since 2015, more than 36 crore LED bulbs have been sold through one Indian government programme. Each unit of electricity that is not used is coal that stays in the ground.",
+   "description": "There are two ways to make a bowl of beans last. Add beans more quickly, or take them more slowly. The second way is open to every family today. An LED bulb of 9 watts gives as much light as an old glass bulb of 60 watts. So six or seven LED bulbs can shine on the energy that one old bulb used. Since 2015, more than 36 crore LED bulbs have been sold through one Indian government programme. Most of India's electricity still comes from coal, so electricity that is not used is coal that stays in the ground.",
    "examples": [
     "A pressure cooker cooks dal with about half the gas that an open pot needs, because the steam is kept in.",
     "A lid on a pot of water brings it to the boil sooner.",
-    "A full bus carries fifty people on the fuel of about five cars.",
+    "A full bus carries fifty people on the fuel of only a few cars.",
     "A fan uses about 50 to 75 watts. An air conditioner uses 1,000 watts or more."
    ],
    "perspectives": [
@@ -419,7 +434,7 @@
    "concept": "Who used the old sunlight, and who should stop first?",
    "status": "debated",
    "definition": "Countries have burnt very different amounts of fossil fuel. People disagree about how the remaining share should be divided.",
-   "description": "The carbon dioxide in the air today was put there over 250 years, mostly by countries that grew rich first. Each person in India adds about 2 tonnes of carbon dioxide a year. The average for the world is nearly 5 tonnes. For each person in the United States it is about 15. But India has very many people, so India's total is the third largest in the world. Crores of Indian families still need more electricity, not less. So the question is hard. Should every country cut at the same speed? Or should the ones who burnt most cut first and help the others build clean power?",
+   "description": "The carbon dioxide in the air today was put there over 250 years, mostly by countries that grew rich first. In about 2022, each person in India added about 2 tonnes of carbon dioxide a year. The average for the world was nearly 5 tonnes. For each person in the United States it was about 15. These numbers change from year to year. But India has very many people, so India's total is the third largest in the world. Crores of Indian families still need more electricity, not less. So the question is hard. Should every country cut at the same speed? Or should the ones who burnt most cut first and help the others build clean power?",
    "examples": [
     "A family that cooks on a wood fire and owns one bulb has added almost nothing to the problem, and will feel the heat waves most.",
     "At world climate meetings, India argues for 'common but differentiated responsibilities', which means: everyone must act, but not equally."
@@ -430,7 +445,7 @@
      "explanation": "In a report called 'Global Warming in an Unequal World' they argued that the air belongs equally to every person. They separated 'survival' use, such as a poor farmer's rice field, from 'luxury' use, such as a second car. Counting per person is the fair way."
     },
     {
-     "who": "Governments of several rich countries",
+     "who": "Governments of the United States and the European Union, at world climate meetings",
      "explanation": "The air does not care who burns the coal. The countries whose use is growing fastest today must cut too, or no cut elsewhere will be enough."
     },
     {
@@ -447,7 +462,7 @@
    "definition": "Many old traditions hold that people should take from land, forest and water only at a speed at which these can recover.",
    "description": "The idea of a source that must be allowed to renew is far older than the word renewable. People who lived close to forests and rivers learnt it by living it. Many wrote it into verses, rules and customs. These teachings do not prove anything about coal or carbon dioxide. They show that people long ago had already noticed the two speeds, taking and giving back.",
    "examples": [
-    "Sacred groves, called kavu in Kerala, devarakadu in Karnataka and sarna in Jharkhand, are patches of forest where nobody cuts or hunts. Many shelter plants and animals now rare elsewhere.",
+    "Sacred groves are patches of forest where nobody cuts or hunts. They are called kavu in Kerala, devarakadu in Karnataka and sarna in Jharkhand. Many shelter plants and animals that are now rare elsewhere.",
     "At Khejarli in Rajasthan in 1730, Amrita Devi Bishnoi and 362 other Bishnois gave their lives to stop the king's men from felling khejri trees."
    ],
    "perspectives": [
@@ -477,23 +492,23 @@
     "For a mountain, a forest that takes 500 years to grow back comes and goes quickly."
    ],
    "perspectives": [],
-   "one_view": "The Sun's age and its likely lifetime come from measuring its light and from the ages of meteorites, and astronomers agree on them to within a few parts in a hundred.",
+   "one_view": "Astronomers work out the Sun's age in two ways: from its light, and from the ages of old meteorites. The two ways give almost the same answer, within a few parts in every hundred.",
    "art": "A long ribbon timeline with the Sun drawn small at the start, large and steady in the middle with a 'you are here' pin, and swollen and red at the far end.",
    "context": "This card stretches the clock to show that 'renewable' depends on whose lifetime we measure by."
   }
  ],
  "agreed": [
   {
-   "text": "The extra carbon dioxide in the air came from fossil fuels and not from volcanoes or the sea.",
-   "evidence": "Carbon from living plants carries a small amount of a slowly fading kind of carbon called carbon-14. Fossil carbon is so old that all of this has faded away. In 1955 the chemist Hans Suess found that the carbon in the air was losing its share of carbon-14, year by year, exactly as it would if very old carbon were being added."
+   "text": "The extra carbon dioxide in the air comes from burning fossil fuels, and not from volcanoes or the sea.",
+   "evidence": "Carbon from living plants carries a small amount of a slowly fading kind of carbon called carbon-14. Fossil carbon is so old that all of this has faded away. In 1955 the chemist Hans Suess found something in the air. Its carbon was losing its share of carbon-14, year by year. That is exactly what happens when very old carbon is added."
   },
   {
    "text": "Smoke from cooking fires inside homes is one of the largest causes of illness in the world.",
-   "evidence": "The World Health Organization estimates that about 3 million people die early each year from breathing smoke from wood, dung and coal burnt indoors. Since 2016 an Indian government scheme has given cooking gas connections to more than 10 crore families for this reason."
+   "evidence": "The World Health Organization estimates that about 3 million people die early each year from breathing smoke inside their homes. The smoke comes from wood, dung or coal fires. In 2016 India began a scheme to give families cooking gas connections. By about 2024 it had reached more than 10 crore families."
   },
   {
-   "text": "Electricity from solar panels has become much cheaper to make.",
-   "evidence": "The International Renewable Energy Agency compared large solar parks built around the world. The cost of a unit of their electricity fell by more than four-fifths between 2010 and 2020. In many places a new solar park now makes cheaper electricity than a new coal station."
+   "text": "Making electricity from sunlight now costs far less than it did in 2010.",
+   "evidence": "The International Renewable Energy Agency compared big solar parks around the world. From 2010 to 2020, the price of their electricity dropped by more than four-fifths. In many places a new solar park now makes cheaper electricity than a new coal station."
   },
   {
    "text": "Coal seams can catch fire underground and burn for a very long time.",
@@ -520,7 +535,7 @@
   {
    "claim": "A whole country can run on wind, water and sunlight alone by 2050.",
    "who": "Mark Jacobson of Stanford University and his colleagues, in 2015",
-   "for": "They published a plan showing, hour by hour, how the United States could meet all its energy needs with wind, water and Sun and with stores of heat and hydrogen.",
+   "for": "They published a plan for the United States. It showed, hour by hour, how wind, water and Sun could meet all its energy needs. The plan used stores of heat and hydrogen gas to cover the gaps.",
    "against": "In 2017 Christopher Clack and twenty other scientists replied that the plan assumed far more hydropower and storage than could be built. They argued that nuclear power or other steady sources would be needed as well.",
    "status": "debated",
    "context": "Both sides want to stop burning fossil fuels. They disagree about what mix can do it."
@@ -634,7 +649,7 @@
   ]
  },
  "how_we_found_out": {
-  "story": "For a long time people believed the air was far too large for chimney smoke to change it. This fitted what they saw: smoke rises, thins out and is gone. In 1856 Eunice Foote, in the United States, stood glass cylinders of different gases in the Sun with a thermometer in each. The cylinder of carbon dioxide grew hottest. She wrote that more of this gas in the air would warm the Earth. As a woman she was not invited to read her own paper at the science meeting, and a man read it for her. Her work was then forgotten until 2011. In 1859 John Tyndall in London measured, with better instruments, how carbon dioxide holds back heat. In 1896 the Swedish chemist Svante Arrhenius calculated by hand how much the Earth would warm if the gas doubled. Many scientists replied that the sea would soak up any extra. In 1957 Roger Revelle and Hans Suess showed that the sea takes it up too slowly. In 1958 Charles David Keeling began measuring the air on Mauna Loa, a mountain in Hawaii. His numbers have risen every year since, from about 315 parts in a million to more than 420.",
+  "story": "For a long time people believed the air was far too large for chimney smoke to change it. This fitted what they saw: smoke rises, thins out and is gone. In 1856 Eunice Foote, in the United States, stood glass cylinders of different gases in the Sun with a thermometer in each. The cylinder of carbon dioxide grew hottest. She wrote that more of this gas in the air would warm the Earth. As a woman she was not invited to read her own paper at the science meeting, and a man read it for her. Her work was then forgotten until 2011. In 1859 John Tyndall in London measured, with better instruments, how carbon dioxide holds back heat. In 1896 the Swedish chemist Svante Arrhenius calculated by hand how much the Earth would warm if the gas doubled. Many scientists replied that the sea would soak up any extra. In 1957 Roger Revelle and Hans Suess showed that the sea takes it up too slowly. In 1958 Charles David Keeling began measuring the air on Mauna Loa, a mountain in Hawaii. His numbers have risen every year since, from roughly 315 parts in a million to more than 420.",
   "who": "Eunice Foote, John Tyndall, Svante Arrhenius, Roger Revelle, Hans Suess, Charles David Keeling",
   "when": "1856 to 1958, and continuing",
   "wrong_idea": "People held that the air and the sea are so vast that nothing people burn could change them. It was believable because smoke always seemed to vanish. Careful measuring of the air, year after year, showed that the gas does not vanish. It builds up."
@@ -651,7 +666,7 @@
    "what_is_life": "Living beings were the first to catch sunlight and keep it. Every fuel we burn, except nuclear fuel, was first made by plants or by tiny sea beings. Life is the great saver of sunlight, and every life also spends what other lives have saved.",
    "what_is_this_world": "The Sun, the air, the sea, the plants and the lamp in your room are links in one long passing-on of energy. Each link receives before it gives. When you look for where one link's energy 'really' belongs, you are led to the next link, and the next."
   },
-  "thread": "This lesson began with two boxes and ended with a chain. Coal turned out to be a forest, and the forest turned out to be the Sun. The wind was the Sun too, and so was your breakfast. When a child follows any energy back far enough, the separate 'sources' join up. Consciousness is the ground from which the Sun, the leaf and the one who eats all arise, and the chain of energy is one way of seeing that they were never apart. Many scientists accept the chain and do not accept this last step. Their view is given below.",
+  "thread": "This lesson began with two boxes and ended with a chain. Coal turned out to be a forest, and the forest turned out to be the Sun. The wind was the Sun too, and so was your breakfast. When a child follows any energy back far enough, the separate 'sources' join up. Some teachers say that consciousness is the ground from which the Sun, the leaf and the one who eats all arise. In their view, the chain of energy is one way of seeing that they were never apart. Many scientists accept the chain and do not accept this last step. Their view is given below.",
   "teachings": [
    {
     "source": "Isha Upanishad, verse 1",
@@ -675,7 +690,7 @@
     "status": "settled"
    },
    {
-    "text": "James Lovelock and Lynn Margulis proposed in the 1970s that living beings and the air, sea and rocks together keep the Earth fit for life, like one body. They called this the Gaia hypothesis. Parts of it are accepted and the strong form is not.",
+    "text": "James Lovelock and Lynn Margulis proposed in the 1970s that living beings, air, sea and rocks together keep the Earth fit for life. They saw it as something like one body. They called this the Gaia hypothesis. Parts of it are accepted and the strong form is not.",
     "status": "debated"
    }
   ],
@@ -707,7 +722,7 @@
   },
   {
    "q": "Can people make electricity the way the Sun makes its heat, by joining light atoms?",
-   "why_open": "In December 2022 a laboratory in the United States got more energy out of a tiny fuel pellet than its lasers put in, for a fraction of a second. A power station needs this to happen many times a second, all day. India is a partner in ITER, a large test machine being built in France. Nobody knows yet if it can be made to pay."
+   "why_open": "In December 2022 a laboratory in the United States got more energy out of a tiny fuel pellet than its lasers put in. It lasted for a fraction of a second. A power station needs this to happen many times a second, all day. India is a partner in ITER, a large test machine being built in France. Nobody knows yet if it can be made to pay."
   },
   {
    "q": "What should be done with nuclear fuel after it is used?",
@@ -782,7 +797,7 @@
   {
    "term": "Natural gas",
    "meaning": "A gas found underground, often with oil. It burns with a clean flame.",
-   "example": "Much of the gas in a cooking cylinder is made from natural gas and oil.",
+   "example": "The cooking gas in a cylinder is separated out from natural gas and from oil at a refinery.",
    "art": "A gas pipe running under the ground to a house stove."
   },
   {
@@ -828,6 +843,12 @@
    "art": "A cutaway of the ground with a small part of the coal outlined as the reserve."
   },
   {
+   "term": "Peat",
+   "meaning": "Half-rotted swamp plants that people dig up and burn. It forms very slowly, about one millimetre a year.",
+   "example": "In Scotland and Ireland, families have cut peat from wet ground to burn in stoves.",
+   "art": "A brown block of peat held in a hand, with wet marshy ground behind it."
+  },
+  {
    "term": "Sunlight",
    "meaning": "The light and warmth that reach the Earth from the Sun.",
    "example": "A black car seat left in sunlight gets too hot to touch.",
@@ -838,6 +859,18 @@
    "meaning": "A measure of how fast energy is used or arrives. One watt is a small amount of energy every second.",
    "example": "An LED bulb uses about 9 watts, and a ceiling fan uses about 50 to 75 watts.",
    "art": "A bulb and a fan, each with its watts written beside it."
+  },
+  {
+   "term": "Watt-hour",
+   "meaning": "The energy used when one watt runs for one hour.",
+   "example": "A 9 watt LED bulb that is on for 5 hours uses 9 times 5, which is 45 watt-hours.",
+   "art": "A small bulb beside a clock that shows one hour, with the number 9 under the bulb."
+  },
+  {
+   "term": "Unit of electricity",
+   "meaning": "The amount of electricity that an electricity bill counts. One unit is 1,000 watt-hours.",
+   "example": "A 1,000 watt iron that runs for one hour uses one unit.",
+   "art": "An electricity meter with a small iron beside it and a clock at one hour."
   },
   {
    "term": "Solar cooker",
@@ -1040,7 +1073,7 @@
      "qty": 3
     },
     {
-     "item": "about 100 dried beans such as rajma, chana or moong, or paper squares",
+     "item": "100 dried beans such as rajma, chana or moong, or paper squares",
      "qty": 1
     },
     {
@@ -1100,7 +1133,7 @@
     {
      "id": "s3",
      "mins": 7,
-     "do": "Test 1. Take 2 beans from each bowl, then add 3 beans to Bowl B. Count that as round 1. Go on for up to 15 rounds, or until a bowl is empty. After every round write how many beans are in each bowl. When you finish, put all the beans back so that A and B have 20 each.",
+     "do": "Test 1. Take 2 beans from each bowl, then add 3 beans to Bowl B. Count that as round 1. Go on for up to 15 rounds, or until a bowl is empty. After every round write how many beans are in each bowl. When you finish, put the beans back. Bowl A and Bowl B should have 20 each, and the sky bowl holds the rest.",
      "say": "Take 2 from each bowl, then add 3 to Bowl B. Count the beans in each bowl. What do you see happening?",
      "kid": "Take 2 beans from each bowl. Put 3 in Bowl B. Count. Do this for 15 rounds or until a bowl is empty.",
      "adult": false,
@@ -1310,7 +1343,7 @@
      "think": "If clouds covered the Sun for a week, which of your energy sources would you still have?"
     }
    ],
-   "safety": "Do the test in sunlight through a window or on a shaded balcony wall. Never look at the Sun."
+   "safety": "Never look at the Sun. Tumblers left in strong sun can get hot, so touch one with a fingertip first and lift them with a cloth."
   }
  ],
  "activities": [
@@ -1459,7 +1492,7 @@
     {
      "id": "a2s2",
      "mins": 7,
-     "do": "Place paper flags along the string. Put the end of the dinosaurs, about 66 million years ago, at 66 centimetres. Put the first dinosaurs, about 230 million years ago, at 230 centimetres. Put the coal swamps of India, about 250 to 300 million years ago, at the far end, between 250 and 300 centimetres. Put the first people of our own kind, about 300,000 years ago, at 3 millimetres from today.",
+     "do": "Place paper flags along the string. Put the end of the dinosaurs, about 66 million years ago, at 66 centimetres. Put the first dinosaurs, about 230 million years ago, at 230 centimetres. Put the coal swamps of India, roughly 250 to 300 million years ago, at the far end, between 250 and 300 centimetres. Put the first people of our own kind, roughly 300,000 years ago, at 3 millimetres from today.",
      "say": "Where do you think the coal swamps go? Were they before or after the dinosaurs? Where are the first people?",
      "kid": "Put the flags in place. Where is the coal? Where are we?",
      "adult": false,
@@ -1477,7 +1510,7 @@
     {
      "id": "a2s3",
      "mins": 5,
-     "do": "Now ask the child to mark where the 250 years of burning coal would go. It starts at the today end. 250 years is 0.00025 centimetres, a width of 2.5 micrometres. Show a pencil dot made with a fine point, which is about 0.1 millimetres wide. The pencil dot is about 40 times wider than the 250 years. Ask what that tells us.",
+     "do": "Now ask the child to mark where the 250 years of burning coal would go. It starts at the today end. 250 years is 0.00025 centimetres. That is 2.5 micrometres, and a micrometre is a thousandth of a millimetre. Show a pencil dot. Even a fine pencil makes a dot about 0.3 millimetres wide, which is 300 micrometres. The dot is more than 100 times wider than the 250 years. Ask what that tells us.",
      "say": "How long is 250 years on our rope? Try to make a mark that small. Is it bigger or smaller than your pencil dot?",
      "kid": "Try to mark 250 years on the rope. Is your mark too big?",
      "adult": false,
@@ -1490,7 +1523,7 @@
        ]
       }
      ],
-     "parent": "Use a fine pencil and a ruler with millimetres to see that the dot is much wider than the 250 years. The maths: 250 divided by 1,000,000 is 0.00025 centimetres."
+     "parent": "Use a fine pencil and a ruler with millimetres to see that the dot is much wider than the 250 years. The maths: 250 divided by 1,000,000 is 0.00025 centimetres, and one centimetre is 10,000 micrometres, so 0.00025 times 10,000 is 2.5 micrometres."
     },
     {
      "id": "a2s4",
@@ -1577,7 +1610,7 @@
        ]
       }
      ],
-     "parent": "Typical results: bulb 9 watts for 5 hours is 45 watt-hours. Iron 1,000 watts for 10 minutes is about 170. Fan 60 watts for 10 hours is 600. Fridge 150 watts working about 7 hours in a day is about 1,050."
+     "parent": "Typical results: bulb 9 watts for 5 hours is 45 watt-hours. Iron 1,000 watts for 10 minutes is roughly 170. Fan 60 watts for 10 hours is 600. Fridge 150 watts working about 7 hours in a day is about 1,050."
     },
     {
      "id": "a3s3",
@@ -1654,7 +1687,7 @@
     {
      "id": "a4s1",
      "mins": 5,
-     "do": "Write six roles on six slips. They are a farmer downstream who needs water, a city family who needs electricity, and a forest elder whose village lies behind the dam. The others are a fisher who catches fish in the river, an engineer who built dams before, and one who speaks for the river and the forest animals. If there are fewer than six people, use fewer slips. Each person draws one and keeps it secret for now.",
+     "do": "Write one role on each of six slips. One is a farmer downstream who needs water. One is a city family who needs electricity. One is a forest elder whose village lies behind the dam. One is a fisher who catches fish in the river. One is an engineer who has built dams before. The last one speaks for the river and the forest animals. If there are fewer than six people, use fewer slips. Each person draws one and keeps it secret for now.",
      "say": "A big dam is planned on a river. Each of us will speak for someone different. We will not choose our own role. Draw a slip.",
      "kid": "Draw a slip. You will speak as that person in a moment.",
      "adult": false,
@@ -1771,7 +1804,7 @@
      "say": "Press start when the flames light. Tell us when the water in each pan is bubbling all over.",
      "kid": "Start the stopwatch when the stove is lit. Write the time when each pan bubbles all over.",
      "adult": true,
-     "parent": "Usually the pan with the lid boils about 1 to 2 minutes sooner, though the size of the gap depends on your stove. If the two times are within 20 seconds, the two burners may have different flames. Swap the lid to the other burner tomorrow and try again. Never lift the lid with your face over the pan."
+     "parent": "Usually the pan with the lid boils about 1 to 2 minutes sooner, though the size of the gap depends on your stove. If the two times are within 20 seconds, the two burners may have different flames. Swap the lid to the other burner tomorrow and try again. If your stove has only one burner, test the two pans on two days, with the same flame and the same water. Never lift the lid with your face over the pan."
     },
     {
      "id": "a5s3",
@@ -2066,7 +2099,7 @@
    "creative": [
     "Put the container in a box that sits inside a bigger box, with crumpled paper in the gap, so there are two layers of trapped air.",
     "Line the box with foil, shiny side in, so that heat is sent back to the container.",
-    "Put in a warm brick wrapped in cloth, if an adult agrees. It is a second store of heat that keeps the box warm."
+    "Put in a brick that has sat in the Sun for an hour, wrapped in cloth. It is a second small store of heat that keeps the box warm."
    ],
    "your_turn": "Design your own box and test it against the counter. What did you change that kept the water warmest? How could your family use it to save gas in a month?"
   },
@@ -2139,7 +2172,7 @@
        "q": "How much comes from the grid after the usual fixes?",
        "good": [
         "About 1,200 watt-hours, since the night use is about 2,200 and the battery gives 1,000.",
-        "Using one fan and not two saves 480, which brings the grid share to about 700, under 1 unit."
+        "Using one fan and not two saves 480, which brings the grid share to roughly 700, under 1 unit."
        ]
       }
      ]
@@ -2147,7 +2180,7 @@
     {
      "id": "ch2s3",
      "mins": 8,
-     "do": "Now try creative solutions. Think of ways to need less at night, or to store the Sun's work in another way. Could one fan be enough? Could the television be watched at noon? Could water be heated or cooled while the Sun shines, and kept in a store such as a closed box or an ice tray? Write at least two ideas, and work out the watt-hours each one saves.",
+     "do": "Now try creative solutions. Think of ways to need less at night, or to store the Sun's work in another way. Could one fan be enough? Could the television be watched at noon? Could water be heated or cooled while the Sun shines? A closed box or an ice tray could keep it until the evening. Write at least two ideas, and work out the watt-hours each one saves.",
      "say": "What is a cleverer way to use less at night? Could the Sun's hours cool something for the evening?",
      "kid": "Think of two creative ideas. Work out how many watt-hours each one saves.",
      "adult": false,
@@ -2155,7 +2188,7 @@
       {
        "q": "Which creative idea saves the most watt-hours at night?",
        "good": [
-        "Using one fan and not two saves about 480 watt-hours.",
+        "Using one fan and not two saves roughly 480 watt-hours.",
         "Making ice at noon to keep drinks cold saves some fridge use."
        ]
       }
@@ -2429,7 +2462,7 @@
       "Bowl A"
      ],
      "a": 2,
-     "why": "Bowl A has nothing added, so it loses 5 each round and is empty in round 4. Bowl B loses 5 and gains 3, so it falls by 2 each round and lasts until round 9. Adding helped Bowl B, but not enough.",
+     "why": "Bowl A has nothing added, so it loses 5 each round and is empty in round 4. Bowl B loses 5 and gains 3, so it falls by 2 each round. It is empty in round 10. Adding helped Bowl B, but not enough.",
      "outcome": 3,
      "how": "e1"
     },
@@ -2699,7 +2732,7 @@
      ],
      "ask": "Which would you do first, and could you do both?",
      "a": "Answers vary. A strong answer notes that saving costs nothing. Panels work best at a school that already wastes little. So both together are best.",
-     "why": "Using less and making more are both good. Each unit saved is a unit that need not be made, which is why many engineers say to save first.",
+     "why": "Using less and making more are both good. Electricity that is saved does not have to be made, which is why many engineers say to save first.",
      "outcome": 6
     },
     {
@@ -2723,7 +2756,7 @@
      "p": "A friend says, 'Solar panels make energy from nothing.' What is a better way to say it?",
      "lines": 3,
      "a": "Solar panels catch sunlight from the Sun and turn about 20 parts in every 100 of it into electricity. The rest becomes warmth.",
-     "why": "A strong answer says where the energy comes from and does not claim it is made from nothing. A good panel today turns about 20 in 100 parts of the sunlight into electricity.",
+     "why": "A strong answer says where the energy comes from and does not claim it is made from nothing. A good panel today turns roughly 20 of every 100 parts of the sunlight into electricity.",
      "outcome": 4
     },
     {
@@ -2952,11 +2985,11 @@
    "t": "mcq",
    "p": "Cooking gas in a cylinder is a fuel, and sunlight is not. Why?",
    "opts": [
-    "Gas costs money and sunlight is free",
     "Gas is burnt for its stored energy, and sunlight is not burnt",
+    "Gas costs money and sunlight is free",
     "Gas has more energy than sunlight"
    ],
-   "a": 1,
+   "a": 0,
    "why": "A fuel is something we burn to let out the energy stored in it. Sunlight is an energy source that nothing burns. If you chose the price, that tells us about shops and not about energy. Gas does not hold more energy than sunlight, since the Sun sends far more than we use.",
    "outcome": 0
   },
@@ -3022,20 +3055,20 @@
   },
   {
    "t": "mcq",
-   "p": "In the beans test, Bowl B gets 3 beans a round. Which way of taking lets it last?",
+   "p": "A bowl gets 3 beans put back every round, and a player takes beans out every round. Which way of taking lets the bowl last?",
    "opts": [
     "Taking 5 a round",
     "Taking 3 or fewer a round",
     "Taking 4 a round, because beans are left after 15 rounds"
    ],
    "a": 1,
-   "why": "With 3 or fewer taken, Bowl B never shrinks, since 3 come back. Taking 5 empties it in round 9. Taking 4 leaves 5 beans at round 15, but it falls by one a round and is empty in round 17, so it only looks safe.",
+   "why": "With 3 or fewer taken, Bowl B never shrinks, since 3 come back. Taking 5 empties it in round 10. Taking 4 leaves 5 beans at round 15, but it falls by one a round and is empty in round 17, so it only looks safe.",
    "outcome": 3,
    "how": "e1"
   },
   {
    "t": "mcq",
-   "p": "Bowl A never gets any beans. If you take beans very slowly, what happens?",
+   "p": "A bowl never gets any beans put back. If you take beans from it very slowly, what happens?",
    "opts": [
     "It empties, only later",
     "It never empties, because slow is safe",
@@ -3048,14 +3081,14 @@
   },
   {
    "t": "mcq",
-   "p": "A forest is cut faster than it grows. What does the beans test tell us?",
+   "p": "A forest is cut faster than it grows. What is true about it?",
    "opts": [
     "It is still renewable, because trees grow",
     "It can run out, because renewable depends on both speeds",
-    "Nothing, because a forest is not a bowl"
+    "It is safe, because a forest is very big"
    ],
    "a": 1,
-   "why": "In the test, the same Bowl B lasted at one speed and ran out at another. Renewable is about how fast we take compared with how fast nature gives back. A forest is not a bowl, but the same two speeds decide how long it lasts.",
+   "why": "Renewable is about how fast we take compared with how fast nature gives back. In the beans test, the same Bowl B lasted at one speed and ran out at another. A forest is not a bowl, but the same two speeds decide how long it lasts. Being big only makes the ending later.",
    "outcome": 3,
    "how": "e1"
   },
@@ -3111,11 +3144,11 @@
    "t": "mcq",
    "p": "A 9 watt LED and a 60 watt bulb give equal light for 5 hours. How much more energy does the old one use?",
    "opts": [
-    "51 watt-hours",
     "255 watt-hours",
+    "51 watt-hours",
     "300 watt-hours"
    ],
-   "a": 1,
+   "a": 0,
    "why": "The old bulb uses 60 times 5, which is 300 watt-hours. The LED uses 9 times 5, which is 45. The difference is 255. If you chose 51, you found the difference in watts and forgot the hours. If you chose 300, you gave the old bulb's total and did not subtract the LED's.",
    "outcome": 6
   },
@@ -3192,7 +3225,7 @@
   },
   {
    "j": "What is the difference between your idli and a lump of coal?",
-   "a": "Both are old sunlight, but the idli only waited since last season."
+   "a": "Both are stored sunlight. The idli waited a few months. The coal waited 300 million years, and still nobody serves it with sambar."
   },
   {
    "j": "Why was Bowl A so sad?",
@@ -3238,8 +3271,8 @@
   },
   {
    "problem": "On a rope of time, 1 centimetre stands for 1 million years. The coal swamps were 280 million years ago. The first people of our kind were 300,000 years ago. How far along the rope is each, and how many times farther is the coal than the people?",
-   "answer": "The coal is at 280 centimetres and the first people at 0.3 centimetre, which is 3 millimetres. The coal is about 930 times farther.",
-   "explain": "280 million divided by 1 million is 280 centimetres. 300,000 divided by 1,000,000 is 0.3 centimetre. 280 divided by 0.3 is about 933.",
+   "answer": "The coal is at 280 centimetres and the first people at 0.3 centimetre, which is 3 millimetres. The coal is roughly 930 times farther.",
+   "explain": "280 million divided by 1 million is 280 centimetres. 300,000 divided by 1,000,000 is 0.3 centimetre. 280 divided by 0.3 is roughly 933.",
    "math_unit": "math.measurement-basics.scale-models.L4",
    "how": "a2",
    "context": "This problem uses the scale of the rope of time to compare how old coal is with how old our species is.",
@@ -3313,7 +3346,7 @@
  "buy": [
   {
    "id": "b-beans",
-   "item": "Dried beans such as rajma or chana, about 250 grams",
+   "item": "Dried beans such as rajma or chana, 250 grams",
    "kind": "material",
    "why": "For the two bowls test and the shared forest game. About ₹30 to ₹60 from any provision shop. Dried moong, buttons or paper squares also work.",
    "url": "https://www.amazon.in/s?k=rajma+250g",
@@ -3499,7 +3532,7 @@
    [
     "Using less energy is a way of making a source last longer.",
     true,
-    "Every unit not used is fuel that stays in the ground, or a source that has time to recover."
+    "Every bit of energy not used is fuel that stays in the ground, or a source that has time to recover."
    ],
    [
     "A big dam has no cost, because the water comes back every year.",
