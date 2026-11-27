@@ -483,7 +483,7 @@ The next morning, Lakshmi found Arjun on the balcony with a pile of fallen curry
   *Parent does:* 1. Pour the clear water from the top, slowly. 2. Scoop the thick mud from the top layer into a bowl. 3. Press and knead it, like a roti dough, until it holds together. 4. Shape a small bowl or a diya. 5. Leave it in the sun to dry for a day or two.  
   *Parent says:* The thick mud on top is the finest grains, the silt and the clay. Pour off the water, and knead it. Now shape it like a potter.  
   *Child mode:* Pour off the water. Knead the mud. Make a small shape and leave it in the sun.
-  - Note: The layer at the bottom is sand. Keep only the fine mud above it. If the clay cracks as it dries, wet your fingers and smooth it. Sun-dried clay is not as hard as clay fired by a potter, and it may soften again in water.
+  - Note: The layer at the bottom is sand. Keep only the fine mud above it. If the clay cracks as it dries, wet your fingers and smooth it. Sun-dried clay is not as hard as clay fired by a potter, and it may soften again in water. If the water is still cloudy, the clay has not all settled. Wait one more day, as in the soil jar.
   - Wait: The next day
 
 ## Projects
