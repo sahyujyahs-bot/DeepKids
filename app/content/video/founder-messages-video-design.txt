@@ -1,0 +1,163 @@
+--- 2026-11-24T19:33
+I want to post a reel on insta introducing the app. 
+
+With our app screens we need to make a video. But not just static screen images and text, but with clicks opens etc. 
+
+I'm thinking out loud. 
+
+Introducing the DeepKids Gurukul - the only tool homeschooling parents need for kids aged x-y (fill x to y)
+
+No more spending hours researching topics, curating resources. No more sleepless nights worrying what to teach tomorrow! 
+
+Yearly to daily plans with content delivered to you and
+Tracking made easy so you never have to worry if your child is learning enough. 
+
+Follow a board of your choice or opt for DeepKids track. 
+
+DeepKids track is special, ambitious. Doesn't underestimate kid's abilities to learn.  Doesn't limit what topics a kid can learn. Every topic is presented age appropriately across 5 levels. 
+
+An intelligent app that bends with your child's interests & their moods. No plan is set in stone. If you don't like the topic planned for the day, swap with another your heart wants. 
+
+Learning is not limited to reading & happens across life experiences. Our app tracks those and uses them to teach - cooked dal today? - learn about how pressure cooker works; your child loves badminton? - there is math and physics involved in the game - the app delivers those content. 
+
+Every unit has a story, printable games to play, printable worksheets, activities, experiments and thought provoking open ended questions, flashcards, scientist stories, & more.
+
+Every concept is delivered at a depth like no other app or book written for kids - different perspectives, how concepts connect with everyday life and a lot more. No rote learning , no drone like definitions. 
+
+Meet IAm, the Guru at DeepKids - inspired by lord Narasimha because your kids are also like Prahaladan, who learned everything when in the womb.  He can answer your questions, he can help you assess your kids work & more. 
+
+DeepKids is rooted in the belief that kids are deep & can grasp concepts far better than an adult brain. We believe learning happens through play,  life experiences & free thinking - our content follows these believes. 
+
+Try it for free at app.deepkids.in  
+
+--- 2026-11-24T20:06
+Go back to my content. 
+
+It has  12 points including the introducing line and the last try for free line. 
+ Can be done in 60s
+
+You can paraphrase the lines maybe. 
+
+1. Introducing the DeepKids Gurukul - the only tool homeschooling parents need for kids aged x-y (fill x to y)
+ - show our welcome screen slides scrolled through. 
+
+
+2. No more spending hours researching topics, curating resources. No more sleepless nights worrying what to teach tomorrow!  
+
+
+3. Yearly to daily plans with content delivered to you and
+Tracking made easy so you never have to worry if your child is learning enough and 4. Follow a board of your choice or opt for DeepKids track. 
+
+- quick flow of parents giving child's info, choosing board track and a board and a flow with them choosing DeepKids track and clicking on build my plan and the today's screen with the lessons, then a scroll through of progress section & school transcript section. 
+
+
+5. DeepKids track is special, ambitious. Doesn't underestimate kid's abilities to learn.  Doesn't limit what topics a kid can learn. Every topic is presented age appropriately across 5 levels.
+- scroll through of units in each level under DeepKids track
+
+6. An intelligent app that bends with your child's interests & their moods. No plan is set in stone. If you don't like the topic planned for the day, swap with another your heart wants. 
+
+- flow of parents swapping a topic to a different one , then going to library and adding to my plan for the next day
+
+7. Learning is not limited to reading & happens across life experiences. Our app tracks those and uses them to teach - cooked dal today? - learn about how pressure cooker works; your child loves badminton? - there is math and physics involved in the game - the app delivers those content. 
+
+- flow of parents adding to plan an activity like cooked dal & getting a list of related units and adding them to plan. 
+
+8. Every unit has a story, printable games to play, printable worksheets, activities, experiments and thought provoking open ended questions, flashcards, scientist stories, & more.
+
+Scroll through of one unit from library - open each part mentioned here and show them - select a unit which has all images filled properly. Pick our best one. 
+
+9. Every concept is delivered at a depth like no other app or book written for kids - different perspectives, how concepts connect with everyday life and a lot more. No rote learning , no drone like definitions. 
+-  show few cards from different units with some deep content, questions, etc. 
+
+
+10. Meet IAm, the Guru at DeepKids - inspired by lord Narasimha because your kids are also like Prahaladan, who learned everything when in the womb.  He can answer your questions, he can help you assess your kids work & more. 
+- IAm and chat - flow of a parent asking to explain fractals and his answer. 
+
+11. DeepKids is rooted in the belief that kids are deep & can grasp concepts far better than an adult brain. We believe learning happens through play,  life experiences & free thinking - our content follows these believes. 
+- an image of pregnant prahaladans mom listening to naradhar teaching and a baby visible through the womb listening intently and learning - maybe use openart to generate the image or find from the internet if possible. 
+
+12. Try it for free at app.deepkids.in
+Final link. 
+--- 2026-11-24T20:41
+Everything was so fast.  Cant really see anything. 
+ These two screens are super ugly. Use our fonts. What fonts are these here? Bad! And make it look beautiful. 
+
+Our welcome screens are also actually quite ugly.  Soo much text. I don't know how to fix that. 
+
+ For the video use desktop screens. 
+
+Music is too repetitive. Its lowkey irritating too. 
+
+Scroll through of today, units in each level etc must go fully , scroll till the end. 
+
+Scroll through of an unit to show the depth and parts , must be much better. Its just name sake. Nothing can be actually seen or read. You just open some parts and stop at the images. 
+
+Showing depth - in one single screen show a few cards with the actual content that is thought provoking and deep. 
+
+The captions must be more obvious , stay throughout that scene and not just vanish immediately after. 
+
+I think during the parahaladan screen we need to say that story part too from part 10. 
+
+If video becomes longer it's ok
+--- 2026-11-24T22:04
+Make sure the text on screen recording plays well along with the video text and is not repeating. 
+
+The first screen introducing DeepKids and learning that goes deep match. 
+
+Second can be No more sleepless nights researching & curating resources would match with  - instead of everything ready everyday on app screen say yearly to daily plans & content that adapt to your child's interests
+
+Third Instead of know what your child has learned - say Never worry if your child is learning enough and on app screen say -intelligent tracking across learning on the app and outside the app instead of  know what your child has learned. 
+
+Fourth Meet IAm screen content can be  - IAm , Guru at DeepKids, inspired by Lord Narasimha
+
+After that at 0.22s there is a brief view of the first welcome screen again while text reads tell us about your child. That has to go. 
+
+
+Will send more changes. Continue waiting
+
+--- 2026-11-24T22:36
+When saying app that bends with child the screen pauses briefly at the today before the opening a lesson from there and clicking on swap. Instead start with opening the lesson and clicking on swap while text reads this.  Also, click on do next and show the celebration animation saying the new unit is added to queue.  Again when saying library , screen comes back to today and pauses a bit, instead start with clicking on library &  adding to plan scene with celebration. 
+Again when saying learning is not only reading the screen comes back to today for a bit instead start with typing cooked dal flow while text above changes to cover all we have for that scene. 
+ 
+When asking cooked dal?  Tell the app. It delivers the related science. 
+ 
+The science math & more inside it , heat temp nutireies content can go away and jump to the add them all in one click thing. 
+
+
+
+--- 2026-11-25T14:49
+about our unit walkthrough video -- i feel like what needs to come out is, what is special about us. our big think questions, different perspectives, the depth with which we approach, the perspectives from old texts, games, activities, experiments & if we can also contrast with the other apps
+--- 2026-11-25T15:03
+yeah. we can make contrast a separate video.  2 videos here. one more video where we talk about how our content is grounded in certain philosophies - where we dont delivere theories like they are truths, where science doesnt know for sure or is debated it is presented and not try to avoid conflicting ideas, how we  keep the anthropocentric bias away, science is also replete with patrairchal biases and we consciously avoid it too, we give indian context while most science avl on the internet carries more of western context.   4th video - is actually against you. why is this app needed at all, when anyone can use AI to learn - how you hallucinate sometimes or silently pass on wrong information , like you once said nails are made of steel or iron i forget) but i questioned and then you corrected - it could have been easily missed and i could have gone ahead believing nails are made of an element which it is actually not, or how when we upload a school book or notes and ask you for worksheets, you tend to give shallow ones, with repetitive questions - the way to use ai efficiently is to question, challenge, drill deep, and already come with a perspective and base understanding of the subject etc - otherwise it is easy to be mislead.
+--- 2026-11-25T15:56
+Slide 2 - screen shows the second question - true learning happens when we stay with questions long enough for answers to come from within    Slide 3 - almost every concept in science is still debated even among scientists. Multitude of perspectives are what makes life, universe & science so interesting. Text books & schools avoid perspectives & prefer conformity. We embrace it.  - the current screen doesn't really show different perspectives and too much text in the screen - no one can read in the video - show the 2 perspective side by side, stated simply with illustrations.    slide 4 -  There is a lot more scientists don't know than they do. We present the unanswered questions in every unit - maybe your child will be the one to find the answer! - the screen too texty again - wont work for video - ust show the questions, present beautifully.  slide 5 -  There are many ideas people believe to be true which aren't. We present them for kids to challenge the assumptions -- screen instead of current ones, show the one about characteristics pass through blood statement (people generally say its in my blood about a character of theirs) - but is it in their blood or in their DNA?    slide 6 - most apps & text books think a definition and shallow description is enough, but we go deep - again the screen is full of text and only shows 2 points - we can show more points succinctly  slide 7 - every unit comes with scientist stories -- screen - story as illustration rather than story as  text  slide  8 - Humans have always been thinking about deep questions. It is important to know what they figured out 1000s of years back - we present passages from old texts from across the world. -- screen shows different texts - but present beautifully.  Slide 9 - every unit comes with printable board & card games, worksheets, experiments and activities  - because kids learn through play! - show in pictures the games, experiments and activities.   slide 10 - end slide   -- across all slides, illustrations, images led - app can have all the text, but the same cannot go on videos. but the point must also come across, without too much text  & the images must help in getting the point across.
+--- 2026-11-25T19:03
+No . Not this. The  every cell in the body carries the same dna. But how does one cell know to become skin and another bone? 
+A tiny mustard seed carries the plan for the whole plant, is the plan same thing as the plant? 
+
+Every living thing uses the same 4 letters. Are we all the same then? 
+
+The voice over says this. The animation shows this. Heading says Big think questions in every unit. 
+
+Similarly each slide. Can you show me each slide please
+
+
+But wait I watched the video again. Its not that bad. Where it gets difficult is when one screen has many questions and the voice over is meta about the app, I can't read all the questions. 
+
+
+Haaaaa... 
+
+Wait. Let's think through. 
+
+
+I think let's keep the video you have made. 
+
+Remove the extra text on top. Just keep the animation flow with the current voice over.  That removes some distraction.
+
+Show me that first. Just give me each screen first please. 
+--- 2026-11-25T19:09
+Let's do this. 
+
+One video. 
+
+The first 3 questions we have , it's animations and last slide the app feature - we don't need our kids to memorise qs and as. We need them to think & be original. That's why DeepKids has big think questions for every unit. We got voice over for this part. But not for the first three slides. You can fix the gap i suppose. Alba was the best. Let's see if two voices together works..else we can have alba for the last part too.  We got the animations for the questions now. Not for the app feature. What animation can we show for it? 
