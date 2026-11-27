@@ -27,6 +27,12 @@
    "art": "A girl walking beside a row of metre marks, with a clock showing one minute."
   },
   {
+   "term": "Friction",
+   "meaning": "The rubbing between two things that touch, which slows a sliding thing down.",
+   "example": "A toy car rolled over a rug stops sooner than on a tiled floor, because the rug rubs against it more.",
+   "art": "A toy car rolling over a rug and a tiled floor."
+  },
+  {
    "term": "Distance",
    "meaning": "How far it is from one place to another along the path taken.",
    "example": "The track in the toy car test is 200 centimetres from the start line to the end line.",
@@ -243,6 +249,12 @@
    "art": "Jupiter with its moon Io slipping into Jupiter's shadow."
   },
   {
+   "term": "Vibration",
+   "meaning": "A quick back-and-forth shaking. Sound is made by vibrations.",
+   "example": "When someone taps the far end of a long metal railing, the railing vibrates and you hear the tap through it.",
+   "art": "A railing with small wavy lines along its length."
+  },
+  {
    "term": "Reaction time",
    "meaning": "The time between seeing something and moving your body in answer. It is about a fifth of a second for most people.",
    "example": "Hold a ruler for a friend and let go. The distance it falls before they catch it shows their reaction time.",
@@ -253,6 +265,12 @@
    "meaning": "A word for the physics of the very small, of atoms and the pieces inside them, where the rules are strange.",
    "example": "Quantum physics is how scientists explain why atoms hold together at all.",
    "art": "An atom zoomed in, with a small question mark beside it."
+  },
+  {
+   "term": "Entanglement",
+   "meaning": "A link between two particles made together, so that measuring one tells you what the other will show, however far apart they are. It cannot be used to send a message.",
+   "example": "Two entangled photons are sent to two cities. Each city sees a random list of ups and downs, and the lists match perfectly when the cities compare them by phone.",
+   "art": "Two cities far apart, each with a detector and a list of ups and downs, joined by a phone call."
   }
  ],
  "explanations": [
@@ -533,6 +551,32 @@
    "context": "This card tells how the speed limit of the universe has been tested, and which questions about it are still open."
   },
   {
+   "concept": "Entangled photons seem to answer at once, but they cannot carry a message",
+   "status": "debated",
+   "definition": "Two photons can be linked so that measuring one tells you what the other will show, however far apart they are. No message travels this way, so light's speed limit still holds.",
+   "description": "Two photons are made together in a special way, and then sent far apart. Measure one, and the result looks random, say up or down. Measure the other, and it always gives the matching result. Taken alone, each list of results tells you nothing. The match shows only when the two watchers compare their lists, and they must do that by phone or post, at light's speed or slower. So no message gets across faster than light. Experiments show that the photons did not simply agree their answers in advance. In 2013 a team in China found that if anything passes between them, it would have to go at least 10,000 times faster than light. Scientists still argue about what the link really is.",
+   "examples": [
+    "In 2017 a Chinese satellite called Micius sent entangled photons to two ground stations about 1,200 kilometres apart.",
+    "In 2022 the Nobel Prize in Physics went to Alain Aspect, John Clauser and Anton Zeilinger for their experiments with entangled photons."
+   ],
+   "perspectives": [
+    {
+     "who": "Albert Einstein, Boris Podolsky and Nathan Rosen, in 1935",
+     "explanation": "They said a complete theory should not allow a link like this. Einstein later called it spooky action at a distance. They thought the photons must have agreed their answers beforehand, in some hidden way."
+    },
+    {
+     "who": "John Bell, in 1964, and the experimenters who followed him",
+     "explanation": "Bell found a way to test the question. Experiments by Clauser, Aspect, Zeilinger and others have shown again and again that the photons did not simply agree their answers in advance. The link is real."
+    },
+    {
+     "who": "Most physicists today",
+     "explanation": "The link is real and still cannot send a message, because each result alone is random. Relativity and quantum physics both hold. What the link means is still debated, and several different pictures of it are still argued."
+    }
+   ],
+   "art": "Two photons leaving a glowing source in opposite directions, each reaching a detector, with two lists of ups and downs that match when laid side by side.",
+   "context": "This card is here because entanglement looks like instant communication, which would break the speed limit of light. It shows why it does not."
+  },
+  {
    "concept": "Is empty space really empty? The ether that was guessed to carry light",
    "status": "idea",
    "definition": "The ether was a still, invisible substance, the same everywhere, that was guessed to carry light. Today space itself is said to have physical properties.",
@@ -603,10 +647,10 @@
    "one_view": "These are historical facts that historians of science agree on, and the lesson drawn from them is simply that a guess has to be tested."
   },
   {
-   "concept": "Ākāśa: what Indian thinkers said space is, and what sound and all beings come from",
+   "concept": "Ākāśa: more than the sky, the space that old Indian thinkers said sound and all beings come from",
    "status": "idea",
-   "definition": "In Indian thought, ākāśa is space, the thing that sound is a sign of and that beings arise from. It was an idea formed without experiments of this kind.",
-   "description": "In Indian thought, ākāśa means space. Thinkers asked what sound travels in and what things arise from, and ākāśa was their answer. They formed it with no experiments of the kind used for the ether or dark matter. The Vaisheshika school said ākāśa is one and everywhere, and that sound points to it. The Upanishads, old Indian texts, say that beings arise from ākāśa and go back into it. Some modern writers compare ākāśa to the ether or to the quantum vacuum. Nothing shows that anyone anticipated dark matter. It is an interesting parallel in role, not evidence. What would you want to test?",
+   "definition": "In everyday speech ākāśa means the sky. In the old Indian philosophies it means something wider: all-pervading space, one of the five basic elements, the thing that sound is a sign of and that beings arise from.",
+   "description": "In everyday Hindi, ākāśa or ākāsh means the sky. In the old Indian philosophies it means something wider: space that is everywhere, one of the five basic elements, with earth, water, fire and air. Thinkers asked what sound travels in and what things arise from, and ākāśa was their answer. English translators often called it ether, after the Greek word for the fifth element. That is a translation habit, and it is not the physicists' ether, which was a different idea. The Vaisheshika school said ākāśa is one and everywhere, and that sound points to it. The Upanishads say that beings arise from ākāśa and go back into it. Ākāśa was formed with no experiments of the kind used for the ether or dark matter. Some modern writers compare it to the quantum vacuum. Nothing shows that anyone anticipated dark matter. It is an interesting parallel in role, not evidence. What would you want to test?",
    "examples": [
     "Put your ear to a long railing while someone taps the far end. The sound of the tap, which the Vaisheshika thinkers took as the sign of ākāśa, reaches you through the metal."
    ],

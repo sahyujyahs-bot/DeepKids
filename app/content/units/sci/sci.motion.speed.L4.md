@@ -15,6 +15,7 @@
 
 ## Terms
 - **Speed**: How much distance something covers in each second, minute or hour. *e.g.* A girl who walks 60 metres in one minute has a speed of 60 metres per minute.
+- **Friction**: The rubbing between two things that touch, which slows a sliding thing down. *e.g.* A toy car rolled over a rug stops sooner than on a tiled floor, because the rug rubs against it more.
 - **Distance**: How far it is from one place to another along the path taken. *e.g.* The track in the toy car test is 200 centimetres from the start line to the end line.
 - **Time taken**: How long something lasts from its start to its finish. *e.g.* The stopwatch shows that the car needed 3 seconds to go from the start line to the end line.
 - **Unit of speed**: The way a speed is written: a measure of distance and a measure of time, such as metres per second. *e.g.* Centimetres per second for a toy car, kilometres per hour for a bus, centimetres per year for a continent.
@@ -51,8 +52,10 @@
 - **Galaxy**: A huge group of billions of stars held together by gravity. *e.g.* Our Sun is one of hundreds of billions of stars in the Milky Way.
 - **Tectonic plate**: One of the huge slabs of rock that make up the Earth's outer shell. They move very slowly. *e.g.* The plate that carries India moves north-east by about 5 centimetres a year, and its push built the Himalayas.
 - **Eclipse**: When one thing moves into the shadow of another, so its light is hidden. *e.g.* Io, a moon of Jupiter, goes into Jupiter's shadow every 42 hours, and Ole Rømer timed these eclipses.
+- **Vibration**: A quick back-and-forth shaking. Sound is made by vibrations. *e.g.* When someone taps the far end of a long metal railing, the railing vibrates and you hear the tap through it.
 - **Reaction time**: The time between seeing something and moving your body in answer. It is about a fifth of a second for most people. *e.g.* Hold a ruler for a friend and let go. The distance it falls before they catch it shows their reaction time.
 - **Quantum**: A word for the physics of the very small, of atoms and the pieces inside them, where the rules are strange. *e.g.* Quantum physics is how scientists explain why atoms hold together at all.
+- **Entanglement**: A link between two particles made together, so that measuring one tells you what the other will show, however far apart they are. It cannot be used to send a message. *e.g.* Two entangled photons are sent to two cities. Each city sees a random list of ups and downs, and the lists match perfectly when the cities compare them by phone.
 
 ## Explanations
 ### Speed is the distance covered in each second, minute or hour · *defined*
@@ -164,6 +167,15 @@ That limit has passed every test so far, and people keep testing it. In 2011 a t
 - **Most physicists, following Albert Einstein:** The limit has passed every test for more than a hundred years. A particle with mass would need endless energy to reach it.
 - **E. C. George Sudarshan, born in Kerala, with Olexa-Myron Bilaniuk and V. K. Deshpande, in 1962:** Einstein's sums forbid crossing the speed of light. They do not forbid particles that have always been faster than light and can never slow down to it. Such particles were later named tachyons. Nobody has found one, and most physicists doubt that they exist.
 - **Cosmologists, who study the universe as a whole:** The limit is about motion through space. Space itself can stretch at any rate. So there are galaxies whose light, sent out today, will never reach us.
+### Entangled photons seem to answer at once, but they cannot carry a message · *debated*
+**Definition:** Two photons can be linked so that measuring one tells you what the other will show, however far apart they are. No message travels this way, so light's speed limit still holds.
+
+Two photons are made together in a special way, and then sent far apart. Measure one, and the result looks random, say up or down. Measure the other, and it always gives the matching result. Taken alone, each list of results tells you nothing. The match shows only when the two watchers compare their lists, and they must do that by phone or post, at light's speed or slower. So no message gets across faster than light. Experiments show that the photons did not simply agree their answers in advance. In 2013 a team in China found that if anything passes between them, it would have to go at least 10,000 times faster than light. Scientists still argue about what the link really is.
+- e.g. In 2017 a Chinese satellite called Micius sent entangled photons to two ground stations about 1,200 kilometres apart.
+- e.g. In 2022 the Nobel Prize in Physics went to Alain Aspect, John Clauser and Anton Zeilinger for their experiments with entangled photons.
+- **Albert Einstein, Boris Podolsky and Nathan Rosen, in 1935:** They said a complete theory should not allow a link like this. Einstein later called it spooky action at a distance. They thought the photons must have agreed their answers beforehand, in some hidden way.
+- **John Bell, in 1964, and the experimenters who followed him:** Bell found a way to test the question. Experiments by Clauser, Aspect, Zeilinger and others have shown again and again that the photons did not simply agree their answers in advance. The link is real.
+- **Most physicists today:** The link is real and still cannot send a message, because each result alone is random. Relativity and quantum physics both hold. What the link means is still debated, and several different pictures of it are still argued.
 ### Is empty space really empty? The ether that was guessed to carry light · *idea*
 **Definition:** The ether was a still, invisible substance, the same everywhere, that was guessed to carry light. Today space itself is said to have physical properties.
 
@@ -192,10 +204,10 @@ A puzzle that old ideas cannot explain makes scientists guess at something hidde
 - e.g. The neutrino: guessed by Wolfgang Pauli in 1930 and found in 1956.
 - e.g. Vulcan: a planet that Urbain Le Verrier guessed in 1859 to explain Mercury's odd orbit. Einstein's new theory of gravity explained the orbit in 1915 with no hidden planet.
 - e.g. The ether: guessed to carry light, then found to be unnecessary.
-### Ākāśa: what Indian thinkers said space is, and what sound and all beings come from · *idea*
-**Definition:** In Indian thought, ākāśa is space, the thing that sound is a sign of and that beings arise from. It was an idea formed without experiments of this kind.
+### Ākāśa: more than the sky, the space that old Indian thinkers said sound and all beings come from · *idea*
+**Definition:** In everyday speech ākāśa means the sky. In the old Indian philosophies it means something wider: all-pervading space, one of the five basic elements, the thing that sound is a sign of and that beings arise from.
 
-In Indian thought, ākāśa means space. Thinkers asked what sound travels in and what things arise from, and ākāśa was their answer. They formed it with no experiments of the kind used for the ether or dark matter. The Vaisheshika school said ākāśa is one and everywhere, and that sound points to it. The Upanishads, old Indian texts, say that beings arise from ākāśa and go back into it. Some modern writers compare ākāśa to the ether or to the quantum vacuum. Nothing shows that anyone anticipated dark matter. It is an interesting parallel in role, not evidence. What would you want to test?
+In everyday Hindi, ākāśa or ākāsh means the sky. In the old Indian philosophies it means something wider: space that is everywhere, one of the five basic elements, with earth, water, fire and air. Thinkers asked what sound travels in and what things arise from, and ākāśa was their answer. English translators often called it ether, after the Greek word for the fifth element. That is a translation habit, and it is not the physicists' ether, which was a different idea. The Vaisheshika school said ākāśa is one and everywhere, and that sound points to it. The Upanishads say that beings arise from ākāśa and go back into it. Ākāśa was formed with no experiments of the kind used for the ether or dark matter. Some modern writers compare it to the quantum vacuum. Nothing shows that anyone anticipated dark matter. It is an interesting parallel in role, not evidence. What would you want to test?
 - e.g. Put your ear to a long railing while someone taps the far end. The sound of the tap, which the Vaisheshika thinkers took as the sign of ākāśa, reaches you through the metal.
 - **The Vaisheshika school: Kanada's Vaisheshika Sutra, and Prashastapada's commentary of about the 6th century:** The sutra 2.1.27 says that ākāśa is known by a mark, which the commentators explain as sound. Sound is a quality, and a quality needs something it belongs to, so these thinkers reasoned that sound belongs to ākāśa. Prashastapada treats sound as a quality of ākāśa and says ākāśa is one and all-pervading.
 - **Taittiriya Upanishad, 2.1:** From the Self, the text says, space (ākāśa) came, and from space came air. Fire, water and earth follow in turn.
