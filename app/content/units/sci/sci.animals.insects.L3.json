@@ -126,10 +126,10 @@
   {
    "concept": "Compound eyes: thousands of small eyes, and colours we cannot see",
    "status": "defined",
-   "definition": "A compound eye is an eye made of many small units packed together, each with its own lens, each looking in a slightly different direction.",
-   "description": "Your eye has one lens. A dragonfly's eye has up to about 30,000, packed like the cells of a honeycomb. This is a compound eye. Each small unit sees one small patch, and the brain joins the patches. The picture is less sharp than yours. It is far better at catching movement, which is why a fly is gone before your hand lands. Insects also see different colours. Bees do not see red well, but they see ultraviolet, a colour our eyes cannot detect. Many flowers that look plain yellow to us have ultraviolet marks that point to the nectar. A bee sees the marks.",
+   "definition": "a compound eye is an eye made of many tiny lenses packed together, each one looking in a slightly different direction.",
+   "description": "Your eye has one lens. A dragonfly's eye has up to about 30,000, packed like the cells of a honeycomb. This is a compound eye. Each lens sees one small patch, and the brain joins the patches. The picture is less sharp than yours. It is far better at catching movement, which is why a fly is gone before your hand lands. Insects also see different colours. Bees do not see red well, but they see ultraviolet, a colour our eyes cannot detect. Many flowers that look plain yellow to us have ultraviolet marks that point to the nectar. A bee sees the marks.",
    "examples": [
-    "A worker honeybee has about 5,000 units in each compound eye, and three small single eyes on top of the head as well.",
+    "A worker honeybee has about 5,000 lenses in each compound eye, and three small single eyes on top of the head as well.",
     "In 1914 the Austrian scientist Karl von Frisch trained bees to come to blue cards among grey cards, and so showed that bees see colour.",
     "A fly can tell apart flashes of light that are too quick for our eyes to separate.",
     "Engineers have built small cameras shaped like compound eyes to see all around at once."
@@ -487,7 +487,7 @@
    "concept": "Sprays that kill insects also reach bees, and there are bee-safe ways",
    "status": "debated",
    "definition": "A pesticide is a poison made to kill animals who damage crops. Bee-safe ways protect plants while keeping pollinators unharmed.",
-   "description": "A poison sprayed on a crop does not choose. It kills the aphid, and also the ladybird and the bee. Then the aphids, who breed fastest, return first, with no hunters left. In 1962 the American scientist Rachel Carson set this out in her book 'Silent Spring'. There are other ways. Pick caterpillars off by hand. Cover young plants with a net. Wash aphids off with a jet of water. Grow marigold, coriander and mustard among the vegetables, to feed hunters and confuse leaf-eaters. If a spray is truly needed, neem is gentler than most. Spray at dusk, when bees have gone home, and never on open flowers.",
+   "description": "A poison sprayed on a crop reaches every insect. It kills the aphid, and also the ladybird and the bee. Then the aphids, who breed fastest, return first, with no hunters left. In 1962 the American scientist Rachel Carson set this out in her book 'Silent Spring'. There are other ways. Pick caterpillars off by hand. Cover young plants with a net. Wash aphids off with a jet of water. Grow marigold, coriander and mustard among the vegetables, to feed hunters and confuse leaf-eaters. If a spray is truly needed, neem is gentler than most. Spray at dusk, when bees have gone home, and never on open flowers.",
    "examples": [
     "Indian farmers have long mixed dried neem leaves into stored grain to keep weevils away.",
     "Yellow sticky cards and scent traps catch particular insects without poison.",
@@ -557,7 +557,7 @@
     },
     {
      "who": "Shelley Adamo, a Canadian scientist, and others",
-     "explanation": "Insect brains are small, and each of these behaviours can be produced by a fairly small circuit with no need for feeling. A robot can be built to avoid damage without feeling pain. They ask for stronger tests before deciding."
+     "explanation": "Insect brains are small, and each of these behaviours can be produced by a fairly small group of nerve cells with no need for feeling. A robot can be built to avoid damage without feeling pain. They ask for stronger tests before deciding."
     },
     {
      "who": "Jain teaching, in the Tattvartha Sutra, chapter 2",
@@ -595,7 +595,7 @@
    "claim": "Insects feel pain and should be protected as other animals are.",
    "who": "Lars Chittka, Matilda Gibbons and colleagues, in a 2022 review",
    "for": "Insects show learned avoidance, trade-offs between harm and reward, wound-tending in some kinds, and mood-like states. Their nervous systems can turn pain signals up and down, as ours can.",
-   "against": "Shelley Adamo and others answer that each behaviour can be explained by small circuits without experience, and that nobody has a test for feeling in a brain so different from ours.",
+   "against": "Shelley Adamo and others answer that each behaviour can be explained by small groups of nerve cells without experience, and that nobody has a test for feeling in a brain so different from ours.",
    "status": "debated",
    "context": "A question with large consequences, because people kill and farm insects in enormous numbers. The evidence has shifted in the last fifteen years and is not settled."
   },
@@ -641,7 +641,7 @@
    "hint": "Compare with your own body, where no single cell is in charge."
   },
   {
-   "q": "If the caterpillar who eats your plant becomes the butterfly who pollinates it, at what point did a 'pest' become a 'helper'?",
+   "q": "If the caterpillar who eats your plant becomes the butterfly who carries pollen between flowers, at what point did a 'pest' become a 'helper'?",
    "kind": "deep",
    "hint": "Ask whether the insect changed, or only your reason for looking."
   },
@@ -836,7 +836,7 @@
    "Tattvartha Sutra chapter 2. Acharanga Sutra book 1. Chandogya Upanishad 6.9. Brihadaranyaka Upanishad 2.5. Kuruntokai 2. Qur'an 16:68 to 69."
   ]
  },
- "playtest": "PLAYTEST_NOTE",
+ "playtest": "Notes for readers. None of the hands-on parts has yet been tried with a real family. They were walked through step by step on paper. The ant cafe (the main test) depends on the ants of your home and on the season, so the counts will differ from family to family. The steps give backups if no ants come in ten minutes: move the card closer to the trail, or leave it for an hour and count once. The wobble test, the smell cups, the picture eye, the card exoskeleton, the cocoon walk, the still-water hunt, the six-day plant watch, the sugar-bowl and water-pot design challenges and both card games are also untried. The water-pot challenge uses a mustard seed as a rough stand-in for a mosquito, which is not exact. Nothing in the lesson asks anyone to catch, keep or harm an insect, and no stinging insect is handled. The still-water hunt is the one place where the family chooses to tip out water that may hold mosquito young, and the step says so plainly. Videos still need their YouTube ids found and checked, and matching Khan Academy videos have not yet been added.\nFacts still to check against their sources: about ten lakh named insect species, and Stork's 2018 estimate of about 55 lakh. Schultheiss 2022 (about 20 quadrillion ants, 489 studies). The Tattvartha Sutra sutra numbers for the senses of worms, ants and bees. Butenandt 1959 and bombykol. Dragonfly and honeybee eye lens counts. Meganeura wingspan and age. Clapham and Karr 2012. Silkworm weight gain, four moults, cocoon thread length, a few days to spin, cocoons per sari, and silk at Harappa and Chanhu-daro (Good, Kenoyer and Meadow 2009). Kusuma Rajaiah and ahimsa silk, and Gandhi on silk. Klein 2007 (87 of 115 crops), and mango pollinated mostly by flies. Aristotle, Mendez de Torres, Butler and Swammerdam on the king bee. The waggle dance scale of about one second for one kilometre, and Wenner, Michelsen and Riley. The 2008 papaya mealybug outbreak and the 2010 wasp release, the vedalia ladybird in 1888, weaver ants in 304 CE, and the cards of tiny wasp eggs used by Indian farmers. Dacke 2013 and Australian dung beetles. Ronald Ross in Secunderabad on 20 August 1897, about six lakh malaria deaths a year, about 3,500 mosquito kinds, and a mosquito pupa that does not feed. Mosquito eggs that survive dry for months. The 2020 locust swarms and the FAO figure of 35,000 people's food per square kilometre of swarm per day. The 2018 EU ban on three neonicotinoids and Sikkim organic in 2016. Hallmann 2017 and van Klink 2020. Antarctic midge. Insect fossils about 40 crore years old. Cockroach speed of about fifty body lengths a second. The ladybird larva moulting several times. Muga rearing details in the story. Kuruntokai 2, Chandogya Upanishad 6.9 and Brihadaranyaka Upanishad 2.5. Redi 1668, Merian 1679, Blackiston 2008 and the FAO 2013 figure of about two hundred crore people who eat insects.",
  "terms": [
   {
    "term": "Insect",
@@ -900,8 +900,8 @@
   },
   {
    "term": "Compound eye",
-   "meaning": "An eye made of many small units, each with its own lens, looking in a slightly different direction.",
-   "example": "A dragonfly has up to about 30,000 units in each compound eye.",
+   "meaning": "An eye made of many tiny lenses packed together, each looking in a slightly different direction.",
+   "example": "A dragonfly has up to about 30,000 lenses in each compound eye.",
    "art": "A close-up of a dragonfly's head with its two large eyes in a honeycomb pattern."
   },
   {
@@ -921,6 +921,12 @@
    "meaning": "The thin air tubes inside an insect that carry air from the spiracles to every part of the body.",
    "example": "A grasshopper's tracheae branch again and again, until air reaches every muscle.",
    "art": "A cut-away grasshopper showing fine branching tubes from side holes."
+  },
+  {
+   "term": "Fossil",
+   "meaning": "The mark or the remains of a living being from long ago, kept in rock.",
+   "example": "A fossil dragonfly-like insect found in rock has wings about 70 centimetres across, much wider than any dragonfly alive.",
+   "art": "A dark outline of a giant insect wing pressed into a grey rock."
   },
   {
    "term": "Larva",
@@ -1225,7 +1231,7 @@
    ],
    "rules": [
     "Shuffle the 28 cards. With two players, deal 7 cards each. With three or four players, deal 5 each. Put the rest face down as the draw pile.",
-    "On your turn, ask any player for one stage card of an insect. Name the insect and the stage, as in 'Do you have the pupa of the ladybird?' You may ask only for an insect when you already hold one of her cards.",
+    "On your turn, ask any player for one stage card. Name the insect and the stage, as in 'Do you have the pupa of the ladybird?' You may ask only for an insect whose card you already hold.",
     "If the player has the card, they hand it over and you ask again. If not, they say 'Go and grow!' and you take the top card of the draw pile. If it is the card you asked for, show it and ask again. If not, your turn ends.",
     "When you hold every stage of one insect, lay the cards in life order on the table and read the back of each aloud. That is 4 cards for the silk moth, ladybird, mosquito and dung beetle, and 3 cards for the grasshopper, dragonfly, cockroach and cricket. Score 1 point for each card.",
     "Take 1 bonus point if you can say how the young stage looks different from the adult. The silk moth's young is a worm and the adult has wings. The grasshopper's young looks like the adult, only smaller.",
@@ -1319,7 +1325,7 @@
       },
       {
        "f": "A ladybird sits on a rose covered with aphids.",
-       "b": "A friend to the rose, because she eats the aphids. But the hadda beetle, a ladybird with 28 spots, eats brinjal leaves. Same family, different work."
+       "b": "A friend to the rose, because she eats the aphids. Not every ladybird hunts. One kind with 28 spots eats brinjal leaves instead."
       },
       {
        "f": "A wasp hovers over a picnic.",
@@ -1383,7 +1389,7 @@
      "id": "g2s1",
      "mins": 3,
      "do": "Read out the first card to your child. Say friend, foe or both, and give a reason. Then ask your child to find a place where the same insect would get the other name.",
-     "say": "An insect is called a friend or a foe by us, and we choose the name from where she is and what she is doing. Let us try it with a card.",
+     "say": "We call an insect a friend or a foe by where she is and what she is doing. Let us try it with a card.",
      "kid": "Listen to the first card. Say friend, foe or both. Say why.",
      "adult": false,
      "parent": "Model the answer once in a short sentence. Children often say 'foe' for stinging or biting insects and 'friend' for pretty ones. Ask them to give the reason, not only the word."
@@ -1415,7 +1421,7 @@
    "title": "The Ant Café: what do your ants choose, and how fast does the news spread?",
    "mins": 42,
    "days": 1,
-   "question": "Four small foods sit in a row beside an ant trail: sugar water, salt water, plain water and an oily crumb. Which one do the ants visit most, and how quickly do more ants come once one ant has found it?",
+   "question": "Four small foods sit in a row beside an ant trail: sugar water, salt water, plain water and an oily crumb. Which one do the ants visit most, and how quickly do more ants come once one ant has found the best food?",
    "predict": "Before you set anything out, guess which food will get the most ants and which will get the fewest. Say why you think so. Then guess how many minutes the first ant will take to find the best one.",
    "fair_test": "The four foods sit on four identical squares of tissue, in one row, each the same distance from the trail. Only the food changes. Each food is counted every 2 minutes for 10 minutes. Then the row is reversed and the foods are counted for 10 minutes more, because ants may simply like the square nearest to where they arrive. A food that wins in both rounds is a real winner.",
    "results_table": [
@@ -1468,15 +1474,15 @@
    "context": "In this experiment you set out four foods for the ants near your home and count who comes to each one. You find out what your ants choose, and how fast one ant's discovery turns into a crowd.",
    "setup": [
     {
-     "art": "A child sitting on a kitchen floor an arm's length from a line of ants walking along the foot of a wall, with a pencil and paper.",
+     "art": "A child sitting on a kitchen floor, an arm's length from a line of ants at the foot of a wall.",
      "caption": "1. Find a line of ants and sit an arm's length back."
     },
     {
-     "art": "A card with a row of four tissue squares 8 centimetres apart, marked A, B, C and D, with a katori of sugar water and a katori of salt water beside it.",
+     "art": "A card with four tissue squares in a row, marked A, B, C and D, and two katoris beside it.",
      "caption": "2. Make the four foods and put them on tissue squares in a row."
     },
     {
-     "art": "The card taped to the floor 10 centimetres from the ant line, with the row of squares running along the line, and a phone timer beside it.",
+     "art": "The card taped to the floor beside the ant line, with a phone timer beside the card.",
      "caption": "3. Tape the card down so every square is the same distance from the trail."
     },
     {
@@ -1502,12 +1508,12 @@
        ]
       }
      ],
-     "parent": "A guess is never marked right or wrong. If you see no ants, put one drop of sugar water on a card near a kitchen corner, a window sill or a plant pot and wait up to 15 minutes. If none come, try early morning or evening, or another day. Nobody touches the ants."
+     "parent": "A guess is never marked right or wrong. If you see no ants, put one drop of sugar water on a card near a kitchen corner, a window sill or a plant pot. Wait up to 15 minutes. If none come, try early morning, evening or another day. Nobody touches the ants."
     },
     {
      "id": "s2",
      "mins": 7,
-     "do": "Make the foods. Stir 1 teaspoon of sugar into 2 tablespoons of water in one katori until it is clear. Do the same with 1 teaspoon of salt in a second katori. Pour 2 tablespoons of plain water into a third. Crush a pinch of fried snack into the fourth. Put the four tissue squares on the card in a row, 8 centimetres apart. Wet the first with half a teaspoon of sugar water, the second with half a teaspoon of salt water and the third with half a teaspoon of plain water. Put the crushed snack on the fourth. Write A, B, C and D under the squares and note which food is where.",
+     "do": "Make the foods. Stir 1 teaspoon of sugar into 2 tablespoons of water in one katori until it is clear. Do the same with 1 teaspoon of salt in a second katori. Pour 2 tablespoons of plain water into a third. Crush a pinch of fried snack into the fourth. Put the four tissue squares on the card in a row, 8 centimetres apart. Wet the first with half a teaspoon of sugar water. Wet the second with half a teaspoon of salt water. Wet the third with half a teaspoon of plain water. Put the crushed snack on the fourth. Write A, B, C and D under the squares and note which food is where.",
      "say": "Each square is a small plate. We give every plate the same amount, so that only the food is different. Which square do you think the ants will find first?",
      "kid": "Make the three liquids. Wet three tissue squares, one with each. Put crushed snack on the fourth. Put the squares in a row.",
      "adult": false,
@@ -1516,7 +1522,7 @@
     {
      "id": "s3",
      "mins": 11,
-     "do": "Tape the card to the floor about 10 centimetres from the ant trail, with the row of squares running along the trail so that each square is the same distance from it. Start the timer. At 2, 4, 6, 8 and 10 minutes, count the ants standing on each square and write the numbers in the table. Note the minute when the first ant touches any square, and the minute when one square first holds 5 ants.",
+     "do": "Tape the card to the floor about 10 centimetres from the ant trail. Run the row of squares along the trail, so that each square is the same distance from the trail. Start the timer. At 2, 4, 6, 8 and 10 minutes, count the ants standing on each square and write the numbers in the table. Note the minute when the first ant touches any square, and the minute when one square first holds 5 ants.",
      "say": "Count only ants who are standing on a square, not ants walking past. Which square gets an ant first? Do more ants come after the first one?",
      "kid": "Tape the card near the trail. Every 2 minutes, count the ants on each square. Write the numbers down.",
      "adult": false,
@@ -1524,7 +1530,7 @@
       {
        "q": "What happens on the winning square after the first ant arrives?",
        "good": [
-        "More and more ants come. The first ant leaves a smell trail and her sisters follow it.",
+        "Many more ants come. The first ant leaves a smell trail and her sisters follow it.",
         "It gets crowded fast, much faster than the first ant took to arrive."
        ]
       }
@@ -1534,7 +1540,7 @@
     {
      "id": "s4",
      "mins": 2,
-     "do": "Reverse the row. The food at the left end goes to the right end, the next food goes to the second place from the right, and so on. Write which food is now on which square.",
+     "do": "Reverse the row. The food at the left end goes to the right end, and the food at the right end goes to the left. The two in the middle swap places. Write which food is now on which square.",
      "say": "Now every food is in a new place. Why would we move them?",
      "kid": "Reverse the row of squares. Every food gets a new place.",
      "adult": false,
@@ -1805,7 +1811,7 @@
     },
     {
      "art": "The two pictures side by side, with a bee and a dragonfly drawn above them.",
-     "caption": "3. Compare the pictures. More units show more detail."
+     "caption": "3. Compare the pictures. More lenses show more detail."
     }
    ],
    "flow": [
@@ -1813,7 +1819,7 @@
      "id": "a2s1",
      "mins": 4,
      "do": "Look at the picture to copy. Draw a square 12 centimetres wide on paper. Divide it into 16 equal squares, 4 across and 4 down.",
-     "say": "A compound eye is made of many small units, and each unit sees one small patch. Your brain joins the patches. We will make a picture the same way.",
+     "say": "A compound eye is made of many tiny lenses, and each lens sees one small patch. Your brain joins the patches. We will make a picture the same way.",
      "kid": "Draw a big square. Divide it into 16 equal squares.",
      "adult": false,
      "parent": "On squared paper, a block of 3 small squares by 3 small squares counts as one big square. A 12 centimetre square split into 4 by 4 gives squares of 3 centimetres."
@@ -1821,8 +1827,8 @@
     {
      "id": "a2s2",
      "mins": 7,
-     "do": "Fill each of the 16 squares with one colour only, the colour that fills most of that square in the real picture. Do not draw lines inside a square.",
-     "say": "Each square is one unit of an eye. It can show only one colour. Can you still see a flower?",
+     "do": "Fill each of the 16 squares with one colour only. Use the colour that fills most of that square in the real picture. Do not draw lines inside a square.",
+     "say": "Each square is one lens of an eye. It can show only one colour. Can you still see a flower?",
      "kid": "Fill each square with one colour only. Make a flower picture.",
      "adult": false,
      "ask": [
@@ -1839,19 +1845,19 @@
      "id": "a2s3",
      "mins": 9,
      "do": "Draw a second square of the same size, divided into 64 equal squares, 8 across and 8 down. Fill each with one colour. This will take a while, so take turns with a grown-up if your child likes.",
-     "say": "Now each unit is much smaller. There are four times as many units. What can you see now that you could not before?",
+     "say": "Now each lens is much smaller. There are four times as many lenses. What can you see now that you could not before?",
      "kid": "Draw the second square with 64 small squares. Fill each with one colour.",
      "adult": false,
-     "parent": "This is a rough model. A real compound eye has thousands of units and each one has its own lens, so the world is made of tiny patches too. A fly or a dragonfly sees movement very well because a moving thing passes from one unit to the next."
+     "parent": "This is a rough model. A real compound eye has thousands of lenses, so the world is made of tiny patches too. A fly or a dragonfly sees movement very well because a moving thing passes from one unit to the next."
     },
     {
      "id": "a2s4",
      "mins": 5,
      "do": "Put the two pictures side by side. Ask your child which shows the flower better. Then ask how a moving bee would look in each: crossing one big square, or 4 small ones.",
-     "say": "Which picture shows more detail? Which has more units? Why might the many units help to catch something moving?",
+     "say": "Which picture shows more detail? Which has more lenses? Why might many lenses help to catch something moving?",
      "kid": "Compare the pictures. Which shows more? Why?",
      "adult": false,
-     "think": "A bee has about 5,000 units in each eye and a dragonfly up to about 30,000. What does a dragonfly see that a bee does not?",
+     "think": "A bee has about 5,000 lenses in each eye and a dragonfly up to about 30,000. What does a dragonfly see that a bee does not?",
      "parent": "A bee sees ultraviolet light, which our eyes cannot see, and is poor at seeing red. Compound eyes make a less sharp picture than ours but catch movement very well. We cannot know exactly what an insect sees, only what the eye can and cannot sense."
     }
    ]
@@ -1861,10 +1867,10 @@
    "title": "Wear an outside skeleton: why an insect must moult",
    "mins": 20,
    "days": 1,
-   "context": "In this activity you make a stiff card tube for your forearm, as a model of an insect's outside skeleton. You find out why a hard cover needs joints, and why an insect must change it as she grows.",
+   "context": "In this activity you make a stiff card tube for your forearm, as a model of an insect's outside skeleton. You find out why a hard cover needs joints, and why an insect must change her cover as she grows.",
    "materials": [
     {
-     "item": "a stiff card, about 25 centimetres by 15 centimetres, from a cereal box",
+     "item": "a flattened empty cereal box",
      "qty": 2
     },
     {
@@ -1924,7 +1930,7 @@
     {
      "id": "a3s2",
      "mins": 6,
-     "do": "Take the tube off. Draw two lines around it, dividing it into three equal rings. Cut along the lines, with the adult doing the cutting, to make three rings. Tape the three rings together on one side with strips of tape or cloth, leaving a gap of about 1 centimetre between them. Slide it back on and bend the elbow.",
+     "do": "Take the tube off. Draw two lines around it, dividing it into three equal rings. Cut along the lines, with the adult doing the cutting, to make three rings. Tape the three rings together on one side. Use strips of tape or cloth, and leave a gap of about 1 centimetre between rings. Slide the tube back on and bend the elbow.",
      "say": "Insect legs have hard tubes with soft joints in between. Now where can your arm bend?",
      "kid": "Ask a grown-up to cut the tube into three rings. Join the rings with soft strips. Bend your elbow.",
      "adult": true,
@@ -1958,7 +1964,8 @@
      "think": "While a newly moulted insect is soft, what could happen to her? How could she stay safe?",
      "parent": "Hard armour protects and stops the insect drying out. The price is that she must moult, and she is soft and easy to hurt until the new skin hardens. Many insects moult in hiding, at night or under leaves."
     }
-   ]
+   ],
+   "safety": "A grown-up does the cutting with scissors. Keep the card tube loose on the arm."
   },
   {
    "id": "a4",
@@ -2014,7 +2021,7 @@
      "say": "A silkworm spins one long thread to make her cocoon. It can be several hundred metres, and sometimes about a kilometre. We will find out how long a walk that is.",
      "kid": "Measure 10 metres. Mark the start and the end.",
      "adult": false,
-     "parent": "No tape measure? Use a string marked every 1 metre by holding it against a metre ruler or a tailor's tape, or count 10 long strides of an adult and use that as about 10 metres."
+     "parent": "No tape measure? Use a string marked every 1 metre against a metre ruler or a tailor's tape. Or count 10 long strides of an adult and call that about 10 metres."
     },
     {
      "id": "a4s2",
@@ -2110,7 +2117,7 @@
     {
      "id": "a5s2",
      "mins": 12,
-     "do": "Walk through every room and outside. Look in flowerpot trays, buckets, a cooler's tank, a fridge tray, old tins, coconut shells, plant saucers, tyres and folds of plastic sheet. Shine the torch into dark ones. Write each place on the plan, and put a cross where there is still water.",
+     "do": "Walk through every room and outside. Look in flowerpot trays, buckets, a cooler's tank, a fridge tray, old tins, coconut shells, plant saucers, tyres and folds of plastic sheet. Use the torch in dark corners. Write each place on the plan, and put a cross where there is still water.",
      "say": "Look for any water that has stood for more than 2 days. Use the torch to look into dark places. Where might small wrigglers be?",
      "kid": "Find every place where water stands. Put a cross on your plan.",
      "adult": false,
@@ -2144,7 +2151,8 @@
      "think": "The mosquito young are eaten by fish and dragonfly nymphs. Why might emptying the water still matter?",
      "parent": "Young mosquitoes take about a week or a little more to become adults in warm weather. Emptying once a week breaks the cycle. Where water cannot be emptied, guppies or gambusia fish eat the young, and local health offices give these fish free in many places."
     }
-   ]
+   ],
+   "safety": "Check roof tanks and high places only with a grown-up. Wash your hands after handling pots and trays."
   }
  ],
  "projects": [
@@ -2176,7 +2184,7 @@
     {
      "day": 1,
      "mins": 15,
-     "what": "Choose the plant, draw it and make your first watch."
+     "what": "Choose a plant, then draw the plant and make your first watch."
     },
     {
      "day": 2,
@@ -2272,7 +2280,7 @@
      "say": "Is the plant the same at dusk? Is anybody new? Is anybody gone?",
      "kid": "Watch at dusk. Write who is new and who is gone.",
      "adult": false,
-     "parent": "A torch with red cloth or a small light helps. Evening watchers include moths and mosquitoes, so keep your distance and wash hands after. Do not go out in the dark alone."
+     "parent": "Evening watchers include moths and mosquitoes, so keep your distance and wash hands after. Stay where a grown-up can see you, and do not go out in the dark alone."
     },
     {
      "id": "p1s6",
@@ -2281,10 +2289,11 @@
      "say": "Did any insect do two different things? What would the plant's owner call her in each? What do you think the plant would say?",
      "kid": "Sort your notes by insect. Write all her doings. Give each doing a label: helpful, harmful or neither.",
      "adult": false,
-     "think": "The word 'friend' or 'foe' sits in us and our plans, or in the insect? How would you decide?",
+     "think": "Is 'friend' or 'foe' a part of the insect, or a result of where she is and what we want? How would you decide?",
      "parent": "Many records will show only one doing for each insect. That is fine, and the question is still open for your child to answer. A caterpillar who eats the leaf becomes a butterfly who visits flowers. An ant in the sugar tin is the same as an ant on a plant stem. The label belongs to where she is and what we want."
     }
-   ]
+   ],
+   "safety": "Stay a metre from the plant. Never touch an insect, and keep well away from bees, wasps and any nest. Wash your hands with soap afterwards."
   }
  ],
  "challenges": [
@@ -2312,7 +2321,7 @@
    ],
    "setup": [
     {
-     "art": "A bowl of sugar on a plate on the floor near an ant trail, with ants walking toward it.",
+     "art": "A bowl of sugar on a plate on the floor near an ant trail, with ants walking toward the bowl.",
      "caption": "1. Put an open bowl of sugar near a trail and watch how ants reach it."
     },
     {
@@ -2384,14 +2393,15 @@
     "Give the ants their own feeding spot far away, with a few crumbs, so they stop looking for the tin.",
     "Put the bowl on a stand with four legs, each in a small cup of water."
    ],
-   "your_turn": "Design a way that keeps ants away from the sugar and is kind to them. Draw it, build it, test it for 10 minutes, and tell which parts worked. There is more than one good answer, and none of the answers is ranked as best."
+   "your_turn": "Design a way that keeps ants away from the sugar and is kind to them. Draw it, build it, test it for 10 minutes, and tell which parts worked. There is more than one good answer, and none of the answers is ranked as best.",
+   "safety": "Do not touch the ants, because some kinds bite. Wash your hands afterwards and wipe up all the sugar at the end."
   },
   {
    "id": "c2",
    "title": "A lid for the water pot: keep mosquitoes out and still let the family dip a mug",
    "mins": 30,
    "context": "This is a design problem. A family keeps drinking water in an open pot, and mosquitoes could lay eggs in it. You design a cover that keeps small insects out but is easy to use.",
-   "problem": "Design a cover for a pot of water that stops mustard seeds, which stand in for a mosquito, from falling in, and still lets someone dip a mug quickly. There is more than one good answer.",
+   "problem": "Design a cover for a pot of water that stops mustard seeds from falling in. The seeds stand in for a mosquito. The cover must still let someone dip a mug quickly. There is more than one good answer.",
    "constraints": [
     "The family must be able to dip a mug without taking the whole cover off.",
     "The cover must stay on without a person holding it.",
@@ -2427,7 +2437,7 @@
      "id": "c2s1",
      "mins": 6,
      "do": "Stretch a cloth over the pot of water. Tie it with a rubber band or string. Sprinkle 20 mustard seeds on the cloth. Shake it gently for a count of 10. Count how many fell into the water.",
-     "say": "A mosquito is small. The mustard seed is about as wide as a small mosquito's body. If the seed goes through, a mosquito might too. How many fell in?",
+     "say": "A mosquito is small. The mustard seed is about as thick as a small mosquito's body. If the seed goes through, a mosquito might too. How many fell in?",
      "kid": "Tie a cloth over the pot. Sprinkle 20 seeds. Shake gently. Count how many fell in.",
      "adult": false,
      "parent": "A mustard seed is a rough stand-in for a mosquito, and not a perfect one. Real mosquito nets use holes finer than a mustard seed. Do not put any real mosquitoes or wrigglers into this test."
@@ -2482,7 +2492,8 @@
     "A pot with a small spout, so that water can be poured out without opening the top.",
     "A pot kept in a net bag, tied at the neck."
    ],
-   "your_turn": "Design your own cover for a water pot. Draw it, build it from things at home, test it with 20 mustard seeds and a mug, and tell what worked. There is more than one good answer."
+   "your_turn": "Design your own cover for a water pot. Draw it, build it from things at home, test it with 20 mustard seeds and a mug, and tell what worked. There is more than one good answer.",
+   "safety": "A grown-up does the cutting with scissors. Wash your hands after handling the pot."
   }
  ],
  "worksheets": [
@@ -2491,7 +2502,7 @@
    "title": "Insect or not, growing up and helping (core)",
    "tier": "core",
    "mins": 25,
-   "context": "This sheet checks that you can tell an insect from other small animals, name her body parts, follow how she grows and say what the word 'pest' means.",
+   "context": "This sheet checks that you can tell an insect from other small animals and name her body parts. It also checks that you can follow how she grows and say what the word 'pest' means.",
    "items": [
     {
      "t": "count",
@@ -2731,7 +2742,7 @@
       "Her sticky feet"
      ],
      "a": 0,
-     "why": "A compound eye is made of many small units, each looking in a slightly different direction. The picture is less sharp than ours and very good at catching movement.",
+     "why": "A compound eye is made of many tiny lenses, each looking in a slightly different direction. The picture is less sharp than ours and very good at catching movement.",
      "outcome": 1
     },
     {
@@ -2811,7 +2822,7 @@
     },
     {
      "t": "truefalse",
-     "p": "The banyan, like every fig tree, can make its figs without any wasp at all.",
+     "p": "The banyan, like every fig tree, can make figs without any wasp at all.",
      "a": false,
      "why": "False. Every kind of fig tree is pollinated by one kind of tiny wasp who lives nowhere else. Each one needs the other.",
      "outcome": 3
@@ -2838,7 +2849,7 @@
     },
     {
      "t": "write",
-     "p": "A desert locust lives alone and harms nobody. In a crowd, she becomes part of a swarm. What does this say about calling locusts 'pests'?",
+     "p": "A lone desert locust harms nobody. In a crowd she joins a swarm. What does this say about calling locusts 'pests'?",
      "lines": 3,
      "a": "It is the crowd and the place, not the kind of insect, that makes the trouble. The same animal is quiet alone and a swarm in a crowd.",
      "why": "A strong answer says that 'pest' describes the situation with people. The locust is the same animal.",
@@ -2853,14 +2864,14 @@
     },
     {
      "t": "count",
-     "p": "A locust swarm covers 2 square kilometres. Each square kilometre eats in a day what about 35,000 people eat. How many people's food?",
+     "p": "A locust swarm covers 2 square kilometres. Each square kilometre eats the daily food of 35,000 people. How many people's food?",
      "a": "70,000",
      "why": "35,000 × 2 = 70,000. The same swarm eating for 3 days would eat 2,10,000 people's food.",
      "outcome": 5
     },
     {
      "t": "draw",
-     "p": "Draw the same plain yellow flower twice. Draw it as you see it, then as a bee sees it.",
+     "p": "Draw one plain yellow flower twice, as you see it and as a bee sees it.",
      "a": "The first flower is plain yellow. The second has dark lines pointing to the middle, which a bee sees in ultraviolet light.",
      "why": "Many flowers have ultraviolet marks that point to the nectar. We cannot see them, and a bee can.",
      "outcome": 1
@@ -2871,16 +2882,16 @@
      "views": [
       {
        "who": "Lars Chittka, who studies bee minds",
-       "says": "Bees learn, count and play, and a worried bee treats an uncertain smell as bad. It is hard to explain this without feeling."
+       "says": "In his reading, bees learn, count and play, and a worried bee treats an uncertain smell as bad. This is hard to explain without feeling."
       },
       {
        "who": "Shelley Adamo, who studies insect nerves",
-       "says": "These could be automatic responses with nobody feeling them. The evidence is not enough to say."
+       "says": "In her reading, these could be automatic responses with nobody feeling them. The evidence is not enough to say."
       }
      ],
      "ask": "Whose reading do you find stronger, and what would you test? Give a reason.",
      "lines": 4,
-     "a": "Answers vary. A strong answer picks one reading and gives a reason, then names a test, such as watching whether a hurt insect avoids a place that hurt her. No one yet knows.",
+     "a": "Answers vary. A strong answer picks one reading and gives a reason. Then it names a test, such as watching whether a hurt insect avoids a place that hurt her. No one yet knows.",
      "why": "Neither view can be proved wrong yet. Experiments keep adding evidence, and the question stays open.",
      "outcome": 7
     },
@@ -2945,7 +2956,7 @@
     },
     {
      "t": "write",
-     "p": "A friend says, 'An insect who keeps walking on a hurt leg feels no pain.' Give one reason this does not prove it.",
+     "p": "A friend says, 'An insect walking on a hurt leg feels no pain.' Give one reason this does not prove it.",
      "lines": 3,
      "a": "Hunted animals often hide their weakness, so that a hunter does not see they are hurt. The same sign could have two causes.",
      "why": "A strong answer says the sign could have another cause, and that we cannot see inside an insect. It does not say insects do feel, only that this sign cannot settle it.",
@@ -3075,7 +3086,7 @@
      "t": "write",
      "p": "Scientists disagree about whether insects feel. What would you test, and what result would change your mind?",
      "lines": 4,
-     "a": "Any test with a clear result, such as seeing whether a hurt insect avoids the place where she was hurt, and a clear reason it would change the view.",
+     "a": "Any test with a clear result, such as seeing whether a hurt insect avoids the place where she was hurt. It also needs a clear reason that the result would change the view.",
      "why": "The answer should give a test, say what the result might be, and say what that would mean. There is no single right test.",
      "outcome": 7
     },
@@ -3091,21 +3102,21 @@
      "p": "Is it fair to end a silkworm's life to make a sari?",
      "views": [
       {
-       "who": "A weaver's family in Kanchipuram",
-       "says": "Silk gives our family a living. We care for the silkworms and the thread has been woven here for generations."
+       "who": "A weaving family in Kanchipuram (an imagined view)",
+       "says": "Silk gives our family a living. The thread has been woven in our town for generations."
       },
       {
-       "who": "A Jain or Gandhian view",
-       "says": "Ending any life for cloth is harm. Gandhi wrote against ordinary silk."
+       "who": "Jain teaching, and Mahatma Gandhi",
+       "says": "Ending a life to make cloth is harm. Gandhi wrote against ordinary silk."
       },
       {
        "who": "Kusuma Rajaiah, a handloom officer from Telangana",
-       "says": "We can make silk without killing the pupa, by letting the moth leave first. This is called ahimsa silk."
+       "says": "Silk can be made without ending the pupa's life, by letting the moth leave first. This is called ahimsa silk."
       }
      ],
      "ask": "Which would you choose, and why? What would you want to know first?",
      "lines": 5,
-     "a": "Answers vary. A strong answer picks a view and gives a reason, then names something still unknown, such as how the cost of ahimsa silk compares, or whether the moth is hurt either way.",
+     "a": "Answers vary. A strong answer picks a view and gives a reason. Then it names something still unknown, such as how the cost of ahimsa silk compares, or whether the moth is hurt either way.",
      "why": "Each view is held by real people. Making silk without ending a life takes more time and costs more, and the question of whether the moth feels stays open.",
      "outcome": 4
     },
@@ -3182,7 +3193,7 @@
    "p": "An ant walks across a ceiling without tipping. Which helps most?",
    "opts": [
     "Three legs always grip while three move",
-    "She is too light for gravity",
+    "She is too light to fall",
     "Her wings hold her up"
    ],
    "a": 0,
@@ -3301,7 +3312,7 @@
     "It also kills the ladybirds and wasps who hunted them"
    ],
    "a": 2,
-   "why": "A spray does not choose. Aphids breed fastest, so they come back first, with no hunters left to stop them.",
+   "why": "A spray reaches every insect it touches. Aphids breed fastest, so they come back first, with no hunters left to stop them.",
    "outcome": 6
   },
   {
@@ -3348,7 +3359,7 @@
   "Mosquito nets, a tight lid on the water pot and an empty tray every week all protect people without a spray. Guppy and gambusia fish are put into ponds and wells by many health departments to eat the young mosquitoes. Ask at your local health centre if they give them out.",
   "Beekeepers keep boxes of honeybees at the edge of mustard and sunflower fields, because crops that bees visit often give more seed. Look at a bottle of honey, and notice what is written on its label about where it came from.",
   "Indian farmers have long mixed dried neem leaves into stored grain to keep weevils away, and planted marigold at the edge of vegetable beds. These are bee-safe ways of protecting crops. Ask a grandparent or an older neighbour what they have used in the kitchen or garden.",
-  "Hospitals in some countries use clean, specially raised maggots to clear dead tissue from wounds that will not heal. The maggots eat only the dead tissue and leave the healthy flesh. This is the same clean-up work that fly larvae do in a field."
+  "Gardeners and school gardens can plant flowers on purpose to feed bees and butterflies, such as marigold, tulsi and coriander left to flower. Walk through a park near you and count the flowers a bee could drink from. Notice how many months of the year the park has flowers."
  ],
  "spotted": [
   {
@@ -3451,7 +3462,7 @@
    "explain": "50 × 4 = 200 centimetres. A person: 50 × 1.5 = 75 metres per second, which is much faster than the fastest sprinter at about 10 metres per second.",
    "math_unit": "math.fractions.ratio-and-proportion.L4",
    "context": "This problem compares the speed of a small animal and a large one by body length.",
-   "why_maths": "Comparing by body length is a ratio. It shows why a small animal can be fast for its size, even if the speed itself is small."
+   "why_maths": "Comparing by body length is a ratio. It shows why a small animal can be fast for her size, even if her speed is small."
   },
   {
    "problem": "For one kind of honeybee, a waggle lasting 1 second shows food about 1 kilometre away. A dancing bee waggles for 3 seconds, and another for 5 seconds. How far is each patch of flowers? How much farther is the second?",
@@ -3542,28 +3553,25 @@
    "title": "The parts of an insect's body and how they work",
    "channel": "",
    "mins": 5,
-   "youtube": "",
-   "status": "find-id",
+   "youtube": "UJRkHKQ1ekk",
    "why": "To see the head, thorax, abdomen, antennae and compound eyes on a real insect.",
-   "check": "The video id is still to be found, and a parent should preview any video before the child watches."
+   "check": "Found by YouTube search: \"Parts of an Insect\" by Pacific Science Center. Title checked automatically; a parent may still preview it."
   },
   {
    "title": "How a silk moth grows and spins a cocoon",
    "channel": "",
    "mins": 6,
-   "youtube": "",
-   "status": "find-id",
+   "youtube": "cgavTIBQ_Z0",
    "why": "To watch a silkworm eat, moult and spin, and to see the thread of one cocoon being unwound.",
-   "check": "The video id is still to be found. A parent should preview it, because the unwinding shows what happens to the pupa."
+   "check": "Found by YouTube search: \"Silkworms Spin Cocoons That Spell Their Own Doom | Deep Look\" by Deep Look. Title checked automatically; a parent may still preview it."
   },
   {
    "title": "Bees, pollination and the food on our plates",
    "channel": "",
    "mins": 5,
-   "youtube": "",
-   "status": "find-id",
+   "youtube": "pRDcNhQGaeo",
    "why": "To see bees and other insects carrying pollen, and how many foods depend on them.",
-   "check": "The video id is still to be found, and a parent should preview it."
+   "check": "Found by YouTube search: \"THE SCIENCE BEHIND BEES & FOOD: How do Bees Make our Food?\" by Bite Scized Education. Title checked automatically; a parent may still preview it."
   }
  ],
  "buy": [
@@ -3702,7 +3710,7 @@
    [
     "A spider is an insect.",
     false,
-    "A spider has eight legs and two body parts. Insects have six legs and three."
+    "Insects have six legs and three body parts, and spiders have eight legs."
    ],
    [
     "An insect's skeleton is on the outside.",
@@ -3759,7 +3767,7 @@
      "Beetle"
     ],
     "Spider",
-    "A spider has eight legs and two body parts. The other three are insects."
+    "The other three are insects. A spider is not."
    ],
    [
     [
