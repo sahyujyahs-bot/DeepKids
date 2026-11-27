@@ -42,6 +42,18 @@
    "art": "A street dog shown four times: scratching, sleeping, barking and sniffing."
   },
   {
+   "term": "Groom",
+   "meaning": "To clean the fur or skin of another animal, by picking out dirt and tiny insects.",
+   "example": "One langur grooms another by parting the fur with her fingers.",
+   "art": "Two monkeys sitting together, one picking through the other's fur."
+  },
+  {
+   "term": "Preen",
+   "meaning": "To clean and straighten feathers with the beak.",
+   "example": "A crow preens each feather after a bath in a puddle.",
+   "art": "A crow on a branch with her beak running along a wing feather."
+  },
+  {
    "term": "Home",
    "meaning": "A place an animal uses to sleep, hide, store food or raise their young.",
    "example": "A honey bee's home is a hive. A rat's home is often a burrow.",
@@ -130,6 +142,18 @@
    "meaning": "A quick way to count by drawing a line for each thing. Every fifth line crosses the other four.",
    "example": "Each time a pigeon lands, you draw one line.",
    "art": "Tally marks in groups of five next to a little pigeon drawing."
+  },
+  {
+   "term": "Thermometer",
+   "meaning": "A tool that shows how hot or cold something is.",
+   "example": "In the Cool Home Test, a thermometer in the soil shows how hot the ground is.",
+   "art": "A thermometer with a metal tip pushed into soil, beside a hand writing a number."
+  },
+  {
+   "term": "Measuring cylinder",
+   "meaning": "A clear tube with lines up its side that shows how much water is in it.",
+   "example": "You pour the water from a bird bowl into a measuring cylinder to see how much is left.",
+   "art": "A tall clear tube with lines and numbers up its side, half full of water."
   }
  ],
  "explanations": [
@@ -176,6 +200,20 @@
    "context": "This card goes deeper. It explains how an animal keeps track of the time of day, even without a watch."
   },
   {
+   "concept": "Keeping clean is a habit too",
+   "status": "defined",
+   "definition": "Many animals clean themselves every day. Birds preen their feathers, and monkeys groom each other's fur.",
+   "description": "We wash, brush our teeth and comb our hair. Animals keep clean too. A bird preens. She runs each feather through her beak, to straighten it and clear off dirt. Many birds also spread a little oil from near their tail over the feathers, which helps keep them dry. Monkeys groom each other. One monkey parts the fur of another with her fingers, and picks out dirt, dead skin and tiny insects called lice. Grooming also keeps friends close, and the monkey being groomed often sits calm and half asleep. A cat licks her fur. A sparrow takes a bath in dust. An elephant sprays water and mud over her back. Cleaning is a daily habit, like eating and sleeping. How is it like ours, and how is it different?",
+   "examples": [
+    "Langurs at a temple sit in a row, and each one grooms the one in front.",
+    "A crow dips in a puddle, shakes herself, and then preens each feather.",
+    "A house sparrow rolls in dry dust on the ground."
+   ],
+   "perspectives": [],
+   "art": "Two monkeys on a wall, one picking through the other's fur, and a crow on a branch running a feather through her beak.",
+   "context": "This card shows how monkeys and birds keep clean, and compares it with our own habits."
+  },
+  {
    "concept": "What animal homes are for",
    "status": "defined",
    "definition": "An animal home is a place used to sleep, hide from danger, keep warm or cool, store food or raise young.",
@@ -217,6 +255,34 @@
    "context": "This card looks closely at one animal home. It shows how the change from hot day to cool night moves fresh air through a termite mound in India."
   },
   {
+   "concept": "Animals on, around and under plants",
+   "status": "defined",
+   "definition": "Where there are plants, there are animals too. Some live on a plant, some live around it, and some live under it, in the soil.",
+   "description": "Look at a tulsi pot on a balcony. A caterpillar chews a leaf. A tiny spider waits between two stems. An ant walks up the stem. Bees and butterflies fly around the flowers. Under the pot, earthworms, ants and beetles live in the soil. The earthworms dig tunnels, and the tunnels let air and water reach the roots. Some animals spend their whole life on one plant. Others only visit. Each one finds what they need there: food, a hiding place, or a place to lay eggs. Which animals have you seen on a plant? Which around one? Which under one?",
+   "examples": [
+    "On a plant: a caterpillar on a curry-leaf plant, and a spider in a web between twigs.",
+    "Around a plant: a bee on a hibiscus flower, and a sunbird at a flower.",
+    "Under a plant: an earthworm in the soil, and ants in a nest under a stone."
+   ],
+   "perspectives": [],
+   "art": "A tulsi plant in a pot with a caterpillar on a leaf, a bee at the flower, and an earthworm and ants in the soil below.",
+   "context": "This card shows that animals live on, around and under plants, including in the soil."
+  },
+  {
+   "concept": "How animals use a tree",
+   "status": "defined",
+   "definition": "A tree gives animals food, a place for a nest, a place to hide and a place to rest.",
+   "description": "A tree is like a small town for animals. A myna eats the berries, and a squirrel eats fruits and nuts. A caterpillar eats the leaves. The branches hold the nests of crows and weaver birds. Thick leaves hide small birds from kites and hawks. In the heat of the day, many animals rest in the shade. Why do you think a squirrel runs up a tree when a dog comes near? A dog cannot climb after him. The tree is a safe place. Every use of a tree is something an animal needs: food, a nest, a hiding place or rest.",
+   "examples": [
+    "A koel eats the ripe fruit of a peepal tree.",
+    "A crow builds a stick nest high in a neem tree.",
+    "A palm squirrel runs up the trunk of a coconut tree to hide."
+   ],
+   "perspectives": [],
+   "art": "A big tree with a bird eating fruit, a nest in the fork, a squirrel hiding among the leaves and a caterpillar on a leaf.",
+   "context": "This card shows four ways that animals use a tree: food, nests, hiding and rest."
+  },
+  {
    "concept": "Why so many animals live near people",
    "status": "defined",
    "definition": "Towns and villages give some animals food, water, shelter and fewer enemies, so these animals settle there.",
@@ -232,14 +298,29 @@
    "context": "This card explains why towns and villages are full of animals, not just forests."
   },
   {
+   "concept": "Animals and plants that come into our homes",
+   "status": "defined",
+   "definition": "Some animals and plants come into our homes without being asked. We can treat them with care and not harm them.",
+   "description": "A gecko waits by the tube light. A line of ants walks over the kitchen shelf. A cockroach hides in the drain. A tiny peepal seedling grows in a crack in the wall. They come because our homes have what they need: food, water, warmth or a hiding place. We can answer with care. Keep food covered and close the dustbin, so fewer ants and cockroaches come. A gecko eats insects such as moths and mosquitoes, so let him stay. To move a spider, put a cup over her, slide a card under the cup, and carry her outside. Mosquitoes lay eggs in standing water, so empty buckets and pots that hold water. For a snake, a bees' nest, or any animal who may bite or sting, stay away and call a grown-up. Never touch them.",
+   "examples": [
+    "A gecko eats the moths around the tube light, and keeps down the insects in the room.",
+    "A peepal seedling in a wall crack can be lifted out gently and planted in soil outside."
+   ],
+   "perspectives": [],
+   "art": "A child carrying a spider out of the house under a cup, with a card slid underneath.",
+   "context": "This card says what to do when animals and plants come into our homes without being asked: answer with care."
+  },
+  {
    "concept": "Animals of towns, villages and forests in India",
    "status": "defined",
    "definition": "Different places in India hold different animals, but many animals live in more than one kind of place.",
-   "description": "In towns you meet crows, pigeons, mynas, palm squirrels, street dogs, geckos, rats, bats and many insects. In villages you also see cows, buffaloes, goats, hens, peacocks, egrets, frogs, snakes and weaver birds in the palm trees. In forests live tigers, elephants, sloth bears, hornbills, langurs and countless insects and spiders. Some animals live in more than one of these places. Leopards live in Sanjay Gandhi National Park, inside the city of Mumbai, and walk out at night past people's homes. India has more than 1,300 kinds of birds, and bird watchers often find dozens of kinds in a single city park.",
+   "description": "In towns you meet crows, pigeons, mynas, palm squirrels, street dogs, geckos, rats, bats and many insects. In villages you also see cows, buffaloes, goats, hens, peacocks, egrets, frogs, snakes and weaver birds in the palm trees. In forests live tigers, elephants, sloth bears, hornbills, langurs and countless insects and spiders. Some animals live in more than one of these places. Leopards live in Sanjay Gandhi National Park, inside the city of Mumbai, and walk out at night past people's homes. India has more than 1,300 kinds of birds, and bird watchers often find dozens of kinds in a single city park. The forests of India hold bigger animals too. The Indian giant squirrel is much bigger than the palm squirrel of the town. He is reddish-brown, with a long bushy tail, and he leaps from tree to tree. The spectacled monkey has pale rings round the eyes, like spectacles. She is the state animal of Tripura. Think of a squirrel or a monkey near your home. How are they the same as these two, and how are they different?",
    "examples": [
     "Indian grey hornbills nest in old trees in Delhi and Mumbai, not only in forests.",
     "Peacocks walk on the rooftops of villages in Rajasthan and Tamil Nadu.",
-    "Elephants walk through tea gardens and villages in Assam and Kerala."
+    "Elephants walk through tea gardens and villages in Assam and Kerala.",
+    "The Indian giant squirrel lives in forests of the Western Ghats and of central India.",
+    "The spectacled monkey lives in the forests of Tripura, in the far east of India."
    ],
    "perspectives": [],
    "art": "A wide map-like picture of India in three bands: a town with crows and dogs, a village with egrets and cows, a forest with a tiger and hornbills, and a leopard walking between them.",
@@ -253,7 +334,9 @@
    "examples": [
     "Write: '7:10 am. Pigeon lands on ledge. Carries a twig.'",
     "Watch at the same three times each day: morning, afternoon and evening.",
-    "Sit far enough away that the animal goes on behaving normally."
+    "Sit far enough away that the animal goes on behaving normally.",
+    "Choose the tool that fits the question. A thermometer tells how hot a place is. A clock tells how long something takes. A measuring cylinder is a clear tube with lines up its side. It tells how much water is in a bowl.",
+    "Use a tool the right way. Push the tip of a thermometer into the soil, and wait 5 minutes before you read it. Stand a measuring cylinder on a flat table, and read it with your eyes level with the top of the water."
    ],
    "perspectives": [],
    "art": "A child's notebook open on a windowsill, with a table of times and little drawings of a pigeon, and the real pigeon outside.",
@@ -285,11 +368,12 @@
    "concept": "Watching kindly",
    "status": "defined",
    "definition": "Watching kindly means we look without harming, chasing, catching or scaring the animal, and without touching their home.",
-   "description": "An animal near their nest is protecting their young. If we go close, they may leave the eggs to go cold, or they may attack us. Crows dive at people who walk under their nests in the nesting months. They are parents guarding their chicks. So we watch from a distance, keep quiet and never touch eggs or chicks. In the tests in this lesson we only watch animals. We do not pick them up.",
+   "description": "An animal near their nest is protecting their young. If we go close, they may leave the eggs to go cold, or they may attack us. Crows dive at people who walk under their nests in the nesting months. They are parents guarding their chicks. So we watch from a distance, keep quiet and never touch eggs or chicks. In the tests in this lesson we only watch animals. We do not pick them up. On a visit to a forest or a zoo, keep three more rules. Do not feed or tease any animal. The wrong food can make them ill, and teasing can make them angry. Do not carry or throw polythene, because animals can swallow it. Do not pick or break plants, because many animals live on them.",
    "examples": [
     "Use binoculars, or sit at a window, to watch a nest.",
     "If a bird keeps calling and diving at you, walk away. You are too close to a nest.",
-    "Watch from behind a window or a curtain, so the animal does not see you."
+    "Watch from behind a window or a curtain, so the animal does not see you.",
+    "At a zoo, watch the monkey from behind the rail. Keep your biscuit in your bag, and take your wrapper home."
    ],
    "perspectives": [],
    "art": "A child watching a nest through binoculars from far away, with a dotted line showing the safe distance.",
@@ -1947,7 +2031,7 @@
   {
    "id": "p1",
    "title": "My Animal Week",
-   "mins": 90,
+   "mins": 100,
    "days": 7,
    "materials": [
     {
@@ -2002,11 +2086,11 @@
     },
     {
      "day": 7,
-     "mins": 25,
-     "what": "Read the whole diary. Find patterns. Make a timeline of your animal's day. Say your claim, evidence and reasoning."
+     "mins": 35,
+     "what": "Read the whole diary. Find patterns. Make a timeline of your animal's day. Say your claim, evidence and reasoning. Then tell your animal's story to a friend or cousin: the animal's name, how they move, what sounds they make and what they eat."
     }
    ],
-   "record": "Each day write the date, the time, the weather and what the animal did. On day 7, make a timeline from morning to night with what your animal does at each time. Draw it, or tell it out loud.",
+   "record": "Each day write the date, the time, the weather and what the animal did. On day 7, make a timeline from morning to night with what your animal does at each time. Draw it, or tell it out loud. Then you tell a short story about your animal to a friend or cousin.",
    "context": "In this 7-day project you watch one animal near your home, such as a crow, a pigeon, a squirrel, an ant trail or a gecko, for about 10 minutes every day. At the end you find their habits.",
    "setup": [
     {
@@ -2089,6 +2173,15 @@
      "kid": "Say one habit of your animal. Say what you saw. Say why you think they do that.",
      "context": "This is the last step of My Animal Week. You share one habit with your claim, evidence and reasoning.",
      "parent": "A good answer: What I think: our squirrels rest in the afternoon. What I saw: on 5 days, they were running about at 7 am, but at 2 pm they lay flat on the shady wall. Why: it is very hot at 2 pm, and lying flat on cool stone helps them cool down."
+    },
+    {
+     "id": "s6",
+     "mins": 10,
+     "do": "Ask your child to look back at the diary and tell a short story about the animal. The story says what you call the animal, how they move, what sounds they make and what they eat. Your child tells it to a friend, a cousin or a classmate, and answers one question from them.",
+     "say": "Now tell your animal's story. What is the animal called? How does he move? What sounds does he make? What does he eat? Tell it to a friend, and see what they ask.",
+     "kid": "Tell your animal's story: the name, how they move, the sounds they make and what they eat.",
+     "context": "This is the sharing step of My Animal Week. You tell a short story about your animal to a friend.",
+     "parent": "The story should use what your child really saw, such as 'He ran up the trunk in jumps and flicked his tail.' If a friend asks something your child does not know, write it down as a question for next week."
     }
    ]
   }
@@ -2479,6 +2572,74 @@
       "roost"
      ],
      "why": "A roost is where many birds or bats rest together. Hundreds of crows fly to one big tree to roost at sunset."
+    },
+    {
+     "t": "match",
+     "p": "Match each animal to how they keep clean.",
+     "pairs": [
+      [
+       "A bird",
+       "Preens each feather with her beak"
+      ],
+      [
+       "A monkey",
+       "Is groomed by another monkey's fingers"
+      ],
+      [
+       "A sparrow",
+       "Takes a bath in dust"
+      ],
+      [
+       "An elephant",
+       "Sprays water and mud on her back"
+      ]
+     ],
+     "a": "pairs as given",
+     "why": "Every animal keeps clean in a way that suits their body. Birds have beaks for feathers, and monkeys have fingers for fur."
+    },
+    {
+     "t": "sort",
+     "p": "Sort these things a visitor to a zoo or forest might do. Is each one kind, or unkind?",
+     "cats": [
+      "Kind",
+      "Unkind"
+     ],
+     "items": [
+      [
+       "watch quietly from the path",
+       "Kind"
+      ],
+      [
+       "throw a polythene bag away",
+       "Unkind"
+      ],
+      [
+       "poke the deer with a stick",
+       "Unkind"
+      ],
+      [
+       "take your own wrapper home",
+       "Kind"
+      ],
+      [
+       "feed biscuits to a monkey",
+       "Unkind"
+      ],
+      [
+       "leave the plants as they are",
+       "Kind"
+      ]
+     ],
+     "a": "see items",
+     "why": "Animals can swallow polythene and wrong food and fall ill, and teasing frightens them. Plants are homes, so we leave them be."
+    },
+    {
+     "t": "fill",
+     "p": "An earthworm lives ____ a plant, in the soil.",
+     "a": [
+      "under"
+     ],
+     "why": "Animals live on, around and under plants. The earthworm lives under the plant, and her tunnels let air and water reach the roots."
     }
    ]
   },
@@ -2685,6 +2846,51 @@
      "lines": 4,
      "a": "Change only the time of day. Keep the same place to watch from, the same number of minutes, and watch on several days. Then count the pigeon visits at each time.",
      "why": "A strong answer changes one thing, keeps the rest the same, and watches on more than one day so one odd day cannot fool us."
+    },
+    {
+     "t": "match",
+     "p": "Match each tool to the question it can answer.",
+     "pairs": [
+      [
+       "A thermometer",
+       "How hot is the soil in the shade?"
+      ],
+      [
+       "A clock",
+       "How long did the ants take to cross?"
+      ],
+      [
+       "A measuring cylinder",
+       "How much water is left in the bird bowl?"
+      ],
+      [
+       "A ruler",
+       "How long is a feather?"
+      ]
+     ],
+     "a": "pairs as given",
+     "why": "Pick the tool that matches what you want to know: hotness, time, an amount of water, or length."
+    },
+    {
+     "t": "write",
+     "p": "Pick one animal you know well. Write how they move, what sound they make and what they eat.",
+     "lines": 4,
+     "a": "For example: A crow hops and then flies. She says 'kaa kaa'. She eats rice, insects and fruit.",
+     "why": "A good answer gives three facts you really saw or heard: movement, sound and food. Share it as a short story."
+    },
+    {
+     "t": "write",
+     "p": "A squirrel, a crow and a caterpillar all visit the same neem tree. What does each one get from the tree?",
+     "lines": 3,
+     "a": "The caterpillar eats the leaves. The crow builds her nest in the branches. The squirrel finds fruit, and hides in the tree from a dog.",
+     "why": "Each animal uses the tree for something different: food, a nest or a place to hide."
+    },
+    {
+     "t": "write",
+     "p": "A line of ants walks across your kitchen shelf. Write two kind ways to make them go away without hurting them.",
+     "lines": 3,
+     "a": "Keep the sugar and sweet things in closed tins. Wipe the shelf. Carry the ants outside on a leaf.",
+     "why": "Ants come for food. When we cover the food and clean the shelf, they stop coming. We do not need to harm them."
     }
    ]
   },
@@ -2865,6 +3071,13 @@
       "crepuscular"
      ],
      "why": "Crepuscular means most active in the dim light at dawn and dusk. Deer such as the chital are crepuscular."
+    },
+    {
+     "t": "write",
+     "p": "The Indian giant squirrel lives in forests. Compare him with the squirrel near your home. Write two ways they are the same and two ways they are different.",
+     "lines": 5,
+     "a": "Both are squirrels with long tails who climb trees and eat fruit. The giant squirrel is much bigger and reddish-brown, and lives in a forest. The palm squirrel is small, has stripes and lives in towns.",
+     "why": "A strong answer gives two real likenesses and two real differences, such as size, colour, home and food."
     }
    ]
   }
@@ -3053,6 +3266,123 @@
    "a": 1,
    "why": "Birds may use the Sun, the stars, smells and Earth's magnetism. How they put these together is still being worked out. The other three are well known.",
    "outcome": 7
+  },
+  {
+   "t": "mcq",
+   "p": "You want to find out if the soil in a burrow is cooler than the soil outside. Which tool should you use?",
+   "opts": [
+    "A thermometer",
+    "A measuring cylinder",
+    "A ruler",
+    "A water bowl"
+   ],
+   "a": 0,
+   "why": "A thermometer tells how hot or cold something is. A measuring cylinder measures water, and a ruler measures length.",
+   "outcome": 5
+  },
+  {
+   "t": "mcq",
+   "p": "Which animal lives under a plant, in the soil?",
+   "opts": [
+    "An earthworm",
+    "A butterfly",
+    "A crow",
+    "A sunbird"
+   ],
+   "a": 0,
+   "why": "Earthworms live in the soil under plants. Butterflies, sunbirds and crows live on or around plants and trees.",
+   "outcome": 3
+  },
+  {
+   "t": "mcq",
+   "p": "A squirrel runs up a tree when a dog comes near. Which use of the tree is this?",
+   "opts": [
+    "Hiding from danger",
+    "Finding food",
+    "Building a nest",
+    "Resting in the shade"
+   ],
+   "a": 0,
+   "why": "A dog cannot climb after the squirrel. A tree gives four things: food, nests, hiding and rest. Here the squirrel is using it to hide.",
+   "outcome": 2
+  },
+  {
+   "t": "mcq",
+   "p": "A spider is walking on the wall of your room. What is the kind thing to do?",
+   "opts": [
+    "Put a cup over her and carry her outside",
+    "Hit her with a slipper",
+    "Spray her with poison",
+    "Pick her up in your hand"
+   ],
+   "a": 0,
+   "why": "The cup and card move her safely, and neither of you is hurt. Hitting and poison harm her. Picking her up is not safe, because a few spiders bite.",
+   "outcome": 6
+  },
+  {
+   "t": "mcq",
+   "p": "Meena watched a squirrel. Which note tells how the squirrel moves?",
+   "opts": [
+    "Runs up the trunk in short jumps, tail flicking",
+    "He is a naughty squirrel",
+    "Squirrels are nice",
+    "He lives in the park"
+   ],
+   "a": 0,
+   "why": "The first note tells what Meena saw: how the squirrel moves. 'Naughty' is a guess about feelings, and the other two do not say how he moved.",
+   "outcome": 4
+  },
+  {
+   "t": "mcq",
+   "p": "A langur parts the fur of another langur and picks out tiny things. What is she doing?",
+   "opts": [
+    "Grooming, which keeps both clean and close",
+    "Fighting",
+    "Looking for fruit",
+    "Making a nest"
+   ],
+   "a": 0,
+   "why": "Monkeys groom each other to take off dirt and tiny insects. Grooming also keeps friends close, and the monkey being groomed sits calm.",
+   "outcome": 0
+  },
+  {
+   "t": "mcq",
+   "p": "At the zoo, a boy wants to give his banana to a monkey. What should he do?",
+   "opts": [
+    "Keep it, and watch the monkey kindly",
+    "Throw it into the cage",
+    "Tease the monkey with it",
+    "Leave the peel on the path"
+   ],
+   "a": 0,
+   "why": "Wrong food can make animals ill, and teasing makes them angry. Peel on the path is litter. A kind visitor watches and leaves the animals alone.",
+   "outcome": 6
+  },
+  {
+   "t": "mcq",
+   "p": "Which squirrel is large and reddish-brown, and leaps between trees in the forest?",
+   "opts": [
+    "The Indian giant squirrel",
+    "The palm squirrel on a town wall",
+    "The house sparrow",
+    "The black kite"
+   ],
+   "a": 0,
+   "why": "The Indian giant squirrel is much bigger than the palm squirrel and lives in forests. The sparrow and the kite are birds.",
+   "outcome": 3
+  },
+  {
+   "t": "mcq",
+   "p": "Which animal is the state animal of Tripura?",
+   "opts": [
+    "The spectacled monkey",
+    "The tiger",
+    "The house crow",
+    "The cow"
+   ],
+   "a": 0,
+   "why": "The spectacled monkey, with pale rings round the eyes, is the state animal of Tripura. The tiger is the national animal of all India.",
+   "outcome": 3
   }
  ],
  "videos": [
@@ -3173,7 +3503,8 @@
   "What do you do every day at the same time? Is that a habit?",
   "Why do you think a street dog near you sleeps in the same corner every afternoon?",
   "What sounds of animals can you hear right now?",
-  "If we made a map of our street with only animal homes on it, which homes could we mark?"
+  "If we made a map of our street with only animal homes on it, which homes could we mark?",
+  "Name one animal you have seen on a plant, one around a plant and one under a plant."
  ],
  "jokes": [
   {

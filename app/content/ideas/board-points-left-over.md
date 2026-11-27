@@ -60,3 +60,4 @@ Kept from the edit run. Each needs its own place: a new unit, a new part in anot
 - `sci.waste.sorting-waste.L2`: Use of a dustbin — too vague to teach; needs the exact wording
 - `sci.food.balanced-diet.L3 / sci.planet-earth.soil-and-crops.L4`: Gypsum for acidic soil — gypsum treats salty or alkaline soil, not acidic: teaching it would be wrong
 - `sci.community.festivals.L3`: A named Sarhul food — unsure of the dish
+- `sci.animals.animals-around-us.L3`: Forcemeter — this unit measures no pushes or pulls; it belongs in a force unit
