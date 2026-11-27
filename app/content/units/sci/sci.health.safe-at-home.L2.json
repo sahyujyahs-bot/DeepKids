@@ -1207,10 +1207,10 @@
       "q": "The push was the same. Why did the thread cut the dough and the palm did not?",
       "options": [
        "The thread is made of steel.",
-       "The thread touches a much smaller place, so the push is bigger there.",
-       "The thread pushes harder than a palm."
+       "The thread pushes harder than a palm.",
+       "The thread touches a much smaller place, so the push is bigger there."
       ],
-      "a": 1,
+      "a": 2,
       "why": "The push stayed the same. A palm is wide, so its push spreads out. A thread is thin, so the whole push lands on a tiny line. Picking 'pushes harder' mixes up the push with the place it lands on."
      }
     }
@@ -1357,10 +1357,10 @@
       "q": "The two plates are the same warmth. Why does steel feel colder?",
       "options": [
        "The steel is colder than the wood.",
-       "Steel is heavier than wood.",
-       "Heat leaves your hand through steel faster than through wood."
+       "Heat leaves your hand through steel faster than through wood.",
+       "Steel is heavier than wood."
       ],
-      "a": 2,
+      "a": 1,
       "why": "Heat moves from your warmer hand into the plate. Steel lets heat through quickly, so your hand loses heat fast and feels cold. Wood lets heat through slowly. Picking 'steel is colder' is what it feels like, but a thermometer shows both are the same."
      }
     }
@@ -1638,11 +1638,11 @@
       "t": "mcq",
       "q": "Which cut needs a doctor?",
       "options": [
-       "A deep cut from a nail that lay in the mud.",
        "A tiny scratch that stopped bleeding.",
-       "A small cut that a plaster now covers."
+       "A small cut that a plaster now covers.",
+       "A deep cut from a nail that lay in the mud."
       ],
-      "a": 0,
+      "a": 2,
       "why": "A deep, dirty cut can let tetanus bacteria in, so a doctor is needed. A small scratch that has stopped bleeding can be washed and covered at home. Picking the plaster option means thinking every cut needs a doctor."
      }
     }
@@ -2571,11 +2571,11 @@
      "t": "mcq",
      "p": "Where does your hand go on a knife or a pair of scissors?",
      "opts": [
-      "On the handle or the rings",
       "On the edge",
+      "On the handle or the rings",
       "Anywhere, if I am quick"
      ],
-     "a": 0,
+     "a": 1,
      "why": "Your hand belongs on the holding part. Picking the edge means thinking the working part is the safe place to hold. The working part is the part that cuts."
     },
     {
@@ -2709,11 +2709,11 @@
      "t": "mcq",
      "p": "Which way of holding a full bottle feels easiest for longest?",
      "opts": [
-      "Out in front with straight arms",
       "Close to your chest",
+      "Out in front with straight arms",
       "Far out to one side"
      ],
-     "a": 1,
+     "a": 0,
      "why": "The bottle weighs the same. The farther a load is from your body, the harder your muscles work."
     },
     {
@@ -2739,11 +2739,11 @@
      "t": "mcq",
      "p": "Many cooks say a blunt knife slips off a smooth tomato more easily than a sharp one. What is their reason?",
      "opts": [
+      "It needs a harder push, so it slides sideways",
       "It is heavier",
-      "It is hotter",
-      "It needs a harder push, so it slides sideways"
+      "It is hotter"
      ],
-     "a": 2,
+     "a": 0,
      "why": "A blunt edge is thick, so you push harder. On a slippery skin the hard push can slide the knife sideways. Many cooks say sharp is safer. Nobody has settled it."
     },
     {
@@ -2877,10 +2877,10 @@
      "p": "Which keeps you safe on a day you forget a rule?",
      "opts": [
       "A longer list of rules",
-      "A tool with a guard built in",
-      "A louder warning"
+      "A louder warning",
+      "A tool with a guard built in"
      ],
-     "a": 1,
+     "a": 2,
      "why": "Engineers do not rely only on care. A guard or a hidden blade keeps working when a person forgets."
     },
     {
@@ -2937,11 +2937,11 @@
      "t": "mcq",
      "p": "A glass jar on a high shelf is two dangers. Which two?",
      "opts": [
-      "Hot and heavy",
       "Heavy when it falls and sharp when it breaks",
+      "Hot and heavy",
       "Sharp and wet"
      ],
-     "a": 1,
+     "a": 0,
      "why": "A jar from a high shelf falls with a lot of push, and then its pieces are sharp. Heat is not part of it."
     },
     {
@@ -2985,11 +2985,11 @@
      "t": "mcq",
      "p": "A cupboard with all its heavy things on top is likely to...",
      "opts": [
-      "tip over with a small pull",
       "become lighter",
+      "tip over with a small pull",
       "stand steadier"
      ],
-     "a": 0,
+     "a": 1,
      "why": "A high balance point means a small tilt moves the weight past the base. Tall cupboards need heavy things low, and a fixing to the wall."
     },
     {
@@ -3031,11 +3031,11 @@
    "t": "mcq",
    "p": "A cook wants to cut soft cheese neatly. Which tool is best?",
    "opts": [
+    "A tight thin wire",
     "A thick wooden spoon",
-    "A flat steel plate",
-    "A tight thin wire"
+    "A flat steel plate"
    ],
-   "a": 2,
+   "a": 0,
    "why": "The wire touches a thin line, so the push is large there. A flat plate spreads the push out.",
    "outcome": 0
   },
@@ -3043,11 +3043,11 @@
    "t": "mcq",
    "p": "A drawing pin has a wide top and a tiny point. Why?",
    "opts": [
-    "The wide top is gentle on the thumb",
     "The point is for holding",
+    "The wide top is gentle on the thumb",
     "The top is for cutting"
    ],
-   "a": 0,
+   "a": 1,
    "why": "The wide top spreads your push, so the thumb stays safe. The tiny point puts the same push on one spot, so the pin goes into the board.",
    "outcome": 0
   },
@@ -3055,11 +3055,11 @@
    "t": "mcq",
    "p": "Someone calls your name while you are holding a tool. What do you do first?",
    "opts": [
-    "Look up and keep holding it",
     "Put the tool down, then look up",
+    "Look up and keep holding it",
     "Hold it tighter"
    ],
-   "a": 1,
+   "a": 0,
    "why": "Your hand moves when your eyes move. A tool is put down first, so the edge is not in the way.",
    "outcome": 1
   },
@@ -3068,10 +3068,10 @@
    "p": "A knife slips off the counter. What is the safest thing to do?",
    "opts": [
     "Catch it quickly",
-    "Grab it by the blade",
-    "Step back and let it fall"
+    "Step back and let it fall",
+    "Grab it by the blade"
    ],
-   "a": 2,
+   "a": 1,
    "why": "A falling knife has no handle in the air. Catching it is how people get cut. Stepping back is safe.",
    "outcome": 1
   },
@@ -3115,11 +3115,11 @@
    "t": "mcq",
    "p": "Which can burn skin with no flame at all?",
    "opts": [
-    "Steam from a cooker's whistle",
     "Cold water from a tap",
-    "A dry wooden spoon"
+    "A dry wooden spoon",
+    "Steam from a cooker's whistle"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Steam carries a lot of heat and gives it out when it turns back to water on skin. This is a scald.",
    "outcome": 3
   },
@@ -3139,11 +3139,11 @@
    "t": "mcq",
    "p": "Which way of lifting a heavy bag is best for your back?",
    "opts": [
+    "Stand close, bend your knees and stand up",
     "Bend your back with straight legs",
-    "Hold it out in front",
-    "Stand close, bend your knees and stand up"
+    "Hold it out in front"
    ],
-   "a": 2,
+   "a": 0,
    "why": "Your legs are strong. A load close to the body makes your back work less. Scientists are still testing which way of lifting protects the back best.",
    "outcome": 5
   },
@@ -3175,11 +3175,11 @@
    "t": "mcq",
    "p": "Some families put turmeric on cuts. What is the fair thing to say?",
    "opts": [
+    "Lab tests look good, but proof in people is thin",
     "It is proven to work",
-    "It is proven to be useless",
-    "Lab tests look good, but proof in people is thin"
+    "It is proven to be useless"
    ],
-   "a": 2,
+   "a": 0,
    "why": "Studies in labs and on animals are promising. Careful trials on people are few. Clean water and a clean cover are proven.",
    "outcome": 6
   }

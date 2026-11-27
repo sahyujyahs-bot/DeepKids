@@ -835,7 +835,7 @@ The count was shorter than in June.
 3. (truefalse) If people catch rain, more rain falls in the monsoon.  
    **Answer:** False. *Why:* False. Catching rain changes where the rain goes after it falls. It does not change how much falls.
 4. (mcq) Which part of a rooftop system is the channel along the roof's edge?  
-   Options: The filter / The first-flush / The gutter  
+   Options: The gutter / The filter / The first-flush  
    **Answer:** The gutter. *Why:* The gutter leads water from the roof to the pipe. The first-flush throws away the dirtiest water and the filter holds back dirt.
 5. (sort) Sort each part by its main job.  
    **Answer:** gutter → Leads water along; down-pipe → Leads water along; first-flush → Cleans the water; filter → Cleans the water; covered tank → Keeps the water. *Why:* The gutter and pipe carry water, the first-flush and the filter clean it, and the tank stores it for later.
@@ -853,7 +853,7 @@ The count was shorter than in June.
 11. (truefalse) A well is a hole dug down to the water table.  
    **Answer:** True. *Why:* True. Water seeps in from the sides and stands at the level of the water table.
 12. (mcq) Where is it best to dig a recharge pit?  
-   Options: In sand or coarse soil / On solid rock near the surface / On flat wet clay  
+   Options: On solid rock near the surface / On flat wet clay / In sand or coarse soil  
    **Answer:** In sand or coarse soil. *Why:* Water sinks quickly through sand. Clay and solid rock block it, so a pit must go down through clay to a layer that lets water in.
 13. (draw) Draw a rooftop system with a roof, gutter, first-flush, filter and tank in order. Label each part.  
    **Answer:** A sloping roof with a gutter along its low edge. A pipe leads down to a first-flush, then a filter, then a covered tank. Arrows show the water, and each part is labelled in that order.. *Why:* The order matters. The first-flush must come before the filter, so the worst dirt does not clog it.
@@ -870,7 +870,7 @@ The count was shorter than in June.
 3. (truefalse) A narrow jar and a wide tin stand in the same shower. They show different depths of rain.  
    **Answer:** False. *Why:* False. In an even shower, the depth is the same whatever the width, as long as the sides are straight. The wide tin holds more water but is not deeper.
 4. (mcq) Water moves through sand about a metre a day, and through clay a few centimetres a year. What follows for recharge pits?  
-   Options: Dig the pit down through the clay / Clay is the best place for a pit / Sand cannot hold any water  
+   Options: Clay is the best place for a pit / Sand cannot hold any water / Dig the pit down through the clay  
    **Answer:** Dig the pit down through the clay. *Why:* Water cannot easily pass clay, so a pit must go below it. Sand lets water in and holds it in its gaps.
 5. (sort) Sort each method by what it mostly does with the rain.  
    **Answer:** a kund → Stores rain in a tank; a roof tank → Stores rain in a tank; a recharge well → Lets rain sink into the ground; a johad → Lets rain sink into the ground; leaves and trees on soil → Lets rain sink into the ground. *Why:* A kund and a roof tank keep rain in a store. A recharge well, a johad and a covering of leaves hold or slow rain so that it can soak in.
@@ -892,13 +892,13 @@ The count was shorter than in June.
 13. (label) Label the drawing of a roof system: roof, gutter, down-pipe, first-flush, filter, tank.  
    **Answer:** The roof is the sloping top. The gutter runs along its low edge. The down-pipe goes down from the gutter. The first-flush is a side pipe. The filter is a box of sand and gravel. The tank is the covered store at the end.. *Why:* Each part has one job, and the water passes them in that order.
 14. (mcq) Why does a wide, shallow pond lose a bigger share of its water to the sun than a deep one?  
-   Options: Deep water is colder / Shallow water is heavier / A wide pond has more surface in the air for its size  
+   Options: Deep water is colder / A wide pond has more surface in the air for its size / Shallow water is heavier  
    **Answer:** A wide pond has more surface in the air for its size. *Why:* Evaporation happens at the surface, where water meets the air. A wide, shallow pond has a large surface for its volume.
 15. (perspective) Big dams or lakhs of small works?  
    **Answer:** Answers vary. A strong answer weighs what each protects and what each costs. It names something to check, such as how dry the basin is or who would be moved.. *Why:* Both views have evidence behind them, and scientists and engineers still argue about where each suits best.
 ### Faulty sums, fair tests and open questions (challenge) (challenge, 15 questions)
 1. (mcq) A friend says a 100 square metre roof with 1,000 millimetres of rain can catch all 1,00,000 litres. What is wrong?  
-   Options: Nothing is wrong / Some water splashes, dries or overflows, so less can be caught / The roof gets only 10,000 litres  
+   Options: Nothing is wrong / The roof gets only 10,000 litres / Some water splashes, dries or overflows, so less can be caught  
    **Answer:** Some water splashes, dries or overflows, so less can be caught. *Why:* The sum of 100,000 litres is right for the water that lands. But some splashes away, dries off or overflows a full tank, so about four-fifths can be caught.
 2. (truefalse) If a district catches more rain but pumps out even more groundwater, its wells will still rise.  
    **Answer:** False. *Why:* False. The water table depends on what goes in and what comes out. If more comes out than goes in, it falls, whatever is caught.
@@ -926,7 +926,7 @@ The count was shorter than in June.
 13. (truefalse) Elephants and beavers change where water goes, so harvesting rain is something only people do.  
    **Answer:** False. *Why:* False. Elephants dig wells in dry river beds that other animals drink from. Beavers dam streams and raise the water table across a valley. A forest holds rain on the largest scale.
 14. (mcq) Which question about catching rain is still argued over by scientists?  
-   Options: Does 1 millimetre on 1 square metre make 1 litre? / Is the water table the top of the wet ground? / Do roofs catch rain? / How much does catching rain upstream reduce the flow downstream?  
+   Options: How much does catching rain upstream reduce the flow downstream? / Does 1 millimetre on 1 square metre make 1 litre? / Is the water table the top of the wet ground? / Do roofs catch rain?  
    **Answer:** How much does catching rain upstream reduce the flow downstream?. *Why:* The first three have clear answers. How much upstream works reduce the water downstream depends on the river basin, and scientists disagree about it.
 15. (perspective) Is stored rainwater safe to drink?  
    **Answer:** Answers vary. A strong answer says the tank must be clean and covered, and the water must be filtered and boiled. It also says that scientists still argue about how much the traces matter.. *Why:* Both views rest on evidence. Long use shows rain can be safe when kept well. The new findings show there is something in rain that we cannot see.
@@ -938,7 +938,7 @@ The count was shorter than in June.
 
 ## Quiz
 1. (mcq) Most of a place's yearly rain falls in a few months. What is a good reason to catch it?  
-   Options: Catching rain makes more rain fall / Rain left alone is always dirty / It can be used in the dry months that follow  
+   Options: Catching rain makes more rain fall / It can be used in the dry months that follow / Rain left alone is always dirty  
    **Answer:** It can be used in the dry months that follow. *Why:* Rain comes in a short season and the dry months are long. Catching it moves water through time. Rain does not fall more because we catch it, and rain is not always dirty.
 2. (mcq) A flat roof is 10 metres by 5 metres. A storm brings 40 millimetres of rain. How many litres land on it?  
    Options: 2,000 litres / 90 litres / 400 litres  
@@ -947,31 +947,31 @@ The count was shorter than in June.
    Options: 2 times / 14 times / 1,200 times / 7 times  
    **Answer:** 7 times. *Why:* The number 200 goes into 1,400 seven times. The litres on a roof grow in step with the millimetres, so the second roof gets 7 times as much. Subtracting 1,200 gives an amount, not a comparison.
 4. (mcq) After a long dry spell, a rain tank is built so that the first rain is thrown away. Why?  
-   Options: The first rain is the heaviest / It washes dust and droppings off the roof / It is saltier than later rain  
+   Options: The first rain is the heaviest / It is saltier than later rain / It washes dust and droppings off the roof  
    **Answer:** It washes dust and droppings off the roof. *Why:* A dry roof collects dust, leaves and bird droppings. The first rain carries most of it. The first-flush lets that dirty water go before the cleaner water reaches the filter.
 5. (mcq) A cloth, sand and gravel filter is fitted to a roof tank. What can it not do on its own?  
-   Options: Hold back leaves and dust / Make the water look clearer / Make the water surely safe to drink  
+   Options: Hold back leaves and dust / Make the water surely safe to drink / Make the water look clearer  
    **Answer:** Make the water surely safe to drink. *Why:* A filter holds back dirt but germs and some chemicals pass through. Stored rain is boiled or filtered further before drinking. Holding back dirt and clearing the water are things a filter does.
 6. (mcq) A cup of water vanishes into pot soil in seconds, but sits on flat wet clay. Why?  
-   Options: Soil has gaps that join up, but clay packs tight / Clay is warmer than soil / Clay is heavier than water  
+   Options: Clay is warmer than soil / Soil has gaps that join up, but clay packs tight / Clay is heavier than water  
    **Answer:** Soil has gaps that join up, but clay packs tight. *Why:* Water moves through the gaps between grains. Soil and sand have gaps that join up. Clay is made of tiny flat flakes that pack tight and leave almost no path.
 7. (mcq) A village digs a recharge pit and the open well beside it fills. What changed underground?  
-   Options: A pipe carried the water straight to the well / The water table rose, so the well's water rose too / The well grew wider  
+   Options: A pipe carried the water straight to the well / The well grew wider / The water table rose, so the well's water rose too  
    **Answer:** The water table rose, so the well's water rose too. *Why:* Rain led into the ground fills more gaps and the water table rises. A well is a hole down to the water table, so its water rises with it. Nothing needs a pipe between the pit and the well.
 8. (mcq) In many districts, more groundwater is pumped each year than rain puts back. What follows?  
-   Options: Wells fill to the top / The rain falls more heavily / The water table stays the same / The water table falls and wells go dry or must go deeper  
+   Options: Wells fill to the top / The water table falls and wells go dry or must go deeper / The rain falls more heavily / The water table stays the same  
    **Answer:** The water table falls and wells go dry or must go deeper. *Why:* Water leaves the ground faster than it comes in, so the water table falls. Shallow wells go dry and new ones are drilled deeper. Harvesting only helps if less is taken out than goes in.
 9. (mcq) Why were stepwells built with long stairs and not just a straight shaft?  
    Options: Stairs made the water cooler / People liked climbing / Steps reach the water as its level changes  
    **Answer:** Steps reach the water as its level changes. *Why:* In a dry land the water table sinks in summer and rises in the monsoon. Stairs let people walk down to the water at any level. The cool air was a gift of the depth, not the reason for the steps.
 10. (mcq) A Thar village gets 200 millimetres of rain a year in a few storms. Which method suits it best?  
-   Options: A chain of tanks feeding paddy fields / A covered underground tank with a sloping catchment / Bamboo pipes along a hillside  
+   Options: A covered underground tank with a sloping catchment / A chain of tanks feeding paddy fields / Bamboo pipes along a hillside  
    **Answer:** A covered underground tank with a sloping catchment. *Why:* Where rain is rare, every storm must be kept, and a covered tank loses almost nothing to the sun. A chain of tanks suits a longer rainy season. Bamboo pipes suit steep, wet hills.
 11. (mcq) A curved earth wall across a slope makes a pond in the monsoon. How does it help the wells nearby?  
    Options: The pond soaks slowly into the ground and raises the water table / It stops the rain from falling / It makes the wells wider  
    **Answer:** The pond soaks slowly into the ground and raises the water table. *Why:* A johad slows run-off so it has time to sink. The water joins the groundwater and raises the water table, which fills the wells around it.
 12. (mcq) Sand, soil and flat dough are tested in funnels with one cup each. What makes the test fair?  
-   Options: Use less water on the dough / Pour the dough's water faster / Same depth, cloth and cup each time, repeated  
+   Options: Use less water on the dough / Same depth, cloth and cup each time, repeated / Pour the dough's water faster  
    **Answer:** Same depth, cloth and cup each time, repeated. *Why:* A fair test changes only the ground. Different amounts or speeds would change two things at once. Repeating shows that one try was not a fluke.
 13. (mcq) A model roof catches 7 tenths of a cup. You want to know if a wider gutter helps. What do you do?  
    Options: Widen the gutter and tilt the roof more / Change only the gutter's width and test three times / Try the wide gutter once with more water  
@@ -980,7 +980,7 @@ The count was shorter than in June.
    Options: It depends on how dry the river basin is / Downstream always gets more / Catching rain upstream never changes the river  
    **Answer:** It depends on how dry the river basin is. *Why:* Scientists disagree about how much, and it depends on the place. In a wet region the extra rain would run to the sea. In a dry basin, the water caught upstream is water that no longer reaches the river.
 15. (mcq) A village tank is shared by many households. Which is true of any shared tank?  
-   Options: It needs no rules if the water is plentiful / It needs rules for use and for care / Only the largest household needs rules  
+   Options: It needs rules for use and for care / It needs no rules if the water is plentiful / Only the largest household needs rules  
    **Answer:** It needs rules for use and for care. *Why:* A shared store is a commons. The old tanks lasted because a village committee agreed on who looked after them, and some tanks were kept from some people. Rules about use and care decide whether a commons lasts and who it serves.
 
 ## Applications

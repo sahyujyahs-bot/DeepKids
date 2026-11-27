@@ -733,7 +733,7 @@ That evening Kuzhali crossed out her list. On a clean page she wrote three words
 ## Worksheets
 ### What pushes a vehicle? (core) (core, 10 questions)
 1. (mcq) What does a cycle use in place of petrol from a pump?  
-   Options: Wind only / Battery power / The rider's muscles, run on food / Diesel from the rider  
+   Options: Wind only / The rider's muscles, run on food / Battery power / Diesel from the rider  
    **Answer:** The rider's muscles, run on food. *Why:* A cycle runs on the rider's muscles, and muscles run on food. A cycle has no engine, no tank and no battery.
 2. (fill) A muscle's fuel is ____.  
    **Answer:** ['food']. *Why:* Muscles get their energy from the food we eat. A breakfast of idli moves the legs that push the pedals.
@@ -755,7 +755,7 @@ That evening Kuzhali crossed out her list. On a clean page she wrote three words
    **Answer:** Answers vary. A strong answer picks one and says what would change its mind, such as a heavy bag, rain or the time.. *Why:* Each way has good points. The scooter is quick and carries a heavy bag. The cycle burns no fuel and uses little energy of your own.
 ### Fuels, sharing and electric vehicles (stretch) (stretch, 10 questions)
 1. (mcq) Why does a cycle use less energy than walking for the same distance?  
-   Options: A cycle has a small engine / The saddle holds you up and the wheels roll / Cyclists always go slower / Pedals are lighter than legs  
+   Options: The saddle holds you up and the wheels roll / A cycle has a small engine / Cyclists always go slower / Pedals are lighter than legs  
    **Answer:** The saddle holds you up and the wheels roll. *Why:* When you walk, your legs lift your body at every step. On a cycle the saddle holds you up and the wheels roll, so your legs only turn the pedals.
 2. (truefalse) An electric scooter makes no carbon dioxide anywhere.  
    **Answer:** False. *Why:* False. The scooter gives out none on the road. The electricity may come from a power station that burns coal, and making the battery also takes energy.
@@ -777,7 +777,7 @@ That evening Kuzhali crossed out her list. On a clean page she wrote three words
    **Answer:** Answers vary. A strong answer says who the road is for, and how it could be shared.. *Why:* Both people have a real need. About one in three Indian workers walk or cycle to work, and most road space still goes to motor vehicles.
 ### Old sunlight, rebound and the future (challenge) (challenge, 10 questions)
 1. (mcq) Engines now waste less fuel, yet the world burns more. Which idea explains it?  
-   Options: Cheaper driving can lead to more driving / Engines no longer need fuel / Petrol has become thicker / People are walking more  
+   Options: Engines no longer need fuel / Petrol has become thicker / Cheaper driving can lead to more driving / People are walking more  
    **Answer:** Cheaper driving can lead to more driving. *Why:* When a vehicle costs less to run, people tend to drive more and buy bigger vehicles. This is called the rebound effect. William Jevons noticed it with coal in 1865.
 2. (truefalse) Running a petrol vehicle is running on very old sunlight.  
    **Answer:** True. *Why:* True. Tiny sea beings caught sunlight millions of years ago. Their remains became oil, and the oil holds that energy.
@@ -794,7 +794,7 @@ That evening Kuzhali crossed out her list. On a clean page she wrote three words
 8. (draw) Draw a chain from the Sun to an electric scooter that is charged from a coal power station.  
    **Answer:** Sunlight on a forest of long ago, coal, a power station, a wire, a battery and the scooter, each with an arrow.. *Why:* The energy in coal was first sunlight caught by trees of long ago. The power station burns the coal to make electricity, and the battery stores it.
 9. (mcq) A friend says CNG made Delhi's air clean for ever. Which reply is best?  
-   Options: Yes, it made the air clean for ever / It helped at first, but the smoke came back / No, CNG is the same as diesel / CNG caused all of Delhi's smoke  
+   Options: Yes, it made the air clean for ever / No, CNG is the same as diesel / CNG caused all of Delhi's smoke / It helped at first, but the smoke came back  
    **Answer:** It helped at first, but the smoke came back. *Why:* CNG cut black smoke at first. Later there were many more vehicles, and dust, industry and burning, so the air got bad again. One change of fuel does not settle the matter.
 10. (perspective) What should most vehicles run on in fifty years?  
    **Answer:** Answers vary. A strong answer gives a reason for each choice and says what could change it.. *Why:* Nobody knows yet. Batteries are ahead for scooters and cars. Hydrogen may suit lorries, but making it takes a lot of electricity.
@@ -806,40 +806,40 @@ That evening Kuzhali crossed out her list. On a clean page she wrote three words
 
 ## Quiz
 1. (mcq) A bullock cart rolls along a road. What gives it the push?  
-   Options: The wheels turning / The road / The bullocks' muscles, run on grass and grain / The weight of the cart  
+   Options: The wheels turning / The road / The weight of the cart / The bullocks' muscles, run on grass and grain  
    **Answer:** The bullocks' muscles, run on grass and grain. *Why:* The wheels roll, but they do not push. The push comes from the bullocks' muscles, and the muscles run on the food they eat. If you chose the wheels, try asking what turns them.
 2. (mcq) Which of these needs no fuel tank and no battery?  
-   Options: A diesel bus / A cycle / A CNG auto / An electric scooter  
+   Options: A diesel bus / A CNG auto / A cycle / An electric scooter  
    **Answer:** A cycle. *Why:* A cycle is pushed by the rider's muscles, which run on food. The bus burns diesel, the auto burns CNG and the scooter needs a battery.
 3. (mcq) What is a fuel?  
    Options: A liquid kept in a tank / Something very hot / A thing that makes a loud noise / Something that gives out heat when it burns  
    **Answer:** Something that gives out heat when it burns. *Why:* A fuel is anything that gives out heat when it burns. Many fuels are liquids, but CNG is a gas and coal is a solid rock, so 'a liquid' is not the whole answer.
 4. (mcq) Which of these is a gas that is squeezed into a cylinder?  
-   Options: CNG / Petrol / Diesel / Coal  
+   Options: Petrol / CNG / Diesel / Coal  
    **Answer:** CNG. *Why:* CNG is natural gas squeezed into a strong cylinder. Petrol and diesel are liquids, and coal is a hard black rock.
 5. (mcq) What was petrol mostly made from?  
-   Options: Melted rocks / Dinosaur bones only / Tiny sea beings of long ago, buried and squeezed / Water and air  
+   Options: Melted rocks / Dinosaur bones only / Water and air / Tiny sea beings of long ago, buried and squeezed  
    **Answer:** Tiny sea beings of long ago, buried and squeezed. *Why:* Millions of years ago tiny floating beings died and sank into the mud of warm seas. Heat and squeezing turned their remains into oil. Dinosaurs were not the main source.
 6. (mcq) Why will petrol and diesel not last for ever?  
-   Options: Engines drink them very slowly / They took millions of years to form / The Sun makes a little more each year / Pumps will be taken away  
+   Options: Engines drink them very slowly / The Sun makes a little more each year / They took millions of years to form / Pumps will be taken away  
    **Answer:** They took millions of years to form. *Why:* The oil took millions of years to form and people are using much of it in little more than a hundred. It is not being made again at anything like the speed we burn it.
 7. (mcq) An electric scooter makes no smoke. Why might some smoke still be made?  
-   Options: Its tyres make smoke / Its battery is full of smoke / It makes no smoke anywhere / Coal may be burned at a power station to make its electricity  
+   Options: Its tyres make smoke / Coal may be burned at a power station to make its electricity / Its battery is full of smoke / It makes no smoke anywhere  
    **Answer:** Coal may be burned at a power station to make its electricity. *Why:* The scooter itself gives out no exhaust. But in India most electricity still comes from burning coal, so some smoke has only moved to a chimney far away.
 8. (mcq) What does an electric scooter have in place of a tank and an engine?  
    Options: A battery and a motor / A sail and a rope / A bigger exhaust pipe / A cylinder of CNG  
    **Answer:** A battery and a motor. *Why:* The battery stores electricity and the motor uses magnets to turn it into the spinning of the wheel. Nothing is burned inside the scooter.
 9. (mcq) A driver waits 3 minutes at a closed railway gate. What saves fuel?  
-   Options: Press the pedal now and then / Switch the engine off / Roll forward slowly / Keep it running so it will not stall  
+   Options: Press the pedal now and then / Roll forward slowly / Keep it running so it will not stall / Switch the engine off  
    **Answer:** Switch the engine off. *Why:* A running engine burns fuel even when the vehicle goes nowhere. Switching it off for a wait of a minute or more saves fuel, and a modern engine starts again easily.
 10. (mcq) A shop is 500 metres from home. Which way saves the most fuel?  
    Options: Take the scooter with a friend / Drive, and keep the engine running / Walk or cycle there / Go twice, once for each thing  
    **Answer:** Walk or cycle there. *Why:* Walking or cycling burns no fuel at all. Sharing helps, but the best saving is not to use an engine for a short trip.
 11. (mcq) Which is more likely on a village road than at a city crossing?  
-   Options: A metro train overhead / Hundreds of vehicles in five minutes / A long jam at six o'clock / A bullock cart or a tractor  
+   Options: A metro train overhead / A bullock cart or a tractor / Hundreds of vehicles in five minutes / A long jam at six o'clock  
    **Answer:** A bullock cart or a tractor. *Why:* A village road has fewer vehicles. It has more cycles, walkers, tractors and animal carts. A metro, a jam and hundreds of vehicles belong to a city.
 12. (mcq) A car carries 1 person and a bus carries 50. Which uses less fuel for each person?  
-   Options: The bus, because 50 people share its fuel / The car, because it burns less / They use the same / The faster one  
+   Options: The car, because it burns less / They use the same / The faster one / The bus, because 50 people share its fuel  
    **Answer:** The bus, because 50 people share its fuel. *Why:* The bus burns more, but it shares the fuel between 50 people. One litre carries the bus 4 kilometres, which is 200 kilometres of travel altogether, and carries the car only 15.
 13. (mcq) Why do we try each amount of air three times in the balloon test?  
    Options: To use up the balloons / One try could be a fluke / So that the string stretches / To make the balloon bigger  

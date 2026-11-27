@@ -763,7 +763,7 @@ Mary akka left the long plank at the library. By the next Friday it had two side
 6. (sort) Sort each helper by what it mainly does.  
    **Answer:** Braille → Lets us read or talk; Sign language → Lets us read or talk; Wheelchair → Helps us move about; Jaipur Foot → Helps us move about; White cane → Helps us move about. *Why:* Braille and sign language carry words. A wheelchair, a Jaipur Foot and a white cane help a person move along.
 7. (mcq) You see a blind woman at a busy crossing. What do you do first?  
-   Options: Hold her cane and lead her / Ask, 'Would you like some help?' / Walk past  
+   Options: Ask, 'Would you like some help?' / Hold her cane and lead her / Walk past  
    **Answer:** Ask, 'Would you like some help?'. *Why:* Ask first, and do what she says. Holding the cane, or pulling her, takes charge of her body without her yes.
 8. (write) A friend says 'Poor thing, she cannot walk' about a girl in a wheelchair. What could your friend say instead?  
    **Answer:** A good answer says hello, or asks her name, or talks about what she likes. Or it says the step is the trouble, not her legs.. *Why:* Pity looks down at a person. Asking and talking treats her as an equal.
@@ -801,25 +801,25 @@ Mary akka left the long plank at the library. By the next Friday it had two side
 11. (draw) Draw a good ramp. Label three things that make a ramp good.  
    **Answer:** A gentle slope, a handrail, a rough surface and a flat place to rest.. *Why:* A good ramp is gentle, has a rail to hold, a surface that grips and a place to rest.
 12. (mcq) A rat opens a cage to free another rat, even with chocolate nearby. What does this suggest?  
-   Options: Rats open cages by accident / Rats prefer cages / Some animals help others who are trapped  
+   Options: Rats open cages by accident / Some animals help others who are trapped / Rats prefer cages  
    **Answer:** Some animals help others who are trapped. *Why:* In the test, many rats freed a trapped rat before eating the chocolate. This is one sign that animals other than humans help each other.
 ### Faulty ideas, fair tests and open questions (challenge) (challenge, 12 questions)
 1. (mcq) A friend says, 'A ramp built for a wheelchair only helps wheelchair users.' What is the best reply?  
-   Options: Prams, trolleys, suitcases and old people use it too / Ramps are only for decoration / Only the school uses it  
+   Options: Ramps are only for decoration / Prams, trolleys, suitcases and old people use it too / Only the school uses it  
    **Answer:** Prams, trolleys, suitcases and old people use it too. *Why:* A ramp helps anyone with wheels or weak legs. This is why designing for the people with the most difficulty works for almost everyone.
 2. (truefalse) A longer ramp for the same height needs a smaller push, but you push along a longer path.  
    **Answer:** True. *Why:* True. You pay for the easier push with a longer way. Nothing comes free.
 3. (write) What can the rubber-band ramp test not tell us about a real wheelchair ramp?  
    **Answer:** It cannot show how tired a person's arms get or how a wet surface grips. It cannot show where a rest place is needed, or how the ramp feels to use in rain.. *Why:* A test answers one question. A real ramp has more to it: arms, surface, rest and weather.
 4. (mcq) A ramp is 300 centimetres long and rises 30 centimetres. Does it fit the 1 in 12 rule?  
-   Options: Yes, because 300 is more than 30 / Yes, any ramp fits the rule / No, it needs at least 360 centimetres  
+   Options: Yes, because 300 is more than 30 / No, it needs at least 360 centimetres / Yes, any ramp fits the rule  
    **Answer:** No, it needs at least 360 centimetres. *Why:* 30 x 12 = 360. A ramp of 300 centimetres is too steep by 60 centimetres. The wrong answer 'yes' only compares 300 with 30.
 5. (perspective) Should a deaf child get a cochlear implant? Three people see it differently.  
    **Answer:** Any side, with a reason. There is no single right answer. Good answers ask what the child and her family value.. *Why:* Deaf people and doctors still disagree. No view here is marked right.
 6. (truefalse) We cannot step inside another animal's pain, so nobody can tell if any animal feels pain.  
    **Answer:** False. *Why:* False. We know another person's pain only from what they do and how their body is built. Scientists use the same evidence for animals.
 7. (mcq) Which is the best sign that a dog with a thorn in her paw feels pain?  
-   Options: She is a big dog / She guards the paw, licks it and whimpers when it is touched / She stays quiet  
+   Options: She is a big dog / She stays quiet / She guards the paw, licks it and whimpers when it is touched  
    **Answer:** She guards the paw, licks it and whimpers when it is touched. *Why:* Guarding a hurt part, licking it and pulling away are signs of pain. Dogs also have nerves like ours that carry signals of harm.
 8. (write) Someone says, 'Helping disabled people is a favour.' What do you think? Use the word 'right' in your answer.  
    **Answer:** A good answer says that people have a right to go to school and catch a bus, so a ramp is not a favour. Help comes with ask-first and respect.. *Why:* India's law of 2016 says schools, offices, buses and websites must be usable. A right needs no thank you.
@@ -830,7 +830,7 @@ Mary akka left the long plank at the library. By the next Friday it had two side
 11. (label) Look at the bird water dish. Label two things that make it safe and one thing that is wrong.  
    **Answer:** Safe: shade and a stone to stand on, fresh water. Wrong: a cat hiding behind the pot, or dirty water.. *Why:* A good dish is shallow, in shade, has a stone, and is out of reach of cats. Old water can breed mosquitoes.
 12. (mcq) Why is sharing care work a way to care for the carer?  
-   Options: Care work is not real work / Only women can do it / The carer gets time to rest  
+   Options: Care work is not real work / The carer gets time to rest / Only women can do it  
    **Answer:** The carer gets time to rest. *Why:* Care work is tiring, so a carer who gets help can rest. The jobs do not belong to one sex.
 
 ## Videos
@@ -840,7 +840,7 @@ Mary akka left the long plank at the library. By the next Friday it had two side
 
 ## Quiz
 1. (mcq) A girl broke her arm and cannot button her shirt for a month. What does this show?  
-   Options: Only old people need help / Anyone can need help for a while / She is not trying hard enough  
+   Options: Anyone can need help for a while / Only old people need help / She is not trying hard enough  
    **Answer:** Anyone can need help for a while. *Why:* Every person needs help at some time, as a baby, when hurt or ill, and often in old age. Needing help is part of life, not a rare thing.
 2. (mcq) A teacher says, 'We help them, and they are not like us.' What is the problem?  
    Options: Everybody needs help from others at some time / Teachers should not help / Helping is never good  
@@ -849,10 +849,10 @@ Mary akka left the long plank at the library. By the next Friday it had two side
    Options: The 30-centimetre ramp / They need the same push / The 120-centimetre ramp  
    **Answer:** The 120-centimetre ramp. *Why:* The long ramp rises only a little for each centimetre along, so the push is smaller. The price is a longer path.
 4. (mcq) A step is 15 centimetres high. How long must a ramp of slope 1 in 12 be at least?  
-   Options: 180 centimetres / 27 centimetres / 90 centimetres  
+   Options: 27 centimetres / 90 centimetres / 180 centimetres  
    **Answer:** 180 centimetres. *Why:* 15 x 12 = 180. Adding 12 to 15 gives 27, and mixing up the numbers gives 90. For each 1 centimetre up, the ramp must go at least 12 along.
 5. (mcq) A blind person sweeps a white cane along the ground ahead of her. What is the cane for?  
-   Options: To tell others to stay away / To help her read / To find steps, poles and holes before her feet reach them  
+   Options: To tell others to stay away / To find steps, poles and holes before her feet reach them / To help her read  
    **Answer:** To find steps, poles and holes before her feet reach them. *Why:* The cane gives her news of the ground ahead through touch. It is a tool for finding the way and does not warn others off.
 6. (mcq) Why was the Jaipur Foot built to bend and made of rubber?  
    Options: So that it looks like a shoe / So the wearer can squat and walk barefoot on rough ground / So it is heavy and strong  
@@ -867,16 +867,16 @@ Mary akka left the long plank at the library. By the next Friday it had two side
    Options: Help is a favour from kind people / Help is a right that people are owed / Only charities should help  
    **Answer:** Help is a right that people are owed. *Why:* A right needs no thank you. If a step is in the way, the step must go. Charity is good but it is not the same as a right.
 10. (mcq) An old man's balance is less sure now. Which helps him most at home?  
-   Options: A smooth shiny floor / Moving his things every day / A light on at night and a mat that does not slip  
+   Options: A light on at night and a mat that does not slip / A smooth shiny floor / Moving his things every day  
    **Answer:** A light on at night and a mat that does not slip. *Why:* Falls are a danger in old age, so light, a dry floor and a rough mat prevent them. A smooth floor and things moved around cause trips.
 11. (mcq) A friend is ill with a fever at home. Which is the best way to care?  
-   Options: Bring water, sit with her, and wash your hands with soap after / Tell her to get up and run / Shout loudly so that she cannot sleep  
+   Options: Tell her to get up and run / Bring water, sit with her, and wash your hands with soap after / Shout loudly so that she cannot sleep  
    **Answer:** Bring water, sit with her, and wash your hands with soap after. *Why:* A sick body needs rest, water, light food and company. Soap and water stop the germs passing to you or others.
 12. (mcq) A street dog turns away and tucks her tail when you come close. What is she telling you?  
    Options: Please come closer / I do not want you near me, so back away / I am hungry for plastic  
    **Answer:** I do not want you near me, so back away. *Why:* Animals answer with the body. A dog who turns away or tucks her tail is saying no, just as a person might say 'No, thank you'.
 13. (mcq) On a hot day, which helps a thirsty sparrow most?  
-   Options: Loud crackers to make her fly / A plastic bag of chips / A shallow dish of clean water in the shade  
+   Options: Loud crackers to make her fly / A shallow dish of clean water in the shade / A plastic bag of chips  
    **Answer:** A shallow dish of clean water in the shade. *Why:* Animals feel thirst and heat. A shallow dish of water in the shade with a stone to stand on is real help. Crackers frighten, and plastic bags can harm.
 14. (mcq) A friend says, 'Only one child uses a wheelchair, so the ramp is a waste.' What is missing?  
    Options: Prams, trolleys, old people and anyone with a hurt leg use it too / Ramps are free / A ramp is only for decoration  

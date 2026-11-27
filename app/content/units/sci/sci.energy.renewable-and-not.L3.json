@@ -2458,10 +2458,10 @@
      "p": "Both bowls start with 20 beans. Each round, 5 are taken from each. Only Bowl B gets 3 back. Which empties first?",
      "opts": [
       "Bowl B",
-      "They empty together",
-      "Bowl A"
+      "Bowl A",
+      "They empty together"
      ],
-     "a": 2,
+     "a": 1,
      "why": "Bowl A has nothing added, so it loses 5 each round and is empty in round 4. Bowl B loses 5 and gains 3, so it falls by 2 each round. It is empty in round 10. Adding helped Bowl B, but not enough.",
      "outcome": 3,
      "how": "e1"
@@ -2518,10 +2518,10 @@
      "p": "Which is a real cost of a big dam?",
      "opts": [
       "It adds a lot of soot to the air",
-      "It floods land, and people and other animals lose their homes",
-      "It uses up the river for ever"
+      "It uses up the river for ever",
+      "It floods land, and people and other animals lose their homes"
      ],
-     "a": 1,
+     "a": 2,
      "why": "A dam holds back water, so a valley behind it is flooded. Families, forests and fields can be lost. A dam does not burn anything, so it gives out no soot, and the river keeps flowing, though changed.",
      "outcome": 5
     },
@@ -2591,11 +2591,11 @@
      "t": "mcq",
      "p": "A pond gets 100 buckets of rain a month. A village takes 120 a month. Is the pond renewable for them?",
      "opts": [
+      "Not at this speed, because they take more than comes back",
       "Yes, because rain comes every month",
-      "No, because the pond never fills with rain",
-      "Not at this speed, because they take more than comes back"
+      "No, because the pond never fills with rain"
      ],
-     "a": 2,
+     "a": 0,
      "why": "The rain does fill the pond, but the village takes 20 buckets more than comes back each month. So the pond shrinks and one day runs dry. Renewable depends on the speed of taking, as the beans test showed.",
      "outcome": 1
     },
@@ -2677,10 +2677,10 @@
      "p": "Tidal power uses the rise and fall of the sea. Where does most of that energy come from?",
      "opts": [
       "From the Sun, like the wind",
-      "From the pull of the Moon",
-      "From coal under the sea"
+      "From coal under the sea",
+      "From the pull of the Moon"
      ],
-     "a": 1,
+     "a": 2,
      "why": "The tides are raised mostly by the Moon's pull on the sea. That is one of the few sources not from the Sun.",
      "outcome": 4
     },
@@ -2763,11 +2763,11 @@
      "t": "mcq",
      "p": "A shopkeeper says, 'My solar panel keeps the fan running all night.' What is true?",
      "opts": [
-      "The panel stores sunlight in itself until night",
       "A battery must have stored the day's electricity",
+      "The panel stores sunlight in itself until night",
       "The Moon gives the same light as the Sun"
      ],
-     "a": 1,
+     "a": 0,
      "why": "A panel makes electricity only while light falls on it. At night the energy must come from a battery or from the grid. The Moon only bounces back a little of the Sun's light and a panel gets almost no electricity from it.",
      "outcome": 5
     },
@@ -2877,10 +2877,10 @@
      "p": "Uranium, used in nuclear power, was made by",
      "opts": [
       "the Sun long ago",
-      "exploding and colliding stars before the Sun was born",
-      "plants in swamps"
+      "plants in swamps",
+      "exploding and colliding stars before the Sun was born"
      ],
-     "a": 1,
+     "a": 2,
      "why": "The Sun does not make uranium. Heavy atoms like uranium were made in exploding stars and in collisions of stars, long before the Sun and Earth formed.",
      "outcome": 4
     },
@@ -2944,10 +2944,10 @@
      "p": "India made about 7 in 10 units from coal in about 2024, and it changes yearly. What is fair to say?",
      "opts": [
       "India can switch off coal tomorrow",
-      "Solar panels will never help",
-      "More stores and steady sources are needed as solar grows"
+      "More stores and steady sources are needed as solar grows",
+      "Solar panels will never help"
      ],
-     "a": 2,
+     "a": 1,
      "why": "Solar works in daylight only. As it grows, India needs batteries, pumped water stores and other steady sources for evening and cloudy days. Coal cannot be switched off overnight, but the mix is changing.",
      "outcome": 5
     },
@@ -3009,11 +3009,11 @@
    "t": "mcq",
    "p": "A village cuts 10 trees a year and 4 grow back. Is their firewood renewable?",
    "opts": [
-    "Not at this speed, because cutting is faster than growing",
     "Yes, trees always grow back",
-    "Yes, because wood is a fuel"
+    "Yes, because wood is a fuel",
+    "Not at this speed, because cutting is faster than growing"
    ],
-   "a": 0,
+   "a": 2,
    "why": "A source stays renewable only while we take from it more slowly than it comes back. This village takes 10 and gets back 4, so the forest shrinks each year. Trees do grow back, but not fast enough here. Being a fuel says nothing about coming back.",
    "outcome": 1
   },
@@ -3021,11 +3021,11 @@
    "t": "mcq",
    "p": "Peat grows about 1 millimetre a year. Why is it hard to put in one box?",
    "opts": [
-    "It is not a fuel",
     "It grows back, but far slower than people dig it",
+    "It is not a fuel",
     "It comes from the Sun"
    ],
-   "a": 1,
+   "a": 0,
    "why": "Peat is half-rotted swamp plants. It does grow, but very slowly, so people argue about whether to call it renewable. Peat does burn, so it is a fuel, and almost everything on Earth gets its energy from the Sun, so that does not decide the box.",
    "outcome": 1
   },
@@ -3034,10 +3034,10 @@
    "p": "Why is coal called a fossil fuel?",
    "opts": [
     "It is dug from rocks under the ground",
-    "It is as old as the dinosaur bones found with it",
-    "It is made from the buried remains of ancient living beings"
+    "It is made from the buried remains of ancient living beings",
+    "It is as old as the dinosaur bones found with it"
    ],
-   "a": 2,
+   "a": 1,
    "why": "A fossil is a trace of ancient life kept in rock, and coal is made from the pressed bodies of swamp plants. Being dug from rock is true of many things that are not fossil fuels, such as iron ore. Coal is not tied to dinosaur bones, and much of it is older than the first dinosaurs.",
    "outcome": 2
   },
@@ -3045,11 +3045,11 @@
    "t": "mcq",
    "p": "A friend says oil came from dinosaurs. Which is better?",
    "opts": [
-    "Most oil came from tiny sea beings",
     "Oil is dinosaur bodies pressed in rock",
+    "Most oil came from tiny sea beings",
     "Oil was always in rocks and was never alive"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Most oil began as tiny beings that floated near the sea surface, died and were buried in mud. Dinosaurs lived on land and in water, and their bodies are not the main source. Oil carries chemical marks of living beings, so it was not made without life.",
    "outcome": 2
   },
@@ -3057,11 +3057,11 @@
    "t": "mcq",
    "p": "A bowl gets 3 beans put back every round, and a player takes beans out every round. Which way of taking lets the bowl last?",
    "opts": [
-    "Taking 5 a round",
     "Taking 3 or fewer a round",
+    "Taking 5 a round",
     "Taking 4 a round, because beans are left after 15 rounds"
    ],
-   "a": 1,
+   "a": 0,
    "why": "With 3 or fewer taken, Bowl B never shrinks, since 3 come back. Taking 5 empties it in round 10. Taking 4 leaves 5 beans at round 15, but it falls by one a round and is empty in round 17, so it only looks safe.",
    "outcome": 3,
    "how": "e1"
@@ -3083,11 +3083,11 @@
    "t": "mcq",
    "p": "A forest is cut faster than it grows. What is true about it?",
    "opts": [
-    "It is still renewable, because trees grow",
     "It can run out, because renewable depends on both speeds",
+    "It is still renewable, because trees grow",
     "It is safe, because a forest is very big"
    ],
-   "a": 1,
+   "a": 0,
    "why": "Renewable is about how fast we take compared with how fast nature gives back. In the beans test, the same Bowl B lasted at one speed and ran out at another. A forest is not a bowl, but the same two speeds decide how long it lasts. Being big only makes the ending later.",
    "outcome": 3,
    "how": "e1"
@@ -3096,11 +3096,11 @@
    "t": "mcq",
    "p": "What mainly makes the wind blow?",
    "opts": [
+    "The Sun warming land and sea unevenly",
     "The Moon pulling the air",
-    "The Earth's inner heat",
-    "The Sun warming land and sea unevenly"
+    "The Earth's inner heat"
    ],
-   "a": 2,
+   "a": 0,
    "why": "The Sun warms land faster than sea. Warm air rises and cooler air slides in under it, and that moving air is wind. The Moon pulls the sea into tides, and the Earth's inner heat is too small to drive the wind.",
    "outcome": 4
   },
@@ -3108,11 +3108,11 @@
    "t": "mcq",
    "p": "Which of these did not get its energy from the Sun?",
    "opts": [
+    "Uranium for nuclear power",
     "Firewood",
-    "Coal",
-    "Uranium for nuclear power"
+    "Coal"
    ],
-   "a": 2,
+   "a": 0,
    "why": "Firewood is sunlight caught by trees recently. Coal is sunlight caught by swamp plants long ago. The uranium atoms were made in exploding and colliding stars before the Sun was born.",
    "outcome": 4
   },
@@ -3120,11 +3120,11 @@
    "t": "mcq",
    "p": "A big dam gives clean electricity. Which is a real problem with it?",
    "opts": [
-    "It burns a lot of coal",
     "It drowns a valley and blocks fish swimming upriver",
+    "It burns a lot of coal",
     "It makes new coal under the water"
    ],
-   "a": 1,
+   "a": 0,
    "why": "A dam can flood forests, fields and villages, and a wall stops fish that swim upriver to lay eggs. It does not burn coal. No new coal forms in a lake behind a dam, since coal needs millions of years.",
    "outcome": 5
   },
@@ -3133,10 +3133,10 @@
    "p": "A solar panel alone cannot light a street at night. Why?",
    "opts": [
     "Panels use up their own energy each day",
-    "Street lights only run on coal",
-    "Panels need light, so night needs a store such as a battery"
+    "Panels need light, so night needs a store such as a battery",
+    "Street lights only run on coal"
    ],
-   "a": 2,
+   "a": 1,
    "why": "A panel makes electricity only while light falls on it. To light a street at night we need a store, such as a battery, that was charged in the day. Panels do not use themselves up, and street lights can run on any source.",
    "outcome": 5
   },

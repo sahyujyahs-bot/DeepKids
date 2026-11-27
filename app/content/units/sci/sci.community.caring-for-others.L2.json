@@ -1188,11 +1188,11 @@
       "t": "mcq",
       "q": "Which way up needed the smallest pull?",
       "options": [
-       "Straight up",
        "The long ramp",
+       "Straight up",
        "The short ramp"
       ],
-      "a": 1,
+      "a": 0,
       "why": "The long ramp rises only a little over each centimetre along. The ramp holds up most of the weight, so the pull is small. The price is a longer path."
      }
     },
@@ -1359,10 +1359,10 @@
       "q": "Which surface is best for a ramp on a rainy day?",
       "options": [
        "A smooth wet tile",
-       "A rough surface",
-       "A shiny smooth floor"
+       "A shiny smooth floor",
+       "A rough surface"
       ],
-      "a": 1,
+      "a": 2,
       "why": "A rough surface grips shoes, sticks and wheels even when it is wet. A smooth wet surface lets them slide."
      },
      "think": "Why do bathrooms and ramps need a rough surface? Where have you seen a rough mat on the floor?"
@@ -2613,11 +2613,11 @@
      "t": "mcq",
      "p": "You see a blind woman at a busy crossing. What do you do first?",
      "opts": [
-      "Hold her cane and lead her",
       "Ask, 'Would you like some help?'",
+      "Hold her cane and lead her",
       "Walk past"
      ],
-     "a": 1,
+     "a": 0,
      "why": "Ask first, and do what she says. Holding the cane, or pulling her, takes charge of her body without her yes."
     },
     {
@@ -2796,10 +2796,10 @@
      "p": "A rat opens a cage to free another rat, even with chocolate nearby. What does this suggest?",
      "opts": [
       "Rats open cages by accident",
-      "Rats prefer cages",
-      "Some animals help others who are trapped"
+      "Some animals help others who are trapped",
+      "Rats prefer cages"
      ],
-     "a": 2,
+     "a": 1,
      "why": "In the test, many rats freed a trapped rat before eating the chocolate. This is one sign that animals other than humans help each other."
     }
    ]
@@ -2814,11 +2814,11 @@
      "t": "mcq",
      "p": "A friend says, 'A ramp built for a wheelchair only helps wheelchair users.' What is the best reply?",
      "opts": [
-      "Prams, trolleys, suitcases and old people use it too",
       "Ramps are only for decoration",
+      "Prams, trolleys, suitcases and old people use it too",
       "Only the school uses it"
      ],
-     "a": 0,
+     "a": 1,
      "why": "A ramp helps anyone with wheels or weak legs. This is why designing for the people with the most difficulty works for almost everyone."
     },
     {
@@ -2841,10 +2841,10 @@
      "p": "A ramp is 300 centimetres long and rises 30 centimetres. Does it fit the 1 in 12 rule?",
      "opts": [
       "Yes, because 300 is more than 30",
-      "Yes, any ramp fits the rule",
-      "No, it needs at least 360 centimetres"
+      "No, it needs at least 360 centimetres",
+      "Yes, any ramp fits the rule"
      ],
-     "a": 2,
+     "a": 1,
      "why": "30 x 12 = 360. A ramp of 300 centimetres is too steep by 60 centimetres. The wrong answer 'yes' only compares 300 with 30."
     },
     {
@@ -2880,10 +2880,10 @@
      "p": "Which is the best sign that a dog with a thorn in her paw feels pain?",
      "opts": [
       "She is a big dog",
-      "She guards the paw, licks it and whimpers when it is touched",
-      "She stays quiet"
+      "She stays quiet",
+      "She guards the paw, licks it and whimpers when it is touched"
      ],
-     "a": 1,
+     "a": 2,
      "why": "Guarding a hurt part, licking it and pulling away are signs of pain. Dogs also have nerves like ours that carry signals of harm."
     },
     {
@@ -2939,10 +2939,10 @@
      "p": "Why is sharing care work a way to care for the carer?",
      "opts": [
       "Care work is not real work",
-      "Only women can do it",
-      "The carer gets time to rest"
+      "The carer gets time to rest",
+      "Only women can do it"
      ],
-     "a": 2,
+     "a": 1,
      "why": "Care work is tiring, so a carer who gets help can rest. The jobs do not belong to one sex."
     }
    ]
@@ -2976,11 +2976,11 @@
    "t": "mcq",
    "p": "A girl broke her arm and cannot button her shirt for a month. What does this show?",
    "opts": [
-    "Only old people need help",
     "Anyone can need help for a while",
+    "Only old people need help",
     "She is not trying hard enough"
    ],
-   "a": 1,
+   "a": 0,
    "why": "Every person needs help at some time, as a baby, when hurt or ill, and often in old age. Needing help is part of life, not a rare thing.",
    "outcome": 0
   },
@@ -3013,11 +3013,11 @@
    "t": "mcq",
    "p": "A step is 15 centimetres high. How long must a ramp of slope 1 in 12 be at least?",
    "opts": [
-    "180 centimetres",
     "27 centimetres",
-    "90 centimetres"
+    "90 centimetres",
+    "180 centimetres"
    ],
-   "a": 0,
+   "a": 2,
    "why": "15 x 12 = 180. Adding 12 to 15 gives 27, and mixing up the numbers gives 90. For each 1 centimetre up, the ramp must go at least 12 along.",
    "outcome": 1
   },
@@ -3026,10 +3026,10 @@
    "p": "A blind person sweeps a white cane along the ground ahead of her. What is the cane for?",
    "opts": [
     "To tell others to stay away",
-    "To help her read",
-    "To find steps, poles and holes before her feet reach them"
+    "To find steps, poles and holes before her feet reach them",
+    "To help her read"
    ],
-   "a": 2,
+   "a": 1,
    "why": "The cane gives her news of the ground ahead through touch. It is a tool for finding the way and does not warn others off.",
    "outcome": 2
   },
@@ -3085,11 +3085,11 @@
    "t": "mcq",
    "p": "An old man's balance is less sure now. Which helps him most at home?",
    "opts": [
+    "A light on at night and a mat that does not slip",
     "A smooth shiny floor",
-    "Moving his things every day",
-    "A light on at night and a mat that does not slip"
+    "Moving his things every day"
    ],
-   "a": 2,
+   "a": 0,
    "why": "Falls are a danger in old age, so light, a dry floor and a rough mat prevent them. A smooth floor and things moved around cause trips.",
    "outcome": 5
   },
@@ -3097,11 +3097,11 @@
    "t": "mcq",
    "p": "A friend is ill with a fever at home. Which is the best way to care?",
    "opts": [
-    "Bring water, sit with her, and wash your hands with soap after",
     "Tell her to get up and run",
+    "Bring water, sit with her, and wash your hands with soap after",
     "Shout loudly so that she cannot sleep"
    ],
-   "a": 0,
+   "a": 1,
    "why": "A sick body needs rest, water, light food and company. Soap and water stop the germs passing to you or others.",
    "outcome": 5
   },
@@ -3122,10 +3122,10 @@
    "p": "On a hot day, which helps a thirsty sparrow most?",
    "opts": [
     "Loud crackers to make her fly",
-    "A plastic bag of chips",
-    "A shallow dish of clean water in the shade"
+    "A shallow dish of clean water in the shade",
+    "A plastic bag of chips"
    ],
-   "a": 2,
+   "a": 1,
    "why": "Animals feel thirst and heat. A shallow dish of water in the shade with a stone to stand on is real help. Crackers frighten, and plastic bags can harm.",
    "outcome": 6
   },

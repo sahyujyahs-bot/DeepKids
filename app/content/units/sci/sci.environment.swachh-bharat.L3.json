@@ -1444,11 +1444,11 @@
       "t": "mcq",
       "q": "A bucket holds 20 wet items, 12 dry items and 3 harmful items. What share is wet?",
       "options": [
-       "Less than a third",
        "About half",
+       "Less than a third",
        "More than three-quarters"
       ],
-      "a": 1,
+      "a": 0,
       "why": "20 out of 35 items is a little more than half. If you chose the first, you may have compared 20 with 12 and 3 instead of the total of 35."
      }
     },
@@ -2168,11 +2168,11 @@
       "t": "mcq",
       "q": "The bag leaks rice at the corners. What is the best fix?",
       "options": [
-       "Tie each corner strip a second time.",
        "Use a lighter bag.",
+       "Tie each corner strip a second time.",
        "Put the rice in loose."
       ],
-      "a": 0,
+      "a": 1,
       "why": "Leaks come from gaps between knots. Tying a second knot at the corners closes the gap. Using less rice would only hide the gap."
      }
     },
@@ -2488,11 +2488,11 @@
       "t": "mcq",
       "q": "Day 1 had 30 marks and day 7 had 24. What is the change?",
       "options": [
-       "6 fewer, or a fifth fewer",
        "6 more",
+       "6 fewer, or a fifth fewer",
        "30 fewer"
       ],
-      "a": 0,
+      "a": 1,
       "why": "30 − 24 = 6 fewer. 6 out of 30 is one fifth. If you chose 30 fewer, you took the whole first count away and forgot the new count."
      }
     }
@@ -2813,11 +2813,11 @@
    "t": "mcq",
    "p": "A lane is swept and neat, but an open drain runs beside its hand pump. Is it clean?",
    "opts": [
-    "No, because germs can reach the water",
     "Yes, because it looks neat",
-    "Yes, because the pump still works"
+    "Yes, because the pump still works",
+    "No, because germs can reach the water"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Clean means harmful things are kept away from mouths, water and food. A neat lane can still let germs from the drain reach the pump. If you chose yes, you judged by looks and not by where things can travel.",
    "outcome": 0
   },
@@ -2826,10 +2826,10 @@
    "p": "Which place is cleanest in the scientific sense?",
    "opts": [
     "A shiny plate wiped with a dirty cloth",
-    "A swept house with dust tipped outside",
-    "A muddy garden with a covered compost pit"
+    "A muddy garden with a covered compost pit",
+    "A swept house with dust tipped outside"
    ],
-   "a": 2,
+   "a": 1,
    "why": "A plate wiped with a dirty cloth gets more germs, not fewer, and dust tipped outside has only moved. A covered pit keeps harmful things away from people even though the garden is muddy.",
    "outcome": 0
   },
@@ -2849,12 +2849,12 @@
    "t": "mcq",
    "p": "Which of these belongs in the harmful bin?",
    "opts": [
-    "A used bandage",
     "A banana peel",
+    "A used bandage",
     "A rinsed milk packet",
     "A cotton rag"
    ],
-   "a": 0,
+   "a": 1,
    "why": "A bandage can carry germs and can hurt the person who sorts it, so it is wrapped and kept apart. A peel is wet waste, a clean packet is dry waste, and a rag is dry waste.",
    "outcome": 1
   },
@@ -2862,11 +2862,11 @@
    "t": "mcq",
    "p": "Why must a curd cup be rinsed before it goes into dry waste?",
    "opts": [
+    "Curd left in it spoils the whole sack",
     "Curd melts the plastic",
-    "A rinsed cup weighs less to carry",
-    "Curd left in it spoils the whole sack"
+    "A rinsed cup weighs less to carry"
    ],
-   "a": 2,
+   "a": 0,
    "why": "Food left in one cup soaks the paper and plastic around it so a buyer will not take the sack. If you chose melting, remember that curd does not harm plastic, it only makes the sack dirty.",
    "outcome": 1
   },
@@ -2886,11 +2886,11 @@
    "t": "mcq",
    "p": "A compost heap smells bad and rots very slowly. What is the most likely cause?",
    "opts": [
-    "Too much sunlight",
     "Too little air reaches it",
+    "Too much sunlight",
     "Too many dry leaves"
    ],
-   "a": 1,
+   "a": 0,
    "why": "A bad smell means that bacteria without air have taken over. Stirring the heap or adding dry leaves lets air in. Adding more leaves is part of the fix, and not the cause.",
    "outcome": 2
   },
@@ -2899,10 +2899,10 @@
    "p": "Many cholera cases cluster round one water pump. What does that suggest?",
    "opts": [
     "Bad smells in the air cause cholera",
-    "Cholera germs live only in pumps",
-    "Something in the pump's water spreads the illness"
+    "Something in the pump's water spreads the illness",
+    "Cholera germs live only in pumps"
    ],
-   "a": 2,
+   "a": 1,
    "why": "A cluster around one source points to the water. Smells were once blamed, because dirty lanes smelled and had illness, but the smell was not the cause.",
    "outcome": 3
   },
@@ -2922,11 +2922,11 @@
    "t": "mcq",
    "p": "Why can spit on a floor harm people who never met the person who spat?",
    "opts": [
-    "It dries and floats off as steam",
     "Its germs get on shoes, hands and into the air",
+    "It dries and floats off as steam",
     "It makes the floor slippery"
    ],
-   "a": 1,
+   "a": 0,
    "why": "Spit can carry germs from the chest and mouth, and shoes, hands and drops spread them. A slippery floor is a different problem. If you chose steam, remember that germs do not vanish when spit dries.",
    "outcome": 3
   },
@@ -2934,12 +2934,12 @@
    "t": "mcq",
    "p": "A village has built a toilet for every home. Does that prove nobody goes in the open?",
    "opts": [
+    "No, you must also count who uses them",
     "Yes, toilets are always used",
     "Yes, if the toilets are new",
-    "Only if the toilets are painted",
-    "No, you must also count who uses them"
+    "Only if the toilets are painted"
    ],
-   "a": 3,
+   "a": 0,
    "why": "A toilet that is built but not used still leaves the open field. Researchers visited villages to see what people really do, and found that some toilets were not used.",
    "outcome": 4
   },
@@ -2947,11 +2947,11 @@
    "t": "mcq",
    "p": "Two surveys of the same villages give different numbers. What is the best first step?",
    "opts": [
-    "Ask what each survey counted and how",
     "Believe the bigger number",
+    "Ask what each survey counted and how",
     "Throw both surveys away"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Different counts can both be true. One may count toilets built and the other people using them. Throwing both away loses what each one tells us.",
    "outcome": 4
   },
@@ -2959,11 +2959,11 @@
    "t": "mcq",
    "p": "If a town's scavenging birds disappear, what is most likely to happen to dead animals?",
    "opts": [
+    "They rot longer, and dogs gather to feed",
     "They turn into compost at once",
-    "Nothing changes at all",
-    "They rot longer, and dogs gather to feed"
+    "Nothing changes at all"
    ],
-   "a": 2,
+   "a": 0,
    "why": "Scavengers remove dead animals fast. Without them, the bodies lie longer, and dogs and flies gather. If you chose nothing, you may have forgotten that scavengers are part of the cleaning.",
    "outcome": 5
   },
@@ -2971,11 +2971,11 @@
    "t": "mcq",
    "p": "A sorter is cut by glass hidden in a bag of mixed waste. What would have prevented it?",
    "opts": [
-    "A heavier bag",
     "Wrapping the glass and marking the bag",
+    "A heavier bag",
     "Throwing the bag out at night"
    ],
-   "a": 1,
+   "a": 0,
    "why": "The sorter cannot see the glass in a mixed bag. Wrapping and marking it tells the next person what is inside. Weight and timing do not make a bag safer.",
    "outcome": 5
   },
@@ -2984,11 +2984,11 @@
    "p": "Which small action cuts the most waste over a whole year?",
    "opts": [
     "Putting each thin bag in the blue bin",
+    "Carrying your own bag and refusing the thin bag",
     "Using each thin bag twice",
-    "Asking the shop for two thin bags",
-    "Carrying your own bag and refusing the thin bag"
+    "Asking the shop for two thin bags"
    ],
-   "a": 3,
+   "a": 1,
    "why": "Refusing a thing means that nobody has to collect, sort or bury it. Recycling and reusing a bag twice still use up the bag.",
    "outcome": 6
   },
@@ -2996,11 +2996,11 @@
    "t": "mcq",
    "p": "A beach clean-up removed tonnes of waste, but plastic kept arriving. What does this show?",
    "opts": [
-    "Clean-ups help, and the sources must change too",
     "Clean-ups are pointless",
+    "Clean-ups help, and the sources must change too",
     "The beach was never really cleaned"
    ],
-   "a": 0,
+   "a": 1,
    "why": "The people who clean up do real good, and new plastic arrives while drains and factories keep sending it. Both small actions and bigger changes are needed.",
    "outcome": 6
   }
@@ -3135,11 +3135,11 @@
      "t": "mcq",
      "p": "A fly lands on an open heap and then on food. What stops this?",
      "opts": [
-      "Covering food and keeping heaps closed",
       "Washing the floor",
+      "Covering food and keeping heaps closed",
       "Opening a window"
      ],
-     "a": 0,
+     "a": 1,
      "why": "The germs ride on the fly's legs from the heap to the food. Covering food blocks that path. A clean floor or an open window does not.",
      "outcome": 3
     },
@@ -3195,11 +3195,11 @@
      "t": "mcq",
      "p": "Which small action keeps the most waste from ever being made?",
      "opts": [
-      "Refusing a thing you do not need",
       "Recycling it after one use",
-      "Burning it in the street"
+      "Burning it in the street",
+      "Refusing a thing you do not need"
      ],
-     "a": 0,
+     "a": 2,
      "why": "If you refuse a thing, it never has to be made, carried, sorted or buried. Recycling needs fuel, water and work. Burning plastic makes harmful smoke.",
      "outcome": 6
     },
@@ -3224,11 +3224,11 @@
      "t": "mcq",
      "p": "A glass of clear-looking water is tested and found to hold cholera germs. What does that show?",
      "opts": [
-      "Clear water can still be unsafe to drink",
       "Germs are always visible",
+      "Clear water can still be unsafe to drink",
       "All germs cause illness"
      ],
-     "a": 0,
+     "a": 1,
      "why": "Looking clean is not being clean. Cholera germs are too small to see. Not all germs cause illness, because most are harmless, but this test found one that does.",
      "outcome": 0
     },
@@ -3383,11 +3383,11 @@
      "t": "mcq",
      "p": "A shop stops giving thin bags. Which result shows that this works?",
      "opts": [
-      "Fewer bags found in drains and at clean-ups",
       "More shops selling thin bags",
-      "More bags in the dry bin"
+      "More bags in the dry bin",
+      "Fewer bags found in drains and at clean-ups"
      ],
-     "a": 0,
+     "a": 2,
      "why": "A good test counts what we care about: bags that end up in drains and on the ground. Counting bags in a bin only shows where they went.",
      "outcome": 6
     },
@@ -3456,11 +3456,11 @@
      "t": "mcq",
      "p": "Why does heavy rain make open defecation uphill of a well more dangerous?",
      "opts": [
-      "Rain washes germs along the ground into the well",
       "Rain makes germs grow wings",
-      "Rain kills the germs"
+      "Rain kills the germs",
+      "Rain washes germs along the ground into the well"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Water carries things downhill. A well downhill of a field can be spoilt by one heavy shower. Rain does not kill germs.",
      "outcome": 3
     },
@@ -3548,11 +3548,11 @@
      "t": "mcq",
      "p": "A neighbour says: 'One wrapper makes no difference.' Which finding answers this?",
      "opts": [
-      "A littered place leads more people to litter",
       "Wrappers rot in a day",
+      "A littered place leads more people to litter",
       "Wind carries every wrapper away"
      ],
-     "a": 0,
+     "a": 1,
      "why": "Researchers found that people dropped more litter where there was already litter. One wrapper changes what the next person does.",
      "outcome": 6
     },

@@ -1260,11 +1260,11 @@
       "t": "mcq",
       "q": "Why do we do the finger squash before the tongue press?",
       "options": [
-       "To keep hard food out of the mouth",
        "To make the food taste better",
+       "To keep hard food out of the mouth",
        "To wash the food"
       ],
-      "a": 0,
+      "a": 1,
       "why": "A piece that does not squash flat could be hard for a mouth with no teeth. The finger squash tells us before the piece goes in."
      },
      "parent": "A small piece of idli, banana or rice is safe for a child of six. Count aloud for the child. If any piece feels stuck, the child spits it out at once."
@@ -2161,10 +2161,10 @@
       "q": "Which food goes on every mat?",
       "options": [
        "Raw carrot sticks",
-       "Mashed ripe banana",
-       "A crisp papad"
+       "A crisp papad",
+       "Mashed ripe banana"
       ],
-      "a": 1,
+      "a": 2,
       "why": "Mashed banana goes on every mat, because it is soft. Raw carrot and papad need teeth."
      },
      "parent": "Many cards fit more than one mat. Welcome a child's reason, even if it is a different answer. If a card is a tie, ask: what could change this food? Soaking, cooking and mashing move a food from one mat to another."
@@ -2290,11 +2290,11 @@
       "t": "mcq",
       "q": "Which one is a bird, not a mammal?",
       "options": [
-       "A pigeon",
        "A whale",
+       "A pigeon",
        "A bat"
       ],
-      "a": 0,
+      "a": 1,
       "why": "A pigeon is a bird. She still makes a milky food, called crop milk, for the chicks. A whale and a bat are mammals."
      },
      "think": "Which feeding way surprised you the most?",
@@ -2654,11 +2654,11 @@
      "t": "mcq",
      "p": "Why does a milk tooth wobble just before it falls out?",
      "opts": [
+      "A bigger tooth is growing in under it",
       "The tooth is made of milk",
-      "The child ate too much sugar",
-      "A bigger tooth is growing in under it"
+      "The child ate too much sugar"
      ],
-     "a": 2,
+     "a": 0,
      "why": "From about six years old milk teeth fall out, and bigger teeth push up to take their place."
     },
     {
@@ -2850,11 +2850,11 @@
      "t": "mcq",
      "p": "A sick dog stops eating. What is the best thing to say?",
      "opts": [
-      "Nobody knows for sure if this helps or harms",
       "The dog should be forced to eat",
-      "The dog is only being naughty"
+      "The dog is only being naughty",
+      "Nobody knows for sure if this helps or harms"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Scientists have found that many sick animals lose their appetite. Whether it helps them heal or harms them depends on the illness, and is still being studied."
     },
     {
@@ -2997,11 +2997,11 @@
    "t": "mcq",
    "p": "A new baby has a stomach about as big as a marble. Why is milk the right food?",
    "opts": [
-    "It is a hard food that lasts long",
     "It is a liquid that needs no chewing",
+    "It is a hard food that lasts long",
     "Babies like the taste of sweet things best"
    ],
-   "a": 1,
+   "a": 0,
    "why": "A new baby has no teeth and a tiny stomach. A liquid food that is easy to use is right. A hard food would not work.",
    "outcome": 0
   },
@@ -3009,11 +3009,11 @@
    "t": "mcq",
    "p": "A baby of seven months is ready for first foods. Which sign shows this?",
    "opts": [
+    "The baby can sit with a little help",
     "The baby can say a few words",
-    "The baby cries at night",
-    "The baby can sit with a little help"
+    "The baby cries at night"
    ],
-   "a": 2,
+   "a": 0,
    "why": "At about six months a baby can sit with help, hold the head steady and no longer pushes food out. Crying is not a sign of being ready.",
    "outcome": 2
   },
@@ -3021,11 +3021,11 @@
    "t": "mcq",
    "p": "Why does a baby need foods with iron at about six months?",
    "opts": [
-    "The store of iron from birth is running low",
     "The baby no longer likes milk",
-    "Milk makes the baby ill"
+    "Milk makes the baby ill",
+    "The store of iron from birth is running low"
    ],
-   "a": 0,
+   "a": 2,
    "why": "A baby is born with a store of iron. It runs low at about six months, and mother's milk has only a little. Milk is still given alongside.",
    "outcome": 2
   },
@@ -3057,11 +3057,11 @@
    "t": "mcq",
    "p": "A child of six eats a lot for a small body. Why?",
    "opts": [
-    "The body is building new bone and muscle",
     "The child never feels full",
-    "The stomach is bigger than a grown-up's"
+    "The stomach is bigger than a grown-up's",
+    "The body is building new bone and muscle"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Every bit of new bone and muscle is made from food. A child has a small stomach too, so three meals and small snacks work well.",
    "outcome": 3
   },
@@ -3069,11 +3069,11 @@
    "t": "mcq",
    "p": "Which of these could a baby with no teeth eat?",
    "opts": [
-    "Raw carrot sticks",
     "Mashed ripe banana",
+    "Raw carrot sticks",
     "Crunchy murukku"
    ],
-   "a": 1,
+   "a": 0,
    "why": "A mashed banana is soft and can be pressed with a tongue. Raw carrot and murukku need teeth.",
    "outcome": 6
   },
@@ -3082,10 +3082,10 @@
    "p": "A raw carrot is too hard to eat without teeth. What could you do to it?",
    "opts": [
     "Say it is not a food",
-    "Leave it in the sun",
-    "Cook it until it is soft"
+    "Cook it until it is soft",
+    "Leave it in the sun"
    ],
-   "a": 2,
+   "a": 1,
    "why": "Cooking in water makes a carrot soft. Soaking does the same for a dry biscuit. Both moved from needing teeth to not needing teeth.",
    "outcome": 6
   },
@@ -3093,11 +3093,11 @@
    "t": "mcq",
    "p": "An elder with few teeth is given soft kanji. What else should the bowl have?",
    "opts": [
-    "Dal, egg or curd, for body-building food",
     "Nothing, because soft is enough",
-    "Only salt"
+    "Only salt",
+    "Dal, egg or curd, for body-building food"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Soft only means easy to eat. Old muscles need body-building food as much as before. Dal, egg or curd makes a small bowl rich.",
    "outcome": 4
   },
@@ -3106,10 +3106,10 @@
    "p": "An elder says they are not thirsty. What is the best thing a grown-up can do?",
    "opts": [
     "Let them skip water all day",
-    "Make them drink a big jug fast",
-    "Offer water anyway, in a friendly way"
+    "Offer water anyway, in a friendly way",
+    "Make them drink a big jug fast"
    ],
-   "a": 2,
+   "a": 1,
    "why": "With age, thirst grows weaker, but the body still needs water. A friendly offer, without waiting to be asked, is kind and sensible.",
    "outcome": 4
   },
@@ -3118,10 +3118,10 @@
    "p": "A person has loose motions. Which drink helps most?",
    "opts": [
     "Plain water only",
-    "ORS, water with a little sugar and salt",
-    "A glass of sweet soda"
+    "A glass of sweet soda",
+    "ORS, water with a little sugar and salt"
    ],
-   "a": 1,
+   "a": 2,
    "why": "Plain water runs straight through a sick gut. The sugar helps the gut take in the salt and water. ORS has been used to save many lives.",
    "outcome": 5
   },
@@ -3129,11 +3129,11 @@
    "t": "mcq",
    "p": "A person has a fever and does not want food. What is true?",
    "opts": [
-    "Light foods and plenty of drinks help",
     "They must eat a big biryani",
+    "Light foods and plenty of drinks help",
     "They should drink nothing"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Light foods like kanji and khichdi are easy to digest. A sick person must keep drinking. Scientists still argue about how much food is best.",
    "outcome": 5
   },

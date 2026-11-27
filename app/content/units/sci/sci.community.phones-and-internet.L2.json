@@ -1364,11 +1364,11 @@
       "t": "mcq",
       "q": "A cup phone works with a tight string and not with a pinched string. What does that show?",
       "options": [
-       "The voice travels as shaking along the string",
        "The string is magic when tight",
-       "Cups hear without any string"
+       "Cups hear without any string",
+       "The voice travels as shaking along the string"
       ],
-      "a": 0,
+      "a": 2,
       "why": "A finger stops the string from shaking, and the voice stops with it. Choosing magic means the shaking was not noticed, so touch the tight string while someone whispers, and feel it hum."
      },
      "parent": "This test cannot tell how a mobile phone works. A mobile phone turns the voice into a pattern and sends it by radio waves. It does show that a voice can travel as shaking.",
@@ -2298,11 +2298,11 @@
      "t": "mcq",
      "p": "Which question helps most when checking a message?",
      "opts": [
-      "Who is saying this, and how do they know?",
       "How many people have forwarded it?",
-      "Is it written in capital letters?"
+      "Is it written in capital letters?",
+      "Who is saying this, and how do they know?"
      ],
-     "a": 0,
+     "a": 2,
      "why": "A person who saw or knows a thing is better than a thing that many people have passed on. Many forwards can mean only that it is surprising.",
      "outcome": 6
     },
@@ -2387,10 +2387,10 @@
      "p": "A game wants your address to 'unlock a prize'. What is the best thing to do?",
      "opts": [
       "Type it quickly",
-      "Ask a grown-up first",
-      "Type a made-up address"
+      "Type a made-up address",
+      "Ask a grown-up first"
      ],
-     "a": 1,
+     "a": 2,
      "why": "Most games do not need an address. A grown-up can say if the game is safe. Typing a made-up one still tells the game that you will hand over facts.",
      "outcome": 3
     }
@@ -2407,11 +2407,11 @@
      "t": "mcq",
      "p": "A reader gets 2 of 6 right from a chit, 4 from a voice, 6 from a face. What does this suggest?",
      "opts": [
-      "Voice and face add feeling that words lack",
       "Kavya got better at acting each time",
+      "Voice and face add feeling that words lack",
       "The reader was tired in round 1"
      ],
-     "a": 0,
+     "a": 1,
      "why": "The words stayed the same, so the rise suggests the voice and face added something. Acting and tiredness could matter too, which is why a second reader and a new list are used.",
      "outcome": 2
     },
@@ -2433,11 +2433,11 @@
      "t": "mcq",
      "p": "Anil's cousin dares him to share a classmate's embarrassing photo as a joke. What is right?",
      "opts": [
-      "Share it. It is only a joke",
       "Do not share it, and tell a trusted adult",
+      "Share it. It is only a joke",
       "Share it, then delete it in a minute"
      ],
-     "a": 1,
+     "a": 0,
      "why": "Deleting your copy does not delete the copies already made. A joke that makes one person cry is bullying.",
      "outcome": 4
     },
@@ -2553,10 +2553,10 @@
    "p": "Which is the best description of the internet?",
    "opts": [
     "One huge computer in a city",
-    "A cloud in the sky",
-    "Many computers and phones joined together"
+    "Many computers and phones joined together",
+    "A cloud in the sky"
    ],
-   "a": 2,
+   "a": 1,
    "why": "The internet is a network of many computers, joined by cables and radio waves. The word 'cloud' hides the real cables and buildings.",
    "outcome": 1
   },
@@ -2564,11 +2564,11 @@
    "t": "mcq",
    "p": "A phone cuts a big photo into pieces and numbers each piece. Why number them?",
    "opts": [
-    "To put them back in order at the end",
     "To make the photo smaller",
+    "To put them back in order at the end",
     "To keep strangers out"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Pieces may travel by different roads and arrive in a mixed order. The numbers let the phone build the photo again.",
    "outcome": 1
   },
@@ -2576,11 +2576,11 @@
    "t": "mcq",
    "p": "Rani types 'Okay.' and she is happy. Her friend reads it as cross. Why?",
    "opts": [
-    "The reader cannot hear Rani's voice",
     "The phone changed the word",
+    "The reader cannot hear Rani's voice",
     "Her friend was careless"
    ],
-   "a": 0,
+   "a": 1,
    "why": "A typed word carries no tone. The reader has to guess the feeling, and guesses often miss. Blaming the friend skips the main point.",
    "outcome": 2
   },
@@ -2588,11 +2588,11 @@
    "t": "mcq",
    "p": "Which message is least likely to be read the wrong way?",
    "opts": [
-    "A typed 'Fine.'",
     "A voice note saying 'Fine!' warmly",
+    "A typed 'Fine.'",
     "A typed 'FINE'"
    ],
-   "a": 1,
+   "a": 0,
    "why": "A voice note carries the voice, so the reader hears the feeling. A typed word has none, and capital letters can sound angry.",
    "outcome": 2
   },
@@ -2613,10 +2613,10 @@
    "p": "Who may know your password?",
    "opts": [
     "Your best friend",
-    "Your parent",
-    "A kind person in a game"
+    "A kind person in a game",
+    "Your parent"
    ],
-   "a": 1,
+   "a": 2,
    "why": "A password opens your account. A best friend today may not be one next month, and the password will still work.",
    "outcome": 3
   },
@@ -2636,11 +2636,11 @@
    "t": "mcq",
    "p": "Which one is misuse of a device?",
    "opts": [
-    "Reading your uncle's messages without asking",
     "Calling your grandmother with a parent beside you",
+    "Reading your uncle's messages without asking",
     "Putting a screen lock on a phone"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Misuse means using a device to harm, to trick, to spy or without leave. A lock and a call with a parent are safe.",
    "outcome": 4
   },
@@ -2648,11 +2648,11 @@
    "t": "mcq",
    "p": "Why does deleting a sent message not take it fully back?",
    "opts": [
-    "A copy may already be on another phone",
     "Deleted messages come back on Tuesdays",
+    "A copy may already be on another phone",
     "Messages never leave the phone"
    ],
-   "a": 0,
+   "a": 1,
    "why": "A sent message becomes a copy on someone else's device. Deleting removes only your own copy.",
    "outcome": 4
   },
@@ -2660,11 +2660,11 @@
    "t": "mcq",
    "p": "A scary picture arrives on a screen. Which first step is right?",
    "opts": [
+    "Stop, do not answer, keep it and tell an adult",
     "Reply to ask who sent it",
-    "Delete it at once so that nobody sees",
-    "Stop, do not answer, keep it and tell an adult"
+    "Delete it at once so that nobody sees"
    ],
-   "a": 2,
+   "a": 0,
    "why": "The four steps keep you safe, and the adult needs to see the picture. Replying tells the sender that you are there.",
    "outcome": 5
   },
@@ -2672,11 +2672,11 @@
    "t": "mcq",
    "p": "Why should a child keep a scary message and not delete it?",
    "opts": [
-    "The adult needs to see it",
     "Deleted messages come back to scare you",
-    "The phone breaks if a message is deleted"
+    "The phone breaks if a message is deleted",
+    "The adult needs to see it"
    ],
-   "a": 0,
+   "a": 2,
    "why": "The adult can use the message to find who sent it and to help. Deleting it hides the proof.",
    "outcome": 5
   },
@@ -2684,11 +2684,11 @@
    "t": "mcq",
    "p": "A message says, 'Send this to ten people now!' What is the best first step?",
    "opts": [
+    "Ask who says it and how they know",
     "Send it quickly before it expires",
-    "Send it to ten people to be safe",
-    "Ask who says it and how they know"
+    "Send it to ten people to be safe"
    ],
-   "a": 2,
+   "a": 0,
    "why": "The two questions slow things down. A rush is a warning sign, and a few seconds of checking cost nothing.",
    "outcome": 6
   },
@@ -2708,11 +2708,11 @@
    "t": "mcq",
    "p": "A phone calls an ambulance and also carries a cruel message. What does that show?",
    "opts": [
+    "The same tool can help or harm, depending on how it is used",
     "Phones are bad",
-    "Phones are good",
-    "The same tool can help or harm, depending on how it is used"
+    "Phones are good"
    ],
-   "a": 2,
+   "a": 0,
    "why": "A tool has no side. Its use decides what it does, and who has one decides who gets the help.",
    "outcome": 7
   }

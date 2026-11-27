@@ -2270,11 +2270,11 @@
      "t": "mcq",
      "p": "Which tool answers 'How much water is in this tumbler?'",
      "opts": [
-      "A measuring cup",
       "A ruler",
+      "A measuring cup",
       "A stopwatch"
      ],
-     "a": 0,
+     "a": 1,
      "why": "Water in a tumbler is a volume, and a measuring cup measures volume. A ruler measures length and a stopwatch measures time.",
      "outcome": 0
     },
@@ -2292,11 +2292,11 @@
      "t": "mcq",
      "p": "You press the zero button on a kitchen scale after putting the empty bowl on. Why?",
      "opts": [
+      "So it shows only what you add",
       "So the bowl weighs nothing in real life",
-      "To switch the scale on",
-      "So it shows only what you add"
+      "To switch the scale on"
      ],
-     "a": 2,
+     "a": 0,
      "why": "The bowl has a mass of its own. Setting zero with the bowl on lets the scale show the food alone.",
      "outcome": 1
     },
@@ -2426,10 +2426,10 @@
      "p": "Two predictions missed by 12 seconds. One result was 30 seconds, the other 10 minutes. Which miss matters more?",
      "opts": [
       "The 10-minute one",
-      "The 30-second one",
-      "They matter the same"
+      "They matter the same",
+      "The 30-second one"
      ],
-     "a": 1,
+     "a": 2,
      "why": "12 seconds is a large share of 30 seconds and a tiny share of 10 minutes. Compare a miss with the size of the result.",
      "outcome": 5
     },
@@ -2486,10 +2486,10 @@
      "p": "You want the mass of one grain of rice on a scale that shows whole grams. What works?",
      "opts": [
       "Weigh one grain and round up",
-      "Weigh a hundred grains, then divide",
-      "Use a bigger scale"
+      "Use a bigger scale",
+      "Weigh a hundred grains, then divide"
      ],
-     "a": 1,
+     "a": 2,
      "why": "One grain is far below the scale's smallest mark. A hundred grains give a reading you can see, and dividing by a hundred gives one grain.",
      "outcome": 0
     },
@@ -2704,11 +2704,11 @@
      "t": "mcq",
      "p": "Both predicted 30 seconds. Child A got 29, 31 and 30. Child B got 18, 42 and 30. Who is better supported?",
      "opts": [
-      "Child A, whose runs cluster tightly",
       "Child B, because 30 was one of the runs",
+      "Child A, whose runs cluster tightly",
       "Both the same, since the middle is 30"
      ],
-     "a": 0,
+     "a": 1,
      "why": "A tight spread lets the prediction be judged sharply. A wide spread means the test itself cannot tell 30 from many other numbers.",
      "outcome": 5
     },
@@ -2724,10 +2724,10 @@
      "p": "Warm water took longer than cold. The warm cup was stirred gently and the cold one hard. What is at fault?",
      "opts": [
       "The reason, because warm water is slower",
-      "The doing, because stirring differed",
-      "The thermometer"
+      "The thermometer",
+      "The doing, because stirring differed"
      ],
-     "a": 1,
+     "a": 2,
      "why": "Only the warmth should change. Different stirring is another change, so the test cannot say what caused the result.",
      "outcome": 6
     },
@@ -2820,11 +2820,11 @@
      "t": "mcq",
      "p": "Two weather computers start from nearly the same numbers. Ten days on, their forecasts differ greatly. Why?",
      "opts": [
-      "Tiny differences at the start grow in weather",
       "One computer must be broken",
-      "Weather has no rules at all"
+      "Weather has no rules at all",
+      "Tiny differences at the start grow in weather"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Weather follows fixed laws, but small differences in the start grow into large ones. So the forecast gets worse with each day ahead.",
      "outcome": 6
     },
@@ -2887,11 +2887,11 @@
      "t": "mcq",
      "p": "You must time a snap that lasts 0.3 seconds. Why is timing it by hand a poor choice?",
      "opts": [
-      "A 0.2 second reaction is most of 0.3",
       "Phones cannot show tenths of a second",
-      "Such short times do not exist"
+      "Such short times do not exist",
+      "A 0.2 second reaction is most of 0.3"
      ],
-     "a": 0,
+     "a": 2,
      "why": "A person needs about a fifth of a second to react. For a very short event, that delay is a large share of the whole time.",
      "outcome": 1
     }
@@ -2915,11 +2915,11 @@
    "t": "mcq",
    "p": "A 15 centimetre ruler is used to measure a 6 metre room. What is the main problem?",
    "opts": [
-    "Laying it down 40 times adds 40 small mistakes",
     "Its marks are too big",
-    "A ruler cannot measure length"
+    "A ruler cannot measure length",
+    "Laying it down 40 times adds 40 small mistakes"
    ],
-   "a": 0,
+   "a": 2,
    "why": "A tool that is too fine for the job adds many small mistakes. A tape would fit the job. The ruler's marks are tiny, and it does measure length, but only well over short distances.",
    "outcome": 0
   },
@@ -2951,11 +2951,11 @@
    "t": "mcq",
    "p": "Which sentence about a knife is true?",
    "opts": [
-    "A hazard only in someone's hand",
     "A hazard in a drawer, with a low risk",
+    "A hazard only in someone's hand",
     "A risk in a drawer only"
    ],
-   "a": 1,
+   "a": 0,
    "why": "A hazard is what could cause harm, so the knife is one everywhere. The risk is the chance and size of the harm, and that changes with how and where it is used.",
    "outcome": 2
   },
@@ -3000,10 +3000,10 @@
    "p": "Halfway through a test, a cup cracks. What do you do?",
    "opts": [
     "Pick up the pieces quickly",
-    "Finish the run, then clear up",
-    "Stop, step back and fetch a grown-up"
+    "Stop, step back and fetch a grown-up",
+    "Finish the run, then clear up"
    ],
-   "a": 2,
+   "a": 1,
    "why": "A plan cannot cover everything. When something unexpected happens, the safe habit is to stop and think before the hands carry on.",
    "outcome": 3
   },
@@ -3011,11 +3011,11 @@
    "t": "mcq",
    "p": "Which of these is a prediction and not only a guess?",
    "opts": [
-    "Warm water will be quicker",
     "Quicker, because cold took longer than room-warm",
+    "Warm water will be quicker",
     "It will take about 30 seconds"
    ],
-   "a": 1,
+   "a": 0,
    "why": "A prediction carries a reason taken from what you know. The reason lets others check your thinking and tells you what to rethink if the result differs.",
    "outcome": 4
   },
@@ -3023,11 +3023,11 @@
    "t": "mcq",
    "p": "You have timed sugar but never rock salt. What is the best first step to predict for rock salt?",
    "opts": [
-    "Compare what rock salt shares with sugar",
     "Say nobody can predict a new thing",
+    "Compare what rock salt shares with sugar",
     "Pick any number, because it is new"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Predicting the new works by stepping from a familiar case. Both dissolve, so warm should help, and rock salt crystals are bigger, so it may be slower.",
    "outcome": 4
   },
@@ -3035,11 +3035,11 @@
    "t": "mcq",
    "p": "You predict 25 seconds. Three runs give 31, 34 and 37 seconds. Judged by the spread, was the prediction accurate?",
    "opts": [
-    "No, 25 is outside the runs' spread",
     "Yes, because 25 is near 31",
+    "No, 25 is outside the runs' spread",
     "Yes, any number under 40 is fine"
    ],
-   "a": 0,
+   "a": 1,
    "why": "The runs differ by 6 seconds without anything being wrong. A prediction outside that spread is a real miss, and 25 is 6 seconds below the lowest run. A number is not fine only because it is small.",
    "outcome": 5
   },
@@ -3066,11 +3066,11 @@
    "t": "mcq",
    "p": "Two planets strayed from the sums. For one, an unseen planet was found. For the other, none ever was. What does that show?",
    "opts": [
+    "A miss alone cannot say what is wrong",
     "A miss always means a hidden object",
-    "A prediction that missed is useless",
-    "A miss alone cannot say what is wrong"
+    "A prediction that missed is useless"
    ],
-   "a": 2,
+   "a": 0,
    "why": "In one case the cause was hidden outside the idea. In the other the idea itself needed changing. A miss is a clue. Further tests are needed to tell which.",
    "outcome": 6
   }

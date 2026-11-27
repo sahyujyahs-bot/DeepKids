@@ -749,7 +749,7 @@ So who had put it there?
    Options: Little weight, big price, so cheating pays / Saffron is easier to grow / Potatoes are never sold by weight  
    **Answer:** Little weight, big price, so cheating pays. *Why:* Cheating pays most where a food costs a lot for its weight. Potatoes are sold by weight too, but they cost little, so the gain is small.
 6. (mcq) Which adulterant harms mainly by what it is, and not only by cheating?  
-   Options: Clean water in milk / Used tea leaves in fresh tea / Lead chromate in turmeric  
+   Options: Lead chromate in turmeric / Clean water in milk / Used tea leaves in fresh tea  
    **Answer:** Lead chromate in turmeric. *Why:* Lead chromate is a poison that builds up in the body. Clean water and used leaves cheat the buyer of food but are not poisons themselves.
 7. (fill) Lead is stored in the body's ____ because the body mistakes it for calcium.  
    **Answer:** ['bones']. *Why:* The body uses calcium to build bones and takes up lead by mistake, and it stays there for years.
@@ -758,7 +758,7 @@ So who had put it there?
 9. (truefalse) A magnet can find brick powder in chilli powder.  
    **Answer:** False. *Why:* A magnet attracts iron only, and brick powder is not iron. A magnet test suits iron filings in tea.
 10. (mcq) Chalk is stirred into sugar. Which difference does the water test use?  
-   Options: Sugar floats and chalk sinks / Sugar dissolves and chalk does not / Sugar is white and chalk is grey  
+   Options: Sugar floats and chalk sinks / Sugar is white and chalk is grey / Sugar dissolves and chalk does not  
    **Answer:** Sugar dissolves and chalk does not. *Why:* Sugar vanishes into water, and chalk stays as a cloud and then a layer. Colour is not the difference, since both are white.
 11. (draw) Draw the slanting-plate test. Show the plate, the books, the line and three drops of milk.  
    **Answer:** A plate tilted on books, a line across its top, and three drops starting together. Their trails are short, medium and long.. *Why:* A fair test needs the same plate, the same slope and a common start line, so that only the milk differs.
@@ -772,11 +772,11 @@ So who had put it there?
 15. (write) Name two things on a packet that a family can check before buying, and say what each tells.  
    **Answer:** The 14-digit licence number shows that the business is registered. The batch number lets a bad lot be traced. The date, the address and the ingredients also count.. *Why:* A label cannot show a secret addition, but it makes tracing and reporting possible.
 16. (mcq) A family finds that a test shows something odd in a packet of turmeric. What should they do first?  
-   Options: Throw the packet away quietly / Taste a little to check / Tell nobody / Repeat it, keep the packet, ask for help  
+   Options: Throw the packet away quietly / Repeat it, keep the packet, ask for help / Taste a little to check / Tell nobody  
    **Answer:** Repeat it, keep the packet, ask for help. *Why:* One try can be a fluke, so repeat it. Keeping the packet and the bill lets the food authority test it, and tasting an unknown sample is never safe.
 ### What a test can and cannot tell (stretch) (stretch, 16 questions)
 1. (mcq) A honey sample passes the test of a drop that holds together in water. What does this show?  
-   Options: That the honey is made from nectar / Only that it is thick / That no sugar was added  
+   Options: That the honey is made from nectar / That no sugar was added / Only that it is thick  
    **Answer:** Only that it is thick. *Why:* The test checks thickness, and bees make honey by drying nectar until it is thick. A syrup can be as thick, so it passes too.
 2. (truefalse) A test that finds nothing proves that a food is pure.  
    **Answer:** False. *Why:* A test can find only what it was built for, and only above its smallest amount. 'Nothing found' is all it can say.
@@ -807,13 +807,13 @@ So who had put it there?
 14. (draw) Draw a paper strip after 10 minutes in water, with a green dot split into two colours.  
    **Answer:** A strip standing in water with a pencil line near the bottom. A yellow band travelled farther and a blue band stayed lower. A mark shows where the water reached.. *Why:* Different dyes cling by different amounts, so they separate into bands at different heights.
 15. (mcq) A label says 'no added colour', but a laboratory finds a dye. Which kind of bad food is this?  
-   Options: Sub-standard, because it is cheap / Misbranded, because the label says something untrue / Unsafe, because it has a label  
+   Options: Misbranded, because the label says something untrue / Sub-standard, because it is cheap / Unsafe, because it has a label  
    **Answer:** Misbranded, because the label says something untrue. *Why:* A false label makes the food misbranded. A dye may also make it unsafe, but the label is the first fault.
 16. (write) A family's test shows something. Write what they should keep and what they should do next.  
    **Answer:** Keep the packet, the bill and the batch number. Repeat the test once. Report it to the food authority through the Food Safety Connect app or the state food safety office.. *Why:* Evidence kept is what the food authority needs to trace and test the lot.
 ### Faulty claims and open questions (challenge) (challenge, 15 questions)
 1. (mcq) A girl says, 'My turmeric left the water pale, so it has no lead.' What is wrong with her claim?  
-   Options: The water was too cold / Turmeric never holds lead / The test misses lead, which does not dissolve  
+   Options: The test misses lead, which does not dissolve / The water was too cold / Turmeric never holds lead  
    **Answer:** The test misses lead, which does not dissolve. *Why:* A test can find only what it uses a difference for. Lead chromate hardly dissolves, so a water test cannot show it.
 2. (mcq) A school tests 10 samples and finds nothing. Which claim can the school fairly make?  
    Options: All the food in the town is pure / These tests found nothing in these 10 samples / Nobody cheats in this town  
@@ -831,7 +831,7 @@ So who had put it there?
 8. (write) A rat tastes a little new food and waits. You test turmeric in water. Is that the same thing?  
    **Answer:** Both test before trusting, in small amounts, and both can miss what the test cannot show. The rat tests with her body and a delay, and you use a chosen difference.. *Why:* Testing a little before trusting a lot is a way living beings protect themselves, and every test has limits.
 9. (mcq) Which is the worst way to say how common adulteration is?  
-   Options: Giving one percentage without saying what was counted / Saying how many samples were tested / Saying what the standard was  
+   Options: Saying how many samples were tested / Giving one percentage without saying what was counted / Saying what the standard was  
    **Answer:** Giving one percentage without saying what was counted. *Why:* A survey may count failing a quality standard, finding an accidental contaminant or finding a harmful adulterant. These give very different numbers.
 10. (sort) Sort each one into a stand-in measurement or a direct check.  
    **Answer:** nitrogen read as protein → Stand-in measurement; a magnet pulling iron out of tea → Direct check; a drop that holds together read as honey → Stand-in measurement; reading the DNA of a rice grain → Direct check; bright yellow read as good turmeric → Stand-in measurement. *Why:* A stand-in measures an easy thing that usually goes with quality. A cheat can supply the easy thing without the quality.
@@ -853,28 +853,28 @@ So who had put it there?
 
 ## Quiz
 1. (mcq) Which one is adulteration?  
-   Options: A permitted colour named on a sweet packet / Brick dust secretly mixed into chilli powder / Toned milk sold as toned milk  
+   Options: Brick dust secretly mixed into chilli powder / A permitted colour named on a sweet packet / Toned milk sold as toned milk  
    **Answer:** Brick dust secretly mixed into chilli powder. *Why:* Adulteration is secret. Open, allowed and labelled additions are not. A child who picks another answer may think any addition counts.
 2. (mcq) A seller secretly skims the fat from milk and still calls it full-cream. What kind of adulteration is this?  
-   Options: Adding a cheaper thing / Swapping one food for another / Removing a valuable part  
+   Options: Adding a cheaper thing / Removing a valuable part / Swapping one food for another  
    **Answer:** Removing a valuable part. *Why:* The seller takes out the valuable fat and keeps the name. Adding and swapping would need something new to be put in.
 3. (mcq) One turmeric seller adds dye for brightness, and buyers cannot tell. What happens to the honest seller?  
-   Options: Loses customers to the bright turmeric / Gets more customers / Nothing changes  
+   Options: Gets more customers / Nothing changes / Loses customers to the bright turmeric  
    **Answer:** Loses customers to the bright turmeric. *Why:* If buyers cannot tell good from bad, they may not pay more for the honest one, and the cheat can win. Akerlof wrote about this in 1970.
 4. (mcq) Which food is most likely to be adulterated?  
    Options: Potatoes, because they are everywhere / Plain water, because it is free / Saffron, because a small weight costs a lot  
    **Answer:** Saffron, because a small weight costs a lot. *Why:* A cheat gains most where a food costs a lot for its weight. Potatoes are cheap, so the gain is small.
 5. (mcq) Which adulterant harms mainly by cheating and not by poisoning?  
-   Options: Lead chromate in turmeric / Clean water in milk / Argemone oil in mustard oil  
+   Options: Lead chromate in turmeric / Argemone oil in mustard oil / Clean water in milk  
    **Answer:** Clean water in milk. *Why:* Clean water is not a poison, but the family pays for milk and gets less nourishment. The other two harm by what they are.
 6. (mcq) Why does lead harm a young child more than a grown-up?  
-   Options: A child eats far more turmeric / Lead is harmless to adults / Children absorb more lead, and their brains grow  
+   Options: Children absorb more lead, and their brains grow / A child eats far more turmeric / Lead is harmless to adults  
    **Answer:** Children absorb more lead, and their brains grow. *Why:* Children absorb about four to five times as much of the lead they swallow, and their brains are still being built.
 7. (mcq) A teaspoon of turmeric on still water gives bright yellow streaks at once. What does this suggest?  
-   Options: Lead chromate is present / The turmeric is strong and pure / A dye that dissolves may be present  
+   Options: Lead chromate is present / A dye that dissolves may be present / The turmeric is strong and pure  
    **Answer:** A dye that dissolves may be present. *Why:* Natural turmeric hardly dissolves, so a quick bright colour points to a dye. The test cannot show lead chromate, which does not dissolve.
 8. (mcq) Iron filings were mixed into tea. Which test could catch it?  
-   Options: A magnet, because only iron is attracted / The glass of water, because iron dissolves / The iodine drop, because iron turns blue-black  
+   Options: The glass of water, because iron dissolves / The iodine drop, because iron turns blue-black / A magnet, because only iron is attracted  
    **Answer:** A magnet, because only iron is attracted. *Why:* A test uses one difference. Iron is attracted to a magnet, and it does not dissolve and does not react with iodine like starch.
 9. (mcq) You test two milks on a slanting plate. Which makes the test fair?  
    Options: Tilt the plate more for the watered milk / Same plate, slope and drop size, started together / A bigger drop of the plain-looking milk  
@@ -886,16 +886,16 @@ So who had put it there?
    Options: It measured nitrogen, which melamine is full of / Melamine is a protein / The test was never used  
    **Answer:** It measured nitrogen, which melamine is full of. *Why:* Nitrogen stands in for protein. Melamine supplied the nitrogen without the protein, so the test was fooled.
 12. (mcq) A packet says 'pure milk'. A chemist says milk is not pure. How can both be right?  
-   Options: The chemist has not tested the milk / The packet is always lying / One substance only, but milk is a mixture  
+   Options: The chemist has not tested the milk / One substance only, but milk is a mixture / The packet is always lying  
    **Answer:** One substance only, but milk is a mixture. *Why:* In chemistry pure means one substance only. In food law it means meeting a standard with nothing hidden. The meanings differ.
 13. (mcq) Which addition is NOT adulteration?  
-   Options: A permitted colour hiding stale food in secret / Declared iodine in salt, within the limit / A cloth dye in a sweet  
+   Options: A permitted colour hiding stale food in secret / A cloth dye in a sweet / Declared iodine in salt, within the limit  
    **Answer:** Declared iodine in salt, within the limit. *Why:* Allowed, within the limit and declared. A permitted colour used secretly breaks the third rule, and a cloth dye is never allowed.
 14. (mcq) A 14-digit licence number is printed on a packet. What does it tell you?  
-   Options: The business is registered and can be traced / This packet was tested in a laboratory / The food is free of adulterants  
+   Options: This packet was tested in a laboratory / The food is free of adulterants / The business is registered and can be traced  
    **Answer:** The business is registered and can be traced. *Why:* It shows that the maker is registered, so a complaint can be traced. It does not show that this packet was tested.
 15. (mcq) A family finds a worrying result on a spice. What is the best first step?  
-   Options: Mix it with the rest of the stock / Repeat, keep the packet and bill, report it / Throw it away and say nothing  
+   Options: Mix it with the rest of the stock / Throw it away and say nothing / Repeat, keep the packet and bill, report it  
    **Answer:** Repeat, keep the packet and bill, report it. *Why:* One try can be a fluke, and a kept packet with a bill lets the food authority test the lot. Quietly throwing it away leaves others at risk.
 
 ## Applications

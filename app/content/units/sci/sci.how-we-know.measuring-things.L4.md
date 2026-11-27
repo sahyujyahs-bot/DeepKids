@@ -738,7 +738,7 @@ Zoya watched the pans swing and settle. Tomatoes on one side and iron on the oth
 9. (perspective) Should the whole world use only metric units?  
    **Answer:** Answers vary. A strong answer notes that both agree science needs one system, and they disagree about daily life, where old units carry the knowledge of a craft.. *Why:* This is a real disagreement about what is gained and lost when old units are given up.
 10. (mcq) Why does a smaller step give a longer coast?  
-   Options: It follows more of the bends / The coast grows / Small steps stretch  
+   Options: The coast grows / It follows more of the bends / Small steps stretch  
    **Answer:** It follows more of the bends. *Why:* A long step jumps over bays and creeks. A short step goes into more of them, so the total grows. The coast itself does not change.
 11. (truefalse) The edge of a steel plate gets much longer when you measure it with a finer ruler.  
    **Answer:** False. *Why:* False. A smooth edge has hardly any bends to skip, so a finer step changes the answer very little. The puzzle belongs to jagged things.
@@ -765,7 +765,7 @@ Zoya watched the pans swing and settle. Tomatoes on one side and iron on the oth
 4. (write) Two of the world's best clocks disagree by a tiny amount. Describe two ways people could decide what to do.  
    **Answer:** A good answer might say: compare both with a third clock, or compare many clocks and take an average, or agree which one to call correct. The key idea is that without a better clock, people must agree.. *Why:* A clock is checked by comparing it with other clocks, so trust is built by agreement.
 5. (mcq) Why does a shop weight get checked against an inspector's weight?  
-   Options: It makes the weight heavier / It is only for the law / It ties every kilogram of rice to the same shared kilogram  
+   Options: It makes the weight heavier / It ties every kilogram of rice to the same shared kilogram / It is only for the law  
    **Answer:** It ties every kilogram of rice to the same shared kilogram. *Why:* A chain of checks leads from the shop up to a national laboratory, so a kilogram means the same in every shop. It is more than a rule. It is how strangers trust each other.
 6. (perspective) Is knowledge poor if it cannot be measured?  
    **Answer:** Answers vary. A strong answer says both help, in different ways: numbers suit things that can be compared by an instrument, and careful watching suits things that cannot.. *Why:* Scientists still disagree about how far measuring reaches. Neither view is marked right.
@@ -774,7 +774,7 @@ Zoya watched the pans swing and settle. Tomatoes on one side and iron on the oth
 8. (count) A car wheel is 2 metres round. It turns 750 times. How many kilometres has the car gone?  
    **Answer:** 1.5. *Why:* 750 turns × 2 metres = 1,500 metres, which is 1.5 kilometres.
 9. (mcq) Why do doctors ask for children's doses in millilitres only?  
-   Options: Millilitres are smaller than spoons / Spoons differ in size, so one number gives different doses / Spoons are not allowed  
+   Options: Spoons differ in size, so one number gives different doses / Millilitres are smaller than spoons / Spoons are not allowed  
    **Answer:** Spoons differ in size, so one number gives different doses. *Why:* A kitchen spoon can hold much more or much less than another. A marked cap or syringe is the same for everyone.
 10. (write) A torn edge gave longer totals with smaller steps. What would 1 millimetre steps give? Why can it not grow for ever?  
    **Answer:** A good answer predicts a longer total, because the step follows more bends. It also says the growth must stop at some size, such as when the step is smaller than the paper's fibres.. *Why:* Real edges are not infinitely jagged, so the growth slows. How fast, and where, depends on the thing.
@@ -785,7 +785,7 @@ Zoya watched the pans swing and settle. Tomatoes on one side and iron on the oth
 13. (odd) Which is the odd one out, and why? Foot, hand span, forearm, metre.  
    **Answer:** The metre. The other three are body units that differ from person to person. The metre is the same for everyone.. *Why:* A standard unit is copied from one shared example. A body unit goes with the body.
 14. (mcq) A cold thermometer is put into a small cup of warm water. What may happen to the water?  
-   Options: It cools a little, so measuring changed it / It heats up / Nothing. Measuring never changes anything.  
+   Options: It heats up / Nothing. Measuring never changes anything. / It cools a little, so measuring changed it  
    **Answer:** It cools a little, so measuring changed it. *Why:* The thermometer takes a little warmth from the water. For small amounts, measuring changes the thing measured a little.
 15. (mcq) A 400 gram packet costs 60 rupees and a 1 kilogram packet costs 140. Which is cheaper for each 100 grams?  
    Options: The 400 gram packet at 15 rupees / The 1 kilogram packet at 14 rupees / They are the same  
@@ -800,19 +800,19 @@ Zoya watched the pans swing and settle. Tomatoes on one side and iron on the oth
 
 ## Quiz
 1. (mcq) Which job needs a measurement rather than a guess?  
-   Options: Stepping over a puddle / Giving a baby medicine / Choosing a seat on a bus  
+   Options: Stepping over a puddle / Choosing a seat on a bus / Giving a baby medicine  
    **Answer:** Giving a baby medicine. *Why:* Too much medicine can harm a baby, and two people must agree on the dose. A puddle or a seat is safe to guess.
 2. (mcq) A road sign says 'Madurai 40'. Why might a visitor from abroad be puzzled?  
    Options: 40 is too big a number / The sign needs a longer name / They may expect miles, not kilometres  
    **Answer:** They may expect miles, not kilometres. *Why:* A number needs its unit. Locals know the unit, and a visitor from a country that uses miles may not.
 3. (mcq) What do you do when you measure a table?  
-   Options: Guess, then check with a friend / Choose a unit, then count how many fit / Find the real width hiding in the table  
+   Options: Choose a unit, then count how many fit / Guess, then check with a friend / Find the real width hiding in the table  
    **Answer:** Choose a unit, then count how many fit. *Why:* A measurement is a unit and a count. There is no hidden 'real width' without a unit to compare with.
 4. (mcq) Which is true about the prefix milli?  
-   Options: 1,000 millilitres make one litre / 100 millilitres make one litre / One millilitre makes one litre  
+   Options: 100 millilitres make one litre / One millilitre makes one litre / 1,000 millilitres make one litre  
    **Answer:** 1,000 millilitres make one litre. *Why:* Milli means a thousandth, so it takes 1,000 of them to make the whole. A hundred is the prefix centi.
 5. (mcq) A one-litre bottle of water has a mass of about 1 kilogram. What is the mass of 500 millilitres?  
-   Options: About 50 grams / About 5 kilograms / Half a kilogram  
+   Options: Half a kilogram / About 50 grams / About 5 kilograms  
    **Answer:** Half a kilogram. *Why:* 500 millilitres is half a litre, so its mass is half a kilogram, which is 500 grams.
 6. (mcq) A thermometer is marked from 35 to 42 degrees. Which job does it suit?  
    Options: Taking a child's temperature / Checking boiling water / Checking a freezer  
@@ -821,25 +821,25 @@ Zoya watched the pans swing and settle. Tomatoes on one side and iron on the oth
    Options: 14.0 centimetres / 13.7 centimetres / 14.3 centimetres  
    **Answer:** 14.3 centimetres. *Why:* The pencil starts 3 millimetres before the zero mark, so it is 14.0 plus 0.3, which is 14.3 centimetres. Reading from the end hides the gap.
 8. (mcq) A torn edge is stepped with 3 centimetres and then with 1 centimetre. What happens to the total?  
-   Options: It stays the same, as the edge did not change / It gets longer, as the small step follows more bends / It gets shorter, as small steps are more exact  
+   Options: It gets longer, as the small step follows more bends / It stays the same, as the edge did not change / It gets shorter, as small steps are more exact  
    **Answer:** It gets longer, as the small step follows more bends. *Why:* A smaller step follows more of the bends, so the total grows. The edge did not change, but the way of measuring did.
 9. (mcq) Which is true of every measurement?  
    Options: It is exact if the tool is good / It is always the same for everyone / It cannot see finer than the instrument's smallest step  
    **Answer:** It cannot see finer than the instrument's smallest step. *Why:* Every instrument has a smallest step, and no reading can be finer than that. A good tool makes the step small but not zero.
 10. (mcq) Why guess before you measure?  
-   Options: A guess catches a mistake such as a wrong unit / A guess makes measuring unnecessary / A guess gives the exact answer  
+   Options: A guess makes measuring unnecessary / A guess gives the exact answer / A guess catches a mistake such as a wrong unit  
    **Answer:** A guess catches a mistake such as a wrong unit. *Why:* If the guess and the tape disagree a lot, you check the unit, the zero and the reading. A guess is a safety net.
 11. (mcq) A teaspoon holds 5 millilitres. About how much does a tumbler of water hold?  
    Options: 25 millilitres / 250 millilitres / 2.5 litres  
    **Answer:** 250 millilitres. *Why:* A tumbler holds about 40 to 50 teaspoons, which is 200 to 250 millilitres. 25 millilitres is only five teaspoons.
 12. (mcq) Which of these can a thermometer not tell you?  
-   Options: How hot a cup of tea is / The temperature of a child's forehead / How uncomfortable the heat feels to someone  
+   Options: How hot a cup of tea is / How uncomfortable the heat feels to someone / The temperature of a child's forehead  
    **Answer:** How uncomfortable the heat feels to someone. *Why:* A thermometer gives a number for temperature. It cannot tell how that heat feels to a person, which has no unit.
 13. (mcq) Someone says that old definitions of the kilogram, such as a metal cylinder, were fine for ever. What is a good reply?  
    Options: An object can change or be lost, so a constant of nature is steadier / Metal never changes / Nobody needed a better one  
    **Answer:** An object can change or be lost, so a constant of nature is steadier. *Why:* A cylinder can lose atoms, be scratched or be lost. A constant of nature is the same everywhere, so any laboratory can make the unit again.
 14. (mcq) Which is a fair thing to say about a school mark?  
-   Options: It shows everything a child has learnt / It is a number that leaves out much of what was learnt / It is false because numbers are false  
+   Options: It shows everything a child has learnt / It is false because numbers are false / It is a number that leaves out much of what was learnt  
    **Answer:** It is a number that leaves out much of what was learnt. *Why:* A mark is useful, but it turns a whole term into one number. What it leaves out is part of what we know.
 
 ## Applications

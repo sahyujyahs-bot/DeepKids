@@ -787,7 +787,7 @@ Her father opened his mouth, and found that he did not know.
 8. (draw) Draw how germs get from a field to a child's mouth. Mark three places to block them.  
    **Answer:** A field, then arrows along two or more paths. For example flies to food, rain to a well to a glass, or feet and fingers to a mouth. Blocks are marked with a toilet, a covered plate, safe water or soap.. *Why:* There are several paths and each can be blocked. A toilet stops the first step, covering food stops flies, and soap stops fingers.
 9. (mcq) A fly lands on an open heap and then on food. What stops this?  
-   Options: Covering food and keeping heaps closed / Washing the floor / Opening a window  
+   Options: Washing the floor / Covering food and keeping heaps closed / Opening a window  
    **Answer:** Covering food and keeping heaps closed. *Why:* The germs ride on the fly's legs from the heap to the food. Covering food blocks that path. A clean floor or an open window does not.
 10. (write) Why does a twin-pit toilet have two pits and not one?  
    **Answer:** While one pit fills and is used, the other rests for a year or two. In the resting pit, bacteria turn the waste into safe, dry manure. Then the pipe is turned back.. *Why:* A strong answer says that one pit is used while the other rests, and that resting is what makes the waste safe.
@@ -800,13 +800,13 @@ Her father opened his mouth, and found that he did not know.
 14. (perspective) A rinsed, sorted bag takes five minutes more each day. Two views on who should do that work.  
    **Answer:** Answers vary. A strong answer says that sorting only helps if the truck keeps the bags apart. So the resident and the city both have a part.. *Why:* Both views are right in part. The resident is right that mixing in the truck cancels the sorting. The cooperative is right that sorting at home is what makes recycling possible.
 15. (mcq) Which small action keeps the most waste from ever being made?  
-   Options: Refusing a thing you do not need / Recycling it after one use / Burning it in the street  
+   Options: Recycling it after one use / Burning it in the street / Refusing a thing you do not need  
    **Answer:** Refusing a thing you do not need. *Why:* If you refuse a thing, it never has to be made, carried, sorted or buried. Recycling needs fuel, water and work. Burning plastic makes harmful smoke.
 16. (draw) Draw one corner of your street. Mark where you would put a bin, and say why you chose that place.  
    **Answer:** A street corner with a bin near where people wait or eat. A reason, such as people drop wrappers while they wait. The bin is clear of the drain.. *Why:* People use a bin if it is close to where waste is made. A bin in a place where nobody passes does not help.
 ### Counts, paths and who cleans (stretch) (stretch, 16 questions)
 1. (mcq) A glass of clear-looking water is tested and found to hold cholera germs. What does that show?  
-   Options: Clear water can still be unsafe to drink / Germs are always visible / All germs cause illness  
+   Options: Germs are always visible / Clear water can still be unsafe to drink / All germs cause illness  
    **Answer:** Clear water can still be unsafe to drink. *Why:* Looking clean is not being clean. Cholera germs are too small to see. Not all germs cause illness, because most are harmless, but this test found one that does.
 2. (truefalse) A forest floor covered in fallen leaves is dirty, because it is untidy.  
    **Answer:** False. *Why:* False. The leaves feed the soil, and nothing harmful travels from them to a mouth. Untidy and unclean are different things.
@@ -838,7 +838,7 @@ Her father opened his mouth, and found that he did not know.
 14. (write) Who cleaned your street or building today? Name two people and one other being, and say what each did.  
    **Answer:** A sweeper, a waste collector, a cleaner, and a crow, a cow, ants or bacteria. Each with the work they did, such as sweeping, lifting bags, eating scraps or breaking down peels.. *Why:* Cleaning is done by many hands and by other beings. Noticing them is the first step to thanking them.
 15. (mcq) A shop stops giving thin bags. Which result shows that this works?  
-   Options: Fewer bags found in drains and at clean-ups / More shops selling thin bags / More bags in the dry bin  
+   Options: More shops selling thin bags / More bags in the dry bin / Fewer bags found in drains and at clean-ups  
    **Answer:** Fewer bags found in drains and at clean-ups. *Why:* A good test counts what we care about: bags that end up in drains and on the ground. Counting bags in a bin only shows where they went.
 16. (draw) For one litter problem, draw a small action by a person and a bigger change by a city.  
    **Answer:** A child carrying a wrapper to a bin. A city adding bins and a daily collection. A company making packaging that can be recycled.. *Why:* A clean place needs both. Small actions change habits, and bigger changes change what is easy.
@@ -855,7 +855,7 @@ Her father opened his mouth, and found that he did not know.
 5. (fill) India makes about 72,000 million litres of sewage a day. If one-third is treated, ____ million litres are not.  
    **Answer:** ['48000', '48,000']. *Why:* One-third of 72,000 is 24,000. 72,000 − 24,000 = 48,000 million litres. The real figure is less than a third treated, so the untreated amount is even larger.
 6. (mcq) Why does heavy rain make open defecation uphill of a well more dangerous?  
-   Options: Rain washes germs along the ground into the well / Rain makes germs grow wings / Rain kills the germs  
+   Options: Rain makes germs grow wings / Rain kills the germs / Rain washes germs along the ground into the well  
    **Answer:** Rain washes germs along the ground into the well. *Why:* Water carries things downhill. A well downhill of a field can be spoilt by one heavy shower. Rain does not kill germs.
 7. (sort) Sort each way of checking as a count of toilets built or toilets used.  
    **Answer:** a list of toilets in each village → Toilets built; asking each person where they went this morning → Toilets used; watching at dawn who walks to a field → Toilets used; counting concrete rings that were delivered → Toilets built. *Why:* A count of toilets built tells us about money and work. A count of use tells us about what people really do.
@@ -866,7 +866,7 @@ Her father opened his mouth, and found that he did not know.
 10. (perspective) Two views on cleaning toilets, from the early 1900s and 1940s.  
    **Answer:** Answers vary. A strong answer gives a reason from one view, or uses both. For example, share cleaning in schools and homes, and also build machines and open other jobs.. *Why:* Both men wanted to end the shame. Gandhi stressed sharing the work. Ambedkar stressed ending the link between work and birth.
 11. (mcq) A neighbour says: 'One wrapper makes no difference.' Which finding answers this?  
-   Options: A littered place leads more people to litter / Wrappers rot in a day / Wind carries every wrapper away  
+   Options: Wrappers rot in a day / A littered place leads more people to litter / Wind carries every wrapper away  
    **Answer:** A littered place leads more people to litter. *Why:* Researchers found that people dropped more litter where there was already litter. One wrapper changes what the next person does.
 12. (truefalse) Recycling is always better than reusing a thing as it is.  
    **Answer:** False. *Why:* False. Recycling needs fuel or electricity, water and work. Using a thing again as it is, or refusing it, avoids all of that.
@@ -886,52 +886,52 @@ Her father opened his mouth, and found that he did not know.
 
 ## Quiz
 1. (mcq) A lane is swept and neat, but an open drain runs beside its hand pump. Is it clean?  
-   Options: No, because germs can reach the water / Yes, because it looks neat / Yes, because the pump still works  
+   Options: Yes, because it looks neat / Yes, because the pump still works / No, because germs can reach the water  
    **Answer:** No, because germs can reach the water. *Why:* Clean means harmful things are kept away from mouths, water and food. A neat lane can still let germs from the drain reach the pump. If you chose yes, you judged by looks and not by where things can travel.
 2. (mcq) Which place is cleanest in the scientific sense?  
-   Options: A shiny plate wiped with a dirty cloth / A swept house with dust tipped outside / A muddy garden with a covered compost pit  
+   Options: A shiny plate wiped with a dirty cloth / A muddy garden with a covered compost pit / A swept house with dust tipped outside  
    **Answer:** A muddy garden with a covered compost pit. *Why:* A plate wiped with a dirty cloth gets more germs, not fewer, and dust tipped outside has only moved. A covered pit keeps harmful things away from people even though the garden is muddy.
 3. (mcq) Leftover sambar is tipped onto a pile of newspapers. What is the main problem?  
    Options: The paper becomes too heavy to lift / Two useful things become one that nobody can use / The sambar will never rot  
    **Answer:** Two useful things become one that nobody can use. *Why:* Soaked paper cannot go to a paper mill, and food mixed with paper and ink cannot go to compost. If you chose the weight, you saw a small problem and missed that both heaps are spoilt.
 4. (mcq) Which of these belongs in the harmful bin?  
-   Options: A used bandage / A banana peel / A rinsed milk packet / A cotton rag  
+   Options: A banana peel / A used bandage / A rinsed milk packet / A cotton rag  
    **Answer:** A used bandage. *Why:* A bandage can carry germs and can hurt the person who sorts it, so it is wrapped and kept apart. A peel is wet waste, a clean packet is dry waste, and a rag is dry waste.
 5. (mcq) Why must a curd cup be rinsed before it goes into dry waste?  
-   Options: Curd melts the plastic / A rinsed cup weighs less to carry / Curd left in it spoils the whole sack  
+   Options: Curd left in it spoils the whole sack / Curd melts the plastic / A rinsed cup weighs less to carry  
    **Answer:** Curd left in it spoils the whole sack. *Why:* Food left in one cup soaks the paper and plastic around it so a buyer will not take the sack. If you chose melting, remember that curd does not harm plastic, it only makes the sack dirty.
 6. (mcq) A peel is buried deep in a dump with no air. What do its bacteria give off?  
    Options: Methane, a gas that burns and traps heat / Compost and warmth, as in a pot / Nothing, because the peel stays whole  
    **Answer:** Methane, a gas that burns and traps heat. *Why:* Without air, different bacteria take over and make methane. If you chose compost, you described the same peel with air. If you chose nothing, remember that a buried peel still rots.
 7. (mcq) A compost heap smells bad and rots very slowly. What is the most likely cause?  
-   Options: Too much sunlight / Too little air reaches it / Too many dry leaves  
+   Options: Too little air reaches it / Too much sunlight / Too many dry leaves  
    **Answer:** Too little air reaches it. *Why:* A bad smell means that bacteria without air have taken over. Stirring the heap or adding dry leaves lets air in. Adding more leaves is part of the fix, and not the cause.
 8. (mcq) Many cholera cases cluster round one water pump. What does that suggest?  
-   Options: Bad smells in the air cause cholera / Cholera germs live only in pumps / Something in the pump's water spreads the illness  
+   Options: Bad smells in the air cause cholera / Something in the pump's water spreads the illness / Cholera germs live only in pumps  
    **Answer:** Something in the pump's water spreads the illness. *Why:* A cluster around one source points to the water. Smells were once blamed, because dirty lanes smelled and had illness, but the smell was not the cause.
 9. (mcq) Which step blocks germs on fingers from reaching a meal?  
    Options: Washing hands with soap before eating / Spraying scent in the toilet / Closing the window  
    **Answer:** Washing hands with soap before eating. *Why:* Germs travel on fingers, and soap lifts them off. Scent hides a smell and does nothing to germs. A closed window does not stop fingers.
 10. (mcq) Why can spit on a floor harm people who never met the person who spat?  
-   Options: It dries and floats off as steam / Its germs get on shoes, hands and into the air / It makes the floor slippery  
+   Options: Its germs get on shoes, hands and into the air / It dries and floats off as steam / It makes the floor slippery  
    **Answer:** Its germs get on shoes, hands and into the air. *Why:* Spit can carry germs from the chest and mouth, and shoes, hands and drops spread them. A slippery floor is a different problem. If you chose steam, remember that germs do not vanish when spit dries.
 11. (mcq) A village has built a toilet for every home. Does that prove nobody goes in the open?  
-   Options: Yes, toilets are always used / Yes, if the toilets are new / Only if the toilets are painted / No, you must also count who uses them  
+   Options: No, you must also count who uses them / Yes, toilets are always used / Yes, if the toilets are new / Only if the toilets are painted  
    **Answer:** No, you must also count who uses them. *Why:* A toilet that is built but not used still leaves the open field. Researchers visited villages to see what people really do, and found that some toilets were not used.
 12. (mcq) Two surveys of the same villages give different numbers. What is the best first step?  
-   Options: Ask what each survey counted and how / Believe the bigger number / Throw both surveys away  
+   Options: Believe the bigger number / Ask what each survey counted and how / Throw both surveys away  
    **Answer:** Ask what each survey counted and how. *Why:* Different counts can both be true. One may count toilets built and the other people using them. Throwing both away loses what each one tells us.
 13. (mcq) If a town's scavenging birds disappear, what is most likely to happen to dead animals?  
-   Options: They turn into compost at once / Nothing changes at all / They rot longer, and dogs gather to feed  
+   Options: They rot longer, and dogs gather to feed / They turn into compost at once / Nothing changes at all  
    **Answer:** They rot longer, and dogs gather to feed. *Why:* Scavengers remove dead animals fast. Without them, the bodies lie longer, and dogs and flies gather. If you chose nothing, you may have forgotten that scavengers are part of the cleaning.
 14. (mcq) A sorter is cut by glass hidden in a bag of mixed waste. What would have prevented it?  
-   Options: A heavier bag / Wrapping the glass and marking the bag / Throwing the bag out at night  
+   Options: Wrapping the glass and marking the bag / A heavier bag / Throwing the bag out at night  
    **Answer:** Wrapping the glass and marking the bag. *Why:* The sorter cannot see the glass in a mixed bag. Wrapping and marking it tells the next person what is inside. Weight and timing do not make a bag safer.
 15. (mcq) Which small action cuts the most waste over a whole year?  
-   Options: Putting each thin bag in the blue bin / Using each thin bag twice / Asking the shop for two thin bags / Carrying your own bag and refusing the thin bag  
+   Options: Putting each thin bag in the blue bin / Carrying your own bag and refusing the thin bag / Using each thin bag twice / Asking the shop for two thin bags  
    **Answer:** Carrying your own bag and refusing the thin bag. *Why:* Refusing a thing means that nobody has to collect, sort or bury it. Recycling and reusing a bag twice still use up the bag.
 16. (mcq) A beach clean-up removed tonnes of waste, but plastic kept arriving. What does this show?  
-   Options: Clean-ups help, and the sources must change too / Clean-ups are pointless / The beach was never really cleaned  
+   Options: Clean-ups are pointless / Clean-ups help, and the sources must change too / The beach was never really cleaned  
    **Answer:** Clean-ups help, and the sources must change too. *Why:* The people who clean up do real good, and new plastic arrives while drains and factories keep sending it. Both small actions and bigger changes are needed.
 
 ## Applications

@@ -739,7 +739,7 @@ Devika looked at the tomato knife on its high shelf, at Minnal asleep with her e
 ## Worksheets
 ### Sharp, hot and heavy: the first steps (core) (core, 12 questions)
 1. (mcq) Where does your hand go on a knife or a pair of scissors?  
-   Options: On the handle or the rings / On the edge / Anywhere, if I am quick  
+   Options: On the edge / On the handle or the rings / Anywhere, if I am quick  
    **Answer:** On the handle or the rings. *Why:* Your hand belongs on the holding part. Picking the edge means thinking the working part is the safe place to hold. The working part is the part that cuts.
 2. (truefalse) A thin edge cuts because the whole push lands on a tiny place.  
    **Answer:** True. *Why:* True. A wide palm spreads the push out. A thin edge puts the whole push on a thin line, so it cuts.
@@ -760,14 +760,14 @@ Devika looked at the tomato knife on its high shelf, at Minnal asleep with her e
 10. (perspective) Should a seven-year-old learn to cut with a real knife, with a grown-up beside them?  
    **Answer:** A good answer picks one and gives a reason about risk or learning. It says what the other person has right, such as steady hands or a moment's lapse.. *Why:* People who care about children disagree here. Both want a child safe and skilled. Nobody has settled it with a large study.
 11. (mcq) Which way of holding a full bottle feels easiest for longest?  
-   Options: Out in front with straight arms / Close to your chest / Far out to one side  
+   Options: Close to your chest / Out in front with straight arms / Far out to one side  
    **Answer:** Close to your chest. *Why:* The bottle weighs the same. The farther a load is from your body, the harder your muscles work.
 12. (mcq) Where is the best place for a heavy bag of rice?  
    Options: On the floor or a low shelf / On a high shelf / On top of the cupboard  
    **Answer:** On the floor or a low shelf. *Why:* Heavy things low cannot fall far and cannot tip a cupboard. A high shelf is where a heavy thing falls hardest.
 ### Cuts, burns and why things tip (stretch) (stretch, 12 questions)
 1. (mcq) Many cooks say a blunt knife slips off a smooth tomato more easily than a sharp one. What is their reason?  
-   Options: It is heavier / It is hotter / It needs a harder push, so it slides sideways  
+   Options: It needs a harder push, so it slides sideways / It is heavier / It is hotter  
    **Answer:** It needs a harder push, so it slides sideways. *Why:* A blunt edge is thick, so you push harder. On a slippery skin the hard push can slide the knife sideways. Many cooks say sharp is safer. Nobody has settled it.
 2. (truefalse) Rust gives you tetanus.  
    **Answer:** False. *Why:* False. Rust is only iron that has joined with oxygen. Tetanus bacteria live in soil and dung, and a muddy nail carries them.
@@ -788,7 +788,7 @@ Devika looked at the tomato knife on its high shelf, at Minnal asleep with her e
 10. (perspective) A grandmother puts turmeric on a cut. A nurse says wash it and cover it.  
    **Answer:** A good answer says to wash and cover first, as proven. It also says the lab results for turmeric are promising and that careful trials in people are few.. *Why:* The evidence for washing and covering is strong. The evidence for turmeric in people is thin, and science has not settled it.
 11. (mcq) Which keeps you safe on a day you forget a rule?  
-   Options: A longer list of rules / A tool with a guard built in / A louder warning  
+   Options: A longer list of rules / A louder warning / A tool with a guard built in  
    **Answer:** A tool with a guard built in. *Why:* Engineers do not rely only on care. A guard or a hidden blade keeps working when a person forgets.
 12. (fill) A bucket weighs 12 kilograms. Two children carry it together. Each carries ____ kilograms.  
    **Answer:** ['6', 'six']. *Why:* 12 shared between 2 is 6 each. 6 + 6 = 12.
@@ -803,7 +803,7 @@ Devika looked at the tomato knife on its high shelf, at Minnal asleep with her e
 4. (write) A friend says rust gives tetanus. What do you say, and what would you ask to test it?  
    **Answer:** Rust is iron joined with oxygen. Tetanus comes from bacteria in soil, so a muddy nail is the danger, not the rust. I would ask whether a clean rusty spoon in a dry kitchen has ever caused tetanus.. *Why:* Testing an idea means asking what else would be true if it were right. Many rusty things are clean and many shiny nails are muddy.
 5. (mcq) A glass jar on a high shelf is two dangers. Which two?  
-   Options: Hot and heavy / Heavy when it falls and sharp when it breaks / Sharp and wet  
+   Options: Heavy when it falls and sharp when it breaks / Hot and heavy / Sharp and wet  
    **Answer:** Heavy when it falls and sharp when it breaks. *Why:* A jar from a high shelf falls with a lot of push, and then its pieces are sharp. Heat is not part of it.
 6. (truefalse) A pan can be hot enough to burn you with no flame under it.  
    **Answer:** True. *Why:* True. A pan keeps its heat for a long time after the flame is off, and you cannot see that it is hot.
@@ -814,7 +814,7 @@ Devika looked at the tomato knife on its high shelf, at Minnal asleep with her e
 9. (perspective) An engineer says: design the danger out. A grandmother says: be careful and look.  
    **Answer:** A good answer weighs both. Guards help on the day we forget, and attention helps with everything a guard does not cover. A good answer says both are needed.. *Why:* Both are right about something. Engineers add a guard first, then ask what the person must still remember.
 10. (mcq) A cupboard with all its heavy things on top is likely to...  
-   Options: tip over with a small pull / become lighter / stand steadier  
+   Options: become lighter / tip over with a small pull / stand steadier  
    **Answer:** tip over with a small pull. *Why:* A high balance point means a small tilt moves the weight past the base. Tall cupboards need heavy things low, and a fixing to the wall.
 11. (order) Put these in order, from the smallest harm to the biggest.  
    **Answer:** order shown. *Why:* Think of how likely the harm is and how bad it is. A small cut heals. A boiling-water burn or a falling cupboard can harm for life.
@@ -831,16 +831,16 @@ Devika looked at the tomato knife on its high shelf, at Minnal asleep with her e
    Options: The pencil pushes harder / The push lands on a tiny place / The pencil is hotter  
    **Answer:** The push lands on a tiny place. *Why:* The push is the same, but a tiny place gets more of it on each bit of skin. Picking 'pushes harder' mixes up the push with the place it lands on.
 2. (mcq) A cook wants to cut soft cheese neatly. Which tool is best?  
-   Options: A thick wooden spoon / A flat steel plate / A tight thin wire  
+   Options: A tight thin wire / A thick wooden spoon / A flat steel plate  
    **Answer:** A tight thin wire. *Why:* The wire touches a thin line, so the push is large there. A flat plate spreads the push out.
 3. (mcq) A drawing pin has a wide top and a tiny point. Why?  
-   Options: The wide top is gentle on the thumb / The point is for holding / The top is for cutting  
+   Options: The point is for holding / The wide top is gentle on the thumb / The top is for cutting  
    **Answer:** The wide top is gentle on the thumb. *Why:* The wide top spreads your push, so the thumb stays safe. The tiny point puts the same push on one spot, so the pin goes into the board.
 4. (mcq) Someone calls your name while you are holding a tool. What do you do first?  
-   Options: Look up and keep holding it / Put the tool down, then look up / Hold it tighter  
+   Options: Put the tool down, then look up / Look up and keep holding it / Hold it tighter  
    **Answer:** Put the tool down, then look up. *Why:* Your hand moves when your eyes move. A tool is put down first, so the edge is not in the way.
 5. (mcq) A knife slips off the counter. What is the safest thing to do?  
-   Options: Catch it quickly / Grab it by the blade / Step back and let it fall  
+   Options: Catch it quickly / Step back and let it fall / Grab it by the blade  
    **Answer:** Step back and let it fall. *Why:* A falling knife has no handle in the air. Catching it is how people get cut. Stepping back is safe.
 6. (mcq) A small cut is bleeding. After you tell a grown-up, what is first?  
    Options: Press a clean cloth on it / Lift the cloth to peep every minute / Blow on it  
@@ -852,13 +852,13 @@ Devika looked at the tomato knife on its high shelf, at Minnal asleep with her e
    Options: Steel makes its own heat / The handle is closer to the flame / Heat moves quickly along steel  
    **Answer:** Heat moves quickly along steel. *Why:* Steel is a conductor, so heat travels along it fast. Wood is an insulator, so a wooden spoon stays cool.
 9. (mcq) Which can burn skin with no flame at all?  
-   Options: Steam from a cooker's whistle / Cold water from a tap / A dry wooden spoon  
+   Options: Cold water from a tap / A dry wooden spoon / Steam from a cooker's whistle  
    **Answer:** Steam from a cooker's whistle. *Why:* Steam carries a lot of heat and gives it out when it turns back to water on skin. This is a scald.
 10. (mcq) You touch a hot pan. What is the best first help?  
    Options: Rub on ghee / Cool running water for about 20 minutes / Press on ice  
    **Answer:** Cool running water for about 20 minutes. *Why:* Cool running water takes the heat out of the skin. Ghee holds the heat in. Ice can harm the skin again.
 11. (mcq) Which way of lifting a heavy bag is best for your back?  
-   Options: Bend your back with straight legs / Hold it out in front / Stand close, bend your knees and stand up  
+   Options: Stand close, bend your knees and stand up / Bend your back with straight legs / Hold it out in front  
    **Answer:** Stand close, bend your knees and stand up. *Why:* Your legs are strong. A load close to the body makes your back work less. Scientists are still testing which way of lifting protects the back best.
 12. (mcq) Why are tall cupboards fixed to the wall?  
    Options: A child who climbs can pull one over / The wall makes them lighter / To keep them hot  
@@ -867,7 +867,7 @@ Devika looked at the tomato knife on its high shelf, at Minnal asleep with her e
    Options: A big study has proved the early way is best / People who care about children still disagree / Nobody thinks it matters  
    **Answer:** People who care about children still disagree. *Why:* Both sides want children safe. Nobody has run a large study to settle it, so we weigh both views.
 14. (mcq) Some families put turmeric on cuts. What is the fair thing to say?  
-   Options: It is proven to work / It is proven to be useless / Lab tests look good, but proof in people is thin  
+   Options: Lab tests look good, but proof in people is thin / It is proven to work / It is proven to be useless  
    **Answer:** Lab tests look good, but proof in people is thin. *Why:* Studies in labs and on animals are promising. Careful trials on people are few. Clean water and a clean cover are proven.
 
 ## Applications

@@ -2555,11 +2555,11 @@
      "p": "What does a cycle use in place of petrol from a pump?",
      "opts": [
       "Wind only",
-      "Battery power",
       "The rider's muscles, run on food",
+      "Battery power",
       "Diesel from the rider"
      ],
-     "a": 2,
+     "a": 1,
      "why": "A cycle runs on the rider's muscles, and muscles run on food. A cycle has no engine, no tank and no battery.",
      "outcome": 0
     },
@@ -2711,12 +2711,12 @@
      "t": "mcq",
      "p": "Why does a cycle use less energy than walking for the same distance?",
      "opts": [
-      "A cycle has a small engine",
       "The saddle holds you up and the wheels roll",
+      "A cycle has a small engine",
       "Cyclists always go slower",
       "Pedals are lighter than legs"
      ],
-     "a": 1,
+     "a": 0,
      "why": "When you walk, your legs lift your body at every step. On a cycle the saddle holds you up and the wheels roll, so your legs only turn the pedals.",
      "outcome": 0
     },
@@ -2865,12 +2865,12 @@
      "t": "mcq",
      "p": "Engines now waste less fuel, yet the world burns more. Which idea explains it?",
      "opts": [
-      "Cheaper driving can lead to more driving",
       "Engines no longer need fuel",
       "Petrol has become thicker",
+      "Cheaper driving can lead to more driving",
       "People are walking more"
      ],
-     "a": 0,
+     "a": 2,
      "why": "When a vehicle costs less to run, people tend to drive more and buy bigger vehicles. This is called the rebound effect. William Jevons noticed it with coal in 1865.",
      "outcome": 4
     },
@@ -2933,11 +2933,11 @@
      "p": "A friend says CNG made Delhi's air clean for ever. Which reply is best?",
      "opts": [
       "Yes, it made the air clean for ever",
-      "It helped at first, but the smoke came back",
       "No, CNG is the same as diesel",
-      "CNG caused all of Delhi's smoke"
+      "CNG caused all of Delhi's smoke",
+      "It helped at first, but the smoke came back"
      ],
-     "a": 1,
+     "a": 3,
      "why": "CNG cut black smoke at first. Later there were many more vehicles, and dust, industry and burning, so the air got bad again. One change of fuel does not settle the matter.",
      "outcome": 1
     },
@@ -2969,10 +2969,10 @@
    "opts": [
     "The wheels turning",
     "The road",
-    "The bullocks' muscles, run on grass and grain",
-    "The weight of the cart"
+    "The weight of the cart",
+    "The bullocks' muscles, run on grass and grain"
    ],
-   "a": 2,
+   "a": 3,
    "why": "The wheels roll, but they do not push. The push comes from the bullocks' muscles, and the muscles run on the food they eat. If you chose the wheels, try asking what turns them.",
    "outcome": 0
   },
@@ -2981,11 +2981,11 @@
    "p": "Which of these needs no fuel tank and no battery?",
    "opts": [
     "A diesel bus",
-    "A cycle",
     "A CNG auto",
+    "A cycle",
     "An electric scooter"
    ],
-   "a": 1,
+   "a": 2,
    "why": "A cycle is pushed by the rider's muscles, which run on food. The bus burns diesel, the auto burns CNG and the scooter needs a battery.",
    "outcome": 0
   },
@@ -3006,12 +3006,12 @@
    "t": "mcq",
    "p": "Which of these is a gas that is squeezed into a cylinder?",
    "opts": [
-    "CNG",
     "Petrol",
+    "CNG",
     "Diesel",
     "Coal"
    ],
-   "a": 0,
+   "a": 1,
    "why": "CNG is natural gas squeezed into a strong cylinder. Petrol and diesel are liquids, and coal is a hard black rock.",
    "outcome": 1
   },
@@ -3021,10 +3021,10 @@
    "opts": [
     "Melted rocks",
     "Dinosaur bones only",
-    "Tiny sea beings of long ago, buried and squeezed",
-    "Water and air"
+    "Water and air",
+    "Tiny sea beings of long ago, buried and squeezed"
    ],
-   "a": 2,
+   "a": 3,
    "why": "Millions of years ago tiny floating beings died and sank into the mud of warm seas. Heat and squeezing turned their remains into oil. Dinosaurs were not the main source.",
    "outcome": 2
   },
@@ -3033,11 +3033,11 @@
    "p": "Why will petrol and diesel not last for ever?",
    "opts": [
     "Engines drink them very slowly",
-    "They took millions of years to form",
     "The Sun makes a little more each year",
+    "They took millions of years to form",
     "Pumps will be taken away"
    ],
-   "a": 1,
+   "a": 2,
    "why": "The oil took millions of years to form and people are using much of it in little more than a hundred. It is not being made again at anything like the speed we burn it.",
    "outcome": 2
   },
@@ -3046,11 +3046,11 @@
    "p": "An electric scooter makes no smoke. Why might some smoke still be made?",
    "opts": [
     "Its tyres make smoke",
+    "Coal may be burned at a power station to make its electricity",
     "Its battery is full of smoke",
-    "It makes no smoke anywhere",
-    "Coal may be burned at a power station to make its electricity"
+    "It makes no smoke anywhere"
    ],
-   "a": 3,
+   "a": 1,
    "why": "The scooter itself gives out no exhaust. But in India most electricity still comes from burning coal, so some smoke has only moved to a chimney far away.",
    "outcome": 3
   },
@@ -3072,11 +3072,11 @@
    "p": "A driver waits 3 minutes at a closed railway gate. What saves fuel?",
    "opts": [
     "Press the pedal now and then",
-    "Switch the engine off",
     "Roll forward slowly",
-    "Keep it running so it will not stall"
+    "Keep it running so it will not stall",
+    "Switch the engine off"
    ],
-   "a": 1,
+   "a": 3,
    "why": "A running engine burns fuel even when the vehicle goes nowhere. Switching it off for a wait of a minute or more saves fuel, and a modern engine starts again easily.",
    "outcome": 4
   },
@@ -3098,11 +3098,11 @@
    "p": "Which is more likely on a village road than at a city crossing?",
    "opts": [
     "A metro train overhead",
+    "A bullock cart or a tractor",
     "Hundreds of vehicles in five minutes",
-    "A long jam at six o'clock",
-    "A bullock cart or a tractor"
+    "A long jam at six o'clock"
    ],
-   "a": 3,
+   "a": 1,
    "why": "A village road has fewer vehicles. It has more cycles, walkers, tractors and animal carts. A metro, a jam and hundreds of vehicles belong to a city.",
    "outcome": 5
   },
@@ -3110,12 +3110,12 @@
    "t": "mcq",
    "p": "A car carries 1 person and a bus carries 50. Which uses less fuel for each person?",
    "opts": [
-    "The bus, because 50 people share its fuel",
     "The car, because it burns less",
     "They use the same",
-    "The faster one"
+    "The faster one",
+    "The bus, because 50 people share its fuel"
    ],
-   "a": 0,
+   "a": 3,
    "why": "The bus burns more, but it shares the fuel between 50 people. One litre carries the bus 4 kilometres, which is 200 kilometres of travel altogether, and carries the car only 15.",
    "outcome": 6
   },

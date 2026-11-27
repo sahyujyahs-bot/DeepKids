@@ -2728,11 +2728,11 @@
      "t": "mcq",
      "p": "Which of these protects the ear by changing the time?",
      "opts": [
-      "Walking away from the speaker",
       "Leaving the function after an hour",
+      "Walking away from the speaker",
       "Turning the volume down"
      ],
-     "a": 1,
+     "a": 0,
      "why": "Staying for less time lowers the dose. Walking away changes the path, and turning the volume down changes the source.",
      "outcome": 5
     },
@@ -2748,11 +2748,11 @@
      "t": "mcq",
      "p": "Why is a smoke alarm made shrill and unpleasant on purpose?",
      "opts": [
-      "So nobody can sleep through it",
       "It costs less to make",
-      "Loud sounds use less battery"
+      "Loud sounds use less battery",
+      "So nobody can sleep through it"
      ],
-     "a": 0,
+     "a": 2,
      "why": "A warning has to be noticed over everything, even in sleep. A pleasant sound is easier to ignore.",
      "outcome": 6
     },
@@ -2825,11 +2825,11 @@
      "t": "mcq",
      "p": "A hall of 40 children talking reads 80 decibels. What would 20 children talking the same way read?",
      "opts": [
-      "40 decibels",
       "About 77 decibels",
+      "40 decibels",
       "60 decibels"
      ],
-     "a": 1,
+     "a": 0,
      "why": "Halving the number of equal sources takes off about 3 decibels, not half the number.",
      "outcome": 1
     },
@@ -2907,11 +2907,11 @@
      "t": "mcq",
      "p": "After a loud night you hear a faint ringing. What does this most likely show?",
      "opts": [
-      "The ear is now cleaner",
       "The sound was more than the ear could take",
+      "The ear is now cleaner",
       "Hearing has improved"
      ],
-     "a": 1,
+     "a": 0,
      "why": "Ringing and muffled hearing are signs that the sound was too much. If they come again and again, the loss may stay.",
      "outcome": 2
     },
@@ -2940,11 +2940,11 @@
      "t": "mcq",
      "p": "Which is true of the 15 days in India's noise rules?",
      "opts": [
+      "A state may relax night quiet hours to midnight",
       "Loudspeakers may be used all night on them",
-      "Crackers have no limit on them",
-      "A state may relax night quiet hours to midnight"
+      "Crackers have no limit on them"
      ],
-     "a": 2,
+     "a": 0,
      "why": "A state may allow loudspeakers until midnight on up to 15 days in a year, for festivals. The rest of the rules still apply.",
      "outcome": 4
     },
@@ -3000,11 +3000,11 @@
      "t": "mcq",
      "p": "Why can a silent electric scooter be a danger?",
      "opts": [
-      "It uses more power",
       "People who cannot see it rely on hearing it",
+      "It uses more power",
       "It runs slower than other scooters"
      ],
-     "a": 1,
+     "a": 0,
      "why": "People who are blind, and anyone stepping off a kerb, use hearing to know a vehicle is near. The European Union has required new electric cars to make a sound at low speeds since 2019.",
      "outcome": 6
     }
@@ -3029,10 +3029,10 @@
      "p": "A road reads 70 decibels. Half of the cars are taken off. What is the new level?",
      "opts": [
       "About 35 decibels",
-      "About 67 decibels",
-      "About 60 decibels"
+      "About 60 decibels",
+      "About 67 decibels"
      ],
-     "a": 1,
+     "a": 2,
      "why": "Half the sources takes off only about 3 decibels. The lower numbers come only when most of the cars are gone.",
      "outcome": 1
     },
@@ -3048,10 +3048,10 @@
      "p": "Cotton wool cuts about 6 decibels. About how many times less sound energy reaches the ear?",
      "opts": [
       "2 times",
-      "About 4 times",
-      "6 times"
+      "6 times",
+      "About 4 times"
      ],
-     "a": 1,
+     "a": 2,
      "why": "3 decibels is half the energy and 6 decibels is half again, so about one quarter, which is 4 times less.",
      "outcome": 5
     },
@@ -3059,11 +3059,11 @@
      "t": "mcq",
      "p": "A foam earplug cuts about 25 decibels. About how many times less energy reaches the ear?",
      "opts": [
-      "25 times",
       "Roughly 300 times",
+      "25 times",
       "2,500 times"
      ],
-     "a": 1,
+     "a": 0,
      "why": "Every 10 decibels is 10 times less, so 20 decibels is 100 times less and 5 more decibels is about 3 times again. That makes close to 300.",
      "outcome": 5
     },
@@ -3112,11 +3112,11 @@
      "t": "mcq",
      "p": "Which result best shows that noise, and not something else, slowed the reading of children beside a railway?",
      "opts": [
+      "The lag ended when the noise was cut",
       "Teachers said so",
-      "One school showed a lag",
-      "The lag ended when the noise was cut"
+      "One school showed a lag"
      ],
-     "a": 2,
+     "a": 0,
      "why": "If removing the noise removes the lag, noise was the cause. A single school or a teacher's opinion cannot rule out other causes.",
      "outcome": 3
     },
@@ -3240,10 +3240,10 @@
    "p": "A phone reads 80 decibels at 1 metre from a steady sound in the open. About what at 4 metres?",
    "opts": [
     "About 76 decibels",
-    "About 68 decibels",
-    "About 40 decibels"
+    "About 40 decibels",
+    "About 68 decibels"
    ],
-   "a": 1,
+   "a": 2,
    "why": "4 metres is two doublings of distance, and each takes off about 6 decibels, so 80 − 12 = 68.",
    "outcome": 1
   },
@@ -3264,10 +3264,10 @@
    "p": "A cracker bang can harm the ear even though the ear has a guard muscle. Why?",
    "opts": [
     "The guard works only when asleep",
-    "Crackers are quieter than horns",
-    "The muscle needs a tenth of a second, and the bang is quicker"
+    "The muscle needs a tenth of a second, and the bang is quicker",
+    "Crackers are quieter than horns"
    ],
-   "a": 2,
+   "a": 1,
    "why": "The acoustic reflex takes about a tenth of a second to tighten. A bang reaches full strength in less than a thousandth of a second.",
    "outcome": 2
   },
@@ -3275,11 +3275,11 @@
    "t": "mcq",
    "p": "After a loud wedding your hearing returns by morning. What may still be true?",
    "opts": [
-    "Some links to the hearing nerve may be lost",
     "All the hair cells have grown back",
-    "The ear's guard has been mended"
+    "The ear's guard has been mended",
+    "Some links to the hearing nerve may be lost"
    ],
-   "a": 0,
+   "a": 2,
    "why": "In mice, loud sound can destroy up to half of the nerve links while hearing tests pass. Whether this happens in people is still debated.",
    "outcome": 2
   },
@@ -3288,10 +3288,10 @@
    "p": "A lorry passes at night and you sleep on. Is your body affected?",
    "opts": [
     "No, nothing happens unless you wake",
-    "Only if the lorry is very loud",
-    "Yes, heartbeat and blood pressure can rise"
+    "Yes, heartbeat and blood pressure can rise",
+    "Only if the lorry is very loud"
    ],
-   "a": 2,
+   "a": 1,
    "why": "Hearing never switches off in sleep. The body can react to each passing noise, and years of this are linked with heart disease.",
    "outcome": 3
   },
@@ -3312,10 +3312,10 @@
    "p": "In India's 2000 noise rules, loudspeakers may not be used in the open when?",
    "opts": [
     "Between 6 and 10 in the morning",
-    "At any time of the day",
-    "Between 10 at night and 6 in the morning, unless allowed"
+    "Between 10 at night and 6 in the morning, unless allowed",
+    "At any time of the day"
    ],
-   "a": 2,
+   "a": 1,
    "why": "The quiet hours are 10 at night to 6 in the morning. A state may relax them to midnight on up to 15 days in a year.",
    "outcome": 4
   },
@@ -3323,11 +3323,11 @@
    "t": "mcq",
    "p": "A cracker reads 120 decibels at 4 metres. A child fires it at 1 metre. What level reaches the child?",
    "opts": [
-    "Roughly 132 decibels",
     "Roughly 120 decibels",
+    "Roughly 132 decibels",
     "Roughly 100 decibels"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Each halving of distance adds about 6 decibels, and 4 metres to 1 metre is two halvings. So the child gets about 12 more.",
    "outcome": 4
   },
@@ -3347,11 +3347,11 @@
    "t": "mcq",
    "p": "With earphones, which of the three levers are left to you?",
    "opts": [
-    "Only volume and time",
     "Distance and barrier",
+    "Only volume and time",
     "All three, as usual"
    ],
-   "a": 0,
+   "a": 1,
    "why": "The earphone sits inside the ear, so there is no distance or barrier. Volume and hours are what you can change.",
    "outcome": 5
   },

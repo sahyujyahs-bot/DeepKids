@@ -752,7 +752,7 @@ Junmoni picked up the bamboo pole and turned it over in her hands. 'I think,' sh
 7. (order) Put the stages of a silk moth in order.  
    **Answer:** ['egg', 'silkworm eating mulberry leaves', 'pupa in a cocoon', 'silk moth']. *Why:* The egg hatches into a silkworm. She spins a cocoon, becomes a pupa, and a moth comes out.
 8. (mcq) Which of these crops usually gives more when insects visit the flowers?  
-   Options: Wheat / Mustard / Maize  
+   Options: Mustard / Wheat / Maize  
    **Answer:** Mustard. *Why:* Mustard flowers are visited by bees and other insects, who carry pollen. Wheat and maize do not need insects to carry their pollen.
 9. (truefalse) Every kind of bee lives in a hive.  
    **Answer:** False. *Why:* False. A carpenter bee nests alone in a hole in wood. Most kinds of bees do not live in hives.
@@ -770,24 +770,24 @@ Junmoni picked up the bamboo pole and turned it over in her hands. 'I think,' sh
    **Answer:** True. *Why:* True. Some scientists point to play, mood and learning as signs of feeling. Others say these are automatic responses. The question is still open.
 ### Why insects are built and grow this way (stretch) (stretch, 16 questions)
 1. (mcq) A fly escapes before your hand lands. Which part of her body helps most?  
-   Options: Her compound eyes, which catch movement fast / Her abdomen, which is large / Her sticky feet  
+   Options: Her abdomen, which is large / Her compound eyes, which catch movement fast / Her sticky feet  
    **Answer:** Her compound eyes, which catch movement fast. *Why:* A compound eye is made of many tiny lenses, each looking in a slightly different direction. The picture is less sharp than ours and very good at catching movement.
 2. (truefalse) A walking insect keeps three legs on the ground while the other three move.  
    **Answer:** True. *Why:* True. The three on the ground always make a steady triangle. Then the two sets of legs swap.
 3. (mcq) A caterpillar has a row of small dots along her side. What are they?  
-   Options: Eyes / Ears / Breathing holes called spiracles  
+   Options: Breathing holes called spiracles / Eyes / Ears  
    **Answer:** Breathing holes called spiracles. *Why:* Spiracles open into thin air tubes that carry air to every part of her body. An insect has no lungs.
 4. (truefalse) A bee sees a red flower as bright red, just as you do.  
    **Answer:** False. *Why:* False. Bees do not see red well. They do see ultraviolet, which we cannot see.
 5. (sort) Sort each insect by how she grows up.  
    **Answer:** grasshopper → Three stages, no pupa; dragonfly → Three stages, no pupa; ladybird → Four stages, with a pupa; mosquito → Four stages, with a pupa; cockroach → Three stages, no pupa; housefly → Four stages, with a pupa. *Why:* An insect with a nymph has three stages, and an insect with a larva and a pupa has four.
 6. (mcq) Empty skins hang on the reeds beside a pond. Where did they come from?  
-   Options: Dragonfly nymphs who moulted once more and flew off / Dead dragonflies / Snakes who shed their skins  
+   Options: Dead dragonflies / Dragonfly nymphs who moulted once more and flew off / Snakes who shed their skins  
    **Answer:** Dragonfly nymphs who moulted once more and flew off. *Why:* A dragonfly nymph climbs a reed, moults one last time and flies away as an adult. The empty skin stays on the reed.
 7. (truefalse) The banyan, like other wild fig trees, can make its seeds without any wasp at all.  
    **Answer:** False. *Why:* False. The banyan's flowers are hidden inside the fig, and only its own kind of tiny wasp can carry pollen in. Each one needs the other.
 8. (mcq) A farmer finds aphids on her chilli plants and a ladybird nearby. What is a bee-safe first step?  
-   Options: Spray every leaf at noon / Wait a few days and watch the ladybird / Cut the plant down  
+   Options: Spray every leaf at noon / Cut the plant down / Wait a few days and watch the ladybird  
    **Answer:** Wait a few days and watch the ladybird. *Why:* A ladybird and her young eat dozens of aphids a day. Waiting gives the hunter time to work, and a spray would harm her and any bees.
 9. (write) Young mosquitoes live in still water. Explain why tipping out the water every week stops them.  
    **Answer:** They need about 8 days or more in water to become adults. If the water is gone before that, they cannot finish growing.. *Why:* A good answer says that the young need still water for more than a week, so emptying it sooner breaks their life.
@@ -804,16 +804,16 @@ Junmoni picked up the bamboo pole and turned it over in her hands. 'I think,' sh
 15. (odd) Which is the odd one out, and why? Grasshopper, cockroach, dragonfly, ladybird.  
    **Answer:** Ladybird. She grows up with a pupa, and the other three grow up in three stages.. *Why:* Grasshoppers, cockroaches and dragonflies all have nymphs. A ladybird has a larva and a pupa.
 16. (mcq) If a spray is truly needed on a crop that bees visit, which timing harms bees least?  
-   Options: At noon, when the flowers are wide open / Any time, because a mild spray never touches a bee / At dusk, after the bees have gone home  
+   Options: At dusk, after the bees have gone home / At noon, when the flowers are wide open / Any time, because a mild spray never touches a bee  
    **Answer:** At dusk, after the bees have gone home. *Why:* Bees are out on open flowers at noon, and a spray would land on them. At dusk they are back in the hive. Even then, a mild spray is only for when it is truly needed, and never on open flowers.
 ### Faulty claims, fair tests and open questions (challenge) (challenge, 16 questions)
 1. (mcq) Zoya sees a caterpillar eating her plant and says, 'Butterflies are pests.' What is wrong?  
-   Options: Caterpillars are never pests / The caterpillar and the butterfly do different jobs / Butterflies eat leaves too  
+   Options: The caterpillar and the butterfly do different jobs / Caterpillars are never pests / Butterflies eat leaves too  
    **Answer:** The caterpillar and the butterfly do different jobs. *Why:* A caterpillar eats leaves, and the butterfly she becomes carries pollen. One job does not give a name to the whole animal for her whole life.
 2. (truefalse) A pupa does nothing, and nothing happens inside her.  
    **Answer:** False. *Why:* False. Inside the pupa her body is taken apart and rebuilt, and an adult comes out.
 3. (mcq) Imagine a beetle as big as a dog. Which problem would she meet first?  
-   Options: Air would reach her muscles too slowly, down long tubes / Her compound eyes would stop working at that size / She could no longer eat leaves  
+   Options: Her compound eyes would stop working at that size / She could no longer eat leaves / Air would reach her muscles too slowly, down long tubes  
    **Answer:** Air would reach her muscles too slowly, down long tubes. *Why:* Insects breathe through air tubes. In a very large body the tubes must be very long, and air creeps slowly down them. Compound eyes and leaf-eating do not depend on size in this way.
 4. (write) A friend says, 'An insect walking on a hurt leg feels no pain.' Give one reason this does not prove it.  
    **Answer:** Hunted animals often hide their weakness, so that a hunter does not see they are hurt. The same sign could have two causes.. *Why:* A strong answer says the sign could have another cause, and that we cannot see inside an insect. It does not say insects do feel, only that this sign cannot settle it.
@@ -825,7 +825,7 @@ Junmoni picked up the bamboo pole and turned it over in her hands. 'I think,' sh
 7. (sort) Sort each case by what people would call the insect there.  
    **Answer:** a termite eating a wooden door → Called a pest; a termite breaking down a fallen log in a forest → Called a helper; a ladybird eating aphids on a rose → Called a helper; a hadda beetle eating brinjal leaves → Called a pest; a lone locust resting in the grass → Neither; a fly visiting mango flowers → Called a helper. *Why:* Termites and ladybirds appear in more than one place. The names follow what the insect is doing and what we want.
 8. (mcq) A farmer plants marigold and coriander among her vegetables. Which is the best reason?  
-   Options: They poison the aphids / They feed hunters such as ladybirds / They keep the bees away  
+   Options: They poison the aphids / They keep the bees away / They feed hunters such as ladybirds  
    **Answer:** They feed hunters such as ladybirds. *Why:* Marigold and coriander flowers give hunting insects food and shelter. They do not poison anyone.
 9. (write) Is 'friend' or 'foe' a fact about an insect, or about us? Use the caterpillar and the butterfly to explain.  
    **Answer:** It is about us and our plans. The caterpillar eats the leaf, and the butterfly she becomes carries pollen. It is one insect.. *Why:* A strong answer says that the label depends on where the insect is and what we want, and gives the caterpillar example. It may also say that some scientists see the insect's own life as outside friend or foe.
@@ -851,48 +851,48 @@ Junmoni picked up the bamboo pole and turned it over in her hands. 'I think,' sh
 
 ## Quiz
 1. (mcq) You count eight legs and two body parts on a small creature in a corner. What is she?  
-   Options: An insect with two legs hidden / A spider, not an insect / A young beetle  
+   Options: An insect with two legs hidden / A young beetle / A spider, not an insect  
    **Answer:** A spider, not an insect. *Why:* Eight legs and two body parts make a spider. An insect has six legs and three body parts. If you chose an insect, count the legs again and then the body parts.
 2. (mcq) A caterpillar has many legs along her body. Is she an insect?  
-   Options: No, she has more than six legs / No, only grown-up moths are insects / Yes, a young insect with six true legs  
+   Options: Yes, a young insect with six true legs / No, she has more than six legs / No, only grown-up moths are insects  
    **Answer:** Yes, a young insect with six true legs. *Why:* Only the front six are true legs. The soft ones behind are grips, and a caterpillar is the young stage of an insect. If you said no, you counted the grips as legs.
 3. (mcq) A male moth finds a female from far away, yet has no nose. What does he smell with?  
-   Options: His antennae / His compound eyes / His spiracles  
+   Options: His compound eyes / His spiracles / His antennae  
    **Answer:** His antennae. *Why:* Antennae carry thousands of sensors for smell. Compound eyes see, and spiracles are breathing holes.
 4. (mcq) A bee sees ultraviolet lines on a flower that looks plain yellow to you. What does this show?  
-   Options: The flower changes colour for the bee / Bees see better than we do in every way / Bees see light that our eyes cannot  
+   Options: Bees see light that our eyes cannot / The flower changes colour for the bee / Bees see better than we do in every way  
    **Answer:** Bees see light that our eyes cannot. *Why:* Our eyes and a bee's eyes pick up different light, so the same flower looks different. A compound eye is also less sharp than ours, so bees do not see better in every way.
 5. (mcq) An ant walks across a ceiling without tipping. Which helps most?  
-   Options: Three legs always grip while three move / She is too light to fall / Her wings hold her up  
+   Options: She is too light to fall / Three legs always grip while three move / Her wings hold her up  
    **Answer:** Three legs always grip while three move. *Why:* Her six legs work as two tripods in turn, so three legs always make a steady triangle, with sticky pads and claws to grip. Wings are not used for walking.
 6. (mcq) A grasshopper nymph has tiny wing buds. What happens to them at each moult?  
    Options: They fall off / They grow bigger until the wings work / They turn into legs  
    **Answer:** They grow bigger until the wings work. *Why:* A nymph looks like a small adult. Each moult makes her bigger, and her wings grow with her. After her last moult the wings work.
 7. (mcq) Which of these grows up in three stages, with no pupa?  
-   Options: A mosquito / A ladybird / A dragonfly  
+   Options: A mosquito / A dragonfly / A ladybird  
    **Answer:** A dragonfly. *Why:* A dragonfly goes from egg to nymph to adult. A mosquito and a ladybird both go through a pupa, which is four stages.
 8. (truefalse) True or false: a pupa is only resting, and nothing happens inside her.  
    **Answer:** False. *Why:* False. Inside the pupa the body of the larva is taken apart and rebuilt as the adult's body. A pupa often looks still, and a great deal is going on.
 9. (mcq) A farmer kills every fly in her mango orchard. Mango flowers are mostly pollinated by flies. What is likely?  
-   Options: She will get more mangoes / She will get fewer mangoes / Nothing changes, because wind does the work  
+   Options: She will get fewer mangoes / She will get more mangoes / Nothing changes, because wind does the work  
    **Answer:** She will get fewer mangoes. *Why:* Flies carry the pollen from flower to flower, and without pollen a flower cannot make fruit. Wind and self-pollination are how rice and wheat manage, but mango needs its flies.
 10. (mcq) A gardener watches a bee push into a mustard flower. What does each of them get from this visit?  
    Options: The bee gets nectar, and the flower's pollen is carried to another flower / The bee gets pollen to eat, and the flower gets nectar / Neither gets anything, because the bee is only resting  
    **Answer:** The bee gets nectar, and the flower's pollen is carried to another flower. *Why:* The bee drinks the sweet nectar, and the pollen on her body is carried to the next flower, so seeds can grow. Both gain. The bee does not give the flower nectar. The flower makes nectar to pay for the visit.
 11. (mcq) Ladybirds, dragonflies and tiny wasps help a farmer in the same way. How?  
-   Options: They carry pollen from flower to flower / They break down dung in the field / They hunt insects who eat the crop  
+   Options: They carry pollen from flower to flower / They hunt insects who eat the crop / They break down dung in the field  
    **Answer:** They hunt insects who eat the crop. *Why:* All three are hunters, called predators. A farmer who protects them needs less spray. Pollen carriers and dung clearers do other jobs.
 12. (mcq) A new country's fields fill up with cow pats that do not rot away. What is the likely reason?  
    Options: Cows make too much dung / No local beetles can handle that dung / Rain washes dung away slowly  
    **Answer:** No local beetles can handle that dung. *Why:* Australia found this out. Its dung beetles could not handle cow dung, and the pats covered the pastures until other dung beetles were brought in. Beetles do the clearing work.
 13. (mcq) A lone locust harms nobody, but a crowd of them ruins crops. What does this show about 'pest'?  
-   Options: The word names what insects do in a place / Only locusts can be pests / The lone locust is a different animal  
+   Options: Only locusts can be pests / The lone locust is a different animal / The word names what insects do in a place  
    **Answer:** The word names what insects do in a place. *Why:* The lone locust and the swarming locust are the same animal. Crowding changes her colour and behaviour. 'Pest' describes the situation with people, not a kind of insect.
 14. (mcq) A caterpillar eats a leaf and later pollinates flowers as a butterfly. Which is the fairest thing to say?  
    Options: She is a pest and stays one / One insect, with two different jobs / She is a pest first and a friend later, so she changed  
    **Answer:** One insect, with two different jobs. *Why:* She is one being doing two jobs at two times in her life. If you chose the last one, notice that she did not change her mind. Only her job changed.
 15. (mcq) Why can a poison spray leave more aphids on a field than before?  
-   Options: Aphids grow bigger on poison / The spray feeds the aphids / It also kills the ladybirds and wasps who hunted them  
+   Options: It also kills the ladybirds and wasps who hunted them / Aphids grow bigger on poison / The spray feeds the aphids  
    **Answer:** It also kills the ladybirds and wasps who hunted them. *Why:* A spray reaches every insect that the poison lands on. Aphids breed fastest, so they come back first, with no hunters left to stop them.
 16. (mcq) Caterpillars are eating young cabbages and bees visit nearby. Which choice is safest for bees?  
    Options: Cover the young plants with a fine net / Spray at noon, when bees are out / Spray every flower with poison  

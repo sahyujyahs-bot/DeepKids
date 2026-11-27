@@ -754,10 +754,10 @@ That night Karan lay awake. In his head he walked from his flat in Chennai to th
 10. (perspective) A new child needs a school map. One shows every tree and bench. Another shows only the gate, classrooms and library.  
    **Answer:** Answers vary. A strong answer says the second map is quicker to read for finding the library. The first could be useful for a different job, such as finding a tree to sit under. Neither is wrong, and each has a job.. *Why:* The first map keeps more but is harder to read. The second keeps less but is clearer for one job. This is the trade-off in every model.
 11. (mcq) An orange turns in torchlight and a dot on it goes from light to dark. What does the orange stand for?  
-   Options: The Earth, which turns / The Sun, which moves / The Moon, which glows  
+   Options: The Sun, which moves / The Moon, which glows / The Earth, which turns  
    **Answer:** The Earth, which turns. *Why:* In this model the orange is the Earth and the torch is the Sun. Day and night come from the Earth turning, which carries each place into the light and out of it.
 12. (mcq) A map has a box that says a blue line means a river. What is that box for?  
-   Options: To make the map prettier / To explain what the signs and colours mean / To show how big the real place is  
+   Options: To explain what the signs and colours mean / To make the map prettier / To show how big the real place is  
    **Answer:** To explain what the signs and colours mean. *Why:* The box is called a key. It tells the reader what each sign and colour stands for. The size of the real place is told by the scale, which is a different part of a map.
 13. (count) A globe has a scale of 1 centimetre for every 425 kilometres. How many kilometres are 4 centimetres on the globe?  
    **Answer:** 1700. *Why:* Each centimetre stands for 425 kilometres, so 4 centimetres stand for 4 × 425 = 1,700 kilometres.
@@ -769,14 +769,14 @@ That night Karan lay awake. In his head he walked from his flat in Chennai to th
    **Answer:** Because different jobs need different things kept. A map for drivers keeps roads, and a map for walkers keeps paths and steps. Each leaves out what the other needs.. *Why:* A strong answer names a job for each model and what each leaves out.
 ### Scale, maps and changing a model (stretch) (stretch, 16 questions)
 1. (mcq) A diagram of the solar system has the words 'not to scale'. What do they say?  
-   Options: The sizes or distances are not true to the real thing / The whole diagram is wrong / The planets are drawn at their true sizes  
+   Options: The whole diagram is wrong / The sizes or distances are not true to the real thing / The planets are drawn at their true sizes  
    **Answer:** The sizes or distances are not true to the real thing. *Why:* The words warn the reader that something was changed to fit the page. The planets and distances are not in true proportion, but the order of the planets can still be right.
 2. (fill) A 30 centimetre globe stands for the Earth, which is 12,742 kilometres across. So 1 centimetre stands for about ____ kilometres.  
    **Answer:** ['425', '420', '430']. *Why:* 12,742 ÷ 30 is close to 425. Each centimetre on the globe stands for 425 kilometres of the real Earth, roughly.
 3. (truefalse) On a flat world map Greenland looks about as big as Africa, so the two lands are about the same size.  
    **Answer:** False. *Why:* False. Africa is about 14 times larger than Greenland. A flat map must stretch some part of the round Earth, and this map stretches the lands near the top.
 4. (mcq) A model predicts that a spot stays lit. A test shows it going dark. What is best?  
-   Options: Say the torch must be broken / Ignore the test and keep the model / Check the test, then change the model if it still disagrees  
+   Options: Say the torch must be broken / Check the test, then change the model if it still disagrees / Ignore the test and keep the model  
    **Answer:** Check the test, then change the model if it still disagrees. *Why:* A test that disagrees is information. First check that the test was fair, then change the model if it still disagrees. Blaming the torch or ignoring the test keeps the model safe, but teaches nothing.
 5. (match) Match each comparison to where it stops being like the real thing.  
    **Answer:** The heart is like a pump → A pump does not start beating by itself; Electricity in a wire is like water in a pipe → A cut wire does not spill electricity on the floor; A flat map is like the land → A flat map stretches some lands, because the Earth is round. *Why:* Every analogy is right in some ways and wrong in others. The useful question is where the likeness stops.
@@ -789,7 +789,7 @@ That night Karan lay awake. In his head he walked from his flat in Chennai to th
 9. (perspective) Is a model that gives right answers also true?  
    **Answer:** Answers vary. A strong answer uses both examples and notes that nobody has a sure way to tell in advance which kind a model is. Scientists still argue about it.. *Why:* The atom began as a model and was later seen as a real thing. Ptolemy's model gave right answers and was not built like the sky. Both histories are true.
 10. (mcq) Why does a diagram have labels and arrows that the real thing does not have?  
-   Options: The real thing is always missing them / They make the diagram prettier / They are added to explain, not to copy  
+   Options: The real thing is always missing them / They are added to explain, not to copy / They make the diagram prettier  
    **Answer:** They are added to explain, not to copy. *Why:* A diagram is made to be understood. Labels name the parts and arrows show what moves. A copy of the real thing would have neither.
 11. (truefalse) If a model gives right answers, it must be built in the same way as the real thing.  
    **Answer:** False. *Why:* False. Ptolemy's model of circles on circles gave right answers for about 1,400 years, though the Earth is not at the centre. Right answers do not show that the inside is right.
@@ -801,7 +801,7 @@ That night Karan lay awake. In his head he walked from his flat in Chennai to th
 14. (count) A model is 50 times smaller than a bridge 300 metres long. How long is the model, in metres?  
    **Answer:** 6. *Why:* 300 ÷ 50 = 6. The model is 6 metres long. Every length on it is 50 times smaller than the real one.
 15. (mcq) Which one is a model made of words?  
-   Options: A globe / A plastic skeleton / 'The heart is like a pump'  
+   Options: A globe / 'The heart is like a pump' / A plastic skeleton  
    **Answer:** 'The heart is like a pump'. *Why:* A comparison in words is called an analogy. A globe and a plastic skeleton are physical models, which are objects you can hold.
 16. (write) What must a diagram of the solar system change to fit on a page? How can the maker be honest about it?  
    **Answer:** The distances are squeezed and the planets drawn too big. The maker can write 'not to scale' on the diagram.. *Why:* A strong answer names the change and the honest note.
@@ -856,37 +856,37 @@ That night Karan lay awake. In his head he walked from his flat in Chennai to th
    Options: The labelled chart / Both of them / The plastic eye  
    **Answer:** The plastic eye. *Why:* A physical model is an object you can hold and turn round. A labelled chart is a diagram, which is a model on paper.
 3. (mcq) A diagram of a hibiscus helps you with a hibiscus you have never seen. Why?  
-   Options: It is a photograph of the same flower / It shows the exact shadow / It shows what all flowers of that kind have  
+   Options: It is a photograph of the same flower / It shows what all flowers of that kind have / It shows the exact shadow  
    **Answer:** It shows what all flowers of that kind have. *Why:* A diagram stands for every flower of that kind, with parts named. A photograph shows only one flower as it looked once.
 4. (mcq) A diagram of a heart is not red. Is that a fault?  
-   Options: No, colour is not needed for its job / Yes, the heart is red / Yes, every diagram must have colour  
+   Options: Yes, the heart is red / No, colour is not needed for its job / Yes, every diagram must have colour  
    **Answer:** No, colour is not needed for its job. *Why:* A diagram keeps what its job needs, here the parts and the way blood flows. A model is not faulty because it leaves something out.
 5. (mcq) A mapmaker flattens a round globe onto paper. What cannot be avoided?  
-   Options: Everything stays true in size and shape / Some sizes or shapes are stretched / Nothing changes near the top  
+   Options: Some sizes or shapes are stretched / Everything stays true in size and shape / Nothing changes near the top  
    **Answer:** Some sizes or shapes are stretched. *Why:* A round surface cannot be flattened without stretching or tearing, as an orange peel shows. Each flat map chooses which wrongness to accept.
 6. (mcq) A leaning ball in torchlight predicts a season with no sunset near the poles. Why is a prediction like that valuable?  
-   Options: It proves the model right in every way / It is a guess that nobody can check / We can check it against the real world  
+   Options: It proves the model right in every way / We can check it against the real world / It is a guess that nobody can check  
    **Answer:** We can check it against the real world. *Why:* A prediction that can be checked tests the model. If it comes true, the model is trusted a little more. It does not prove the model is built just as the world is.
 7. (mcq) A model gives right answers for 100 years. Is it certain to be built like the real thing?  
    Options: Yes, that proves it / No, a wrong model can still predict well / Yes, if scientists agree  
    **Answer:** No, a wrong model can still predict well. *Why:* Ptolemy's model of the sky worked for about 1,400 years and the Earth is not at the centre. Right answers show a model is useful, not that it is built like the world.
 8. (mcq) You cannot open a sealed box. What is the best way to improve your drawing of what is inside?  
-   Options: Guess harder / Shake it as hard as you can / Predict a new tilt, test it and change the drawing if wrong  
+   Options: Predict a new tilt, test it and change the drawing if wrong / Guess harder / Shake it as hard as you can  
    **Answer:** Predict a new tilt, test it and change the drawing if wrong. *Why:* A prediction that could fail tests the drawing. Shaking hard gives noise, and guessing harder gives no new clues.
 9. (mcq) Gold foil bounced a few fast particles straight back. What does this show about models?  
-   Options: Models are always wrong / A first model should never be changed / Models change when new evidence disagrees  
+   Options: Models are always wrong / Models change when new evidence disagrees / A first model should never be changed  
    **Answer:** Models change when new evidence disagrees. *Why:* The soft-ball model of the atom could not give bounces like this. So Rutherford made a new model. A model is improved by evidence that disagrees with it.
 10. (mcq) One metro map has straight strokes and another shows the true track. Which one is wrong?  
    Options: The straight one, because it bends the tracks / Neither, because each suits a different job / The true one, because it is hard to read  
    **Answer:** Neither, because each suits a different job. *Why:* The straight one is right for finding where to change. The true one is right for an engineer who digs. Neither is the real metro.
 11. (mcq) Why do engineers test a small model of a dam before building the real one?  
-   Options: A mistake in a model costs far less / A model is always stronger than the real dam / A model needs no tests  
+   Options: A model is always stronger than the real dam / A mistake in a model costs far less / A model needs no tests  
    **Answer:** A mistake in a model costs far less. *Why:* A model can be wrecked and rebuilt cheaply. A mistake in a real dam could cost lives. The model leaves out some things, so engineers also test in other ways.
 12. (mcq) One friend will swim in a river. Another will build a dam on it. Why might they need different models?  
-   Options: Models of rivers are all the same / Each job needs different things kept in the model / Only one of them needs a model  
+   Options: Each job needs different things kept in the model / Models of rivers are all the same / Only one of them needs a model  
    **Answer:** Each job needs different things kept in the model. *Why:* The swimmer needs where the water is deep and where it flows fast. The builder needs the ground, the width and how much water comes. Each model keeps what its job needs.
 13. (mcq) Which of these has labels and arrows that are not in the real thing?  
-   Options: A diagram / A photograph / A mirror  
+   Options: A photograph / A diagram / A mirror  
    **Answer:** A diagram. *Why:* A diagram adds labels and arrows to explain. A photograph and a mirror show what is there, without choosing or adding.
 14. (mcq) Which question do scientists still argue about?  
    Options: Does a globe have a scale? / Does a model that works always show how the world is built? / Can a diagram have arrows?  

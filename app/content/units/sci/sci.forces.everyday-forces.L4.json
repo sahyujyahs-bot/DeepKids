@@ -3012,11 +3012,11 @@
      "t": "mcq",
      "p": "A coin and a flat sheet of paper are dropped. The coin lands first. Which is the best reason?",
      "opts": [
+      "Air pushes back much harder on the sheet for its weight",
       "Gravity does not pull on paper",
-      "Heavy things always fall faster, even without air",
-      "Air pushes back much harder on the sheet for its weight"
+      "Heavy things always fall faster, even without air"
      ],
-     "a": 2,
+     "a": 0,
      "why": "The sheet has a big area for its weight, so the push of the air balances its weight at a low speed. Gravity pulls on both. Without air they would land together.",
      "outcome": 4
     },
@@ -3045,11 +3045,11 @@
      "t": "mcq",
      "p": "The biceps is a muscle in the upper arm. Which is true of every muscle?",
      "opts": [
-      "It can push and pull",
       "It can only pull",
+      "It can push and pull",
       "It can only push"
      ],
-     "a": 1,
+     "a": 0,
      "why": "A muscle shortens, and so pulls on what it is joined to. The arm needs one muscle to bend it and another to straighten it.",
      "outcome": 5
     },
@@ -3224,11 +3224,11 @@
      "t": "mcq",
      "p": "A magnet stays on a fridge door and does not slide down. Which force holds it up?",
      "opts": [
-      "Friction between the magnet and the door",
       "The magnetic pull, which points up",
-      "Gravity, which points up near a magnet"
+      "Gravity, which points up near a magnet",
+      "Friction between the magnet and the door"
      ],
-     "a": 0,
+     "a": 2,
      "why": "The magnet's pull points into the door, not up. That pull presses the magnet to the door, and the grip of friction along the door holds the magnet up against its weight.",
      "outcome": 1
     },
@@ -3297,10 +3297,10 @@
      "p": "An astronaut says, 'There is no gravity in my station, because I float.' What is wrong?",
      "opts": [
       "Nothing. Floating shows gravity is zero",
-      "Gravity is strong there. She floats because she falls with the station",
-      "The station is too heavy to be pulled"
+      "The station is too heavy to be pulled",
+      "Gravity is strong there. She floats because she falls with the station"
      ],
-     "a": 1,
+     "a": 2,
      "why": "At 400 kilometres, gravity is still about nine-tenths of the ground value. Floating means no floor is pushing on her, not that nothing is pulling her.",
      "outcome": 2
     },
@@ -3359,11 +3359,11 @@
      "t": "mcq",
      "p": "A skydiver spreads her arms and legs wide. What happens to the steady falling speed?",
      "opts": [
-      "It gets lower, because the air has more to push on",
       "It gets higher, because she is bigger",
-      "It stays the same, because her weight is the same"
+      "It stays the same, because her weight is the same",
+      "It gets lower, because the air has more to push on"
      ],
-     "a": 0,
+     "a": 2,
      "why": "The same weight is now met by the air's push at a lower speed, because there is more area to push on. Many skydivers use this to slow down.",
      "outcome": 4
     },
@@ -3455,11 +3455,11 @@
      "t": "mcq",
      "p": "Newton's rule and Einstein's picture of gravity predict the same fall of a ball. What does this tell us?",
      "opts": [
-      "Newton was wrong, so his rule is useless",
       "A description can work very well without being the last word",
+      "Newton was wrong, so his rule is useless",
       "Einstein must be wrong, because Newton's rule is simpler"
      ],
-     "a": 1,
+     "a": 0,
      "why": "Two different pictures can give the same prediction. Scientists keep both, and keep asking what gravity finally is.",
      "outcome": 6
     },
@@ -3487,11 +3487,11 @@
    "p": "A lamp hangs still from a chain. Which forces act on the lamp?",
    "opts": [
     "Only the Earth pulls, because the lamp is not moving",
-    "The chain pulls up and the Earth pulls down",
     "The chain pulls up and nothing pulls down",
+    "The chain pulls up and the Earth pulls down",
     "A force pushes it down from the ceiling"
    ],
-   "a": 1,
+   "a": 2,
    "why": "Pick one thing and ask what touches it and what pulls it from far. The chain touches it and pulls up. The Earth pulls down from a distance. If you chose only gravity, you forgot that a still thing needs an upward force from something touching it.",
    "outcome": 0
   },
@@ -3512,12 +3512,12 @@
    "t": "mcq",
    "p": "Astronauts in a station 400 kilometres up float. What is the reason?",
    "opts": [
-    "They fall with the station, so no floor pushes on them",
     "There is no gravity so high up",
+    "They fall with the station, so no floor pushes on them",
     "The station's walls block the Earth's pull",
     "They are too far from the Earth to be pulled at all"
    ],
-   "a": 0,
+   "a": 1,
    "why": "At that height gravity is still about nine-tenths as strong as in your room. They float because they and the station fall together and the floor does not push on their feet. Choosing 'no gravity' mixes up a missing push with a missing pull.",
    "outcome": 1
   },
@@ -3550,11 +3550,11 @@
    "t": "mcq",
    "p": "A cyclist keeps a steady speed on a flat road. What is true of the forces along the road?",
    "opts": [
+    "Forward force equals backward force, so her speed stays the same",
     "The forward force must be bigger, or she would stop",
-    "No force acts on her, because the speed is steady",
-    "Forward force equals backward force, so her speed stays the same"
+    "No force acts on her, because the speed is steady"
    ],
-   "a": 2,
+   "a": 0,
    "why": "Balanced forces mean no change in speed, and a steady speed is a kind of 'no change'. A bigger forward force would make her speed up. A cycle slows after you stop pedalling because friction and air still push backward.",
    "outcome": 2
   },
@@ -3562,11 +3562,11 @@
    "t": "mcq",
    "p": "A ball is thrown straight up. At the very top, it is not moving for an instant. Is a force on it?",
    "opts": [
-    "Yes. Gravity still pulls it down, and it starts to fall",
     "No, a still thing has no force on it",
+    "Yes. Gravity still pulls it down, and it starts to fall",
     "Yes, the push of the throw is still on it"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Gravity never switches off. At the top, the ball's speed is zero for an instant, and the pull down is not balanced, so it speeds up downward. If you chose the push of the throw, that push ended when the ball left the hand.",
    "outcome": 2
   },
@@ -3575,11 +3575,11 @@
    "p": "Which force diagram shows a book resting on a table?",
    "opts": [
     "One long arrow down only",
-    "Two arrows of the same length, one down and one up",
     "One arrow up only",
+    "Two arrows of the same length, one down and one up",
     "A long arrow down and a short arrow up"
    ],
-   "a": 1,
+   "a": 2,
    "why": "The book is still, so the arrows must cancel. The weight down and the support force up are equal. A long arrow down with a short one up would show a book that is sinking through the table.",
    "outcome": 3
   },
@@ -3588,10 +3588,10 @@
    "p": "What does a force diagram of a kite show?",
    "opts": [
     "The kite and the person, with arrows for both",
-    "One arrow for the biggest force only",
-    "The kite alone, with one arrow for each force on it"
+    "The kite alone, with one arrow for each force on it",
+    "One arrow for the biggest force only"
    ],
-   "a": 2,
+   "a": 1,
    "why": "A force diagram draws one thing alone, so you can see everything that pushes or pulls it. Drawing the person too mixes up forces on different things. Drawing only the biggest force hides the ones that balance it.",
    "outcome": 3
   },
@@ -3612,11 +3612,11 @@
    "t": "mcq",
    "p": "In a room with air, a hammer beats a feather to the floor. What happens with no air?",
    "opts": [
-    "They would land together",
     "The hammer would still land first because it is heavier",
-    "The feather would land first because it is lighter"
+    "The feather would land first because it is lighter",
+    "They would land together"
    ],
-   "a": 0,
+   "a": 2,
    "why": "The feather is held back by the push of the air, which is big for its weight. With no air there is only gravity, and everything falls at the same rate. On the Moon in 1971 the astronaut David Scott showed this.",
    "outcome": 4
   },
@@ -3633,10 +3633,10 @@
    "opts": [
     "It is about 8 times stronger than other muscles",
     "A muscle pushes as well as pulls, so it does double work",
-    "It joins close to the elbow, but the bottle is far away",
-    "Pulling up always takes eight times the force"
+    "Pulling up always takes eight times the force",
+    "It joins close to the elbow, but the bottle is far away"
    ],
-   "a": 2,
+   "a": 3,
    "why": "The forearm is a lever with the elbow as its pivot. A pull close to the pivot must be much bigger to balance a load far from it. The muscle is not special, but its position gives it a big job.",
    "outcome": 5
   },
@@ -3645,11 +3645,11 @@
    "p": "Which of these is, underneath, the same force as a magnet's pull?",
    "opts": [
     "The pull of the Earth on a mango",
-    "The grip of a chappal on the road",
     "The pull of the Sun on the Earth",
-    "Nothing is the same as a magnet's pull"
+    "Nothing is the same as a magnet's pull",
+    "The grip of a chappal on the road"
    ],
-   "a": 1,
+   "a": 3,
    "why": "Friction, tension, the push of a table and a muscle's pull all come from the electromagnetic force between atoms. That force also gives a magnet's pull. Gravity is a separate force.",
    "outcome": 6
   },

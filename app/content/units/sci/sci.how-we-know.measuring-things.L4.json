@@ -1108,11 +1108,11 @@
       "t": "mcq",
       "q": "The water fell 3 centimetres in the first minute. What should you do?",
       "options": [
-       "Make the hole wider",
        "Cover the hole and make a smaller one",
+       "Make the hole wider",
        "Pour in more water"
       ],
-      "a": 1,
+      "a": 0,
       "why": "A fall of 3 centimetres a minute would empty 12 centimetres in about 8 minutes, which is too quick for marks every 2 minutes. A smaller hole slows the water. If you chose a wider hole, that would make the water run even faster."
      }
     },
@@ -1285,10 +1285,10 @@
       "q": "You make the step half as long. What do you expect the total to do?",
       "options": [
        "Stay exactly the same",
-       "Get a little longer",
-       "Get much shorter"
+       "Get much shorter",
+       "Get a little longer"
       ],
-      "a": 1,
+      "a": 2,
       "why": "A shorter step follows more of the bends, so the total grows. It grows by a small amount, not by double, because the long bends were already followed. If you chose the same, the edge would have to be smooth."
      }
     }
@@ -2737,11 +2737,11 @@
      "t": "mcq",
      "p": "Why does a smaller step give a longer coast?",
      "opts": [
-      "It follows more of the bends",
       "The coast grows",
+      "It follows more of the bends",
       "Small steps stretch"
      ],
-     "a": 0,
+     "a": 1,
      "why": "A long step jumps over bays and creeks. A short step goes into more of them, so the total grows. The coast itself does not change.",
      "outcome": 4
     },
@@ -2877,10 +2877,10 @@
      "p": "Why does a shop weight get checked against an inspector's weight?",
      "opts": [
       "It makes the weight heavier",
-      "It is only for the law",
-      "It ties every kilogram of rice to the same shared kilogram"
+      "It ties every kilogram of rice to the same shared kilogram",
+      "It is only for the law"
      ],
-     "a": 2,
+     "a": 1,
      "why": "A chain of checks leads from the shop up to a national laboratory, so a kilogram means the same in every shop. It is more than a rule. It is how strangers trust each other.",
      "outcome": 2
     },
@@ -2925,11 +2925,11 @@
      "t": "mcq",
      "p": "Why do doctors ask for children's doses in millilitres only?",
      "opts": [
-      "Millilitres are smaller than spoons",
       "Spoons differ in size, so one number gives different doses",
+      "Millilitres are smaller than spoons",
       "Spoons are not allowed"
      ],
-     "a": 1,
+     "a": 0,
      "why": "A kitchen spoon can hold much more or much less than another. A marked cap or syringe is the same for everyone.",
      "outcome": 0
     },
@@ -2966,11 +2966,11 @@
      "t": "mcq",
      "p": "A cold thermometer is put into a small cup of warm water. What may happen to the water?",
      "opts": [
-      "It cools a little, so measuring changed it",
       "It heats up",
-      "Nothing. Measuring never changes anything."
+      "Nothing. Measuring never changes anything.",
+      "It cools a little, so measuring changed it"
      ],
-     "a": 0,
+     "a": 2,
      "why": "The thermometer takes a little warmth from the water. For small amounts, measuring changes the thing measured a little.",
      "outcome": 6
     },
@@ -3032,10 +3032,10 @@
    "p": "Which job needs a measurement rather than a guess?",
    "opts": [
     "Stepping over a puddle",
-    "Giving a baby medicine",
-    "Choosing a seat on a bus"
+    "Choosing a seat on a bus",
+    "Giving a baby medicine"
    ],
-   "a": 1,
+   "a": 2,
    "why": "Too much medicine can harm a baby, and two people must agree on the dose. A puddle or a seat is safe to guess.",
    "outcome": 0
   },
@@ -3055,11 +3055,11 @@
    "t": "mcq",
    "p": "What do you do when you measure a table?",
    "opts": [
-    "Guess, then check with a friend",
     "Choose a unit, then count how many fit",
+    "Guess, then check with a friend",
     "Find the real width hiding in the table"
    ],
-   "a": 1,
+   "a": 0,
    "why": "A measurement is a unit and a count. There is no hidden 'real width' without a unit to compare with.",
    "outcome": 1
   },
@@ -3067,11 +3067,11 @@
    "t": "mcq",
    "p": "Which is true about the prefix milli?",
    "opts": [
-    "1,000 millilitres make one litre",
     "100 millilitres make one litre",
-    "One millilitre makes one litre"
+    "One millilitre makes one litre",
+    "1,000 millilitres make one litre"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Milli means a thousandth, so it takes 1,000 of them to make the whole. A hundred is the prefix centi.",
    "outcome": 2
   },
@@ -3079,11 +3079,11 @@
    "t": "mcq",
    "p": "A one-litre bottle of water has a mass of about 1 kilogram. What is the mass of 500 millilitres?",
    "opts": [
+    "Half a kilogram",
     "About 50 grams",
-    "About 5 kilograms",
-    "Half a kilogram"
+    "About 5 kilograms"
    ],
-   "a": 2,
+   "a": 0,
    "why": "500 millilitres is half a litre, so its mass is half a kilogram, which is 500 grams.",
    "outcome": 2
   },
@@ -3115,11 +3115,11 @@
    "t": "mcq",
    "p": "A torn edge is stepped with 3 centimetres and then with 1 centimetre. What happens to the total?",
    "opts": [
-    "It stays the same, as the edge did not change",
     "It gets longer, as the small step follows more bends",
+    "It stays the same, as the edge did not change",
     "It gets shorter, as small steps are more exact"
    ],
-   "a": 1,
+   "a": 0,
    "why": "A smaller step follows more of the bends, so the total grows. The edge did not change, but the way of measuring did.",
    "outcome": 4
   },
@@ -3139,11 +3139,11 @@
    "t": "mcq",
    "p": "Why guess before you measure?",
    "opts": [
-    "A guess catches a mistake such as a wrong unit",
     "A guess makes measuring unnecessary",
-    "A guess gives the exact answer"
+    "A guess gives the exact answer",
+    "A guess catches a mistake such as a wrong unit"
    ],
-   "a": 0,
+   "a": 2,
    "why": "If the guess and the tape disagree a lot, you check the unit, the zero and the reading. A guess is a safety net.",
    "outcome": 5
   },
@@ -3164,10 +3164,10 @@
    "p": "Which of these can a thermometer not tell you?",
    "opts": [
     "How hot a cup of tea is",
-    "The temperature of a child's forehead",
-    "How uncomfortable the heat feels to someone"
+    "How uncomfortable the heat feels to someone",
+    "The temperature of a child's forehead"
    ],
-   "a": 2,
+   "a": 1,
    "why": "A thermometer gives a number for temperature. It cannot tell how that heat feels to a person, which has no unit.",
    "outcome": 6
   },
@@ -3188,10 +3188,10 @@
    "p": "Which is a fair thing to say about a school mark?",
    "opts": [
     "It shows everything a child has learnt",
-    "It is a number that leaves out much of what was learnt",
-    "It is false because numbers are false"
+    "It is false because numbers are false",
+    "It is a number that leaves out much of what was learnt"
    ],
-   "a": 1,
+   "a": 2,
    "why": "A mark is useful, but it turns a whole term into one number. What it leaves out is part of what we know.",
    "outcome": 6
   }

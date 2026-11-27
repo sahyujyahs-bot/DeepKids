@@ -1114,11 +1114,11 @@
       "t": "mcq",
       "q": "A tilt goes against your drawing. What is the best thing to do?",
       "options": [
-       "Change the drawing to fit the test",
        "Tilt again until it fits the drawing",
+       "Change the drawing to fit the test",
        "Say the box is broken"
       ],
-      "a": 0,
+      "a": 1,
       "why": "A model has to follow the evidence. Tilting until it fits the drawing, or blaming the box, protects the drawing instead of finding out the truth."
      }
     },
@@ -2928,11 +2928,11 @@
      "t": "mcq",
      "p": "An orange turns in torchlight and a dot on it goes from light to dark. What does the orange stand for?",
      "opts": [
-      "The Earth, which turns",
       "The Sun, which moves",
-      "The Moon, which glows"
+      "The Moon, which glows",
+      "The Earth, which turns"
      ],
-     "a": 0,
+     "a": 2,
      "why": "In this model the orange is the Earth and the torch is the Sun. Day and night come from the Earth turning, which carries each place into the light and out of it.",
      "outcome": 4
     },
@@ -2940,11 +2940,11 @@
      "t": "mcq",
      "p": "A map has a box that says a blue line means a river. What is that box for?",
      "opts": [
-      "To make the map prettier",
       "To explain what the signs and colours mean",
+      "To make the map prettier",
       "To show how big the real place is"
      ],
-     "a": 1,
+     "a": 0,
      "why": "The box is called a key. It tells the reader what each sign and colour stands for. The size of the real place is told by the scale, which is a different part of a map.",
      "outcome": 2
     },
@@ -2990,11 +2990,11 @@
      "t": "mcq",
      "p": "A diagram of the solar system has the words 'not to scale'. What do they say?",
      "opts": [
-      "The sizes or distances are not true to the real thing",
       "The whole diagram is wrong",
+      "The sizes or distances are not true to the real thing",
       "The planets are drawn at their true sizes"
      ],
-     "a": 0,
+     "a": 1,
      "why": "The words warn the reader that something was changed to fit the page. The planets and distances are not in true proportion, but the order of the planets can still be right.",
      "outcome": 3
     },
@@ -3021,10 +3021,10 @@
      "p": "A model predicts that a spot stays lit. A test shows it going dark. What is best?",
      "opts": [
       "Say the torch must be broken",
-      "Ignore the test and keep the model",
-      "Check the test, then change the model if it still disagrees"
+      "Check the test, then change the model if it still disagrees",
+      "Ignore the test and keep the model"
      ],
-     "a": 2,
+     "a": 1,
      "why": "A test that disagrees is information. First check that the test was fair, then change the model if it still disagrees. Blaming the torch or ignoring the test keeps the model safe, but teaches nothing.",
      "outcome": 4
     },
@@ -3124,10 +3124,10 @@
      "p": "Why does a diagram have labels and arrows that the real thing does not have?",
      "opts": [
       "The real thing is always missing them",
-      "They make the diagram prettier",
-      "They are added to explain, not to copy"
+      "They are added to explain, not to copy",
+      "They make the diagram prettier"
      ],
-     "a": 2,
+     "a": 1,
      "why": "A diagram is made to be understood. Labels name the parts and arrows show what moves. A copy of the real thing would have neither.",
      "outcome": 2
     },
@@ -3169,10 +3169,10 @@
      "p": "Which one is a model made of words?",
      "opts": [
       "A globe",
-      "A plastic skeleton",
-      "'The heart is like a pump'"
+      "'The heart is like a pump'",
+      "A plastic skeleton"
      ],
-     "a": 2,
+     "a": 1,
      "why": "A comparison in words is called an analogy. A globe and a plastic skeleton are physical models, which are objects you can hold.",
      "outcome": 1
     },
@@ -3400,10 +3400,10 @@
    "p": "A diagram of a hibiscus helps you with a hibiscus you have never seen. Why?",
    "opts": [
     "It is a photograph of the same flower",
-    "It shows the exact shadow",
-    "It shows what all flowers of that kind have"
+    "It shows what all flowers of that kind have",
+    "It shows the exact shadow"
    ],
-   "a": 2,
+   "a": 1,
    "why": "A diagram stands for every flower of that kind, with parts named. A photograph shows only one flower as it looked once.",
    "outcome": 2
   },
@@ -3411,11 +3411,11 @@
    "t": "mcq",
    "p": "A diagram of a heart is not red. Is that a fault?",
    "opts": [
-    "No, colour is not needed for its job",
     "Yes, the heart is red",
+    "No, colour is not needed for its job",
     "Yes, every diagram must have colour"
    ],
-   "a": 0,
+   "a": 1,
    "why": "A diagram keeps what its job needs, here the parts and the way blood flows. A model is not faulty because it leaves something out.",
    "outcome": 3
   },
@@ -3423,11 +3423,11 @@
    "t": "mcq",
    "p": "A mapmaker flattens a round globe onto paper. What cannot be avoided?",
    "opts": [
-    "Everything stays true in size and shape",
     "Some sizes or shapes are stretched",
+    "Everything stays true in size and shape",
     "Nothing changes near the top"
    ],
-   "a": 1,
+   "a": 0,
    "why": "A round surface cannot be flattened without stretching or tearing, as an orange peel shows. Each flat map chooses which wrongness to accept.",
    "outcome": 3
   },
@@ -3436,10 +3436,10 @@
    "p": "A leaning ball in torchlight predicts a season with no sunset near the poles. Why is a prediction like that valuable?",
    "opts": [
     "It proves the model right in every way",
-    "It is a guess that nobody can check",
-    "We can check it against the real world"
+    "We can check it against the real world",
+    "It is a guess that nobody can check"
    ],
-   "a": 2,
+   "a": 1,
    "why": "A prediction that can be checked tests the model. If it comes true, the model is trusted a little more. It does not prove the model is built just as the world is.",
    "outcome": 4
   },
@@ -3459,11 +3459,11 @@
    "t": "mcq",
    "p": "You cannot open a sealed box. What is the best way to improve your drawing of what is inside?",
    "opts": [
+    "Predict a new tilt, test it and change the drawing if wrong",
     "Guess harder",
-    "Shake it as hard as you can",
-    "Predict a new tilt, test it and change the drawing if wrong"
+    "Shake it as hard as you can"
    ],
-   "a": 2,
+   "a": 0,
    "why": "A prediction that could fail tests the drawing. Shaking hard gives noise, and guessing harder gives no new clues.",
    "outcome": 5
   },
@@ -3472,10 +3472,10 @@
    "p": "Gold foil bounced a few fast particles straight back. What does this show about models?",
    "opts": [
     "Models are always wrong",
-    "A first model should never be changed",
-    "Models change when new evidence disagrees"
+    "Models change when new evidence disagrees",
+    "A first model should never be changed"
    ],
-   "a": 2,
+   "a": 1,
    "why": "The soft-ball model of the atom could not give bounces like this. So Rutherford made a new model. A model is improved by evidence that disagrees with it.",
    "outcome": 5
   },
@@ -3495,11 +3495,11 @@
    "t": "mcq",
    "p": "Why do engineers test a small model of a dam before building the real one?",
    "opts": [
-    "A mistake in a model costs far less",
     "A model is always stronger than the real dam",
+    "A mistake in a model costs far less",
     "A model needs no tests"
    ],
-   "a": 0,
+   "a": 1,
    "why": "A model can be wrecked and rebuilt cheaply. A mistake in a real dam could cost lives. The model leaves out some things, so engineers also test in other ways.",
    "outcome": 4
   },
@@ -3507,11 +3507,11 @@
    "t": "mcq",
    "p": "One friend will swim in a river. Another will build a dam on it. Why might they need different models?",
    "opts": [
-    "Models of rivers are all the same",
     "Each job needs different things kept in the model",
+    "Models of rivers are all the same",
     "Only one of them needs a model"
    ],
-   "a": 1,
+   "a": 0,
    "why": "The swimmer needs where the water is deep and where it flows fast. The builder needs the ground, the width and how much water comes. Each model keeps what its job needs.",
    "outcome": 6
   },
@@ -3519,11 +3519,11 @@
    "t": "mcq",
    "p": "Which of these has labels and arrows that are not in the real thing?",
    "opts": [
-    "A diagram",
     "A photograph",
+    "A diagram",
     "A mirror"
    ],
-   "a": 0,
+   "a": 1,
    "why": "A diagram adds labels and arrows to explain. A photograph and a mirror show what is there, without choosing or adding.",
    "outcome": 2
   },

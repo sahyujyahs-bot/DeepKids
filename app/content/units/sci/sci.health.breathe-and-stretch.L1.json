@@ -2227,11 +2227,11 @@
      "t": "mcq",
      "p": "You hold your breath. After a few seconds, what does your body do?",
      "opts": [
-      "It makes you breathe again",
       "It stops breathing for good",
-      "It falls asleep"
+      "It falls asleep",
+      "It makes you breathe again"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Your body asks for air and takes over again. Breathing goes on by itself, and you can only step in for a short time."
     },
     {
@@ -2331,11 +2331,11 @@
      "t": "mcq",
      "p": "Which of these stretch when they wake up?",
      "opts": [
+      "Dogs, cats, birds and people",
       "Only people",
-      "Only cats",
-      "Dogs, cats, birds and people"
+      "Only cats"
      ],
-     "a": 2,
+     "a": 0,
      "why": "Many animals with backbones stretch after resting, and nobody taught them. People do too."
     },
     {
@@ -2360,10 +2360,10 @@
      "p": "Which is a good warm-up before a stretch?",
      "opts": [
       "Sitting still for a long time",
-      "Walking about for a few minutes",
-      "Holding your breath"
+      "Holding your breath",
+      "Walking about for a few minutes"
      ],
-     "a": 1,
+     "a": 2,
      "why": "Warm muscles stretch more easily than cold ones. Walking about warms them."
     }
    ]
@@ -2378,11 +2378,11 @@
      "t": "mcq",
      "p": "What does your nose do to the air before it reaches your lungs?",
      "opts": [
-      "It warms, wets and cleans it",
       "It makes it colder",
-      "It turns it into water"
+      "It turns it into water",
+      "It warms, wets and cleans it"
      ],
-     "a": 0,
+     "a": 2,
      "why": "The inside of your nose is wet and warm, with hairs and mucus that catch dust."
     },
     {
@@ -2524,10 +2524,10 @@
      "p": "A tulsi plant is next to you. What does she do with the air you breathe out?",
      "opts": [
       "She cannot use any gas from it",
-      "She uses the carbon dioxide in it",
-      "She uses all of it, so none is left"
+      "She uses all of it, so none is left",
+      "She uses the carbon dioxide in it"
      ],
-     "a": 1,
+     "a": 2,
      "why": "Plants take in carbon dioxide and use it, with sunlight and water, to build their bodies. They also use a little oxygen, but the gas they need from your out-breath is carbon dioxide."
     },
     {
@@ -2610,11 +2610,11 @@
      "t": "mcq",
      "p": "Meena stretches every day for a month and reaches 4 centimetres further. Which reply is best?",
      "opts": [
-      "Maybe longer muscles, maybe a braver stretch",
       "Her muscles must be longer. That is proven.",
-      "Stretching never changes anything."
+      "Stretching never changes anything.",
+      "Maybe longer muscles, maybe a braver stretch"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Scientists have measured both. The muscle may become longer, or the feeling of the stretch may change. Nobody has settled it."
     },
     {
@@ -2622,10 +2622,10 @@
      "p": "Which sentence about a yawn is true?",
      "opts": [
       "A yawn brings in extra oxygen",
-      "Scientists agree on why we yawn",
-      "Nobody is sure why we yawn"
+      "Nobody is sure why we yawn",
+      "Scientists agree on why we yawn"
      ],
-     "a": 2,
+     "a": 1,
      "why": "In 1987 Robert Provine gave people extra oxygen, and they yawned as often as before. So that idea failed, and no other idea is agreed."
     }
    ]
@@ -2636,11 +2636,11 @@
    "t": "mcq",
    "p": "A paper boat lies on your tummy. You breathe in. What does the boat do?",
    "opts": [
-    "It rises",
     "It sinks",
+    "It rises",
     "It stays still"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Your diaphragm pulls down and pushes your tummy out, so the boat rises. A child who says 'sinks' is thinking the tummy goes flat as air comes in.",
    "outcome": 0
   },
@@ -2668,10 +2668,10 @@
    "p": "Which one can your body do by itself and you can also do on purpose?",
    "opts": [
     "Your heart beating",
-    "Breathing",
-    "Digesting dinner"
+    "Digesting dinner",
+    "Breathing"
    ],
-   "a": 1,
+   "a": 2,
    "why": "You can slow, speed or hold your breath for a short time, and your body also does it for you. You cannot tell your heart to stop.",
    "outcome": 1
   },
@@ -2692,10 +2692,10 @@
    "p": "During a slow out-breath, what does your heartbeat do?",
    "opts": [
     "Speeds up a lot",
-    "Stays exactly the same",
-    "Slows down a little"
+    "Slows down a little",
+    "Stays exactly the same"
    ],
-   "a": 2,
+   "a": 1,
    "why": "In a healthy body the heartbeat speeds up a little on the in-breath and slows a little on the out-breath.",
    "outcome": 2
   },
@@ -2703,11 +2703,11 @@
    "t": "mcq",
    "p": "You sit and reach for your toes with straight legs. Where is the gentle pull?",
    "opts": [
-    "At the back of your legs",
     "In your arms",
-    "In your ears"
+    "In your ears",
+    "At the back of your legs"
    ],
-   "a": 0,
+   "a": 2,
    "why": "The muscles along the back of your legs are pulled long. That is where the stretch feels like a gentle pull.",
    "outcome": 3
   },
@@ -2715,11 +2715,11 @@
    "t": "mcq",
    "p": "Kiran stretches just after waking. Rani stretches after playing. Who reaches further?",
    "opts": [
-    "Kiran",
     "Rani, because her muscles are warm",
+    "Kiran",
     "Both the same, always"
    ],
-   "a": 1,
+   "a": 0,
    "why": "Warm muscles stretch more easily than cold ones. After waking, muscles are cooler and often stiffer.",
    "outcome": 3
   },
@@ -2763,11 +2763,11 @@
    "t": "mcq",
    "p": "You lie on your tummy and lift your chest a little. Which pose are you?",
    "opts": [
-    "Cobra",
     "Tree",
+    "Cobra",
     "Cat"
    ],
-   "a": 0,
+   "a": 1,
    "why": "The cobra pose is Bhujangasana, and many poses are named after beings.",
    "outcome": 5
   },
@@ -2776,10 +2776,10 @@
    "p": "Why does your body need rest as well as moving?",
    "opts": [
     "Moving is bad for you",
-    "Rest does nothing",
-    "Rest is when muscles mend"
+    "Rest is when muscles mend",
+    "Rest does nothing"
    ],
-   "a": 2,
+   "a": 1,
    "why": "Moving asks your muscles and bones to work and grow stronger. Rest is when the small wear is mended, while the heart and lungs go on working.",
    "outcome": 6
   },
@@ -2788,10 +2788,10 @@
    "p": "A friend says rest means doing nothing. What is a good reply?",
    "opts": [
     "Yes, the body stops",
-    "Your heart and lungs keep working while muscles mend",
-    "You must stay awake"
+    "You must stay awake",
+    "Your heart and lungs keep working while muscles mend"
    ],
-   "a": 1,
+   "a": 2,
    "why": "Even at rest the heart beats and the lungs fill. The body is busy mending.",
    "outcome": 6
   }

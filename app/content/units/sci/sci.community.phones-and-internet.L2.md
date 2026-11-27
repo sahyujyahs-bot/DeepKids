@@ -654,7 +654,7 @@ Meenakshi pushed the swing with her toe. Somewhere under the sea, she knew, flas
 2. (truefalse) True or false: if you delete a sent message, every copy is gone.  
    **Answer:** false. *Why:* Deleting removes only your own copy. A friend may have read it, saved it or taken a picture of the screen.
 3. (mcq) Which question helps most when checking a message?  
-   Options: Who is saying this, and how do they know? / How many people have forwarded it? / Is it written in capital letters?  
+   Options: How many people have forwarded it? / Is it written in capital letters? / Who is saying this, and how do they know?  
    **Answer:** Who is saying this, and how do they know?. *Why:* A person who saw or knows a thing is better than a thing that many people have passed on. Many forwards can mean only that it is surprising.
 4. (fill) A phone cuts a photo into small numbered pieces called ____.  
    **Answer:** packets. *Why:* Each packet has an address and a number, so the pieces can be put back in order.
@@ -669,18 +669,18 @@ Meenakshi pushed the swing with her toe. Somewhere under the sea, she knew, flas
 9. (perspective) Two views about screen time.  
    **Answer:** Answers vary. A strong answer sees that neither view is wrong. A family might use both a limit on hours and a judgement about what is done.. *Why:* Scientists still argue about how much harm screens do. Time and kind of use both seem to matter, so no view is marked right.
 10. (mcq) A game wants your address to 'unlock a prize'. What is the best thing to do?  
-   Options: Type it quickly / Ask a grown-up first / Type a made-up address  
+   Options: Type it quickly / Type a made-up address / Ask a grown-up first  
    **Answer:** Ask a grown-up first. *Why:* Most games do not need an address. A grown-up can say if the game is safe. Typing a made-up one still tells the game that you will hand over facts.
 ### Weighing words and sharing (challenge) (challenge, 10 questions)
 1. (mcq) A reader gets 2 of 6 right from a chit, 4 from a voice, 6 from a face. What does this suggest?  
-   Options: Voice and face add feeling that words lack / Kavya got better at acting each time / The reader was tired in round 1  
+   Options: Kavya got better at acting each time / Voice and face add feeling that words lack / The reader was tired in round 1  
    **Answer:** Voice and face add feeling that words lack. *Why:* The words stayed the same, so the rise suggests the voice and face added something. Acting and tiredness could matter too, which is why a second reader and a new list are used.
 2. (truefalse) True or false: a false story always travels slower than a true one.  
    **Answer:** false. *Why:* In a large study of a social site, false stories reached people faster than true ones, mainly because they felt new and surprising.
 3. (write) A stranger told your friend, 'Do not tell anyone or you will be in trouble.' What would you tell her?  
    **Answer:** A good answer says she should tell a trusted adult and keep the message. It says it is not her fault. It says a stranger who asks for secrecy is giving a clear warning.. *Why:* A person who wants a child to keep quiet does not want an adult to see. Telling is the strongest thing a child can do.
 4. (mcq) Anil's cousin dares him to share a classmate's embarrassing photo as a joke. What is right?  
-   Options: Share it. It is only a joke / Do not share it, and tell a trusted adult / Share it, then delete it in a minute  
+   Options: Do not share it, and tell a trusted adult / Share it. It is only a joke / Share it, then delete it in a minute  
    **Answer:** Do not share it, and tell a trusted adult. *Why:* Deleting your copy does not delete the copies already made. A joke that makes one person cry is bullying.
 5. (count) You send a photo to 3 cousins. Each sends it to 3 others. How many phones hold it, counting yours?  
    **Answer:** 13. *Why:* 1 phone + 3 cousins + 3 × 3 = 9 others. 1 + 3 + 9 = 13. Each round of forwarding multiplies the copies.
@@ -708,46 +708,46 @@ Meenakshi pushed the swing with her toe. Somewhere under the sea, she knew, flas
    Options: A thin wire runs from every phone / As radio waves that we cannot see / Her voice flies the whole way through the air  
    **Answer:** As radio waves that we cannot see. *Why:* Radio waves are light that our eyes cannot see, and they carry the signal to a tower. If you chose the wire, think about where the wire would be when you walk.
 3. (mcq) Which is the best description of the internet?  
-   Options: One huge computer in a city / A cloud in the sky / Many computers and phones joined together  
+   Options: One huge computer in a city / Many computers and phones joined together / A cloud in the sky  
    **Answer:** Many computers and phones joined together. *Why:* The internet is a network of many computers, joined by cables and radio waves. The word 'cloud' hides the real cables and buildings.
 4. (mcq) A phone cuts a big photo into pieces and numbers each piece. Why number them?  
-   Options: To put them back in order at the end / To make the photo smaller / To keep strangers out  
+   Options: To make the photo smaller / To put them back in order at the end / To keep strangers out  
    **Answer:** To put them back in order at the end. *Why:* Pieces may travel by different roads and arrive in a mixed order. The numbers let the phone build the photo again.
 5. (mcq) Rani types 'Okay.' and she is happy. Her friend reads it as cross. Why?  
-   Options: The reader cannot hear Rani's voice / The phone changed the word / Her friend was careless  
+   Options: The phone changed the word / The reader cannot hear Rani's voice / Her friend was careless  
    **Answer:** The reader cannot hear Rani's voice. *Why:* A typed word carries no tone. The reader has to guess the feeling, and guesses often miss. Blaming the friend skips the main point.
 6. (mcq) Which message is least likely to be read the wrong way?  
-   Options: A typed 'Fine.' / A voice note saying 'Fine!' warmly / A typed 'FINE'  
+   Options: A voice note saying 'Fine!' warmly / A typed 'Fine.' / A typed 'FINE'  
    **Answer:** A voice note saying 'Fine!' warmly. *Why:* A voice note carries the voice, so the reader hears the feeling. A typed word has none, and capital letters can sound angry.
 7. (mcq) Which of these is private information?  
    Options: Your favourite fruit / Your favourite song / Your home address  
    **Answer:** Your home address. *Why:* An address can lead a stranger to your door. A favourite fruit cannot lead anyone to you.
 8. (mcq) Who may know your password?  
-   Options: Your best friend / Your parent / A kind person in a game  
+   Options: Your best friend / A kind person in a game / Your parent  
    **Answer:** Your parent. *Why:* A password opens your account. A best friend today may not be one next month, and the password will still work.
 9. (mcq) A person in a game says, 'Keep this our secret.' What does this show?  
    Options: A good friend is speaking / It is a rule of the game / A sign to tell a trusted adult  
    **Answer:** A sign to tell a trusted adult. *Why:* A safe surprise, such as a birthday gift, is soon told. A secret that a stranger asks you to keep is a warning.
 10. (mcq) Which one is misuse of a device?  
-   Options: Reading your uncle's messages without asking / Calling your grandmother with a parent beside you / Putting a screen lock on a phone  
+   Options: Calling your grandmother with a parent beside you / Reading your uncle's messages without asking / Putting a screen lock on a phone  
    **Answer:** Reading your uncle's messages without asking. *Why:* Misuse means using a device to harm, to trick, to spy or without leave. A lock and a call with a parent are safe.
 11. (mcq) Why does deleting a sent message not take it fully back?  
-   Options: A copy may already be on another phone / Deleted messages come back on Tuesdays / Messages never leave the phone  
+   Options: Deleted messages come back on Tuesdays / A copy may already be on another phone / Messages never leave the phone  
    **Answer:** A copy may already be on another phone. *Why:* A sent message becomes a copy on someone else's device. Deleting removes only your own copy.
 12. (mcq) A scary picture arrives on a screen. Which first step is right?  
-   Options: Reply to ask who sent it / Delete it at once so that nobody sees / Stop, do not answer, keep it and tell an adult  
+   Options: Stop, do not answer, keep it and tell an adult / Reply to ask who sent it / Delete it at once so that nobody sees  
    **Answer:** Stop, do not answer, keep it and tell an adult. *Why:* The four steps keep you safe, and the adult needs to see the picture. Replying tells the sender that you are there.
 13. (mcq) Why should a child keep a scary message and not delete it?  
-   Options: The adult needs to see it / Deleted messages come back to scare you / The phone breaks if a message is deleted  
+   Options: Deleted messages come back to scare you / The phone breaks if a message is deleted / The adult needs to see it  
    **Answer:** The adult needs to see it. *Why:* The adult can use the message to find who sent it and to help. Deleting it hides the proof.
 14. (mcq) A message says, 'Send this to ten people now!' What is the best first step?  
-   Options: Send it quickly before it expires / Send it to ten people to be safe / Ask who says it and how they know  
+   Options: Ask who says it and how they know / Send it quickly before it expires / Send it to ten people to be safe  
    **Answer:** Ask who says it and how they know. *Why:* The two questions slow things down. A rush is a warning sign, and a few seconds of checking cost nothing.
 15. (mcq) A forwarded message says the school is closed tomorrow. What is the best check?  
    Options: Ask a teacher or the school / Count how many times it was forwarded / See if it has a nice picture  
    **Answer:** Ask a teacher or the school. *Why:* Many forwards do not make a thing true. The school knows. Asking the one who really knows is the best check.
 16. (mcq) A phone calls an ambulance and also carries a cruel message. What does that show?  
-   Options: Phones are bad / Phones are good / The same tool can help or harm, depending on how it is used  
+   Options: The same tool can help or harm, depending on how it is used / Phones are bad / Phones are good  
    **Answer:** The same tool can help or harm, depending on how it is used. *Why:* A tool has no side. Its use decides what it does, and who has one decides who gets the help.
 
 ## Applications

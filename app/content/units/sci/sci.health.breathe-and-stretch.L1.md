@@ -672,7 +672,7 @@ Somewhere in the middle she stopped trying. She was asleep. And her breath went 
 ## Worksheets
 ### Breath and Stretch (core) (core, 11 questions)
 1. (mcq) You hold your breath. After a few seconds, what does your body do?  
-   Options: It makes you breathe again / It stops breathing for good / It falls asleep  
+   Options: It stops breathing for good / It falls asleep / It makes you breathe again  
    **Answer:** It makes you breathe again. *Why:* Your body asks for air and takes over again. Breathing goes on by itself, and you can only step in for a short time.
 2. (truefalse) You can tell your heart to stop for a moment, just like your breath.  
    **Answer:** False. *Why:* False. You can change your breath on purpose for a short time. You cannot tell your heart to stop, so breath works both ways and the heart does not.
@@ -689,16 +689,16 @@ Somewhere in the middle she stopped trying. She was asleep. And her breath went 
 8. (draw) Draw yourself breathing in. Show with arrows where the air goes.  
    **Answer:** A child with arrows going in at the nose and down into two lung shapes in the chest.. *Why:* A strong drawing shows the air going into the lungs in the chest, and not into the tummy.
 9. (mcq) Which of these stretch when they wake up?  
-   Options: Only people / Only cats / Dogs, cats, birds and people  
+   Options: Dogs, cats, birds and people / Only people / Only cats  
    **Answer:** Dogs, cats, birds and people. *Why:* Many animals with backbones stretch after resting, and nobody taught them. People do too.
 10. (perspective) Two friends talk about breathing.  
    **Answer:** No single right answer. Breathing is both.. *Why:* Both friends are partly right. Your body breathes by itself, and you can also change it. Where the one stops and the other starts is hard to say.
 11. (mcq) Which is a good warm-up before a stretch?  
-   Options: Sitting still for a long time / Walking about for a few minutes / Holding your breath  
+   Options: Sitting still for a long time / Holding your breath / Walking about for a few minutes  
    **Answer:** Walking about for a few minutes. *Why:* Warm muscles stretch more easily than cold ones. Walking about warms them.
 ### Breath, Heart and Muscles (stretch) (stretch, 10 questions)
 1. (mcq) What does your nose do to the air before it reaches your lungs?  
-   Options: It warms, wets and cleans it / It makes it colder / It turns it into water  
+   Options: It makes it colder / It turns it into water / It warms, wets and cleans it  
    **Answer:** It warms, wets and cleans it. *Why:* The inside of your nose is wet and warm, with hairs and mucus that catch dust.
 2. (truefalse) Bouncing in a stretch helps you reach further.  
    **Answer:** False. *Why:* False. Bouncing makes the muscle sensors tighten the muscle again. It does not help you reach further, and it can hurt.
@@ -728,7 +728,7 @@ Somewhere in the middle she stopped trying. She was asleep. And her breath went 
 3. (count) A child takes 20 breaths a minute. About how many breaths in one hour?  
    **Answer:** 1,200. *Why:* There are 60 minutes in an hour. 20 × 60 = 1,200 breaths.
 4. (mcq) A tulsi plant is next to you. What does she do with the air you breathe out?  
-   Options: She cannot use any gas from it / She uses the carbon dioxide in it / She uses all of it, so none is left  
+   Options: She cannot use any gas from it / She uses all of it, so none is left / She uses the carbon dioxide in it  
    **Answer:** She uses the carbon dioxide in it. *Why:* Plants take in carbon dioxide and use it, with sunlight and water, to build their bodies. They also use a little oxygen, but the gas they need from your out-breath is carbon dioxide.
 5. (sort) Match each being to the way she gets air.  
    **Answer:** A dolphin → Lungs; A fish → Gills; An earthworm → Damp skin; An ant → Tiny air tubes; A cow → Lungs. *Why:* Every animal needs to swap gases with the air or water. Bodies do it in different ways.
@@ -741,10 +741,10 @@ Somewhere in the middle she stopped trying. She was asleep. And her breath went 
 9. (perspective) What does a raider need most in kabaddi?  
    **Answer:** No single right answer. All three matter.. *Why:* A raider uses speed to get across, strength to twist away, and breath to keep chanting. Which matters most depends on the game. Players and coaches disagree.
 10. (mcq) Meena stretches every day for a month and reaches 4 centimetres further. Which reply is best?  
-   Options: Maybe longer muscles, maybe a braver stretch / Her muscles must be longer. That is proven. / Stretching never changes anything.  
+   Options: Her muscles must be longer. That is proven. / Stretching never changes anything. / Maybe longer muscles, maybe a braver stretch  
    **Answer:** Maybe longer muscles, maybe a braver stretch. *Why:* Scientists have measured both. The muscle may become longer, or the feeling of the stretch may change. Nobody has settled it.
 11. (mcq) Which sentence about a yawn is true?  
-   Options: A yawn brings in extra oxygen / Scientists agree on why we yawn / Nobody is sure why we yawn  
+   Options: A yawn brings in extra oxygen / Nobody is sure why we yawn / Scientists agree on why we yawn  
    **Answer:** Nobody is sure why we yawn. *Why:* In 1987 Robert Provine gave people extra oxygen, and they yawned as often as before. So that idea failed, and no other idea is agreed.
 
 ## Videos
@@ -754,7 +754,7 @@ Somewhere in the middle she stopped trying. She was asleep. And her breath went 
 
 ## Quiz
 1. (mcq) A paper boat lies on your tummy. You breathe in. What does the boat do?  
-   Options: It rises / It sinks / It stays still  
+   Options: It sinks / It rises / It stays still  
    **Answer:** It rises. *Why:* Your diaphragm pulls down and pushes your tummy out, so the boat rises. A child who says 'sinks' is thinking the tummy goes flat as air comes in.
 2. (truefalse) When your tummy rises as you breathe in, the air goes into your tummy.  
    **Answer:** False. *Why:* False. The air goes into your lungs in your chest. The tummy rises because the diaphragm pushes it out of the way.
@@ -762,19 +762,19 @@ Somewhere in the middle she stopped trying. She was asleep. And her breath went 
    Options: Only you, by choosing each breath / Nobody, so breathing stops until you wake / A small part of your brain, without you choosing  
    **Answer:** A small part of your brain, without you choosing. *Why:* A small part of the brain sends the signal for every breath, asleep or awake. You can also step in and change your breath when you are awake.
 4. (mcq) Which one can your body do by itself and you can also do on purpose?  
-   Options: Your heart beating / Breathing / Digesting dinner  
+   Options: Your heart beating / Digesting dinner / Breathing  
    **Answer:** Breathing. *Why:* You can slow, speed or hold your breath for a short time, and your body also does it for you. You cannot tell your heart to stop.
 5. (mcq) You feel cross. You breathe out slowly five times. What is most likely?  
    Options: You feel a bit calmer, though not everyone does / You will always feel completely calm / Nothing at all happens inside you  
    **Answer:** You feel a bit calmer, though not everyone does. *Why:* Many people feel calmer after slow breathing, and the heartbeat slows a little. It does not work for everyone every time. Scientists still argue about why.
 6. (mcq) During a slow out-breath, what does your heartbeat do?  
-   Options: Speeds up a lot / Stays exactly the same / Slows down a little  
+   Options: Speeds up a lot / Slows down a little / Stays exactly the same  
    **Answer:** Slows down a little. *Why:* In a healthy body the heartbeat speeds up a little on the in-breath and slows a little on the out-breath.
 7. (mcq) You sit and reach for your toes with straight legs. Where is the gentle pull?  
-   Options: At the back of your legs / In your arms / In your ears  
+   Options: In your arms / In your ears / At the back of your legs  
    **Answer:** At the back of your legs. *Why:* The muscles along the back of your legs are pulled long. That is where the stretch feels like a gentle pull.
 8. (mcq) Kiran stretches just after waking. Rani stretches after playing. Who reaches further?  
-   Options: Kiran / Rani, because her muscles are warm / Both the same, always  
+   Options: Rani, because her muscles are warm / Kiran / Both the same, always  
    **Answer:** Rani, because her muscles are warm. *Why:* Warm muscles stretch more easily than cold ones. After waking, muscles are cooler and often stiffer.
 9. (mcq) You feel a sharp pinch in a stretch. What do you do?  
    Options: Push harder / Hold on and count to twenty / Come back a little  
@@ -786,13 +786,13 @@ Somewhere in the middle she stopped trying. She was asleep. And her breath went 
    Options: That she is very strong / That she is tired / That she has not taken a new breath  
    **Answer:** That she has not taken a new breath. *Why:* If she stops chanting, it means she has taken a breath, and the raid is over.
 12. (mcq) You lie on your tummy and lift your chest a little. Which pose are you?  
-   Options: Cobra / Tree / Cat  
+   Options: Tree / Cobra / Cat  
    **Answer:** Cobra. *Why:* The cobra pose is Bhujangasana, and many poses are named after beings.
 13. (mcq) Why does your body need rest as well as moving?  
-   Options: Moving is bad for you / Rest does nothing / Rest is when muscles mend  
+   Options: Moving is bad for you / Rest is when muscles mend / Rest does nothing  
    **Answer:** Rest is when muscles mend. *Why:* Moving asks your muscles and bones to work and grow stronger. Rest is when the small wear is mended, while the heart and lungs go on working.
 14. (mcq) A friend says rest means doing nothing. What is a good reply?  
-   Options: Yes, the body stops / Your heart and lungs keep working while muscles mend / You must stay awake  
+   Options: Yes, the body stops / You must stay awake / Your heart and lungs keep working while muscles mend  
    **Answer:** Your heart and lungs keep working while muscles mend. *Why:* Even at rest the heart beats and the lungs fill. The body is busy mending.
 
 ## Applications

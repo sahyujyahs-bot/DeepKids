@@ -813,7 +813,7 @@ Rosy chechi looked at the water for a while. 'I have never met one,' she said. '
 10. (perspective) Is a book on a table 'doing nothing'?  
    **Answer:** Answers vary. A strong answer says both descriptions give the same prediction. The first stresses what is going on, and the second stresses what can be calculated.. *Why:* Both views agree that the forces add to zero. They differ on whether the words 'holding' and 'keeping' describe something that is going on. No view is marked right.
 11. (mcq) A coin and a flat sheet of paper are dropped. The coin lands first. Which is the best reason?  
-   Options: Gravity does not pull on paper / Heavy things always fall faster, even without air / Air pushes back much harder on the sheet for its weight  
+   Options: Air pushes back much harder on the sheet for its weight / Gravity does not pull on paper / Heavy things always fall faster, even without air  
    **Answer:** Air pushes back much harder on the sheet for its weight. *Why:* The sheet has a big area for its weight, so the push of the air balances its weight at a low speed. Gravity pulls on both. Without air they would land together.
 12. (count) In a tug of war, nobody moves. The red team pulls with 1,500 newtons. How hard does the blue team pull?  
    **Answer:** 1500. *Why:* The rope is not moving, so the forces on it are balanced. The blue team must pull with 1,500 newtons as well.
@@ -822,7 +822,7 @@ Rosy chechi looked at the water for a while. 'I have never met one,' she said. '
 14. (odd) Which is the odd one out, and why? Gravity, magnetic force, tension, electric force.  
    **Answer:** Tension, because it needs a tight rope in contact. The other three act across a gap.. *Why:* Gravity, magnetic force and the electric force can pull on a thing that is not touching them. A rope's tension acts only through the rope itself.
 15. (mcq) The biceps is a muscle in the upper arm. Which is true of every muscle?  
-   Options: It can push and pull / It can only pull / It can only push  
+   Options: It can only pull / It can push and pull / It can only push  
    **Answer:** It can only pull. *Why:* A muscle shortens, and so pulls on what it is joined to. The arm needs one muscle to bend it and another to straighten it.
 16. (label) Label the forces on a kite held steady in the sky.  
    **Answer:** ['pull of the string: down and towards the flier, along the string', 'weight of the kite: straight down', 'push of the wind: up and away from the flier, against the kite']. *Why:* The kite is held steady, so the three forces balance. The string and the weight both pull partly downward, and the wind pushes up and away from the flier to cancel them.
@@ -849,7 +849,7 @@ Rosy chechi looked at the water for a while. 'I have never met one,' she said. '
 10. (perspective) Gravity: a pull, or a bend in space and time?  
    **Answer:** Answers vary. A strong answer says both predict an everyday fall equally well, and that Einstein's picture is needed for the very exact timing in satellite navigation. No view is marked right, because physicists use both and have no theory that joins gravity with tiny particles.. *Why:* Newton's rule is a very good description for everyday life. Einstein's gives better answers in extreme cases. Neither says what gravity finally is.
 11. (mcq) A magnet stays on a fridge door and does not slide down. Which force holds it up?  
-   Options: Friction between the magnet and the door / The magnetic pull, which points up / Gravity, which points up near a magnet  
+   Options: The magnetic pull, which points up / Gravity, which points up near a magnet / Friction between the magnet and the door  
    **Answer:** Friction between the magnet and the door. *Why:* The magnet's pull points into the door, not up. That pull presses the magnet to the door, and the grip of friction along the door holds the magnet up against its weight.
 12. (mcq) Which force is behind the push of a table on a book?  
    Options: The electromagnetic force between atoms / Gravity between the table and the book / A force inside the centres of atoms  
@@ -864,7 +864,7 @@ Rosy chechi looked at the water for a while. 'I have never met one,' she said. '
    **Answer:** ['pivot: the elbow', 'where the biceps joins: about 4 centimetres from the elbow, on the forearm', 'bottle: about 30 centimetres from the elbow, in the hand']. *Why:* The bottle is far from the pivot and the muscle joins near it. That is why the muscle has to pull many times harder than the bottle weighs.
 ### Faulty reasoning and open questions about forces (challenge) (challenge, 15 questions)
 1. (mcq) An astronaut says, 'There is no gravity in my station, because I float.' What is wrong?  
-   Options: Nothing. Floating shows gravity is zero / Gravity is strong there. She floats because she falls with the station / The station is too heavy to be pulled  
+   Options: Nothing. Floating shows gravity is zero / The station is too heavy to be pulled / Gravity is strong there. She floats because she falls with the station  
    **Answer:** Gravity is strong there. She floats because she falls with the station. *Why:* At 400 kilometres, gravity is still about nine-tenths of the ground value. Floating means no floor is pushing on her, not that nothing is pulling her.
 2. (truefalse) A scale under your feet in a lift that is falling freely would read zero.  
    **Answer:** True. *Why:* True. The lift and you fall together, so the floor does not push on you. The scale measures that push, not the Earth's pull.
@@ -880,7 +880,7 @@ Rosy chechi looked at the water for a while. 'I have never met one,' she said. '
 7. (write) A heavier skydiver falls faster than a lighter one under the same kind of parachute. Use forces to explain why.  
    **Answer:** The heavier skydiver has a greater weight, so the push of the air must grow bigger to match it. The push grows with speed, so the steady speed is higher.. *Why:* A strong answer says the steady speed is the one at which the air's push equals the weight. A bigger weight needs a bigger push, and so a faster fall.
 8. (mcq) A skydiver spreads her arms and legs wide. What happens to the steady falling speed?  
-   Options: It gets lower, because the air has more to push on / It gets higher, because she is bigger / It stays the same, because her weight is the same  
+   Options: It gets higher, because she is bigger / It stays the same, because her weight is the same / It gets lower, because the air has more to push on  
    **Answer:** It gets lower, because the air has more to push on. *Why:* The same weight is now met by the air's push at a lower speed, because there is more area to push on. Many skydivers use this to slow down.
 9. (perspective) When a root turns downward in the cup, is the root deciding or being moved?  
    **Answer:** Answers vary. A strong answer says the facts seen in the cup are the same under both descriptions. It also suggests a test, such as putting water on one side while gravity points the other way. No view is marked right.. *Why:* Both agree that the root senses gravity and that its turn is not random. They differ on whether the word 'deciding' fits, which is a question about thinking and not about the measurements.
@@ -891,7 +891,7 @@ Rosy chechi looked at the water for a while. 'I have never met one,' she said. '
 12. (match) Match each odd observation to the force that explains it.  
    **Answer:** a steel katori floats when set down gently → upthrust equals its weight; a root turns down in a cup on its side → the pull of the Earth, sensed by the root; a rubbed balloon sticks to a wall → the static electric force; a fridge magnet holds a paper in place → magnetic force and friction. *Why:* Each observation points to a force that a diagram would show. A force explains a change or a balance.
 13. (mcq) Newton's rule and Einstein's picture of gravity predict the same fall of a ball. What does this tell us?  
-   Options: Newton was wrong, so his rule is useless / A description can work very well without being the last word / Einstein must be wrong, because Newton's rule is simpler  
+   Options: A description can work very well without being the last word / Newton was wrong, so his rule is useless / Einstein must be wrong, because Newton's rule is simpler  
    **Answer:** A description can work very well without being the last word. *Why:* Two different pictures can give the same prediction. Scientists keep both, and keep asking what gravity finally is.
 14. (count) A 50 newton box slides at a steady speed under a 15 newton push. How many newtons of friction act on it?  
    **Answer:** 15. *Why:* At a steady speed the forces along the floor are balanced, so friction equals the push, which is 15 newtons.
@@ -905,13 +905,13 @@ Rosy chechi looked at the water for a while. 'I have never met one,' she said. '
 
 ## Quiz
 1. (mcq) A lamp hangs still from a chain. Which forces act on the lamp?  
-   Options: Only the Earth pulls, because the lamp is not moving / The chain pulls up and the Earth pulls down / The chain pulls up and nothing pulls down / A force pushes it down from the ceiling  
+   Options: Only the Earth pulls, because the lamp is not moving / The chain pulls up and nothing pulls down / The chain pulls up and the Earth pulls down / A force pushes it down from the ceiling  
    **Answer:** The chain pulls up and the Earth pulls down. *Why:* Pick one thing and ask what touches it and what pulls it from far. The chain touches it and pulls up. The Earth pulls down from a distance. If you chose only gravity, you forgot that a still thing needs an upward force from something touching it.
 2. (mcq) Which is true of a rope or a string?  
    Options: It can push and pull equally well / It pulls only when it hangs loose / It can pull, but it cannot push / It pushes when it is wet  
    **Answer:** It can pull, but it cannot push. *Why:* A rope pulls along its length when it is tight, and a slack rope does nothing. If you chose pushing, try pushing a thread across a table: it just folds.
 3. (mcq) Astronauts in a station 400 kilometres up float. What is the reason?  
-   Options: They fall with the station, so no floor pushes on them / There is no gravity so high up / The station's walls block the Earth's pull / They are too far from the Earth to be pulled at all  
+   Options: There is no gravity so high up / They fall with the station, so no floor pushes on them / The station's walls block the Earth's pull / They are too far from the Earth to be pulled at all  
    **Answer:** They fall with the station, so no floor pushes on them. *Why:* At that height gravity is still about nine-tenths as strong as in your room. They float because they and the station fall together and the floor does not push on their feet. Choosing 'no gravity' mixes up a missing push with a missing pull.
 4. (mcq) A steel katori floats, but a steel spoon sinks. Which is the best reason?  
    Options: The steel in a katori weighs less than steel in a spoon / Water pushes up only on bowls / A spoon is too small for water to push on / Its hollow shape pushes aside enough water to hold it up  
@@ -920,30 +920,30 @@ Rosy chechi looked at the water for a while. 'I have never met one,' she said. '
    Options: 20 newtons / 10 newtons / 0 newtons, because the bag is not moving  
    **Answer:** 20 newtons. *Why:* The bag is still, so the forces are balanced and the down pull must equal the up pull, which is 20 newtons. Choosing 0 treats 'not moving' as 'no force'. Choosing 10 has no reason behind it.
 6. (mcq) A cyclist keeps a steady speed on a flat road. What is true of the forces along the road?  
-   Options: The forward force must be bigger, or she would stop / No force acts on her, because the speed is steady / Forward force equals backward force, so her speed stays the same  
+   Options: Forward force equals backward force, so her speed stays the same / The forward force must be bigger, or she would stop / No force acts on her, because the speed is steady  
    **Answer:** Forward force equals backward force, so her speed stays the same. *Why:* Balanced forces mean no change in speed, and a steady speed is a kind of 'no change'. A bigger forward force would make her speed up. A cycle slows after you stop pedalling because friction and air still push backward.
 7. (mcq) A ball is thrown straight up. At the very top, it is not moving for an instant. Is a force on it?  
-   Options: Yes. Gravity still pulls it down, and it starts to fall / No, a still thing has no force on it / Yes, the push of the throw is still on it  
+   Options: No, a still thing has no force on it / Yes. Gravity still pulls it down, and it starts to fall / Yes, the push of the throw is still on it  
    **Answer:** Yes. Gravity still pulls it down, and it starts to fall. *Why:* Gravity never switches off. At the top, the ball's speed is zero for an instant, and the pull down is not balanced, so it speeds up downward. If you chose the push of the throw, that push ended when the ball left the hand.
 8. (mcq) Which force diagram shows a book resting on a table?  
-   Options: One long arrow down only / Two arrows of the same length, one down and one up / One arrow up only / A long arrow down and a short arrow up  
+   Options: One long arrow down only / One arrow up only / Two arrows of the same length, one down and one up / A long arrow down and a short arrow up  
    **Answer:** Two arrows of the same length, one down and one up. *Why:* The book is still, so the arrows must cancel. The weight down and the support force up are equal. A long arrow down with a short one up would show a book that is sinking through the table.
 9. (mcq) What does a force diagram of a kite show?  
-   Options: The kite and the person, with arrows for both / One arrow for the biggest force only / The kite alone, with one arrow for each force on it  
+   Options: The kite and the person, with arrows for both / The kite alone, with one arrow for each force on it / One arrow for the biggest force only  
    **Answer:** The kite alone, with one arrow for each force on it. *Why:* A force diagram draws one thing alone, so you can see everything that pushes or pulls it. Drawing the person too mixes up forces on different things. Drawing only the biggest force hides the ones that balance it.
 10. (mcq) Four paper cones pressed together fall far less than four times as fast as one cone. Why?  
    Options: Cones cannot fall faster than one cone / The air pushes four times harder on the stack at any speed / Gravity pulls the stack only twice as hard / The air's push grows faster than the speed, so twice the speed is enough  
    **Answer:** The air's push grows faster than the speed, so twice the speed is enough. *Why:* A thing stops speeding up when the push of the air equals its weight. Double the speed gives about four times the push, so four times the weight is matched at about twice the speed. If you chose gravity, remember that four cones are pulled four times as hard.
 11. (mcq) In a room with air, a hammer beats a feather to the floor. What happens with no air?  
-   Options: They would land together / The hammer would still land first because it is heavier / The feather would land first because it is lighter  
+   Options: The hammer would still land first because it is heavier / The feather would land first because it is lighter / They would land together  
    **Answer:** They would land together. *Why:* The feather is held back by the push of the air, which is big for its weight. With no air there is only gravity, and everything falls at the same rate. On the Moon in 1971 the astronaut David Scott showed this.
 12. (truefalse) A large raindrop keeps speeding up all the way down from the cloud.  
    **Answer:** False. *Why:* False. The push of the air grows as the drop speeds up, until it equals the drop's weight. Then the drop falls at a steady speed of about 9 metres each second.
 13. (mcq) Why does your biceps pull about 8 times as hard as the bottle weighs?  
-   Options: It is about 8 times stronger than other muscles / A muscle pushes as well as pulls, so it does double work / It joins close to the elbow, but the bottle is far away / Pulling up always takes eight times the force  
+   Options: It is about 8 times stronger than other muscles / A muscle pushes as well as pulls, so it does double work / Pulling up always takes eight times the force / It joins close to the elbow, but the bottle is far away  
    **Answer:** It joins close to the elbow, but the bottle is far away. *Why:* The forearm is a lever with the elbow as its pivot. A pull close to the pivot must be much bigger to balance a load far from it. The muscle is not special, but its position gives it a big job.
 14. (mcq) Which of these is, underneath, the same force as a magnet's pull?  
-   Options: The pull of the Earth on a mango / The grip of a chappal on the road / The pull of the Sun on the Earth / Nothing is the same as a magnet's pull  
+   Options: The pull of the Earth on a mango / The pull of the Sun on the Earth / Nothing is the same as a magnet's pull / The grip of a chappal on the road  
    **Answer:** The grip of a chappal on the road. *Why:* Friction, tension, the push of a table and a muscle's pull all come from the electromagnetic force between atoms. That force also gives a magnet's pull. Gravity is a separate force.
 15. (mcq) Which of these does nobody yet know?  
    Options: Whether gravity can be joined with the physics of tiny particles / How hard the Earth pulls a 1 kilogram bag / Whether a magnet pulls steel / Whether a table pushes up on a book  

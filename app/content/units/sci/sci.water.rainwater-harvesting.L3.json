@@ -3062,11 +3062,11 @@
      "t": "mcq",
      "p": "Which part of a rooftop system is the channel along the roof's edge?",
      "opts": [
+      "The gutter",
       "The filter",
-      "The first-flush",
-      "The gutter"
+      "The first-flush"
      ],
-     "a": 2,
+     "a": 0,
      "why": "The gutter leads water from the roof to the pipe. The first-flush throws away the dirtiest water and the filter holds back dirt.",
      "outcome": 2
     },
@@ -3183,11 +3183,11 @@
      "t": "mcq",
      "p": "Where is it best to dig a recharge pit?",
      "opts": [
-      "In sand or coarse soil",
       "On solid rock near the surface",
-      "On flat wet clay"
+      "On flat wet clay",
+      "In sand or coarse soil"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Water sinks quickly through sand. Clay and solid rock block it, so a pit must go down through clay to a layer that lets water in.",
      "outcome": 3
     },
@@ -3266,11 +3266,11 @@
      "t": "mcq",
      "p": "Water moves through sand about a metre a day, and through clay a few centimetres a year. What follows for recharge pits?",
      "opts": [
-      "Dig the pit down through the clay",
       "Clay is the best place for a pit",
-      "Sand cannot hold any water"
+      "Sand cannot hold any water",
+      "Dig the pit down through the clay"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Water cannot easily pass clay, so a pit must go below it. Sand lets water in and holds it in its gaps.",
      "outcome": 3
     },
@@ -3399,10 +3399,10 @@
      "p": "Why does a wide, shallow pond lose a bigger share of its water to the sun than a deep one?",
      "opts": [
       "Deep water is colder",
-      "Shallow water is heavier",
-      "A wide pond has more surface in the air for its size"
+      "A wide pond has more surface in the air for its size",
+      "Shallow water is heavier"
      ],
-     "a": 2,
+     "a": 1,
      "why": "Evaporation happens at the surface, where water meets the air. A wide, shallow pond has a large surface for its volume.",
      "outcome": 2
     },
@@ -3438,10 +3438,10 @@
      "p": "A friend says a 100 square metre roof with 1,000 millimetres of rain can catch all 1,00,000 litres. What is wrong?",
      "opts": [
       "Nothing is wrong",
-      "Some water splashes, dries or overflows, so less can be caught",
-      "The roof gets only 10,000 litres"
+      "The roof gets only 10,000 litres",
+      "Some water splashes, dries or overflows, so less can be caught"
      ],
-     "a": 1,
+     "a": 2,
      "why": "The sum of 100,000 litres is right for the water that lands. But some splashes away, dries off or overflows a full tank, so about four-fifths can be caught.",
      "outcome": 1
     },
@@ -3568,12 +3568,12 @@
      "t": "mcq",
      "p": "Which question about catching rain is still argued over by scientists?",
      "opts": [
+      "How much does catching rain upstream reduce the flow downstream?",
       "Does 1 millimetre on 1 square metre make 1 litre?",
       "Is the water table the top of the wet ground?",
-      "Do roofs catch rain?",
-      "How much does catching rain upstream reduce the flow downstream?"
+      "Do roofs catch rain?"
      ],
-     "a": 3,
+     "a": 0,
      "why": "The first three have clear answers. How much upstream works reduce the water downstream depends on the river basin, and scientists disagree about it.",
      "outcome": 6
     },
@@ -3604,10 +3604,10 @@
    "p": "Most of a place's yearly rain falls in a few months. What is a good reason to catch it?",
    "opts": [
     "Catching rain makes more rain fall",
-    "Rain left alone is always dirty",
-    "It can be used in the dry months that follow"
+    "It can be used in the dry months that follow",
+    "Rain left alone is always dirty"
    ],
-   "a": 2,
+   "a": 1,
    "why": "Rain comes in a short season and the dry months are long. Catching it moves water through time. Rain does not fall more because we catch it, and rain is not always dirty.",
    "outcome": 0
   },
@@ -3641,10 +3641,10 @@
    "p": "After a long dry spell, a rain tank is built so that the first rain is thrown away. Why?",
    "opts": [
     "The first rain is the heaviest",
-    "It washes dust and droppings off the roof",
-    "It is saltier than later rain"
+    "It is saltier than later rain",
+    "It washes dust and droppings off the roof"
    ],
-   "a": 1,
+   "a": 2,
    "why": "A dry roof collects dust, leaves and bird droppings. The first rain carries most of it. The first-flush lets that dirty water go before the cleaner water reaches the filter.",
    "outcome": 2
   },
@@ -3653,10 +3653,10 @@
    "p": "A cloth, sand and gravel filter is fitted to a roof tank. What can it not do on its own?",
    "opts": [
     "Hold back leaves and dust",
-    "Make the water look clearer",
-    "Make the water surely safe to drink"
+    "Make the water surely safe to drink",
+    "Make the water look clearer"
    ],
-   "a": 2,
+   "a": 1,
    "why": "A filter holds back dirt but germs and some chemicals pass through. Stored rain is boiled or filtered further before drinking. Holding back dirt and clearing the water are things a filter does.",
    "outcome": 2
   },
@@ -3664,11 +3664,11 @@
    "t": "mcq",
    "p": "A cup of water vanishes into pot soil in seconds, but sits on flat wet clay. Why?",
    "opts": [
-    "Soil has gaps that join up, but clay packs tight",
     "Clay is warmer than soil",
+    "Soil has gaps that join up, but clay packs tight",
     "Clay is heavier than water"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Water moves through the gaps between grains. Soil and sand have gaps that join up. Clay is made of tiny flat flakes that pack tight and leave almost no path.",
    "outcome": 3
   },
@@ -3677,10 +3677,10 @@
    "p": "A village digs a recharge pit and the open well beside it fills. What changed underground?",
    "opts": [
     "A pipe carried the water straight to the well",
-    "The water table rose, so the well's water rose too",
-    "The well grew wider"
+    "The well grew wider",
+    "The water table rose, so the well's water rose too"
    ],
-   "a": 1,
+   "a": 2,
    "why": "Rain led into the ground fills more gaps and the water table rises. A well is a hole down to the water table, so its water rises with it. Nothing needs a pipe between the pit and the well.",
    "outcome": 3
   },
@@ -3689,11 +3689,11 @@
    "p": "In many districts, more groundwater is pumped each year than rain puts back. What follows?",
    "opts": [
     "Wells fill to the top",
+    "The water table falls and wells go dry or must go deeper",
     "The rain falls more heavily",
-    "The water table stays the same",
-    "The water table falls and wells go dry or must go deeper"
+    "The water table stays the same"
    ],
-   "a": 3,
+   "a": 1,
    "why": "Water leaves the ground faster than it comes in, so the water table falls. Shallow wells go dry and new ones are drilled deeper. Harvesting only helps if less is taken out than goes in.",
    "outcome": 3
   },
@@ -3713,11 +3713,11 @@
    "t": "mcq",
    "p": "A Thar village gets 200 millimetres of rain a year in a few storms. Which method suits it best?",
    "opts": [
-    "A chain of tanks feeding paddy fields",
     "A covered underground tank with a sloping catchment",
+    "A chain of tanks feeding paddy fields",
     "Bamboo pipes along a hillside"
    ],
-   "a": 1,
+   "a": 0,
    "why": "Where rain is rare, every storm must be kept, and a covered tank loses almost nothing to the sun. A chain of tanks suits a longer rainy season. Bamboo pipes suit steep, wet hills.",
    "outcome": 4
   },
@@ -3738,10 +3738,10 @@
    "p": "Sand, soil and flat dough are tested in funnels with one cup each. What makes the test fair?",
    "opts": [
     "Use less water on the dough",
-    "Pour the dough's water faster",
-    "Same depth, cloth and cup each time, repeated"
+    "Same depth, cloth and cup each time, repeated",
+    "Pour the dough's water faster"
    ],
-   "a": 2,
+   "a": 1,
    "why": "A fair test changes only the ground. Different amounts or speeds would change two things at once. Repeating shows that one try was not a fluke.",
    "outcome": 5
   },
@@ -3773,11 +3773,11 @@
    "t": "mcq",
    "p": "A village tank is shared by many households. Which is true of any shared tank?",
    "opts": [
-    "It needs no rules if the water is plentiful",
     "It needs rules for use and for care",
+    "It needs no rules if the water is plentiful",
     "Only the largest household needs rules"
    ],
-   "a": 1,
+   "a": 0,
    "why": "A shared store is a commons. The old tanks lasted because a village committee agreed on who looked after them, and some tanks were kept from some people. Rules about use and care decide whether a commons lasts and who it serves.",
    "outcome": 6
   }

@@ -704,7 +704,7 @@ Selvi kept looking at the bulb. Was this light from the coal, or from the wind t
 4. (truefalse) Most oil was made from the bodies of dinosaurs.  
    **Answer:** False. *Why:* False. Most oil came from tiny sea beings, too small to see without a microscope, who sank and were buried in mud long ago.
 5. (mcq) Both bowls start with 20 beans. Each round, 5 are taken from each. Only Bowl B gets 3 back. Which empties first?  
-   Options: Bowl B / They empty together / Bowl A  
+   Options: Bowl B / Bowl A / They empty together  
    **Answer:** Bowl A. *Why:* Bowl A has nothing added, so it loses 5 each round and is empty in round 4. Bowl B loses 5 and gains 3, so it falls by 2 each round. It is empty in round 10. Adding helped Bowl B, but not enough.
 6. (write) A village says its forest is renewable, so it can cut as many trees as it likes. What would you ask them?  
    **Answer:** How many trees grow back each year, and how many are cut. If the cutting is faster than the growing, the forest shrinks, however renewable the wood is.. *Why:* A strong answer asks about both speeds. Renewable means that nature makes the source again, and it holds only while the taking is slower than the giving back.
@@ -716,7 +716,7 @@ Selvi kept looking at the bulb. Was this light from the coal, or from the wind t
    Options: Wind / Rain on the hills / A hot spring in the Puga valley / Firewood  
    **Answer:** 2. *Why:* Wind, rain and firewood all come from the Sun's work. The hot spring in the Puga valley in Ladakh is heated by the inside of the Earth.
 10. (mcq) Which is a real cost of a big dam?  
-   Options: It adds a lot of soot to the air / It floods land, and people and other animals lose their homes / It uses up the river for ever  
+   Options: It adds a lot of soot to the air / It uses up the river for ever / It floods land, and people and other animals lose their homes  
    **Answer:** It floods land, and people and other animals lose their homes. *Why:* A dam holds back water, so a valley behind it is flooded. Families, forests and fields can be lost. A dam does not burn anything, so it gives out no soot, and the river keeps flowing, though changed.
 11. (write) A friend says that renewable means harmless. Give one example that shows this is not always true.  
    **Answer:** A big dam drowns a valley and blocks fish. Wind turbines can hurt birds, such as great Indian bustards that fly into power lines. Solar parks need a lot of land.. *Why:* A good answer names a real cost, such as a drowned valley or a bird killed on a power line. Every way of collecting energy changes the land, the water or the lives nearby.
@@ -731,7 +731,7 @@ Selvi kept looking at the bulb. Was this light from the coal, or from the wind t
    **Answer:** 400. *Why:* 50 watts times 8 hours is 400 watt-hours. A unit on the electricity bill is 1,000 watt-hours.
 ### Taking, giving back and trading off (stretch) (stretch, 15 questions)
 1. (mcq) A pond gets 100 buckets of rain a month. A village takes 120 a month. Is the pond renewable for them?  
-   Options: Yes, because rain comes every month / No, because the pond never fills with rain / Not at this speed, because they take more than comes back  
+   Options: Not at this speed, because they take more than comes back / Yes, because rain comes every month / No, because the pond never fills with rain  
    **Answer:** Not at this speed, because they take more than comes back. *Why:* The rain does fill the pond, but the village takes 20 buckets more than comes back each month. So the pond shrinks and one day runs dry. Renewable depends on the speed of taking, as the beans test showed.
 2. (sort) Sort these by what they are made from.  
    **Answer:** coal → Made from beings who lived long ago; firewood → Made from beings who lived lately; oil → Made from beings who lived long ago; dried dung cakes → Made from beings who lived lately; natural gas → Made from beings who lived long ago; bagasse left from sugar cane → Made from beings who lived lately. *Why:* Coal, oil and natural gas are fossil fuels made from beings buried millions of years ago. Wood, dung cakes and bagasse are biomass from plants and animals who lived recently.
@@ -742,7 +742,7 @@ Selvi kept looking at the bulb. Was this light from the coal, or from the wind t
 5. (order) Put these in order, to show how coal forms.  
    **Answer:** ['tall plants grow in a warm swamp', 'the plants die and fall into the water', 'mud buries the fallen plants', 'weight and heat press the plants into rock', 'black coal after millions of years']. *Why:* Plants catch sunlight and grow. When they die in water, mud covers them before they rot. Weight and heat from the Earth press them over millions of years into coal.
 6. (mcq) Tidal power uses the rise and fall of the sea. Where does most of that energy come from?  
-   Options: From the Sun, like the wind / From the pull of the Moon / From coal under the sea  
+   Options: From the Sun, like the wind / From coal under the sea / From the pull of the Moon  
    **Answer:** From the pull of the Moon. *Why:* The tides are raised mostly by the Moon's pull on the sea. That is one of the few sources not from the Sun.
 7. (write) Give one good thing and one problem about nuclear power.  
    **Answer:** Good: it adds almost no carbon dioxide, and a small amount of fuel gives a lot of energy. Problem: the used fuel stays dangerous for thousands of years, and uranium is not replaced.. *Why:* A strong answer gives one real good thing and one real problem. Nuclear power is not renewable, since uranium is dug from mines, but nothing is burnt, so almost no carbon dioxide goes into the air.
@@ -757,7 +757,7 @@ Selvi kept looking at the bulb. Was this light from the coal, or from the wind t
 12. (write) A friend says, 'Solar panels make energy from nothing.' What is a better way to say it?  
    **Answer:** Solar panels catch sunlight from the Sun and turn about 20 parts in every 100 of it into electricity. The rest becomes warmth.. *Why:* A strong answer says where the energy comes from and does not claim it is made from nothing. A good panel today turns roughly 20 of every 100 parts of the sunlight into electricity.
 13. (mcq) A shopkeeper says, 'My solar panel keeps the fan running all night.' What is true?  
-   Options: The panel stores sunlight in itself until night / A battery must have stored the day's electricity / The Moon gives the same light as the Sun  
+   Options: A battery must have stored the day's electricity / The panel stores sunlight in itself until night / The Moon gives the same light as the Sun  
    **Answer:** A battery must have stored the day's electricity. *Why:* A panel makes electricity only while light falls on it. At night the energy must come from a battery or from the grid. The Moon only bounces back a little of the Sun's light and a panel gets almost no electricity from it.
 14. (draw) Draw both bowls after 3 rounds. Take 2 beans from each, and add 3 to Bowl B. Write the beans in each.  
    **Answer:** Bowl A with 14 beans and Bowl B with 23 beans.. *Why:* Bowl A loses 2 each round for 3 rounds, so 20 minus 6 leaves 14. Bowl B loses 2 and gains 3, so it gains 1 each round and has 23.
@@ -779,7 +779,7 @@ Selvi kept looking at the bulb. Was this light from the coal, or from the wind t
 6. (order) Put these in order, from the newest sunlight to the oldest sunlight.  
    **Answer:** ['the wind that blew this morning', 'rice grown this season', 'firewood from a tree that grew for 30 years', 'coal made 280 million years ago']. *Why:* The wind is made from this week's sunlight. Rice caught sunlight over months and wood over decades. Coal holds sunlight caught long before the dinosaurs.
 7. (mcq) Uranium, used in nuclear power, was made by  
-   Options: the Sun long ago / exploding and colliding stars before the Sun was born / plants in swamps  
+   Options: the Sun long ago / plants in swamps / exploding and colliding stars before the Sun was born  
    **Answer:** exploding and colliding stars before the Sun was born. *Why:* The Sun does not make uranium. Heavy atoms like uranium were made in exploding stars and in collisions of stars, long before the Sun and Earth formed.
 8. (write) Why is it wrong to say that coal is 'dead dinosaurs'?  
    **Answer:** Coal is mostly pressed plants from swamps, and much of it is older than the first dinosaurs. Oil is mostly tiny sea beings.. *Why:* A strong answer says what coal really came from and does not claim dinosaurs were the main source. Coal formed from plants, and the biggest coal-forming forests grew before the first dinosaurs.
@@ -791,7 +791,7 @@ Selvi kept looking at the bulb. Was this light from the coal, or from the wind t
 11. (write) Choose one thing in your home that could use less energy without losing what your family needs. How would you do it?  
    **Answer:** Answers vary. A strong answer names a thing and gives a real change, such as a lid, an LED bulb or switching off in an empty room. It says roughly how much that would save.. *Why:* Saving energy means getting the same light, cooking or travel from less. The best changes cost little and do not make anyone's day harder.
 12. (mcq) India made about 7 in 10 units from coal in about 2024, and it changes yearly. What is fair to say?  
-   Options: India can switch off coal tomorrow / Solar panels will never help / More stores and steady sources are needed as solar grows  
+   Options: India can switch off coal tomorrow / More stores and steady sources are needed as solar grows / Solar panels will never help  
    **Answer:** More stores and steady sources are needed as solar grows. *Why:* Solar works in daylight only. As it grows, India needs batteries, pumped water stores and other steady sources for evening and cloudy days. Coal cannot be switched off overnight, but the mix is changing.
 13. (draw) Graph the beans in Bowl B for rounds 1 to 6, when 4 are taken and 3 are added each round.  
    **Answer:** Points at 19, 18, 17, 16, 15 and 14 beans, sliding down by one each round.. *Why:* Bowl B loses 4 and gains 3, so it falls by one each round. A gentle slope can still end in an empty bowl, which a short test might not show.
@@ -813,37 +813,37 @@ Selvi kept looking at the bulb. Was this light from the coal, or from the wind t
    Options: Power stations make energy out of nothing / Power stations only store energy for later / Power stations collect energy from a source and pass it on  
    **Answer:** Power stations collect energy from a source and pass it on. *Why:* Nobody makes energy out of nothing. A power station collects energy from coal, falling water, wind, sunlight or nuclear fuel and turns it into electricity. It is not mainly a store, because most of the energy leaves at once.
 3. (mcq) A village cuts 10 trees a year and 4 grow back. Is their firewood renewable?  
-   Options: Not at this speed, because cutting is faster than growing / Yes, trees always grow back / Yes, because wood is a fuel  
+   Options: Yes, trees always grow back / Yes, because wood is a fuel / Not at this speed, because cutting is faster than growing  
    **Answer:** Not at this speed, because cutting is faster than growing. *Why:* A source stays renewable only while we take from it more slowly than it comes back. This village takes 10 and gets back 4, so the forest shrinks each year. Trees do grow back, but not fast enough here. Being a fuel says nothing about coming back.
 4. (mcq) Peat grows about 1 millimetre a year. Why is it hard to put in one box?  
-   Options: It is not a fuel / It grows back, but far slower than people dig it / It comes from the Sun  
+   Options: It grows back, but far slower than people dig it / It is not a fuel / It comes from the Sun  
    **Answer:** It grows back, but far slower than people dig it. *Why:* Peat is half-rotted swamp plants. It does grow, but very slowly, so people argue about whether to call it renewable. Peat does burn, so it is a fuel, and almost everything on Earth gets its energy from the Sun, so that does not decide the box.
 5. (mcq) Why is coal called a fossil fuel?  
-   Options: It is dug from rocks under the ground / It is as old as the dinosaur bones found with it / It is made from the buried remains of ancient living beings  
+   Options: It is dug from rocks under the ground / It is made from the buried remains of ancient living beings / It is as old as the dinosaur bones found with it  
    **Answer:** It is made from the buried remains of ancient living beings. *Why:* A fossil is a trace of ancient life kept in rock, and coal is made from the pressed bodies of swamp plants. Being dug from rock is true of many things that are not fossil fuels, such as iron ore. Coal is not tied to dinosaur bones, and much of it is older than the first dinosaurs.
 6. (mcq) A friend says oil came from dinosaurs. Which is better?  
-   Options: Most oil came from tiny sea beings / Oil is dinosaur bodies pressed in rock / Oil was always in rocks and was never alive  
+   Options: Oil is dinosaur bodies pressed in rock / Most oil came from tiny sea beings / Oil was always in rocks and was never alive  
    **Answer:** Most oil came from tiny sea beings. *Why:* Most oil began as tiny beings that floated near the sea surface, died and were buried in mud. Dinosaurs lived on land and in water, and their bodies are not the main source. Oil carries chemical marks of living beings, so it was not made without life.
 7. (mcq) A bowl gets 3 beans put back every round, and a player takes beans out every round. Which way of taking lets the bowl last?  
-   Options: Taking 5 a round / Taking 3 or fewer a round / Taking 4 a round, because beans are left after 15 rounds  
+   Options: Taking 3 or fewer a round / Taking 5 a round / Taking 4 a round, because beans are left after 15 rounds  
    **Answer:** Taking 3 or fewer a round. *Why:* With 3 or fewer taken, Bowl B never shrinks, since 3 come back. Taking 5 empties it in round 10. Taking 4 leaves 5 beans at round 15, but it falls by one a round and is empty in round 17, so it only looks safe.
 8. (mcq) A bowl never gets any beans put back. If you take beans from it very slowly, what happens?  
    Options: It empties, only later / It never empties, because slow is safe / It fills up by itself  
    **Answer:** It empties, only later. *Why:* With nothing added, every bean taken is gone for good. Slower taking only makes the emptying later. Only a bowl that gets beans back can last. Coal is like Bowl A, because the adding is too slow for anyone to wait for.
 9. (mcq) A forest is cut faster than it grows. What is true about it?  
-   Options: It is still renewable, because trees grow / It can run out, because renewable depends on both speeds / It is safe, because a forest is very big  
+   Options: It can run out, because renewable depends on both speeds / It is still renewable, because trees grow / It is safe, because a forest is very big  
    **Answer:** It can run out, because renewable depends on both speeds. *Why:* Renewable is about how fast we take compared with how fast nature gives back. In the beans test, the same Bowl B lasted at one speed and ran out at another. A forest is not a bowl, but the same two speeds decide how long it lasts. Being big only makes the ending later.
 10. (mcq) What mainly makes the wind blow?  
-   Options: The Moon pulling the air / The Earth's inner heat / The Sun warming land and sea unevenly  
+   Options: The Sun warming land and sea unevenly / The Moon pulling the air / The Earth's inner heat  
    **Answer:** The Sun warming land and sea unevenly. *Why:* The Sun warms land faster than sea. Warm air rises and cooler air slides in under it, and that moving air is wind. The Moon pulls the sea into tides, and the Earth's inner heat is too small to drive the wind.
 11. (mcq) Which of these did not get its energy from the Sun?  
-   Options: Firewood / Coal / Uranium for nuclear power  
+   Options: Uranium for nuclear power / Firewood / Coal  
    **Answer:** Uranium for nuclear power. *Why:* Firewood is sunlight caught by trees recently. Coal is sunlight caught by swamp plants long ago. The uranium atoms were made in exploding and colliding stars before the Sun was born.
 12. (mcq) A big dam gives clean electricity. Which is a real problem with it?  
-   Options: It burns a lot of coal / It drowns a valley and blocks fish swimming upriver / It makes new coal under the water  
+   Options: It drowns a valley and blocks fish swimming upriver / It burns a lot of coal / It makes new coal under the water  
    **Answer:** It drowns a valley and blocks fish swimming upriver. *Why:* A dam can flood forests, fields and villages, and a wall stops fish that swim upriver to lay eggs. It does not burn coal. No new coal forms in a lake behind a dam, since coal needs millions of years.
 13. (mcq) A solar panel alone cannot light a street at night. Why?  
-   Options: Panels use up their own energy each day / Street lights only run on coal / Panels need light, so night needs a store such as a battery  
+   Options: Panels use up their own energy each day / Panels need light, so night needs a store such as a battery / Street lights only run on coal  
    **Answer:** Panels need light, so night needs a store such as a battery. *Why:* A panel makes electricity only while light falls on it. To light a street at night we need a store, such as a battery, that was charged in the day. Panels do not use themselves up, and street lights can run on any source.
 14. (mcq) A 9 watt LED and a 60 watt bulb give equal light for 5 hours. How much more energy does the old one use?  
    Options: 255 watt-hours / 51 watt-hours / 300 watt-hours  

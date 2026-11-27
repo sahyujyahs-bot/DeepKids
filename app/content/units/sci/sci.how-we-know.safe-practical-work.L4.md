@@ -656,12 +656,12 @@ Selvi looked at her page. There was a line on it for what was predicted, and a l
 ## Worksheets
 ### Tools, risks and predictions (core) (core, 16 questions)
 1. (mcq) Which tool answers 'How much water is in this tumbler?'  
-   Options: A measuring cup / A ruler / A stopwatch  
+   Options: A ruler / A measuring cup / A stopwatch  
    **Answer:** A measuring cup. *Why:* Water in a tumbler is a volume, and a measuring cup measures volume. A ruler measures length and a stopwatch measures time.
 2. (fill) A thermometer measures ____.  
    **Answer:** ['temperature', 'how hot or cold']. *Why:* Each tool measures one kind of quantity. A thermometer is built for temperature.
 3. (mcq) You press the zero button on a kitchen scale after putting the empty bowl on. Why?  
-   Options: So the bowl weighs nothing in real life / To switch the scale on / So it shows only what you add  
+   Options: So it shows only what you add / So the bowl weighs nothing in real life / To switch the scale on  
    **Answer:** So it shows only what you add. *Why:* The bowl has a mass of its own. Setting zero with the bowl on lets the scale show the food alone.
 4. (truefalse) A thermometer shows the true number the moment it touches the water.  
    **Answer:** False. *Why:* False. A thermometer needs about a minute for its number to stop changing. Read it after it settles.
@@ -682,7 +682,7 @@ Selvi looked at her page. There was a line on it for what was predicted, and a l
    Options: 66 seconds / 30 seconds / 6 seconds  
    **Answer:** 6 seconds. *Why:* Subtract the smaller from the larger. 36 minus 30 is 6. Adding the two numbers is a common slip.
 12. (mcq) Two predictions missed by 12 seconds. One result was 30 seconds, the other 10 minutes. Which miss matters more?  
-   Options: The 10-minute one / The 30-second one / They matter the same  
+   Options: The 10-minute one / They matter the same / The 30-second one  
    **Answer:** The 30-second one. *Why:* 12 seconds is a large share of 30 seconds and a tiny share of 10 minutes. Compare a miss with the size of the result.
 13. (write) The big ice cube was predicted to melt first, but the small one did. Name two places to look for the cause.  
    **Answer:** A good answer names two places. The doing: were the cubes in the same water and place? The tool: was the same clock used? The reason: is the idea that bigger means first wrong?. *Why:* A miss can come from how the test was done, from the equipment, or from the idea behind the prediction. Check the first two before blaming the idea.
@@ -694,7 +694,7 @@ Selvi looked at her page. There was a line on it for what was predicted, and a l
    **Answer:** Answers vary. A strong answer says removing the hazard is the strongest plan. It also says the warm test teaches more but needs a grown-up and a tray, so it is a trade-off.. *Why:* Both views are sensible. The first is the stronger kind of plan. The second accepts a small risk for a clearer result, and that is a choice people make differently.
 ### Plans, spread and misses (stretch) (stretch, 17 questions)
 1. (mcq) You want the mass of one grain of rice on a scale that shows whole grams. What works?  
-   Options: Weigh one grain and round up / Weigh a hundred grains, then divide / Use a bigger scale  
+   Options: Weigh one grain and round up / Use a bigger scale / Weigh a hundred grains, then divide  
    **Answer:** Weigh a hundred grains, then divide. *Why:* One grain is far below the scale's smallest mark. A hundred grains give a reading you can see, and dividing by a hundred gives one grain.
 2. (count) 100 grains of rice weigh 2 grams. What is the mass of one grain, in grams?  
    **Answer:** 0.02. *Why:* 2 divided by a hundred is 0.02 grams. This is how a tool that is too coarse for one grain can still tell you about it.
@@ -734,12 +734,12 @@ Selvi looked at her page. There was a line on it for what was predicted, and a l
    **Answer:** A risk such as crushing, trapping or flooding the ants. A plan such as watching them where they already walk, putting a tiny grain of food near their path, and not shutting them in a jar.. *Why:* The risk assessment counts every living being the test touches, not only people. Ants feel and decide too, so they are on the list.
 ### Faulty checks and open questions (challenge) (challenge, 16 questions)
 1. (mcq) Both predicted 30 seconds. Child A got 29, 31 and 30. Child B got 18, 42 and 30. Who is better supported?  
-   Options: Child A, whose runs cluster tightly / Child B, because 30 was one of the runs / Both the same, since the middle is 30  
+   Options: Child B, because 30 was one of the runs / Child A, whose runs cluster tightly / Both the same, since the middle is 30  
    **Answer:** Child A, whose runs cluster tightly. *Why:* A tight spread lets the prediction be judged sharply. A wide spread means the test itself cannot tell 30 from many other numbers.
 2. (truefalse) A prediction that comes true proves that its reason is right.  
    **Answer:** False. *Why:* False. Another reason could give the same number. A true prediction is one test passed, not a proof.
 3. (mcq) Warm water took longer than cold. The warm cup was stirred gently and the cold one hard. What is at fault?  
-   Options: The reason, because warm water is slower / The doing, because stirring differed / The thermometer  
+   Options: The reason, because warm water is slower / The thermometer / The doing, because stirring differed  
    **Answer:** The doing, because stirring differed. *Why:* Only the warmth should change. Different stirring is another change, so the test cannot say what caused the result.
 4. (mcq) A forecast says 80 centimetres of rain, plus or minus 5 per cent. 77 fall. Is that within the stated error?  
    Options: No, it was not exactly 80 / No, because 77 is lower / Yes, 77 lies between 76 and 84  
@@ -754,7 +754,7 @@ Selvi looked at her page. There was a line on it for what was predicted, and a l
 8. (match) Match each job to how big a miss it can accept.  
    **Answer:** A recipe that says 'about a cup' → A large miss; Taking an umbrella for tomorrow's rain → A fairly large miss; A dose of children's medicine → A very small miss; Cutting a part for a rocket engine → A tiny miss. *Why:* What counts as close enough depends on what the answer is used for, and on how bad a wrong answer would be.
 9. (mcq) Two weather computers start from nearly the same numbers. Ten days on, their forecasts differ greatly. Why?  
-   Options: Tiny differences at the start grow in weather / One computer must be broken / Weather has no rules at all  
+   Options: One computer must be broken / Weather has no rules at all / Tiny differences at the start grow in weather  
    **Answer:** Tiny differences at the start grow in weather. *Why:* Weather follows fixed laws, but small differences in the start grow into large ones. So the forecast gets worse with each day ahead.
 10. (write) Give a reason to predict the Sun will rise tomorrow without saying 'it always has'.  
    **Answer:** Answers vary. A good one says the Earth spins and keeps spinning unless something stops it, and we understand why the Sun seems to rise. The prediction comes from a cause, not only from the past.. *Why:* A reason made only of past days could not tell a lucky run from a rule. A cause we understand gives a stronger prediction.
@@ -769,7 +769,7 @@ Selvi looked at her page. There was a line on it for what was predicted, and a l
 15. (write) Think of a guess of yours that missed. Which place explains it best: the doing, the tool or the reason?  
    **Answer:** Answers vary. A good answer names a real moment, picks one of the three places, and gives a reason for the choice.. *Why:* Asking where a miss came from turns a surprise into something to learn.
 16. (mcq) You must time a snap that lasts 0.3 seconds. Why is timing it by hand a poor choice?  
-   Options: A 0.2 second reaction is most of 0.3 / Phones cannot show tenths of a second / Such short times do not exist  
+   Options: Phones cannot show tenths of a second / Such short times do not exist / A 0.2 second reaction is most of 0.3  
    **Answer:** A 0.2 second reaction is most of 0.3. *Why:* A person needs about a fifth of a second to react. For a very short event, that delay is a large share of the whole time.
 
 ## Videos
@@ -782,7 +782,7 @@ Selvi looked at her page. There was a line on it for what was predicted, and a l
    Options: A one-litre jug marked every 100 millilitres / A school ruler / A medicine cup marked every 1 millilitre  
    **Answer:** A medicine cup marked every 1 millilitre. *Why:* A tool's smallest mark must be much smaller than your amount. The jug's smallest mark is far bigger than a cap of water, and a ruler measures length, not volume.
 2. (mcq) A 15 centimetre ruler is used to measure a 6 metre room. What is the main problem?  
-   Options: Laying it down 40 times adds 40 small mistakes / Its marks are too big / A ruler cannot measure length  
+   Options: Its marks are too big / A ruler cannot measure length / Laying it down 40 times adds 40 small mistakes  
    **Answer:** Laying it down 40 times adds 40 small mistakes. *Why:* A tool that is too fine for the job adds many small mistakes. A tape would fit the job. The ruler's marks are tiny, and it does measure length, but only well over short distances.
 3. (mcq) Water in a measuring cup looks higher from above than from the side. Which reading is right?  
    Options: The one from above / The one with your eye level / The average of the two  
@@ -791,7 +791,7 @@ Selvi looked at her page. There was a line on it for what was predicted, and a l
    Options: 2 millimetres too big / 2 millimetres too small / exactly right  
    **Answer:** 2 millimetres too small. *Why:* The scale starts counting 2 millimetres in from the end. So the first 2 millimetres of the pencil lie before the zero mark and are never counted. The reading is 2 millimetres less than the true length. Always line up the zero mark and not the edge.
 5. (mcq) Which sentence about a knife is true?  
-   Options: A hazard only in someone's hand / A hazard in a drawer, with a low risk / A risk in a drawer only  
+   Options: A hazard in a drawer, with a low risk / A hazard only in someone's hand / A risk in a drawer only  
    **Answer:** A hazard in a drawer, with a low risk. *Why:* A hazard is what could cause harm, so the knife is one everywhere. The risk is the chance and size of the harm, and that changes with how and where it is used.
 6. (mcq) Why list the risks of a test before starting it?  
    Options: It proves the test is perfectly safe / It makes the test finish sooner / A named risk is easier to plan for  
@@ -802,16 +802,16 @@ Selvi looked at her page. There was a line on it for what was predicted, and a l
    Options: Use cold water / Boiling water, poured slowly / Boiling water, with oven gloves  
    **Answer:** Use cold water. *Why:* Cold water removes the scald hazard, and nothing is lost. Pouring slowly and gloves only make a hazard that is still there a little less likely to hurt.
 9. (mcq) Halfway through a test, a cup cracks. What do you do?  
-   Options: Pick up the pieces quickly / Finish the run, then clear up / Stop, step back and fetch a grown-up  
+   Options: Pick up the pieces quickly / Stop, step back and fetch a grown-up / Finish the run, then clear up  
    **Answer:** Stop, step back and fetch a grown-up. *Why:* A plan cannot cover everything. When something unexpected happens, the safe habit is to stop and think before the hands carry on.
 10. (mcq) Which of these is a prediction and not only a guess?  
-   Options: Warm water will be quicker / Quicker, because cold took longer than room-warm / It will take about 30 seconds  
+   Options: Quicker, because cold took longer than room-warm / Warm water will be quicker / It will take about 30 seconds  
    **Answer:** Quicker, because cold took longer than room-warm. *Why:* A prediction carries a reason taken from what you know. The reason lets others check your thinking and tells you what to rethink if the result differs.
 11. (mcq) You have timed sugar but never rock salt. What is the best first step to predict for rock salt?  
-   Options: Compare what rock salt shares with sugar / Say nobody can predict a new thing / Pick any number, because it is new  
+   Options: Say nobody can predict a new thing / Compare what rock salt shares with sugar / Pick any number, because it is new  
    **Answer:** Compare what rock salt shares with sugar. *Why:* Predicting the new works by stepping from a familiar case. Both dissolve, so warm should help, and rock salt crystals are bigger, so it may be slower.
 12. (mcq) You predict 25 seconds. Three runs give 31, 34 and 37 seconds. Judged by the spread, was the prediction accurate?  
-   Options: No, 25 is outside the runs' spread / Yes, because 25 is near 31 / Yes, any number under 40 is fine  
+   Options: Yes, because 25 is near 31 / No, 25 is outside the runs' spread / Yes, any number under 40 is fine  
    **Answer:** No, 25 is outside the runs' spread. *Why:* The runs differ by 6 seconds without anything being wrong. A prediction outside that spread is a real miss, and 25 is 6 seconds below the lowest run. A number is not fine only because it is small.
 13. (truefalse) Writing your prediction after you see the result is as good as writing it before.  
    **Answer:** False. *Why:* False. After people see a result, they honestly remember having expected it. A number written before the test cannot change.
@@ -819,7 +819,7 @@ Selvi looked at her page. There was a line on it for what was predicted, and a l
    Options: Whether each run was done the same way / Whether the idea behind it is wrong / Whether the thermometer is lying  
    **Answer:** Whether each run was done the same way. *Why:* Look at the doing first, then the tool, then the reason. The first two are easier to fix, and each is a likelier cause than a wrong idea.
 15. (mcq) Two planets strayed from the sums. For one, an unseen planet was found. For the other, none ever was. What does that show?  
-   Options: A miss always means a hidden object / A prediction that missed is useless / A miss alone cannot say what is wrong  
+   Options: A miss alone cannot say what is wrong / A miss always means a hidden object / A prediction that missed is useless  
    **Answer:** A miss alone cannot say what is wrong. *Why:* In one case the cause was hidden outside the idea. In the other the idea itself needed changing. A miss is a clue. Further tests are needed to tell which.
 
 ## Applications

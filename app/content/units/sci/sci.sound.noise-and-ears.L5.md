@@ -728,12 +728,12 @@ Ammini wrote one more line in her book. The phone can say how much. It cannot sa
 9. (truefalse) A ball of cotton wool in the ear cuts sound as much as a well-fitted foam earplug.  
    **Answer:** False. *Why:* False. Cotton wool cuts about 5 to 7 decibels. A well-fitted foam earplug cuts about 15 to 30.
 10. (mcq) Which of these protects the ear by changing the time?  
-   Options: Walking away from the speaker / Leaving the function after an hour / Turning the volume down  
+   Options: Leaving the function after an hour / Walking away from the speaker / Turning the volume down  
    **Answer:** Leaving the function after an hour. *Why:* Staying for less time lowers the dose. Walking away changes the path, and turning the volume down changes the source.
 11. (write) Your hearing feels normal the morning after a loud function. Does that prove no harm was done? Explain.  
    **Answer:** Not proven. In 2009, mice that passed hearing tests had lost up to half the links between hair cells and nerve. Whether this happens in people is still being debated, so a normal test does not prove there was no harm.. *Why:* A strong answer says that a normal test and no harm are different things, and that scientists still argue about hidden hearing loss in people.
 12. (mcq) Why is a smoke alarm made shrill and unpleasant on purpose?  
-   Options: So nobody can sleep through it / It costs less to make / Loud sounds use less battery  
+   Options: It costs less to make / Loud sounds use less battery / So nobody can sleep through it  
    **Answer:** So nobody can sleep through it. *Why:* A warning has to be noticed over everything, even in sleep. A pleasant sound is easier to ignore.
 13. (odd) Which is the odd one out and why? Broken sleep, raised blood pressure, tinnitus, stress chemicals in whales.  
    **Answer:** Tinnitus, because it is a harm to the ear. The other three are harms beyond the ear.. *Why:* Noise acts on the whole body, and on other animals, as well as on the ear.
@@ -749,7 +749,7 @@ Ammini wrote one more line in her book. The phone can say how much. It cannot sa
 2. (fill) A child's safe listening is 40 hours a week at 75 decibels. At 81 decibels the safe time is ____ hours.  
    **Answer:** ['10']. *Why:* 81 is 6 decibels above 75, which is two steps of 3. Each step halves the time, so 40 → 20 → 10.
 3. (mcq) A hall of 40 children talking reads 80 decibels. What would 20 children talking the same way read?  
-   Options: 40 decibels / About 77 decibels / 60 decibels  
+   Options: About 77 decibels / 40 decibels / 60 decibels  
    **Answer:** About 77 decibels. *Why:* Halving the number of equal sources takes off about 3 decibels, not half the number.
 4. (truefalse) Noise-cancelling headphones work best on a sudden sharp horn.  
    **Answer:** False. *Why:* False. They work best on steady, low sounds, such as an aeroplane's engine drone. A sudden or high sound changes too fast to cancel.
@@ -758,14 +758,14 @@ Ammini wrote one more line in her book. The phone can say how much. It cannot sa
 6. (sort) Sort each way of protecting the ears by the lever it uses.  
    **Answer:** choosing a quieter mixer-grinder → The source; sitting at the back of the hall → The path; leaving after one hour → The time; shutting the window → The path; turning the volume down → The source; taking a quiet break after loud sound → The time. *Why:* Source is where the sound is made, path is what lies between, and time is how long you stay. Each lowers the dose.
 7. (mcq) After a loud night you hear a faint ringing. What does this most likely show?  
-   Options: The ear is now cleaner / The sound was more than the ear could take / Hearing has improved  
+   Options: The sound was more than the ear could take / The ear is now cleaner / Hearing has improved  
    **Answer:** The sound was more than the ear could take. *Why:* Ringing and muffled hearing are signs that the sound was too much. If they come again and again, the loss may stay.
 8. (order) Put the steps of a fair noise test in order.  
    **Answer:** ['Write a guess for each place', 'Play the same steady sound at the same volume', 'Hold the phone at the same height and distance', 'Read the 30-second average twice', 'Compare the readings']. *Why:* The guess comes first, so the test can surprise you. Only one thing changes at a time, and each reading is repeated because one try can be a fluke.
 9. (write) Plants may respond to the vibration of a chewing caterpillar. What do we still not know about plants and our noise?  
    **Answer:** Appel and Cocroft found in 2014 that plants responded to vibrations of chewing. Very few studies have looked at what human noise does to plants, so it is an open question.. *Why:* A strong answer names the finding and says that almost all noise research has been on people, birds and sea mammals.
 10. (mcq) Which is true of the 15 days in India's noise rules?  
-   Options: Loudspeakers may be used all night on them / Crackers have no limit on them / A state may relax night quiet hours to midnight  
+   Options: A state may relax night quiet hours to midnight / Loudspeakers may be used all night on them / Crackers have no limit on them  
    **Answer:** A state may relax night quiet hours to midnight. *Why:* A state may allow loudspeakers until midnight on up to 15 days in a year, for festivals. The rest of the rules still apply.
 11. (odd) Which is the odd one out: smoke alarm, train horn, ambulance siren, ticking clock?  
    **Answer:** The ticking clock, because it is not made to warn.. *Why:* The others are made loud on purpose, to stand out and to carry a meaning that people have learned.
@@ -778,28 +778,28 @@ Ammini wrote one more line in her book. The phone can say how much. It cannot sa
 15. (fill) A sound with 100 times the energy of another is ____ decibels higher.  
    **Answer:** ['20']. *Why:* Every factor of 10 in energy is 10 decibels. 100 is 10 × 10, so it is 20 decibels.
 16. (mcq) Why can a silent electric scooter be a danger?  
-   Options: It uses more power / People who cannot see it rely on hearing it / It runs slower than other scooters  
+   Options: People who cannot see it rely on hearing it / It uses more power / It runs slower than other scooters  
    **Answer:** People who cannot see it rely on hearing it. *Why:* People who are blind, and anyone stepping off a kerb, use hearing to know a vehicle is near. The European Union has required new electric cars to make a sound at low speeds since 2019.
 ### Reasoning with decibels and evidence (challenge) (challenge, 15 questions)
 1. (count) A cracker reads 125 decibels at 4 metres. In the open, how many decibels would it read at 2 metres?  
    **Answer:** 131. *Why:* Halving the distance adds about 6 decibels, so 125 + 6 = 131. At 1 metre it would be close to 137.
 2. (mcq) A road reads 70 decibels. Half of the cars are taken off. What is the new level?  
-   Options: About 35 decibels / About 67 decibels / About 60 decibels  
+   Options: About 35 decibels / About 60 decibels / About 67 decibels  
    **Answer:** About 67 decibels. *Why:* Half the sources takes off only about 3 decibels. The lower numbers come only when most of the cars are gone.
 3. (truefalse) A sound too quiet to hurt the ear cannot harm health, even if it goes on night after night.  
    **Answer:** False. *Why:* False. In 2018 the World Health Organization found strong evidence that long-lasting road noise at night raises the risk of heart disease. This happens at levels far below those that damage hearing.
 4. (mcq) Cotton wool cuts about 6 decibels. About how many times less sound energy reaches the ear?  
-   Options: 2 times / About 4 times / 6 times  
+   Options: 2 times / 6 times / About 4 times  
    **Answer:** About 4 times. *Why:* 3 decibels is half the energy and 6 decibels is half again, so about one quarter, which is 4 times less.
 5. (mcq) A foam earplug cuts about 25 decibels. About how many times less energy reaches the ear?  
-   Options: 25 times / Roughly 300 times / 2,500 times  
+   Options: Roughly 300 times / 25 times / 2,500 times  
    **Answer:** Roughly 300 times. *Why:* Every 10 decibels is 10 times less, so 20 decibels is 100 times less and 5 more decibels is about 3 times again. That makes close to 300.
 6. (write) Scientists still disagree about hidden hearing loss in people. What evidence would you try to collect to settle it?  
    **Answer:** A test that can see the links between hair cells and nerve in living people. Or a large study of young people with a lot of noise in their past and with little, using careful tests of hearing speech in noise.. *Why:* A strong answer says that the evidence in mice is clear, and that people need a test that can detect what a normal test misses.
 7. (sort) Sort each statement by whether India's noise rules contain it.  
    **Answer:** Loudspeakers need written permission → It is in the rules; A night-shift worker has quiet hours by day → It is not in the rules; A silence zone is within 100 metres of a hospital, school or court → It is in the rules; The limits take account of what dogs and birds hear → It is not in the rules; Limits are given in dB(A) → It is in the rules. *Why:* The rules set limits for areas and times and set conditions for loudspeakers. They do not cover shift workers by day or the hearing of other animals, which is part of the debate about whose sound counts.
 8. (mcq) Which result best shows that noise, and not something else, slowed the reading of children beside a railway?  
-   Options: Teachers said so / One school showed a lag / The lag ended when the noise was cut  
+   Options: The lag ended when the noise was cut / Teachers said so / One school showed a lag  
    **Answer:** The lag ended when the noise was cut. *Why:* If removing the noise removes the lag, noise was the cause. A single school or a teacher's opinion cannot rule out other causes.
 9. (write) A friend says, 'I am used to the trains, so they cannot harm me.' Give two reasons this is wrong.  
    **Answer:** Hair cells may be lost, which makes the noise seem less. Also the body's stress response and the heart rate during sleep still respond to each train, though you may not wake.. *Why:* A good answer gives the hair-cell reason and the sleeping-body reason.
@@ -830,34 +830,34 @@ Ammini wrote one more line in her book. The phone can say how much. It cannot sa
    Options: 93 decibels / 180 decibels / 100 decibels  
    **Answer:** 93 decibels. *Why:* Twice the sound energy adds about 3 decibels. Choosing 180 adds the numbers like ordinary numbers, which decibels do not do.
 3. (mcq) A phone reads 80 decibels at 1 metre from a steady sound in the open. About what at 4 metres?  
-   Options: About 76 decibels / About 68 decibels / About 40 decibels  
+   Options: About 76 decibels / About 40 decibels / About 68 decibels  
    **Answer:** About 68 decibels. *Why:* 4 metres is two doublings of distance, and each takes off about 6 decibels, so 80 − 12 = 68.
 4. (mcq) Why does hearing lost to loud sound not come back in people?  
    Options: The nerve to the brain is cut / Hair cells that die are not replaced / The eardrum wears out  
    **Answer:** Hair cells that die are not replaced. *Why:* Humans are born with all the hair cells they will ever have. Birds and fishes can grow new ones, and people cannot.
 5. (mcq) A cracker bang can harm the ear even though the ear has a guard muscle. Why?  
-   Options: The guard works only when asleep / Crackers are quieter than horns / The muscle needs a tenth of a second, and the bang is quicker  
+   Options: The guard works only when asleep / The muscle needs a tenth of a second, and the bang is quicker / Crackers are quieter than horns  
    **Answer:** The muscle needs a tenth of a second, and the bang is quicker. *Why:* The acoustic reflex takes about a tenth of a second to tighten. A bang reaches full strength in less than a thousandth of a second.
 6. (mcq) After a loud wedding your hearing returns by morning. What may still be true?  
-   Options: Some links to the hearing nerve may be lost / All the hair cells have grown back / The ear's guard has been mended  
+   Options: All the hair cells have grown back / The ear's guard has been mended / Some links to the hearing nerve may be lost  
    **Answer:** Some links to the hearing nerve may be lost. *Why:* In mice, loud sound can destroy up to half of the nerve links while hearing tests pass. Whether this happens in people is still debated.
 7. (mcq) A lorry passes at night and you sleep on. Is your body affected?  
-   Options: No, nothing happens unless you wake / Only if the lorry is very loud / Yes, heartbeat and blood pressure can rise  
+   Options: No, nothing happens unless you wake / Yes, heartbeat and blood pressure can rise / Only if the lorry is very loud  
    **Answer:** Yes, heartbeat and blood pressure can rise. *Why:* Hearing never switches off in sleep. The body can react to each passing noise, and years of this are linked with heart disease.
 8. (mcq) Great tits sing at a higher pitch in noisy cities. Why does that help?  
    Options: Traffic rumble is low, so a higher song is heard above it / High songs are quieter / It makes them look bigger  
    **Answer:** Traffic rumble is low, so a higher song is heard above it. *Why:* Low rumble covers low songs. A higher song sits above the rumble and carries better.
 9. (mcq) In India's 2000 noise rules, loudspeakers may not be used in the open when?  
-   Options: Between 6 and 10 in the morning / At any time of the day / Between 10 at night and 6 in the morning, unless allowed  
+   Options: Between 6 and 10 in the morning / Between 10 at night and 6 in the morning, unless allowed / At any time of the day  
    **Answer:** Between 10 at night and 6 in the morning, unless allowed. *Why:* The quiet hours are 10 at night to 6 in the morning. A state may relax them to midnight on up to 15 days in a year.
 10. (mcq) A cracker reads 120 decibels at 4 metres. A child fires it at 1 metre. What level reaches the child?  
-   Options: Roughly 132 decibels / Roughly 120 decibels / Roughly 100 decibels  
+   Options: Roughly 120 decibels / Roughly 132 decibels / Roughly 100 decibels  
    **Answer:** Roughly 132 decibels. *Why:* Each halving of distance adds about 6 decibels, and 4 metres to 1 metre is two halvings. So the child gets about 12 more.
 11. (mcq) Which best protects your ears at a loud function?  
    Options: Cotton wool, near the speaker / Foam earplugs and sitting far from the speakers / Sitting beside the speaker and enjoying it  
    **Answer:** Foam earplugs and sitting far from the speakers. *Why:* Cotton wool cuts only 5 to 7 decibels. Earplugs cut 15 to 30, and distance cuts it more. Close to the speaker the sound is strongest, and enjoying it does not protect hair cells.
 12. (mcq) With earphones, which of the three levers are left to you?  
-   Options: Only volume and time / Distance and barrier / All three, as usual  
+   Options: Distance and barrier / Only volume and time / All three, as usual  
    **Answer:** Only volume and time. *Why:* The earphone sits inside the ear, so there is no distance or barrier. Volume and hours are what you can change.
 13. (mcq) A child's weekly allowance is 40 hours at 75 decibels. What is the safe time at 84 decibels?  
    Options: 20 hours / 13 hours / 5 hours  

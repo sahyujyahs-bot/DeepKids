@@ -672,7 +672,7 @@ But she saved a piece and put it on the window ledge. She wanted to see what the
    **Answer:** 20. *Why:* 10 feeds and 10 more feeds make 20 feeds. A tiny stomach empties fast, so a baby feeds often.
 ### Milk, first foods and growing (stretch) (stretch, 13 questions)
 1. (mcq) Why does a milk tooth wobble just before it falls out?  
-   Options: The tooth is made of milk / The child ate too much sugar / A bigger tooth is growing in under it  
+   Options: A bigger tooth is growing in under it / The tooth is made of milk / The child ate too much sugar  
    **Answer:** A bigger tooth is growing in under it. *Why:* From about six years old milk teeth fall out, and bigger teeth push up to take their place.
 2. (truefalse) Mother's milk is the same for every mammal baby.  
    **Answer:** False. *Why:* False. A hooded seal pup's milk is more than half fat. Human milk is thin and sweet. Each milk fits the life of the baby who drinks the milk.
@@ -709,7 +709,7 @@ But she saved a piece and put it on the window ledge. She wanted to see what the
 3. (fill) ORS works because the gut takes in ____ and salt together, and water follows.  
    **Answer:** ['sugar']. *Why:* The gut wall has tiny doors that carry sugar and salt in together. Water follows them.
 4. (mcq) A sick dog stops eating. What is the best thing to say?  
-   Options: Nobody knows for sure if this helps or harms / The dog should be forced to eat / The dog is only being naughty  
+   Options: The dog should be forced to eat / The dog is only being naughty / Nobody knows for sure if this helps or harms  
    **Answer:** Nobody knows for sure if this helps or harms. *Why:* Scientists have found that many sick animals lose their appetite. Whether it helps them heal or harms them depends on the illness, and is still being studied.
 5. (match) Draw a line from each idea to the person who said it.  
    **Answer:** feeding peanuts early lowers allergy → Gideon Lack and a trial in 2015; grandmothers help feed grandchildren → Kristen Hawkes and the Hadza; a drink of sugar and salt saves lives → Dr Dilip Mahalanabis and ORS; human milk bank in Asia → Dr Armida Fernandez in Mumbai. *Why:* Lack ran the peanut trial. Hawkes watched Hadza grandmothers. Dr Dilip Mahalanabis used ORS in 1971. Dr Armida Fernandez started Asia's first human milk bank in 1989.
@@ -740,13 +740,13 @@ But she saved a piece and put it on the window ledge. She wanted to see what the
 
 ## Quiz
 1. (mcq) A new baby has a stomach about as big as a marble. Why is milk the right food?  
-   Options: It is a hard food that lasts long / It is a liquid that needs no chewing / Babies like the taste of sweet things best  
+   Options: It is a liquid that needs no chewing / It is a hard food that lasts long / Babies like the taste of sweet things best  
    **Answer:** It is a liquid that needs no chewing. *Why:* A new baby has no teeth and a tiny stomach. A liquid food that is easy to use is right. A hard food would not work.
 2. (mcq) A baby of seven months is ready for first foods. Which sign shows this?  
-   Options: The baby can say a few words / The baby cries at night / The baby can sit with a little help  
+   Options: The baby can sit with a little help / The baby can say a few words / The baby cries at night  
    **Answer:** The baby can sit with a little help. *Why:* At about six months a baby can sit with help, hold the head steady and no longer pushes food out. Crying is not a sign of being ready.
 3. (mcq) Why does a baby need foods with iron at about six months?  
-   Options: The store of iron from birth is running low / The baby no longer likes milk / Milk makes the baby ill  
+   Options: The baby no longer likes milk / Milk makes the baby ill / The store of iron from birth is running low  
    **Answer:** The store of iron from birth is running low. *Why:* A baby is born with a store of iron. It runs low at about six months, and mother's milk has only a little. Milk is still given alongside.
 4. (mcq) Mother's milk gives a baby more than food. What else?  
    Options: A set of milk teeth / A warm blanket / Germ-fighters called antibodies  
@@ -755,25 +755,25 @@ But she saved a piece and put it on the window ledge. She wanted to see what the
    Options: Plain cow's milk from the shop / Infant formula or another mother's milk / Only plain water  
    **Answer:** Infant formula or another mother's milk. *Why:* Formula is made to be close to human milk. Plain cow's milk is made for a calf, and is not right for a young baby.
 6. (mcq) A child of six eats a lot for a small body. Why?  
-   Options: The body is building new bone and muscle / The child never feels full / The stomach is bigger than a grown-up's  
+   Options: The child never feels full / The stomach is bigger than a grown-up's / The body is building new bone and muscle  
    **Answer:** The body is building new bone and muscle. *Why:* Every bit of new bone and muscle is made from food. A child has a small stomach too, so three meals and small snacks work well.
 7. (mcq) Which of these could a baby with no teeth eat?  
-   Options: Raw carrot sticks / Mashed ripe banana / Crunchy murukku  
+   Options: Mashed ripe banana / Raw carrot sticks / Crunchy murukku  
    **Answer:** Mashed ripe banana. *Why:* A mashed banana is soft and can be pressed with a tongue. Raw carrot and murukku need teeth.
 8. (mcq) A raw carrot is too hard to eat without teeth. What could you do to it?  
-   Options: Say it is not a food / Leave it in the sun / Cook it until it is soft  
+   Options: Say it is not a food / Cook it until it is soft / Leave it in the sun  
    **Answer:** Cook it until it is soft. *Why:* Cooking in water makes a carrot soft. Soaking does the same for a dry biscuit. Both moved from needing teeth to not needing teeth.
 9. (mcq) An elder with few teeth is given soft kanji. What else should the bowl have?  
-   Options: Dal, egg or curd, for body-building food / Nothing, because soft is enough / Only salt  
+   Options: Nothing, because soft is enough / Only salt / Dal, egg or curd, for body-building food  
    **Answer:** Dal, egg or curd, for body-building food. *Why:* Soft only means easy to eat. Old muscles need body-building food as much as before. Dal, egg or curd makes a small bowl rich.
 10. (mcq) An elder says they are not thirsty. What is the best thing a grown-up can do?  
-   Options: Let them skip water all day / Make them drink a big jug fast / Offer water anyway, in a friendly way  
+   Options: Let them skip water all day / Offer water anyway, in a friendly way / Make them drink a big jug fast  
    **Answer:** Offer water anyway, in a friendly way. *Why:* With age, thirst grows weaker, but the body still needs water. A friendly offer, without waiting to be asked, is kind and sensible.
 11. (mcq) A person has loose motions. Which drink helps most?  
-   Options: Plain water only / ORS, water with a little sugar and salt / A glass of sweet soda  
+   Options: Plain water only / A glass of sweet soda / ORS, water with a little sugar and salt  
    **Answer:** ORS, water with a little sugar and salt. *Why:* Plain water runs straight through a sick gut. The sugar helps the gut take in the salt and water. ORS has been used to save many lives.
 12. (mcq) A person has a fever and does not want food. What is true?  
-   Options: Light foods and plenty of drinks help / They must eat a big biryani / They should drink nothing  
+   Options: They must eat a big biryani / Light foods and plenty of drinks help / They should drink nothing  
    **Answer:** Light foods and plenty of drinks help. *Why:* Light foods like kanji and khichdi are easy to digest. A sick person must keep drinking. Scientists still argue about how much food is best.
 13. (mcq) You soak a dry biscuit in water and it goes soft. Which group does it now fit?  
    Options: Needs teeth / It is not a food now / No teeth needed  

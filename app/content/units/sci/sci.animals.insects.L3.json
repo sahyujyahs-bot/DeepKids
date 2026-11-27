@@ -2644,11 +2644,11 @@
      "t": "mcq",
      "p": "Which of these crops usually gives more when insects visit the flowers?",
      "opts": [
-      "Wheat",
       "Mustard",
+      "Wheat",
       "Maize"
      ],
-     "a": 1,
+     "a": 0,
      "why": "Mustard flowers are visited by bees and other insects, who carry pollen. Wheat and maize do not need insects to carry their pollen.",
      "outcome": 3
     },
@@ -2749,11 +2749,11 @@
      "t": "mcq",
      "p": "A fly escapes before your hand lands. Which part of her body helps most?",
      "opts": [
-      "Her compound eyes, which catch movement fast",
       "Her abdomen, which is large",
+      "Her compound eyes, which catch movement fast",
       "Her sticky feet"
      ],
-     "a": 0,
+     "a": 1,
      "why": "A compound eye is made of many tiny lenses, each looking in a slightly different direction. The picture is less sharp than ours and very good at catching movement.",
      "outcome": 1
     },
@@ -2768,11 +2768,11 @@
      "t": "mcq",
      "p": "A caterpillar has a row of small dots along her side. What are they?",
      "opts": [
+      "Breathing holes called spiracles",
       "Eyes",
-      "Ears",
-      "Breathing holes called spiracles"
+      "Ears"
      ],
-     "a": 2,
+     "a": 0,
      "why": "Spiracles open into thin air tubes that carry air to every part of her body. An insect has no lungs.",
      "outcome": 1
     },
@@ -2824,11 +2824,11 @@
      "t": "mcq",
      "p": "Empty skins hang on the reeds beside a pond. Where did they come from?",
      "opts": [
-      "Dragonfly nymphs who moulted once more and flew off",
       "Dead dragonflies",
+      "Dragonfly nymphs who moulted once more and flew off",
       "Snakes who shed their skins"
      ],
-     "a": 0,
+     "a": 1,
      "why": "A dragonfly nymph climbs a reed, moults one last time and flies away as an adult. The empty skin stays on the reed.",
      "outcome": 2
     },
@@ -2844,10 +2844,10 @@
      "p": "A farmer finds aphids on her chilli plants and a ladybird nearby. What is a bee-safe first step?",
      "opts": [
       "Spray every leaf at noon",
-      "Wait a few days and watch the ladybird",
-      "Cut the plant down"
+      "Cut the plant down",
+      "Wait a few days and watch the ladybird"
      ],
-     "a": 1,
+     "a": 2,
      "why": "A ladybird and her young eat dozens of aphids a day. Waiting gives the hunter time to work, and a spray would harm her and any bees.",
      "outcome": 6
     },
@@ -2918,11 +2918,11 @@
      "t": "mcq",
      "p": "If a spray is truly needed on a crop that bees visit, which timing harms bees least?",
      "opts": [
+      "At dusk, after the bees have gone home",
       "At noon, when the flowers are wide open",
-      "Any time, because a mild spray never touches a bee",
-      "At dusk, after the bees have gone home"
+      "Any time, because a mild spray never touches a bee"
      ],
-     "a": 2,
+     "a": 0,
      "why": "Bees are out on open flowers at noon, and a spray would land on them. At dusk they are back in the hive. Even then, a mild spray is only for when it is truly needed, and never on open flowers.",
      "outcome": 6
     }
@@ -2939,11 +2939,11 @@
      "t": "mcq",
      "p": "Zoya sees a caterpillar eating her plant and says, 'Butterflies are pests.' What is wrong?",
      "opts": [
-      "Caterpillars are never pests",
       "The caterpillar and the butterfly do different jobs",
+      "Caterpillars are never pests",
       "Butterflies eat leaves too"
      ],
-     "a": 1,
+     "a": 0,
      "why": "A caterpillar eats leaves, and the butterfly she becomes carries pollen. One job does not give a name to the whole animal for her whole life.",
      "outcome": 5
     },
@@ -2958,11 +2958,11 @@
      "t": "mcq",
      "p": "Imagine a beetle as big as a dog. Which problem would she meet first?",
      "opts": [
-      "Air would reach her muscles too slowly, down long tubes",
       "Her compound eyes would stop working at that size",
-      "She could no longer eat leaves"
+      "She could no longer eat leaves",
+      "Air would reach her muscles too slowly, down long tubes"
      ],
-     "a": 0,
+     "a": 2,
      "why": "Insects breathe through air tubes. In a very large body the tubes must be very long, and air creeps slowly down them. Compound eyes and leaf-eating do not depend on size in this way.",
      "outcome": 1
     },
@@ -3054,10 +3054,10 @@
      "p": "A farmer plants marigold and coriander among her vegetables. Which is the best reason?",
      "opts": [
       "They poison the aphids",
-      "They feed hunters such as ladybirds",
-      "They keep the bees away"
+      "They keep the bees away",
+      "They feed hunters such as ladybirds"
      ],
-     "a": 1,
+     "a": 2,
      "why": "Marigold and coriander flowers give hunting insects food and shelter. They do not poison anyone.",
      "outcome": 6
     },
@@ -3157,10 +3157,10 @@
    "p": "You count eight legs and two body parts on a small creature in a corner. What is she?",
    "opts": [
     "An insect with two legs hidden",
-    "A spider, not an insect",
-    "A young beetle"
+    "A young beetle",
+    "A spider, not an insect"
    ],
-   "a": 1,
+   "a": 2,
    "why": "Eight legs and two body parts make a spider. An insect has six legs and three body parts. If you chose an insect, count the legs again and then the body parts.",
    "outcome": 0
   },
@@ -3168,11 +3168,11 @@
    "t": "mcq",
    "p": "A caterpillar has many legs along her body. Is she an insect?",
    "opts": [
+    "Yes, a young insect with six true legs",
     "No, she has more than six legs",
-    "No, only grown-up moths are insects",
-    "Yes, a young insect with six true legs"
+    "No, only grown-up moths are insects"
    ],
-   "a": 2,
+   "a": 0,
    "why": "Only the front six are true legs. The soft ones behind are grips, and a caterpillar is the young stage of an insect. If you said no, you counted the grips as legs.",
    "outcome": 0
   },
@@ -3180,11 +3180,11 @@
    "t": "mcq",
    "p": "A male moth finds a female from far away, yet has no nose. What does he smell with?",
    "opts": [
-    "His antennae",
     "His compound eyes",
-    "His spiracles"
+    "His spiracles",
+    "His antennae"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Antennae carry thousands of sensors for smell. Compound eyes see, and spiracles are breathing holes.",
    "outcome": 1
   },
@@ -3192,11 +3192,11 @@
    "t": "mcq",
    "p": "A bee sees ultraviolet lines on a flower that looks plain yellow to you. What does this show?",
    "opts": [
+    "Bees see light that our eyes cannot",
     "The flower changes colour for the bee",
-    "Bees see better than we do in every way",
-    "Bees see light that our eyes cannot"
+    "Bees see better than we do in every way"
    ],
-   "a": 2,
+   "a": 0,
    "why": "Our eyes and a bee's eyes pick up different light, so the same flower looks different. A compound eye is also less sharp than ours, so bees do not see better in every way.",
    "outcome": 1
   },
@@ -3204,11 +3204,11 @@
    "t": "mcq",
    "p": "An ant walks across a ceiling without tipping. Which helps most?",
    "opts": [
-    "Three legs always grip while three move",
     "She is too light to fall",
+    "Three legs always grip while three move",
     "Her wings hold her up"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Her six legs work as two tripods in turn, so three legs always make a steady triangle, with sticky pads and claws to grip. Wings are not used for walking.",
    "outcome": 1
   },
@@ -3229,10 +3229,10 @@
    "p": "Which of these grows up in three stages, with no pupa?",
    "opts": [
     "A mosquito",
-    "A ladybird",
-    "A dragonfly"
+    "A dragonfly",
+    "A ladybird"
    ],
-   "a": 2,
+   "a": 1,
    "why": "A dragonfly goes from egg to nymph to adult. A mosquito and a ladybird both go through a pupa, which is four stages.",
    "outcome": 2
   },
@@ -3247,11 +3247,11 @@
    "t": "mcq",
    "p": "A farmer kills every fly in her mango orchard. Mango flowers are mostly pollinated by flies. What is likely?",
    "opts": [
-    "She will get more mangoes",
     "She will get fewer mangoes",
+    "She will get more mangoes",
     "Nothing changes, because wind does the work"
    ],
-   "a": 1,
+   "a": 0,
    "why": "Flies carry the pollen from flower to flower, and without pollen a flower cannot make fruit. Wind and self-pollination are how rice and wheat manage, but mango needs its flies.",
    "outcome": 3
   },
@@ -3272,10 +3272,10 @@
    "p": "Ladybirds, dragonflies and tiny wasps help a farmer in the same way. How?",
    "opts": [
     "They carry pollen from flower to flower",
-    "They break down dung in the field",
-    "They hunt insects who eat the crop"
+    "They hunt insects who eat the crop",
+    "They break down dung in the field"
    ],
-   "a": 2,
+   "a": 1,
    "why": "All three are hunters, called predators. A farmer who protects them needs less spray. Pollen carriers and dung clearers do other jobs.",
    "outcome": 4
   },
@@ -3295,11 +3295,11 @@
    "t": "mcq",
    "p": "A lone locust harms nobody, but a crowd of them ruins crops. What does this show about 'pest'?",
    "opts": [
-    "The word names what insects do in a place",
     "Only locusts can be pests",
-    "The lone locust is a different animal"
+    "The lone locust is a different animal",
+    "The word names what insects do in a place"
    ],
-   "a": 0,
+   "a": 2,
    "why": "The lone locust and the swarming locust are the same animal. Crowding changes her colour and behaviour. 'Pest' describes the situation with people, not a kind of insect.",
    "outcome": 5
   },
@@ -3319,11 +3319,11 @@
    "t": "mcq",
    "p": "Why can a poison spray leave more aphids on a field than before?",
    "opts": [
+    "It also kills the ladybirds and wasps who hunted them",
     "Aphids grow bigger on poison",
-    "The spray feeds the aphids",
-    "It also kills the ladybirds and wasps who hunted them"
+    "The spray feeds the aphids"
    ],
-   "a": 2,
+   "a": 0,
    "why": "A spray reaches every insect that the poison lands on. Aphids breed fastest, so they come back first, with no hunters left to stop them.",
    "outcome": 6
   },
