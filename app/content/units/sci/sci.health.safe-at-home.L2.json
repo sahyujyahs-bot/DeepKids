@@ -16,7 +16,7 @@
   "I can show the safe way to hold, carry and pass a knife and a pair of scissors.",
   "I can say what to do after a small cut, and when to fetch a grown-up or a doctor.",
   "I can say why a metal handle gets hot and why steam and hot water burn.",
-  "I can say what to do after a burn: cool it under running water for about 20 minutes.",
+  "I can say how to treat a burn, and why the cooling must last so long.",
   "I can show how to lift something with my legs, and say when a thing is too heavy for me.",
   "I can give two views on a question that has no single answer, such as when a child should use a real knife."
  ],
@@ -57,9 +57,9 @@
    "concept": "People have made sharp edges for more than a million years",
    "status": "defined",
    "definition": "A blade is a thin edge made on purpose. The first blades were made by breaking stones so that a thin edge was left.",
-   "description": "Sharp tools are much older than steel. Long ago, people hit one stone with another until a thin, sharp flake broke off. At Attirampakkam, near Chennai, the archaeologist Shanti Pappu and her team dug up stone hand-axes. In 2011 they reported that the oldest are about 15 lakh years old. That is long before anyone built a house or grew rice. The people who made them were not our kind of human. They were an older kind. So knowing how to make an edge, and how to hold it safely, is older than we are.",
+   "description": "Sharp tools are much older than steel. Long ago, people hit one stone with another until a thin, sharp flake broke off. At Attirampakkam, near Chennai, the archaeologist Shanti Pappu and her team dug up stone hand-axes. In 2011 they reported that the oldest are about 15 lakh years old. Dating layers that old is hard, so scientists say 'about' and keep checking. That is long before anyone built a house or grew rice. The people who made them were not our kind of human. They were an older kind. So knowing how to make an edge, and how to hold it safely, is older than we are.",
    "examples": [
-    "In Kenya, the archaeologist Sonia Harmand's team found stone tools about 33 lakh years old in 2011 and reported them in 2015. They are the oldest known so far.",
+    "In Kenya, the archaeologist Sonia Harmand's team found stone tools about 33 lakh years old in 2011 and reported them in 2015. They are among the oldest known.",
     "A black volcano glass called obsidian breaks into edges thinner than a steel knife's. A few surgeons have used obsidian blades.",
     "Sushruta, a surgeon of ancient India, listed 20 kinds of sharp instruments in his book.",
     "Steel knives came much later. People have worked iron for about 3,000 to 4,000 years."
@@ -112,7 +112,7 @@
    "concept": "Using a knife or scissors: where the edge points, where your fingers are, and where your eyes are",
    "status": "defined",
    "definition": "Safe cutting means the edge moves away from your body, your fingers stay out of its path, and you watch the edge the whole time.",
-   "description": "A knife or scissors is always used with a grown-up beside you. Three things keep you safe. First, the edge. Cut down onto a board or away from your body, never towards your other hand. Second, your fingers. Curl the fingertips of the holding hand under, like a cat's paw, so the knuckles face the knife. Third, your eyes. Look at the edge while it moves. If someone calls you, put the knife down first and then look up. When you carry scissors, hold the closed blades in your fist and walk. To pass a knife, lay it on the table for the other person to pick up.",
+   "description": "A knife or scissors is always used with a grown-up beside you. Three things keep you safe. First, the edge. Cut down onto a board or away from your body, never towards your other hand. Second, your fingers. Curl the fingertips of the holding hand under, like a cat's paw, so the knuckles face the knife. Third, your eyes. Look at the edge while it moves. If someone calls you, put the knife down first and then look up. When you carry scissors, hold them closed by the rings, with the points down and close to your leg, and walk. Hold a knife by its handle, with the point down. To pass a knife, lay it on the table for the other person to pick up.",
    "examples": [
     "Start with soft food and a plastic knife: a banana, a boiled potato, paneer, a cucumber cut in half so it lies flat.",
     "A round carrot rolls. Ask a grown-up to cut it in half first, so the flat side sits on the board.",
@@ -121,7 +121,7 @@
    ],
    "perspectives": [
     {
-     "who": "Cooks trained in restaurant kitchens",
+     "who": "Professional chefs and cookery teachers",
      "explanation": "They teach the curled 'claw' grip and passing a knife by laying it down. In a busy kitchen a person carrying a knife calls out so that nobody turns into the blade."
     },
     {
@@ -135,8 +135,8 @@
   {
    "concept": "The aruvamanai: a tool where the blade stays still and the food moves",
    "status": "defined",
-   "definition": "An aruvamanai is a curved blade fixed upright on a wooden board. The cook sits, holds the board steady with a foot, and moves the food against the blade.",
-   "description": "A knife is one answer to the question 'how do I cut food?'. Many Indian kitchens found a different one. The aruvamanai is a curved blade fixed on a wooden board. The cook sits on the floor and holds the board down with one foot. Both hands hold the vegetable and push it against the blade. The blade never moves, so it cannot slip or fall. In Bengal the same kind of tool is called a boti, in Maharashtra a vili and in Telugu homes a kathipeeta. A fixed blade has its own rule. Nobody walks near it, and it is laid on its side when the work is done.",
+   "definition": "An aruvamanai is a tool for cutting food in which the blade stays still and the cook moves the food against it.",
+   "description": "A knife is one answer to the question 'how do I cut food?'. Many Indian kitchens found a different one, the aruvamanai. Its curved blade stands fixed upright on a wooden board. The cook sits on the floor and holds the board down with one foot. Both hands hold the vegetable and push it against the blade. The blade never moves, so it cannot slip or fall. In Bengal the same kind of tool is called a boti, in Maharashtra a vili and in Telugu homes a kathipeeta. A fixed blade has its own rule. Nobody walks near it, and it is laid on its side when the work is done.",
    "examples": [
     "A grater and a peeler follow the same idea: the sharp part stays still and the food moves across it.",
     "A fish-seller in Kolkata cuts a whole fish on a large boti, using both hands to guide the fish.",
@@ -162,7 +162,7 @@
    "description": "Your skin covers every part of you. It keeps water and blood in. It keeps dust and germs out. Germs are living beings too small to see, and some of them can make you ill. The top layer of skin is thin and has no blood in it. That is why a light scratch turns white and does not bleed. Under it is a thicker layer full of very thin blood tubes and nerve endings. Nerve endings are the body's sensors. They send a message to your brain, and you feel it as pain. A cut that reaches this layer bleeds and hurts. The pain is useful. It tells you where the opening is.",
    "examples": [
     "A paper cut is shallow but stings, because fingertips have very many nerve endings.",
-    "The skin on your heel is thick. The skin on your eyelid is thinner than a sheet of paper.",
+    "The skin on your heel is thick. The skin on your eyelid is as thin as a few sheets of paper.",
     "A scraped knee is skin rubbed away over a wide place. A cut is skin opened along a line."
    ],
    "perspectives": [],
@@ -205,8 +205,8 @@
    ],
    "perspectives": [
     {
-     "who": "Many Indian families, and Ayurvedic texts such as the Sushruta Samhita",
-     "explanation": "Turmeric powder is pressed on a small cut. Sushruta lists turmeric among plants used on wounds. In laboratories, a substance in turmeric called curcumin has helped wounds heal in animals."
+     "who": "Grandmothers in Indian homes, with Ayurvedic texts",
+     "explanation": "Turmeric powder is pressed on a small cut. Ayurvedic texts list turmeric among the plants used on wounds. In laboratories, a substance in turmeric called curcumin has helped wounds heal in animals."
     },
     {
      "who": "Most doctors today",
@@ -224,7 +224,7 @@
    "concept": "Why a dirty cut needs a doctor: tetanus bacteria live in soil, not in rust",
    "status": "defined",
    "definition": "Tetanus is a serious illness caused by bacteria that live in soil and dung. They can enter the body through a deep or dirty cut.",
-   "description": "People say a rusty nail gives you tetanus. Rust does not. Rust is only iron that has joined with oxygen from air and water. Tetanus comes from bacteria, who are living beings too small to see. These bacteria live in soil, dust and animal dung. They do badly in fresh air, so they wait as tough seeds called spores. A deep cut with little air in it suits them. A nail that has lain in the mud carries soil, and it makes a deep, narrow hole. That is the real reason for the warning. A tetanus injection teaches your body to stop the poison these bacteria make. So a deep or dirty cut means a visit to the doctor.",
+   "description": "People say a rusty nail gives you tetanus. Rust does not. Rust is only iron that has joined with oxygen from air and water. Tetanus comes from bacteria, who are living beings too small to see. These bacteria live in soil, dust and animal dung. They do badly in fresh air, so they wait as tough, sleeping forms called spores. A deep cut with little air in it suits them. A nail that has lain in the mud carries soil, and it makes a deep, narrow hole. That is the real reason for the warning. A tetanus injection teaches your body to stop the poison these bacteria make. So a deep or dirty cut means a visit to the doctor.",
    "examples": [
     "A clean, shiny nail that has been in the mud can carry tetanus spores. A rusty spoon kept in a dry kitchen almost never does.",
     "Babies in India get tetanus protection in their first injections, and children get boosters as they grow.",
@@ -233,10 +233,10 @@
    "perspectives": [
     {
      "who": "Kitasato Shibasaburo, a Japanese scientist working in Berlin, in 1889",
-     "explanation": "He was the first to grow the tetanus bacteria alone, away from other germs. With Emil von Behring he showed in 1890 that blood from a protected animal could protect another. The first Nobel Prize for this work, in 1901, went to Behring alone."
+     "explanation": "He was the first to grow the tetanus bacteria alone, away from other germs. With Emil von Behring he showed in 1890 that blood from a protected animal could protect another. The first Nobel Prize in Medicine, in 1901, went to Behring alone, for this kind of treatment with blood from protected animals. Kitasato was left out."
     }
    ],
-   "art": "A muddy nail lying in garden soil with a magnifying circle showing tiny rod-shaped bacteria in the soil, and beside it a rusty spoon in a dry drawer with no bacteria.",
+   "art": "A muddy nail lying in garden soil with a magnifying circle showing tiny rod-shaped bacteria in the soil, and next to the nail a rusty spoon in a dry drawer with no bacteria.",
    "context": "This card corrects a common belief about rust, and explains why a deep or dirty cut needs a doctor.",
    "one_view": "Scientists agree on where tetanus bacteria live and how a tetanus injection protects, so only one honest view exists. The old saying about rust is the common mix-up, and the card says why it is wrong."
   },
@@ -273,7 +273,7 @@
     "A cup of tea at the edge of a table can be pulled down by a small child or a trailing cloth.",
     "Lift the lid of a pot with the far side up first, so the steam goes away from your face.",
     "The steam from a pressure cooker's whistle comes out hotter than boiling water.",
-    "Oil for frying is nearly twice as hot as boiling water, so a splash of oil burns deeper.",
+    "Frying oil can be about 180 degrees Celsius. Boiling water is 100. So a splash of oil burns deeper.",
     "For a bucket bath, the cold water goes in first and the hot water after, and a grown-up tests it."
    ],
    "perspectives": [],
@@ -293,7 +293,7 @@
    ],
    "perspectives": [
     {
-     "who": "Most families, in daily talk",
+     "who": "Many parents and teachers, in daily talk",
      "explanation": "Pain is a bad thing to be stopped as fast as possible."
     },
     {
@@ -312,7 +312,7 @@
    "concept": "After a burn: cool it under running water for about 20 minutes",
    "status": "defined",
    "definition": "A burn is skin harmed by heat. Cooling a burn means carrying the heat out of the skin with cool running water.",
-   "description": "A burn keeps burning after you pull away, because the heat is still inside the skin. So the first job is to take the heat out. Tell a grown-up. Hold the burn under cool running tap water for about 20 minutes. That is a long time, about four songs. Take off rings or bangles near the burn before the skin swells. Then cover the burn loosely with a clean cloth. Do not use ice, which can harm skin a second time. Do not put on toothpaste, butter, ghee or flour. They hold the heat in and carry germs. See a doctor if the burn is bigger than your palm, has blisters, or is on the face or hands.",
+   "description": "A burn keeps burning after you pull away, because the heat is still inside the skin. So the first job is to take the heat out. Tell a grown-up. Hold the burn under cool running tap water for about 20 minutes. That is a long time, as long as about five songs. Take off rings or bangles near the burn before the skin swells. Then cover the burn loosely with a clean cloth. Do not use ice, which can harm skin a second time. Do not put on toothpaste, butter, ghee or flour. They hold the heat in and carry germs. See a doctor if the burn is bigger than your palm, has blisters, or is on the face or hands.",
    "examples": [
     "If no tap is near, pour cool clean water from a mug again and again.",
     "A blister is the body's own cover over a burn. Popping it lets germs in.",
@@ -320,16 +320,16 @@
    ],
    "perspectives": [
     {
-     "who": "Home remedies in many countries",
+     "who": "Families in India and many other countries who use home remedies",
      "explanation": "People put toothpaste, butter, ghee, ink or flour on burns. They feel cool or smooth for a moment, which is why the habit lasts."
     },
     {
      "who": "Burn doctors today",
-     "explanation": "Studies of burned children found that those cooled with running water straight away had shallower burns and needed fewer operations. Cooling still helps if it starts some minutes late. Grease and paste trap heat."
+     "explanation": "Studies of burned children found that cooling with running water straight away helped. In one hospital in Vietnam, 33 in every 100 children who were cooled at once had deep burns. Of those not cooled, 49 in every 100 had deep burns. Cooling still helps if it starts some minutes late. Grease and paste trap heat."
     },
     {
      "who": "Sushruta, in the Sushruta Samhita, Sutrasthana, chapter 12",
-     "explanation": "Sushruta sorted burns into four kinds by how deep they go, from a scorch that only changes the skin's colour to a burn that reaches the flesh. Doctors today also sort burns by depth."
+     "explanation": "Sushruta sorted burns into four kinds by how deep they go. The mildest only changes the skin's colour. The deepest reaches the flesh. Doctors today also sort burns by depth."
     },
     {
      "who": "People who use aloe vera gel",
@@ -346,18 +346,18 @@
    "description": "A flame needs three things at once. It needs fuel, such as cooking gas, oil, wood or cloth. It needs oxygen, a gas in the air. It needs heat to get started. Take away any one and the fire stops. Turning the stove knob takes away the fuel. A lid on a burning pan takes away the air. Water on burning wood takes away the heat. Never pour water on burning oil. The water sinks under the oil, turns to steam in an instant and throws burning oil out. A grown-up slides a lid on. If your clothes catch fire, stop, drop to the floor and roll.",
    "examples": [
     "Cooking gas has no smell of its own. Gas companies add a strong-smelling chemical so that a leak can be noticed.",
-    "Cooking gas is heavier than air and sinks to the floor. After a leak, grown-ups open doors and windows and touch no switch, because a switch makes a tiny spark.",
+    "Cooking gas from a cylinder is heavier than air and sinks to the floor. After a leak, grown-ups open doors and windows and touch no switch, because a switch makes a tiny spark.",
     "A long dupatta, a loose sleeve or long open hair is kept away from the flame.",
     "Pan handles are turned inwards, so nobody knocks them."
    ],
    "perspectives": [
     {
      "who": "Antoine Lavoisier and Marie-Anne Paulze Lavoisier, in Paris in the 1770s",
-     "explanation": "Before them, scientists believed burning things gave out a substance called phlogiston. The Lavoisiers weighed things before and after burning and showed that a burning thing takes in a gas from the air, which he named oxygen. Marie-Anne translated the papers, drew the equipment and kept the notes."
+     "explanation": "Before them, scientists believed burning things gave out a substance called phlogiston. The Lavoisiers weighed things before and after burning and showed that a burning thing takes in a gas from the air, which Antoine named oxygen. Marie-Anne translated the papers, drew the equipment and kept the notes."
     },
     {
      "who": "The Rig Veda, book 1, hymn 1, and many other hymns to Agni",
-     "explanation": "Fire is addressed as Agni, a guest who lives in every home and carries offerings upward. The hymns treat fire as someone to be welcomed, fed and respected, and never left untended."
+     "explanation": "Fire is addressed as Agni, the household priest who carries offerings upward. The hymns treat fire as someone to be welcomed, fed and respected, and never left untended."
     },
     {
      "who": "Chemists today",
@@ -428,7 +428,7 @@
     },
     {
      "who": "Jos Verbeek and other researchers who reviewed many studies, in 2011",
-     "explanation": "Workers who were trained in the 'correct' way to lift had about as much back pain as workers who were not. They found that lighter loads, helping machines and shared lifting protect people better than any one lifting style."
+     "explanation": "Workers who were taught the 'correct' way to lift had about as much back pain as workers who were not. Lifting aids did not clearly help either. So no single way of lifting is proven to protect backs, and the question is still open."
     },
     {
      "who": "Geoffrey Maloiy and Norman Heglund, who studied women in Kenya in 1986",
@@ -457,7 +457,7 @@
   {
    "concept": "Other animals use sharp tools too, and their young take years to learn",
    "status": "defined",
-   "definition": "Tool use means an animal picks up or shapes a thing and uses it to do a job.",
+   "definition": "Tool use means an animal picks up or shapes something, such as a stick or a stone, and uses the tool to do a job.",
    "description": "Humans are not the only animals with tools and sharp parts. A cat has eighteen claws, curved and sharp. A resting cat keeps the claws drawn back into the paws. The cat puts them out for climbing, scratching or hunting. In West Africa, chimpanzees crack hard nuts with a stone hammer on a stone anvil. The scientist Tetsuro Matsuzawa watched them for many years in Bossou, Guinea. Young chimpanzees sit beside their mothers and watch. They need about three to five years of trying before they crack a nut. Nobody rushes them. Learning a tool slowly, beside someone skilled, is how many animals do it.",
    "examples": [
     "Sea otters float on their backs and break open shellfish on a stone held on the chest.",
@@ -495,7 +495,7 @@
     },
     {
      "who": "The World Health Organization, in its 2008 report on child injuries",
-     "explanation": "Burns, falls and other injuries harm very large numbers of children, most of them in poorer homes with open fires and crowded rooms. Guards, safer stoves and close watching prevent many of these."
+     "explanation": "Burns, falls and other injuries harm very large numbers of children, and most of the deaths are in low- and middle-income countries. Guards, safer stoves and close watching prevent many of these."
     },
     {
      "who": "Families in many farming and craft communities in India",
@@ -519,7 +519,7 @@
    "perspectives": [
     {
      "who": "Safety engineers",
-     "explanation": "Removing a danger works better than guarding it, and guarding works better than warning. A warning label is the weakest protection, because it depends on a tired person reading and remembering."
+     "explanation": "Take the danger away if you can. If you cannot, put a guard in the way. A warning is the weakest of the three, because it depends on a tired person reading it and remembering."
     },
     {
      "who": "Craftspeople such as carpenters, cooks and tailors",
@@ -532,12 +532,12 @@
  ],
  "agreed": [
   {
-   "text": "Most injuries to young children happen inside the home, and the kitchen is one of the commonest places.",
-   "evidence": "Hospital records in India and many other countries, gathered in the World Health Organization's 2008 report on child injuries, show that young children are most often hurt at home, by falls, hot liquids and sharp things."
+   "text": "Many injuries to young children happen inside the home, and the kitchen is one of the commonest places.",
+   "evidence": "The World Health Organization gathered hospital records from India and many other countries for its 2008 report on child injuries. They show that young children are often hurt at home. Falls, hot liquids and sharp things are common causes."
   },
   {
-   "text": "A small burn cooled with water at once heals with less scarring than one left alone.",
-   "evidence": "A study of 695 burned children in Vietnam, reported in 2002 by Nguyen and colleagues, compared children who were cooled with water straight away with those who were not. The cooled children had shallower burns and needed fewer skin operations."
+   "text": "A burn that is cooled with water at once is less likely to become a deep burn.",
+   "evidence": "In 2002 Nguyen and colleagues looked back at the hospital records of 695 burned children in Hanoi, Vietnam. Of the children cooled with water straight away, 33 in every 100 had deep burns. Of the children not cooled, 49 in every 100 did. Deep burns are the ones that may need skin grafts."
   },
   {
    "text": "Skin cells are replaced all the time, even when you are not hurt.",
@@ -553,7 +553,7 @@
    "claim": "Children should use real knives early, with a grown-up, instead of waiting.",
    "who": "Maria Montessori and teachers who follow her, and many families in farming and craft communities",
    "for": "Children who practise with real, child-sized tools beside an adult build steady hands and respect for the tool. Researchers on risky play, such as Ellen Sandseter, find that small real risks help children judge danger.",
-   "against": "Children's hands and attention differ a great deal. Injury doctors point out that a moment's lapse with a real blade can harm a hand for life, and that not every home has an adult free to stay close.",
+   "against": "Children's hands and attention differ a great deal. Injury doctors point out that a moment's lapse with a real blade can harm a hand for life. Also, not every home has an adult free to stay close.",
    "status": "debated",
    "context": "This is a real disagreement about when and how children should meet sharp tools. Both sides want children safe and skilled."
   },
@@ -567,9 +567,9 @@
   },
   {
    "claim": "Learning the 'correct' way to lift prevents back injury.",
-   "who": "Most workplace safety courses",
+   "who": "Manual-handling trainers, who teach workers how to lift",
    "for": "Holding a load close and using the legs does lower the strain on the back, as measurements of muscle work show.",
-   "against": "Reviews of many studies, led by Jos Verbeek in 2011, found that trained workers had about as much back pain as untrained ones. Lighter loads and lifting aids helped more.",
+   "against": "Reviews of many studies, led by Jos Verbeek in 2011, found that trained workers had about as much back pain as untrained ones. Lifting aids made no clear difference either. Carrying less and sharing a load are still sensible.",
    "status": "debated",
    "context": "Advice that almost everyone repeats, tested and found weaker than expected. It shows that even sensible-sounding rules need checking."
   },
@@ -589,7 +589,7 @@
    "hint": "Think about what has to come together before anyone gets hurt."
   },
   {
-   "q": "Pain feels bad, yet people who cannot feel pain get hurt far more. Is pain a friend or an enemy?",
+   "q": "Pain feels bad, yet people who are born without the sense of pain get hurt far more. Is pain a friend or an enemy?",
    "kind": "deep",
    "hint": "Ask what pain tells you, and what you would lose without it."
   },
@@ -668,7 +668,7 @@
   ]
  },
  "how_we_found_out": {
-  "story": "For hundreds of years, in many countries, people put butter, oil, flour or ink on a burn. It made sense to them. Grease feels smooth, and a covered burn stings less in the air. In Iceland, families had a different old habit. They held a burn in cold water. In the 1950s an Icelandic doctor, Ófeigur Ófeigsson, noticed that patients who had done this healed better than he expected. He tested the idea carefully and published his results between 1959 and 1965. Cooling with water gave shallower burns, and it still helped when it began some minutes late. Many doctors were slow to believe a folk habit. In 2002 Nguyen and colleagues reported on 695 burned children in Vietnam. Those cooled with water at once had shallower burns and needed fewer operations. Grease fails for a plain reason. It holds the heat in the skin, and the heat goes on doing harm.",
+  "story": "For hundreds of years, in many countries, people put butter, oil, flour or ink on a burn. It made sense to them. Grease feels smooth, and a covered burn stings less in the air. In Iceland, families had a different old habit. They held a burn in cold water. Around the 1950s an Icelandic doctor, Ófeigur Ófeigsson, noticed that patients who had done this healed better than he expected. He tested the idea carefully and published his results in 1965. Cooling with water gave shallower burns, and it still helped when it began some minutes late. Many doctors were slow to believe a folk habit. In 2002 Nguyen and colleagues reported on 695 burned children in Vietnam. Of those cooled with water at once, 33 in every 100 had deep burns. Of those not cooled, 49 in every 100 did. Grease fails for a plain reason. It holds the heat in the skin, and the heat goes on doing harm.",
   "who": "Ófeigur Ófeigsson, Icelandic families, N. L. Nguyen and colleagues",
   "when": "The 1950s to 2002",
   "wrong_idea": "People believed grease, butter or paste was the right thing for a burn. It was believable because grease feels soothing and keeps air off the sore skin. Tests showed that it traps heat, while running water carries the heat away."
@@ -678,14 +678,14 @@
   "deep_truth": {
    "truth": "You pushed on dough with your palm, and it dented. You pushed just as hard with a ruler's edge, and it cut. Then a thread cut it too. Nothing sharp was added to the ruler or the thread. So cutting happens where a push meets a small place, and no thing is dangerous alone.",
    "habit": "We sort the things in a home into 'safe things' and 'dangerous things', as if danger sat inside the knife the way steel does. That label makes us fear the thing and forget the meeting. The test shows that a soft thread can cut and a steel ruler laid flat cannot.",
-   "evidence": "In the dough test, the same push gave a dent with the palm, a shallow line with the flat of the ruler and a clean cut with its edge and with a tight thread. Only the size of the touching place changed."
+   "evidence": "In the dough test, the same push gave a dent with the palm. It gave a shallow line with the flat of the ruler. It gave a clean cut with the ruler's edge and with a tight thread. Only the size of the touching place changed."
   },
   "three": {
    "who_am_i": "Your skin closed a cut while you slept, and your hand jumped from heat before you thought. Much of what keeps you whole is done by parts of you that you never command. Knowing this, you can ask how much of 'me' is the part that thinks, and how much is all the rest.",
    "what_is_life": "A cut body mends. A cut carrot does not grow back on the plate, yet the carrot top in water sends up leaves. Every living being senses harm and works to stay whole. Seeing your own finger mend shows you what all life is busy doing.",
    "what_is_this_world": "Heat flows, weight pulls and edges press on everything alike, a child and a stone. The same heat that cooks rice burns skin. The world does not hold some things that are for us and some that are against us. It holds meetings, and we are part of each one."
   },
-  "thread": "A knife on a shelf harms nobody. Harm needs an edge, a body, a push and a moment, all together. Take one away and there is no harm. The same is true of the burn and the fall. So safety is less about bad things and more about how things meet, and attention is our part of the meeting. Consciousness is the ground that the edge, the hand and the watching all arise from. Many scientists do not accept this last step, and their view is given below.",
+  "thread": "A knife on a shelf harms nobody. Harm needs an edge, a body, a push and a moment, all together. Take one away and there is no harm. The same is true of the burn and the fall. So safety is not mostly about bad things. It is about how things meet, and attention is our part of the meeting. One old view says that awareness is what the edge, the hand and the watching all arise from. Many scientists do not accept this last step, and their view is given below.",
   "teachings": [
    {
     "source": "Bhagavad Gita, chapter 2, verse 23",
@@ -715,13 +715,13 @@
   ],
   "other_view": {
    "who": "The Charvaka school of ancient India, and many scientists today",
-   "view": "The Charvakas taught that a person is the body and nothing more, and that awareness comes from the body as the power to make people drunk comes from mixed grains. On this view there is no self that a knife cannot reach. Caring for the body matters all the more, because the body is all there is."
+   "view": "The Charvakas taught that a person is the body and nothing more. They said awareness comes from the body, as the power to make people drunk comes from mixed grains. On this view there is no self that a knife cannot reach. Caring for the body matters all the more, because the body is all there is."
   },
   "practice": {
    "title": "One slow slice",
    "mins": 3,
-   "say": "Sit beside your child with a banana and a plastic picnic knife. Say: 'We will cut one slice as slowly as we can. Before you start, look at the edge. Look at where your fingers are. Now cut, and watch the edge the whole way down.' Cut one slice each. Then say: 'Close your eyes. Can you still feel where the knife was? What was your mind doing while you cut?'",
-   "kid": "Ask a grown-up to sit with you. Take a banana and a plastic picnic knife. Look at the edge. Look at where your fingers are. Cut one slice as slowly as you can and watch the edge all the way. Then close your eyes. What was your mind doing while you cut?"
+   "say": "Sit beside your child with a banana and a plastic picnic knife. Say: 'We will cut one slice as slowly as we can. Before you start, look at the edge. Look at where your fingers are. Now cut, and watch the edge the whole way down.' Cut one slice each. Then put the knives down on the board. Say: 'Now close your eyes. Can you still feel where the knife was? What was your mind doing while you cut?'",
+   "kid": "Ask a grown-up to sit with you. Take a banana and a plastic picnic knife. Look at the edge. Look at where your fingers are. Cut one slice as slowly as you can. Watch the edge all the way. Then put the knife down. Close your eyes. What was your mind doing while you cut?"
   },
   "ask": [
    "A thread can cut dough, and a steel ruler laid flat cannot. So what do we really mean when we call a thing dangerous?",
@@ -775,7 +775,7 @@
    "Brahmagupta, Brahmasphutasiddhanta (628 CE). Bhagavad Gita 2.23. Zhuangzi chapter 3. Thirukkural 129."
   ]
  },
- "playtest": "Not yet tried with real families: the dough test with different atta brands and a steel versus plastic ruler, the ice test in winter, the box tilt test with different boxes, and the carry challenge with real bags. Every step that uses a ruler edge, a thread, scissors, a stove or a plug has a grown-up beside the child. No real knife is used in any activity. This lesson gives first aid for small cuts and burns only. It does not replace a doctor. Facts still to check: Attirampakkam hand-axes about 15 lakh years old (Pappu and colleagues, Science, 2011). Lomekwi tools about 33 lakh years old (Harmand and colleagues, Nature, 2015). Sushruta Samhita chapter numbers and the turmeric mention. Moritz and Henriques 1947 (water at 60 degrees Celsius burns in about 5 seconds). Nguyen and colleagues 2002 (695 children in Vietnam) and what exactly improved with cooling. Verbeek 2011 Cochrane review on lifting advice. Matsuzawa on nut-cracking at Bossou. Denis Papin's 1679 safety valve. Thirukkural 129 wording. India's emergency number 112.",
+ "playtest": "Not yet tried with real families: the dough test with different atta brands and a steel versus plastic ruler, the ice test in winter, the box tilt test with different boxes, and the carry challenge with real bags. Every step that uses a ruler edge, a thread, scissors, a stove or a plug has a grown-up beside the child. No real knife is used in any activity. This lesson gives first aid for small cuts and burns only. It does not replace a doctor. Facts still to check: Attirampakkam hand-axes about 15 lakh years old (Pappu and colleagues, Science, 2011). Lomekwi tools about 33 lakh years old (Harmand and colleagues, Nature, 2015). Sushruta Samhita chapter numbers and the turmeric mention. Moritz and Henriques 1947 (water at 60 degrees Celsius burns in about 5 seconds). Nguyen and colleagues 2002 (695 children in Vietnam) and what exactly improved with cooling. Verbeek 2011 Cochrane review on lifting advice. Matsuzawa on nut-cracking at Bossou. Denis Papin's 1679 safety valve. Thirukkural 129 wording. India's emergency number 112. Checked while reviewing: Nguyen and colleagues 2002 (33 percent of cooled children had deep burns, against 49 percent of the others, from PubMed). Still to check: the Verbeek 2011 review result on lifting aids; the Icelandic cold-water habit and Ofeigsson's dates; Attirampakkam dating (later work may give younger ages); Sushruta chapter 12 burn classes and turmeric; Rig Veda 1.1 wording on Agni; the WHO 2008 report wording on where injuries happen.",
  "cards_mins": 15,
  "terms": [
   {
@@ -900,7 +900,7 @@
   },
   {
    "term": "spores",
-   "meaning": "Tough little seeds that some bacteria make so they can wait for a long time.",
+   "meaning": "Tough, sleeping forms that some bacteria make so they can wait for a long time.",
    "example": "Tetanus bacteria wait in soil as spores. They wake up in a deep cut with no air.",
    "art": "A soil crumb with tiny sealed seeds inside it."
   },
@@ -1152,9 +1152,9 @@
     {
      "id": "s5",
      "mins": 3,
-     "do": "1. Hold the ruler upright on its thin edge, with your fingers on its flat sides. 2. Your child lays one palm on the top end and presses the same gentle push for a count of three. 3. Look at the mark.",
+     "do": "1. Hold the ruler upright on its thin edge, with your fingers on its flat sides. Fold a clean cloth over the top end, so your child presses on soft cloth and not on a thin steel end. 2. Your child lays one palm on the top end and presses the same gentle push for a count of three. 3. Look at the mark.",
      "say": "Now the thin edge. We use the same gentle push. Look at how far it goes in.",
-     "kid": "A grown-up holds the ruler on its thin edge. Press down gently on the top, to a count of three. Look at the mark.",
+     "kid": "A grown-up holds the ruler on its thin edge. Press down gently on the cloth on top, to a count of three. Look at the mark.",
      "adult": true,
      "parent": "If the edge only makes a narrow groove, that is the right result. It still goes far deeper than the palm.",
      "ask": [
@@ -1406,7 +1406,7 @@
     }
    ],
    "record": "Draw one tool. Colour the working part red and the holding part green.",
-   "context": "Every tool has a working part and a holding part. This tour helps you find both on tools in your own kitchen.",
+   "context": "Each tool you use has two parts. This tour helps you find both on tools in your own kitchen.",
    "flow": [
     {
      "id": "s1",
@@ -1501,9 +1501,9 @@
     {
      "id": "s2",
      "mins": 4,
-     "do": "Show how to carry closed scissors: hold them closed in your fist, blades pointing down, and walk. Then ask your child to carry the ruler, edge down, beside the leg, across the room and back. Walk, do not run.",
+     "do": "Show how to carry closed scissors: hold them closed by the rings, points down and close to your leg, and walk. Then ask your child to carry the ruler, edge down, beside the leg, across the room and back. Walk, do not run.",
      "say": "To carry a tool with an edge, hold it close, point it down, and walk slowly. Never run.",
-     "kid": "Carry the closed scissors in your fist, points down. Walk slowly across the room. Then carry the ruler the same way.",
+     "kid": "Carry the closed scissors by the rings, points down. Walk slowly across the room. Then carry the ruler the same way.",
      "adult": true
     },
     {
@@ -1741,7 +1741,8 @@
     }
    ],
    "think": "What would you do with a very heavy box so that you did not have to lift it at all?",
-   "problem": "How does the distance from your body change how hard a load is to hold?"
+   "problem": "How does the distance from your body change how hard a load is to hold?",
+   "safety": "Stop if the arms shake or hurt. The bottle and the bag are light, and a grown-up stays beside the child."
   },
   {
    "id": "a5",
@@ -1775,7 +1776,7 @@
     }
    ],
    "record": "Fill in: Empty, bag at the bottom, bag at the top. For each, write the level of poke that tipped the box: touch, tap, firm push, or it did not fall.",
-   "context": "A thing with its weight high up tips over easily. You test a box with the heavy bag at the bottom and at the top.",
+   "context": "A thing with its weight high up tips over easily. In this activity you tip a box three ways to find where the heavy part belongs.",
    "flow": [
     {
      "id": "s1",
@@ -1867,7 +1868,7 @@
     {
      "id": "s1",
      "mins": 2,
-     "do": "Turn off the gas at the knob and at the cylinder. Check that the pans and the stove are cold. Unplug the mixer, the kettle and the iron, pulling by the plug. Say what you have done.",
+     "do": "Turn off the gas at the knob and at the cylinder or main gas tap. Check that the pans and the stove are cold. Unplug the mixer, the kettle and the iron, pulling by the plug. Say what you have done.",
      "say": "First, we make everything safe. The gas is off. Everything is cold. The mixer is unplugged.",
      "kid": "A grown-up makes everything safe first. The gas is off and everything is cold.",
      "adult": true
@@ -1960,7 +1961,7 @@
     }
    ],
    "record": "Keep the map. Write the one change you made, and where the 112 card is.",
-   "context": "In this project you draw your own kitchen and mark the places that are safe for you, the places for a grown-up beside you, and a grown-up's jobs. Then you make one real change.",
+   "context": "In this project you draw your own kitchen. You mark the places that are safe for you, the places for a grown-up beside you, and the grown-up's jobs. Then you make one real change.",
    "flow": [
     {
      "id": "s1",
@@ -2001,7 +2002,7 @@
      "do": "Write 112 big on a card. Write 'Emergency: 112' and the family's address and one phone number a child can read out. Tape the card where everyone can see it, such as the fridge door.",
      "say": "In India, 112 is the number to call for any emergency. Let us write it big and put it where everybody can see it.",
      "kid": "Write 112 big on a card. Add your address. Tape it on the fridge door.",
-     "parent": "Say that 112 is for when someone is badly hurt, will not wake up, or a fire starts. Practise saying the address aloud together."
+     "parent": "Say that 112 is for when someone is badly hurt, will not wake up, or a fire starts. It is never for play. Practise saying the address aloud together."
     },
     {
      "id": "s5",
@@ -2035,7 +2036,7 @@
    "mins": 30,
    "problem": "Make a cover for a pretend blade, so that it can be carried and put in a drawer and nobody can touch its edge.",
    "constraints": [
-    "The pretend blade is a strip of stiff card about 3 centimetres wide and 20 centimetres long, taped to a ruler or wooden spoon as the handle.",
+    "The pretend blade is a strip of stiff card about 3 centimetres wide and 20 centimetres long. Tape it to a ruler or wooden spoon as the handle.",
     "The cover must not let the strip touch your skin, even when you shake the cover three times.",
     "You may use card, paper and tape. A grown-up does any cutting."
    ],
@@ -2115,7 +2116,8 @@
      "art": "A child shaking a covered strip while a finger tries to touch it through the cover.",
      "caption": "3. Test it: shake three times. Can a finger touch the edge?"
     }
-   ]
+   ],
+   "safety": "The blade is only card. A grown-up does all the cutting. Card edges can scratch, so run a finger along them only if a grown-up says so."
   },
   {
    "id": "c2",
@@ -2288,7 +2290,8 @@
      "art": "A bag on a cloth being slid and a bag on round pencils rolling.",
      "caption": "3. Slide it or roll it. No lifting at all."
     }
-   ]
+   ],
+   "safety": "The bag weighs about as much as two water bottles. Stop at once if anything hurts. Never lift more than feels easy."
   }
  ],
  "games": [
@@ -2681,8 +2684,8 @@
     {
      "t": "draw",
      "p": "Draw yourself carrying scissors the safe way. Show which way the points face.",
-     "a": "The scissors are closed in a fist. The points face down. The child walks and looks ahead.",
-     "why": "Closed blades in a fist with the points down keep the edge away from the body and the legs."
+     "a": "The scissors are closed and held by the rings. The points face down, close to the leg. The child walks and looks ahead.",
+     "why": "Closed scissors held by the rings with the points down keep the edge away from the body and the legs."
     },
     {
      "t": "perspective",
@@ -2734,7 +2737,7 @@
    "items": [
     {
      "t": "mcq",
-     "p": "A knife slips off a smooth tomato. Why does a blunt one slip more?",
+     "p": "Many cooks say a blunt knife slips off a smooth tomato more easily than a sharp one. What is their reason?",
      "opts": [
       "It is heavier",
       "It is hotter",
@@ -3210,12 +3213,12 @@
  "applications": [
   "A knife-sharpener who comes down the street on a cycle makes a dull knife thin-edged again, so a cook can cut with a light push.",
   "School scissors have rounded tips, so the point cannot stab a finger. Engineers designed the danger out.",
-  "A pressure cooker has a safety valve that opens when the pressure climbs too high, so the cooker cannot burst.",
+  "Look at the top of a pressure cooker. A small valve lets steam escape if the pressure gets too high, so the cooker does not burst.",
   "A steel ladle has a wooden or plastic handle, because heat moves slowly through wood and plastic.",
   "A cook lifts a hot pot with a thick, dry cloth. A wet cloth would carry the heat to the hand.",
   "Builders fix tall cupboards to the wall and put heavy things low, so a cupboard cannot be pulled over.",
   "Porters at railway stations carry suitcases on the head, right above the backbone, so the load is close to the body.",
-  "A three-pin plug has a longer earth pin that joins first and carries stray electricity safely away."
+  "Look at the three pins of a plug. The longest pin goes into the socket first. It gives stray electricity a safe path to the ground."
  ],
  "spotted": [
   {
@@ -3293,8 +3296,8 @@
    "a": "A cutting-edge comedian."
   },
   {
-   "j": "Why did the tall cupboard feel top-heavy?",
-   "a": "It had too many big ideas up high."
+   "j": "Why did the ladle get a wooden handle?",
+   "a": "It wanted to keep its cool."
   }
  ],
  "maths": [
@@ -3342,16 +3345,10 @@
    "why": "A parent page on cooling a burn under running water for 20 minutes and when to get help."
   },
   {
-   "title": "112 India: emergency response",
-   "url": "https://112.gov.in/",
-   "kind": "reference",
-   "why": "The national emergency number site. Use it to check how to call 112 from your phone."
-  },
-  {
    "title": "Indian Academy of Pediatrics",
    "url": "https://iapindia.org/",
    "kind": "reference",
-   "why": "A site by India's children's doctors, with advice for families on child safety."
+   "why": "The site of India's children's doctors. It has a section of guidelines for parents."
   }
  ],
  "buy": [
@@ -3492,7 +3489,7 @@
   ],
   "quiz": [
    [
-    "A thin edge cuts because the push lands on a tiny place.",
+    "A thin edge cuts because it puts the whole push on a tiny spot.",
     true,
     "A small place gives a bigger pressure, so a thin edge cuts."
    ],
@@ -3529,12 +3526,12 @@
    [
     "You press a clean cloth on a bleeding cut and do not lift it to peep.",
     true,
-    "Pressing helps the platelets build their plug. Peeping breaks it."
+    "Pressing helps the clot form. Peeping tears it open again."
    ],
    [
     "A load feels easier to hold close to your body.",
     true,
-    "The farther a load is from your body, the harder your muscles work."
+    "Held far out, a load makes your arm and shoulder muscles work harder."
    ],
    [
     "Some people and scientists still disagree about when a child should use a real knife.",
