@@ -991,7 +991,7 @@
     {
      "id": "s3",
      "mins": 5,
-     "do": "1. Stand the ruler straight up inside each container, touching the bottom. 2. Read the depth of the water in millimetres. 3. Write both depths.",
+     "do": "1. Stand the ruler straight up inside each container, touching the bottom. 2. Read the depth of the water in millimetres. 3. Write both depths. Bend down so your eye is level with the water line, and read the mark on the ruler.",
      "say": "Look at where your ruler's 0 is. Many rulers have a little gap before the 0, so we line up the 0 with the bottom.",
      "kid": "Stand the ruler in each one. Read how deep the water is, in millimetres. Write it down.",
      "check": {
@@ -1200,7 +1200,7 @@
   {
    "id": "a1",
    "title": "What Is the Weather Doing Now? Senses first",
-   "mins": 8,
+   "mins": 12,
    "days": 1,
    "materials": [
     {
@@ -1216,7 +1216,7 @@
    "schedule": [
     {
      "day": 1,
-     "mins": 8,
+     "mins": 12,
      "what": "Look, listen and feel the weather at a window. Guess the temperature in degrees."
     }
    ],
@@ -1246,6 +1246,14 @@
      "say": "If you had to give it a number, how many degrees is the air right now? What makes that hard to guess?",
      "kid": "Guess how many degrees the air is. Write it down. Is it easy to guess?",
      "parent": "Most guesses are a few degrees off. That is the point: our skin is not a measuring tool. Keep the guess for the Sun or Shade test."
+    },
+    {
+     "id": "s3",
+     "mins": 4,
+     "do": "If it is raining, or has just rained, look at the drops outside or on the window. 1. Are the drops big or small? 2. Do they fall straight down, or slant? 3. Do they fall as fine lines, or as a grey sheet? 4. Watch one drop: does it fall fast or slow?",
+     "say": "What do you see in the rain? Is it falling straight down, or slanting? Are the drops big or small?",
+     "kid": "Look at the rain. Is it slanting? Are the drops big or small?",
+     "parent": "No rain today? Skip this step, and try it on the next rainy day."
     }
    ],
    "context": "A quick start: you will find out how much you can tell about the weather with only your eyes, ears and skin. Then you guess the temperature before measuring it.",
@@ -1902,6 +1910,30 @@
   },
   {
    "t": "mcq",
+   "p": "You read the water in a rain gauge with a ruler. Where should your eye be?",
+   "opts": [
+    "Level with the water line",
+    "High above the gauge, looking down",
+    "Low down, looking up at the water"
+   ],
+   "a": 0,
+   "why": "Looking from above or below moves the water line in your view, so you read the wrong mm. Looking level with the line gives the true depth.",
+   "outcome": 2
+  },
+  {
+   "t": "mcq",
+   "p": "On a windy day, the rain falls at a slant. What is the wind doing to the rain?",
+   "opts": [
+    "Pushing the falling drops sideways",
+    "Making the drops fall straight down faster",
+    "Making the drops smaller"
+   ],
+   "a": 0,
+   "why": "Wind pushes the falling drops sideways, so the rain slants. Wind does not make the drops smaller, and gravity still pulls them down.",
+   "outcome": 2
+  },
+  {
+   "t": "mcq",
    "p": "Rainfall is measured as...",
    "opts": [
     "a depth, in millimetres",
@@ -2124,6 +2156,24 @@
      "how": "e1"
     },
     {
+     "t": "order",
+     "p": "Put the steps of reading the rain in a gauge in order.",
+     "items": [
+      "Read the mark on the ruler where the water line is",
+      "Stand the ruler straight up inside the gauge, touching the bottom",
+      "Bend down so your eye is level with the water",
+      "Write the depth in millimetres"
+     ],
+     "a": [
+      "Stand the ruler straight up inside the gauge, touching the bottom",
+      "Bend down so your eye is level with the water",
+      "Read the mark on the ruler where the water line is",
+      "Write the depth in millimetres"
+     ],
+     "why": "First stand the ruler, then level your eye with the water, then read the mark, then write it down. Reading from above or below gives the wrong depth.",
+     "outcome": 2
+    },
+    {
      "t": "odd",
      "p": "Three of these are weather tools. Which one is the odd one out?",
      "opts": [
@@ -2231,6 +2281,14 @@
      "p": "A rain gauge shows 4 mm on Monday, 12 mm on Tuesday, 0 mm on Wednesday and 9 mm on Thursday. How much rain fell in the four days?",
      "a": 25,
      "why": "4 + 12 + 0 + 9 = 25 mm. Adding the daily depths gives the total rainfall. A strong answer counts the 0 too, because a dry day is still a day in the record."
+    },
+    {
+     "t": "write",
+     "p": "Look at the rain from a window. Say if the drops are big or small, if they slant, and if the rain looks like fine lines or a grey sheet.",
+     "lines": 4,
+     "a": "A strong answer describes what the child saw, such as small drops slanting in the wind, or a heavy shower that looks like a grey sheet. It says why: wind pushes the drops sideways.",
+     "why": "A good answer describes size and slant from what was seen, and does not guess numbers it did not measure.",
+     "outcome": 2
     },
     {
      "t": "mcq",

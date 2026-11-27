@@ -332,7 +332,7 @@ And next to the word 'Temperature' she added a small note to herself, in red pen
   *Child mode:* Put both containers side by side. Hold the chalni above them. Pour three mugs of water through it.
   - Note: No chalni? Use a colander, or a plastic bottle with ten small holes in the cap, made by a grown-up. The spray is never perfectly even, so expect the two depths to differ by a few millimetres. The water on the floor goes down the bathroom drain.
 - **s3 (5 min)**  
-  *Parent does:* 1. Stand the ruler straight up inside each container, touching the bottom. 2. Read the depth of the water in millimetres. 3. Write both depths.  
+  *Parent does:* 1. Stand the ruler straight up inside each container, touching the bottom. 2. Read the depth of the water in millimetres. 3. Write both depths. Bend down so your eye is level with the water line, and read the mark on the ruler.  
   *Parent says:* Look at where your ruler's 0 is. Many rulers have a little gap before the 0, so we line up the 0 with the bottom.  
   *Child mode:* Stand the ruler in each one. Read how deep the water is, in millimetres. Write it down.
   - Check: The wide dabba and the narrow glass both have water about 12 mm deep. Which one caught more water? → **The wide dabba**
@@ -376,7 +376,7 @@ And next to the word 'Temperature' she added a small note to herself, in red pen
   - Note: This is called claim, evidence and reasoning. Any honest answer with all three parts is good. A good answer sounds like this. What I think: the air is warmest in the afternoon, not at noon. What I saw: it was 28 °C at 7, 34 °C at noon and 36 °C at 2, then it went down to 31 °C by 7 in the evening. Why: the ground and walls keep warming the air after noon, until the Sun gets low.
 
 ## Activities
-### a1 · What Is the Weather Doing Now? Senses first (8 min)
+### a1 · What Is the Weather Doing Now? Senses first (12 min)
 - **safety:** Don't look at the Sun.
 - **record:** Write four words for today's weather, and your guess of the temperature.
 - **s1 (4 min)**  
@@ -389,6 +389,11 @@ And next to the word 'Temperature' she added a small note to herself, in red pen
   *Parent says:* If you had to give it a number, how many degrees is the air right now? What makes that hard to guess?  
   *Child mode:* Guess how many degrees the air is. Write it down. Is it easy to guess?
   - Note: Most guesses are a few degrees off. That is the point: our skin is not a measuring tool. Keep the guess for the Sun or Shade test.
+- **s3 (4 min)**  
+  *Parent does:* If it is raining, or has just rained, look at the drops outside or on the window. 1. Are the drops big or small? 2. Do they fall straight down, or slant? 3. Do they fall as fine lines, or as a grey sheet? 4. Watch one drop: does it fall fast or slow?  
+  *Parent says:* What do you see in the rain? Is it falling straight down, or slanting? Are the drops big or small?  
+  *Child mode:* Look at the rain. Is it slanting? Are the drops big or small?
+  - Note: No rain today? Skip this step, and try it on the next rainy day.
 ### a2 · Make a Wind Vane (25 min)
 - **safety:** A grown-up pushes the pin in. Keep the pin point away from faces.
 - **record:** Take a photo of your wind vane, or draw it. Write where the wind was coming from.
@@ -513,7 +518,7 @@ And next to the word 'Temperature' she added a small note to herself, in red pen
   - Note: On a cool or cloudy day both jars may lose almost nothing. That is a real result: try again on a hot, sunny day.
 
 ## Worksheets
-### Weather Watcher (core) (core, 15 questions)
+### Weather Watcher (core) (core, 16 questions)
 1. (mcq) You want to measure how warm the air is on your balcony. Where should you hang the thermometer?  
    Options: In the shade, hanging in the air / In full sun, on the wall / Inside the fridge / Touching the hot ledge  
    **Answer:** In the shade, hanging in the air. *Why:* In the shade, with air all round it, the air is the only thing warming the thermometer, so it shows the air's temperature. In the sun, or touching a hot wall, it is heated by more than the air.
@@ -534,21 +539,23 @@ And next to the word 'Temperature' she added a small note to herself, in red pen
    **Answer:** A vane with a small arrowhead, a bigger tail and a pin. The wind arrow comes from the west, and the vane's arrowhead points west, into the wind.. *Why:* A strong drawing shows that the tail is bigger, and that the arrowhead points to where the wind comes from.
 9. (order) You want to find out whether a thermometer reads differently in the sun and in the shade. Put the steps of your test in order.  
    **Answer:** ['Guess the readings, and say why', 'Hang the thermometer in the shade and wait a few minutes', 'Read the thermometer in the sun', 'Write down both readings and compare them']. *Why:* First guess, then measure, then compare. Guessing first lets the test answer your question, and waiting gives the thermometer time to settle.
-10. (odd) Three of these are weather tools. Which one is the odd one out?  
+10. (order) Put the steps of reading the rain in a gauge in order.  
+   **Answer:** ['Stand the ruler straight up inside the gauge, touching the bottom', 'Bend down so your eye is level with the water', 'Read the mark on the ruler where the water line is', 'Write the depth in millimetres']. *Why:* First stand the ruler, then level your eye with the water, then read the mark, then write it down. Reading from above or below gives the wrong depth.
+11. (odd) Three of these are weather tools. Which one is the odd one out?  
    Options: Rain gauge / Wind vane / Thermometer / Weighing scale  
    **Answer:** 3. *Why:* A weighing scale measures weight. The other three measure parts of the weather: rain, wind direction and temperature.
-11. (perspective) Two friends in Hyderabad argue about where to put the rain gauge for their school weather diary.  
+12. (perspective) Two friends in Hyderabad argue about where to put the rain gauge for their school weather diary.  
    **Answer:** A strong answer picks the first child for a truer reading, because a gauge under a sunshade catches little or no rain. It also gives the second child his due: a gauge must not blow over, and it must be easy to read every day. A good answer joins both: put it on the open terrace, and weigh it down or tape it in place.. *Why:* Both care about something real: getting all the rain, and making the gauge safe and easy to read. The best plan meets both needs.
-12. (write) Why do weather stations all follow the same rules for where to put their thermometers?  
+13. (write) Why do weather stations all follow the same rules for where to put their thermometers?  
    **Answer:** So that their readings can be compared. If one station put its thermometer in the sun and another in the shade, their numbers would be different even in the same weather.. *Why:* A strong answer says that the same method makes readings from different places and days fair to compare.
-13. (label) Label the parts of this weather screen: the white paint, the slatted sides, the legs, the thermometer inside.  
+14. (label) Label the parts of this weather screen: the white paint, the slatted sides, the legs, the thermometer inside.  
    **Answer:** ['white paint', 'slatted sides', 'legs', 'thermometer']. *Why:* White takes in little sunlight. The slats let air through. The legs keep it away from the hot ground. The thermometer inside is shaded. A strong answer says what each part is for.
-14. (truefalse) You miss the 3 o'clock reading in your weather diary. You should write a number that is probably right.  
+15. (truefalse) You miss the 3 o'clock reading in your weather diary. You should write a number that is probably right.  
    **Answer:** False. *Why:* False. Write 'missed'. A guessed number looks like a real reading, and then the record cannot be trusted.
-15. (mcq) Which of these tells you the most about how strong the wind is, without any tool?  
+16. (mcq) Which of these tells you the most about how strong the wind is, without any tool?  
    Options: Whether the sky is blue / Whether big branches are swaying / Whether the road is dry / Whether it is morning  
    **Answer:** Whether big branches are swaying. *Why:* Wind moves things: leaves, branches, clothes, flags. The bigger the thing it moves, the stronger the wind.
-### Reading the Records (stretch) (stretch, 15 questions)
+### Reading the Records (stretch) (stretch, 16 questions)
 1. (mcq) At 7 in the morning, a shade thermometer in Kochi reads 26 °C. At noon it reads 31 °C. What will it most likely read at 3 in the afternoon on a clear day?  
    Options: About 24 °C / About 26 °C / About 32 °C / About 50 °C  
    **Answer:** About 32 °C. *Why:* On a clear day the air keeps warming after noon, until the middle of the afternoon. So it will probably be a little warmer than at noon. 50 °C is far too high for shade air in Kochi.
@@ -558,30 +565,32 @@ And next to the word 'Temperature' she added a small note to herself, in red pen
    **Answer:** False. *Why:* False. Its wide top catches rain over a big opening, but the water collects in the narrow bottom, so it fills deeper than the true rain. A good rain gauge has straight sides, or a funnel of known size.
 4. (count) A rain gauge shows 4 mm on Monday, 12 mm on Tuesday, 0 mm on Wednesday and 9 mm on Thursday. How much rain fell in the four days?  
    **Answer:** 25. *Why:* 4 + 12 + 0 + 9 = 25 mm. Adding the daily depths gives the total rainfall. A strong answer counts the 0 too, because a dry day is still a day in the record.
-5. (mcq) You measure 10 mm of rain on a terrace in Guwahati. The weather station 5 km away measures 25 mm. What is the most likely reason?  
+5. (write) Look at the rain from a window. Say if the drops are big or small, if they slant, and if the rain looks like fine lines or a grey sheet.  
+   **Answer:** A strong answer describes what the child saw, such as small drops slanting in the wind, or a heavy shower that looks like a grey sheet. It says why: wind pushes the drops sideways.. *Why:* A good answer describes size and slant from what was seen, and does not guess numbers it did not measure.
+6. (mcq) You measure 10 mm of rain on a terrace in Guwahati. The weather station 5 km away measures 25 mm. What is the most likely reason?  
    Options: One of the gauges must be broken / Rain does not fall evenly, so different places get different amounts / Rain gauges always give different numbers / You measured in centimetres  
    **Answer:** Rain does not fall evenly, so different places get different amounts. *Why:* A rain cloud can drop more rain in one place than another, even nearby. That is why the India Meteorological Department (IMD) has many rain gauges, not one per city. A broken gauge is possible, but the first thing to think of is that the rain really was different.
-6. (match) Match each wind to where it comes from.  
+7. (match) Match each wind to where it comes from.  
    **Answer:** A north wind → comes from the north; A sea breeze in Chennai → comes from the sea, to the east; The southwest monsoon → comes from the southwest, over the Arabian Sea; A west wind → comes from the west. *Why:* Every wind is named for where it comes from. Chennai's sea lies to the east, so a breeze off the sea there comes from the east.
-7. (write) Why does a wind vane have a bigger tail than arrowhead? What would happen with a tiny tail?  
+8. (write) Why does a wind vane have a bigger tail than arrowhead? What would happen with a tiny tail?  
    **Answer:** The wind pushes harder on the bigger tail, so the tail swings away from the wind and the arrow ends up pointing into it. With a tiny tail and a big arrowhead, the arrowhead would be pushed away instead, and the vane would point the wrong way, or not settle.. *Why:* A strong answer says that the wind pushes more on a bigger surface, and that is what turns the vane.
-8. (sort) Sort these readings from a weather diary.  
+9. (sort) Sort these readings from a weather diary.  
    **Answer:** 32 °C → Temperature; 8 mm → Rainfall; from the southwest → Wind; a wind number of 3 → Wind; Min 24 °C → Temperature; 0 mm → Rainfall. *Why:* Degrees Celsius are temperatures, millimetres are rain, and a direction or a wind number describes the wind. A strong answer notices that 0 mm is still a rainfall reading.
-9. (perspective) Two sisters in Bengaluru look at the weather app. It says 30 °C, but 'feels like 34 °C'.  
+10. (perspective) Two sisters in Bengaluru look at the weather app. It says 30 °C, but 'feels like 34 °C'.  
    **Answer:** A strong answer sees that both are partly right. The first child is right that 30 °C was measured in the shade, and that 'feels like' is worked out from a formula, not measured. The second child is right that damp air and no wind make it feel hotter to people, and that matters for health. A good answer says each number answers a different question.. *Why:* The measured temperature describes the air. The 'feels like' number tries to describe how people's bodies cope. Different apps work it out differently.
-10. (mcq) Why are weather screens painted white?  
+11. (mcq) Why are weather screens painted white?  
    Options: White reflects most sunlight, so the box stays cool / White is easy to see from far away / Paint keeps insects out / Weather scientists like white  
    **Answer:** White reflects most sunlight, so the box stays cool. *Why:* A white surface reflects most sunlight. A dark box would heat up in the sun, warm the air inside, and the thermometer would read too high.
-11. (draw) Draw a line chart for this day in Chennai: 7 am 27 °C, 10 am 31 °C, 1 pm 34 °C, 3 pm 35 °C, 6 pm 31 °C. Circle the warmest time.  
+12. (draw) Draw a line chart for this day in Chennai: 7 am 27 °C, 10 am 31 °C, 1 pm 34 °C, 3 pm 35 °C, 6 pm 31 °C. Circle the warmest time.  
    **Answer:** A line rising from 27 to a peak of 35 at 3 pm, then falling to 31, with the 3 pm point circled.. *Why:* A strong chart has the times evenly along the bottom, the temperatures up the side, and the highest point at 3 pm circled.
-12. (fill) The highest temperature in a day is called the ____ temperature. The lowest is called the ____ temperature.  
+13. (fill) The highest temperature in a day is called the ____ temperature. The lowest is called the ____ temperature.  
    **Answer:** ['maximum', 'minimum']. *Why:* Maximum and minimum, often shortened to max and min in weather reports.
-13. (odd) Three of these would make a thermometer read too high. Which one would not?  
+14. (odd) Three of these would make a thermometer read too high. Which one would not?  
    Options: Hanging it in full sun / Letting it touch a sunny wall / Hanging it in the shade with air all round / Putting it in a closed black box in the sun  
    **Answer:** 2. *Why:* In the shade with air round it, only the air warms it, so it reads correctly. The others all let sunlight or a hot surface heat it.
-14. (truefalse) If the wind vane on your balcony keeps swinging about, your vane must be broken.  
+15. (truefalse) If the wind vane on your balcony keeps swinging about, your vane must be broken.  
    **Answer:** False. *Why:* False. In a city, buildings and walls bend the wind and make it gusty, so a balcony vane often swings. A strong answer suggests watching for a minute and writing the direction it points most often.
-15. (label) Label this rain gauge: the funnel, the measuring jar, the ruler marks in mm, and the open sky above it.  
+16. (label) Label this rain gauge: the funnel, the measuring jar, the ruler marks in mm, and the open sky above it.  
    **Answer:** ['funnel', 'measuring jar', 'ruler marks in mm', 'open sky']. *Why:* The funnel leads rain into the jar. The marks show the depth in millimetres. The open sky above means nothing blocks or adds water. A strong answer says why each matters.
 ### Think like a Meteorologist (challenge) (challenge, 15 questions)
 1. (write) You have two thermometers. Before a Sun or Shade test, you hang them side by side in the shade. One reads 30 °C and the other 32 °C. What should you do before comparing sun and shade with them?  
@@ -637,22 +646,28 @@ And next to the word 'Temperature' she added a small note to herself, in red pen
 4. (mcq) Rain fills a narrow straight glass to 15 mm. A wide straight dabba stands next to it. How deep is the water in the dabba?  
    Options: About 15 mm / Much more than 15 mm / Much less than 15 mm / It is empty  
    **Answer:** About 15 mm. *Why:* Straight-sided containers fill to the same depth in the same rain. The dabba holds more water, at the same depth.
-5. (mcq) Rainfall is measured as...  
+5. (mcq) You read the water in a rain gauge with a ruler. Where should your eye be?  
+   Options: Level with the water line / High above the gauge, looking down / Low down, looking up at the water  
+   **Answer:** Level with the water line. *Why:* Looking from above or below moves the water line in your view, so you read the wrong mm. Looking level with the line gives the true depth.
+6. (mcq) On a windy day, the rain falls at a slant. What is the wind doing to the rain?  
+   Options: Pushing the falling drops sideways / Making the drops fall straight down faster / Making the drops smaller  
+   **Answer:** Pushing the falling drops sideways. *Why:* Wind pushes the falling drops sideways, so the rain slants. Wind does not make the drops smaller, and gravity still pulls them down.
+7. (mcq) Rainfall is measured as...  
    Options: a depth, in millimetres / a weight, in kilograms / a temperature, in degrees / a number of drops  
    **Answer:** a depth, in millimetres. *Why:* Rain is measured as the depth of water it makes, in millimetres. That way, any straight-sided gauge gives the same answer.
-6. (mcq) A wind vane's arrow points north. What is the wind called?  
+8. (mcq) A wind vane's arrow points north. What is the wind called?  
    Options: A north wind, coming from the north / A south wind, going south / A west wind / No wind  
    **Answer:** A north wind, coming from the north. *Why:* A vane points into the wind, to where it comes from. Winds are named for where they come from.
-7. (mcq) In a weather diary, the shade temperature on a clear day is usually highest at...  
+9. (mcq) In a weather diary, the shade temperature on a clear day is usually highest at...  
    Options: about 2 to 4 in the afternoon / sunrise / midnight / exactly noon  
    **Answer:** about 2 to 4 in the afternoon. *Why:* The ground and buildings keep warming the air after noon. Picking noon is the common guess.
-8. (mcq) On a dry day, you write '0 mm' in your weather diary. Is that useful?  
+10. (mcq) On a dry day, you write '0 mm' in your weather diary. Is that useful?  
    Options: Yes, a dry day is a real reading / No, only rainy days count / No, you should guess a number / Only if it is cloudy  
    **Answer:** Yes, a dry day is a real reading. *Why:* A dry day is part of the record. Leaving it out would make the week look wetter than it was.
-9. (mcq) Long ago, people measured rain by digging to see how deep the soil was wet. Which is a better way to measure rain?  
+11. (mcq) Long ago, people measured rain by digging to see how deep the soil was wet. Which is a better way to measure rain?  
    Options: Catch the rain in a straight-sided metal pot and measure the water's depth with a ruler / Count the raindrops / Ask farmers to guess / Weigh the clouds  
    **Answer:** Catch the rain in a straight-sided metal pot and measure the water's depth with a ruler. *Why:* A pot soaks up nothing, so the depth of water in it shows only the rain. Soil soaks up different amounts depending on how dry it was before.
-10. (mcq) A weather report for Kolkata says 'Max 38, Min 27'. What does 'Min 27' mean?  
+12. (mcq) A weather report for Kolkata says 'Max 38, Min 27'. What does 'Min 27' mean?  
    Options: The lowest air temperature that day was 27 °C / 27 mm of rain fell / The wind blew at 27 / It was 27 °C at noon  
    **Answer:** The lowest air temperature that day was 27 °C. *Why:* Min is the minimum, the lowest temperature of the day, usually just before sunrise.
 
