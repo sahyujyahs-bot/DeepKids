@@ -842,7 +842,7 @@
   },
   {
    "term": "antibody (germ-fighter)",
-   "meaning": "An antibody is a tiny germ-fighter made by a body. It catches germs and stops them making you ill.",
+   "meaning": "An antibody is a tiny germ-fighter made by a body. Antibodies catch germs and stop them making you ill.",
    "example": "A mother's body makes antibodies, and some pass into her milk to help her baby.",
    "art": "A cartoon of tiny Y-shaped catchers holding on to small round germs."
   },
@@ -3019,11 +3019,11 @@
    "t": "mcq",
    "p": "A baby cannot have their own mother's milk. What is one safe way to feed them?",
    "opts": [
-    "Infant formula or another mother's milk",
     "Plain cow's milk from the shop",
+    "Infant formula or another mother's milk",
     "Only plain water"
    ],
-   "a": 0,
+   "a": 1,
    "why": "Formula is made to be close to human milk. Plain cow's milk is made for a calf, and is not right for a young baby.",
    "outcome": 1
   },
@@ -3055,11 +3055,11 @@
    "t": "mcq",
    "p": "A raw carrot is too hard to eat without teeth. What could you do to it?",
    "opts": [
-    "Cook it until it is soft",
     "Say it is not a food",
-    "Leave it in the sun"
+    "Leave it in the sun",
+    "Cook it until it is soft"
    ],
-   "a": 0,
+   "a": 2,
    "why": "Cooking in water makes a carrot soft. Soaking does the same for a dry biscuit. Both moved from needing teeth to not needing teeth.",
    "outcome": 6
   },
@@ -3067,11 +3067,11 @@
    "t": "mcq",
    "p": "An elder with few teeth is given soft kanji. What else should the bowl have?",
    "opts": [
-    "Nothing, because soft is enough",
     "Dal, egg or curd, for body-building food",
+    "Nothing, because soft is enough",
     "Only salt"
    ],
-   "a": 1,
+   "a": 0,
    "why": "Soft only means easy to eat. Old muscles need body-building food as much as before. Dal, egg or curd makes a small bowl rich.",
    "outcome": 4
   },
@@ -3079,11 +3079,11 @@
    "t": "mcq",
    "p": "An elder says they are not thirsty. What is the best thing a grown-up can do?",
    "opts": [
-    "Offer water anyway, in a friendly way",
     "Let them skip water all day",
-    "Make them drink a big jug fast"
+    "Make them drink a big jug fast",
+    "Offer water anyway, in a friendly way"
    ],
-   "a": 0,
+   "a": 2,
    "why": "With age, thirst grows weaker, but the body still needs water. A friendly offer, without waiting to be asked, is kind and sensible.",
    "outcome": 4
   },
@@ -3128,29 +3128,26 @@
   {
    "title": "How oral rehydration solution works inside the gut",
    "channel": "",
-   "youtube": "",
-   "status": "find-id",
+   "youtube": "XG8olDy4aaU",
    "mins": 5,
    "why": "Shows how sugar and salt together carry water through the gut wall.",
-   "check": "Search for a short explainer on oral rehydration solution. A parent should preview it."
+   "check": "Found by YouTube search: \"The Power of Oral Rehydration Solutions: Your Ultimate Guide to Hydration\" by Medical Centric Podcast. Title checked automatically; a parent may still preview it."
   },
   {
    "title": "What is in mother's milk? A short explainer on how milk protects a baby",
    "channel": "",
-   "youtube": "",
-   "status": "find-id",
+   "youtube": "Bo8YN3oB0Cw",
    "mins": 5,
    "why": "Shows antibodies and friendly bacteria in milk.",
-   "check": "Search for a short explainer on human milk. A parent should preview it."
+   "check": "Found by YouTube search: \"What we don't know about mother's milk | Katie Hinde\" by TED. Title checked automatically; a parent may still preview it."
   },
   {
    "title": "Animal mothers and their milk: whales, bats and seals",
    "channel": "",
-   "youtube": "",
-   "status": "find-id",
+   "youtube": "urc2Xrwf-n4",
    "mins": 5,
    "why": "Shows that each kind of milk fits the baby who drinks the milk.",
-   "check": "Search for a nature video on mammal milk. A parent should preview it."
+   "check": "Found by YouTube search: \"How Do Baby Whales Drink Milk Underwater? 🐋 | Nature’s Smartest Mothers\" by One Minute Explore. Title checked automatically; a parent may still preview it."
   }
  ],
  "spotted": [
