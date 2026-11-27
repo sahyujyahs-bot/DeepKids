@@ -3,7 +3,7 @@
  "title": "Caring for people who need help: ramps, aids, and how to offer help with respect",
  "level": 2,
  "summary": {
-  "text": "A girl in a wheelchair reaches a doorway with one step. She cannot get in. Is the trouble in her legs, or in the step? In this lesson you test how a ramp makes a climb easier, and you meet the tools that help people see, hear and move. You find out how to offer help so that the other person stays in charge. You also ask why humans and other animals look after their old, their sick and their hurt at all.",
+  "text": "A girl in a wheelchair reaches a doorway with one step, and she cannot get in. Is the trouble in her legs, or in the step? In this lesson you test how a ramp makes a climb easier, and you meet the tools that help people see, hear and move. You find out how to offer help so that the other person stays in charge. You also ask why humans and other animals look after their old, their sick and their hurt at all.",
   "art": "A school doorway with one step, a girl in a wheelchair looking at it, and a wooden plank leaning against the wall nearby."
  },
  "intro": {
@@ -31,7 +31,7 @@
   },
   {
    "term": "care",
-   "meaning": "To care is to notice what someone needs and to do something about it.",
+   "meaning": "To care is to notice what someone needs and to do what you can.",
    "example": "You bring water to a friend who has a fever and sit with her.",
    "art": "A boy handing a steel tumbler of water to a friend resting on a bed."
   },
@@ -43,13 +43,13 @@
   },
   {
    "term": "need",
-   "meaning": "A need is something a person must have to stay well or to do something, such as water, rest or a way in through a door.",
+   "meaning": "A need is something a person must have. Water, rest and a way in through a door are needs.",
    "example": "A baby needs milk. A wheelchair user needs a ramp at the door.",
    "art": "A baby with a bottle on one side and a ramp at a door on the other."
   },
   {
    "term": "disability",
-   "meaning": "A disability is a lasting difference in how a body, the senses or a mind work, which makes some everyday jobs hard in the world as it is built.",
+   "meaning": "A disability is a lasting difference in how a body, the senses or a mind work. In a world built for other bodies, it makes some everyday jobs hard.",
    "example": "A person who cannot see needs a way to read signs. A person who cannot walk far needs a lift.",
    "art": "Four people of different ages, one with a white cane, one in a wheelchair, one signing and one with spectacles, walking down a street."
   },
@@ -67,7 +67,7 @@
   },
   {
    "term": "wheelchair",
-   "meaning": "A wheelchair is a chair on wheels that a person moves by turning the wheels with their hands, by a motor, or with a push from someone else.",
+   "meaning": "A wheelchair is a chair on wheels. A person turns the wheels by hand, or uses a motor, or gets a push from someone else.",
    "example": "A wheelchair rolls easily across a flat floor and stops at a high step.",
    "art": "A wheelchair in front of a doorway with one step."
   },
@@ -112,6 +112,12 @@
    "meaning": "A push moves a thing away from you. How hard you push is how much force you use.",
    "example": "You push a trolley up a ramp. The longer the ramp, the smaller the push you need.",
    "art": "A woman pushing a loaded trolley up a ramp."
+  },
+  {
+   "term": "friction",
+   "meaning": "Friction is the rubbing grip between two surfaces that makes sliding harder.",
+   "example": "Rough doormats have more friction than wet tiles, so feet slip less.",
+   "art": "A rubber chappal on a rough mat and the same chappal sliding on a wet tile."
   },
   {
    "term": "handrail",
@@ -337,7 +343,7 @@
   },
   {
    "term": "vaccine",
-   "meaning": "A vaccine is a medicine, often a small injection or drops, that helps the body get ready to fight a germ before it comes.",
+   "meaning": "A vaccine is a medicine, often a small injection or drops, that helps the body get ready to fight germs before they arrive.",
    "example": "Polio drops given to children helped India stop polio. The last case in India was found in 2011.",
    "art": "A health worker giving drops to a smiling child."
   }
@@ -1002,7 +1008,7 @@
    "title": "How steep is too steep? The rubber-band ramp test",
    "mins": 29,
    "days": 1,
-   "context": "In this experiment you pull a loaded toy up a 10-centimetre step three ways: straight up, up a short ramp and up a long ramp. A rubber band shows how hard you pull. You find out why a long ramp is easier than a short one, and how much room a proper wheelchair ramp needs.",
+   "context": "In this experiment you pull a loaded toy up a 10-centimetre step three ways. You go straight up, up a short ramp and up a long ramp. A rubber band shows how hard you pull. You find out why a long ramp is easier than a short one, and how much room a proper wheelchair ramp needs.",
    "problem": "A step stops wheels. A ramp lets wheels roll up, but only if it is gentle enough. In this test a rubber band measures the pull. The more the band stretches, the harder you are pulling.",
    "question": "Which way up a 10-centimetre step needs the smallest pull: straight up, a short ramp or a long ramp?",
    "predict": "Guess first. Which way will stretch the rubber band the most, and which the least? Say why you think so.",
@@ -1022,7 +1028,7 @@
      "qty": 1
     },
     {
-     "item": "a load of about 500 grams, such as a packet of dal or sugar, taped onto the toy",
+     "item": "a load of half a kilogram, such as a packet of dal or sugar, taped onto the toy",
      "qty": 1
     },
     {
@@ -1144,7 +1150,7 @@
      "do": "Rest the short board from the floor to the top of the step. Pull the toy up it by the band, slowly, three times, reading the ruler each time. Then do the same with the long board.",
      "say": "Now the short ramp, then the long ramp. Same toy, same load, same band, same step. Only the way up changes.",
      "kid": "Pull the toy up the short ramp three times. Then pull it up the long ramp three times.",
-     "parent": "Hold the lower end of each board so that it does not slide. A carton can sag, so lay a magazine under the middle of it. If the toy does not roll easily, use a different toy. A toy that drags on its wheels hides the result, because friction pulls against you."
+     "parent": "Hold the lower end of each board so that it does not slide. A carton can sag, so lay a magazine under the middle of it. If the toy does not roll easily, use a different toy. A toy that drags on its wheels hides the result, because friction, the rubbing grip, pulls against you."
     },
     {
      "id": "s5",
@@ -1191,7 +1197,7 @@
    "mins": 22,
    "days": 1,
    "context": "In this experiment you tilt a tray with a rubber chappal on it until the chappal starts to slide. You try a smooth dry tray, a smooth wet tray and a rough towel. You find out why a good ramp, and a bathroom floor, needs a rough surface.",
-   "problem": "A ramp or a floor that is steep and wet can be dangerous for an old person with a stick, for a child and for anyone with wet feet. This test shows which surfaces grip best.",
+   "problem": "A steep and wet ramp can be dangerous for an old person with a stick, a child or anyone with wet feet. This test shows which surfaces grip best.",
    "question": "How high must we lift the tray before the chappal slides: on a smooth dry tray, a smooth wet tray and a rough towel?",
    "predict": "Guess first. On which surface will the chappal slide at the lowest tilt? Say why you think so.",
    "fair_test": "The tray, the chappal and the way you lift stay the same. You lift the end slowly, about one finger-width every 2 seconds, and the chappal starts at the same place each time. Only the surface changes. You do each surface 3 times, because one try can be a fluke, and you use the middle number.",
@@ -1417,7 +1423,7 @@
      "do": "Draw the door, the steps and the ramp. Write where the ramp starts, the front or the back of the building, and whether a person could use it alone.",
      "say": "Is the ramp at the front door, where everyone goes in, or round the back? What does that say to the person who uses it?",
      "kid": "Draw the door, the steps and the ramp. Is the ramp at the front or the back?",
-     "parent": "A ramp at the back, beside the dustbins, tells a person that she is not expected at the front. A ramp at the front says 'you belong here'.",
+     "parent": "Notice where the ramp is. A ramp tucked away beside the dustbins tells a person that she was not expected at the front door.",
      "think": "Who is the building made for? What would you change first?"
     }
    ]
@@ -1468,7 +1474,7 @@
      "mins": 8,
      "do": "Draw a six-dot cell for each letter of your name, with the dots 2 centimetres apart. Number them: 1, 2, 3 down the left side, and 4, 5, 6 down the right side. Use the chart in the notes to find which dots each letter needs.",
      "say": "Braille is made from a block of six dots. Each letter uses some of the six. The dot numbers go down the left side, then down the right side. Which dots do you need for the first letter of your name?",
-     "kid": "Draw the six dots for each letter of your name. Number them 1, 2, 3 down the left and 4, 5, 6 down the right.",
+     "kid": "Draw the six dots for each letter of your name. Number them 1, 2, 3 down the left. Then number 4, 5, 6 down the right.",
      "parent": "The dot chart. A is 1. B is 1 and 2. C is 1 and 4. D is 1, 4 and 5. E is 1 and 5. F is 1, 2 and 4. G is 1, 2, 4 and 5. H is 1, 2 and 5. I is 2 and 4. J is 2, 4 and 5. For K to T, take the letters A to J and add dot 3. For U, V, X, Y and Z, take A, B, C, D and E and add dots 3 and 6. W is a special one: 2, 4, 5 and 6. A name of three or four letters is enough. Real Braille cells are much smaller than these, smaller than a fingertip."
     },
     {
@@ -1484,7 +1490,7 @@
      "mins": 5,
      "do": "Leave the card to dry for 20 minutes. In that time, look for Braille at home, such as on a medicine box, a lift button or an identity card.",
      "say": "While the glue dries, can you find Braille at home? Run a finger over a medicine box.",
-     "kid": "While the glue dries, look for Braille on a medicine box or a lift button.",
+     "kid": "Look for Braille on a medicine box or a lift button.",
      "parent": "Many medicine boxes carry the name in Braille. Some lift buttons and some ATM keys do. If you cannot find any, feel the raised marks near the edge of a clean note of 100, 200 or 500 rupees. These are for touch.",
      "wait": "Leave it for 20 minutes"
     },
@@ -1544,7 +1550,7 @@
     {
      "id": "s2",
      "mins": 9,
-     "do": "Read these scenes one at a time, and your child says what to say and do first. Answer as the person. Scene 1, say yes: a woman at a shop door with two heavy bags. Scene 2, say no thank you: an old neighbour on the stairs, who has a stick. Scene 3, say yes but a different way: a person using a wheelchair, who says 'Please hold the door, I will go through myself.' Scene 4, say yes and tell how: a blind woman at a bus stop, who says 'Please let me hold your elbow.' Scene 5, say no: a deaf girl at the next desk, who says in writing, 'No thank you, I am fine.'",
+     "do": "Read the scenes one at a time. Your child says what to say and do first. Then you answer as the person. Scene 1 is a woman at a shop door with two heavy bags. You say yes. Scene 2 is an old neighbour on the stairs, who has a stick. You say no thank you. Scene 3 is a person in a wheelchair at a door. You say, 'Please hold the door.' You go through yourself. Scene 4 is a blind woman at a bus stop. You say, 'Please let me hold your elbow.' Scene 5 is a deaf girl at the next desk. You write, 'No thank you, I am fine.'",
      "say": "Here is the first scene. A woman at a shop door has two heavy bags. What do you say?",
      "kid": "Listen to each scene. Say what you say first. Then do what the person says.",
      "parent": "Praise asking and waiting, more than doing. In scene 2, the child should say 'All right' and stop. In scene 3, the child holds the door and does not touch the chair. In scene 4, offer an elbow, and walk at the person's pace. In scene 5, stand where she can see your face and write or speak normally. Do not talk over the person's head to a friend.",
@@ -1565,7 +1571,7 @@
      "do": "Ask your child to tell one time when someone helped without asking, and how it felt. Then ask what could be done instead.",
      "say": "Has someone ever 'helped' you without asking? How did it feel? What could they have said?",
      "kid": "Think of a time someone helped without asking. How did it feel?",
-     "think": "Whose need are you meeting when you help someone who did not ask?"
+     "think": "What would you like a helper to say to you first?"
     }
    ]
   },
@@ -1766,7 +1772,7 @@
      "do": "Wash your hands with soap for 20 seconds. Count slowly or sing a song twice. Rub the backs of the hands, between the fingers and the thumbs.",
      "say": "After you help a sick person, wash with soap for 20 seconds. Soap and water wash germs away so they do not pass on to others.",
      "kid": "Wash your hands with soap. Count to 20. Wash the backs of your hands and between your fingers.",
-     "parent": "A sick person can also cover a cough and use a separate towel. Caring and keeping safe go together. Wash your own hands before and after helping."
+     "parent": "Wash your own hands before and after you help, and keep a cloth ready for the sick person's cough."
     },
     {
      "id": "s4",
@@ -1783,7 +1789,7 @@
    "title": "Watch one animal for five minutes: what does she need?",
    "mins": 15,
    "days": 1,
-   "context": "In this activity you watch one animal from a distance for five minutes, such as a crow, a squirrel, a pigeon, a street dog or a cow. You notice what she is doing and what she might need. You find out how animals tell us what they need without words.",
+   "context": "In this activity you watch one animal from a distance for five minutes. The animal can be a crow, a squirrel, a pigeon, a street dog or a cow. You notice what she is doing and what she might need. You find out how animals tell us what they need without words.",
    "problem": "Animals feel thirst, hunger, heat and fear. They tell us with their bodies. A dog who turns away and tucks her tail says 'keep away'. This activity practises noticing.",
    "materials": [
     {
@@ -1818,7 +1824,7 @@
      "do": "Choose one animal you can see from a distance. Watch her for five minutes without making any noise. Write each thing she does.",
      "say": "Watch one animal for five minutes. What does she do? Where does she go?",
      "kid": "Watch one animal for five minutes. Write each thing she does.",
-     "parent": "Choose a crow, a pigeon, a squirrel, a dog, a cow or any animal near you. If you see a street dog, keep your distance. A dog who turns away, tucks her tail or shows her teeth is saying no.",
+     "parent": "Choose a crow, a pigeon, a squirrel, a dog, a cow or any animal near you. If you see a street dog, keep your distance and watch her body for signs that she wants to be left alone.",
      "adult": true
     },
     {
@@ -1946,7 +1952,7 @@
     {
      "id": "g1s2",
      "mins": 10,
-     "do": "Take turns to turn over a card, read it aloud, say a fix and a helper, then read the back and count points. Talk about any card where you disagree.",
+     "do": "Take turns. Turn over a card and read it aloud. Say a fix and a helper. Then read the back and count points. Talk about any card where you disagree.",
      "say": "What would you change? Who else does it help? Is there a second good fix?",
      "kid": "Turn over a card. Say a fix and who it helps. Check the back.",
      "parent": "Many cards have more than one good fix. If your child gives a different fix that works, give the point. Help your child think about who is shut out and who else benefits.",
@@ -1993,7 +1999,7 @@
       "Sign language",
       "Talks with the hands, face and body",
       "Ramp",
-      "Turns a hard lift into a long, gentle push",
+      "Lets wheels roll up to a higher place",
       "Jaipur Foot",
       "A foot that bends, so the wearer can squat and walk on rough ground",
       "Tactile tiles",
@@ -2017,7 +2023,7 @@
      "caption": "1. Lay the cards face down in four rows of four."
     },
     {
-     "art": "Two matching cards, 'Ramp' and 'Turns a hard lift into a long, gentle push', side by side, with a child smiling.",
+     "art": "Two matching cards, 'Ramp' and 'Lets wheels roll up to a higher place', side by side, with a child smiling.",
      "caption": "2. Turn two cards. Keep a pair if they match."
     }
    ],
@@ -2160,7 +2166,7 @@
      "caption": "1. Put out the dish in the shade. Fill it with clean water."
     },
     {
-     "art": "A tally sheet on a wall with rows for each day, and a drawing of a crow and a squirrel beside it.",
+     "art": "A tally sheet on a wall with rows for each day, and a drawing of a crow and a squirrel beside the sheet.",
      "caption": "2. Each day, change the water and tick who came."
     }
    ],
@@ -2206,7 +2212,7 @@
    "title": "One small job for a week",
    "days": 7,
    "mins": 38,
-   "context": "In this project you take over one small job at home for a week, and see how much time and care it takes. You find out that care work is real work, and that sharing it is a way to care for the people who do it every day.",
+   "context": "In this project you take over one small job at home for a week, and see how much time and care it takes. You find out that care work is real work. Sharing it is a way to care for the people who do it every day.",
    "materials": [
     {
      "item": "a tally sheet on the fridge or wall",
@@ -2299,7 +2305,7 @@
    "title": "A ramp for a step when there is not much room",
    "mins": 30,
    "context": "In this challenge you build a ramp for a loaded toy lorry to climb a 10-centimetre step. A proper ramp must be 120 centimetres long, but you only have 70 centimetres of floor. You find out how to solve a real problem when space is short.",
-   "problem": "A step is 10 centimetres high. A ramp for a wheelchair must rise no more than 1 centimetre for every 12 along. That is 120 centimetres. But the space in front of the step is only 70 centimetres long. Build a model ramp so that the loaded toy lorry can climb with a small pull.",
+   "problem": "A step is 10 centimetres high. The rule for a wheelchair ramp is a slope of 1 in 12, which is 1 centimetre up for every 12 along. That is 120 centimetres. But the space in front of the step is only 70 centimetres long. Build a model ramp so that the loaded toy lorry can climb with a small pull.",
    "constraints": [
     "The ramp must rise no more than 1 centimetre for every 12 centimetres along.",
     "You have only 70 centimetres of floor in a straight line.",
@@ -2395,8 +2401,8 @@
    "id": "c2",
    "title": "A sign that anyone can read, by sight or by touch",
    "mins": 25,
-   "context": "In this challenge you design a sign for a room at home or school, such as the kitchen or the toilet, that works for people who see well, see a little, or do not see. You find out how to make something that works for many kinds of people.",
-   "problem": "A small sign with thin letters is hard to read for someone who cannot see well, and for a person who cannot see at all. Design a sign that can be read by sight and by touch.",
+   "context": "In this challenge you design a sign for a room at home or school, such as the kitchen. The sign must work for people who see well, people who see a little and people who cannot see.",
+   "problem": "A small sign with thin letters is hard to read for someone who cannot see well. It cannot be read at all by a person who cannot see. Design a sign that can be read by sight and by touch.",
    "constraints": [
     "The sign must have big letters in a dark colour on a pale background.",
     "Part of the sign must be raised so that fingers can feel it.",
@@ -2607,7 +2613,7 @@
     },
     {
      "t": "label",
-     "p": "Look at the picture of a school gate. Label one thing that helps a wheelchair user and one thing that stops one.",
+     "p": "Look at the school gate. Label one thing that helps a wheelchair user and one that stops her.",
      "a": "Helps: the long ramp with a handrail. Stops: the three steps.",
      "why": "A ramp opens the way. Steps close it.",
      "art": "A school gate with three steps on the left and a long ramp with a handrail on the right."
@@ -2653,7 +2659,7 @@
    "items": [
     {
      "t": "count",
-     "p": "A step is 10 centimetres high. A ramp must be 12 times as long as the step is high. How many centimetres long must the ramp be?",
+     "p": "A step is 10 centimetres high. A ramp must be 12 times as long. How many centimetres long is the ramp?",
      "a": 120,
      "why": "10 x 12 = 120. The ramp must be at least 120 centimetres long."
     },
@@ -2773,7 +2779,7 @@
      "t": "mcq",
      "p": "A rat opens a cage to free another rat, even with chocolate nearby. What does this suggest?",
      "opts": [
-      "Rats cannot choose",
+      "Rats open cages by accident",
       "Rats prefer cages",
       "Some animals help others who are trapped"
      ],
@@ -2849,9 +2855,9 @@
     },
     {
      "t": "truefalse",
-     "p": "We cannot feel another animal's pain, so no animal can feel pain.",
+     "p": "We cannot feel another animal's pain, so nobody can tell if any animal feels pain.",
      "a": false,
-     "why": "False. We cannot feel another person's pain either, but we believe in it from what they do and how their body is built. Scientists use the same evidence for animals."
+     "why": "False. We know another person's pain only from what they do and how their body is built. Scientists use the same evidence for animals."
     },
     {
      "t": "mcq",
@@ -2907,7 +2913,7 @@
     },
     {
      "t": "label",
-     "p": "Look at the picture of a water dish for birds. Label two things that make it safe and one thing that is wrong.",
+     "p": "Look at the bird water dish. Label two things that make it safe and one thing that is wrong.",
      "a": "Safe: shade and a stone to stand on, fresh water. Wrong: a cat hiding behind the pot, or dirty water.",
      "why": "A good dish is shallow, in shade, has a stone, and is out of reach of cats. Old water can breed mosquitoes.",
      "art": "A clay dish of water on a wall in the shade with a stone in it, and a cat hiding behind a flowerpot."
@@ -2930,29 +2936,26 @@
   {
    "title": "Louis Braille and how Braille works",
    "channel": "to be found",
-   "youtube": "",
-   "status": "find-id",
+   "youtube": "o9BOQ6IpTSE",
    "mins": 5,
    "why": "To see how six dots make a letter and how a blind boy of fifteen invented a way for fingers to read.",
-   "check": "Not yet found. Find one, watch it, and check that it gives 1824 for the system and the age of fifteen."
+   "check": "Found by YouTube search: \"The incredible story of the boy who invented Braille | BBC Ideas\" by BBC Ideas. Title checked automatically; a parent may still preview it."
   },
   {
-   "title": "The Jaipur Foot: a leg made for the way people in India live",
+   "title": "How the Jaipur Foot is made and worn",
    "channel": "to be found",
-   "youtube": "",
-   "status": "find-id",
+   "youtube": "GchWUvPfnzc",
    "mins": 5,
    "why": "To see how the Jaipur Foot is made and how it lets the wearer squat and walk barefoot.",
-   "check": "Not yet found. Find one, watch it, and check that it names Jaipur and Ram Chandra Sharma and Dr P. K. Sethi."
+   "check": "Found by YouTube search: \"Hope called Jaipur Foot\" by Mint. Title checked automatically; a parent may still preview it."
   },
   {
    "title": "Kerb cuts and why a ramp for wheelchairs helps everyone",
    "channel": "to be found",
-   "youtube": "",
-   "status": "find-id",
+   "youtube": "uRuosHa0bBQ",
    "mins": 5,
    "why": "To see how slopes cut into pavements for wheelchairs were soon used by prams, cyclists and people with trolleys.",
-   "check": "Not yet found. Find one, watch it, and check that it names Berkeley and Ed Roberts."
+   "check": "Found by YouTube search: \"LGIDA  Kerb Ramps & TGSI's\" by LGIDA Videos. Title checked automatically; a parent may still preview it."
   }
  ],
  "quiz": [
@@ -3115,7 +3118,7 @@
   },
   {
    "t": "mcq",
-   "p": "A friend says, 'A ramp costs money and only one child uses a wheelchair, so it is a waste.' What is missing?",
+   "p": "A friend says, 'Only one child uses a wheelchair, so the ramp is a waste.' What is missing?",
    "opts": [
     "Prams, trolleys, old people and anyone with a hurt leg use it too",
     "Ramps are free",
@@ -3127,12 +3130,12 @@
   }
  ],
  "applications": [
-  "Metro stations in Kochi, Delhi, Chennai and Bengaluru have lifts, ramps and yellow tiles, so that wheelchair users, parents with prams and blind passengers can travel without help.",
+  "Metro stations in Kochi, Delhi, Chennai and Bengaluru have lifts, ramps and yellow tiles. Wheelchair users, parents with prams and blind passengers can travel without help.",
   "Many city buses in Chennai, Bengaluru and Delhi are low-floor buses with a wide, low step. Old people, people with prams and people with sticks can board more easily.",
-  "At Jaipur Foot camps, run by a charity in Jaipur since 1975, a limb is fitted free of charge, and the wearer can squat, climb and walk barefoot.",
-  "Many bank notes carry a raised mark, so that a person who cannot see can tell a hundred-rupee note from a five-hundred-rupee note by touch.",
+  "A charity in Jaipur has fitted the Jaipur Foot free of charge since 1975. The wearer can squat, climb and walk barefoot.",
+  "Many bank notes carry a raised mark. A person who cannot see can tell a hundred-rupee note from a five-hundred-rupee note by touch.",
   "News on television often has a small window with a person signing in sign language, so that a deaf viewer can follow it. India set up a centre for Indian Sign Language in New Delhi in 2015.",
-  "Animal rescue groups in cities such as Chennai, Hyderabad and Jaipur treat hurt street dogs, cows and birds, and ask people to put out water in the hot months."
+  "Animal rescue groups in cities such as Chennai, Hyderabad and Jaipur treat hurt street dogs, cows and birds. They ask people to put out water in the hot months."
  ],
  "spotted": [
   {
@@ -3156,11 +3159,11 @@
    "art": "A phone on a bus seat showing a video with words along the bottom of the screen."
   },
   {
-   "text": "A street dog or a cow looking for water on a hot day, and a bowl of water kept out by a shop or a house.",
-   "art": "A clay bowl of water outside a shop and a street dog drinking from it."
+   "text": "A street dog or a cow looking for water on a hot day. Look for a bowl of water kept out by a shop.",
+   "art": "A street dog drinking from a clay bowl of water outside a shop."
   },
   {
-   "text": "A grandparent or an older neighbour holding a handrail or a wall on the stairs, and a light left on in the passage at night.",
+   "text": "An older person holding a handrail on the stairs. Look for a light left on in the passage at night.",
    "art": "An old woman holding a handrail on a stairway with a lamp glowing on the wall."
   }
  ],
@@ -3571,9 +3574,9 @@
     "Old people carry recipes, songs, cures and stories that are written in no book."
    ],
    [
-    "A dog who tucks her tail and turns away is saying 'keep away'.",
-    true,
-    "Animals tell us with their bodies. Turning away and a tucked tail say no."
+    "A wagging tail always means a dog is happy to see you.",
+    false,
+    "A tail can wag when a dog is excited or worried. Watch her whole body, such as her ears, her face and how she stands."
    ],
    [
     "Help is only a favour from kind people.",
