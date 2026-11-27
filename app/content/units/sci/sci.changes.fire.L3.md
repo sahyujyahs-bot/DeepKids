@@ -32,15 +32,18 @@
 - **Fire drill**: A fire drill is a wooden stick spun fast against a piece of wood until the rubbing makes a tiny glowing ember. It is one of the oldest ways to make fire. (A fire drill is also a practice of what to do in a fire.) *e.g.* In some old Vedic rituals in India, priests still light the fire with a wooden fire drill called an arani.
 - **LPG**: LPG is the cooking gas in a cylinder. Its name is short for liquefied petroleum gas. The gas has almost no smell of its own, so a strong smell is added to warn people of a leak. *e.g.* If you smell gas in the kitchen, the smell was added on purpose, so that you notice the leak.
 - **Firedamp**: Firedamp is the old miners' name for a gas that seeps out of coal. It is mostly methane, and it explodes if a flame lights it. *e.g.* Firedamp caused many deadly explosions in coal mines in the 1700s and 1800s.
+- **Kiln**: A kiln is a very hot oven for baking clay pots, bricks and tiles until they are hard. *e.g.* A potter bakes diyas and matkas in a kiln, so they do not turn to mud in water.
+- **Assembly point**: A safe place outside, chosen before, where everyone meets after leaving a building in a fire. *e.g.* Our family's assembly point is the gate of the building. We meet there and count heads.
 
 ## Explanations
 ### What fire is · *defined*
 **Definition:** Fire is a fast chemical change called burning, or combustion. A fuel joins with oxygen from the air and gives out heat and light.
 
-When a fuel burns, it does not just disappear. Its particles join with oxygen from the air and make new substances. Most of them are gases you cannot see: carbon dioxide and water vapour. Some of the fuel may be left as soot or ash. This is a chemical change, because new substances are made. You cannot turn ash and smoke back into wood. Burning also gives out a lot of energy, as heat and light. That is why people use fire to cook, to stay warm and to see at night.
+When a fuel burns, it does not just disappear. Its particles join with oxygen from the air and make new substances. Most of them are gases you cannot see: carbon dioxide and water vapour. Some of the fuel may be left as soot or ash. This is a chemical change, because new substances are made. You cannot turn ash and smoke back into wood. Fire changes clay in the same way. Wet clay is soft, because water sits between its tiny grains. A potter dries a pot in the sun and then bakes it in a kiln, which is a very hot oven. The heat drives the water out and changes the clay itself, and the grains join together into something hard. A baked pot does not go soft in water again. Burning also gives out a lot of energy, as heat and light. That is why people use fire to cook, to stay warm and to see at night.
 - e.g. A matchstick burns to a black, curled stick. It cannot be made new again.
 - e.g. A cold steel tumbler held high above a gas flame gets a little misty, because burning makes water vapour.
 - e.g. Firewood leaves only a small heap of ash. Most of the wood went into the air as gases.
+- e.g. A potter's diya or matka is baked in a kiln. Unbaked clay turns back to mud in water, but the baked pot stays hard.
 ### The fire triangle: fuel, oxygen and heat · *defined*
 **Definition:** Every fire needs three things at once: a fuel, oxygen, and enough heat. Take away any one, and the fire goes out.
 
@@ -112,6 +115,19 @@ At home, fire is used in the kitchen, in lamps and incense, and at festivals wit
 - e.g. A pooja lamp on a steel plate, away from the curtains.
 - e.g. Crackers lit by a grown-up outdoors, with a bucket of water nearby.
 - e.g. Practising stop, drop and roll on a mat.
+### Getting out in a fire: the fire drill · *defined*
+**Definition:** In a fire, you go calmly to the nearest safe exit, stay low under smoke, never hide, and meet at the assembly point.
+
+A fire drill is a practice of leaving a building when there is a fire. At school and at home, practise the same steps. First, move calmly to the nearest exit. Do not run, and do not stop to pick up your bag or toys. If there is smoke, crawl low, where the air is cleaner. Never hide. Frightened children sometimes hide under a bed or in a cupboard, and then no one can find them. Once you are out, go to the assembly point. This is a safe place outside, chosen before, where everyone meets. There a grown-up can count heads and see that nobody is missing. Never go back in for anything. Call 101 from outside.
+- e.g. At school, the class lines up and walks to the playground, where the teacher counts everyone.
+- e.g. A family picks the gate of the building, or the neem tree across the road, as their meeting place.
+### Staying safe in any practical work · *defined*
+**Definition:** A risk is something that could hurt you. Before any practical work, name the risks and decide how to avoid each one.
+
+Before you start an activity, look at what you will use and ask: what could hurt me here? Then decide what you will do about it. Hot water can scald, so carry it slowly, pour it away from your body, and let a grown-up do the pouring. A knife or scissors can cut. Cut away from your fingers, and pass them with the handle first. A candle can burn hair and sleeves, so tie back long hair and keep sleeves tucked. Plan the space too. Keep the table clear, and keep a bowl of water nearby. When you finish, clear up. Put out the flame, wipe spills at once, put every tool back, and wash your hands. A tidy table is a safe table.
+- e.g. Hot water for an experiment: a grown-up pours, and you carry the cup slowly with both hands.
+- e.g. Scissors for cutting a wick: cut away from your fingers, and pass them handle first.
+- e.g. After a candle test: blow out the flame, wipe the wax, put the matches back with a grown-up.
 
 ## Mostly agreed
 - Burning needs a fuel, oxygen and enough heat at the same time. *How we know:* Take away any one, by covering a candle, turning off the gas, or cooling a fire with water, and it goes out. This has been tested in labs for over 200 years.
@@ -516,7 +532,7 @@ Arjun looked along the wall at the row of flames, each one standing still, each 
   - Check: Why should children wear cotton clothes, not thin synthetic ones, near crackers? → **Thin synthetic cloth catches fire easily and can melt onto the skin**
 
 ## Worksheets
-### Fire Detective (core) (core, 16 questions)
+### Fire Detective (core) (core, 18 questions)
 1. (fill) The three sides of the fire triangle are fuel, oxygen and ____.  
    **Answer:** ['heat']. *Why:* A fire needs fuel, oxygen and heat at the same time.
 2. (sort) Sort these. Is each one a fuel, or not a fuel?  
@@ -552,7 +568,11 @@ Arjun looked along the wall at the row of flames, each one standing still, each 
    **Answer:** A strong answer picks a side and backs it with a reason from the unit, such as the fire triangle, the steel plate, or the matches staying with grown-ups. It then gives one fair point from another side.. *Why:* There is a real trade-off. Children learn care by doing, but matches and loose clothes need a grown-up's control.
 16. (draw) Draw the fire triangle. Write fuel, oxygen and heat on its sides. Then draw one way to take away each side.  
    **Answer:** A triangle labelled fuel, oxygen and heat, with, for example, a gas regulator turned off by fuel, a lid by oxygen, and water by heat.. *Why:* A strong drawing matches each way of putting out a fire to the right side.
-### Flames and Fuels (stretch) (stretch, 16 questions)
+17. (order) Put these fire drill steps in order.  
+   **Answer:** ['Move calmly to the nearest exit', 'Crawl low if there is smoke', 'Walk to the assembly point', 'Wait there and be counted']. *Why:* First leave by the nearest exit, staying low under smoke. Then go to the assembly point and wait, so a grown-up can see that everyone is safe.
+18. (match) Match each risk to the safe habit.  
+   **Answer:** Hot water → Carry it slowly, and let a grown-up pour; Scissors → Cut away from your fingers; Long hair near a candle → Tie it back; Spilled water on the table → Wipe it up at once. *Why:* Each habit takes the danger away. A slow carry stops scalds, cutting away from the fingers stops cuts, tied-back hair keeps away from the flame, and a dry table stops slips.
+### Flames and Fuels (stretch) (stretch, 17 questions)
 1. (mcq) In Dry Wick or Oiled Wick?, the dry wick burned for under a minute, but the wick in oil burned for 10 minutes. What was the main fuel in the oiled diya?  
    Options: The cotton / The oil / The clay diya  
    **Answer:** The oil. *Why:* The oil climbed the wick and burned as a gas at its tip. The soaked cotton hardly burned. Picking 'the cotton' is natural, because the flame sits on it, but the dry wick showed how fast cotton alone burns away.
@@ -590,6 +610,8 @@ Arjun looked along the wall at the row of flames, each one standing still, each 
 16. (mcq) The flame on a gas stove has turned yellow, and the pans get black marks. What should a child who notices this do?  
    Options: Pour water on the burner / Tell a grown-up that the burner may need cleaning / Cover the stove with a lid  
    **Answer:** Tell a grown-up that the burner may need cleaning. *Why:* A blue flame means the gas is mixed with enough air. A yellow flame that leaves black soot on pans often means the burner is blocked or dirty. A grown-up can check and clean it. Picking the lid is a fair thought for a fire, but this is not a fire to put out.
+17. (truefalse) A baked clay diya turns back into soft mud if it stays in water for a day.  
+   **Answer:** False. *Why:* False. Baking in a kiln changes the clay itself into something hard. Only unbaked clay turns to mud in water.
 ### Fire Thinkers (challenge) (challenge, 15 questions)
 1. (perspective) In 1816, people argued about Humphry Davy's safety lamp for coal miners.  
    **Answer:** A strong answer picks a side and uses evidence: the mesh does stop a flame, as the Tea Strainer Test showed, but a draught or a broken wire could let it out, and the lamp led owners to send men into more dangerous places. It then gives the other side its due.. *Why:* Both were partly right. The lamp worked as a light in firedamp, but the 1835 committee found accidents had gone up.
@@ -669,6 +691,15 @@ Arjun looked along the wall at the row of flames, each one standing still, each 
 12. (mcq) Humphry Davy put a lamp's flame inside a cylinder of fine iron mesh. Why could the flame not light the gas outside?  
    Options: The mesh kept out all the gas / The metal took heat away, so the gas outside was too cool to burn / The mesh made the flame smaller  
    **Answer:** The metal took heat away, so the gas outside was too cool to burn. *Why:* Gas could pass through the mesh and burn inside it. But the metal took heat from the flame, so the gas outside stayed too cool to catch fire. You saw this in the Tea Strainer Test, where a fine steel tea strainer kept a candle flame below it.
+13. (mcq) A potter bakes a clay diya in a kiln. What does the heat do?  
+   Options: It changes the clay into something hard / It only dries the clay, so water can soften it again / It melts the clay so it can be shaped again  
+   **Answer:** It changes the clay into something hard. *Why:* The heat drives out the water and changes the clay itself, so the grains join into something hard. Drying alone would leave a pot that turns to mud again, and melting is not what a kiln does.
+14. (mcq) The fire bell rings at school and smoke is in the corridor. What should you do?  
+   Options: Crawl low to the nearest exit, then the assembly point / Hide under the bench until it is quiet / Go back to the classroom for your bag  
+   **Answer:** Crawl low to the nearest exit, then the assembly point. *Why:* Go out by the nearest exit, stay low under smoke, and meet at the assembly point so the teacher can count everyone. Hiding means nobody can find you, and going back for things is dangerous.
+15. (mcq) You will carry a cup of hot water to your experiment table. What is the safest way?  
+   Options: Carry it slowly in both hands, and let a grown-up pour / Run with it, to get it there before it cools / Carry it in one hand and your book in the other  
+   **Answer:** Carry it slowly in both hands, and let a grown-up pour. *Why:* Hot water can scald, so go slowly, keep your hands free for the cup, and let a grown-up pour. Running and carrying two things are how spills happen.
 
 ## Applications
 - Cooking on a gas stove, a chulha or a wood fire.

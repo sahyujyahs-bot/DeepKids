@@ -26,6 +26,20 @@ More than half of your body is water. You lose some all day, when you breathe ou
 - e.g. You feel thirsty after playing on a hot day.
 - e.g. A crow drinks from a bowl of water on a window ledge.
 - e.g. A tulsi plant droops when the soil is dry, and stands up after you water her.
+### Water covers most of Earth · *defined*
+**Definition:** Most of Earth's surface is covered by water. Out of every ten parts of the surface, about seven are water.
+
+Look at a picture of Earth taken from space. You will see a lot of blue. That blue is water. Most of it is in the oceans, and sea water is salty, so we cannot drink it. Only a small part of Earth's water is fresh water, the kind we drink and cook with. Fresh water is found in rivers, lakes and wells, and as ice on high mountains. Rain fills many of them again and again. So there is a lot of water on Earth, but the water we can drink is precious.
+- e.g. Fishing boats in Kerala and Gujarat sail on the sea, which is salty water.
+- e.g. The Ganga carries fresh water from the Himalayan snow to the plains.
+- e.g. A well in a village holds fresh rain water that soaked into the ground.
+### What clean water is like · *defined*
+**Definition:** Clean drinking water has no colour, no taste and no smell. It looks clear, like glass.
+
+Fill a glass with clean drinking water and hold it up to the window. You can see right through it, so we say it is clear. Taste a sip. It has no taste of its own. Smell it. It has no smell. Water that is not clean can look and smell different. Muddy river water after rain looks brown. Sea water tastes salty. Never taste water from a pond, a drain or a puddle, because it may make you ill. Ask a grown-up if you are not sure that water is clean.
+- e.g. A glass of filtered water from the kitchen is clear, with no taste and no smell.
+- e.g. The river after a monsoon shower looks brown because mud is mixed in.
+- e.g. A drop of sea water on your lip tastes salty.
 ### Water gets inside things · *defined*
 **Definition:** Water can soak into many things, like poha, rice, dal, cloth, paper and soil. Oil does not soak into poha or rice.
 
@@ -343,7 +357,7 @@ Meenakshi looked out of the window at the dark sky. 'Thank you, rain,' she said.
   - Wait: Come back tomorrow.
 
 ## Worksheets
-### Water and Its Jobs (core) (core, 10 questions)
+### Water and Its Jobs (core) (core, 11 questions)
 1. (sort) Circle in blue the things that need water. Cross out the things that do not.  
    **Answer:** a crow → Needs water; a tulsi plant → Needs water; you → Needs water; a stone → Does not need water; a spoon → Does not need water; a cow → Needs water. *Why:* Every living being needs water: crows, plants, cows and you. A stone and a spoon are not alive, so they do not drink.
 2. (mcq) To test what water and oil do to poha, you set up three katoris of poha: one with water, one with oil, and one with nothing. Why keep one with nothing?  
@@ -366,7 +380,9 @@ Meenakshi looked out of the window at the dark sky. 'Thank you, rain,' she said.
    **Answer:** The first child is closer: water soaks into the dried rice and loosens it, so a soaked plate comes clean in a few wipes. But the second child is right that soaking takes a few minutes of waiting.. *Why:* A strong answer uses what water does to dried food, and is fair to both: soaking makes cleaning easier, but it takes a little time.
 10. (truefalse) Water does only one job: we drink it.  
    **Answer:** False. *Why:* False. Water also cooks our food, washes things, helps plants grow and gives animals a drink.
-### Water Gets Inside (stretch) (stretch, 10 questions)
+11. (truefalse) The glass of drinking water on your table has a yellow colour and a sweet smell.  
+   **Answer:** False. *Why:* False. Clean drinking water is clear and has no smell and no taste. If water looks coloured or smells strange, something is mixed in, and we should not drink it.
+### Water Gets Inside (stretch) (stretch, 11 questions)
 1. (mcq) Dry poha is put in milk for breakfast. After ten minutes, what will the poha be like?  
    Options: Hard, like dry poha / Soft, because milk is mostly water / Shiny and hard, like poha in oil  
    **Answer:** Soft, because milk is mostly water. *Why:* Milk is mostly water. The water in the milk soaks into the poha and makes it soft.
@@ -374,20 +390,22 @@ Meenakshi looked out of the window at the dark sky. 'Thank you, rain,' she said.
    **Answer:** water. *Why:* You feel thirsty when your body needs more water.
 3. (fill) Rain fills rivers, lakes and ____ with water.  
    **Answer:** wells. *Why:* Rain soaks into the ground and fills wells, as well as rivers and lakes.
-4. (order) Put the urad dal pictures in order, from first to last.  
+4. (fill) Out of every ten parts of Earth's surface, about ____ are covered by water.  
+   **Answer:** 7. *Why:* About seven parts are water, and about three parts are land. Most of the water is salty sea water.
+5. (order) Put the urad dal pictures in order, from first to last.  
    **Answer:** ['Dry dal in a katori', 'Dal covered with water overnight', 'Fat, soft dal']. *Why:* First the dal is dry. Then it sits in water. The water goes inside, and the dal grows fat and soft.
-5. (draw) Draw your home. Draw every place where your family uses water.  
+6. (draw) Draw your home. Draw every place where your family uses water.  
    **Answer:** A drawing with the kitchen tap, the bathroom, the drinking pot or filter, and plants or a pet bowl.. *Why:* A strong drawing shows water used for at least three different jobs.
-6. (write) Tell a grown-up your answer, and ask them to write it down. A dry flower pot gets a mug of water. Where does the water go?  
+7. (write) Tell a grown-up your answer, and ask them to write it down. A dry flower pot gets a mug of water. Where does the water go?  
    **Answer:** It soaks into the soil, and the plant's roots take the water in. Some drips out of the hole at the bottom.. *Why:* A strong answer says the soil soaks up the water, like the poha did, and the plant takes the water in through the roots.
-7. (write) Tell a grown-up your answer, and ask them to write it down. Why do people put out bowls of water for birds in the summer?  
+8. (write) Tell a grown-up your answer, and ask them to write it down. Why do people put out bowls of water for birds in the summer?  
    **Answer:** Birds need water too. In hot weather, many puddles and ponds dry up, so it is hard for birds to find a drink in a city.. *Why:* A strong answer says that birds need water like we do, and that in a hot city water is hard to find.
-8. (mcq) Our tap water came out of a pipe. Where did the water in the pipe come from first?  
+9. (mcq) Our tap water came out of a pipe. Where did the water in the pipe come from first?  
    Options: From the tap itself / From rain, which fills lakes, rivers and wells / From the shop  
    **Answer:** From rain, which fills lakes, rivers and wells. *Why:* Pipes bring water from tanks, lakes, rivers and wells. All of them are filled by rain.
-9. (perspective) Three people in Puducherry talk about the best way to use one bucket of water.  
+10. (perspective) Three people in Puducherry talk about the best way to use one bucket of water.  
    **Answer:** Any choice with a reason is fine. For example: Revathi, because people need water to live. But the first child is right that birds need water too and cannot get it from a tap.. *Why:* A strong answer picks one person, gives a reason, and is fair to another view. Every living being needs water, so there is no single right answer.
-10. (truefalse) The water you drink becomes part of your body.  
+11. (truefalse) The water you drink becomes part of your body.  
    **Answer:** True. *Why:* True. More than half of your body is water, and you need to drink every day to keep it that way.
 
 ## Videos
@@ -408,22 +426,28 @@ Meenakshi looked out of the window at the dark sky. 'Thank you, rain,' she said.
 4. (mcq) Which one is a water source?  
    Options: A lake / A chair / A pencil  
    **Answer:** A lake. *Why:* A water source is a place we get water from. A lake holds rain water.
-5. (mcq) Poha sat in oil for ten minutes. What was it like?  
+5. (mcq) Look at Earth from space. Which sentence is true?  
+   Options: Most of Earth's surface is covered by water / Most of Earth's surface is covered by sand / Earth has no water on its surface  
+   **Answer:** Most of Earth's surface is covered by water. *Why:* About seven out of every ten parts of Earth's surface are water. Most of it is in the salty oceans, which is why we need rivers, lakes and wells for water to drink. Earth has deserts with sand, but they are only a small part.
+6. (mcq) Poha sat in oil for ten minutes. What was it like?  
    Options: Soft and squashy / Shiny and still hard / Gone  
    **Answer:** Shiny and still hard. *Why:* Oil does not go inside poha. It only coats the outside, so the poha stays hard.
-6. (mcq) Dry poha is put in a katori of plain water. After a while it goes soft. Why?  
+7. (mcq) Dry poha is put in a katori of plain water. After a while it goes soft. Why?  
    Options: The water went inside each flake / The water was hot / The katori was steel  
    **Answer:** The water went inside each flake. *Why:* Water soaks into each flake of poha and makes it soft. It does not need to be hot.
-7. (mcq) Which of these needs water to live?  
+8. (mcq) You pour a glass of clean drinking water. What will you find?  
+   Options: It is clear and has no taste and no smell / It is yellow and smells of onions / It is white and tastes of milk  
+   **Answer:** It is clear and has no taste and no smell. *Why:* Clean drinking water has no colour, no taste and no smell. Milk is white, and it has a taste. Water only looks yellow or smells strange when something else is mixed in.
+9. (mcq) Which of these needs water to live?  
    Options: A spoon / A plant / A stone  
    **Answer:** A plant. *Why:* A plant is alive and needs water. A spoon and a stone are not alive.
-8. (mcq) How does a cat drink?  
+10. (mcq) How does a cat drink?  
    Options: Laps with a fast tongue / Through her skin / With a trunk  
    **Answer:** Laps with a fast tongue. *Why:* A cat laps with her tongue, very fast. Each lap pulls up a little water.
-9. (mcq) You guess that oil will make poha soft. What should you do to find out?  
+11. (mcq) You guess that oil will make poha soft. What should you do to find out?  
    Options: Ask a friend / Try it and look / Just believe it  
    **Answer:** Try it and look. *Why:* The best way to find out is to test it: put poha in oil, wait, and press it.
-10. (mcq) In the poha test, why do all three katoris get the same poha?  
+12. (mcq) In the poha test, why do all three katoris get the same poha?  
    Options: So the test is fair / Because poha is cheap / Because the katoris are small  
    **Answer:** So the test is fair. *Why:* If the poha is the same and only the liquid is different, we know the liquid made the difference.
 

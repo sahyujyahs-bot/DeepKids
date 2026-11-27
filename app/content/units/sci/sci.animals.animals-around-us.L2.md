@@ -47,7 +47,7 @@ Snakes, fish and earthworms have no legs. Birds and humans walk on two legs. Dog
 ### Wings and fins · *defined*
 **Definition:** Wings are body parts that an animal flaps to fly. Fins are flat body parts that a fish uses to swim and steer.
 
-Birds, bats and most insects have wings. A bat is not a bird: bats have fur and feed their babies milk, so bats are mammals. Some birds have wings but do not fly, such as the penguin and the ostrich. A fish has a tail fin that pushes them forward. Fins on the back and belly stop the fish from rolling over. Fins on the sides help them steer and stop. Dolphins and whales have fins too, but they breathe air and feed their babies milk. They are mammals, not fish.
+Birds, bats and most insects have wings. A bat is not a bird: bats have fur and feed their babies milk, so bats are mammals. Some birds have wings but do not fly, such as the penguin and the ostrich. A fish has a tail fin that pushes them forward. Fins on the back and belly stop the fish from rolling over. Fins on the sides help them steer and stop. Dolphins and whales have fins too, but they breathe air and feed their babies milk. They are mammals, not fish. You can also group animals by where they move: on land, in water or in the air. A buffalo walks on land. A rohu fish swims in water. A kite flies in the air. Some animals use more than one place. A duck walks on land, paddles on a pond and flies.
 - e.g. A crow has wings and two legs.
 - e.g. A butterfly has wings and six legs.
 - e.g. A fish has fins and no legs.
@@ -62,7 +62,7 @@ One leg or two legs give a body only a small place to stand, so the body tips ov
 ### Pets, farm animals and wild animals · *defined*
 **Definition:** A pet lives with a family who look after them. A farm animal is kept for milk, eggs, wool or work. A wild animal lives on their own and finds their own food.
 
-Wild animals do not only live in forests. Crows, pigeons, squirrels, geckos and ants are wild animals that live in cities. In Mumbai, leopards live in a forest park inside the city. Being a pet depends on how an animal lives, not on what kind of animal they are. A parrot in the forest is wild. In India, the Wildlife Protection Act of 1972 makes it against the law to catch or keep wild Indian birds, such as parakeets and munias. Some animals, like street dogs and temple cows, are fed by many people but belong to no one family. People argue about what to call them.
+Wild animals do not only live in forests. Crows, pigeons, squirrels, geckos and ants are wild animals that live in cities. In Mumbai, leopards live in a forest park inside the city. Being a pet depends on how an animal lives, not on what kind of animal they are. A parrot in the forest is wild. In India, the Wildlife Protection Act of 1972 makes it against the law to catch or keep wild Indian birds, such as parakeets and munias. Some animals, like street dogs and temple cows, are fed by many people but belong to no one family. People argue about what to call them. A wild animal finds her own food. A pet cannot, so the family gives food and fresh water every day. They also give a clean place to sleep and time to play. Be gentle with a pet. Pets feel hunger, thirst and fear, as you do. Care can reach other animals too. On a hot day, a bowl of water on the balcony helps the birds and squirrels. Never hit a street dog or throw stones at her.
 - e.g. A cat at home is a pet.
 - e.g. A buffalo kept for milk is a farm animal.
 - e.g. A crow on the water tank is a wild animal.
@@ -405,6 +405,21 @@ That night the tube light went on, and the moths came, and so did Chikki.
   *Child mode:* Decide where the street dog goes. Give a reason.
   - Note: There is no single right answer for a street dog. Some people call her a community dog. The important thing is the reason your child gives.
   - Check: A crow lives on the water tank of your building. What kind of animal is the crow? → **A wild animal**
+### a7 · Make an Animal Mask (20 min)
+- **record:** Take a photo of your child wearing the mask.
+- **s1 (8 min)**  
+  *Parent does:* Your child picks an animal they know, such as a cat, a parrot, a tiger or a crow. They draw the face on the plate: two eyes, the nose or beak, the mouth or ears. A grown-up cuts out two holes for the eyes.  
+  *Parent says:* Which animal will you be? Look at a picture or at the real animal. What is on their face?  
+  *Child mode:* Draw the animal's face on the plate. Do not forget the ears or the beak.
+- **s2 (7 min)**  
+  *Parent does:* Show the covering with real materials: cotton wool or wool for fur, folded paper strips for feathers, small paper circles for scales. Glue them on. Tie a string on each side.  
+  *Parent says:* What covers your animal's face? Fur, feathers or scales? Let us stick some on.  
+  *Child mode:* Stick on the covering. Wear your mask.
+- **s3 (5 min)**  
+  *Parent does:* Your child wears the mask and moves and sounds like the animal. Ask what they know about how the animal lives, and whether the animal is a pet, a farm animal or wild.  
+  *Parent says:* Show me how you walk. Is your animal a pet, a farm animal or wild?  
+  *Child mode:* Move and sound like your animal. Say if it is a pet, a farm animal or wild.
+  - Check: You make a tiger mask. What should you stick on the face to show their covering? → **Fur, such as cotton wool or wool**
 ### a5 · Feather and Water (if you find a feather) (10 min)
 - **safety:** Hold the feather by the end and wash your hands after.
 - **record:** Take a photo of the feather and the paper with the water drops on them.
@@ -484,7 +499,7 @@ That night the tube light went on, and the moths came, and so did Chikki.
   - Check: Which change helps a two-legged body stand without help? → **Wide feet with long toes**
 
 ## Worksheets
-### Coverings, Legs and Fins (core) (core, 15 questions)
+### Coverings, Legs and Fins (core) (core, 17 questions)
 1. (sort) Sort each animal by their covering.  
    **Answer:** a crow → Feathers; a dog → Hair or fur; a fish → Scales; a snail → Shell; a frog → Bare skin; you → Hair or fur. *Why:* A crow has feathers, a dog has fur, a fish has scales, a snail carries a shell, and a frog has bare damp skin. You have hair and skin, like other mammals.
 2. (match) Draw a line from each animal to how they move.  
@@ -509,16 +524,20 @@ That night the tube light went on, and the moths came, and so did Chikki.
    **Answer:** mammals. *Why:* Mammals have hair or fur, and mammal babies drink milk. Cows, dogs, bats and humans are mammals.
 11. (sort) Sort these animals into pet, farm animal and wild animal.  
    **Answer:** a cat that sleeps at home and is fed every day → Pet; a buffalo kept for milk → Farm animal; a crow on the water tank → Wild animal; a hen kept for eggs → Farm animal; a gecko on the wall → Wild animal; a goldfish in a bowl at home → Pet. *Why:* Pets live with a family who look after them. Farm animals are kept for milk, eggs or work. Wild animals find their own food and home, even in a city.
-12. (perspective) A brown street dog sleeps outside a building. Many people in the lane feed her. Two children disagree about her.  
+12. (sort) Sort these animals by where they mostly move: on land, in water or in the air.  
+   **Answer:** a buffalo walking to the pond → On land; a rohu fish swimming → In water; a kite gliding high in the sky → In the air; a goat climbing a rock → On land; a crab in a stream → In water; a bee flying to a flower → In the air. *Why:* Land animals walk or climb, water animals swim, and flying animals use wings. Some animals, like a duck, use more than one place.
+13. (fill) A pet cannot find food at home. The family must give food and fresh ________ every day.  
+   **Answer:** water. *Why:* Every animal needs water. A pet depends on its family to give water, food and a clean place to sleep.
+14. (perspective) A brown street dog sleeps outside a building. Many people in the lane feed her. Two children disagree about her.  
    **Answer:** A strong answer picks one side and gives a reason, such as 'she is fed every day, like a pet' or 'no family owns her and she goes where she likes'. Then the child says what the other person has right.. *Why:* This is a real question with no single answer. Many people call such dogs community dogs: looked after by many people, but owned by no one family.
-13. (mcq) Which one is a mammal?  
+15. (mcq) Which one is a mammal?  
    Options: A hen / A cow / A crocodile  
    **Answer:** A cow. *Why:* A cow has hair, and her calf drinks her milk, so a cow is a mammal. A hen has feathers and a crocodile has scales, and both lay eggs.
-14. (truefalse) You are an animal.  
+16. (truefalse) You are an animal.  
    **Answer:** True. *Why:* True. Humans are animals. We are mammals, with hair, and our babies drink milk.
-15. (draw) Draw an animal you saw today. Colour their covering carefully.  
+17. (draw) Draw an animal you saw today. Colour their covering carefully.  
    **Answer:** Any real animal, with their covering drawn: feathers, fur, scales, a shell or bare skin.. *Why:* A strong drawing shows the covering clearly, such as feathers on a crow or fur on a dog, and has the right number of legs.
-### Tricky Animals (stretch) (stretch, 15 questions)
+### Tricky Animals (stretch) (stretch, 17 questions)
 1. (mcq) An Indian pangolin is covered in scales, and the mother feeds her baby milk. Which group is the pangolin in?  
    Options: Fish / Mammals / Birds  
    **Answer:** Mammals. *Why:* Animals whose babies drink milk are mammals. The pangolin is a mammal with scales instead of fur. One body part alone does not tell you the group.
@@ -552,6 +571,10 @@ That night the tube light went on, and the moths came, and so did Chikki.
    **Answer:** True. *Why:* True. Whales and dolphins breathe air through a blowhole on the top of the head. They are mammals.
 15. (write) Say one way a crow and you are the same, and one way you are different.  
    **Answer:** We both walk on two legs. A crow has feathers and wings, and I have hair and no wings.. *Why:* A strong answer gives a real body part that is the same, such as two legs or two eyes, and one that is different, such as feathers or wings.
+16. (sort) Sort these into kind things and unkind things to do for animals.  
+   **Answer:** put out a bowl of water for the birds on a hot day → Kind; throw a stone at a street dog → Unkind; feed your pet cat at the same time each day → Kind; pull a pet's tail for fun → Unkind; talk gently and stroke a pet slowly → Kind; leave a pet alone without water all day → Unkind. *Why:* Animals feel thirst, hunger, pain and fear as you do. Kind care gives them water, food and a gentle hand. Hurting or forgetting them is unkind.
+17. (write) Make a mask of an animal you know. Say which covering you would use and what you would stick on for it.  
+   **Answer:** Any animal with a matching covering. For example, cotton wool for a cat's fur, paper strips for a crow's feathers.. *Why:* A good mask copies the real animal's covering. Fur, feathers and scales are different, so each needs its own material.
 ### Think Like a Scientist (challenge) (challenge, 15 questions)
 1. (write) A three-legged stool never rocks, even on a bumpy floor. A four-legged chair sometimes rocks. Why do you think this is?  
    **Answer:** All three legs always touch the floor, even if the floor is bumpy. With four legs, if one leg is short or the floor is bumpy, one leg lifts and the chair rocks.. *Why:* A strong answer says that all three feet can always touch the ground. This is why old milking stools often had three legs.
@@ -626,6 +649,18 @@ That night the tube light went on, and the moths came, and so did Chikki.
 11. (mcq) What is your own body covered in?  
    Options: Feathers / Skin and hair / Scales  
    **Answer:** Skin and hair. *Why:* Your body is covered in skin, with hair growing out of it. Like other mammals, you have hair.
+12. (mcq) A duck walks on land, paddles on a pond and flies over the field. Where can a duck move?  
+   Options: On land only / On land, in water and in the air / In water only  
+   **Answer:** On land, in water and in the air. *Why:* Some animals use more than one place. A duck walks, swims and flies. A fish moves in water only, and a buffalo on land.
+13. (mcq) Your family keeps a pet cat. Why must someone give her food and fresh water every day?  
+   Options: A pet cannot find her own food at home, so the family must give it / Cats do not need water / Wild animals are given food every day too  
+   **Answer:** A pet cannot find her own food at home, so the family must give it. *Why:* A wild animal finds her own food, but a pet lives with a family who look after her. Every animal needs water, so a cat needs fresh water daily.
+14. (mcq) It is a very hot day. What is a kind thing to do for the birds near your building?  
+   Options: Chase them away from the balcony / Put a bowl of fresh water on the balcony / Throw a stone to see if they fly  
+   **Answer:** Put a bowl of fresh water on the balcony. *Why:* Birds feel thirst in the heat, as you do. A bowl of water is kind. Chasing or hurting animals frightens them and can harm them.
+15. (mcq) Asha makes a parrot mask for a play. Which covering should she stick on it?  
+   Options: Cotton wool, for fur / Paper strips, for feathers / Paper circles, for scales  
+   **Answer:** Paper strips, for feathers. *Why:* A parrot is a bird, and birds are covered in feathers. Fur belongs to mammals and scales to fish and snakes.
 
 ## Applications
 - Camera stands and old milking stools have three legs, because three legs never rock.
@@ -694,7 +729,7 @@ Feathers, Fur and Fins (sci.animals.L2): Topic-level song for Animals L2
 
 ## Plan
 - Start options: intro, a1, e1, story, g1, cards
-- Default order: intro → a1 → e1 → summary → terms → explanations → story → g1 → a2 → ws-core → e2 → a3 → g2 → a4 → agreed → challenging → p1 → c1 → ws-stretch → a5 → a6 → big_questions → videos → how_we_found_out → ws-challenge → open_questions → roots → quiz
+- Default order: intro → a1 → e1 → summary → terms → explanations → story → g1 → a2 → ws-core → e2 → a3 → g2 → a4 → agreed → challenging → p1 → c1 → ws-stretch → a5 → a6 → a7 → big_questions → videos → how_we_found_out → ws-challenge → open_questions → roots → quiz
 - Core: a1, e1, g1, ws-core
 
 ## Sources

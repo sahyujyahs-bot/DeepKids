@@ -12,12 +12,14 @@
 3. By the end I can say, from my own taste test, that one food can taste different to different people.
 4. By the end I can name a kind thing to do, and say how it helps someone.
 5. By the end I can make a guess, test it, and say what I saw.
+6. By the end I can join a game or a job with others, take my turn, and say that families and pets deserve kindness.
 
 ## Terms
 - **Similar**: Similar means alike in some way. *e.g.* You and your cousin are similar: you both have ten fingers and you both like mangoes.
 - **Different**: Different means not the same. *e.g.* Your hair may be curly and your friend's hair straight. Your hair is different from your friend's.
 - **Taste**: Taste is how a food seems in your mouth: sweet, sour, salty or bitter. You taste with your tongue. *e.g.* Jaggery tastes sweet. Lime tastes sour. Karela tastes bitter.
 - **Kind**: Being kind means doing something to help another person or animal, or to make them feel better. *e.g.* Sharing your crayons with a new friend is kind. Putting out water for a crow on a hot day is kind.
+- **Take turns**: When a few people share one thing or one game, each one has a go, one after another. *e.g.* In a game of ludo, you throw the dice, and then your friend throws it.
 
 ## Explanations
 ### We are all similar · *defined*
@@ -30,7 +32,7 @@ Every person has a heart, a mouth and a nose. Almost everyone has two eyes, two 
 ### Each of us is different · *defined*
 **Definition:** No two people are exactly the same. We differ in how we look, how we sound and what we like.
 
-Some people are tall and some are short. Hair can be curly, wavy or straight. Skin comes in many shades of brown, from light to dark. You can tell one grown-up from another with your eyes shut, because every person's voice sounds a little different. Even twins who look alike have different fingerprints. And each person likes different things: one loves rice and rasam, another loves luchi.
+Some people are tall and some are short. Hair can be curly, wavy or straight. Skin comes in many shades of brown, from light to dark. You can tell one grown-up from another with your eyes shut, because every person's voice sounds a little different. Even twins who look alike have different fingerprints. And each person likes different things: one loves rice and rasam, another loves luchi. Families are different too. Some children live with a mother and a father. Some live with a grandmother, with an aunt and uncle, or with one parent. Some families eat idli for breakfast, and some eat paratha. Each one is a real family, and we are kind about how each one is.
 - e.g. You can know who is calling you just from their voice.
 - e.g. Two sisters can have different favourite colours.
 - e.g. The lines on your fingertips are not like anyone else's.
@@ -50,10 +52,18 @@ Scientists agree that two things matter. One is the body you were born with. The
 ### Being kind · *defined*
 **Definition:** Being kind means helping someone, or doing something that makes them feel better.
 
-Other people may like different things from you, so you can ask them. Asking 'Do you like this?' is kind. Saying 'Yuck!' about someone's food is not. People are not the only animals who are kind. Elephants touch and soothe another elephant who is upset. Rats in tests have opened a little door to free another rat who was shut in.
+Other people may like different things from you, so you can ask them. Asking 'Do you like this?' is kind. Saying 'Yuck!' about someone's food is not. People are not the only animals who are kind. Elephants touch and soothe another elephant who is upset. Rats in tests have opened a little door to free another rat who was shut in. Pets feel things too. A kind child fills the dog's water bowl, strokes a cat gently, and never pulls a tail. If you do not know an animal, ask a grown-up before you touch her.
 - e.g. You ask a new child to play with you.
 - e.g. You bring water for a tired grown-up.
 - e.g. You wait for a slower friend on a walk.
+- e.g. You fill the water bowl for the family dog, or put out grain for the birds.
+### Doing things together · *defined*
+**Definition:** Some games and jobs are better with other people. When you join in, you take a part and wait for your turn.
+
+Many hands make a job quick. At home, one person shakes out the washing, one folds it and one puts it away. A game of kho-kho or hide and seek needs more than one child. When you join a group, you wait for your turn and share the things. If a child is standing alone, you can say, 'Come and play with us!' Everyone's part is different, and every part helps.
+- e.g. Three children draw a rangoli together. One draws the dots, one joins them, and one fills in the colours.
+- e.g. You carry one bag of vegetables and your brother carries the other.
+- e.g. You wait for your turn on the swing, and then the next child has hers.
 
 ## Mostly agreed
 - All people have the same main body parts and the same needs. *How we know:* Doctors all over the world study the same heart, lungs and bones in every person. Every person needs air, water, food and sleep.
@@ -381,7 +391,7 @@ Ammamma smiled. 'That is how it is with people,' she said. 'Find the different t
   - Check: One guest loves sour things and another guest loves sweet things. What plate will make both happy? → **A plate with laddoos and lime pickle**
 
 ## Worksheets
-### Like Me, Not Like Me (core) (core, 13 questions)
+### Like Me, Not Like Me (core) (core, 14 questions)
 1. (draw) Draw yourself and one person from your home, side by side. Circle one thing that is the same about you.  
    **Answer:** Two people, with a circle round something they share, such as two eyes or ten fingers.. *Why:* A strong drawing circles a body part both people have. All people share the same body parts.
 2. (match) Draw a line from each food to its taste.  
@@ -410,7 +420,9 @@ Ammamma smiled. 'That is how it is with people,' she said. 'Find the different t
    **Answer:** ['happy', 'sad', 'scared', 'angry']. *Why:* Faces show how people feel. Knowing how someone feels helps us know how to be kind to them.
 13. (truefalse) With your eyes closed, you can tell one grown-up's voice from another's.  
    **Answer:** True. *Why:* True. Each person's voice is a little different, so we can tell people apart just by listening.
-### Same Food, Different Tongues (stretch) (stretch, 13 questions)
+14. (draw) Draw a job or a game you do together with someone at home. Show what each person does.  
+   **Answer:** Any shared job, such as folding clothes, making a rangoli, or playing carrom.. *Why:* A strong drawing shows two or more people, each with a different part of the same job or game.
+### Same Food, Different Tongues (stretch) (stretch, 15 questions)
 1. (write) Your grandmother gave karela a thumbs up, and you gave a thumbs down. You both ate the same karela. Why were your thumbs different? Say your answer, and a grown-up writes it down.  
    **Answer:** Karela tastes different to my grandmother and to me. She has eaten karela for many years, and her tongue is different from mine.. *Why:* A strong answer says the food was the same, so the difference is in each person: their tongue and the foods they are used to.
 2. (mcq) In the Same Food, Different Faces taste test, why did everyone taste with their eyes closed?  
@@ -441,6 +453,10 @@ Ammamma smiled. 'That is how it is with people,' she said. 'Find the different t
 13. (mcq) In 1931, a scientist called Arthur Fox tasted nothing in a white powder. A man working next to him said the same powder was very bitter. What did this show?  
    Options: The other man was making it up / The same powder can taste different to different people / The powder had no taste for anyone  
    **Answer:** The same powder can taste different to different people. *Why:* Fox gave the powder to many people. Some found it bitter, and some tasted nothing. The same thing can taste different to different people.
+14. (truefalse) Only a family with a mother and a father is a real family.  
+   **Answer:** False. *Why:* False. Some children live with a grandmother, an aunt and uncle, or one parent. Every one of these is a real family.
+15. (draw) Draw one kind thing you can do for a pet, a bird or a street animal near your home.  
+   **Answer:** Any kind act, such as putting out a bowl of water or stroking a dog gently.. *Why:* A strong drawing shows the child being gentle, with a pet or an animal that is not afraid.
 
 ## Videos
 - **Newborn babies tasting sweet, sour and bitter** (, 3 min) id `to find`: Shows that babies only hours old relax at sweet and screw up their faces at bitter, before they have learned anything about food. *Check:* Find a real clip from a study or a science programme, not acted, showing newborn faces to sweet and bitter tastes.
@@ -481,6 +497,15 @@ Ammamma smiled. 'That is how it is with people,' she said. 'Find the different t
 11. (mcq) What does a scientist do before a test?  
    Options: Guesses what will happen, and says why / Writes the answer before looking / Skips the test  
    **Answer:** Guesses what will happen, and says why. *Why:* A scientist guesses first and gives a reason. Then the test shows if the guess was right.
+12. (mcq) Three children are making a rangoli together. One child has finished her part and stands waiting. What is a good thing to do?  
+   Options: Ask what part she can help with, and join in / Take the colours and do it all alone / Walk away and say it is boring  
+   **Answer:** Ask what part she can help with, and join in. *Why:* A shared job goes well when each person has a part. Asking how to help lets everyone feel part of the group. Doing it all alone leaves the others out.
+13. (mcq) Sana's friend Ravi lives with his grandmother and his uncle. Sana lives with her mother, her father and her sister. What is the kind thing to say?  
+   Options: Families are all different, and Ravi's is a real family too / Ravi's family is not a proper family / Everyone must live like Sana does  
+   **Answer:** Families are all different, and Ravi's is a real family too. *Why:* Families come in many shapes, and each one is a real family. Saying a family is not proper hurts the child who lives in it.
+14. (mcq) A kitten comes to your door. Which is a kind way to meet her?  
+   Options: Ask a grown-up, then stroke her gently and give her some water / Pull her tail to make her play / Shout loudly so that she runs to you  
+   **Answer:** Ask a grown-up, then stroke her gently and give her some water. *Why:* Animals feel pain and fear as we do. A gentle hand and some water are kind. A pulled tail hurts, and a loud shout frightens her.
 
 ## Applications
 - Cooks at a wedding or a festival make sweet, sour, salty and spicy dishes, so that every guest finds something they like.

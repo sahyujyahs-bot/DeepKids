@@ -41,7 +41,7 @@
 ### What friction is · *defined*
 **Definition:** Friction is a force that acts where two surfaces touch. It works against sliding, or against something starting to slide.
 
-Friction only appears when two things touch and one of them is sliding, or is being pushed or pulled to slide. It always acts against the sliding. Think of a book lying still on a flat table. Nobody is pushing it, so there is no friction on it at all. Now give the book a gentle push. Friction pushes back the opposite way, and the book soon stops.
+Friction only appears when two things touch and one of them is sliding, or is being pushed or pulled to slide. It always acts against the sliding. Think of a book lying still on a flat table. Nobody is pushing it, so there is no friction on it at all. Now give the book a gentle push. Friction pushes back the opposite way, and the book soon stops. Friction is only one kind of force. Your muscles give a muscular force when you lift a bucket from the well. Gravity pulls every thing down. A magnet gives a magnetic force, which pulls a steel paper clip to it.
 - e.g. A ball rolling on grass slows down and stops. The grass rubs against it.
 - e.g. When you walk, your foot pushes back on the ground. Friction pushes your foot forward, so you move ahead.
 - e.g. A bicycle brake rubs against the wheel. The rubbing slows the wheel down.
@@ -585,7 +585,7 @@ Nobody wrote down Hapu's name, or Mery's. But somebody painted them. And nearly 
   *Child mode:* Tree frogs climb wet leaves without slipping. Which animal's feet would you copy?
 
 ## Worksheets
-### Friction Detective (core) (core, 16 questions)
+### Friction Detective (core) (core, 17 questions)
 1. (mcq) Friction is a force. Where does it act?  
    Options: Only on things that are moving fast, like cars / Where two surfaces touch / Only when things are wet / Anywhere, even in empty space  
    **Answer:** Where two surfaces touch. *Why:* Friction happens wherever two surfaces touch and one is trying to slide over the other. Picking 'moving fast' usually means friction is linked only with speed. But friction also holds still things in place, like a shoe on a slope. Picking 'empty space' usually mixes friction up with gravity, which pulls without touching.
@@ -623,6 +623,8 @@ Nobody wrote down Hapu's name, or Mery's. But somebody painted them. And nearly 
    **Answer:** A strong answer says that friction also works on still things. Gravity tries to make the shoe slide down the slope, and friction pushes up the slope to stop it. That is why the shoe stays put. If there were no friction, the shoe would slide straight away, as it would on ice.. *Why:* Friction works against sliding, and that includes stopping a still thing from starting to slide. Scientists call this static friction.
 16. (perspective) A family is choosing new tiles for the kitchen floor. Two of them do not agree.  
    **Answer:** A strong answer picks a tile and explains it with friction: rough tiles give more friction, so feet grip even when the floor is wet. Smooth tiles give less friction, so they are slippery but easy to clean. It answers back fairly, and may suggest a middle way, such as rough tiles near the sink or a rubber mat.. *Why:* Both are right about something. Less friction makes cleaning easy, and more friction keeps people safe. Real homes weigh this up, often with a mat where the floor gets wet.
+17. (fill) You drop a ball, and it falls to the ground. The force that pulls it down is called ____.  
+   **Answer:** ['gravity']. *Why:* Gravity is the pull of the Earth on every thing. It is not friction, because the ball is not sliding on a surface.
 ### Friction in the Real World (stretch) (stretch, 15 questions)
 1. (mcq) A box of books is pulled across the floor with a forcemeter. The full box needs 8 newtons. The half-empty box needs 4 newtons. Look at the pictures. Why does the full box need more pull?  
    Options: The full box presses down harder, so there is more friction / The half-empty box is smoother underneath / The full box is bigger, so more of it touches the floor / The floor changed  
@@ -748,6 +750,9 @@ Nobody wrote down Hapu's name, or Mery's. But somebody painted them. And nearly 
 14. (mcq) The ends of the bones in your knee rub thousands of times a day. Why don't they wear out quickly?  
    Options: They are covered in smooth cartilage and a slippery liquid / They never touch each other / They are made of steel  
    **Answer:** They are covered in smooth cartilage and a slippery liquid. *Why:* Smooth cartilage soaked in slippery joint fluid gives less friction than ice sliding on ice. Picking 'never touch' is a fair guess, but the bones do press together every time you stand.
+15. (mcq) You lift a bucket of water out of the well with your hands. Which kind of force is your lift?  
+   Options: A muscular force / Gravity / A magnetic force  
+   **Answer:** A muscular force. *Why:* Your muscles give a muscular force when you lift. Gravity pulls the bucket down, and a magnet gives a magnetic force, which is not what lifts the bucket.
 
 ## Applications
 - Brakes on bicycles, scooters, cars and trains rub against the wheels to slow them down.

@@ -84,6 +84,12 @@
    "art": "A ruler showing cm, a measuring cup showing ml, and a kitchen scale showing g."
   },
   {
+   "term": "Hand span",
+   "meaning": "The length from the tip of your thumb to the tip of your little finger when your hand is spread wide. It is different for each person, so it is not a standard unit.",
+   "example": "Your table is 6 of your hand spans, but only 5 of your father's.",
+   "art": "A child's spread hand on a table, with the thumb tip and little finger tip marked."
+  },
+  {
    "term": "Millilitre (ml)",
    "meaning": "A small unit for measuring liquid. A teaspoon holds about 5 millilitres. A big glass of water holds about 250 millilitres.",
    "example": "A medicine cup from a cough syrup bottle has lines that mark millilitres.",
@@ -136,6 +142,24 @@
    "meaning": "Soaks up water and holds it.",
    "example": "A cotton towel, a sponge and a kitchen towel are absorbent.",
    "art": "A kitchen towel soaking up a spilt glass of water on a table."
+  },
+  {
+   "term": "Flexible",
+   "meaning": "A material that bends easily without breaking. Elastic is different: it springs back.",
+   "example": "A cane stick bends when you press on it.",
+   "art": "A cane stick bending under a small weight."
+  },
+  {
+   "term": "Float",
+   "meaning": "To stay on top of water and not sink.",
+   "example": "A wooden ice-cream stick floats. A steel spoon sinks.",
+   "art": "A wooden stick floating in a tub, and a spoon lying at the bottom."
+  },
+  {
+   "term": "Transparent",
+   "meaning": "Lets light through, so you can see clearly through it. Translucent lets some light through, so you see a blur. Opaque lets none through.",
+   "example": "A glass window is transparent. Butter paper is translucent. A wooden door is opaque.",
+   "art": "A glass, a sheet of butter paper and a piece of card held over a black dot, showing it clear, blurry and hidden."
   },
   {
    "term": "Strength",
@@ -315,6 +339,19 @@
    "context": "Words like 'strong' and 'quite wet' mean different things to different people. This card explains why scientists turn them into numbers."
   },
   {
+   "concept": "Why we need units, and why hand spans are not enough",
+   "status": "defined",
+   "context": "This card is about why a number needs a unit, and why one fixed unit is better than a hand span or a step.",
+   "definition": "A unit is the size we count in. A standard unit is the same size for everyone, everywhere.",
+   "description": "A number alone does not tell you much. If someone says 'it is 12', you ask: 12 what? Twelve centimetres, 12 millilitres and 12 coins are all different. So a measurement always has a number and a unit. You can count in hand spans or steps. But your hand span is smaller than your father's. A table that is 6 of your spans might be 5 of his. Both numbers are true, so you cannot compare them. Old Indian books counted length in hastas, a forearm length, and forearms differ too. So people agreed on one fixed length for everyone. Today, India and most countries use the metre and the centimetre. A centimetre on your ruler is the same as a centimetre on a ruler in Delhi or Chennai.",
+   "examples": [
+    "Your table is 6 of your hand spans long and 5 of your father's, but it is about the same number of centimetres for both of you.",
+    "A tailor in a village shop uses a measuring tape in centimetres, so the cloth is the same length for every customer."
+   ],
+   "perspectives": [],
+   "art": "A child and a grown-up each measuring the same table with their hand spans and getting different numbers, then a ruler showing the same number of centimetres for both."
+  },
+  {
    "concept": "Why some materials keep water out",
    "status": "defined",
    "definition": "Rain comes through a cloth by the gaps between its threads, and the biggest gaps let it through first. A waterproof material has no gaps, and water does not soak into it.",
@@ -342,6 +379,20 @@
    "perspectives": [],
    "art": "A paper towel strip hanging in coloured water, the colour climbing up it, with a magnified circle of water creeping between fibres.",
    "context": "In the climbing water test, water creeps up some materials faster than others. This card explains the pull behind it."
+  },
+  {
+   "concept": "Three more properties: floating, bending and seeing through",
+   "status": "defined",
+   "context": "This card is about three more properties you can test: floating, bending and seeing through.",
+   "definition": "A material floats if it stays on top of water. It is flexible if it bends easily. It is transparent if you can see clearly through it.",
+   "description": "Floating depends on more than the material. A steel spoon sinks, but a big steel ship floats, because its hollow shape holds a lot of air. A wooden stick floats and a pebble sinks. Flexible is not the same as elastic. A flexible cane bends easily, and elastic means it springs back. A stiff thing, like glass, does not bend before it breaks. Transparent things, like a glass window, let light through so you see clearly. Translucent things, like butter paper, let some light through, so you see only a blur. Opaque things, like a wooden door, let none through. We test each one the fair way. We change only the material, keep everything else the same, and write down a number or a clear word.",
+   "examples": [
+    "A coconut floats on the water at a Kerala beach, but a stone of the same size sinks.",
+    "A cane chair bends a little when you sit, and bamboo sways in the wind without snapping.",
+    "You can see your hand through a clear plastic bottle, only a blur through butter paper, and nothing through a steel plate."
+   ],
+   "perspectives": [],
+   "art": "Three small scenes: a wooden stick floating beside a sunk pebble in a tub, a cane strip bending under a coin, and a glass, a butter paper and a card held over a black dot."
   },
   {
    "concept": "Why strips of the same paper tear at different numbers",
@@ -1221,6 +1272,55 @@
      "how": "e2",
      "context": "This question is about the strip strength test. You hang a little bag from a paper strip and add one-rupee coins, one at a time, until the strip tears.",
      "why": "The paper is the one thing she changes. Everything else stays the same. The number of coins is what she measures, so it cannot be kept the same."
+    },
+    {
+     "t": "sort",
+     "p": "Sort these into things that float and things that sink.",
+     "cats": [
+      "Floats",
+      "Sinks"
+     ],
+     "items": [
+      [
+       "a wooden ice-cream stick",
+       "Floats"
+      ],
+      [
+       "a steel spoon",
+       "Sinks"
+      ],
+      [
+       "a plastic bottle cap",
+       "Floats"
+      ],
+      [
+       "a pebble",
+       "Sinks"
+      ],
+      [
+       "a dry leaf",
+       "Floats"
+      ],
+      [
+       "a one-rupee coin",
+       "Sinks"
+      ]
+     ],
+     "a": "see items",
+     "why": "Wood, plastic caps and dry leaves are light for their size, so they float. A spoon, a pebble and a coin are heavy for their size, so they sink.",
+     "how": "a9",
+     "context": "This question is about the float test. You drop six small things into a tub of water to see which float."
+    },
+    {
+     "t": "fill",
+     "p": "A table is 6 of your hand spans long and 5 of your father's. To get the same number every time, use a ________ unit, like the centimetre.",
+     "a": [
+      "standard",
+      "fixed"
+     ],
+     "why": "A standard unit is the same size for everyone. Hand spans change from hand to hand.",
+     "how": "a8",
+     "context": "This question is about the hand span activity, where you measure a table with hand spans and with a ruler."
     }
    ]
   },
@@ -1564,6 +1664,36 @@
      "how": "e2",
      "context": "This question is about the strip strength test. You hang a little bag from a paper strip and add one-rupee coins, one at a time, until the strip tears.",
      "why": "Strips of the same paper can differ by several coins, because each has its own weak spots. A gap of 5 coins from one try could be luck. If the tissue wins in every try, the difference is real."
+    },
+    {
+     "t": "match",
+     "p": "Match each material to the word that says how it treats light.",
+     "pairs": [
+      [
+       "a glass window",
+       "transparent: you see clearly through it"
+      ],
+      [
+       "butter paper",
+       "translucent: you see a blur"
+      ],
+      [
+       "a wooden door",
+       "opaque: you see nothing through it"
+      ]
+     ],
+     "a": "pairs as given",
+     "why": "Transparent, translucent and opaque describe how much light a material lets through.",
+     "how": "a9",
+     "context": "This question is about the see-through test. You count how many layers of a material hide a black dot."
+    },
+    {
+     "t": "count",
+     "p": "Rohan's hand span is 15 cm. His desk is 7 of his hand spans long. How many centimetres long is the desk?",
+     "a": "105 cm",
+     "why": "Seven spans of 15 cm each is 7 times 15 = 105 cm. Now anyone with a ruler can check it.",
+     "how": "a8",
+     "context": "This question is about the hand span activity, where hand spans are changed into centimetres."
     }
    ]
   },
@@ -1699,7 +1829,7 @@
     },
     {
      "t": "write",
-     "p": "Invent a test for a property we did not test in this lesson, like how well a material keeps heat in, or how bendy it is. Say what you would change, keep the same and measure.",
+     "p": "Invent a test for a property we did not test in this lesson, like how well a material keeps heat in, or how fast it dries when wet. Say what you would change, keep the same and measure.",
      "lines": 5,
      "a": "For example: keeping heat in. Change: the material wrapped around a steel cup of warm water, such as wool, foil and newspaper. Keep the same: the amount and starting warmth of the water, the cup and the time. Measure: the warmth of the water after 20 minutes, with a thermometer.",
      "why": "A good answer has all three parts and a measuring tool."
@@ -1771,6 +1901,15 @@
      "p": "Real testing only happens in big laboratories with expensive machines.",
      "a": false,
      "why": "False. Agnes Pockels did tests in her kitchen that were printed in the famous journal Nature. What makes a test good is that it is fair, repeated and written down, not how costly the machine is."
+    },
+    {
+     "t": "write",
+     "p": "Plan a fair bend test for strips of paper, card and cloth. Say what you change, what you keep the same and what you measure.",
+     "lines": 4,
+     "a": "Change: the material of the strip. Keep the same: the length and width of the strip, how far it hangs over the table, the coin and the table. Measure: how far the tip drops, in centimetres, with a ruler. Repeat three times and take the middle value.",
+     "why": "A good plan changes only the material and ends in a measured number with a unit.",
+     "how": "a9",
+     "context": "This question is about the bend test. You push strips over a table edge, put a coin on the tip and measure how far each drops."
     }
    ]
   }
@@ -3572,6 +3711,235 @@
      "caption": "3. Watch where each strip tears."
     }
    ]
+  },
+  {
+   "id": "a8",
+   "title": "Hand Spans or Centimetres?",
+   "mins": 15,
+   "days": 1,
+   "materials": [
+    {
+     "item": "a table or a desk",
+     "qty": 1
+    },
+    {
+     "item": "a 30 cm ruler",
+     "qty": 1,
+     "buy": "b-ruler"
+    },
+    {
+     "item": "paper and a pencil",
+     "qty": 1
+    }
+   ],
+   "schedule": [
+    {
+     "day": 1,
+     "mins": 15,
+     "what": "Measure a table in hand spans, then in centimetres, and compare with a grown-up."
+    }
+   ],
+   "record": "A small table: who measured, how many hand spans, how many centimetres.",
+   "context": "In this activity you measure the same table in hand spans, and then in centimetres. You see why people use one fixed unit.",
+   "setup": [
+    {
+     "art": "A child laying her spread hand again and again along the edge of a table, counting.",
+     "caption": "1. Measure the table in your hand spans."
+    },
+    {
+     "art": "A grown-up doing the same on the same table, getting a smaller number.",
+     "caption": "2. A grown-up measures the same table."
+    },
+    {
+     "art": "A 30 cm ruler laid along the table edge, with a finger marking the end of each ruler length.",
+     "caption": "3. Measure in centimetres."
+    }
+   ],
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 5,
+     "do": "1. Your child lays a spread hand flat on the table edge. 2. They put the next span just after the thumb tip, and count how many spans fit along the table. 3. Write the number. 4. Ask them to predict how many spans a grown-up will need.",
+     "say": "Count the table in your hand spans. Will a grown-up get more, or fewer?",
+     "kid": "Count your hand spans along the table. Write the number. Guess: will a grown-up need more, or fewer?",
+     "context": "This is the first step of the hand span activity. You measure a table with your hand.",
+     "ask": [
+      {
+       "q": "Why do you think so?",
+       "good": [
+        "Fewer, because a grown-up hand is bigger.",
+        "Fewer, because they cover more table with each span."
+       ]
+      }
+     ]
+    },
+    {
+     "id": "s2",
+     "mins": 4,
+     "do": "1. A grown-up measures the same edge with their hand spans and says the number. 2. Write both numbers in the table: who, how many spans.",
+     "say": "Now I will measure the same table with my hand. Let's see what number I get.",
+     "kid": "Write down my number next to yours. Is it the same?",
+     "context": "In this step a grown-up measures the same table."
+    },
+    {
+     "id": "s3",
+     "mins": 6,
+     "do": "1. Lay the ruler along the edge, mark the end of the ruler with a finger or pencil, and move it on. 2. Count how many centimetres the table is. 3. Both of you write the same number. 4. Ask the question below.",
+     "say": "Now we both use the ruler. Do we get the same number this time?",
+     "kid": "Measure with the ruler. Write the number of centimetres. Did we get the same number?",
+     "context": "This is the last step of the hand span activity. You measure in centimetres and compare.",
+     "ask": [
+      {
+       "q": "Why did hand spans give two numbers, but the ruler gave one?",
+       "good": [
+        "Our hands are different sizes.",
+        "A centimetre is the same size for everybody."
+       ]
+      }
+     ],
+     "check": {
+      "t": "mcq",
+      "q": "The table is 6 of Meera's hand spans and 5 of her father's. Is the table different when he measures it?",
+      "options": [
+       "No, the table is the same, but his hand span is bigger",
+       "Yes, the table shrinks when he measures",
+       "Yes, because he is a grown-up"
+      ],
+      "a": 0,
+      "why": "The table stays the same. Only the size of the unit changed, because his hand is bigger. That is why scientists use a standard unit, like a centimetre. If you chose that the table changed, look again: the table never moved."
+     },
+     "parent": "Make this a real discovery: let your child count first, and do not say why before they see two different numbers."
+    }
+   ]
+  },
+  {
+   "id": "a9",
+   "title": "Float, Bend and See Through",
+   "mins": 25,
+   "days": 1,
+   "materials": [
+    {
+     "item": "a bucket or tub of water",
+     "qty": 1
+    },
+    {
+     "item": "six small things to float or sink: a wooden ice-cream stick, a plastic bottle cap, a steel spoon, a one-rupee coin, a pebble and a dry leaf",
+     "qty": 6
+    },
+    {
+     "item": "four strips, each 15 cm long and 2 cm wide: paper, thin card, a flat ice-cream stick and a cotton cloth strip",
+     "qty": 4
+    },
+    {
+     "item": "a 30 cm ruler",
+     "qty": 1,
+     "buy": "b-ruler"
+    },
+    {
+     "item": "a one-rupee coin and a book to hold the strips down on a table",
+     "qty": 1
+    },
+    {
+     "item": "a white sheet of paper with a thick black dot drawn on it, and several layers each of butter paper, a clear plastic bag and a cotton hanky",
+     "qty": 1
+    }
+   ],
+   "schedule": [
+    {
+     "day": 1,
+     "mins": 25,
+     "what": "Do three short fair tests: floating, bending and seeing through. Record each in a table."
+    }
+   ],
+   "record": "Three small tables: float or sink for six things, how far each strip drooped in cm, and how many layers hid the dot.",
+   "context": "In this activity you run three more fair tests on materials: which float, which bend most, and which let you see through. You write down numbers, or clear words, for each.",
+   "setup": [
+    {
+     "art": "A tub of water with a wooden stick and a bottle cap floating, and a spoon and a pebble lying on the bottom.",
+     "caption": "1. Float test: predict, then drop each one gently."
+    },
+    {
+     "art": "Four strips on a table, each pushed 10 cm over the edge with a coin on the tip, and a ruler held upright beside the first.",
+     "caption": "2. Bend test: measure how far the tip drops."
+    },
+    {
+     "art": "Layers of butter paper laid over a black dot on white paper, the dot getting fainter.",
+     "caption": "3. See-through test: count layers until the dot hides."
+    }
+   ],
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 8,
+     "do": "1. Make a table: thing, my guess, what happened. 2. Your child guesses and gives a reason for each thing. 3. Drop each thing gently into the same tub, one at a time, and wait 10 seconds. 4. Write float or sink.",
+     "say": "Guess first: will the stick float or sink? Why? Now drop it softly and watch for ten seconds.",
+     "kid": "Guess, then drop each thing gently in the same tub. Write float or sink.",
+     "context": "This is the first step of the float test. You find out which things float.",
+     "ask": [
+      {
+       "q": "What kept the same for every thing?",
+       "good": [
+        "The same tub and the same water.",
+        "I dropped each thing gently and waited ten seconds."
+       ]
+      }
+     ],
+     "parent": "A flat, dry leaf floats; a soaked leaf may sink. Keep it dry. Say what you saw, even if it is a surprise."
+    },
+    {
+     "id": "s2",
+     "mins": 9,
+     "do": "1. Push each strip 10 cm over the table edge, with the rest under a heavy book. 2. Put the coin on the tip. 3. Stand the ruler upright beside the strip and measure how far the tip dropped, in cm. 4. Write the number. 5. Do the same for all four strips.",
+     "say": "Same overhang, same coin, same table. Only the material changes. How far does the tip drop?",
+     "kid": "Put the coin on the tip. Measure how far it drops in cm. Write it down for each strip.",
+     "context": "In this step you test which strip bends most.",
+     "chart": {
+      "type": "table",
+      "title": "Made-up example results",
+      "cols": [
+       "Strip",
+       "Drop of the tip (cm)"
+      ],
+      "rows": [
+       [
+        "Paper",
+        "5"
+       ],
+       [
+        "Thin card",
+        "2"
+       ],
+       [
+        "Ice-cream stick",
+        "0.5"
+       ],
+       [
+        "Cotton cloth",
+        "12"
+       ]
+      ]
+     },
+     "parent": "The most flexible strip is the one whose tip drops the most. If a strip falls off the table, the coin was too heavy for it. Say what happened and try a smaller coin."
+    },
+    {
+     "id": "s3",
+     "mins": 8,
+     "do": "1. Lay one layer of butter paper over the black dot. Can you see the dot clearly, as a blur, or not at all? 2. Add layers one at a time and count how many hide the dot. 3. Do the same for the clear bag and the cotton hanky. 4. Use the same light, near a window.",
+     "say": "Look at the dot through one layer. Is it clear, blurry or gone? Add one more layer.",
+     "kid": "Count how many layers it takes to hide the dot. Write a number for each material.",
+     "context": "This is the last step of the activity. You test how much light each material lets through.",
+     "ask": [
+      {
+       "q": "Which material hid the dot with the fewest layers?",
+       "good": [
+        "The cotton hanky, because it lets the least light through.",
+        "The butter paper, because it was already blurry."
+       ]
+      }
+     ],
+     "think": "A glass window is transparent, butter paper is translucent, and a wooden door is opaque. Which one would you put in a window, and which in a door? Why?"
+    }
+   ]
   }
  ],
  "projects": [
@@ -4361,6 +4729,62 @@
    "outcome": 5,
    "how": "e3",
    "context": "This question is about the width test. You cut strips from one paper napkin, some 2 cm wide and some 4 cm wide, hang a bag from each, and add one-rupee coins until it tears."
+  },
+  {
+   "t": "mcq",
+   "p": "Meera measures a table and says it is 6 hand spans long. Her father measures the same table and says it is 5. Why did they get different numbers?",
+   "opts": [
+    "Their hand spans are different sizes",
+    "The table changed size",
+    "One of them counted wrongly for sure"
+   ],
+   "a": 0,
+   "why": "The table did not change. A grown-up's hand span is bigger, so fewer of them fit. This is why we use a standard unit, like a centimetre, that is the same size for everyone.",
+   "outcome": 3,
+   "how": "a8",
+   "context": "In the hand span activity, you measure a table in hand spans, then in centimetres, and compare with a grown-up."
+  },
+  {
+   "t": "mcq",
+   "p": "A steel spoon sinks in water, but a big steel ship floats. What does this show?",
+   "opts": [
+    "Floating depends on shape as well as material",
+    "Steel ships are made of a different metal",
+    "The ship is lighter than the spoon"
+   ],
+   "a": 0,
+   "why": "A ship is hollow, so it holds a lot of air and pushes aside a lot of water. A spoon is solid. So the same steel can sink or float, depending on its shape.",
+   "outcome": 2,
+   "how": "a9",
+   "context": "In the float test, you drop six things into a tub of water and see which float."
+  },
+  {
+   "t": "mcq",
+   "p": "In the bend test, the tip of a paper strip dropped 5 cm, thin card 2 cm and an ice-cream stick 0.5 cm. Which is the most flexible?",
+   "opts": [
+    "The paper strip",
+    "The ice-cream stick",
+    "The thin card"
+   ],
+   "a": 0,
+   "why": "The strip that bends most under the same coin is the most flexible. Paper dropped 5 cm, which is more than the card or the stick. The stick is stiff.",
+   "outcome": 2,
+   "how": "a9",
+   "context": "In the bend test, you put a coin on the tip of each strip and measure how far it drops."
+  },
+  {
+   "t": "mcq",
+   "p": "Through one layer of butter paper, you see the black dot only as a blur. What is butter paper?",
+   "opts": [
+    "Translucent",
+    "Transparent",
+    "Opaque"
+   ],
+   "a": 0,
+   "why": "Translucent things let some light through, so you see a blur. A transparent thing, like clear glass, lets you see clearly. An opaque thing, like a wooden door, lets no light through at all.",
+   "outcome": 2,
+   "how": "a9",
+   "context": "In the see-through test, you count how many layers of a material hide a black dot."
   }
  ],
  "applications": [
@@ -4722,7 +5146,9 @@
     "e4",
     "a2",
     "a5",
-    "a7"
+    "a7",
+    "a8",
+    "a9"
    ]
   },
   {
@@ -4957,6 +5383,8 @@
    "a6",
    "c2",
    "c3",
+   "a8",
+   "a9",
    "big_questions",
    "ws-challenge",
    "open_questions"

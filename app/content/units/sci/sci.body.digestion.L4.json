@@ -129,6 +129,18 @@
    "art": "A long chain of beads on the left being cut by scissors into single beads, and the single beads passing through a wall on the right."
   },
   {
+   "concept": "Water in digestion, and in removing wastes",
+   "status": "defined",
+   "definition": "Water is needed for digestion. Enzymes do their cutting in water, and the small pieces must dissolve in water before they can pass into the blood.",
+   "description": "That is why the mouth, the stomach and the small intestine all add watery juices. Water also helps remove wastes. The leftovers leave the body in faeces, and the large intestine takes back water so that the faeces do not become runny.",
+   "examples": [
+    "Sugar from rice dissolves in water before it passes into the blood.",
+    "A dry biscuit must be wetted with saliva before the juices of the gut can work on it."
+   ],
+   "perspectives": [],
+   "art": "A glass of water beside a row of sugar cubes in a gut, with the sugar melting into the water and flowing into a blood vessel."
+  },
+  {
    "concept": "The mouth: teeth, saliva and the bolus",
    "status": "defined",
    "definition": "In the mouth, teeth break food into small pieces and saliva wets it. The tongue rolls the wet pieces into a soft ball called a bolus.",
@@ -1960,6 +1972,24 @@
      "a": 0,
      "why": "Faeces are about three quarters water. Much of the solid part is bacteria, and the rest is mostly fibre.",
      "outcome": 6
+    },
+    {
+     "t": "fill",
+     "p": "Digested food must dissolve in ____ before it can pass through the gut wall into the blood.",
+     "a": [
+      "water"
+     ],
+     "why": "Only small pieces can pass through the gut wall, and the pieces dissolve in water on the way into the blood.",
+     "outcome": 0
+    },
+    {
+     "t": "fill",
+     "p": "Digested food must dissolve in ____ before it can pass through the gut wall into the blood.",
+     "a": [
+      "water"
+     ],
+     "why": "Only small pieces can pass through the gut wall, and the pieces dissolve in water on the way into the blood.",
+     "outcome": 0
     }
    ]
   },
@@ -2512,6 +2542,30 @@
    "a": 0,
    "why": "The small intestine is about 6 metres of the 8. The large intestine is about 1.5 metres, and the oesophagus and stomach are about 25 centimetres each.",
    "outcome": 7
+  },
+  {
+   "t": "mcq",
+   "p": "What does water do during digestion?",
+   "opts": [
+    "It lets enzymes work and carries digested food into the blood",
+    "It turns starch into sugar on its own",
+    "It hardens the food so teeth can grind it"
+   ],
+   "a": 0,
+   "why": "Enzymes do their cutting in water, and the small pieces dissolve in water before they can pass into the blood. Water on its own does not cut starch, and it softens food rather than hardening it.",
+   "outcome": 0
+  },
+  {
+   "t": "mcq",
+   "p": "What does water do during digestion?",
+   "opts": [
+    "It lets enzymes work and carries digested food into the blood",
+    "It turns starch into sugar on its own",
+    "It hardens the food so teeth can grind it"
+   ],
+   "a": 0,
+   "why": "Enzymes do their cutting in water, and the small pieces dissolve in water before they can pass into the blood. Water on its own does not cut starch, and it softens food rather than hardening it.",
+   "outcome": 0
   }
  ],
  "videos": [

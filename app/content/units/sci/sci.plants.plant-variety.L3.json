@@ -129,6 +129,24 @@
    "meaning": "A plant growing where people do not want them. The word is about our wishes, not about the plant.",
    "example": "Grass in a vegetable patch is called a weed. The same grass on a cricket field is wanted.",
    "art": "The same grass plant shown twice: in a vegetable patch labelled weed, and on a lawn labelled lawn."
+  },
+  {
+   "term": "Pulse",
+   "meaning": "A pulse is a seed that grows inside a pod, such as toor, moong or urad. We dry it and cook it as dal.",
+   "example": "Toor dal is the seed of a toor shrub.",
+   "art": "An open pod showing round seeds."
+  },
+  {
+   "term": "Spice",
+   "meaning": "A spice is a part of a plant, such as a seed, bark, bud or underground stem, that gives food a strong taste or smell.",
+   "example": "Cinnamon is the bark of a tree. Clove is a flower bud.",
+   "art": "Small bowls with cumin seeds, a cinnamon stick, cloves and a piece of ginger."
+  },
+  {
+   "term": "Water plant",
+   "meaning": "A water plant is a plant that grows in water, such as a lotus. Its roots may be in mud, or it may float.",
+   "example": "A lotus has leaves that float on a pond.",
+   "art": "A lotus with floating leaves and a flower above the water."
   }
  ],
  "explanations": [
@@ -150,7 +168,7 @@
    "concept": "Trees",
    "status": "defined",
    "definition": "A tree is a big plant with one thick, hard, woody stem, called a trunk. Their branches usually start well above the ground.",
-   "description": "Trees are the biggest plants. Their trunk is made of wood, which is very strong. A strong trunk lets a tree hold their leaves high above other plants, in the sunlight. Trees live a long time, and many live for a hundred years or more. Bark covers the trunk and protects it from insects, heat and knocks. Coconut and areca palms also have one tall trunk, so we call them trees too. But a palm trunk does not grow fatter every year, the way a mango trunk does.",
+   "description": "Trees are the biggest plants. Their trunk is made of wood, which is very strong. A strong trunk lets a tree hold their leaves high above other plants, in the sunlight. Trees live a long time, and many live for a hundred years or more. Bark covers the trunk and protects it from insects, heat and knocks. Coconut and areca palms also have one tall trunk, so we call them trees too. But a palm trunk does not grow fatter every year, the way a mango trunk does. Each kind of tree has a bark pattern of their own. Neem bark is rough, with deep cracks. A peepal's bark is smooth and pale grey. A eucalyptus bark peels off in long strips. A bark rubbing shows the pattern, and you can use it to guess the tree.",
    "examples": [
     "Neem, mango, peepal, banyan, jamun and tamarind are trees.",
     "The coconut palm has one tall trunk and no branches. Their leaves grow from the very top.",
@@ -178,7 +196,7 @@
    "concept": "Herbs and grasses",
    "status": "defined",
    "definition": "A herb is a small plant with a soft, green stem that does not turn into wood. Most grasses are herbs too. Grasses have long, thin leaves.",
-   "description": "Squeeze the stem of a mint plant. It is soft and juicy, and it bends easily. That is a herb. Most herbs are small, and many live for only one season. They grow quickly, make their seeds and die. Then the seeds grow into new plants. Grasses have long, narrow leaves, and their stems are often hollow, with joints. The grains we eat most, like rice, wheat, maize, bajra and ragi, all come from grasses. In cooking, 'herbs' means leaves that add taste, like mint. In science, a herb is any plant whose stem stays soft.",
+   "description": "Squeeze the stem of a mint plant. It is soft and juicy, and it bends easily. That is a herb. Most herbs are small, and many live for only one season. They grow quickly, make their seeds and die. Then the seeds grow into new plants. Grasses have long, narrow leaves, and their stems are often hollow, with joints. The grains we eat most, like rice, wheat, maize, bajra and ragi, all come from grasses. In cooking, 'herbs' means leaves that add taste, like mint. In science, a herb is any plant whose stem stays soft. Each grass leaf is a thin, flat blade. Many school books count grass as a sixth kind of plant, apart from herbs, because grass looks so different from a mint or a tomato plant. In this lesson we call grasses herbs with a special look. Either way, look at the stem and the leaf to sort a plant.",
    "examples": [
     "Mint, coriander, spinach, methi, tomato and mustard plants are herbs.",
     "Rice, wheat, ragi, sugarcane and doob are grasses.",
@@ -187,6 +205,19 @@
    "perspectives": [],
    "art": "A mint plant, a tomato plant and a rice plant in a row, each with a soft green stem bending under a finger.",
    "context": "This card is about herbs, the plants with soft green stems, and grasses, which are a special group of herbs."
+  },
+  {
+   "concept": "Pulses and grains: shrubs, herbs and grasses",
+   "status": "defined",
+   "definition": "Grains such as rice, wheat and ragi come from grasses. Pulses such as toor, moong and urad come from plants that grow pods.",
+   "description": "Toor, or arhar, grows on a shrub with woody stems. Moong and urad grow on small bushy herbs with soft stems. All of them make their seeds in pods. We dry the seeds and eat them as dal. Rice, wheat and ragi are grasses, and their seeds are the grains. So the kind of plant tells you what the food is like. Pods grow on pulse plants, and grains grow on tall heads of grass.",
+   "examples": [
+    "Toor grows on a shrub as tall as a child.",
+    "Rice grows in a flooded field as a tall grass."
+   ],
+   "perspectives": [],
+   "art": "A toor shrub with pods, a moong plant with pods and a rice plant with heads of grain, side by side.",
+   "context": "This card links the kind of plant to the pulses and grains that we eat."
   },
   {
    "concept": "Climbers",
@@ -215,6 +246,32 @@
    "perspectives": [],
    "art": "A watermelon creeper spreading across sandy ground, with a big striped watermelon resting on the soil and small roots where the stem touches the ground.",
    "context": "This card is about creepers: plants that spread along the ground."
+  },
+  {
+   "concept": "Land plants and water plants",
+   "status": "defined",
+   "definition": "Land plants grow in soil, climbers grow up supports, and water plants grow in ponds and lakes.",
+   "description": "Most plants you know grow on land, with their roots in the soil. Climbers are land plants that grow up a support. Water plants live in water. A lotus, India's national flower, has roots in the mud at the bottom of a pond. Their stem is long and reaches up to the surface. Their big leaves float, and the flower rises above the water. The stem has holes inside, so it holds air. Water hyacinth floats on the water with roots hanging down.",
+   "examples": [
+    "A lotus pond near a temple in Kerala has leaves floating and flowers standing above the water.",
+    "Water hyacinth can cover a whole pond."
+   ],
+   "perspectives": [],
+   "art": "A pond with a lotus: roots in mud, a long stem, a floating leaf and a flower above water, next to a tree on land and a climber on a wall.",
+   "context": "This card tells apart plants that grow on land and in water."
+  },
+  {
+   "concept": "Plants that differ: size, leaves and smell",
+   "status": "defined",
+   "definition": "Plants differ a lot in size, leaf feel and smell, and we find out by looking, touching and sniffing.",
+   "description": "Plants can be tiny or huge. Duckweed floats on ponds, and each plant is about the size of a grain of rice. Sal and teak trees grow as tall as a ten-storey building. Giant bamboo is the tallest grass, taller than many trees. The biggest flower in the world is the Rafflesia, from the forests of Southeast Asia. The flower is more than a metre across, and it smells bad to attract flies. Leaves feel different. A teak leaf feels rough like sandpaper, a banana leaf feels smooth, and a tulsi leaf is a little hairy. Leaves smell different too. Mint, tulsi, curry leaf and lemon leaf all have strong smells. Watch closely and describe each plant in words.",
+   "examples": [
+    "A curry leaf, crushed gently, smells strong and spicy.",
+    "A banana leaf is smooth, wide and shiny."
+   ],
+   "perspectives": [],
+   "art": "A line from a tiny duckweed to a tall bamboo, with three leaves showing rough, smooth and hairy textures.",
+   "context": "This card shows how much plants differ and how to describe the differences."
   },
   {
    "concept": "Why climb? Why creep? Getting leaves into the light",
@@ -331,6 +388,19 @@
    "context": "This card is about all the ways people use plants, every single day."
   },
   {
+   "concept": "Which part of the plant gives each thing",
+   "status": "defined",
+   "definition": "Oil, spices, pulses, wood and fibres come from different parts of different plants.",
+   "description": "Oil comes from seeds, such as mustard and groundnut, and from the fruit of the coconut. Spices come from different parts: cumin and coriander from seeds, cinnamon from bark, clove from a flower bud, and ginger and turmeric from underground stems. Pulses such as dal are seeds that grow inside pods. Wood comes from the trunk of a tree. Coir is the rough fibre from the husk of the coconut. Cotton fibres cover the seeds of the cotton plant. Jute fibre comes from the stem of the jute plant. Rubber comes from the milky sap of the rubber tree. Sugarcane is a tall grass with a stem full of sweet juice, and sugar and jaggery are made from it.",
+   "examples": [
+    "A mustard seed is pressed to make oil. A clove is a dried flower bud.",
+    "A coir doormat is made from the husk of a coconut."
+   ],
+   "perspectives": [],
+   "art": "A table with a mustard flower and a bottle of oil, a clove, a pod of toor, a coir mat, a cotton boll and a piece of sugarcane.",
+   "context": "This card tells which part of the plant each everyday product comes from."
+  },
+  {
    "concept": "Medicines from plants",
    "status": "defined",
    "definition": "Many medicines were first found in plants. Plants make strong chemicals to protect themselves, and some of these chemicals can help us heal.",
@@ -338,7 +408,8 @@
    "examples": [
     "Sadabahar (periwinkle) gave the cancer medicines vincristine and vinblastine. Vincristine is used for a blood cancer in children.",
     "Sweet wormwood gave artemisinin, a medicine that has saved millions from malaria.",
-    "Willow bark has a chemical called salicin. Chemists changed it slightly to make aspirin in 1897."
+    "Willow bark has a chemical called salicin. Chemists changed it slightly to make aspirin in 1897.",
+    "In many Indian homes, tulsi leaves go into tea, neem twigs are used to clean teeth, clove is held near a sore tooth, and ginger is taken for a sore throat. These are old home remedies. Scientists test each one to find out how well it works."
    ],
    "perspectives": [],
    "art": "A garden sadabahar plant with pink flowers, linked by an arrow to a small medicine bottle, and a scientist with a notebook beside it.",
@@ -2061,6 +2132,111 @@
      "think": "Why do you think coir ropes are used on boats in Kerala?"
     }
    ]
+  },
+  {
+   "id": "a7",
+   "title": "Plan a Herbal Garden",
+   "mins": 20,
+   "days": 1,
+   "context": "You will plan a small herb garden on paper. You draw and name each herb, and write which part we use.",
+   "materials": [
+    {
+     "item": "paper and pencils or crayons",
+     "qty": 1
+    }
+   ],
+   "safety": "Never taste or pick a plant you do not know. A grown-up checks each one first.",
+   "schedule": [
+    {
+     "day": 1,
+     "mins": 20,
+     "what": "Plan five herbs for a pot garden. Draw each one, name it, and write which part we use. Include one herb you like less."
+    }
+   ],
+   "record": "Keep your plan. Add the part used under each herb.",
+   "setup": [
+    {
+     "art": "A sheet of paper with a drawn tulsi, mint and coriander plant in pots.",
+     "caption": "1. Draw each herb and write its name."
+    },
+    {
+     "art": "The same sheet with a label under each plant: 'leaf', 'leaf', 'seed'.",
+     "caption": "2. Write which part we use."
+    }
+   ],
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 10,
+     "context": "This is the first step. You choose five herbs for the plan.",
+     "do": "1. Choose five herbs, such as tulsi, mint, coriander, curry leaf and aloe vera. 2. Include one that you like less, because it still has a use. 3. Draw each one.",
+     "say": "Which five herbs would you grow? Let's pick one you like less too.",
+     "kid": "Choose five herbs. Draw each one."
+    },
+    {
+     "id": "s2",
+     "mins": 10,
+     "do": "Write each herb's name under its drawing. Write which part is used: leaf, seed, flower or root.",
+     "say": "Which part do we use of each herb?",
+     "kid": "Write the part we use under each herb.",
+     "parent": "Mint, tulsi and curry leaf are used for their leaves. Coriander gives leaves and seeds."
+    }
+   ]
+  },
+  {
+   "id": "a8",
+   "title": "Looking at Leaves and Flowers",
+   "mins": 20,
+   "days": 1,
+   "context": "You will look closely at leaves and flowers, and enjoy their shapes and colours. You describe and draw three of each.",
+   "materials": [
+    {
+     "item": "paper, pencils and crayons",
+     "qty": 1
+    },
+    {
+     "item": "a hand lens, if you have one",
+     "qty": 1,
+     "buy": "b-lens"
+    }
+   ],
+   "safety": "Never taste or pick a plant you do not know. A grown-up checks each one first.",
+   "schedule": [
+    {
+     "day": 1,
+     "mins": 20,
+     "what": "Walk near your home. Look at three leaves and three flowers. Draw each and write one sentence about how it looks and feels."
+    }
+   ],
+   "record": "Keep your drawings. Say which one you liked best and why.",
+   "setup": [
+    {
+     "art": "A child looking at a leaf with a hand lens and a drawing page beside.",
+     "caption": "1. Look closely at a leaf or a flower."
+    },
+    {
+     "art": "A page with a drawn leaf and a drawn flower and two lines of writing under each.",
+     "caption": "2. Draw it and write how it looks and feels."
+    }
+   ],
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 10,
+     "context": "This is the first step. You look closely at leaves and flowers.",
+     "do": "1. Walk in a garden or on a safe street. 2. Look at three leaves and three flowers. 3. Touch a leaf gently. Is it smooth or rough? Look at the colour and the shape.",
+     "say": "Let's look closely. What shape is this leaf? How does it feel?",
+     "kid": "Look at the shape and colour. Feel a leaf."
+    },
+    {
+     "id": "s2",
+     "mins": 10,
+     "do": "Draw each leaf and flower. Write one sentence about each.",
+     "say": "Which one do you like best? What makes it special?",
+     "kid": "Draw it. Say what you like about it.",
+     "parent": "A plant does not need to be famous to be beautiful. Ask your child to notice colour, shape and pattern."
+    }
+   ]
   }
  ],
  "projects": [
@@ -2594,6 +2770,90 @@
       "climber"
      ],
      "why": "Money plant, pepper and bitter gourd are climbers."
+    },
+    {
+     "t": "match",
+     "p": "Match each plant to its kind.",
+     "pairs": [
+      [
+       "Lotus",
+       "a water plant"
+      ],
+      [
+       "Rose",
+       "a land shrub"
+      ],
+      [
+       "Bean plant",
+       "a land climber"
+      ],
+      [
+       "Duckweed",
+       "a tiny water plant"
+      ]
+     ],
+     "a": "pairs as given",
+     "why": "Plants live in different places. Water plants such as a lotus have roots in mud and leaves that float."
+    },
+    {
+     "t": "match",
+     "p": "Match each plant to a home medicine use.",
+     "pairs": [
+      [
+       "Tulsi",
+       "leaves in tea"
+      ],
+      [
+       "Neem",
+       "twigs for cleaning teeth"
+      ],
+      [
+       "Clove",
+       "held near a sore tooth"
+      ],
+      [
+       "Ginger",
+       "taken for a sore throat"
+      ]
+     ],
+     "a": "pairs as given",
+     "why": "These are old home remedies. Scientists test each one to find how well it works."
+    },
+    {
+     "t": "sort",
+     "p": "Sort these foods by what grows them.",
+     "cats": [
+      "Grass",
+      "Plant with pods"
+     ],
+     "items": [
+      [
+       "rice",
+       "Grass"
+      ],
+      [
+       "wheat",
+       "Grass"
+      ],
+      [
+       "ragi",
+       "Grass"
+      ],
+      [
+       "toor dal",
+       "Plant with pods"
+      ],
+      [
+       "moong dal",
+       "Plant with pods"
+      ],
+      [
+       "urad dal",
+       "Plant with pods"
+      ]
+     ],
+     "a": "see items",
+     "why": "Rice, wheat and ragi are grains from grasses. Toor, moong and urad are pulses that grow in pods."
     }
    ]
   },
@@ -2765,6 +3025,27 @@
      "p": "A climber needs less food to build a stem than a tree needs to build a trunk, so a climber can grow long quickly.",
      "a": true,
      "why": "True. A thin stem costs little food, because a climber uses a tree, a wall or a stick to hold it up. A tree spends food on wood, year after year."
+    },
+    {
+     "t": "draw",
+     "p": "Make a bark rubbing of two different trees. Write the name of each tree and how the bark feels.",
+     "a": "Two rubbings with names such as neem (rough and cracked) and peepal (smooth, pale).",
+     "why": "A strong answer shows two different patterns and says what each feels like.",
+     "art": "Two empty boxes."
+    },
+    {
+     "t": "write",
+     "p": "Name one tiny plant and one tall plant. Say how they differ.",
+     "lines": 4,
+     "a": "Duckweed is a tiny water plant the size of a grain of rice. Bamboo is a tall grass, taller than many trees.",
+     "why": "A strong answer names two plants and says how their sizes differ."
+    },
+    {
+     "t": "write",
+     "p": "Choose two plants. Say how their leaves feel, look and smell.",
+     "lines": 5,
+     "a": "A tulsi leaf is a little hairy and smells strong. A banana leaf is smooth and wide and has little smell.",
+     "why": "A strong answer uses touch, sight and smell for each plant."
     }
    ]
   },
@@ -2907,6 +3188,24 @@
      "lines": 4,
      "a": "They may grow in places few botanists have visited, like remote hills and thick rainforest, or only at the very tops of tall trees. There are also far fewer botanists than there are places to search.",
      "why": "A strong answer gives a reason about where trees grow and who looks for them."
+    },
+    {
+     "t": "truefalse",
+     "p": "Some school books count grass as a sixth kind of plant, apart from herbs.",
+     "a": true,
+     "why": "Grass has thin, flat leaves and hollow stems. Our five kinds are a handy guide, not strict rules."
+    },
+    {
+     "t": "mcq",
+     "p": "Which is the best way to sort a plant you do not know?",
+     "opts": [
+      "Look at the stem and the leaf",
+      "Count the seeds",
+      "Guess from the colour",
+      "Ask a stranger"
+     ],
+     "a": 0,
+     "why": "The stem tells you whether it is woody or soft, and the leaf helps with the rest."
     }
    ]
   }
@@ -3047,6 +3346,123 @@
    "a": 0,
    "outcome": 3,
    "why": "The same plant can help in a small amount and harm in a large one. Kaner and datura are natural but very poisonous. Testing finds out what works and how much is safe. Picking 'always safe' is the mistake of thinking natural means harmless."
+  },
+  {
+   "t": "mcq",
+   "p": "A lotus grows in a pond. Which sentence about it is true?",
+   "opts": [
+    "The roots are in the mud and the leaves float",
+    "A lotus has no roots",
+    "A lotus grows only on rocks",
+    "A lotus is a tree"
+   ],
+   "a": 0,
+   "why": "A lotus is a water plant. Lotus roots grow in the mud, and the long stem lets leaves float and the flower rise above the water.",
+   "outcome": 0
+  },
+  {
+   "t": "mcq",
+   "p": "Which of these is used at home as a medicine plant?",
+   "opts": [
+    "Tulsi",
+    "Cactus spine",
+    "Plastic plant",
+    "A stone"
+   ],
+   "a": 0,
+   "why": "Tulsi, neem, clove and ginger are used as home remedies. Scientists still test each one.",
+   "outcome": 3
+  },
+  {
+   "t": "mcq",
+   "p": "A friend looks closely at two leaves. One feels rough like sandpaper and the other feels smooth. What did the friend do?",
+   "opts": [
+    "Described the differences by touch",
+    "Counted the leaves",
+    "Weighed the leaves",
+    "Made the leaves bigger"
+   ],
+   "a": 0,
+   "why": "Touch is one way to describe a leaf. We can also look at shape and smell.",
+   "outcome": 0
+  },
+  {
+   "t": "mcq",
+   "p": "Which plant is the tallest grass?",
+   "opts": [
+    "Bamboo",
+    "Mint",
+    "Doob",
+    "Rose"
+   ],
+   "a": 0,
+   "why": "Bamboo is a giant grass. Some bamboos grow taller than many trees.",
+   "outcome": 0
+  },
+  {
+   "t": "mcq",
+   "p": "Toor dal comes from a plant that grows what kind of thing?",
+   "opts": [
+    "Pods with seeds",
+    "Roots as big as potatoes",
+    "Bark",
+    "Thorns"
+   ],
+   "a": 0,
+   "why": "Pulses are seeds that grow in pods. Toor grows on a shrub.",
+   "outcome": 3
+  },
+  {
+   "t": "mcq",
+   "p": "Which part of the plant is a clove?",
+   "opts": [
+    "A dried flower bud",
+    "A root",
+    "A leaf",
+    "A bark"
+   ],
+   "a": 0,
+   "why": "Clove is a dried flower bud. Cinnamon is bark, cumin is a seed, and ginger is an underground stem.",
+   "outcome": 3
+  },
+  {
+   "t": "mcq",
+   "p": "Sugar and jaggery are made from the stem of which plant?",
+   "opts": [
+    "Sugarcane",
+    "Wheat",
+    "Mustard",
+    "Neem"
+   ],
+   "a": 0,
+   "why": "Sugarcane is a tall grass with a stem full of sweet juice.",
+   "outcome": 3
+  },
+  {
+   "t": "mcq",
+   "p": "A bark rubbing shows a pattern of deep, rough cracks. Which tree might it be?",
+   "opts": [
+    "Neem",
+    "Banana",
+    "Doob",
+    "A rose"
+   ],
+   "a": 0,
+   "why": "Neem bark is rough and deeply cracked. Each kind of tree has a pattern of their own.",
+   "outcome": 0
+  },
+  {
+   "t": "mcq",
+   "p": "Where do toor and moong plants fit among our kinds of plants?",
+   "opts": [
+    "Toor is a shrub and moong is a small herb",
+    "Both are trees",
+    "Both are creepers",
+    "Both are grass"
+   ],
+   "a": 0,
+   "why": "Toor has woody stems like a shrub. Moong has a soft stem, so it is a herb.",
+   "outcome": 0
   }
  ],
  "videos": [
@@ -3539,6 +3955,8 @@
    "a6",
    "c2",
    "p1",
+   "a7",
+   "a8",
    "ws-challenge",
    "open_questions",
    "roots",

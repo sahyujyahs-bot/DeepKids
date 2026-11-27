@@ -43,6 +43,13 @@ On a good map, every distance is shrunk by the same amount. If 1 centimetre on t
 - e.g. A floor plan of a flat, where 1 centimetre stands for 1 metre.
 - e.g. A town map where 1 centimetre stands for 500 metres.
 - e.g. A page of an atlas that shows all of India, where 1 centimetre stands for roughly 200 kilometres.
+### Models: small stand-ins for big things · *defined*
+**Definition:** A model is a smaller or simpler stand-in for something real. It can show how big things are, and how their parts connect.
+
+A map is a model of a place. So is a toy train, a globe and a clay hill. A scale model shrinks every length by the same amount, just as a map does. If 1 centimetre in the model stands for 20 centimetres in a real room, a bed 2 metres long becomes 10 centimetres in the model. A drawing can be a model too. Draw your village with the school, the pond and the road, label each one, and add arrows for the way rainwater flows. You have shown how the parts connect, without drawing every stone. A model leaves things out, and that is why it is useful. You can hold it, measure it and try ideas on it. But it is not the real thing, so ask what it leaves out.
+- e.g. A globe is a model of the Earth, smaller by the same amount in every direction.
+- e.g. A cardboard model of a room, with a bed, a cupboard and a door in the right places.
+- e.g. A labelled drawing of rain running from a hill into a pond, with arrows for the water.
 ### Grid references: naming a square · *defined*
 **Definition:** A grid reference names one square on a map with a letter and a number. You read along first, then up or down.
 
@@ -60,7 +67,7 @@ Every neighbourhood has places that serve everyone. A post office, a bank, a sch
 ### Height on a flat map: contour lines · *defined*
 **Definition:** A contour line is a line on a map that joins places at the same height above sea level. Lines that are close together mean a steep slope.
 
-A map is flat, but land has hills. Contour lines show the hills. Suppose you sliced a hill at every 10 metres of height. Each slice would leave a ring on the ground. Drawn on a map, the rings are contour lines. A hill looks like rings inside rings, and the smallest ring is the top. Where the land is steep, the rings are packed close together. Where it is gentle, they are far apart. The lines never cross, because one place cannot be at two heights. Roads on a hill follow the contour lines, zigzagging up, so that the climb is gentle. Some maps colour the land between lines, with green for low land and brown for high land.
+A map is flat, but land has hills. Contour lines show the hills. Suppose you sliced a hill at every 10 metres of height. Each slice would leave a ring on the ground. Drawn on a map, the rings are contour lines. A hill looks like rings inside rings, and the smallest ring is the top. Where the land is steep, the rings are packed close together. Where it is gentle, they are far apart. The lines never cross, because one place cannot be at two heights. Roads on a hill follow the contour lines, zigzagging up, so that the climb is gentle. Some maps colour the land between lines, with green for low land and brown for high land. High mountains need many lines. The Himalayas rise along the north of India, and run on through Nepal, Bhutan and Tibet. Mount Everest, on the border of Nepal and Tibet, is about 8,848 metres above sea level. Nepal calls it Sagarmatha. On a contour map, the smallest ring at its top carries a number near 8,848, and the lines are packed close together on its steep sides.
 - e.g. The hairpin bends of the ghat road up to Kodaikanal or the Nilgiris follow the contour lines.
 - e.g. A map of the Western Ghats has contour lines packed close together on the western side.
 - e.g. A rice terrace on a hill follows a contour line around the slope.
@@ -81,7 +88,7 @@ If you know you are 5 kilometres from a tower, you could be anywhere on a circle
 ### Latitude and longitude: a grid for the whole Earth · *defined*
 **Definition:** Latitude is how far north or south of the equator a place is. Longitude is how far east or west of the line through Greenwich a place is. Together they name any place on Earth.
 
-People drew a grid over the whole Earth. Lines of latitude run round the Earth in circles, parallel to the equator. The equator is 0 degrees, and the North Pole is 90 degrees north. Lines of longitude run from the North Pole to the South Pole. The line through Greenwich, near London, is 0 degrees, and the numbers go east and west from there. Chennai is at about 13 degrees north and 80 degrees east. Kanyakumari is at about 8 degrees north, and Delhi at about 28.6 degrees north. One degree of latitude is about 111 kilometres on the ground, so the north-south gap between Chennai and Delhi is about 1,700 kilometres. The Tropic of Cancer, at 23.5 degrees north, crosses eight Indian states.
+You already name a place by its address. It goes from small to big: your house, your street, your village or town, your district, your state, your country, and then your planet, Earth. Each layer holds the one before it. On a globe, you can find India by following the address outwards. It lies in Asia, north of the equator, with the Indian Ocean to its south. Latitude and longitude do the same job as an address for the whole Earth, with just two numbers. People drew a grid over the whole Earth. Lines of latitude run round the Earth in circles, parallel to the equator. The equator is 0 degrees, and the North Pole is 90 degrees north. Lines of longitude run from the North Pole to the South Pole. The line through Greenwich, near London, is 0 degrees, and the numbers go east and west from there. Chennai is at about 13 degrees north and 80 degrees east. Kanyakumari is at about 8 degrees north, and Delhi at about 28.6 degrees north. One degree of latitude is about 111 kilometres on the ground, so the north-south gap between Chennai and Delhi is about 1,700 kilometres. The Tropic of Cancer, at 23.5 degrees north, crosses eight Indian states.
 - e.g. A phone map shows the latitude and longitude of any spot if you press and hold on it.
 - e.g. Indian Standard Time is based on the line of longitude at 82.5 degrees east.
 - e.g. A ship's captain gives the position of a ship in degrees of latitude and longitude.
@@ -552,6 +559,30 @@ That evening, Anjana hung the knotted rope on its nail. She ran her fingers alon
   *Parent says:* Why does a place on Earth need two numbers? Could one number be enough?  
   *Child mode:* Point on the globe: is one number enough?
   - Think: What if you only had the latitude? Where could you be?
+### a7 · Our Room in Miniature: make a scale model (35 min)
+- **record:** A photo of your model with every piece labelled, and the table in your notebook that shows each real length, the model length and the scale you used.
+- **s1 (10 min)**  
+  *Parent does:* 1. Measure the length and width of the room in centimetres. 2. Measure three things in it, such as the bed, a cupboard and the door. Write the lengths in your notebook.  
+  *Parent says:* Measure the room, and then three things in it. Write each one in centimetres.  
+  *Child mode:* Measure the room and three things in it. Write the numbers.
+  - Note: Let your child hold the tape. A room of 3 metres by 4 metres is 300 centimetres by 400 centimetres.
+- **s2 (8 min)**  
+  *Parent does:* 1. Use the scale 1 centimetre for 20 centimetres. 2. Divide each length by 20. 3. Write the model lengths next to the real ones.  
+  *Parent says:* Every length shrinks by the same amount. Divide each by 20. What is the model length?  
+  *Child mode:* Divide each real length by 20 to find its model length.
+  - Note: A room of 300 by 400 centimetres becomes 15 by 20 centimetres. A bed 200 centimetres long becomes 10 centimetres. If your room is much bigger, use 1 centimetre for 50 centimetres instead, and divide by 50.
+  - Check: With 1 centimetre for 20 centimetres, a cupboard is 100 centimetres wide. How wide is it in the model? → **5 centimetres**
+- **s3 (12 min)**  
+  *Parent does:* 1. Draw the floor of the room on the paper at the model size. 2. Cut out card rectangles for the bed, the cupboard and the door. 3. Place them on the floor, in the same places as in the real room, and glue them down. 4. Label each piece.  
+  *Parent says:* Draw the floor, then cut the furniture to size. Put each piece where it is in the real room.  
+  *Child mode:* Draw the floor. Cut out the pieces. Place and label them.
+  - Ask: Which piece is the biggest in the room, and is it the biggest in the model? (good: The bed, in both.; Yes, because every length shrank by the same amount.)
+  - Note: If a piece looks too big or too small, measure it again. It is almost always a division slip.
+- **s4 (5 min)**  
+  *Parent does:* Look at the model. Ask your child to say one thing it shows well, such as how far the bed is from the door. Then ask what it leaves out, such as colour, height or what is inside the cupboard.  
+  *Parent says:* What does your model show well? What does it leave out? Why is that all right?  
+  *Child mode:* Say one thing your model shows and one thing it leaves out.
+  - Note: A good answer: the model shows size and place, and leaves out colour, height and what things are made of. Like a map, a model keeps what the reader needs.
 
 ## Projects
 ### p1 · Zoom-Out Atlas: from your room to your city in five pages (90 min, 7 days)
@@ -650,7 +681,7 @@ That evening, Anjana hung the knotted rope on its nail. She ran her fingers alon
   - Think: What do people who cannot see need from a map, and how are they given it?
 
 ## Worksheets
-### Scale, Grids and Hidden Places (core) (core, 16 questions)
+### Scale, Grids and Hidden Places (core) (core, 19 questions)
 1. (mcq) On a map, 1 centimetre stands for 50 metres. A road measures 8 centimetres on the map. How long is the road?  
    Options: 80 metres / 400 metres / 800 metres  
    **Answer:** 400 metres. *Why:* 8 times 50 is 400. So the road is 400 metres long. If you picked 80 or 800, check where you put the zeros.
@@ -688,7 +719,13 @@ That evening, Anjana hung the knotted rope on its nail. She ran her fingers alon
 16. (mcq) On a common school world map, Greenland looks as big as Africa. What is the truth?  
    Options: Africa is about fourteen times larger / Greenland is larger / They are exactly the same  
    **Answer:** Africa is about fourteen times larger. *Why:* The map stretches areas near the poles. Africa has about fourteen times the area of Greenland.
-### Echoes, Circles and Contours (stretch) (stretch, 17 questions)
+17. (order) Put these parts of an address in order, from the smallest place to the biggest.  
+   **Answer:** ['House', 'Village', 'District', 'State', 'Country', 'Planet']. *Why:* Each part holds the one before it. A village holds houses, a district holds villages, a state holds districts, and a country holds states. All the countries are on the planet Earth.
+18. (match) Match each place to what its contour lines would look like.  
+   **Answer:** The peak of Mount Everest → The smallest ring, with a number near 8,848; A steep gorge → Lines packed close together; A flat plain of the Ganga → Few lines, far apart. *Why:* Contour lines show height above sea level. Close lines show a steep slope, far apart lines show flat land, and the highest ring marks the top.
+19. (draw) Draw a labelled model of how rainwater gets from a hill to a pond in a village. Use arrows. Then write one thing your drawing leaves out.  
+   **Answer:** A hill, a stream or slope with arrows, and a pond, each labelled. The child names something left out, such as the trees, the colours or the size of the pond.. *Why:* A good drawing shows how the parts connect with arrows and labels. It does not need to look like the real place, but the child should know what it leaves out.
+### Echoes, Circles and Contours (stretch) (stretch, 19 questions)
 1. (mcq) A ship sends a sound pulse down, and the echo comes back after 2 seconds. Sound travels at about 1,500 metres each second in seawater. How deep is the sea?  
    Options: 1,500 metres / 3,000 metres / 750 metres  
    **Answer:** 1,500 metres. *Why:* In 2 seconds the sound travels 3,000 metres, but that is down and back. The depth is half of it, 1,500 metres.
@@ -728,6 +765,10 @@ That evening, Anjana hung the knotted rope on its nail. She ran her fingers alon
    **Answer:** The traveller needs the order of stations and the places to change trains. *Why:* A metro map keeps the connections and drops the true distances to make it easy to read. It is a map that does not look like the place.
 17. (fill) The map projection that keeps directions true, and was useful to sailors, is called ____.  
    **Answer:** ['Mercator']. *Why:* Mercator keeps directions true but stretches areas near the poles.
+18. (fill) On a globe, India lies north of the ____, in the continent of Asia.  
+   **Answer:** ['equator']. *Why:* The equator is the line at 0 degrees of latitude. India is north of it. Kanyakumari is at about 8 degrees north, the southern tip of the mainland.
+19. (write) You build a model of your school hall at 1 centimetre for 50 centimetres. The hall is 12 metres long. How long is it in the model? Show your working.  
+   **Answer:** 12 metres is 1,200 centimetres. 1,200 divided by 50 is 24. So the hall is 24 centimetres long in the model.. *Why:* A strong answer changes metres to centimetres first, then divides by 50. A model has the same scale at every length, so any other length in the hall can be found the same way.
 ### What a Map Keeps and What It Guesses (challenge) (challenge, 15 questions)
 1. (perspective) A child, a delivery rider and an older person each draw a map of the same street.  
    **Answer:** A strong answer says that all three are true for their purposes. Each keeps different features and drops others. A map is made for someone.. *Why:* There is no single true map of a street. Each one is correct about what it shows, and a map that tried to show everything would be unreadable.
@@ -815,6 +856,18 @@ That evening, Anjana hung the knotted rope on its nail. She ran her fingers alon
 15. (mcq) Before the 1950s, many scientists pictured the deep sea floor as a flat plain. What changed this picture?  
    Options: Closer lines of soundings, drawn carefully, showed a mountain chain and a deep valley / A picture taken from space / A new kind of boat  
    **Answer:** Closer lines of soundings, drawn carefully, showed a mountain chain and a deep valley. *Why:* Soundings that were close together showed ridges and valleys that wide soundings missed. Careful drawing of the numbers revealed the shape.
+16. (mcq) A model of a classroom uses 1 centimetre for 20 centimetres. A real bench is 180 centimetres long. How long is it in the model?  
+   Options: 9 centimetres / 90 centimetres / 3,600 centimetres  
+   **Answer:** 9 centimetres. *Why:* 180 divided by 20 is 9. In a model, every real length is divided by the same number. If you picked 3,600, you multiplied, and made the model bigger than the room.
+17. (mcq) Ria draws rain running from a hill into the village pond, with labels and arrows. What is her drawing?  
+   Options: A model that shows how the parts of a real place connect / A photograph, because it has to look exactly like the pond / A guess, because nobody can draw water  
+   **Answer:** A model that shows how the parts of a real place connect. *Why:* A drawing can stand for something real and show how its parts connect, without copying every detail. That is what a model does. A drawing leaves things out, and it is still useful.
+18. (mcq) On a contour map of a mountain, the smallest ring at the top has the number 8,848 on it. What does the number tell you?  
+   Options: The top is about 8,848 metres above sea level / The climb is 8,848 metres long / The mountain is 8,848 metres wide  
+   **Answer:** The top is about 8,848 metres above sea level. *Why:* Each contour line is a height above sea level, in metres. The smallest ring is the highest place. A map number for a ring never tells you how long the climb or how wide the mountain is.
+19. (mcq) A letter is addressed to a house in a village in Idukki district, in Kerala. Which layer of the address is just bigger than the village?  
+   Options: The district / The state / The house  
+   **Answer:** The district. *Why:* An address goes from small to big: house, street, village, district, state, country, planet. A district holds many villages. A state holds many districts.
 
 ## Applications
 - Phones, cars and aeroplanes use GPS and NavIC to find their position.
@@ -923,7 +976,7 @@ Know Where You Stand (sci.planet-earth.L4): Topic-level song
 
 ## Plan
 - Start options: intro, a1, e1, story, big_questions, cards, g1
-- Default order: intro → a1 → e1 → summary → terms → explanations → story → e2 → g1 → videos → ws-core → a2 → e3 → a3 → a4 → a5 → a6 → g2 → agreed → challenging → ws-stretch → p1 → c1 → c2 → big_questions → ws-challenge → open_questions → roots → quiz
+- Default order: intro → a1 → e1 → summary → terms → explanations → story → e2 → g1 → videos → ws-core → a2 → e3 → a3 → a4 → a5 → a6 → g2 → agreed → challenging → ws-stretch → p1 → c1 → c2 → a7 → big_questions → ws-challenge → open_questions → roots → quiz
 - Core: a1, e1, e2, g1, ws-core
 
 ## Sources

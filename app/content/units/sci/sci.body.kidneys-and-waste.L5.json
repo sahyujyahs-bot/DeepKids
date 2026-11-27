@@ -102,6 +102,12 @@
    "art": "A straight tube running down through a salty zone of the kidney, with water drops leaving the tube sideways."
   },
   {
+   "term": "Bladder",
+   "meaning": "The bladder is a stretchy bag inside your belly. It stores urine until you go to the toilet. A thin tube, the ureter, brings urine to it from each kidney.",
+   "example": "After a big glass of water, your bladder fills and you feel you need the toilet.",
+   "art": "A child's body outline showing two kidneys, two thin ureters going down to a bladder, and one short tube out."
+  },
+  {
    "term": "ADH, the water-saving hormone",
    "meaning": "ADH is a chemical message made in the brain. It tells the collecting ducts in the kidneys to let more water go back into the blood. ADH is short for antidiuretic hormone.",
    "example": "When your blood becomes a little too salty, your brain releases more ADH within minutes.",
@@ -155,7 +161,7 @@
    "concept": "A body has two jobs to do with water",
    "status": "defined",
    "definition": "Excretion is sending out the wastes that the body's cells have made. Osmoregulation is keeping the water and salt in the body at steady levels.",
-   "description": "Your kidneys filter your blood and take back what the body needs. What is left leaves as urine. That is the kidney's first job, removing waste. The kidneys have a second job that matters just as much. They keep your blood at almost exactly the same saltiness all the time. Your blood is about as salty as water with 9 grams of salt in each litre. Why must it stay there? Every cell in your body sits in liquid that comes from the blood. If that liquid turns too salty, water leaves the cells and they shrink. If it turns too watery, water enters the cells and they swell. Brain cells are packed inside the skull with no room to swell, so even a small change can make a person confused and ill. Every animal has to do both jobs. A fish, a camel and a gecko each do them in a different way, because each has a different amount of water to spare.",
+   "description": "Your kidneys filter your blood and take back what the body needs. What is left leaves as urine. From each kidney, the urine runs down a thin tube called a ureter. It collects in the bladder, a stretchy bag that holds it until you can get to a toilet. When you decide to go, a ring of muscle at the bladder's exit opens, and the urine leaves through a short tube called the urethra. That is the kidney's first job, removing waste. The kidneys have a second job that matters just as much. They keep your blood at almost exactly the same saltiness all the time. Your blood is about as salty as water with 9 grams of salt in each litre. Why must it stay there? Every cell in your body sits in liquid that comes from the blood. If that liquid turns too salty, water leaves the cells and they shrink. If it turns too watery, water enters the cells and they swell. Brain cells are packed inside the skull with no room to swell, so even a small change can make a person confused and ill. Every animal has to do both jobs. A fish, a camel and a gecko each do them in a different way, because each has a different amount of water to spare. Water does other work too. It mixes with food in your gut and carries digested food into your blood. It carries wastes out as urine, sweat and stool. The last part of the gut takes water back from the stool, so a person who drinks too little passes hard, dry stool.",
    "examples": [
     "After a salty meal you feel thirsty and pass less urine. Your body is bringing its saltiness back down.",
     "After two tumblers of water you pass a lot of pale urine within the hour. Your body is sending the extra water out.",
@@ -326,7 +332,7 @@
    "concept": "Losing water and salt together: why ORS has sugar in it",
    "status": "defined",
    "definition": "ORS is a drink of clean water with measured salt and sugar. The gut takes in salt much faster when sugar is there with it, and water follows the salt.",
-   "description": "Sweat and loose motions carry away both water and salt. In bad diarrhoea, such as cholera, a person can lose many litres in a day, and that can kill. For a long time the only treatment was salt water dripped into a vein through a needle. In the early 1960s the American biochemist Robert Crane described a carrier in the wall of the gut. It takes sodium, from salt, into the gut cells, but only together with glucose, a simple sugar. Once the sodium is inside the body, water follows it by osmosis. This carrier keeps working even during cholera. So a drink with the right amounts of salt and sugar can put water back into a person through the mouth. In 1953 the Kolkata doctor Hemendra Nath Chatterjee reported in a medical journal that he had treated 186 cholera patients this way. Few doctors took notice. In 1971, during the Bangladesh war, cholera spread through the refugee camps of West Bengal and the drip bottles ran out. Dr Dilip Mahalanabis and his team had families give the patients a drink of salt, glucose and water. More than 3,000 patients were treated. In the camps using this drink, about 4 patients in 100 died. With drips alone the figure had been about 30 in 100. The amounts matter. Too much salt is harmful. Too much sugar holds water in the gut by osmosis and makes diarrhoea worse, which is why soft drinks and sweet juices are not ORS.",
+   "description": "Sweat and loose motions carry away both water and salt. In bad diarrhoea, such as cholera, a person can lose many litres in a day, and that can kill. For a long time the only treatment was salt water dripped into a vein through a needle. In the early 1960s the American biochemist Robert Crane described a carrier in the wall of the gut. It takes sodium, from salt, into the gut cells, but only together with glucose, a simple sugar. Once the sodium is inside the body, water follows it by osmosis. This carrier keeps working even during cholera. So a drink with the right amounts of salt and sugar can put water back into a person through the mouth. In 1953 the Kolkata doctor Hemendra Nath Chatterjee reported in a medical journal that he had treated 186 cholera patients this way. Few doctors took notice. In 1971, during the Bangladesh war, cholera spread through the refugee camps of West Bengal and the drip bottles ran out. Dr Dilip Mahalanabis and his team had families give the patients a drink of salt, glucose and water. More than 3,000 patients were treated. In the camps using this drink, about 4 patients in 100 died. With drips alone the figure had been about 30 in 100. The amounts matter. Too much salt is harmful. Too much sugar holds water in the gut by osmosis and makes diarrhoea worse, which is why soft drinks and sweet juices are not ORS. Know the signs of dehydration. The person is very thirsty and has a dry mouth and lips. Their urine is dark yellow and there is very little of it. They feel tired, dizzy or sleepy. A small child may cry with no tears, and their eyes may look sunken. A child with these signs and loose motions needs ORS, and a doctor should be called.",
    "examples": [
     "Home ORS: one litre of clean water, six level teaspoons of sugar and half a level teaspoon of salt.",
     "Salted lime juice with a little sugar, thin salted rice kanji and tender coconut water all give water with some salt and sugar.",
@@ -2063,6 +2069,56 @@
      "outcome": 2
     },
     {
+     "t": "order",
+     "p": "Put these in order, for the way urine leaves the body.",
+     "a": [
+      "The kidney makes urine",
+      "Urine flows down a ureter",
+      "The bladder stores the urine",
+      "A ring of muscle at the bladder's exit opens",
+      "Urine leaves through the urethra"
+     ],
+     "why": "Urine goes from the kidney, down the ureter, into the bladder. The bladder holds it until a ring of muscle opens and the urine leaves through the urethra.",
+     "outcome": 2
+    },
+    {
+     "t": "sort",
+     "p": "Sort these signs: DEHYDRATED or ENOUGH WATER.",
+     "cats": [
+      "Dehydrated",
+      "Enough water"
+     ],
+     "items": [
+      [
+       "dry mouth and lips",
+       "Dehydrated"
+      ],
+      [
+       "pale yellow urine, passed a few times a day",
+       "Enough water"
+      ],
+      [
+       "a baby crying with no tears",
+       "Dehydrated"
+      ],
+      [
+       "dark yellow urine, very little",
+       "Dehydrated"
+      ],
+      [
+       "eyes that look bright and wet",
+       "Enough water"
+      ],
+      [
+       "feeling dizzy and sleepy",
+       "Dehydrated"
+      ]
+     ],
+     "a": "as given",
+     "why": "A body that has lost more water than it took in shows dry lips, dark little urine, no tears and dizziness. A body with enough water has pale urine and moist eyes.",
+     "outcome": 7
+    },
+    {
      "t": "truefalse",
      "p": "True or false: a camel carries a store of water in her hump.",
      "a": false,
@@ -2171,6 +2227,14 @@
      "lines": 3,
      "a": "No pump for water has been found in animal cells. Cells can pump salt. So the kidney pumps salt into the space around the tubes, and water follows by osmosis through water doors.",
      "why": "A strong answer names what cells can pump, which is salt, and what they cannot, which is water.",
+     "outcome": 2
+    },
+    {
+     "t": "write",
+     "p": "Name two jobs that water does in the body besides keeping cells the right size. Say what happens to the stool when a person drinks too little.",
+     "lines": 3,
+     "a": "Water mixes with food in the gut and carries digested food into the blood. It carries wastes out as urine, sweat and stool. With too little water, the gut takes more water back from the stool, so the stool is hard and dry.",
+     "why": "A strong answer names two jobs and says the gut takes water back from the stool.",
      "outcome": 2
     },
     {
@@ -2747,6 +2811,42 @@
    "a": 0,
    "why": "The carrier in the gut wall takes in sodium together with glucose. Without sugar, less sodium enters, and less water follows it.",
    "outcome": 7
+  },
+  {
+   "t": "mcq",
+   "p": "Where does urine go after it leaves a kidney?",
+   "opts": [
+    "Down a ureter to the bladder, where it is stored",
+    "Straight out of the body through the kidney",
+    "Up a tube to the stomach"
+   ],
+   "a": 0,
+   "why": "Each kidney has a thin tube called a ureter that carries urine down to the bladder. The bladder stores it until a ring of muscle opens and the urine leaves the body.",
+   "outcome": 2
+  },
+  {
+   "t": "mcq",
+   "p": "Ravi has loose motions and has not stopped feeling sick all day. Which sign tells you he may be dehydrated?",
+   "opts": [
+    "He is very thirsty, his mouth is dry and his urine is dark and very little",
+    "He is hungry and wants a snack",
+    "His hands are warm"
+   ],
+   "a": 0,
+   "why": "A dehydrated body has lost more water than it has taken in. The mouth feels dry, thirst is strong and the urine is dark yellow and little. Hunger and warm hands do not show a lack of water.",
+   "outcome": 7
+  },
+  {
+   "t": "mcq",
+   "p": "Why does a person who drinks very little water often pass hard, dry stool?",
+   "opts": [
+    "The gut takes water back from the stool when the body is short of water",
+    "Water makes the stool harder",
+    "The kidneys put extra water into the stool"
+   ],
+   "a": 0,
+   "why": "The last part of the gut takes water back from the stool. When the body has little water, it takes more, so the stool is hard and dry.",
+   "outcome": 2
   }
  ],
  "videos": [

@@ -189,6 +189,12 @@
    "meaning": "A scientist who studies plants.",
    "example": "Janaki Ammal was an Indian botanist who studied sugarcane.",
    "art": "A botanist kneeling in a field with a notebook and a magnifying glass."
+  },
+  {
+   "term": "Nectar",
+   "meaning": "The sweet juice that a flower makes. Bees, butterflies and birds drink it.",
+   "example": "A bee drinks nectar from a mustard flower and carries pollen to the next flower.",
+   "art": "A bee on a flower with a drop of shining nectar at the middle, and yellow pollen on the bee's legs."
   }
  ],
  "explanations": [
@@ -325,7 +331,8 @@
    "examples": [
     "Shade plants, like the money plant on a dim landing, often have big, thin leaves.",
     "In a field of grown sunflowers, almost every flower head faces east, towards the morning Sun.",
-    "Look down on a tulsi plant. Each pair of leaves sits at right angles to the pair below."
+    "Look down on a tulsi plant. Each pair of leaves sits at right angles to the pair below.",
+    "Leaves differ in colour, shape and feel. A curry leaf is shiny and smooth, a mint leaf is crinkly, and a hibiscus leaf is a little rough. Crush a tulsi or mint leaf and sniff. Tiny drops of oil inside the leaf make the smell. Many plants make such oils partly to keep hungry insects away."
    ],
    "perspectives": [],
    "art": "A view from above a plant, their leaves fitting together like a jigsaw, and a sun leaf and a shade leaf from the same bush side by side.",
@@ -432,6 +439,20 @@
    ],
    "art": "A green leaf and an imaginary black leaf side by side under the Sun, with rainbow arrows bouncing off the green leaf.",
    "context": "Nearly every leaf in the world is green. This card is about a surprise: scientists are still not sure why."
+  },
+  {
+   "concept": "Plant parts feed and house other living beings",
+   "status": "defined",
+   "definition": "Plants are not only for themselves. Animals, birds and insects eat plant parts, drink from them and make homes in them.",
+   "description": "In Rajasthan, camels chew the leaves of the khejri tree, even though it has thorns. A bee lands on a mustard flower and drinks nectar, a sweet juice the flower makes. While she drinks, pollen sticks to her body. She carries it to the next flower, and that helps the flowers make seeds. So the bee gets food, and the plant gets help. A spotted owlet, a small owl, sleeps through the day in a hollow in an old tree trunk. She raises her chicks there, safe from the rain. A leaf, a flower and a trunk each do their own job for the plant. They also do a job for the many living beings who share the plant's neighbourhood.",
+   "examples": [
+    "Goats and cows eat grass leaves, and so do many wild deer.",
+    "A mustard field in flower hums with bees, and the bees' honey tastes of mustard.",
+    "A parrot or a squirrel sitting in a guava tree is eating the fruit that holds the plant's seeds."
+   ],
+   "perspectives": [],
+   "art": "A khejri tree in the desert with a camel eating its leaves, a bee on a yellow mustard flower, and a spotted owlet looking out of a hollow in a trunk.",
+   "context": "Plant parts do jobs for the plant, and also for animals. This card shows how camels, bees and owls use leaves, flowers and trunks."
   },
   {
    "concept": "How plants grew their parts: a story 470 million years long",
@@ -1241,6 +1262,31 @@
       "hair"
      ],
      "why": "Root hairs are far thinner than the hairs on your head. They touch lots of soil, so a root can soak up water quickly."
+    },
+    {
+     "t": "match",
+     "p": "Match each living being to the plant part it uses.",
+     "pairs": [
+      [
+       "A camel in Rajasthan",
+       "eats the leaves of a khejri tree"
+      ],
+      [
+       "A bee",
+       "drinks nectar from a flower"
+      ],
+      [
+       "A spotted owlet",
+       "raises chicks in a hollow in a tree trunk"
+      ],
+      [
+       "A parrot",
+       "eats the fruit of a guava tree"
+      ]
+     ],
+     "a": "pairs as given",
+     "why": "Leaves, flowers, trunks and fruits are jobs for the plant, and also food and homes for others.",
+     "art": "Four small pictures: a camel by a tree, a bee on a flower, an owlet in a trunk hollow, a parrot on a guava."
     }
    ]
   },
@@ -1468,6 +1514,14 @@
       "node"
      ],
      "why": "A node is where leaves and buds grow on a stem. In bamboo, the wall at each node stops the tube from squashing flat when it bends."
+    },
+    {
+     "t": "draw",
+     "p": "Take one leaf from the kitchen or balcony, like mint, curry leaf or tulsi. Draw it. Label its colour, its shape, how it feels and its veins. Then crush a corner, sniff, and write its smell word beside it.",
+     "a": "A drawing of the leaf with labels such as 'dark green', 'oval', 'crinkly', 'net veins', and a smell word such as 'sharp' or 'sweet'.",
+     "why": "Leaves differ in colour, shape, feel, veins and smell. A careful drawing with labels is how a botanist records them.",
+     "lines": 6,
+     "art": "A blank page with a mint leaf placed beside it."
     }
    ]
   },
@@ -2539,9 +2593,13 @@
      "item": "a hand lens, if you have one",
      "qty": 1,
      "buy": "b-lens"
+    },
+    {
+     "item": "a crayon with its paper wrapper peeled off, and a few sheets of plain paper",
+     "qty": 1
     }
    ],
-   "safety": "Go outdoors only with a grown-up. Do not touch plants with milky sap or itchy hairs, and wash hands afterwards.",
+   "safety": "Go outdoors only with a grown-up. Do not touch plants with milky sap or itchy hairs, and wash hands afterwards. Sniff only leaves that a grown-up knows are safe, like tulsi, mint and curry leaf.",
    "schedule": [
     {
      "day": 1,
@@ -2563,9 +2621,9 @@
     {
      "id": "s2",
      "mins": 10,
-     "do": "1. Tape each leaf onto a page. 2. Fold a spare leaf in half along its middle vein. Are the two halves the same? 3. Write three describing words for each leaf, like pointy, waxy, hairy or heart-shaped. 4. Look at its veins. Tell your child to write N next to net-like veins, or S next to veins that run side by side.",
+     "do": "1. Tape each leaf onto a page. 2. Fold a spare leaf in half along its middle vein. Are the two halves the same? 3. Write three describing words for each leaf, like pointy, waxy, hairy or heart-shaped. 4. Look at its veins. Tell your child to write N next to net-like veins, or S next to veins that run side by side. 5. Crush a corner of a tulsi, mint or curry leaf and sniff it. Write a smell word, like sharp, sweet or none. 6. Lay a leaf with the veins facing up under a sheet of paper. Rub the side of a crayon over it. The outline and veins appear.",
      "say": "Describe each leaf like a detective. Fold one in half. Is it the same on both sides? Look at the veins. Do they make a net, or run side by side?",
-     "kid": "Tape each leaf on a page. Fold one in half. Are the halves the same? Write three words for each leaf. Look at the veins. Net, or side by side? Write N or S.",
+     "kid": "Tape each leaf on a page. Fold one in half. Are the halves the same? Write three words for each leaf. Look at the veins. Net, or side by side? Write N or S. Crush a corner of a safe leaf, like tulsi or mint, and sniff. Write a smell word. Then put a leaf under paper and rub a crayon over it.",
      "ask": [
       {
        "q": "Which leaf do you think grew in the most shade? Why?",
@@ -3311,6 +3369,32 @@
    "a": 0,
    "why": "Roots hold a plant down and bring up water. Without them, a plant has to stay small and close to wet ground. Roots, wide leaves and flowers came much later, and then plants could grow tall.",
    "outcome": 6
+  },
+  {
+   "t": "mcq",
+   "p": "A bee drinks nectar from a mustard flower. Pollen sticks to her body, and she flies to the next flower. Who gains from this?",
+   "opts": [
+    "Both: the bee gets food, and the flower gets pollen carried to another flower",
+    "Only the bee, because the flower is there to feed animals",
+    "Only the flower, because the bee gets nothing",
+    "Neither, because the pollen falls off at once"
+   ],
+   "a": 0,
+   "why": "The bee gets nectar to eat. The pollen she carries helps the next flower make seeds. Picking 'only the bee' thinks of flowers as made for animals. A flower's own job is to make seeds.",
+   "outcome": 0
+  },
+  {
+   "t": "mcq",
+   "p": "You crush a tulsi leaf between your fingers and smell it strongly. Where does the smell come from?",
+   "opts": [
+    "Tiny drops of oil inside the leaf",
+    "The chlorophyll, the green stuff in the leaf",
+    "The roots, which send the smell up the stem",
+    "Water that the leaf soaked up"
+   ],
+   "a": 0,
+   "why": "Leaves like tulsi and mint hold small drops of oil, and crushing the leaf lets the smell out. Chlorophyll is a good guess, because it is in every leaf, but chlorophyll catches light and has no smell.",
+   "outcome": 3
   }
  ],
  "applications": [

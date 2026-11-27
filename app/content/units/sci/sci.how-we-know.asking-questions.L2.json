@@ -28,6 +28,12 @@
    "art": "A child dropping a steel spoon into a glass tumbler of water, with a tick mark beside it."
   },
   {
+   "term": "Source",
+   "meaning": "A book, chart or map made by someone else, which you can read to find an answer.",
+   "example": "A rainfall chart in an atlas is a source. You read it to see which month has the most rain.",
+   "art": "A child reading a bar chart in an open atlas, with a finger on the tallest bar."
+  },
+  {
    "term": "Prediction",
    "meaning": "A prediction is what you think will happen, and why, said before you try. It is a guess with a reason.",
    "example": "'The crumpled paper will land first, because it is a small ball and the air slows it less.'",
@@ -75,11 +81,24 @@
    "art": "Four boxes on a page: a spoon sinking in water with a tick, a mango and a banana with two smiling faces, a dark starry sky with a question mark, and a grandmother talking to a child."
   },
   {
+   "concept": "A book or a chart can answer some questions",
+   "status": "defined",
+   "context": "This card is about questions that other people have already answered in a book or on a chart.",
+   "definition": "A source is a book, chart or map made by someone else that you can read to find an answer.",
+   "description": "You cannot test everything yourself. You cannot visit a rainforest to see what lives there before dinner. But people have watched, measured and written it down. A book, a picture chart or a table in your class book is a source. You read it, find the part that matches your question, and take the answer from it. A good source says who made it. If two sources give different answers, that is a new question to look into.",
+   "examples": [
+    "How many days a chick takes to hatch? A poultry chart or a book of birds can tell you. You do not need your own hen.",
+    "Which month brings most rain to your town? Look along the rainfall chart in an atlas and find the tallest bar."
+   ],
+   "perspectives": [],
+   "art": "A child with a finger on a bar chart in a book, next to a question written on a slip of paper."
+  },
+  {
    "concept": "A prediction is a guess with a reason",
    "status": "defined",
    "context": "This card is about what a prediction is, and why we say the reason too.",
    "definition": "A prediction says what you think will happen in a test, and why you think so, before the test starts.",
-   "description": "'I think the bottle will fall' is a guess. 'I think the bottle will fall, because rice is loose and slippery' is a prediction, because it has a reason. If the bottle lifts, the reason shows which idea to change. Say your prediction before the test. If you wait until after the test, anyone can say 'I knew it!', even when they did not. A prediction said before the test cannot be faked.",
+   "description": "'I think the bottle will fall' is a guess. 'I think the bottle will fall, because rice is loose and slippery' is a prediction, because it has a reason. If the bottle lifts, the reason shows which idea to change. Say your prediction before the test. If you wait until after the test, anyone can say 'I knew it!', even when they did not. A prediction said before the test cannot be faked. After a test, put your result next to your prediction. If they match, we say the result supports your prediction. If they do not match, the result does not support it. Either way, say why. A result that supports a prediction does not prove it for ever. It only tells you that this test agreed.",
    "examples": [
     "'The ice will float, because I have seen ice floating in a glass of water.'",
     "'The crumpled paper will land first, because it is smaller, so the air pushes it less.'",
@@ -1399,6 +1418,30 @@
    "a": 0,
    "why": "Big planets pull on things that pass near them. Working out these pulls makes a prediction more exact.",
    "outcome": 5
+  },
+  {
+   "t": "mcq",
+   "p": "Rohan predicted that the big ball would bounce higher, because it is heavier. The small ball bounced higher. What should he say?",
+   "opts": [
+    "The result does not support my prediction, so I need to rethink my reason",
+    "The result supports my prediction",
+    "The test is wrong, so I will bounce them again until the big ball wins"
+   ],
+   "a": 0,
+   "why": "The result and the prediction do not match, so the result does not support it. Rohan should write it down and change his idea. Bouncing again until the big ball wins would not be a fair look at what really happened.",
+   "outcome": 3
+  },
+  {
+   "t": "mcq",
+   "p": "Which question can a book or chart answer, when you cannot go and test it yourself?",
+   "opts": [
+    "What do giraffes eat in the wild?",
+    "Which fruit is the tastiest?",
+    "Is blue prettier than green?"
+   ],
+   "a": 0,
+   "why": "People who watched giraffes have written down what they eat, so a book can tell you. The other two are opinions, and no book can say which one is true for you.",
+   "outcome": 0
   }
  ],
  "worksheets": [
@@ -1541,6 +1584,34 @@
      "lines": 2,
      "a": "For example: because everyone likes different fruits. My best fruit is mango, but my friend's is banana.",
      "why": "A strong answer says it is an opinion, and that different people's answers are all true for them."
+    },
+    {
+     "t": "sort",
+     "p": "Aisha predicted: 'A steel spoon will sink in water.' Sort each result into 'Supports her prediction' or 'Does not support it'.",
+     "cats": [
+      "Supports her prediction",
+      "Does not support it"
+     ],
+     "items": [
+      [
+       "The spoon went to the bottom of the tumbler",
+       "Supports her prediction"
+      ],
+      [
+       "The spoon stayed floating on top",
+       "Does not support it"
+      ],
+      [
+       "The spoon sank straight away",
+       "Supports her prediction"
+      ],
+      [
+       "The spoon bobbed on the surface",
+       "Does not support it"
+      ]
+     ],
+     "a": "see items",
+     "why": "A result supports a prediction when it matches. When it does not match, it does not support it, and that is still worth writing down."
     }
    ]
   },
@@ -1677,6 +1748,15 @@
      "lines": 2,
      "a": "For example: 'Is there life near another star?' We can't go there yet.",
      "why": "A strong answer gives a real reason: too far, too long ago, or too small to see with the tools we have."
+    },
+    {
+     "t": "fill",
+     "p": "Your class chart says a bean plant was 1 cm tall on Day 2, 3 cm on Day 4 and 6 cm on Day 6. How tall was it on Day 4? ________ cm",
+     "a": [
+      "3",
+      "3 cm"
+     ],
+     "why": "You read a chart by finding the row for your question and reading across. The person who made the chart measured the plant, so you can use their answer."
     }
    ]
   }

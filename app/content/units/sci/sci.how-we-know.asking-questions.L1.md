@@ -15,8 +15,10 @@
 ## Terms
 - **Question**: A question is what you ask when you want to find out something. Many questions start with what, how or why. *e.g.* Why does the pressure cooker whistle?
 - **Observe**: To observe means to notice something very carefully, using your eyes, ears, nose and hands. A scientist observes before saying what something is. *e.g.* Watch an ant for a minute. You may see her carry a crumb bigger than her own head.
+- **Measure**: To measure is to find out how long, how much or how heavy something is, by comparing it with something else, like hands, cups or a ruler. *e.g.* You measure a book by laying your hand along it again and again, and counting.
 - **Clue**: A clue is something you notice that helps you work out something you cannot see. Scientists call clues evidence. *e.g.* Wet footprints on the floor are a clue that someone just had a bath.
 - **Scientist**: A scientist is a person who asks questions about the world, and finds out by observing and testing. Anyone who does this is doing science, children too. *e.g.* When you shake a dabba to find out what is inside, you are doing what a scientist does.
+- **Table**: A table is boxes in rows and columns where we write what we found, so it is easy to read and compare. *e.g.* A table with Pod 1, Pod 2 and Pod 3 in one column, and the number of seeds in the next column.
 
 ## Explanations
 ### Science begins with wondering · *defined*
@@ -33,6 +35,27 @@ A quick look tells you a little. A slow look with eyes, ears, nose and hands tel
 - e.g. One elaichi pod looks small and green. Look closer and you see lines on the skin. Shake it, and you hear the seeds inside. Crack it open, and a strong smell comes out.
 - e.g. A doctor listens to your chest, taps your back and looks in your throat. Each one gives her a different clue.
 - e.g. A cook in Kolkata listens to the oil crackle and smells the mustard to know when to add the fish.
+### Staying safe while we find out · *defined*
+**Definition:** Staying safe means listening to the steps, asking a grown-up when you are not sure, and keeping your hands, nose and mouth away from danger.
+
+Finding out is fun, and it is also care. Listen to every step before you begin. Never taste a mystery thing. To smell something, do not put your nose into it. Wave the smell gently towards your nose with your hand. Ask a grown-up to open or cut anything sharp, and to help with anything hot. Wash your hands when you finish, and wipe up any spill so nobody slips.
+- e.g. A grown-up presses the elaichi pod open, and you smell it by waving the scent towards you.
+- e.g. You wipe up the spilled dal from the floor so that nobody slips.
+- e.g. You wash your hands with soap after touching the mystery dabbas.
+### Measuring with hands, blocks and cups · *defined*
+**Definition:** To measure is to find out how long, how much or how heavy something is, by comparing it with something else.
+
+You can measure with things you already have. How wide is a table? Count how many hands it takes to cover it. How much water does a jug hold? Count how many cups it fills. How tall is a tower? Count the blocks. These are non-standard units, because hands and cups are not the same everywhere. A grown-up's hand is bigger than yours, so they will count fewer hands. A ruler and a measuring cup have the same size for everyone, so they are best when we want to compare.
+- e.g. Your bed is 9 hands long. Your grandfather's hands are bigger, so he counts 7.
+- e.g. A big steel jug holds 6 small cups of water.
+- e.g. A tower of 5 blocks is taller than a tower of 3 blocks.
+### Writing down what we find · *defined*
+**Definition:** To record is to keep what you found out, with a labelled picture, a few words or numbers in a table.
+
+We forget quickly, so scientists write down what they find. One way is a labelled picture. Draw the thing, and write a word beside each part, like skin, seeds and stem. Another way is a table, which is boxes in rows and columns. A table helps you keep numbers in order so you can compare them. Put the thing's name in one column and what you found in the next.
+- e.g. A picture of an elaichi pod with the words skin, seeds and stem written beside each part.
+- e.g. A table with Pod 1, Pod 2 and Pod 3 in one column and the number of seeds in the next.
+- e.g. A picture of a steel dabba with the words lid and handle written beside each part.
 ### Clues tell us about things we cannot see · *defined*
 **Definition:** A clue is something we can sense that tells us about something we cannot sense directly. Scientists call clues evidence, and then they check them.
 
@@ -251,7 +274,7 @@ Kavya counted on her fingers. 'First I noticed the sound. Then I wondered. Then 
   - Note: Think aloud as you shake: 'It goes shhh, so many small pieces.' A dabba of salt and a dabba of dal may sound alike. That is a real result: say that the sound could not tell them apart.
 
 ## Activities
-### a1 · One Elaichi, Four Senses: how many things can you notice? (10 min)
+### a1 · One Elaichi, Four Senses: how many things can you notice? (15 min)
 - **s1 (2 min)**  
   *Parent does:* Put one elaichi pod on the plate. Ask your child to say one thing about it, after a quick look. Write it down.  
   *Parent says:* Take one quick look at this. Tell me one thing about it.  
@@ -263,7 +286,7 @@ Kavya counted on her fingers. 'First I noticed the sound. Then I wondered. Then 
   - Ask: What do you notice now? (good: It is green with lines on it.; It has a pointy end.; It rattles a tiny bit, so something is inside.; It smells sweet, like payasam.)
   - Note: A pod can rattle faintly when shaken, because the seeds inside are loose. If your child does not hear it, let them shake it near the ear again.
 - **s3 (2 min) · grown-up needed**  
-  *Parent does:* Press one pod with your thumb until it splits. Your child looks at the seeds and smells the open pod.  
+  *Parent does:* Press one pod with your thumb until it splits. Your child looks at the seeds and smells the open pod. Everyone washes their hands when this step is done.  
   *Parent says:* I'll open this one. Look inside. What do you see? Now smell it. Is the smell stronger or weaker than before?  
   *Child mode:* Look at the seeds. Smell the open pod.
   - Ask: What changed when it was opened? (good: There are tiny black seeds inside.; The smell is much stronger now.)
@@ -273,6 +296,10 @@ Kavya counted on her fingers. 'First I noticed the sound. Then I wondered. Then 
   *Child mode:* Count your marks.
   - Ask: What do you wonder? (good: Why are the seeds black when the outside is green?; Could I grow an elaichi plant from the seeds?; Why does it smell stronger when it is open?)
   - Check: When did you notice more about the elaichi? → **After looking slowly and using more senses**
+- **s5 (5 min)**  
+  *Parent does:* 1. Draw the elaichi pod on paper. 2. Write labels beside the skin and the seeds. 3. Measure the pod's length with finger widths, or with the ruler. 4. Make a small table: write Pod 1, Pod 2 and Pod 3, with the length and the number of seeds.  
+  *Parent says:* Let's keep what we found. Draw the pod and write a word beside each part. How many fingers long is it?  
+  *Child mode:* Draw the pod. Write skin and seeds. Measure it with your fingers. Write your numbers in a table.
 ### a2 · Sticky Questions: a wonder walk around the flat (10 min)
 - **s1 (6 min)**  
   *Parent does:* 1. Walk slowly through the home with your child. 2. Stop at anything they ask about, or ask 'What do you wonder about this?' 3. Write their question on a slip, word for word, and tape the slip on the thing.  
@@ -356,7 +383,7 @@ Kavya counted on her fingers. 'First I noticed the sound. Then I wondered. Then 
   - Check: Your dabba with 3 coins sounds just like the secret dabba. What does that tell you? → **The secret dabba probably has 3 coins too**
 
 ## Worksheets
-### Noticing and Wondering (core) (core, 10 questions)
+### Noticing and Wondering (core) (core, 12 questions)
 1. (label) Here is an elaichi pod, opened. Say a word for each part, and a grown-up writes it: the outside skin, the inside, and the seeds.  
    **Answer:** ['green, with lines, dry and papery', 'pale and soft', 'small, black and sticky, with a strong smell']. *Why:* A strong answer uses more than one sense for a part: what it looks like, what it feels like, or how it smells.
 2. (match) Draw a line from each sound to what might be inside the shut dabba.  
@@ -381,7 +408,11 @@ Kavya counted on her fingers. 'First I noticed the sound. Then I wondered. Then 
 10. (mcq) You want to know if your glass of milk is hot. What is the safest way to find out first?  
    Options: Look for steam and gently touch the outside of the glass / Gulp it fast / Put your finger in the milk  
    **Answer:** Look for steam and gently touch the outside of the glass. *Why:* Steam and a warm glass are clues from the outside. They tell you the milk is hot without hurting you.
-### Clues and Questions (stretch) (stretch, 10 questions)
+11. (sort) Sort these into safe things to do and things not to do.  
+   **Answer:** Wave the smell towards my nose → Safe; Taste a mystery powder → Not safe; Wash my hands when I finish → Safe; Wait for a grown-up to cut the lemon → Safe; Sniff with my nose pushed into a jar → Not safe. *Why:* Safe work means listening, waiting for a grown-up for sharp or hot things, and washing hands. Tasting and deep sniffing mystery things can hurt you.
+12. (match) Draw a line from each thing to a good way to measure it at home.  
+   **Answer:** How long is my bed? → Count hands laid along it; How much water is in the jug? → Count cups poured in; How tall is my block tower? → Count blocks, or use a ruler. *Why:* Hands, cups and blocks are things we already have. A ruler gives the same answer for everyone.
+### Clues and Questions (stretch) (stretch, 12 questions)
 1. (perspective) The first child and her friend the second child, two girls in Mysuru, shake a shut dabba. It goes shhh.  
    **Answer:** A strong answer picks one side and gives a reason. For the second child: rice, dal and salt can all go shhh, so checking tells us which. For the first child: the shhh is a real clue, and rice is the most likely thing in a kitchen dabba.. *Why:* Both girls use the clue well. The first child makes a good guess from it. The second child knows that some things sound alike, so a check makes sure.
 2. (order) Put these steps of finding something out in order.  
@@ -406,6 +437,10 @@ Kavya counted on her fingers. 'First I noticed the sound. Then I wondered. Then 
    **Answer:** 2. *Why:* Sound and movement tell you about number, hardness and shape. Colour can only be seen.
 10. (write) A friend says, 'If you cannot see a thing, you cannot know what it is.' Say out loud what you would tell your friend, and a grown-up writes it.  
    **Answer:** A strong answer uses the Mystery Dabbas experiment: we never saw inside the dabbas, but sounds, weight and rolling told us what was there. Opening the lids checked it.. *Why:* A strong answer uses the child's own experiment as evidence against the idea.
+11. (draw) Draw a table with two columns, Pod and Seeds, and three rows. Write 5, 7 and 6 in the right boxes.  
+   **Answer:** A table with Pod 1, Pod 2 and Pod 3 in the first column, and 5, 7 and 6 beside them in the second.. *Why:* A table keeps names in one column and numbers in the next, so we can compare them at a glance.
+12. (write) Say it out loud, and a grown-up writes it: two children measure the same table. One says 8 hands and the other says 6 hands. Why, and how could they get the same answer?  
+   **Answer:** Their hands are different sizes. They could use the same hand, or a ruler.. *Why:* A strong answer says that hands are not all the same size, and gives one way to make the measuring fair.
 
 ## Videos
 - **Inge Lehmann, a journey to the centre of the Earth** (Geopop, 5 min) id `glPqWiz1YVM`: Shows how earthquake shaking travels through the Earth, and how Inge Lehmann found the inner core from it. *Check:* Found by search: "Inge Lehmann, a journey to discover the center of the Earth" by Geopop, 4 minutes, 43 seconds. A parent may preview it.
@@ -443,6 +478,15 @@ Kavya counted on her fingers. 'First I noticed the sound. Then I wondered. Then 
 10. (mcq) Nobody can dig to the middle of the Earth. How can scientists find out what is there?  
    Options: By studying how earthquake shaking travels through the Earth / Only by guessing / By looking down a deep well  
    **Answer:** By studying how earthquake shaking travels through the Earth. *Why:* Earthquake shaking travels differently through solid rock, liquid and metal. By studying it, scientists found a ball inside a ball: a solid inner core inside a liquid outer core.
+11. (mcq) You want to smell the elaichi pod that a grown-up has opened. What is the safe way?  
+   Options: Wave the smell towards your nose with your hand / Push your nose right inside and sniff hard / Taste a tiny bit to check  
+   **Answer:** Wave the smell towards your nose with your hand. *Why:* Waving brings a little of the smell to you. A strong sniff can hurt your nose, and you never taste a mystery thing.
+12. (mcq) You measure the table with your hand and get 8 hands. Your grandfather gets 6 hands. Why?  
+   Options: His hand is bigger than yours / The table shrank / He counted wrong, because counts must always match  
+   **Answer:** His hand is bigger than yours. *Why:* Hands are not the same size, so the counts differ. The table is still the same length. A ruler is the same for everyone.
+13. (mcq) You count the seeds in three elaichi pods: 5, 7 and 6. Why write them in a table?  
+   Options: The numbers stay neat, so we can read and compare them / It makes the pods bigger / A table is the only way to count seeds  
+   **Answer:** The numbers stay neat, so we can read and compare them. *Why:* A table keeps what you found in rows and columns, so it is easy to compare. It does not change the pods, and you can count seeds without it.
 
 ## Applications
 - Doctors find out what is wrong by looking, listening to your chest and asking questions.

@@ -34,6 +34,12 @@
    "art": "Two pictures side by side: a chips packet on the steps of a building, and the same packet inside a dustbin."
   },
   {
+   "term": "Sapling",
+   "meaning": "A sapling is a young tree who is still small and weak. She needs water and care to grow strong.",
+   "example": "A family plants a neem sapling in the park at the start of the rains.",
+   "art": "A small thin tree with a few leaves, held up by a stick, with a child pouring water near it."
+  },
+  {
    "term": "Drain",
    "meaning": "A drain is a channel or pipe that carries rainwater and used water away from homes and roads.",
    "example": "The hole with a grill on your bathroom floor is a drain. So is the channel along the side of your street.",
@@ -60,6 +66,19 @@
    "perspectives": [],
    "context": "This card says what the word environment means.",
    "art": "A cut-away picture of a city building with a family inside, a neem tree outside with a squirrel, a crow on the roof, rain falling and a drain at the bottom."
+  },
+  {
+   "concept": "Why there is litter around us",
+   "status": "defined",
+   "context": "Before we ask where litter goes, this card asks why it is there at all.",
+   "definition": "Litter is there because of what people do, and because of what is missing. We can change both.",
+   "description": "Look at the road near your home. Why is there litter? Sometimes there is no bin close by, so a wrapper is dropped. Sometimes the bin is full and nobody has emptied it. Sometimes a person is in a hurry, or has always done it, and never thought about it. Crows, dogs and cows tear open bags, and the wind blows them about. Many things we buy come in packets, so there is more to throw away. Safai karamcharis and kabadiwalas, who sweep and collect our rubbish every day, work hard to clear it. When we use a bin, we make their work lighter.",
+   "examples": [
+    "At a bus stop with no bin, people drop their chips packets on the ground.",
+    "A bin by the lane in Indore is full by morning, so the extra rubbish piles up beside it, and a crow pulls a bag open."
+   ],
+   "perspectives": [],
+   "art": "A lane with a full bin, a dropped wrapper, a crow tearing a bag open, and a sweeper with a broom clearing it all."
   },
   {
    "concept": "Litter does not stay where it is dropped",
@@ -111,6 +130,24 @@
    ],
    "context": "This card is about the plants and small animals who share our home.",
    "art": "A drooping tulsi plant next to a lifted one after watering, a line of ants walking to a few grains of sugar, and a crow with an open beak in the shade."
+  },
+  {
+   "concept": "Planting trees and looking after plants",
+   "status": "defined",
+   "context": "This card is about what we can do for plants, and why trees matter to the air we breathe.",
+   "definition": "A sapling is a young tree. When we plant a sapling and water her, we help the air stay clean and fresh.",
+   "description": "Trees clean and freshen the air. Their leaves catch dust. Green leaves also give out oxygen, the part of the air that we breathe in. A tree gives shade on a hot day, a home for birds, and fruit or flowers. Her roots hold the soil, so rain does not wash it away. A sapling is small and weak. She needs water when the soil is dry, and a grown-up's care until she is strong. Plant her at the start of the monsoon, when rain helps her to settle.",
+   "examples": [
+    "A neem tree in a school yard in Nagpur gives shade to children at lunch, and crows build nests in it.",
+    "A family plants a mango sapling at the start of the monsoon and waters it with the leftover water from the kitchen."
+   ],
+   "perspectives": [
+    {
+     "who": "The women of the Chipko movement",
+     "explanation": "In 1973, village women in the hills of Uttarakhand hugged trees to stop them being cut down. They knew their forest gave them water, fuel and fodder. Many people now say they showed the world how to care for trees."
+    }
+   ],
+   "art": "A child watering a small mango sapling at the edge of a school yard, with a big neem tree behind it giving shade, a crow in its branches and arrows of fresh air coming from the leaves."
   }
  ],
  "agreed": [
@@ -1362,6 +1399,18 @@
   },
   {
    "t": "mcq",
+   "p": "A bin by the lane is full, and a wrapper lies beside it. What is the likely reason?",
+   "opts": [
+    "Nobody has emptied the bin, so there is no room left",
+    "The wrapper wanted to travel",
+    "The wind plants wrappers"
+   ],
+   "a": 0,
+   "why": "Litter is there for reasons we can fix. A full bin that nobody empties leaves no room, so people drop things beside it. Wrappers do not choose to move, and wind only carries what is already loose.",
+   "outcome": 2
+  },
+  {
+   "t": "mcq",
    "p": "You drop a toffee wrapper on the road. Then it rains hard. Where will the wrapper most likely go?",
    "opts": [
     "It stays in the same place",
@@ -1444,6 +1493,30 @@
    ],
    "a": 0,
    "why": "The finger test tells you if the soil around the roots is dry or damp. If the soil is dry, water. If the soil is damp, wait, because too much water hurts the roots.",
+   "outcome": 4
+  },
+  {
+   "t": "mcq",
+   "p": "Why is planting a tree good for the air near your home?",
+   "opts": [
+    "Its leaves catch dust and give out the oxygen we breathe",
+    "It makes the air hot",
+    "It gives out more litter"
+   ],
+   "a": 0,
+   "why": "Green leaves catch dust and give out oxygen, so the air feels clean and fresh. A tree also gives shade, so it does not make the air hotter.",
+   "outcome": 4
+  },
+  {
+   "t": "mcq",
+   "p": "You plant a small sapling in the park. What does it need first?",
+   "opts": [
+    "Water when the soil is dry, and care until it is strong",
+    "A thick woollen cloth",
+    "Nothing, since all plants grow by themselves"
+   ],
+   "a": 0,
+   "why": "A sapling is small and weak. It needs water when the soil is dry, and care, until its roots are strong.",
    "outcome": 4
   },
   {
@@ -1575,6 +1648,31 @@
      "art": "A lane with a neem tree, a cow by a gate, wrappers on the ground and a drain grill at the side of the road."
     },
     {
+     "t": "match",
+     "p": "Draw a line from each cause to what we can do about it.",
+     "pairs": [
+      [
+       "No bin near the bus stop",
+       "Ask for a bin, and keep the wrapper in your bag"
+      ],
+      [
+       "The bin is full",
+       "Tell a grown-up so it can be emptied"
+      ],
+      [
+       "Crows open the bag",
+       "Close the bag and tie it tight"
+      ],
+      [
+       "You are in a hurry",
+       "Stop and keep the wrapper in your pocket"
+      ]
+     ],
+     "a": "pairs as given",
+     "why": "Every cause of litter has something we can do. We do not have to wait for others to start.",
+     "art": "Four pictures on the left: a bus stop, a full bin, a crow at a bag and a running child. Four pictures on the right: a pocket, a grown-up with a broom, a tied bag and a hand holding a wrapper."
+    },
+    {
      "t": "write",
      "p": "Say it to a grown-up, who writes it down: why should we put a wrapper in a bin, and not on the road?",
      "lines": 2,
@@ -1687,6 +1785,13 @@
      "p": "We should water a potted plant every day, even when the soil is still wet.",
      "a": false,
      "why": "False. If the soil is still wet, more water fills the spaces in the soil and the roots cannot get air. Check with the finger test first."
+    },
+    {
+     "t": "write",
+     "p": "Say it to a grown-up, who writes it down: name two things a tree gives us, and one way we can look after a sapling.",
+     "lines": 3,
+     "a": "A tree gives shade and fresh air. We can look after a sapling by watering it when the soil is dry.",
+     "why": "A strong answer names two gifts, such as shade, fresh air, fruit or a home for birds. It also names one kind of care, such as water."
     },
     {
      "t": "fill",

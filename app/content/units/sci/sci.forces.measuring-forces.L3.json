@@ -176,7 +176,7 @@
    "concept": "Why two careful people get different numbers",
    "status": "defined",
    "definition": "A number means nothing without its unit. Six big coins and twelve small coins can be exactly the same pull.",
-   "description": "In the coin-pull test, you and a grown-up may get different numbers for the same notebook. Both of you can be right. You were counting different small pulls. To compare, you have to find how many of one unit make the other. It is like changing rupees into dollars. Now suppose every town used its own coins, buttons or stones. Nobody could compare a pull in Madurai with a pull in Patna. A builder could not order a rope strong enough for a bridge. That is why people agreed to share one unit of force.",
+   "description": "In the coin-pull test, you and a grown-up may get different numbers for the same notebook. Both of you can be right. You were counting different small pulls. To compare, you have to find how many of one unit make the other. It is like changing rupees into dollars. Now suppose every town used its own coins, buttons or stones. Nobody could compare a pull in Madurai with a pull in Patna. A builder could not order a rope strong enough for a bridge. That is why people agreed to share one unit of force. The same is true of length, mass and volume. Every shop in India measures cloth in metres, so a metre bought in Madurai is the same length as a metre bought in Patna. A litre of milk holds the same amount in Kochi as in Kolkata. A hand span or a cup from the kitchen would give a different answer in each house.",
    "examples": [
     "Suppose one five-rupee coin pulls as hard as two one-rupee coins. Then 6 big coins match 12 small ones.",
     "A grown-up's step is longer than yours. The room is the same, but the number of steps is not.",
@@ -3118,6 +3118,16 @@
      "p": "Draw a forcemeter. Label the hook, the spring, the pointer and the scale. Then draw the pointer where it would be for a pull of 2 newtons.",
      "a": "A tube with a spring inside and a hook at the bottom. A pointer is fixed to the spring, next to a scale numbered 0, 1, 2, 3 and so on. The pointer is drawn level with the 2.",
      "why": "A strong drawing shows that the pointer is joined to the spring, so it moves when the spring stretches. The 2 newton pointer should be further from 0 than the 1 mark."
+    },
+    {
+     "t": "fill",
+     "p": "Every shop in India measures cloth in ____, so a metre of cloth is the same length in Madurai and Patna.",
+     "a": [
+      "metres",
+      "metre",
+      "m"
+     ],
+     "why": "The metre is a standard unit. Every shop uses the same metre rod. A hand span would give a different length for each person, so it cannot be shared fairly."
     }
    ],
    "context": "This core worksheet checks the main ideas: your own coin unit, why everyone shares the newton, and how a forcemeter works and is read."
@@ -3548,6 +3558,18 @@
    ],
    "a": 0,
    "why": "A shared unit means a pull written in Chennai is the same pull when it is read in Pune. Without it, the factory could make parts that are too weak.",
+   "outcome": 1
+  },
+  {
+   "t": "mcq",
+   "p": "A tailor in Jaipur measures cloth with his hand span. A tailor in Kochi uses a metre rod. Why is the metre rod fairer to the customer?",
+   "opts": [
+    "Every metre rod is the same length, so a metre of cloth means the same in both shops",
+    "A metre rod is always heavier, so the cloth it measures is heavier",
+    "A hand span is always the right size for cloth"
+   ],
+   "a": 0,
+   "why": "A hand span is different for every person, so the cloth measured in Jaipur could be longer or shorter than the same cloth measured in Kochi. A metre is the same in every shop, so a customer gets the same length anywhere. The heavy rod and the 'always right' hand span are both wrong.",
    "outcome": 1
   },
   {

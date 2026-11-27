@@ -195,7 +195,8 @@
    "examples": [
     "A crow is a living thing, an animal and a backbone animal, but not a mammal.",
     "A tiger and a house cat share every box up to the cat family.",
-    "A neem tree shares only the first box with you: living thing."
+    "A neem tree shares only the first box with you: living thing.",
+    "The biggest boxes are plants, animals, fungi and bacteria. A neem tree makes food from sunlight, through green leaves. A crow eats seeds and insects. A mushroom feeds on dead leaves and wood."
    ],
    "perspectives": [],
    "art": "A set of round steel tiffin boxes nested inside each other, each labelled: living thing, animal, backbone animal, mammal, primate, ape, with a child's face in the smallest."
@@ -2346,6 +2347,19 @@
    "a": 1,
    "why": "Scientists used two kingdoms in 1735, five kingdoms in 1969 and three domains in 1990. They still argue about the biggest groups.",
    "outcome": 6
+  },
+  {
+   "t": "mcq",
+   "p": "A neem tree makes food from sunlight, through green leaves. Which big group is the neem tree in?",
+   "opts": [
+    "Plants",
+    "Animals",
+    "Fungi",
+    "Bacteria"
+   ],
+   "a": 0,
+   "why": "Plants make food from sunlight. Animals eat other living things, fungi feed on things around them, and bacteria are single tiny cells.",
+   "outcome": 2
   }
  ],
  "worksheets": [
@@ -2487,6 +2501,36 @@
      "a": "order shown",
      "why": "Each group sits inside the one before. Every primate is a mammal, every mammal has a backbone, every backbone animal is an animal, and every animal is a living thing.",
      "how": "a1"
+    },
+    {
+     "t": "sort",
+     "p": "Sort these into the big groups: plants, animals, fungi or bacteria.",
+     "cats": [
+      "Plants",
+      "Animals",
+      "Fungi",
+      "Bacteria"
+     ],
+     "items": [
+      [
+       "tulsi",
+       "Plants"
+      ],
+      [
+       "a goat",
+       "Animals"
+      ],
+      [
+       "yeast",
+       "Fungi"
+      ],
+      [
+       "curd bacteria",
+       "Bacteria"
+      ]
+     ],
+     "a": "see items",
+     "why": "Tulsi makes food from sunlight. A goat eats plants. Yeast feeds on sugar, like other fungi. Curd bacteria are single tiny cells."
     },
     {
      "t": "mcq",

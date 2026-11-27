@@ -50,7 +50,7 @@ In the coin-pull test, each coin of one kind pulls down on the cup by the same a
 ### Why two careful people get different numbers · *defined*
 **Definition:** A number means nothing without its unit. Six big coins and twelve small coins can be exactly the same pull.
 
-In the coin-pull test, you and a grown-up may get different numbers for the same notebook. Both of you can be right. You were counting different small pulls. To compare, you have to find how many of one unit make the other. It is like changing rupees into dollars. Now suppose every town used its own coins, buttons or stones. Nobody could compare a pull in Madurai with a pull in Patna. A builder could not order a rope strong enough for a bridge. That is why people agreed to share one unit of force.
+In the coin-pull test, you and a grown-up may get different numbers for the same notebook. Both of you can be right. You were counting different small pulls. To compare, you have to find how many of one unit make the other. It is like changing rupees into dollars. Now suppose every town used its own coins, buttons or stones. Nobody could compare a pull in Madurai with a pull in Patna. A builder could not order a rope strong enough for a bridge. That is why people agreed to share one unit of force. The same is true of length, mass and volume. Every shop in India measures cloth in metres, so a metre bought in Madurai is the same length as a metre bought in Patna. A litre of milk holds the same amount in Kochi as in Kolkata. A hand span or a cup from the kitchen would give a different answer in each house.
 - e.g. Suppose one five-rupee coin pulls as hard as two one-rupee coins. Then 6 big coins match 12 small ones.
 - e.g. A grown-up's step is longer than yours. The room is the same, but the number of steps is not.
 - e.g. Old Indian markets used the ser. But a ser in one town was often not the same as a ser in the next.
@@ -742,7 +742,7 @@ That season, every porter put a few rupees into a tin. At the end of the summer,
   - Think: Who should be allowed to check the scales: the shopkeeper, the buyers, or someone else?
 
 ## Worksheets
-### How Big Is a Pull? (core) (core, 15 questions)
+### How Big Is a Pull? (core) (core, 16 questions)
 1. (mcq) In the coin-pull test, you use only five-rupee coins, never a mix of coins. Why does that matter?  
    Options: Each five-rupee coin pulls the same amount, so every coin is the same-sized step / Five-rupee coins are shinier / A mix of coins would make the notebook heavier / It does not matter at all  
    **Answer:** Each five-rupee coin pulls the same amount, so every coin is the same-sized step. *Why:* A unit must be the same size every time, like every centimetre on a ruler. Coins of one kind all pull about the same. A mix of big and small coins pulls by different amounts, so counting them tells you nothing. Picking 'the notebook gets heavier' mixes up the cup's pull with the notebook.
@@ -778,6 +778,8 @@ That season, every porter put a few rupees into a tin. At the end of the summer,
    **Answer:** About 6 newtons. *Why:* Each apple adds about 1 newton, so 6 apples pull with about 6 newtons. Picking 60 or 600 means the newton was imagined much smaller than it is. A newton is a small force, about one apple.
 15. (draw) Draw a forcemeter. Label the hook, the spring, the pointer and the scale. Then draw the pointer where it would be for a pull of 2 newtons.  
    **Answer:** A tube with a spring inside and a hook at the bottom. A pointer is fixed to the spring, next to a scale numbered 0, 1, 2, 3 and so on. The pointer is drawn level with the 2.. *Why:* A strong drawing shows that the pointer is joined to the spring, so it moves when the spring stretches. The 2 newton pointer should be further from 0 than the 1 mark.
+16. (fill) Every shop in India measures cloth in ____, so a metre of cloth is the same length in Madurai and Patna.  
+   **Answer:** ['metres', 'metre', 'm']. *Why:* The metre is a standard unit. Every shop uses the same metre rod. A hand span would give a different length for each person, so it cannot be shared fairly.
 ### Read It, Check It (stretch) (stretch, 15 questions)
 1. (write) In the water-pull activity, you started a notebook sliding with water instead of coins. Why can a child in Kochi repeat a water test exactly, but not a coin test?  
    **Answer:** Her coins may be different from mine, so her 'coin' could be a different size. But 100 millilitres of water is the same everywhere. Anyone with a measuring jug can pour exactly the same amount.. *Why:* A strong answer says that a shared unit must be the same for everyone, and that water measured in a jug is the same in every home.
@@ -864,37 +866,40 @@ That season, every porter put a few rupees into a tin. At the end of the summer,
 2. (mcq) A bridge builder in Chennai sends her numbers to a factory in Pune. Why must both of them use newtons?  
    Options: So the numbers mean the same thing in both places / Because newtons are cheaper / Because Chennai is bigger than Pune  
    **Answer:** So the numbers mean the same thing in both places. *Why:* A shared unit means a pull written in Chennai is the same pull when it is read in Pune. Without it, the factory could make parts that are too weak.
-3. (mcq) Which of these pulls down on your hand with about 1 newton?  
+3. (mcq) A tailor in Jaipur measures cloth with his hand span. A tailor in Kochi uses a metre rod. Why is the metre rod fairer to the customer?  
+   Options: Every metre rod is the same length, so a metre of cloth means the same in both shops / A metre rod is always heavier, so the cloth it measures is heavier / A hand span is always the right size for cloth  
+   **Answer:** Every metre rod is the same length, so a metre of cloth means the same in both shops. *Why:* A hand span is different for every person, so the cloth measured in Jaipur could be longer or shorter than the same cloth measured in Kochi. A metre is the same in every shop, so a customer gets the same length anywhere. The heavy rod and the 'always right' hand span are both wrong.
+4. (mcq) Which of these pulls down on your hand with about 1 newton?  
    Options: A small apple / A school bag full of books / A feather  
    **Answer:** A small apple. *Why:* A small apple of about 100 grams pulls with about 1 newton. A full school bag is more like 30 or 40 newtons. A feather is far less than 1 newton.
-4. (mcq) The newton is named after Isaac Newton. Who decided how big one newton is?  
+5. (mcq) The newton is named after Isaac Newton. Who decided how big one newton is?  
    Options: People agreed on it together, using the kilogram, the metre and the second / Newton measured it inside an apple / Nature made it that size  
    **Answer:** People agreed on it together, using the kilogram, the metre and the second. *Why:* The newton is an agreement between people. It was named in 1948, long after Newton died in 1727. Picking 'nature' mixes up the force, which is real, with the unit we count it in, which people chose.
-5. (mcq) On this forcemeter, the numbers go 0, 5, 10, 15, 20. Each small mark is 1 newton. What is the reading?  
+6. (mcq) On this forcemeter, the numbers go 0, 5, 10, 15, 20. Each small mark is 1 newton. What is the reading?  
    Options: 13 newtons / 3 newtons / 15 newtons  
    **Answer:** 13 newtons. *Why:* The pointer is 3 small marks past 10, and each mark is 1 newton, so it reads 13 newtons. Picking 3 means only the small marks were counted. Picking 15 means the reading was rounded to the nearest number.
-6. (mcq) A boy reads a forcemeter from far below, looking up at the pointer. What can go wrong?  
+7. (mcq) A boy reads a forcemeter from far below, looking up at the pointer. What can go wrong?  
    Options: The pointer looks shifted, so he may read the wrong mark / The spring stretches more / Nothing can go wrong  
    **Answer:** The pointer looks shifted, so he may read the wrong mark. *Why:* Looking from below or above makes the pointer seem to sit on a different mark. Reading with your eyes level with the pointer gives the true reading.
-7. (mcq) Why does a forcemeter use a spring, and not a stiff steel rod?  
+8. (mcq) Why does a forcemeter use a spring, and not a stiff steel rod?  
    Options: A spring stretches more for a bigger pull, so the pointer can show the size / A rod would be too heavy / Springs are prettier  
    **Answer:** A spring stretches more for a bigger pull, so the pointer can show the size. *Why:* The stretch is what shows the size of the pull. A stiff rod would hardly stretch at all, so the pointer would not move.
-8. (mcq) A spring stretches 2 centimetres when it is pulled with 1 newton. How far does it stretch for 3 newtons, inside its range?  
+9. (mcq) A spring stretches 2 centimetres when it is pulled with 1 newton. How far does it stretch for 3 newtons, inside its range?  
    Options: 6 centimetres / 3 centimetres / 2 centimetres  
    **Answer:** 6 centimetres. *Why:* Each newton adds about 2 centimetres, so 3 newtons give 3 times 2, which is 6 centimetres. Robert Hooke found this rule in 1678. Picking 3 means the newtons were read as centimetres.
-9. (mcq) Before the coin-pull test, you guessed how many coins you would need, and said why. Why say a reason, not just a number?  
+10. (mcq) Before the coin-pull test, you guessed how many coins you would need, and said why. Why say a reason, not just a number?  
    Options: So after the test you can see whether your reason was right / To make the test take longer / Because a reason changes the result  
    **Answer:** So after the test you can see whether your reason was right. *Why:* A guess with a reason can be checked. If the result surprises you, your reason was wrong somewhere, and you learn what to think again.
-10. (mcq) A girl tests two notebooks. She slides the thin one on a smooth table, and the thick one on a rough mat. What is unfair about her test?  
+11. (mcq) A girl tests two notebooks. She slides the thin one on a smooth table, and the thick one on a rough mat. What is unfair about her test?  
    Options: She changed two things at once, so she can't tell which one made the difference / Nothing is unfair / She should use more coins  
    **Answer:** She changed two things at once, so she can't tell which one made the difference. *Why:* In a fair test, you change only one thing. She changed the notebook and the surface, so if the numbers differ, she can't say why.
-11. (mcq) On the Moon, a bathroom scale shows a 30 kilogram girl as about 5 kilograms. Did she lose 25 kilograms of her body?  
+12. (mcq) On the Moon, a bathroom scale shows a 30 kilogram girl as about 5 kilograms. Did she lose 25 kilograms of her body?  
    Options: No. The scale shows her push, and the Moon pulls her less / Yes, the Moon makes people smaller / The scale must be broken  
    **Answer:** No. The scale shows her push, and the Moon pulls her less. *Why:* A bathroom scale measures how hard you push down on it. The Moon pulls about one sixth as hard, so she pushes about one sixth as hard. All of her is still there.
-12. (mcq) You press your palm on a table. Deep down, what pushes your hand back?  
+13. (mcq) You press your palm on a table. Deep down, what pushes your hand back?  
    Options: The electrons in the table push away the electrons in your hand / Tiny springs inside the table / Air trapped under your hand  
    **Answer:** The electrons in the table push away the electrons in your hand. *Why:* Electrons push other electrons away. So your hand and the table push apart, and that push is what you feel. Picking 'tiny springs' is a fair picture, but the real spring is the electric push between atoms.
-13. (mcq) Which of these do scientists still not know?  
+14. (mcq) Which of these do scientists still not know?  
    Options: What gravity really is, deep down / How to measure a pull in newtons / Whether a spring stretches when it is pulled  
    **Answer:** What gravity really is, deep down. *Why:* Measuring forces is well understood. What gravity is, deep down, is still an open question. Newton, Einstein and physicists today give different answers.
 

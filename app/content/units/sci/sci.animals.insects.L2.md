@@ -21,6 +21,7 @@
 - **Spider**: A spider is a small animal with eight legs and a body in two parts. Spiders are not insects. *e.g.* The thin-legged spider in the bathroom corner has eight legs. Count them: four on each side.
 - **Silk**: Silk is a strong, thin thread that some animals make inside their bodies. Spiders make silk, and so do silkworms. *e.g.* A spider's web is made of silk. A Kanchipuram silk saree is made from the silk of silkworms.
 - **Earthworm**: An earthworm is a long, soft animal with no legs, whose body is made of many rings. Earthworms live in damp soil. *e.g.* After the first rain of the monsoon, earthworms often come up out of the soil onto the path.
+- **Termite**: A small insect that lives in a big family, eats dead plants and wood, and often lives in soil or in a mound. *e.g.* After the first monsoon rains, winged termites rise from the ground, fly to find a mate and start a new family.
 - **Colony**: A colony is a big family of animals who live together and share the work. Ants and honeybees live in colonies. *e.g.* One ant colony can have thousands of ants. Almost all of them are sisters, and one or more queens lay the eggs.
 
 ## Explanations
@@ -42,7 +43,7 @@ Count a spider's legs and you get eight, four on each side. A spider's body has 
 ### A worm has no legs · *defined*
 **Definition:** An earthworm has no legs. Muscles squeeze and stretch the body, and tiny bristles grip the soil.
 
-An earthworm's body is made of many rings, with muscles under the skin. First the front end gets long and thin and pushes forward. Then the body gets short and fat, and pulls the back end along. On each ring there are tiny stiff hairs called bristles. They grip the soil so the worm does not slide back. Earthworms breathe through their skin, so the skin must stay damp.
+An earthworm's body is made of many rings, with muscles under the skin. First the front end gets long and thin and pushes forward. Then the body gets short and fat, and pulls the back end along. On each ring there are tiny stiff hairs called bristles. They grip the soil so the worm does not slide back. Earthworms breathe through their skin, so the skin must stay damp. Many other creatures live in the soil too. Ants, termites and beetles dig there, and some are too small to see. Grasshoppers lay their eggs in the soil. After the first monsoon rains, winged termites fly up out of the ground in a swarm.
 - e.g. Earthworms in the soil of a big potted plant.
 - e.g. Earthworms on a wet path after the first monsoon rain.
 - e.g. Earthworms in a vermicompost bin, turning vegetable peels into soil.
@@ -446,7 +447,7 @@ Meenakshi looked at the biscuit tin. 'I don't know,' she said. 'But I can find o
    **Answer:** A strong answer picks one view and gives a reason. The mother is right that house spiders catch mosquitoes and flies. The girl is right that her feelings matter. The aunt finds a way that helps both the girl and the spider.. *Why:* Common house spiders are not dangerous and they catch insects. Moving a spider gently, or leaving her, both avoid harming her.
 10. (fill) Ants and honeybees live together in big families called ________.  
    **Answer:** colonies. *Why:* A colony is a big family who live together and share the work. In an ant colony, nearly all the ants are sisters.
-### Looking Closer (stretch) (stretch, 10 questions)
+### Looking Closer (stretch) (stretch, 11 questions)
 1. (odd) Three of these are insects. Which one is not?  
    Options: A mosquito / A cockroach / A spider / A ladybird beetle  
    **Answer:** 2. *Why:* A spider has eight legs and two body parts, so a spider is not an insect. The others all have six legs.
@@ -469,6 +470,8 @@ Meenakshi looked at the biscuit tin. 'I don't know,' she said. 'But I can find o
    **Answer:** This is partly right. For their size, ants are very strong: they carry crumbs bigger than their heads. But an elephant can lift a much heavier log than any ant. The answer depends on whether you compare the load with the size of the animal.. *Why:* A strong answer says ants are strong for their size, but not the strongest in total, and explains the difference.
 10. (fill) The two feelers on an insect's head are called ________.  
    **Answer:** antennae. *Why:* Antennae are the two feelers on an insect's head. Insects smell and touch with them.
+11. (sort) Sort these creatures: do they spend most of their lives in the soil, or in the air and on plants?  
+   **Answer:** termite → Mostly in the soil; earthworm → Mostly in the soil; butterfly → Mostly in the air or on plants; honeybee → Mostly in the air or on plants; grasshopper → Mostly in the air or on plants. *Why:* Termites and earthworms spend most of their lives in the soil. Butterflies, bees and grasshoppers live on plants and in the air, though a grasshopper lays its eggs in the soil.
 ### Small and Strong (challenge) (challenge, 10 questions)
 1. (perspective) A girl lives in a flat in Mysuru. A line of ants walks from a crack in the kitchen wall to the sugar tin.  
    **Answer:** A strong answer picks a view and gives a reason. The grandmother is right that food must stay clean. The girl is right that the ants are doing their own work and mean no harm. The mother's way keeps food clean without killing ants, by removing what draws them.. *Why:* Ants come where they find food. Closing tins and wiping crumbs works well, and is kinder than spray. Some chalks sold for ants have poison in them, so they must be kept away from children.
@@ -529,6 +532,9 @@ Meenakshi looked at the biscuit tin. 'I don't know,' she said. 'But I can find o
 10. (mcq) What does a honeybee's dance tell her sisters?  
    Options: That she is tired / Which way to fly, and how far, to find flowers / That it will rain  
    **Answer:** Which way to fly, and how far, to find flowers. *Why:* The waggle dance shows which way to fly and how far. A bee learns where the flowers are, and tells her sisters.
+11. (mcq) After the first monsoon rains, winged termites fly up out of the ground. Why?  
+   Options: To find a mate and start a new family / To escape the rain and drown / To drink from the puddles  
+   **Answer:** To find a mate and start a new family. *Why:* Winged termites fly out to find a mate and start a new colony. Most of them are eaten by birds and lizards before they manage it. They are not trying to escape the rain, and puddles are not their reason to fly.
 
 ## Applications
 - Farmers in many parts of India keep honeybee boxes near crops like mustard, sunflower and coffee. The bees carry pollen from flower to flower, which helps the plants make seeds and fruit.

@@ -268,7 +268,8 @@
    "examples": [
     "Kanyakumari: about 12 hours 36 minutes on 21 June and 11 hours 39 minutes on 21 December.",
     "Delhi: about 13 hours 59 minutes on 21 June and 10 hours 20 minutes on 21 December.",
-    "In Tromso in Norway the Sun stays up all night from about 20 May to 22 July."
+    "In Tromso in Norway the Sun stays up all night from about 20 May to 22 July.",
+    "At the North Pole the Sun stays low in the sky, so its rays arrive at a slant. The ground stays cold, even on the long summer day."
    ],
    "perspectives": [
     {
@@ -1404,7 +1405,7 @@
      "qty": 1
     }
    ],
-   "record": "Keep the wheel on a wall. Through the year, write the real date each time one of your seasons begins.",
+   "record": "Keep the wheel on a wall. Through the year, write the real date each time one of your seasons begins. Also keep a seasons journal: once in each season, on the same day, write one entry under five themes: plants, animals, weather, water and people.",
    "setup": [
     {
      "art": "A large circle drawn on paper and divided lightly into twelve months round the rim.",
@@ -2585,6 +2586,41 @@
      "outcome": 3
     },
     {
+     "t": "sort",
+     "p": "Sort these journal notes into the five themes: plants, animals, weather, water and people.",
+     "cats": [
+      "Plants",
+      "Animals",
+      "Weather",
+      "Water",
+      "People"
+     ],
+     "items": [
+      [
+       "the mango trees are in flower",
+       "Plants"
+      ],
+      [
+       "a koel calls at dawn",
+       "Animals"
+      ],
+      [
+       "a cool wind comes after the hot dry spell",
+       "Weather"
+      ],
+      [
+       "the village well is low",
+       "Water"
+      ],
+      [
+       "the family gathers for a cousin's wedding",
+       "People"
+      ]
+     ],
+     "a": "see items",
+     "why": "Each note tells you about one theme only. A flowering tree is about plants, a calling bird is about animals, and a cool wind is about weather."
+    },
+    {
      "t": "write",
      "p": "In June the noon shadow of a pole in Chennai points south. Explain why.",
      "lines": 3,
@@ -3030,6 +3066,19 @@
   },
   {
    "t": "mcq",
+   "p": "The Sun stays up for about six months at the North Pole. Why is the pole still very cold?",
+   "opts": [
+    "The Sun never rises there",
+    "Its rays arrive at a slant and spread thin over the ground",
+    "The pole is the farthest place from the Sun",
+    "The Sun's day is short there"
+   ],
+   "a": 1,
+   "why": "The Sun does rise there in spring, and it stays up all summer. But it stays low in the sky, so its light spreads over a wide patch of ground. The pole is not the farthest place from the Sun, and the Sun's day is long there, not short.",
+   "outcome": 4
+  },
+  {
+   "t": "mcq",
    "p": "What is a monsoon?",
    "opts": [
     "Any heavy rain",
@@ -3066,6 +3115,19 @@
    "a": 1,
    "why": "Pongal follows the stars. Precession slowly shifts the stars behind the Sun, about one day in 70 years.",
    "outcome": 7
+  },
+  {
+   "t": "mcq",
+   "p": "A seasons journal has five themes: plants, animals, weather, water and people. Which theme does this entry fit? 'The tap ran dry in April and is running again in July.'",
+   "opts": [
+    "Plants",
+    "Water",
+    "Weather",
+    "People"
+   ],
+   "a": 1,
+   "why": "That note is about water in the tap. A note about heat or wind would go under weather, and a note about who came to the house would go under people.",
+   "outcome": 6
   }
  ],
  "videos": [

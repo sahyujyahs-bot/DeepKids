@@ -27,6 +27,7 @@
 - **Weave**: To cross threads over and under each other to make cloth. *e.g.* A weaver on a handloom weaves thread into a sari.
 - **Kiln**: A very hot oven for baking clay. Baking makes soft clay into hard pottery and bricks. *e.g.* Bricks are baked in a brick kiln with a tall chimney.
 - **Furnace**: A very hot fire inside a closed chamber. It is hot enough to melt sand into glass, or ore into metal. *e.g.* Glass bangles in Firozabad are made from glass melted in furnaces.
+- **Alloy**: A mixture of metals, melted together and cooled. It is often stronger or harder than one metal alone. *e.g.* Brass is copper and zinc. Bronze is copper and tin.
 - **Petroleum (crude oil)**: A thick, dark oil found deep under the ground and the sea floor. It formed over millions of years from tiny living things in the sea. Most plastic is made from it, and from natural gas. *e.g.* Petrol for scooters and the plastic of a bucket both come from petroleum.
 - **Plastic**: A made material that can be shaped when it is soft and warm, then sets hard. Most plastic is made from petroleum and natural gas. *e.g.* Buckets, toothbrushes and pens are usually plastic.
 - **Synthetic**: Made by people through chemistry, by joining atoms into new patterns. Many synthetic materials are not found in nature at all. *e.g.* Nylon and polyester are synthetic fibres. Cotton and silk are natural fibres.
@@ -93,8 +94,10 @@ Every plant is made of tiny boxes called cells. The walls of these cells are mad
 ### Materials from deep in the ground: metals, sand, clay and oil · *defined*
 **Definition:** Metals come from ores, rocks with metal inside. Glass comes from sand. Bricks and pots come from clay. Most plastic comes from petroleum and natural gas.
 
-Metals hide inside ores. People dig the ore out of mines and heat it in a furnace until the metal comes out. Most steel is iron with a little carbon. A steel tumbler or spoon is stainless steel, which also has chromium mixed in, so it does not rust. Clay is a kind of soil with very tiny grains. It becomes sticky when wet, and hard when baked. Petroleum is a thick, dark oil from deep underground. It formed over millions of years from tiny living things in ancient seas. They were buried in mud and slowly squeezed and warmed. So most plastic is made from the remains of living things that died millions of years ago.
+Metals hide inside ores. People dig the ore out of mines and heat it in a furnace until the metal comes out. Most steel is iron with a little carbon. A steel tumbler or spoon is stainless steel, which also has chromium mixed in, so it does not rust. Clay is a kind of soil with very tiny grains. It becomes sticky when wet, and hard when baked. Petroleum is a thick, dark oil from deep underground. It formed over millions of years from tiny living things in ancient seas. They were buried in mud and slowly squeezed and warmed. So most plastic is made from the remains of living things that died millions of years ago. Many metals are used as alloys. An alloy is a mixture of metals, melted together and cooled. It is often stronger or harder than any one of the metals alone. Brass is copper mixed with zinc. Bronze is copper mixed with tin. People in India have made bronze for thousands of years.
 - e.g. Bauxite, a reddish ore from Odisha and other states, gives aluminium for pressure cookers and foil.
+- e.g. Copper is dug as ore in places like Khetri in Rajasthan and Singhbhum in Jharkhand. Gold is rarer. It is often found as tiny shining specks in rock and river sand.
+- e.g. The brass plate on a puja thali is an alloy of copper and zinc. A bronze bell is copper and tin.
 - e.g. Sand from riverbeds and quarries is melted into glass.
 - e.g. A plastic bucket started as oil pumped up from deep underground or under the sea.
 - e.g. A 'tin' can is mostly steel, with a very thin coat of tin to stop it rusting.
@@ -512,6 +515,11 @@ She did not sell it. She gave a pinch to everyone who passed.
   *Parent says:* Which materials changed most? Were the old ones natural or made by people? Which could go back to the Earth more easily?  
   *Child mode:* Look at THEN and NOW. Which things changed most? Which could go back to the Earth?
   - Think: Which old material would you bring back, and why?
+- **s4 (5 min)**  
+  *Parent does:* If you can, ask one more person: someone who makes or sells things, such as a potter, a carpenter, a tailor or the shopkeeper who sells pencils and notebooks. Ask: What is this made of? Where does that material come from? Who made it before it reached you?  
+  *Parent says:* A pencil or a notebook looks simple. But many people worked on it. A craftsperson or a shopkeeper often knows things that books do not.  
+  *Child mode:* Ask a maker or a shopkeeper: What is a pencil or a notebook made of? Where does it come from? Who made it? Write down what they say in their own words.
+  - Note: You do not need a perfect answer. If they say 'wood and graphite' or 'paper from trees', that is good. Write down what they said, and what they did not know. It is fine to say 'I do not know' too.
 ### a4 · The Material Map of India (25 min)
 - **record:** A labelled map with at least 8 materials marked where they come from.
 - **s1 (4 min)**  
@@ -600,10 +608,10 @@ She did not sell it. She gave a pinch to everyone who passed.
   - Note: If the water on top is still muddy, the clay is still sinking. Wait another day before pouring. Clay is slow to settle, and some soils have very little of it, so this step can fail. A lemon-sized ball needs a good handful of clay. If you have less, make a smaller diya. If your soil has hardly any clay, buy a small packet of potter's clay and mix it in. Riverbank and field soil often has plenty. Clay in a cloth takes about a day to firm up. If it is still sticky on day 3, leave it a few hours more before you knead it.
   - Check: In the bottle, why is the clay on the top? → **Clay grains are the tiniest, so they sink last**
 - **s3 (15 min)**  
-  *Parent does:* 1. Knead the clay until it is smooth and does not crack when bent. 2. Roll a ball the size of a lemon. 3. Press your thumb in the middle and pinch the sides up into a cup. 4. Pinch one side into a spout for a wick. 5. Weigh the wet diya on the kitchen scale and write the number.  
+  *Parent does:* 1. Knead the clay until it is smooth and does not crack when bent. 2. Roll a ball the size of a lemon. 3. Press your thumb in the middle and pinch the sides up into a cup. 4. Pinch one side into a spout for a wick. 5. Weigh the wet diya on the kitchen scale and write the number. 6. While the clay is still soft, press patterns into the rim and sides with a toothpick, a fingertip or a small leaf: dots, lines, or a row of tiny petals.  
   *Parent says:* Potters in India have shaped diyas like this for thousands of years. At Harappa and Mohenjo-daro, people baked clay pots more than 4,000 years ago.  
   *Child mode:* Knead the clay smooth. Roll a ball. Push your thumb in. Pinch up the sides. Make a spout. Weigh it!
-  - Note: If it cracks, it is too dry, so wet your fingers. If it sags, it is too wet, so let it firm up for an hour.
+  - Note: If it cracks, it is too dry, so wet your fingers. If it sags, it is too wet, so let it firm up for an hour. Patterns must go on while the clay is soft. Dry clay crumbles instead of taking a mark. Potters and families across India decorate pots this way, so let your child choose the pattern. If your child enjoys it, a gullak, a clay money pot, is a good next try: pinch two small bowls, join the rims with a little wet clay, and cut a coin slot while the clay is soft. Let it dry slowly in the shade, as with the diya.
 - **s4 (2 min)**  
   *Parent does:* Put the diya in a shady, airy place. Drying too fast in the sun can crack it.  
   *Parent says:* Now we wait. The water inside will slowly go into the air.  
@@ -666,7 +674,7 @@ She did not sell it. She gave a pinch to everyone who passed.
   - Think: Is the best swap the one that is most natural, the one that lasts longest, or the one people will really use?
 
 ## Worksheets
-### Material Detective (core) (core, 16 questions)
+### Material Detective (core) (core, 17 questions)
 1. (mcq) An old brown clay flower pot is dropped and breaks into small pieces. What are the pieces made of?  
    Options: Baked clay / Flower pot / Small pots / Soil and seeds  
    **Answer:** Baked clay. *Why:* The flower pot is the object. Baked clay is the material, what it is made of. Breaking an object changes its shape, not its material. A strong answer names the material, not the object.
@@ -704,7 +712,9 @@ She did not sell it. She gave a pinch to everyone who passed.
    **Answer:** A coconut that fell from a tree. *Why:* The fallen coconut is just as it grew. The mat, the oil and the spoon were all made by people from parts of a coconut. A strong answer asks: did a person cut, press, spin or shape it?
 16. (write) Name one material that a plant makes and one that an animal makes. Say what people use each one for.  
    **Answer:** For example: a cotton plant makes cotton fluff, which people spin into thread for clothes. Silkworms make silk, which people weave into saris.. *Why:* A strong answer gives a real material, the living being who made it, and a real use.
-### Journeys and Makers (stretch) (stretch, 16 questions)
+17. (match) Match each alloy to the metals mixed to make it.  
+   **Answer:** brass → copper and zinc; bronze → copper and tin; stainless steel → iron with a little carbon and chromium. *Why:* An alloy is a mixture, and each one has its own recipe. Steel is mostly iron, with carbon and sometimes chromium added to keep it from rusting.
+### Journeys and Makers (stretch) (stretch, 17 questions)
 1. (mcq) Look at the chart from the salt experiment. Suppose you put a third plate of the same salty water in the shade, under a fan. When would it dry?  
    Options: Sooner than the plate in still shade, because moving air helps water leave / After more than 3 days / Never / Exactly 1 day, because it is the same water  
    **Answer:** Sooner than the plate in still shade, because moving air helps water leave. *Why:* Moving air carries away the water that has gone into the air, so more can leave. But the fan does not warm it like the sun. So it would dry sooner than the plate in still shade. Whether it beats the sunny plate is harder to say, so you would test it. A strong answer is a reasoned guess, then a test.
@@ -743,7 +753,9 @@ She did not sell it. She gave a pinch to everyone who passed.
 16. (mcq) Silk is strong and smooth, but it is costly. Why might people want to invent a made material like nylon?  
    Options: It can do some of silk's jobs, like stockings and ropes, for less money / Silkworms had all died / Nylon grows faster than cotton / Nylon rots away quickly  
    **Answer:** It can do some of silk's jobs, like stockings and ropes, for less money. *Why:* Nylon was made to copy some of silk's properties, like being strong and smooth, at a lower cost. 'Nylon rots away quickly' is the opposite of the truth. Nylon is made from petroleum and lasts a very long time.
-### Stardust and Tricky Cases (challenge) (challenge, 15 questions)
+17. (truefalse) A dot pressed into soft clay will still be there after the clay dries.  
+   **Answer:** True. *Why:* True. Soft clay keeps the mark, and drying does not remove it. Pressing on dry clay is different, because it crumbles.
+### Stardust and Tricky Cases (challenge) (challenge, 16 questions)
 1. (write) Sugar and the wood of a spoon are both built from the same three kinds of atom: carbon, hydrogen and oxygen. So why is sugar sweet and crumbly, while wood is hard?  
    **Answer:** A strong answer says the atoms are the same kinds, but they are joined in different patterns. Different patterns make different materials, with different properties. A sugarcane plant builds sugar in one pattern, and a tree builds wood in another.. *Why:* There are no 'sugar atoms' or 'wood atoms'. The pattern is what makes the difference.
 2. (truefalse) When you cook a dosa, the atoms in the batter are destroyed and new atoms are made.  
@@ -780,6 +792,8 @@ She did not sell it. She gave a pinch to everyone who passed.
 15. (mcq) Paper can be recycled again and again, but only about five to seven times. Why does it stop working after that?  
    Options: The plant fibres get shorter and weaker each time, so they cannot grip each other / The atoms in the paper get used up / The ink turns into glue / Old paper cannot be mashed with water  
    **Answer:** The plant fibres get shorter and weaker each time, so they cannot grip each other. *Why:* Mashing, pressing and drying break the plant fibres into shorter pieces. Short fibres grip less well, so the paper gets weaker, until it is too weak to recycle. The atoms are never used up. A strong answer says what happens to the fibres.
+16. (write) Ask a craftsperson or an older person how a pencil or a notebook is made. Write what they told you, and one thing they did not know.  
+   **Answer:** For example: the shopkeeper said a notebook is paper from trees, stitched together by a factory. He did not know which forest the trees came from.. *Why:* A good answer uses the person's own words, and also notes what is still unknown. Nobody knows the whole journey of a thing, which is why many hands matter.
 
 ## Videos
 - **What really happens to the plastic you throw away** (TED-Ed (Emma Bryce), 5 min) id `_6xlNyWPpB8`: An animated story of three plastic bottles: one buried, one burned and one in the sea. It shows that a made material has to go somewhere when we are done with it. Best watched with a grown-up, after the Swap the Plastic challenge. *Check:* Preview it first to make sure it suits your child.
@@ -829,6 +843,15 @@ She did not sell it. She gave a pinch to everyone who passed.
 14. (mcq) Who dug up the iron ore that became your steel kadai?  
    Options: Miners, in places like Odisha and Jharkhand / Nobody, because steel is found ready-made / The shopkeeper who sold it / Only machines, with no people  
    **Answer:** Miners, in places like Odisha and Jharkhand. *Why:* Most of India's iron ore is dug in Odisha, Jharkhand, Chhattisgarh and Karnataka, by miners we never see. It is not 'only machines', because people drive and fix the machines. Steel is not found ready-made, because iron must be melted out of rock.
+15. (mcq) Why is bronze called an alloy?  
+   Options: It is copper and tin melted together / It is one pure metal dug from the ground / It is a rock with metal inside / It is a plastic made to look like metal  
+   **Answer:** It is copper and tin melted together. *Why:* An alloy is a mixture of metals. Bronze is copper mixed with tin. A rock with metal inside is an ore, and bronze is made from metals that were already taken out of their ores. A pure metal is only one kind, so it is not an alloy.
+16. (mcq) Meera wants a pattern of dots on her clay diya. When is the best time to press the dots in?  
+   Options: While the clay is soft and damp / After the diya is completely dry / Only after it is baked in a kiln / It does not matter, clay always takes a mark  
+   **Answer:** While the clay is soft and damp. *Why:* Soft clay takes a mark easily and keeps it when it dries. Dry clay crumbles or cracks if you press it. Baked clay is as hard as a brick, so a toothpick leaves nothing. That is why potters decorate before drying.
+17. (mcq) You visit a carpenter in your lane and want to learn about wood. Which question will teach you most about where the wood came from?  
+   Options: Which kind of tree gave this wood, and where did the tree grow? / How much does it cost? / Is it a nice day? / Do you like this chair?  
+   **Answer:** Which kind of tree gave this wood, and where did the tree grow?. *Why:* This question asks about the source, which is what this lesson traces. Price and opinions are fair questions, but they do not tell you where the material came from. The other answer is not about wood at all.
 
 ## Applications
 - Farmers grow cotton, jute and silk for cloth, and rubber trees for tyres and chappals.

@@ -153,11 +153,12 @@
    "concept": "Digging rock and sand out of the land",
    "status": "debated",
    "definition": "",
-   "description": "People dig rock out of quarries and scoop sand from river beds to build homes, roads, bridges and schools. A quarry can turn a hill with trees into a deep pit. The birds, insects and other animals who lived there lose their home. Too much sand taken from a river makes the river bed deeper. Then the banks can fall in and nearby wells can dry up. People argue about how much digging is fair.",
+   "description": "People dig rock out of quarries and scoop sand from river beds to build homes, roads, bridges and schools. A quarry can turn a hill with trees into a deep pit. The birds, insects and other animals who lived there lose their home. Too much sand taken from a river makes the river bed deeper. Then the banks can fall in and nearby wells can dry up. People argue about how much digging is fair. Pebbles and gravel for building are dug from river beds too, along with sand.",
    "examples": [
     "Granite quarries in Karnataka and Tamil Nadu.",
     "Sand taken from river beds for building in many states.",
-    "An old quarry that has filled with rain and become a lake, where birds now come."
+    "An old quarry that has filled with rain and become a lake, where birds now come.",
+    "Pebbles and gravel dug from river beds to make concrete for houses and roads."
    ],
    "perspectives": [
     {
@@ -1450,6 +1451,12 @@
      "why": "True. Rock that is knocked and rubbed for a long time breaks into tiny grains. Most sand grains are bits of rock, often quartz."
     },
     {
+     "t": "fill",
+     "p": "Pebbles and gravel for building are often dug out of river ________.",
+     "a": "beds",
+     "why": "The river bed is the ground under the water. Rivers leave stones there, so they can be dug out."
+    },
+    {
      "t": "order",
      "p": "Put these rocks in order, from softest to hardest.",
      "items": [
@@ -1775,6 +1782,18 @@
    ],
    "a": 0,
    "why": "Stone, sand and gravel are used for walls, floors, cement and roads. That is why quarries and sand mining exist.",
+   "outcome": 5
+  },
+  {
+   "t": "mcq",
+   "p": "A builder needs gravel to mix into concrete. Where can gravel come from?",
+   "opts": [
+    "Small pebbles and stones lying in a river bed",
+    "The leaves on the top of a tree",
+    "The rain clouds in the sky"
+   ],
+   "a": 0,
+   "why": "Gravel is a mix of small pebbles and stones. Rivers carry them and leave them in their beds, so people dig them out there. Leaves and clouds are not rock.",
    "outcome": 5
   },
   {

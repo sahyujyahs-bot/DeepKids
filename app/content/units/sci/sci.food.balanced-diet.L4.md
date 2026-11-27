@@ -41,7 +41,7 @@ You may have learned that a balanced plate holds foods from every group. A plate
 ### Traditional meals are balanced in their own way · *defined*
 **Definition:** A traditional meal is a set of dishes that people in a region have long eaten together. Many of them join a staple food, a pulse, a vegetable and a milk food.
 
-Meals in different parts of India look different, but they do the same job. In Tamil Nadu a meal is rice, sambar or rasam, a vegetable, curd and a pickle. In Gujarat it is roti, dal, rice, a vegetable, buttermilk and a sweet. In Bengal it is rice, dal, fish or vegetables, and a bitter dish like shukto at the start. In Nagaland and Manipur it is rice, boiled leafy vegetables, and a chutney of chilli and fermented fish or bamboo shoot. In Punjab it is makki roti with sarson saag, butter and lassi. The dishes are different, but each plate has a staple for energy, a pulse or fish or milk for building, and vegetables for protection. These meals grew over many generations from what the land grew, and from families noticing which foods kept them strong. They were not planned from a table of nutrients, and they are not perfect. But they often work.
+Meals in different parts of India look different, but they do the same job. In Tamil Nadu a meal is rice, sambar or rasam, a vegetable, curd and a pickle. In Gujarat it is roti, dal, rice, a vegetable, buttermilk and a sweet. In Bengal it is rice, dal, fish or vegetables, and a bitter dish like shukto at the start. In Nagaland and Manipur it is rice, boiled leafy vegetables, and a chutney of chilli and fermented fish or bamboo shoot. In Punjab it is makki roti with sarson saag, butter and lassi. The dishes are different, but each plate has a staple for energy, a pulse or fish or milk for building, and vegetables for protection. These meals grew over many generations from what the land grew, and from families noticing which foods kept them strong. They were not planned from a table of nutrients, and they are not perfect. But they often work. Your own family has a regional thali too. List its items on a sheet, and mark each one with its food job: energy, building or protecting.
 - e.g. A Kerala sadya joins rice, parippu, sambar, avial, thoran, pulissery, pickles and payasam on one banana leaf.
 - e.g. A Gujarati thali has bajra or wheat roti, dal, kadhi, a vegetable, rice and chaas.
 - e.g. A Hyderabadi biryani with raita joins rice, meat or vegetables, and curd.
@@ -404,6 +404,11 @@ In June, Ajji was drinking her morning coffee when she stopped, with the steel t
   *Child mode:* Ask a grown-up what they cook for a festival, and why. Write it down, or say it back to them.
   - Note: With 2 to 4 children, each child asks a different person and adds their dish to the one shared wheel. Listen to the answer without correcting it. Families often have a reason that goes beyond nutrition: it is what a mother made, it keeps well, or it is shared with neighbours. These reasons are part of the answer. Add a dish from your own family's tradition to the wheel.
   - Think: Why do people cook special food on special days, and not the same food every day?
+- **s4 (5 min)**  
+  *Parent does:* 1. Write down the meal your family eats on an ordinary day, item by item. 2. Beside each item, write who cooks it at home and who helps. 3. Mark each item with its food job: energy, building or protecting.  
+  *Parent says:* Who cooks the dal in our home? Who helps with the vegetable? Which food gives us energy, and which keeps us protected?  
+  *Child mode:* Write our everyday meal, item by item. Who cooks each one?
+  - Note: Keep it to what your family really eats on an ordinary day, not the festival plate. Every answer about who cooks is a fact about your home, so write it as it is.
 ### a4 · Millet Hunt: find, cook and compare (25 min)
 - **safety:** A grown-up works the stove. The porridge is hot and can spit when it bubbles, so stand back and use a long spoon. Let it cool for a few minutes before tasting.
 - **record:** Write the colour, smell, thickness and taste of each porridge. Write one way the millet and rice are different.
@@ -525,7 +530,7 @@ In June, Ajji was drinking her morning coffee when she stopped, with the steel t
    **Answer:** A laddu is rich in sugar and ghee, so it gives a lot of energy and few other nutrients. A balanced diet is a pattern over many days. One laddu on a special day is a small part of the pattern. Laddus at every meal would crowd out dal, vegetables and fruit.. *Why:* A strong answer says that a balanced diet is a pattern, and that one festival sweet is a small part of it. It may also say that eating it every day would leave less room for other foods.
 16. (truefalse) A balanced meal must look the same in every part of India.  
    **Answer:** False. *Why:* False. A Kerala sadya, a Gujarati thali and a Naga meal are all different. Each joins a staple, a pulse or fish or milk food, and vegetables, using what grows nearby.
-### How Taste and Food Work (stretch) (stretch, 16 questions)
+### How Taste and Food Work (stretch) (stretch, 17 questions)
 1. (mcq) Which taste is on the science list of five basic tastes, but is not one of the six rasas?  
    Options: Umami / Pungent / Astringent  
    **Answer:** Umami. *Why:* Umami is the savoury taste of foods like ripe tomato and mushroom. Ayurveda's six rasas are sweet, sour, salty, pungent, bitter and astringent. Pungent and astringent are feelings, not tastes.
@@ -562,6 +567,8 @@ In June, Ajji was drinking her morning coffee when she stopped, with the steel t
    **Answer:** People can try a thing many times and notice what happens. If a family soaks dal and everyone does better, they keep doing it. Later, scientists can test it and find the reason. Knowing that it works and knowing why are two different steps.. *Why:* A strong answer says that noticing a pattern comes before explaining it. It may also say that a test can show whether the old way really works, or whether it only seems to.
 16. (odd) Which is the odd one out, and why? Ugadi pachadi, shukto, pavakka thoran, payasam.  
    **Answer:** Payasam, because it is sweet, and the other three each have a bitter taste.. *Why:* Ugadi pachadi has neem flowers, shukto has a little karela, and pavakka thoran is made of karela. Payasam is a sweet milk dish.
+17. (write) Pick one ordinary day of your family's meals. Name two items from it, say who cooks each one, and give each item its food job.  
+   **Answer:** For example: dal, cooked by Amma, for building; and rice, cooked by Paati, for energy. A strong answer names two real items, a cook, and a job for each.. *Why:* Every thali has items that do different jobs. Knowing who cooks each one shows how the family's food is made.
 ### Thinking Like a Food Scientist (challenge) (challenge, 15 questions)
 1. (write) Design a fair blind test to find out whether people can tell a spoon of sugar water from a spoon of apple juice with the same sweetness. Say what you keep the same and what you change.  
    **Answer:** I would put the sugar water and the apple juice in two cups the same size, with the same amount in each, and let the tester shut their eyes. A helper would shuffle the cups so the tester does not know which is which. The only thing I change is which liquid it is. I keep the temperature, the amount and the spoon the same. I would test many people and write down how often they are right.. *Why:* A strong answer keeps everything the same except the one thing being tested, hides which cup is which from the tester, and tests more than once. A control of two identical cups would also be a good idea.
@@ -639,6 +646,9 @@ In June, Ajji was drinking her morning coffee when she stopped, with the steel t
 12. (mcq) In a week's food diary, the row for protective foods is very short. What does this tell you?  
    Options: This week had few vegetables and fruits, so add some next week / The family has done something wrong and must be told off / Protective foods are not needed  
    **Answer:** This week had few vegetables and fruits, so add some next week. *Why:* A short row is information about the week, not a mistake. The next step is to add some of that group in a way the family enjoys.
+13. (mcq) In a Punjabi meal of makki roti, sarson saag and lassi, which item mainly builds the body?  
+   Options: Lassi, a milk drink / Makki roti / Sarson saag  
+   **Answer:** Lassi, a milk drink. *Why:* Lassi is made from curd, which is a milk food with protein for building. Makki roti is mainly energy, and sarson saag mainly protects with vitamins and minerals.
 
 ## Applications
 - Planning a school tiffin or a festival lunch that has all three food jobs and a variety of tastes.

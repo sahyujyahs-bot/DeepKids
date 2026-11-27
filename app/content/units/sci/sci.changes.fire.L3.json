@@ -128,6 +128,18 @@
    "meaning": "Firedamp is the old miners' name for a gas that seeps out of coal. It is mostly methane, and it explodes if a flame lights it.",
    "example": "Firedamp caused many deadly explosions in coal mines in the 1700s and 1800s.",
    "art": "A dark coal mine tunnel with a miner holding a lamp, and faint wavy lines of gas seeping from a crack in the coal."
+  },
+  {
+   "term": "Kiln",
+   "meaning": "A kiln is a very hot oven for baking clay pots, bricks and tiles until they are hard.",
+   "example": "A potter bakes diyas and matkas in a kiln, so they do not turn to mud in water.",
+   "art": "A brick kiln with a glow at the bottom and a row of clay diyas stacked inside."
+  },
+  {
+   "term": "Assembly point",
+   "meaning": "A safe place outside, chosen before, where everyone meets after leaving a building in a fire.",
+   "example": "Our family's assembly point is the gate of the building. We meet there and count heads.",
+   "art": "A group of children and grown-ups standing at a gate, with a teacher counting."
   }
  ],
  "explanations": [
@@ -135,11 +147,12 @@
    "concept": "What fire is",
    "status": "defined",
    "definition": "Fire is a fast chemical change called burning, or combustion. A fuel joins with oxygen from the air and gives out heat and light.",
-   "description": "When a fuel burns, it does not just disappear. Its particles join with oxygen from the air and make new substances. Most of them are gases you cannot see: carbon dioxide and water vapour. Some of the fuel may be left as soot or ash. This is a chemical change, because new substances are made. You cannot turn ash and smoke back into wood. Burning also gives out a lot of energy, as heat and light. That is why people use fire to cook, to stay warm and to see at night.",
+   "description": "When a fuel burns, it does not just disappear. Its particles join with oxygen from the air and make new substances. Most of them are gases you cannot see: carbon dioxide and water vapour. Some of the fuel may be left as soot or ash. This is a chemical change, because new substances are made. You cannot turn ash and smoke back into wood. Fire changes clay in the same way. Wet clay is soft, because water sits between its tiny grains. A potter dries a pot in the sun and then bakes it in a kiln, which is a very hot oven. The heat drives the water out and changes the clay itself, and the grains join together into something hard. A baked pot does not go soft in water again. Burning also gives out a lot of energy, as heat and light. That is why people use fire to cook, to stay warm and to see at night.",
    "examples": [
     "A matchstick burns to a black, curled stick. It cannot be made new again.",
     "A cold steel tumbler held high above a gas flame gets a little misty, because burning makes water vapour.",
-    "Firewood leaves only a small heap of ash. Most of the wood went into the air as gases."
+    "Firewood leaves only a small heap of ash. Most of the wood went into the air as gases.",
+    "A potter's diya or matka is baked in a kiln. Unbaked clay turns back to mud in water, but the baked pot stays hard."
    ],
    "perspectives": [],
    "art": "A log burning in a small fire, with arrows showing oxygen going in and carbon dioxide, water vapour, heat and light coming out, and a small heap of ash below.",
@@ -306,6 +319,33 @@
    "perspectives": [],
    "art": "A safe kitchen: a grown-up cooking with her davani tied back, the matchbox on a high shelf, a pooja lamp on a steel plate far from a curtain, and 101 written on a note on the fridge.",
    "context": "This card gives the fire safety rules for a home, and the reason behind each one."
+  },
+  {
+   "concept": "Getting out in a fire: the fire drill",
+   "status": "defined",
+   "context": "This card says what to do, step by step, when there is a real fire, so you can practise it before it happens.",
+   "definition": "In a fire, you go calmly to the nearest safe exit, stay low under smoke, never hide, and meet at the assembly point.",
+   "description": "A fire drill is a practice of leaving a building when there is a fire. At school and at home, practise the same steps. First, move calmly to the nearest exit. Do not run, and do not stop to pick up your bag or toys. If there is smoke, crawl low, where the air is cleaner. Never hide. Frightened children sometimes hide under a bed or in a cupboard, and then no one can find them. Once you are out, go to the assembly point. This is a safe place outside, chosen before, where everyone meets. There a grown-up can count heads and see that nobody is missing. Never go back in for anything. Call 101 from outside.",
+   "examples": [
+    "At school, the class lines up and walks to the playground, where the teacher counts everyone.",
+    "A family picks the gate of the building, or the neem tree across the road, as their meeting place."
+   ],
+   "perspectives": [],
+   "art": "A class of children walking in a line out of a school door while a teacher counts them in the playground, one child at the back crawling low under a thin grey cloud."
+  },
+  {
+   "concept": "Staying safe in any practical work",
+   "status": "defined",
+   "context": "This card shows how to spot a risk in any activity and what to do about it, using the habits from fire safety.",
+   "definition": "A risk is something that could hurt you. Before any practical work, name the risks and decide how to avoid each one.",
+   "description": "Before you start an activity, look at what you will use and ask: what could hurt me here? Then decide what you will do about it. Hot water can scald, so carry it slowly, pour it away from your body, and let a grown-up do the pouring. A knife or scissors can cut. Cut away from your fingers, and pass them with the handle first. A candle can burn hair and sleeves, so tie back long hair and keep sleeves tucked. Plan the space too. Keep the table clear, and keep a bowl of water nearby. When you finish, clear up. Put out the flame, wipe spills at once, put every tool back, and wash your hands. A tidy table is a safe table.",
+   "examples": [
+    "Hot water for an experiment: a grown-up pours, and you carry the cup slowly with both hands.",
+    "Scissors for cutting a wick: cut away from your fingers, and pass them handle first.",
+    "After a candle test: blow out the flame, wipe the wax, put the matches back with a grown-up."
+   ],
+   "perspectives": [],
+   "art": "A neat table with a candle on a steel plate, a bowl of water, a pair of scissors with the handle turned towards a child, and a girl with her hair tied back."
   }
  ],
  "agreed": [
@@ -2019,6 +2059,42 @@
    "why": "Gas could pass through the mesh and burn inside it. But the metal took heat from the flame, so the gas outside stayed too cool to catch fire. You saw this in the Tea Strainer Test, where a fine steel tea strainer kept a candle flame below it.",
    "outcome": 5,
    "how": "e2"
+  },
+  {
+   "t": "mcq",
+   "p": "A potter bakes a clay diya in a kiln. What does the heat do?",
+   "opts": [
+    "It changes the clay into something hard",
+    "It only dries the clay, so water can soften it again",
+    "It melts the clay so it can be shaped again"
+   ],
+   "a": 0,
+   "why": "The heat drives out the water and changes the clay itself, so the grains join into something hard. Drying alone would leave a pot that turns to mud again, and melting is not what a kiln does.",
+   "outcome": 0
+  },
+  {
+   "t": "mcq",
+   "p": "The fire bell rings at school and smoke is in the corridor. What should you do?",
+   "opts": [
+    "Crawl low to the nearest exit, then the assembly point",
+    "Hide under the bench until it is quiet",
+    "Go back to the classroom for your bag"
+   ],
+   "a": 0,
+   "why": "Go out by the nearest exit, stay low under smoke, and meet at the assembly point so the teacher can count everyone. Hiding means nobody can find you, and going back for things is dangerous.",
+   "outcome": 3
+  },
+  {
+   "t": "mcq",
+   "p": "You will carry a cup of hot water to your experiment table. What is the safest way?",
+   "opts": [
+    "Carry it slowly in both hands, and let a grown-up pour",
+    "Run with it, to get it there before it cools",
+    "Carry it in one hand and your book in the other"
+   ],
+   "a": 0,
+   "why": "Hot water can scald, so go slowly, keep your hands free for the cup, and let a grown-up pour. Running and carrying two things are how spills happen.",
+   "outcome": 3
   }
  ],
  "worksheets": [
@@ -2231,6 +2307,49 @@
      "p": "Draw the fire triangle. Write fuel, oxygen and heat on its sides. Then draw one way to take away each side.",
      "a": "A triangle labelled fuel, oxygen and heat, with, for example, a gas regulator turned off by fuel, a lid by oxygen, and water by heat.",
      "why": "A strong drawing matches each way of putting out a fire to the right side."
+    },
+    {
+     "t": "order",
+     "p": "Put these fire drill steps in order.",
+     "a": [
+      "Move calmly to the nearest exit",
+      "Crawl low if there is smoke",
+      "Walk to the assembly point",
+      "Wait there and be counted"
+     ],
+     "items": [
+      "Walk to the assembly point",
+      "Wait there and be counted",
+      "Move calmly to the nearest exit",
+      "Crawl low if there is smoke"
+     ],
+     "why": "First leave by the nearest exit, staying low under smoke. Then go to the assembly point and wait, so a grown-up can see that everyone is safe.",
+     "outcome": 3
+    },
+    {
+     "t": "match",
+     "p": "Match each risk to the safe habit.",
+     "pairs": [
+      [
+       "Hot water",
+       "Carry it slowly, and let a grown-up pour"
+      ],
+      [
+       "Scissors",
+       "Cut away from your fingers"
+      ],
+      [
+       "Long hair near a candle",
+       "Tie it back"
+      ],
+      [
+       "Spilled water on the table",
+       "Wipe it up at once"
+      ]
+     ],
+     "a": "pairs as given",
+     "why": "Each habit takes the danger away. A slow carry stops scalds, cutting away from the fingers stops cuts, tied-back hair keeps away from the flame, and a dry table stops slips.",
+     "outcome": 3
     }
    ]
   },
@@ -2441,6 +2560,13 @@
       "Cover the stove with a lid"
      ],
      "why": "A blue flame means the gas is mixed with enough air. A yellow flame that leaves black soot on pans often means the burner is blocked or dirty. A grown-up can check and clean it. Picking the lid is a fair thought for a fire, but this is not a fire to put out."
+    },
+    {
+     "t": "truefalse",
+     "p": "A baked clay diya turns back into soft mud if it stays in water for a day.",
+     "a": false,
+     "why": "False. Baking in a kiln changes the clay itself into something hard. Only unbaked clay turns to mud in water.",
+     "outcome": 0
     }
    ]
   },

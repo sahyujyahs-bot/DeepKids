@@ -33,6 +33,18 @@
    "art": "A family photo on a phone screen, with a grandmother, an aunt and three cousins smiling together."
   },
   {
+   "term": "Nuclear family and joint family",
+   "meaning": "A nuclear family is parents and their children living together. A joint family also has grandparents, uncles, aunts and cousins in the same house.",
+   "example": "Joyita lives in a nuclear family in Kolkata. Meenakshi lives in a joint family in Madurai.",
+   "art": "On the left a small house with a mother, a father and a child. On the right, a big house with three generations on a veranda."
+  },
+  {
+   "term": "Family tree",
+   "meaning": "A family tree is a drawing of who is in a family. The oldest people are at the top and the youngest at the bottom.",
+   "example": "Meenakshi draws a family tree with Paati and Thatha at the top, and herself at the bottom.",
+   "art": "A tree drawn with round faces on three levels, joined by branches."
+  },
+  {
    "term": "Adopt",
    "meaning": "To adopt a child is to take them into your family as your own son or daughter, for always.",
    "example": "Revathi adopted baby Kayal. Kayal is Revathi's daughter now, for her whole life.",
@@ -78,7 +90,7 @@
    "concept": "Families come in many kinds",
    "status": "defined",
    "definition": "Families can be big or small, and can be made in different ways. Each kind is a real family.",
-   "description": "Some families are small, with one parent and one child. Some are big joint families, with grandparents, uncles, aunts and cousins in one house. Some children are raised by a grandmother or an aunt. Other animals have families too. In an elephant family, mothers, daughters, aunts and young ones stay together, and an older female often leads. Grown-up males leave. In an ant nest, a queen lays the eggs, and the ants you see are her daughters.",
+   "description": "Some families are small, with one parent and one child. Some are big joint families, with grandparents, uncles, aunts and cousins in one house. Some children are raised by a grandmother or an aunt. Other animals have families too. In an elephant family, mothers, daughters, aunts and young ones stay together, and an older female often leads. Grown-up males leave. In an ant nest, a queen lays the eggs, and the ants you see are her daughters. A family of parents and children living on their own is called a nuclear family. A family with grandparents, uncles, aunts and cousins under one roof is a joint family. Families differ for many reasons. A job in a faraway city can take parents away from the village. A small flat has no room for many people. A family farm or shop can keep everyone together. A grandparent who needs care may come to live with the children. And no kind is better than another.",
    "examples": [
     "Meenakshi lives in a joint family in Madurai. Nine people share one house: Paati, Thatha, Amma, Appa, Periyamma, Periyappa, Meenakshi and two cousins.",
     "Joyita in Kolkata lives with her Baba. It is just the two of them, and her Dida visits on Sundays.",
@@ -86,6 +98,42 @@
    ],
    "perspectives": [],
    "art": "A row of family pictures: a big joint family on a veranda, a father and daughter cooking fish curry, an elephant family walking with an old female in front, and a line of ant sisters carrying a crumb."
+  },
+  {
+   "concept": "Knowing my own details",
+   "status": "defined",
+   "context": "This card is about the facts every child should know about themselves and their family.",
+   "definition": "Personal details are facts about you, like your name, your address and your birthday.",
+   "description": "Everyone has a name that the family chose. Your parents also have names, and so do your brothers and sisters. You live at an address, which tells where your home is. You have a birthday, the day each year when your family remembers the day you were born. Learn your parent's phone number by heart. If you are ever lost, you can tell a shopkeeper, a teacher or a police officer. Do not tell strangers where you live.",
+   "examples": [
+    "Nila says: 'My name is Nila. My Amma is Lakshmi and my Appa is Suresh. I live in flat 4B in Kochi. My birthday is in August.'",
+    "Ravi's school teacher asks every child to say a parent's phone number out loud, so each child can learn it."
+   ],
+   "perspectives": [
+    {
+     "who": "Families with many names",
+     "explanation": "Many children have a pet name at home and another name at school. Both are yours. Your name is the way your family says it, and you can say both to a helper."
+    }
+   ],
+   "art": "A girl holding a card with her name, her parents' names, a house number and a small birthday cake drawn on it."
+  },
+  {
+   "concept": "A family tree",
+   "status": "defined",
+   "context": "This card shows how to draw the family we have talked about as a tree.",
+   "definition": "A family tree is a drawing that shows who is in a family, with the oldest people at the top and the youngest at the bottom.",
+   "description": "Start with grandparents, who are at the top. Draw a line down to their children, who are the parents. Draw a line from the parents to the children. That makes three generations. A generation is all the people of about the same age in a family. Write each person's name under their face. You can add the other grandparents too: your father's parents on one side, and your mother's parents on the other.",
+   "examples": [
+    "Meenakshi draws Paati and Thatha at the top. Below them go Amma, Appa, Periyamma and Periyappa. At the bottom go Meenakshi and her cousins.",
+    "Kayal draws Revathi, her mother, and Revathi's mother, her grandmother. She draws herself at the bottom."
+   ],
+   "perspectives": [
+    {
+     "who": "Different families, different trees",
+     "explanation": "Every tree looks different. Some have two parents, some have one. A child who was adopted can draw the people who raised her. People do not all agree on who should be in a tree, so you decide with your family."
+    }
+   ],
+   "art": "A tree with three rows of round faces: two grandparents at the top, two parents in the middle, and two children at the bottom, joined by branches."
   },
   {
    "concept": "How we know our family by smell",
@@ -1380,6 +1428,20 @@
      "why": "We know our family with our eyes and with our noses. A smell clue works even in the dark."
     },
     {
+     "t": "draw",
+     "p": "Draw your own family tree. Put your grandparents at the top, your parents in the middle and you and your brothers and sisters at the bottom. Write each name.",
+     "a": "A tree with three rows. For example: Paati and Thatha at the top, Amma and Appa in the middle, and the child at the bottom.",
+     "why": "A family tree shows three generations. The oldest people are at the top.",
+     "art": "A blank tree with three rows of empty circles joined by branches."
+    },
+    {
+     "t": "write",
+     "p": "Say it to a grown-up, who writes it down: your name, your mother's name, your father's name, your brothers' and sisters' names, and your birthday.",
+     "lines": 3,
+     "a": "Any true answer. For example: I am Nila. My Amma is Lakshmi and my Appa is Suresh. My brother is Arjun. My birthday is in August.",
+     "why": "These are your personal details. Knowing them helps you tell people who you are."
+    },
+    {
      "t": "label",
      "p": "Here is the shirt test. Draw a ring round the thing that stops the eyes from helping. Draw a cross on the thing that holds the shirt.",
      "a": "A ring round the dupatta over the eyes. A cross on the steel tumbler.",
@@ -1477,6 +1539,27 @@
      ],
      "a": 3,
      "why": "People join a family by being born, by adoption or by marriage. A bus ticket only takes you somewhere."
+    },
+    {
+     "t": "match",
+     "p": "Draw a line from each family to its kind.",
+     "pairs": [
+      [
+       "Parents and two children in a flat",
+       "A nuclear family"
+      ],
+      [
+       "Grandparents, uncles, aunts, parents and cousins in one house",
+       "A joint family"
+      ],
+      [
+       "A grandmother and her granddaughter",
+       "A family with grandparent and child"
+      ]
+     ],
+     "a": "pairs as given",
+     "why": "A nuclear family has parents and children. A joint family has more relatives in one house. Each one is a real family.",
+     "art": "Three pictures on the left: a small flat family, a big house family, a grandmother and a girl. Three names on the right."
     },
     {
      "t": "write",
@@ -1613,6 +1696,13 @@
      "why": "A strong answer gives a reason, using what a family is: belonging together, sharing a home, or coming from the same parents."
     },
     {
+     "t": "write",
+     "p": "Say it to a grown-up, who writes it down: why might one family live in a joint family and another in a nuclear family? Give two reasons.",
+     "lines": 3,
+     "a": "A family farm or shop can keep many people together. A job in a faraway city can make a smaller family move to a small flat.",
+     "why": "A good answer gives two real reasons, such as work, the size of the house or caring for an old person, and does not say one kind is better."
+    },
+    {
      "t": "draw",
      "p": "Draw an animal family you have seen near your home, like cats, crows or cows. Show who looks after the young.",
      "a": "A drawing of an adult animal with her young.",
@@ -1636,6 +1726,30 @@
   },
   {
    "t": "mcq",
+   "p": "You are lost at a railway station. Who is a good person to tell your name and your parent's phone number?",
+   "opts": [
+    "A police officer or a shopkeeper",
+    "Someone you have never met, who offers you a lift",
+    "Nobody, you should wait quietly"
+   ],
+   "a": 0,
+   "why": "A police officer or a shopkeeper can help you call your family. A stranger who offers a lift is not safe, and waiting alone does not help.",
+   "outcome": 0
+  },
+  {
+   "t": "mcq",
+   "p": "In a family tree, where do the grandparents go?",
+   "opts": [
+    "At the top",
+    "At the bottom",
+    "In the middle, beside the children"
+   ],
+   "a": 0,
+   "why": "The oldest people go at the top, then their children, and the youngest at the bottom. That makes three generations.",
+   "outcome": 0
+  },
+  {
+   "t": "mcq",
    "p": "A girl lives with her mother and her grandmother. Is that a family?",
    "opts": [
     "Yes",
@@ -1644,6 +1758,30 @@
    ],
    "a": 0,
    "why": "Her mother and grandmother look after her. Families come in many kinds, and this is one.",
+   "outcome": 1
+  },
+  {
+   "t": "mcq",
+   "p": "Rohan lives with his parents and his sister in a flat in Mumbai. What kind of family is this?",
+   "opts": [
+    "A nuclear family",
+    "A joint family",
+    "Not a family"
+   ],
+   "a": 0,
+   "why": "Parents and children living on their own are a nuclear family. A joint family also has grandparents, uncles and aunts in the same house. Both are real families.",
+   "outcome": 1
+  },
+  {
+   "t": "mcq",
+   "p": "A family in a village moves to a small flat in a city for work. Why might they become a nuclear family?",
+   "opts": [
+    "The flat is small and the job is far from the village",
+    "Joint families are not real families",
+    "Everyone stops loving their grandparents"
+   ],
+   "a": 0,
+   "why": "A job and a small flat can change how a family lives together. The love stays the same, and both kinds are real families.",
    "outcome": 1
   },
   {

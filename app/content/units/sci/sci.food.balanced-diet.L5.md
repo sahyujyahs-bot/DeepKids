@@ -806,7 +806,7 @@ Ammu rinsed the ladle and hung it on its nail. It was the same ladle, and tomorr
    **Answer:** Energy foods and protective foods such as fruit, vegetables and dal. *Why:* A sick person needs energy to stay strong, and vitamins and minerals to fight infection.
 20. (mcq) Why is a mother's own food important for a breastfeeding baby?  
    Options: Her milk is most complete when she eats enough protein / It changes the baby's colour / The baby eats her plate / It has no effect  
-   **Answer:** Her milk is most complete when she eats enough protein. *Why:* A mother who eats well makes milk that gives the baby what it needs.
+   **Answer:** Her milk is most complete when she eats enough protein. *Why:* A mother who eats well makes milk that gives the baby all that the baby needs.
 21. (mcq) Why do people in Mexico soak maize in lime water before cooking?  
    Options: It sets free vitamin B3 in the grain / It makes it red / It makes it sweet / It removes calcium  
    **Answer:** It sets free vitamin B3 in the grain. *Why:* This old way of cooking frees niacin (vitamin B3), which is locked in maize. It also adds calcium.

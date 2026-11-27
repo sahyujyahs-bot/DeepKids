@@ -92,14 +92,14 @@ A torn sheet of paper is still paper. Atta is still wheat. A broken glass is sti
 ### Why people cook · *defined*
 **Definition:** Cooking is heating food so that it changes for good. It makes food softer, safer and easier to digest.
 
-Cooking is the oldest chemistry that people do. It does three useful things, and all three are irreversible. It softens food. Swollen starch and loosened fibres are easier to chew. It makes food safer. The heat denatures the proteins of most harmful microbes, and these microbes die. Raw rajma holds a protein that makes people ill, and about half an hour of hard boiling changes that protein for good. It also lets the body take in more of the food. In one careful study, people's bodies took in about 91 parts in 100 of the protein from cooked egg. From raw egg they took in only about 51 parts in 100. Cooking has a cost too. Heat destroys part of the vitamin C in vegetables, which is one reason to eat some fruit and salad raw. Cooks use reversible changes as well. They melt ghee, dissolve salt and boil off water.
+Cooking is the oldest chemistry that people do. It does three useful things, and all three are irreversible. It softens food. Swollen starch and loosened fibres are easier to chew. It makes food safer. The heat denatures the proteins of most harmful microbes, and these microbes die. Raw rajma holds a protein that makes people ill, and about half an hour of hard boiling changes that protein for good. It also lets the body take in more of the food. In one careful study, people's bodies took in about 91 parts in 100 of the protein from cooked egg. From raw egg they took in only about 51 parts in 100. Cooking has a cost too. Heat destroys part of the vitamin C in vegetables, which is one reason to eat some fruit and salad raw. Cooks use reversible changes as well. They melt ghee, dissolve salt and boil off water. People cook in many ways: steaming, boiling, frying, roasting, grilling and baking. Some food, such as a cucumber salad, is eaten raw, with no cooking at all.
 - e.g. Raw rice is too hard to chew, and cooked rice is soft.
 - e.g. Milk is boiled in most Indian homes to kill microbes before it is drunk.
 - e.g. Lemon juice is squeezed on food after cooking, so that its vitamin C is not destroyed by heat.
 ### Both kinds of change in living bodies, on the Earth and in the stars · *defined*
 **Definition:** Reversible changes let the same substance be used again and again. Irreversible changes happen once.
 
-Your blood carries oxygen by a reversible change. A protein in red blood cells holds oxygen in the lungs and lets it go in the muscles. Each red blood cell makes this round trip about once a minute. Growing is different. A sprouted seed cannot go back to being a seed, and your body will not be a baby's body again. The Earth also runs on both kinds. The same water has been cloud, rain, river and sea many times, because evaporating and condensing leave water unchanged. Rock melts deep underground and sets again as new rock. People copy these cycles. Glass, steel and aluminium can be melted and shaped again and again, which is why they are worth collecting. A phone battery holds a chemical change that charging pushes backwards. The Sun runs on a change that goes one way. Every second it joins hydrogen into helium, and it cannot turn the helium back.
+Your blood carries oxygen by a reversible change. A protein in red blood cells holds oxygen in the lungs and lets it go in the muscles. Each red blood cell makes this round trip about once a minute. Growing is different. A sprouted seed cannot go back to being a seed, and your body will not be a baby's body again. The Earth also runs on both kinds. The same water has been cloud, rain, river and sea many times, because evaporating and condensing leave water unchanged. Rock melts deep underground and sets again as new rock. People copy these cycles. Glass, steel and aluminium can be melted and shaped again and again, which is why they are worth collecting. A phone battery holds a chemical change that charging pushes backwards. The Sun runs on a change that goes one way. Every second it joins hydrogen into helium, and it cannot turn the helium back. Changes also differ in speed. Toast browns in a few minutes. Many trees lose their leaves once a year. A child grows over many years.
 - e.g. Water goes round as vapour, cloud, rain and river without being used up.
 - e.g. A steel tumbler can be melted down and made into a new one.
 - e.g. A chana seed who has grown a root cannot draw the root back in.
@@ -493,7 +493,7 @@ That night Yazhini helped to scrape the cold wax out of the tin. It broke into y
   - Note: The idea to draw out: a good seal uses a change with no way back. A paper clip or a rubber band uses a change that goes back easily, so it keeps no record.
 
 ## Worksheets
-### Can it go back? (core, 15 questions)
+### Can it go back? (core, 16 questions)
 1. (mcq) What is a reversible change?  
    Options: A change that can be undone / A change that makes a new substance / A change that needs a stove / A change that happens fast  
    **Answer:** A change that can be undone. *Why:* A reversible change can be undone, and you have the same substance again. A change that makes a new substance usually has no way back.
@@ -529,7 +529,9 @@ That night Yazhini helped to scrape the cold wax out of the tin. It broke into y
    **Answer:** No. The brown colour comes from new substances made by heat. Cooling, wetting or waiting does not turn them back into bread.. *Why:* A strong answer says that browning makes new substances. It also says that a square can go darker and cannot go paler.
 15. (draw) Draw raw egg white and cooked egg white as tiny threads. Show what heat changed.  
    **Answer:** Raw: several separate threads, each folded into its own small ball. Cooked: the same threads opened out and joined to each other in a net.. *Why:* A strong drawing keeps the same number of threads in both pictures. Nothing is added or broken. Only the folding and the joining change.
-### Same substance or new substance? (stretch, 15 questions)
+16. (fill) Cooking food in a little hot oil in a pan is called ____.  
+   **Answer:** ['frying', 'fry']. *Why:* Frying uses hot oil. Steaming uses hot steam, boiling uses water at its boiling point, and roasting and baking use dry heat. Each one changes the food for good.
+### Same substance or new substance? (stretch, 16 questions)
 1. (mcq) Tearing paper makes no new substance. Why does it still not go back?  
    Options: The torn fibres cannot be rejoined / The paper turns into ash / The paper dissolves in the air / Torn paper is a new substance  
    **Answer:** The torn fibres cannot be rejoined. *Why:* Paper is a mat of tiny plant fibres. Tearing pulls them apart, and nothing puts each fibre back in its old place. The pieces are still paper.
@@ -566,6 +568,8 @@ That night Yazhini helped to scrape the cold wax out of the tin. It broke into y
    **Answer:** The ink particles move about at random. There are vastly more mixed arrangements than gathered ones, so the particles almost never come together again.. *Why:* A strong answer compares the number of mixed arrangements with the number of sorted ones. It does not say that a new substance was made.
 15. (perspective) A city must choose which cups its tea stalls will use.  
    **Answer:** Any view with a reason from the unit. One reason is that melting steel is reversible, so steel can be used without end. Another is that a fired clay cup can never be clay again.. *Why:* Each view has something right in it. A strong answer says which changes go back and which do not. It takes the costs of water, fuel and waste seriously.
+16. (sort) Sort these changes by how long they take.  
+   **Answer:** toast browning on a tawa → In minutes; an egg going hard in boiling water → In minutes; leaves falling from a tree → Once a year; a child growing taller → Over many years. *Why:* Toast and eggs change in minutes. Leaves fall once a year. A child grows over many years. Speed does not decide whether a change can be undone: a boiled egg sets fast and still cannot go back.
 ### Testing the way back (challenge, 15 questions)
 1. (mcq) A white powder is stirred into a liquid. The liquid is dried, and a different powder is left. What happened?  
    Options: A new substance formed / The powder only dissolved / The powder only melted / The liquid froze  
@@ -644,6 +648,12 @@ That night Yazhini helped to scrape the cold wax out of the tin. It broke into y
 12. (mcq) Why can an old steel tumbler be made into a new one?  
    Options: Melting steel is a reversible change / Steel grows back by itself / Rust turns into steel in the sun / Steel never changes at all  
    **Answer:** Melting steel is a reversible change. *Why:* Steel melts in a furnace and sets again as steel. Because this change goes back, steel can be used again and again.
+13. (mcq) Which of these foods is usually eaten with no cooking at all?  
+   Options: A cucumber salad / Boiled rice / Fried puri / Roasted peanuts  
+   **Answer:** A cucumber salad. *Why:* A cucumber salad is cut and eaten raw. Rice is boiled, puri is fried, and peanuts are roasted, so all three are cooked.
+14. (mcq) Which of these changes happens in a few minutes?  
+   Options: Toast browning on a tawa / A child growing taller / Many trees losing their leaves / A seed becoming a big tree  
+   **Answer:** Toast browning on a tawa. *Why:* Toast browns in a few minutes. Many trees lose their leaves once a year. A child grows over many years. A seed becoming a big tree takes many years too. Speed does not decide if a change can go back.
 
 ## Applications
 - Recycling works best for materials whose melting is reversible. Glass, steel and aluminium are melted and shaped again and again.

@@ -88,7 +88,7 @@
    "concept": "Temperature, and the Celsius scale",
    "status": "defined",
    "definition": "Temperature is how hot or cold something is. In India we measure it in degrees Celsius, written °C.",
-   "description": "On the Celsius scale, 0 is the temperature at which pure water freezes. 100 is the temperature at which it boils, at sea level. The space between them is cut into 100 equal steps called degrees. Anything colder than freezing water gets a minus number. A freezer is about minus 18 °C. The scale is named after Anders Celsius, a Swedish astronomer. In 1742 he made a scale with 100 for freezing and 0 for boiling. A few years later, others turned it the other way round, which is how we use it today.",
+   "description": "On the Celsius scale, 0 is the temperature at which pure water freezes. 100 is the temperature at which it boils, at sea level. The space between them is cut into 100 equal steps called degrees. Anything colder than freezing water gets a minus number. A freezer is about minus 18 °C. The scale is named after Anders Celsius, a Swedish astronomer. In 1742 he made a scale with 100 for freezing and 0 for boiling. A few years later, others turned it the other way round, which is how we use it today. A thermometer is one measuring tool. Other tools measure other things, each in its own unit. A ruler measures length in centimetres. A measuring tape measures longer lengths in metres. A weighing machine, which is also called a scale, measures weight in kilograms. A clock measures time in minutes and seconds.",
    "examples": [
     "A fridge is about 4 °C inside.",
     "A healthy body is about 37 °C inside.",
@@ -1804,6 +1804,18 @@
    "a": 0,
    "why": "Sunlight brings heat straight to the water, so the water ends up warmer than the air around it. Heat cannot flow by itself from the cooler shady air into warmer water.",
    "outcome": 3
+  },
+  {
+   "t": "mcq",
+   "p": "Which tool should you use to find how heavy a bag of rice is?",
+   "opts": [
+    "A weighing machine",
+    "A ruler",
+    "A clock"
+   ],
+   "a": 0,
+   "why": "A weighing machine measures weight in kilograms. A ruler measures length, and a clock measures time.",
+   "outcome": 1
   }
  ],
  "worksheets": [
@@ -1928,6 +1940,31 @@
      ],
      "a": "pairs as given",
      "why": "Knowing a few real temperatures helps you judge any number you read. Your body is warmer than most rooms, and a fridge is just above freezing."
+    },
+    {
+     "t": "match",
+     "p": "Match each tool to what it measures.",
+     "pairs": [
+      [
+       "Ruler",
+       "length of a pencil, in centimetres"
+      ],
+      [
+       "Measuring tape",
+       "length of a room, in metres"
+      ],
+      [
+       "Weighing machine",
+       "weight of a bag of rice, in kilograms"
+      ],
+      [
+       "Clock",
+       "time, in minutes and seconds"
+      ]
+     ],
+     "a": "pairs as given",
+     "why": "Each tool gives a number in its own unit. A thermometer gives degrees, but the same idea holds for every tool.",
+     "outcome": 1
     },
     {
      "t": "order",

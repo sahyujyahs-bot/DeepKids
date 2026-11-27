@@ -41,6 +41,8 @@ Rice, wheat, ragi and dal are seeds. Mangoes, bananas and tomatoes are fruits. P
 - e.g. A dosa is made from rice and urad dal. Both are seeds.
 - e.g. Coconut is the fruit of the coconut palm.
 - e.g. In the 1940s, Kamala Sohonie, the first Indian woman to earn a PhD in science, studied neera. Neera is the sweet sap of palm trees.
+- e.g. A raw carrot and a carrot poriyal both come from a plant. Cooking changes how the food tastes, but not where it came from.
+- e.g. At Pongal, a harvest festival in Tamil Nadu, families make sweet pongal from rice, moong dal and jaggery. The rice, dal and jaggery come from plants. The milk comes from a cow.
 ### Food from animals · *defined*
 **Definition:** Animals give us milk, eggs and honey. Some people also eat fish and meat.
 
@@ -367,7 +369,7 @@ The next day, Divya tried drying nectar herself. She made sugar water, thin like
   - Check: How does a honey bee's tongue pick up nectar? → **Nectar sticks between the tiny hairs on her tongue**
 
 ## Worksheets
-### Food from Plants, Food from Animals (core) (core, 12 questions)
+### Food from Plants, Food from Animals (core) (core, 13 questions)
 1. (sort) Sort these foods. Which came from a plant, and which came from an animal?  
    **Answer:** rice → From a plant; milk → From an animal; a banana → From a plant; an egg → From an animal; palak → From a plant; curd → From an animal. *Why:* Rice, bananas and palak are parts of plants. Milk and eggs are made by animals, and curd is made from milk.
 2. (match) Draw a line from each food to the plant or animal who made that food.  
@@ -394,6 +396,8 @@ The next day, Divya tried drying nectar herself. She made sugar water, thin like
    **Answer:** ['A flower makes nectar.', 'A bee drinks the nectar and flies home.', 'Bees fan the nectar until it is thick.', 'We eat the honey.']. *Why:* Nectar is made first, then carried, then dried into honey, and last of all eaten.
 12. (draw) Draw one food from a plant and one food from an animal that you ate today.  
    **Answer:** Any two true examples, such as a dosa and a glass of milk.. *Why:* A strong drawing names both foods and can say who made each one.
+13. (write) Say it out loud, and a grown-up writes it: a carrot can be eaten raw or cooked. Why does cooking not change which group the carrot is in?  
+   **Answer:** Cooking changes how the carrot tastes and feels. It does not change the plant the carrot came from.. *Why:* A strong answer says that cooking changes the food but not where it came from.
 ### Honey, Milk and Eggs (stretch) (stretch, 11 questions)
 1. (write) In the Nectar to Honey experiment, the drop of sugar water under the fan turned thick overnight. What would the drop look like after two more days under the fan? Why?  
    **Answer:** Even smaller and harder, maybe a shiny crust. The moving air keeps taking water away until almost none is left.. *Why:* A strong answer says what the child would see and says the water keeps leaving into the air.
@@ -459,6 +463,9 @@ The next day, Divya tried drying nectar herself. She made sugar water, thin like
 11. (mcq) You are about to test whether a fan makes a drop of sugar water dry faster. What should you do first?  
    Options: Make a guess and say why / Eat the sugar / Wash the plates  
    **Answer:** Make a guess and say why. *Why:* Scientists guess first and give a reason. Then the test shows if the guess was right.
+12. (mcq) Sweet pongal is a festival food made from rice, moong dal, jaggery and milk. Which part comes from an animal?  
+   Options: The rice / The jaggery / The milk  
+   **Answer:** The milk. *Why:* Rice, moong dal and jaggery all come from plants. Milk comes from a cow, so it is food from an animal.
 
 ## Applications
 - Beekeepers in Kodagu, Kerala and many other places keep honey bees in wooden boxes. The bees make honey and also carry pollen to coffee, coconut and fruit flowers.

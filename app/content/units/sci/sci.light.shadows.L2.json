@@ -120,7 +120,8 @@
    "examples": [
     "A shadow of a cup has the outline of the cup.",
     "A shadow of your hand shows the gaps between your fingers.",
-    "A shadow of a fork shows each of its prongs."
+    "A shadow of a fork shows each of its prongs.",
+    "A shadow of your closed fist is a round lump, with no gaps. Open your hand and the gaps between the fingers appear."
    ],
    "perspectives": [],
    "art": "Straight lines drawn with a ruler from a torch past the edges of a toy, meeting the edges of the toy's shadow on the wall."
@@ -157,7 +158,7 @@
    "status": "defined",
    "context": "This card is about the Which Way Does It Point? activity, where you moved a torch round a toy.",
    "definition": "A shadow always falls on the side of the thing that is away from the light.",
-   "description": "Light comes from the torch and stops at the toy. The place that gets no light is behind the toy, on the far side from the torch. Move the torch to the left, and the shadow swings to the right. Lift the torch high above the toy, and the shadow becomes short and sits close round the toy's feet. If you know where a shadow is, you can work out where the light is.",
+   "description": "Light comes from the torch and stops at the toy. The place that gets no light is behind the toy, on the far side from the torch. Move the torch to the left, and the shadow swings to the right. Lift the torch high above the toy, and the shadow becomes short and sits close round the toy's feet. If you know where a shadow is, you can work out where the light is. The shadow also goes where the thing goes. Slide the toy to the left along the table, and its shadow slides left with it. So where a shadow lands depends on where the thing stands, as well as on where the light is.",
    "examples": [
     "If the torch is on the left, the shadow falls on the right.",
     "If a light is on the ceiling, the shadow of a chair is under the chair.",
@@ -1672,6 +1673,30 @@
    "a": 0,
    "why": "Close to the torch, the edge of the shadow gets a little light from part of the torch, so it is grey and soft. Close to the wall, the edge is sharp.",
    "outcome": 2
+  },
+  {
+   "t": "mcq",
+   "p": "A torch stands still on a table and shines on a wall. You slide a toy sideways to the left, in front of the torch. What does the toy's shadow do?",
+   "opts": [
+    "It slides left with the toy",
+    "It stays where it was",
+    "It jumps to the right of the torch"
+   ],
+   "a": 0,
+   "why": "The shadow is the place the toy blocks the light. When the toy moves, the blocked place moves with it, so the shadow follows the toy. It does not stay behind.",
+   "outcome": 3
+  },
+  {
+   "t": "mcq",
+   "p": "You hold your hand in front of a torch with your fingers wide apart. What does the shadow on the wall show?",
+   "opts": [
+    "Five thin fingers with gaps between them",
+    "One solid round lump",
+    "Nothing, because a hand is too small"
+   ],
+   "a": 0,
+   "why": "Light goes straight past the edges of your fingers and lands in the gaps, so the gaps stay bright. Only a closed fist makes a solid lump. A hand is big enough to block plenty of light.",
+   "outcome": 0
   }
  ],
  "worksheets": [
@@ -1818,6 +1843,12 @@
      ],
      "why": "The nearer the toy is to the torch, the more light it blocks, so the bigger its shadow.",
      "how": "e1"
+    },
+    {
+     "t": "fill",
+     "p": "You slide the toy to a new spot in front of the torch. Its shadow moves too, because the shadow always stays ___ the toy.",
+     "a": "with",
+     "why": "The shadow is the place the toy blocks the light. When the toy is in a new place, the blocked place is new too. Accept: next to, behind, beside, following."
     }
    ]
   },
@@ -1931,6 +1962,30 @@
      ],
      "why": "The fuzzy edge is grey because part of the torch's bright face can still be seen from there.",
      "art": "A big hand shadow with a dark middle and a soft grey edge all round it."
+    },
+    {
+     "t": "match",
+     "p": "Shadow puzzle: draw a line from each hand pose, held in front of a torch, to its shadow.",
+     "pairs": [
+      [
+       "a fist",
+       "a round lump"
+      ],
+      [
+       "a hand with fingers wide apart",
+       "five thin fingers with gaps"
+      ],
+      [
+       "one finger pointing at the wall",
+       "a thin stick"
+      ],
+      [
+       "a flat hand with fingers together",
+       "a shape like a mitten"
+      ]
+     ],
+     "a": "pairs as given",
+     "why": "A shadow has the outline of the thing, seen from the torch. Gaps between fingers stay bright, so spread fingers show as separate shapes."
     }
    ]
   },

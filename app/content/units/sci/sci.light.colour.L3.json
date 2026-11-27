@@ -311,7 +311,8 @@
    "examples": [
     "A spinning rainbow top looks pale while it spins fast.",
     "Phone and TV screens make white from tiny red, green and blue dots very close together.",
-    "A second prism, turned the other way, can join the colours again."
+    "A second prism, turned the other way, can join the colours again.",
+    "A square card spun fast can look round, because the moving corners blur together in your eye."
    ],
    "perspectives": [],
    "art": "Two prisms, the first fanning sunlight into colours, the second turned the other way and squeezing them back into one white beam.",
@@ -1283,6 +1284,12 @@
      "why": "A filter does not add colours. It only takes some away. Two different filters together take away nearly all of them.",
      "context": "Remember Colour Filters, where you held coloured cellophane in the sunbeam before it reached the glass of water?",
      "how": "a2"
+    },
+    {
+     "t": "truefalse",
+     "p": "A square card spun fast really turns into a circle.",
+     "a": false,
+     "why": "False. The card stays square. Your eye blurs its moving corners, so the edge looks round."
     }
    ]
   },
@@ -2878,6 +2885,19 @@
    ],
    "a": 1,
    "why": "Each paint's pigment absorbs some colours. Mixed together, they absorb nearly all of them, so very little light is reflected. Picking 'white' mixes up paint with light. Coloured lights add up to white, but paints do not.",
+   "outcome": 4
+  },
+  {
+   "t": "mcq",
+   "p": "You spin a square card fast, and it looks round. Why?",
+   "opts": [
+    "The card really turned round",
+    "Your eye blurs the moving corners together, so the edge looks like a circle",
+    "The square was painted round",
+    "Spinning bends the square into a circle"
+   ],
+   "a": 1,
+   "why": "The corners move so fast that your eye blurs them into one smooth edge. The card stays square. 'The card really turned round' is a fair guess, but a square card still has four corners when it stops.",
    "outcome": 4
   }
  ],

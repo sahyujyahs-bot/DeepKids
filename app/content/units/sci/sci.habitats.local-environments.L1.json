@@ -113,7 +113,7 @@
    "concept": "A park has many small habitats",
    "status": "defined",
    "definition": "In a park, the grass, the flowers and the soil are different habitats, each with their own living beings.",
-   "description": "Grasshoppers hide in the grass, and mynas walk on the grass to catch them. Bees and butterflies drink a sweet juice called nectar from flowers. Under the grass, earthworms dig tunnels in the soil.",
+   "description": "Grasshoppers hide in the grass, and mynas walk on the grass to catch them. Bees and butterflies drink a sweet juice called nectar from flowers. Under the grass, earthworms dig tunnels in the soil. A sunny patch of grass at noon is hot and dry. The ground under a big tree is cooler and damper, so ants and pill bugs can live there.",
    "examples": [
     "A myna hops behind the grass cutter, picking up the insects that jump out.",
     "A honeybee pushes into a flower to drink nectar.",
@@ -1217,6 +1217,13 @@
      "why": "Both friends have a point. Looking teaches us about small homes. Lifting the stone slowly, not touching, and putting the stone back the same way keeps the home safe."
     },
     {
+     "t": "write",
+     "p": "Say it to a grown-up, who writes it down: how is a sunny patch of grass at noon different from the damp ground under a big tree? Name one living being you might find in each.",
+     "lines": 2,
+     "a": "The grass at noon is hot and dry, and the ground under the tree is cooler and damp. Grasshoppers hide in the grass. Ants and pill bugs live under the tree.",
+     "why": "A strong answer names a difference in heat or water (hot and dry, or cool and damp) and a living being that fits each place."
+    },
+    {
      "t": "odd",
      "p": "Which place is the odd one out? Think about water.",
      "opts": [
@@ -1558,6 +1565,18 @@
    "a": 0,
    "why": "Ant young ones are kept in the dark and damp. When the pot was lifted, the ants moved them to a darker place.",
    "outcome": 2
+  },
+  {
+   "t": "mcq",
+   "p": "A sunny patch of grass at noon, and the damp ground under a big tree. Which one is more likely to have ants and pill bugs?",
+   "opts": [
+    "The sunny patch of grass at noon",
+    "The damp ground under a big tree",
+    "The bare road in the sun"
+   ],
+   "a": 1,
+   "why": "Ants and pill bugs need damp ground and shade. The grass at noon is hot and dry. The ground under the tree is cooler and damper.",
+   "outcome": 1
   }
  ],
  "applications": [

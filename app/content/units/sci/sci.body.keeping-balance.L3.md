@@ -74,10 +74,11 @@ Blood flows through tubes called blood vessels. The blood is warm, because it pa
 ### Thirst and the water balance · *defined*
 **Definition:** Your body keeps the amount of water inside you just right. Thirst tells you to drink more, and your kidneys decide how much water to let go as pee.
 
-More than half of your body is water. Every day you lose some of it, in sweat, in pee and even in your breath. When your blood has too little water, it becomes a little too salty. Sensors in your hypothalamus notice this saltiness. They make you feel thirsty. They also send a chemical message to your kidneys, which says 'save water'. Then your pee becomes less and darker. When you have had plenty to drink, your pee is pale and you go to the toilet more often. Thirst is your body asking for water before things go wrong.
+More than half of your body is water. Every day you lose some of it, in sweat, in pee and even in your breath. When your blood has too little water, it becomes a little too salty. Sensors in your hypothalamus notice this saltiness. They make you feel thirsty. They also send a chemical message to your kidneys, which says 'save water'. Then your pee becomes less and darker. When you have had plenty to drink, your pee is pale and you go to the toilet more often. Thirst is your body asking for water before things go wrong. Water also carries waste out of you. Your kidneys filter waste out of your blood and mix it into water to make pee. Sweat carries out a little waste too.
 - e.g. On a hot day you drink more and pee less.
 - e.g. Pale yellow pee usually means you have had enough to drink. Dark yellow pee usually means drink more.
 - e.g. Breathe on a cold mirror. The mist is water leaving your body.
+- e.g. Many people aim for about 8 glasses of water a day. You need more on hot days and after play.
 ### Why sticky monsoon days feel hotter · *defined*
 **Definition:** Humidity is how much water is already in the air. When the air is very humid, sweat dries slowly, so it cools you less.
 
@@ -552,7 +553,7 @@ People think that keeping cool means holding on to cold. It does not. I have nev
   - Check: In the suit design challenge, an explorer on a hot planet is sweating inside a closed suit. Why might they still overheat? → **The sweat cannot dry inside the closed suit, so it does not cool them**
 
 ## Worksheets
-### Just Right Detective (core, 15 questions)
+### Just Right Detective (core, 16 questions)
 1. (mcq) On a May afternoon in Chennai, it is 40 degrees outside. On a January morning in Delhi, it is 5 degrees. About how warm is the inside of a healthy child on each day?  
    Options: About 40 degrees in Chennai and 5 degrees in Delhi / About 37 degrees on both days / About 45 degrees in Chennai and 20 degrees in Delhi  
    **Answer:** About 37 degrees on both days. *Why:* The inside of the body stays near 37 degrees in any weather. The skin may feel hot or cold, but the inside is kept steady. That is homeostasis. The most common first guess is that the inside follows the weather.
@@ -585,7 +586,9 @@ People think that keeping cool means holding on to cold. It does not. I have nev
    **Answer:** A jumper does not make heat. My body makes the heat, in my muscles and cells. The jumper holds a layer of still air next to my skin, so the heat I make does not escape so fast.. *Why:* A strong answer says the heat comes from the body, and the jumper only keeps it in, like fur on a cat.
 15. (fill) When water slowly turns into a gas and goes into the air, it ____. Sweat does this when it dries.  
    **Answer:** ['evaporates']. *Why:* Evaporation takes heat from your skin, and that is why drying sweat cools you.
-### Balance Keepers (stretch, 15 questions)
+16. (fill) Your kidneys mix the waste they remove into ____ to make pee.  
+   **Answer:** ['water']. *Why:* Waste leaves the body dissolved in water. That is why drinking enough helps your body get rid of waste, and why pee is pale when you have had plenty.
+### Balance Keepers (stretch, 16 questions)
 1. (mcq) A sweaty child sits in a closed, humid room. Why do they still feel hot?  
    Options: Humid air has more heat in it than any other air / The damp air makes sweat dry slowly, so it cools them less / Sweat does not work indoors / They are not really sweating  
    **Answer:** The damp air makes sweat dry slowly, so it cools them less. *Why:* Sweat cools only when it dries. In humid air, it dries slowly and drips off instead. Picking 'sweat does not work indoors' misses that it is the dampness of the air, not the room, that matters.
@@ -621,6 +624,8 @@ People think that keeping cool means holding on to cold. It does not. I have nev
    **Answer:** The one in cotton, because air can reach the skin and sweat can dry. *Why:* Sweat cools only when it dries. Thick wool holds the sweat and the heat next to the skin. Thin cotton lets air in, so the sweat can dry and carry heat away.
 15. (write) In winter, your fingers and toes go cold long before your tummy does. Use the word 'blood' to explain why.  
    **Answer:** In the cold, the blood vessels in my skin squeeze narrow, so less warm blood goes to my fingers and toes. My body keeps the warm blood near my middle, where my heart and brain are.. *Why:* A strong answer says the blood vessels narrow, and that the body is saving heat for the parts that matter most. Cold fingers are the body working, not failing.
+16. (write) A common guide is about 8 glasses of water a day. Why might a child in Chennai in May need more than that? Give one reason.  
+   **Answer:** The heat makes you sweat more, and playing hard makes you sweat even more. Sweat takes water out of the body, so you need to drink more to replace it.. *Why:* Water leaves the body in sweat and pee. On a hot day and after play you lose more, so the body needs more to stay just right.
 ### Hot Days and Big Questions (challenge, 15 questions)
 1. (mcq) In the Matka Test, a clay matka and a steel pot stood side by side with the same water. On which day would the matka cool its water best?  
    Options: A humid, still monsoon day / A day when the matka is painted with oil paint / A hot, dry, breezy day in May / A day with no water inside  
@@ -704,6 +709,12 @@ People think that keeping cool means holding on to cold. It does not. I have nev
 13. (mcq) Why is a very humid heatwave more dangerous than a dry one at the same temperature?  
    Options: Humid air has no oxygen / Humid air makes you shiver / Sweat cannot dry well, so the body cannot cool itself / It isn't more dangerous  
    **Answer:** Sweat cannot dry well, so the body cannot cool itself. *Why:* Sweat cools only by drying. In very humid air it hardly dries, so the body heats up. Scientists are still working out exactly where the danger limit is.
+14. (mcq) What carries the waste your kidneys remove out of your body?  
+   Options: Water, which leaves the body as pee / Your breath, which carries the waste out as air / Your food, which takes the waste back into your blood / Nothing: the waste stays in your blood for ever  
+   **Answer:** Water, which leaves the body as pee. *Why:* Your kidneys filter waste out of your blood and mix it into water to make pee. Breath does not carry the kidneys' waste, and the waste does not stay in the blood.
+15. (mcq) Ravi plays cricket for two hours on a hot May afternoon. What should he do about water?  
+   Options: Drink water through the day, and more than usual, because sweat takes water out of him / Drink nothing, because sweat is not pee and so does not count / Drink one big glass at bedtime and nothing during the game / Skip water, because the match is only two hours long  
+   **Answer:** Drink water through the day, and more than usual, because sweat takes water out of him. *Why:* Sweat is water leaving the body, so he must drink water to replace it. Drinking through the day works better than one big glass at bedtime, which does nothing for the water he lost at the match.
 
 ## Applications
 - Doctors use a thermometer to check for fever, when the body's set point has moved up.

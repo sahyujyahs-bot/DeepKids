@@ -15,6 +15,7 @@
 
 ## Terms
 - **Testable question**: A testable question is one you can answer by doing something and watching what happens. Anyone who does the same thing sees the same answer. *e.g.* 'Does a steel spoon sink in water?' is testable. Drop one in a tumbler of water and watch.
+- **Source**: A book, chart or map made by someone else, which you can read to find an answer. *e.g.* A rainfall chart in an atlas is a source. You read it to see which month has the most rain.
 - **Prediction**: A prediction is what you think will happen, and why, said before you try. It is a guess with a reason. *e.g.* 'The crumpled paper will land first, because it is a small ball and the air slows it less.'
 - **Test**: A test is something you do to find out if your prediction is right. You do it, watch carefully and write down what happened. *e.g.* Pushing a pencil into rice and lifting it is a test of the question 'Can a pencil lift a bottle of rice?'
 - **Result**: The result is what really happened in your test. You write it down, even when it is not what you predicted. *e.g.* 'The bottle lifted after 30 pokes' is a result.
@@ -30,10 +31,16 @@
 - e.g. An opinion: 'Is a mango nicer than a banana?' Each person's answer is true for them.
 - e.g. Not testable yet: 'What is at the very edge of space?' Nobody can go there to look.
 - e.g. Answered by asking: 'What did Ammamma eat when she was small?' Ask her.
+### A book or a chart can answer some questions · *defined*
+**Definition:** A source is a book, chart or map made by someone else that you can read to find an answer.
+
+You cannot test everything yourself. You cannot visit a rainforest to see what lives there before dinner. But people have watched, measured and written it down. A book, a picture chart or a table in your class book is a source. You read it, find the part that matches your question, and take the answer from it. A good source says who made it. If two sources give different answers, that is a new question to look into.
+- e.g. How many days a chick takes to hatch? A poultry chart or a book of birds can tell you. You do not need your own hen.
+- e.g. Which month brings most rain to your town? Look along the rainfall chart in an atlas and find the tallest bar.
 ### A prediction is a guess with a reason · *defined*
 **Definition:** A prediction says what you think will happen in a test, and why you think so, before the test starts.
 
-'I think the bottle will fall' is a guess. 'I think the bottle will fall, because rice is loose and slippery' is a prediction, because it has a reason. If the bottle lifts, the reason shows which idea to change. Say your prediction before the test. If you wait until after the test, anyone can say 'I knew it!', even when they did not. A prediction said before the test cannot be faked.
+'I think the bottle will fall' is a guess. 'I think the bottle will fall, because rice is loose and slippery' is a prediction, because it has a reason. If the bottle lifts, the reason shows which idea to change. Say your prediction before the test. If you wait until after the test, anyone can say 'I knew it!', even when they did not. A prediction said before the test cannot be faked. After a test, put your result next to your prediction. If they match, we say the result supports your prediction. If they do not match, the result does not support it. Either way, say why. A result that supports a prediction does not prove it for ever. It only tells you that this test agreed.
 - e.g. 'The ice will float, because I have seen ice floating in a glass of water.'
 - e.g. 'The crumpled paper will land first, because it is smaller, so the air pushes it less.'
 - e.g. 'It will rain today, because the sky is dark grey and the wind is cool.'
@@ -425,7 +432,7 @@ Kiran mama groaned, but he was smiling. 'Only if I get to predict first.'
   *Child mode:* Did it take fewer pokes? Was your guess close? Why?
 
 ## Worksheets
-### Questions and predictions (core, 11 questions)
+### Questions and predictions (core, 12 questions)
 1. (sort) Sort these questions into two groups. Circle the test questions in green and the opinion questions in blue.  
    **Answer:** Does ice melt in the sun? → We can test it by trying; Which pet is the cutest? → It is an opinion; Does a paper boat float? → We can test it by trying; Is red nicer than blue? → It is an opinion; Does a ball roll faster down a steep slope? → We can test it by trying. *Why:* A test question can be answered by doing something and watching. An opinion is what a person likes, so each person's answer is true for them.
 2. (mcq) Someone says, 'The crumpled paper will land first.' What should they add to make it a prediction?  
@@ -451,7 +458,9 @@ Kiran mama groaned, but he was smiling. 'Only if I get to predict first.'
    **Answer:** A drawing of something to test, with a question like 'Does a lemon float?'. *Why:* A strong answer is a question that a test can answer, where everyone would see the same result.
 11. (write) Say out loud, and a grown-up writes it: 'Which fruit is the best?' Why can't a test answer this?  
    **Answer:** For example: because everyone likes different fruits. My best fruit is mango, but my friend's is banana.. *Why:* A strong answer says it is an opinion, and that different people's answers are all true for them.
-### Testing ideas (stretch, 11 questions)
+12. (sort) Aisha predicted: 'A steel spoon will sink in water.' Sort each result into 'Supports her prediction' or 'Does not support it'.  
+   **Answer:** The spoon went to the bottom of the tumbler → Supports her prediction; The spoon stayed floating on top → Does not support it; The spoon sank straight away → Supports her prediction; The spoon bobbed on the surface → Does not support it. *Why:* A result supports a prediction when it matches. When it does not match, it does not support it, and that is still worth writing down.
+### Testing ideas (stretch, 12 questions)
 1. (perspective) Two girls in Kolkata, the first child and the second child, predict what happens when you push a pencil into a bottle of rice and lift it.  
    **Answer:** A strong answer: The second child is right for loose rice, because the grains slide. The first child is right once the rice is packed tight, because then it grips the pencil. Both are right, in different cases.. *Why:* Both girls have part of the answer. The test showed that it depends on how tightly the rice is packed.
 2. (write) Someone says, 'Batter rises the same in the fridge.' Say how you could test this, and a grown-up writes it.  
@@ -476,6 +485,8 @@ Kiran mama groaned, but he was smiling. 'Only if I get to predict first.'
    **Answer:** A dropped spoon falls → Sure every time; One coin shake lands heads → Chance each time; Ice melts in a hot room → Sure every time; One die roll shows a six → Chance each time. *Why:* Things that always happen the same way can be predicted each time. Coins and dice land by chance.
 11. (write) Think of a question nobody can test today. Say why it can't be tested, and a grown-up writes it.  
    **Answer:** For example: 'Is there life near another star?' We can't go there yet.. *Why:* A strong answer gives a real reason: too far, too long ago, or too small to see with the tools we have.
+12. (fill) Your class chart says a bean plant was 1 cm tall on Day 2, 3 cm on Day 4 and 6 cm on Day 6. How tall was it on Day 4? ________ cm  
+   **Answer:** ['3', '3 cm']. *Why:* You read a chart by finding the row for your question and reading across. The person who made the chart measured the plant, so you can use their answer.
 
 ## Videos
 - **Friction experiment: lifting a bottle of rice with a stick** (Fizzics Education, 2 min) id `vn9fKJc1jkE`: Shows the Rice Bottle Lift done well, so a family can see how tightly the rice must be packed. *Check:* Found by search: "How to demonstrate friction using rice" by Fizzics Education, 1 minute 58 seconds. A parent may preview it.
@@ -512,6 +523,12 @@ Kiran mama groaned, but he was smiling. 'Only if I get to predict first.'
 10. (mcq) A comet comes back about every 76 years. On its trip it passes near big planets like Jupiter and Saturn. Why might it come back a little later than expected?  
    Options: The pull of the big planets can slow it down / It gets tired / Comets always come early  
    **Answer:** The pull of the big planets can slow it down. *Why:* Big planets pull on things that pass near them. Working out these pulls makes a prediction more exact.
+11. (mcq) Rohan predicted that the big ball would bounce higher, because it is heavier. The small ball bounced higher. What should he say?  
+   Options: The result does not support my prediction, so I need to rethink my reason / The result supports my prediction / The test is wrong, so I will bounce them again until the big ball wins  
+   **Answer:** The result does not support my prediction, so I need to rethink my reason. *Why:* The result and the prediction do not match, so the result does not support it. Rohan should write it down and change his idea. Bouncing again until the big ball wins would not be a fair look at what really happened.
+12. (mcq) Which question can a book or chart answer, when you cannot go and test it yourself?  
+   Options: What do giraffes eat in the wild? / Which fruit is the tastiest? / Is blue prettier than green?  
+   **Answer:** What do giraffes eat in the wild?. *Why:* People who watched giraffes have written down what they eat, so a book can tell you. The other two are opinions, and no book can say which one is true for you.
 
 ## Applications
 - Weather forecasters at the India Meteorological Department predict rain and storms, so fishers know when the sea is unsafe.

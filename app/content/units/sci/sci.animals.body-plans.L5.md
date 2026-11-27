@@ -495,6 +495,18 @@ Ammamma laid the three pieces end to end, the way they must once have lain on th
   *Child mode:* Hold each wing bone against your arm. Point to its match. Write its name beside it.
   - Check: A hen's wing has one bone, then two, then a small hand. What is the best explanation? → **Birds and humans inherited the limb from shared ancestors**
   - Think: A bat's wing is skin stretched over long fingers. A bird's wing is feathers on a short stiff hand. Which bones would you look at to tell them apart?
+### a6 · Pond Visit: how a creature's mouth and legs match its life (20 min)
+- **record:** Draw the creature and mark its mouth. Write what it eats, how it moves, and which body part it uses most.
+- **s1 (8 min)**  
+  *Parent does:* Your child watches one pond creature for two minutes. Ask where the mouth is: on top, at the front, or underneath. Ask how the creature moves: swims, crawls or glides. Ask which body part it uses most, such as a fin, a foot, a tail or back legs.  
+  *Parent says:* Pick one creature and watch it for two minutes. Tell me where the mouth is, how the creature moves and which body part it uses most.  
+  *Child mode:* Watch one creature for two minutes. Where is its mouth? How does the creature move? Which body part does the most work?
+  - Note: A snail, a tadpole and a diving beetle are easy to find in a pond with weeds. Keep the watching quiet, because a sudden movement sends most creatures to the bottom.
+- **s2 (10 min)**  
+  *Parent does:* Match the body to the life. A snail has its mouth at the front, underneath, with a rough, file-like tongue that scrapes algae off stones. A dragonfly nymph has a hinged lower lip that shoots out to catch small creatures. A diving beetle has flat back legs fringed with hairs, which push the water back like oars. Ask which body part does the most work, and why that part suits the way the creature lives.  
+  *Parent says:* Which body part does the most work? Would that part work on land? Why does it suit the way this creature lives?  
+  *Child mode:* Which body part does the most work? Why does that part suit the way the creature lives?
+  - Note: Many odd-looking body parts are built for one job in water. Return the creatures to the pond after twenty minutes, and wash your hands with soap after you touch pond water.
 
 ## Projects
 ### p1 · The Family Leftover Map: three leftovers across three generations (45 min, 4 days)
@@ -555,7 +567,7 @@ Ammamma laid the three pieces end to end, the way they must once have lain on th
   - Think: Your design can fan air, but can it still hold a pencil? What does a bat give up by having wings for hands?
 
 ## Worksheets
-### Same Part or Same Job? (core) (core, 15 questions)
+### Same Part or Same Job? (core) (core, 16 questions)
 1. (mcq) A dolphin's flipper and your arm hold the same bones in the same order. What are such parts called?  
    Options: Homologous parts / Analogous parts / Vestigial parts  
    **Answer:** Homologous parts. *Why:* Homologous parts are the same part, inherited from a shared ancestor, even when the jobs differ. Analogous parts share a job and not a build. Vestigial parts have lost most of an old job.
@@ -589,6 +601,8 @@ Ammamma laid the three pieces end to end, the way they must once have lain on th
    **Answer:** 14. *Why:* Four fingers with 3 bones each make 12. The thumb adds 2. 12 and 2 make 14. A foot has the same count: 2 in the big toe and 3 in each other toe.
 15. (odd) Which is the odd one out, and why? Ant. Crab. Spider. Snail.  
    **Answer:** Snail. The other three are arthropods, with jointed legs and a skeleton on the outside. A snail is a mollusc.. *Why:* Ants, crabs and spiders share one body plan. A snail has a soft body with no jointed legs.
+16. (fill) A diving beetle's flat back legs, fringed with hairs, work like ____ when the beetle swims.  
+   **Answer:** ['oars']. *Why:* Oars push the water back, and the beetle's flat legs do the same. A land beetle's back legs are built for walking on land.
 ### Clues From the Inside (stretch) (stretch, 15 questions)
 1. (mcq) A caecilian looks like a big earthworm but has a skull, teeth and a backbone. Who are their closer relatives?  
    Options: Frogs / Earthworms / Millipedes  
@@ -696,6 +710,9 @@ Ammamma laid the three pieces end to end, the way they must once have lain on th
 11. (mcq) Why can each part of a tube gut do one job well?  
    Options: Food passes the parts in one order / The tube is always full / Food moves both ways along it  
    **Answer:** Food passes the parts in one order. *Why:* Food moves one way in a tube, so grinding can come first and taking in can come later. In a sac, new food and old waste share one space.
+12. (mcq) A diving beetle in a pond has flat back legs fringed with hairs. What are they mainly for?  
+   Options: Digging up roots from the mud / Rowing through the water / Holding a bubble of air  
+   **Answer:** Rowing through the water. *Why:* The flat legs push the water back like oars, which is how the beetle swims. The leg joints are the same as a land beetle's, but the shape is changed for life in water. The legs are not for digging, and the air bubble is carried under the wing cover, not held by the legs.
 
 ## Applications
 - Surgeons repair a damaged tendon in the hand or the wrist with the palmaris longus tendon from the same person's forearm, because the hand works without it.
@@ -786,7 +803,7 @@ Many Ways to Live a Life (sci.animals.L5): Topic-level song
 
 ## Plan
 - Start options: intro, a1, e1, story, g1, big_questions, cards
-- Default order: intro → summary → a1 → e1 → terms → explanations → story → a4 → g1 → e2 → videos → ws-core → a2 → how_we_found_out → agreed → a3 → a5 → challenging → big_questions → ws-stretch → c1 → p1 → ws-challenge → open_questions → roots → quiz
+- Default order: intro → summary → a1 → e1 → terms → explanations → story → a4 → g1 → e2 → videos → ws-core → a2 → how_we_found_out → agreed → a3 → a5 → challenging → big_questions → ws-stretch → c1 → p1 → a6 → ws-challenge → open_questions → roots → quiz
 - Core: a1, e1, a4, g1, e2, a2, ws-core
 
 ## Sources

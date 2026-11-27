@@ -16,6 +16,7 @@
 ## Terms
 - **Basic needs**: Basic needs are the things every person must have to live and stay well: air, water, food, clothes and a home. *e.g.* A baby, a grandmother and a cricketer all have the same five basic needs.
 - **Shelter**: A shelter is a place that keeps you safe from sun, rain, cold and wind. A home is a shelter. *e.g.* When it rains, a bus stop with a roof is a shelter.
+- **Stranger**: A stranger is a person you and your family do not know. Most people are kind, but a child should not go anywhere with a stranger. *e.g.* A man you have never met offers you a sweet at the bus stand. You say no and stay near your mother.
 - **Wind**: Wind is air that is moving. We cannot see air, but we can see what wind moves. *e.g.* A fan makes a wind. It flaps the pages of a book on the table.
 - **Fresh air**: Fresh air is clean air coming in from outside. Used air goes out through windows and doors. *e.g.* Opening the window in the morning lets fresh air into the bedroom.
 
@@ -41,12 +42,26 @@ Your body uses air all the time, so you breathe every few seconds, even in your 
 ### Clothes and a home keep us safe · *defined*
 **Definition:** Clothes and a home protect our bodies from sun, rain, cold, wind, insects and dirt.
 
-Your skin can burn in strong sun and get very cold in wind and rain. A cap and loose cotton clothes shade you from the sun, and a sweater keeps you warm. A home has a roof for rain and sun, walls for wind, and windows that let fresh air in.
+Your skin can burn in strong sun and get very cold in wind and rain. A cap and loose cotton clothes shade you from the sun, and a sweater keeps you warm. A home has a roof for rain and sun, walls for wind, and windows that let fresh air in. Clothes are not all the same. A boy may wear a shirt and shorts, a kurta and pyjama, or a school uniform. A girl may wear a frock, a salwar kameez, or the same school uniform. Each piece does a job: a cap shades your head, a sweater keeps you warm, a raincoat keeps you dry and chappals protect your feet from hot ground.
 - e.g. Farmers in the fields of Andhra Pradesh often tie a cotton towel around their heads to keep off the sun.
 - e.g. In Shillong in winter, people wear woollen shawls and caps.
 - e.g. Houses in rainy Kerala often have sloping roofs, so rain runs off.
 - **People of different lands:** The Inuit made fur parkas for deep cold, while people of hot India wore thin cotton. What 'enough' covering means depends on the climate.
 - **Other animals:** Birds weave nests, hermit crabs borrow shells, and bees build wax homes. Many animals make or find shelter.
+### The rooms of a home and their work · *defined*
+**Definition:** A room is a part of a home with its own work, such as cooking, sleeping or washing.
+
+Think of your own home and walk through it in your mind. In the kitchen, food is cooked and washed. In the bedroom, you sleep and rest. In the bathroom, you wash and clean your teeth. In the living room, the family sits, talks and welcomes guests. Each room has one main work, so each need is looked after in its own place.
+- e.g. At dinner time in a flat in Pune, Amma cooks in the kitchen, and the family eats together in the living room.
+- e.g. After play, a child in Lucknow washes hands and feet in the bathroom before going to the bedroom to sleep.
+- **Families with one room:** Many families live in a single room. They cook in one corner, sleep on mats in another and wash outside. The work is the same, and the corner does the job of the room.
+### Staying safe at home and outside · *defined*
+**Definition:** Staying safe means knowing what can hurt us and what to do so that we do not get hurt.
+
+At home, hot things like the stove, a pan or a kettle can burn you, so let a grown-up handle them. Do not touch electric sockets or wires. Keep medicines and cleaning liquids with a grown-up, because they can make you ill. Outside, hold a grown-up's hand when you cross a road, and look both ways. In a market, a bus or a railway station, stay close to your family. Never go with a stranger, who is a person you and your family do not know. If you feel lost, go to a shopkeeper or a policewoman and say your name and your parent's phone number.
+- e.g. Meena in Jaipur waits for Papa before she crosses the busy road to the sweet shop.
+- e.g. Ravi gets lost in a crowded mela in Pushkar. He stands still near a shop, tells the shopkeeper his name, and she calls his mother.
+- **A child's own feelings:** If anything or anyone makes you feel scared or unsafe, you may say no and tell a grown-up you trust. Being safe is your right, and a good grown-up will listen.
 ### A wall makes calm air behind it · *defined*
 **Definition:** When wind meets a wall, the moving air cannot go through, so it flows around and over it. Behind the wall, the air is calm.
 
@@ -398,7 +413,7 @@ I held up a handful in the wind. It was so light that I had to close my fist to 
   - Note: Keep fingers and the tissue away from the fan blades.
 
 ## Worksheets
-### Our Five Needs (core) (core, 10 questions)
+### Our Five Needs (core) (core, 12 questions)
 1. (match) Draw a line from each need to the thing that gives it.  
    **Answer:** Air → An open window; Water → A clay matka; Food → A plate of dosa; Clothes → A raincoat; A home → A roof. *Why:* Each thing gives us one need. A window lets in fresh air, and a roof keeps us safe from rain.
 2. (draw) Draw your hand. Draw one basic need on each finger.  
@@ -419,10 +434,14 @@ I held up a handful in the wind. It was so light that I had to close my fist to 
    **Answer:** Water, because I feel thirsty and sweaty. Air, because I breathe fast.. *Why:* A strong answer names water and air, and says what the body does to show it: thirst and fast breathing.
 9. (label) Here is a house. Write R next to the part that keeps off the rain, W next to the part that stops the wind, and A next to the part that lets in fresh air.  
    **Answer:** R on the roof, W on a wall, A on a window.. *Why:* A roof keeps off rain and sun, walls stop the wind, and windows let fresh air in.
-10. (mcq) A crow comes to a bowl on the balcony on a hot day. Which need is the crow meeting?  
+10. (match) Draw a line from each room to its work.  
+   **Answer:** Kitchen → Cooking food; Bedroom → Sleeping; Bathroom → Washing; Living room → Sitting and talking with the family. *Why:* Each room has its own work. We cook in the kitchen and sleep in the bedroom.
+11. (draw) Draw one boy and one girl in clothes you have seen. Write the name of each piece, and one line on what it does.  
+   **Answer:** For example: a boy in a shirt and shorts, a girl in a frock with a cap. A cap shades the head, and a frock keeps the body cool.. *Why:* Every piece of clothing has a use. Boys and girls may wear different clothes, but all clothes protect the body.
+12. (mcq) A crow comes to a bowl on the balcony on a hot day. Which need is the crow meeting?  
    Options: Water / Clothes / A home  
    **Answer:** Water. *Why:* The crow is thirsty, like us on a hot day. Crows need water too.
-### Needs, Wind and Shelter (stretch) (stretch, 10 questions)
+### Needs, Wind and Shelter (stretch) (stretch, 11 questions)
 1. (perspective) Two friends in Kolkata, Rumi and Joyita, are building a tent on a windy terrace.  
    **Answer:** Joyita will have a calmer tent, because the closed back faces the wind. But Rumi is right that a home needs fresh air. A tent with its door away from the wind still gets fresh air through the door.. *Why:* A strong answer uses the wind box test and is fair to Rumi: fresh air is a need too.
 2. (mcq) A farmer plants a row of trees to keep the wind off her crops. On which side of the field should the trees go?  
@@ -435,15 +454,17 @@ I held up a handful in the wind. It was so light that I had to close my fist to 
 5. (mcq) It is January in Shimla, and it is very cold. Which clothes do you need?  
    Options: A woollen sweater, a cap and socks / A thin cotton frock only / A raincoat only  
    **Answer:** A woollen sweater, a cap and socks. *Why:* Wool keeps you warm. In Chennai in May you would need loose cotton instead. The need is the same, but the clothes depend on the place.
-6. (draw) Draw a home for a pigeon. Show what keeps off the rain and the wind.  
+6. (sort) Sort each one into Safe or Not safe.  
+   **Answer:** Holding a grown-up's hand on the road → Safe; Touching a plug socket → Not safe; Standing near a hot pan → Not safe; Staying close to your family in a market → Safe. *Why:* Roads, sockets and hot pans can hurt us. Holding a hand and staying close keep us safe.
+7. (draw) Draw a home for a pigeon. Show what keeps off the rain and the wind.  
    **Answer:** A nest on a ledge under a roof, or in a corner with a wall on the windy side.. *Why:* A strong drawing shows a roof for rain and a wall against the wind. Pigeons choose such places in our buildings.
-7. (truefalse) A wall stops the wind from moving at all.  
+8. (truefalse) A wall stops the wind from moving at all.  
    **Answer:** False. *Why:* False. The wind goes around the wall. That is why the air behind it is calm.
-8. (fill) Fill the gap: Wind is air that is ____.  
+9. (fill) Fill the gap: Wind is air that is ____.  
    **Answer:** moving. *Why:* Wind is moving air. We cannot see it, but we see what it moves, like the tissue flag.
-9. (label) Here is the wind box from above, with a fan on one side. Draw arrows to show where the wind goes. Put a C where the air is calm.  
+10. (label) Here is the wind box from above, with a fan on one side. Draw arrows to show where the wind goes. Put a C where the air is calm.  
    **Answer:** Arrows curve around both sides of the box. The C is inside the box, near the door.. *Why:* A strong answer shows the wind going around the closed wall, and the calm air inside.
-10. (write) How do clothes help you on a hot day, and on a cold night? Say your answer to a grown-up, who writes it down.  
+11. (write) How do clothes help you on a hot day, and on a cold night? Say your answer to a grown-up, who writes it down.  
    **Answer:** On a hot day, a cap and loose cotton clothes shade me and keep me cool. On a cold night, a sweater or shawl keeps me warm.. *Why:* A strong answer gives one kind of clothes for the heat and one for the cold, and says what each does.
 
 ## Videos
@@ -461,22 +482,31 @@ I held up a handful in the wind. It was so light that I had to close my fist to 
 4. (mcq) What does a roof keep off us?  
    Options: Rain and hot sun / Air / Food  
    **Answer:** Rain and hot sun. *Why:* A roof keeps off the rain and the hot sun. Walls keep off the wind.
-5. (mcq) In the wind box test, which way should the open door of the box face to keep the tissue flag still?  
+5. (mcq) In which room of a home is food cooked?  
+   Options: The kitchen / The bedroom / The bathroom  
+   **Answer:** The kitchen. *Why:* Food is cooked in the kitchen. We sleep in the bedroom and wash in the bathroom, so each room has its own work.
+6. (mcq) You get lost in a crowded market. What should you do?  
+   Options: Go to a shopkeeper and say your name and your parent's phone number / Go with a friendly person you have never met / Keep running through the crowd to find your family  
+   **Answer:** Go to a shopkeeper and say your name and your parent's phone number. *Why:* A shopkeeper is a safe grown-up to ask. Going with a stranger is not safe, and running makes it harder for your family to find you.
+7. (mcq) Why do we wear a raincoat and chappals on a wet day?  
+   Options: The raincoat keeps our body dry and the chappals protect our feet / They help us to breathe / They give us water to drink  
+   **Answer:** The raincoat keeps our body dry and the chappals protect our feet. *Why:* Clothes protect the body. A raincoat keeps rain off, and chappals protect our feet. They do not give us air or water.
+8. (mcq) In the wind box test, which way should the open door of the box face to keep the tissue flag still?  
    Options: Towards the fan / Away from the fan / It does not matter  
    **Answer:** Away from the fan. *Why:* With the door away from the fan, the closed wall faced the wind. The air went around the box, so the flag hung still.
-6. (mcq) In the wind box test, a tunnel was open at both ends. What did the tissue flag do inside it?  
+9. (mcq) In the wind box test, a tunnel was open at both ends. What did the tissue flag do inside it?  
    Options: It flapped, because the wind blew straight through / It hung still, because it had a roof / It fell over  
    **Answer:** It flapped, because the wind blew straight through. *Why:* A roof alone does not stop the wind. The wind blew in at one end and out of the other.
-7. (mcq) Which of these is a shelter for a pigeon?  
+10. (mcq) Which of these is a shelter for a pigeon?  
    Options: A nest on a ledge under a roof / A puddle on the road / A plate of rice  
    **Answer:** A nest on a ledge under a roof. *Why:* A nest under a roof keeps a pigeon safe from rain and wind. It is the pigeon's home.
-8. (mcq) Which is true?  
+11. (mcq) Which is true?  
    Options: Humans are animals, and we need air, water and food like other animals / Only people need water / Plants need nothing  
    **Answer:** Humans are animals, and we need air, water and food like other animals. *Why:* Humans are animals. Crows, cats, ants and people all need air, water and food. Plants need air, water and light.
-9. (mcq) In a hospital, many people are getting ill from dirty water and blocked drains. What will most likely happen if the water and drains are cleaned?  
+12. (mcq) In a hospital, many people are getting ill from dirty water and blocked drains. What will most likely happen if the water and drains are cleaned?  
    Options: Far fewer people will get ill / More people will get ill / Nothing will change  
    **Answer:** Far fewer people will get ill. *Why:* Dirty water and drains spread germs. Clean water and drains take the germs away, so fewer people fall ill. Florence Nightingale's numbers showed this in her hospital: after the drains and water were cleaned, far fewer soldiers died.
-10. (mcq) It is May in Madurai, and you go out in the hot sun. What should you wear?  
+13. (mcq) It is May in Madurai, and you go out in the hot sun. What should you wear?  
    Options: A cap and loose cotton clothes / A thick woollen sweater / Nothing on your head  
    **Answer:** A cap and loose cotton clothes. *Why:* A cap shades your head, and loose cotton lets sweat dry and keeps you cool.
 

@@ -1530,6 +1530,58 @@
      "think": "A bat's wing is skin stretched over long fingers. A bird's wing is feathers on a short stiff hand. Which bones would you look at to tell them apart?"
     }
    ]
+  },
+  {
+   "id": "a6",
+   "title": "Pond Visit: how a creature's mouth and legs match its life",
+   "mins": 20,
+   "days": 1,
+   "context": "In this activity you watch one pond creature for two minutes. You match its mouth, its way of moving and its body parts to the life it leads, the way scientists compare bodies.",
+   "materials": [
+    {
+     "item": "a jar or bowl of pond water, with a few stones and weeds",
+     "qty": 1
+    },
+    {
+     "item": "a white tray or plate",
+     "qty": 1
+    },
+    {
+     "item": "a magnifying glass, if you have one",
+     "qty": 1
+    }
+   ],
+   "record": "Draw the creature and mark its mouth. Write what it eats, how it moves, and which body part it uses most.",
+   "setup": [
+    {
+     "art": "A child kneeling by a pond with a jar of pond water and a white tray beside her.",
+     "caption": "1. Scoop a little pond water into a jar. Pour some onto the white tray."
+    },
+    {
+     "art": "A child looking through a magnifying glass at a snail on a stone.",
+     "caption": "2. Pick one creature, such as a snail, a tadpole or a water beetle. Watch that one for two minutes."
+    }
+   ],
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 8,
+     "do": "Your child watches one pond creature for two minutes. Ask where the mouth is: on top, at the front, or underneath. Ask how the creature moves: swims, crawls or glides. Ask which body part it uses most, such as a fin, a foot, a tail or back legs.",
+     "say": "Pick one creature and watch it for two minutes. Tell me where the mouth is, how the creature moves and which body part it uses most.",
+     "kid": "Watch one creature for two minutes. Where is its mouth? How does the creature move? Which body part does the most work?",
+     "context": "This is the first step of Pond Visit. You watch a living creature in its water before you think about its body.",
+     "parent": "A snail, a tadpole and a diving beetle are easy to find in a pond with weeds. Keep the watching quiet, because a sudden movement sends most creatures to the bottom."
+    },
+    {
+     "id": "s2",
+     "mins": 10,
+     "do": "Match the body to the life. A snail has its mouth at the front, underneath, with a rough, file-like tongue that scrapes algae off stones. A dragonfly nymph has a hinged lower lip that shoots out to catch small creatures. A diving beetle has flat back legs fringed with hairs, which push the water back like oars. Ask which body part does the most work, and why that part suits the way the creature lives.",
+     "say": "Which body part does the most work? Would that part work on land? Why does it suit the way this creature lives?",
+     "kid": "Which body part does the most work? Why does that part suit the way the creature lives?",
+     "context": "In this step you match the body of your creature to its way of life, the same way you compared bodies on the nine-animal sheet.",
+     "parent": "Many odd-looking body parts are built for one job in water. Return the creatures to the pond after twenty minutes, and wash your hands with soap after you touch pond water."
+    }
+   ]
   }
  ],
  "projects": [
@@ -1956,6 +2008,15 @@
      "a": "Snail. The other three are arthropods, with jointed legs and a skeleton on the outside. A snail is a mollusc.",
      "why": "Ants, crabs and spiders share one body plan. A snail has a soft body with no jointed legs.",
      "outcome": 1
+    },
+    {
+     "t": "fill",
+     "p": "A diving beetle's flat back legs, fringed with hairs, work like ____ when the beetle swims.",
+     "a": [
+      "oars"
+     ],
+     "why": "Oars push the water back, and the beetle's flat legs do the same. A land beetle's back legs are built for walking on land.",
+     "outcome": 3
     }
    ]
   },
@@ -2484,6 +2545,18 @@
    "why": "Food moves one way in a tube, so grinding can come first and taking in can come later. In a sac, new food and old waste share one space.",
    "outcome": 0,
    "how": "e2"
+  },
+  {
+   "t": "mcq",
+   "p": "A diving beetle in a pond has flat back legs fringed with hairs. What are they mainly for?",
+   "opts": [
+    "Digging up roots from the mud",
+    "Rowing through the water",
+    "Holding a bubble of air"
+   ],
+   "a": 1,
+   "why": "The flat legs push the water back like oars, which is how the beetle swims. The leg joints are the same as a land beetle's, but the shape is changed for life in water. The legs are not for digging, and the air bubble is carried under the wing cover, not held by the legs.",
+   "outcome": 3
   }
  ],
  "videos": [
@@ -2918,6 +2991,7 @@
    "ws-stretch",
    "c1",
    "p1",
+   "a6",
    "ws-challenge",
    "open_questions",
    "roots",

@@ -96,6 +96,18 @@
    "art": "An ovary cut open to show a row of tiny pale grains on short stalks."
   },
   {
+   "term": "Bisexual flower",
+   "meaning": "A flower that has both stamens and carpels.",
+   "example": "A hibiscus is bisexual. It has stamens that make pollen and carpels that hold ovules, in one flower.",
+   "art": "A hibiscus cut in half, with the stamen tube and the carpels both labelled."
+  },
+  {
+   "term": "Unisexual flower",
+   "meaning": "A flower that has only stamens or only carpels, not both.",
+   "example": "A pumpkin vine has some flowers with only stamens and others with only carpels. Each one is unisexual.",
+   "art": "Two pumpkin flowers side by side, one with only a stamen in the middle and one with a small round ovary below the petals."
+  },
+  {
    "term": "Nectar",
    "meaning": "A sugary liquid that many flowers make. Animals visit flowers to drink nectar, and they carry pollen away on their bodies.",
    "example": "Pull out an ixora flower and you find a drop of sweet nectar at the base of the thin tube.",
@@ -148,6 +160,12 @@
    "meaning": "The part of a plant that grows from the ovary of a flower and holds the seeds.",
    "example": "A mango, a bhindi, a pea pod, a tomato and a grain of paddy are all fruits.",
    "art": "A mango, a bhindi, a pea pod and a tomato in a row, each cut open to show the seeds."
+  },
+  {
+   "term": "Seed dispersal",
+   "meaning": "The carrying of seeds away from the plant that made them, by animals, wind or water.",
+   "example": "A bird eats a ripe fig and drops the seeds far from the tree. This carries the seeds away.",
+   "art": "A bird flying away from a fig tree with a small fig seed falling from its beak onto a distant wall."
   }
  ],
  "explanations": [
@@ -155,7 +173,7 @@
    "concept": "The four rings of a flower",
    "status": "defined",
    "definition": "A complete flower has four rings of parts, one inside the other. From the outside in, they are the sepals, the petals, the stamens and the carpels.",
-   "description": "Look at a flower from the outside in. The outer ring is the sepals. They are usually green, and they cover the bud before the flower opens. The second ring is the petals. Petals are often large and coloured, and many have a scent. They help animal visitors find the flower. The third ring is the stamens, which are the male parts. Each stamen makes pollen. In the middle are the carpels, which are the female part. The carpels hold the ovules, and the ovules can become seeds. The number of parts in each ring is often the same, or one number is a multiple of the other. A hibiscus has 5 sepals, 5 petals and 5 carpels. A mustard flower has 4 sepals, 4 petals and 6 stamens. Not every flower has all four rings. A paddy flower has no petals. A pumpkin vine makes some flowers with only stamens and other flowers with only carpels.",
+   "description": "Look at a flower from the outside in. The outer ring is the sepals. They are usually green, and they cover the bud before the flower opens. The second ring is the petals. Petals are often large and coloured, and many have a scent. They help animal visitors find the flower. The third ring is the stamens, which are the male parts. Each stamen makes pollen. In the middle are the carpels, which are the female part. The carpels hold the ovules, and the ovules can become seeds. The number of parts in each ring is often the same, or one number is a multiple of the other. A hibiscus has 5 sepals, 5 petals and 5 carpels. A mustard flower has 4 sepals, 4 petals and 6 stamens. Not every flower has all four rings. A paddy flower has no petals. A pumpkin vine makes some flowers with only stamens and other flowers with only carpels. A flower that has both stamens and carpels is called bisexual. Hibiscus, mustard and tuberose flowers are bisexual. A flower that has only stamens, or only carpels, is called unisexual. The pumpkin flowers above are unisexual, and so are cucumber flowers and most papaya flowers. A maize plant keeps its unisexual flowers apart: the male flowers are in the tassel at the top, and the female flowers are on the cob below.",
    "examples": [
     "A hibiscus has 5 sepals and 5 petals. It has more than 50 stamens joined in a tube, and 5 carpels joined together.",
     "A mustard flower has 4 sepals and 4 yellow petals, which make a cross. It has 6 stamens and 1 long, thin ovary.",
@@ -306,6 +324,20 @@
    ],
    "perspectives": [],
    "art": "The Sun shining on a leaf, an arrow from the leaf to a drop of nectar in a flower, and an arrow from the nectar to a bee in flight carrying pollen."
+  },
+  {
+   "concept": "Animals help plants, and plants help animals",
+   "status": "defined",
+   "context": "What does a plant get from animals, and what does it give back? This card explains the help that goes both ways.",
+   "definition": "Many animals carry pollen or seeds for plants. The plants pay them with food, such as nectar and fruit.",
+   "description": "A bee drinks the nectar of a flower and carries pollen on her body to the next flower. The flower gets its seeds, and the bee gets her food. The help does not stop when the flower becomes a fruit. A ripe guava or a red peepal fig is soft, sweet and easy to see. Birds, bats and squirrels eat it. Many of the seeds pass through a bird's body whole, and fall to the ground far from the mother tree. There they land in droppings that feed them. Some seeds do not wait to be eaten. Hooked seeds of some wild grasses cling to the fur of a goat or a dog, and drop off far away. A squirrel buries nuts for the winter and forgets some, and they grow. Carrying seeds away helps the young plants, because they do not have to share light and water with their mother. The animals are not servants. Each side gets something it needs.",
+   "examples": [
+    "A bulbul eats peepal figs and drops the seeds on a wall or a roof, where a new peepal tree may start to grow in a crack.",
+    "A bee gets nectar from a mustard flower, and the mustard flower gets pollen carried to another flower.",
+    "A dog comes home from a walk with hooked grass seeds in its fur. They fall off a long way from where they grew."
+   ],
+   "perspectives": [],
+   "art": "Three small pictures: a bee at a flower with pollen on her legs, a bird eating a red fig on a branch, and a goat walking away with a hooked seed stuck in its coat."
   },
   {
    "concept": "Does a plant choose which pollen fertilises the ovules?",
@@ -2587,6 +2619,42 @@
      "a": "The pod is drawn open, with 5 full seeds and 2 tiny grains on short stalks along the seam. The sepals are the green cap at the stalk end.",
      "why": "A strong drawing shows every seed and every empty place on a stalk, because each began as an ovule.",
      "art": "A blank outline of an open pea pod with a stalk at one end and a point at the other."
+    },
+    {
+     "t": "sort",
+     "p": "Sort these flowers: bisexual or unisexual?",
+     "a": "see items",
+     "why": "A bisexual flower has both stamens and carpels. A unisexual flower has only one of them. A strong answer says what is in the flower for each one.",
+     "cats": [
+      "Bisexual",
+      "Unisexual"
+     ],
+     "items": [
+      [
+       "hibiscus flower",
+       "Bisexual"
+      ],
+      [
+       "mustard flower",
+       "Bisexual"
+      ],
+      [
+       "pumpkin flower with only stamens",
+       "Unisexual"
+      ],
+      [
+       "maize cob flower with silks",
+       "Unisexual"
+      ],
+      [
+       "tuberose flower",
+       "Bisexual"
+      ],
+      [
+       "maize tassel flower",
+       "Unisexual"
+      ]
+     ]
     }
    ]
   },
@@ -2805,6 +2873,30 @@
      "a": "The wind flower has no bright petals, anthers hanging out on long filaments, and feathery stigmas. The insect flower has bright petals, nectar, and a sticky stigma inside the flower.",
      "why": "A strong drawing shows a reason for each difference: what helps pollen leave on the wind, and what brings a visitor.",
      "art": "Two blank boxes side by side, headed Wind and Insect."
+    },
+    {
+     "t": "match",
+     "p": "Match each living being to what it carries for a plant, and what it gets.",
+     "a": "pairs as given",
+     "why": "Animals help plants by carrying pollen or seeds. Plants pay with food, or the carrying costs the animal nothing. A strong answer says whether the animal gets something or not.",
+     "pairs": [
+      [
+       "A bee at a flower",
+       "carries pollen, and gets nectar"
+      ],
+      [
+       "A bird eating a peepal fig",
+       "carries seeds, and gets food"
+      ],
+      [
+       "A goat with hooked grass seeds in its fur",
+       "carries seeds, and gets nothing"
+      ],
+      [
+       "A squirrel burying nuts",
+       "plants some nuts by forgetting them"
+      ]
+     ]
     }
    ]
   },
@@ -3182,6 +3274,30 @@
    "why": "Pods differ from each other. One pod might be full, or half empty, by chance. Counting 20 shows what usually happens.",
    "outcome": 7,
    "how": "e1"
+  },
+  {
+   "t": "mcq",
+   "p": "Which of these flowers is bisexual?",
+   "opts": [
+    "A hibiscus, with stamens and carpels in one flower",
+    "A pumpkin flower with only stamens",
+    "A papaya flower with only carpels"
+   ],
+   "a": 0,
+   "why": "Bisexual means that one flower has both stamens and carpels. A flower with only one of them is unisexual, like the pumpkin flower with only stamens and the papaya flower with only carpels.",
+   "outcome": 0
+  },
+  {
+   "t": "mcq",
+   "p": "A bulbul eats a ripe peepal fig and later drops the seeds on a roof, far from the tree. What did the bird do for the tree, and what did it get?",
+   "opts": [
+    "It carried the seeds away, and got food",
+    "It carried pollen, and got nectar",
+    "It kept the seeds safe, and got nothing"
+   ],
+   "a": 0,
+   "why": "The seeds passed through the bird's body and fell far from the tree, so the bird carried them away. The fig paid the bird with food. Carrying pollen is the job of a flower visitor, not of a bird that eats a ripe fruit.",
+   "outcome": 2
   }
  ],
  "videos": [

@@ -34,6 +34,12 @@
    "art": "People standing under the roof of a bus stop while rain falls all around."
   },
   {
+   "term": "Stranger",
+   "meaning": "A stranger is a person you and your family do not know. Most people are kind, but a child should not go anywhere with a stranger.",
+   "example": "A man you have never met offers you a sweet at the bus stand. You say no and stay near your mother.",
+   "art": "A child holding her mother's hand at a bus stand, while a man she does not know stands a little way off."
+  },
+  {
    "term": "Wind",
    "meaning": "Wind is air that is moving. We cannot see air, but we can see what wind moves.",
    "example": "A fan makes a wind. It flaps the pages of a book on the table.",
@@ -98,7 +104,7 @@
    "status": "defined",
    "context": "This card explains why clothes and a home are needs, not only nice to have.",
    "definition": "Clothes and a home protect our bodies from sun, rain, cold, wind, insects and dirt.",
-   "description": "Your skin can burn in strong sun and get very cold in wind and rain. A cap and loose cotton clothes shade you from the sun, and a sweater keeps you warm. A home has a roof for rain and sun, walls for wind, and windows that let fresh air in.",
+   "description": "Your skin can burn in strong sun and get very cold in wind and rain. A cap and loose cotton clothes shade you from the sun, and a sweater keeps you warm. A home has a roof for rain and sun, walls for wind, and windows that let fresh air in. Clothes are not all the same. A boy may wear a shirt and shorts, a kurta and pyjama, or a school uniform. A girl may wear a frock, a salwar kameez, or the same school uniform. Each piece does a job: a cap shades your head, a sweater keeps you warm, a raincoat keeps you dry and chappals protect your feet from hot ground.",
    "examples": [
     "Farmers in the fields of Andhra Pradesh often tie a cotton towel around their heads to keep off the sun.",
     "In Shillong in winter, people wear woollen shawls and caps.",
@@ -115,6 +121,42 @@
     }
    ],
    "art": "A house cut open like a doll's house, with arrows showing rain sliding off the roof, wind stopped by a wall, and fresh air coming in at a window."
+  },
+  {
+   "concept": "The rooms of a home and their work",
+   "status": "defined",
+   "context": "This card shows how a home is made of parts, and each part has its own work.",
+   "definition": "A room is a part of a home with its own work, such as cooking, sleeping or washing.",
+   "description": "Think of your own home and walk through it in your mind. In the kitchen, food is cooked and washed. In the bedroom, you sleep and rest. In the bathroom, you wash and clean your teeth. In the living room, the family sits, talks and welcomes guests. Each room has one main work, so each need is looked after in its own place.",
+   "examples": [
+    "At dinner time in a flat in Pune, Amma cooks in the kitchen, and the family eats together in the living room.",
+    "After play, a child in Lucknow washes hands and feet in the bathroom before going to the bedroom to sleep."
+   ],
+   "perspectives": [
+    {
+     "who": "Families with one room",
+     "explanation": "Many families live in a single room. They cook in one corner, sleep on mats in another and wash outside. The work is the same, and the corner does the job of the room."
+    }
+   ],
+   "art": "A house cut open like a doll's house with four rooms: a kitchen with a pot on the stove, a bedroom with a bed, a bathroom with a bucket and mug, and a living room with a sofa."
+  },
+  {
+   "concept": "Staying safe at home and outside",
+   "status": "defined",
+   "context": "This card shows that a home and the world outside also need care to keep us safe.",
+   "definition": "Staying safe means knowing what can hurt us and what to do so that we do not get hurt.",
+   "description": "At home, hot things like the stove, a pan or a kettle can burn you, so let a grown-up handle them. Do not touch electric sockets or wires. Keep medicines and cleaning liquids with a grown-up, because they can make you ill. Outside, hold a grown-up's hand when you cross a road, and look both ways. In a market, a bus or a railway station, stay close to your family. Never go with a stranger, who is a person you and your family do not know. If you feel lost, go to a shopkeeper or a policewoman and say your name and your parent's phone number.",
+   "examples": [
+    "Meena in Jaipur waits for Papa before she crosses the busy road to the sweet shop.",
+    "Ravi gets lost in a crowded mela in Pushkar. He stands still near a shop, tells the shopkeeper his name, and she calls his mother."
+   ],
+   "perspectives": [
+    {
+     "who": "A child's own feelings",
+     "explanation": "If anything or anyone makes you feel scared or unsafe, you may say no and tell a grown-up you trust. Being safe is your right, and a good grown-up will listen."
+    }
+   ],
+   "art": "Two pictures: a kitchen with a child standing back while a grown-up lifts a hot pot, and a child holding a grown-up's hand at a road crossing."
   },
   {
    "concept": "A wall makes calm air behind it",
@@ -1154,6 +1196,42 @@
   },
   {
    "t": "mcq",
+   "p": "In which room of a home is food cooked?",
+   "opts": [
+    "The kitchen",
+    "The bedroom",
+    "The bathroom"
+   ],
+   "a": 0,
+   "why": "Food is cooked in the kitchen. We sleep in the bedroom and wash in the bathroom, so each room has its own work.",
+   "outcome": 2
+  },
+  {
+   "t": "mcq",
+   "p": "You get lost in a crowded market. What should you do?",
+   "opts": [
+    "Go to a shopkeeper and say your name and your parent's phone number",
+    "Go with a friendly person you have never met",
+    "Keep running through the crowd to find your family"
+   ],
+   "a": 0,
+   "why": "A shopkeeper is a safe grown-up to ask. Going with a stranger is not safe, and running makes it harder for your family to find you.",
+   "outcome": 2
+  },
+  {
+   "t": "mcq",
+   "p": "Why do we wear a raincoat and chappals on a wet day?",
+   "opts": [
+    "The raincoat keeps our body dry and the chappals protect our feet",
+    "They help us to breathe",
+    "They give us water to drink"
+   ],
+   "a": 0,
+   "why": "Clothes protect the body. A raincoat keeps rain off, and chappals protect our feet. They do not give us air or water.",
+   "outcome": 2
+  },
+  {
+   "t": "mcq",
    "p": "In the wind box test, which way should the open door of the box face to keep the tissue flag still?",
    "opts": [
     "Towards the fan",
@@ -1356,6 +1434,38 @@
      "art": "A simple house with a sloping roof, walls, a door and an open window, with three empty boxes."
     },
     {
+     "t": "match",
+     "p": "Draw a line from each room to its work.",
+     "pairs": [
+      [
+       "Kitchen",
+       "Cooking food"
+      ],
+      [
+       "Bedroom",
+       "Sleeping"
+      ],
+      [
+       "Bathroom",
+       "Washing"
+      ],
+      [
+       "Living room",
+       "Sitting and talking with the family"
+      ]
+     ],
+     "a": "pairs as given",
+     "why": "Each room has its own work. We cook in the kitchen and sleep in the bedroom.",
+     "art": "Four rooms on the left: kitchen, bedroom, bathroom and living room. Four pictures on the right: a pot, a pillow, a bucket and a sofa."
+    },
+    {
+     "t": "draw",
+     "p": "Draw one boy and one girl in clothes you have seen. Write the name of each piece, and one line on what it does.",
+     "a": "For example: a boy in a shirt and shorts, a girl in a frock with a cap. A cap shades the head, and a frock keeps the body cool.",
+     "why": "Every piece of clothing has a use. Boys and girls may wear different clothes, but all clothes protect the body.",
+     "art": "Two empty outlines of children, one labelled boy and one girl, with lines beside each for labels."
+    },
+    {
      "t": "mcq",
      "p": "A crow comes to a bowl on the balcony on a hot day. Which need is the crow meeting?",
      "opts": [
@@ -1438,6 +1548,35 @@
      ],
      "a": 0,
      "why": "Wool keeps you warm. In Chennai in May you would need loose cotton instead. The need is the same, but the clothes depend on the place."
+    },
+    {
+     "t": "sort",
+     "p": "Sort each one into Safe or Not safe.",
+     "cats": [
+      "Safe",
+      "Not safe"
+     ],
+     "items": [
+      [
+       "Holding a grown-up's hand on the road",
+       "Safe"
+      ],
+      [
+       "Touching a plug socket",
+       "Not safe"
+      ],
+      [
+       "Standing near a hot pan",
+       "Not safe"
+      ],
+      [
+       "Staying close to your family in a market",
+       "Safe"
+      ]
+     ],
+     "a": "see items",
+     "why": "Roads, sockets and hot pans can hurt us. Holding a hand and staying close keep us safe.",
+     "art": "Four small pictures: a child holding a hand at a road, a hand near a socket, a child by a hot pan, and a family in a market."
     },
     {
      "t": "draw",

@@ -136,7 +136,7 @@
    "concept": "Disturbance: places get cleared all the time",
    "status": "defined",
    "definition": "A disturbance is an event that kills or removes many living beings from a place in a short time.",
-   "description": "Forests, grasslands, rivers and reefs are disturbed again and again. A big tree falls and takes the neighbours down. A cyclone flattens a mangrove. A river in flood scrapes its banks. A fire runs through dry grass. People add more: they cut, burn, plough, mine and build. Disturbances differ in three ways. They differ in size, from one fallen tree to a whole island. They differ in how often they come. And they differ in what they leave behind. A fire may leave the soil with its seeds and roots. A lava flow leaves nothing living at all. What is left behind decides how recovery starts, as your roasted soil shows in The Soil Remembers. A disturbance is not always harm. The gap left by a fallen tree is the only place where many seedlings get enough light to grow.",
+   "description": "Forests, grasslands, rivers and reefs are disturbed again and again. A big tree falls and takes the neighbours down. A cyclone flattens a mangrove. A river in flood scrapes its banks. A fire runs through dry grass. People add more: they cut, burn, plough, mine and build. Disturbances differ in three ways. They differ in size, from one fallen tree to a whole island. They differ in how often they come. And they differ in what they leave behind. A fire may leave the soil with its seeds and roots. A lava flow leaves nothing living at all. What is left behind decides how recovery starts, as your roasted soil shows in The Soil Remembers. A disturbance is not always harm. The gap left by a fallen tree is the only place where many seedlings get enough light to grow. Cutting a forest is one of the biggest of these. It destroys the homes of many living beings. Trees also give water back to the air through their leaves, so a cut hillside gets less rain. With less rain and less forest to hold the soil, floods and droughts become more likely. The carbon the trees held can also go into the air as carbon dioxide.",
    "examples": [
     "In a rainforest in the Western Ghats, one giant tree falling can open a gap as wide as a house plot.",
     "On 18 May 1980 the volcano Mount St Helens in the United States blew out sideways and flattened forest for many kilometres.",
@@ -2282,6 +2282,15 @@
       "Which plants look prettiest?",
       "How can I make it tidy?"
      ]
+    },
+    {
+     "t": "fill",
+     "p": "When a forest is cut, the land gets less ____, and floods and droughts become more likely.",
+     "a": [
+      "rain"
+     ],
+     "why": "Trees give water back to the air through their leaves. With the trees gone, less water returns to the air, so less rain falls on the land.",
+     "outcome": 0
     }
    ]
   },
@@ -2666,6 +2675,19 @@
     "A bird building a nest",
     "A cyclone felling trees",
     "Rain on a pond"
+   ]
+  },
+  {
+   "t": "mcq",
+   "p": "People cut a whole hillside of forest. Which result is most likely?",
+   "a": 2,
+   "why": "Trees give water back to the air through their leaves, so a cut forest gives back less, and forests take many years to grow back. Choosing 'back within a season' ignores how slowly forests grow. Choosing 'more rain' gets the water cycle the wrong way round.",
+   "outcome": 0,
+   "opts": [
+    "The forest is back within a season",
+    "More rain falls, because the land is open",
+    "Less rain can fall, and floods and droughts become more likely",
+    "Nothing changes for the living beings, because only trees are cut"
    ]
   },
   {

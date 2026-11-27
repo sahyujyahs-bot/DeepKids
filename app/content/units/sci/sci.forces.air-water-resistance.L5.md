@@ -23,6 +23,7 @@
 - **Upthrust**: Upthrust is the upward push of a fluid on a thing that is in it. It acts on still things and on moving things. It is also called buoyancy. *e.g.* Push an empty steel tumbler, open end up, down into a bucket of water. The push against your hand is upthrust.
 - **Displace**: To displace water is to push it out of the way and take its place. A thing in water displaces as much water as the part of it that is under the surface. *e.g.* Lower a full bottle into a full bucket. The water that spills over is the water the bottle displaced.
 - **Friction**: Friction is the force between two solid surfaces that touch. It acts against sliding, or against the sliding that would happen without it. *e.g.* A lunch box on a table stays still when you pull it gently. Friction from the table pulls back just as hard.
+- **Applied force**: An applied force is a push or a pull that a person, an animal or a machine gives to a thing. *e.g.* When you pull a loaded box with a rope, your pull on the box is the applied force. Friction then pulls back along the floor.
 - **Gravity**: Gravity is the pull of the Earth on every thing. The size of that pull on a thing is called its weight. *e.g.* Gravity pulls a parachute and its load down all the time, even while they fall slowly.
 - **Normal force**: The normal force is the push of a solid surface on a thing that rests on it. It points straight out of the surface. *e.g.* A table pushes up on a lunch box with a normal force. That push holds the box up.
 - **Force diagram**: A force diagram is a simple drawing of one thing with an arrow for each force on it. A bigger force gets a longer arrow. *e.g.* A floating box gets two arrows of the same length. Gravity points down and upthrust points up.
@@ -656,7 +657,7 @@ That evening she lay on the planks and put one finger against the edge of the to
   - Check: A long cone dropped point first makes a smaller splash than a flat pancake. Why? → **The cone moves water aside little by little**
 
 ## Worksheets
-### Four forces and how they act (core) (core, 15 questions)
+### Four forces and how they act (core) (core, 16 questions)
 1. (mcq) Which force from water acts on a boat that is not moving?  
    Options: Upthrust / Water resistance / Friction / Air resistance  
    **Answer:** Upthrust. *Why:* Upthrust pushes up on anything in water, still or moving. Water resistance acts only on a thing that moves through the water.
@@ -691,6 +692,8 @@ That evening she lay on the planks and put one finger against the edge of the to
    **Answer:** The pancake. *Why:* The pancake has a much bigger front area, so it meets more water resistance at the same speed. The two weigh the same, so 'the heavier one' cannot be right.
 15. (write) A swimmer wears a tight cap and keeps her body straight. Say how each one lowers water resistance.  
    **Answer:** The cap makes her head smooth, so water flows past it easily. A straight body has a small front area and lets the water close up behind her.. *Why:* A strong answer names front area or shape for the straight body, and smoothness for the cap.
+16. (fill) A push or pull that a person gives to a box is called an ____ force.  
+   **Answer:** ['applied']. *Why:* An applied force comes from a person, an animal or a machine. It is different from friction, which comes from a surface.
 ### Balanced forces, upthrust and fair tests (stretch) (stretch, 15 questions)
 1. (mcq) A skydiver falls at a steady 200 kilometres an hour. How big is the air resistance on her?  
    Options: Bigger than her weight / Equal to her weight / Smaller than her weight / Zero  
@@ -803,6 +806,9 @@ That evening she lay on the planks and put one finger against the edge of the to
 12. (mcq) Which of these can nobody yet work out exactly?  
    Options: How turbulent water will swirl / Whether drag grows with speed / Whether upthrust points up / Whether the Moon has air  
    **Answer:** How turbulent water will swirl. *Why:* The equations for turbulent flow have never been solved exactly. The other three are settled.
+13. (mcq) A child pulls a box across the floor with a rope. What is the child's pull on the box?  
+   Options: An applied force / Upthrust / Air resistance  
+   **Answer:** An applied force. *Why:* A push or pull from a person, an animal or a machine is an applied force. Upthrust pushes up in air or water, and air resistance works against movement through air.
 
 ## Applications
 - Parachutes are used for people, for supplies dropped from aeroplanes and for space capsules. The canopy is sized to suit the load, and it has a vent.

@@ -79,6 +79,7 @@ Every living being needs nitrogen. Proteins are built from it, and so are genes.
 - e.g. A paddy plant short of nitrogen has pale yellow older leaves and stays small.
 - e.g. A packet of chips is filled with nitrogen gas to keep the chips crisp. The gas is used because it hardly reacts with anything.
 - e.g. In Browns, Greens or Both, the bottle of paper and dry leaves stood in air full of nitrogen and still rotted slowly.
+- e.g. The air around Earth is a mix of gases. About 78 in every 100 particles are nitrogen, about 21 are oxygen, and only a tiny share is carbon dioxide.
 ### The nitrogen fixers: who can open the pair · *defined*
 **Definition:** Nitrogen fixing means changing nitrogen gas into ammonia, a form that living beings can use. Certain bacteria do it. Lightning and fertiliser factories do it too.
 
@@ -578,7 +579,7 @@ In the last week of February she went out alone with the weeding blade. The kiln
   - Check: Why does rain wash nitrate fertiliser out of a bare field so easily? → **Nitrate dissolves in water**
 
 ## Worksheets
-### The Two Cycles (core) (core, 15 questions)
+### The Two Cycles (core) (core, 16 questions)
 1. (mcq) Where does most of the dry weight of a tree come from?  
    Options: The soil / Water only / Carbon dioxide in the air / Sunlight  
    **Answer:** Carbon dioxide in the air. *Why:* A leaf takes carbon dioxide from the air and builds sugar, and the tree builds wood from sugar. Soil gives water and minerals, which are a small part of the weight. Sunlight gives energy, and energy has no weight to add.
@@ -604,13 +605,15 @@ In the last week of February she went out alone with the weeding blade. The kiln
    **Answer:** Nitrogen atoms are held in tight pairs. *Why:* The air is mostly nitrogen, so there is plenty. But each nitrogen atom is joined very strongly to a partner, and a plant has no enzyme to split them.
 11. (truefalse) True or false: about 78 of every 100 particles of air are nitrogen.  
    **Answer:** True. *Why:* True. Most of the air is nitrogen gas. Oxygen is about 21 of every 100, and carbon dioxide is far less than 1.
-12. (fill) A root nodule that is fixing nitrogen is ____ inside.  
+12. (fill) About ___ in every 100 particles of air is oxygen.  
+   **Answer:** ['21']. *Why:* Oxygen is about 21 of every 100 particles of air. Nitrogen is far more, at about 78.
+13. (fill) A root nodule that is fixing nitrogen is ____ inside.  
    **Answer:** ['pink', 'red']. *Why:* The colour comes from a red protein that carries oxygen to the bacteria in small amounts. A white or green nodule is not working.
-13. (label) Label each store of carbon 'fast' or 'slow': a leaf, limestone, a cow, coal.  
+14. (label) Label each store of carbon 'fast' or 'slow': a leaf, limestone, a cow, coal.  
    **Answer:** ['A leaf: fast', 'Limestone: slow', 'A cow: fast', 'Coal: slow']. *Why:* Carbon passes through leaves and animals within months or years. Carbon in rock and coal stays for millions of years.
-14. (perspective) A compost bin on a balcony smells bad. Two neighbours give different advice.  
+15. (perspective) A compost bin on a balcony smells bad. Two neighbours give different advice.  
    **Answer:** A strong answer agrees with the second neighbour and uses the test: the bottle of only greens smelled, and the mix did not. It also grants that the first neighbour is right about one thing. A badly kept bin does smell, and neighbours should not have to put up with it.. *Why:* The smell is real, and so is the cure. A bin smells when it is too wet and has too little air, and browns fix both.
-15. (mcq) Used tea leaves look brown. Why do they count as a 'green' in compost?  
+16. (mcq) Used tea leaves look brown. Why do they count as a 'green' in compost?  
    Options: They are wet and rich in nitrogen / They were green once / They smell pleasant / They are in small pieces  
    **Answer:** They are wet and rich in nitrogen. *Why:* The words brown and green are about carbon and nitrogen. Tea leaves are rich in nitrogen and hold water, so they act as greens whatever their colour.
 ### Following the Atoms (stretch) (stretch, 15 questions)
@@ -725,6 +728,9 @@ In the last week of February she went out alone with the weeding blade. The kiln
 12. (mcq) Which of these is a flow, not a store?  
    Options: The carbon in a coal seam / The nitrogen in the air / A leaf taking in carbon dioxide / The carbon dissolved in the sea  
    **Answer:** A leaf taking in carbon dioxide. *Why:* A store is an amount that stays somewhere. A flow is a movement between stores. A leaf taking in carbon dioxide moves carbon from the air into the plant.
+13. (mcq) Air around Earth is a mix of gases. Which gas makes up the largest share?  
+   Options: Nitrogen / Carbon dioxide / Oxygen / Steam  
+   **Answer:** Nitrogen. *Why:* About 78 in every 100 particles of air are nitrogen. Oxygen is about 21, and carbon dioxide is only a tiny share. Steam is not a fixed part of the air; it changes with the weather.
 
 ## Applications
 - Farmers in the Cauvery delta sow black gram after paddy. Bacteria in the root nodules fix nitrogen from the air, so the crop needs little bought fertiliser.

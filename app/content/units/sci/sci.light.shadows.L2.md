@@ -47,6 +47,7 @@ Light from the torch goes out in straight lines in many directions. The lines th
 - e.g. A shadow of a cup has the outline of the cup.
 - e.g. A shadow of your hand shows the gaps between your fingers.
 - e.g. A shadow of a fork shows each of its prongs.
+- e.g. A shadow of your closed fist is a round lump, with no gaps. Open your hand and the gaps between the fingers appear.
 ### Nearer the light, bigger shadow · *defined*
 **Definition:** When a thing moves nearer the light, its shadow gets bigger. When it moves nearer the wall, its shadow gets smaller, until it is about the same size as the thing.
 
@@ -63,7 +64,7 @@ A torch is not a single point. Light comes from all over its bright part. Near t
 ### Which side a shadow falls on · *defined*
 **Definition:** A shadow always falls on the side of the thing that is away from the light.
 
-Light comes from the torch and stops at the toy. The place that gets no light is behind the toy, on the far side from the torch. Move the torch to the left, and the shadow swings to the right. Lift the torch high above the toy, and the shadow becomes short and sits close round the toy's feet. If you know where a shadow is, you can work out where the light is.
+Light comes from the torch and stops at the toy. The place that gets no light is behind the toy, on the far side from the torch. Move the torch to the left, and the shadow swings to the right. Lift the torch high above the toy, and the shadow becomes short and sits close round the toy's feet. If you know where a shadow is, you can work out where the light is. The shadow also goes where the thing goes. Slide the toy to the left along the table, and its shadow slides left with it. So where a shadow lands depends on where the thing stands, as well as on where the light is.
 - e.g. If the torch is on the left, the shadow falls on the right.
 - e.g. If a light is on the ceiling, the shadow of a chair is under the chair.
 - e.g. In the morning the Sun is in the east, so shadows point to the west.
@@ -482,7 +483,7 @@ Paati blew out the little lamp. "Tomorrow," she said, "we will make Ravana. With
   *Child mode:* Pick one part you would change.
 
 ## Worksheets
-### Shadows (core) (core, 10 questions)
+### Shadows (core) (core, 11 questions)
 1. (mcq) Which three things do you need to make a shadow?  
    Options: A light, something to block it, and a surface / A light, a mirror, and some water / Only a dark room  
    **Answer:** A light, something to block it, and a surface. *Why:* A strong answer names all three: a light, something to block the light, and a wall or floor for the shadow to fall on.
@@ -504,7 +505,9 @@ Paati blew out the little lamp. "Tomorrow," she said, "we will make Ravana. With
    **Answer:** 3. *Why:* Each toy blocks the light of the torch, so each toy has its own shadow. One torch and three toys make three shadows.
 10. (order) Put the toy's shadows in order, from the smallest to the biggest.  
    **Answer:** ['the toy close to the wall', 'the toy halfway', 'the toy close to the torch']. *Why:* The nearer the toy is to the torch, the more light it blocks, so the bigger its shadow.
-### Shadows (stretch) (stretch, 10 questions)
+11. (fill) You slide the toy to a new spot in front of the torch. Its shadow moves too, because the shadow always stays ___ the toy.  
+   **Answer:** with. *Why:* The shadow is the place the toy blocks the light. When the toy is in a new place, the blocked place is new too. Accept: next to, behind, beside, following.
+### Shadows (stretch) (stretch, 11 questions)
 1. (mcq) A puppet is held close to the wall. Its shadow is small and sharp. What happens if the puppet moves towards the lamp?  
    Options: The shadow gets bigger and fuzzier / The shadow gets smaller and sharper / The shadow disappears  
    **Answer:** The shadow gets bigger and fuzzier. *Why:* Moving towards the lamp, the puppet blocks more of the spreading light, so the shadow grows. Its edge also gets fuzzy.
@@ -528,6 +531,8 @@ Paati blew out the little lamp. "Tomorrow," she said, "we will make Ravana. With
    **Answer:** Yes. Some light bounces off the walls and ceiling into the shadow, so it is dark grey, not totally black.. *Why:* A strong answer uses what the child saw. Light bounces off the walls, the ceiling and other things into the shadow.
 10. (label) Label the picture of a big shadow: the dark middle, and the fuzzy edge.  
    **Answer:** ['dark middle: where no light from the torch gets in', 'fuzzy edge: where a little light from part of the torch still gets in']. *Why:* The fuzzy edge is grey because part of the torch's bright face can still be seen from there.
+11. (match) Shadow puzzle: draw a line from each hand pose, held in front of a torch, to its shadow.  
+   **Answer:** a fist → a round lump; a hand with fingers wide apart → five thin fingers with gaps; one finger pointing at the wall → a thin stick; a flat hand with fingers together → a shape like a mitten. *Why:* A shadow has the outline of the thing, seen from the torch. Gaps between fingers stay bright, so spread fingers show as separate shapes.
 ### Shadows (challenge) (challenge, 10 questions)
 1. (perspective) In Africa, a bird called the black heron spreads her wings like an umbrella over the water while she fishes. Three people give a reason.  
    **Answer:** A strong answer picks a side with a reason. Dr Asha is right that shade makes it easier to see into water. Thenmozhi is right that many small fish hide in shade. Gauri may be right too. Scientists still argue about this.. *Why:* This is a real question that scientists are still studying, so more than one answer can be well argued.
@@ -588,6 +593,12 @@ Paati blew out the little lamp. "Tomorrow," she said, "we will make Ravana. With
 10. (mcq) You hold your hand very close to the torch. What does the edge of its shadow look like?  
    Options: Soft and fuzzy / Sharp and crisp / Bright yellow  
    **Answer:** Soft and fuzzy. *Why:* Close to the torch, the edge of the shadow gets a little light from part of the torch, so it is grey and soft. Close to the wall, the edge is sharp.
+11. (mcq) A torch stands still on a table and shines on a wall. You slide a toy sideways to the left, in front of the torch. What does the toy's shadow do?  
+   Options: It slides left with the toy / It stays where it was / It jumps to the right of the torch  
+   **Answer:** It slides left with the toy. *Why:* The shadow is the place the toy blocks the light. When the toy moves, the blocked place moves with it, so the shadow follows the toy. It does not stay behind.
+12. (mcq) You hold your hand in front of a torch with your fingers wide apart. What does the shadow on the wall show?  
+   Options: Five thin fingers with gaps between them / One solid round lump / Nothing, because a hand is too small  
+   **Answer:** Five thin fingers with gaps between them. *Why:* Light goes straight past the edges of your fingers and lands in the gaps, so the gaps stay bright. Only a closed fist makes a solid lump. A hand is big enough to block plenty of light.
 
 ## Applications
 - Shadow-puppet plays in Kerala, Andhra Pradesh, Karnataka and Odisha tell long stories with leather puppets, lamps and a white cloth.

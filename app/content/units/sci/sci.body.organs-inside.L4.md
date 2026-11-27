@@ -44,7 +44,7 @@ Each time the heart squeezes, it pushes blood into the arteries, and the artery 
 ### The heart has its own pacemaker · *defined*
 **Definition:** A small patch of special cells at the top of the heart, called the pacemaker or the sinoatrial node, starts each heartbeat by itself.
 
-Your heart does not wait for a message from the brain to beat. Special cells in the pacemaker make a tiny electrical signal again and again. The signal spreads over the heart muscle, and the heart squeezes. A frog's heart taken out of the body and kept in the right salty water goes on beating for hours. A transplanted human heart has its nerves cut, and it still beats. Left alone, a human pacemaker fires at about 100 to 115 times a minute. That is faster than the resting pulse of most people, so something must be slowing the heart down at rest.
+Your heart does not wait for a message from the brain to beat. Special cells in the pacemaker make a tiny electrical signal again and again. The signal spreads over the heart muscle, and the heart squeezes. A frog's heart taken out of the body and kept in the right salty water goes on beating for hours. A transplanted human heart has its nerves cut, and it still beats. Left alone, a human pacemaker fires at about 100 to 115 times a minute. That is faster than the resting pulse of most people, so something must be slowing the heart down at rest. The heart is about the size of your fist.
 - e.g. A frog's heart in salty water keeps beating on a laboratory dish.
 - e.g. After a heart transplant, the new heart beats with its nerves cut, usually at about 90 to 110 beats a minute at rest.
 - e.g. Heart cells grown in a dish beat by themselves, and cells that touch fall into the same rhythm.
@@ -521,7 +521,7 @@ That night, Anju opened her notebook to a clean page. She wrote the title in big
   - Note: A difference of fewer than 8 beats a minute could easily be counting error. An honest answer is that no idea beat sitting still by much, and that repeating the test would help. In later tests the child starts a little tired, which can make those ideas look worse. To check, sit still once more at the end and compare it with the first sit. With 2 to 4 children: each child tests their own plan, and one child times for all. Do not run the step-ups side by side. Keep the cloth cool and damp from the tap, never cold from the fridge.
 
 ## Worksheets
-### Pulse and Breath Detective (core) (core, 15 questions)
+### Pulse and Breath Detective (core) (core, 16 questions)
 1. (mcq) You count 18 beats in 10 seconds. How many beats per minute is that?  
    Options: 108 beats per minute / 28 beats per minute / 180 beats per minute  
    **Answer:** 108 beats per minute. *Why:* There are six 10-second spells in a minute. 18 times 6 is 108. If you chose 28, you added 10. If you chose 180, you multiplied by 10.
@@ -556,6 +556,8 @@ That night, Anju opened her notebook to a clean page. She wrote the title in big
    **Answer:** The diaphragm moving down adds room that the tape cannot see. *Why:* When the diaphragm moves down, it pushes the belly out and gives the lungs much of their new room. A tape round the chest only sees the ribs.
 15. (truefalse) A transplanted heart, whose nerves have been cut, still beats.  
    **Answer:** True. *Why:* True. The pacemaker cells start each beat themselves, so a heart still beats when its nerves are cut. It beats faster at rest than a normal heart, because the nerve brake is missing.
+16. (fill) Your heart is about the size of your ____.  
+   **Answer:** ['fist']. *Why:* A closed fist is about the size of a heart. Make a fist, hold it on your chest, and feel how little room the heart takes up for its big job.
 ### Brake, Gas and Other Bodies (stretch) (stretch, 16 questions)
 1. (mcq) What does the vagus nerve do to the heart?  
    Options: It sends signals that slow the pacemaker down / It makes the heart beat faster / It starts the first beat of the heart  
@@ -668,6 +670,9 @@ That night, Anju opened her notebook to a clean page. She wrote the title in big
 12. (odd) Three of these happen by themselves and one is a choice. Which is the odd one out?  
    Options: Pupils getting wider in the dark / Shivering when cold / Waving to a friend / Goosebumps on a cold morning  
    **Answer:** 2. *Why:* Pupils, shivering and goosebumps are automatic. Waving is a decision that begins in the thinking part of the brain.
+13. (mcq) A heart is about the size of which of these?  
+   Options: Your closed fist / Your head / Your foot / Your whole chest  
+   **Answer:** Your closed fist. *Why:* A heart is about the size of a closed fist. It is small for the big job it does, pushing blood round the whole body with every beat.
 
 ## Applications
 - Doctors and nurses count the pulse and the breathing rate of every patient who comes to a clinic, because both numbers change quickly when someone is ill.

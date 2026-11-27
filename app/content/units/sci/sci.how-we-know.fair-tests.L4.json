@@ -54,6 +54,12 @@
    "art": "A tape measure and a stopwatch side by side with their readings."
   },
   {
+   "term": "Accurate and precise",
+   "meaning": "A measurement is accurate when it is close to the real size. It is precise when it is read in small, careful steps. Choose the steps that suit the test.",
+   "example": "A stopwatch read to a tenth of a second suits a spinner. Writing 1.4372 seconds is too exact for a thumb on a button.",
+   "art": "A stopwatch showing 1.4 beside a stopwatch showing a long row of digits with a cross."
+  },
+  {
    "term": "Trial",
    "meaning": "One go at the test.",
    "example": "Dropping a spinner once and timing it is one trial.",
@@ -114,6 +120,12 @@
    "art": "A graph with wing length along the bottom and fall time up the side with a rising line."
   },
   {
+   "term": "Scatter graph",
+   "meaning": "A graph with one dot for each child or each day, showing two measurements together. The dots are not joined.",
+   "example": "One dot for each child, with hand span along the bottom and height up the side.",
+   "art": "A graph with five separate dots drifting upward from left to right."
+  },
+  {
    "term": "Chance",
    "meaning": "The part of any result that comes from luck and small changes you cannot control.",
    "example": "A coin tossed ten times might give 4 heads one time and 7 heads another time, by chance.",
@@ -149,7 +161,7 @@
    "concept": "The three jobs in every test",
    "status": "defined",
    "definition": "Every fair test has three jobs. There is one thing you change, one thing you measure, and a list of things you keep the same.",
-   "description": "Say you want to know whether a longer wing makes a paper spinner fall more slowly. The thing you change is the wing length. The thing you measure is the time it takes to fall, in seconds. The things you keep the same are the paper, the clip, the height you drop from, the person who drops it and the person who times it. Scientists call these the independent variable, the dependent variable and the control variables. You do not need the long names, but you do need the three jobs. If two things change, you cannot tell which one made the difference. If nothing is measured, there are no results. If the list of things to keep the same is loose, hidden differences slip in.",
+   "description": "Say you want to know whether a longer wing makes a paper spinner fall more slowly. The thing you change is the wing length. The thing you measure is the time it takes to fall, in seconds. The things you keep the same are the paper, the clip, the height you drop from, the person who drops it and the person who times it. Scientists call these the independent variable, the dependent variable and the control variables. You do not need the long names, but you do need the three jobs. If two things change, you cannot tell which one made the difference. If nothing is measured, there are no results. If the list of things to keep the same is loose, hidden differences slip in. There is also a job before all three: keep everyone safe. Before you begin, look at what could hurt, such as scissors, small coins that a little child might swallow, or a fan. Set up in a safe place. When you finish, clean up and put things away.",
    "examples": [
     "The question is whether more salt in water makes a potato float. You change the amount of salt. You measure whether the potato floats. You keep the same potato piece, the same glass and the same amount of water.",
     "The question is whether a longer rubber band shoots a paper ball farther. You change the length of the band. You measure the distance the ball travels. You keep the same ball, the same pull-back and the same person.",
@@ -175,7 +187,7 @@
    "concept": "Why the same test gives different numbers",
    "status": "defined",
    "definition": "Even a careful test gives slightly different numbers each time. We call this the wobble. It comes from small changes you cannot control, and from small slips in measuring.",
-   "description": "A spinner dropped five times will never fall in exactly the same way. A draught moves the air a little. The hand lets go a little differently. The spinner starts a bit tilted. And the person with the stopwatch presses the button a fraction early or late. Human reaction takes about a fifth to a quarter of a second. These small changes add up to a wobble in the numbers. The wobble is not a mistake. It is part of any real measurement. Because of it, one number from one try is never the whole story. We need several tries to see what is steady and what is wobble.",
+   "description": "A spinner dropped five times will never fall in exactly the same way. A draught moves the air a little. The hand lets go a little differently. The spinner starts a bit tilted. And the person with the stopwatch presses the button a fraction early or late. Human reaction takes about a fifth to a quarter of a second. These small changes add up to a wobble in the numbers. The wobble is not a mistake. It is part of any real measurement. Because of it, one number from one try is never the whole story. We need several tries to see what is steady and what is wobble. Choose a measuring tool that is good enough for your question. A measurement is accurate when it is close to the real size. It is precise when it is read in small, careful steps. A ruler marked in millimetres is fine for a paper wing. A stopwatch that reads to a tenth of a second suits a spinner. Writing 1.4372 seconds would look very exact, but your thumb on the button wobbles by about a fifth of a second. So write 1.4 and be honest about it.",
    "examples": [
     "Dropping the same spinner five times gives times such as 1.4, 1.6, 1.5, 1.3 and 1.7 seconds.",
     "Two people measure the same table and get 120 and 122 centimetres.",
@@ -261,20 +273,47 @@
    "concept": "Tables, bar charts and line graphs",
    "status": "defined",
    "definition": "A table keeps every number in place. A bar chart compares separate things. A line graph shows how a result changes as an amount changes.",
-   "description": "Start every test with a table, ready before you begin. Put the thing you change in the first column, and your trials and averages in the next columns. Use a bar chart when the things you compare are separate, such as four different bridge shapes. Use a line graph when the thing you change is an amount that can sit anywhere along a line, such as wing length or amount of water. A line graph shows the shape, such as a steady rise, a levelling off or a dip. Label the line along the bottom and the line up the side with what they show and the units, and give the chart a title. Plot averages, not single tries, and write the range next to each point if you can.",
+   "description": "Start every test with a table, ready before you begin. Put the thing you change in the first column, and your trials and averages in the next columns. Use a bar chart when the things you compare are separate, such as four different bridge shapes. To read a bar chart, find the tallest bar and the shortest, then say how much taller one is. Use a line graph when the thing you change is an amount that can sit anywhere along a line, such as wing length or amount of water. A line graph shows the shape, such as a steady rise, a levelling off or a dip. Label the line along the bottom and the line up the side with what they show and the units, and give the chart a title. Plot averages, not single tries, and write the range next to each point if you can.",
    "examples": [
     "A bar chart for four bridge shapes: flat, channel, pleated and tube.",
     "A line graph for wing lengths 4, 6 and 8 centimetres against average fall time.",
-    "A table with a column for each trial and extra columns for the average and range."
+    "A table with a column for each trial and extra columns for the average and range.",
+    "A bar chart read aloud: 'The tube held 16 more coins than the flat strip.'"
    ],
    "art": "A bar chart of four bridges on the left and a line graph of three wing lengths on the right.",
+   "perspectives": []
+  },
+  {
+   "concept": "Describing a pattern and predicting",
+   "status": "defined",
+   "definition": "A pattern is the way the results change as you change one thing. Say it in one sentence with numbers. Then use it to make a prediction you can test.",
+   "description": "Look down your table and say what happens. 'As the wing gets longer, the fall time gets longer, from 12 to 16 to 21 tenths of a second.' If one number does not fit, point at it and check it. A line graph also lets you guess a value between two dots. The 5 centimetre wing sits between 4 and 6, so its time should be between 12 and 16, about 14 tenths. This is a prediction, so test it by making a 5 centimetre spinner. Stay inside the lengths you tested. Beyond them you are only guessing.",
+   "examples": [
+    "A table of pleats against coins held: 'The more pleats, the more coins held.'",
+    "With 0 pleats a bridge held 4 coins and with 2 pleats it held 10, so one pleat should hold about 7. Test it.",
+    "Seeds given 0, 1 and 3 teaspoons of water: say how the number that sprouted changes as the water grows."
+   ],
+   "art": "A line graph with a finger on a spot between two dots and a question mark above it.",
+   "perspectives": []
+  },
+  {
+   "concept": "Two measurements on each child: scatter graphs",
+   "status": "defined",
+   "definition": "A scatter graph puts one dot for each child, or each day, to show two measurements together. The dots are not joined.",
+   "description": "Sometimes you measure two things on each child, such as hand span and height. Put hand span along the bottom and height up the side. Make one dot for each child, and do not join the dots. If the dots drift upward together, there is a pattern: bigger hands go with taller children. A pattern still does not show that one thing causes the other. Age may be behind both.",
+   "examples": [
+    "Hand span and height of five cousins, one dot for each cousin.",
+    "Temperature at noon and cups of water drunk, one dot for each day of a week.",
+    "Shoe size and reading score: the dots may rise together because older children have both."
+   ],
+   "art": "A graph of five separate dots drifting upward from left to right.",
    "perspectives": []
   },
   {
    "concept": "Writing a conclusion that says no more than you found",
    "status": "defined",
    "definition": "A good conclusion has a claim, evidence and reasoning. It says what you found in your test, with its limits, and does not claim more.",
-   "description": "A claim answers your question. Evidence gives the numbers that support it. Reasoning explains why the numbers support the claim. A good conclusion also has limits. It says what you tested and does not go beyond. If you tested three wing lengths, you can say what happened for those three. You cannot say what happens for a wing of 20 centimetres. If you measured on one day in one room, say that. Use careful words such as 'in our test', 'on average' and 'the evidence suggests'. If your results are not clear, say 'we cannot tell yet' and say what you would do next.",
+   "description": "A claim answers your question. Evidence gives the numbers that support it. Reasoning explains why the numbers support the claim. A good conclusion also has limits. It says what you tested and does not go beyond. If you tested three wing lengths, you can say what happened for those three. You cannot say what happens for a wing of 20 centimetres. If you measured on one day in one room, say that. Use careful words such as 'in our test', 'on average' and 'the evidence suggests'. If your results are not clear, say 'we cannot tell yet' and say what you would do next. Last, say how you would make the test better. You might drop the spinner from higher, so the stopwatch wobble is a smaller part of the time. You might add more drops, or try a wing length in between.",
    "examples": [
     "Claim: longer wings fell more slowly. Evidence: the average time rose from 12 to 16 to 21 tenths. Reasoning: bigger wings catch more air. Limit: we tested only 4, 6 and 8 centimetres.",
     "Claim: in our two weeks, we could not tell whether tulsi changes the mosquito count. Evidence: the difference was about one mosquito a night, and the nightly counts changed by much more than that.",
@@ -300,7 +339,7 @@
    "concept": "Why a longer wing slows a spinner",
    "status": "defined",
    "definition": "A spinner falls because gravity pulls it down. The air pushes back against its wings. Bigger wings meet more air, so the push is bigger and the spinner falls more slowly.",
-   "description": "When the spinner falls, its wings spin like the blades of a helicopter. The spinning wings sweep through the air. The air pushes up against them, and this push is called air resistance. A bigger wing has more surface to push against, so the push is stronger. The spinner speeds up until the push of the air equals its weight. After that it falls at a steady speed. Bigger wings reach that balance at a slower speed. The paper and the clip weigh the same whatever the wing length, so only the wings differ. This is why seeds of maple trees, which have long wings, spin slowly to the ground and can travel a long way on the wind.",
+   "description": "When the spinner falls, its wings spin like the blades of a helicopter. The spinning wings sweep through the air. The air pushes up against them, and this push is called air resistance. A bigger wing has more surface to push against, so the push is stronger. The spinner speeds up until the push of the air equals its weight. After that it falls at a steady speed. Bigger wings reach that balance at a slower speed. The paper and the clip weigh the same whatever the wing length, so only the wings differ. This is why seeds of maple trees, which have long wings, spin slowly to the ground and can travel a long way on the wind. An explanation is a good guess that you can test. If air push is the reason, then a spinner with wider wings of the same length should also fall more slowly. Change only the width, keep everything else the same, and see whether the results agree. If they do not, the explanation needs a rethink.",
    "examples": [
     "A flat sheet of paper falls more slowly than the same sheet crumpled into a ball.",
     "A parachute is a very big wing for its weight, so it falls slowly.",
@@ -1378,7 +1417,8 @@
      ],
      "think": "If a measurement can wobble by a centimetre, how big must a difference be before you trust it?"
     }
-   ]
+   ],
+   "safety": "Do not stand on the table or a chair to reach the far end. Put the tape and ruler away when you finish."
   },
   {
    "id": "a2",
@@ -1693,7 +1733,8 @@
      ],
      "think": "A guess between two tested points is usually fairly safe. A guess far beyond the tested points is a much bigger gamble. Why?"
     }
-   ]
+   ],
+   "safety": "Keep pencil points pointing down. Sharpen pencils with a grown-up near, and put pencils and rulers away when you finish."
   }
  ],
  "projects": [
@@ -2179,6 +2220,36 @@
      "why": "A strong answer says what was tested, names the numbers or the averages, and avoids 'best in the world'.",
      "lines": 3,
      "outcome": 6
+    },
+    {
+     "t": "write",
+     "p": "Paper bridges with 0, 2 and 4 pleats held 4, 10 and 16 coins on average. Write one sentence that describes the pattern.",
+     "a": "The more pleats the bridge has, the more coins it holds: from 4 to 10 to 16 coins.",
+     "why": "A strong answer says the pattern in one sentence and uses the numbers from the table.",
+     "lines": 2,
+     "outcome": 1
+    },
+    {
+     "t": "fill",
+     "p": "A bar chart shows the average coins held by four bridges: flat 1, channel 8, pleated 15 and tube 17. The tube held ____ more coins than the flat one.",
+     "a": [
+      "16"
+     ],
+     "why": "The tube bar reaches 17 and the flat bar reaches 1. 17 take away 1 is 16.",
+     "outcome": 5
+    },
+    {
+     "t": "odd",
+     "p": "Three of these are safe habits for a spinner test. Which is the odd one out?",
+     "opts": [
+      "cut paper with scissors when a grown-up is near",
+      "drop the spinners standing on the floor",
+      "keep paper clips away from children under five",
+      "stand on a chair to drop from higher"
+     ],
+     "a": 3,
+     "why": "Standing on a chair can cause a fall. A grown-up with an arm stretched up, standing on the floor, can drop from higher safely. The other three are safe habits.",
+     "outcome": 0
     }
    ]
   },
@@ -2407,6 +2478,31 @@
      "a": true,
      "why": "True. A fluke is unlikely to happen twice. If an odd result repeats, it may be the most interesting finding of the test.",
      "outcome": 4
+    },
+    {
+     "t": "draw",
+     "p": "Here are example numbers, not from a real class. Five children have hand spans of 13, 14, 15, 16 and 17 centimetres and heights of 120, 124, 128, 133 and 137 centimetres. Draw a scatter graph with labelled axes.",
+     "a": "A graph with hand span (cm) along the bottom and height (cm) up the side, with five separate dots that drift upward from left to right and are not joined.",
+     "why": "A scatter graph has one dot for each child, labelled axes with units, and no joining lines. The dots drifting upward show a pattern, not a cause.",
+     "art": "A graph with five separate dots rising from left to right.",
+     "outcome": 5
+    },
+    {
+     "t": "write",
+     "p": "A friend times a spinner with a phone stopwatch and writes 1.4372 seconds. Tell your friend what to write instead, and why.",
+     "a": "Write 1.4 seconds. A thumb on the button wobbles by about a fifth of a second, so the extra digits are not real. Write only as many digits as the measuring can support.",
+     "why": "A strong answer chooses a sensible number of digits and links it to how well the timing can really be done.",
+     "lines": 3,
+     "outcome": 2
+    },
+    {
+     "t": "fill",
+     "p": "Bridges with 0 pleats held 4 coins and bridges with 2 pleats held 10. A bridge with 1 pleat would probably hold about ____ coins.",
+     "a": [
+      "7"
+     ],
+     "why": "One pleat sits between none and two, so its result should sit between 4 and 10. About 7 is a prediction, and the way to find out is to test it.",
+     "outcome": 5
     }
    ]
   },
@@ -2631,6 +2727,22 @@
      "why": "A strong answer notes the small gap, compares it with the wobble, avoids a claim of cause and states a limit.",
      "lines": 4,
      "outcome": 6
+    },
+    {
+     "t": "write",
+     "p": "A spinner test used three drops per wing length, dropped from a low mark. The averages came out close together. Suggest two ways to make the test better.",
+     "a": "Drop from a higher mark, so the stopwatch wobble is a smaller part of the time. Add more drops for each wing length. A bigger change in wing length, such as 2 and 10 centimetres, would also help.",
+     "why": "A strong answer names the limit of the test and gives a way to improve it that links to that limit.",
+     "lines": 3,
+     "outcome": 6
+    },
+    {
+     "t": "write",
+     "p": "A friend says wider wings slow a spinner because they meet more air. Plan a test of this. Say what you change, what you measure and what you keep the same.",
+     "a": "Change the wing width. Measure the fall time. Keep the wing length, the paper, the clip, the drop height and the people the same. If the explanation is right, the wider wings should fall more slowly.",
+     "why": "A strong answer changes only one thing, and says what result the explanation predicts.",
+     "lines": 4,
+     "outcome": 0
     }
    ]
   }
@@ -2778,6 +2890,102 @@
    ],
    "a": 0,
    "why": "The shape is what we change, and the coins held is what we measure. The paper size stays the same.",
+   "outcome": 0
+  },
+  {
+   "t": "mcq",
+   "p": "Wing lengths of 4, 6 and 8 centimetres gave average fall times of 12, 16 and 21 tenths of a second. Which sentence best describes the pattern?",
+   "opts": [
+    "As the wing gets longer, the fall time gets longer",
+    "The fall time stays the same whatever the wing length",
+    "The shortest wing fell slowest"
+   ],
+   "a": 0,
+   "why": "The numbers rise as the wing length rises. A good description says this with the numbers. The other two sentences do not match the table.",
+   "outcome": 1
+  },
+  {
+   "t": "mcq",
+   "p": "A bar chart shows the average mosquitoes counted a night in three rooms: hall 4, kitchen 9 and bedroom 6. How many more mosquitoes did the kitchen have than the hall?",
+   "opts": [
+    "5 more",
+    "9 more",
+    "13 more"
+   ],
+   "a": 0,
+   "why": "The kitchen bar reaches 9 and the hall bar reaches 4. 9 take away 4 is 5. Thirteen is the two numbers added together, which says nothing about the gap.",
+   "outcome": 5
+  },
+  {
+   "t": "mcq",
+   "p": "You measure the hand span and the height of each child in a class. Which graph suits this best?",
+   "opts": [
+    "A scatter graph, with one dot for each child",
+    "A line graph that joins each child to the next child",
+    "A table that shows only the average height"
+   ],
+   "a": 0,
+   "why": "A scatter graph shows the two measurements for every child together. Joining one child to the next makes a path that means nothing. The average height alone hides the pairs.",
+   "outcome": 5
+  },
+  {
+   "t": "mcq",
+   "p": "A 4 centimetre wing had an average of 12 tenths of a second and a 6 centimetre wing had 16. What is the best prediction for a 5 centimetre wing?",
+   "opts": [
+    "About 14 tenths",
+    "About 20 tenths",
+    "Exactly 14 tenths, so there is no need to test"
+   ],
+   "a": 0,
+   "why": "A 5 centimetre wing sits between the two, so its time should sit between 12 and 16. A prediction is a good guess, so it still needs to be tested.",
+   "outcome": 5
+  },
+  {
+   "t": "mcq",
+   "p": "Your stopwatch thumb wobbles by about a fifth of a second. Why is it better to write a spinner's time as 1.4 seconds than 1.4372 seconds?",
+   "opts": [
+    "The long number looks more exact than your timing really is",
+    "Stopwatches cannot show decimals",
+    "Long numbers are always wrong"
+   ],
+   "a": 0,
+   "why": "Your timing is only good to about a tenth of a second, so the extra digits are not real. Write only as many digits as your measuring can support.",
+   "outcome": 2
+  },
+  {
+   "t": "mcq",
+   "p": "Before a test with scissors and small coins, what should you do?",
+   "opts": [
+    "Think about what could hurt, set up safely, and clean up at the end",
+    "Start quickly and think about safety only if something goes wrong",
+    "Skip safety, because it matters only in big experiments"
+   ],
+   "a": 0,
+   "why": "Scissors can cut and small coins can be swallowed by a little child. Safety comes before the test, in the set-up, and after it, in the clean-up.",
+   "outcome": 0
+  },
+  {
+   "t": "mcq",
+   "p": "Which change would make the spinner test better?",
+   "opts": [
+    "Drop from a higher mark, so the stopwatch wobble is a smaller part of the time",
+    "Rub out the slowest time",
+    "Use a different paper for each spinner"
+   ],
+   "a": 0,
+   "why": "A longer fall makes a late or early thumb matter less. Rubbing out a time hides evidence, and different paper breaks the fair test.",
+   "outcome": 6
+  },
+  {
+   "t": "mcq",
+   "p": "If air push on the wings is why longer wings fall slowly, which new test fits?",
+   "opts": [
+    "Wings of the same length but wider, with everything else the same, to see if they fall more slowly",
+    "Change the wing width and the weight of the clip together",
+    "Time only one drop of one spinner"
+   ],
+   "a": 0,
+   "why": "If the explanation is right, wider wings should also slow the fall. Changing only the width keeps the test fair. Changing two things, or timing one drop, cannot test it.",
    "outcome": 0
   }
  ],

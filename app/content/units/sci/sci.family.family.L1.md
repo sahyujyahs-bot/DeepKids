@@ -15,6 +15,8 @@
 ## Terms
 - **Family**: A family is a group of people who belong to each other and look after each other. *e.g.* Nila's family is her Amma, her Appa, her Ammachi and her little brother Arjun.
 - **Relative**: A relative is someone in your family, near or far, like a grandmother, an aunt or a cousin. *e.g.* Revathi Kunjamma lives in Chennai, far from Nila. She is still Nila's relative.
+- **Nuclear family and joint family**: A nuclear family is parents and their children living together. A joint family also has grandparents, uncles, aunts and cousins in the same house. *e.g.* Joyita lives in a nuclear family in Kolkata. Meenakshi lives in a joint family in Madurai.
+- **Family tree**: A family tree is a drawing of who is in a family. The oldest people are at the top and the youngest at the bottom. *e.g.* Meenakshi draws a family tree with Paati and Thatha at the top, and herself at the bottom.
 - **Adopt**: To adopt a child is to take them into your family as your own son or daughter, for always. *e.g.* Revathi adopted baby Kayal. Kayal is Revathi's daughter now, for her whole life.
 - **Smell**: Smell is the sense that tells you what is in the air, through your nose. *e.g.* You smell sambar before you see the pot, because a little of it floats into your nose.
 - **Microbes**: Microbes are tiny living beings, far too small to see. Some of them live on your skin. *e.g.* Millions of microbes live on your hands right now. Most of them are friendly.
@@ -32,10 +34,24 @@ Every child grows up with someone who feeds them, holds them and keeps them safe
 ### Families come in many kinds · *defined*
 **Definition:** Families can be big or small, and can be made in different ways. Each kind is a real family.
 
-Some families are small, with one parent and one child. Some are big joint families, with grandparents, uncles, aunts and cousins in one house. Some children are raised by a grandmother or an aunt. Other animals have families too. In an elephant family, mothers, daughters, aunts and young ones stay together, and an older female often leads. Grown-up males leave. In an ant nest, a queen lays the eggs, and the ants you see are her daughters.
+Some families are small, with one parent and one child. Some are big joint families, with grandparents, uncles, aunts and cousins in one house. Some children are raised by a grandmother or an aunt. Other animals have families too. In an elephant family, mothers, daughters, aunts and young ones stay together, and an older female often leads. Grown-up males leave. In an ant nest, a queen lays the eggs, and the ants you see are her daughters. A family of parents and children living on their own is called a nuclear family. A family with grandparents, uncles, aunts and cousins under one roof is a joint family. Families differ for many reasons. A job in a faraway city can take parents away from the village. A small flat has no room for many people. A family farm or shop can keep everyone together. A grandparent who needs care may come to live with the children. And no kind is better than another.
 - e.g. Meenakshi lives in a joint family in Madurai. Nine people share one house: Paati, Thatha, Amma, Appa, Periyamma, Periyappa, Meenakshi and two cousins.
 - e.g. Joyita in Kolkata lives with her Baba. It is just the two of them, and her Dida visits on Sundays.
 - e.g. The ants on your kitchen floor are all girls. They are daughters of a queen who lives in the nest.
+### Knowing my own details · *defined*
+**Definition:** Personal details are facts about you, like your name, your address and your birthday.
+
+Everyone has a name that the family chose. Your parents also have names, and so do your brothers and sisters. You live at an address, which tells where your home is. You have a birthday, the day each year when your family remembers the day you were born. Learn your parent's phone number by heart. If you are ever lost, you can tell a shopkeeper, a teacher or a police officer. Do not tell strangers where you live.
+- e.g. Nila says: 'My name is Nila. My Amma is Lakshmi and my Appa is Suresh. I live in flat 4B in Kochi. My birthday is in August.'
+- e.g. Ravi's school teacher asks every child to say a parent's phone number out loud, so each child can learn it.
+- **Families with many names:** Many children have a pet name at home and another name at school. Both are yours. Your name is the way your family says it, and you can say both to a helper.
+### A family tree · *defined*
+**Definition:** A family tree is a drawing that shows who is in a family, with the oldest people at the top and the youngest at the bottom.
+
+Start with grandparents, who are at the top. Draw a line down to their children, who are the parents. Draw a line from the parents to the children. That makes three generations. A generation is all the people of about the same age in a family. Write each person's name under their face. You can add the other grandparents too: your father's parents on one side, and your mother's parents on the other.
+- e.g. Meenakshi draws Paati and Thatha at the top. Below them go Amma, Appa, Periyamma and Periyappa. At the bottom go Meenakshi and her cousins.
+- e.g. Kayal draws Revathi, her mother, and Revathi's mother, her grandmother. She draws herself at the bottom.
+- **Different families, different trees:** Every tree looks different. Some have two parents, some have one. A child who was adopted can draw the people who raised her. People do not all agree on who should be in a tree, so you decide with your family.
 ### How we know our family by smell · *defined*
 **Definition:** Every person has a body smell of their own. People can learn the smells of the people they live with, and know them again.
 
@@ -378,7 +394,7 @@ Nila wrapped the shawl round Ammachi's shoulders and hugged her, shawl and all. 
   - Ask: What made the stand work? (good: The triangle at the back held it.; A wide foot stopped it falling.)
 
 ## Worksheets
-### My Family and Its Smell (core) (core, 10 questions)
+### My Family and Its Smell (core) (core, 12 questions)
 1. (draw) Draw three things in your home that you can know by their smell alone. Ask a grown-up to write what they are.  
    **Answer:** A drawing of three things with a smell, such as tea, soap or a flower.. *Why:* A strong drawing shows things the child really knows by smell. Smell tells us who and what is near.
 2. (match) Draw a line from each family to who is in it.  
@@ -399,9 +415,13 @@ Nila wrapped the shawl round Ammachi's shoulders and hugged her, shawl and all. 
    **Answer:** Any side, with a reason. Both can be right: many people are both related and live together.. *Why:* A strong answer gives a reason, for example 'Kunjamma lives far away but she is still my family'. It also sees what is good in the other view.
 9. (sort) A girl knows her grandmother by clues. Colour the clues you see in blue. Colour the clues you smell in green.  
    **Answer:** her coconut oil → I smell it; her green shawl → I see it; her grey hair → I see it; her own body smell → I smell it. *Why:* We know our family with our eyes and with our noses. A smell clue works even in the dark.
-10. (label) Here is the shirt test. Draw a ring round the thing that stops the eyes from helping. Draw a cross on the thing that holds the shirt.  
+10. (draw) Draw your own family tree. Put your grandparents at the top, your parents in the middle and you and your brothers and sisters at the bottom. Write each name.  
+   **Answer:** A tree with three rows. For example: Paati and Thatha at the top, Amma and Appa in the middle, and the child at the bottom.. *Why:* A family tree shows three generations. The oldest people are at the top.
+11. (write) Say it to a grown-up, who writes it down: your name, your mother's name, your father's name, your brothers' and sisters' names, and your birthday.  
+   **Answer:** Any true answer. For example: I am Nila. My Amma is Lakshmi and my Appa is Suresh. My brother is Arjun. My birthday is in August.. *Why:* These are your personal details. Knowing them helps you tell people who you are.
+12. (label) Here is the shirt test. Draw a ring round the thing that stops the eyes from helping. Draw a cross on the thing that holds the shirt.  
    **Answer:** A ring round the dupatta over the eyes. A cross on the steel tumbler.. *Why:* A strong answer finds the dupatta, which makes the test fair, and the tumbler, which hides the shirt.
-### How We Know Each Other (stretch) (stretch, 10 questions)
+### How We Know Each Other (stretch) (stretch, 11 questions)
 1. (mcq) Here are two shirts. A mother wore one all night. The other was just washed. Which one smells of a person?  
    Options: The one the mother wore / The one just washed / Both the same  
    **Answer:** The one the mother wore. *Why:* A worn shirt picks up the wearer's smell. Washing takes most of it away. That is why the Whose Cloth Is This? test has one washed shirt that nobody wore.
@@ -418,13 +438,15 @@ Nila wrapped the shawl round Ammachi's shoulders and hugged her, shawl and all. 
 7. (odd) Circle the one that is NOT a way to join a family.  
    Options: Being born into it / Being adopted / Getting married / Buying a bus ticket  
    **Answer:** 3. *Why:* People join a family by being born, by adoption or by marriage. A bus ticket only takes you somewhere.
-8. (write) Say it to a grown-up. Someone says, 'People cannot smell each other. Only dogs use their noses.' What would you tell them from your shirt test?  
+8. (match) Draw a line from each family to its kind.  
+   **Answer:** Parents and two children in a flat → A nuclear family; Grandparents, uncles, aunts, parents and cousins in one house → A joint family; A grandmother and her granddaughter → A family with grandparent and child. *Why:* A nuclear family has parents and children. A joint family has more relatives in one house. Each one is a real family.
+9. (write) Say it to a grown-up. Someone says, 'People cannot smell each other. Only dogs use their noses.' What would you tell them from your shirt test?  
    **Answer:** I found some of my family by smell alone, with my eyes covered. So people do use their noses.. *Why:* A strong answer uses the child's own shirt test as evidence against the idea.
-9. (label) Here is an elephant family walking. Draw a ring round the leader. Draw a star on the young one who is safest.  
+10. (label) Here is an elephant family walking. Draw a ring round the leader. Draw a star on the young one who is safest.  
    **Answer:** A ring round the older female at the front. A star on the calf in the middle.. *Why:* An older female often leads. The young ones walk in the middle, where the grown-ups can protect them.
-10. (fill) People who live together pass tiny living beings to each other. These tiny beings are called ______.  
+11. (fill) People who live together pass tiny living beings to each other. These tiny beings are called ______.  
    **Answer:** microbes. *Why:* Microbes live on our skin, and pass between people who hug, hold hands and share a home.
-### Families and Tiny Beings (challenge) (challenge, 10 questions)
+### Families and Tiny Beings (challenge) (challenge, 11 questions)
 1. (write) Say it to a grown-up. In the Pass the Smell test, the garlic smell got weaker down the line. Why?  
    **Answer:** Each hand kept some of the garlic and passed on only a little. So each hand had less than the one before.. *Why:* A strong answer says some of the garlic stayed on each hand, so less reached the end.
 2. (mcq) Scientists found that people in one home share many skin microbes. A grandmother goes to stay for two weeks with her daughter's family. What do you guess will happen?  
@@ -446,7 +468,9 @@ Nila wrapped the shawl round Ammachi's shoulders and hugged her, shawl and all. 
    **Answer:** Baby Kayal and her mother Revathi → Adoption; Nila and her little brother Arjun → Born to the same parents; Nila's Amma and Appa → Marriage. *Why:* People join families in different ways. Each way makes a real family.
 9. (write) Say it to a grown-up. Three tulsi plants grow side by side in one pot on the window. Are they a family? Why or why not?  
    **Answer:** For example: Yes, they live together and share the same soil and water. Or: Maybe, if they came from the same parent plant.. *Why:* A strong answer gives a reason, using what a family is: belonging together, sharing a home, or coming from the same parents.
-10. (draw) Draw an animal family you have seen near your home, like cats, crows or cows. Show who looks after the young.  
+10. (write) Say it to a grown-up, who writes it down: why might one family live in a joint family and another in a nuclear family? Give two reasons.  
+   **Answer:** A family farm or shop can keep many people together. A job in a faraway city can make a smaller family move to a small flat.. *Why:* A good answer gives two real reasons, such as work, the size of the house or caring for an old person, and does not say one kind is better.
+11. (draw) Draw an animal family you have seen near your home, like cats, crows or cows. Show who looks after the young.  
    **Answer:** A drawing of an adult animal with her young.. *Why:* A strong drawing shows an adult animal close to the young ones, and says what she does for them, such as feeding or guarding.
 
 ## Videos
@@ -458,31 +482,43 @@ Nila wrapped the shawl round Ammachi's shoulders and hugged her, shawl and all. 
 1. (mcq) What is a family?  
    Options: People who belong to each other and look after each other / Only people who look the same / Everyone on your street  
    **Answer:** People who belong to each other and look after each other. *Why:* A family is people who belong together and care for each other. Family members do not always look alike.
-2. (mcq) A girl lives with her mother and her grandmother. Is that a family?  
+2. (mcq) You are lost at a railway station. Who is a good person to tell your name and your parent's phone number?  
+   Options: A police officer or a shopkeeper / Someone you have never met, who offers you a lift / Nobody, you should wait quietly  
+   **Answer:** A police officer or a shopkeeper. *Why:* A police officer or a shopkeeper can help you call your family. A stranger who offers a lift is not safe, and waiting alone does not help.
+3. (mcq) In a family tree, where do the grandparents go?  
+   Options: At the top / At the bottom / In the middle, beside the children  
+   **Answer:** At the top. *Why:* The oldest people go at the top, then their children, and the youngest at the bottom. That makes three generations.
+4. (mcq) A girl lives with her mother and her grandmother. Is that a family?  
    Options: Yes / No, there is no father / No, it is too small  
    **Answer:** Yes. *Why:* Her mother and grandmother look after her. Families come in many kinds, and this is one.
-3. (mcq) Who often leads an Asian elephant family?  
+5. (mcq) Rohan lives with his parents and his sister in a flat in Mumbai. What kind of family is this?  
+   Options: A nuclear family / A joint family / Not a family  
+   **Answer:** A nuclear family. *Why:* Parents and children living on their own are a nuclear family. A joint family also has grandparents, uncles and aunts in the same house. Both are real families.
+6. (mcq) A family in a village moves to a small flat in a city for work. Why might they become a nuclear family?  
+   Options: The flat is small and the job is far from the village / Joint families are not real families / Everyone stops loving their grandparents  
+   **Answer:** The flat is small and the job is far from the village. *Why:* A job and a small flat can change how a family lives together. The love stays the same, and both kinds are real families.
+7. (mcq) Who often leads an Asian elephant family?  
    Options: An older female / The youngest calf / A grown-up male  
    **Answer:** An older female. *Why:* Elephant families are mothers, daughters, aunts and young ones. An older female often leads. Grown-up males leave.
-4. (mcq) In an ant nest, who lays the eggs?  
+8. (mcq) In an ant nest, who lays the eggs?  
    Options: The queen / The biggest worker ant / The baby ants  
    **Answer:** The queen. *Why:* The queen lays the eggs. The worker ants are her daughters.
-5. (mcq) Can people tell their family apart by smell alone?  
+9. (mcq) Can people tell their family apart by smell alone?  
    Options: Yes, often they can / No, only dogs can / Only with their eyes open  
    **Answer:** Yes, often they can. *Why:* Scientists found that mothers, brothers and sisters can pick out a family member's worn shirt by smell. You may have done it too.
-6. (mcq) You do the shirt test once and get one guess right. Why should you do it again?  
+10. (mcq) You do the shirt test once and get one guess right. Why should you do it again?  
    Options: One right guess could be luck / To make it take longer / Because the first time is always wrong  
    **Answer:** One right guess could be luck. *Why:* A guess can be right by luck. If you are right two times, it is more likely your nose really knows.
-7. (mcq) Why do we use the same kind of tumbler for every shirt?  
+11. (mcq) Why do we use the same kind of tumbler for every shirt?  
    Options: So the tumblers give no clue / Because steel smells nice / So the shirts stay clean  
    **Answer:** So the tumblers give no clue. *Why:* If one tumbler looked or felt different, it could give a clue. Same tumblers make a fair test.
-8. (mcq) What makes much of a person's body smell?  
+12. (mcq) What makes much of a person's body smell?  
    Options: Tiny microbes on the skin / The colour of their clothes / How tall they are  
    **Answer:** Tiny microbes on the skin. *Why:* Microbes on the skin feed on sweat and make much of our smell. Food, soap and genes play a part too.
-9. (mcq) A girl and her mother hug every day. What passes between them?  
+13. (mcq) A girl and her mother hug every day. What passes between them?  
    Options: Tiny microbes from their skin / Nothing at all / Their height  
    **Answer:** Tiny microbes from their skin. *Why:* When people touch, some skin microbes move across. People who live together share many microbes.
-10. (mcq) Baby Kayal was adopted by Revathi. Will they share skin microbes?  
+14. (mcq) Baby Kayal was adopted by Revathi. Will they share skin microbes?  
    Options: Yes, because they live close together / No, because Kayal was not born to Revathi / Only if they look alike  
    **Answer:** Yes, because they live close together. *Why:* Sharing microbes comes from living together and touching, not from being born into a family. A husband and wife share many too.
 

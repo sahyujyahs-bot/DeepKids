@@ -37,7 +37,7 @@
 ### Pulse and breathing rate: two numbers you can count · *defined*
 **Definition:** Your pulse rate is the number of heartbeats in one minute. Your breathing rate is the number of breaths in one minute. Both change all day.
 
-Press two fingers, not your thumb, on the inside of your wrist and you feel a small push again and again. Each push is one heartbeat travelling along an artery. Count the pushes for 15 seconds and multiply by 4, and you have your pulse rate. To count breaths, watch a chest or a belly rise and fall for 15 seconds, and multiply by 4. A child of 6 to 10 sitting still has a pulse rate of about 70 to 110 beats per minute and a breathing rate of about 18 to 25 breaths per minute. A grown-up at rest has a slower pulse and slower breathing. A newborn baby has a much faster pulse and breathing. Heart rate and breathing rate are not fixed numbers. They change from moment to moment, depending on how hard your body is working.
+Press two fingers, not your thumb, on the inside of your wrist and you feel a small push again and again. Each push is one heartbeat travelling along an artery. Count the pushes for 15 seconds and multiply by 4, and you have your pulse rate. To count breaths, watch a chest or a belly rise and fall for 15 seconds, and multiply by 4. A child of 6 to 10 sitting still has a pulse rate of about 70 to 110 beats per minute and a breathing rate of about 18 to 25 breaths per minute. A grown-up at rest has a slower pulse and slower breathing. A newborn baby has a much faster pulse and breathing. Heart rate and breathing rate are not fixed numbers. They change from moment to moment, depending on how hard your body is working. An adult at rest breathes about 16 to 18 times a minute. Exercise, illness and fever all make breathing faster.
 - e.g. A child lying down has a lower pulse than the same child standing up.
 - e.g. After 30 step-ups, a child's pulse can double, and then falls back over a few minutes.
 - e.g. A sleeping person has one of the slowest pulses of the day.
@@ -528,7 +528,7 @@ That night the water ran along the edge of the barley field, soaking the dry gro
   - Think: What would you change to make your meter more exact?
 
 ## Worksheets
-### Pulse, Breath and Blood (core) (core, 17 questions)
+### Pulse, Breath and Blood (core) (core, 18 questions)
 1. (mcq) A child's pulse is counted for 15 seconds, and the count is 22 beats. What is the pulse per minute?  
    Options: 88 beats / 37 beats / 22 beats  
    **Answer:** 88 beats. *Why:* There are four 15-second spells in one minute. 22 times 4 is 88. If you chose 37, you added 15 to the count instead of multiplying.
@@ -569,6 +569,8 @@ That night the water ran along the edge of the barley field, soaking the dry gro
 17. (mcq) You press a fingernail until it goes white, and the pink comes back slowly. What does this suggest?  
    Options: Less blood is reaching the fingertip / The nail is growing / The finger has too much blood  
    **Answer:** Less blood is reaching the fingertip. *Why:* A white nail is a nail with the blood squeezed out. The pink returns when new blood arrives. If it comes back slowly, the blood is arriving slowly, as in cold fingers.
+18. (fill) A grown-up at rest breathes about ____ times a minute.  
+   **Answer:** ['16 to 18']. *Why:* A grown-up at rest takes about 16 to 18 breaths a minute. Exercise, illness and fever push the number higher.
 ### Surface, Signals and Other Bodies (stretch) (stretch, 16 questions)
 1. (mcq) Your lungs have hundreds of millions of tiny air bags and not one big bag. Why does this help?  
    Options: It gives a huge surface for oxygen to cross into the blood / It makes the lungs lighter / It keeps the air warm  
@@ -690,6 +692,9 @@ That night the water ran along the edge of the barley field, soaking the dry gro
 12. (mcq) A nurse takes blood from a vein in your arm. What colour is the blood in the syringe?  
    Options: Dark red / Blue / Bright yellow  
    **Answer:** Dark red. *Why:* Blood is always red. Blood from a vein has given up some oxygen, so it is dark red.
+13. (mcq) Which of these makes a person breathe faster than usual?  
+   Options: A fever / Sitting still in a cool room / A long, quiet sleep  
+   **Answer:** A fever. *Why:* A fever, an illness or exercise all make the breathing faster, because the body is working harder or fighting an illness. Sitting still in a cool room and sleeping quietly both slow the breathing down.
 
 ## Applications
 - Doctors count the pulse and breathing rate of every patient, because the two numbers show quickly how the body is coping.

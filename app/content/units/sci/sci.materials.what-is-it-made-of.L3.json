@@ -95,6 +95,12 @@
    "art": "An orange glowing furnace mouth with a worker holding a long rod of hot glass."
   },
   {
+   "term": "Alloy",
+   "meaning": "A mixture of metals, melted together and cooled. It is often stronger or harder than one metal alone.",
+   "example": "Brass is copper and zinc. Bronze is copper and tin.",
+   "art": "A pot of melted orange copper with a stream of silver zinc being poured in, and a golden brass plate beside it."
+  },
+  {
    "term": "Petroleum (crude oil)",
    "meaning": "A thick, dark oil found deep under the ground and the sea floor. It formed over millions of years from tiny living things in the sea. Most plastic is made from it, and from natural gas.",
    "example": "Petrol for scooters and the plastic of a bucket both come from petroleum.",
@@ -317,9 +323,11 @@
    "concept": "Materials from deep in the ground: metals, sand, clay and oil",
    "status": "defined",
    "definition": "Metals come from ores, rocks with metal inside. Glass comes from sand. Bricks and pots come from clay. Most plastic comes from petroleum and natural gas.",
-   "description": "Metals hide inside ores. People dig the ore out of mines and heat it in a furnace until the metal comes out. Most steel is iron with a little carbon. A steel tumbler or spoon is stainless steel, which also has chromium mixed in, so it does not rust. Clay is a kind of soil with very tiny grains. It becomes sticky when wet, and hard when baked. Petroleum is a thick, dark oil from deep underground. It formed over millions of years from tiny living things in ancient seas. They were buried in mud and slowly squeezed and warmed. So most plastic is made from the remains of living things that died millions of years ago.",
+   "description": "Metals hide inside ores. People dig the ore out of mines and heat it in a furnace until the metal comes out. Most steel is iron with a little carbon. A steel tumbler or spoon is stainless steel, which also has chromium mixed in, so it does not rust. Clay is a kind of soil with very tiny grains. It becomes sticky when wet, and hard when baked. Petroleum is a thick, dark oil from deep underground. It formed over millions of years from tiny living things in ancient seas. They were buried in mud and slowly squeezed and warmed. So most plastic is made from the remains of living things that died millions of years ago. Many metals are used as alloys. An alloy is a mixture of metals, melted together and cooled. It is often stronger or harder than any one of the metals alone. Brass is copper mixed with zinc. Bronze is copper mixed with tin. People in India have made bronze for thousands of years.",
    "examples": [
     "Bauxite, a reddish ore from Odisha and other states, gives aluminium for pressure cookers and foil.",
+    "Copper is dug as ore in places like Khetri in Rajasthan and Singhbhum in Jharkhand. Gold is rarer. It is often found as tiny shining specks in rock and river sand.",
+    "The brass plate on a puja thali is an alloy of copper and zinc. A bronze bell is copper and tin.",
     "Sand from riverbeds and quarries is melted into glass.",
     "A plastic bucket started as oil pumped up from deep underground or under the sea.",
     "A 'tin' can is mostly steel, with a very thin coat of tin to stop it rusting."
@@ -1835,6 +1843,14 @@
      "say": "Which materials changed most? Were the old ones natural or made by people? Which could go back to the Earth more easily?",
      "kid": "Look at THEN and NOW. Which things changed most? Which could go back to the Earth?",
      "think": "Which old material would you bring back, and why?"
+    },
+    {
+     "id": "s4",
+     "mins": 5,
+     "do": "If you can, ask one more person: someone who makes or sells things, such as a potter, a carpenter, a tailor or the shopkeeper who sells pencils and notebooks. Ask: What is this made of? Where does that material come from? Who made it before it reached you?",
+     "say": "A pencil or a notebook looks simple. But many people worked on it. A craftsperson or a shopkeeper often knows things that books do not.",
+     "kid": "Ask a maker or a shopkeeper: What is a pencil or a notebook made of? Where does it come from? Who made it? Write down what they say in their own words.",
+     "parent": "You do not need a perfect answer. If they say 'wood and graphite' or 'paper from trees', that is good. Write down what they said, and what they did not know. It is fine to say 'I do not know' too."
     }
    ],
    "setup": [
@@ -2276,10 +2292,10 @@
     {
      "id": "s3",
      "mins": 15,
-     "do": "1. Knead the clay until it is smooth and does not crack when bent. 2. Roll a ball the size of a lemon. 3. Press your thumb in the middle and pinch the sides up into a cup. 4. Pinch one side into a spout for a wick. 5. Weigh the wet diya on the kitchen scale and write the number.",
+     "do": "1. Knead the clay until it is smooth and does not crack when bent. 2. Roll a ball the size of a lemon. 3. Press your thumb in the middle and pinch the sides up into a cup. 4. Pinch one side into a spout for a wick. 5. Weigh the wet diya on the kitchen scale and write the number. 6. While the clay is still soft, press patterns into the rim and sides with a toothpick, a fingertip or a small leaf: dots, lines, or a row of tiny petals.",
      "say": "Potters in India have shaped diyas like this for thousands of years. At Harappa and Mohenjo-daro, people baked clay pots more than 4,000 years ago.",
      "kid": "Knead the clay smooth. Roll a ball. Push your thumb in. Pinch up the sides. Make a spout. Weigh it!",
-     "parent": "If it cracks, it is too dry, so wet your fingers. If it sags, it is too wet, so let it firm up for an hour."
+     "parent": "If it cracks, it is too dry, so wet your fingers. If it sags, it is too wet, so let it firm up for an hour. Patterns must go on while the clay is soft. Dry clay crumbles instead of taking a mark. Potters and families across India decorate pots this way, so let your child choose the pattern. If your child enjoys it, a gullak, a clay money pot, is a good next try: pinch two small bowls, join the rims with a little wet clay, and cut a coin slot while the clay is soft. Let it dry slowly in the shade, as with the diya."
     },
     {
      "id": "s4",
@@ -2757,6 +2773,26 @@
      "lines": 3,
      "a": "For example: a cotton plant makes cotton fluff, which people spin into thread for clothes. Silkworms make silk, which people weave into saris.",
      "why": "A strong answer gives a real material, the living being who made it, and a real use."
+    },
+    {
+     "t": "match",
+     "p": "Match each alloy to the metals mixed to make it.",
+     "pairs": [
+      [
+       "brass",
+       "copper and zinc"
+      ],
+      [
+       "bronze",
+       "copper and tin"
+      ],
+      [
+       "stainless steel",
+       "iron with a little carbon and chromium"
+      ]
+     ],
+     "a": "pairs as given",
+     "why": "An alloy is a mixture, and each one has its own recipe. Steel is mostly iron, with carbon and sometimes chromium added to keep it from rusting."
     }
    ]
   },
@@ -3016,6 +3052,12 @@
      ],
      "a": 0,
      "why": "Nylon was made to copy some of silk's properties, like being strong and smooth, at a lower cost. 'Nylon rots away quickly' is the opposite of the truth. Nylon is made from petroleum and lasts a very long time."
+    },
+    {
+     "t": "truefalse",
+     "p": "A dot pressed into soft clay will still be there after the clay dries.",
+     "a": true,
+     "why": "True. Soft clay keeps the mark, and drying does not remove it. Pressing on dry clay is different, because it crumbles."
     }
    ]
   },
@@ -3182,6 +3224,13 @@
      "how": "e1",
      "context": "In the paper experiment, you mashed old newspaper into pulp and pressed it into a new sheet.",
      "why": "Mashing, pressing and drying break the plant fibres into shorter pieces. Short fibres grip less well, so the paper gets weaker, until it is too weak to recycle. The atoms are never used up. A strong answer says what happens to the fibres."
+    },
+    {
+     "t": "write",
+     "p": "Ask a craftsperson or an older person how a pencil or a notebook is made. Write what they told you, and one thing they did not know.",
+     "lines": 4,
+     "a": "For example: the shopkeeper said a notebook is paper from trees, stitched together by a factory. He did not know which forest the trees came from.",
+     "why": "A good answer uses the person's own words, and also notes what is still unknown. Nobody knows the whole journey of a thing, which is why many hands matter."
     }
    ]
   }
@@ -3366,6 +3415,45 @@
    ],
    "a": 0,
    "why": "Most of India's iron ore is dug in Odisha, Jharkhand, Chhattisgarh and Karnataka, by miners we never see. It is not 'only machines', because people drive and fix the machines. Steel is not found ready-made, because iron must be melted out of rock.",
+   "outcome": 6
+  },
+  {
+   "t": "mcq",
+   "p": "Why is bronze called an alloy?",
+   "opts": [
+    "It is copper and tin melted together",
+    "It is one pure metal dug from the ground",
+    "It is a rock with metal inside",
+    "It is a plastic made to look like metal"
+   ],
+   "a": 0,
+   "why": "An alloy is a mixture of metals. Bronze is copper mixed with tin. A rock with metal inside is an ore, and bronze is made from metals that were already taken out of their ores. A pure metal is only one kind, so it is not an alloy.",
+   "outcome": 2
+  },
+  {
+   "t": "mcq",
+   "p": "Meera wants a pattern of dots on her clay diya. When is the best time to press the dots in?",
+   "opts": [
+    "While the clay is soft and damp",
+    "After the diya is completely dry",
+    "Only after it is baked in a kiln",
+    "It does not matter, clay always takes a mark"
+   ],
+   "a": 0,
+   "why": "Soft clay takes a mark easily and keeps it when it dries. Dry clay crumbles or cracks if you press it. Baked clay is as hard as a brick, so a toothpick leaves nothing. That is why potters decorate before drying.",
+   "outcome": 3
+  },
+  {
+   "t": "mcq",
+   "p": "You visit a carpenter in your lane and want to learn about wood. Which question will teach you most about where the wood came from?",
+   "opts": [
+    "Which kind of tree gave this wood, and where did the tree grow?",
+    "How much does it cost?",
+    "Is it a nice day?",
+    "Do you like this chair?"
+   ],
+   "a": 0,
+   "why": "This question asks about the source, which is what this lesson traces. Price and opinions are fair questions, but they do not tell you where the material came from. The other answer is not about wood at all.",
    "outcome": 6
   }
  ],

@@ -177,7 +177,7 @@
    "concept": "Kindness, respect and friendship",
    "status": "defined",
    "definition": "Kindness is doing good for someone because you care how they feel. Respect is treating other people's bodies, feelings and choices as important. Friendship is a bond of liking, trust and care between people.",
-   "description": "Scientists have found that very young children help others without being asked. In one study, toddlers of 18 months picked up a clothes peg a grown-up had dropped and handed it back, with no reward. In another study, children under two looked happier when they gave a treat to a puppet than when they got a treat themselves. Grown-ups who spent a little money on others also said they felt happier than those who spent it on themselves. Respect means asking before touching someone, listening when they say no, and not laughing at feelings that are different from yours.",
+   "description": "Scientists have found that very young children help others without being asked. In one study, toddlers of 18 months picked up a clothes peg a grown-up had dropped and handed it back, with no reward. In another study, children under two looked happier when they gave a treat to a puppet than when they got a treat themselves. Grown-ups who spent a little money on others also said they felt happier than those who spent it on themselves. Respect means asking before touching someone, listening when they say no, and not laughing at feelings that are different from yours. Respect also means seeing a person who is physically or mentally challenged as a whole person. A child who uses a wheelchair, or who learns and thinks in a different way, has feelings and choices that count as much as anyone's.",
    "examples": [
     "Helping a neighbour carry vegetables up the stairs.",
     "Asking before you borrow your sister's crayons.",
@@ -1705,6 +1705,13 @@
     },
     {
      "t": "write",
+     "p": "Your new neighbour cannot see well, and walks with a white stick. Write two things you could do that show respect. Then write one thing that would not.",
+     "lines": 3,
+     "a": "Two respectful things: ask if she would like help, and wait for her answer. Talk to her directly, not only to the person with her. Not respectful: grabbing her arm without asking, or talking about her as if she is not there.",
+     "why": "A strong answer asks first, speaks to the person directly, and treats her choices as important."
+    },
+    {
+     "t": "write",
      "p": "Why do you think fear makes your heart beat faster? How could that help an animal in danger?",
      "lines": 3,
      "a": "A faster heart pumps more blood and oxygen to the muscles, so the body is ready to run away or fight. A deer that hears a tiger can run faster.",
@@ -2075,6 +2082,18 @@
    "why": "A happy mouth turns up, which is very easy to see. Scared, surprised and angry show more in the eyes and eyebrows.",
    "outcome": 2,
    "how": "e1"
+  },
+  {
+   "t": "mcq",
+   "p": "Your classmate uses a wheelchair. Which one shows respect?",
+   "opts": [
+    "Ask what help she wants, and wait for her answer",
+    "Push her chair without asking, so she gets there faster",
+    "Make a joke about how she moves"
+   ],
+   "a": 0,
+   "why": "Respect means asking first and listening to her choice. Pushing her chair without asking takes away her choice, and a joke about how she moves hurts her feelings.",
+   "outcome": 5
   }
  ],
  "maths": [

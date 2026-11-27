@@ -52,7 +52,7 @@ Fish swim in the water and breathe with gills. Frogs lay eggs in the water, and 
 ### A park has many small habitats · *defined*
 **Definition:** In a park, the grass, the flowers and the soil are different habitats, each with their own living beings.
 
-Grasshoppers hide in the grass, and mynas walk on the grass to catch them. Bees and butterflies drink a sweet juice called nectar from flowers. Under the grass, earthworms dig tunnels in the soil.
+Grasshoppers hide in the grass, and mynas walk on the grass to catch them. Bees and butterflies drink a sweet juice called nectar from flowers. Under the grass, earthworms dig tunnels in the soil. A sunny patch of grass at noon is hot and dry. The ground under a big tree is cooler and damper, so ants and pill bugs can live there.
 - e.g. A myna hops behind the grass cutter, picking up the insects that jump out.
 - e.g. A honeybee pushes into a flower to drink nectar.
 - e.g. After rain, small heaps of soil on the grass show where earthworms are working below.
@@ -343,7 +343,7 @@ The next morning, before school, Kiran lifted the tile very slowly. The soil und
   - Wait: Watch over the next two days.
 
 ## Worksheets
-### Homes Near Our Home (core) (core, 10 questions)
+### Homes Near Our Home (core) (core, 11 questions)
 1. (match) Draw a line from each living being to their home.  
    **Answer:** Earthworm → Under a stone; Tadpole → A pond; Squirrel → A tree; Honeybee → Flowers in a park. *Why:* Earthworms need damp soil, tadpoles need water, squirrels nest high in trees, and bees drink nectar from flowers.
 2. (sort) Colour the damp, dark places blue. Colour the dry, bright places yellow.  
@@ -358,12 +358,14 @@ The next morning, before school, Kiran lifted the tile very slowly. The soil und
    **Answer:** Under the stone the soil is damp and cool. The earthworm breathes through damp skin, and the hot road would dry the skin.. *Why:* A strong answer links the place (damp and cool) to what the earthworm needs (damp skin to breathe).
 7. (perspective) Two friends in Kochi find a big flat stone in the park.  
    **Answer:** A strong answer picks a side and gives a reason, such as 'The first child, because we can learn who lives there.' Then it is fair to the other side: The second child is right that the stone is a roof for the animals.. *Why:* Both friends have a point. Looking teaches us about small homes. Lifting the stone slowly, not touching, and putting the stone back the same way keeps the home safe.
-8. (odd) Which place is the odd one out? Think about water.  
+8. (write) Say it to a grown-up, who writes it down: how is a sunny patch of grass at noon different from the damp ground under a big tree? Name one living being you might find in each.  
+   **Answer:** The grass at noon is hot and dry, and the ground under the tree is cooler and damp. Grasshoppers hide in the grass. Ants and pill bugs live under the tree.. *Why:* A strong answer names a difference in heat or water (hot and dry, or cool and damp) and a living being that fits each place.
+9. (odd) Which place is the odd one out? Think about water.  
    Options: A pond / A temple tank / A puddle after rain / A sunny windowsill  
    **Answer:** 3. *Why:* A pond, a temple tank and a puddle all hold water, so water animals can live in them. A sunny windowsill is dry.
-9. (truefalse) An earthworm likes to lie on hot, dry ground.  
+10. (truefalse) An earthworm likes to lie on hot, dry ground.  
    **Answer:** False. *Why:* False. An earthworm breathes through her skin, and her skin must stay damp. Hot, dry ground would dry her out.
-10. (mcq) Which place gives a crow a high, safe home for her nest?  
+11. (mcq) Which place gives a crow a high, safe home for her nest?  
    Options: A pond / A tall tree / Under a stone  
    **Answer:** A tall tree. *Why:* A crow builds her nest in the branches of a tall tree, high above cats and dogs.
 ### Homes Near Our Home (stretch) (stretch, 10 questions)
@@ -425,6 +427,9 @@ The next morning, before school, Kiran lifted the tile very slowly. The soil und
 10. (mcq) You lift a flowerpot and see ants carrying their white young ones away. Why do they do that?  
    Options: The young ones need a dark place, and the pot's roof was gone / The young ones wanted to see the sun / The ants were tidying the floor  
    **Answer:** The young ones need a dark place, and the pot's roof was gone. *Why:* Ant young ones are kept in the dark and damp. When the pot was lifted, the ants moved them to a darker place.
+11. (mcq) A sunny patch of grass at noon, and the damp ground under a big tree. Which one is more likely to have ants and pill bugs?  
+   Options: The sunny patch of grass at noon / The damp ground under a big tree / The bare road in the sun  
+   **Answer:** The damp ground under a big tree. *Why:* Ants and pill bugs need damp ground and shade. The grass at noon is hot and dry. The ground under the tree is cooler and damper.
 
 ## Applications
 - Gardeners lift pots and stones to check for earthworms, which are a sign of healthy soil.

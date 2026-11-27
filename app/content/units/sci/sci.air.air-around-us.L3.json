@@ -53,6 +53,12 @@
    "art": "A hand pushing a bicycle pump, with the tyre getting firm."
   },
   {
+   "term": "Expand",
+   "meaning": "To take up more room. Warm air expands.",
+   "example": "The warmed air in a hot-air balloon expands, so the balloon floats up.",
+   "art": "A hot-air balloon with a flame below it and arrows showing air spreading out."
+  },
+  {
    "term": "Particles",
    "meaning": "The tiny pieces that all matter is made of. They are far too small to see.",
    "example": "In air, the particles are far apart, with empty space between them.",
@@ -155,6 +161,19 @@
    "context": "This card is about why air can be squashed but water cannot."
   },
   {
+   "concept": "Warm air expands",
+   "status": "defined",
+   "context": "This card comes after air can be squashed. Air can also take up more room when it is warmed.",
+   "definition": "Warm air expands, which means it takes up more room than cold air.",
+   "description": "Air also takes up more room when it is warmed. This is called expanding. In a hot-air balloon, a flame warms the air inside. The air expands, so some of it flows out of the open mouth. There is then less air in the same space, and the balloon floats up.",
+   "examples": [
+    "A hot-air balloon rising over a fair, after the flame warms the air inside",
+    "A balloon left in a very hot car can swell"
+   ],
+   "perspectives": [],
+   "art": "A hot-air balloon with a flame below it, and arrows showing warm air spreading out and leaving the open mouth."
+  },
+  {
    "concept": "Air has weight",
    "status": "defined",
    "definition": "Air has weight. Near the ground, one litre of air weighs about 1.2 grams.",
@@ -251,6 +270,20 @@
    "context": "This card is about how plants take from and give to the air."
   },
   {
+   "concept": "Keeping the air we breathe clean",
+   "status": "defined",
+   "context": "This card comes after plants and air. We need clean air, and there are things a family can do to keep it clean.",
+   "definition": "Air stays fresh when it can move through our homes, and when we make less smoke and dust. Trees help.",
+   "description": "Air in a closed room gets stale. It can feel stuffy and make you sleepy. Open windows and doors so fresh air comes in and stale air goes out. This is called ventilation. Do not sleep in a tightly sealed room, and never sleep in one with a coal or wood fire burning inside. Burning coal makes a poisonous gas called carbon monoxide, which you cannot see or smell. Smoke from vehicles, burning rubbish and crackers also makes the air dirty. Do not burn rubbish, and walk or cycle for short trips. Trees help. In the day, their leaves give out oxygen, and they catch dust on their leaves. A neem tree outside a house helps keep the air around it fresh.",
+   "examples": [
+    "Opening the windows in the morning to let fresh air through the house",
+    "Taking the rubbish to the bin, and not burning it in the lane",
+    "Planting a neem or a tulsi near the house"
+   ],
+   "perspectives": [],
+   "art": "A house with windows open and arrows of air going in and out, a neem tree beside the house, and a crossed-out fire of rubbish in the lane."
+  },
+  {
    "concept": "Plants whose roots live in mud",
    "status": "defined",
    "definition": "Some plants grow where their roots sit in wet mud with very little air. They have special ways to get air down to their roots.",
@@ -272,6 +305,20 @@
    ],
    "art": "A cut-away drawing of a lotus plant in a pond, showing air moving down hollow tubes from the leaf, through the stalk, to the stem in the mud.",
    "context": "This card is about plants whose roots live in mud, and how they get the air their roots need."
+  },
+  {
+   "concept": "Air carries sound",
+   "status": "defined",
+   "context": "This card comes after plants and air. Air does more than keep us breathing. It also carries sound to our ears.",
+   "definition": "Sound travels through air. A thing that shakes makes the air next to it shake, and the shaking passes on until it reaches your ear.",
+   "description": "Tap a steel tumbler and hold it near your ear. It rings. The tumbler shakes, and it shakes the air around it. Each bit of air pushes the next, and the shaking runs through the air to your ear. In air, sound travels about 340 metres in each second. Light is different. Light does not need air at all. Sunlight crosses empty space to reach the Earth. This is why in a thunderstorm you see the flash first and hear the thunder later. The light arrives almost at once, and the sound comes slower, through the air. On the Moon, which has almost no air, astronauts cannot hear each other speak. They use radios.",
+   "examples": [
+    "A temple bell ringing, and the sound reaching you across the courtyard",
+    "Seeing lightning first and hearing thunder a few seconds later",
+    "Astronauts on the Moon using radios, because there is almost no air to carry sound"
+   ],
+   "perspectives": [],
+   "art": "A child holding a ringing tumbler to her ear, with curved lines in the air between the tumbler and her ear; beside it, a lightning flash and, later, thunder lines."
   },
   {
    "concept": "Where the oxygen in the air came from",
@@ -1826,6 +1873,42 @@
    "why": "A squeezed bag full of air pushes back. This shows air is a real thing that takes up space. A water thief is a jar with small holes in the bottom. When its top is covered, the air inside keeps water out for the same reason.",
    "outcome": 6,
    "how": "a2"
+  },
+  {
+   "t": "mcq",
+   "p": "A flame warms the air inside a hot-air balloon. What does the warm air do?",
+   "opts": [
+    "It expands, and some flows out, so the balloon floats up",
+    "It shrinks, and the balloon sinks",
+    "Nothing happens to it"
+   ],
+   "a": 0,
+   "why": "Warm air takes up more room. Some of it flows out of the open mouth, so the balloon holds less air and is lighter. Cold air would not do this.",
+   "outcome": 1
+  },
+  {
+   "t": "mcq",
+   "p": "In a thunderstorm you see the flash, and then you hear the thunder a few seconds later. Why?",
+   "opts": [
+    "Light needs air to travel, but sound does not",
+    "Sound travels through air much more slowly than light does",
+    "The thunder happens after the flash is over"
+   ],
+   "a": 1,
+   "why": "Light travels almost instantly, and sound runs through the air at about 340 metres each second. Light does not need air at all. Sound does.",
+   "outcome": 0
+  },
+  {
+   "t": "mcq",
+   "p": "It is a cold night. Which is the safest way to keep a bedroom's air fresh?",
+   "opts": [
+    "Seal every gap and light a coal fire inside",
+    "Keep a small window open, and warm up with a blanket",
+    "Burn some paper to warm the room"
+   ],
+   "a": 1,
+   "why": "A little fresh air keeps the room from getting stuffy. A coal fire in a sealed room makes carbon monoxide, a poisonous gas you cannot see or smell. Burning paper makes smoke.",
+   "outcome": 5
   }
  ],
  "worksheets": [
@@ -2040,6 +2123,14 @@
      ],
      "a": "pairs as given",
      "why": "Air travels from the windpipe to the lungs. Oxygen then passes into the blood, which carries it round the body."
+    },
+    {
+     "t": "fill",
+     "p": "Air that is warmed takes up more room. We say it ____.",
+     "a": [
+      "expands"
+     ],
+     "why": "Expand means to take up more room. Warm air expands, and cold air takes up less room."
     }
    ]
   },
@@ -2227,6 +2318,12 @@
      "p": "A plant shut in a dark, sealed jar slowly uses up the oxygen inside it.",
      "a": true,
      "why": "True. In the dark there is no light for photosynthesis, so the plant only uses oxygen. Every living part of a plant needs oxygen."
+    },
+    {
+     "t": "truefalse",
+     "p": "A bell can be heard on the Moon, just as it can at home, because sound travels through everything.",
+     "a": false,
+     "why": "False. Sound needs something to shake, like air. The Moon has almost no air, so a bell cannot be heard there. Light does not need air, so we can still see on the Moon."
     }
    ]
   },
@@ -2378,6 +2475,34 @@
      "lines": 4,
      "a": "With the cap on, no air can get into the bottle to take the place of the water, so the water stays in. With the cap off, air comes in at the top, and the water can run out of the hole.",
      "why": "A strong answer says that water can only leave if air takes its place. The same thing happened in the Bottle Race, where the bottle glugged as air went in, and in The Balloon That Won't Blow Up, where the balloon shrank only when air could get back into the bottle."
+    },
+    {
+     "t": "sort",
+     "p": "Sort these into 'keeps the air fresh' and 'makes the air dirty'.",
+     "cats": [
+      "Keeps the air fresh",
+      "Makes the air dirty"
+     ],
+     "items": [
+      [
+       "opening the windows each morning",
+       "Keeps the air fresh"
+      ],
+      [
+       "burning rubbish in the lane",
+       "Makes the air dirty"
+      ],
+      [
+       "planting a neem tree",
+       "Keeps the air fresh"
+      ],
+      [
+       "lighting a coal fire in a sealed room",
+       "Makes the air dirty"
+      ]
+     ],
+     "a": "see items",
+     "why": "Fresh air coming in, and trees, keep the air fresh. Burning rubbish makes smoke. A coal fire in a sealed room fills the room with a poisonous gas called carbon monoxide."
     }
    ]
   }

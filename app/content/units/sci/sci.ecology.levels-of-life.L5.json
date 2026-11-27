@@ -325,7 +325,7 @@
    "concept": "People in the biosphere",
    "status": "defined",
    "definition": "Humans are one species among millions, but today humans change every level of life, up to the whole biosphere.",
-   "description": "Other beings have changed the whole Earth before. Cyanobacteria did it with oxygen. Humans are now doing it with carbon dioxide. Coal, oil and gas are the remains of ancient living beings, and burning them puts their carbon into the air. Before factories, the air held about 280 parts of carbon dioxide in every million. Now it holds more than 420. Carbon dioxide traps heat, so the Earth is warming. The change is fast. Forests, seas and rocks do take carbon dioxide out of the air, but far more slowly than people are adding it. People have also mended a harm that reached the whole biosphere. In the 1970s, scientists found that gases from fridges and spray cans were destroying the ozone in the upper air. Ozone shields living beings from harmful rays of the Sun. In 1987 the countries of the world agreed to stop making those gases, and the ozone is slowly recovering.",
+   "description": "Other beings have changed the whole Earth before. Cyanobacteria did it with oxygen. Humans are now doing it with carbon dioxide. Coal, oil and gas are the remains of ancient living beings, and burning them puts their carbon into the air. Before factories, the air held about 280 parts of carbon dioxide in every million. Now it holds more than 420. Carbon dioxide traps heat, so the Earth is warming. The change is fast. Forests, seas and rocks do take carbon dioxide out of the air, but far more slowly than people are adding it. People have also mended a harm that reached the whole biosphere. In the 1970s, scientists found that gases from fridges and spray cans were destroying the ozone in the upper air. Ozone shields living beings from harmful rays of the Sun. In 1987 the countries of the world agreed to stop making those gases, and the ozone is slowly recovering. An old Sanskrit saying, Vasudhaiva Kutumbakam, means the whole world is one family. It comes from the Maha Upanishad, an ancient text. It asks us to care for people, animals and plants as one family, on the one living planet we share. When the air, a river or a forest is harmed, the harm does not stop at the place where it happened.",
    "examples": [
     "James Lovelock built the instrument that first measured those fridge gases in air far out at sea. It showed that they had spread across the world.",
     "When a forest in the Western Ghats is cut, one hornbill loses her nest tree. Farms far to the east may also lose some of their rain."
@@ -2995,6 +2995,13 @@
      ],
      "a": 3,
      "why": "The Earth's distance from the Sun has nothing to do with living beings. The other three were made by living beings."
+    },
+    {
+     "t": "write",
+     "p": "Vasudhaiva Kutumbakam says the world is one family. Give one thing you do at home that can reach a living being far away. Use the idea of the biosphere in your answer.",
+     "lines": 3,
+     "a": "For example, a plastic bag thrown in a drain can be carried by the rain water to a river, and then to the sea, where fish and birds can be harmed by it. The water joins the whole biosphere, so the harm travels far from my home.",
+     "why": "A full answer names one thing from home and follows it to a place far away, using the way water and matter move through the biosphere."
     }
    ]
   }
@@ -3132,6 +3139,19 @@
    "a": 1,
    "why": "Natural selection favours what helps an organism and their family. Critics ask how it could ever favour what helps a whole planet.",
    "outcome": 6
+  },
+  {
+   "t": "mcq",
+   "p": "What does the Sanskrit saying Vasudhaiva Kutumbakam mean?",
+   "a": 1,
+   "why": "The saying asks us to see the whole world as one family, so care reaches people, animals and plants far away, as the biosphere links them. The other answers draw a line between us and them, which the saying does not do.",
+   "outcome": 1,
+   "opts": [
+    "Only the people of our own village matter",
+    "The whole world is one family",
+    "Each place should guard its own land and ignore the rest",
+    "Humans should rule over the other living beings"
+   ]
   }
  ],
  "videos": [

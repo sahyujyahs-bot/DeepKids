@@ -30,6 +30,12 @@
    "art": "A stack of old newspapers by a door, with a scrap dealer weighing a bundle on a hand balance."
   },
   {
+   "term": "Environment",
+   "meaning": "Everything around us, whether nature made it or people did. Soil, water, air, plants, animals, houses and streets are all part of it.",
+   "example": "A pond, a neem tree and the road in front of your house are all part of your environment.",
+   "art": "A street scene with a pond, a neem tree, houses and a road, with an arrow circling all of them."
+  },
+  {
    "term": "Organic waste",
    "meaning": "Waste that came from living beings, such as plants and animals. Decomposers can eat it, so it rots.",
    "example": "Vegetable peels, leftover rice, dry leaves, paper, cotton cloth and wood are organic waste.",
@@ -100,6 +106,12 @@
    "meaning": "The dirty liquid that drains out of a heap of waste. Rainwater soaks through the waste and carries dissolved matter with it.",
    "example": "The dark liquid at the bottom of a kitchen bin is leachate. Under a dump, it can reach the groundwater.",
    "art": "A dark trickle of liquid running out from the bottom of a waste heap into the soil."
+  },
+  {
+   "term": "Pesticide",
+   "meaning": "A chemical sprayed on crops to kill insects or other pests. Too much of it can poison soil, water and useful living beings.",
+   "example": "A farmer sprays pesticide on cotton plants. Some of it washes into the soil with the next rain, and earthworms there die.",
+   "art": "A farmer with a backpack sprayer in a cotton field, with a little stream of spray running into the soil."
   },
   {
    "term": "Incineration",
@@ -181,7 +193,7 @@
    "concept": "What decomposers do to organic waste, with air and without air",
    "status": "defined",
    "definition": "With plenty of air, decomposers turn organic waste into compost, carbon dioxide, water and heat. Without air, other microbes turn it into methane, carbon dioxide and strong-smelling gases.",
-   "description": "Decomposers who use air work fast, and their heap smells like damp earth. This is composting. A good part of the mass of the peels leaves as carbon dioxide and water vapour. The rest stays as dark compost. Deep inside a packed dump, the air is soon used up. A different set of microbes takes over there. They work slowly and give off methane. Methane burns, so it can start fires inside a dump. Methane also traps heat in the air. Over a hundred years, methane warms the Earth about 28 times as much as the same mass of carbon dioxide. A biogas plant uses the same microbes on purpose. It keeps wet waste in a closed tank, collects the methane and burns it as fuel. The slurry that is left goes to fields as manure.",
+   "description": "Decomposers who use air work fast, and their heap smells like damp earth. This is composting. A good part of the mass of the peels leaves as carbon dioxide and water vapour. The rest stays as dark compost. Deep inside a packed dump, the air is soon used up. A different set of microbes takes over there. They work slowly and give off methane. Methane burns, so it can start fires inside a dump. Methane also traps heat in the air. Over a hundred years, methane warms the Earth about 28 times as much as the same mass of carbon dioxide. A biogas plant uses the same microbes on purpose. It keeps wet waste in a closed tank, collects the methane and burns it as fuel. The slurry that is left goes to fields as manure. A village biogas plant can be fed cow dung, dry leaves, crop leftovers such as stalks and husks, and kitchen scraps. The family cooks on the gas and spreads the leftover manure on the field, so the matter goes back to the soil.",
    "examples": [
     "A balcony compost pot with dry leaves mixed in has air, and makes compost in about two months.",
     "Food waste buried under tonnes of other waste has no air, and makes methane for many years.",
@@ -252,14 +264,28 @@
    "concept": "How waste harms soil, water, air and living beings",
    "status": "defined",
    "definition": "Waste harms when it reaches a place where it blocks, poisons or is eaten. The harm depends on what the waste is made of and where it ends up.",
-   "description": "On land, plastic sheets in the soil stop water soaking in and roots spreading. Cows, dogs and goats who feed at open bins swallow plastic bags with the food inside them. The bags stay in a cow's stomach, and she can starve with a full belly. In water, plastic bags block drains, and streets flood. Organic waste harms water too. When food waste is tipped into a pond, microbes multiply to eat it. They use up the oxygen dissolved in the water, and fish die. Leachate from dumps carries salts and metals into wells. In the air, burning waste adds smoke and poisons, and dumps add methane. In the sea, sunlight and waves crack plastic into microplastics. Fish, birds and turtles swallow them. Microplastics have now been found in salt, in drinking water and in human blood.",
+   "description": "The environment is everything around us, whether nature made it or people did. It includes soil, water, air, plants, animals, houses and streets. When waste is thrown out properly, our surroundings stay clean and healthy for every living being. On land, plastic sheets in the soil stop water soaking in and roots spreading. Cows, dogs and goats who feed at open bins swallow plastic bags with the food inside them. The bags stay in a cow's stomach, and she can starve with a full belly. In water, plastic bags block drains, and streets flood. Organic waste harms water too. When food waste is tipped into a pond, microbes multiply to eat it. They use up the oxygen dissolved in the water, and fish die. Leachate from dumps carries salts and metals into wells. In the air, burning waste adds smoke and poisons, and dumps add methane. In the sea, sunlight and waves crack plastic into microplastics. Fish, birds and turtles swallow them. Microplastics have now been found in salt, in drinking water and in human blood. Soil is harmed in other ways too. Polythene and glass do not rot, so they stay in a field for years. Some farmers spray too much chemical pesticide, which is a poison made to kill insects. Rain carries it into the soil, where it also kills earthworms and the microbes that keep soil healthy. Some factories let waste water with metals and chemicals run into drains and fields. In such soil, seeds may not sprout, or roots may take up the poison. Then the crops grow weak, or carry the poison into the food. Soil that has been harmed by things added to it is called polluted soil.",
    "examples": [
     "In July 2005, very heavy rain flooded Mumbai. Drains choked with plastic bags made it worse, and the state then banned the thinnest bags.",
     "Vets in India have removed many kilograms of plastic bags from the stomachs of street cows.",
-    "People who live beside dumps breathe the smoke and often drink the water from nearby wells."
+    "People who live beside dumps breathe the smoke and often drink the water from nearby wells.",
+    "A farmer near a factory drain finds that her wheat seeds do not sprout well, and a soil test finds metals in the field."
    ],
    "perspectives": [],
    "art": "Four small scenes: a cow eating from a plastic bag at a bin, a flooded street with bags over a drain, fish gasping at the surface of a green pond, and smoke from a dump drifting over houses."
+  },
+  {
+   "concept": "Keeping soil clean",
+   "status": "defined",
+   "definition": "Soil stays clean when less waste and poison reach it, and when what does reach it can rot and feed it.",
+   "description": "Poisoned soil takes many years to heal, so it is better to stop the harm early. Sorting and recycling waste means less plastic and glass is buried in fields. Factories should clean their waste water and not let it run into drains and rivers. Farmers in India have used safer ways for a very long time. They crush neem leaves and seeds, soak them in water and spray the liquid to keep many insects off the crops. They spread compost and cow dung manure, which feed the soil and help it hold water. These do not stop every pest, so some farmers use a little chemical spray when they must. Scientists test how well the old methods work, and many farmers are returning to them.",
+   "examples": [
+    "A farmer sprays a neem-leaf mixture on her brinjal plants instead of a chemical pesticide.",
+    "A village pit where cow dung and dry leaves rot into manure for the next crop.",
+    "A factory that treats its waste water before letting it out."
+   ],
+   "perspectives": [],
+   "art": "A woman farmer spraying a neem mixture on vegetable plants, with a pit of dark manure beside the field."
   },
   {
    "concept": "Hazardous waste and e-waste at home",
@@ -301,6 +327,19 @@
    ],
    "perspectives": [],
    "art": "A waste truck with three separate coloured boxes stopping at a doorway, with a woman tipping a green bin into the green box."
+  },
+  {
+   "concept": "Cleanliness begins with our own habits",
+   "status": "defined",
+   "definition": "A habit is something we do again and again without thinking. A clean neighbourhood begins with the habits of each home.",
+   "description": "Keep two bins at home and label them. One is for organic waste, such as peels and leftover food. The other is for inorganic waste, such as packets, bottles and tins. Hospitals use bins of several colours for their waste, but two bins are a good start at home. Do not litter, and do not spit on the road, because spit can spread germs. Do not burn tyres or polythene, because the smoke is poison. If you have room, compost the wet waste in a pot or a pit. Children learn from what they see at home. A child who sorts the waste can teach a younger brother or sister, and also the grown-ups. A slogan is a short sentence that is easy to remember, and it can carry these habits to the whole street.",
+   "examples": [
+    "Two buckets by the kitchen door, one labelled 'organic' and one labelled 'inorganic'.",
+    "A girl who shows her little brother which bin the mango peel goes in.",
+    "A school wall painted with a slogan about keeping the street clean."
+   ],
+   "perspectives": [],
+   "art": "Two labelled buckets by a kitchen door, with a girl dropping a peel in one and her little brother holding a chips packet over the other."
   },
   {
    "concept": "The people who sort our waste",
@@ -1994,6 +2033,66 @@
      "context": "This is the last step of Where Did the Peel Go. Here you compare the four boxes and say whether any matter was destroyed."
     }
    ]
+  },
+  {
+   "id": "a6",
+   "title": "Two Bins and a Slogan",
+   "mins": 25,
+   "days": 1,
+   "context": "In this activity you set up two labelled bins at home and write a slogan to tell your street about clean habits. You will find out how a few words and a small habit can change what a whole street does.",
+   "materials": [
+    {
+     "item": "two buckets, boxes or old tins",
+     "qty": 2
+    },
+    {
+     "item": "paper, tape and a marker pen",
+     "qty": 1
+    },
+    {
+     "item": "a notebook and a pencil",
+     "qty": 1
+    }
+   ],
+   "record": "Keep the slogan poster. Write one thing the family changed this week, and who was told the slogan.",
+   "setup": [
+    {
+     "art": "Two buckets on a kitchen floor, one with a paper label ORGANIC and one with a label INORGANIC.",
+     "caption": "1. Label two bins: organic and inorganic."
+    },
+    {
+     "art": "A child writing a short slogan on a big sheet of paper with coloured pens, a trail of peels and packets drawn along the border.",
+     "caption": "2. Write a slogan and put it where people will see it."
+    }
+   ],
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 10,
+     "do": "1. Put two containers by the kitchen. 2. Write ORGANIC on one and INORGANIC on the other, in any language your family reads. 3. Ask each person to say where five things go: a peel, a chips packet, a tea bag, a steel tin, a banana leaf. 4. Use the bins for a week.",
+     "say": "We will keep two bins from today. Where does a peel go? Where does a chips packet go? What if we are not sure?",
+     "kid": "Label the two bins. Say where each thing goes. If you are not sure, ask: did it once live, or not?",
+     "parent": "Organic waste came from living beings, and decomposers can eat it: peels, leftover food, a tea bag, a banana leaf. Inorganic waste does not rot: packets, tins, glass, plastic. Put the organic bin out for compost, or in a compost pot. Keep the inorganic things clean and dry, and sell them to the kabadiwala.",
+     "context": "This is a habits activity. Here you set up two labelled bins at home."
+    },
+    {
+     "id": "s2",
+     "mins": 15,
+     "do": "1. Talk about what a good slogan is: short, true and easy to remember. 2. Write two or three slogans in your own language, such as one about not burning polythene or one about sorting waste at home. 3. Choose the best one. 4. Write it big on a sheet and put it where neighbours will see it.",
+     "say": "A slogan is a few words that people remember. What do we want the street to do? How can we say it in one line?",
+     "kid": "Write a short slogan to tell people one clean habit. Make it big. Put it up where people can see it.",
+     "ask": [
+      {
+       "q": "Which fact would make your slogan true?",
+       "good": [
+        "Burning polythene makes poisonous smoke.",
+        "Sorted wet waste can become compost."
+       ]
+      }
+     ],
+     "parent": "Good slogans are often short and rhyme. Let your child write in the home language. Do not spit on the road and do not litter are also good habits to put in a slogan. Ask your child to tell one younger child or neighbour the slogan and why it is true."
+    }
+   ]
   }
  ],
  "projects": [
@@ -2561,6 +2660,14 @@
      "why": "The resin code names the kind of plastic, from 1 to 7. It is not a promise that the thing will be recycled."
     },
     {
+     "t": "fill",
+     "p": "Everything around us, made by nature or by people, is called our ____.",
+     "a": [
+      "environment"
+     ],
+     "why": "The environment includes soil, water, air, plants, animals, houses and streets."
+    },
+    {
      "t": "perspective",
      "p": "A family has a big heap of dry leaves swept from the yard. Two neighbours disagree about it.",
      "a": "A strong answer says that burning moves the leaves into the air as smoke and gases, which everyone breathes. It also takes the other side seriously: a loose heap can shelter pests, so the leaves should go in a covered compost pit or bin.",
@@ -2589,6 +2696,13 @@
      ],
      "a": 1,
      "why": "A battery holds metals that can leak and poison soil and water. The other three are ordinary wet or dry waste."
+    },
+    {
+     "t": "write",
+     "p": "Your family will keep two bins at home. Write the label for each bin, and name three things that go in each. Where will you keep them?",
+     "lines": 4,
+     "a": "Organic: peels, leftover food, a banana leaf. Inorganic: a chips packet, a steel tin, a glass bottle. I will keep them by the kitchen door, where everyone passes.",
+     "why": "A strong answer puts things that once lived in one bin and things that never rot in the other, and chooses a place that is easy to use."
     },
     {
      "t": "write",
@@ -2783,6 +2897,30 @@
      ]
     },
     {
+     "t": "match",
+     "p": "Match each action to how it keeps soil clean.",
+     "pairs": [
+      [
+       "Neem-leaf spray on crops",
+       "keeps insects off without a strong poison"
+      ],
+      [
+       "Compost and cow dung manure",
+       "feeds the soil with rotted waste"
+      ],
+      [
+       "Sorting and recycling waste",
+       "less plastic and glass buried in fields"
+      ],
+      [
+       "A factory cleans its waste water",
+       "metals and chemicals stay out of fields"
+      ]
+     ],
+     "a": "pairs as given",
+     "why": "Each action stops a different kind of harm to soil before it starts."
+    },
+    {
      "t": "mcq",
      "p": "Paper can be recycled about five to seven times. Why not for ever?",
      "opts": [
@@ -2825,6 +2963,25 @@
      "why": "A strong answer shows both steps: divide by the days, then by the people.",
      "lines": 3,
      "how": "p1"
+    },
+    {
+     "t": "order",
+     "p": "Put the steps of a village biogas plant in order.",
+     "a": [
+      "Cow dung and dry leaves are put into the tank",
+      "Microbes eat the waste with no air",
+      "Gas collects in the tank",
+      "The family cooks on the gas",
+      "The leftover manure goes to the field"
+     ],
+     "why": "The microbes work inside a closed tank, and both the gas and the manure are used.",
+     "items": [
+      "The family cooks on the gas",
+      "Microbes eat the waste with no air",
+      "The leftover manure goes to the field",
+      "Cow dung and dry leaves are put into the tank",
+      "Gas collects in the tank"
+     ]
     }
    ]
   },
@@ -3045,6 +3202,13 @@
      "why": "In none of the four does any matter stop existing. A strong answer names a place for the matter in every box.",
      "art": "Four boxes round a banana peel, showing a clay pot, a cut-away waste heap, a small fire and a cow, each with a blank label line.",
      "how": "a5"
+    },
+    {
+     "t": "write",
+     "p": "A good slogan is short, true and easy to remember. Write a slogan against burning polythene, and give one fact that makes it true.",
+     "lines": 3,
+     "a": "For example: 'Burn leaves into compost, not plastic into smoke.' It is true because burning polythene gives off poisonous smoke.",
+     "why": "A strong answer is short and kind to read, and the fact behind it is real."
     }
    ]
   }
@@ -3208,6 +3372,66 @@
    "a": 1,
    "why": "Plastic has been in wide use for less than a hundred years, so nobody has watched it for longer. The figures of hundreds of years are worked out from short tests.",
    "outcome": 7
+  },
+  {
+   "t": "mcq",
+   "p": "A farmer's field is next to a factory drain. Her wheat grows weak. Which could be the reason?",
+   "opts": [
+    "Metals and chemicals from the drain have got into the soil",
+    "The soil has too many earthworms",
+    "The wheat is too well watered"
+   ],
+   "a": 0,
+   "why": "Poisons in the soil can stop seeds sprouting, or be taken up by the roots. Earthworms help soil, and they die when soil is poisoned.",
+   "outcome": 2
+  },
+  {
+   "t": "mcq",
+   "p": "Which action keeps a field's soil cleaner?",
+   "opts": [
+    "Spraying a neem-leaf mixture and spreading compost",
+    "Burning polythene bags at the edge of the field",
+    "Burying plastic bags in the soil"
+   ],
+   "a": 0,
+   "why": "Neem spray and compost use things that rot, and they feed the soil. Burning polythene makes poison smoke, and buried plastic stays for years.",
+   "outcome": 6
+  },
+  {
+   "t": "mcq",
+   "p": "Which of these is part of the environment?",
+   "opts": [
+    "Only forests and rivers",
+    "Only things that people have made",
+    "A pond, a road and a tulsi plant"
+   ],
+   "a": 2,
+   "why": "The environment is everything around us, whether nature made it or people did. A pond and a tulsi plant came from nature, and the road was made by people.",
+   "outcome": 2
+  },
+  {
+   "t": "mcq",
+   "p": "A home has two labelled bins, organic and inorganic. Where do a mango peel and a dry chips packet go?",
+   "opts": [
+    "Both in the organic bin",
+    "The peel in the organic bin, the packet in the inorganic bin",
+    "The peel in the inorganic bin, the packet in the organic bin"
+   ],
+   "a": 1,
+   "why": "A peel came from a plant and decomposers can eat it. A chips packet is plastic and does not rot.",
+   "outcome": 0
+  },
+  {
+   "t": "mcq",
+   "p": "Which of these can go into a village biogas plant?",
+   "opts": [
+    "Cow dung, dry leaves and crop leftovers",
+    "Glass bottles and steel tins",
+    "Plastic bags and old batteries"
+   ],
+   "a": 0,
+   "why": "Microbes can eat dung, leaves and crop leftovers, and they make gas. They cannot eat glass, steel or plastic, and batteries poison the tank.",
+   "outcome": 1
   }
  ],
  "videos": [
@@ -3827,6 +4051,7 @@
    "p1",
    "big_questions",
    "c2",
+   "a6",
    "ws-challenge",
    "open_questions",
    "roots",

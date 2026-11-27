@@ -17,6 +17,7 @@
 - **Space**: Space is the room around things and between them. Everything is somewhere in space. *e.g.* There is space between your bed and the wall. There is space between the Earth and the Moon.
 - **Distance**: Distance is how much space there is between two things. We can measure it in steps, centimetres or kilometres. *e.g.* The distance from your bed to the door might be 5 steps.
 - **Near and far**: Near means a small distance away. Far means a big distance away. *e.g.* Your pillow is near your head. The Moon is far from your bed.
+- **Position and direction words**: Position words tell where a thing is: on, in, above, below. Direction words tell which way: left, right, up, down. *e.g.* The tumbler is on the shelf. The shelf is above the bed. To find it, look up.
 - **Between**: Between means in the space that separates two things. *e.g.* In a row of chappals by the door, the middle chappal is between the other two.
 - **Outer space**: Outer space is the space above the Earth's air, where the Moon, the Sun and the stars are. It is almost empty. *e.g.* Rockets from Sriharikota in Andhra Pradesh fly up through the air and into outer space.
 - **Universe**: The universe is all of space and everything in it: every star, planet, rock, plant, animal and person. *e.g.* You, your home, the Earth, the Sun and all the stars are part of the universe.
@@ -40,6 +41,13 @@ In Step It Out, you counted steps to places in your home. The place that took th
 - e.g. 3 steps to the window, and 7 steps to the door
 - e.g. A short walk to the corner shop
 - e.g. The very long way to the Moon
+### Where is it? Words for place and direction · *defined*
+**Definition:** Position words tell where a thing is: on, in, above, below. Direction words tell which way to go: left, right, up, down.
+
+Sit on your bed and look around. Your tumbler is on the shelf. Your clothes are in the cupboard. The fan is above you, and the floor is below you. Up is toward the ceiling. Down is toward the floor. Left is the side of your left hand, and right is the side of your right hand. Left and right change when you turn round, but up and down do not. These words let you tell a friend exactly where to look, even in a room with lots of space and lots of things. Near and far tell how much space is between you and a thing. These words tell which way it lies.
+- e.g. The tiffin box is in the bag, and the bag is on the chair
+- e.g. The fan is above your head, and the mat is below your feet
+- e.g. Turn left at the gate, then walk straight to the tulsi plant
 ### Why far things look smaller · *defined*
 **Definition:** A thing looks smaller when it is farther away, because it takes up less of what your eyes can see. From twice as far away, it looks about half as tall.
 
@@ -383,7 +391,7 @@ Adi went back to the balcony. He held up his thumb and hid the gopuram once more
   - Check: How did the small coin hide the big cupboard? → **The distances changed, so the cupboard looked smaller than the coin**
 
 ## Worksheets
-### Near, Far and In Between (core) (core, 10 questions)
+### Near, Far and In Between (core) (core, 11 questions)
 1. (match) Draw a line from each word to what it means.  
    **Answer:** Space → the room around things and between them; Distance → how much space there is between two things; Near → a small distance away; Far → a big distance away. *Why:* These are the four words the child needs for this lesson. Distance is a way of saying how much space is between things.
 2. (mcq) In the bottle strip test, the strip from 4 steps was shorter than the strip from 1 step. Why?  
@@ -393,40 +401,44 @@ Adi went back to the balcony. He held up his thumb and hid the gopuram once more
    **Answer:** A big tree low on the page and a small tree higher up.. *Why:* A strong drawing shows the far tree smaller, because far things take up less of what we see. The trees are really the same size.
 4. (sort) You are sitting on your bed. Sort these into 'near me' and 'far from me'.  
    **Answer:** my pillow → Near me; the Moon → Far from me; my toes → Near me; the Sun → Far from me; a plane in the sky → Far from me; my blanket → Near me. *Why:* Near things are a small distance away, like the pillow, toes and blanket. The plane, the Moon and the Sun are far, even though we can see them.
-5. (truefalse) The space between your bed and the wall is completely empty, with nothing at all in it.  
+5. (fill) The fan is ________ your head. The mat is below your feet.  
+   **Answer:** above. *Why:* Above means higher than something. The fan hangs up at the ceiling, higher than your head. Below means lower, like the mat under your feet.
+6. (truefalse) The space between your bed and the wall is completely empty, with nothing at all in it.  
    **Answer:** False. *Why:* False. It is full of air. Air is made of tiny bits too small to see, but you feel them when you wave your hand fast.
-6. (write) Name two spaces you found in the Space Hunt. Say them out loud, and a grown-up writes them down.  
+7. (write) Name two spaces you found in the Space Hunt. Say them out loud, and a grown-up writes them down.  
    **Answer:** For example: under the bed, and inside an empty bottle.. *Why:* A strong answer names real spaces from the hunt, such as gaps between things or room inside things.
-7. (count) You count 6 steps to the door and 3 steps to your bed. How many more steps away is the door?  
+8. (count) You count 6 steps to the door and 3 steps to your bed. How many more steps away is the door?  
    **Answer:** 3. *Why:* 6 take away 3 is 3. The door is 3 steps farther, so there is more space between you and the door.
-8. (perspective) The first person and the second person are looking at the gap between a bed and a wall.  
+9. (perspective) The first person and the second person are looking at the gap between a bed and a wall.  
    **Answer:** A strong answer agrees with the second person, because a shut bottle pushes back when squeezed, so air fills space that looks empty. It also says the first person is right that there are no things you can see in the gap.. *Why:* Both have part of it. There are no toys or furniture in the gap, so it looks empty. But it is full of air. The squeezed bottle in the space hunt is the evidence.
-9. (label) Look at the picture of Revathi's room. Write 'near' or 'far' by each thing, for Revathi standing at the door.  
+10. (label) Look at the picture of Revathi's room. Write 'near' or 'far' by each thing, for Revathi standing at the door.  
    **Answer:** ['the mat by her feet: near', 'the window on the far wall: far', 'the shoe rack beside the door: near']. *Why:* Things right by the door are a small distance from Revathi, so they are near. The window across the room is far.
-10. (odd) Three of these are spaces. Which one is a thing, not a space?  
+11. (odd) Three of these are spaces. Which one is a thing, not a space?  
    Options: The gap between two fingers / Inside an empty tiffin box / A steel tumbler / Under the bed  
    **Answer:** 2. *Why:* The tumbler is a thing. It takes up space, and there is space all around it. The others are spaces between things or inside them.
-### Why Far Things Look Small (stretch) (stretch, 10 questions)
+### Why Far Things Look Small (stretch) (stretch, 11 questions)
 1. (mcq) In the mirror tunnel, how did each bindi look compared with the one before it?  
    Options: Smaller and dimmer / Bigger and brighter / Exactly the same  
    **Answer:** Smaller and dimmer. *Why:* Each copy comes from light that has travelled farther than the light of the copy before, so it looked smaller. Each mirror also keeps a little light, so it looked dimmer.
 2. (order) Put these in order, from nearest to you to farthest: the Moon, the ceiling fan, the Sun, a plane in the sky.  
    **Answer:** [0, 1, 2, 3]. *Why:* The fan is a few steps away, a plane about 10 kilometres up, the Moon about 384,000 kilometres away and the Sun about 150 million kilometres away.
-3. (write) The Sun is about 400 times wider than the Moon. Why do they look about the same size in the sky?  
+3. (match) Draw a line from each word to what it tells you.  
+   **Answer:** on → resting on top of something; in → inside something; left → the side of your left hand; down → toward the floor. *Why:* On and in say where a thing is. Left and down say which way to go. Left and right change when you turn round, but up and down stay the same.
+4. (write) The Sun is about 400 times wider than the Moon. Why do they look about the same size in the sky?  
    **Answer:** The Sun is also about 400 times farther away, so it looks as small as the Moon.. *Why:* A strong answer uses distance: far things look smaller. Saying 'the Sun is small' misses that the Sun is much bigger than the Moon.
-4. (fill) In the bottle strip test, from twice as far away, the bottle looked about ________ as tall.  
+5. (fill) In the bottle strip test, from twice as far away, the bottle looked about ________ as tall.  
    **Answer:** half. *Why:* Twice the distance makes a thing look about half as tall. In the bottle strip test, the 1-step strip folded in half was about as long as the 2-step strip.
-5. (draw) Draw your three strips from the bottle strip test, side by side, and write how many steps away each was.  
+6. (draw) Draw your three strips from the bottle strip test, side by side, and write how many steps away each was.  
    **Answer:** Three strips getting shorter: 1 step longest, 2 steps about half, 4 steps shortest.. *Why:* A strong drawing shows each strip shorter as the distance grows, with the 2-step strip about half the 1-step strip.
-6. (truefalse) In the mirror tunnel, you could count the bindis all the way to the very end.  
+7. (truefalse) In the mirror tunnel, you could count the bindis all the way to the very end.  
    **Answer:** False. *Why:* False. The copies got too small and dim to count. We could not tell whether the row really ended.
-7. (perspective) The first person and the second person are talking about space.  
+8. (perspective) The first person and the second person are talking about space.  
    **Answer:** Any side, with a reason. A strong answer says that nobody knows yet, and uses something from the unit, such as the mirror tunnel or the stick question of Archytas.. *Why:* This is a real open question. The first person is right that most things we know have an end. The second person uses the same idea Archytas used. Scientists still disagree, so a strong answer gives a reason, not only a side.
-8. (count) In the bottle strip test, a strip from 1 step was 8 centimetres long. About how long would the strip from 2 steps be?  
+9. (count) In the bottle strip test, a strip from 1 step was 8 centimetres long. About how long would the strip from 2 steps be?  
    **Answer:** 4 centimetres. *Why:* Twice as far makes the bottle look about half as tall. Half of 8 is 4.
-9. (label) Two lamp posts on a road are the same height. One looks big and one looks small. Label which is near and which is far.  
+10. (label) Two lamp posts on a road are the same height. One looks big and one looks small. Label which is near and which is far.  
    **Answer:** ['the big-looking post: near', 'the small-looking post: far']. *Why:* The posts are the same height, so the one that looks smaller must be farther away.
-10. (mcq) Two mountains look the same height. One is much farther away than the other. What can you say about them?  
+11. (mcq) Two mountains look the same height. One is much farther away than the other. What can you say about them?  
    Options: They are the same height / The farther one is really taller / The nearer one is really taller  
    **Answer:** The farther one is really taller. *Why:* Far things look smaller. If the far mountain looks as tall as the near one, it must really be taller. This is how the Sun can be much bigger than the Moon but look the same.
 ### Big, Far and For Ever (challenge) (challenge, 10 questions)
@@ -468,27 +480,33 @@ Adi went back to the balcony. He held up his thumb and hid the gopuram once more
 3. (mcq) You count 5 steps to the window and 9 steps to the door. Which is farther from you?  
    Options: The window / The door / They are the same  
    **Answer:** The door. *Why:* More steps means more space between, so the door is farther. 9 is more than 5.
-4. (mcq) You look at a bottle from 2 steps away, then from 4 steps away. How does it look from 4 steps?  
+4. (mcq) Revathi says, "My tiffin box is in the bag, and the bag is on the chair." Where is the tiffin box?  
+   Options: On the chair, with the bag inside it / Inside the bag, and the bag sits on the chair / Below the chair  
+   **Answer:** Inside the bag, and the bag sits on the chair. *Why:* In means inside something. On means resting on top of something. The box is inside the bag, and the bag rests on the chair. Nothing here is below the chair.
+5. (mcq) You lie on your bed and look at the ceiling fan. Which way are you looking?  
+   Options: Up / Down / Left  
+   **Answer:** Up. *Why:* The ceiling is high above you, so you look up. Down is toward the floor. Left is sideways, toward your left hand.
+6. (mcq) You look at a bottle from 2 steps away, then from 4 steps away. How does it look from 4 steps?  
    Options: Smaller / Bigger / Just the same  
    **Answer:** Smaller. *Why:* From farther away, the bottle takes up less of what you see, so it looks smaller. The bottle itself does not change.
-5. (truefalse) A thing that is far away is really smaller than the same thing close up.  
+7. (truefalse) A thing that is far away is really smaller than the same thing close up.  
    **Answer:** False. *Why:* False. It only looks smaller. Walk up to it, and you find it is the same size as before.
-6. (mcq) The Sun is about 400 times wider than the Moon. Why does it look about the same size?  
+8. (mcq) The Sun is about 400 times wider than the Moon. Why does it look about the same size?  
    Options: It is also about 400 times farther away / It is nearer than the Moon / The Moon is really bigger  
    **Answer:** It is also about 400 times farther away. *Why:* Far things look smaller. The Sun is much bigger, and also much farther away, so in the sky they look about the same.
-7. (mcq) A plane high in the sky looks as small as a bird. Why?  
+9. (mcq) A plane high in the sky looks as small as a bird. Why?  
    Options: The plane shrinks when it flies / The plane is far away / Planes are really tiny  
    **Answer:** The plane is far away. *Why:* A plane is about 10 kilometres up. It is very big, but from so far away it takes up only a tiny part of what you see.
-8. (mcq) Does space go on for ever?  
+10. (mcq) Does space go on for ever?  
    Options: Yes, scientists have proved it / No, there is a wall at the end / Nobody knows yet  
    **Answer:** Nobody knows yet. *Why:* Nobody knows. We can only see part of space, and scientists still disagree. Thinking 'there is a wall' leads to the next question: what is on the other side?
-9. (mcq) In the mirror tunnel, why could you not see the end of the row?  
+11. (mcq) In the mirror tunnel, why could you not see the end of the row?  
    Options: The copies got too small and dim to see / The big mirror ran out / There was a wall at the end  
    **Answer:** The copies got too small and dim to see. *Why:* Each copy was farther and dimmer than the one before, until you could not see them any more. That did not show whether the row ended.
-10. (mcq) What fills the space in your room between the bed and the wall?  
+12. (mcq) What fills the space in your room between the bed and the wall?  
    Options: Nothing at all / Air / Water  
    **Answer:** Air. *Why:* The space looks empty, but it is full of air. A shut bottle pushes back when you squeeze it, because it is full of air.
-11. (mcq) What is outer space like, out between the stars?  
+13. (mcq) What is outer space like, out between the stars?  
    Options: Full of air, like your room / Almost empty / Full of water  
    **Answer:** Almost empty. *Why:* Out between the stars, there is only about one tiny bit of gas in a space the size of a sugar cube. It is almost empty.
 

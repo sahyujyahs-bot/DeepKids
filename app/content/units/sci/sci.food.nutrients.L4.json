@@ -210,7 +210,7 @@
    "concept": "Reading a food label",
    "status": "defined",
    "definition": "A food label is the table and the list printed on a packet. It says what is in the food and how much. In India it is required by law, under rules set by the Food Safety and Standards Authority of India.",
-   "description": "Start at the nutrition table. Look for the column per 100 grams, because it lets you compare one packet with another fairly. A second column, per serving, shows what the maker counts as one helping. Check how many servings there are in the pack. Then look at the lines: energy in kilocalories, protein, carbohydrate with the sugars inside it, fat, and sodium. Next read the ingredient list. Ingredients are listed from the most by weight to the least, so the first three tell you most of the story. A green dot in a square means vegetarian, and a brown dot means it holds egg, meat or fish. A +F sign means vitamins or minerals have been added. The date tells you when the food should be used by. Percentages on a label are usually worked out for an adult who needs about 2,000 kilocalories a day, so they can mislead for a child.",
+   "description": "Start at the nutrition table. Look for the column per 100 grams, because it lets you compare one packet with another fairly. A second column, per serving, shows what the maker counts as one helping. Check how many servings there are in the pack. Then look at the lines: energy in kilocalories, protein, carbohydrate with the sugars inside it, fat, and sodium. Next read the ingredient list. Ingredients are listed from the most by weight to the least, so the first three tell you most of the story. A green dot in a square means vegetarian, and a brown dot means it holds egg, meat or fish. A +F sign means vitamins or minerals have been added. The date tells you when the food should be used by. A best-before date means the food is at its best for taste and quality. A use-by date is about safety, so do not eat the food after it. Percentages on a label are usually worked out for an adult who needs about 2,000 kilocalories a day, so they can mislead for a child.",
    "examples": [
     "A biscuit packet shows 480 kilocalories per 100 grams, but only 120 per serving, because a serving is 25 grams.",
     "If the first ingredient on a 'fruit' biscuit is sugar, the biscuit holds more sugar than fruit.",
@@ -1771,6 +1771,13 @@
      "a": "Per 100 grams is the same weight for every food, so you can compare two packets fairly. Per serving shows only what the maker counts as one helping, which can be small.",
      "why": "A strong answer says that per 100 grams is a fair comparison across foods, and that servings differ from packet to packet.",
      "outcome": 3
+    },
+    {
+     "t": "write",
+     "p": "Say it out loud, and a grown-up writes it: a packet lists 'ragi flour, jaggery, groundnuts, salt'. Which two ingredients are the main ones, and how do you know?",
+     "lines": 2,
+     "a": "Ragi flour and jaggery. The list starts with the biggest amount by weight, so the first two are the main ones.",
+     "why": "A strong answer names the first two ingredients and says that the list goes from the most to the least by weight."
     }
    ]
   },
@@ -2304,6 +2311,18 @@
    "a": 0,
    "why": "The volunteer's food energy matched the heat and work measured. So a living body follows the same energy rules as a fire, with nothing made or lost.",
    "outcome": 7
+  },
+  {
+   "t": "mcq",
+   "p": "A packet says 'Best before' with a date. What does that date mostly tell you?",
+   "opts": [
+    "When the food is at its best for taste and quality",
+    "That the food will make you ill after that day",
+    "How many kilocalories the food holds"
+   ],
+   "a": 0,
+   "why": "A best-before date is about taste and quality. A use-by date is the one about safety, so do not mix the two up.",
+   "outcome": 3
   }
  ],
  "maths": [

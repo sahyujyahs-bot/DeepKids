@@ -32,6 +32,7 @@
 - **Stepwell**: A deep well with stone stairs going down to the water. People walked down further as the water level fell in the dry season. *e.g.* Rani ki Vav in Patan, Gujarat, and Chand Baori in Abhaneri, Rajasthan, are famous stepwells.
 - **Tanka**: A covered underground tank used in the Thar desert. Rain falling on a clean, sloping courtyard runs into it and is stored for months. *e.g.* A family in a desert village drinks tanka water all through the dry season.
 - **Johad**: A curved wall of earth built across a slope to hold back rainwater, so it has time to soak into the ground. *e.g.* Villagers in Alwar, Rajasthan, built many johads to refill their wells.
+- **Rainwater harvesting**: Rainwater harvesting means catching rain and keeping it for later, instead of letting it run away. *e.g.* A pipe takes rain from a roof into a tank. The family uses the water to wash clothes and water plants.
 - **Dissolve**: When something mixes into water so completely that you cannot see it any more. It is still there. *e.g.* Stir salt or sugar into water and it dissolves.
 - **Germs**: Living things far too small to see, such as bacteria and viruses. Some of them make people ill. *e.g.* Germs in dirty water can cause tummy illnesses such as cholera.
 - **Cholera**: An illness caused by a germ that lives in water dirtied by human waste. It causes very bad diarrhoea and can kill quickly if not treated. *e.g.* In 1854, a doctor in London, John Snow, showed that cholera spread through water from one pump.
@@ -111,6 +112,20 @@ Rain in India is very uneven. Mawsynram in Meghalaya gets nearly 12 metres of ra
 - e.g. A village borewell that once struck water at 30 metres may now need to go down 100 metres or more.
 - e.g. In the summer of 2019, special trains carried millions of litres of water to Chennai.
 - e.g. Paving over fields and filling in ponds means less rain soaks in to refill the ground.
+### Too much water, all at once · *defined*
+**Definition:** Too much water is a problem too. When heavy rain cannot soak in or drain away, it floods streets and homes.
+
+A place can have too little water in summer and too much water in the monsoon. Both hurt people. In September 2022, very heavy rain fell on Bengaluru. Water stood on roads and flowed into homes and offices. People went to work in tractors and boats. Many people said the city had built over lakes and blocked the old drains, so the rain had nowhere to go. The same city worries about too little water in dry summers. This is why we need ground that soaks rain in, clear drains and tanks that store the extra rain for later.
+- e.g. A tarred road with a blocked drain turns into a stream in heavy rain.
+- e.g. A river that spills over its banks in the monsoon covers fields and villages.
+- e.g. A pond or lake holds extra rain, and keeps it from flooding the street.
+### Saving water at home · *defined*
+**Definition:** We save water by wasting less, using the same water twice, and catching rain. Small habits at home add up to many litres.
+
+Three small habits save a lot. Turn the tap off while you brush your teeth. Take a bucket bath instead of a long shower. Fix a dripping tap. Next, use water twice. The water you used to rinse rice, dal or vegetables is clean enough for the tulsi on the balcony. Do not use it if it has soap or oil in it. Last, catch the rain. A roof sends rain down a pipe, and the pipe can fill a tank instead of running into the drain. One millimetre of rain on one square metre of roof gives about one litre of water. A roof of 100 square metres, in a rain of 10 millimetres, gives about 1,000 litres. Catching rain from roofs is called rainwater harvesting. Many cities in India now ask for it in new buildings.
+- e.g. A child pours the rice-washing water on the tulsi, instead of down the drain.
+- e.g. A school roof sends rain through a pipe into an underground tank.
+- e.g. A family keeps a bucket in the bathroom, and fills it with the water that comes before the hot water.
 ### Weighing hidden water from space · *defined*
 **Definition:** The GRACE satellites measured tiny changes in Earth's gravity. These showed where underground water was being lost.
 
@@ -676,7 +691,7 @@ Today, on that same street in London, there is a copy of the old pump. It has no
   - Think: If the courtyard is dirty when the rain comes, what happens to the drinking water for the whole year?
 
 ## Worksheets
-### Water Detective (core) (core, 15 questions)
+### Water Detective (core) (core, 16 questions)
 1. (mcq) Where does almost all the fresh water we use begin?  
    Options: In the tap / As rain / In the overhead tank / In the sea  
    **Answer:** As rain. *Why:* Rain fills rivers, lakes and the ground. Taps and tanks only pass water on. Picking the tap or the tank means stopping the trail too early. The sea is salty, so we cannot drink it without removing the salt.
@@ -712,7 +727,9 @@ Today, on that same street in London, there is a copy of the old pump. It has no
    **Answer:** The drain carries it to a stream, a river or the sea. The rain does not soak in, so it does not refill the groundwater, and wells and borewells get less.. *Why:* A strong answer follows the water on from the drain, and says that rain which runs off cannot refill the groundwater.
 15. (truefalse) Rain that soaks into the ground can end up in a well far away from where it fell.  
    **Answer:** True. *Why:* True. Groundwater moves very slowly through the gaps in soil and rock, sometimes for years, so the rain that fills a well may have fallen a long way off.
-### Water in Real Life (stretch) (stretch, 15 questions)
+16. (sort) Which of these save water, and which waste it?  
+   **Answer:** turning the tap off while brushing teeth → Saves water; a bucket bath → Saves water; rice-rinsing water poured on a plant → Saves water; a dripping tap nobody fixes → Wastes water; a hose running while washing a car → Wastes water; a roof pipe that fills a tank → Saves water. *Why:* Using less water, using it twice, and catching rain all save water. A dripping tap and a running hose lose many litres for nothing.
+### Water in Real Life (stretch) (stretch, 16 questions)
 1. (mcq) Look at the chart from the Cool Matka Test. Which container kept the water coolest?  
    Options: The steel bottle / The bottle in a wet cloth / The clay matka  
    **Answer:** The clay matka. *Why:* The matka's bar is the shortest, at 24 °C. On this chart a shorter bar means cooler water. Picking the steel bottle usually means reading the tallest bar as the best.
@@ -749,6 +766,8 @@ Today, on that same street in London, there is a copy of the old pump. It has no
    **Answer:** Clean out the mud and weeds, so the eri holds more monsoon rain that soaks into the ground. *Why:* A clean, deep eri holds more monsoon rain, and the water slowly soaks into the ground and refills the wells. Cement stops the rain soaking in. Pumping harder takes out water faster than it comes back.
 15. (truefalse) In the same storm, a bigger roof catches more rain than a smaller roof.  
    **Answer:** True. *Why:* True. Each square metre of roof catches 1 litre for every millimetre of rain, so more square metres catch more litres.
+16. (write) Tell a grown-up your answer, and ask them to write it down. Bengaluru has floods in the monsoon and water shortage in summer. Name one thing the city could do that helps with both.  
+   **Answer:** For example: keep the lakes and open soil so rain soaks in and fills the ground, or catch roof rain in tanks. Any sensible idea is good.. *Why:* Anything that holds rain in the monsoon, in a lake, in the soil or in a tank, helps with floods and gives water for the dry months. A strong answer says how the rain would be kept.
 ### Water Puzzles and Big Ideas (challenge) (challenge, 15 questions)
 1. (mcq) A village well dried up after the forest on the hills above it was cut down. The hills became bare and hard. Why did the well dry up?  
    Options: The well was dug too deep / Rain ran off the bare hills before it could soak in and refill the groundwater / Trees drink all the rain, so cutting them should have helped  
@@ -823,10 +842,19 @@ Today, on that same street in London, there is a copy of the old pump. It has no
 11. (mcq) Why do wells and borewells in many parts of India go dry?  
    Options: People pump out groundwater faster than rain refills it / It never rains in India / The water sinks too deep to be found  
    **Answer:** People pump out groundwater faster than rain refills it. *Why:* When pumping is faster than refilling, the water level falls. India pumps more groundwater than any other country. India gets a lot of rain, but unevenly.
-12. (mcq) Scientists think the hydrogen atoms in the water you drink were made…  
+12. (mcq) In September 2022, heavy rain flooded parts of Bengaluru. Which thing makes a flood worse?  
+   Options: Lakes and soil covered over, and drains blocked / Lots of trees and open soil / A lake that holds extra rain  
+   **Answer:** Lakes and soil covered over, and drains blocked. *Why:* When the ground is covered and the drains are blocked, rain has nowhere to go, so it stays on the street. Open soil, trees and lakes hold the rain, so they help against floods.
+13. (mcq) A roof sends its rain into a tank. What does this do for the family?  
+   Options: It stores rain to use later, for washing and plants / It makes the water clean enough to drink at once / It stops rain from falling on the roof  
+   **Answer:** It stores rain to use later, for washing and plants. *Why:* A tank holds the rain for dry days. Roof rain picks up dust and bird droppings, so the water still needs cleaning before anyone drinks it.
+14. (mcq) Which water is fine to pour on the tulsi pot?  
+   Options: The water used to rinse rice / Water from washing greasy pans with strong soap / Water from a blocked drain  
+   **Answer:** The water used to rinse rice. *Why:* Rice-rinsing water is only a little starchy, so the plant can drink it up. Soap, grease and drain water can harm the plant's roots.
+15. (mcq) Scientists think the hydrogen atoms in the water you drink were made…  
    Options: at the water treatment plant / in the Big Bang, when the universe began / last monsoon  
    **Answer:** in the Big Bang, when the universe began. *Why:* Hydrogen atoms were made in the Big Bang, about 13.8 billion years ago. The water itself goes round and round, so it is very old. 'Last monsoon' mixes up when the rain fell with when its atoms were made.
-13. (mcq) The Moon has no air to hold water in. Sunlight there is fierce. Where on the Moon is ice most likely to last?  
+16. (mcq) The Moon has no air to hold water in. Sunlight there is fierce. Where on the Moon is ice most likely to last?  
    Options: In rivers on its surface / In deep craters near its poles that sunlight never reaches / On its sunny side at noon  
    **Answer:** In deep craters near its poles that sunlight never reaches. *Why:* Ice in sunlight on the Moon turns straight into gas and is lost. In dark craters near the poles, it stays far below freezing, so ice can last. Instruments have found a thin trace of water in Moon dust too. The Moon has no rivers.
 

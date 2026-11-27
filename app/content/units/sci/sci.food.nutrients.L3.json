@@ -123,7 +123,7 @@
    "concept": "What a nutrient is",
    "status": "defined",
    "definition": "A nutrient is a part of food that the body uses to live, grow, move and mend itself. Scientists sort nutrients into six kinds: carbohydrates, proteins, fats, vitamins, minerals and water.",
-   "description": "Your body takes food apart into its nutrients. It burns some of them for energy. It uses others to build new parts, like muscle, bone and blood. Your body needs large amounts of carbohydrates, proteins, fats and water every day. It needs only tiny amounts of vitamins and minerals, but it cannot stay healthy without them.",
+   "description": "Your body takes food apart into its nutrients. It burns some of them for energy. It uses others to build new parts, like muscle, bone and blood. Your body needs large amounts of carbohydrates, proteins, fats and water every day. It needs only tiny amounts of vitamins and minerals, but it cannot stay healthy without them. When a child gets too little food for a long time, the body wastes away. This illness is called marasmus.",
    "examples": [
     "A plate of curd rice gives carbohydrate from the rice, and protein, fat, calcium and water from the curd.",
     "A guava gives water, sugar, fibre and a lot of vitamin C."
@@ -214,7 +214,7 @@
    "concept": "Minerals: from rocks to your bones",
    "status": "defined",
    "definition": "Minerals are nutrients that come from rocks and soil. Plants take them up from the soil with water. We get them from plants, from animals that ate plants, and from water.",
-   "description": "Calcium makes bones and teeth hard. Ragi, milk, curd, til and green leaves give calcium. Iron is used by blood to carry oxygen. Green leaves, dal, ragi, eggs and fish give iron. Iodine helps the body grow and the brain develop. India adds iodine to most salt for this reason. Many minerals dissolve in water. That is why tap water can leave white rings when it dries on a steel tumbler.",
+   "description": "Calcium makes bones and teeth hard. Ragi, milk, curd, til and green leaves give calcium. Iron is used by blood to carry oxygen. Green leaves, dal, ragi, eggs and fish give iron. Iodine helps the body grow and the brain develop. India adds iodine to most salt for this reason. Too little iron can cause anaemia. The blood then carries less oxygen, so a child tires quickly. Too little iodine can cause goitre, a swelling at the front of the neck. Many minerals dissolve in water. That is why tap water can leave white rings when it dries on a steel tumbler.",
    "examples": [
     "100 grams of ragi flour has nearly three times as much calcium as 100 millilitres of milk.",
     "Iron from green leaves is taken in better when the meal also has vitamin C, like a squeeze of lemon."
@@ -864,6 +864,13 @@
      ],
      "why": "First the milk is heated. Then the liquids are added. Then you wait and look for lumps. Last, the cloth separates the curds from the whey.",
      "how": "e1"
+    },
+    {
+     "t": "write",
+     "p": "Say it out loud, and a grown-up writes it: a child feels tired and looks pale. Which mineral may be missing, and what does it do in the blood?",
+     "lines": 2,
+     "a": "Iron may be missing. Iron helps the blood carry oxygen around the body.",
+     "why": "A strong answer names iron and says its job: carrying oxygen in the blood."
     }
    ]
   },
@@ -2543,6 +2550,18 @@
    "a": 0,
    "why": "The climb needed a lot of energy, but very little protein was used. So the energy must have come mostly from carbohydrates and fats.",
    "outcome": 5
+  },
+  {
+   "t": "mcq",
+   "p": "A child is often tired and pale. Her blood has too little iron. What is this illness called?",
+   "opts": [
+    "Goitre, a swelling at the front of the neck",
+    "Anaemia, when the blood carries less oxygen",
+    "Marasmus, when the body wastes away"
+   ],
+   "a": 1,
+   "why": "Too little iron causes anaemia, so the blood carries less oxygen and the child tires quickly. Goitre comes from too little iodine, and marasmus comes from too little food for a long time.",
+   "outcome": 4
   }
  ],
  "applications": [

@@ -36,14 +36,14 @@
 ### Three ways heat travels · *defined*
 **Definition:** Heat travels from a hotter place to a cooler place in three ways. Conduction passes it from part to touching part. Convection carries it in a moving liquid or gas. Radiation sends it as invisible waves that need nothing to travel through.
 
-In Class 3 you met conduction. A steel spoon in hot tea warms up its handle because each tiny part of the steel passes its jiggling to the next. But conduction needs something to touch, and it is slow. So heat has two more ways. Convection works in liquids and gases, which can flow. The hot part moves, and takes its heat along. Radiation does not need anything at all. A bonfire warms your face by sending out waves. The waves cross the cold air, but the air does not carry them. Most real things use more than one way at once. A pot of dal on a stove is warmed by conduction through the base, by convection in the dal, and by radiation to your face if you lean over it.
+In Class 3 you met conduction. A steel spoon in hot tea warms up its handle because each tiny part of the steel passes its jiggling to the next. But conduction needs something to touch, and it is slow. So heat has two more ways. Convection works in liquids and gases, which can flow. The hot part moves, and takes its heat along. Radiation does not need anything at all. A bonfire warms your face by sending out waves. The waves cross the cold air, but the air does not carry them. Most real things use more than one way at once. A pot of dal on a stove is warmed by conduction through the base, by convection in the dal, and by radiation to your face if you lean over it. Metals conduct heat very well. Wood and plastic conduct it poorly, which is why a wooden spoon stays cool in hot dal.
 - e.g. A steel ladle in hot sambar warms its handle by conduction.
 - e.g. Rice grains rising and falling in a boiling pot show convection.
 - e.g. The warmth on your face from a bonfire is radiation.
 ### Why warm air and warm water rise · *defined*
 **Definition:** When a liquid or gas is warmed, it expands and becomes less dense. The cooler fluid around it is heavier, so it sinks and pushes the lighter warm fluid up.
 
-Heat makes the tiny particles in a fluid move faster, and they push a little further apart. The same amount of stuff now takes up more room, so each spoonful is lighter than before. That is what less dense means. Air that is warmed from 27 to 57 degrees Celsius becomes about a tenth lighter. Water warmed from 20 to 60 degrees becomes lighter by about one and a half parts in every hundred. The warm part sits in cooler, heavier fluid, so it is lifted, the same way a cork is lifted in water. Cooler fluid does not rise. It sinks, and that sinking is what pushes the warm fluid up. Water has one odd habit. Between 4 and 0 degrees it gets lighter again as it gets colder, which is part of why ice floats and why a lake freezes from the top.
+Heat makes the tiny particles in a fluid move faster, and they push a little further apart. The same amount of stuff now takes up more room, so each spoonful is lighter than before. That is what less dense means. Air that is warmed from 27 to 57 degrees Celsius becomes about a tenth lighter. Water warmed from 20 to 60 degrees becomes lighter by about one and a half parts in every hundred. The warm part sits in cooler, heavier fluid, so it is lifted, the same way a cork is lifted in water. Cooler fluid does not rise. It sinks, and that sinking is what pushes the warm fluid up. Water has one odd habit. Between 4 and 0 degrees it gets lighter again as it gets colder, which is part of why ice floats and why a lake freezes from the top. Solids grow a little when they are heated, and shrink a little when they cool. Railway rails have small gaps between each length of rail for this reason.
 - e.g. Smoke from an agarbatti curls upwards in still air.
 - e.g. A hot-air balloon rises because the air inside is less dense than the air outside.
 - e.g. Steam from an idli cooker climbs to the ceiling.
@@ -532,7 +532,7 @@ That week, Mama took off every sheet of glass. He kept the air conditioner for t
   - Think: Where should the heater go in a pot of water, and where should the ice go in a jug?
 
 ## Worksheets
-### How heat moves (core) (core, 17 questions)
+### How heat moves (core) (core, 18 questions)
 1. (mcq) A steel ladle stands in a pot of hot sambar, and its handle slowly warms. Which way is the heat travelling up the handle?  
    Options: Conduction / Convection / Radiation  
    **Answer:** Conduction. *Why:* The heat passes from each tiny part of the steel to the part touching it. That is conduction. Convection needs a liquid or gas that moves, and radiation needs no touching at all.
@@ -543,36 +543,38 @@ That week, Mama took off every sheet of glass. He kept the air conditioner for t
    **Answer:** False. *Why:* False. Hot liquids and gases rise, but heat in a solid spoon travels in every direction, and radiation goes out in every direction at once.
 4. (fill) The Sun's heat crosses empty space by ____.  
    **Answer:** ['radiation']. *Why:* Empty space has nothing to touch or to flow, so only radiation can carry the Sun's heat across it.
-5. (match) Match each way of moving heat to what it does.  
+5. (fill) Metals ____ heat well, while wood and plastic do not.  
+   **Answer:** ['conduct']. *Why:* Heat passes from one part of metal to the next very easily. Wood and plastic pass it on poorly, so their handles stay cool.
+6. (match) Match each way of moving heat to what it does.  
    **Answer:** Conduction → heat passes from part to touching part; Convection → heat is carried by a moving liquid or gas; Radiation → heat travels as invisible light-like waves. *Why:* Conduction needs touching. Convection needs a fluid that can flow. Radiation needs nothing.
-6. (sort) Sort each thing by what it does to sunlight.  
+7. (sort) Sort each thing by what it does to sunlight.  
    **Answer:** black school bag → Takes in a lot; white shirt → Sends back a lot; shiny kitchen foil → Sends back a lot; dark tar road → Takes in a lot; white-painted roof → Sends back a lot; black umbrella → Takes in a lot. *Why:* Dark, dull things take in most of the light and turn it into heat. White and shiny things send most of it back.
-7. (order) Put the steps of a convection current in order, starting with the first.  
+8. (order) Put the steps of a convection current in order, starting with the first.  
    **Answer:** ['Water near the flame is warmed', 'The warm water rises', 'At the top it spreads out and cools', 'The cooled water sinks at the sides', 'The water flows back along the bottom towards the flame']. *Why:* The loop starts with warming. The warm water rises, cools at the top, sinks at the sides and comes back to the flame to be warmed again.
-8. (mcq) On a hot afternoon, a cool wind blows from the sea onto the beach. Why?  
+9. (mcq) On a hot afternoon, a cool wind blows from the sea onto the beach. Why?  
    Options: Air rises over the warm land, and cooler sea air flows in to take its place / The sea is hotter than the land in the daytime / The Moon pulls the air towards the beach  
    **Answer:** Air rises over the warm land, and cooler sea air flows in to take its place. *Why:* The land warms faster than the sea. The air over it rises, and cooler air from over the sea slides in underneath.
-9. (count) In a made-up test, a tumbler in black paper warmed from 28 to 38 degrees in the Sun. A tumbler in white paper warmed from 28 to 31 degrees. How many more degrees did the black one rise than the white one?  
+10. (count) In a made-up test, a tumbler in black paper warmed from 28 to 38 degrees in the Sun. A tumbler in white paper warmed from 28 to 31 degrees. How many more degrees did the black one rise than the white one?  
    **Answer:** 7. *Why:* The black tumbler rose 38 minus 28, which is 10 degrees. The white rose 31 minus 28, which is 3 degrees. 10 minus 3 is 7. So the black one rose 7 degrees more.
-10. (mcq) Why can the Sun's heat reach the Earth, when there is empty space in between?  
+11. (mcq) Why can the Sun's heat reach the Earth, when there is empty space in between?  
    Options: Radiation can cross empty space / Air in space carries the heat / Conduction works through empty space  
    **Answer:** Radiation can cross empty space. *Why:* Radiation is waves of light that need nothing to travel through. There is almost no air in space, so convection and conduction cannot work there.
-11. (odd) Which is the odd one out, and why? Warmth of a bonfire on your face, sunlight on a terrace, a lamp warming your cheek, a hot tumbler burning your fingers.  
+12. (odd) Which is the odd one out, and why? Warmth of a bonfire on your face, sunlight on a terrace, a lamp warming your cheek, a hot tumbler burning your fingers.  
    **Answer:** The hot tumbler. *Why:* The tumbler passes heat by conduction, because it touches your fingers. The other three are radiation, which crosses a gap without touching.
-12. (write) Many old single-door fridges have the freezer box at the top. Explain why this works well.  
+13. (write) Many old single-door fridges have the freezer box at the top. Explain why this works well.  
    **Answer:** The freezer cools the air next to it. Cold air is heavier than warm air, so it sinks and cools the food below. If the freezer were at the bottom, the cold air would stay down there.. *Why:* A strong answer says that cooled air sinks, so the cold spreads downwards, and that this is a convection current.
-13. (draw) Draw a pot of water on a flame. Draw arrows to show a convection current inside it.  
+14. (draw) Draw a pot of water on a flame. Draw arrows to show a convection current inside it.  
    **Answer:** A pot over a flame. Arrows go up in the middle, across the top, down at the sides and back along the bottom towards the flame.. *Why:* A strong drawing shows a full loop, with the water rising over the flame and sinking at the sides.
-14. (label) Label this picture of a pot of dal on a stove: where conduction happens, where convection happens, and where radiation reaches the child.  
+15. (label) Label this picture of a pot of dal on a stove: where conduction happens, where convection happens, and where radiation reaches the child.  
    **Answer:** Conduction is along the steel ladle handle or through the base of the pot. Convection is the loop of dal inside the pot. Radiation is the warmth reaching the child's face from the side.. *Why:* Conduction needs touching, convection needs a moving fluid, and radiation travels in straight lines through the air.
-15. (truefalse) A white roof reflects more of the Sun's radiation than a black roof.  
+16. (truefalse) A white roof reflects more of the Sun's radiation than a black roof.  
    **Answer:** True. *Why:* True. White surfaces send most of the light back. Dark surfaces take it in and turn it into heat.
-16. (write) Many people say: 'When I open the fridge, the cold comes out.' Say what is really happening.  
+17. (write) Many people say: 'When I open the fridge, the cold comes out.' Say what is really happening.  
    **Answer:** Heat from the warm kitchen air goes into the fridge, and the cool, heavy air from inside spills out along the floor. There is no cold stuff that comes out. Something feels cold when heat flows out of you into it.. *Why:* A strong answer says that heat moves from warm to cool, and that cool air sinks because it is heavy.
-17. (mcq) A silver vacuum flask keeps tea hot for hours. What does the silver coating do?  
+18. (mcq) A silver vacuum flask keeps tea hot for hours. What does the silver coating do?  
    Options: It reflects heat radiation back into the tea / It makes the tea heavier / It makes the flask magic  
    **Answer:** It reflects heat radiation back into the tea. *Why:* Silver reflects radiation, so heat from the tea is sent back. The vacuum between the walls stops conduction and convection.
-### How heat moves (stretch) (stretch, 17 questions)
+### How heat moves (stretch) (stretch, 18 questions)
 1. (mcq) A spoonful of air at 27 degrees is warmed to 57 degrees. What happens to it?  
    Options: It expands and becomes lighter / It shrinks and becomes heavier / It stays exactly the same  
    **Answer:** It expands and becomes lighter. *Why:* Warm air takes up more room, so the same amount of air is spread out and each spoonful is lighter. This is why warm air rises through cooler air.
@@ -592,24 +594,26 @@ That week, Mama took off every sheet of glass. He kept the air conditioner for t
 8. (mcq) A steel plate feels colder than a wooden board that has been in the same room all day. Why?  
    Options: Steel carries heat away from your hand faster / The steel is at a lower temperature / Wood makes its own heat  
    **Answer:** Steel carries heat away from your hand faster. *Why:* Both are at room temperature. Your skin feels the speed at which heat leaves it, and steel is a better conductor than wood.
-9. (count) The Moon's light takes about 1 second to reach us. The Sun's radiation takes about 500 seconds. How many times as long does the Sun's radiation take?  
+9. (fill) When a solid is heated, it ____ a little, which is why railway rails have gaps.  
+   **Answer:** ['expand']. *Why:* Solids grow a little when they are hot. The gaps leave room for that growth, so the rails do not push against each other and bend.
+10. (count) The Moon's light takes about 1 second to reach us. The Sun's radiation takes about 500 seconds. How many times as long does the Sun's radiation take?  
    **Answer:** 500. *Why:* 500 divided by 1 is 500. So the Sun's radiation takes about 500 times as long to reach us.
-10. (write) A lid on a pot of dal helps keep it hot. Say which way of moving heat the lid slows down most, and how.  
+11. (write) A lid on a pot of dal helps keep it hot. Say which way of moving heat the lid slows down most, and how.  
    **Answer:** The lid slows convection. Hot steam and hot air cannot rise away from the dal. The dal also loses less heat by radiation upwards.. *Why:* A strong answer says that the lid traps the rising warm air and steam, so the heat stays in the pot.
-11. (odd) Which is the odd one out, and why? Sea breeze, a thermal, boiling water, sunbathing.  
+12. (odd) Which is the odd one out, and why? Sea breeze, a thermal, boiling water, sunbathing.  
    **Answer:** Sunbathing. *Why:* The first three are convection, with warm fluid rising and cool fluid sinking. Sunbathing warms your skin by radiation.
-12. (perspective) Two children are talking about the freezer.  
+13. (perspective) Two children are talking about the freezer.  
    **Answer:** The second child is right that heat flows into the cold fridge. The first child is partly right: cool air really does spill out, and it feels cold. A thermometer near the floor in front of the open door would show the cool air spreading low.. *Why:* A strong answer picks a side, gives a test, and says fairly that the cool air does move.
-13. (draw) Draw an old house on a hot day. Show where cool air comes in, where hot air goes out, and which way each one moves.  
+14. (draw) Draw an old house on a hot day. Show where cool air comes in, where hot air goes out, and which way each one moves.  
    **Answer:** A house with a low door or window open on the shaded side and a high ventilator. Arrows show cool air coming in low and moving along the floor, and hot air rising and leaving through the high ventilator.. *Why:* A strong drawing shows one opening low and one high, and a loop of air through the room.
-14. (label) Label this picture of the Sun and the Earth: the Sun, the Earth, the empty space, and the way the heat travels.  
+15. (label) Label this picture of the Sun and the Earth: the Sun, the Earth, the empty space, and the way the heat travels.  
    **Answer:** The Sun is on the left. The Earth is on the right. The empty space is the gap in between with no air. The heat travels as radiation, shown with wavy arrows.. *Why:* The Sun's heat crosses about 150 million kilometres of nearly empty space as radiation.
-15. (mcq) Many people in hot places wear loose, light-coloured cotton. Why does this help?  
+16. (mcq) Many people in hot places wear loose, light-coloured cotton. Why does this help?  
    Options: Light colours reflect more sunlight, and loose cloth lets air move over the skin / White cloth is cold / Cotton gives out heat  
    **Answer:** Light colours reflect more sunlight, and loose cloth lets air move over the skin. *Why:* Light colours send back more of the Sun's radiation. Loose cloth lets warm air next to the skin escape and cooler air flow in.
-16. (truefalse) The Sun's heat reaches us by warming all the air between the Sun and the Earth.  
+17. (truefalse) The Sun's heat reaches us by warming all the air between the Sun and the Earth.  
    **Answer:** False. *Why:* False. Radiation passes through clear air and empty space without warming them much. It warms the ground and our skin.
-17. (write) Pick something in your home where heat travels in two ways at once. Name both ways and say where each one happens.  
+18. (write) Pick something in your home where heat travels in two ways at once. Name both ways and say where each one happens.  
    **Answer:** For example, in a pot of milk on a stove, conduction passes heat through the base, and convection stirs it through the milk.. *Why:* A strong answer names two different ways and points to the exact place each one happens.
 ### How heat moves (challenge) (challenge, 16 questions)
 1. (mcq) A pond cools in winter. Water is heaviest at 4 degrees, and lighter just above 0 degrees. What does this mean for the pond?  
@@ -693,6 +697,12 @@ That week, Mama took off every sheet of glass. He kept the air conditioner for t
 13. (mcq) A woollen shawl keeps you warm. Which idea explains it best?  
    Options: It traps still air, which carries heat very slowly / Wool makes heat / Wool is hotter than air  
    **Answer:** It traps still air, which carries heat very slowly. *Why:* Air that cannot move cannot carry heat by convection, and it is a poor conductor. The wool holds air still next to your skin.
+14. (mcq) A steel spoon and a wooden spoon sit in hot dal. Which handle warms up first in your hand?  
+   Options: The steel handle, because metal conducts heat well / The wooden handle, because wood conducts heat well / Both at the same speed, because heat moves through everything equally  
+   **Answer:** The steel handle, because metal conducts heat well. *Why:* Metal passes heat along quickly. Wood and plastic pass it on poorly, so their handles stay cool. The handle that warms first is the one that conducts best.
+15. (mcq) Railway rails in India have small gaps between each length. What are the gaps for?  
+   Options: Hot metal grows longer, and the gap gives it room / Rain can drain out through the rail / Steam escapes from the rail in summer  
+   **Answer:** Hot metal grows longer, and the gap gives it room. *Why:* Solids grow a little when they are hot. Without a gap, a long rail would push against the next one and bend in the heat.
 
 ## Applications
 - Chimneys and kitchen exhausts, which let hot air rise out and draw fresh air in.

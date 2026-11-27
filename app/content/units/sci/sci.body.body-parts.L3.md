@@ -37,6 +37,7 @@
 - **Soap**: A cleaner that grabs onto oil and grease. Water then washes the oil, and the germs stuck in it, away. *e.g.* Plain water does not wash oily hands clean. Soap does.
 - **Hygiene**: The habits that keep our body clean, so that we stay healthy. *e.g.* Washing hands before eating is good hygiene.
 - **Private parts**: The parts of the body covered by underwear. They are used to pass urine and stool. They are private: they belong to you. *e.g.* Boys have a penis. Girls have a vulva. These are their correct names, like elbow or knee.
+- **Period**: A period is the few days each month when a girl or woman bleeds a little from the vulva. It is normal and healthy. *e.g.* A girl changes her clean pad every four to six hours during her period.
 - **Trusted adult**: A grown-up you know well, who listens to you and keeps you safe. *e.g.* A parent, a grandparent, an aunt or a teacher can be a trusted adult.
 - **Lice**: Tiny insects that live in hair and lay eggs called nits. They crawl from head to head. *e.g.* Lice make your head itchy. A fine comb and special shampoo get rid of them.
 
@@ -51,7 +52,7 @@ Look in a mirror. Everything you can see is on the outside of you. Your skin, ha
 ### Skin: the biggest organ · *defined*
 **Definition:** Skin is the stretchy covering of the whole body. It is the biggest organ of the body.
 
-Spread out flat, a grown-up's skin would cover about one door. Skin has many jobs. It keeps water inside you, so you do not dry up. It keeps dirt and most germs out. It lets you feel touch, heat, cold and pain. When you are hot, sweat comes out through tiny holes called pores, and you cool down as it dries. In sunlight, skin also makes vitamin D, which your bones need. To care for skin, bathe every day, dry the folds well, and cover cuts. Stay in the shade in the hottest part of the day.
+Spread out flat, a grown-up's skin would cover about one door. Skin has many jobs. It keeps water inside you, so you do not dry up. It keeps dirt and most germs out. It lets you feel touch, heat, cold and pain. When you are hot, sweat comes out through tiny holes called pores, and you cool down as it dries. In sunlight, skin also makes vitamin D, which your bones need. To care for skin, bathe every day, dry the folds well, and cover cuts. Stay in the shade in the hottest part of the day. Skin guards you from heat, cold and dirt. In the dry cold of winter, skin can crack, so a little coconut or mustard oil after a bath keeps it soft. Avoid harsh soap and hard scrubbing.
 - e.g. A bandage on a cut keeps dirt out while the skin mends itself.
 - e.g. Your fingertips can feel a single grain of rice in your palm with your eyes shut.
 - e.g. After a bath, drying between your toes and under your arms stops itchy rashes.
@@ -72,7 +73,7 @@ Why does a haircut not hurt? Because the hair you can see has no nerves. Living 
 ### Eyes and their guards · *defined*
 **Definition:** The eyes are the organs of sight. Eyelids, eyelashes, eyebrows and tears are their guards.
 
-Your eyes are soft and easy to hurt, so they have many guards. Your eyebrows stop sweat and rain running into them. Your eyelashes catch dust. Your eyelids blink shut in a flash when something comes close. Each blink spreads tears over the eye, keeping it wet and washing dust away. To care for your eyes, never rub them hard. If something gets in, blink and wash with clean water. Read in good light, and look far away often. Never look at the sun, not even for a moment.
+Your eyes are soft and easy to hurt, so they have many guards. Your eyebrows stop sweat and rain running into them. Your eyelashes catch dust. Your eyelids blink shut in a flash when something comes close. Each blink spreads tears over the eye, keeping it wet and washing dust away. To care for your eyes, never rub them hard. If something gets in, blink and wash with clean water. Read in good light, and look far away often. Never look at the sun, not even for a moment. Wash your eyes with clean water when kitchen smoke, dust or dirt gets in. Look away from very bright light, such as a welding spark or the sun. Never put drops, oil or any medicine in your eyes unless a doctor says so.
 - e.g. When a ball flies at your face, your eyes shut before you decide to shut them.
 - e.g. Onion juice in the air makes your eyes fill with tears.
 - e.g. Playing outdoors and looking far away is good for children's eyes.
@@ -93,7 +94,7 @@ Air comes into your body through your nose. Inside, short hairs and sticky mucus
 ### Mouth and teeth · *defined*
 **Definition:** The mouth takes in food and water. Teeth bite and chew food. The tongue tastes, moves food and helps us talk.
 
-Children have 20 milk teeth. From about age 6, they fall out one by one, and bigger teeth grow in. A full grown-up set has 32 teeth. Front teeth cut and bite. Back teeth grind food, like a grinding stone. Teeth are covered in enamel, the hardest material in your body. But tiny germs in your mouth feed on sugar and make acid. The acid slowly eats holes in the enamel. To care for your teeth, brush twice a day, for about two minutes. Brushing at night matters most, because your mouth makes less spit while you sleep. Spit helps protect teeth. Rinse your mouth with water after eating, and keep sweet sticky food for mealtimes.
+Children have 20 milk teeth. From about age 6, they fall out one by one, and bigger teeth grow in. A full grown-up set has 32 teeth. Front teeth cut and bite. Back teeth grind food, like a grinding stone. Teeth are covered in enamel, the hardest material in your body. But tiny germs in your mouth feed on sugar and make acid. The acid slowly eats holes in the enamel. To care for your teeth, brush twice a day, for about two minutes. Brushing at night matters most, because your mouth makes less spit while you sleep. Spit helps protect teeth. Rinse your mouth with water after eating, and keep sweet sticky food for mealtimes. Tobacco harms the mouth. Gutka, and paan with tobacco, stain the teeth and make the gums sore and weak. Over many years they can cause cancer, a serious illness, in the mouth. People who have chewed tobacco for years often find it hard to stop. Staying away from it protects your teeth and gums.
 - e.g. A toffee stuck between your teeth feeds mouth germs for hours.
 - e.g. Front teeth cut a guava. Back teeth grind it.
 - e.g. Saying 'ta ta ta' needs your tongue to tap behind your top teeth.
@@ -118,6 +119,13 @@ These parts have correct names, just like elbow or knee. Using the right names i
 - e.g. A doctor checks a child's tummy pain while the child's mother stays in the room.
 - e.g. A child tells their aunt about a touch that felt wrong, and the aunt listens and helps.
 - e.g. A clean pair of underwear every morning stops itching and rashes.
+### Periods: a normal part of growing up · *defined*
+**Definition:** A period is the few days each month when a girl or woman bleeds a little from the vulva. It is a normal, healthy part of growing up.
+
+Girls usually have their first period between about 10 and 14 years old. For three to seven days each month, a little blood comes out. It is not an injury, and it does not mean she is ill. A girl having her period is not dirty. Some families have old customs that keep girls away from the kitchen or the temple at this time. Doctors say there is no reason for this: a girl having a period is healthy and can do what she feels able to do. To keep clean, use a clean pad or a clean, dry cloth. Change it every four to six hours, or sooner if it is wet. Wash a used cloth with soap and water, and dry it fully in sunlight if you can. A damp cloth can give a rash or an infection. After using the toilet, clean with water from front to back. Wash your hands with soap. Many girls feel tired or have a tummy ache. Rest, warm water and a hot water bag can help. Boys can learn about periods too, so they can support their sisters, friends and mothers.
+- e.g. A girl in a school toilet changes her pad, puts the used one in a paper bag in the dustbin, and washes her hands with soap.
+- e.g. A mother washes cotton cloth with soap and dries it in the sun, so that it is fully dry before it is used again.
+- e.g. A big brother brings his sister a hot water bag when she has a tummy ache.
 ### Little guards that look like dirt · *defined*
 **Definition:** Earwax, nose mucus, eyelashes, eyebrows and tears are guards. They trap dirt, wash it away or keep it out.
 
@@ -650,7 +658,7 @@ Many years later, the government gave her uncle a reward and an honour for his w
   *Child mode:* Change one thing. Test again. Was it better?
 
 ## Worksheets
-### Outside-Me Detective (core) (core, 16 questions)
+### Outside-Me Detective (core) (core, 18 questions)
 1. (mcq) Someone says, 'My heart is an organ, but my skin is just a cover.' What is wrong with this idea?  
    Options: Skin is an organ too. It has its own jobs, like keeping germs out, feeling touch and sweating. / Nothing. Only parts inside the body are organs. / Skin is not part of the body at all. / The heart is not an organ.  
    **Answer:** Skin is an organ too. It has its own jobs, like keeping germs out, feeling touch and sweating.. *Why:* An organ is a body part made of many cells that does a job. Skin keeps out germs and water, feels heat and touch, and sweats to cool you. It is the biggest organ you have. The mistake is a common one: thinking that organs must be hidden inside.
@@ -682,13 +690,17 @@ Many years later, the government gave her uncle a reward and an honour for his w
    **Answer:** A birthday surprise is a happy secret that ends when the present is opened. A secret about touching must never be kept, even after promising. I say no, get away and tell a trusted grown-up, and I keep telling until someone helps. It is never my fault.. *Why:* A strong answer separates secrets that are fun and soon shared from secrets about touching, which are never kept. It names the three steps: say no, get away, tell.
 13. (label) Label the eye's guards on the picture: eyebrow, eyelashes, eyelid. Next to each, write one thing it keeps out of the eye.  
    **Answer:** Eyebrow above the eye: keeps sweat and rain out. Eyelashes on the edge of the lid: catch dust. Eyelid over the eye: shuts out dust and bright light, and spreads tears.. *Why:* Each guard has its own job. A strong answer puts each label in the right place and gives a real job for it.
-14. (draw) Draw your hand. Mark the places people most often forget when washing.  
+14. (fill) After a period, a used cloth should be washed with soap and dried fully in the ________.  
+   **Answer:** sun. *Why:* Sunlight helps dry the cloth completely. A damp cloth can give a rash or infection.
+15. (truefalse) Your cousin has red, itchy eyes. A neighbour says, 'Put in these drops I have at home.' This is a good idea.  
+   **Answer:** False. *Why:* False. Only a doctor can say which drops are safe. Meanwhile, wash the eyes with clean water and do not rub them.
+16. (draw) Draw your hand. Mark the places people most often forget when washing.  
    **Answer:** Thumbs, fingertips and nails, between the fingers, and the backs of the hands.. *Why:* In the oily hands activity, the turmeric often stays on the thumbs, fingertips and backs of hands. Those are the places to rub carefully.
-15. (write) Many people clean their ears with a cotton bud. Which way does earwax move by itself when you chew or talk? What does a cotton bud do to the wax?  
+17. (write) Many people clean their ears with a cotton bud. Which way does earwax move by itself when you chew or talk? What does a cotton bud do to the wax?  
    **Answer:** Earwax moves out of the ear by itself, a little each time I chew or talk, and carries dust with it. A cotton bud pushes the wax back in, and a hard poke can hurt the eardrum. So I wipe only the outside.. *Why:* A strong answer says which way wax moves and why a bud works against it. It challenges a common habit with a reason.
-16. (perspective) Three people argue about whether hair is alive.  
+18. (perspective) Three people argue about whether hair is alive.  
    **Answer:** A strong answer picks a side and backs it with evidence, such as 'a haircut does not hurt, so the part we cut has no living nerves' or 'my nail tracker mark moved, so something is still growing'. It then admits a fair point from another side.. *Why:* This is a real puzzle about what 'alive' means. The hair shaft is dead keratin. The root is living and keeps adding cells. So hair is a dead thing made by a living body.
-### Guards and Growing (stretch) (stretch, 16 questions)
+### Guards and Growing (stretch) (stretch, 18 questions)
 1. (mcq) In the bread test, suppose the untouched slice is not sealed in its bag. It is left open on the kitchen shelf for 6 days. What will probably happen?  
    Options: It grows spots too, because mould spores from the air land on the bread / It stays perfectly clean, because no hands touched it / It turns into toast / It grows fewer spots than a sealed slice  
    **Answer:** It grows spots too, because mould spores from the air land on the bread. *Why:* Mould spores float in the air everywhere. Left open on a shelf, the slice meets all of them, so the test is no longer fair: the spots could come from the air, not from hands. That is why every slice, even the untouched one, stays sealed.
@@ -727,6 +739,10 @@ Many years later, the government gave her uncle a reward and an honour for his w
    **Answer:** If one grown-up is busy, away or does not listen, I still have others to tell. Also, if the person doing wrong is someone I know, I need someone else to go to.. *Why:* A strong answer shows the child knows to keep telling until someone helps.
 16. (fill) Along each fingertip ridge are tiny holes that let out sweat. So whenever we touch something, we leave our ____ behind.  
    **Answer:** ['fingerprints', 'fingerprint', 'prints']. *Why:* Sweat, and oil picked up from the face and hair, leave the pattern of the ridges on whatever we touch. That is also how germs pass from hands to things.
+17. (sort) Sort these into HELPS TEETH AND GUMS and HARMS TEETH AND GUMS.  
+   **Answer:** brushing twice a day → Helps; chewing gutka → Harms; rinsing with water after a meal → Helps; paan with tobacco → Harms; a toffee stuck between the teeth all evening → Harms; brushing before bed → Helps. *Why:* Tobacco stains teeth and makes the gums sore, and can cause cancer in the mouth. Brushing and rinsing remove food that germs turn to acid.
+18. (write) A girl in your class has her first period. A boy laughs and says it is dirty. What would you say to him? Tell a grown-up, who writes your answer down.  
+   **Answer:** A strong answer says a period is normal and healthy, every girl and woman has them, and a girl having a period is not dirty. It is kinder to help.. *Why:* Periods are a normal part of growing up. Laughing makes a girl feel ashamed for no reason. Knowing the facts helps everyone be kind.
 ### Thinking Further (challenge) (challenge, 16 questions)
 1. (perspective) Can a child be too clean? Three people give different answers.  
    **Answer:** A strong answer picks a view and uses evidence, such as 'the dirty-hands slice grew the most spots, so hands really carry germs'. It then answers back fairly, for example that playing in soil and washing before meals can go together.. *Why:* This is still argued about. Doctors agree that washing at the important times stops illness. Many also think children need to meet harmless microbes outdoors. The views fit together more than they first seem to.
@@ -809,6 +825,18 @@ Many years later, the government gave her uncle a reward and an honour for his w
 12. (mcq) Fingerprints form before birth. What happens to them as you grow up?  
    Options: They get bigger, but the pattern stays the same all your life / They change into a new pattern every year / They disappear by the age of 10 / They swap from loops to whorls  
    **Answer:** They get bigger, but the pattern stays the same all your life. *Why:* The ridges grow bigger as the fingers grow, but the pattern of loops, whorls and forks stays the same. That is why police can use them.
+13. (mcq) Kitchen smoke makes your eyes sting, and a neighbour offers you eye drops from her house. What is the best thing to do?  
+   Options: Use her drops, since they are only drops / Wash your eyes with clean water, and take no drops unless a doctor says so / Rub your eyes hard until the stinging stops  
+   **Answer:** Wash your eyes with clean water, and take no drops unless a doctor says so. *Why:* Clean water washes smoke out. Only a doctor can say which drops are safe, and the wrong drops can harm the eye. Rubbing hard can scratch the eye.
+14. (mcq) Your uncle chews gutka every day. What does tobacco do to his mouth?  
+   Options: It makes the teeth whiter and the gums strong / It stains the teeth and makes the gums sore, and over many years it can cause cancer / It only changes how his breath smells for an hour  
+   **Answer:** It stains the teeth and makes the gums sore, and over many years it can cause cancer. *Why:* Tobacco in gutka and in tobacco paan harms teeth and gums, and can cause cancer of the mouth. It does not clean or strengthen anything. Rinsing and brushing help, but staying away from tobacco protects the most.
+15. (mcq) Meena has her first period at school. What is the best thing for her to do?  
+   Options: Use a clean pad or cloth, change it every four to six hours, and wash her hands / Tell nobody and stay in the toilet until school ends / Use the same cloth for two days without washing it  
+   **Answer:** Use a clean pad or cloth, change it every four to six hours, and wash her hands. *Why:* A period is normal, and a clean pad or cloth keeps her comfortable and well. A damp or dirty cloth can give a rash or infection. A trusted grown-up or teacher can help.
+16. (mcq) In winter, the skin on Rahul's hands is dry and cracked. What can help?  
+   Options: A little coconut or mustard oil after he dries his hands / Scrubbing them with harsh soap / Washing them in very hot water again and again  
+   **Answer:** A little coconut or mustard oil after he dries his hands. *Why:* Oil keeps skin soft and stops it cracking in dry cold weather. Harsh soap and hot water take away more of the skin's oil and make it worse.
 
 ## Applications
 - Doctors look at skin, nails, eyes and tongue to find clues about illness.

@@ -178,7 +178,8 @@
    "examples": [
     "A spoon prying a lid off a tin.",
     "A hand pump on a village borewell. You push the long handle down, and the short end lifts the water rod.",
-    "A crowbar lifting a heavy stone."
+    "A crowbar lifting a heavy stone.",
+    "The brake handle of a bicycle is a lever. Your fingers squeeze it, and it turns on a pivot where it joins the bar. A small squeeze gives a strong pull on the brake cable."
    ],
    "perspectives": [],
    "art": "A spoon opening a tin lid, with labels: fulcrum at the rim, load at the lid, effort at the hand.",
@@ -1466,6 +1467,13 @@
      "why": "The longer ramp to the same height needs a smaller push.",
      "art": "A box 10 cm high on a floor line.",
      "how": "e2"
+    },
+    {
+     "t": "write",
+     "p": "On a bicycle, your fingers squeeze the brake handle. Name the effort and the fulcrum. Then say what the handle does to your small squeeze.",
+     "lines": 3,
+     "a": "The effort is your squeeze on the handle. The fulcrum is the pivot where the handle joins the bar. The handle makes the small squeeze into a bigger pull on the brake cable.",
+     "why": "A strong answer names the effort at the hand, the fulcrum at the pivot, and says the lever makes the pull stronger, using the same lever rule as the see-saw."
     }
    ],
    "context": "This stretch worksheet uses the main ideas in new cases: balancing with numbers, kinds of lever, ramps, the well winch and the levers in your arm."
@@ -3209,6 +3217,18 @@
    "a": 0,
    "why": "Your calf muscle pulls your heel up, and the foot turns on the ball of the foot. Picking 'at your heel' mixes up where the effort pulls with where the foot turns.",
    "how": "a4",
+   "outcome": 1
+  },
+  {
+   "t": "mcq",
+   "p": "A bicycle brake handle is a lever. Where is its fulcrum?",
+   "opts": [
+    "The point where the handle joins the bar and turns",
+    "Under your fingers, where you squeeze",
+    "The brake pad, where it rubs the wheel"
+   ],
+   "a": 0,
+   "why": "A lever turns on its fulcrum. The brake handle turns at its pivot on the bar. Your fingers give the effort, and the brake pad is the part that rubs the wheel, not the point the handle turns on.",
    "outcome": 1
   },
   {

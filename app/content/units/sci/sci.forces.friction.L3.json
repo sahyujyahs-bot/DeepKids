@@ -154,7 +154,7 @@
    "concept": "What friction is",
    "status": "defined",
    "definition": "Friction is a force that acts where two surfaces touch. It works against sliding, or against something starting to slide.",
-   "description": "Friction only appears when two things touch and one of them is sliding, or is being pushed or pulled to slide. It always acts against the sliding. Think of a book lying still on a flat table. Nobody is pushing it, so there is no friction on it at all. Now give the book a gentle push. Friction pushes back the opposite way, and the book soon stops.",
+   "description": "Friction only appears when two things touch and one of them is sliding, or is being pushed or pulled to slide. It always acts against the sliding. Think of a book lying still on a flat table. Nobody is pushing it, so there is no friction on it at all. Now give the book a gentle push. Friction pushes back the opposite way, and the book soon stops. Friction is only one kind of force. Your muscles give a muscular force when you lift a bucket from the well. Gravity pulls every thing down. A magnet gives a magnetic force, which pulls a steel paper clip to it.",
    "examples": [
     "A ball rolling on grass slows down and stops. The grass rubs against it.",
     "When you walk, your foot pushes back on the ground. Friction pushes your foot forward, so you move ahead.",
@@ -1167,6 +1167,14 @@
      "lines": 5,
      "a": "A strong answer picks a tile and explains it with friction: rough tiles give more friction, so feet grip even when the floor is wet. Smooth tiles give less friction, so they are slippery but easy to clean. It answers back fairly, and may suggest a middle way, such as rough tiles near the sink or a rubber mat.",
      "why": "Both are right about something. Less friction makes cleaning easy, and more friction keeps people safe. Real homes weigh this up, often with a mat where the floor gets wet."
+    },
+    {
+     "t": "fill",
+     "p": "You drop a ball, and it falls to the ground. The force that pulls it down is called ____.",
+     "a": [
+      "gravity"
+     ],
+     "why": "Gravity is the pull of the Earth on every thing. It is not friction, because the ball is not sliding on a surface."
     }
    ]
   },
@@ -3094,6 +3102,18 @@
    "a": 0,
    "why": "Smooth cartilage soaked in slippery joint fluid gives less friction than ice sliding on ice. Picking 'never touch' is a fair guess, but the bones do press together every time you stand.",
    "outcome": 6
+  },
+  {
+   "t": "mcq",
+   "p": "You lift a bucket of water out of the well with your hands. Which kind of force is your lift?",
+   "opts": [
+    "A muscular force",
+    "Gravity",
+    "A magnetic force"
+   ],
+   "a": 0,
+   "why": "Your muscles give a muscular force when you lift. Gravity pulls the bucket down, and a magnet gives a magnetic force, which is not what lifts the bucket.",
+   "outcome": 0
   }
  ],
  "applications": [

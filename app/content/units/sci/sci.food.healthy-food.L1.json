@@ -55,7 +55,8 @@
    "examples": [
     "A plate of rice, sambar, a vegetable and curd gives many kinds of food at once.",
     "A scraped knee heals in about a week, and your body uses food to build the new skin.",
-    "Kamala Sohonie, a scientist from India, found vitamins in neera, the sweet sap of palm trees. She said it could be a cheap, healthy drink for children who did not get enough food."
+    "Kamala Sohonie, a scientist from India, found vitamins in neera, the sweet sap of palm trees. She said it could be a cheap, healthy drink for children who did not get enough food.",
+    "A child in Kerala may eat rice and fish curry, and a child in Punjab may eat roti and dal. Both meals can keep them healthy."
    ],
    "perspectives": [],
    "context": "This card says why we need food and drink.",
@@ -1455,6 +1456,13 @@
      ],
      "a": 0,
      "why": "Plain water has no sugar. Rose milk has sugar stirred in, and most packet juices have sugar added or are naturally very sweet."
+    },
+    {
+     "t": "write",
+     "p": "Say it out loud, and a grown-up writes it: name one food your family eats that a friend's family may not eat, and say what it gives your body.",
+     "lines": 2,
+     "a": "For example: my family eats ragi mudde with drumstick sambar, and my friend's family eats idli. Ragi gives my body energy and calcium.",
+     "why": "A strong answer names a real food and says what it gives the body. Foods differ between families, and many of them can keep us healthy."
     }
    ]
   }
@@ -1597,6 +1605,18 @@
    "a": 1,
    "why": "Thirst is your body asking for water. A biscuit has almost no water in it.",
    "outcome": 1
+  },
+  {
+   "t": "mcq",
+   "p": "Two children live in different places. One eats rice and fish curry. The other eats roti and dal. What is true?",
+   "opts": [
+    "Only the child who eats rice is healthy",
+    "Both can be healthy, because each meal can give many kinds of food",
+    "Healthy food is the same in every family"
+   ],
+   "a": 1,
+   "why": "Families in different places eat different foods, and a healthy meal can look very different. What matters is that the food gives many kinds of food.",
+   "outcome": 0
   }
  ],
  "applications": [

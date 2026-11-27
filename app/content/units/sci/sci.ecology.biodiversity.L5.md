@@ -112,7 +112,7 @@ A step is picked from measurements. It does not depend on how much people like a
 ### Protected areas: size, shape and joins · *defined*
 **Definition:** A protected area is land or water where the law protects wild plants and animals. India has national parks, wildlife sanctuaries, tiger reserves and biosphere reserves.
 
-India's main wildlife law is the Wild Life (Protection) Act of 1972. India now has more than 100 national parks and more than 550 wildlife sanctuaries. Together, protected areas cover about 5 in every 100 parts of India's land. Their size and shape matter. A small patch loses rare species, as the Shrinking Forest Test shows. A small patch is also mostly edge. In the Bread Forest test, the 16 small squares dried right through while the whole slice stayed soft in the middle. A forest edge is hotter, drier and windier than the middle, and some species cannot live there. So one large area usually keeps more forest species than many small ones. Where a large area is not possible, a corridor of trees can join two smaller ones. Then animals can move between them, and a group that dies out in one can be replaced from the other.
+India's main wildlife law is the Wild Life (Protection) Act of 1972. India now has more than 100 national parks and more than 550 wildlife sanctuaries. Together, protected areas cover about 5 in every 100 parts of India's land. Their size and shape matter. A small patch loses rare species, as the Shrinking Forest Test shows. A small patch is also mostly edge. In the Bread Forest test, the 16 small squares dried right through while the whole slice stayed soft in the middle. A forest edge is hotter, drier and windier than the middle, and some species cannot live there. So one large area usually keeps more forest species than many small ones. Where a large area is not possible, a corridor of trees can join two smaller ones. Then animals can move between them, and a group that dies out in one can be replaced from the other. Forest laws also control felling. In many places a big tree cannot be cut without permission. When forest land is cut for a road or a mine, the rules ask for new saplings to be planted in its place. The Wild Life (Protection) Act of 1972 bans hunting of protected animals and selling their skins. Shoppers can also refuse goods made from animal skin, such as shawls and belts. A national park is the strictest kind of protected area. A sanctuary keeps wild animals safe from hunting and harm, and some people may still use its land in limited ways.
 - e.g. A tiger reserve has a core, where nobody lives, and a buffer around the core, where people and wildlife share the land.
 - e.g. On the highway through the Pench forest in central India, long bridges let tigers and deer walk underneath the traffic.
 - e.g. A sacred grove is a small protected area kept by a village, sometimes for hundreds of years.
@@ -707,7 +707,7 @@ Rudi listened until it stopped.
    **Answer:** Their beings are cut off from others of their kind. *Why:* A group cut off for a very long time changes in its own way and can become a new species. Birds on a far island cannot easily fly back and mix with the others.
 15. (write) A house crow and a Narcondam hornbill each lose half of their forest. Who is in more danger, and why?  
    **Answer:** The hornbill is in more danger. All hornbills of her species live on one island, so half the forest may be half of her whole home. The crow lives in many places, so crows elsewhere are not touched.. *Why:* A strong answer says that the hornbill has nowhere else to live, and that one island is one place for a storm or a disease to reach.
-### Extinction, Chance and Small Numbers (stretch) (stretch, 15 questions)
+### Extinction, Chance and Small Numbers (stretch) (stretch, 16 questions)
 1. (mcq) Which is the biggest cause of species loss today?  
    Options: Habitat loss / Hunting for sport / Volcanoes / Meteors  
    **Answer:** Habitat loss. *Why:* Scientists record the threats to each species on the Red List. Loss of habitat to farms, logging and building is listed for more species than any other threat.
@@ -731,19 +731,21 @@ Rudi listened until it stopped.
 10. (mcq) Why can a small patch of forest lose species even when nobody cuts or hunts inside it?  
    Options: Hot, dry wind from the open land reaches in / Animals dislike signboards / Rain falls less on small patches  
    **Answer:** Hot, dry wind from the open land reaches in. *Why:* The edge of a forest is hotter, drier and windier than the middle. In a small patch, most of the forest is edge. Species who need damp shade can no longer live there.
-11. (order) Put these in order, from the first event to the last.  
+11. (fill) When forest land is cut for a road, the rules ask for new ____ to be planted to make up for the trees that were cut.  
+   **Answer:** ['saplings']. *Why:* Saplings are young trees. The rules ask for them to be planted in place of the trees that were lost.
+12. (order) Put these in order, from the first event to the last.  
    **Answer:** ['A forest is cut into small patches', 'Each patch holds only a few animals', 'A disease reaches the few in one patch', 'The last members die']. *Why:* Cutting makes patches. Small patches hold small groups. A small group can be ended by one bad event. When the last member dies, the species is gone from that patch.
-12. (write) Explain in three sentences why scientists want a rare species to live in more than one place.  
+13. (write) Explain in three sentences why scientists want a rare species to live in more than one place.  
    **Answer:** If a species lives in only one place, one fire, disease or flood can reach all of her. In two or more places, some are likely to be spared. A group that is lost in one place can also be replaced from another.. *Why:* A strong answer says that one event can reach one place, and it says that a second place is a spare. It can use the Coin Years Test, where two islands with a corridor lost the birds less often.
-13. (mcq) India counted 1,411 tigers in 2006 and 3,682 in 2022. About how many times as many is that?  
+14. (mcq) India counted 1,411 tigers in 2006 and 3,682 in 2022. About how many times as many is that?  
    Options: About 1.5 times / About 2.6 times / About 5 times  
    **Answer:** About 2.6 times. *Why:* Divide 3,682 by 1,411. That is a little more than 2.6, so the number rose by about 2.6 times in 16 years. Protection can work.
-14. (odd) Three of these help a species in danger. Which one is the odd one out?  
+15. (odd) Three of these help a species in danger. Which one is the odd one out?  
    Options: Joining two forests with a corridor / Making a protected area larger / Cutting a forest into 16 pieces / Counting the animals every few years  
    **Answer:** 2. *Why:* Cutting a forest into small pieces makes more edge and smaller groups, and that is a cause of species loss. The other three protect species.
-15. (truefalse) True or false: a species who is extinct in one country is extinct everywhere.  
+16. (truefalse) True or false: a species who is extinct in one country is extinct everywhere.  
    **Answer:** False. *Why:* False. A species who is gone from one country but alive elsewhere is locally extinct. Cheetahs became extinct in India in 1952, and they still live in Africa and Iran.
-### Protecting Places: Hard Questions (challenge) (challenge, 15 questions)
+### Protecting Places: Hard Questions (challenge) (challenge, 16 questions)
 1. (write) About half the species are lost when 90 in every 100 parts of a habitat go. Why are so many left?  
    **Answer:** Common species live in many parts of the habitat, so the 10 parts that are left still hold some of them. Only the rare species with few members and a small range are likely to lose every part where they lived.. *Why:* A strong answer says that species are spread unevenly. The first to go are the ones with a small range. It can use the Shrinking Forest Test, where the sixteenth of the sheet still had about 3 of the 10 kinds.
 2. (perspective) A forest is made a protected area, and a village already lives inside it. Three people disagree about what should happen.  
@@ -773,10 +775,12 @@ Rudi listened until it stopped.
    **Answer:** It depends on what we mean. The animals are alive, but the species no longer hunts, migrates or teaches her young in the wild, so a part of her way of living is gone. A zoo group can still be a second home, and some species have been returned to the wild.. *Why:* There is no single right answer. A strong answer says what a species does in the wild, such as finding food and teaching the young, and admits that a zoo group may still keep the species alive.
 13. (truefalse) True or false: extinction is natural, so there is no need to try to stop it.  
    **Answer:** False. *Why:* False, though part of it is true. Extinction has always happened, and most species who ever lived are gone. But species are now dying out far faster than new ones form, and people cause most of the loss.
-14. (odd) Three of these are risks for a small group. Which one is the odd one out?  
+14. (write) Name two ways that protect wild animals in India, and say what each one does.  
+   **Answer:** A strong answer names the Wild Life (Protection) Act of 1972, which bans hunting protected animals and selling their skins, and a sanctuary or national park, where wild animals are kept safe from hunting and harm.. *Why:* A strong answer names one law and one protected place, and says what each does for the animals.
+15. (odd) Three of these are risks for a small group. Which one is the odd one out?  
    Options: One disease can reach every member / A few bad years can leave too few young / Close relatives must mate with each other / There is more food for each member  
    **Answer:** 3. *Why:* More food for each member helps a small group. The other three are real risks for small groups.
-15. (draw) Draw two forests, a road and a river between them. Show where an underpass or a bridge lets animals cross.  
+16. (draw) Draw two forests, a road and a river between them. Show where an underpass or a bridge lets animals cross.  
    **Answer:** A drawing with two forests joined by a strip of trees. Where the strip meets the road, there is a tunnel or a bridge for animals, and the same where it meets the river.. *Why:* A strong drawing puts the crossing exactly where the strip of trees meets the road or the river, and shows trees on both sides so that animals can find it.
 
 ## Videos
@@ -819,6 +823,12 @@ Rudi listened until it stopped.
    **Answer:** Women of Assam guarding nests of hargila storks. *Why:* The Hargila Army, a group of women led by the biologist Purnima Devi Barman, protects nesting storks. Many forests are alive today because ordinary people protected them.
 12. (truefalse) True or false: scientists know exactly how many species have died out in the last 50 years.  
    **Answer:** False. *Why:* False. Most species have never been named or counted, so nobody can count exactly. Scientists build estimates from the groups they have studied.
+13. (mcq) In many places, what must a person get before cutting down a big tree?  
+   Options: A permit from the forest or local office / A promise from the neighbours / Nothing, if the tree is old / A ticket from the market  
+   **Answer:** A permit from the forest or local office. *Why:* In many places a big tree cannot be cut without permission. A promise from neighbours, the age of a tree, or a market ticket does not allow the cutting.
+14. (mcq) A hunter kills a protected tiger and sells the skin. What does the law say?  
+   Options: It is banned under the Wild Life (Protection) Act, 1972 / It is allowed if the hunter has a village permit / It is allowed, because the skin is sold in shops / It is allowed only outside sanctuaries  
+   **Answer:** It is banned under the Wild Life (Protection) Act, 1972. *Why:* The Wild Life (Protection) Act of 1972 bans hunting protected animals and selling their skins. A village permit, a shop, or a place outside a sanctuary does not make it legal.
 
 ## Applications
 - Forest teams in India count tigers every four years with hidden cameras. The counts show whether protection is working.

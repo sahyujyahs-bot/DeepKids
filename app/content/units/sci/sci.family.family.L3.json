@@ -103,7 +103,7 @@
    "status": "defined",
    "context": "This card is about how the people in a family are connected, and the words we use for them.",
    "definition": "A relation is the way two people in a family are connected, such as 'my mother's brother'. A relation word is the name we call them, such as Mama.",
-   "description": "Each person has two parents, four grandparents and eight great-grandparents. Your relatives come through your mother's side and your father's side. Many Indian languages have a separate word for each relation. In Tamil, Mama is your mother's brother, Chithappa is your father's younger brother and Periyappa is your father's elder brother. Hindi has Mama, Chacha and Tau. English calls all of them uncle. The words tell you exactly how a person is related. Children also get about half of their genes from their mother and half from their father. Genes are the instructions inside every cell of a body.",
+   "description": "Each person has two parents, four grandparents and eight great-grandparents. Your relatives come through your mother's side and your father's side. Many Indian languages have a separate word for each relation. In Tamil, Mama is your mother's brother, Chithappa is your father's younger brother and Periyappa is your father's elder brother. Hindi has Mama, Chacha and Tau. English calls all of them uncle. The words tell you exactly how a person is related. Using the right word is also a way to show respect. It tells everyone where each elder fits in the family. Children also get about half of their genes from their mother and half from their father. Genes are the instructions inside every cell of a body.",
    "examples": [
     "Tamil: Paati and Thatha are grandmother and grandfather. Athai is your father's sister.",
     "Kannada: Ajji is grandmother.",
@@ -156,7 +156,7 @@
    "status": "defined",
    "context": "This card is about how girls and women have been treated in India, and what has changed.",
    "definition": "Discrimination against girls and women means treating them unfairly because they are female, for example by giving them less schooling, food, money or say.",
-   "description": "For a long time, many Indian families sent sons to school and kept daughters at home to work. In 1848 in Pune, Savitribai Phule and Jyotirao Phule opened a school for girls. People threw mud and stones at Savitribai on her way to school, and she carried a spare sari to change into. In 1950, India's Constitution gave women and men equal rights. Many things have changed, but not all. In the 2011 Census, about 82 in every 100 men could read and write, but only about 65 in every 100 women. Women still do most of the unpaid work at home.",
+   "description": "For a long time, many Indian families sent sons to school and kept daughters at home to work. In 1848 in Pune, Savitribai Phule and Jyotirao Phule opened a school for girls. People threw mud and stones at Savitribai on her way to school, and she carried a spare sari to change into. In 1950, India's Constitution gave women and men equal rights. Many things have changed, but not all. In the 2011 Census, about 82 in every 100 men could read and write, but only about 65 in every 100 women. Women still do most of the unpaid work at home. Many women also work outside the home, as teachers, nurses, farmers and factory workers. Many still get less pay and fewer chances than men.",
    "examples": [
     "Savitribai Phule, who opened a girls' school in Pune in 1848 and wrote poems.",
     "In Kerala, more than 90 in every 100 women could read and write in the 2011 Census.",
@@ -1546,6 +1546,30 @@
    "why": "The father holds the egg on his feet under a fold of skin for about two months. The mother is at sea, feeding. Choosing 'the mother' is the usual guess, because in many animals she does it.",
    "outcome": 6,
    "how": "g1"
+  },
+  {
+   "t": "mcq",
+   "p": "A child in Chennai calls her grandmother Paati, not by her first name. What does that word show?",
+   "opts": [
+    "Respect for the elder and her place in the family",
+    "That the grandmother is a stranger",
+    "That the child is angry"
+   ],
+   "a": 0,
+   "why": "The relation word shows who the elder is to the child. Using it is a polite way to speak to an elder.",
+   "outcome": 4
+  },
+  {
+   "t": "mcq",
+   "p": "A woman is a nurse at a hospital and is paid every month. Which kind of work is this?",
+   "opts": [
+    "Paid work outside the home",
+    "Unpaid home work",
+    "Not really work at all"
+   ],
+   "a": 0,
+   "why": "Nursing at a hospital is paid work outside the home. Cooking and cleaning for your own family are unpaid home work, and they are real work too.",
+   "outcome": 3
   }
  ],
  "worksheets": [
@@ -1753,6 +1777,13 @@
       "care"
      ],
      "why": "Care work is looking after people who need help."
+    },
+    {
+     "t": "write",
+     "p": "Name one elder at home and the word you use to call them. Then write one way you show that elder respect.",
+     "lines": 3,
+     "a": "For example: Ajji, and I wait for her to finish before I speak, and I bring her water when she asks. A strong answer names the relation word and a real action.",
+     "why": "The relation word shows the elder's place in the family. Respect shows in what you say and do, every day."
     }
    ]
   },
@@ -1837,6 +1868,13 @@
      "lines": 4,
      "a": "For example: many schools close to home, families who wanted their daughters to study, and women who were teachers.",
      "why": "A strong answer gives reasons a child can think through, such as schools nearby and families choosing to send girls. Scientists still study exactly why."
+    },
+    {
+     "t": "write",
+     "p": "Name one kind of paid work that women in India do outside the home. Then name one unpaid job that women in your home do.",
+     "lines": 3,
+     "a": "For example: a teacher, a nurse or a farm worker, and cooking or cleaning for the family. A strong answer names two different kinds of work.",
+     "why": "Paid work outside the home is one kind of work. Unpaid home work is another kind, and it is still work."
     },
     {
      "t": "sort",

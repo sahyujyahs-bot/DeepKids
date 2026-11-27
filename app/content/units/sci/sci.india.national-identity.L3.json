@@ -70,6 +70,12 @@
    "art": "A tiger's pugmark in mud: four round toe marks in an arc above one big three-lobed pad."
   },
   {
+   "term": "Hoof",
+   "meaning": "The hard covering on the foot of an animal such as a deer, a gaur, a cow or a goat. Many hoofs are split in two halves, so their prints look split.",
+   "example": "A deer that comes to drink at a pond leaves two small pointed halves in the mud with each step.",
+   "art": "A deer's split hoof print pressed into wet mud beside a pond, with a ruler next to it."
+  },
+  {
    "term": "Camera trap",
    "meaning": "A camera trap is a camera fixed to a tree or a post in a forest. Whenever an animal walks past, the camera takes a photo by itself.",
    "example": "A camera trap on a forest path in Nagarahole photographed a tigress at night.",
@@ -113,11 +119,12 @@
    "concept": "The national flag",
    "status": "defined",
    "definition": "India's flag has three equal bands: saffron on top, white in the middle and green at the bottom. In the middle of the white band is a navy-blue wheel with 24 spokes, the Ashoka Chakra. The flag's length and height are always in the ratio 3 to 2.",
-   "description": "Saffron stands for courage and giving things up for others. White stands for peace and truth. Green stands for the land, growth and plenty. The wheel says that the country must keep moving forward. A ratio of 3 to 2 means that for every 3 parts of length there are 2 parts of height. So a flag 3 metres long is 2 metres high. The flag grew from a design by Pingali Venkayya, a teacher from Andhra Pradesh. In 1921, at Vijayawada, he showed Mahatma Gandhi a flag of red and green. White and a spinning wheel were then added. In 1931 the Congress chose a saffron, white and green flag with a spinning wheel. On 22 July 1947, the Ashoka Chakra took the spinning wheel's place, and the flag became the one we fly today. Many accounts say the artist Surayya Tyabji suggested the wheel, with her husband Badruddin Tyabji, but others credit Jawaharlal Nehru, so her part is debated. Official flags have long been made of khadi, cloth spun and woven by hand. Today the main maker of khadi national flags is a khadi centre in Hubballi, Karnataka. The rules now also allow flags of polyester and of cloth made by machines.",
+   "description": "Saffron stands for courage and giving things up for others. White stands for peace and truth. Green stands for the land, growth and plenty. The wheel says that the country must keep moving forward. A ratio of 3 to 2 means that for every 3 parts of length there are 2 parts of height. So a flag 3 metres long is 2 metres high. The flag grew from a design by Pingali Venkayya, a teacher from Andhra Pradesh. In 1921, at Vijayawada, he showed Mahatma Gandhi a flag of red and green. White and a spinning wheel were then added. In 1931 the Congress chose a saffron, white and green flag with a spinning wheel. On 22 July 1947, the Ashoka Chakra took the spinning wheel's place, and the flag became the one we fly today. Many accounts say the artist Surayya Tyabji suggested the wheel, with her husband Badruddin Tyabji, but others credit Jawaharlal Nehru, so her part is debated. Official flags have long been made of khadi, cloth spun and woven by hand. Today the main maker of khadi national flags is a khadi centre in Hubballi, Karnataka. The rules now also allow flags of polyester and of cloth made by machines. Books word these meanings in different ways. Some say green stands for faith, and the wheel for progress. The Flag Code also says the flag must be kept clean and never flown torn. It is not made into clothes, or printed on cushions or handkerchiefs, and nothing is put on it or above it.",
    "examples": [
     "A paper flag 30 cm long must be 20 cm high.",
     "Saffron is always on top. A flag flown with green on top is upside down.",
-    "On a day of national mourning, the flag is flown halfway down the pole. This is called half mast."
+    "On a day of national mourning, the flag is flown halfway down the pole. This is called half mast.",
+    "A shop that prints the flag on cushions, handkerchiefs or clothes breaks the Flag Code. Nothing is put on the flag or above it, and no writing is put on it."
    ],
    "perspectives": [],
    "art": "India's flag with arrows pointing to each band and the wheel, and the numbers 3 along the length and 2 along the height.",
@@ -169,7 +176,7 @@
    "concept": "The tiger, the peacock and the lotus in their own lives",
    "status": "defined",
    "definition": "The tiger is India's national animal, the peacock is the national bird and the lotus is the national flower. Each one's body helps them with a problem in their own life.",
-   "description": "A tiger has to catch food to live. Tigers cannot run fast for long, so they must creep very close to a deer before they leap. Their stripes break up their shape among tall grass and shadows. Deer see colours differently from us. To a deer, a tiger's orange looks much like green. So the deer does not see the tiger until too late. A male peacock has to be chosen by a peahen. Peahens choose which male they mate with. In the rainy season, males spread their long trains and shake them to show themselves. The shining blue and green of the feathers is not paint. It comes from tiny ridges in the feathers that send back light in different ways. Lotus plants grow in muddy ponds. Their leaves are covered in tiny waxy bumps, so water rolls off in balls and carries the dust away. A clean leaf can catch more sunlight. The tiger became the national animal in 1973, when Project Tiger began. Before that, the national animal was the lion. The peacock became the national bird in 1963.",
+   "description": "A tiger has to catch food to live. Tigers cannot run fast for long, so they must creep very close to a deer before they leap. Their stripes break up their shape among tall grass and shadows. Deer see colours differently from us. To a deer, a tiger's orange looks much like green. So the deer does not see the tiger until too late. A male peacock has to be chosen by a peahen. Peahens choose which male they mate with. In the rainy season, males spread their long trains and shake them to show themselves. The shining blue and green of the feathers is not paint. It comes from tiny ridges in the feathers that send back light in different ways. Lotus plants grow in muddy ponds. Their leaves are covered in tiny waxy bumps, so water rolls off in balls and carries the dust away. A clean leaf can catch more sunlight. The tiger became the national animal in 1973, when Project Tiger began. Before that, the national animal was the lion. The peacock became the national bird in 1963. The tiger stands for strength and courage. The lotus stays clean and bright even though it grows in mud, so many people use it as a sign of staying pure in hard places. India's Wildlife (Protection) Act of 1972 makes it a crime to kill a tiger or a peacock.",
    "examples": [
     "Hold a peacock feather and tilt it. The 'eye' changes colour as you turn it.",
     "A tiger photographed in tall dry grass is hard to spot, even for people.",
@@ -1222,6 +1229,63 @@
      "caption": "2. Look at the stars. Why every direction?"
     }
    ]
+  },
+  {
+   "id": "a5",
+   "title": "Who Came to the Pond? Reading tracks",
+   "mins": 30,
+   "days": 1,
+   "materials": [
+    {
+     "item": "damp atta or wet sand in a tray, from the Paw Print Test",
+     "qty": 1
+    },
+    {
+     "item": "a pencil and paper",
+     "qty": 1
+    },
+    {
+     "item": "a ruler",
+     "qty": 1
+    }
+   ],
+   "schedule": [
+    {
+     "day": 1,
+     "mins": 30,
+     "what": "Make tracks in damp atta and guess the animal. Then draw one print."
+    }
+   ],
+   "record": "A drawing of one footprint, with a label for the animal and how you knew.",
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 15,
+     "do": "1. Smooth the damp atta in the tray, like pond mud. 2. A grown-up makes three tracks and hides them under a cloth. 3. For a gaur, press two big fingertips side by side, hard. 4. For a deer, press two small fingertips side by side. 5. For a rabbit, press four small dots, with two long thumb marks behind. 6. Lift the cloth. Your child guesses each track.",
+     "say": "Animals came to drink at the pond in the night. Look at the mud. Which animal came? How can you tell?",
+     "kid": "Look at each print. Is it big or small? Is it split in two, or does it have toes? Guess who came.",
+     "parent": "A gaur, a deer and a rabbit are all found in India. The gaur is the largest wild cattle of India. Gaur and deer have hoofs, so their prints are split in two halves, and the gaur's is much bigger. A rabbit has toes, and its back feet leave longer prints than its front ones. A print shows the kind of animal. As in the Paw Print Test, it cannot show the single animal that came."
+    },
+    {
+     "id": "s2",
+     "mins": 15,
+     "do": "1. Take turns making a track for the other to guess. 2. Each person draws one print and labels it. 3. Look for tracks at a real pond, garden or park after rain, and photograph them with a ruler beside.",
+     "say": "Make a track and let me guess. Then draw one print, and tell me how you would know that animal.",
+     "kid": "Make a track for your grown-up. Draw one print and write what animal it is.",
+     "parent": "If you cannot find real tracks, the made ones are enough. Do not get close to a wild animal or a deep pond. A grown-up stays with the child near any water."
+    }
+   ],
+   "context": "A track-reading activity: you guess which animal came to a pond from a print in the mud.",
+   "setup": [
+    {
+     "art": "A tray of damp atta with three different prints, a cloth being lifted from it.",
+     "caption": "1. Guess the animal from each print."
+    },
+    {
+     "art": "A child drawing a split hoof print in a notebook, next to a ruler.",
+     "caption": "2. Draw one print and say how you knew."
+    }
+   ]
   }
  ],
  "projects": [
@@ -1447,6 +1511,30 @@
   },
   {
    "t": "mcq",
+   "p": "Books explain the green band in different ways: 'the land and plenty' or 'faith'. What does this show?",
+   "opts": [
+    "People explain what the colours mean in more than one way, so check the source",
+    "One of the books is always wrong",
+    "The flag changes its colours each year"
+   ],
+   "a": 0,
+   "why": "The flag's design is fixed, but the meaning of each colour is worded in different ways in different books. Neither book needs to be wrong. When books differ, look at where each one got its words.",
+   "outcome": 0
+  },
+  {
+   "t": "mcq",
+   "p": "A shop wants to print India's flag on cushions to sell. What does the Flag Code say?",
+   "opts": [
+    "It is not allowed, because the flag is not made into cushions, clothes or handkerchiefs",
+    "It is allowed if the colours are exact",
+    "It is allowed on 15 August only"
+   ],
+   "a": 0,
+   "why": "The flag is for flying and showing, not for wearing or sitting on. Nothing is put on it or above it, and no writing is put on it. Exact colours and special days do not change this.",
+   "outcome": 0
+  },
+  {
+   "t": "mcq",
    "p": "Which is India's national bird?",
    "opts": [
     "The crow",
@@ -1469,6 +1557,30 @@
    ],
    "a": 1,
    "why": "A tiger must get very close before leaping. Stripes break up their shape in tall grass, so the deer doesn't see them coming.",
+   "outcome": 1
+  },
+  {
+   "t": "mcq",
+   "p": "What does the law say about killing a peacock or a tiger?",
+   "opts": [
+    "It is a crime, and the law punishes it",
+    "It is allowed with a permit from the school",
+    "It is allowed on festival days"
+   ],
+   "a": 0,
+   "why": "Both the peacock and the tiger are protected by India's Wildlife (Protection) Act, 1972. Killing them is a crime. The tiger also stands for strength and courage, and the peacock for the beauty of India's birds.",
+   "outcome": 1
+  },
+  {
+   "t": "mcq",
+   "p": "Why is the lotus a symbol of staying pure, even in hard places?",
+   "opts": [
+    "It grows in mud but its leaves and flower stay clean and bright",
+    "It grows only in clean water",
+    "It floats on the water and never touches mud"
+   ],
+   "a": 0,
+   "why": "A lotus grows in muddy ponds with its roots in the mud. Its leaves shed mud and water, so it stays clean. It does not grow in clean water, and its roots are in the mud.",
    "outcome": 1
   },
   {
@@ -1524,6 +1636,19 @@
    "why": "Dry atta doesn't hold its shape, so the edges crumble in and the print looks blurred. Dry dust does the same to a tiger's pugmark.",
    "outcome": 3,
    "how": "e1"
+  },
+  {
+   "t": "mcq",
+   "p": "In the mud by a pond you find two large, split hoof prints, far bigger than a chital's. Which animal most likely left them?",
+   "opts": [
+    "A gaur, the Indian bison",
+    "A rabbit",
+    "A crow"
+   ],
+   "a": 0,
+   "why": "Hoof prints that are split in two belong to hoofed animals such as deer, cattle and the gaur. A rabbit leaves small paw marks with toes, and a crow leaves thin three-toed marks. A print shows the kind of animal, but not the single animal that came.",
+   "outcome": 3,
+   "how": "a5"
   },
   {
    "t": "mcq",
@@ -1786,6 +1911,35 @@
      "a": "A strong answer uses the Paw Print Test: one fist left prints of different widths, so prints alone can't count tigers. It also says what the second friend has right: a print still shows that a tiger walked there, which way and how recently. Trackers use pugmarks for that today.",
      "why": "Both have a point. Pugmarks are poor for telling tigers apart, and good for knowing where they go.",
      "how": "e1"
+    },
+    {
+     "t": "match",
+     "p": "Match each track in pond mud to the gaur, the deer or the rabbit who came to drink.",
+     "pairs": [
+      [
+       "a large hoof print in two halves",
+       "Gaur"
+      ],
+      [
+       "a smaller, pointed hoof print in two halves",
+       "Deer"
+      ],
+      [
+       "small paw marks with toes, two of them long",
+       "Rabbit"
+      ]
+     ],
+     "a": "pairs as given",
+     "why": "A gaur and a deer both walk on hoofs, so their prints are split in two. The gaur's print is bigger. A rabbit has toes and paws, and its back feet leave the longer marks.",
+     "how": "a5"
+    },
+    {
+     "t": "fill",
+     "p": "A lotus grows in muddy water but stays clean and bright. So people use it to stand for staying ____ in hard places.",
+     "a": [
+      "pure"
+     ],
+     "why": "A lotus leaf is covered in tiny waxy bumps, so mud and water roll off. That is why the flower has become a symbol of staying pure, even in hard places."
     }
    ]
   },
@@ -1971,6 +2125,55 @@
      "a": "Four small round marks in a curve at the front, and one big pad with three bumps at the back.",
      "why": "A pugmark shows four toes, not five, because the fifth toe on the front paw is higher up and does not touch the ground.",
      "art": "An outline of a tiger pugmark with label lines."
+    },
+    {
+     "t": "draw",
+     "p": "A deer came to drink at a pond and left prints in the mud. Draw one print, with its two halves, and next to it draw the print of a rabbit. Write which is bigger.",
+     "a": "A deer's print is a small, pointed, split hoof. A rabbit's print is a group of small toe marks, with two longer prints behind. The deer's print is bigger.",
+     "why": "A deer walks on the tips of two toes covered by hard hoofs, so each print is split in two. A rabbit has paws with toes, and its back feet leave longer prints."
+    },
+    {
+     "t": "write",
+     "p": "The tiger and the peacock are both national symbols, and the law says killing either one is a crime. Why might a country protect its symbols in this way?",
+     "lines": 3,
+     "a": "A symbol stands for the whole country, so harming it would be like harming something that belongs to everyone. There are also few tigers, and the law helps them stay alive.",
+     "why": "A strong answer gives a reason from the symbol's meaning, or from the animal's need to stay safe. Both reasons are good."
+    },
+    {
+     "t": "sort",
+     "p": "A school is planning a flag display. Is each idea right or wrong under the Flag Code?",
+     "cats": [
+      "Right",
+      "Wrong"
+     ],
+     "items": [
+      [
+       "Print the flag on cushions to sell at the fair",
+       "Wrong"
+      ],
+      [
+       "Put nothing on the flag and nothing above it",
+       "Right"
+      ],
+      [
+       "Write the school's name across the white band",
+       "Wrong"
+      ],
+      [
+       "Raise a clean flag with saffron on top",
+       "Right"
+      ],
+      [
+       "Sew the flag into a T-shirt for the team",
+       "Wrong"
+      ],
+      [
+       "Fly a damaged flag, because it is the only one",
+       "Wrong"
+      ]
+     ],
+     "a": "see items",
+     "why": "The flag is kept for flying, not worn, printed on cushions or written on. Nothing is put on it or above it. A damaged flag is replaced, because the flag stands for the whole country."
     }
    ]
   },
@@ -2166,6 +2369,13 @@
      "a": "Lions on top, a wheel and a horse on the round base, and Satyamev Jayate written below.",
      "why": "A strong answer names the wheel, which is the same 24-spoke wheel as on the flag.",
      "art": "An outline of the Lion Capital emblem with four label lines."
+    },
+    {
+     "t": "write",
+     "p": "One book says green on the flag stands for faith. Another says it stands for the land and plenty. Write what you could do to find out which one is right.",
+     "lines": 3,
+     "a": "I could look for what the government or the Flag Code says. I could ask a teacher and look in two or three more books. If they still differ, I can say that people explain the colours in different ways.",
+     "why": "A strong answer looks for an official or first-hand source, and admits that the meanings of the colours are explained in more than one way."
     }
    ]
   }
@@ -2514,6 +2724,7 @@
    "p1",
    "ws-stretch",
    "c1",
+   "a5",
    "big_questions",
    "ws-challenge",
    "open_questions",

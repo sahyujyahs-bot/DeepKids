@@ -88,7 +88,9 @@
    "examples": [
     "A dosa is made from rice and urad dal. Both are seeds.",
     "Coconut is the fruit of the coconut palm.",
-    "In the 1940s, Kamala Sohonie, the first Indian woman to earn a PhD in science, studied neera. Neera is the sweet sap of palm trees."
+    "In the 1940s, Kamala Sohonie, the first Indian woman to earn a PhD in science, studied neera. Neera is the sweet sap of palm trees.",
+    "A raw carrot and a carrot poriyal both come from a plant. Cooking changes how the food tastes, but not where it came from.",
+    "At Pongal, a harvest festival in Tamil Nadu, families make sweet pongal from rice, moong dal and jaggery. The rice, dal and jaggery come from plants. The milk comes from a cow."
    ],
    "perspectives": [],
    "context": "This card is about the parts of plants that we eat.",
@@ -1500,6 +1502,13 @@
      "a": "Any two true examples, such as a dosa and a glass of milk.",
      "why": "A strong drawing names both foods and can say who made each one.",
      "art": "An empty box split into two halves, one with a small leaf at the top and one with a small cow."
+    },
+    {
+     "t": "write",
+     "p": "Say it out loud, and a grown-up writes it: a carrot can be eaten raw or cooked. Why does cooking not change which group the carrot is in?",
+     "lines": 2,
+     "a": "Cooking changes how the carrot tastes and feels. It does not change the plant the carrot came from.",
+     "why": "A strong answer says that cooking changes the food but not where it came from."
     }
    ]
   },
@@ -1784,6 +1793,18 @@
    "why": "Scientists guess first and give a reason. Then the test shows if the guess was right.",
    "how": "e1",
    "outcome": 4
+  },
+  {
+   "t": "mcq",
+   "p": "Sweet pongal is a festival food made from rice, moong dal, jaggery and milk. Which part comes from an animal?",
+   "opts": [
+    "The rice",
+    "The jaggery",
+    "The milk"
+   ],
+   "a": 2,
+   "why": "Rice, moong dal and jaggery all come from plants. Milk comes from a cow, so it is food from an animal.",
+   "outcome": 0
   }
  ],
  "applications": [

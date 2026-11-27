@@ -223,7 +223,7 @@
    "concept": "Why people cook",
    "status": "defined",
    "definition": "Cooking is heating food so that it changes for good. It makes food softer, safer and easier to digest.",
-   "description": "Cooking is the oldest chemistry that people do. It does three useful things, and all three are irreversible. It softens food. Swollen starch and loosened fibres are easier to chew. It makes food safer. The heat denatures the proteins of most harmful microbes, and these microbes die. Raw rajma holds a protein that makes people ill, and about half an hour of hard boiling changes that protein for good. It also lets the body take in more of the food. In one careful study, people's bodies took in about 91 parts in 100 of the protein from cooked egg. From raw egg they took in only about 51 parts in 100. Cooking has a cost too. Heat destroys part of the vitamin C in vegetables, which is one reason to eat some fruit and salad raw. Cooks use reversible changes as well. They melt ghee, dissolve salt and boil off water.",
+   "description": "Cooking is the oldest chemistry that people do. It does three useful things, and all three are irreversible. It softens food. Swollen starch and loosened fibres are easier to chew. It makes food safer. The heat denatures the proteins of most harmful microbes, and these microbes die. Raw rajma holds a protein that makes people ill, and about half an hour of hard boiling changes that protein for good. It also lets the body take in more of the food. In one careful study, people's bodies took in about 91 parts in 100 of the protein from cooked egg. From raw egg they took in only about 51 parts in 100. Cooking has a cost too. Heat destroys part of the vitamin C in vegetables, which is one reason to eat some fruit and salad raw. Cooks use reversible changes as well. They melt ghee, dissolve salt and boil off water. People cook in many ways: steaming, boiling, frying, roasting, grilling and baking. Some food, such as a cucumber salad, is eaten raw, with no cooking at all.",
    "examples": [
     "Raw rice is too hard to chew, and cooked rice is soft.",
     "Milk is boiled in most Indian homes to kill microbes before it is drunk.",
@@ -236,7 +236,7 @@
    "concept": "Both kinds of change in living bodies, on the Earth and in the stars",
    "status": "defined",
    "definition": "Reversible changes let the same substance be used again and again. Irreversible changes happen once.",
-   "description": "Your blood carries oxygen by a reversible change. A protein in red blood cells holds oxygen in the lungs and lets it go in the muscles. Each red blood cell makes this round trip about once a minute. Growing is different. A sprouted seed cannot go back to being a seed, and your body will not be a baby's body again. The Earth also runs on both kinds. The same water has been cloud, rain, river and sea many times, because evaporating and condensing leave water unchanged. Rock melts deep underground and sets again as new rock. People copy these cycles. Glass, steel and aluminium can be melted and shaped again and again, which is why they are worth collecting. A phone battery holds a chemical change that charging pushes backwards. The Sun runs on a change that goes one way. Every second it joins hydrogen into helium, and it cannot turn the helium back.",
+   "description": "Your blood carries oxygen by a reversible change. A protein in red blood cells holds oxygen in the lungs and lets it go in the muscles. Each red blood cell makes this round trip about once a minute. Growing is different. A sprouted seed cannot go back to being a seed, and your body will not be a baby's body again. The Earth also runs on both kinds. The same water has been cloud, rain, river and sea many times, because evaporating and condensing leave water unchanged. Rock melts deep underground and sets again as new rock. People copy these cycles. Glass, steel and aluminium can be melted and shaped again and again, which is why they are worth collecting. A phone battery holds a chemical change that charging pushes backwards. The Sun runs on a change that goes one way. Every second it joins hydrogen into helium, and it cannot turn the helium back. Changes also differ in speed. Toast browns in a few minutes. Many trees lose their leaves once a year. A child grows over many years.",
    "examples": [
     "Water goes round as vapour, cloud, rain and river without being used up.",
     "A steel tumbler can be melted down and made into a new one.",
@@ -1952,6 +1952,15 @@
      "why": "A strong drawing keeps the same number of threads in both pictures. Nothing is added or broken. Only the folding and the joining change.",
      "art": "Two empty circles side by side, labelled Raw and Cooked.",
      "outcome": 3
+    },
+    {
+     "t": "fill",
+     "p": "Cooking food in a little hot oil in a pan is called ____.",
+     "a": [
+      "frying",
+      "fry"
+     ],
+     "why": "Frying uses hot oil. Steaming uses hot steam, boiling uses water at its boiling point, and roasting and baking use dry heat. Each one changes the food for good."
     }
    ]
   },
@@ -2164,6 +2173,35 @@
      "a": "Any view with a reason from the unit. One reason is that melting steel is reversible, so steel can be used without end. Another is that a fired clay cup can never be clay again.",
      "why": "Each view has something right in it. A strong answer says which changes go back and which do not. It takes the costs of water, fuel and waste seriously.",
      "outcome": 7
+    },
+    {
+     "t": "sort",
+     "p": "Sort these changes by how long they take.",
+     "cats": [
+      "In minutes",
+      "Once a year",
+      "Over many years"
+     ],
+     "items": [
+      [
+       "toast browning on a tawa",
+       "In minutes"
+      ],
+      [
+       "an egg going hard in boiling water",
+       "In minutes"
+      ],
+      [
+       "leaves falling from a tree",
+       "Once a year"
+      ],
+      [
+       "a child growing taller",
+       "Over many years"
+      ]
+     ],
+     "a": "see items",
+     "why": "Toast and eggs change in minutes. Leaves fall once a year. A child grows over many years. Speed does not decide whether a change can be undone: a boiled egg sets fast and still cannot go back."
     }
    ]
   },
@@ -2503,6 +2541,32 @@
    "a": 0,
    "why": "Steel melts in a furnace and sets again as steel. Because this change goes back, steel can be used again and again.",
    "outcome": 7
+  },
+  {
+   "t": "mcq",
+   "p": "Which of these foods is usually eaten with no cooking at all?",
+   "opts": [
+    "A cucumber salad",
+    "Boiled rice",
+    "Fried puri",
+    "Roasted peanuts"
+   ],
+   "a": 0,
+   "why": "A cucumber salad is cut and eaten raw. Rice is boiled, puri is fried, and peanuts are roasted, so all three are cooked.",
+   "outcome": 7
+  },
+  {
+   "t": "mcq",
+   "p": "Which of these changes happens in a few minutes?",
+   "opts": [
+    "Toast browning on a tawa",
+    "A child growing taller",
+    "Many trees losing their leaves",
+    "A seed becoming a big tree"
+   ],
+   "a": 0,
+   "why": "Toast browns in a few minutes. Many trees lose their leaves once a year. A child grows over many years. A seed becoming a big tree takes many years too. Speed does not decide if a change can go back.",
+   "outcome": 0
   }
  ],
  "videos": [

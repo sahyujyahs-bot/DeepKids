@@ -20,6 +20,8 @@
 - **Antagonistic pair**: Two muscles that pull in opposite ways across the same joint. Each one stretches the other back to its long shape. *e.g.* The biceps bends your elbow. The triceps straightens it. They are an antagonistic pair.
 - **Flexor**: A muscle that bends a joint. *e.g.* The biceps is the flexor of the elbow.
 - **Extensor**: A muscle that straightens a joint. *e.g.* The triceps is the extensor of the elbow.
+- **Voluntary muscle**: A muscle that moves when you decide it should. *e.g.* The muscles in your fingers are voluntary. You decide to pick up a spoon, and they move.
+- **Involuntary muscle**: A muscle that works by itself, without you deciding. *e.g.* Your heart is an involuntary muscle. It keeps beating while you sleep.
 - **Muscle fibre**: One muscle cell. It is long and very thin, and a muscle is a bundle of thousands of them. *e.g.* Pull a thread from a piece of cooked chicken, or look at the strings in the flesh of a cooked fish. Each thread is a bundle of muscle fibres.
 - **Actin and myosin**: Two kinds of protein thread inside every muscle fibre. Myosin threads grab actin threads and pull them along. *e.g.* When you make a fist, countless myosin threads in your forearm are pulling on actin threads.
 - **ATP**: A small molecule that cells use to carry energy from food to wherever work is done. Its full name is adenosine triphosphate. *e.g.* A myosin thread uses one ATP each time it lets go of actin and reaches for a new grip.
@@ -44,6 +46,12 @@ This is true of every muscle in every animal, from an ant's leg to an elephant's
 - e.g. Your biceps pulls your forearm up. It cannot push the forearm down again.
 - e.g. A rope works the same way. You can pull a bucket up from a well with a rope, but you cannot push the bucket down with the rope.
 - e.g. Your heart is a muscle. It squeezes blood out by getting shorter all round. Blood coming back in stretches it again.
+### Muscles you choose and muscles that work alone · *defined*
+**Definition:** A voluntary muscle moves when you decide it should. An involuntary muscle works without you deciding.
+
+Your body has about six hundred named muscles. You choose to move some of them. These are voluntary muscles, such as the muscles of your hands, feet and fingers. You decide to pick up a pencil, and your fingers do it. Other muscles work by themselves, all day and all night. These are involuntary muscles. Your heart is one. It keeps squeezing while you sleep. The muscles in the walls of your intestines are another. After you eat a roti, they squeeze it slowly along, and you never have to ask them. Both kinds can only pull, and both are made of the same sliding threads.
+- e.g. Voluntary: the muscles that move your fingers when you write, and your feet when you walk to school.
+- e.g. Involuntary: your heart beating, and your intestines squeezing food along.
 ### Inside a muscle: threads that slide · *defined*
 **Definition:** A muscle fibre is packed with two kinds of protein thread, called actin and myosin. A muscle contracts when the myosin threads pull the actin threads past them. The threads do not shrink. They slide.
 
@@ -59,10 +67,16 @@ The flexor bends the joint and the extensor straightens it. At the elbow, the fl
 - e.g. Knee: the front thigh muscles straighten it, and the back thigh muscles bend it.
 - e.g. Ankle: the calf muscle points the foot down, and the shin muscle lifts the foot up.
 - e.g. Lowering a bucket into a well slowly: the same arm muscles that lift it are working to let it down.
+### Counting your bones: the longest and the smallest · *defined*
+**Definition:** An adult skeleton has 206 bones. A baby is born with more, and some join together as the child grows.
+
+The longest bone in your body is the thigh bone. It runs from your hip down to your knee. The smallest bones are deep inside your ears. Each ear has three tiny ones, and the smallest of them is smaller than a grain of rice. When a sound shakes your eardrum, these bones pass the shaking inward. That is how you hear a bell or a friend's voice. Bones meet at joints, and joints are where your body bends.
+- e.g. The thigh bone is the longest bone. Put your hand on the top of your leg and feel how long the bone under it must be.
+- e.g. The smallest bone is in the ear, inside your head, where you cannot feel it at all.
 ### Six kinds of moving joint · *defined*
 **Definition:** A joint is a place where two bones meet. The shape of the bone ends decides how the joint can move. There are six main kinds of moving joint.
 
-A hinge joint bends one way and back, like a door. Your elbow, your knee and the joints in your fingers are hinges. A ball and socket joint has a ball on one bone in a cup on the other, so it can swing in a full circle. Your shoulder and your hip are of this kind. A pivot joint lets one bone turn round. One pivot at the top of your neck turns your head. Another near your elbow turns your palm up and down. A saddle joint bends two ways, and the base of your thumb has one. An ellipsoid joint is an oval knob in an oval cup. It bends two ways but cannot spin, and your wrist is one. A gliding joint has flat surfaces that slide a little, as between the small bones of your wrist and ankle. Some joints do not move at all. The plates of your skull are locked together by zigzag joints called sutures. There is a price for free movement. A joint that can swing every way, like the shoulder, has to be held in place mostly by muscles and ligaments, and not by the fit of the bones.
+A hinge joint bends one way and back, like a door. Your elbow, your knee and the joints in your fingers are hinges. A ball and socket joint has a ball on one bone in a cup on the other, so it can swing in a full circle. Your shoulder and your hip are of this kind. A pivot joint lets one bone turn round. One pivot at the top of your neck turns your head. Another near your elbow turns your palm up and down. A saddle joint bends two ways, and the base of your thumb has one. An ellipsoid joint is an oval knob in an oval cup. It bends two ways but cannot spin, and your wrist is one. A gliding joint has flat surfaces that slide a little, as between the small bones of your wrist and ankle. Some joints do not move at all. The plates of your skull are locked together by zigzag joints called sutures. There is a price for free movement. A joint that can swing every way, like the shoulder, has to be held in place mostly by muscles and ligaments, and not by the fit of the bones. So joints fall into two groups. Movable joints, such as the knee, elbow, wrist and fingers, bend or turn. Immovable joints, such as the ones between the plates of the skull, do not move at all.
 - e.g. Hinge: elbow, knee, finger joints.
 - e.g. Ball and socket: shoulder, hip.
 - e.g. Pivot: turning the head, turning the palm.
@@ -580,7 +594,7 @@ Ammu put her hand on the biggest stone. It was still warm from the day.
   - Think: A real crab's closing muscle is far bigger than the opening muscle. Why might that be?
 
 ## Worksheets
-### Pairs, joints and three kinds of skeleton (core) (core, 15 questions)
+### Pairs, joints and three kinds of skeleton (core) (core, 17 questions)
 1. (mcq) What can a muscle do?  
    Options: Pull only / Push only / Pull and push / Neither, it only holds  
    **Answer:** Pull only. *Why:* A muscle works by getting shorter, and a thing that gets shorter pulls. The threads inside it have no way to push apart.
@@ -616,7 +630,11 @@ Ammu put her hand on the biggest stone. It was still warm from the day.
    **Answer:** It became about four times as long. The amount of dough stayed the same. The roll got narrower from side to side and from top to bottom at once, so the dough had to spread along four times the length.. *Why:* A strong answer gives 'about four times' and says that the amount of dough did not change.
 15. (draw) Draw an arm twice: once bent and once straight. Colour the muscle that is contracted in each.  
    **Answer:** Bent arm: the biceps, on the front of the upper arm, is short and fat. Straight arm: the triceps, on the back, is short and fat. In each drawing the other muscle is long.. *Why:* A strong drawing shows the two muscles on opposite sides of the upper arm bone. Only one is short in each picture.
-### Inside the muscle and inside the joint (stretch) (stretch, 15 questions)
+16. (fill) The smallest bones in the body are inside the ____.  
+   **Answer:** ['ear']. *Why:* The three tiny bones of each ear pass the shaking of a sound inward, so you can hear. The longest bone, the thigh bone, is at the other end of the body.
+17. (sort) Sort each muscle by whether you choose to move it.  
+   **Answer:** fingers writing → Voluntary; feet kicking a football → Voluntary; heart beating → Involuntary; intestines squeezing food along → Involuntary. *Why:* You decide when to write or kick, so those muscles are voluntary. Your heart and intestines keep working without you deciding.
+### Inside the muscle and inside the joint (stretch) (stretch, 16 questions)
 1. (mcq) Under a microscope, what happens to the threads inside a muscle fibre when it contracts?  
    Options: They slide past each other / They shrink / They coil up like springs / They melt together  
    **Answer:** They slide past each other. *Why:* The actin and myosin threads keep their length and overlap more. Scientists once thought they folded or coiled, and in 1954 two teams showed otherwise.
@@ -653,7 +671,9 @@ Ammu put her hand on the biggest stone. It was still warm from the day.
    **Answer:** A ring. The circular muscle is a thin layer round the outside, under the skin. The longitudinal muscle is a thicker layer inside it, seen as cut ends. The space in the middle is full of liquid, with the gut in the centre.. *Why:* A strong drawing has two muscle layers round a space of liquid. Arrows may show that one layer squeezes round and the other pulls along.
 15. (perspective) Is an inside skeleton better than an outside one?  
    **Answer:** Any view with a reason from the unit. For example: an exoskeleton must be moulted, and the animal is soft and in danger each time. But a tube on the outside is strong for its weight.. *Why:* Each view has something right. A strong answer names a real gain and a real cost, such as armour and moulting.
-### Tongues, moults and fair tests (challenge) (challenge, 15 questions)
+16. (sort) Sort each joint into movable or immovable.  
+   **Answer:** elbow → Movable; knee → Movable; wrist → Movable; between the plates of the skull → Immovable. *Why:* The elbow, knee and wrist bend or turn. The skull plates are locked together to protect the brain.
+### Tongues, moults and fair tests (challenge) (challenge, 16 questions)
 1. (mcq) A tongue gets a little narrower and thinner. What happens to its length?  
    Options: It grows by a lot / It grows by the same small amount / It stays the same / It gets shorter  
    **Answer:** It grows by a lot. *Why:* The volume stays the same. A small squeeze in two directions gives a large gain in length. That is why hydrostats can reach far and fast.
@@ -688,6 +708,8 @@ Ammu put her hand on the biggest stone. It was still warm from the day.
    **Answer:** A tube of shell with a second tube joined to it by a soft joint. Inside the first tube are two muscles, one fixed to each side of the next tube's base. One bends the joint and one straightens it.. *Why:* A strong drawing puts both muscles inside the tube, on opposite sides of the joint.
 15. (perspective) Is the liquid inside an earthworm a skeleton?  
    **Answer:** Any view with a reason. For example: in the Water Balloon Worm, the water passed one pair of hands' squeeze to the other pair, which is what a bone does for two muscles. But the water did nothing until the balloon shut it in.. *Why:* Scientists do call it a skeleton, because of the job it does. A strong answer says what job a skeleton does and tests the liquid against that.
+16. (truefalse) The human body has about six hundred named muscles, and only a few are voluntary.  
+   **Answer:** False. *Why:* False. Most of the muscles you move on purpose, in your arms, legs, hands and face, are voluntary. The heart and the gut muscles are the ones that work alone.
 
 ## Videos
 - **How your muscular system works - Emma Bryce** (TED-Ed, 5 min) id `VVL-8zr2hk4`: To see the three kinds of muscle and how skeletal muscles pull on bones in pairs. *Check:* Id, title and channel confirmed through YouTube's public lookup. Not watched from here: a parent should preview it.
@@ -731,6 +753,15 @@ Ammu put her hand on the biggest stone. It was still warm from the day.
 12. (mcq) In a fair test of finger lifting, what must stay the same for every finger?  
    Options: How the height is measured / Which finger is lifted / The height reached / Nothing  
    **Answer:** How the height is measured. *Why:* Only the finger changes. The ruler, the helper, the hand position and the way of measuring stay the same, so the numbers can be compared.
+13. (mcq) Which is the longest bone in an adult's body?  
+   Options: The thigh bone / The bone of the upper arm / The bone of the spine / The bone of the skull  
+   **Answer:** The thigh bone. *Why:* The thigh bone runs from the hip to the knee and is the longest bone we have. The smallest bone is not in the arm or the leg at all. It is deep inside the ear.
+14. (mcq) Which of these joints does not move?  
+   Options: The plates of the skull / The elbow / The knee / A finger joint  
+   **Answer:** The plates of the skull. *Why:* The plates of the skull lock together and do not move, to protect the brain. The elbow, knee and finger joints are movable joints.
+15. (mcq) Which muscle keeps working while you are fast asleep, without you deciding?  
+   Options: The heart / The muscle that lifts your finger / The muscle that moves your tongue to speak / The muscle that kicks a ball  
+   **Answer:** The heart. *Why:* The heart is an involuntary muscle. It works all day and night without being told. The other three are voluntary muscles. They move only when you decide.
 
 ## Applications
 - A physiotherapist treats a stiff or weak joint by working on both muscles of a pair. Strengthening one and stretching its partner go together.

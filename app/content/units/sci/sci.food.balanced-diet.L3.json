@@ -1003,6 +1003,15 @@
      "why": "Digestion breaks food into tiny building blocks. These pass through the wall of the gut into the blood. The blood carries them to all your cells."
     },
     {
+     "t": "fill",
+     "p": "If a week of colour dots has lots of yellow and no red, the plate is missing foods that are good for ____.",
+     "a": [
+      "grow"
+     ],
+     "why": "Red dots mark grow foods, which give protein to build and mend the body. Yellow dots mark go foods, which give energy.",
+     "outcome": 2
+    },
+    {
      "t": "truefalse",
      "p": "Eating one plate of jalebis at a wedding makes your whole diet unhealthy.",
      "a": false,
@@ -1303,6 +1312,13 @@
      "lines": 3,
      "a": "The girl is growing, so her cells need extra protein and minerals to build new bone and muscle. She also runs about a lot and burns more energy for her size. Her grandmother has stopped growing, so she may need less food, but still all the same kinds.",
      "why": "A strong answer says that growing and moving use extra food, and that both still need many kinds."
+    },
+    {
+     "t": "write",
+     "p": "At dinner the TV is on, and a child eats the whole plate without noticing when she is full. Name one change that could help her notice, and say why it might work.",
+     "lines": 3,
+     "a": "For example: turn off the TV and eat slowly, and stop halfway to check. A strong answer gives one change and a reason based on the body's signal of fullness.",
+     "why": "The body's signal of fullness takes a while to reach the brain. Paying attention to the meal gives that signal time to arrive."
     }
    ]
   },
@@ -2621,6 +2637,70 @@
      "caption": "3. After eating, point to how full you feel."
     }
    ]
+  },
+  {
+   "id": "a7",
+   "title": "A Week of Plates: check the week's food",
+   "mins": 15,
+   "days": 7,
+   "materials": [
+    {
+     "item": "the colour-dot list from Yesterday's Plate, one sheet for each day",
+     "qty": 1
+    },
+    {
+     "item": "crayons or pens in four colours: yellow, red, green and blue",
+     "qty": 1
+    }
+   ],
+   "schedule": [
+    {
+     "day": 1,
+     "mins": 2,
+     "what": "Each evening, list the day's food and colour it, as in Yesterday's Plate."
+    },
+    {
+     "day": 7,
+     "mins": 13,
+     "what": "Count each colour for the whole week, check the balance, and choose one change for next week."
+    }
+   ],
+   "record": "The week's colour counts, one sentence on what was missing, and one change for next week.",
+   "context": "In this activity you keep a food diary for a whole week. You check the week against the three jobs of food: go, grow and glow. If a kind of food is missing, you choose one small change.",
+   "setup": [
+    {
+     "art": "A child at a table colouring a list of the day's food with yellow, red and green dots.",
+     "caption": "1. Colour each day's food, as in Yesterday's Plate."
+    },
+    {
+     "art": "Seven sheets of paper laid in a row, with the colour counts written under them and a child pointing at the missing colour.",
+     "caption": "2. After seven days, count the colours and find the gap."
+    }
+   ],
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 3,
+     "do": "1. Each evening, list the day's food and mark each food with its colour dots, as in Yesterday's Plate. 2. Keep the seven sheets together.",
+     "say": "Each night, colour what you ate. Yellow is for go, red for grow, green for glow and blue for drinks.",
+     "kid": "Each night, colour your food. Yellow, red, green, blue."
+    },
+    {
+     "id": "s2",
+     "mins": 7,
+     "do": "1. Count each colour across the seven days. 2. Ask: did most days have a red dot and a green dot? 3. Write one sentence for each answer.",
+     "say": "Did most days have a body-building food? A vegetable or fruit? Which colour is missing most?",
+     "kid": "Count each colour for the week. Which colour is missing most?",
+     "parent": "Many children have plenty of yellow and few greens. Do not judge the week. Look for the one gap that shows most."
+    },
+    {
+     "id": "s3",
+     "mins": 5,
+     "do": "1. Choose one small change for next week, such as a bowl of curd with lunch or a handful of chana as a snack. 2. Pick one eating habit to try: for example, eating dinner without the TV or phone on, so you can notice when you are full.",
+     "say": "What is one small change you can make next week? Which habit will you try?",
+     "kid": "Pick one change for next week. Pick one habit to try too."
+    }
+   ]
   }
  ],
  "projects": [
@@ -3085,6 +3165,30 @@
    "a": 0,
    "why": "Scientists look at the overall pattern. Sweets give quick energy and are fine sometimes. Lots of added sugar every day is linked to tooth decay and other problems. Picking 'sweets are poison' goes far beyond the evidence.",
    "outcome": 7
+  },
+  {
+   "t": "mcq",
+   "p": "After a week of colour dots, a child has lots of yellow dots and almost no red or green. What is the best next step?",
+   "opts": [
+    "Add dal, paneer or curd each day, and a vegetable or fruit",
+    "Eat only yellow foods, since they get the most dots",
+    "Stop the diary, since the week is already balanced"
+   ],
+   "a": 0,
+   "why": "Yellow dots mean energy foods only. Red (grow) and green (glow) foods are missing. Dal, paneer or curd give protein, and vegetables or fruit give vitamins.",
+   "outcome": 2
+  },
+  {
+   "t": "mcq",
+   "p": "A child eats dinner with the TV on and finishes the whole plate without noticing. Which change helps her notice when she is full?",
+   "opts": [
+    "Eat slowly without the TV or phone, and check how full she feels halfway",
+    "Eat faster, so the plate is cleared sooner",
+    "Skip dinner, so the body has no food to notice"
+   ],
+   "a": 0,
+   "why": "Paying attention to the meal helps you notice the body's signal of fullness. Eating fast or skipping meals does not help the body tell you what it needs.",
+   "outcome": 2
   }
  ],
  "applications": [
@@ -3619,6 +3723,7 @@
    "ws-stretch",
    "c1",
    "c2",
+   "a7",
    "big_questions",
    "ws-challenge",
    "open_questions",

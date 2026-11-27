@@ -16,6 +16,7 @@
 7. I can say what harms insect pollinators and recyclers, and name one thing my family can do.
 
 ## Terms
+- **Antenna (plural: antennae)**: One of the two thin feelers on an insect's head. An insect smells and touches with them. *e.g.* Two ants meet on a wall and touch antennae, to find out whether they belong to the same colony.
 - **Social insect**: An insect who lives in a large family that shares one nest and shares the work. *e.g.* Ants, honeybees and termites are social insects. A housefly lives alone.
 - **Colony**: One family of social insects living in one nest. It can hold a few dozen members or many thousands. *e.g.* All the ants walking in one line on your kitchen wall belong to one colony.
 - **Queen**: The mother of the colony. She lays the eggs. *e.g.* A honeybee queen can lay more than 1,000 eggs in one day.
@@ -34,6 +35,13 @@
 - **Pest**: A name people give to an animal who eats or spoils something people want. *e.g.* A fly is called a pest in a kitchen. The same fly pollinates mango flowers in an orchard.
 
 ## Explanations
+### What makes an insect an insect · *defined*
+**Definition:** An insect is an animal with six legs, which are three pairs, and one pair of antennae. Many have wings.
+
+Look closely at an ant on the wall. Count its legs. There are six, in three pairs, and all are joined to the middle part of its body. On its head, it has one pair of antennae. Antennae are two thin feelers that smell and touch the world. Many insects have wings. A fly has one pair, and a grasshopper has two pairs. The front pair of a grasshopper is thin and tough, like a cover for the back pair. Worker ants have no wings. A spider has eight legs and no antennae, so a spider is not an insect. Honeybees, ants, flies and grasshoppers are insects. In this lesson, you will see what some insects do for us, and what they need from us.
+- e.g. An ant with six legs and two thin antennae on a kitchen wall
+- e.g. A housefly with one pair of clear wings
+- e.g. A grasshopper in a field with two pairs of wings, the front pair thin and tough
 ### A colony is one large family · *defined*
 **Definition:** A colony is a family of social insects who share one nest. It has one or a few queens who lay eggs, many workers who do the work, and the young.
 
@@ -100,10 +108,17 @@ A green blowfly lays her eggs on a dead fish or a dead rat. Her maggots eat it a
 ### What harms insect workers, and what helps them · *defined*
 **Definition:** Insects are harmed by poison sprays, by the loss of flowers and nesting places, and by bright lights at night. They are helped by flowers, by unsprayed places and by darkness.
 
-A pesticide is a poison used to kill insects who eat crops. Most pesticides also kill bees, flies and ants, and the insects who hunt the crop-eaters. Some pesticides do not kill a bee at once. They harm her memory, so that she cannot find her way home. A colony needs flowers in every month of the year. When a field grows only one crop, there are flowers for two weeks and then none. Street lights pull moths away from the flowers they would pollinate at night. In 63 nature reserves in Germany, scientists weighed the flying insects they caught each year. After 27 years the weight had fallen by about three quarters. There are few such counts from India, so nobody knows the full picture here. Some farmers use insects in place of poison. Fruit growers in China have put weaver ant nests in their orange trees for about 1,700 years. The ants hunt the insects who eat the fruit. A family can help by growing flowering plants, and by never spraying a plant that is in flower.
+A pesticide is a poison used to kill insects who eat crops. Most pesticides also kill bees, flies and ants, and the insects who hunt the crop-eaters. Some pesticides do not kill a bee at once. They harm her memory, so that she cannot find her way home. A colony needs flowers in every month of the year. When a field grows only one crop, there are flowers for two weeks and then none. Street lights pull moths away from the flowers they would pollinate at night. In 63 nature reserves in Germany, scientists weighed the flying insects they caught each year. After 27 years the weight had fallen by about three quarters. There are few such counts from India, so nobody knows the full picture here. Some farmers use insects in place of poison. Fruit growers in China have put weaver ant nests in their orange trees for about 1,700 years. The ants hunt the insects who eat the fruit. A family can help by growing flowering plants, and by never spraying a plant that is in flower. Trees help too, because they are homes. A mango tree gives shade and shelter. Weaver ants stitch their nests in its leaves, and a crow or a myna can build a nest in its branches. A squirrel runs along them. Cutting down a tree takes away all these homes at once.
 - e.g. A tulsi or curry leaf plant left to flower on a balcony, with small bees on it.
 - e.g. A farmer who sprays in the evening, after the bees have gone home, and never on open flowers.
 - e.g. A weaver ant nest left in a mango tree, because the ants hunt fruit-eating insects.
+### Pests: when insects and animals eat the crop · *defined*
+**Definition:** A pest eats or spoils a crop. A farmer can guard a crop in ways that do not poison the pollinators.
+
+Insects such as caterpillars and aphids eat leaves and suck sap. Bigger animals also eat crops. In north India, the neel gai, a large blue-grey antelope, walks into wheat and mustard fields at night. Monkeys raid fruit and maize. A farmer who loses her crop loses her year's food and money, so she must keep watch. Some ways are safe for bees. She can pick caterpillars off by hand. She can spray neem, a mix made from crushed neem seeds, on leaves in the evening, when the bees have gone home. She can hang yellow sticky cards to catch small flying insects. She can leave weaver ants in the trees, because they hunt fruit-eating insects. For neel gai and monkeys, a fence, a net or a night watch works better than any spray, since they are not insects. Spraying neem on open flowers can still harm bees, so spray only the leaves.
+- e.g. A farmer picking caterpillars off cabbage leaves by hand, then spraying neem on the leaves in the evening
+- e.g. A family taking turns to watch a wheat field at night, because neel gai come in the dark
+- e.g. A yellow sticky card hung among brinjal plants to catch whiteflies
 ### Are honeybees enough, or do crops need wild pollinators too? · *debated*
 **Definition:** Farmers and scientists agree that crops need pollinators. They disagree about how far kept honeybees can replace wild insects.
 
@@ -520,7 +535,7 @@ That night she opened her notebook again. She crossed out 'Others' and wrote 'Fl
   - Check: Why can a carpenter bee get pollen from a brinjal flower when a honeybee cannot? → **She shakes the flower by buzzing**
 
 ## Worksheets
-### Colonies, pollination and recycling (core, 15 questions)
+### Colonies, pollination and recycling (core, 16 questions)
 1. (mcq) Who lays the eggs in a honeybee colony?  
    Options: The queen / The workers / The drones / The larvae  
    **Answer:** The queen. *Why:* The queen is the mother of the colony, and laying eggs is her work. Drones are males who only mate. Larvae are the young.
@@ -556,7 +571,9 @@ That night she opened her notebook again. She crossed out 'Others' and wrote 'Fl
    **Answer:** Ants could not cross the water, so paper B had crumbs and no ants. It kept all its crumbs. That showed the ants took the crumbs from paper A.. *Why:* A strong answer says that paper B shows what happens with no ants. Then the ants are the only difference between the two papers.
 15. (draw) Draw a bee visiting two flowers. Use arrows to show where pollen is picked up and where it is left.  
    **Answer:** Two flowers of the same kind with a bee between them. One arrow goes from the anthers of the first flower to the bee, labelled 'picked up'. One arrow goes from the bee to the stigma of the second flower, labelled 'left here'.. *Why:* A strong drawing shows pollen leaving an anther and arriving on a stigma. The bee is the carrier in between.
-### Why insects are good at this work (stretch, 15 questions)
+16. (sort) Sort these animals into 'insect' and 'not an insect'. Count the legs to help you.  
+   **Answer:** an ant with six legs → Insect; a spider with eight legs → Not an insect; a housefly → Insect; a scorpion with eight legs → Not an insect; a grasshopper → Insect. *Why:* Insects have six legs. Spiders and scorpions have eight legs, so they are not insects.
+### Why insects are good at this work (stretch, 17 questions)
 1. (mcq) Why does a hairy insect carry more pollen than a smooth one?  
    Options: Pollen catches among the hairs / Hairs make pollen / Hairs smell sweet / Smooth insects fly faster  
    **Answer:** Pollen catches among the hairs. *Why:* Pollen grains are held in the gaps between hairs and come off a little at a time. A smooth body holds pollen only on its surface.
@@ -592,7 +609,11 @@ That night she opened her notebook again. She crossed out 'Others' and wrote 'Fl
    **Answer:** Any view with a reason. One reason is that flies really do carry germs to uncovered food. Another is that most visitors to mango flowers in many orchards are flies. A third is that maggots clear dead animals in days.. *Why:* Each person is right about something. A strong answer uses a fact from the unit and deals fairly with the other side. One fair way is to keep flies off food without killing them everywhere.
 15. (label) Label three things in this flower: an anther, the stigma, and the place where the nectar is.  
    **Answer:** ['An anther: one of the small knobs that make pollen', 'The stigma: the sticky tip that catches pollen', 'Where the nectar is: at the bottom of the flower, at the base of the petals']. *Why:* The nectar is deepest. So a visitor passes the anthers and the stigma on the way down and on the way out.
-### Testing, counting and deciding (challenge, 15 questions)
+16. (truefalse) Every insect has wings.  
+   **Answer:** False. *Why:* False. Flies and grasshoppers have wings, but worker ants have none. Insects are the animals with six legs and one pair of antennae.
+17. (match) Match each animal to how it uses a mango tree.  
+   **Answer:** Weaver ants → stitch a nest from the leaves; A crow → builds a nest in the branches; A honeybee → drinks nectar from the flowers. *Why:* A tree can shelter some animals and feed others. Weaver ants and crows use it as a home, and a honeybee uses its flowers for food.
+### Testing, counting and deciding (challenge, 16 questions)
 1. (mcq) A farmer ties fine net bags over some of her pumpkin flowers. What is she testing?  
    Options: Whether insects are needed for fruit / Whether flowers need sunlight / Whether nets keep rain off / Whether pumpkins like shade  
    **Answer:** Whether insects are needed for fruit. *Why:* A fine net keeps insects out and lets in light and air. If the bagged flowers make no pumpkins and the open ones do, insects were needed.
@@ -627,6 +648,8 @@ That night she opened her notebook again. She crossed out 'Others' and wrote 'Fl
    **Answer:** Any choice with a reason. One reason is that a study of 600 fields found wild insects raised harvests in every crop. Another is that mango is pollinated mostly by flies, which no bee box supplies. A third is that spraying on open flowers kills every kind of pollinator.. *Why:* All three pieces of advice can work together. A strong answer picks one, supports it with a fact, and sees what the others would add.
 15. (draw) Draw the inside of an ant nest or a honeybee nest. Show and label the queen, workers, larvae and the food store.  
    **Answer:** An ant nest has tunnels and rooms in soil. A large queen is in one room, and small white larvae are in a nursery room. Workers carry food, and one room holds stored seeds or dead insects. A honeybee nest is a wax comb with honey cells at the top and larvae in the middle. The long queen and many workers are on the comb.. *Why:* A strong drawing shows that the nest has different places for different things: young in one part, food in another, and workers moving between them.
+16. (match) Match each crop problem to a way of guarding the crop that does not poison bees.  
+   **Answer:** Neel gai in a wheat field at night → a fence or a night watch; Caterpillars on cabbage → picking them off by hand; Small flying insects on brinjal → a yellow sticky card. *Why:* Each problem has its own answer. Neel gai are large animals, so a fence or a watch works. Caterpillars can be picked off, and sticky cards trap small flying insects. None of these poison bees.
 
 ## Videos
 - **Buzz pollination in slow motion: a bee shaking pollen out of a flower** (, 3 min) id `J7q9Kn1rhRc`: To see and hear a bee grip a flower and buzz until the pollen showers out. The Buzz Flower challenge copies this. *Check:* Found by YouTube search: Slo-Mo Footage of a Bumble Bee Dislodging Pollen, Smithsonian Channel Title checked automatically; a parent may still preview it.
@@ -669,6 +692,15 @@ That night she opened her notebook again. She crossed out 'Others' and wrote 'Fl
 12. (mcq) Which of these helps pollinators most?  
    Options: Never spraying a plant in flower / Killing every fly outdoors / Cutting down flowering trees / Keeping bright lights on all night  
    **Answer:** Never spraying a plant in flower. *Why:* Insects come to open flowers, so a spray on flowers poisons the very insects the plant needs. The other three all harm pollinators.
+13. (mcq) Anita counts the legs on a beetle. How many legs does an insect have?  
+   Options: Four, in two pairs / Six, in three pairs / Eight, in four pairs  
+   **Answer:** Six, in three pairs. *Why:* Every insect has six legs, in three pairs. Eight legs belong to a spider, and a spider is not an insect.
+14. (mcq) What do the weaver ants and the crow in a mango tree both get from the tree?  
+   Options: A place to live and be safe / Pollen to eat / A wax comb  
+   **Answer:** A place to live and be safe. *Why:* A tree gives shelter. The ants stitch nests in the leaves, and the crow builds in the branches. The ants do not eat pollen from the tree, and wax comb is made by honeybees.
+15. (mcq) A farmer finds caterpillars on her cabbage. Which choice is safest for bees?  
+   Options: Spraying a strong poison on the open flowers / Picking the caterpillars off by hand / Spraying neem on the flowers at noon  
+   **Answer:** Picking the caterpillars off by hand. *Why:* Picking by hand harms no bee. A strong poison on open flowers kills bees. Even neem should go only on leaves, in the evening, when bees are not there.
 
 ## Applications
 - Apple growers in Himachal Pradesh and Kashmir rent bee boxes when their trees flower. More flowers are pollinated, so more apples form.

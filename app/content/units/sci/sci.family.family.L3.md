@@ -37,7 +37,7 @@ Families come in many shapes. A joint family has grandparents, parents, uncles, 
 ### How relatives are related · *defined*
 **Definition:** A relation is the way two people in a family are connected, such as 'my mother's brother'. A relation word is the name we call them, such as Mama.
 
-Each person has two parents, four grandparents and eight great-grandparents. Your relatives come through your mother's side and your father's side. Many Indian languages have a separate word for each relation. In Tamil, Mama is your mother's brother, Chithappa is your father's younger brother and Periyappa is your father's elder brother. Hindi has Mama, Chacha and Tau. English calls all of them uncle. The words tell you exactly how a person is related. Children also get about half of their genes from their mother and half from their father. Genes are the instructions inside every cell of a body.
+Each person has two parents, four grandparents and eight great-grandparents. Your relatives come through your mother's side and your father's side. Many Indian languages have a separate word for each relation. In Tamil, Mama is your mother's brother, Chithappa is your father's younger brother and Periyappa is your father's elder brother. Hindi has Mama, Chacha and Tau. English calls all of them uncle. The words tell you exactly how a person is related. Using the right word is also a way to show respect. It tells everyone where each elder fits in the family. Children also get about half of their genes from their mother and half from their father. Genes are the instructions inside every cell of a body.
 - e.g. Tamil: Paati and Thatha are grandmother and grandfather. Athai is your father's sister.
 - e.g. Kannada: Ajji is grandmother.
 - e.g. Hindi: Bua is your father's sister and Mausi is your mother's sister.
@@ -61,7 +61,7 @@ A child cannot feed, clothe or protect themselves for many years. So parents and
 ### Girls and women, then and now · *defined*
 **Definition:** Discrimination against girls and women means treating them unfairly because they are female, for example by giving them less schooling, food, money or say.
 
-For a long time, many Indian families sent sons to school and kept daughters at home to work. In 1848 in Pune, Savitribai Phule and Jyotirao Phule opened a school for girls. People threw mud and stones at Savitribai on her way to school, and she carried a spare sari to change into. In 1950, India's Constitution gave women and men equal rights. Many things have changed, but not all. In the 2011 Census, about 82 in every 100 men could read and write, but only about 65 in every 100 women. Women still do most of the unpaid work at home.
+For a long time, many Indian families sent sons to school and kept daughters at home to work. In 1848 in Pune, Savitribai Phule and Jyotirao Phule opened a school for girls. People threw mud and stones at Savitribai on her way to school, and she carried a spare sari to change into. In 1950, India's Constitution gave women and men equal rights. Many things have changed, but not all. In the 2011 Census, about 82 in every 100 men could read and write, but only about 65 in every 100 women. Women still do most of the unpaid work at home. Many women also work outside the home, as teachers, nurses, farmers and factory workers. Many still get less pay and fewer chances than men.
 - e.g. Savitribai Phule, who opened a girls' school in Pune in 1848 and wrote poems.
 - e.g. In Kerala, more than 90 in every 100 women could read and write in the 2011 Census.
 - e.g. A daughter now has the same right as a son to go to school, by law.
@@ -454,7 +454,7 @@ That evening Ajji had an hour with nothing to do. She sat with Kavya at the tabl
   - Think: Who in your family could use this tray?
 
 ## Worksheets
-### Who Does the Work at Home? (core) (core, 15 questions)
+### Who Does the Work at Home? (core) (core, 16 questions)
 1. (truefalse) Cooking for your own family is work, even when nobody pays for it.  
    **Answer:** True. *Why:* True. It takes time and effort, and the family cannot eat without it. Paid or unpaid, it is work.
 2. (match) Match each word to what it means.  
@@ -488,7 +488,9 @@ That evening Ajji had an hour with nothing to do. She sat with Kavya at the tabl
    **Answer:** For example: setting the plates and watering the plants. A strong answer names real jobs that are safe for a child and says who does them now.. *Why:* Children help the family with jobs that suit their age. Naming who does the jobs now shows where help is needed.
 15. (fill) Looking after people who need help, such as feeding a baby or giving medicine, is called ____ work.  
    **Answer:** ['care']. *Why:* Care work is looking after people who need help.
-### Paid, Unpaid and Shared (stretch) (stretch, 15 questions)
+16. (write) Name one elder at home and the word you use to call them. Then write one way you show that elder respect.  
+   **Answer:** For example: Ajji, and I wait for her to finish before I speak, and I bring her water when she asks. A strong answer names the relation word and a real action.. *Why:* The relation word shows the elder's place in the family. Respect shows in what you say and do, every day.
+### Paid, Unpaid and Shared (stretch) (stretch, 16 questions)
 1. (mcq) When India adds up the value of all the work done in the country in a year, which of these is left out?  
    Options: A cook paid to make meals in a hotel / Ajji cooking lunch for her own family / A factory making bicycles  
    **Answer:** Ajji cooking lunch for her own family. *Why:* Unpaid home work is left out. So cooking, cleaning and caring for your own family are not counted, though every family needs them. The paid cook and the factory are counted.
@@ -507,21 +509,23 @@ That evening Ajji had an hour with nothing to do. She sat with Kavya at the tabl
    **Answer:** ['father']. *Why:* Genes come from both parents, about half from each.
 8. (write) Kerala had more women who could read and write than any other state in the 2011 Census. What could have helped girls there go to school?  
    **Answer:** For example: many schools close to home, families who wanted their daughters to study, and women who were teachers.. *Why:* A strong answer gives reasons a child can think through, such as schools nearby and families choosing to send girls. Scientists still study exactly why.
-9. (sort) Sort these. Is each one a right every child in India has by law, or a job a child can help with at home?  
+9. (write) Name one kind of paid work that women in India do outside the home. Then name one unpaid job that women in your home do.  
+   **Answer:** For example: a teacher, a nurse or a farm worker, and cooking or cleaning for the family. A strong answer names two different kinds of work.. *Why:* Paid work outside the home is one kind of work. Unpaid home work is another kind, and it is still work.
+10. (sort) Sort these. Is each one a right every child in India has by law, or a job a child can help with at home?  
    **Answer:** free school from 6 to 14 → A right by law; setting the plates → A job a child can help with; not being sent to work under 14 → A right by law; watering the plants → A job a child can help with; folding small clothes → A job a child can help with. *Why:* A child has rights that grown-ups must protect, and can also help the family with jobs that suit their age.
-10. (odd) Three of these are care work. Which is the odd one out?  
+11. (odd) Three of these are care work. Which is the odd one out?  
    Options: Feeding a baby / Giving Thatha his medicine / Watching a cricket match / Helping with homework  
    **Answer:** 2. *Why:* Feeding, giving medicine and helping with homework are all looking after someone who needs help. Watching cricket is rest, which everyone also needs.
-11. (label) Here is a picture of a family tree. Label the two sides of the family.  
+12. (label) Here is a picture of a family tree. Label the two sides of the family.  
    **Answer:** ["Mother's side", "Father's side"]. *Why:* Relatives through your mother are on your mother's side, and relatives through your father are on your father's side.
-12. (mcq) Which is the best reason to do the Home Work Count on a normal evening, not a festival day?  
+13. (mcq) Which is the best reason to do the Home Work Count on a normal evening, not a festival day?  
    Options: Festival days have no work / So the count shows a usual day / Because clocks do not work on festivals  
    **Answer:** So the count shows a usual day. *Why:* On festival days there is often much more cooking and cleaning. A normal evening shows what a usual day needs. That makes it a fair test.
-13. (write) Write one question you would ask a woman in your family about her school days. Say why you want to know the answer.  
+14. (write) Write one question you would ask a woman in your family about her school days. Say why you want to know the answer.  
    **Answer:** For example: Did you want to study longer? A strong question asks about her choices and feelings, and the reason shows what the child wants to understand.. *Why:* Good questions about the past ask who decided and how it felt, not only up to which class.
-14. (truefalse) If, for many years, fewer girls than boys are sent to school, then later there will be fewer women than men who can read and write.  
+15. (truefalse) If, for many years, fewer girls than boys are sent to school, then later there will be fewer women than men who can read and write.  
    **Answer:** True. *Why:* True. Reading is mostly learned at school. If fewer girls go, fewer women grow up able to read. In India's 2011 Census, about 65 in every 100 women could read and write, and about 82 in every 100 men.
-15. (mcq) In some families, grandmothers find food and care for the older grandchildren. What might this let the mothers do?  
+16. (mcq) In some families, grandmothers find food and care for the older grandchildren. What might this let the mothers do?  
    Options: Have and care for a new baby more easily / Go to school / Stop caring for babies  
    **Answer:** Have and care for a new baby more easily. *Why:* When a grandmother feeds and looks after the older children, the mother has more time and strength for a new baby. Scientists call this the grandmother idea.
 ### Families, Then and Now (challenge) (challenge, 15 questions)
@@ -598,6 +602,12 @@ That evening Ajji had an hour with nothing to do. She sat with Kavya at the tabl
 11. (mcq) Who keeps an emperor penguin egg warm through the cold winter?  
    Options: The mother / The father / The egg is left on the ice alone  
    **Answer:** The father. *Why:* The father holds the egg on his feet under a fold of skin for about two months. The mother is at sea, feeding. Choosing 'the mother' is the usual guess, because in many animals she does it.
+12. (mcq) A child in Chennai calls her grandmother Paati, not by her first name. What does that word show?  
+   Options: Respect for the elder and her place in the family / That the grandmother is a stranger / That the child is angry  
+   **Answer:** Respect for the elder and her place in the family. *Why:* The relation word shows who the elder is to the child. Using it is a polite way to speak to an elder.
+13. (mcq) A woman is a nurse at a hospital and is paid every month. Which kind of work is this?  
+   Options: Paid work outside the home / Unpaid home work / Not really work at all  
+   **Answer:** Paid work outside the home. *Why:* Nursing at a hospital is paid work outside the home. Cooking and cleaning for your own family are unpaid home work, and they are real work too.
 
 ## Applications
 - Time use surveys show where women spend hours on unpaid work. That helps governments decide what to build, such as water taps near homes and cooking gas.

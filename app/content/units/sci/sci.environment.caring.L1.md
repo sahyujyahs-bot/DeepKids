@@ -16,6 +16,7 @@
 ## Terms
 - **Environment**: Your environment is everything around you. It has living beings, like plants, birds and people, and things that are not alive, like air, water and soil. *e.g.* Your balcony, the tulsi pot on it, the crow on the railing, the air and the rain are all part of your environment.
 - **Litter**: Litter is rubbish left where it does not belong, like on a road, in a park or by a drain. *e.g.* A chips packet lying on the steps of a building is litter. The same packet inside a bin is not.
+- **Sapling**: A sapling is a young tree who is still small and weak. She needs water and care to grow strong. *e.g.* A family plants a neem sapling in the park at the start of the rains.
 - **Drain**: A drain is a channel or pipe that carries rainwater and used water away from homes and roads. *e.g.* The hole with a grill on your bathroom floor is a drain. So is the channel along the side of your street.
 - **Wet waste and dry waste**: Wet waste is food and plant rubbish that rots, like peels and leftover rice. Dry waste is rubbish that does not rot quickly, like plastic, paper, glass and metal. *e.g.* A banana peel goes in the wet waste bin. A milk packet goes in the dry waste bin.
 
@@ -27,6 +28,12 @@ Your environment is your room, your building, your lane and the sky above, not o
 - e.g. The air you breathe in your room is part of your environment.
 - e.g. The neem tree by your gate, and the squirrels in the tree, are part of your environment.
 - e.g. The rain that falls on your roof and runs into the drain is part of your environment.
+### Why there is litter around us · *defined*
+**Definition:** Litter is there because of what people do, and because of what is missing. We can change both.
+
+Look at the road near your home. Why is there litter? Sometimes there is no bin close by, so a wrapper is dropped. Sometimes the bin is full and nobody has emptied it. Sometimes a person is in a hurry, or has always done it, and never thought about it. Crows, dogs and cows tear open bags, and the wind blows them about. Many things we buy come in packets, so there is more to throw away. Safai karamcharis and kabadiwalas, who sweep and collect our rubbish every day, work hard to clear it. When we use a bin, we make their work lighter.
+- e.g. At a bus stop with no bin, people drop their chips packets on the ground.
+- e.g. A bin by the lane in Indore is full by morning, so the extra rubbish piles up beside it, and a crow pulls a bag open.
 ### Litter does not stay where it is dropped · *defined*
 **Definition:** Litter is rubbish left where it does not belong. Rain and wind move light litter from place to place.
 
@@ -50,6 +57,13 @@ Plants and animals near us sense what is around them and act on it. A plant in d
 - e.g. A crow opens her beak and pants on a very hot day to cool down.
 - **Many scientists who study plants and insects:** Plants and ants sense, remember and choose. A plant who meets dry soil keeps water in, and ants choose the shortest way to food. This is their own kind of thinking.
 - **Other scientists:** These are automatic responses, built into the body, like a door that opens when you step near it. They say it is better not to call this thinking.
+### Planting trees and looking after plants · *defined*
+**Definition:** A sapling is a young tree. When we plant a sapling and water her, we help the air stay clean and fresh.
+
+Trees clean and freshen the air. Their leaves catch dust. Green leaves also give out oxygen, the part of the air that we breathe in. A tree gives shade on a hot day, a home for birds, and fruit or flowers. Her roots hold the soil, so rain does not wash it away. A sapling is small and weak. She needs water when the soil is dry, and a grown-up's care until she is strong. Plant her at the start of the monsoon, when rain helps her to settle.
+- e.g. A neem tree in a school yard in Nagpur gives shade to children at lunch, and crows build nests in it.
+- e.g. A family plants a mango sapling at the start of the monsoon and waters it with the leftover water from the kitchen.
+- **The women of the Chipko movement:** In 1973, village women in the hills of Uttarakhand hugged trees to stop them being cut down. They knew their forest gave them water, fuel and fodder. Many people now say they showed the world how to care for trees.
 
 ## Mostly agreed
 - Rain and wind carry litter from where it is dropped to drains, rivers and the sea. *How we know:* People who clean beaches and rivers find wrappers and bags that came from towns far upstream. In the Bathroom Rain Test, one mug of water carried a wrapper to the drain.
@@ -393,7 +407,7 @@ On the balcony, Ammamma's tulsi was drooping after the hot afternoon. Arun pushe
   - Ask: What made your bin work, or not work? (good: The lid kept the wind out.; The stone held the lid down.; The wrapper blew out of the gap.)
 
 ## Worksheets
-### Where Does Litter Go? (core) (core, 10 questions)
+### Where Does Litter Go? (core) (core, 11 questions)
 1. (draw) Draw the bathroom floor from the Bathroom Rain Test. Draw an arrow to show where the wrapper went. Draw a circle round the thing that stayed.  
    **Answer:** An arrow from the wrapper to the drain, and a circle round the pebble.. *Why:* A strong drawing shows the light, floating litter going to the drain and the heavy pebble staying, as the child saw.
 2. (sort) Colour the things the rain will carry away in blue. Colour the things that will stay in brown.  
@@ -404,19 +418,21 @@ On the balcony, Ammamma's tulsi was drooping after the hot afternoon. Arun pushe
    **Answer:** False. *Why:* False. Wind and rain carry light litter away, to drains, rivers and the sea. The wrapper moves, but the wrapper does not disappear.
 5. (label) This is a picture of a lane. Write or say the names: drain, litter, tree, cow.  
    **Answer:** ['drain: the grill at the side of the road', 'litter: the wrappers by the gate', 'tree: the neem by the wall', 'cow: by the gate']. *Why:* Naming the parts helps the child see the whole environment: things that are alive, and things that are not.
-6. (write) Say it to a grown-up, who writes it down: why should we put a wrapper in a bin, and not on the road?  
+6. (match) Draw a line from each cause to what we can do about it.  
+   **Answer:** No bin near the bus stop → Ask for a bin, and keep the wrapper in your bag; The bin is full → Tell a grown-up so it can be emptied; Crows open the bag → Close the bag and tie it tight; You are in a hurry → Stop and keep the wrapper in your pocket. *Why:* Every cause of litter has something we can do. We do not have to wait for others to start.
+7. (write) Say it to a grown-up, who writes it down: why should we put a wrapper in a bin, and not on the road?  
    **Answer:** On the road, the rain can carry the wrapper to a drain and block it, or a cow can eat the wrapper. In the bin, it stays put.. *Why:* A strong answer says where the wrapper would go, using what the Bathroom Rain Test showed, and who it could hurt.
-7. (perspective) Two friends in Mysuru see a chips packet in the park.  
+8. (perspective) Two friends in Mysuru see a chips packet in the park.  
    **Answer:** A strong answer picks a side and gives a reason, for example that the rain will carry the packet away and nobody else may pick it up. It also sees that Meera has a point: the person who dropped it did something unfair.. *Why:* Both friends are right about something. It is fair that people clear up their own litter. But the packet will still travel, whoever dropped it.
-8. (count) How many pieces of litter are on this drain grill? There are 2 wrappers, 1 plastic bag and 3 paper cups.  
+9. (count) How many pieces of litter are on this drain grill? There are 2 wrappers, 1 plastic bag and 3 paper cups.  
    **Answer:** 6. *Why:* 2 and 1 and 3 make 6. Six pieces on one grill can stop the water getting in.
-9. (mcq) A brown cow is nosing at a plastic bag with old rice inside. What should a grown-up do?  
+10. (mcq) A brown cow is nosing at a plastic bag with old rice inside. What should a grown-up do?  
    Options: Gently take the bag away and put the rice on a leaf / Leave the bag for the cow / Shout at the cow  
    **Answer:** Gently take the bag away and put the rice on a leaf. *Why:* The cow cannot tell the plastic from the rice, and the plastic would stay inside her. Taking the bag away and giving the rice on a leaf feeds her without the plastic.
-10. (mcq) You go to buy vegetables. What can you take, so you do not need a plastic bag?  
+11. (mcq) You go to buy vegetables. What can you take, so you do not need a plastic bag?  
    Options: A cloth bag / Another plastic bag / Nothing  
    **Answer:** A cloth bag. *Why:* A cloth bag can go to the shop again and again. A plastic bag is used once, and then it can blow into a drain.
-### Where Does Litter Go? (stretch) (stretch, 10 questions)
+### Where Does Litter Go? (stretch) (stretch, 11 questions)
 1. (mcq) A plastic bag piece and a pebble are on a steel plate. You tilt the plate and pour water on it. What will most likely happen?  
    Options: The plastic slides down, the pebble stays / The pebble slides down, the plastic stays / Both stay  
    **Answer:** The plastic slides down, the pebble stays. *Why:* Plastic is light and floats on the water, so the water carries the plastic. The pebble is heavy and does not float, so the pebble stays.
@@ -428,15 +444,17 @@ On the balcony, Ammamma's tulsi was drooping after the hot afternoon. Arun pushe
    **Answer:** The soapy cloth wiped away the smell trail, so the ants could not smell the way. They had to search until they found the smell again.. *Why:* A strong answer says the ants follow a smell, and that the wipe took the smell away.
 5. (truefalse) We should water a potted plant every day, even when the soil is still wet.  
    **Answer:** False. *Why:* False. If the soil is still wet, more water fills the spaces in the soil and the roots cannot get air. Check with the finger test first.
-6. (fill) A channel or pipe that carries rainwater away from roads is called a ___.  
+6. (write) Say it to a grown-up, who writes it down: name two things a tree gives us, and one way we can look after a sapling.  
+   **Answer:** A tree gives shade and fresh air. We can look after a sapling by watering it when the soil is dry.. *Why:* A strong answer names two gifts, such as shade, fresh air, fruit or a home for birds. It also names one kind of care, such as water.
+7. (fill) A channel or pipe that carries rainwater away from roads is called a ___.  
    **Answer:** drain. *Why:* Drains carry rainwater and used water away. When litter blocks a drain, the water stays on the road.
-7. (perspective) A cow is eating vegetable peels and a plastic bag outside a building in Pune.  
+8. (perspective) A cow is eating vegetable peels and a plastic bag outside a building in Pune.  
    **Answer:** A strong answer sees that the cow needs food and that plastic hurts her. It might say: keep bins closed, and give peels separately on a leaf, never in a plastic bag.. *Why:* Both care about the cow. The plastic is the problem, not the peels.
-8. (label) This is a potted plant. Write or say the names: leaf, stem, soil, roots, hole at the bottom.  
+9. (label) This is a potted plant. Write or say the names: leaf, stem, soil, roots, hole at the bottom.  
    **Answer:** ['leaf: on top', 'stem: holds up the leaves', 'soil: inside the pot', 'roots: under the soil', 'hole at the bottom: lets extra water out']. *Why:* The roots in the soil take in water. The hole at the bottom lets extra water out, so the roots do not sit in water.
-9. (match) Draw a line from each thing to the bin it goes in.  
+10. (match) Draw a line from each thing to the bin it goes in.  
    **Answer:** Leftover idli → Wet waste; Newspaper → Dry waste; Onion skin → Wet waste; Glass bottle → Dry waste. *Why:* Food and plant scraps rot, so they are wet waste. Paper, glass, metal and plastic are dry waste, and many of them can be made into new things.
-10. (mcq) Why does a crow open her beak and pant on a very hot day?  
+11. (mcq) Why does a crow open her beak and pant on a very hot day?  
    Options: To cool down / To sing / To catch flies  
    **Answer:** To cool down. *Why:* Birds cannot sweat like us. Panting moves air over the wet inside of the mouth, which cools the bird down. A shallow plate of water in the shade helps too.
 ### Where Does Litter Go? (challenge) (challenge, 10 questions)
@@ -470,31 +488,40 @@ On the balcony, Ammamma's tulsi was drooping after the hot afternoon. Arun pushe
 1. (mcq) Which of these is part of your environment?  
    Options: The air in your room / A dream you had / A number in your head  
    **Answer:** The air in your room. *Why:* The environment is everything around you, living and not living. The air in your room is around you. A dream and a number are inside your mind.
-2. (mcq) You drop a toffee wrapper on the road. Then it rains hard. Where will the wrapper most likely go?  
+2. (mcq) A bin by the lane is full, and a wrapper lies beside it. What is the likely reason?  
+   Options: Nobody has emptied the bin, so there is no room left / The wrapper wanted to travel / The wind plants wrappers  
+   **Answer:** Nobody has emptied the bin, so there is no room left. *Why:* Litter is there for reasons we can fix. A full bin that nobody empties leaves no room, so people drop things beside it. Wrappers do not choose to move, and wind only carries what is already loose.
+3. (mcq) You drop a toffee wrapper on the road. Then it rains hard. Where will the wrapper most likely go?  
    Options: It stays in the same place / The rainwater carries the wrapper to a drain / It turns into a stone  
    **Answer:** The rainwater carries the wrapper to a drain. *Why:* A wrapper is light and floats, so rainwater carries the wrapper along the road to a drain. In our Bathroom Rain Test, the wrapper went to the drain.
-3. (mcq) A dry scrap of newspaper and a soaking wet scrap are on the floor in front of a fan. Which one flies?  
+4. (mcq) A dry scrap of newspaper and a soaking wet scrap are on the floor in front of a fan. Which one flies?  
    Options: The dry scrap / The wet scrap / Both fly the same  
    **Answer:** The dry scrap. *Why:* Dry paper is light, so the wind lifts it. Wet paper soaks up water, gets heavy and sticks to the floor.
-4. (mcq) Why are plastic bags on the street dangerous for cows?  
+5. (mcq) Why are plastic bags on the street dangerous for cows?  
    Options: Cows eat the bags with the food inside, and the plastic stays in their stomach / The bags make cows sneeze / Cows are scared of the colour  
    **Answer:** Cows eat the bags with the food inside, and the plastic stays in their stomach. *Why:* Cows cannot sort plastic from food. The plastic does not break down inside them, so it builds up and makes them ill.
-5. (mcq) After a heavy rain, a street is flooded. What is the most likely reason?  
+6. (mcq) After a heavy rain, a street is flooded. What is the most likely reason?  
    Options: Litter is blocking the drain / The road is too clean / The trees drank too little  
    **Answer:** Litter is blocking the drain. *Why:* Litter carried by the rain piles up on the drain grill. Then the water cannot get away, so it stays on the street.
-6. (mcq) Which bin does a banana peel go in?  
+7. (mcq) Which bin does a banana peel go in?  
    Options: The wet waste bin / The dry waste bin / Neither, throw it on the road  
    **Answer:** The wet waste bin. *Why:* A banana peel is food waste that rots, so it is wet waste. Wet waste can become compost, which feeds plants.
-7. (mcq) Which bin does an empty milk packet go in?  
+8. (mcq) Which bin does an empty milk packet go in?  
    Options: The wet waste bin / The dry waste bin / The flower pot  
    **Answer:** The dry waste bin. *Why:* A milk packet is plastic. Plastic does not rot, so it is dry waste. Rinse the packet first, and it can be recycled.
-8. (mcq) You want to know if a chilli plant needs water. What should you do first?  
+9. (mcq) You want to know if a chilli plant needs water. What should you do first?  
    Options: Push a finger into the soil to feel if it is dry / Water the plant every hour / Shake the plant  
    **Answer:** Push a finger into the soil to feel if it is dry. *Why:* The finger test tells you if the soil around the roots is dry or damp. If the soil is dry, water. If the soil is damp, wait, because too much water hurts the roots.
-9. (mcq) A beetle has walked into the kitchen. What is the kind way to help the beetle?  
+10. (mcq) Why is planting a tree good for the air near your home?  
+   Options: Its leaves catch dust and give out the oxygen we breathe / It makes the air hot / It gives out more litter  
+   **Answer:** Its leaves catch dust and give out the oxygen we breathe. *Why:* Green leaves catch dust and give out oxygen, so the air feels clean and fresh. A tree also gives shade, so it does not make the air hotter.
+11. (mcq) You plant a small sapling in the park. What does it need first?  
+   Options: Water when the soil is dry, and care until it is strong / A thick woollen cloth / Nothing, since all plants grow by themselves  
+   **Answer:** Water when the soil is dry, and care until it is strong. *Why:* A sapling is small and weak. It needs water when the soil is dry, and care, until its roots are strong.
+12. (mcq) A beetle has walked into the kitchen. What is the kind way to help the beetle?  
    Options: Put a cup over the beetle, slide a card under, and carry the beetle outside / Squash the beetle / Spray water on the beetle  
    **Answer:** Put a cup over the beetle, slide a card under, and carry the beetle outside. *Why:* The cup and card let you carry the beetle out without hurting any legs. The beetle can then find a better place outside.
-10. (mcq) Ants are walking in a line to a spill of sugar. Why are they in a line?  
+13. (mcq) Ants are walking in a line to a spill of sugar. Why are they in a line?  
    Options: They follow a smell trail left by the first ant / Someone painted a line for them / They are holding hands  
    **Answer:** They follow a smell trail left by the first ant. *Why:* An ant who finds food leaves a smell trail on the way home. Other ants follow the smell, so they walk in a line.
 

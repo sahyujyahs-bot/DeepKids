@@ -90,6 +90,7 @@ In Four Cities, Two Days, the day in Kanyakumari was less than one hour longer i
 - e.g. Kanyakumari: about 12 hours 36 minutes on 21 June and 11 hours 39 minutes on 21 December.
 - e.g. Delhi: about 13 hours 59 minutes on 21 June and 10 hours 20 minutes on 21 December.
 - e.g. In Tromso in Norway the Sun stays up all night from about 20 May to 22 July.
+- e.g. At the North Pole the Sun stays low in the sky, so its rays arrive at a slant. The ground stays cold, even on the long summer day.
 - **A person who draws the Earth and the Sun with straight rays:** On an equinox, exactly half of every ring is lit. So day and night are exactly 12 hours each, everywhere.
 - **A person who watches real sunrises:** The air bends sunlight, so we see the Sun a few minutes before it has truly cleared the horizon. The Sun is also a wide disc, not a point. So on the equinox the day is about 12 hours and 7 minutes long. Day and night are truly equal a few days before the March equinox.
 ### Opposite seasons in the two hemispheres, and a different year near the equator · *defined*
@@ -505,7 +506,7 @@ Nila looked at the sweet lime in her hand, half in the lamplight and half out of
   - Note: The extra step needs a grown-up, because it may mean going out on a terrace in strong sun. The shadow vanishes for only a few minutes. The whole activity works without it.
   - Think: People in Delhi never see a zero shadow day. What could they look for on 21 June that is nearly as good?
 ### a3 · My Own Season Wheel: how many seasons does your city really have? (20 min)
-- **record:** Keep the wheel on a wall. Through the year, write the real date each time one of your seasons begins.
+- **record:** Keep the wheel on a wall. Through the year, write the real date each time one of your seasons begins. Also keep a seasons journal: once in each season, on the same day, write one entry under five themes: plants, animals, weather, water and people.
 - **s1 (4 min)**  
   *Parent does:* 1. Draw round the plate. 2. Mark the twelve months round the rim, like the hours on a clock. 3. Together, list what changes through the year where you live. Think of rain, wind, heat, fruit in the market, flowers, birds, insects and festivals.  
   *Parent says:* Forget the seasons in schoolbooks for a moment. What really changes here through the year? What do you see, hear, smell and eat at different times?  
@@ -687,7 +688,7 @@ Nila looked at the sweet lime in her hand, half in the lamplight and half out of
    **Answer:** About 3 weeks later. *Why:* Pongal is about 14 January, 24 days after the solstice of about 21 December. About 1,700 years ago the two fell on the same day.
 15. (write) Why must the axis keep pointing the same way for the two hemispheres to swap seasons?  
    **Answer:** If the axis always leaned towards the Sun, the north would always have summer. Because it keeps pointing one way in space, the north leans towards the Sun on one side of the orbit and away from it on the other side.. *Why:* A strong answer says that the lean stays fixed while the Earth moves to the other side of the Sun.
-### Shadows, day lengths and season counts (stretch, 15 questions)
+### Shadows, day lengths and season counts (stretch, 16 questions)
 1. (count) A ring has 9 lit dots out of 12. Each dot is 2 hours. How many hours of daylight?  
    **Answer:** 18. *Why:* 9 times 2 is 18 hours. The other 3 dots are 6 hours of night.
 2. (mcq) A card leans until the torch patch is twice as long. How much light does each square get now?  
@@ -699,26 +700,28 @@ Nila looked at the sweet lime in her hand, half in the lamplight and half out of
    **Answer:** ['August']. *Why:* The overhead Sun passes Chennai once on its way north in April and once on its way south in August.
 5. (sort) Does this city have a zero shadow day? Sort each one.  
    **Answer:** Chennai → Yes, two each year; Kochi → Yes, two each year; Mumbai → Yes, two each year; Delhi → No, never; Srinagar → No, never; Lucknow → No, never; Hyderabad → Yes, two each year. *Why:* Only places between the two tropics ever have the Sun overhead. Delhi, Lucknow and Srinagar are north of the Tropic of Cancer.
-6. (write) In June the noon shadow of a pole in Chennai points south. Explain why.  
+6. (sort) Sort these journal notes into the five themes: plants, animals, weather, water and people.  
+   **Answer:** the mango trees are in flower → Plants; a koel calls at dawn → Animals; a cool wind comes after the hot dry spell → Weather; the village well is low → Water; the family gathers for a cousin's wedding → People. *Why:* Each note tells you about one theme only. A flowering tree is about plants, a calling bird is about animals, and a cool wind is about weather.
+7. (write) In June the noon shadow of a pole in Chennai points south. Explain why.  
    **Answer:** On 21 June the noon Sun is overhead at the Tropic of Cancer, about 23 and a half degrees north. Chennai is at 13 degrees north. So the Sun is about 10 degrees to the north of overhead, and the shadow falls to the south.. *Why:* A strong answer compares the place of the overhead Sun with the place of Chennai.
-7. (order) Put these cities in order, from the smallest change in day length to the largest.  
+8. (order) Put these cities in order, from the smallest change in day length to the largest.  
    **Answer:** ['Kanyakumari', 'Chennai', 'Delhi', 'Srinagar']. *Why:* The change grows with distance from the equator: under 1 hour, about 1 and a half hours, about 3 and a half hours and about 4 and a half hours.
-8. (mcq) Why is Delhi's coldest week in January and not on 21 December?  
+9. (mcq) Why is Delhi's coldest week in January and not on 21 December?  
    Options: The Earth is farthest from the Sun in January / The ground keeps losing heat for some weeks / January days are shorter than December days / The Sun gives less light in January  
    **Answer:** The ground keeps losing heat for some weeks. *Why:* After the shortest day, the ground still loses more heat each night than it gains each day, for a few more weeks. The Earth is in fact nearest the Sun in January.
-9. (draw) Draw a year wheel with the six ritus. Mark where the two solstices fall on it.  
+10. (draw) Draw a year wheel with the six ritus. Mark where the two solstices fall on it.  
    **Answer:** Six equal parts in order: Vasanta, Grishma, Varsha, Sharad, Hemanta, Shishira. The June solstice falls in Grishma and the December solstice in Hemanta.. *Why:* A strong drawing puts the ritus in the right order and shows that each is about two months long.
-10. (perspective) When does summer begin?  
+11. (perspective) When does summer begin?  
    **Answer:** Any view with a reason. The astronomer watches the Sun's height. The weather officer watches the heat. The old calendars watch the light.. *Why:* No view is marked right. Each is a true account of a different thing, and seasons can be counted by any of them.
-11. (match) Match each festival to its place in the Sun's year.  
+12. (match) Match each festival to its place in the Sun's year.  
    **Answer:** Pongal and Makar Sankranti → About 24 days after the December solstice; Nowruz → On the March equinox; Vishu and Puthandu → About 25 days after the March equinox; Dongzhi → On the December solstice; Onam → August or September, as the heavy rains ease. *Why:* Some festivals are fixed to the season and some to the stars. Those fixed to the stars now fall about three and a half weeks after the solstice or equinox they once marked.
-12. (count) Sankranti slips about 1 day later every 70 years. How many days does it slip in 700 years?  
+13. (count) Sankranti slips about 1 day later every 70 years. How many days does it slip in 700 years?  
    **Answer:** 10. *Why:* 700 divided by 70 is 10. So in 700 years it moves about 10 days later.
-13. (write) Mars leans about 25 degrees and Jupiter about 3 degrees. Which has stronger seasons? Explain why.  
+14. (write) Mars leans about 25 degrees and Jupiter about 3 degrees. Which has stronger seasons? Explain why.  
    **Answer:** Mars. A lean of 25 degrees gives each half of Mars a time of steep light and long days, then slanting light and short days. Jupiter is almost upright, so every place gets nearly the same light all year.. *Why:* A strong answer links the size of the lean to how much the slant of light and the day length change.
-14. (truefalse) In the monsoon months the wind over India blows from the same direction as in winter.  
+15. (truefalse) In the monsoon months the wind over India blows from the same direction as in winter.  
    **Answer:** False. *Why:* False. A monsoon is a wind that turns round with the seasons. In summer it blows from the south-west sea. In winter it blows from the north-east.
-15. (odd) Three of these are caused by the Earth's lean. Which one is not?  
+16. (odd) Three of these are caused by the Earth's lean. Which one is not?  
    Options: Longer days in June in Delhi / Opposite seasons in Australia / Day and night / Zero shadow days in Chennai  
    **Answer:** 2. *Why:* Day and night come from the Earth's rotation. They would happen even on an upright Earth. The other three need the lean.
 ### Angles, calendars and other planets (challenge, 15 questions)
@@ -788,15 +791,21 @@ Nila looked at the sweet lime in her hand, half in the lamplight and half out of
 9. (mcq) Which city has the biggest difference between its longest and shortest day?  
    Options: Kanyakumari / Chennai / Mumbai / Srinagar  
    **Answer:** Srinagar. *Why:* Srinagar is furthest from the equator. Its longest day is about 4 and a half hours longer than its shortest.
-10. (mcq) What is a monsoon?  
+10. (mcq) The Sun stays up for about six months at the North Pole. Why is the pole still very cold?  
+   Options: The Sun never rises there / Its rays arrive at a slant and spread thin over the ground / The pole is the farthest place from the Sun / The Sun's day is short there  
+   **Answer:** Its rays arrive at a slant and spread thin over the ground. *Why:* The Sun does rise there in spring, and it stays up all summer. But it stays low in the sky, so its light spreads over a wide patch of ground. The pole is not the farthest place from the Sun, and the Sun's day is long there, not short.
+11. (mcq) What is a monsoon?  
    Options: Any heavy rain / A wind that reverses with the seasons / A storm from the sea / The hottest month  
    **Answer:** A wind that reverses with the seasons. *Why:* The word means season. The wind blows from the south-west sea in summer and from the north-east in winter.
-11. (mcq) The old Tamil calendar and the Sanskrit calendar both count how many seasons?  
+12. (mcq) The old Tamil calendar and the Sanskrit calendar both count how many seasons?  
    Options: Two / Four / Six / Twelve  
    **Answer:** Six. *Why:* Both count six, with different names and starting points. India's weather office counts four.
-12. (mcq) Why does Pongal now come about three weeks after the December solstice?  
+13. (mcq) Why does Pongal now come about three weeks after the December solstice?  
    Options: The Earth has slowed down / The axis slowly wobbles, shifting the stars / The calendar lost three weeks in 1957 / The Sun has moved  
    **Answer:** The axis slowly wobbles, shifting the stars. *Why:* Pongal follows the stars. Precession slowly shifts the stars behind the Sun, about one day in 70 years.
+14. (mcq) A seasons journal has five themes: plants, animals, weather, water and people. Which theme does this entry fit? 'The tap ran dry in April and is running again in July.'  
+   Options: Plants / Water / Weather / People  
+   **Answer:** Water. *Why:* That note is about water in the tap. A note about heat or wind would go under weather, and a note about who came to the house would go under people.
 
 ## Applications
 - Builders set the depth of a chajja, the ledge above a window, from the height of the noon Sun in summer and in winter.

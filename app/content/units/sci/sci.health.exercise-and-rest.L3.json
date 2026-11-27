@@ -83,6 +83,12 @@
    "art": "A child sitting cross-legged with eyes closed, a hand on the belly rising with the breath."
   },
   {
+   "term": "Posture",
+   "meaning": "Posture is the way you hold your body when you sit, stand or walk.",
+   "example": "Sitting tall at your desk with your back straight is good posture.",
+   "art": "Two children at desks: one slouching, one sitting tall with a straight back."
+  },
+  {
    "term": "Sleep cycle",
    "meaning": "During a night, sleep goes round in cycles. Each cycle has light sleep, deep sleep and dreaming sleep, and lasts about one and a half hours in older children and adults.",
    "example": "In ten hours of sleep, you go round the cycle about six or seven times.",
@@ -152,6 +158,19 @@
    "context": "This card is about what exercise does to your body when you do it often, over weeks and months."
   },
   {
+   "concept": "Staying active, in body and mind",
+   "status": "idea",
+   "description": "Exercise is good for your mind as well as your body. After a game of kho-kho, most people feel happier and think more clearly, and they sleep better that night. You do not have to run to stay active. A grandfather whose knees ache can still walk slowly in the park each morning, as many elders do. If walking is hard for a while, he can play chess or carrom with friends, which keeps his mind busy and gives him company. A doctor can say which movements are safe for a person in pain. The idea is the same at any age: keep the body moving in the ways it can, and keep the mind busy.",
+   "examples": [
+    "A grandmother walks to the temple and back every morning. She feels cheerful and sleeps well.",
+    "A grandfather with sore knees plays chess on the verandah with his neighbour each evening.",
+    "A girl who skips for ten minutes before homework finds it easier to focus."
+   ],
+   "perspectives": [],
+   "art": "A park at sunrise: an elder walking slowly, two old friends playing chess on a bench, and a child skipping nearby.",
+   "context": "This card says that being active is good for the mind too, and that every body can stay active in its own way."
+  },
+  {
    "concept": "Yoga",
    "status": "defined",
    "definition": "Yoga is an old Indian practice. It has three main parts: poses called asanas, slow breathing called pranayama, and paying close attention to the body and the mind.",
@@ -164,6 +183,33 @@
    "perspectives": [],
    "art": "A family doing yoga on mats on a small balcony in the morning, a grandmother in tree pose, a child in cobra pose.",
    "context": "This card says what yoga is, where it comes from, and what it does for the body."
+  },
+  {
+   "concept": "Yoga and posture",
+   "status": "defined",
+   "definition": "Posture is the way you hold your body when you sit, stand or walk.",
+   "description": "Think of a child bent over a desk for an hour. Her shoulders round forward and her back aches. Yoga poses like mountain pose and cobra pose make the back and shoulder muscles stronger. Stronger muscles make it easier to sit and stand tall, so good posture gets less tiring.",
+   "examples": [
+    "Mountain pose, tadasana, is standing tall with the body in one straight line.",
+    "Cobra pose lifts the chest and uses the muscles along the back."
+   ],
+   "perspectives": [],
+   "art": "Two children at desks: one slouching, one sitting tall with a straight back.",
+   "context": "This card says how yoga helps the way you hold your body."
+  },
+  {
+   "concept": "Deep breathing",
+   "status": "defined",
+   "definition": "Deep breathing is breathing in slowly so the belly rises, and out even more slowly.",
+   "description": "Pranayama is yoga's breathing practice, and deep breathing is the simplest kind. Sit tall and put a hand on your belly. Breathe in slowly through the nose until your belly pushes your hand out. Then breathe out slowly. A few slow breaths like this usually slow your heartbeat a little and help you feel calmer. That is why people try it before a test or a performance, or when they feel upset. It is not a cure for illness. It is one way to help your body settle, and you can do it anywhere, for free.",
+   "examples": [
+    "Before a school race, a girl takes five slow breaths and feels her fast heartbeat slow down.",
+    "At bedtime, a boy breathes in for a count of four and out for six, and his body feels ready to rest.",
+    "The bee breath, bhramari, is a deep breath out with a hum."
+   ],
+   "perspectives": [],
+   "art": "A child sitting cross-legged with a hand on the belly, a small arrow showing the belly rising as the air goes in.",
+   "context": "This card says how to do deep breathing and what it helps with."
   },
   {
    "concept": "What happens while you sleep",
@@ -1962,6 +2008,42 @@
    "a": 1,
    "why": "Sleep helps the brain store what was learned, and play gives the body exercise. Studying until midnight leaves only 6 hours of sleep, far less than a child needs.",
    "outcome": 6
+  },
+  {
+   "t": "mcq",
+   "p": "You feel nervous before a race, and your heart is beating fast. What can a few slow, deep breaths do?",
+   "opts": [
+    "Usually help your body calm down and slow the heartbeat a little",
+    "Make your muscles bigger straight away",
+    "Take the place of a night's sleep"
+   ],
+   "a": 0,
+   "why": "Slow deep breathing usually helps the body settle and feel calmer. It does not build muscle in a minute, and nothing replaces sleep.",
+   "outcome": 3
+  },
+  {
+   "t": "mcq",
+   "p": "Meera slouches over her desk. How can yoga help her?",
+   "opts": [
+    "Poses like cobra make her back and shoulder muscles stronger, so she can sit tall",
+    "Yoga makes her backbone longer",
+    "Yoga means she never has to sit at a desk"
+   ],
+   "a": 0,
+   "why": "Posture is how you hold your body. Stronger back and shoulder muscles make a tall seat easier. Yoga does not stretch the bones or remove the desk.",
+   "outcome": 3
+  },
+  {
+   "t": "mcq",
+   "p": "Dadaji's knees ache, so he cannot run. What can he still do to stay active in body and mind?",
+   "opts": [
+    "Walk slowly in the park and play chess with a friend",
+    "Stay in bed all day until the pain is gone",
+    "Nothing, because only running counts as exercise"
+   ],
+   "a": 0,
+   "why": "Gentle walking keeps the body moving, and chess keeps the mind busy. Running is not the only exercise. A doctor can say what is safe for a person in pain.",
+   "outcome": 2
   }
  ],
  "worksheets": [
@@ -2154,6 +2236,23 @@
      "a": "A child standing on one leg, with the standing leg's calf, thigh and ankle marked.",
      "why": "The standing leg does all the work, making tiny corrections to keep you balanced.",
      "art": "A blank box with a floor line."
+    },
+    {
+     "t": "order",
+     "p": "Put the steps of one deep breath in order.",
+     "items": [
+      "Breathe out slowly",
+      "Sit tall and put a hand on your belly",
+      "Feel your belly push your hand out",
+      "Breathe in slowly through your nose"
+     ],
+     "a": [
+      "Sit tall and put a hand on your belly",
+      "Breathe in slowly through your nose",
+      "Feel your belly push your hand out",
+      "Breathe out slowly"
+     ],
+     "why": "First sit tall, then breathe in slowly so the belly rises, then breathe out slowly."
     }
    ]
   },
@@ -2341,6 +2440,13 @@
      "a": "Light sleep first, then deep sleep, then dreaming sleep, before the cycle begins again.",
      "why": "A night is made of several of these cycles.",
      "art": "A circle divided into three unlabelled parts, with an arrow showing the direction of the cycle."
+    },
+    {
+     "t": "write",
+     "p": "Say it out loud, and a grown-up writes it: your grandmother says, 'I cannot run, so I cannot exercise.' What can you tell her?",
+     "lines": 2,
+     "a": "She can walk slowly or do gentle yoga, and play chess or carrom to keep her mind busy. Being active helps the body and the mind.",
+     "why": "A strong answer says exercise is not only running, and gives one way for the body and one way for the mind."
     }
    ]
   },
@@ -2502,6 +2608,15 @@
      "a": "A circle of 24 slices with 9 to 10 slices for sleep, about 6 for school or study, at least 1 for active play, and slices for meals.",
      "why": "A child needs 9 to 12 hours of sleep and at least one hour of active play a day.",
      "art": "A blank circle divided into 24 equal slices."
+    },
+    {
+     "t": "fill",
+     "p": "Yoga can help your ______, which is the way you hold your body when you sit and stand. It does this by making your back and shoulder ______ stronger.",
+     "a": [
+      "posture",
+      "muscles"
+     ],
+     "why": "Posture is how you hold your body. Strong back and shoulder muscles make it easier to sit and stand tall."
     }
    ]
   }

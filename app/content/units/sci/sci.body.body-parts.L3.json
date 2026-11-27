@@ -150,6 +150,12 @@
    "art": "A simple outline of a child wearing underwear and a vest, with the underwear area shaded."
   },
   {
+   "term": "Period",
+   "meaning": "A period is the few days each month when a girl or woman bleeds a little from the vulva. It is normal and healthy.",
+   "example": "A girl changes her clean pad every four to six hours during her period.",
+   "art": "A girl smiling and holding a packet of pads in a school bag, with a calendar behind her."
+  },
+  {
    "term": "Trusted adult",
    "meaning": "A grown-up you know well, who listens to you and keeps you safe.",
    "example": "A parent, a grandparent, an aunt or a teacher can be a trusted adult.",
@@ -180,7 +186,7 @@
   {
    "concept": "Skin: the biggest organ",
    "status": "defined",
-   "description": "Spread out flat, a grown-up's skin would cover about one door. Skin has many jobs. It keeps water inside you, so you do not dry up. It keeps dirt and most germs out. It lets you feel touch, heat, cold and pain. When you are hot, sweat comes out through tiny holes called pores, and you cool down as it dries. In sunlight, skin also makes vitamin D, which your bones need. To care for skin, bathe every day, dry the folds well, and cover cuts. Stay in the shade in the hottest part of the day.",
+   "description": "Spread out flat, a grown-up's skin would cover about one door. Skin has many jobs. It keeps water inside you, so you do not dry up. It keeps dirt and most germs out. It lets you feel touch, heat, cold and pain. When you are hot, sweat comes out through tiny holes called pores, and you cool down as it dries. In sunlight, skin also makes vitamin D, which your bones need. To care for skin, bathe every day, dry the folds well, and cover cuts. Stay in the shade in the hottest part of the day. Skin guards you from heat, cold and dirt. In the dry cold of winter, skin can crack, so a little coconut or mustard oil after a bath keeps it soft. Avoid harsh soap and hard scrubbing.",
    "examples": [
     "A bandage on a cut keeps dirt out while the skin mends itself.",
     "Your fingertips can feel a single grain of rice in your palm with your eyes shut.",
@@ -222,7 +228,7 @@
   {
    "concept": "Eyes and their guards",
    "status": "defined",
-   "description": "Your eyes are soft and easy to hurt, so they have many guards. Your eyebrows stop sweat and rain running into them. Your eyelashes catch dust. Your eyelids blink shut in a flash when something comes close. Each blink spreads tears over the eye, keeping it wet and washing dust away. To care for your eyes, never rub them hard. If something gets in, blink and wash with clean water. Read in good light, and look far away often. Never look at the sun, not even for a moment.",
+   "description": "Your eyes are soft and easy to hurt, so they have many guards. Your eyebrows stop sweat and rain running into them. Your eyelashes catch dust. Your eyelids blink shut in a flash when something comes close. Each blink spreads tears over the eye, keeping it wet and washing dust away. To care for your eyes, never rub them hard. If something gets in, blink and wash with clean water. Read in good light, and look far away often. Never look at the sun, not even for a moment. Wash your eyes with clean water when kitchen smoke, dust or dirt gets in. Look away from very bright light, such as a welding spark or the sun. Never put drops, oil or any medicine in your eyes unless a doctor says so.",
    "examples": [
     "When a ball flies at your face, your eyes shut before you decide to shut them.",
     "Onion juice in the air makes your eyes fill with tears.",
@@ -264,7 +270,7 @@
   {
    "concept": "Mouth and teeth",
    "status": "defined",
-   "description": "Children have 20 milk teeth. From about age 6, they fall out one by one, and bigger teeth grow in. A full grown-up set has 32 teeth. Front teeth cut and bite. Back teeth grind food, like a grinding stone. Teeth are covered in enamel, the hardest material in your body. But tiny germs in your mouth feed on sugar and make acid. The acid slowly eats holes in the enamel. To care for your teeth, brush twice a day, for about two minutes. Brushing at night matters most, because your mouth makes less spit while you sleep. Spit helps protect teeth. Rinse your mouth with water after eating, and keep sweet sticky food for mealtimes.",
+   "description": "Children have 20 milk teeth. From about age 6, they fall out one by one, and bigger teeth grow in. A full grown-up set has 32 teeth. Front teeth cut and bite. Back teeth grind food, like a grinding stone. Teeth are covered in enamel, the hardest material in your body. But tiny germs in your mouth feed on sugar and make acid. The acid slowly eats holes in the enamel. To care for your teeth, brush twice a day, for about two minutes. Brushing at night matters most, because your mouth makes less spit while you sleep. Spit helps protect teeth. Rinse your mouth with water after eating, and keep sweet sticky food for mealtimes. Tobacco harms the mouth. Gutka, and paan with tobacco, stain the teeth and make the gums sore and weak. Over many years they can cause cancer, a serious illness, in the mouth. People who have chewed tobacco for years often find it hard to stop. Staying away from it protects your teeth and gums.",
    "examples": [
     "A toffee stuck between your teeth feeds mouth germs for hours.",
     "Front teeth cut a guava. Back teeth grind it.",
@@ -316,6 +322,20 @@
    "art": "A simple outline of a child in vest and underwear, a hand raised to say 'stop', and a trusted grown-up nearby listening.",
    "context": "This card is about the private parts: their names, how to keep them clean, and the rules that keep you safe.",
    "definition": "Private parts are the parts of the body covered by underwear. Boys have a penis and girls have a vulva. Both have a bottom, with an opening called the anus. They are used to pass urine and stool."
+  },
+  {
+   "concept": "Periods: a normal part of growing up",
+   "status": "defined",
+   "context": "This card is about periods, which girls have as they grow up, and how to keep clean during them.",
+   "definition": "A period is the few days each month when a girl or woman bleeds a little from the vulva. It is a normal, healthy part of growing up.",
+   "description": "Girls usually have their first period between about 10 and 14 years old. For three to seven days each month, a little blood comes out. It is not an injury, and it does not mean she is ill. A girl having her period is not dirty. Some families have old customs that keep girls away from the kitchen or the temple at this time. Doctors say there is no reason for this: a girl having a period is healthy and can do what she feels able to do. To keep clean, use a clean pad or a clean, dry cloth. Change it every four to six hours, or sooner if it is wet. Wash a used cloth with soap and water, and dry it fully in sunlight if you can. A damp cloth can give a rash or an infection. After using the toilet, clean with water from front to back. Wash your hands with soap. Many girls feel tired or have a tummy ache. Rest, warm water and a hot water bag can help. Boys can learn about periods too, so they can support their sisters, friends and mothers.",
+   "examples": [
+    "A girl in a school toilet changes her pad, puts the used one in a paper bag in the dustbin, and washes her hands with soap.",
+    "A mother washes cotton cloth with soap and dries it in the sun, so that it is fully dry before it is used again.",
+    "A big brother brings his sister a hot water bag when she has a tummy ache."
+   ],
+   "perspectives": [],
+   "art": "A mother and her daughter sitting together, talking, with a pad packet, a clean folded cotton cloth and a bar of soap on the bed beside them."
   },
   {
    "concept": "Little guards that look like dirt",
@@ -1002,6 +1022,19 @@
      "art": "A simple drawing of one child's eye and the skin around it, front view, with three empty label lines pointing to the eyebrow, the eyelashes and the eyelid."
     },
     {
+     "t": "fill",
+     "p": "After a period, a used cloth should be washed with soap and dried fully in the ________.",
+     "a": "sun",
+     "why": "Sunlight helps dry the cloth completely. A damp cloth can give a rash or infection.",
+     "art": "A clean cotton cloth drying on a line in the sun."
+    },
+    {
+     "t": "truefalse",
+     "p": "Your cousin has red, itchy eyes. A neighbour says, 'Put in these drops I have at home.' This is a good idea.",
+     "a": false,
+     "why": "False. Only a doctor can say which drops are safe. Meanwhile, wash the eyes with clean water and do not rub them."
+    },
+    {
      "t": "draw",
      "p": "Draw your hand. Mark the places people most often forget when washing.",
      "how": "a3",
@@ -1259,6 +1292,51 @@
       "prints"
      ],
      "why": "Sweat, and oil picked up from the face and hair, leave the pattern of the ridges on whatever we touch. That is also how germs pass from hands to things."
+    },
+    {
+     "t": "sort",
+     "p": "Sort these into HELPS TEETH AND GUMS and HARMS TEETH AND GUMS.",
+     "cats": [
+      "Helps",
+      "Harms"
+     ],
+     "items": [
+      [
+       "brushing twice a day",
+       "Helps"
+      ],
+      [
+       "chewing gutka",
+       "Harms"
+      ],
+      [
+       "rinsing with water after a meal",
+       "Helps"
+      ],
+      [
+       "paan with tobacco",
+       "Harms"
+      ],
+      [
+       "a toffee stuck between the teeth all evening",
+       "Harms"
+      ],
+      [
+       "brushing before bed",
+       "Helps"
+      ]
+     ],
+     "a": "see items",
+     "why": "Tobacco stains teeth and makes the gums sore, and can cause cancer in the mouth. Brushing and rinsing remove food that germs turn to acid.",
+     "art": "Six small drawings: a toothbrush, a gutka packet, a glass of water, a paan, a toffee and a brush before bed."
+    },
+    {
+     "t": "write",
+     "p": "A girl in your class has her first period. A boy laughs and says it is dirty. What would you say to him? Tell a grown-up, who writes your answer down.",
+     "lines": 3,
+     "a": "A strong answer says a period is normal and healthy, every girl and woman has them, and a girl having a period is not dirty. It is kinder to help.",
+     "why": "Periods are a normal part of growing up. Laughing makes a girl feel ashamed for no reason. Knowing the facts helps everyone be kind.",
+     "art": "Lines for writing."
     }
    ]
   },
@@ -2945,6 +3023,54 @@
    "a": 0,
    "why": "The ridges grow bigger as the fingers grow, but the pattern of loops, whorls and forks stays the same. That is why police can use them.",
    "outcome": 7
+  },
+  {
+   "t": "mcq",
+   "p": "Kitchen smoke makes your eyes sting, and a neighbour offers you eye drops from her house. What is the best thing to do?",
+   "opts": [
+    "Use her drops, since they are only drops",
+    "Wash your eyes with clean water, and take no drops unless a doctor says so",
+    "Rub your eyes hard until the stinging stops"
+   ],
+   "a": 1,
+   "why": "Clean water washes smoke out. Only a doctor can say which drops are safe, and the wrong drops can harm the eye. Rubbing hard can scratch the eye.",
+   "outcome": 1
+  },
+  {
+   "t": "mcq",
+   "p": "Your uncle chews gutka every day. What does tobacco do to his mouth?",
+   "opts": [
+    "It makes the teeth whiter and the gums strong",
+    "It stains the teeth and makes the gums sore, and over many years it can cause cancer",
+    "It only changes how his breath smells for an hour"
+   ],
+   "a": 1,
+   "why": "Tobacco in gutka and in tobacco paan harms teeth and gums, and can cause cancer of the mouth. It does not clean or strengthen anything. Rinsing and brushing help, but staying away from tobacco protects the most.",
+   "outcome": 1
+  },
+  {
+   "t": "mcq",
+   "p": "Meena has her first period at school. What is the best thing for her to do?",
+   "opts": [
+    "Use a clean pad or cloth, change it every four to six hours, and wash her hands",
+    "Tell nobody and stay in the toilet until school ends",
+    "Use the same cloth for two days without washing it"
+   ],
+   "a": 0,
+   "why": "A period is normal, and a clean pad or cloth keeps her comfortable and well. A damp or dirty cloth can give a rash or infection. A trusted grown-up or teacher can help.",
+   "outcome": 3
+  },
+  {
+   "t": "mcq",
+   "p": "In winter, the skin on Rahul's hands is dry and cracked. What can help?",
+   "opts": [
+    "A little coconut or mustard oil after he dries his hands",
+    "Scrubbing them with harsh soap",
+    "Washing them in very hot water again and again"
+   ],
+   "a": 0,
+   "why": "Oil keeps skin soft and stops it cracking in dry cold weather. Harsh soap and hot water take away more of the skin's oil and make it worse.",
+   "outcome": 1
   }
  ],
  "applications": [

@@ -117,6 +117,7 @@ If white light can be split into colours, can the colours be put back into white
 - e.g. A spinning rainbow top looks pale while it spins fast.
 - e.g. Phone and TV screens make white from tiny red, green and blue dots very close together.
 - e.g. A second prism, turned the other way, can join the colours again.
+- e.g. A square card spun fast can look round, because the moving corners blur together in your eye.
 ### Is colour in the light or in us? · *debated*
 Light has a wavelength, but the light itself does not carry the feeling of red. The feeling of red is made when light of that wavelength reaches an eye, and the brain turns the signals into a colour. Most people have three kinds of colour-sensing cells in their eyes. Each kind is best at a different part of the rainbow. The brain compares them and makes the colours we feel. Some people have only two kinds working. They mix up some colours, like red and green. The pink-purple called magenta is not in the rainbow at all. Your brain makes it when red and blue light arrive together, with no green.
 - e.g. Magenta, the colour of many bougainvillea flowers, has no place of its own in the rainbow.
@@ -671,7 +672,7 @@ Maryam frowned at her, as if she had gone mad. But Zainab only smiled, and stood
 16. (mcq) Why does a white shirt look white in sunlight?  
    Options: It reflects nearly all the colours of sunlight together / It absorbs all the colours / It makes its own white light / It has no colour at all  
    **Answer:** It reflects nearly all the colours of sunlight together. *Why:* When all the colours reach your eye together, you see white. A white shirt reflects them all. A black shirt absorbs nearly all of them, which is why it looks dark.
-### Bending, Bouncing and Blue Skies (stretch) (stretch, 15 questions)
+### Bending, Bouncing and Blue Skies (stretch) (stretch, 16 questions)
 1. (mcq) Each colour bends by its own amount in a prism. Predict: if every colour bent by exactly the same amount, what would you see on the floor?  
    Options: A patch of white light, with no colours / A brighter rainbow / Only red / The colours in the opposite order  
    **Answer:** A patch of white light, with no colours. *Why:* The colours spread apart only because they bend by different amounts. If they all bent the same, they would stay together and look white. This is why a flat window pane makes no rainbow: light comes out at the same angle it went in.
@@ -707,6 +708,8 @@ Maryam frowned at her, as if she had gone mad. But Zainab only smiled, and stood
    **Answer:** A white beam enters one side. Colours fan out of the other side, with red bent least and violet bent most.. *Why:* Each colour bends by its own amount. Violet bends most, so it ends up furthest from the straight path.
 15. (write) You hold green cellophane in the sunbeam, and then hold red cellophane in front of it too. Predict what reaches the floor, and explain.  
    **Answer:** A strong answer predicts that almost no light reaches the floor, so the patch goes dark. The green filter lets only green through. The red filter absorbs green and lets only red through. So almost nothing passes both.. *Why:* A filter does not add colours. It only takes some away. Two different filters together take away nearly all of them.
+16. (truefalse) A square card spun fast really turns into a circle.  
+   **Answer:** False. *Why:* False. The card stays square. Your eye blurs its moving corners, so the edge looks round.
 ### Colour Beyond the Rainbow (challenge) (challenge, 16 questions)
 1. (mcq) Newton passed red light from one prism through a second prism. What happened?  
    Options: It stayed red / It split into more colours / It turned white / It disappeared  
@@ -791,6 +794,9 @@ Maryam frowned at her, as if she had gone mad. But Zainab only smiled, and stood
 13. (mcq) You mix red, yellow, green and blue paint together in a cup. What colour do you get?  
    Options: White, like sunlight / A dark, muddy brown / A bright rainbow / Clear, like water  
    **Answer:** A dark, muddy brown. *Why:* Each paint's pigment absorbs some colours. Mixed together, they absorb nearly all of them, so very little light is reflected. Picking 'white' mixes up paint with light. Coloured lights add up to white, but paints do not.
+14. (mcq) You spin a square card fast, and it looks round. Why?  
+   Options: The card really turned round / Your eye blurs the moving corners together, so the edge looks like a circle / The square was painted round / Spinning bends the square into a circle  
+   **Answer:** Your eye blurs the moving corners together, so the edge looks like a circle. *Why:* The corners move so fast that your eye blurs them into one smooth edge. The card stays square. 'The card really turned round' is a fair guess, but a square card still has four corners when it stops.
 
 ## Applications
 - Scientists split starlight into rainbows to find out what stars and planets are made of.

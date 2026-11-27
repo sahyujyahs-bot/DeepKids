@@ -37,7 +37,7 @@
 ### The main bones and their names · *defined*
 **Definition:** A skeleton is the frame of hard parts that holds up a body. A grown-up human skeleton is usually counted as 206 bones.
 
-Start at the top. The skull is a box of bones around the brain. The lower jaw is the only part of the skull that moves. The backbone is a chain of small bones called vertebrae. It runs from the skull to the hips. Twelve pairs of ribs curve round from the backbone, and most of them join the breastbone at the front. The collarbone and the shoulder blade hold each arm on. The upper arm has one bone, called the humerus. The forearm has two, called the radius and the ulna. The hip bones make a ring called the pelvis. The thigh bone is called the femur, and it is the longest bone you have. The kneecap sits in front of the knee. The lower leg has two bones. The thick one at the front is the shin bone, called the tibia. More than half of your 206 bones are in your hands and feet. A baby has more separate bones than a grown-up, because some bones join together as a child grows.
+Start at the top. The skull is a box of bones around the brain. The lower jaw is the only part of the skull that moves. The backbone is a chain of small bones called vertebrae. It runs from the skull to the hips. Twelve pairs of ribs curve round from the backbone, and most of them join the breastbone at the front. The collarbone and the shoulder blade hold each arm on. The upper arm has one bone, called the humerus. The forearm has two, called the radius and the ulna. The hip bones make a ring called the pelvis. The thigh bone is called the femur, and it is the longest bone you have. The kneecap sits in front of the knee. The lower leg has two bones. The thick one at the front is the shin bone, called the tibia. More than half of your 206 bones are in your hands and feet. A baby has more separate bones than a grown-up, because some bones join together as a child grows. The skull is a box for the brain, and the backbone guards the spinal cord, the bundle of nerves that runs down its middle. A child's backbone has 33 small bones. As you grow, the lowest ones join together, so a grown-up has about 26.
 - e.g. Each hand has 27 bones, and each foot has 26.
 - e.g. The smallest bone is deep inside your ear. It is smaller than a grain of rice.
 - e.g. Sushruta, a surgeon of ancient India, counted 300 bones. His list included teeth and pieces of cartilage, which doctors today do not count as bones.
@@ -553,7 +553,7 @@ Afterwards Chithi gave Thangam a steel tumbler of buttermilk. As she lifted it t
 15. (mcq) Which of these foods is rich in calcium for building bone?  
    Options: Ragi / Sugar / Cooking oil / Salt  
    **Answer:** Ragi. *Why:* Ragi, milk, curd, sesame seeds and drumstick leaves are rich in calcium. Sugar, oil and salt have almost none.
-### How skeletons work (stretch, 15 questions)
+### How skeletons work (stretch, 16 questions)
 1. (mcq) The biceps joins the forearm close to the elbow. What does the body gain from this?  
    Options: The hand moves far and fast / The muscle pulls less hard / The arm weighs less / The elbow bends both ways  
    **Answer:** The hand moves far and fast. *Why:* A short pull close to the joint swings the hand a long way, quickly. The cost is that the muscle must pull much harder than the load weighs.
@@ -588,6 +588,8 @@ Afterwards Chithi gave Thangam a steel tumbler of buttermilk. As she lifted it t
    **Answer:** The insect's leg is a hard tube with the muscles inside it. The arm has the bones in the middle with the muscles wrapped round them and skin on the outside.. *Why:* A strong drawing puts the hard part outside the muscles in the insect, and inside the muscles in the arm.
 15. (fill) A hard skeleton on the outside of an animal's body is called an ____.  
    **Answer:** ['exoskeleton']. *Why:* 'Exo' means outside. A skeleton inside the body is called an endoskeleton.
+16. (count) A child's backbone has 33 small bones. A grown-up's has about 26, after the lowest bones join. How many fewer bones does a grown-up's backbone have?  
+   **Answer:** 7. *Why:* 33 take away 26 is 7. The lowest bones join together as you grow, so the number drops.
 ### Testing ideas about skeletons (challenge, 15 questions)
 1. (mcq) A ruler arm's band is tied at 10 centimetres. The load is at 30 centimetres. How hard must the band pull?  
    Options: About 3 times the load / One third of the load / The same as the load / About 30 times the load  
@@ -666,6 +668,9 @@ Afterwards Chithi gave Thangam a steel tumbler of buttermilk. As she lifted it t
 12. (mcq) A human arm and a bat's wing have the same bones. Why?  
    Options: Humans and bats share ancestors / Both are used for flying / Bats copied humans / It is only a chance likeness  
    **Answer:** Humans and bats share ancestors. *Why:* The ancestors of all four-limbed vertebrates had a limb with these bones. Over millions of years the same bones changed shape for different jobs.
+13. (mcq) How many small bones does a child's backbone have?  
+   Options: 33 / 12 / 206 / 24  
+   **Answer:** 33. *Why:* A child's backbone has 33 small bones. The lowest ones join as you grow, so a grown-up has about 26. Twelve is the number of rib pairs, and 206 is the count for a whole grown-up skeleton.
 
 ## Applications
 - Doctors use the way bone mends itself. A plaster cast or a metal plate only holds the broken ends still, and the bone cells do the joining.

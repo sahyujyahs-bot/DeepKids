@@ -52,6 +52,18 @@
    "art": "A grain of rice drawn very big, with a zoom-in circle showing a long chain of small beads."
   },
   {
+   "term": "Cereal",
+   "meaning": "A cereal is a grain that people grow and eat, like rice, wheat, ragi or bajra. Cereals are full of starch.",
+   "example": "Rice in Kerala, wheat for chapati in Punjab and ragi in Karnataka.",
+   "art": "Four small heaps of grain: white rice, golden wheat, brown ragi and round bajra."
+  },
+  {
+   "term": "Pulse",
+   "meaning": "A pulse is the dried seed of a bean or lentil plant. Pulses give protein for growing.",
+   "example": "Moong, masoor, chana and rajma are all pulses. We cook them as dal.",
+   "art": "Four small bowls of moong, masoor, chana and rajma, each with a label."
+  },
+  {
    "term": "Saliva",
    "meaning": "Saliva is the proper word for spit. It wets your food and starts breaking it down.",
    "example": "Your mouth fills with saliva when you smell hot dosa.",
@@ -80,6 +92,19 @@
    "art": "A child-sized thali divided into three coloured parts: rice and chapati in yellow, dal and curd in red, greens and fruit in green."
   },
   {
+   "concept": "Food families, and food that mends",
+   "status": "idea",
+   "description": "Foods come in families with their own names. Rice, wheat, ragi and bajra are cereals, which are grains. Dal, rajma, chana and moong are pulses, which are dried seeds of bean plants. Fruits, vegetables and milk are families too. Food also mends you. When you scrape your knee, the protein in dal, egg or paneer helps build new skin. The vitamin C in a guava, an amla or a lemon helps the cut close.",
+   "examples": [
+    "Chapati is made from wheat, a cereal. The dal you eat with it is a pulse.",
+    "A guava eaten after a scraped knee gives vitamin C to help the cut close.",
+    "Curd, a vegetable sabzi and a fruit are three more families on one plate."
+   ],
+   "perspectives": [],
+   "context": "This card names the food families and says how food repairs the body.",
+   "art": "A table with piles of rice, wheat, dal, a guava, a bowl of vegetables and a glass of milk, each with a name card."
+  },
+  {
    "concept": "How energy foods give us energy",
    "status": "defined",
    "definition": "Energy foods are full of starch, and starch is long chains of sugar. Your body cuts the chains into sugar and uses the sugar for energy.",
@@ -97,7 +122,7 @@
    "concept": "Treats in small amounts",
    "status": "defined",
    "definition": "Treats give lots of energy from sugar or fat, but little to help you grow or protect you. So they are best now and then, in small amounts.",
-   "description": "Sweets, sweet drinks, chips and fried snacks taste very good and give a lot of energy quickly. But they do little to help you grow or to protect you. If treats fill your tummy, there is less room for foods that build and protect you. Sugar also stays on your teeth, where tiny living beings called bacteria feed on the sugar and make acid. So a treat is for sometimes, like payasam at Onam or a sweet at Durga Puja.",
+   "description": "Sweets, sweet drinks, chips and fried snacks taste very good and give a lot of energy quickly. But they do little to help you grow or to protect you. If treats fill your tummy, there is less room for foods that build and protect you. Sugar also stays on your teeth, where tiny living beings called bacteria feed on the sugar and make acid. So a treat is for sometimes, like payasam at Onam or a sweet at Durga Puja. Many people call these foods junk food. A plate of dal, rice, sabzi and curd is the opposite. It fills you up and helps you grow, run and stay well.",
    "examples": [
     "Many sweet fizzy drinks have about 4 to 5 teaspoons of sugar in one 200 ml glass.",
     "A small plate of murukku at Diwali is a treat. A plate every day after school is not.",
@@ -128,6 +153,32 @@
    ],
    "context": "This card is about foods that do more than one job.",
    "art": "A glass of milk in the middle, with three arrows to a growing child, a running child and a strong white tooth."
+  },
+  {
+   "concept": "Water, the drink your body needs",
+   "status": "idea",
+   "description": "More than half of your body is water. Water carries the good parts of food around your body in your blood. It also leaves your body as sweat, which cools you on a hot day, and as pee, which takes away waste. You lose water all day, so you must drink to replace it. Water gives no energy and does not build muscle like dal does. But without it, no food can do its work. Thirst is your body asking for water.",
+   "examples": [
+    "After a game of kabaddi your shirt is wet with sweat. A glass of water gives back what you lost.",
+    "On a hot day in Rajasthan, people drink chaas, nimbu pani and plain water from a matka to stay cool inside.",
+    "Fruits like watermelon and cucumber have a lot of water in them, so they help too."
+   ],
+   "perspectives": [],
+   "context": "This card says what water does, which no food group does.",
+   "art": "A child drinking from a steel glass after play, with arrows showing water going into the blood and out as sweat."
+  },
+  {
+   "concept": "Different ages need different food",
+   "status": "idea",
+   "description": "A tiny baby needs only milk for about the first six months, and mother's milk is best. Then the baby slowly starts soft foods like mashed rice, dal water and banana. In many Indian families this first rice is a small ceremony called annaprashan. A child is growing taller every year, so a child needs plenty of grow foods like dal, milk and eggs, and energy foods for running and play. Grandparents have finished growing. Their teeth are often weaker, so they eat softer food like khichdi and curd. Many elders also eat less salt and sugar, and need calcium to keep bones strong. Everyone still needs all three jobs of food, just in different amounts and in a form their body can manage.",
+   "examples": [
+    "A six-month-old tastes a smear of mashed banana. A seven-year-old eats an egg and a chapati.",
+    "A grandmother with weak teeth has soft khichdi with ghee and a glass of buttermilk.",
+    "The whole family sits at one meal, but each plate is a little different."
+   ],
+   "perspectives": [],
+   "context": "This card says why a baby, a child and a grandparent do not eat the same things.",
+   "art": "Three bowls on a table: mashed banana for a baby, a full thali for a child, and soft khichdi for a grandmother."
   }
  ],
  "agreed": [
@@ -1402,6 +1453,54 @@
    "a": true,
    "why": "True. Treats are part of the fun of festivals. The trouble comes when treats are eaten often and push other foods out.",
    "outcome": 3
+  },
+  {
+   "t": "mcq",
+   "p": "Moong, masoor and chana are dried seeds that we cook as dal. Which food family are they?",
+   "opts": [
+    "Cereals",
+    "Pulses",
+    "Fruits"
+   ],
+   "a": 1,
+   "why": "Pulses are dried seeds of bean and lentil plants, and they give protein. Cereals are grains like rice and wheat. Fruits grow on plants as fleshy, often sweet, parts.",
+   "outcome": 1
+  },
+  {
+   "t": "mcq",
+   "p": "You scrape your knee. Which meal helps new skin grow back?",
+   "opts": [
+    "Dal, rice and a guava",
+    "A packet of chips and a sweet fizzy drink",
+    "Only a plate of jalebi"
+   ],
+   "a": 0,
+   "why": "The protein in dal helps build new skin, and the vitamin C in a guava helps the cut close. Chips, fizzy drinks and jalebi are treats with little of either.",
+   "outcome": 0
+  },
+  {
+   "t": "mcq",
+   "p": "After a hot game your shirt is wet with sweat. Why should you drink water?",
+   "opts": [
+    "Your body lost water in the sweat and needs it back",
+    "Water gives you the energy that rice gives",
+    "Water builds muscle, like dal"
+   ],
+   "a": 0,
+   "why": "Sweat is mostly water, so you must replace it. Water gives no energy and does not build muscle, but food cannot do its work without it.",
+   "outcome": 0
+  },
+  {
+   "t": "mcq",
+   "p": "Why does a baby of four months get only milk, and not rice and dal?",
+   "opts": [
+    "Milk has all a tiny baby needs, and the baby's body is not ready for other food yet",
+    "Babies do not need to grow",
+    "Rice and dal are poison for everyone"
+   ],
+   "a": 0,
+   "why": "A tiny baby's body can manage milk, and milk gives all three jobs. Soft foods start slowly at about six months. Babies grow very fast, and rice and dal are fine later.",
+   "outcome": 1
   }
  ],
  "worksheets": [
@@ -1547,6 +1646,35 @@
      "p": "A guava can taste sweet and still be a protect food.",
      "a": true,
      "why": "True. A guava has some sugar, and lots of vitamin C. Taste does not tell you a food's job."
+    },
+    {
+     "t": "match",
+     "p": "Draw a line from each person to the food that suits them best.",
+     "pairs": [
+      [
+       "A baby of four months",
+       "Only milk"
+      ],
+      [
+       "A seven-year-old who plays all day",
+       "Dal, rice, egg or milk, and fruit"
+      ],
+      [
+       "A grandmother with weak teeth",
+       "Soft khichdi and curd"
+      ]
+     ],
+     "a": "pairs as given",
+     "why": "Everyone needs the three jobs of food, but a baby, a child and an elder need them in different forms and amounts."
+    },
+    {
+     "t": "fill",
+     "p": "Rice, wheat and ragi are ______. Dal, rajma and chana are ______.",
+     "a": [
+      "cereals",
+      "pulses"
+     ],
+     "why": "Cereals are grains. Pulses are dried seeds of bean and lentil plants."
     }
    ]
   },
@@ -1651,6 +1779,24 @@
      ],
      "a": 3,
      "why": "Egg, fish and dal are rich in protein for growing. Rice is mostly starch, so it is a go food."
+    },
+    {
+     "t": "write",
+     "p": "Say it out loud, and a grown-up writes it: your friend says, 'Water is not food, so it does nothing for me.' What would you say?",
+     "lines": 2,
+     "a": "Water gives no energy, but more than half of my body is water. It carries food parts in my blood and leaves as sweat to cool me, so I must keep drinking.",
+     "why": "A strong answer says water is not a food that gives energy or builds muscle, and also says what it does for the body."
+    },
+    {
+     "t": "mcq",
+     "p": "Your grandfather has a cut on his hand. Which meal helps it heal best?",
+     "opts": [
+      "Dal, an egg and a guava",
+      "Only sweet tea",
+      "A packet of chips"
+     ],
+     "a": 0,
+     "why": "Dal and egg give protein to build new skin. A guava gives vitamin C to help the cut close. Sweet tea and chips give little of either."
     }
    ]
   }

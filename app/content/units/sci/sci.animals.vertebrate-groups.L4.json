@@ -267,7 +267,7 @@
    "concept": "One pond, many worlds",
    "status": "debated",
    "definition": "",
-   "description": "Put a fish, a pigeon, a snake and a person at the same pond. They have different senses, so they notice different things. Does that mean they live in different worlds? The German biologist Jakob von Uexküll wrote in 1934 that each animal lives in her own sensory world, which he called an umwelt. His famous example was a tick. A tick waits on a branch and reacts to three signals only: the smell of an acid in sweat, the warmth of a body, and the touch of hairy skin. Nothing else about the world matters to her. Other scientists say there is just one world, and each animal senses only a part of it, like people looking into one room through different windows. Nobody has settled which view is right. We can compare what animals sense, but we cannot yet say what it is like to sense as a bat does.",
+   "description": "Put a fish, a pigeon, a snake and a person at the same pond. They have different senses, so they notice different things. Does that mean they live in different worlds? The German biologist Jakob von Uexküll wrote in 1934 that each animal lives in her own sensory world, which he called an umwelt. His famous example was a tick. A tick waits on a branch and reacts to three signals only: the smell of an acid in sweat, the warmth of a body, and the touch of hairy skin. Nothing else about the world matters to her. Other scientists say there is just one world, and each animal senses only a part of it, like people looking into one room through different windows. Nobody has settled which view is right. We can compare what animals sense, but we cannot yet say what it is like to sense as a bat does. Bodies fit each pond world too. A fish has fins to steer. A gharial, a crocodile-like reptile of India's big rivers, has a narrow snout for catching fish. A turtle has a shell for protection and webbed feet that paddle.",
    "examples": [
     "A dog who picks up many smells on a lamp post, while a person smells nothing.",
     "A bird that sees a feather pattern in ultraviolet that a person never sees.",
@@ -2146,6 +2146,27 @@
      "a": "If the fish could see or hear the ripple, she might turn because of that. The scientist needs to know that only the lateral line did it.",
      "why": "A fair test changes one thing and blocks other explanations. A strong answer says the fish might be using eyes or ears, and these must be ruled out.",
      "outcome": 5
+    },
+    {
+     "t": "match",
+     "p": "Match each water animal to the body part that suits its life in the pond.",
+     "pairs": [
+      [
+       "fish",
+       "fins to steer"
+      ],
+      [
+       "gharial",
+       "a narrow snout for catching fish"
+      ],
+      [
+       "turtle",
+       "webbed feet that paddle"
+      ]
+     ],
+     "a": "pairs as given",
+     "why": "Fish steer with fins. A gharial's narrow snout is for catching fish, and a turtle paddles with webbed feet. Each body part fits the world the animal lives in.",
+     "outcome": 0
     }
    ]
   },
@@ -2743,6 +2764,18 @@
    ],
    "a": "pairs as given",
    "why": "Each group is best known for these senses. Some are shared with other groups, but these are the clearest examples.",
+   "outcome": 0
+  },
+  {
+   "t": "mcq",
+   "p": "A gharial has a long, narrow snout. What is it mainly for?",
+   "opts": [
+    "Catching fish in the water",
+    "Hearing sounds from the air",
+    "Digging a burrow in the sand"
+   ],
+   "a": 0,
+   "why": "A narrow snout moves quickly through the water, and the many thin teeth hold slippery fish. A gharial's snout does not help it hear in the air, and the burrow is not dug with the snout.",
    "outcome": 0
   }
  ],

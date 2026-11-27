@@ -65,6 +65,7 @@ You are a living thing. Inside that big group, you are an animal. Inside the ani
 - e.g. A crow is a living thing, an animal and a backbone animal, but not a mammal.
 - e.g. A tiger and a house cat share every box up to the cat family.
 - e.g. A neem tree shares only the first box with you: living thing.
+- e.g. The biggest boxes are plants, animals, fungi and bacteria. A neem tree makes food from sunlight, through green leaves. A crow eats seeds and insects. A mushroom feeds on dead leaves and wood.
 ### Why relatives look alike · *defined*
 **Definition:** Living things inherit features from their parents. So relatives, who share ancestors, share many features.
 
@@ -567,7 +568,7 @@ In the old tomato bags, she planted cucumber seeds. The brinjal seeds went into 
   - Check: Bag 1 grew tomatoes last season. Which plant should Kavya not put in this bag now? → **Brinjal**
 
 ## Worksheets
-### Sorting living things: core (core, 16 questions)
+### Sorting living things: core (core, 17 questions)
 1. (mcq) A crow, a pigeon and a bat are all in the 'can fly' group. Which rule would put the bat in a different group from the two birds?  
    Options: Lives in the city / Has hair / Has two eyes / Is alive  
    **Answer:** Has hair. *Why:* A bat has hair, and the crow and pigeon have feathers. The other rules put all three together.
@@ -591,19 +592,21 @@ In the old tomato bags, she planted cucumber seeds. The brinjal seeds went into 
    **Answer:** People are animals. We breathe, eat, grow and move. We have a backbone and hair, and a mother feeds her baby milk. So people are mammals and primates.. *Why:* People share the features of animals, so every scientific sort puts people with the other animals.
 10. (order) Put these groups in order, from the biggest group to the smallest: mammal, living thing, primate, animal, backbone animal.  
    **Answer:** order shown. *Why:* Each group sits inside the one before. Every primate is a mammal, every mammal has a backbone, every backbone animal is an animal, and every animal is a living thing.
-11. (mcq) A crow has a backbone and feathers. Which group are they NOT in?  
+11. (sort) Sort these into the big groups: plants, animals, fungi or bacteria.  
+   **Answer:** tulsi → Plants; a goat → Animals; yeast → Fungi; curd bacteria → Bacteria. *Why:* Tulsi makes food from sunlight. A goat eats plants. Yeast feeds on sugar, like other fungi. Curd bacteria are single tiny cells.
+12. (mcq) A crow has a backbone and feathers. Which group are they NOT in?  
    Options: Living thing / Animal / Backbone animal / Mammal  
    **Answer:** Mammal. *Why:* A crow is a bird. Crows have feathers, not hair, so they are not mammals.
-12. (match) Match each food to its plant family.  
+13. (match) Match each food to its plant family.  
    **Answer:** Rice → grass family; Moong → bean family; Brinjal → tomato family; Pumpkin → gourd family. *Why:* Rice is a grass, moong grows in pods, brinjal keeps a green cap like the tomato, and pumpkin grows on a vine like the cucumber.
-13. (truefalse) A mushroom is a kind of plant.  
+14. (truefalse) A mushroom is a kind of plant.  
    **Answer:** False. *Why:* False. A mushroom is a fungus. They have no green leaves, cannot make food from sunlight, and make spores, not seeds.
-14. (mcq) Why do a tiger and a house cat look alike?  
+15. (mcq) Why do a tiger and a house cat look alike?  
    Options: They live in the same places / They came from the same cat ancestors / They eat the same food / Someone painted them alike  
    **Answer:** They came from the same cat ancestors. *Why:* Tigers and house cats are relatives. They inherited whiskers, claws they can pull in and rough tongues from the same long-ago ancestors.
-15. (draw) Draw two overlapping circles. Label one 'can fly' and one 'has hair'. Put a crow, a cat and a bat in the right places.  
+16. (draw) Draw two overlapping circles. Label one 'can fly' and one 'has hair'. Put a crow, a cat and a bat in the right places.  
    **Answer:** Crow in 'can fly' only, cat in 'has hair' only, bat in the middle.. *Why:* The bat can fly and has hair, so they go where the circles overlap. This drawing is called a Venn diagram.
-16. (fill) A living thing from long ago that later living things came from is called an ____.  
+17. (fill) A living thing from long ago that later living things came from is called an ____.  
    **Answer:** ['ancestor']. *Why:* Your grandmother's grandmother is one of your ancestors. All living things share very old ancestors.
 ### Sorting living things: stretch (stretch, 16 questions)
 1. (perspective) A dolphin lives in the sea and swims with fins. Is a dolphin a fish?  
@@ -724,6 +727,9 @@ In the old tomato bags, she planted cucumber seeds. The brinjal seeds went into 
 12. (mcq) Have scientists always used the same biggest groups of life?  
    Options: Yes, since long ago / No, they have changed them as they found new clues / There are no big groups  
    **Answer:** No, they have changed them as they found new clues. *Why:* Scientists used two kingdoms in 1735, five kingdoms in 1969 and three domains in 1990. They still argue about the biggest groups.
+13. (mcq) A neem tree makes food from sunlight, through green leaves. Which big group is the neem tree in?  
+   Options: Plants / Animals / Fungi / Bacteria  
+   **Answer:** Plants. *Why:* Plants make food from sunlight. Animals eat other living things, fungi feed on things around them, and bacteria are single tiny cells.
 
 ## Applications
 - Farmers change crop families from season to season, so soil diseases and pests that attack one family die out.

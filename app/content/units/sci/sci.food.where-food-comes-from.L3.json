@@ -83,6 +83,12 @@
    "art": "Five small heaps of different coloured dals on a steel plate."
   },
   {
+   "term": "Cooking oil",
+   "meaning": "Oil pressed out of the seeds or flesh of a plant, used for cooking.",
+   "example": "Mustard oil, groundnut oil, til oil and coconut oil.",
+   "art": "Four small bowls of oil, each with the seeds or coconut that gave the oil beside the bowl."
+  },
+  {
    "term": "Fungus (more than one: fungi)",
    "meaning": "A living thing that is not a plant and not an animal. They cannot make food from sunlight. They feed on dead or living things around them.",
    "example": "Mushrooms are fungi. So is the yeast that makes bread rise.",
@@ -314,11 +320,12 @@
    "concept": "What is inside a seed",
    "status": "defined",
    "definition": "A seed is a baby plant inside a tough coat, with a store of food beside them. When we eat grains, dal and nuts, we are eating that stored food.",
-   "description": "Soak a chana or a peanut overnight and gently split the seed in two. You will find two fat halves and, at one end, a tiny curled baby plant. The fat halves are the baby plant's food store. They are full of starch, protein and oil that the mother plant packed for them. A dry seed is dormant, which means resting. Seeds can stay that way for months, or even years, as long as they are dry and cool. When they get water and warmth, they start to grow, using their food store to make a root and a shoot. That is why seeds are such good food for us. They are small, they keep for a long time, and they are packed with energy. Rice, wheat, ragi, bajra, all the dals, peanuts, and even jeera and mustard are seeds.",
+   "description": "Soak a chana or a peanut overnight and gently split the seed in two. You will find two fat halves and, at one end, a tiny curled baby plant. The fat halves are the baby plant's food store. They are full of starch, protein and oil that the mother plant packed for them. A dry seed is dormant, which means resting. Seeds can stay that way for months, or even years, as long as they are dry and cool. When they get water and warmth, they start to grow, using their food store to make a root and a shoot. That is why seeds are such good food for us. They are small, they keep for a long time, and they are packed with energy. Rice, wheat, ragi, bajra, all the dals, peanuts, and even jeera and mustard are seeds. Many cooking oils are simply the food store of seeds, squeezed out. Mustard oil comes from mustard seeds, groundnut oil from peanuts, and til oil from sesame seeds. Coconut oil comes from the white flesh inside a coconut. Each region cooks with the oil of the plants that grow nearby: mustard oil in Bengal and much of north India, coconut oil in Kerala, and til oil in Tamil Nadu.",
    "examples": [
     "Soaked moong grows a little white root in a day or two.",
     "A whole grain of brown rice has a tiny baby plant at one end. Polishing white rice rubs most of that baby plant off.",
-    "People have stored seeds for months between harvests since farming began."
+    "People have stored seeds for months between harvests since farming began.",
+    "Mustard, groundnut and til oil are pressed out of seeds. Coconut oil comes from the white flesh of the coconut."
    ],
    "perspectives": [],
    "art": "A soaked chana split open in a palm, with the tiny curled baby plant and their two fat food halves labelled.",
@@ -378,11 +385,13 @@
   {
    "concept": "Eating with the seasons and the place",
    "status": "debated",
-   "description": "In every part of India, people have long eaten what grows nearby, at that time of year. Ayurveda books describe how food should change with each of the six seasons, or ritus. This idea is called ritucharya. Grandparents say things like 'eat curd rice and buttermilk in summer' and 'eat til and jaggery in winter'. Some of this matches what science knows. Some has not been tested.",
+   "description": "In every part of India, people have long eaten what grows nearby, at that time of year. Ayurveda books describe how food should change with each of the six seasons, or ritus. This idea is called ritucharya. Grandparents say things like 'eat curd rice and buttermilk in summer' and 'eat til and jaggery in winter'. Some of this matches what science knows. Some has not been tested. Put a summer plate beside a winter plate and you can see the difference. Summer foods are cool and watery. Winter foods are warm and rich. Food also changes from home to home. A Gujarati, a Bengali, a Tamil and a Punjabi family may all cook a different dinner, because different foods grow near them and every family has its own favourites. No dinner is better or worse than another. Ask about a friend's dish with real interest, and say thank you when you taste it.",
    "examples": [
     "Summer: watermelon, tender coconut, buttermilk (neer mor), aam panna and cucumber, all very watery.",
-    "Winter: sarson ka saag, gajar halwa, til laddoo, and the jaggery and sesame sweets of Pongal and Sankranti, all filling and rich.",
-    "Rice and fish in Bengal and Kerala, where there are many rivers and plenty of rain. Bajra and jowar in dry Rajasthan, where little water falls."
+    "Winter: sarson ka saag, gajar halwa, hot vegetable soups and apples from Kashmir and Himachal Pradesh. Add the til laddoo and jaggery sweets of Pongal and Sankranti. All are filling and rich.",
+    "Rice and fish in Bengal and Kerala, where there are many rivers and plenty of rain. Bajra and jowar in dry Rajasthan, where little water falls.",
+    "Punjab: makki di roti with sarson saag in winter. Kerala: coconut grows all along the coast, so coconut goes into the curries and the oil. Tamil Nadu: rice and dal cooked into sambar, with dosa and idli on the side.",
+    "Home favourites: ask an elder which dish your family makes that no one else on your street makes, and why it is made that way."
    ],
    "perspectives": [
     {
@@ -1254,6 +1263,12 @@
      "why": "False. A hen eats grain and other plant food, and makes the egg from that food. So an egg is plant food that has passed through an animal."
     },
     {
+     "t": "truefalse",
+     "p": "A friend's family eats very different food from ours, so their food must be wrong.",
+     "a": false,
+     "why": "Different places, seasons and family traditions give different food. A different dinner is not a wrong one."
+    },
+    {
      "t": "mcq",
      "p": "Which of these food chains is the longest?",
      "opts": [
@@ -1304,6 +1319,30 @@
      ],
      "a": "pairs as given",
      "why": "Jeera is a seed. Cinnamon is bark, the outside of a tree's stem. Haldi is an underground stem. A clove is a dried flower bud. Curry leaves are leaves. Each peppercorn is a small dried fruit."
+    },
+    {
+     "t": "match",
+     "p": "Match each cooking oil to what gives the oil.",
+     "pairs": [
+      [
+       "mustard oil",
+       "mustard seeds"
+      ],
+      [
+       "groundnut oil",
+       "peanuts"
+      ],
+      [
+       "til oil",
+       "sesame seeds"
+      ],
+      [
+       "coconut oil",
+       "white flesh of the coconut"
+      ]
+     ],
+     "a": "pairs as given",
+     "why": "Plants pack oil into their seeds as food for their babies, and people press the oil out. Peanuts and sesame are seeds. Coconut oil comes from the white flesh inside the coconut."
     },
     {
      "t": "mcq",
@@ -1440,6 +1479,22 @@
      ],
      "a": "see items",
      "why": "Mangoes and watermelons ripen in summer, and buttermilk cools us. Mustard greens and carrots grow in winter, and sesame and jaggery sweets give lots of energy in the cold."
+    },
+    {
+     "t": "write",
+     "p": "Pick two places in India, for example Punjab and Kerala. Name one dish from each. Then write why the two places eat different foods.",
+     "lines": 4,
+     "a": "For example: Punjab makes makki di roti with sarson saag, because maize and mustard grow in its fields. Kerala makes fish curry with coconut, because coconut palms grow along the coast and the sea is close. Each place cooks with what grows or is caught nearby.",
+     "why": "A strong answer names a real dish for each place and links each one to what grows or is found there. Any two places are fine. It speaks of each dish with respect.",
+     "how": "a5"
+    },
+    {
+     "t": "fill",
+     "p": "Warm, rich winter foods like til laddoo and gajar halwa give the body lots of ____ to stay active in the cold.",
+     "a": [
+      "energy"
+     ],
+     "why": "Rich foods are full of the energy that plants stored. Summer foods are watery and help replace sweat; winter foods give energy."
     },
     {
      "t": "mcq",
@@ -3190,6 +3245,18 @@
   },
   {
    "t": "mcq",
+   "p": "Mustard oil is squeezed out of which part of the mustard plant?",
+   "opts": [
+    "The seeds",
+    "The roots",
+    "The leaves"
+   ],
+   "a": 0,
+   "why": "Mustard seeds hold a store of oil, packed there as food for the baby plant. Pressing the seeds squeezes the oil out. Mustard leaves are eaten as saag, but they do not give oil.",
+   "outcome": 1
+  },
+  {
+   "t": "mcq",
    "p": "A cow gives milk. What did the cow eat to make her milk?",
    "opts": [
     "Grass and fodder",
@@ -3294,6 +3361,42 @@
    ],
    "a": 0,
    "why": "On hot days we sweat a lot, and watery foods help replace that water. This is old knowledge that science agrees with. Picking 'make us sweat more' turns the idea upside down.",
+   "outcome": 5
+  },
+  {
+   "t": "mcq",
+   "p": "At lunch, your friend opens a tiffin with a dish you have never seen. What is the kindest and most curious thing to do?",
+   "opts": [
+    "Ask what it is called and what goes into it",
+    "Say it smells strange",
+    "Tell her to eat what you eat"
+   ],
+   "a": 0,
+   "why": "Families eat differently because of the place they live, the season and their own traditions. Asking shows respect and teaches you something new. Saying it smells strange or telling her to change would hurt her, and no family's food is wrong.",
+   "outcome": 5
+  },
+  {
+   "t": "mcq",
+   "p": "A winter plate has gajar halwa and a hot soup. A summer plate has cucumber and buttermilk. What is the main difference in what each plate does for us?",
+   "opts": [
+    "The summer plate gives back water we sweat out, and the winter plate gives lots of energy",
+    "The summer plate gives energy, and the winter plate gives water",
+    "There is no difference, because all food does the same thing"
+   ],
+   "a": 0,
+   "why": "Cucumber and buttermilk are very watery, so they replace the water we lose in sweat. Gajar halwa and soup are warm and rich, so they give energy in the cold. The other answers swap the two jobs or ignore them.",
+   "outcome": 5
+  },
+  {
+   "t": "mcq",
+   "p": "Rajasthan is dry and gets little rain. Bengal has many rivers and plenty of rain. Why do many families in Rajasthan eat bajra and jowar, while many in Bengal eat rice?",
+   "opts": [
+    "They eat what grows well in the place where they live",
+    "Rice is not allowed in Rajasthan",
+    "Bajra and jowar need more water than rice"
+   ],
+   "a": 0,
+   "why": "Rice needs a lot of water, so it grows well in rainy, river-rich Bengal. Bajra and jowar manage with little water, so they grow well in dry Rajasthan. Picking 'bajra and jowar need more water' turns it upside down.",
    "outcome": 5
   },
   {

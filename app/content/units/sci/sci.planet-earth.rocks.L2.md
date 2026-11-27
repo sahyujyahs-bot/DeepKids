@@ -60,10 +60,11 @@ Rock breaks off a hill as sharp pieces. Rain carries some into a stream. The wat
 - e.g. Smooth pebbles on the beach at Kanyakumari.
 - e.g. The sand at the edge of a river, which is rock in tiny grains.
 ### Digging rock and sand out of the land · *debated*
-People dig rock out of quarries and scoop sand from river beds to build homes, roads, bridges and schools. A quarry can turn a hill with trees into a deep pit. The birds, insects and other animals who lived there lose their home. Too much sand taken from a river makes the river bed deeper. Then the banks can fall in and nearby wells can dry up. People argue about how much digging is fair.
+People dig rock out of quarries and scoop sand from river beds to build homes, roads, bridges and schools. A quarry can turn a hill with trees into a deep pit. The birds, insects and other animals who lived there lose their home. Too much sand taken from a river makes the river bed deeper. Then the banks can fall in and nearby wells can dry up. People argue about how much digging is fair. Pebbles and gravel for building are dug from river beds too, along with sand.
 - e.g. Granite quarries in Karnataka and Tamil Nadu.
 - e.g. Sand taken from river beds for building in many states.
 - e.g. An old quarry that has filled with rain and become a lake, where birds now come.
+- e.g. Pebbles and gravel dug from river beds to make concrete for houses and roads.
 - **A builder:** Families need homes and children need schools. Stone and sand are the best materials we have, so we must dig them.
 - **A farmer who lives by the river:** When too much sand is taken, the river bank falls in and my well dries up. Dig less, and only in some places.
 - **A scientist who studies rivers:** A river brings new sand down each year, but slowly. If we take out more than the river brings, the river bed sinks. We should measure, and take less than that.
@@ -385,7 +386,7 @@ Meenu held the pebble in one hand and the sharp chip in the other. They were the
    **Answer:** 1 on the stone high in the hills, 2 on the one in the middle, 3 on the one near the sea.. *Why:* The further a stone travels, the more it is knocked, so it gets rounder on the way down.
 10. (count) You shake chalk pieces in a tiffin. You count 20 shakes, then 20 more, then 20 more. How many shakes is that?  
    **Answer:** 60 shakes. *Why:* 20 and 20 is 40. 40 and 20 more is 60.
-### Hard, soft and where rocks come from (stretch) (stretch, 10 questions)
+### Hard, soft and where rocks come from (stretch) (stretch, 11 questions)
 1. (mcq) In the Scratch Ladder, a coin scratched the marble but not the pebble. Which is harder?  
    Options: The pebble / The marble / They are the same  
    **Answer:** The pebble. *Why:* A harder thing scratches a softer one. The coin could scratch the marble but not the pebble, so the pebble is harder.
@@ -400,13 +401,15 @@ Meenu held the pebble in one hand and the sharp chip in the other. They were the
    **Answer:** Both are partly right. Houses need sand, and rivers do bring new sand. But if more is taken than the river brings, the river bed sinks and banks and wells suffer.. *Why:* A strong answer sees the need on both sides, and says the amount matters: take less than the river brings.
 6. (truefalse) Sand on a river bank is mostly tiny bits of rock.  
    **Answer:** True. *Why:* True. Rock that is knocked and rubbed for a long time breaks into tiny grains. Most sand grains are bits of rock, often quartz.
-7. (order) Put these rocks in order, from softest to hardest.  
+7. (fill) Pebbles and gravel for building are often dug out of river ________.  
+   **Answer:** beds. *Why:* The river bed is the ground under the water. Rivers leave stones there, so they can be dug out.
+8. (order) Put these rocks in order, from softest to hardest.  
    **Answer:** ['chalk', 'marble', 'quartz pebble']. *Why:* A fingernail scratches chalk, a coin scratches marble, and nothing at home scratches quartz.
-8. (write) Why is slate good for a roof?  
+9. (write) Why is slate good for a roof?  
    **Answer:** Slate splits into thin flat sheets, and it keeps water out.. *Why:* A strong answer names both things: flat thin sheets, and keeping rain out.
-9. (match) Draw a line from each rock to where it comes from in India.  
+10. (match) Draw a line from each rock to where it comes from in India.  
    **Answer:** Marble → Makrana, Rajasthan; Laterite → Kerala and Goa; Coal → Jharkhand; Slate → Markapur, Andhra Pradesh. *Why:* These are well-known places for each rock. Builders long ago mostly used rock from nearby.
-10. (mcq) Someone says a quarry does no harm because it is only rock. What did they forget?  
+11. (mcq) Someone says a quarry does no harm because it is only rock. What did they forget?  
    Options: Plants and animals lived on the hill, and lose their home / Rock is soft / Quarries make hills taller  
    **Answer:** Plants and animals lived on the hill, and lose their home. *Why:* A hill is a home for plants, birds, insects and other animals. Digging a quarry takes that home away.
 ### Rocks that change (challenge) (challenge, 10 questions)
@@ -469,7 +472,10 @@ Meenu held the pebble in one hand and the sharp chip in the other. They were the
 10. (mcq) Why do people dig rock and sand out of the ground?  
    Options: To build homes, roads, schools and bridges / Because rocks are in the way of rain / To make hills taller  
    **Answer:** To build homes, roads, schools and bridges. *Why:* Stone, sand and gravel are used for walls, floors, cement and roads. That is why quarries and sand mining exist.
-11. (truefalse) The shiniest rock is always the hardest.  
+11. (mcq) A builder needs gravel to mix into concrete. Where can gravel come from?  
+   Options: Small pebbles and stones lying in a river bed / The leaves on the top of a tree / The rain clouds in the sky  
+   **Answer:** Small pebbles and stones lying in a river bed. *Why:* Gravel is a mix of small pebbles and stones. Rivers carry them and leave them in their beds, so people dig them out there. Leaves and clouds are not rock.
+12. (truefalse) The shiniest rock is always the hardest.  
    **Answer:** False. *Why:* False. Marble can shine, but a steel coin scratches it. A plain grey pebble can be much harder.
 
 ## Applications

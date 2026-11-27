@@ -103,7 +103,7 @@ Eyes, ears and the brain parts that read them use a lot of energy. A body that s
 - e.g. A susu in the muddy Ganges, finding fish by echoes.
 - e.g. A deer in the dark who hears and smells more than she sees.
 ### One pond, many worlds · *debated*
-Put a fish, a pigeon, a snake and a person at the same pond. They have different senses, so they notice different things. Does that mean they live in different worlds? The German biologist Jakob von Uexküll wrote in 1934 that each animal lives in her own sensory world, which he called an umwelt. His famous example was a tick. A tick waits on a branch and reacts to three signals only: the smell of an acid in sweat, the warmth of a body, and the touch of hairy skin. Nothing else about the world matters to her. Other scientists say there is just one world, and each animal senses only a part of it, like people looking into one room through different windows. Nobody has settled which view is right. We can compare what animals sense, but we cannot yet say what it is like to sense as a bat does.
+Put a fish, a pigeon, a snake and a person at the same pond. They have different senses, so they notice different things. Does that mean they live in different worlds? The German biologist Jakob von Uexküll wrote in 1934 that each animal lives in her own sensory world, which he called an umwelt. His famous example was a tick. A tick waits on a branch and reacts to three signals only: the smell of an acid in sweat, the warmth of a body, and the touch of hairy skin. Nothing else about the world matters to her. Other scientists say there is just one world, and each animal senses only a part of it, like people looking into one room through different windows. Nobody has settled which view is right. We can compare what animals sense, but we cannot yet say what it is like to sense as a bat does. Bodies fit each pond world too. A fish has fins to steer. A gharial, a crocodile-like reptile of India's big rivers, has a narrow snout for catching fish. A turtle has a shell for protection and webbed feet that paddle.
 - e.g. A dog who picks up many smells on a lamp post, while a person smells nothing.
 - e.g. A bird that sees a feather pattern in ultraviolet that a person never sees.
 - e.g. A tick that responds to only three things in the whole world.
@@ -556,7 +556,7 @@ On the last night of the holidays, Kavya sat on the mat and pressed both hands b
   - Think: What would you change to make your ears work even better?
 
 ## Worksheets
-### Senses of the five groups (core) (core, 16 questions)
+### Senses of the five groups (core) (core, 17 questions)
 1. (mcq) Which sense organ does a fish use to feel water moving along her sides?  
    Options: The lateral line / The eardrum / The heat pit / The ear flap  
    **Answer:** The lateral line. *Why:* The lateral line is a row of tiny sensors along a fish's sides. Hairs in it bend when water moves. An eardrum is for sound, a heat pit is for warmth, and an ear flap collects sound.
@@ -593,6 +593,8 @@ On the last night of the holidays, Kavya sat on the mat and pressed both hands b
    **Answer:** A fish with a line along her side, and ripple lines reaching that line from an insect on the surface.. *Why:* A strong drawing shows the lateral line along the side of the body, and ripple lines arriving at it from a falling insect.
 16. (write) A scientist wants to find out if a fish can feel ripples with her lateral line alone. Why should the scientist make sure the fish cannot see or hear what makes the ripple?  
    **Answer:** If the fish could see or hear the ripple, she might turn because of that. The scientist needs to know that only the lateral line did it.. *Why:* A fair test changes one thing and blocks other explanations. A strong answer says the fish might be using eyes or ears, and these must be ruled out.
+17. (match) Match each water animal to the body part that suits its life in the pond.  
+   **Answer:** fish → fins to steer; gharial → a narrow snout for catching fish; turtle → webbed feet that paddle. *Why:* Fish steer with fins. A gharial's narrow snout is for catching fish, and a turtle paddles with webbed feet. Each body part fits the world the animal lives in.
 ### Looking deeper at animal senses (stretch) (stretch, 17 questions)
 1. (mcq) Why might a male and a female bird that look alike to us look different to each other?  
    Options: Birds see ultraviolet, and their feathers may differ in ultraviolet / Birds have heat pits that show warmth / Sparrows use a lateral line / Sparrows use echolocation  
@@ -710,6 +712,9 @@ On the last night of the holidays, Kavya sat on the mat and pressed both hands b
    **Answer:** How birds sense the Earth's magnetic field. *Why:* Birds seem to use the magnetic field, but the sensor has not been found with certainty. The other three are well shown.
 12. (match) Match each group to a sense that stands out in it.  
    **Answer:** Fish → lateral line; Reptile → heat pits in some snakes; Bird → ultraviolet vision; Mammal → ear flaps and three middle-ear bones. *Why:* Each group is best known for these senses. Some are shared with other groups, but these are the clearest examples.
+13. (mcq) A gharial has a long, narrow snout. What is it mainly for?  
+   Options: Catching fish in the water / Hearing sounds from the air / Digging a burrow in the sand  
+   **Answer:** Catching fish in the water. *Why:* A narrow snout moves quickly through the water, and the many thin teeth hold slippery fish. A gharial's snout does not help it hear in the air, and the burrow is not dug with the snout.
 
 ## Applications
 - Thermal cameras, used by firefighters to find people in smoke, do something like what a python's heat pits do.

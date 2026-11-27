@@ -40,6 +40,12 @@ Your body cannot use a piece of idli as it is. The piece is far too big to enter
 - e.g. Starch from rice is cut into sugar.
 - e.g. Protein from dal or egg is cut into amino acids.
 - e.g. Fat from groundnut oil is cut into smaller units called fatty acids.
+### Water in digestion, and in removing wastes · *defined*
+**Definition:** Water is needed for digestion. Enzymes do their cutting in water, and the small pieces must dissolve in water before they can pass into the blood.
+
+That is why the mouth, the stomach and the small intestine all add watery juices. Water also helps remove wastes. The leftovers leave the body in faeces, and the large intestine takes back water so that the faeces do not become runny.
+- e.g. Sugar from rice dissolves in water before it passes into the blood.
+- e.g. A dry biscuit must be wetted with saliva before the juices of the gut can work on it.
 ### The mouth: teeth, saliva and the bolus · *defined*
 **Definition:** In the mouth, teeth break food into small pieces and saliva wets it. The tongue rolls the wet pieces into a soft ball called a bolus.
 
@@ -514,7 +520,7 @@ They sat on the thinnai and chewed. Neither of them spoke. Each was paying atten
   - Note: The real loops hang from a thin, fan-shaped sheet called the mesentery. The sheet joins every loop to the back wall of the belly. It also carries the blood vessels to the villi. Praise a clear account of what failed as much as a pass.
 
 ## Worksheets
-### The journey of a bite (core, 15 questions)
+### The journey of a bite (core, 17 questions)
 1. (mcq) What is digestion for?  
    Options: Breaking food small enough to enter the blood / Keeping food warm inside the belly / Storing food until the next meal / Turning food into air  
    **Answer:** Breaking food small enough to enter the blood. *Why:* Food pieces are far too big to pass through the gut wall. Digestion cuts them into small molecules that can cross into the blood.
@@ -549,6 +555,10 @@ They sat on the thinnai and chewed. Neither of them spoke. Each was paying atten
 15. (mcq) What are faeces mostly made of?  
    Options: Water / Undigested rice / Stomach acid / Blood  
    **Answer:** Water. *Why:* Faeces are about three quarters water. Much of the solid part is bacteria, and the rest is mostly fibre.
+16. (fill) Digested food must dissolve in ____ before it can pass through the gut wall into the blood.  
+   **Answer:** ['water']. *Why:* Only small pieces can pass through the gut wall, and the pieces dissolve in water on the way into the blood.
+17. (fill) Digested food must dissolve in ____ before it can pass through the gut wall into the blood.  
+   **Answer:** ['water']. *Why:* Only small pieces can pass through the gut wall, and the pieces dissolve in water on the way into the blood.
 ### Why each part works as it does (stretch, 15 questions)
 1. (mcq) Dipping a raw carrot piece in water hardly changes its chew count. Why?  
    Options: The carrot needs breaking, not wetting / Water makes carrots harder / Carrots contain no water / The teeth were tired  
@@ -662,6 +672,12 @@ They sat on the thinnai and chewed. Neither of them spoke. Each was paying atten
 12. (mcq) A grown-up's food tube is about 8 metres long. Which part makes up most of that length?  
    Options: The small intestine / The stomach / The oesophagus / The large intestine  
    **Answer:** The small intestine. *Why:* The small intestine is about 6 metres of the 8. The large intestine is about 1.5 metres, and the oesophagus and stomach are about 25 centimetres each.
+13. (mcq) What does water do during digestion?  
+   Options: It lets enzymes work and carries digested food into the blood / It turns starch into sugar on its own / It hardens the food so teeth can grind it  
+   **Answer:** It lets enzymes work and carries digested food into the blood. *Why:* Enzymes do their cutting in water, and the small pieces dissolve in water before they can pass into the blood. Water on its own does not cut starch, and it softens food rather than hardening it.
+14. (mcq) What does water do during digestion?  
+   Options: It lets enzymes work and carries digested food into the blood / It turns starch into sugar on its own / It hardens the food so teeth can grind it  
+   **Answer:** It lets enzymes work and carries digested food into the blood. *Why:* Enzymes do their cutting in water, and the small pieces dissolve in water before they can pass into the blood. Water on its own does not cut starch, and it softens food rather than hardening it.
 
 ## Applications
 - Oral rehydration solution, or ORS, is water with sugar and salt in set amounts. Sugar helps the small intestine absorb salt and water, so ORS saves children with loose motions.

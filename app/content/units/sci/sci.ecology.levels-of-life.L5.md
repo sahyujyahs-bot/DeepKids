@@ -116,7 +116,7 @@ This is a question about what the word 'alive' means, as well as a question abou
 ### People in the biosphere · *defined*
 **Definition:** Humans are one species among millions, but today humans change every level of life, up to the whole biosphere.
 
-Other beings have changed the whole Earth before. Cyanobacteria did it with oxygen. Humans are now doing it with carbon dioxide. Coal, oil and gas are the remains of ancient living beings, and burning them puts their carbon into the air. Before factories, the air held about 280 parts of carbon dioxide in every million. Now it holds more than 420. Carbon dioxide traps heat, so the Earth is warming. The change is fast. Forests, seas and rocks do take carbon dioxide out of the air, but far more slowly than people are adding it. People have also mended a harm that reached the whole biosphere. In the 1970s, scientists found that gases from fridges and spray cans were destroying the ozone in the upper air. Ozone shields living beings from harmful rays of the Sun. In 1987 the countries of the world agreed to stop making those gases, and the ozone is slowly recovering.
+Other beings have changed the whole Earth before. Cyanobacteria did it with oxygen. Humans are now doing it with carbon dioxide. Coal, oil and gas are the remains of ancient living beings, and burning them puts their carbon into the air. Before factories, the air held about 280 parts of carbon dioxide in every million. Now it holds more than 420. Carbon dioxide traps heat, so the Earth is warming. The change is fast. Forests, seas and rocks do take carbon dioxide out of the air, but far more slowly than people are adding it. People have also mended a harm that reached the whole biosphere. In the 1970s, scientists found that gases from fridges and spray cans were destroying the ozone in the upper air. Ozone shields living beings from harmful rays of the Sun. In 1987 the countries of the world agreed to stop making those gases, and the ozone is slowly recovering. An old Sanskrit saying, Vasudhaiva Kutumbakam, means the whole world is one family. It comes from the Maha Upanishad, an ancient text. It asks us to care for people, animals and plants as one family, on the one living planet we share. When the air, a river or a forest is harmed, the harm does not stop at the place where it happened.
 - e.g. James Lovelock built the instrument that first measured those fridge gases in air far out at sea. It showed that they had spread across the world.
 - e.g. When a forest in the Western Ghats is cut, one hornbill loses her nest tree. Farms far to the east may also lose some of their rain.
 
@@ -679,7 +679,7 @@ On the morning it reached 20, Kayal went down to the yard before school. She pul
    **Answer:** Light went in and heat came out. No water, air or soil crossed the glass, so the weight stayed the same. Inside, the water went round and round.. *Why:* A strong answer separates energy, which crosses the glass, from matter, which does not.
 15. (perspective) Does life keep the Earth fit for life? Two scientists disagree.  
    **Answer:** A strong answer for the first view uses the long record of liquid water under a brightening Sun, or the Daisy Planet. A strong answer for the second uses the frozen Earth, or the point that a daisy planet was built so that each daisy's needs match the planet's. It then says what the other side has right.. *Why:* This is a real argument among scientists. Both sides accept that life changes the planet. They differ on whether those changes steady it.
-### Gaia, models and evidence (challenge) (challenge, 15 questions)
+### Gaia, models and evidence (challenge) (challenge, 16 questions)
 1. (write) One scientist says our steady Earth may be luck. Explain his point by imagining 100 planets with life.  
    **Answer:** Suppose life starts on 100 planets and only a few happen to stay fit for life. Beings who can ask questions will only ever be found on those few. They will all see a long steady record, even if luck alone made it.. *Why:* A strong answer sees that we could not be looking from a planet where things went badly. So our own steady record is weak evidence.
 2. (mcq) Astronomers find a far planet whose air holds oxygen and methane together. Why is that exciting?  
@@ -715,6 +715,8 @@ On the morning it reached 20, Kayal went down to the yard before school. She pul
 15. (odd) Three of these are evidence that life changes the Earth. Which is not?  
    Options: Oxygen in the air / Soil made from rock and dead leaves / Rain returned to the air by forests / The Earth's distance from the Sun  
    **Answer:** 3. *Why:* The Earth's distance from the Sun has nothing to do with living beings. The other three were made by living beings.
+16. (write) Vasudhaiva Kutumbakam says the world is one family. Give one thing you do at home that can reach a living being far away. Use the idea of the biosphere in your answer.  
+   **Answer:** For example, a plastic bag thrown in a drain can be carried by the rain water to a river, and then to the sea, where fish and birds can be harmed by it. The water joins the whole biosphere, so the harm travels far from my home.. *Why:* A full answer names one thing from home and follows it to a place far away, using the way water and matter move through the biosphere.
 
 ## Videos
 - **NASA | Satellite Tracks Saharan Dust to Amazon in 3-D** (NASA Goddard, 2 min) id `ygulQJoIe2Y`: Shows dust from the Sahara desert crossing the Atlantic Ocean and feeding the Amazon rainforest, so two far-apart ecosystems are seen to be joined. *Check:* Id, title and channel confirmed through YouTube's public lookup. Not watched from here: a parent should preview it.
@@ -753,6 +755,9 @@ On the morning it reached 20, Kayal went down to the yard before school. She pul
 11. (mcq) Which of these is a real criticism of the Gaia hypothesis?  
    Options: The Earth is too big to study / Natural selection cannot make beings serve a planet / Plants do not make oxygen / The Sun never changes  
    **Answer:** Natural selection cannot make beings serve a planet. *Why:* Natural selection favours what helps an organism and their family. Critics ask how it could ever favour what helps a whole planet.
+12. (mcq) What does the Sanskrit saying Vasudhaiva Kutumbakam mean?  
+   Options: Only the people of our own village matter / The whole world is one family / Each place should guard its own land and ignore the rest / Humans should rule over the other living beings  
+   **Answer:** The whole world is one family. *Why:* The saying asks us to see the whole world as one family, so care reaches people, animals and plants far away, as the biosphere links them. The other answers draw a line between us and them, which the saying does not do.
 
 ## Applications
 - Astronomers look for life on planets around other stars by studying the air of those planets. They look for gases that would vanish unless something kept making them.

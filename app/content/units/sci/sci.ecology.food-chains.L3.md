@@ -73,7 +73,7 @@ A grasshopper eats a lot of grass. But most of that grass does not become grassh
 ### Why there are many plants and few tigers · *defined*
 **Definition:** Only a little food passes up each step, so there is much more life at the bottom of a food chain than at the top. Scientists draw this as a pyramid.
 
-Picture a forest in Madhya Pradesh. It has millions of grass plants and trees. It has thousands of deer. It has only a few tigers. A tiger eats about one deer-sized animal a week. That is about 50 a year. Tiger scientists in India, such as K. Ullas Karanth, have done the sums. To feed one tiger year after year, a forest needs about 500 deer and other prey animals alive at any time. And those 500 deer need a huge amount of grass and leaves. So a top predator needs a lot of land. That is why tigers need big forests, and why they are often the first to disappear when forests shrink. Charles Elton called this the pyramid of numbers, in 1927.
+Picture a forest in Madhya Pradesh. It has millions of grass plants and trees. It has thousands of deer. It has only a few tigers. A tiger eats about one deer-sized animal a week. That is about 50 a year. Tiger scientists in India, such as K. Ullas Karanth, have done the sums. To feed one tiger year after year, a forest needs about 500 deer and other prey animals alive at any time. And those 500 deer need a huge amount of grass and leaves. So a top predator needs a lot of land. That is why tigers need big forests, and why they are often the first to disappear when forests shrink. Charles Elton called this the pyramid of numbers, in 1927. So the food in a place sets how many animals can live there. In a dry year, a forest has less grass. It can feed fewer deer, and later it can feed fewer tigers.
 - e.g. One tiger, about 500 deer and other prey, and more grass and leaves than you could count.
 - e.g. In a garden: hundreds of leaves, dozens of caterpillars, a few spiders, one bulbul.
 ### Why food chains are short · *debated*
@@ -86,15 +86,17 @@ Most food chains have only three, four or five links. Hardly any have more than 
 ### Predators and prey keep changing each other · *defined*
 **Definition:** The number of predators depends on how much prey there is. The number of prey depends on how many predators hunt them. So the two often rise and fall in turns.
 
-Think of a forest with lots of deer. The tigers eat well and raise many cubs. More tigers eat more deer, so the deer become fewer. Now the tigers go hungry, and fewer cubs survive. With fewer tigers, the deer increase again. Scientists saw this pattern in old fur-trading records from Canada, which go back more than 100 years. They counted the furs of lynx, a wild cat, and of snowshoe hares, their prey. Roughly every ten years, the hares increased, then the lynx increased, and then both crashed. Charles Elton studied these records. Today scientists know that the hares' food, and their sicknesses, also play a part.
+Think of a forest with lots of deer. The tigers eat well and raise many cubs. More tigers eat more deer, so the deer become fewer. Now the tigers go hungry, and fewer cubs survive. With fewer tigers, the deer increase again. Scientists saw this pattern in old fur-trading records from Canada, which go back more than 100 years. They counted the furs of lynx, a wild cat, and of snowshoe hares, their prey. Roughly every ten years, the hares increased, then the lynx increased, and then both crashed. Charles Elton studied these records. Today scientists know that the hares' food, and their sicknesses, also play a part. So predators keep the number of prey from growing too high. And prey keep the number of predators from growing too high, because hungry predators cannot raise cubs. Some people call this a balance. The card on balance tells why scientists argue about the word.
 - e.g. Lynx and snowshoe hares in Canada rise and fall about every ten years.
 - e.g. In the Deer and Tiger Toss game, the deer rise first, then the tigers, then the deer fall.
 ### Keystone species: one animal that many others depend on · *defined*
 **Definition:** A keystone species is a living thing that many others depend on, far more than their numbers suggest. Take them away and the whole place changes.
 
-From 1963, the American ecologist Robert Paine did a simple test on a rocky shore in Washington State. On one stretch of rock, he kept pulling off the purple starfish and throwing them into the sea. He left a nearby stretch alone. The starfish eat mussels. Without them, the mussels spread and covered the rock. They crowded out barnacles, limpets and seaweed. Within a few years, the number of kinds of living things on his stretch fell from 15 to 8. In 1969 he named such animals keystone species. Sea otters are another example. They eat sea urchins, and sea urchins eat giant seaweed called kelp. Where otters were hunted away, the urchins ate the kelp forests down to bare rock. India has its own keystone story, about vultures. It is on the card 'India's vultures: a medicine that passed one step up'.
+From 1963, the American ecologist Robert Paine did a simple test on a rocky shore in Washington State. On one stretch of rock, he kept pulling off the purple starfish and throwing them into the sea. He left a nearby stretch alone. The starfish eat mussels. Without them, the mussels spread and covered the rock. They crowded out barnacles, limpets and seaweed. Within a few years, the number of kinds of living things on his stretch fell from 15 to 8. In 1969 he named such animals keystone species. Sea otters are another example. They eat sea urchins, and sea urchins eat giant seaweed called kelp. Where otters were hunted away, the urchins ate the kelp forests down to bare rock. India has its own keystone story, about vultures. It is on the card 'India's vultures: a medicine that passed one step up'. Taking away one link can upset a whole chain. In a paddy field, frogs eat insects and mosquitoes. If a poison kills the frogs, the insects and mosquitoes multiply. Then the rice crop is eaten, and more mosquitoes bite people. Lions and other big hunters keep deer in check. Where they have been lost, deer can grow many and eat young plants down to the ground. Then the plants, and every animal that needs them, are in trouble.
 - e.g. Remove the starfish, and the mussels take over the shore.
 - e.g. Remove the sea otters, and the kelp forests disappear.
+- e.g. Remove the frogs from a paddy field, and the insects and mosquitoes multiply.
+- e.g. Remove the lions from a grassland, and the deer can multiply and eat the young plants.
 ### Did wolves change Yellowstone's rivers? · *debated*
 Wolves were killed off in Yellowstone National Park in America by the 1920s. Elk, a kind of large deer, then grew in number and ate the young willow and aspen trees along the rivers. In 1995 and 1996, scientists brought wolves back. Elk numbers fell, and some trees began to grow again. Scientists call a chain of changes like this, passing down a food chain, a trophic cascade. A popular video says the wolves even changed the shape of the rivers. Scientists argue about how much of this is true.
 - e.g. Wolves eat elk. Elk eat young willow trees. Willow trees hold river banks in place.
@@ -618,7 +620,7 @@ Lan did not tell anyone. She filled a cracked saucer with water and set it on th
    **Answer:** For example: algae → mosquito larva, algae → tadpole, mosquito larva → small fish, tadpole → small fish, small fish → kingfisher, tadpole → heron.. *Why:* A web shows that most animals eat more than one thing, and are eaten by more than one thing.
 15. (write) Why can there never be a food chain that starts with a tiger?  
    **Answer:** A tiger cannot make their own food. They have to eat deer, and the deer eat plants. So every chain with a tiger starts with a plant.. *Why:* Food chains start with producers. Tigers are consumers.
-### Energy, Pyramids and Webs (stretch) (stretch, 16 questions)
+### Energy, Pyramids and Webs (stretch) (stretch, 17 questions)
 1. (mcq) Look at the chart. The grass in a field holds 1,000 units of food energy. About how much reaches the frogs?  
    Options: About 1,000 units / About 500 units / About 250 units / About 10 units  
    **Answer:** About 10 units. *Why:* Only about a tenth passes on at each step. 1,000 becomes 100 for the grasshoppers, then 10 for the frogs. Picking 250 usually means sharing the energy equally among four animals. But each animal only gets what the one before did not use up.
@@ -657,7 +659,9 @@ Lan did not tell anyone. She filled a cracked saucer with water and set it on th
    **Answer:** In the food web, vultures and dogs both ate dead cattle. With no vultures, more food was left for the dogs. So more dogs survived and had puppies.. *Why:* When one eater disappears, their food goes to other eaters in the web.
 16. (draw) Draw an energy pyramid for grass, deer and tiger. Make each layer the right size.  
    **Answer:** A wide bottom layer of grass, a smaller middle layer of deer, and a tiny top layer with one tiger.. *Why:* Each step up has about a tenth of the food energy, so each layer is much smaller than the one below.
-### Web Puzzles and Big Ideas (challenge) (challenge, 16 questions)
+17. (fill) When there are many deer, the tigers eat well and have many cubs. Soon the deer become ____.  
+   **Answer:** ['fewer']. *Why:* More tigers eat more deer, so the deer become fewer. Then the tigers go hungry. Predators and prey keep each other's numbers in check.
+### Web Puzzles and Big Ideas (challenge) (challenge, 17 questions)
 1. (write) Most food chains have only 3 to 5 links. Use One Hundred Grains to explain why a chain of 10 links almost never happens.  
    **Answer:** At each step only about a tenth passes on. 100 grains became 10, then 1. After that, the next eater would get a tenth of one grain, and the one after almost nothing. There is not enough food energy left to feed animals that high up. Scientists also think long chains are wobbly, and some places are too small.. *Why:* A strong answer uses the numbers to show how fast the energy runs out. Scientists agree on the energy rule but still argue about how much the other reasons matter.
 2. (mcq) Scientists worked out how far up the food chain humans are, on average. What did they find?  
@@ -696,6 +700,8 @@ Lan did not tell anyone. She filled a cracked saucer with water and set it on th
 16. (mcq) Some places put gambusia fish in ponds to eat mosquito larvae. Later, the fish also ate the eggs of local fish and frogs. What does this show?  
    Options: Frogs eat gambusia / Adding an animal to a web can change more than you planned / Mosquitoes are not in food webs / Fish never eat mosquito larvae  
    **Answer:** Adding an animal to a web can change more than you planned. *Why:* Most animals eat more than one thing, so a new animal touches many threads in the web. Picking 'fish never eat larvae' is wrong: gambusia do eat them. The problem is what else they eat.
+17. (order) Lions are lost from a grassland. Put what may happen next in order.  
+   **Answer:** ['The lions are lost from the grassland', 'Fewer deer are eaten, so the deer multiply', 'The young plants are eaten down to the ground', 'Other animals that need the plants have less food']. *Why:* Taking one link out upsets the whole chain. Each living thing depends on the ones next to it, so the loss passes along from the lions to the deer, to the plants, and on to other animals.
 
 ## Videos
 - **How Wolves Change Rivers** (Sustainable Human, 5 min) id `ysa5OBhXz-Q`: A beautiful short film about wolves returning to Yellowstone. After watching, read the card 'Did wolves change Yellowstone's rivers?' Then ask which parts scientists agree with, and which they argue about. *Check:* This 2014 film goes further than the evidence about rivers. The card 'Did wolves change Yellowstone's rivers?' says where scientists disagree.
@@ -748,6 +754,15 @@ Lan did not tell anyone. She filled a cracked saucer with water and set it on th
 15. (mcq) Scientists agree that only about a tenth of the food energy passes on at each step. What do they still argue about?  
    Options: Which way the arrows point / Whether tigers eat deer / Exactly why food chains are so short / Whether plants make food from sunlight  
    **Answer:** Exactly why food chains are so short. *Why:* Energy running out is one reason. Other scientists say long chains are wobbly, or that a place is too small. Which reason matters most is still being argued. The other choices are all settled.
+16. (mcq) A poison kills most of the frogs in a paddy field. What will most likely happen next?  
+   Options: The insects and mosquitoes will multiply / The rice plants will grow faster / The insects will become fewer  
+   **Answer:** The insects and mosquitoes will multiply. *Why:* Frogs eat insects and mosquitoes. With the frogs gone, nothing keeps them down, so they multiply. The rice and the people then suffer. Picking 'fewer insects' forgets that the frogs were the hunters.
+17. (mcq) There is little grass in a forest in a dry year. What will most likely follow?  
+   Options: The forest can feed fewer deer, and later fewer tigers / The forest will have more deer, because they eat less / Nothing will change, because tigers do not eat grass  
+   **Answer:** The forest can feed fewer deer, and later fewer tigers. *Why:* The deer eat the grass, so less grass means fewer deer fed. Tigers then have less prey. Picking 'nothing will change' forgets that a food chain is joined from bottom to top.
+18. (mcq) Why do the deer in a forest with tigers not keep growing in number for ever?  
+   Options: Tigers eat some of them, and the food is limited / Deer stop having young when they see a tiger / Tigers only eat plants and leaves  
+   **Answer:** Tigers eat some of them, and the food is limited. *Why:* Tigers hunt deer, and grass is limited, so both keep deer numbers down. When deer are few, tigers go hungry and become fewer too. They keep each other's numbers in check.
 
 ## Applications
 - Tiger reserves, like those set up under Project Tiger from 1973, protect whole food webs: grass, deer and tigers together.

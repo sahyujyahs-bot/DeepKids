@@ -30,7 +30,7 @@
 ### Temperature, and the Celsius scale · *defined*
 **Definition:** Temperature is how hot or cold something is. In India we measure it in degrees Celsius, written °C.
 
-On the Celsius scale, 0 is the temperature at which pure water freezes. 100 is the temperature at which it boils, at sea level. The space between them is cut into 100 equal steps called degrees. Anything colder than freezing water gets a minus number. A freezer is about minus 18 °C. The scale is named after Anders Celsius, a Swedish astronomer. In 1742 he made a scale with 100 for freezing and 0 for boiling. A few years later, others turned it the other way round, which is how we use it today.
+On the Celsius scale, 0 is the temperature at which pure water freezes. 100 is the temperature at which it boils, at sea level. The space between them is cut into 100 equal steps called degrees. Anything colder than freezing water gets a minus number. A freezer is about minus 18 °C. The scale is named after Anders Celsius, a Swedish astronomer. In 1742 he made a scale with 100 for freezing and 0 for boiling. A few years later, others turned it the other way round, which is how we use it today. A thermometer is one measuring tool. Other tools measure other things, each in its own unit. A ruler measures length in centimetres. A measuring tape measures longer lengths in metres. A weighing machine, which is also called a scale, measures weight in kilograms. A clock measures time in minutes and seconds.
 - e.g. A fridge is about 4 °C inside.
 - e.g. A healthy body is about 37 °C inside.
 - e.g. Hot tea or filter coffee is often about 60 to 65 °C.
@@ -483,7 +483,7 @@ That night, Lakshmi wrote at the bottom of her page: The heat did not vanish. It
   - Check: Why does the straw thermometer take much longer to settle than a real thermometer? → **Its bottle holds much more water, so it needs much more heat to warm up**
 
 ## Worksheets
-### Heat Detective (core) (core, 15 questions)
+### Heat Detective (core) (core, 16 questions)
 1. (fill) The tool we use to measure how hot or cold something is, is called a ____.  
    **Answer:** ['thermometer']. *Why:* A thermometer measures temperature. Your hand can only tell you whether it is warming up or cooling down.
 2. (fill) On the Celsius scale, pure water freezes at ____ degrees and boils at ____ degrees.  
@@ -502,20 +502,22 @@ That night, Lakshmi wrote at the bottom of her page: The heat did not vanish. It
    **Answer:** curd just taken out of the fridge, on the table → Gaining heat; a hot idli steamer after the stove is off → Losing heat; an ice cube in your hand → Gaining heat; your hand holding an ice cube → Losing heat; a cold bottle of water on a sunny sill → Gaining heat; hot rasam in a bowl on the table → Losing heat. *Why:* A thing gains heat when what is around it is warmer, and loses heat when what is around it is cooler. A strong sorter compares each thing with what touches it.
 8. (match) Match each thing to its usual temperature.  
    **Answer:** inside a fridge → about 4 °C; melting ice → 0 °C; inside your body → about 37 °C; boiling water at sea level → 100 °C; a room in Chennai in May → about 32 °C. *Why:* Knowing a few real temperatures helps you judge any number you read. Your body is warmer than most rooms, and a fridge is just above freezing.
-9. (order) Put these steps for reading a thermometer in water in the right order.  
+9. (match) Match each tool to what it measures.  
+   **Answer:** Ruler → length of a pencil, in centimetres; Measuring tape → length of a room, in metres; Weighing machine → weight of a bag of rice, in kilograms; Clock → time, in minutes and seconds. *Why:* Each tool gives a number in its own unit. A thermometer gives degrees, but the same idea holds for every tool.
+10. (order) Put these steps for reading a thermometer in water in the right order.  
    **Answer:** ['Stand the bulb in the water', 'Stir the water gently', 'Wait until the line stops moving', 'Read the number where the line ends']. *Why:* The bulb must be in the water, stirring mixes the water so it is the same all through, and waiting lets heat move into the bulb. Only then is the number right.
-10. (mcq) A laboratory thermometer has a round bulb at the bottom. Why must the bulb be right in the water, and not just the tip of the glass?  
+11. (mcq) A laboratory thermometer has a round bulb at the bottom. Why must the bulb be right in the water, and not just the tip of the glass?  
    Options: Most of the liquid is in the bulb, so the bulb must reach the water's temperature / The bulb makes the water hotter / The glass tip is too sharp  
    **Answer:** Most of the liquid is in the bulb, so the bulb must reach the water's temperature. *Why:* The bulb holds most of the liquid. Heat must move into the bulb until it is as warm as the water, and then the line shows the water's temperature.
-11. (write) In the Hot Tumbler, Cold Tumbler test, the cold tumbler's number went up from 8 to 16 in 20 minutes. Where did its heat come from?  
+12. (write) In the Hot Tumbler, Cold Tumbler test, the cold tumbler's number went up from 8 to 16 in 20 minutes. Where did its heat come from?  
    **Answer:** From the air and the table around it. They were at room temperature, which was warmer than the cold water, so heat moved from them into the water.. *Why:* A strong answer names where the heat came from and says why it moved that way: from the warmer air and table to the cooler water.
-12. (write) Why does a thermometer have such a narrow tube?  
+13. (write) Why does a thermometer have such a narrow tube?  
    **Answer:** The liquid expands only a tiny bit when it warms. In a narrow tube, that tiny bit of extra liquid makes a long line that is easy to see and read.. *Why:* A strong answer says that the liquid expands only a little, and that the narrow tube makes that small change show up as a big rise.
-13. (write) On a cold night someone says, 'Shut the door, the cold is coming in!' What is really happening when the door is open?  
+14. (write) On a cold night someone says, 'Shut the door, the cold is coming in!' What is really happening when the door is open?  
    **Answer:** Heat from the warm room is going out through the open door into the colder air outside. The room cools down because it is losing heat. No cold is coming in.. *Why:* A strong answer says that heat is leaving, and uses the rule that heat moves from warmer to cooler.
-14. (draw) Draw a tumbler of hot water on a table. Draw red arrows to show where its heat goes.  
+15. (draw) Draw a tumbler of hot water on a table. Draw red arrows to show where its heat goes.  
    **Answer:** Red arrows go out of the water into the air above it, out through the sides into the air, and down into the table.. *Why:* A strong drawing shows heat leaving in several directions, always from the hot water to the cooler things that touch it.
-15. (label) Label the parts of this thermometer: bulb, narrow tube, liquid, scale.  
+16. (label) Label the parts of this thermometer: bulb, narrow tube, liquid, scale.  
    **Answer:** The bulb is the round end at the bottom. The narrow tube runs up from it. The red liquid fills the bulb and part of the tube. The scale is the numbers along the side.. *Why:* The bulb holds most of the liquid and must touch what you measure. The liquid climbs the narrow tube, and the scale turns its height into a number.
 ### Where Does the Heat Go? (stretch) (stretch, 15 questions)
 1. (mcq) A tumbler of hot water at 62 °C stands in a bowl of water at 30 °C. The bowl holds three times as much water as the tumbler. Where will the two numbers stop?  
@@ -624,6 +626,9 @@ That night, Lakshmi wrote at the bottom of her page: The heat did not vanish. It
 10. (mcq) A tumbler of water on a sunny sill reads 45 °C, but the air in the shade reads 33 °C. What is the best explanation?  
    Options: Sunlight is heating the water directly, so it is warmer than the air / Heat is flowing from the shady air into the water / The thermometer is broken  
    **Answer:** Sunlight is heating the water directly, so it is warmer than the air. *Why:* Sunlight brings heat straight to the water, so the water ends up warmer than the air around it. Heat cannot flow by itself from the cooler shady air into warmer water.
+11. (mcq) Which tool should you use to find how heavy a bag of rice is?  
+   Options: A weighing machine / A ruler / A clock  
+   **Answer:** A weighing machine. *Why:* A weighing machine measures weight in kilograms. A ruler measures length, and a clock measures time.
 
 ## Applications
 - Doctors and parents use clinical thermometers to check for fever.

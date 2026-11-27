@@ -66,6 +66,12 @@
    "art": "A lunch box on a table with a thread pulling it one way and a friction arrow along the table pointing the other way."
   },
   {
+   "term": "Applied force",
+   "meaning": "An applied force is a push or a pull that a person, an animal or a machine gives to a thing.",
+   "example": "When you pull a loaded box with a rope, your pull on the box is the applied force. Friction then pulls back along the floor.",
+   "art": "A child pulling a loaded box across a floor with a rope, with an arrow along the rope pointing at the box."
+  },
+  {
    "term": "Gravity",
    "meaning": "Gravity is the pull of the Earth on every thing. The size of that pull on a thing is called its weight.",
    "example": "Gravity pulls a parachute and its load down all the time, even while they fall slowly.",
@@ -2477,6 +2483,14 @@
      "why": "A strong answer names front area or shape for the straight body, and smoothness for the cap.",
      "lines": 3,
      "outcome": 2
+    },
+    {
+     "t": "fill",
+     "p": "A push or pull that a person gives to a box is called an ____ force.",
+     "a": [
+      "applied"
+     ],
+     "why": "An applied force comes from a person, an animal or a machine. It is different from friction, which comes from a surface."
     }
    ]
   },
@@ -3046,6 +3060,18 @@
    "a": 0,
    "why": "The equations for turbulent flow have never been solved exactly. The other three are settled.",
    "outcome": 7
+  },
+  {
+   "t": "mcq",
+   "p": "A child pulls a box across the floor with a rope. What is the child's pull on the box?",
+   "opts": [
+    "An applied force",
+    "Upthrust",
+    "Air resistance"
+   ],
+   "a": 0,
+   "why": "A push or pull from a person, an animal or a machine is an applied force. Upthrust pushes up in air or water, and air resistance works against movement through air.",
+   "outcome": 0
   }
  ],
  "videos": [

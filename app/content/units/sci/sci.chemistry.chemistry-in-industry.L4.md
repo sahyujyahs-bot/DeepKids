@@ -100,7 +100,7 @@ Water-based wall paint holds its binder as tiny particles of plastic floating in
 ### By-products, waste and pollution · *defined*
 **Definition:** A by-product is a substance made along with the product. Pollution is a substance in the air, water or soil in an amount that harms living beings.
 
-No factory makes only what it wants. Atoms cannot vanish, so every atom that goes in must come out somewhere. A good factory finds a use for its by-products. A urea factory makes carbon dioxide when it makes hydrogen. It then uses that carbon dioxide to make the urea. Other by-products are harder to use. Smoke, waste water and unwanted solids can harm people, other animals and plants. Products can harm too, after they leave the factory. Nitrogen fertiliser that the crop does not take up washes into ponds. There it feeds algae. When the algae die, the microbes who rot them use up the oxygen in the water, and fish die. Lead compounds were once common in paint. Lead damages the growing brain of a child, and no safe amount is known. Since 2017, house paint sold in India may hold only a trace of lead. A factory can also fail. In December 1984 a poisonous gas leaked from a pesticide factory in Bhopal, and thousands of people died. Chemists today try to design reactions that use less energy, make less waste and need no dangerous substances. This work is called green chemistry.
+No factory makes only what it wants. Atoms cannot vanish, so every atom that goes in must come out somewhere. A good factory finds a use for its by-products. A urea factory makes carbon dioxide when it makes hydrogen. It then uses that carbon dioxide to make the urea. Other by-products are harder to use. Smoke, waste water and unwanted solids can harm people, other animals and plants. Products can harm too, after they leave the factory. Nitrogen fertiliser that the crop does not take up washes into ponds. There it feeds algae. When the algae die, the microbes who rot them use up the oxygen in the water, and fish die. Lead compounds were once common in paint. Lead damages the growing brain of a child, and no safe amount is known. Since 2017, house paint sold in India may hold only a trace of lead. A factory can also fail. In December 1984 a poisonous gas leaked from a pesticide factory in Bhopal, and thousands of people died. Chemists today try to design reactions that use less energy, make less waste and need no dangerous substances. This work is called green chemistry. When people change a material, they weigh the good it does against the harm it may do to the air, water or soil. Factory nitrogen has raised harvests a great deal, but the extra that washes into a pond can harm the fish and plants in it.
 - e.g. A sugar mill burns its crushed cane as fuel and sells its molasses to make ethanol.
 - e.g. A pond below a heavily fertilised field turns green with algae.
 - e.g. Old paint that is flaking off a wall may hold lead, so it should not be scraped by children.
@@ -530,7 +530,7 @@ Bhagya went to the door and scratched it with a fingernail. Then she looked at h
 15. (mcq) Which raw material do most plastics and wall-paint binders start from?  
    Options: Crude oil / Sea salt / Limestone / Rain water  
    **Answer:** Crude oil. *Why:* A refinery supplies the starting substances for plastics. The binder in most wall paint is a plastic of this kind.
-### Why each product works as it does (stretch, 15 questions)
+### Why each product works as it does (stretch, 16 questions)
 1. (mcq) A refinery separates crude oil into its parts. What does it use to separate them?  
    Options: Their different boiling points / Their different colours / A strong magnet / A fine sieve  
    **Answer:** Their different boiling points. *Why:* Short carbon chains boil at low temperatures and long chains at high temperatures. So each part is collected at its own height in the tower.
@@ -566,6 +566,8 @@ Bhagya went to the door and scratched it with a fingernail. Then she looked at h
    **Answer:** Any view with a reason from the unit. One reason is that long use gives some evidence of safety. Another is that the same molecule acts the same wherever it comes from. The amount decides whether it helps or harms.. *Why:* Each view has something right in it. A strong answer separates where a substance comes from, how much is taken and how well it was tested.
 15. (label) Label four outlets on this picture of a refinery tower: LPG, petrol, diesel and bitumen.  
    **Answer:** ['LPG: the outlet at the very top', 'Petrol: the outlet just below the top', 'Diesel: an outlet in the lower half', 'Bitumen: the outlet at the bottom']. *Why:* Short chains boil most easily and rise highest, so LPG leaves at the top. Bitumen has the longest chains and stays at the bottom.
+16. (write) A made-up cloth factory makes bright cloth cheaply. Its waste water turns a nearby river red. Name one benefit and one cost of this change.  
+   **Answer:** Benefit: cheap, bright cloth and jobs for people nearby. Cost: the red water can harm the fish and the people who use the river. A strong answer names both and says what could cut the harm, such as cleaning the water before it goes out.. *Why:* Most changes have a benefit and a cost. Good thinking names both before deciding.
 ### Testing ideas about dose, waste and fuel (challenge, 15 questions)
 1. (mcq) A new fuel burns to give only water. What must we still ask about it?  
    Options: How the fuel itself was made / Whether its flame is pretty / Who gave it its name / Whether water is wet  
@@ -643,6 +645,9 @@ Bhagya went to the door and scratched it with a fingernail. Then she looked at h
    **Answer:** A substance present in a harmful amount. *Why:* A substance pollutes when there is enough of it, in the air, water or soil, to harm living beings. The amount matters.
 12. (truefalse) Urea can be made only inside a living body.  
    **Answer:** False. *Why:* False. In 1828 urea was made in a laboratory from a mineral salt. Today factories make it from air, natural gas and water.
+13. (mcq) A factory makes a fertiliser that raises harvests, but some of it washes into a pond. What is the best way to think about it?  
+   Options: Weigh the benefit, the bigger harvest, against the cost, the harm in the pond, and look for ways to cut the harm / It is all good, because a bigger harvest is all that matters / It is all bad, so no farmer should ever use it / Nothing to weigh, because pond water cleans itself at once  
+   **Answer:** Weigh the benefit, the bigger harvest, against the cost, the harm in the pond, and look for ways to cut the harm. *Why:* A change can have a benefit and a cost at the same time. The bigger harvest is real, and so is the harm in the pond. Good thinking weighs both and looks for ways to cut the harm.
 
 ## Applications
 - Farmers get a soil test before they buy fertiliser. The test shows which nutrient the field lacks, so that only that nutrient is added.

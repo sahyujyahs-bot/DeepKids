@@ -53,6 +53,7 @@ Think of a spoon opening a tin of ghee. The rim of the tin is the fulcrum. The l
 - e.g. A spoon prying a lid off a tin.
 - e.g. A hand pump on a village borewell. You push the long handle down, and the short end lifts the water rod.
 - e.g. A crowbar lifting a heavy stone.
+- e.g. The brake handle of a bicycle is a lever. Your fingers squeeze it, and it turns on a pivot where it joins the bar. A small squeeze gives a strong pull on the brake cable.
 ### See-saw balance: weight and distance · *defined*
 **Definition:** A see-saw or lever balances when the weight on one side, times its distance from the fulcrum, equals the weight on the other side, times its distance.
 
@@ -690,7 +691,7 @@ That night, under the stars, the whole village ate together round the fires of U
    **Answer:** The girl is right that where you stand matters: one coin far out balanced two coins close in. But the aunt has a point. At the same spot, a heavier foot does push down more, and a light child may need someone beside her to lift the head high. So a strong answer says both weight and distance count.. *Why:* A strong answer uses the ruler see-saw as evidence, picks a side, and gives fair credit to the other view.
 16. (draw) Draw a see-saw with a grown-up and a child sitting on it, balanced and level. Mark the fulcrum. Show who sits closer to it.  
    **Answer:** The grown-up sits close to the middle. The child sits near the far end. The fulcrum is the post in the middle, marked with a triangle.. *Why:* A strong drawing puts the heavy person nearer the fulcrum and the light person further away, and keeps the plank level.
-### Levers, Ramps and Wheels at Work (stretch) (stretch, 15 questions)
+### Levers, Ramps and Wheels at Work (stretch) (stretch, 16 questions)
 1. (mcq) Five coins sit 2 cm from the pencil on a ruler see-saw. Where must 2 coins sit on the other side, so the ruler balances?  
    Options: 2 cm from the pencil / 4 cm from the pencil / 5 cm from the pencil / 10 cm from the pencil  
    **Answer:** 5 cm from the pencil. *Why:* 5 coins times 2 cm is 10. 2 coins times 5 cm is also 10. So the 2 coins go 5 cm away. Picking 2 cm matches the place but forgets the weight. Picking 10 cm uses the total instead of sharing it between the 2 coins.
@@ -728,6 +729,8 @@ That night, under the stars, the whole village ate together round the fires of U
    **Answer:** your push down, book pushes down down, pencil pushes up up. *Why:* You push down on one end. The book presses down on the other end. The pencil fulcrum pushes up and holds the ruler up. There is no sliding, so friction is not the main force here.
 15. (draw) Design a ramp for a toy car to reach a 10 cm high box. Draw a short steep ramp and a long gentle ramp. Mark which needs the smaller push.  
    **Answer:** Two ramps from the floor to the top of the box. The long gentle ramp is marked as the smaller push.. *Why:* The longer ramp to the same height needs a smaller push.
+16. (write) On a bicycle, your fingers squeeze the brake handle. Name the effort and the fulcrum. Then say what the handle does to your small squeeze.  
+   **Answer:** The effort is your squeeze on the handle. The fulcrum is the pivot where the handle joins the bar. The handle makes the small squeeze into a bigger pull on the brake cable.. *Why:* A strong answer names the effort at the hand, the fulcrum at the pivot, and says the lever makes the pull stronger, using the same lever rule as the see-saw.
 ### Balance Puzzles and Big Ideas (challenge) (challenge, 15 questions)
 1. (mcq) Predict: 2 coins sit on left peg 2, and 3 coins sit on right peg 1. What will the see-saw do?  
    Options: Tips left / Tips right / Balances  
@@ -784,37 +787,40 @@ That night, under the stars, the whole village ate together round the fires of U
 4. (mcq) When you stand on tiptoe, your foot works as a lever. Where does it turn?  
    Options: At the ball of your foot, near your toes / At your heel / At your knee  
    **Answer:** At the ball of your foot, near your toes. *Why:* Your calf muscle pulls your heel up, and the foot turns on the ball of the foot. Picking 'at your heel' mixes up where the effort pulls with where the foot turns.
-5. (mcq) A see-saw is level. Then the child on the left slides further out from the middle. What happens?  
+5. (mcq) A bicycle brake handle is a lever. Where is its fulcrum?  
+   Options: The point where the handle joins the bar and turns / Under your fingers, where you squeeze / The brake pad, where it rubs the wheel  
+   **Answer:** The point where the handle joins the bar and turns. *Why:* A lever turns on its fulcrum. The brake handle turns at its pivot on the bar. Your fingers give the effort, and the brake pad is the part that rubs the wheel, not the point the handle turns on.
+6. (mcq) A see-saw is level. Then the child on the left slides further out from the middle. What happens?  
    Options: The left side goes down / The right side goes down / Nothing changes  
    **Answer:** The left side goes down. *Why:* The same weight further from the fulcrum turns the plank more. So the left side goes down. Picking 'nothing changes' means only weight was counted, not distance.
-6. (mcq) 1 coin sits 8 cm from the pencil on a ruler see-saw. How far away must 4 coins sit, on the other side, to balance it?  
+7. (mcq) 1 coin sits 8 cm from the pencil on a ruler see-saw. How far away must 4 coins sit, on the other side, to balance it?  
    Options: 2 cm / 8 cm / 32 cm  
    **Answer:** 2 cm. *Why:* 1 times 8 is 8, and 4 times 2 is 8. The heavier side sits closer in. Picking 8 cm matches the place but forgets the weight. Picking 32 cm moves the heavy side further out instead of closer in.
-7. (mcq) Instead of using the steps, a girl pushes her grandmother's wheelchair up a long, gentle ramp. What does the ramp cost her?  
+8. (mcq) Instead of using the steps, a girl pushes her grandmother's wheelchair up a long, gentle ramp. What does the ramp cost her?  
    Options: She must push for a longer way / She needs a bigger push / Nothing at all  
    **Answer:** She must push for a longer way. *Why:* A ramp trades a smaller push for a longer distance. Picking 'nothing at all' means the machine was thought to give something for nothing.
-8. (mcq) A knife is a wedge. Why does a sharp knife cut more easily than a blunt one?  
+9. (mcq) A knife is a wedge. Why does a sharp knife cut more easily than a blunt one?  
    Options: Its thin edge puts all of your push onto a tiny line / It is heavier / It is colder  
    **Answer:** Its thin edge puts all of your push onto a tiny line. *Why:* A wedge turns a push into a big sideways push at its thin edge. The thinner the edge, the more the push is crowded into one tiny line.
-9. (mcq) Why does a tap have a wide handle, and not just a thin rod?  
+10. (mcq) Why does a tap have a wide handle, and not just a thin rod?  
    Options: The wide handle is a wheel, so a small push makes a strong twist / It looks nicer / A wide handle uses less water  
    **Answer:** The wide handle is a wheel, so a small push makes a strong twist. *Why:* A tap is a wheel and axle. Your hand goes round a bigger circle with a smaller push, and the thin rod twists strongly.
-10. (mcq) Why is a heavy cart on wheels easier to move than dragging the same load?  
+11. (mcq) Why is a heavy cart on wheels easier to move than dragging the same load?  
    Options: Rolling has much less friction than sliding / Wheels make the load lighter / Wheels push the cart by themselves  
    **Answer:** Rolling has much less friction than sliding. *Why:* A rolling wheel does not rub along the ground the way a sliding load does, so there is much less friction. Picking 'lighter' mixes up weight and push.
-11. (mcq) In the ruler see-saw test, why did you try each coin position more than once?  
+12. (mcq) In the ruler see-saw test, why did you try each coin position more than once?  
    Options: Because one try can be a fluke / To make the test take longer / Because the ruler gets longer  
    **Answer:** Because one try can be a fluke. *Why:* A coin can slip, or the ruler can wobble. Trying more than once shows which result is real.
-12. (mcq) These are made-up results from the ramp test. Which way of going up needed the smallest pull?  
+13. (mcq) These are made-up results from the ramp test. Which way of going up needed the smallest pull?  
    Options: Lifted straight up / Short, steep ramp / Long, gentle ramp  
    **Answer:** Long, gentle ramp. *Why:* The shortest bar is the long, gentle ramp, so it needed the smallest pull. Picking 'straight up' may mean the tallest bar was read as the best. Here a taller bar means more pull.
-13. (mcq) A girl lifts a rock with a long crowbar. Her push is only one tenth as big as the rock's weight. The rock rises 1 cm. How far does her hand move down?  
+14. (mcq) A girl lifts a rock with a long crowbar. Her push is only one tenth as big as the rock's weight. The rock rises 1 cm. How far does her hand move down?  
    Options: About 10 cm / About 1 cm / About one tenth of a centimetre  
    **Answer:** About 10 cm. *Why:* A machine trades push for distance. One tenth of the push means about ten times the distance, so her hand moves about 10 cm. Picking 1 cm means she was thought to get a smaller push for free.
-14. (mcq) A long spanner and a short spanner turn the same tight nut. Which needs the smaller push, and what is the catch?  
+15. (mcq) A long spanner and a short spanner turn the same tight nut. Which needs the smaller push, and what is the catch?  
    Options: The long one, but your hand must go round a bigger circle / The short one, with no catch / The long one, with no catch  
    **Answer:** The long one, but your hand must go round a bigger circle. *Why:* The long handle puts your push further from the nut, so a smaller push gives the same twist. But your hand travels round a much bigger circle for each turn. Picking 'no catch' means the spanner was thought to give something for nothing.
-15. (mcq) Your biceps pulls on your forearm very close to the elbow. What do you gain from that?  
+16. (mcq) Your biceps pulls on your forearm very close to the elbow. What do you gain from that?  
    Options: Your hand moves far and fast / A stronger grip / Nothing. It is a mistake  
    **Answer:** Your hand moves far and fast. *Why:* With the muscle close to the fulcrum, a small shortening swings the hand a long way, fast. Picking 'a mistake' is a fair first guess, but it is a trade of strength for speed.
 

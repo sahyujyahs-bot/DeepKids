@@ -275,7 +275,7 @@
    "concept": "Protected areas: size, shape and joins",
    "status": "defined",
    "definition": "A protected area is land or water where the law protects wild plants and animals. India has national parks, wildlife sanctuaries, tiger reserves and biosphere reserves.",
-   "description": "India's main wildlife law is the Wild Life (Protection) Act of 1972. India now has more than 100 national parks and more than 550 wildlife sanctuaries. Together, protected areas cover about 5 in every 100 parts of India's land. Their size and shape matter. A small patch loses rare species, as the Shrinking Forest Test shows. A small patch is also mostly edge. In the Bread Forest test, the 16 small squares dried right through while the whole slice stayed soft in the middle. A forest edge is hotter, drier and windier than the middle, and some species cannot live there. So one large area usually keeps more forest species than many small ones. Where a large area is not possible, a corridor of trees can join two smaller ones. Then animals can move between them, and a group that dies out in one can be replaced from the other.",
+   "description": "India's main wildlife law is the Wild Life (Protection) Act of 1972. India now has more than 100 national parks and more than 550 wildlife sanctuaries. Together, protected areas cover about 5 in every 100 parts of India's land. Their size and shape matter. A small patch loses rare species, as the Shrinking Forest Test shows. A small patch is also mostly edge. In the Bread Forest test, the 16 small squares dried right through while the whole slice stayed soft in the middle. A forest edge is hotter, drier and windier than the middle, and some species cannot live there. So one large area usually keeps more forest species than many small ones. Where a large area is not possible, a corridor of trees can join two smaller ones. Then animals can move between them, and a group that dies out in one can be replaced from the other. Forest laws also control felling. In many places a big tree cannot be cut without permission. When forest land is cut for a road or a mine, the rules ask for new saplings to be planted in its place. The Wild Life (Protection) Act of 1972 bans hunting of protected animals and selling their skins. Shoppers can also refuse goods made from animal skin, such as shawls and belts. A national park is the strictest kind of protected area. A sanctuary keeps wild animals safe from hunting and harm, and some people may still use its land in limited ways.",
    "examples": [
     "A tiger reserve has a core, where nobody lives, and a buffer around the core, where people and wildlife share the land.",
     "On the highway through the Pench forest in central India, long bridges let tigers and deer walk underneath the traffic.",
@@ -2620,6 +2620,14 @@
      "why": "The edge of a forest is hotter, drier and windier than the middle. In a small patch, most of the forest is edge. Species who need damp shade can no longer live there."
     },
     {
+     "t": "fill",
+     "p": "When forest land is cut for a road, the rules ask for new ____ to be planted to make up for the trees that were cut.",
+     "a": [
+      "saplings"
+     ],
+     "why": "Saplings are young trees. The rules ask for them to be planted in place of the trees that were lost."
+    },
+    {
      "t": "order",
      "p": "Put these in order, from the first event to the last.",
      "a": [
@@ -2838,6 +2846,13 @@
      "why": "False, though part of it is true. Extinction has always happened, and most species who ever lived are gone. But species are now dying out far faster than new ones form, and people cause most of the loss."
     },
     {
+     "t": "write",
+     "p": "Name two ways that protect wild animals in India, and say what each one does.",
+     "a": "A strong answer names the Wild Life (Protection) Act of 1972, which bans hunting protected animals and selling their skins, and a sanctuary or national park, where wild animals are kept safe from hunting and harm.",
+     "why": "A strong answer names one law and one protected place, and says what each does for the animals.",
+     "lines": 3
+    },
+    {
      "t": "odd",
      "p": "Three of these are risks for a small group. Which one is the odd one out?",
      "opts": [
@@ -3002,6 +3017,32 @@
    "a": false,
    "why": "False. Most species have never been named or counted, so nobody can count exactly. Scientists build estimates from the groups they have studied.",
    "outcome": 6
+  },
+  {
+   "t": "mcq",
+   "p": "In many places, what must a person get before cutting down a big tree?",
+   "opts": [
+    "A permit from the forest or local office",
+    "A promise from the neighbours",
+    "Nothing, if the tree is old",
+    "A ticket from the market"
+   ],
+   "a": 0,
+   "why": "In many places a big tree cannot be cut without permission. A promise from neighbours, the age of a tree, or a market ticket does not allow the cutting.",
+   "outcome": 4
+  },
+  {
+   "t": "mcq",
+   "p": "A hunter kills a protected tiger and sells the skin. What does the law say?",
+   "opts": [
+    "It is banned under the Wild Life (Protection) Act, 1972",
+    "It is allowed if the hunter has a village permit",
+    "It is allowed, because the skin is sold in shops",
+    "It is allowed only outside sanctuaries"
+   ],
+   "a": 0,
+   "why": "The Wild Life (Protection) Act of 1972 bans hunting protected animals and selling their skins. A village permit, a shop, or a place outside a sanctuary does not make it legal.",
+   "outcome": 4
   }
  ],
  "videos": [

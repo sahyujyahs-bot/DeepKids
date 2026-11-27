@@ -130,7 +130,7 @@
    "status": "defined",
    "context": "This card is about the body parts animals use to fly and to swim.",
    "definition": "Wings are body parts that an animal flaps to fly. Fins are flat body parts that a fish uses to swim and steer.",
-   "description": "Birds, bats and most insects have wings. A bat is not a bird: bats have fur and feed their babies milk, so bats are mammals. Some birds have wings but do not fly, such as the penguin and the ostrich. A fish has a tail fin that pushes them forward. Fins on the back and belly stop the fish from rolling over. Fins on the sides help them steer and stop. Dolphins and whales have fins too, but they breathe air and feed their babies milk. They are mammals, not fish.",
+   "description": "Birds, bats and most insects have wings. A bat is not a bird: bats have fur and feed their babies milk, so bats are mammals. Some birds have wings but do not fly, such as the penguin and the ostrich. A fish has a tail fin that pushes them forward. Fins on the back and belly stop the fish from rolling over. Fins on the sides help them steer and stop. Dolphins and whales have fins too, but they breathe air and feed their babies milk. They are mammals, not fish. You can also group animals by where they move: on land, in water or in the air. A buffalo walks on land. A rohu fish swims in water. A kite flies in the air. Some animals use more than one place. A duck walks on land, paddles on a pond and flies.",
    "examples": [
     "A crow has wings and two legs.",
     "A butterfly has wings and six legs.",
@@ -159,7 +159,7 @@
    "status": "defined",
    "context": "This card is about the different ways animals live with people, or without them.",
    "definition": "A pet lives with a family who look after them. A farm animal is kept for milk, eggs, wool or work. A wild animal lives on their own and finds their own food.",
-   "description": "Wild animals do not only live in forests. Crows, pigeons, squirrels, geckos and ants are wild animals that live in cities. In Mumbai, leopards live in a forest park inside the city. Being a pet depends on how an animal lives, not on what kind of animal they are. A parrot in the forest is wild. In India, the Wildlife Protection Act of 1972 makes it against the law to catch or keep wild Indian birds, such as parakeets and munias. Some animals, like street dogs and temple cows, are fed by many people but belong to no one family. People argue about what to call them.",
+   "description": "Wild animals do not only live in forests. Crows, pigeons, squirrels, geckos and ants are wild animals that live in cities. In Mumbai, leopards live in a forest park inside the city. Being a pet depends on how an animal lives, not on what kind of animal they are. A parrot in the forest is wild. In India, the Wildlife Protection Act of 1972 makes it against the law to catch or keep wild Indian birds, such as parakeets and munias. Some animals, like street dogs and temple cows, are fed by many people but belong to no one family. People argue about what to call them. A wild animal finds her own food. A pet cannot, so the family gives food and fresh water every day. They also give a clean place to sleep and time to play. Be gentle with a pet. Pets feel hunger, thirst and fear, as you do. Care can reach other animals too. On a hot day, a bowl of water on the balcony helps the birds and squirrels. Never hit a street dog or throw stones at her.",
    "examples": [
     "A cat at home is a pet.",
     "A buffalo kept for milk is a farm animal.",
@@ -1415,6 +1415,91 @@
    ]
   },
   {
+   "id": "a7",
+   "title": "Make an Animal Mask",
+   "mins": 20,
+   "days": 1,
+   "context": "In this activity you make a mask of an animal you know, a pet or a wild animal. The mask shows the animal's covering. You will find out what you notice when you look closely at an animal's face.",
+   "materials": [
+    {
+     "item": "a paper plate or a piece of thin card",
+     "qty": 1
+    },
+    {
+     "item": "crayons or pencil colours",
+     "qty": 1
+    },
+    {
+     "item": "scraps of paper, cotton wool or wool",
+     "qty": 1
+    },
+    {
+     "item": "glue",
+     "qty": 1
+    },
+    {
+     "item": "scissors (for the grown-up)",
+     "qty": 1
+    },
+    {
+     "item": "string or a strip of paper to tie on",
+     "qty": 1
+    }
+   ],
+   "schedule": [
+    {
+     "day": 1,
+     "mins": 20,
+     "what": "Choose an animal. Draw and make its mask. Wear it, and move and sound like the animal."
+    }
+   ],
+   "record": "Take a photo of your child wearing the mask.",
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 8,
+     "do": "Your child picks an animal they know, such as a cat, a parrot, a tiger or a crow. They draw the face on the plate: two eyes, the nose or beak, the mouth or ears. A grown-up cuts out two holes for the eyes.",
+     "say": "Which animal will you be? Look at a picture or at the real animal. What is on their face?",
+     "kid": "Draw the animal's face on the plate. Do not forget the ears or the beak."
+    },
+    {
+     "id": "s2",
+     "mins": 7,
+     "do": "Show the covering with real materials: cotton wool or wool for fur, folded paper strips for feathers, small paper circles for scales. Glue them on. Tie a string on each side.",
+     "say": "What covers your animal's face? Fur, feathers or scales? Let us stick some on.",
+     "kid": "Stick on the covering. Wear your mask."
+    },
+    {
+     "id": "s3",
+     "mins": 5,
+     "do": "Your child wears the mask and moves and sounds like the animal. Ask what they know about how the animal lives, and whether the animal is a pet, a farm animal or wild.",
+     "say": "Show me how you walk. Is your animal a pet, a farm animal or wild?",
+     "kid": "Move and sound like your animal. Say if it is a pet, a farm animal or wild.",
+     "check": {
+      "t": "mcq",
+      "q": "You make a tiger mask. What should you stick on the face to show their covering?",
+      "options": [
+       "Paper circles, for scales",
+       "Fur, such as cotton wool or wool",
+       "Paper strips, for feathers"
+      ],
+      "a": 1,
+      "why": "A tiger is a mammal and has fur. Scales belong to fish and snakes, and feathers belong to birds."
+     }
+    }
+   ],
+   "setup": [
+    {
+     "art": "A boy drawing an animal face on a paper plate with crayons, with a picture of a tiger beside him.",
+     "caption": "1. Draw the animal's face."
+    },
+    {
+     "art": "A girl gluing cotton wool onto a paper plate mask, with eye holes already cut out.",
+     "caption": "2. Stick on the covering."
+    }
+   ]
+  },
+  {
    "id": "a5",
    "title": "Feather and Water (if you find a feather)",
    "mins": 10,
@@ -1922,6 +2007,51 @@
      "art": "Six small drawings: a cat on a cushion, a buffalo, a crow on a tank, a hen, a gecko and a goldfish bowl."
     },
     {
+     "t": "sort",
+     "p": "Sort these animals by where they mostly move: on land, in water or in the air.",
+     "cats": [
+      "On land",
+      "In water",
+      "In the air"
+     ],
+     "items": [
+      [
+       "a buffalo walking to the pond",
+       "On land"
+      ],
+      [
+       "a rohu fish swimming",
+       "In water"
+      ],
+      [
+       "a kite gliding high in the sky",
+       "In the air"
+      ],
+      [
+       "a goat climbing a rock",
+       "On land"
+      ],
+      [
+       "a crab in a stream",
+       "In water"
+      ],
+      [
+       "a bee flying to a flower",
+       "In the air"
+      ]
+     ],
+     "a": "see items",
+     "why": "Land animals walk or climb, water animals swim, and flying animals use wings. Some animals, like a duck, use more than one place.",
+     "art": "Six small drawings: a buffalo, a rohu fish, a kite bird, a goat on a rock, a crab and a bee."
+    },
+    {
+     "t": "fill",
+     "p": "A pet cannot find food at home. The family must give food and fresh ________ every day.",
+     "a": "water",
+     "why": "Every animal needs water. A pet depends on its family to give water, food and a clean place to sleep.",
+     "art": "A girl filling a steel bowl with water for a dog at the door of a flat."
+    },
+    {
      "t": "perspective",
      "p": "A brown street dog sleeps outside a building. Many people in the lane feed her. Two children disagree about her.",
      "views": [
@@ -2175,6 +2305,51 @@
      "lines": 2,
      "a": "We both walk on two legs. A crow has feathers and wings, and I have hair and no wings.",
      "why": "A strong answer gives a real body part that is the same, such as two legs or two eyes, and one that is different, such as feathers or wings."
+    },
+    {
+     "t": "sort",
+     "p": "Sort these into kind things and unkind things to do for animals.",
+     "cats": [
+      "Kind",
+      "Unkind"
+     ],
+     "items": [
+      [
+       "put out a bowl of water for the birds on a hot day",
+       "Kind"
+      ],
+      [
+       "throw a stone at a street dog",
+       "Unkind"
+      ],
+      [
+       "feed your pet cat at the same time each day",
+       "Kind"
+      ],
+      [
+       "pull a pet's tail for fun",
+       "Unkind"
+      ],
+      [
+       "talk gently and stroke a pet slowly",
+       "Kind"
+      ],
+      [
+       "leave a pet alone without water all day",
+       "Unkind"
+      ]
+     ],
+     "a": "see items",
+     "why": "Animals feel thirst, hunger, pain and fear as you do. Kind care gives them water, food and a gentle hand. Hurting or forgetting them is unkind.",
+     "art": "Six small drawings: a bowl of water on a balcony, a stone, a cat bowl, a pulled tail, a hand stroking a dog and an empty bowl."
+    },
+    {
+     "t": "write",
+     "p": "Make a mask of an animal you know. Say which covering you would use and what you would stick on for it.",
+     "lines": 3,
+     "a": "Any animal with a matching covering. For example, cotton wool for a cat's fur, paper strips for a crow's feathers.",
+     "why": "A good mask copies the real animal's covering. Fur, feathers and scales are different, so each needs its own material.",
+     "art": "A paper plate mask with two eye holes and lines for writing."
     }
    ]
   },
@@ -2520,6 +2695,54 @@
    "a": 1,
    "why": "Your body is covered in skin, with hair growing out of it. Like other mammals, you have hair.",
    "outcome": 0
+  },
+  {
+   "t": "mcq",
+   "p": "A duck walks on land, paddles on a pond and flies over the field. Where can a duck move?",
+   "opts": [
+    "On land only",
+    "On land, in water and in the air",
+    "In water only"
+   ],
+   "a": 1,
+   "why": "Some animals use more than one place. A duck walks, swims and flies. A fish moves in water only, and a buffalo on land.",
+   "outcome": 2
+  },
+  {
+   "t": "mcq",
+   "p": "Your family keeps a pet cat. Why must someone give her food and fresh water every day?",
+   "opts": [
+    "A pet cannot find her own food at home, so the family must give it",
+    "Cats do not need water",
+    "Wild animals are given food every day too"
+   ],
+   "a": 0,
+   "why": "A wild animal finds her own food, but a pet lives with a family who look after her. Every animal needs water, so a cat needs fresh water daily.",
+   "outcome": 4
+  },
+  {
+   "t": "mcq",
+   "p": "It is a very hot day. What is a kind thing to do for the birds near your building?",
+   "opts": [
+    "Chase them away from the balcony",
+    "Put a bowl of fresh water on the balcony",
+    "Throw a stone to see if they fly"
+   ],
+   "a": 1,
+   "why": "Birds feel thirst in the heat, as you do. A bowl of water is kind. Chasing or hurting animals frightens them and can harm them.",
+   "outcome": 4
+  },
+  {
+   "t": "mcq",
+   "p": "Asha makes a parrot mask for a play. Which covering should she stick on it?",
+   "opts": [
+    "Cotton wool, for fur",
+    "Paper strips, for feathers",
+    "Paper circles, for scales"
+   ],
+   "a": 1,
+   "why": "A parrot is a bird, and birds are covered in feathers. Fur belongs to mammals and scales to fish and snakes.",
+   "outcome": 0
   }
  ],
  "videos": [
@@ -2833,6 +3056,7 @@
    "ws-stretch",
    "a5",
    "a6",
+   "a7",
    "big_questions",
    "videos",
    "how_we_found_out",

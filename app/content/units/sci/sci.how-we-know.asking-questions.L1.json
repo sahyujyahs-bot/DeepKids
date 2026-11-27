@@ -33,6 +33,12 @@
    "art": "A girl lying on her tummy on a kitchen floor, watching one ant carry a sugar grain, her chin on her hands."
   },
   {
+   "term": "Measure",
+   "meaning": "To measure is to find out how long, how much or how heavy something is, by comparing it with something else, like hands, cups or a ruler.",
+   "example": "You measure a book by laying your hand along it again and again, and counting.",
+   "art": "A child's hand pressed flat along a book, with tick marks on a paper beside it."
+  },
+  {
    "term": "Clue",
    "meaning": "A clue is something you notice that helps you work out something you cannot see. Scientists call clues evidence.",
    "example": "Wet footprints on the floor are a clue that someone just had a bath.",
@@ -43,6 +49,12 @@
    "meaning": "A scientist is a person who asks questions about the world, and finds out by observing and testing. Anyone who does this is doing science, children too.",
    "example": "When you shake a dabba to find out what is inside, you are doing what a scientist does.",
    "art": "A woman scientist in a lab coat and a girl in a frock, both shaking small closed boxes and listening, side by side."
+  },
+  {
+   "term": "Table",
+   "meaning": "A table is boxes in rows and columns where we write what we found, so it is easy to read and compare.",
+   "example": "A table with Pod 1, Pod 2 and Pod 3 in one column, and the number of seeds in the next column.",
+   "art": "A small grid drawn on paper with three rows and two columns, with a pencil beside it."
   }
  ],
  "explanations": [
@@ -73,6 +85,48 @@
    "perspectives": [],
    "context": "This card is about how scientists look closely, using more than their eyes.",
    "art": "A girl holding one green elaichi pod very close to her eye, with a cracked-open pod and tiny black seeds on her other palm."
+  },
+  {
+   "concept": "Staying safe while we find out",
+   "status": "defined",
+   "definition": "Staying safe means listening to the steps, asking a grown-up when you are not sure, and keeping your hands, nose and mouth away from danger.",
+   "description": "Finding out is fun, and it is also care. Listen to every step before you begin. Never taste a mystery thing. To smell something, do not put your nose into it. Wave the smell gently towards your nose with your hand. Ask a grown-up to open or cut anything sharp, and to help with anything hot. Wash your hands when you finish, and wipe up any spill so nobody slips.",
+   "examples": [
+    "A grown-up presses the elaichi pod open, and you smell it by waving the scent towards you.",
+    "You wipe up the spilled dal from the floor so that nobody slips.",
+    "You wash your hands with soap after touching the mystery dabbas."
+   ],
+   "perspectives": [],
+   "context": "This card is about the safe way to do any practical work.",
+   "art": "A girl waving her hand over a bowl to bring the smell to her nose, while a grown-up cuts a lemon at the counter behind her."
+  },
+  {
+   "concept": "Measuring with hands, blocks and cups",
+   "status": "defined",
+   "definition": "To measure is to find out how long, how much or how heavy something is, by comparing it with something else.",
+   "description": "You can measure with things you already have. How wide is a table? Count how many hands it takes to cover it. How much water does a jug hold? Count how many cups it fills. How tall is a tower? Count the blocks. These are non-standard units, because hands and cups are not the same everywhere. A grown-up's hand is bigger than yours, so they will count fewer hands. A ruler and a measuring cup have the same size for everyone, so they are best when we want to compare.",
+   "examples": [
+    "Your bed is 9 hands long. Your grandfather's hands are bigger, so he counts 7.",
+    "A big steel jug holds 6 small cups of water.",
+    "A tower of 5 blocks is taller than a tower of 3 blocks."
+   ],
+   "perspectives": [],
+   "context": "This card is about measuring with simple things.",
+   "art": "A child laying a hand down again and again along the edge of a table, with a tick on paper for each hand."
+  },
+  {
+   "concept": "Writing down what we find",
+   "status": "defined",
+   "definition": "To record is to keep what you found out, with a labelled picture, a few words or numbers in a table.",
+   "description": "We forget quickly, so scientists write down what they find. One way is a labelled picture. Draw the thing, and write a word beside each part, like skin, seeds and stem. Another way is a table, which is boxes in rows and columns. A table helps you keep numbers in order so you can compare them. Put the thing's name in one column and what you found in the next.",
+   "examples": [
+    "A picture of an elaichi pod with the words skin, seeds and stem written beside each part.",
+    "A table with Pod 1, Pod 2 and Pod 3 in one column and the number of seeds in the next.",
+    "A picture of a steel dabba with the words lid and handle written beside each part."
+   ],
+   "perspectives": [],
+   "context": "This card is about how to keep what you found out.",
+   "art": "A notebook page with a drawn elaichi pod with three labels, and a small table beside it with two columns and three rows."
   },
   {
    "concept": "Clues tell us about things we cannot see",
@@ -699,7 +753,7 @@
   {
    "id": "a1",
    "title": "One Elaichi, Four Senses: how many things can you notice?",
-   "mins": 10,
+   "mins": 15,
    "context": "In this activity you observe one tiny elaichi pod as closely as you can. You use your eyes, hands, ears and nose, and count how many things you notice. You will find out how much more you see when you look slowly.",
    "materials": [
     {
@@ -712,6 +766,10 @@
     },
     {
      "item": "paper and a pencil to count what you notice",
+     "qty": 1
+    },
+    {
+     "item": "a ruler, or a strip of paper marked in finger widths",
      "qty": 1
     }
    ],
@@ -755,7 +813,7 @@
     {
      "id": "s3",
      "mins": 2,
-     "do": "Press one pod with your thumb until it splits. Your child looks at the seeds and smells the open pod.",
+     "do": "Press one pod with your thumb until it splits. Your child looks at the seeds and smells the open pod. Everyone washes their hands when this step is done.",
      "say": "I'll open this one. Look inside. What do you see? Now smell it. Is the smell stronger or weaker than before?",
      "kid": "Look at the seeds. Smell the open pod.",
      "adult": true,
@@ -796,6 +854,13 @@
       "a": 1,
       "why": "Looking slowly, and using your hands, ears and nose too, gives you many more clues than one quick look."
      }
+    },
+    {
+     "id": "s5",
+     "mins": 5,
+     "do": "1. Draw the elaichi pod on paper. 2. Write labels beside the skin and the seeds. 3. Measure the pod's length with finger widths, or with the ruler. 4. Make a small table: write Pod 1, Pod 2 and Pod 3, with the length and the number of seeds.",
+     "say": "Let's keep what we found. Draw the pod and write a word beside each part. How many fingers long is it?",
+     "kid": "Draw the pod. Write skin and seeds. Measure it with your fingers. Write your numbers in a table."
     }
    ]
   },
@@ -1273,6 +1338,42 @@
    "a": 0,
    "why": "Earthquake shaking travels differently through solid rock, liquid and metal. By studying it, scientists found a ball inside a ball: a solid inner core inside a liquid outer core.",
    "outcome": 4
+  },
+  {
+   "t": "mcq",
+   "p": "You want to smell the elaichi pod that a grown-up has opened. What is the safe way?",
+   "opts": [
+    "Wave the smell towards your nose with your hand",
+    "Push your nose right inside and sniff hard",
+    "Taste a tiny bit to check"
+   ],
+   "a": 0,
+   "why": "Waving brings a little of the smell to you. A strong sniff can hurt your nose, and you never taste a mystery thing.",
+   "outcome": 1
+  },
+  {
+   "t": "mcq",
+   "p": "You measure the table with your hand and get 8 hands. Your grandfather gets 6 hands. Why?",
+   "opts": [
+    "His hand is bigger than yours",
+    "The table shrank",
+    "He counted wrong, because counts must always match"
+   ],
+   "a": 0,
+   "why": "Hands are not the same size, so the counts differ. The table is still the same length. A ruler is the same for everyone.",
+   "outcome": 1
+  },
+  {
+   "t": "mcq",
+   "p": "You count the seeds in three elaichi pods: 5, 7 and 6. Why write them in a table?",
+   "opts": [
+    "The numbers stay neat, so we can read and compare them",
+    "It makes the pods bigger",
+    "A table is the only way to count seeds"
+   ],
+   "a": 0,
+   "why": "A table keeps what you found in rows and columns, so it is easy to compare. It does not change the pods, and you can count seeds without it.",
+   "outcome": 1
   }
  ],
  "worksheets": [
@@ -1423,6 +1524,58 @@
      ],
      "a": 0,
      "why": "Steam and a warm glass are clues from the outside. They tell you the milk is hot without hurting you."
+    },
+    {
+     "t": "sort",
+     "p": "Sort these into safe things to do and things not to do.",
+     "cats": [
+      "Safe",
+      "Not safe"
+     ],
+     "items": [
+      [
+       "Wave the smell towards my nose",
+       "Safe"
+      ],
+      [
+       "Taste a mystery powder",
+       "Not safe"
+      ],
+      [
+       "Wash my hands when I finish",
+       "Safe"
+      ],
+      [
+       "Wait for a grown-up to cut the lemon",
+       "Safe"
+      ],
+      [
+       "Sniff with my nose pushed into a jar",
+       "Not safe"
+      ]
+     ],
+     "a": "see items",
+     "why": "Safe work means listening, waiting for a grown-up for sharp or hot things, and washing hands. Tasting and deep sniffing mystery things can hurt you."
+    },
+    {
+     "t": "match",
+     "p": "Draw a line from each thing to a good way to measure it at home.",
+     "pairs": [
+      [
+       "How long is my bed?",
+       "Count hands laid along it"
+      ],
+      [
+       "How much water is in the jug?",
+       "Count cups poured in"
+      ],
+      [
+       "How tall is my block tower?",
+       "Count blocks, or use a ruler"
+      ]
+     ],
+     "a": "pairs as given",
+     "why": "Hands, cups and blocks are things we already have. A ruler gives the same answer for everyone."
     }
    ]
   },
@@ -1554,6 +1707,20 @@
      "lines": 2,
      "a": "A strong answer uses the Mystery Dabbas experiment: we never saw inside the dabbas, but sounds, weight and rolling told us what was there. Opening the lids checked it.",
      "why": "A strong answer uses the child's own experiment as evidence against the idea."
+    },
+    {
+     "t": "draw",
+     "p": "Draw a table with two columns, Pod and Seeds, and three rows. Write 5, 7 and 6 in the right boxes.",
+     "a": "A table with Pod 1, Pod 2 and Pod 3 in the first column, and 5, 7 and 6 beside them in the second.",
+     "why": "A table keeps names in one column and numbers in the next, so we can compare them at a glance.",
+     "art": "An empty table with two columns and three rows on a notebook page."
+    },
+    {
+     "t": "write",
+     "p": "Say it out loud, and a grown-up writes it: two children measure the same table. One says 8 hands and the other says 6 hands. Why, and how could they get the same answer?",
+     "lines": 2,
+     "a": "Their hands are different sizes. They could use the same hand, or a ruler.",
+     "why": "A strong answer says that hands are not all the same size, and gives one way to make the measuring fair."
     }
    ]
   }

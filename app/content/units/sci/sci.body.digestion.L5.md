@@ -23,12 +23,14 @@
 - **Enamel**: The white outer layer of a tooth. Enamel is the hardest substance in the body, and it has no living cells. *e.g.* A chip in the enamel never heals, because no cells are there to mend it.
 - **Dentine and pulp**: The two inner layers of a tooth. Dentine is the hard yellowish layer under the enamel. The pulp is the soft centre, with nerves and blood vessels. *e.g.* A tooth hurts when decay reaches the dentine, because the dentine passes signals to nerves in the pulp.
 - **Saliva**: The watery juice made by three pairs of glands around the mouth. Saliva wets food, protects teeth and starts to digest starch. *e.g.* Your mouth makes about 1 litre of saliva every day.
+- **Epiglottis**: A small flap at the back of the throat that folds down over the windpipe when you swallow. *e.g.* The epiglottis keeps food out of the windpipe, unless you laugh while you swallow.
 - **Enzyme**: A substance made by living cells that speeds up one kind of chemical change. A digestive enzyme cuts one kind of food molecule into smaller pieces. *e.g.* The enzyme in saliva cuts starch. It does nothing to protein, fat or fibre.
 - **Amylase**: The enzyme that cuts starch into sugar. Saliva holds amylase, and so does the juice of the pancreas. *e.g.* Amylase in your saliva turns thick starch paste runny in the Run Test.
 - **Starch**: A long chain of sugar units that plants make to store food. Rice, wheat, ragi and potato are rich in starch. *e.g.* One starch molecule can hold thousands of sugar units joined in a row.
 - **Gastric juice**: The juice made by the stomach wall. Gastric juice holds hydrochloric acid and an enzyme called pepsin. *e.g.* A grown-up's stomach makes about 1.5 litres of gastric juice a day.
 - **Pepsin**: The enzyme in gastric juice that starts to cut proteins. Pepsin works only in acid. *e.g.* Pepsin starts to cut the protein in dal, egg and paneer into shorter chains.
 - **Bile**: A yellow-green liquid made by the liver and stored in the gall bladder. Bile breaks fat into tiny droplets. Bile is not an enzyme. *e.g.* Bile breaks up the ghee on your rice so that an enzyme can reach the fat.
+- **Gland**: An organ that makes a juice for the body to use. *e.g.* The liver is the biggest gland in the body. It makes bile.
 - **Pancreatic juice**: The juice made by the pancreas. It holds enzymes for starch, protein and fat, and a base that cancels stomach acid. *e.g.* Pancreatic juice finishes cutting the starch that saliva began to cut.
 - **Villi**: Tiny finger-shaped bumps that cover the inside of the small intestine. Digested food passes through them into the blood. One of them is called a villus. *e.g.* Each villus is up to about 1 millimetre tall and has fine blood vessels inside.
 - **Absorption**: The passing of digested food and water through the wall of the intestine into the blood. *e.g.* Sugar from your rice is absorbed in the small intestine and reaches your muscles in the blood.
@@ -36,6 +38,7 @@
 - **Gut microbes**: The bacteria and other tiny living beings who live in the food tube. Most of them live in the large intestine. *e.g.* A grown-up carries tens of trillions of gut microbes, weighing about 200 grams together.
 - **Fermentation**: The way microbes break down food without using oxygen. Fermentation makes acids and gases. *e.g.* Bacteria in your large intestine ferment fibre. Bacteria in a pot of milk ferment milk sugar and make curd.
 - **Lactose and lactase**: Lactose is the sugar in milk. Lactase is the enzyme in the small intestine that cuts lactose in two. *e.g.* A baby makes plenty of lactase. Most grown-ups in the world make much less.
+- **Indigestion**: A heavy, sore or burning feeling in the belly after a meal. *e.g.* Eating very fast or eating food that has turned bad can give indigestion.
 - **Control**: The part of a fair test where the thing you are testing is left out. You compare everything else with the control. *e.g.* In the Run Test, the cup with water and no saliva is the control.
 
 ## Explanations
@@ -50,10 +53,11 @@ Food is made of molecules, which are particles far too small to see. Many food m
 ### Teeth: four kinds, two sets and three layers · *defined*
 **Definition:** Teeth are the hard tools of the mouth. Each kind of tooth has a shape that fits one job: cutting, tearing or grinding.
 
-A grown-up has 32 teeth. Count one quarter of the mouth, from the middle to the back. There are 2 incisors, 1 canine, 2 premolars and 3 molars. Incisors cut. Canines grip and tear. Premolars and molars crush and grind. A small child has only 20 milk teeth, with no premolars. From about the age of six, milk teeth fall out and permanent teeth replace them. At six, the first permanent molars also come in behind the milk teeth. A child of ten usually has about 24 teeth, some milk and some permanent. The last four molars are called wisdom teeth. They usually come in during the late teens or early twenties, and in some people they never come. A tooth has three layers. The enamel on the outside is the hardest substance in the body. Under it is dentine, which is hard but living. In the centre is the pulp, with nerves and blood vessels. The root holds the tooth in the jaw bone. Enamel has no cells, so the body cannot mend it. Acid made by mouth bacteria from sugar slowly dissolves enamel. Chewing matters for digestion because small pieces give enzymes far more surface to work on.
+A grown-up has 32 teeth. Count one quarter of the mouth, from the middle to the back. There are 2 incisors, 1 canine, 2 premolars and 3 molars. Incisors cut. Canines grip and tear. Premolars and molars crush and grind. A small child has only 20 milk teeth, with no premolars. From about the age of six, milk teeth fall out and permanent teeth replace them. At six, the first permanent molars also come in behind the milk teeth. A child of ten usually has about 24 teeth, some milk and some permanent. The last four molars are called wisdom teeth. They usually come in during the late teens or early twenties, and in some people they never come. A tooth has three layers. The enamel on the outside is the hardest substance in the body. Under it is dentine, which is hard but living. In the centre is the pulp, with nerves and blood vessels. The root holds the tooth in the jaw bone. Enamel has no cells, so the body cannot mend it. Acid made by mouth bacteria from sugar slowly dissolves enamel. Chewing matters for digestion because small pieces give enzymes far more surface to work on. You can protect your enamel. Brush twice a day. Rinse your mouth with water after meals, and eat fewer sweets, because sugar is the food of the bacteria that make the acid. See a dentist if a tooth hurts, if gums bleed, or if you see a dark spot or a hole. A dentist can also find trouble before it hurts. Chew small mouthfuls, and do not talk or laugh with food in your mouth. At the back of the throat, the food pipe lies behind the windpipe, the tube that carries air to the lungs. When you swallow, a small flap called the epiglottis folds down over the top of the windpipe. Talking or laughing keeps the windpipe open, so a bit of food can slip in and make you cough. A cough pushes it back out. If a person cannot cough or breathe, call a grown-up at once.
 - e.g. One quarter of a grown-up's mouth: 2 incisors, 1 canine, 2 premolars, 3 molars. Four quarters make 32.
 - e.g. One quarter of a small child's mouth: 2 incisors, 1 canine, 2 molars. Four quarters make 20.
 - e.g. A cow has no upper front teeth. A tiger's canines are as long as your finger.
+- e.g. Sticky sweets that stay on the teeth are worse than a sweet that is gone quickly. Rinsing with water after a sweet helps to wash the sugar away.
 ### Saliva: much more than water · *defined*
 **Definition:** Saliva is the juice of the mouth. It wets food, starts to digest starch and protects the teeth.
 
@@ -87,7 +91,7 @@ The stomach wall has millions of tiny pits. Cells in the pits make hydrochloric 
 ### The small intestine: three juices finish the cutting · *defined*
 **Definition:** In the small intestine, bile, pancreatic juice and the enzymes of the intestine wall cut food into units small enough to absorb.
 
-The small intestine is 3 to 6 metres long in a grown-up, and most digestion happens here. Three juices work on the food. Bile comes from the liver. It breaks fat into tiny droplets, as dish soap does to grease. Bile is not an enzyme and cuts no molecules. Pancreatic juice comes from the pancreas. It holds amylase for starch, several proteases for protein and lipase for fat. It also holds the base that cancels stomach acid. The third set of enzymes sits on the surface of the villi. These enzymes make the last cuts. One of them cuts malt sugar into two units of glucose. Another cuts table sugar. Another, called lactase, cuts milk sugar. At the end, starch has become glucose. Protein has become single amino acids. Fat has become fatty acids and smaller parts. The pancreas releases its proteases switched off, as the stomach does with pepsin. They become active only inside the intestine.
+The small intestine is 3 to 6 metres long in a grown-up, and most digestion happens here. Three juices work on the food. Bile comes from the liver. It breaks fat into tiny droplets, as dish soap does to grease. Bile is not an enzyme and cuts no molecules. Pancreatic juice comes from the pancreas. It holds amylase for starch, several proteases for protein and lipase for fat. It also holds the base that cancels stomach acid. The third set of enzymes sits on the surface of the villi. These enzymes make the last cuts. One of them cuts malt sugar into two units of glucose. Another cuts table sugar. Another, called lactase, cuts milk sugar. At the end, starch has become glucose. Protein has become single amino acids. Fat has become fatty acids and smaller parts. The pancreas releases its proteases switched off, as the stomach does with pepsin. They become active only inside the intestine. The liver is the biggest gland in the body. A gland is an organ that makes a juice for the body to use. The liver lies on the right side of the stomach, under the lower ribs. The pancreas is a gland too, but a much smaller one.
 - e.g. Starch is cut by amylase, first in the mouth and then in the small intestine. The last cut, made on the villi, gives glucose.
 - e.g. Protein is cut first by pepsin in the stomach, and then by proteases in the small intestine. It ends up as single amino acids.
 - e.g. Fat is first broken into tiny droplets by bile. Then lipase cuts the fat in the small intestine.
@@ -114,6 +118,13 @@ Fibre is made mostly of chains of sugar units, as starch is. The joins between t
 - e.g. Foods with almost no fibre: milk, egg, fish, meat, sugar and maida biscuits.
 - e.g. A meal of rajma makes more gas than a meal of white rice, because more of it reaches the bacteria.
 - e.g. A course of antibiotics kills many gut bacteria as well as harmful ones. The numbers usually recover over some weeks.
+### When digestion goes wrong: indigestion · *defined*
+**Definition:** Indigestion is a heavy, sore or burning feeling in the belly after eating. Most of the time it is mild, but a few signs mean a doctor must see the person.
+
+Sometimes a meal sits badly. The belly feels heavy or sore, with burps or a sour taste. The causes are often plain. A very big or very oily meal takes the stomach a long time to empty. Eating very fast sends big lumps and swallowed air down. Spoiled food is worse. Cooked rice or dal left out all night in a hot kitchen grows bacteria, and some of them make poisons that cause vomiting and loose motions. So eat fresh food, keep it covered, and put leftovers in the fridge soon. Mild indigestion usually passes in a few hours. Many families give curd or buttermilk, which are gentle on the stomach and hold living bacteria. Scientists are still studying how much they help. If there are loose motions, drink ORS, the salt and sugar drink, to replace the water that is lost. Go to a doctor if the pain is strong or keeps coming back. Go too if vomiting will not stop, if there is blood in the vomit or the motion, or if a small child is very sleepy or has a very dry mouth.
+- e.g. A heavy feeling after three helpings of a rich wedding meal usually passes with rest.
+- e.g. A child with loose motions after eating stale rice needs ORS and a visit to the doctor if it does not stop.
+- e.g. Chaas after lunch is a common way to settle a heavy stomach in many Indian homes.
 ### Other animals: the same tube, with different lengths and chambers · *defined*
 **Definition:** Humans and other animals with backbones share the same plan of food tube. What changes most with the kind of food is not the small intestine. It is the large intestine and the chambers where microbes work.
 
@@ -589,7 +600,7 @@ On the train home she slept sitting up, with both hands in her lap. Nila took ou
   - Think: What would you test next, now that you know the answer?
 
 ## Worksheets
-### The food tube, the teeth and the juices (core) (core, 15 questions)
+### The food tube, the teeth and the juices (core) (core, 17 questions)
 1. (mcq) Which list gives the parts of the food tube in the right order?  
    Options: Mouth, food pipe, stomach, small intestine, large intestine / Mouth, stomach, food pipe, large intestine, small intestine / Food pipe, mouth, small intestine, stomach, large intestine / Mouth, small intestine, stomach, food pipe, large intestine  
    **Answer:** Mouth, food pipe, stomach, small intestine, large intestine. *Why:* Food goes from the mouth down the food pipe to the stomach. Then it passes through the small intestine, which is long and narrow, and on to the large intestine.
@@ -623,7 +634,11 @@ On the train home she slept sitting up, with both hands in her lap. Nila took ou
    **Answer:** A finger-shaped bump with a thin wall. A fine blood vessel runs up the middle of it. An arrow shows sugar crossing the wall into the vessel, then a long arrow to the liver, the heart and a muscle.. *Why:* A strong drawing shows the wall that the sugar crosses and the blood vessel inside the villus. It then follows the blood to the liver, the heart and the cells.
 15. (perspective) How many times should a mouthful be chewed?  
    **Answer:** Any view with a reason from the unit. The strongest answers say that chewing gives enzymes more surface, and that the right number depends on the food.. *Why:* Each view has something right. A strong answer links the number of chews to the food and to the surface that the enzymes can reach.
-### Why each station works as it does (stretch) (stretch, 15 questions)
+16. (sort) Sort each habit: good for the teeth, or bad for the teeth?  
+   **Answer:** brushing twice a day → Good for the teeth; rinsing with water after a meal → Good for the teeth; visiting a dentist when a tooth hurts → Good for the teeth; eating sweets all day long → Bad for the teeth; going to bed with food stuck on the teeth → Bad for the teeth. *Why:* Mouth bacteria make acid from sugar, and acid dissolves enamel that cannot grow back. Brushing, rinsing and fewer sweets keep the acid low.
+17. (fill) The liver, the biggest gland in the body, lies on the ____ side of the stomach.  
+   **Answer:** ['right']. *Why:* The liver sits on the right side, under the lower ribs. It makes bile for the small intestine.
+### Why each station works as it does (stretch) (stretch, 17 questions)
 1. (mcq) Why does the enzyme in saliva stop working in the stomach?  
    Options: The acid changes the shape of the enzyme / The stomach is too cold for it / There is no starch in the stomach / The enzyme runs out of saliva  
    **Answer:** The acid changes the shape of the enzyme. *Why:* An enzyme works only while its shape fits its food. Strong acid changes that shape, so amylase stops. Pepsin works only in acid.
@@ -658,6 +673,10 @@ On the train home she slept sitting up, with both hands in her lap. Nila took ou
 15. (mcq) Which kind of tooth is missing in a small child's 20 milk teeth?  
    Options: Premolars / Incisors / Canines / Molars  
    **Answer:** Premolars. *Why:* A child has 2 incisors, 1 canine and 2 molars in each quarter of the mouth. The premolars come in only with the permanent teeth.
+16. (write) A friend laughs loudly while eating a chapati and starts to cough. Explain what happened, using the words windpipe and food pipe. Then give one rule for eating that would help.  
+   **Answer:** Laughing kept the windpipe open, so a bit of chapati went the wrong way, into the windpipe, instead of down the food pipe. The cough pushes it out. A rule: chew small mouthfuls and do not talk or laugh with food in the mouth.. *Why:* A strong answer names both tubes and says that the flap over the windpipe could not close fully. The rule should be about small mouthfuls or not talking while eating.
+17. (write) Rani is 8 and has a heavy stomach after a wedding lunch. Give two things that may have caused it, one thing she can take at home, and two signs that mean she must see a doctor.  
+   **Answer:** Causes: a very big or oily meal, eating very fast, or food that was left out and turned bad. At home: buttermilk or curd, rest, and ORS if she has loose motions. Doctor: strong or returning pain, vomiting that will not stop, blood in vomit or motion, or being very sleepy with a very dry mouth.. *Why:* A strong answer gives real causes, a gentle home step and clear warning signs. Home steps help with mild trouble only.
 ### Testing ideas about digestion (challenge) (challenge, 15 questions)
 1. (mcq) You want to know whether more saliva makes starch paste runnier. Which pair of cups is a fair test?  
    Options: Same paste and time, with 1 drop or 3 drops / Different paste and time, with 1 drop and with 3 drops / Paste with saliva, and a different paste with water / Warm paste with saliva, and cold paste with more saliva  
@@ -734,6 +753,18 @@ On the train home she slept sitting up, with both hands in her lap. Nila took ou
 12. (mcq) What is lactase?  
    Options: The enzyme that cuts milk sugar / The sugar in milk / The bacteria in curd / The acid in the stomach  
    **Answer:** The enzyme that cuts milk sugar. *Why:* Lactose is the sugar in milk. Lactase is the enzyme in the small intestine that cuts it in two so that it can be absorbed.
+13. (mcq) Why should you not talk or laugh with food in your mouth?  
+   Options: The windpipe stays open, so a bit of food can slip into it and make you choke / Your saliva would run out / The enzymes in the mouth stop working / The food would taste of nothing  
+   **Answer:** The windpipe stays open, so a bit of food can slip into it and make you choke. *Why:* When you swallow, a flap closes over the windpipe. Laughing keeps it open, and food can go the wrong way. Saliva does not run out when you talk, and enzymes do not mind noise.
+14. (mcq) Which organ is the biggest gland in the body?  
+   Options: The liver / The pancreas / The stomach / The tongue  
+   **Answer:** The liver. *Why:* The liver is the biggest gland, and it makes bile. The pancreas is also a gland, but it is much smaller. The stomach and the tongue are not glands.
+15. (mcq) A child has a stomach upset. Which sign means a grown-up must take her to a doctor?  
+   Options: Vomiting that will not stop, with a very dry mouth / One small burp after lunch / A heavy feeling that is gone in an hour / Feeling hungry again by dinner  
+   **Answer:** Vomiting that will not stop, with a very dry mouth. *Why:* Vomiting that does not stop, and a very dry mouth, can mean the body is losing too much water. The other signs are mild and usually pass on their own.
+16. (mcq) Why does it help your teeth to rinse with water after a sweet and to eat fewer sweets?  
+   Options: Bacteria turn sugar into acid that slowly dissolves enamel, and enamel cannot mend itself / Water makes the enamel thicker / Sweets make the teeth grow too many / Rinsing makes the saliva stronger  
+   **Answer:** Bacteria turn sugar into acid that slowly dissolves enamel, and enamel cannot mend itself. *Why:* Sugar feeds mouth bacteria, and they make acid. Enamel has no living cells, so it cannot heal once it dissolves. Less sugar and a quick rinse leave less acid on the teeth.
 
 ## Applications
 - Lactose-free milk has had lactase added at the dairy, so the milk sugar is already cut. Many shops also sell lactase tablets for people who make little lactase.

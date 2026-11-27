@@ -118,7 +118,7 @@
   {
    "concept": "Three ways heat travels",
    "status": "defined",
-   "description": "In Class 3 you met conduction. A steel spoon in hot tea warms up its handle because each tiny part of the steel passes its jiggling to the next. But conduction needs something to touch, and it is slow. So heat has two more ways. Convection works in liquids and gases, which can flow. The hot part moves, and takes its heat along. Radiation does not need anything at all. A bonfire warms your face by sending out waves. The waves cross the cold air, but the air does not carry them. Most real things use more than one way at once. A pot of dal on a stove is warmed by conduction through the base, by convection in the dal, and by radiation to your face if you lean over it.",
+   "description": "In Class 3 you met conduction. A steel spoon in hot tea warms up its handle because each tiny part of the steel passes its jiggling to the next. But conduction needs something to touch, and it is slow. So heat has two more ways. Convection works in liquids and gases, which can flow. The hot part moves, and takes its heat along. Radiation does not need anything at all. A bonfire warms your face by sending out waves. The waves cross the cold air, but the air does not carry them. Most real things use more than one way at once. A pot of dal on a stove is warmed by conduction through the base, by convection in the dal, and by radiation to your face if you lean over it. Metals conduct heat very well. Wood and plastic conduct it poorly, which is why a wooden spoon stays cool in hot dal.",
    "examples": [
     "A steel ladle in hot sambar warms its handle by conduction.",
     "Rice grains rising and falling in a boiling pot show convection.",
@@ -131,7 +131,7 @@
   {
    "concept": "Why warm air and warm water rise",
    "status": "defined",
-   "description": "Heat makes the tiny particles in a fluid move faster, and they push a little further apart. The same amount of stuff now takes up more room, so each spoonful is lighter than before. That is what less dense means. Air that is warmed from 27 to 57 degrees Celsius becomes about a tenth lighter. Water warmed from 20 to 60 degrees becomes lighter by about one and a half parts in every hundred. The warm part sits in cooler, heavier fluid, so it is lifted, the same way a cork is lifted in water. Cooler fluid does not rise. It sinks, and that sinking is what pushes the warm fluid up. Water has one odd habit. Between 4 and 0 degrees it gets lighter again as it gets colder, which is part of why ice floats and why a lake freezes from the top.",
+   "description": "Heat makes the tiny particles in a fluid move faster, and they push a little further apart. The same amount of stuff now takes up more room, so each spoonful is lighter than before. That is what less dense means. Air that is warmed from 27 to 57 degrees Celsius becomes about a tenth lighter. Water warmed from 20 to 60 degrees becomes lighter by about one and a half parts in every hundred. The warm part sits in cooler, heavier fluid, so it is lifted, the same way a cork is lifted in water. Cooler fluid does not rise. It sinks, and that sinking is what pushes the warm fluid up. Water has one odd habit. Between 4 and 0 degrees it gets lighter again as it gets colder, which is part of why ice floats and why a lake freezes from the top. Solids grow a little when they are heated, and shrink a little when they cool. Railway rails have small gaps between each length of rail for this reason.",
    "examples": [
     "Smoke from an agarbatti curls upwards in still air.",
     "A hot-air balloon rises because the air inside is less dense than the air outside.",
@@ -2013,6 +2013,30 @@
    "a": 0,
    "why": "Air that cannot move cannot carry heat by convection, and it is a poor conductor. The wool holds air still next to your skin.",
    "outcome": 6
+  },
+  {
+   "t": "mcq",
+   "p": "A steel spoon and a wooden spoon sit in hot dal. Which handle warms up first in your hand?",
+   "opts": [
+    "The steel handle, because metal conducts heat well",
+    "The wooden handle, because wood conducts heat well",
+    "Both at the same speed, because heat moves through everything equally"
+   ],
+   "a": 0,
+   "why": "Metal passes heat along quickly. Wood and plastic pass it on poorly, so their handles stay cool. The handle that warms first is the one that conducts best.",
+   "outcome": 0
+  },
+  {
+   "t": "mcq",
+   "p": "Railway rails in India have small gaps between each length. What are the gaps for?",
+   "opts": [
+    "Hot metal grows longer, and the gap gives it room",
+    "Rain can drain out through the rail",
+    "Steam escapes from the rail in summer"
+   ],
+   "a": 0,
+   "why": "Solids grow a little when they are hot. Without a gap, a long rail would push against the next one and bend in the heat.",
+   "outcome": 1
   }
  ],
  "worksheets": [
@@ -2061,6 +2085,15 @@
      ],
      "why": "Empty space has nothing to touch or to flow, so only radiation can carry the Sun's heat across it.",
      "outcome": 3
+    },
+    {
+     "t": "fill",
+     "p": "Metals ____ heat well, while wood and plastic do not.",
+     "a": [
+      "conduct"
+     ],
+     "why": "Heat passes from one part of metal to the next very easily. Wood and plastic pass it on poorly, so their handles stay cool.",
+     "outcome": 0
     },
     {
      "t": "match",
@@ -2369,6 +2402,15 @@
      "a": 0,
      "why": "Both are at room temperature. Your skin feels the speed at which heat leaves it, and steel is a better conductor than wood.",
      "outcome": 7
+    },
+    {
+     "t": "fill",
+     "p": "When a solid is heated, it ____ a little, which is why railway rails have gaps.",
+     "a": [
+      "expand"
+     ],
+     "why": "Solids grow a little when they are hot. The gaps leave room for that growth, so the rails do not push against each other and bend.",
+     "outcome": 1
     },
     {
      "t": "count",

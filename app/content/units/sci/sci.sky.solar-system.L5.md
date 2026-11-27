@@ -7,7 +7,7 @@
 
 ## Learning outcomes
 0. By the end I can name the eight planets in order, and say what sets the Earth apart.
-1. By the end I can tell a star, planet, dwarf planet and satellite apart by what each goes round.
+1. By the end I can tell a star, planet, dwarf planet and satellite apart by what each goes round. I can say that the Pole Star is a star far outside the solar system, and that it shows north.
 2. By the end I can explain why a satellite can be bigger than a planet, using Ganymede and Mercury.
 3. By the end I can use the balance rule to find the point that two worlds both go round.
 4. By the end I can build a true model of the Earth, the Moon and the Sun on one scale.
@@ -34,6 +34,7 @@
 - **Revolution**: One full trip of a body round another body. One revolution of the Earth round the Sun is one year. *e.g.* Mercury makes one revolution in 88 days. Neptune takes about 165 years.
 - **Heliosphere**: The huge bubble of thin gas that the Sun blows out around itself. Its edge is far beyond all the planets. *e.g.* The spacecraft Voyager 1 left the heliosphere in 2012, about 120 times as far from the Sun as the Earth.
 - **Axis**: The imaginary line through a spinning world, from one pole to the other. The Earth spins on its axis once in about 24 hours. *e.g.* The Earth's axis leans about 23.5 degrees. Uranus leans so far that it spins almost on its side.
+- **Pole Star**: A star that sits almost exactly above the Earth's north pole, so it hardly seems to move as the night goes on. It is far outside the solar system. *e.g.* On a clear night, travellers face the Pole Star to find north.
 
 ## Explanations
 ### Star, planet or satellite: what a body goes round decides the name · *defined*
@@ -129,10 +130,11 @@ In The Hidden Ball, the visible ball swung in a circle, and the circle was wider
 ### The Earth's two movements and its tilt · *defined*
 **Definition:** The Earth spins once on its axis in about 24 hours, which gives day and night. It goes once round the Sun in about 365 and a quarter days, which is one year.
 
-The Earth's axis leans about 23.5 degrees away from the upright line, where upright means at right angles to the flat surface of the Earth's path round the Sun. This tilt gives the seasons. The Earth's distance from the Sun does not. The Earth is nearest the Sun in early January, when north India has winter. It is furthest in early July, in the middle of the monsoon. The gap is only about 3 percent, so it changes the heat very little. Mars leans about 25 degrees, so it has seasons too. Each Martian season lasts about twice as long as one on the Earth, because a Martian year is 687 Earth days. Uranus leans about 98 degrees, so for years one pole faces the Sun.
+The Earth's axis leans about 23.5 degrees away from the upright line, where upright means at right angles to the flat surface of the Earth's path round the Sun. This tilt gives the seasons. The Earth's distance from the Sun does not. The Earth is nearest the Sun in early January, when north India has winter. It is furthest in early July, in the middle of the monsoon. The gap is only about 3 percent, so it changes the heat very little. Mars leans about 25 degrees, so it has seasons too. Each Martian season lasts about twice as long as one on the Earth, because a Martian year is 687 Earth days. Uranus leans about 98 degrees, so for years one pole faces the Sun. The spin also gives travellers a guide. Seen from India, the night sky seems to turn through the hours, because the Earth is turning under it. The stars seem to circle round one point in the north. The Pole Star, called Dhruva Tara in Hindi, sits almost exactly over that point, so it hardly seems to move. It is a star far outside the solar system, many times further away than any planet. People on land and at sea have used it for thousands of years to find north.
 - e.g. Spin: one turn in about 24 hours, so every place has a day and a night.
 - e.g. Journey: one trip round the Sun in about 365 and a quarter days.
 - e.g. Tilt: about 23.5 degrees for the Earth, and about 25 degrees for Mars.
+- e.g. Guide: a sailor or traveller in the north who finds the Pole Star on a clear night knows which way is north.
 
 ## Mostly agreed
 - Eight planets go round the Sun in the same direction, on paths that lie almost in one flat sheet. *How we know:* Astronomers have tracked every planet for hundreds of years. Spacecraft have visited all eight, and each arrived where the orbits said it would be.
@@ -611,7 +613,7 @@ The pictures showed mountains of ice, and a wide pale plain shaped like a heart.
 15. (odd) Three of these go round the Earth. Which one does not?  
    Options: The Moon / The International Space Station / Aryabhata, the satellite of 1975 / Ceres  
    **Answer:** 3. *Why:* Ceres goes round the Sun, in the asteroid belt. The Moon is a natural satellite, and the other two are artificial satellites.
-### Balance points, scales and cubes (stretch, 15 questions)
+### Balance points, scales and cubes (stretch, 16 questions)
 1. (mcq) One world has 3 times the mass of its partner. How much nearer the balance point is the heavy world?  
    Options: 3 times nearer / The same distance / Half as near / 9 times nearer  
    **Answer:** 3 times nearer. *Why:* The heavy world sits as many times nearer the balance point as it is times heavier. With 3 times the mass, it is 3 times nearer.
@@ -646,6 +648,8 @@ The pictures showed mountains of ice, and a wide pale plain shaped like a heart.
    **Answer:** The Earth is about 3 mm wide. The Moon is about 1 mm wide. They are about 9.6 cm apart.. *Why:* 12,742 ÷ 40,000 = 0.32 cm. 3,474 ÷ 40,000 = 0.09 cm. 384,400 ÷ 40,000 = 9.6 cm. A strong drawing shows a wide gap and two very small bodies.
 15. (fill) The balance point of the Earth and the Moon lies inside the ____.  
    **Answer:** ['Earth']. *Why:* The point is about 4,700 km from the Earth's centre, and the Earth's radius is 6,371 km.
+16. (truefalse) The Pole Star is a planet that goes round the Sun, like Jupiter.  
+   **Answer:** False. *Why:* False. The Pole Star makes its own light, so it is a star. It is far outside the solar system. Travellers use it to find north because it hardly moves in the night sky.
 ### Testing ideas about the solar system (challenge, 15 questions)
 1. (mcq) A new round icy world is found beyond Neptune, among thousands of icy bodies. What is it, by the 2006 tests?  
    Options: A planet / A dwarf planet / A moon / A star  
@@ -723,6 +727,9 @@ The pictures showed mountains of ice, and a wide pale plain shaped like a heart.
 12. (mcq) Voyager 1 left the Sun's bubble of gas in 2012. Has it left the solar system?  
    Options: Yes, completely / It depends on how the edge is measured / No, it is still between Mars and Jupiter / Nobody can tell where it is  
    **Answer:** It depends on how the edge is measured. *Why:* By the Sun's wind, it has left. By the Sun's gravity, it is still deep inside. There is no single agreed edge.
+13. (mcq) On a clear night in India, the stars seem to circle round one point in the north sky. Why does the Pole Star hardly seem to move?  
+   Options: It sits almost exactly over the Earth's north pole, the point the spin turns round / It is a planet that stands still in the sky / It is the nearest star to the Earth / The Earth stops spinning for the Pole Star  
+   **Answer:** It sits almost exactly over the Earth's north pole, the point the spin turns round. *Why:* The Earth spins on its axis, and the axis points almost at the Pole Star. So the sky seems to turn round that star. It is not a planet. It is a star far outside the solar system. The Earth never stops spinning, and the Pole Star is not the nearest star.
 
 ## Applications
 - Astronomers find planets round other stars by the small wobble that each planet causes in her star. Thousands of planets have been found this way and by other methods.

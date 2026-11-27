@@ -29,6 +29,7 @@
 - **Uric acid**: Uric acid is a nitrogen waste that hardly dissolves in water. An animal can send it out as a white paste, using very little water. *e.g.* The white cap on a house gecko's dropping is nitrogen waste made from uric acid.
 - **Loop of Henle**: The loop of Henle is the hairpin-shaped part of each tiny kidney tube. It makes the deep part of the kidney very salty. *e.g.* A kangaroo rat has very long loops of Henle for the size of her kidneys. She can make urine nearly five times as strong as the strongest human urine.
 - **Collecting duct**: A collecting duct is the last tube that urine passes through in the kidney. Here the kidney decides how much water to take back. *e.g.* On a hot day when you have drunk little, your collecting ducts let a lot of water go back into the blood. Your urine comes out dark and strong.
+- **Bladder**: The bladder is a stretchy bag inside your belly. It stores urine until you go to the toilet. A thin tube, the ureter, brings urine to it from each kidney. *e.g.* After a big glass of water, your bladder fills and you feel you need the toilet.
 - **ADH, the water-saving hormone**: ADH is a chemical message made in the brain. It tells the collecting ducts in the kidneys to let more water go back into the blood. ADH is short for antidiuretic hormone. *e.g.* When your blood becomes a little too salty, your brain releases more ADH within minutes.
 - **Gills**: Gills are the thin, feathery organs with which a fish takes oxygen from water. Their surface is very thin, so water and salt also cross it. *e.g.* Lift the gill cover of a fresh mackerel at the fish market. The dark red, comb-like gills are underneath.
 - **Salt gland**: A salt gland is an organ that pumps extra salt out of the blood as a very salty liquid. Seabirds, sea turtles and some other sea animals have salt glands. *e.g.* A sea turtle on a beach seems to be crying. The thick tears are salt leaving through the salt glands beside her eyes.
@@ -42,7 +43,7 @@
 ### A body has two jobs to do with water · *defined*
 **Definition:** Excretion is sending out the wastes that the body's cells have made. Osmoregulation is keeping the water and salt in the body at steady levels.
 
-Your kidneys filter your blood and take back what the body needs. What is left leaves as urine. That is the kidney's first job, removing waste. The kidneys have a second job that matters just as much. They keep your blood at almost exactly the same saltiness all the time. Your blood is about as salty as water with 9 grams of salt in each litre. Why must it stay there? Every cell in your body sits in liquid that comes from the blood. If that liquid turns too salty, water leaves the cells and they shrink. If it turns too watery, water enters the cells and they swell. Brain cells are packed inside the skull with no room to swell, so even a small change can make a person confused and ill. Every animal has to do both jobs. A fish, a camel and a gecko each do them in a different way, because each has a different amount of water to spare.
+Your kidneys filter your blood and take back what the body needs. What is left leaves as urine. From each kidney, the urine runs down a thin tube called a ureter. It collects in the bladder, a stretchy bag that holds it until you can get to a toilet. When you decide to go, a ring of muscle at the bladder's exit opens, and the urine leaves through a short tube called the urethra. That is the kidney's first job, removing waste. The kidneys have a second job that matters just as much. They keep your blood at almost exactly the same saltiness all the time. Your blood is about as salty as water with 9 grams of salt in each litre. Why must it stay there? Every cell in your body sits in liquid that comes from the blood. If that liquid turns too salty, water leaves the cells and they shrink. If it turns too watery, water enters the cells and they swell. Brain cells are packed inside the skull with no room to swell, so even a small change can make a person confused and ill. Every animal has to do both jobs. A fish, a camel and a gecko each do them in a different way, because each has a different amount of water to spare. Water does other work too. It mixes with food in your gut and carries digested food into your blood. It carries wastes out as urine, sweat and stool. The last part of the gut takes water back from the stool, so a person who drinks too little passes hard, dry stool.
 - e.g. After a salty meal you feel thirsty and pass less urine. Your body is bringing its saltiness back down.
 - e.g. After two tumblers of water you pass a lot of pale urine within the hour. Your body is sending the extra water out.
 - e.g. A camel, a hilsa and a house gecko all have to remove nitrogen waste. Each uses a different amount of water to do it.
@@ -135,7 +136,7 @@ A Paramecium is a single cell living in pond water. They are saltier inside than
 ### Losing water and salt together: why ORS has sugar in it · *defined*
 **Definition:** ORS is a drink of clean water with measured salt and sugar. The gut takes in salt much faster when sugar is there with it, and water follows the salt.
 
-Sweat and loose motions carry away both water and salt. In bad diarrhoea, such as cholera, a person can lose many litres in a day, and that can kill. For a long time the only treatment was salt water dripped into a vein through a needle. In the early 1960s the American biochemist Robert Crane described a carrier in the wall of the gut. It takes sodium, from salt, into the gut cells, but only together with glucose, a simple sugar. Once the sodium is inside the body, water follows it by osmosis. This carrier keeps working even during cholera. So a drink with the right amounts of salt and sugar can put water back into a person through the mouth. In 1953 the Kolkata doctor Hemendra Nath Chatterjee reported in a medical journal that he had treated 186 cholera patients this way. Few doctors took notice. In 1971, during the Bangladesh war, cholera spread through the refugee camps of West Bengal and the drip bottles ran out. Dr Dilip Mahalanabis and his team had families give the patients a drink of salt, glucose and water. More than 3,000 patients were treated. In the camps using this drink, about 4 patients in 100 died. With drips alone the figure had been about 30 in 100. The amounts matter. Too much salt is harmful. Too much sugar holds water in the gut by osmosis and makes diarrhoea worse, which is why soft drinks and sweet juices are not ORS.
+Sweat and loose motions carry away both water and salt. In bad diarrhoea, such as cholera, a person can lose many litres in a day, and that can kill. For a long time the only treatment was salt water dripped into a vein through a needle. In the early 1960s the American biochemist Robert Crane described a carrier in the wall of the gut. It takes sodium, from salt, into the gut cells, but only together with glucose, a simple sugar. Once the sodium is inside the body, water follows it by osmosis. This carrier keeps working even during cholera. So a drink with the right amounts of salt and sugar can put water back into a person through the mouth. In 1953 the Kolkata doctor Hemendra Nath Chatterjee reported in a medical journal that he had treated 186 cholera patients this way. Few doctors took notice. In 1971, during the Bangladesh war, cholera spread through the refugee camps of West Bengal and the drip bottles ran out. Dr Dilip Mahalanabis and his team had families give the patients a drink of salt, glucose and water. More than 3,000 patients were treated. In the camps using this drink, about 4 patients in 100 died. With drips alone the figure had been about 30 in 100. The amounts matter. Too much salt is harmful. Too much sugar holds water in the gut by osmosis and makes diarrhoea worse, which is why soft drinks and sweet juices are not ORS. Know the signs of dehydration. The person is very thirsty and has a dry mouth and lips. Their urine is dark yellow and there is very little of it. They feel tired, dizzy or sleepy. A small child may cry with no tears, and their eyes may look sunken. A child with these signs and loose motions needs ORS, and a doctor should be called.
 - e.g. Home ORS: one litre of clean water, six level teaspoons of sugar and half a level teaspoon of salt.
 - e.g. Salted lime juice with a little sugar, thin salted rice kanji and tender coconut water all give water with some salt and sugar.
 - e.g. For anyone ill with loose motions, a packet of ORS from a chemist or a health centre is the right choice, and a doctor should be asked.
@@ -550,7 +551,7 @@ Selvam stood looking at the place where they had been. Then he bent down, scoope
   - Note: Three good questions. One: which side of her skin or gills has more dissolved in it, and so which way does water move? Two: she is moving water somewhere, so which salt is she moving to do it? Three: what happens to her if she is carried to one of the other three places?
 
 ## Worksheets
-### Osmosis, wastes and who lives where (core) (core, 16 questions)
+### Osmosis, wastes and who lives where (core) (core, 18 questions)
 1. (mcq) Plain water and salty water are on two sides of a cell membrane. Which way does water move?  
    Options: Towards the salty side / Towards the plain side / It does not move  
    **Answer:** Towards the salty side. *Why:* Water moves through a membrane towards the side with more dissolved in it. This is osmosis.
@@ -569,25 +570,29 @@ Selvam stood looking at the place where they had been. Then he bent down, scoope
    **Answer:** Cutting and tossing alone bring out almost no liquid. So the liquid in the salted bowls came out because of the salt, and not because the slices were cut.. *Why:* A strong answer says what the no-salt bowl rules out. It is the bowl that the others are compared with.
 8. (order) Put these in order, for what happens after a very salty meal.  
    **Answer:** ['The blood becomes slightly saltier', 'Cells in the hypothalamus respond', 'The pituitary gland releases more ADH', 'Collecting ducts open more water doors', 'You pass a little dark urine']. *Why:* Saltier blood is detected in the brain. ADH travels to the kidneys, more water is taken back, and less leaves in the urine.
-9. (truefalse) True or false: a camel carries a store of water in her hump.  
+9. (order) Put these in order, for the way urine leaves the body.  
+   **Answer:** ['The kidney makes urine', 'Urine flows down a ureter', 'The bladder stores the urine', "A ring of muscle at the bladder's exit opens", 'Urine leaves through the urethra']. *Why:* Urine goes from the kidney, down the ureter, into the bladder. The bladder holds it until a ring of muscle opens and the urine leaves through the urethra.
+10. (sort) Sort these signs: DEHYDRATED or ENOUGH WATER.  
+   **Answer:** dry mouth and lips → Dehydrated; pale yellow urine, passed a few times a day → Enough water; a baby crying with no tears → Dehydrated; dark yellow urine, very little → Dehydrated; eyes that look bright and wet → Enough water; feeling dizzy and sleepy → Dehydrated. *Why:* A body that has lost more water than it took in shows dry lips, dark little urine, no tears and dizziness. A body with enough water has pale urine and moist eyes.
+11. (truefalse) True or false: a camel carries a store of water in her hump.  
    **Answer:** False. *Why:* False. The hump is fat. A camel lasts without drinking because she loses water slowly and can bear losing a great deal.
-10. (fill) The white cap on a gecko's dropping is nitrogen waste made from ____ acid.  
+12. (fill) The white cap on a gecko's dropping is nitrogen waste made from ____ acid.  
    **Answer:** ['uric']. *Why:* Uric acid hardly dissolves, so it can leave the body as a paste with very little water.
-11. (draw) Draw a fish in a pond. Add arrows to show where water enters her, where it leaves, and where salt enters.  
+13. (draw) Draw a fish in a pond. Add arrows to show where water enters her, where it leaves, and where salt enters.  
    **Answer:** A fish with water arrows going in at the gills, a large arrow of weak urine going out near the tail, and small salt arrows going in at the gills.. *Why:* A strong drawing shows water entering without the fish drinking, a lot of urine leaving, and salt being pumped in at the gills.
-12. (mcq) A sailor drinks one litre of sea water. How much water does her body have afterwards?  
+14. (mcq) A sailor drinks one litre of sea water. How much water does her body have afterwards?  
    Options: One litre more / The same as before / Less than before  
    **Answer:** Less than before. *Why:* Her kidneys need about one and three quarter litres of urine to send out the salt in one litre of sea water. She ends up with less.
-13. (write) Name three ways in which a kangaroo rat saves water.  
+15. (write) Name three ways in which a kangaroo rat saves water.  
    **Answer:** Any three of these. Her urine is very strong. Her droppings are nearly dry. Her cool nose takes water back from her breath. She spends the day in a closed, damp burrow. She does not sweat.. *Why:* Each way cuts one of the routes by which water leaves a body: urine, droppings, breath and skin.
-14. (truefalse) True or false: a rehydration drink needs only water and salt.  
+16. (truefalse) True or false: a rehydration drink needs only water and salt.  
    **Answer:** False. *Why:* False. The gut takes in sodium much faster together with glucose, and water follows the sodium. So the drink needs sugar too.
-15. (draw) Draw two cells: one sitting in plain water, one in very salty water. Add arrows to show which way water moves.  
+17. (draw) Draw two cells: one sitting in plain water, one in very salty water. Add arrows to show which way water moves.  
    **Answer:** The cell in plain water is large and round with arrows pointing in. The cell in very salty water is small and wrinkled with arrows pointing out.. *Why:* A strong drawing shows water going into the cell in plain water and out of the cell in salty water, with the cell's size changing to match.
-16. (mcq) What is metabolic water?  
+18. (mcq) What is metabolic water?  
    Options: Water an animal stores in fat / New water that cells make from food / Water that enters through the skin  
    **Answer:** New water that cells make from food. *Why:* When cells use food for energy, the hydrogen in the food joins with oxygen and forms new water.
-### Kidneys, gills and salt glands (stretch) (stretch, 16 questions)
+### Kidneys, gills and salt glands (stretch) (stretch, 17 questions)
 1. (mcq) What is the job of the loop of Henle?  
    Options: To filter the blood / To make the deep kidney very salty / To store urine  
    **Answer:** To make the deep kidney very salty. *Why:* The loop pumps salt into the deep part of the kidney. That salty zone later draws water out of the urine by osmosis.
@@ -595,34 +600,36 @@ Selvam stood looking at the place where they had been. Then he bent down, scoope
    **Answer:** ['The loop of Henle pumps salt into the deep kidney', 'The deep kidney becomes very salty', 'Urine runs down through it in a collecting duct', 'ADH opens water doors in the duct wall', 'Water leaves the urine by osmosis', 'Strong urine flows on to the bladder']. *Why:* The kidney cannot pump water. It builds a salty zone first, and then lets water leave the urine by osmosis.
 3. (write) Why can a kidney not simply pump water out of the urine?  
    **Answer:** No pump for water has been found in animal cells. Cells can pump salt. So the kidney pumps salt into the space around the tubes, and water follows by osmosis through water doors.. *Why:* A strong answer names what cells can pump, which is salt, and what they cannot, which is water.
-4. (mcq) More ADH reaches the kidneys. What happens to the urine?  
+4. (write) Name two jobs that water does in the body besides keeping cells the right size. Say what happens to the stool when a person drinks too little.  
+   **Answer:** Water mixes with food in the gut and carries digested food into the blood. It carries wastes out as urine, sweat and stool. With too little water, the gut takes more water back from the stool, so the stool is hard and dry.. *Why:* A strong answer names two jobs and says the gut takes water back from the stool.
+5. (mcq) More ADH reaches the kidneys. What happens to the urine?  
    Options: There is more of it, and it is paler / There is less of it, and it is stronger / Nothing changes  
    **Answer:** There is less of it, and it is stronger. *Why:* ADH makes the collecting ducts open more water doors. More water returns to the blood, so less urine leaves and it is stronger.
-5. (truefalse) True or false: a hilsa's gills pump salt in the same direction all her life.  
+6. (truefalse) True or false: a hilsa's gills pump salt in the same direction all her life.  
    **Answer:** False. *Why:* False. In the sea her gills pump salt out. When she enters a river, they change over and pump salt in.
-6. (match) Match each organ to the living being who has it.  
+7. (match) Match each organ to the living being who has it.  
    **Answer:** Salt glands above the eyes → cormorant; Rectal gland for salt → shark; Contractile vacuole → Paramecium; Malpighian tubules → cockroach; Nephridia in nearly every ring → earthworm. *Why:* Each of these organs does part of the work that kidneys do in a mammal: moving salt, water or waste out of the body.
-7. (fill) The liquid from a seabird's salt glands is ____ than sea water.  
+8. (fill) The liquid from a seabird's salt glands is ____ than sea water.  
    **Answer:** ['saltier', 'more salty', 'stronger']. *Why:* Because the liquid is saltier than what she drank, the bird sends out the salt and keeps some of the water.
-8. (write) The table shows liquid from four bowls of cucumber. Did twice the salt give twice the liquid? Explain.  
+9. (write) The table shows liquid from four bowls of cucumber. Did twice the salt give twice the liquid? Explain.  
    **Answer:** No. A quarter teaspoon gave 3 millilitres and a half teaspoon gave 5, which is less than double. A whole teaspoon gave 6, far less than double again. More salt gave more liquid, but each extra bit of salt added less.. *Why:* A strong answer compares pairs of numbers from the table and does not stop at 'more salt, more water'.
-9. (mcq) Sea water has 35 grams of salt a litre. Strong urine holds 20. How much urine removes one litre's salt?  
+10. (mcq) Sea water has 35 grams of salt a litre. Strong urine holds 20. How much urine removes one litre's salt?  
    Options: About half a litre / Exactly one litre / About one and three quarter litres  
    **Answer:** About one and three quarter litres. *Why:* 35 divided by 20 is 1.75. The body must pass more water than the sea water brought in.
-10. (sort) Sort each animal by the nitrogen waste she mainly sends out.  
+11. (sort) Sort each animal by the nitrogen waste she mainly sends out.  
    **Answer:** sardine → Ammonia; cow → Urea; pigeon → Uric acid; tadpole → Ammonia; dog → Urea; cobra → Uric acid; cockroach → Uric acid; adult frog → Urea. *Why:* Animals who live in water can wash ammonia away. Land mammals and frogs make urea. Birds, snakes, lizards and insects make uric acid, which needs the least water.
-11. (draw) Draw one loop of Henle and a collecting duct inside a kidney. Shade the part of the kidney that is saltiest.  
+12. (draw) Draw one loop of Henle and a collecting duct inside a kidney. Shade the part of the kidney that is saltiest.  
    **Answer:** A hairpin loop dipping down from the outer kidney and coming back up, with a straight duct beside it. The shading is darkest at the bottom, around the bend of the loop.. *Why:* A strong drawing puts the darkest shading at the deepest point. That is where the urine in the collecting duct loses the most water.
-12. (perspective) A shark keeps a lot of urea in her blood. Two girls disagree about what urea is.  
+13. (perspective) A shark keeps a lot of urea in her blood. Two girls disagree about what urea is.  
    **Answer:** Answers vary. For Thenmozhi: the urea makes the shark as concentrated as the sea, so she does not lose water or need to drink. For Nandini: the urea still comes from breaking down protein, and the extra does leave in the end.. *Why:* Both girls are using the science. The answer depends on whether 'waste' describes the substance itself or what a body does with it.
-13. (truefalse) True or false: the main way desert animals survive is by storing a lot of water.  
+14. (truefalse) True or false: the main way desert animals survive is by storing a lot of water.  
    **Answer:** False. *Why:* False. Careful measuring found no water store in camels or kangaroo rats. They survive by losing very little water.
-14. (write) A tadpole sends out ammonia. The same animal as a frog on land sends out urea. Why the change?  
+15. (write) A tadpole sends out ammonia. The same animal as a frog on land sends out urea. Why the change?  
    **Answer:** Ammonia is poisonous and needs a lot of water to carry it away. A tadpole lives in water, so the ammonia washes away at once. A frog on land cannot spare that much water, so the liver turns ammonia into urea, which is safer and needs far less water.. *Why:* A strong answer links the waste to the amount of water the animal has around her.
-15. (mcq) In the Burrow Test, why did the covered plate lose the least water?  
+16. (mcq) In the Burrow Test, why did the covered plate lose the least water?  
    Options: The cover kept light out / The air under it became damp / The cover pressed the water down  
    **Answer:** The air under it became damp. *Why:* The trapped air soon held as much water vapour as it could, so evaporation almost stopped. A closed burrow works the same way.
-16. (fill) Water that cells make from food is called ____ water.  
+17. (fill) Water that cells make from food is called ____ water.  
    **Answer:** ['metabolic']. *Why:* Metabolic water forms when hydrogen from food joins with oxygen. A kangaroo rat lives mainly on it.
 ### Testing claims about water and salt (challenge) (challenge, 16 questions)
 1. (write) A doctor claimed in 1952 that sips of sea water help a person lost at sea. What numbers would you check?  
@@ -704,6 +711,15 @@ Selvam stood looking at the place where they had been. Then he bent down, scoope
 12. (mcq) A rehydration drink is made with salt but no sugar. What goes wrong?  
    Options: The gut takes in less salt and water / The drink becomes poisonous / Nothing: it works just as well  
    **Answer:** The gut takes in less salt and water. *Why:* The carrier in the gut wall takes in sodium together with glucose. Without sugar, less sodium enters, and less water follows it.
+13. (mcq) Where does urine go after it leaves a kidney?  
+   Options: Down a ureter to the bladder, where it is stored / Straight out of the body through the kidney / Up a tube to the stomach  
+   **Answer:** Down a ureter to the bladder, where it is stored. *Why:* Each kidney has a thin tube called a ureter that carries urine down to the bladder. The bladder stores it until a ring of muscle opens and the urine leaves the body.
+14. (mcq) Ravi has loose motions and has not stopped feeling sick all day. Which sign tells you he may be dehydrated?  
+   Options: He is very thirsty, his mouth is dry and his urine is dark and very little / He is hungry and wants a snack / His hands are warm  
+   **Answer:** He is very thirsty, his mouth is dry and his urine is dark and very little. *Why:* A dehydrated body has lost more water than it has taken in. The mouth feels dry, thirst is strong and the urine is dark yellow and little. Hunger and warm hands do not show a lack of water.
+15. (mcq) Why does a person who drinks very little water often pass hard, dry stool?  
+   Options: The gut takes water back from the stool when the body is short of water / Water makes the stool harder / The kidneys put extra water into the stool  
+   **Answer:** The gut takes water back from the stool when the body is short of water. *Why:* The last part of the gut takes water back from the stool. When the body has little water, it takes more, so the stool is hard and dry.
 
 ## Applications
 - ORS, the drink of water, salt and sugar, treats the loss of water in diarrhoea. It works because the gut takes in salt together with sugar, and water follows.

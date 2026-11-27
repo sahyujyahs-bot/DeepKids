@@ -217,7 +217,8 @@
    "examples": [
     "A paddy plant short of nitrogen has pale yellow older leaves and stays small.",
     "A packet of chips is filled with nitrogen gas to keep the chips crisp. The gas is used because it hardly reacts with anything.",
-    "In Browns, Greens or Both, the bottle of paper and dry leaves stood in air full of nitrogen and still rotted slowly."
+    "In Browns, Greens or Both, the bottle of paper and dry leaves stood in air full of nitrogen and still rotted slowly.",
+    "The air around Earth is a mix of gases. About 78 in every 100 particles are nitrogen, about 21 are oxygen, and only a tiny share is carbon dioxide."
    ],
    "perspectives": [],
    "art": "A pale yellow paddy plant in the middle of a picture crowded with tiny pairs of dots, none of them entering the plant."
@@ -2128,6 +2129,14 @@
     },
     {
      "t": "fill",
+     "p": "About ___ in every 100 particles of air is oxygen.",
+     "a": [
+      "21"
+     ],
+     "why": "Oxygen is about 21 of every 100 particles of air. Nitrogen is far more, at about 78."
+    },
+    {
+     "t": "fill",
      "p": "A root nodule that is fixing nitrogen is ____ inside.",
      "a": [
       "pink",
@@ -2761,6 +2770,19 @@
    "a": 2,
    "why": "A store is an amount that stays somewhere. A flow is a movement between stores. A leaf taking in carbon dioxide moves carbon from the air into the plant.",
    "outcome": 6
+  },
+  {
+   "t": "mcq",
+   "p": "Air around Earth is a mix of gases. Which gas makes up the largest share?",
+   "opts": [
+    "Nitrogen",
+    "Carbon dioxide",
+    "Oxygen",
+    "Steam"
+   ],
+   "a": 0,
+   "why": "About 78 in every 100 particles of air are nitrogen. Oxygen is about 21, and carbon dioxide is only a tiny share. Steam is not a fixed part of the air; it changes with the weather.",
+   "outcome": 2
   }
  ],
  "videos": [

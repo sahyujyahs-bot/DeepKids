@@ -105,11 +105,12 @@
    "status": "defined",
    "context": "This card explains what happened in our test, when we poured one tumbler of water into a thin bottle and a wide bowl.",
    "definition": "A liquid flows. It has no shape of its own, so it takes the shape of whatever holds it. Its amount stays the same.",
-   "description": "In the thin bottle, the water stood tall. In the wide bowl, it spread out low and flat. It looked like more, then less. But when we poured it back into the tumbler, it came up to the same line, which we had marked with a bindi. The shape changed. The amount did not. A liquid also always settles at the bottom of its container, with a flat top.",
+   "description": "In the thin bottle, the water stood tall. In the wide bowl, it spread out low and flat. It looked like more, then less. But when we poured it back into the tumbler, it came up to the same line, which we had marked with a bindi. The shape changed. The amount did not. A liquid also always settles at the bottom of its container, with a flat top. Look closely at a glass of clean drinking water. It is clear, with no colour. Sniff it: it has almost no smell. Take a sip: it has almost no taste. That is how you tell it from milk, which is white, or from nimbu pani, which smells and tastes of lime. But it still takes the shape of the glass, like every liquid.",
    "examples": [
     "Water from the thin bottle filled the tumbler back to the bindi line.",
     "Rasam poured from a pot takes the shape of each bowl.",
-    "Coconut water takes the shape of the inside of the coconut."
+    "Coconut water takes the shape of the inside of the coconut.",
+    "A glass of clean water is clear, with almost no smell or taste. Milk is white and smells of milk."
    ],
    "perspectives": [
     {
@@ -145,6 +146,21 @@
     }
    ],
    "art": "Three polythene bags side by side: one with a stone lying at the bottom, one with water at the bottom, and one puffed full of air."
+  },
+  {
+   "concept": "We use solids, liquids and gases every day",
+   "status": "defined",
+   "context": "This card shows where you meet a solid, a liquid and a gas on an ordinary day, in your food, your water and the air.",
+   "definition": "We use each state for what it does best. We hold and cut solids, pour and drink liquids, and breathe gases.",
+   "description": "Your food is mostly solid or liquid. Roti, rice and a banana are solids. You can hold them, bite them and cut them, because they keep their shape. Dal, milk and water are liquids. You pour them and drink them, and they take the shape of the katori or the tumbler. Air is a gas. You cannot see it, but you breathe it all day, and it fills a football and a cycle tyre. We use each state in its own way. A solid keeps its shape, so a steel plate holds your rice. A liquid flows, so a tap can send water to your kitchen. A gas spreads out, so the air reaches every corner of a room.",
+   "examples": [
+    "Roti, rice and a banana: solids you hold, bite and chew.",
+    "Dal, milk and water: liquids you pour and drink.",
+    "Air: a gas you breathe, and the air in a football or a cycle tyre.",
+    "A steel plate holds rice because it keeps its shape. A tap sends water along a pipe because water flows."
+   ],
+   "perspectives": [],
+   "art": "A thali on a kitchen floor with roti and rice, a katori of dal, a tumbler of water, and a child blowing up a balloon beside a cycle with a round tyre."
   },
   {
    "concept": "Ice, water and steam are the same water",
@@ -1499,6 +1515,26 @@
      "lines": 2,
      "a": "For example: a steel plate (solid), coconut oil on a warm day (liquid) and the steam from the idli pot (gas).",
      "why": "A strong answer gives one of each and can say why: it keeps its shape, it flows, or it spreads out."
+    },
+    {
+     "t": "match",
+     "p": "Match each thing you use every day to what it is.",
+     "pairs": [
+      [
+       "a banana you peel and eat",
+       "a solid, because it keeps its shape"
+      ],
+      [
+       "milk you pour into a glass",
+       "a liquid, because it flows"
+      ],
+      [
+       "the air in a cycle tyre",
+       "a gas, because it fills the whole space"
+      ]
+     ],
+     "a": "pairs as given",
+     "why": "Each one is a different state. A banana keeps its shape, milk flows into the glass, and air spreads out to fill the tyre."
     }
    ]
   },
@@ -1656,6 +1692,15 @@
      "p": "An ice tray has 2 rows, with 6 little boxes in each row. How many ice cubes does it make?",
      "a": 12,
      "why": "2 rows of 6 make 12. Each cube takes the shape of its little box, because the water was a liquid when it was poured in."
+    },
+    {
+     "t": "fill",
+     "p": "Clean drinking water is clear. It has no ____, and almost no smell or taste.",
+     "a": [
+      "colour",
+      "color"
+     ],
+     "why": "Water is clear, so we say it has no colour. That helps us tell it from milk, which is white, or from tea, which is brown."
     }
    ]
   }
@@ -1811,6 +1856,32 @@
    "a": 0,
    "why": "A guess with a reason helps you notice when the test surprises you.",
    "outcome": 5
+  },
+  {
+   "t": "mcq",
+   "p": "At lunch, why does Amma put dal in a katori, but she can pass a roti from hand to hand?",
+   "opts": [
+    "Dal is a liquid with no shape of its own, but a roti is a solid that keeps its shape",
+    "Dal is hotter than roti",
+    "A roti is lighter than dal",
+    "Dal cannot be eaten without a spoon"
+   ],
+   "a": 0,
+   "why": "A liquid flows, so it needs a container to hold it. A solid keeps its own shape, so you can hold it in your hand. Dal being hotter or roti being lighter does not explain why one needs a katori.",
+   "outcome": 0
+  },
+  {
+   "t": "mcq",
+   "p": "Two glasses stand on the table. One has clean water and one has milk. You do not look at them. You only sniff and sip. What do you find?",
+   "opts": [
+    "The water has almost no smell or taste, and the milk has its own",
+    "Both have exactly the same smell and taste",
+    "The water is sweet and the milk has no taste",
+    "Neither one has a smell"
+   ],
+   "a": 0,
+   "why": "Clean water has almost no smell or taste. Milk has its own smell and taste. So we can tell the two liquids apart even with our eyes closed.",
+   "outcome": 1
   }
  ],
  "applications": [

@@ -13,7 +13,7 @@
  },
  "outcomes": [
   "By the end I can name the eight planets in order, and say what sets the Earth apart.",
-  "By the end I can tell a star, planet, dwarf planet and satellite apart by what each goes round.",
+  "By the end I can tell a star, planet, dwarf planet and satellite apart by what each goes round. I can say that the Pole Star is a star far outside the solar system, and that it shows north.",
   "By the end I can explain why a satellite can be bigger than a planet, using Ganymede and Mercury.",
   "By the end I can use the balance rule to find the point that two worlds both go round.",
   "By the end I can build a true model of the Earth, the Moon and the Sun on one scale.",
@@ -130,6 +130,12 @@
    "meaning": "The imaginary line through a spinning world, from one pole to the other. The Earth spins on its axis once in about 24 hours.",
    "example": "The Earth's axis leans about 23.5 degrees. Uranus leans so far that it spins almost on its side.",
    "art": "The Earth with a straight line through it from the North Pole to the South Pole, leaning a little to one side, and a curved arrow showing the spin."
+  },
+  {
+   "term": "Pole Star",
+   "meaning": "A star that sits almost exactly above the Earth's north pole, so it hardly seems to move as the night goes on. It is far outside the solar system.",
+   "example": "On a clear night, travellers face the Pole Star to find north.",
+   "art": "The night sky over a rooftop, with curved trails of stars circling round one bright star that stays still."
   }
  ],
  "explanations": [
@@ -320,11 +326,12 @@
    "concept": "The Earth's two movements and its tilt",
    "status": "defined",
    "definition": "The Earth spins once on its axis in about 24 hours, which gives day and night. It goes once round the Sun in about 365 and a quarter days, which is one year.",
-   "description": "The Earth's axis leans about 23.5 degrees away from the upright line, where upright means at right angles to the flat surface of the Earth's path round the Sun. This tilt gives the seasons. The Earth's distance from the Sun does not. The Earth is nearest the Sun in early January, when north India has winter. It is furthest in early July, in the middle of the monsoon. The gap is only about 3 percent, so it changes the heat very little. Mars leans about 25 degrees, so it has seasons too. Each Martian season lasts about twice as long as one on the Earth, because a Martian year is 687 Earth days. Uranus leans about 98 degrees, so for years one pole faces the Sun.",
+   "description": "The Earth's axis leans about 23.5 degrees away from the upright line, where upright means at right angles to the flat surface of the Earth's path round the Sun. This tilt gives the seasons. The Earth's distance from the Sun does not. The Earth is nearest the Sun in early January, when north India has winter. It is furthest in early July, in the middle of the monsoon. The gap is only about 3 percent, so it changes the heat very little. Mars leans about 25 degrees, so it has seasons too. Each Martian season lasts about twice as long as one on the Earth, because a Martian year is 687 Earth days. Uranus leans about 98 degrees, so for years one pole faces the Sun. The spin also gives travellers a guide. Seen from India, the night sky seems to turn through the hours, because the Earth is turning under it. The stars seem to circle round one point in the north. The Pole Star, called Dhruva Tara in Hindi, sits almost exactly over that point, so it hardly seems to move. It is a star far outside the solar system, many times further away than any planet. People on land and at sea have used it for thousands of years to find north.",
    "examples": [
     "Spin: one turn in about 24 hours, so every place has a day and a night.",
     "Journey: one trip round the Sun in about 365 and a quarter days.",
-    "Tilt: about 23.5 degrees for the Earth, and about 25 degrees for Mars."
+    "Tilt: about 23.5 degrees for the Earth, and about 25 degrees for Mars.",
+    "Guide: a sailor or traveller in the north who finds the Pole Star on a clear night knows which way is north."
    ],
    "perspectives": [],
    "art": "The Earth at four places on its path round the Sun, with its axis leaning the same way each time, and the Sun's light falling more on the northern half at one place and on the southern half at the opposite place."
@@ -2649,6 +2656,12 @@
      ],
      "why": "The point is about 4,700 km from the Earth's centre, and the Earth's radius is 6,371 km.",
      "outcome": 3
+    },
+    {
+     "t": "truefalse",
+     "p": "The Pole Star is a planet that goes round the Sun, like Jupiter.",
+     "a": false,
+     "why": "False. The Pole Star makes its own light, so it is a star. It is far outside the solar system. Travellers use it to find north because it hardly moves in the night sky."
     }
    ]
   },
@@ -2990,6 +3003,19 @@
    "a": 1,
    "why": "By the Sun's wind, it has left. By the Sun's gravity, it is still deep inside. There is no single agreed edge.",
    "outcome": 7
+  },
+  {
+   "t": "mcq",
+   "p": "On a clear night in India, the stars seem to circle round one point in the north sky. Why does the Pole Star hardly seem to move?",
+   "opts": [
+    "It sits almost exactly over the Earth's north pole, the point the spin turns round",
+    "It is a planet that stands still in the sky",
+    "It is the nearest star to the Earth",
+    "The Earth stops spinning for the Pole Star"
+   ],
+   "a": 0,
+   "why": "The Earth spins on its axis, and the axis points almost at the Pole Star. So the sky seems to turn round that star. It is not a planet. It is a star far outside the solar system. The Earth never stops spinning, and the Pole Star is not the nearest star.",
+   "outcome": 1
   }
  ],
  "videos": [

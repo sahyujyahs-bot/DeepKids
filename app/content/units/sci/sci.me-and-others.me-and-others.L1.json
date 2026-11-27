@@ -17,7 +17,8 @@
   "By the end I can say what I like, and that other people may like different things.",
   "By the end I can say, from my own taste test, that one food can taste different to different people.",
   "By the end I can name a kind thing to do, and say how it helps someone.",
-  "By the end I can make a guess, test it, and say what I saw."
+  "By the end I can make a guess, test it, and say what I saw.",
+  "By the end I can join a game or a job with others, take my turn, and say that families and pets deserve kindness."
  ],
  "cards_mins": 8,
  "terms": [
@@ -44,6 +45,12 @@
    "meaning": "Being kind means doing something to help another person or animal, or to make them feel better.",
    "example": "Sharing your crayons with a new friend is kind. Putting out water for a crow on a hot day is kind.",
    "art": "A girl handing a box of crayons to another child at a table."
+  },
+  {
+   "term": "Take turns",
+   "meaning": "When a few people share one thing or one game, each one has a go, one after another.",
+   "example": "In a game of ludo, you throw the dice, and then your friend throws it.",
+   "art": "Two children and a ludo board, one holding the dice and the other waiting with her hands in her lap."
   }
  ],
  "explanations": [
@@ -65,7 +72,7 @@
    "concept": "Each of us is different",
    "status": "defined",
    "definition": "No two people are exactly the same. We differ in how we look, how we sound and what we like.",
-   "description": "Some people are tall and some are short. Hair can be curly, wavy or straight. Skin comes in many shades of brown, from light to dark. You can tell one grown-up from another with your eyes shut, because every person's voice sounds a little different. Even twins who look alike have different fingerprints. And each person likes different things: one loves rice and rasam, another loves luchi.",
+   "description": "Some people are tall and some are short. Hair can be curly, wavy or straight. Skin comes in many shades of brown, from light to dark. You can tell one grown-up from another with your eyes shut, because every person's voice sounds a little different. Even twins who look alike have different fingerprints. And each person likes different things: one loves rice and rasam, another loves luchi. Families are different too. Some children live with a mother and a father. Some live with a grandmother, with an aunt and uncle, or with one parent. Some families eat idli for breakfast, and some eat paratha. Each one is a real family, and we are kind about how each one is.",
    "examples": [
     "You can know who is calling you just from their voice.",
     "Two sisters can have different favourite colours.",
@@ -114,15 +121,30 @@
    "concept": "Being kind",
    "status": "defined",
    "definition": "Being kind means helping someone, or doing something that makes them feel better.",
-   "description": "Other people may like different things from you, so you can ask them. Asking 'Do you like this?' is kind. Saying 'Yuck!' about someone's food is not. People are not the only animals who are kind. Elephants touch and soothe another elephant who is upset. Rats in tests have opened a little door to free another rat who was shut in.",
+   "description": "Other people may like different things from you, so you can ask them. Asking 'Do you like this?' is kind. Saying 'Yuck!' about someone's food is not. People are not the only animals who are kind. Elephants touch and soothe another elephant who is upset. Rats in tests have opened a little door to free another rat who was shut in. Pets feel things too. A kind child fills the dog's water bowl, strokes a cat gently, and never pulls a tail. If you do not know an animal, ask a grown-up before you touch her.",
    "examples": [
     "You ask a new child to play with you.",
     "You bring water for a tired grown-up.",
-    "You wait for a slower friend on a walk."
+    "You wait for a slower friend on a walk.",
+    "You fill the water bowl for the family dog, or put out grain for the birds."
    ],
    "perspectives": [],
    "context": "This card is about kindness, in people and in other animals.",
    "art": "A mother elephant touching a young elephant with her trunk, and beside them a girl putting an arm round a crying friend."
+  },
+  {
+   "concept": "Doing things together",
+   "status": "defined",
+   "definition": "Some games and jobs are better with other people. When you join in, you take a part and wait for your turn.",
+   "description": "Many hands make a job quick. At home, one person shakes out the washing, one folds it and one puts it away. A game of kho-kho or hide and seek needs more than one child. When you join a group, you wait for your turn and share the things. If a child is standing alone, you can say, 'Come and play with us!' Everyone's part is different, and every part helps.",
+   "examples": [
+    "Three children draw a rangoli together. One draws the dots, one joins them, and one fills in the colours.",
+    "You carry one bag of vegetables and your brother carries the other.",
+    "You wait for your turn on the swing, and then the next child has hers."
+   ],
+   "perspectives": [],
+   "context": "This card is about joining in a game or a job with other people, and how each person has a part.",
+   "art": "Three children kneeling around a rangoli on a courtyard floor, each holding a different colour of powder, with a fourth child being waved over to join."
   }
  ],
  "agreed": [
@@ -1501,6 +1523,13 @@
      "a": true,
      "why": "True. Each person's voice is a little different, so we can tell people apart just by listening.",
      "how": "e2"
+    },
+    {
+     "t": "draw",
+     "p": "Draw a job or a game you do together with someone at home. Show what each person does.",
+     "a": "Any shared job, such as folding clothes, making a rangoli, or playing carrom.",
+     "why": "A strong drawing shows two or more people, each with a different part of the same job or game.",
+     "art": "A blank box with two small stick figures holding hands in one corner."
     }
    ]
   },
@@ -1682,6 +1711,19 @@
      ],
      "a": 1,
      "why": "Fox gave the powder to many people. Some found it bitter, and some tasted nothing. The same thing can taste different to different people."
+    },
+    {
+     "t": "truefalse",
+     "p": "Only a family with a mother and a father is a real family.",
+     "a": false,
+     "why": "False. Some children live with a grandmother, an aunt and uncle, or one parent. Every one of these is a real family."
+    },
+    {
+     "t": "draw",
+     "p": "Draw one kind thing you can do for a pet, a bird or a street animal near your home.",
+     "a": "Any kind act, such as putting out a bowl of water or stroking a dog gently.",
+     "why": "A strong drawing shows the child being gentle, with a pet or an animal that is not afraid.",
+     "art": "A blank box with a small paw print in one corner."
     }
    ]
   }
@@ -1818,6 +1860,42 @@
    "a": 0,
    "why": "A scientist guesses first and gives a reason. Then the test shows if the guess was right.",
    "outcome": 5
+  },
+  {
+   "t": "mcq",
+   "p": "Three children are making a rangoli together. One child has finished her part and stands waiting. What is a good thing to do?",
+   "opts": [
+    "Ask what part she can help with, and join in",
+    "Take the colours and do it all alone",
+    "Walk away and say it is boring"
+   ],
+   "a": 0,
+   "why": "A shared job goes well when each person has a part. Asking how to help lets everyone feel part of the group. Doing it all alone leaves the others out.",
+   "outcome": 6
+  },
+  {
+   "t": "mcq",
+   "p": "Sana's friend Ravi lives with his grandmother and his uncle. Sana lives with her mother, her father and her sister. What is the kind thing to say?",
+   "opts": [
+    "Families are all different, and Ravi's is a real family too",
+    "Ravi's family is not a proper family",
+    "Everyone must live like Sana does"
+   ],
+   "a": 0,
+   "why": "Families come in many shapes, and each one is a real family. Saying a family is not proper hurts the child who lives in it.",
+   "outcome": 1
+  },
+  {
+   "t": "mcq",
+   "p": "A kitten comes to your door. Which is a kind way to meet her?",
+   "opts": [
+    "Ask a grown-up, then stroke her gently and give her some water",
+    "Pull her tail to make her play",
+    "Shout loudly so that she runs to you"
+   ],
+   "a": 0,
+   "why": "Animals feel pain and fear as we do. A gentle hand and some water are kind. A pulled tail hurts, and a loud shout frightens her.",
+   "outcome": 4
   }
  ],
  "videos": [

@@ -24,6 +24,12 @@
  "cards_mins": 20,
  "terms": [
   {
+   "term": "Antenna (plural: antennae)",
+   "meaning": "One of the two thin feelers on an insect's head. An insect smells and touches with them.",
+   "example": "Two ants meet on a wall and touch antennae, to find out whether they belong to the same colony.",
+   "art": "The head of an ant with two long thin feelers, labelled antennae."
+  },
+  {
    "term": "Social insect",
    "meaning": "An insect who lives in a large family that shares one nest and shares the work.",
    "example": "Ants, honeybees and termites are social insects. A housefly lives alone.",
@@ -121,6 +127,19 @@
   }
  ],
  "explanations": [
+  {
+   "concept": "What makes an insect an insect",
+   "status": "defined",
+   "definition": "An insect is an animal with six legs, which are three pairs, and one pair of antennae. Many have wings.",
+   "description": "Look closely at an ant on the wall. Count its legs. There are six, in three pairs, and all are joined to the middle part of its body. On its head, it has one pair of antennae. Antennae are two thin feelers that smell and touch the world. Many insects have wings. A fly has one pair, and a grasshopper has two pairs. The front pair of a grasshopper is thin and tough, like a cover for the back pair. Worker ants have no wings. A spider has eight legs and no antennae, so a spider is not an insect. Honeybees, ants, flies and grasshoppers are insects. In this lesson, you will see what some insects do for us, and what they need from us.",
+   "examples": [
+    "An ant with six legs and two thin antennae on a kitchen wall",
+    "A housefly with one pair of clear wings",
+    "A grasshopper in a field with two pairs of wings, the front pair thin and tough"
+   ],
+   "perspectives": [],
+   "art": "An ant drawn large, with its six legs numbered in three pairs and its two antennae labelled; beside it a spider with eight legs and a cross."
+  },
   {
    "concept": "A colony is one large family",
    "status": "defined",
@@ -242,7 +261,7 @@
    "concept": "What harms insect workers, and what helps them",
    "status": "defined",
    "definition": "Insects are harmed by poison sprays, by the loss of flowers and nesting places, and by bright lights at night. They are helped by flowers, by unsprayed places and by darkness.",
-   "description": "A pesticide is a poison used to kill insects who eat crops. Most pesticides also kill bees, flies and ants, and the insects who hunt the crop-eaters. Some pesticides do not kill a bee at once. They harm her memory, so that she cannot find her way home. A colony needs flowers in every month of the year. When a field grows only one crop, there are flowers for two weeks and then none. Street lights pull moths away from the flowers they would pollinate at night. In 63 nature reserves in Germany, scientists weighed the flying insects they caught each year. After 27 years the weight had fallen by about three quarters. There are few such counts from India, so nobody knows the full picture here. Some farmers use insects in place of poison. Fruit growers in China have put weaver ant nests in their orange trees for about 1,700 years. The ants hunt the insects who eat the fruit. A family can help by growing flowering plants, and by never spraying a plant that is in flower.",
+   "description": "A pesticide is a poison used to kill insects who eat crops. Most pesticides also kill bees, flies and ants, and the insects who hunt the crop-eaters. Some pesticides do not kill a bee at once. They harm her memory, so that she cannot find her way home. A colony needs flowers in every month of the year. When a field grows only one crop, there are flowers for two weeks and then none. Street lights pull moths away from the flowers they would pollinate at night. In 63 nature reserves in Germany, scientists weighed the flying insects they caught each year. After 27 years the weight had fallen by about three quarters. There are few such counts from India, so nobody knows the full picture here. Some farmers use insects in place of poison. Fruit growers in China have put weaver ant nests in their orange trees for about 1,700 years. The ants hunt the insects who eat the fruit. A family can help by growing flowering plants, and by never spraying a plant that is in flower. Trees help too, because they are homes. A mango tree gives shade and shelter. Weaver ants stitch their nests in its leaves, and a crow or a myna can build a nest in its branches. A squirrel runs along them. Cutting down a tree takes away all these homes at once.",
    "examples": [
     "A tulsi or curry leaf plant left to flower on a balcony, with small bees on it.",
     "A farmer who sprays in the evening, after the bees have gone home, and never on open flowers.",
@@ -250,6 +269,20 @@
    ],
    "perspectives": [],
    "art": "A balcony with flowering tulsi, curry leaf and marigold pots, with small bees and a butterfly visiting them."
+  },
+  {
+   "concept": "Pests: when insects and animals eat the crop",
+   "status": "defined",
+   "context": "This card comes after what harms insects. Farmers do have real trouble from pests, and some ways of fighting pests do not harm bees.",
+   "definition": "A pest eats or spoils a crop. A farmer can guard a crop in ways that do not poison the pollinators.",
+   "description": "Insects such as caterpillars and aphids eat leaves and suck sap. Bigger animals also eat crops. In north India, the neel gai, a large blue-grey antelope, walks into wheat and mustard fields at night. Monkeys raid fruit and maize. A farmer who loses her crop loses her year's food and money, so she must keep watch. Some ways are safe for bees. She can pick caterpillars off by hand. She can spray neem, a mix made from crushed neem seeds, on leaves in the evening, when the bees have gone home. She can hang yellow sticky cards to catch small flying insects. She can leave weaver ants in the trees, because they hunt fruit-eating insects. For neel gai and monkeys, a fence, a net or a night watch works better than any spray, since they are not insects. Spraying neem on open flowers can still harm bees, so spray only the leaves.",
+   "examples": [
+    "A farmer picking caterpillars off cabbage leaves by hand, then spraying neem on the leaves in the evening",
+    "A family taking turns to watch a wheat field at night, because neel gai come in the dark",
+    "A yellow sticky card hung among brinjal plants to catch whiteflies"
+   ],
+   "perspectives": [],
+   "art": "A farmer at dusk spraying neem on cabbage leaves, a neel gai at the edge of a wheat field with a fence, and a yellow sticky card hanging among plants."
   },
   {
    "concept": "Are honeybees enough, or do crops need wild pollinators too?",
@@ -1997,6 +2030,38 @@
      "why": "A strong drawing shows pollen leaving an anther and arriving on a stigma. The bee is the carrier in between.",
      "art": "A blank box with the outlines of two open flowers and a bee between them.",
      "outcome": 2
+    },
+    {
+     "t": "sort",
+     "p": "Sort these animals into 'insect' and 'not an insect'. Count the legs to help you.",
+     "cats": [
+      "Insect",
+      "Not an insect"
+     ],
+     "items": [
+      [
+       "an ant with six legs",
+       "Insect"
+      ],
+      [
+       "a spider with eight legs",
+       "Not an insect"
+      ],
+      [
+       "a housefly",
+       "Insect"
+      ],
+      [
+       "a scorpion with eight legs",
+       "Not an insect"
+      ],
+      [
+       "a grasshopper",
+       "Insect"
+      ]
+     ],
+     "a": "see items",
+     "why": "Insects have six legs. Spiders and scorpions have eight legs, so they are not insects."
     }
    ]
   },
@@ -2214,6 +2279,32 @@
      "why": "The nectar is deepest. So a visitor passes the anthers and the stigma on the way down and on the way out.",
      "art": "A large open flower cut in half, showing several knobbed anthers, one central stalk with a sticky tip, and a small drop at the base, with three blank label lines.",
      "outcome": 2
+    },
+    {
+     "t": "truefalse",
+     "p": "Every insect has wings.",
+     "a": false,
+     "why": "False. Flies and grasshoppers have wings, but worker ants have none. Insects are the animals with six legs and one pair of antennae."
+    },
+    {
+     "t": "match",
+     "p": "Match each animal to how it uses a mango tree.",
+     "pairs": [
+      [
+       "Weaver ants",
+       "stitch a nest from the leaves"
+      ],
+      [
+       "A crow",
+       "builds a nest in the branches"
+      ],
+      [
+       "A honeybee",
+       "drinks nectar from the flowers"
+      ]
+     ],
+     "a": "pairs as given",
+     "why": "A tree can shelter some animals and feed others. Weaver ants and crows use it as a home, and a honeybee uses its flowers for food."
     }
    ]
   },
@@ -2394,6 +2485,26 @@
      "why": "A strong drawing shows that the nest has different places for different things: young in one part, food in another, and workers moving between them.",
      "art": "A blank box with a line across the top to show ground level and a small entrance hole.",
      "outcome": 0
+    },
+    {
+     "t": "match",
+     "p": "Match each crop problem to a way of guarding the crop that does not poison bees.",
+     "pairs": [
+      [
+       "Neel gai in a wheat field at night",
+       "a fence or a night watch"
+      ],
+      [
+       "Caterpillars on cabbage",
+       "picking them off by hand"
+      ],
+      [
+       "Small flying insects on brinjal",
+       "a yellow sticky card"
+      ]
+     ],
+     "a": "pairs as given",
+     "why": "Each problem has its own answer. Neel gai are large animals, so a fence or a watch works. Caterpillars can be picked off, and sticky cards trap small flying insects. None of these poison bees."
     }
    ]
   }
@@ -2549,6 +2660,42 @@
    ],
    "a": 0,
    "why": "Insects come to open flowers, so a spray on flowers poisons the very insects the plant needs. The other three all harm pollinators.",
+   "outcome": 7
+  },
+  {
+   "t": "mcq",
+   "p": "Anita counts the legs on a beetle. How many legs does an insect have?",
+   "opts": [
+    "Four, in two pairs",
+    "Six, in three pairs",
+    "Eight, in four pairs"
+   ],
+   "a": 1,
+   "why": "Every insect has six legs, in three pairs. Eight legs belong to a spider, and a spider is not an insect.",
+   "outcome": 0
+  },
+  {
+   "t": "mcq",
+   "p": "What do the weaver ants and the crow in a mango tree both get from the tree?",
+   "opts": [
+    "A place to live and be safe",
+    "Pollen to eat",
+    "A wax comb"
+   ],
+   "a": 0,
+   "why": "A tree gives shelter. The ants stitch nests in the leaves, and the crow builds in the branches. The ants do not eat pollen from the tree, and wax comb is made by honeybees.",
+   "outcome": 7
+  },
+  {
+   "t": "mcq",
+   "p": "A farmer finds caterpillars on her cabbage. Which choice is safest for bees?",
+   "opts": [
+    "Spraying a strong poison on the open flowers",
+    "Picking the caterpillars off by hand",
+    "Spraying neem on the flowers at noon"
+   ],
+   "a": 1,
+   "why": "Picking by hand harms no bee. A strong poison on open flowers kills bees. Even neem should go only on leaves, in the evening, when bees are not there.",
    "outcome": 7
   }
  ],

@@ -30,10 +30,12 @@
 - **Fermentation**: A change that chosen microbes make in food as they eat sugar. They leave behind acid, gas or alcohol. The acid also helps to keep the food. *e.g.* Bacteria ferment milk into curd. The acid they make gives curd a sour taste and holds back other microbes.
 - **Pasteurisation**: Heating a food enough to kill most microbes, followed by fast cooling. Milk is heated to 72 degrees Celsius for 15 seconds. *e.g.* A milk packet says 'pasteurised'. The milk still has a few microbes, so the packet must stay in the fridge.
 - **Airtight**: Closed so well that air and water vapour cannot get in or out. *e.g.* Biscuits stay crisp in an airtight dabba. In an open plate they take in water from the air and go soft.
+- **Evaporation**: Water slowly turning into a gas in the air. As it does this, it takes heat from what it leaves. *e.g.* A wet cloth round a mud pot dries in the sun. The drying takes heat from the pot, so the water inside stays cool.
 - **Hurdle**: Any one thing that makes a food harder for microbes to grow in. Preserved foods often use several small hurdles together. *e.g.* Mango pickle uses four hurdles: a lot of salt, sour mango, mustard and a layer of oil that keeps air out.
 - **Preservative**: A substance added to food in a small, measured amount to slow microbes. A label lists each one by name or number. *e.g.* A squash bottle may list 'preservative (211)'. That number means sodium benzoate.
 - **Toxin**: A poison made by a living being. Some bacteria and moulds leave toxins in food, and some of these toxins stay even after the food is boiled. *e.g.* Rice left out all day can hold a toxin from bacteria. Heating the rice again kills the bacteria but may not remove the toxin.
 - **Gut microbes**: The bacteria and other microbes who live in your intestines. There are tens of trillions of them. They eat the parts of plants that you are unable to digest. *e.g.* When you eat dal, vegetables and fruit, your gut microbes ferment the fibre. They make substances that feed the cells of your gut wall.
+- **Sprouting**: A seed starting to grow, with a tiny root and shoot, after it has been soaked in water. *e.g.* Moong soaked overnight and kept in a damp cloth sprouts in a day or two.
 
 ## Explanations
 ### Why food spoils: microbes eat the food before we do · *defined*
@@ -82,10 +84,12 @@ When a spoon of curd goes into warm milk, the curd bacteria multiply fast. They 
 ### Cold, heat and sealing · *defined*
 **Definition:** Cold slows microbes down but does not kill them. Strong heat kills them. Sealing a food after heating stops new microbes from getting in.
 
-In a fridge at about 4 degrees Celsius, most bacteria split only once in many hours, so food lasts days. In a freezer at minus 18 degrees there is no liquid water and growth stops. When the food warms up, the microbes who lived through the cold grow again. Boiling kills most microbes, but the spores of some bacteria live through boiling. Pasteurised milk is heated to 72 degrees for 15 seconds, which kills most microbes and leaves the taste. Some milk is sold in cartons that keep for months without a fridge. That milk has been heated to about 140 degrees for a few seconds and packed with no microbes. Tinned food is sealed and then heated to about 121 degrees. That heat is needed because one kind of bacterium grows without air and makes a deadly toxin. A tin or packet that has swollen has gas made by microbes inside, and must be thrown away unopened. In the early 1900s the American chemist Mary Engle Pennington studied eggs, milk and chicken on the way to shops. She worked out how cold they must be kept. She also led a study of cold railway wagons for carrying food.
+In a fridge at about 4 degrees Celsius, most bacteria split only once in many hours, so food lasts days. In a freezer at minus 18 degrees there is no liquid water and growth stops. When the food warms up, the microbes who lived through the cold grow again. Boiling kills most microbes, but the spores of some bacteria live through boiling. Pasteurised milk is heated to 72 degrees for 15 seconds, which kills most microbes and leaves the taste. Some milk is sold in cartons that keep for months without a fridge. That milk has been heated to about 140 degrees for a few seconds and packed with no microbes. Tinned food is sealed and then heated to about 121 degrees. That heat is needed because one kind of bacterium grows without air and makes a deadly toxin. A tin or packet that has swollen has gas made by microbes inside, and must be thrown away unopened. In the early 1900s the American chemist Mary Engle Pennington studied eggs, milk and chicken on the way to shops. She worked out how cold they must be kept. She also led a study of cold railway wagons for carrying food. Cool food does not always need electricity. In many villages, families keep water in a mud pot called a matka. They wrap a wet cloth round the pot, or pack wet sand round it. Water dries off the cloth into the air, and as it dries it takes heat from the pot. This is called evaporation. It works best in hot, dry weather, when water dries fast. It will not freeze anything, but a cooler pot slows microbes a little, so vegetables and milk last longer than on an open shelf.
 - e.g. An unopened carton of long-life milk keeps for months on a shelf. Once opened, it needs the fridge like any milk.
 - e.g. Apples from Himachal Pradesh are kept in cold stores, so they can be sold many months after the harvest.
 - e.g. Frozen peas keep for a year, and cook like fresh ones.
+- e.g. A mud pot with a wet cloth round it keeps water and vegetables cooler than the room, on a hot dry afternoon in Rajasthan.
+- e.g. Farmers in Uttar Pradesh and West Bengal keep their potatoes in big cold stores after the harvest, so families can buy them all through the year.
 ### Hurdles: several small barriers together · *defined*
 **Definition:** A hurdle is anything that makes a food harder for microbes to grow in. Many preserved foods use several hurdles at once, even though each one on its own would be too weak to keep the food safe.
 
@@ -110,10 +114,11 @@ The microbes that make food smell bad are often not the ones that make people il
 ### Helpful microbes in your gut · *defined*
 **Definition:** Tens of trillions of bacteria live in your large intestine. They digest parts of food that you are unable to digest, and they make some vitamins. They also take up space that harmful microbes would otherwise use.
 
-Your own enzymes are unable to break down most plant fibre. Your gut microbes ferment the fibre. As they do, they make small molecules that feed the cells of your gut wall. They also make vitamin K and some B vitamins. A person carries about as many bacteria as they have cells of their own. A gut with many kinds of microbes is usually a sign of good health. One large study looked at more than 10,000 people. Those who ate 30 or more kinds of plants in a week had more kinds of gut microbes. Those who ate fewer than 10 kinds had fewer. After an upset stomach or a course of antibiotics, the gut microbes take time to return to their usual numbers.
+Your own enzymes are unable to break down most plant fibre. Your gut microbes ferment the fibre. As they do, they make small molecules that feed the cells of your gut wall. They also make vitamin K and some B vitamins. A person carries about as many bacteria as they have cells of their own. A gut with many kinds of microbes is usually a sign of good health. One large study looked at more than 10,000 people. Those who ate 30 or more kinds of plants in a week had more kinds of gut microbes. Those who ate fewer than 10 kinds had fewer. After an upset stomach or a course of antibiotics, the gut microbes take time to return to their usual numbers. You can add more kinds of plants to your week in small ways. Soak whole moong or chana overnight, drain them, and keep them in a damp cloth. In a day or two the seeds sprout, and you have one more plant food for your salad or chaat. Sprouts grow in the same warm, wet place that microbes like, so rinse them well, and cook them lightly if they have sat for long. Curd or buttermilk with lunch is another easy change. Scientists are still testing what it does for the gut, as the next card shows.
 - e.g. A meal of rice, sambar and a vegetable poriyal can hold eight or more kinds of plants.
 - e.g. Babies are born with almost no gut microbes. They collect them from their mother, from milk and from the world around them.
 - e.g. Outside the body, soil bacteria and fungi do the same work on fallen leaves and peels. They turn them into food for plants.
+- e.g. A bowl of moong sprouts, grown in a damp cloth on the kitchen shelf, counts as one more kind of plant in the week.
 ### Do fermented foods and probiotics change your gut microbes? · *debated*
 **Definition:** Curd, buttermilk, kanji and other fermented foods hold living bacteria. Scientists agree these foods are safe and nourishing. They disagree about whether the bacteria in them settle in the gut and change a person's health.
 
@@ -613,7 +618,7 @@ Washed is not the same as dry.
   - Wait: Leave both cloths for one hour
 
 ## Worksheets
-### Why food spoils and how we keep it (core, 15 questions)
+### Why food spoils and how we keep it (core, 16 questions)
 1. (mcq) What makes food spoil?  
    Options: Air touching the food / Microbes growing in the food / The food simply getting old / The food being kept in the dark  
    **Answer:** Microbes growing in the food. *Why:* Bacteria, yeasts and moulds eat the food and multiply. Air alone does not spoil food, and food does not go bad just by being old: dry rice keeps for years.
@@ -648,7 +653,9 @@ Washed is not the same as dry.
 15. (mcq) A sealed tin of food has swollen ends. What should be done with the tin?  
    Options: Open it and smell the food / Boil the food and eat it / Throw it away unopened / Put it in the fridge  
    **Answer:** Throw it away unopened. *Why:* Gas from bacteria that grow without air has swollen the tin. They can make a deadly toxin that tasting or boiling at home will not make safe.
-### Amounts, hurdles and reasons (stretch, 15 questions)
+16. (order) Put the steps for growing moong sprouts at home in order.  
+   **Answer:** ['Soak the moong in water overnight', 'Drain the water from the moong', 'Keep the soaked moong in a damp cloth for a day or two', 'Rinse the sprouts well, and cook them lightly if they sat long']. *Why:* A seed needs water to wake up, then damp air to grow. The warm, wet cloth also suits microbes, so the last step keeps the sprouts safe.
+### Amounts, hurdles and reasons (stretch, 16 questions)
 1. (mcq) With no salt or a quarter teaspoon, dal water spoiled. With 2 teaspoons it kept. What does this show?  
    Options: Any amount of salt stops spoiling / Salt works only in large amounts / Salt makes food spoil faster / Salt has no effect on microbes  
    **Answer:** Salt works only in large amounts. *Why:* A small amount of salt made no difference, and a large amount stopped the spoiling. So salt preserves only above a certain strength.
@@ -683,7 +690,9 @@ Washed is not the same as dry.
    **Answer:** ['Minus 18 degrees (freezer): they stop growing but most stay alive', '4 degrees (fridge): they grow slowly', '30 degrees (kitchen): they multiply fast', '72 degrees (pasteurising): most are killed']. *Why:* Cold slows and then stops growth without killing. Kitchen warmth is where spoiling microbes grow fastest. Strong heat kills most of them.
 15. (fill) Water moving out of a microbe's cell into salty water is called ____.  
    **Answer:** ['osmosis']. *Why:* In osmosis, water passes through the cell's thin skin. The water moves towards the side with more salt or sugar dissolved.
-### Testing ideas about keeping food (challenge, 15 questions)
+16. (fill) A wet cloth round a mud pot keeps the water inside cool, because the water drying off the cloth takes ____ from the pot.  
+   **Answer:** heat. *Why:* When water dries into the air, it takes heat from what it leaves. This is evaporation. The pot loses heat, so it is cooler than the room.
+### Testing ideas about keeping food (challenge, 16 questions)
 1. (mcq) Cooked rice sat out all day and was then fried until very hot. Is the rice safe now?  
    Options: Yes, heat destroys everything harmful / Not always: some toxins survive heat / Yes, as long as it smells fine / Yes, rice never causes illness  
    **Answer:** Not always: some toxins survive heat. *Why:* Frying kills the bacteria, but some bacteria leave toxins in the rice that heat does not destroy. Smell is no guide, because this rice can smell normal.
@@ -718,6 +727,8 @@ Washed is not the same as dry.
    **Answer:** Any view with a reason from the unit. One reason is that dry foods have a strong hurdle and change slowly. Another is that wet foods can be unsafe with no sign.. *Why:* A strong answer says that the right choice depends on the kind of food and its hurdles. It uses one example of each.
 15. (draw) Draw a yeast cell in thin jaggery water and one in thick syrup. Show with arrows how water moves.  
    **Answer:** In thin jaggery water the cell is plump, and arrows show water moving in. In thick syrup the cell is shrunken, and arrows show water moving out of the cell into the syrup.. *Why:* A strong drawing shows the direction of the water and the change in the cell's size. It labels which side has more sugar.
+16. (write) A cold store costs a lot to run. Your village has none. Suggest one way to keep vegetables cooler, and say how it works.  
+   **Answer:** A mud pot with wet cloth or wet sand round it. Water dries off the cloth and takes heat with it, so the inside is cooler. Cooler food lets microbes grow more slowly.. *Why:* A strong answer names the wet cloth or wet sand, says that drying water takes heat away, and says that cold slows microbes. It may add that this works best in hot, dry weather.
 
 ## Videos
 - **Time - lapse of Mold Growing on Bread** (MooMooMath and Science, 3 min) id `YeuI30NQJwo`: To see mould threads spread across food, which takes too long to watch at home. *Check:* Id, title and channel confirmed through YouTube's public lookup. Not watched from here: a parent should preview it.
@@ -761,6 +772,18 @@ Washed is not the same as dry.
 12. (mcq) What are scientists still unsure of about curd and other fermented foods?  
    Options: Whether they hold living bacteria / Whether their bacteria settle in the gut / Whether they are safe to eat / Whether bacteria make them sour  
    **Answer:** Whether their bacteria settle in the gut. *Why:* Fermented foods are safe and do hold living bacteria. What is still being tested is whether those bacteria stay in the gut and change a person's health.
+13. (mcq) Where would a mud pot with a wet cloth round it keep water coolest?  
+   Options: In hot, dry air on a summer afternoon in Rajasthan / In damp air on the Kerala coast during the monsoon / Inside a closed steel cupboard  
+   **Answer:** In hot, dry air on a summer afternoon in Rajasthan. *Why:* The cloth cools the pot as water dries off it. In hot, dry air the water dries fast and takes away more heat. In damp air it dries slowly, and in a closed cupboard it hardly dries at all.
+14. (mcq) Farmers dig potatoes in February. How does a cold store help families eat them in August?  
+   Options: Cold slows the microbes that would rot the potatoes / Cold kills every microbe on the potatoes / Cold turns the potatoes into dry flour  
+   **Answer:** Cold slows the microbes that would rot the potatoes. *Why:* Cold slows microbes but does not kill them. The potatoes rot far more slowly, so they last for months. Once they come out into warm air, microbes speed up again.
+15. (mcq) Priya soaks moong overnight and keeps it in a damp cloth for two days. Why should she rinse the sprouts well?  
+   Options: The warm, wet cloth is also a good home for microbes / Sprouts are poisonous until they are rinsed / Rinsing makes the sprouts grow taller  
+   **Answer:** The warm, wet cloth is also a good home for microbes. *Why:* Warmth and water are what microbes need too. So a damp cloth that helps a seed sprout can also help harmful microbes grow. Rinsing, and light cooking, makes sprouts safer.
+16. (mcq) A family eats rice, dal and one vegetable every day. Which small change adds the most kinds of plants to their week?  
+   Options: Sprouting moong, and using a different vegetable each day / Eating the same vegetable, but twice as much / Drinking a probiotic drink instead of lunch  
+   **Answer:** Sprouting moong, and using a different vegetable each day. *Why:* The large study on gut microbes counted kinds of plants, not amounts. A new sprout and a new vegetable each day are new kinds. More of the same vegetable adds none, and a drink is not a plant meal.
 
 ## Applications
 - Long-life milk in cartons is heated to about 140 degrees Celsius for a few seconds and packed with no microbes. It keeps for months without a fridge until it is opened.

@@ -34,6 +34,18 @@
    "art": "A glass bottle, a notebook, a plastic bucket and a brick in a row."
   },
   {
+   "term": "Rayon",
+   "meaning": "A soft cloth made from wood pulp that is treated with chemicals and spun into thread.",
+   "example": "Many saris and shirts are made of rayon.",
+   "art": "A tree turning into a soft cloth draped over a sari."
+  },
+  {
+   "term": "Canvas",
+   "meaning": "A strong cloth woven from cotton or hemp threads.",
+   "example": "Tents and school bags are often made of canvas.",
+   "art": "A canvas school bag next to a bundle of cotton threads."
+  },
+  {
    "term": "Raw material",
    "meaning": "The natural material that something is made from.",
    "example": "Sand is the raw material for glass. Wood is a raw material for paper.",
@@ -96,7 +108,7 @@
    "status": "defined",
    "context": "This card explains what a made material is, and where its raw material comes from.",
    "definition": "A made material is a new material that people make by changing natural materials.",
-   "description": "People never start from nothing. Every made material begins as a natural raw material. Glass begins as sand. Paper begins as wood or other plant parts. Plastic begins as oil and gas from deep under the ground. Brick begins as clay. The raw material is changed by heating, mashing or mixing, and a new material comes out.",
+   "description": "People never start from nothing. Every made material begins as a natural raw material. Glass begins as sand. Paper begins as wood or other plant parts. Plastic begins as oil and gas from deep under the ground. Brick begins as clay. The raw material is changed by heating, mashing or mixing, and a new material comes out. Some cloth is made this way too. Canvas is a strong cloth woven from cotton or hemp threads. Rayon is a soft cloth made from wood pulp that is treated with chemicals and spun into thread.",
    "examples": [
     "Sand becomes glass.",
     "Wood, bamboo or sugarcane waste becomes paper.",
@@ -1550,6 +1562,14 @@
      "why": "Sand is the raw material for glass. Wood is a raw material for paper."
     },
     {
+     "t": "fill",
+     "p": "Rayon is a soft cloth made from wood ____, which is treated and spun into thread.",
+     "a": [
+      "pulp"
+     ],
+     "why": "Rayon starts as wood pulp, a natural plant material. People change it into a new cloth, so rayon is a made material."
+    },
+    {
      "t": "truefalse",
      "p": "A cooking fire on a beach is hot enough to melt sand into glass.",
      "a": false,
@@ -1749,6 +1769,18 @@
    "why": "A good scientist says what the test showed, even when it is different from the guess.",
    "outcome": 5,
    "how": "e1"
+  },
+  {
+   "t": "mcq",
+   "p": "Rayon, a soft cloth used for saris and shirts, is made from which natural material?",
+   "opts": [
+    "Wood pulp",
+    "Sheep's wool",
+    "Oil"
+   ],
+   "a": 0,
+   "why": "Rayon is made from wood pulp that is treated with chemicals and spun into thread. Oil makes plastic fibres, not rayon. Wool is spun from a sheep's fleece, not made into rayon.",
+   "outcome": 1
   }
  ],
  "applications": [

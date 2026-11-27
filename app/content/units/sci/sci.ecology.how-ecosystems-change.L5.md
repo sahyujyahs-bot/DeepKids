@@ -38,7 +38,7 @@
 ### Disturbance: places get cleared all the time · *defined*
 **Definition:** A disturbance is an event that kills or removes many living beings from a place in a short time.
 
-Forests, grasslands, rivers and reefs are disturbed again and again. A big tree falls and takes the neighbours down. A cyclone flattens a mangrove. A river in flood scrapes its banks. A fire runs through dry grass. People add more: they cut, burn, plough, mine and build. Disturbances differ in three ways. They differ in size, from one fallen tree to a whole island. They differ in how often they come. And they differ in what they leave behind. A fire may leave the soil with its seeds and roots. A lava flow leaves nothing living at all. What is left behind decides how recovery starts, as your roasted soil shows in The Soil Remembers. A disturbance is not always harm. The gap left by a fallen tree is the only place where many seedlings get enough light to grow.
+Forests, grasslands, rivers and reefs are disturbed again and again. A big tree falls and takes the neighbours down. A cyclone flattens a mangrove. A river in flood scrapes its banks. A fire runs through dry grass. People add more: they cut, burn, plough, mine and build. Disturbances differ in three ways. They differ in size, from one fallen tree to a whole island. They differ in how often they come. And they differ in what they leave behind. A fire may leave the soil with its seeds and roots. A lava flow leaves nothing living at all. What is left behind decides how recovery starts, as your roasted soil shows in The Soil Remembers. A disturbance is not always harm. The gap left by a fallen tree is the only place where many seedlings get enough light to grow. Cutting a forest is one of the biggest of these. It destroys the homes of many living beings. Trees also give water back to the air through their leaves, so a cut hillside gets less rain. With less rain and less forest to hold the soil, floods and droughts become more likely. The carbon the trees held can also go into the air as carbon dioxide.
 - e.g. In a rainforest in the Western Ghats, one giant tree falling can open a gap as wide as a house plot.
 - e.g. On 18 May 1980 the volcano Mount St Helens in the United States blew out sideways and flattened forest for many kilometres.
 - e.g. A village tank that dries out fully in a drought year is a disturbance for the fish and the water plants.
@@ -563,7 +563,7 @@ She counted the ones in rows and the ones not in rows, and the ones not in rows 
   - Check: Two plans have the same number of forest squares. In one they are joined, in the other scattered. Which suits forest animals better? → **The joined one**
 
 ## Worksheets
-### How places change and recover (core) (core, 15 questions)
+### How places change and recover (core) (core, 16 questions)
 1. (mcq) What is a disturbance?  
    Options: A noisy animal / An event that removes many living beings quickly / Any change in the weather / A new kind of plant  
    **Answer:** An event that removes many living beings quickly. *Why:* A disturbance clears living beings from a place quickly: a storm, a fire, a flood, a bulldozer. Choosing 'a noisy animal' uses the everyday meaning of the word.
@@ -599,6 +599,8 @@ She counted the ones in rows and the ones not in rows, and the ones not in rows 
 15. (mcq) What should a restorer ask first about a damaged place?  
    Options: How many trees can I plant? / What is stopping this place from recovering? / Which plants look prettiest? / How can I make it tidy?  
    **Answer:** What is stopping this place from recovering?. *Why:* Most places regrow by themselves once the block is gone. Choosing 'how many trees can I plant' assumes the problem is always a lack of trees.
+16. (fill) When a forest is cut, the land gets less ____, and floods and droughts become more likely.  
+   **Answer:** ['rain']. *Why:* Trees give water back to the air through their leaves. With the trees gone, less water returns to the air, so less rain falls on the land.
 ### Patches, wolves and wetlands (stretch) (stretch, 15 questions)
 1. (count) A Patchwork Test round has 6 bare, 5 grass and 4 young patches. How many of the 36 are old?  
    **Answer:** 21. *Why:* Add the three: 6 + 5 + 4 = 15. Then 36 − 15 = 21 old patches.
@@ -680,33 +682,36 @@ She counted the ones in rows and the ones not in rows, and the ones not in rows 
 1. (mcq) Which of these is a disturbance?  
    Options: A tree growing a new leaf / A bird building a nest / A cyclone felling trees / Rain on a pond  
    **Answer:** A cyclone felling trees. *Why:* A cyclone removes many living beings in a short time. The others are slow, everyday events.
-2. (mcq) Why do lichens and mosses come before trees on bare rock?  
+2. (mcq) People cut a whole hillside of forest. Which result is most likely?  
+   Options: The forest is back within a season / More rain falls, because the land is open / Less rain can fall, and floods and droughts become more likely / Nothing changes for the living beings, because only trees are cut  
+   **Answer:** Less rain can fall, and floods and droughts become more likely. *Why:* Trees give water back to the air through their leaves, so a cut forest gives back less, and forests take many years to grow back. Choosing 'back within a season' ignores how slowly forests grow. Choosing 'more rain' gets the water cycle the wrong way round.
+3. (mcq) Why do lichens and mosses come before trees on bare rock?  
    Options: They are older kinds of life / They can live without soil / Trees dislike rock / Birds plant them first  
    **Answer:** They can live without soil. *Why:* They need no soil, and they help to make the first soil. Choosing 'they are older kinds of life' explains nothing about this rock.
-3. (mcq) A landslide and a lava flow each clear a slope. Which regrows faster, and why?  
+4. (mcq) A landslide and a lava flow each clear a slope. Which regrows faster, and why?  
    Options: The landslide: some soil and seeds remain / The lava: it is warmer / Both the same / Neither will regrow  
    **Answer:** The landslide: some soil and seeds remain. *Why:* A landslide scar keeps some soil and lies next to living forest. Lava leaves no soil and no seeds, so succession there is primary and slow.
-4. (mcq) You plant nothing in a pot of soil from under weeds, and water it. What is most likely to happen?  
+5. (mcq) You plant nothing in a pot of soil from under weeds, and water it. What is most likely to happen?  
    Options: Nothing grows / Only moss grows / Seedlings come up from seeds in the soil / The soil turns to rock  
    **Answer:** Seedlings come up from seeds in the soil. *Why:* The soil holds a seed bank, so seedlings appear within a week or two. Choosing 'nothing' forgets the seeds you cannot see.
-5. (mcq) Storms hit a large forest at a steady rate for centuries. What is the forest like?  
+6. (mcq) Storms hit a large forest at a steady rate for centuries. What is the forest like?  
    Options: All bare / All young / All old / A steady mix of patches of all ages  
    **Answer:** A steady mix of patches of all ages. *Why:* Patches are cleared and regrow all the time, so the forest holds every age at once, in a steady mix.
-6. (truefalse) True or false: in a steady forest, each single patch stays the same.  
+7. (truefalse) True or false: in a steady forest, each single patch stays the same.  
    **Answer:** False. *Why:* False. Each patch keeps changing. Only the mix of young and old across the whole landscape stays about the same.
-7. (mcq) Which statement about the wolves of Yellowstone is well shown by counting?  
+8. (mcq) Which statement about the wolves of Yellowstone is well shown by counting?  
    Options: Wolves changed the course of rivers / Elk numbers fell after wolves returned / Wolves alone made the elk fall / All willows have recovered  
    **Answer:** Elk numbers fell after wolves returned. *Why:* Wolves and elk are counted every year, and elk fell by more than half. The other three go beyond the evidence.
-8. (mcq) A missing predator is brought back, but the streams do not recover. What is the most likely reason?  
+9. (mcq) A missing predator is brought back, but the streams do not recover. What is the most likely reason?  
    Options: Predators do not matter / Not enough time, and nothing else / Later changes now keep the damage going / The plants forgot how to grow  
    **Answer:** Later changes now keep the damage going. *Why:* After the predator was lost, later changes took hold, such as deep-cut streams and sunken ground water. Those now hold the place in its new state.
-9. (mcq) Mangroves are dying where sea water stands still on sunken ground. What is the best plan?  
+10. (mcq) Mangroves are dying where sea water stands still on sunken ground. What is the best plan?  
    Options: Dig channels so the tide flows in and out / Plant more seedlings each year / Add fresh soil on top / Build a wall against the sea  
    **Answer:** Dig channels so the tide flows in and out. *Why:* The block is standing salty water. Channels bring back the tide's flow. This is what worked at Pichavaram.
-10. (mcq) A city fills in its marshes and builds on them. What is the likely result in heavy rain?  
+11. (mcq) A city fills in its marshes and builds on them. What is the likely result in heavy rain?  
    Options: Less flooding / Faster, worse flooding / No change / Less rain  
    **Answer:** Faster, worse flooding. *Why:* The marsh no longer soaks up the rush of water, so it reaches the streets quickly and in one burst.
-11. (mcq) A dry grassland with blackbuck is marked 'wasteland'. What would restore it?  
+12. (mcq) A dry grassland with blackbuck is marked 'wasteland'. What would restore it?  
    Options: Planting trees in rows / Flooding it to make a lake / Covering it with lawn grass / Protecting it as grassland  
    **Answer:** Protecting it as grassland. *Why:* An open grassland is a natural ecosystem. It needs protection from ploughing, building and tree planting, not a forest on top of it.
 

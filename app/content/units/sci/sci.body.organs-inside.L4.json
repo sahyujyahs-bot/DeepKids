@@ -138,7 +138,7 @@
    "concept": "The heart has its own pacemaker",
    "status": "defined",
    "definition": "A small patch of special cells at the top of the heart, called the pacemaker or the sinoatrial node, starts each heartbeat by itself.",
-   "description": "Your heart does not wait for a message from the brain to beat. Special cells in the pacemaker make a tiny electrical signal again and again. The signal spreads over the heart muscle, and the heart squeezes. A frog's heart taken out of the body and kept in the right salty water goes on beating for hours. A transplanted human heart has its nerves cut, and it still beats. Left alone, a human pacemaker fires at about 100 to 115 times a minute. That is faster than the resting pulse of most people, so something must be slowing the heart down at rest.",
+   "description": "Your heart does not wait for a message from the brain to beat. Special cells in the pacemaker make a tiny electrical signal again and again. The signal spreads over the heart muscle, and the heart squeezes. A frog's heart taken out of the body and kept in the right salty water goes on beating for hours. A transplanted human heart has its nerves cut, and it still beats. Left alone, a human pacemaker fires at about 100 to 115 times a minute. That is faster than the resting pulse of most people, so something must be slowing the heart down at rest. The heart is about the size of your fist.",
    "examples": [
     "A frog's heart in salty water keeps beating on a laboratory dish.",
     "After a heart transplant, the new heart beats with its nerves cut, usually at about 90 to 110 beats a minute at rest.",
@@ -1866,6 +1866,14 @@
      "a": true,
      "why": "True. The pacemaker cells start each beat themselves, so a heart still beats when its nerves are cut. It beats faster at rest than a normal heart, because the nerve brake is missing.",
      "outcome": 2
+    },
+    {
+     "t": "fill",
+     "p": "Your heart is about the size of your ____.",
+     "a": [
+      "fist"
+     ],
+     "why": "A closed fist is about the size of a heart. Make a fist, hold it on your chest, and feel how little room the heart takes up for its big job."
     }
    ]
   },
@@ -2422,6 +2430,19 @@
    "a": 2,
    "why": "Pupils, shivering and goosebumps are automatic. Waving is a decision that begins in the thinking part of the brain.",
    "outcome": 5
+  },
+  {
+   "t": "mcq",
+   "p": "A heart is about the size of which of these?",
+   "opts": [
+    "Your closed fist",
+    "Your head",
+    "Your foot",
+    "Your whole chest"
+   ],
+   "a": 0,
+   "why": "A heart is about the size of a closed fist. It is small for the big job it does, pushing blood round the whole body with every beat.",
+   "outcome": 2
   }
  ],
  "maths": [

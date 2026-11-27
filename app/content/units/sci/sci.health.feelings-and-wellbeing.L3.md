@@ -66,7 +66,7 @@ Body and feelings affect each other. After a bad night's sleep, small things fee
 ### Kindness, respect and friendship · *defined*
 **Definition:** Kindness is doing good for someone because you care how they feel. Respect is treating other people's bodies, feelings and choices as important. Friendship is a bond of liking, trust and care between people.
 
-Scientists have found that very young children help others without being asked. In one study, toddlers of 18 months picked up a clothes peg a grown-up had dropped and handed it back, with no reward. In another study, children under two looked happier when they gave a treat to a puppet than when they got a treat themselves. Grown-ups who spent a little money on others also said they felt happier than those who spent it on themselves. Respect means asking before touching someone, listening when they say no, and not laughing at feelings that are different from yours.
+Scientists have found that very young children help others without being asked. In one study, toddlers of 18 months picked up a clothes peg a grown-up had dropped and handed it back, with no reward. In another study, children under two looked happier when they gave a treat to a puppet than when they got a treat themselves. Grown-ups who spent a little money on others also said they felt happier than those who spent it on themselves. Respect means asking before touching someone, listening when they say no, and not laughing at feelings that are different from yours. Respect also means seeing a person who is physically or mentally challenged as a whole person. A child who uses a wheelchair, or who learns and thinks in a different way, has feelings and choices that count as much as anyone's.
 - e.g. Helping a neighbour carry vegetables up the stairs.
 - e.g. Asking before you borrow your sister's crayons.
 - e.g. Two friends agree to take turns picking the game.
@@ -496,7 +496,7 @@ That night, Nila wrote in her notebook: 'A face detective looks for clues. A goo
    **Answer:** True. *Why:* True. Every person has tear glands, and crying often brings comfort and help from others.
 15. (fill) When a yawn spreads from one person to another, we say yawns are ____.  
    **Answer:** ['contagious']. *Why:* Contagious means spreading from one person to another. Laughs and smiles can be contagious too.
-### Body and Feelings (stretch) (stretch, 15 questions)
+### Body and Feelings (stretch) (stretch, 16 questions)
 1. (perspective) A grandmother and her granddaughter disagree about anger.  
    **Answer:** A strong answer picks a side with a reason, for example that naming a feeling often helps it settle, or that shouting in anger can hurt people. It also says what the other side has right: the grandmother is right that anger can hurt others, and the granddaughter is right that a hidden feeling is still there.. *Why:* Both have a point. Naming a feeling calmly is usually better than hiding it or exploding with it.
 2. (write) In the Catch a Yawn test, a girl yawned more while watching her father yawn than while watching him smile. Her brother says, 'She was just tired.' How could she test whether he is right?  
@@ -518,17 +518,19 @@ That night, Nila wrote in her notebook: 'A face detective looks for clues. A goo
    **Answer:** order shown. *Why:* First make the photos, then choose them, then test many people, then look at the results. Darwin did a test like this in 1868.
 10. (sort) Sort these into kind and not kind.  
    **Answer:** sharing an umbrella at the bus stop → Kind; copying a friend's homework for her → Not kind; teaching a new girl a few Tamil words → Kind; laughing at someone's lunch → Not kind; asking a crying child what happened → Kind; telling a secret your friend asked you to keep → Not kind. *Why:* Kindness means doing real good for someone because you care how they feel. Copying homework for someone seems helpful, but it stops her learning.
-11. (write) Why do you think fear makes your heart beat faster? How could that help an animal in danger?  
+11. (write) Your new neighbour cannot see well, and walks with a white stick. Write two things you could do that show respect. Then write one thing that would not.  
+   **Answer:** Two respectful things: ask if she would like help, and wait for her answer. Talk to her directly, not only to the person with her. Not respectful: grabbing her arm without asking, or talking about her as if she is not there.. *Why:* A strong answer asks first, speaks to the person directly, and treats her choices as important.
+12. (write) Why do you think fear makes your heart beat faster? How could that help an animal in danger?  
    **Answer:** A faster heart pumps more blood and oxygen to the muscles, so the body is ready to run away or fight. A deer that hears a tiger can run faster.. *Why:* The body gets ready to act before the mind has finished thinking.
-12. (write) A classmate sits alone and looks sad. Write one thing you could say first, and one kind thing you could offer to do.  
+13. (write) A classmate sits alone and looks sad. Write one thing you could say first, and one kind thing you could offer to do.  
    **Answer:** A strong answer starts with a question such as 'Are you all right?' and offers something real, such as sitting together or listening.. *Why:* Asking first checks the guess. Then the kind act fits what the classmate really needs.
-13. (mcq) In the Face Test, why must the same person make every face in all three rounds?  
+14. (mcq) In the Face Test, why must the same person make every face in all three rounds?  
    Options: So the guesser gets tired / So only the hidden part of the face changes, and nothing else / So the faces look the same / So the guesser can guess the order  
    **Answer:** So only the hidden part of the face changes, and nothing else. *Why:* A fair test changes one thing at a time. If a different person made the faces, you would not know if the hidden part or the person made the difference.
-14. (mcq) Rats make squeaks too high for us to hear when they are tickled, and they come back to the hand for more. What does this suggest?  
+15. (mcq) Rats make squeaks too high for us to hear when they are tickled, and they come back to the hand for more. What does this suggest?  
    Options: Rats can feel something like joy / Rats are afraid of hands / Rats notice nothing at all / Rats are hungry  
    **Answer:** Rats can feel something like joy. *Why:* Coming back for more tickling suggests the rats enjoy it. Cautious scientists add that we cannot ask a rat what it feels like.
-15. (truefalse) A polite smile is always easy to spot, because it never crinkles the eyes.  
+16. (truefalse) A polite smile is always easy to spot, because it never crinkles the eyes.  
    **Answer:** False. *Why:* False. Many people can crinkle their eyes on purpose, so even the eyes give a clue, not a proof.
 ### Thinking Like a Scientist About Feelings (challenge) (challenge, 15 questions)
 1. (write) Darwin showed Duchenne's photographs of faces to visitors at his home. The visitors agreed on some faces but argued about others. Why might people disagree about what a face shows?  
@@ -602,6 +604,9 @@ That night, Nila wrote in her notebook: 'A face detective looks for clues. A goo
 11. (mcq) In the Face Test, which feeling is usually easiest to read from the mouth alone?  
    Options: Scared / Happy / Surprised / Angry  
    **Answer:** Happy. *Why:* A happy mouth turns up, which is very easy to see. Scared, surprised and angry show more in the eyes and eyebrows.
+12. (mcq) Your classmate uses a wheelchair. Which one shows respect?  
+   Options: Ask what help she wants, and wait for her answer / Push her chair without asking, so she gets there faster / Make a joke about how she moves  
+   **Answer:** Ask what help she wants, and wait for her answer. *Why:* Respect means asking first and listening to her choice. Pushing her chair without asking takes away her choice, and a joke about how she moves hurts her feelings.
 
 ## Applications
 - Doctors and nurses use a chart of cartoon faces, from smiling to crying, so that young children can show how much something hurts.

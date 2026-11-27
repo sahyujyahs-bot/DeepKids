@@ -91,7 +91,7 @@ When a moving cycle stops, its movement energy has not disappeared. The brakes a
 **Definition:** The Sun sends out about 380 trillion trillion watts. At noon on a clear day, about 1,000 watts of its light reaches each square metre of the ground.
 
 A patch of sunny floor one metre by one metre receives about as much power as a 1,000 watt heater. The Sun still feels gentler than a heater, because the Sun's power is spread over the whole floor, and the air carries some of the heat away. In one hour, the sunlight that reaches the Earth carries roughly as much energy as all the people on Earth use in a whole year. Food, wind, rain, firewood, coal and petrol all hold energy that came from sunlight, either lately or long ago. We count their energy in joules, so we can compare them with the Sun's light using the same unit.
-- e.g. A solar panel of one square metre may give about 150 to 200 watts of electricity at noon.
+- e.g. A solar panel of one square metre may give about 150 to 200 watts of electricity at noon. In a village with no grid, a few panels on a roof can fill a battery in the day. The battery then runs a fan and bulbs after dark.
 - e.g. Wind is moving air that the Sun warmed unevenly.
 - e.g. Coal and petrol hold energy that came from sunlight, through plants and sea creatures that lived millions of years ago.
 ### What is energy, really? · *idea*
@@ -516,7 +516,7 @@ Mr. Pillai looked at it for a long time. 'Tomorrow,' he said, 'you will come to 
 16. (mcq) Why does the meter light blink faster when you switch on a geyser?  
    Options: The geyser takes more joules every second, so the meter counts more blinks every second / The geyser uses up the energy, so the meter has to hurry / The geyser makes the electricity hotter  
    **Answer:** The geyser takes more joules every second, so the meter counts more blinks every second. *Why:* Each blink counts the same fixed amount of energy. A geyser takes energy at a high rate in watts, so blinks come more often.
-### Amount and Rate (stretch) (stretch, 16 questions)
+### Amount and Rate (stretch) (stretch, 17 questions)
 1. (order) Put these steps in order for finding the watts of a stair climb.  
    **Answer:** ['Measure the steps and your mass', 'Work out the joules of the climb', 'Time the climb with a stopwatch', 'Divide the joules by the seconds']. *Why:* You need the joules of the climb first, then the seconds it took. Dividing the joules by the seconds gives the watts.
 2. (mcq) Two children have the same mass and climb the same stairs. The first child takes 20 seconds and the second child takes 10 seconds. Which is true?  
@@ -552,6 +552,8 @@ Mr. Pillai looked at it for a long time. 'Tomorrow,' he said, 'you will come to 
    **Answer:** Two bars, with the fast bar three times as tall as the slow bar.. *Why:* 102 divided by 34 is 3. The fast bar is three times as tall.
 16. (write) Joule dropped a weight to turn a paddle in water, and the water warmed. Why did this show that heat is not a fluid that can only flow from place to place?  
    **Answer:** The movement of the weight turned into heat. A fluid that only flows could not be made out of movement. So heat can be made, and it is a form of energy.. *Why:* A strong answer says heat was made from movement, which a fluid that only flows could not be.
+17. (write) A village has no grid. Its roof panel charges a battery in the day, and a fan runs at night. Name each change of energy, from the Sun to the moving fan.  
+   **Answer:** Sunlight becomes electricity in the panel. The electricity is stored in the battery as stored energy. The battery's electricity drives the fan, where it becomes movement, and some of it spreads out as warmth.. *Why:* A full answer names each change in order, and notices that some energy spreads out as warmth at the end.
 ### The Energy Accountant (challenge) (challenge, 16 questions)
 1. (count) An appliance has a rating plate that says 230 volts and 2 amps. Watts are volts times amps. How many watts is it?  
    **Answer:** 460. *Why:* 230 times 2 is 460 watts. Volts times amps gives watts.
@@ -629,6 +631,9 @@ Mr. Pillai looked at it for a long time. 'Tomorrow,' he said, 'you will come to 
    **Answer:** About 1,000 watts. *Why:* About 1,000 watts, which is like a 1,000 watt heater on every square metre. The Sun is very powerful, and the light is spread over a huge area.
 12. (truefalse) A bigger watt rating always means a bigger electricity bill.  
    **Answer:** False. *Why:* False. The bill depends on watts times hours. A small appliance on for a long time can cost more than a big one used briefly.
+13. (mcq) In a village, a solar panel fills a battery in the day, and the bulb lights at night. What happens to the energy?  
+   Options: The battery makes new energy each night / Electricity is made from nothing at the panel / Sunlight changes into electricity, then into light / The bulb makes light with no energy used  
+   **Answer:** Sunlight changes into electricity, then into light. *Why:* Energy is never made or destroyed. In the panel, sunlight becomes electricity. The battery holds it, and the bulb turns it into light and some warmth. Choosing 'the battery makes new energy' breaks the rule that energy is never made.
 
 ## Applications
 - Reading the rating plate and the meter to find out which appliances use the most electricity.

@@ -25,6 +25,7 @@
 - **Flexibility**: How far your body can bend and stretch without pain. *e.g.* Sitting on the floor with straight legs and touching your toes takes flexibility.
 - **Yoga**: An old Indian practice of body poses, slow breathing and paying attention. A yoga pose is called an asana. *e.g.* Standing on one leg in tree pose, called vrikshasana, is yoga.
 - **Pranayama**: The breathing part of yoga. You breathe in and out slowly, in a set way. *e.g.* Breathing in for a count of four and out for a count of six is a simple pranayama.
+- **Posture**: Posture is the way you hold your body when you sit, stand or walk. *e.g.* Sitting tall at your desk with your back straight is good posture.
 - **Sleep cycle**: During a night, sleep goes round in cycles. Each cycle has light sleep, deep sleep and dreaming sleep, and lasts about one and a half hours in older children and adults. *e.g.* In ten hours of sleep, you go round the cycle about six or seven times.
 - **Dreaming sleep (REM sleep)**: The part of sleep when most vivid dreams happen. The eyes dart about under the closed eyelids. REM stands for rapid eye movement. *e.g.* If you wake from dreaming sleep, you can often remember a dream.
 - **Spinal disc**: A soft, springy pad between two bones of your backbone. It holds water like a sponge. *e.g.* The discs in your back get slightly squashed during the day and fill up again at night, while you lie down.
@@ -50,6 +51,11 @@ A muscle that works hard often grows a little bigger and stronger. A heart that 
 - e.g. Climbing the stairs of your building every day builds stamina and strength.
 - e.g. A child who skips every day for a month can usually skip for longer without stopping than at the start.
 - e.g. Astronauts on the International Space Station run on a treadmill strapped down with belts, so their bones keep getting jolts.
+### Staying active, in body and mind · *idea*
+Exercise is good for your mind as well as your body. After a game of kho-kho, most people feel happier and think more clearly, and they sleep better that night. You do not have to run to stay active. A grandfather whose knees ache can still walk slowly in the park each morning, as many elders do. If walking is hard for a while, he can play chess or carrom with friends, which keeps his mind busy and gives him company. A doctor can say which movements are safe for a person in pain. The idea is the same at any age: keep the body moving in the ways it can, and keep the mind busy.
+- e.g. A grandmother walks to the temple and back every morning. She feels cheerful and sleeps well.
+- e.g. A grandfather with sore knees plays chess on the verandah with his neighbour each evening.
+- e.g. A girl who skips for ten minutes before homework finds it easier to focus.
 ### Yoga · *defined*
 **Definition:** Yoga is an old Indian practice. It has three main parts: poses called asanas, slow breathing called pranayama, and paying close attention to the body and the mind.
 
@@ -57,6 +63,19 @@ The Yoga Sutras of Patanjali is an old book about yoga. It was written in Sanskr
 - e.g. Tree pose, vrikshasana, trains balance.
 - e.g. Cobra pose, bhujangasana, bends the back gently backwards.
 - e.g. Child's pose, balasana, is a resting pose with the forehead on the floor.
+### Yoga and posture · *defined*
+**Definition:** Posture is the way you hold your body when you sit, stand or walk.
+
+Think of a child bent over a desk for an hour. Her shoulders round forward and her back aches. Yoga poses like mountain pose and cobra pose make the back and shoulder muscles stronger. Stronger muscles make it easier to sit and stand tall, so good posture gets less tiring.
+- e.g. Mountain pose, tadasana, is standing tall with the body in one straight line.
+- e.g. Cobra pose lifts the chest and uses the muscles along the back.
+### Deep breathing · *defined*
+**Definition:** Deep breathing is breathing in slowly so the belly rises, and out even more slowly.
+
+Pranayama is yoga's breathing practice, and deep breathing is the simplest kind. Sit tall and put a hand on your belly. Breathe in slowly through the nose until your belly pushes your hand out. Then breathe out slowly. A few slow breaths like this usually slow your heartbeat a little and help you feel calmer. That is why people try it before a test or a performance, or when they feel upset. It is not a cure for illness. It is one way to help your body settle, and you can do it anywhere, for free.
+- e.g. Before a school race, a girl takes five slow breaths and feels her fast heartbeat slow down.
+- e.g. At bedtime, a boy breathes in for a count of four and out for six, and his body feels ready to rest.
+- e.g. The bee breath, bhramari, is a deep breath out with a hum.
 ### What happens while you sleep · *defined*
 **Definition:** Sleep is a long, regular rest in which you lie still and your senses notice much less. Every night it goes round in cycles of light sleep, deep sleep and dreaming sleep.
 
@@ -520,7 +539,7 @@ That night, Lakshmi went to bed at nine o'clock without being asked. Amma was so
   - Think: Why do you think bright light at night makes it harder to fall asleep?
 
 ## Worksheets
-### Tired, Rested, Strong (core) (core, 15 questions)
+### Tired, Rested, Strong (core) (core, 16 questions)
 1. (mcq) When does a muscle get tired fastest?  
    Options: When it works hard without any rest / When it works a little and then rests / When it is asleep  
    **Answer:** When it works hard without any rest. *Why:* Working hard without rest uses up the muscle's quick fuel faster than blood can help refill it.
@@ -556,7 +575,9 @@ That night, Lakshmi went to bed at nine o'clock without being asked. Amma was so
    **Answer:** It releases growth hormone in deep sleep, which helps me grow and repair. My brain dreams and sorts what I learned. The discs in my back fill up with water.. *Why:* Any two true things are right. They show that sleep is a busy time, not a time of doing nothing.
 15. (draw) Draw yourself in tree pose. Mark the leg muscles that are working hardest.  
    **Answer:** A child standing on one leg, with the standing leg's calf, thigh and ankle marked.. *Why:* The standing leg does all the work, making tiny corrections to keep you balanced.
-### Blood, Breath and Balance (stretch) (stretch, 15 questions)
+16. (order) Put the steps of one deep breath in order.  
+   **Answer:** ['Sit tall and put a hand on your belly', 'Breathe in slowly through your nose', 'Feel your belly push your hand out', 'Breathe out slowly']. *Why:* First sit tall, then breathe in slowly so the belly rises, then breathe out slowly.
+### Blood, Breath and Balance (stretch) (stretch, 16 questions)
 1. (mcq) You squeeze a peg for one minute with your arm up, and later with your arm down. Which way do your fingers usually tire faster?  
    Options: Arm up / Arm down / Both exactly the same  
    **Answer:** Arm up. *Why:* With the arm up, blood has to be pumped uphill, so less reaches the hand. Less oxygen arrives to help the muscle refill.
@@ -592,7 +613,9 @@ That night, Lakshmi went to bed at nine o'clock without being asked. Amma was so
    **Answer:** Five bars, falling from 50 to 33, then a tall bar of 46 for the round after rest.. *Why:* The chart shows the falling counts without rest and the jump back after rest.
 15. (label) Label the parts of a night's sleep on the circle: light sleep, deep sleep, dreaming sleep.  
    **Answer:** Light sleep first, then deep sleep, then dreaming sleep, before the cycle begins again.. *Why:* A night is made of several of these cycles.
-### The Busy Rest (challenge) (challenge, 15 questions)
+16. (write) Say it out loud, and a grown-up writes it: your grandmother says, 'I cannot run, so I cannot exercise.' What can you tell her?  
+   **Answer:** She can walk slowly or do gentle yoga, and play chess or carrom to keep her mind busy. Being active helps the body and the mind.. *Why:* A strong answer says exercise is not only running, and gives one way for the body and one way for the mind.
+### The Busy Rest (challenge) (challenge, 16 questions)
 1. (mcq) A cricket fast bowler bowls six balls in an over, then fields for a few minutes before the next over. Why does the rest between overs help?  
    Options: It gives the blood time to help refill the leg and arm muscles / It lets the ball cool down / It has nothing to do with the bowler's muscles  
    **Answer:** It gives the blood time to help refill the leg and arm muscles. *Why:* Short rests let working muscles refill their quick fuel and clear waste, so the next over can be fast again.
@@ -628,6 +651,8 @@ That night, Lakshmi went to bed at nine o'clock without being asked. Amma was so
    **Answer:** A strong answer picks a side and uses evidence: tired muscles make mistakes, as the peg test showed, and sleep after practice helps people remember a new skill. It also gives the other side its due: practice is needed too, because there is nothing for sleep to store without it.. *Why:* Practice and sleep both matter. The best answers explain how they work together.
 15. (draw) Draw a 24-hour circle for a healthy day for a child of 8. Show sleep, school or study, play and exercise, and meals.  
    **Answer:** A circle of 24 slices with 9 to 10 slices for sleep, about 6 for school or study, at least 1 for active play, and slices for meals.. *Why:* A child needs 9 to 12 hours of sleep and at least one hour of active play a day.
+16. (fill) Yoga can help your ______, which is the way you hold your body when you sit and stand. It does this by making your back and shoulder ______ stronger.  
+   **Answer:** ['posture', 'muscles']. *Why:* Posture is how you hold your body. Strong back and shoulder muscles make it easier to sit and stand tall.
 
 ## Videos
 - **What makes muscles grow? - Jeffrey Siegel** (TED-Ed, 5 min) id `2tM1LFFxeKg`: A short cartoon of what happens inside a muscle when it works hard, and why rest and sleep matter for it to grow stronger. *Check:* Id, title and channel confirmed through YouTube's public oEmbed lookup. Not watched from here: a parent should preview it and check its length.
@@ -671,6 +696,15 @@ That night, Lakshmi went to bed at nine o'clock without being asked. Amma was so
 12. (mcq) You have a test tomorrow. Which plan will help your body and brain most?  
    Options: Study late until midnight, then wake up at 6 / Study, play outside, and go to bed on time for 10 hours of sleep / Skip dinner and study all evening  
    **Answer:** Study, play outside, and go to bed on time for 10 hours of sleep. *Why:* Sleep helps the brain store what was learned, and play gives the body exercise. Studying until midnight leaves only 6 hours of sleep, far less than a child needs.
+13. (mcq) You feel nervous before a race, and your heart is beating fast. What can a few slow, deep breaths do?  
+   Options: Usually help your body calm down and slow the heartbeat a little / Make your muscles bigger straight away / Take the place of a night's sleep  
+   **Answer:** Usually help your body calm down and slow the heartbeat a little. *Why:* Slow deep breathing usually helps the body settle and feel calmer. It does not build muscle in a minute, and nothing replaces sleep.
+14. (mcq) Meera slouches over her desk. How can yoga help her?  
+   Options: Poses like cobra make her back and shoulder muscles stronger, so she can sit tall / Yoga makes her backbone longer / Yoga means she never has to sit at a desk  
+   **Answer:** Poses like cobra make her back and shoulder muscles stronger, so she can sit tall. *Why:* Posture is how you hold your body. Stronger back and shoulder muscles make a tall seat easier. Yoga does not stretch the bones or remove the desk.
+15. (mcq) Dadaji's knees ache, so he cannot run. What can he still do to stay active in body and mind?  
+   Options: Walk slowly in the park and play chess with a friend / Stay in bed all day until the pain is gone / Nothing, because only running counts as exercise  
+   **Answer:** Walk slowly in the park and play chess with a friend. *Why:* Gentle walking keeps the body moving, and chess keeps the mind busy. Running is not the only exercise. A doctor can say what is safe for a person in pain.
 
 ## Applications
 - Sports coaches plan rest between hard sets, so players recover and train better.

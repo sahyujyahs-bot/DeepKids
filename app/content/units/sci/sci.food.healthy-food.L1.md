@@ -27,6 +27,7 @@ Your body is always busy. It grows taller, mends a scraped knee and lets you run
 - e.g. A plate of rice, sambar, a vegetable and curd gives many kinds of food at once.
 - e.g. A scraped knee heals in about a week, and your body uses food to build the new skin.
 - e.g. Kamala Sohonie, a scientist from India, found vitamins in neera, the sweet sap of palm trees. She said it could be a cheap, healthy drink for children who did not get enough food.
+- e.g. A child in Kerala may eat rice and fish curry, and a child in Punjab may eat roti and dal. Both meals can keep them healthy.
 ### Your body needs water every day · *defined*
 **Definition:** More than half of your body is water. You lose some all day, so you need to drink every day.
 
@@ -342,7 +343,7 @@ That night in Madurai, Kavya lay on her mat and thought about all the water in t
 10. (mcq) Your mouth is dry and you want a drink. What is your body telling you?  
    Options: I need water / I need a nap / I need a sweet  
    **Answer:** I need water. *Why:* A dry mouth and wanting a drink is thirst. Thirst is the body asking for water.
-### Thinking about food and drink (stretch, 10 questions)
+### Thinking about food and drink (stretch, 11 questions)
 1. (order) Put these in order, from the most water inside to the least: banana, biscuit, watermelon.  
    **Answer:** ['watermelon', 'banana', 'biscuit']. *Why:* Watermelon is more than 90 parts water out of 100. Banana is about three-quarters water. A biscuit has almost none.
 2. (mcq) A cook leaves cut cucumber slices on a plate in the hot sun all day. By evening they are small and dry. Where did their water go?  
@@ -365,6 +366,8 @@ That night in Madurai, Kavya lay on her mat and thought about all the water in t
 10. (mcq) Which of these drinks has no sugar added?  
    Options: Plain water / Rose milk / A packet of fruit juice  
    **Answer:** Plain water. *Why:* Plain water has no sugar. Rose milk has sugar stirred in, and most packet juices have sugar added or are naturally very sweet.
+11. (write) Say it out loud, and a grown-up writes it: name one food your family eats that a friend's family may not eat, and say what it gives your body.  
+   **Answer:** For example: my family eats ragi mudde with drumstick sambar, and my friend's family eats idli. Ragi gives my body energy and calcium.. *Why:* A strong answer names a real food and says what it gives the body. Foods differ between families, and many of them can keep us healthy.
 
 ## Videos
 - **A slow-motion or close-up video of water inside a cucumber or watermelon** (, 2 min) id `jw2Pzrm-F2A`: Shows how juicy plant foods hold water in tiny cells. *Check:* Found by YouTube search: Cucumber in Water | Slo Mo, Ryan Woods Title checked automatically; a parent may still preview it.
@@ -400,6 +403,9 @@ That night in Madurai, Kavya lay on her mat and thought about all the water in t
 10. (mcq) You feel thirsty. What is the best thing to do?  
    Options: Wait until bedtime / Drink some water / Eat a biscuit  
    **Answer:** Drink some water. *Why:* Thirst is your body asking for water. A biscuit has almost no water in it.
+11. (mcq) Two children live in different places. One eats rice and fish curry. The other eats roti and dal. What is true?  
+   Options: Only the child who eats rice is healthy / Both can be healthy, because each meal can give many kinds of food / Healthy food is the same in every family  
+   **Answer:** Both can be healthy, because each meal can give many kinds of food. *Why:* Families in different places eat different foods, and a healthy meal can look very different. What matters is that the food gives many kinds of food.
 
 ## Applications
 - Families keep drinking water in clay pots in summer. A little water seeps through the clay to the outside. When that water dries off, it takes heat with it, so the water inside stays cool.

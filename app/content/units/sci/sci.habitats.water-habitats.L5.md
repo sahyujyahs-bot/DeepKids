@@ -29,8 +29,10 @@
 - **Sediment**: Sand, silt and clay carried by water and later dropped. Silt is finer than sand, and clay is finer still. *e.g.* After a flood goes down, a thin layer of soft silt is left on the fields. That silt is sediment.
 - **Floodplain**: The flat land beside a river that goes under water when the river floods. *e.g.* The wide flat fields beside the Brahmaputra in Assam are a floodplain. They are covered almost every monsoon.
 - **Delta**: Flat land built at the mouth of a river from the sediment the river drops as the water slows down. *e.g.* The Kaveri delta around Thanjavur and the Godavari delta in Andhra Pradesh are both built from river silt.
+- **Mangrove**: A mangrove is a tree that grows in salty mud at the mouth of a river, with roots that stand in the water and take in air. *e.g.* The Sundarbans in West Bengal is a mangrove forest, and so is Pichavaram in Tamil Nadu.
 - **Barrage**: A low wall with gates built across a river, to raise the water and send some of it into canals. A dam is a higher wall that holds back a deep lake. *e.g.* The barrage at Dowleswaram on the Godavari sends water to the canals of the delta.
 - **Echolocation**: Finding things by making a sound and listening for the echo that comes back. *e.g.* A Ganga river dolphin finds a fish in muddy water by echolocation. Many bats find moths in the dark in the same way.
+- **Coral reef**: A coral reef is a long ridge in warm shallow sea, built over thousands of years by tiny animals called corals. Fish and many other sea animals live in it. *e.g.* The Gulf of Mannar in Tamil Nadu and the islands of Lakshadweep have coral reefs.
 - **Pressure**: How hard something presses on each small patch of a surface. Water presses on everything in it, from every side. *e.g.* At the bottom of a swimming pool your ears feel the pressure of the water above you.
 - **Marine snow**: Small soft flakes that sink through the sea. They are made of dead plankton, droppings, slime and dust stuck together. *e.g.* A sea cucumber on the deep sea floor eats marine snow that left the surface weeks before.
 - **Bioluminescence**: Light made by a living being through a chemical reaction in their body. *e.g.* A firefly's flash is bioluminescence. So is the blue glow of a lanternfish in the deep sea.
@@ -54,7 +56,7 @@ Two things take light away. Water soaks up some light and turns it into warmth. 
 ### The sunlit layer feeds everything below it · *defined*
 **Definition:** Plants and algae can make food only where there is enough light. In water, that is the top layer, called the sunlit zone. Almost every animal in the water depends on food made there.
 
-A lake has three parts. Near the shore the water is shallow, so light reaches the bottom. Rooted plants such as lotus, water lily and reeds grow there, and young fish hide among them. In the open water the bottom is too deep for roots. The food makers there are phytoplankton, tiny drifting algae and bacteria. They must stay in the sunlit zone to live. Below the sunlit zone no food is made. The animals there eat what sinks down: dead plankton, droppings and dead animals. The sea is built the same way, only far deeper. Phytoplankton in the top 200 metres of the sea make about half of all the oxygen made on Earth each year. So the amount of life in a whole lake or sea depends on a thin bright layer at the top. If mud or waste makes the water turbid, that layer becomes thinner, and less food is made.
+A lake has three parts. Near the shore the water is shallow, so light reaches the bottom. Rooted plants such as lotus, water lily and reeds grow there, and young fish hide among them. In the open water the bottom is too deep for roots. The food makers there are phytoplankton, tiny drifting algae and bacteria. They must stay in the sunlit zone to live. Below the sunlit zone no food is made. The animals there eat what sinks down: dead plankton, droppings and dead animals. The sea is built the same way, only far deeper. Phytoplankton in the top 200 metres of the sea make about half of all the oxygen made on Earth each year. So the amount of life in a whole lake or sea depends on a thin bright layer at the top. If mud or waste makes the water turbid, that layer becomes thinner, and less food is made. Pond plants grow in three ways. Lotus and water lily are rooted in the mud. Their long stalks lift their leaves and flowers up to the light. Water hyacinth and duckweed float free. They have no roots in the mud, and their roots hang in the water. Water hyacinth came to India from South America. She spreads so fast that she can cover a whole pond, and then no light reaches the plants below.
 - e.g. Lotus and water lily grow only near the edge of a deep tank, where their stalks can reach from the mud to the light.
 - e.g. A catfish at the bottom of a lake eats worms, and the worms eat dead plankton that sank from the top.
 - e.g. When soil washes into a lake from bare land, the water turns cloudy and the underwater plants at the edge die back.
@@ -68,7 +70,7 @@ Why does this matter to a fish? Oxygen enters a lake at the top, from the air an
 ### A river changes from source to sea, and so do those who live in the river · *defined*
 **Definition:** A river starts small, steep and fast, and ends wide, flat and slow. The water, the bed and the food change along the way, so different living beings fit each stretch.
 
-Near the source, the stream is narrow and often shaded by forest. The water is cold, clear and full of oxygen, because it tumbles over rocks. Little light reaches it, so few algae grow. The main food is dead leaves that fall in from the trees. Insect young shred the leaves, and small fish eat the insects. Animals here have flat bodies or suckers, to hold on in the current. In the middle stretch the river is wider, and sunlight reaches the bed. Algae grow on the stones, and snails and insects graze on them. Big strong swimmers live here, such as the mahseer. In the last stretch the river is deep, slow and turbid. Few plants grow on the dark bed. The food is fine bits washed down from upstream, and plankton drifting in the slow water. Catfish, carp, turtles, river dolphins and crocodiles live here. Scientists call this pattern the river continuum. It fits many rivers well. It fits less well where a river crosses a dry land or is cut by many dams.
+Near the source, the stream is narrow and often shaded by forest. The water is cold, clear and full of oxygen, because it tumbles over rocks. Little light reaches it, so few algae grow. The main food is dead leaves that fall in from the trees. Insect young shred the leaves, and small fish eat the insects. Animals here have flat bodies or suckers, to hold on in the current. In the middle stretch the river is wider, and sunlight reaches the bed. Algae grow on the stones, and snails and insects graze on them. Big strong swimmers live here, such as the mahseer. In the last stretch the river is deep, slow and turbid. Few plants grow on the dark bed. The food is fine bits washed down from upstream, and plankton drifting in the slow water. Catfish, carp, turtles, river dolphins and crocodiles live here. Scientists call this pattern the river continuum. It fits many rivers well. It fits less well where a river crosses a dry land or is cut by many dams. A fish uses her fins to move and to steer. The tail fin sweeps from side to side and pushes her forward. The fins on her sides steer and stop her. The fin on her back keeps her upright. A fast swimmer like the mahseer has a strong tail. A fish who holds on in a fast stream, like the hill-stream loach, has wide flat fins that press on the rock.
 - e.g. The Kaveri begins at Talakaveri in the forested hills of Kodagu and reaches the sea after about 800 kilometres.
 - e.g. The humpback mahseer, a very large fish, lives only in the Kaveri and its tributaries. She needs clean, flowing, rocky stretches.
 - e.g. The Ganga river dolphin lives in the deep, slow, muddy stretches of the Ganga and the Brahmaputra.
@@ -79,6 +81,13 @@ In the monsoon a river can carry many times more water than in the dry months. T
 - e.g. The Godavari begins at Trimbakeshwar in Maharashtra, flows 1,465 kilometres, and builds a delta in Andhra Pradesh. The Coringa mangrove forest grows there.
 - e.g. In Assam, the beels beside the Brahmaputra fill in every flood. A beel is a floodplain lake, and many fish breed there.
 - e.g. The paddy fields of Thanjavur stand on silt that the Kaveri brought down from the hills of Karnataka and Tamil Nadu.
+### Mangroves: forests in salty mud · *defined*
+**Definition:** Mangroves are trees that grow in the salty mud where a river meets the sea. Their roots hold the soil, slow the waves and shelter young fish.
+
+Mud at a river's mouth is soft, salty and short of air. Mangrove trees have found ways to live in it. Some have arched stilt roots that spread wide and hold the tree up. Others send up small roots that stand out of the mud like pencils, and these take in air. Together, the roots hold the mud, so the tide does not wash the land away. They also slow the waves, so a storm does less harm to the land behind. Among the roots, young fish, crabs and prawns hide and feed. The Sundarbans is the largest mangrove forest in the world. It stands where the Ganga, Brahmaputra and Meghna meet the sea, in India and Bangladesh. Fishers, crab catchers and honey collectors live and work on its edge. It is also home to the Bengal tiger, who swims from island to island.
+- e.g. After cyclones, villages behind thick mangroves have often had less damage than villages with none.
+- e.g. The Pichavaram mangroves in Tamil Nadu are a maze of small waterways where egrets and fish live.
+- **People of the Sundarbans:** The forest feeds us with fish, crabs and honey, and it stands between us and the storm. But it is also home to tigers, so we must enter with care and respect.
 ### Fish who travel between the sea and the river · *defined*
 **Definition:** Some fish live in one kind of water and breed in another. To them a river and the sea are two parts of one home. They need the whole way to be open.
 
@@ -100,6 +109,20 @@ The average depth of the ocean is about 3,700 metres. So most of the ocean lies 
 - e.g. Sunlit zone: tuna, sardines, corals, sea turtles and nearly all the seaweeds.
 - e.g. Twilight zone: lanternfish, many squids and red prawns.
 - e.g. Midnight zone and below: anglerfish, sea cucumbers, brittle stars and snailfish.
+### Coral reefs: a city built by tiny animals · *defined*
+**Definition:** A coral reef is a ridge in warm, shallow, sunlit sea, built by tiny living animals called corals, and it shelters many kinds of fish and other sea animals.
+
+Corals look like stones or plants, but they are animals. Each coral animal is called a polyp and is only a few millimetres wide. She makes a hard cup of limestone around her body. Over thousands of years, many polyps living side by side build a reef. Tiny algae live inside the polyp's body. The algae use sunlight to make food, and they share it with her. This is why reefs grow only in warm, clear, shallow water. A reef covers less than 1 part in 100 of the sea floor, yet about a quarter of all kinds of sea animals live in or near reefs. The branches and holes give young fish places to hide and feed. A reef also breaks the waves before they reach the shore. When the water gets too warm, the polyp pushes out her algae and turns white. This is called bleaching. Corals can recover if the water cools soon.
+- e.g. The Gulf of Mannar, off Tamil Nadu, has reefs where fishing families have fished for generations.
+- e.g. The Lakshadweep islands are made of coral reefs, which rise only a few metres above the sea.
+- e.g. Warm sea water has bleached reefs near the Andaman Islands and in many other seas.
+- **Fishing families of the Gulf of Mannar:** The reef is our field and our kitchen. We know where the fish gather, and we want it to stay healthy. We also need to fish to live, so we must be careful together.
+### Why the sea matters to the whole Earth · *defined*
+**Definition:** The sea gives oxygen, takes in heat and carbon dioxide, and feeds people. Its life matters to all of Earth, not only to the coast.
+
+The plankton of the sunlit zone make about half of our oxygen. So one in every two breaths you take comes from the sea. The sea also takes in much of the extra heat and carbon dioxide that people put into the air. Carbon dioxide is a gas that traps heat. And fish from the sea are the main food of millions of coastal families. If reefs, mangroves and plankton are harmed, these gifts shrink. That is why people look after the sea, even people who live far from it.
+- e.g. A family in Delhi, far from the sea, still breathes oxygen made by sea plankton.
+- e.g. A fishing family in Kerala eats and sells sardines every week.
 ### Pressure in the deep sea, and why it does not crush those who live there · *defined*
 **Definition:** Water has weight, so the water above presses on everything below. For every 10 metres you go down, the pressure rises by about the same amount as the whole of the air presses at the surface.
 
@@ -628,7 +651,7 @@ Sravani kept the teak leaf on the shelf above her mat until it crumbled.
   - Note: Praise a clear account of what went wrong as much as a working pass. Real fish passes are of several kinds: rows of pools, long winding side channels like small streams, and lifts that carry fish up in a tank of water. Passes built for strong jumpers have often failed for other fish. A pass has to be designed for the fish of that river, and tested with them.
 
 ## Worksheets
-### Life in water: the main ideas (core, 15 questions)
+### Life in water: the main ideas (core, 16 questions)
 1. (mcq) Which of these is a freshwater habitat?  
    Options: A village tank / A coral reef / The deep sea floor / A salt pan  
    **Answer:** A village tank. *Why:* A tank holds rain or river water with very little salt. A coral reef, the deep sea floor and a salt pan all have salty water.
@@ -653,17 +676,19 @@ Sravani kept the teak leaf on the shelf above her mat until it crumbled.
    **Answer:** Sunlit zone → 0 to 200 metres; Twilight zone → 200 to 1,000 metres; Midnight zone → 1,000 to 4,000 metres; Abyss → 4,000 to 6,000 metres; Trenches → Below 6,000 metres. *Why:* The zones are set by light and depth. Enough light for photosynthesis ends at about 200 metres, and all sunlight ends at about 1,000 metres.
 10. (sort) Sort these. Is each one still water or flowing water?  
    **Answer:** a lake → Still water; a village tank → Still water; a marsh → Still water; a hill stream → Flowing water; a river → Flowing water; a spring → Flowing water. *Why:* In still water, tiny drifting beings can stay in one place. In flowing water, living beings must hold on or swim against the current.
-11. (order) Put these in order, as a river flows from source to sea.  
+11. (sort) Sort these pond plants. Are they rooted in the mud, or floating free on the water?  
+   **Answer:** Lotus → Rooted in the mud; Water lily → Rooted in the mud; Water hyacinth → Floating free; Duckweed → Floating free. *Why:* Lotus and water lily have roots in the mud and long stalks up to the light. Water hyacinth and duckweed float, with no roots in the mud.
+12. (order) Put these in order, as a river flows from source to sea.  
    **Answer:** ['A spring in forested hills', 'A fast, cold, shaded stream', 'A wide river with rocky pools', 'A slow, deep, muddy river', 'A delta with many branches']. *Why:* A river starts small, steep and fast. It grows wider, slower and muddier, and drops its sediment at the mouth.
-12. (write) A hill stream is shaded and has few algae. What do the small animals there eat?  
+13. (write) A hill stream is shaded and has few algae. What do the small animals there eat?  
    **Answer:** They eat dead leaves that fall into the stream from the trees. Insect young shred the leaves, and small fish eat the insects.. *Why:* A strong answer says that the food comes from outside the stream, from the forest.
-13. (write) Why is a deep-sea fish not crushed by the water above her?  
+14. (write) Why is a deep-sea fish not crushed by the water above her?  
    **Answer:** Her body is mostly water, and water can hardly be squeezed. She has no air-filled spaces. The pressure is the same inside her and outside.. *Why:* A strong answer says that pressure crushes gas-filled things, and that the fish has none.
-14. (draw) Draw a lake from the side. Show where plants grow, where plankton drift and where it is dark.  
+15. (draw) Draw a lake from the side. Show where plants grow, where plankton drift and where it is dark.  
    **Answer:** A lake in side view. Rooted plants stand at the shallow edge. Dots of plankton are in the bright top water. The deep middle is shaded dark, with no plants.. *Why:* A strong drawing puts every food maker in the light: rooted plants where the bottom is shallow, and plankton near the surface.
-15. (perspective) A new dam is planned on a river where fish swim upstream to breed.  
+16. (perspective) A new dam is planned on a river where fish swim upstream to breed.  
    **Answer:** Any view with a reason. One reason is that hilsa above the Farakka Barrage almost vanished after 1975. Another is that most rain falls in four months, so stored water matters. A strong answer also says what the other view gets right.. *Why:* Each view has something right in it. A strong answer uses what a dam gives and what it stops: water for crops, and fish, silt and floods.
-### Life in water: light, layers and rivers (stretch, 15 questions)
+### Life in water: light, layers and rivers (stretch, 17 questions)
 1. (mcq) A disc vanishes at 12 centimetres in cloudy water. The cloudiness is doubled. About where does the disc vanish now?  
    Options: About 6 centimetres / About 12 centimetres / About 24 centimetres / About 10 centimetres  
    **Answer:** About 6 centimetres. *Why:* Twice as many bits take the light away in about half the distance. If you chose 24, you doubled the depth, but more bits mean a smaller depth.
@@ -679,26 +704,30 @@ Sravani kept the teak leaf on the shelf above her mat until it crumbled.
    **Answer:** True. *Why:* True. It carries silt that builds the delta, pushes back salt water, and feeds the plankton of the coast.
 6. (match) Match each living being to the clue that fits their home.  
    **Answer:** Hill-stream loach → A sucker belly for holding on to rock; Ganga river dolphin → Clicks and echoes in muddy water; Lotus → Long stalks from mud up to the light; Mangrove → Breathing roots in salty mud; Anglerfish → A glowing lure in the dark. *Why:* Each body answers the main problem of its home: fast water, muddy water, deep still water, airless mud or darkness.
-7. (sort) Sort these. Is the food made inside this habitat, or brought in from outside?  
+7. (write) A hill-stream loach has wide flat fins pressed to the rock. A mahseer has a strong tail fin. Why does each have the fins she has?  
+   **Answer:** The loach lives in fast water, and her wide flat fins hold her to the rock so the current does not sweep her away. The mahseer swims for long distances in a river, and her strong tail pushes her forward.. *Why:* A strong answer links each fin to the work its owner has to do: holding on in a fast stream, or driving a strong swimmer forward.
+8. (sort) Sort these. Is the food made inside this habitat, or brought in from outside?  
    **Answer:** algae on sunny river stones → Made inside; plankton in a lake's top water → Made inside; bacteria's food at a hot vent → Made inside; fallen leaves in a shaded stream → Brought in from outside; marine snow on the abyss floor → Brought in from outside; silt and plant food in a delta → Brought in from outside. *Why:* Food is made inside only where there is light, or chemical energy at a vent. Dark and shaded waters are fed from elsewhere.
-8. (odd) Three of these are harmed by a wall across a river. Which is the odd one out?  
+9. (odd) Three of these are harmed by a wall across a river. Which is the odd one out?  
    Options: Hilsa swimming up to breed / Silt on its way to the delta / River dolphins meeting other groups / Paddy fields fed by a canal  
    **Answer:** 3. *Why:* A dam or barrage sends water into canals, so the fields gain. The fish, the silt and the dolphins are stopped by the wall.
-9. (count) Marine snow sinks 100 metres a day. How many days does it take to fall 3,000 metres?  
+10. (count) Marine snow sinks 100 metres a day. How many days does it take to fall 3,000 metres?  
    **Answer:** 30. *Why:* 30 days. 3,000 divided by 100 is 30.
-10. (order) Put these in order, from the cool season to the end of the hot season in a deep lake.  
+11. (order) Put these in order, from the cool season to the end of the hot season in a deep lake.  
    **Answer:** ['The whole lake is mixed and rich in oxygen', 'The Sun warms the top water', 'A warm layer floats on a cold layer', 'Bacteria use up oxygen in the cold layer', 'Fish leave the deep water']. *Why:* Layers form because warm water floats. Once the layers stop mixing, the deep water gets no new oxygen.
-11. (write) A tank turns muddy after building work nearby. What happens to the plants on the bottom, and why?  
+12. (write) A tank turns muddy after building work nearby. What happens to the plants on the bottom, and why?  
    **Answer:** The mud makes the water turbid, so light fades in a shorter distance. Plants on the deeper parts of the bottom no longer get enough light to make food, and die back. Only plants in the shallowest water remain.. *Why:* A strong answer links turbid water to less light, and less light to less photosynthesis.
-12. (write) No rain falls on a delta village, yet the river rises and turns red-brown. Explain how.  
+13. (write) No rain falls on a delta village, yet the river rises and turns red-brown. Explain how.  
    **Answer:** Rain fell far upstream, days earlier. It washed soil into streams, and the streams joined the river. The flood and its silt travelled down the river to the delta.. *Why:* A strong answer says that a river gathers water and sediment from all the land it drains, and carries them a long way.
-13. (write) Why do fish farmers stir their ponds on hot, still nights?  
+14. (write) Why do fish farmers stir their ponds on hot, still nights?  
    **Answer:** Warm water holds less oxygen, and at night no algae are making any. With no wind, little oxygen comes in from the air. Stirring brings water to the surface, where it takes up oxygen.. *Why:* A strong answer names the surface as the place where oxygen enters, and says that stirring brings deep water there.
-14. (perspective) A city marsh is full of birds. The city wants to fill part of it to build houses.  
+15. (write) A cyclone is coming to a village on the Sundarbans coast. How could the mangroves help the village, and how could the village help the mangroves?  
+   **Answer:** The thick roots slow the waves and hold the mud, so the village behind them gets less damage. The village can help by not cutting the mangrove trees for fuel or building, and by leaving the roots alone.. *Why:* A strong answer says that roots slow the waves and hold the soil, and then names one way people can protect the trees.
+16. (perspective) A city marsh is full of birds. The city wants to fill part of it to build houses.  
    **Answer:** Any view with a reason. One reason is that a wetland takes in flood water and feeds many living beings. Another is that people do need homes. A strong answer suggests where else the houses could go, or how much of the marsh must stay.. *Why:* Each view has something right in it. A strong answer shows what the marsh does, and takes the families' need seriously.
-15. (label) Draw a river from hills to sea. Label the source, a tributary, the floodplain, the delta and the mouth.  
+17. (label) Draw a river from hills to sea. Label the source, a tributary, the floodplain, the delta and the mouth.  
    **Answer:** ['Source: where the river begins, high in the hills', 'Tributary: a smaller river that joins the main river', 'Floodplain: flat land beside the river that floods', 'Delta: flat land built of sediment where the river splits', 'Mouth: where the river meets the sea']. *Why:* A strong answer puts the parts in the right order, and shows the river growing wider towards the sea.
-### Life in water: think it through (challenge, 15 questions)
+### Life in water: think it through (challenge, 16 questions)
 1. (mcq) Each 10 centimetres of a pond lets half the light through. How much is left at 30 centimetres?  
    Options: One eighth / One third / One sixth / None  
    **Answer:** One eighth. *Why:* Half is left at 10 centimetres, a quarter at 20 and an eighth at 30. If you chose 'none', remember that halving never quite reaches zero.
@@ -731,7 +760,9 @@ Sravani kept the teak leaf on the shelf above her mat until it crumbled.
    **Answer:** No. Almost no food is made there. Its food sinks from the sunlit zone as marine snow, and its oxygen is carried down from the surface. Only at vents is food made in the dark, and even there the oxygen comes from above.. *Why:* A strong answer uses the Falling Meal, and says where the food and the oxygen come from.
 14. (perspective) Metal-rich lumps lie on the deep sea floor. Some countries want to collect them for making batteries.  
    **Answer:** Any view with a reason. One reason is that deep-sea animals get very little food, so they grow and recover slowly. Another is that the metals are needed, and mining on land also does harm. A strong answer says what should be found out first.. *Why:* Each view has something right in it. A strong answer uses what the unit says about the slow life of the deep sea, and about how little has been seen.
-15. (draw) Draw three glasses with warm brown water on top: still, windy and iced. Show where the brown water goes.  
+15. (write) Many people never see the sea. Give two reasons why the loss of coral reefs and sea life matters to them too.  
+   **Answer:** Sea plankton make about half of the oxygen that everyone breathes. The sea also takes in heat and a gas called carbon dioxide from the air. Reefs shelter young fish that feed millions of people, and they break waves that would hit the coast.. *Why:* A strong answer gives two real reasons, such as oxygen, heat, food or coastal protection, and says who is helped by each.
+16. (draw) Draw three glasses with warm brown water on top: still, windy and iced. Show where the brown water goes.  
    **Answer:** The still glass has a brown layer on top and clear water below. The windy glass has ripples and the same two layers. The iced glass has thin brown streams falling and brown water at the bottom.. *Why:* A strong drawing shows that only cooling sent the top water down. Wind stirred the top layer only.
 
 ## Videos
@@ -752,28 +783,40 @@ Sravani kept the teak leaf on the shelf above her mat until it crumbled.
 4. (mcq) Where in a deep lake do rooted plants such as lotus grow?  
    Options: At the shallow edge / In the deepest middle / Floating far from shore with no roots / Everywhere on the bottom  
    **Answer:** At the shallow edge. *Why:* A rooted plant needs a bottom shallow enough for light to reach, or for the stalk to reach the surface.
-5. (mcq) Why does warm water stay on top of cold water in a lake?  
+5. (mcq) Which pond plant floats free on the water, with roots that hang down and do not touch the mud?  
+   Options: Water hyacinth / Lotus / Water lily / Reed  
+   **Answer:** Water hyacinth. *Why:* Water hyacinth floats on swollen stalks that hold air. Lotus, water lily and reeds are rooted in the mud. Water hyacinth came from South America and can spread over a whole lake, which cuts off light for the plants below.
+6. (mcq) Why does warm water stay on top of cold water in a lake?  
    Options: Warm water is lighter / Warm water is saltier / Wind holds the warm water up / Fish push the cold water down  
    **Answer:** Warm water is lighter. *Why:* Warm water is a little lighter than cold water, so it floats. That is why the two layers hardly mix in hot months.
-6. (mcq) What makes a layered lake mix from top to bottom?  
+7. (mcq) What makes a layered lake mix from top to bottom?  
    Options: The top water cools and sinks / The Sun heats the top water more / Fish swim up and down / Rain falls on the surface  
    **Answer:** The top water cools and sinks. *Why:* When the top water cools, it becomes as heavy as the water below and sinks. Then wind can mix the whole lake.
-7. (mcq) Which stretch of a river is cold, clear, fast and rich in oxygen?  
+8. (mcq) Which stretch of a river is cold, clear, fast and rich in oxygen?  
    Options: The upper stretch, near the source / The lower stretch, near the sea / The delta / The floodplain lakes  
    **Answer:** The upper stretch, near the source. *Why:* Near the source the stream is steep and tumbles over rocks, which stirs in oxygen. Shade keeps the water cold.
-8. (mcq) Why do many river fish lay their eggs on flooded land?  
+9. (mcq) Which fin of a fish does most of the pushing forward?  
+   Options: The tail fin / The fin on the back / The small fin on the belly / The fin of a loach  
+   **Answer:** The tail fin. *Why:* The tail sweeps from side to side and pushes the fish through the water. The back fin keeps her upright, and the side fins steer and brake.
+10. (mcq) Why do many river fish lay their eggs on flooded land?  
    Options: The young find food and hiding places there / The water there is colder / There is no oxygen there / The eggs need dry soil  
    **Answer:** The young find food and hiding places there. *Why:* Warm shallow flood water fills with plankton and insects, and plants give cover. The young return to the river as the flood goes down.
-9. (mcq) How does a wall across a river harm a fish like the hilsa?  
+11. (mcq) How do the roots of mangrove trees help the coast?  
+   Options: They hold the mud and slow the waves / They stop the river from flowing / They make the water fresh / They stop silt from settling  
+   **Answer:** They hold the mud and slow the waves. *Why:* Thick roots hold the soil in place and slow waves, so a storm does less harm to the land behind. They do not stop the river or take away the salt.
+12. (mcq) How does a wall across a river harm a fish like the hilsa?  
    Options: She cannot reach her breeding places upstream / The wall makes the water salty / The wall takes away her gills / She forgets how to swim  
    **Answer:** She cannot reach her breeding places upstream. *Why:* Hilsa live in the sea and breed in rivers. A wall with no suitable way round cuts the journey.
-10. (mcq) By how much does the pressure rise for every 10 metres of depth in the sea?  
+13. (mcq) Why do coral reefs hold so many kinds of fish and other sea animals?  
+   Options: The reef gives food and hiding places in warm, sunlit water / Reefs are the deepest part of the sea / Fish cannot live anywhere else / Corals make the sea water fresh  
+   **Answer:** The reef gives food and hiding places in warm, sunlit water. *Why:* Reefs grow only in warm, bright, shallow water. Their many nooks give young fish and small animals a place to hide and feed. They are not deep, and the sea stays salty.
+14. (mcq) By how much does the pressure rise for every 10 metres of depth in the sea?  
    Options: By about 1 kilogram on each square centimetre / By nothing / By half each time / By 10 kilograms on each square centimetre  
    **Answer:** By about 1 kilogram on each square centimetre. *Why:* Every 10 metres of water adds about as much press as the whole of the air above us: about 1 kilogram on each square centimetre.
-11. (mcq) Where does most of the food eaten on the deep sea floor come from?  
+15. (mcq) Where does most of the food eaten on the deep sea floor come from?  
    Options: It sinks from the sunlit zone / It grows in the mud / Rivers pour it straight onto the floor / Deep-sea fish make it from light  
    **Answer:** It sinks from the sunlit zone. *Why:* Food is made where there is light, and sinks as marine snow. Only about 1 to 3 parts in 100 reach the floor.
-12. (mcq) In a fair test of how milk hides a disc, what is the one thing that changes?  
+16. (mcq) In a fair test of how milk hides a disc, what is the one thing that changes?  
    Options: The amount of milk / The person who looks / The light in the room / The size of the disc  
    **Answer:** The amount of milk. *Why:* Only the thing you are testing should change. If the light or the observer changed too, you could not tell what caused the result.
 

@@ -43,6 +43,7 @@
 - **Spine**: A hard, sharp point on a plant. A cactus's spines are leaves that have changed shape. *e.g.* Touch a cactus gently and you feel its spines.
 - **Cell**: The tiny building block that every living thing is made of. A leaf is built from millions of cells. *e.g.* Onion skin under a microscope looks like a wall of tiny bricks. Each brick is a cell.
 - **Botanist**: A scientist who studies plants. *e.g.* Janaki Ammal was an Indian botanist who studied sugarcane.
+- **Nectar**: The sweet juice that a flower makes. Bees, butterflies and birds drink it. *e.g.* A bee drinks nectar from a mustard flower and carries pollen to the next flower.
 
 ## Explanations
 ### Every part has a job, and the parts need each other · *defined*
@@ -114,6 +115,7 @@ A leaf works like a solar panel. A wide, flat shape catches lots of light. A thi
 - e.g. Shade plants, like the money plant on a dim landing, often have big, thin leaves.
 - e.g. In a field of grown sunflowers, almost every flower head faces east, towards the morning Sun.
 - e.g. Look down on a tulsi plant. Each pair of leaves sits at right angles to the pair below.
+- e.g. Leaves differ in colour, shape and feel. A curry leaf is shiny and smooth, a mint leaf is crinkly, and a hibiscus leaf is a little rough. Crush a tulsi or mint leaf and sniff. Tiny drops of oil inside the leaf make the smell. Many plants make such oils partly to keep hungry insects away.
 ### Leaves in hard places · *defined*
 **Definition:** Where light, water or food is hard to get, leaves change shape. Some become spines, some float, some store water and some even catch insects.
 
@@ -141,6 +143,13 @@ This sounds like a silly question, but it is a real puzzle. A black leaf would s
 - e.g. Sunlight is strongest in the blue-green and green part of the rainbow.
 - **Nathaniel Gabor and colleagues, 2020:** Leaves let some green light go to keep their energy supply steady when the light keeps changing.
 - **Other scientists:** Leaves are green because their ancient ancestors in the sea were built that way, and changing would be too hard. Both ideas may be partly true.
+### Plant parts feed and house other living beings · *defined*
+**Definition:** Plants are not only for themselves. Animals, birds and insects eat plant parts, drink from them and make homes in them.
+
+In Rajasthan, camels chew the leaves of the khejri tree, even though it has thorns. A bee lands on a mustard flower and drinks nectar, a sweet juice the flower makes. While she drinks, pollen sticks to her body. She carries it to the next flower, and that helps the flowers make seeds. So the bee gets food, and the plant gets help. A spotted owlet, a small owl, sleeps through the day in a hollow in an old tree trunk. She raises her chicks there, safe from the rain. A leaf, a flower and a trunk each do their own job for the plant. They also do a job for the many living beings who share the plant's neighbourhood.
+- e.g. Goats and cows eat grass leaves, and so do many wild deer.
+- e.g. A mustard field in flower hums with bees, and the bees' honey tastes of mustard.
+- e.g. A parrot or a squirrel sitting in a guava tree is eating the fruit that holds the plant's seeds.
 ### How plants grew their parts: a story 470 million years long · *defined*
 **Definition:** The first plants on land had no roots and no leaves. Over many millions of years, plants grew roots, then woody stems, then wide leaves, and much later flowers.
 
@@ -501,16 +510,16 @@ When her father came home for Baisakhi, she showed him both. She did not explain
   *Child mode:* Sort them onto three papers: ROOT, STEM, LEAF. Say your clue for each one.
   - Think: Why would a plant keep their food under the ground, instead of up in the air?
 ### a2 · Leaf Detective Album (30 min)
-- **safety:** Go outdoors only with a grown-up. Do not touch plants with milky sap or itchy hairs, and wash hands afterwards.
+- **safety:** Go outdoors only with a grown-up. Do not touch plants with milky sap or itchy hairs, and wash hands afterwards. Sniff only leaves that a grown-up knows are safe, like tulsi, mint and curry leaf.
 - **record:** Make one album page for each leaf: the leaf taped down, three describing words, its veins (N or S), where it grew, and a pet name.
 - **s1 (12 min) · grown-up needed**  
   *Parent does:* 1. Collect 10 leaves that are as different as possible. 2. Look on a walk or in a park. Or use balcony pots and the kitchen: curry leaf, mint, cabbage. 3. Put them in a cloth bag. 4. For each one, note where it grew: in sun or shade.  
   *Parent says:* Let's find the most different leaves we can. Big and small, round and pointy, shiny and hairy. Remember where each one grew.  
   *Child mode:* Find 10 leaves that are all different. Try outside with a grown-up, or the kitchen. Remember where each grew.
 - **s2 (10 min)**  
-  *Parent does:* 1. Tape each leaf onto a page. 2. Fold a spare leaf in half along its middle vein. Are the two halves the same? 3. Write three describing words for each leaf, like pointy, waxy, hairy or heart-shaped. 4. Look at its veins. Tell your child to write N next to net-like veins, or S next to veins that run side by side.  
+  *Parent does:* 1. Tape each leaf onto a page. 2. Fold a spare leaf in half along its middle vein. Are the two halves the same? 3. Write three describing words for each leaf, like pointy, waxy, hairy or heart-shaped. 4. Look at its veins. Tell your child to write N next to net-like veins, or S next to veins that run side by side. 5. Crush a corner of a tulsi, mint or curry leaf and sniff it. Write a smell word, like sharp, sweet or none. 6. Lay a leaf with the veins facing up under a sheet of paper. Rub the side of a crayon over it. The outline and veins appear.  
   *Parent says:* Describe each leaf like a detective. Fold one in half. Is it the same on both sides? Look at the veins. Do they make a net, or run side by side?  
-  *Child mode:* Tape each leaf on a page. Fold one in half. Are the halves the same? Write three words for each leaf. Look at the veins. Net, or side by side? Write N or S.
+  *Child mode:* Tape each leaf on a page. Fold one in half. Are the halves the same? Write three words for each leaf. Look at the veins. Net, or side by side? Write N or S. Crush a corner of a safe leaf, like tulsi or mint, and sniff. Write a smell word. Then put a leaf under paper and rub a crayon over it.
   - Ask: Which leaf do you think grew in the most shade? Why? (good: The biggest, thinnest one, because it needs to catch more light.)
   - Note: Net veins usually go with tap roots, as in mango, hibiscus and beans. Parallel veins usually go with fibrous roots, as in grass, maize and banana. These are the two big groups of flowering plants.
 - **s3 (8 min)**  
@@ -638,7 +647,7 @@ When her father came home for Baisakhi, she showed him both. She did not explain
   - Think: Bicycle frames and the poles that hold up festival pandals are tubes too. Why do you think engineers chose the same shape as bamboo?
 
 ## Worksheets
-### Plant Part Detective (core) (core, 15 questions)
+### Plant Part Detective (core) (core, 16 questions)
 1. (match) Match each part of a plant to its main job.  
    **Answer:** Root → holds the plant in the soil and soaks up water; Stem → holds the plant up and carries water and food; Leaf → catches sunlight to make food; Flower → makes seeds. *Why:* Each part has its own job. The plant needs all of them to stay alive.
 2. (truefalse) Everything that grows under the ground is a root.  
@@ -673,7 +682,9 @@ When her father came home for Baisakhi, she showed him both. She did not explain
    **Answer:** ['tuber']. *Why:* A tuber is a fat underground stem that stores food. Its eyes are buds that can grow into new plants.
 15. (fill) The tiny hairs on a young root, which push between soil grains and soak up water, are called root ____.  
    **Answer:** ['hairs', 'hair']. *Why:* Root hairs are far thinner than the hairs on your head. They touch lots of soil, so a root can soak up water quickly.
-### Shapes and Jobs (stretch) (stretch, 15 questions)
+16. (match) Match each living being to the plant part it uses.  
+   **Answer:** A camel in Rajasthan → eats the leaves of a khejri tree; A bee → drinks nectar from a flower; A spotted owlet → raises chicks in a hollow in a tree trunk; A parrot → eats the fruit of a guava tree. *Why:* Leaves, flowers, trunks and fruits are jobs for the plant, and also food and homes for others.
+### Shapes and Jobs (stretch) (stretch, 16 questions)
 1. (mcq) Someone says shade leaves are bigger because the shade makes them swell up with water. How could you check this idea?  
    Options: Feel whether the shade leaves are thicker or thinner than the sun leaves / Count the leaves on the bush / Water the bush more / Pick the leaves at night  
    **Answer:** Feel whether the shade leaves are thicker or thinner than the sun leaves. *Why:* If the idea is right, the shade leaves should be thick and puffy. In fact they are thinner than the sun leaves. So they are not swollen. They are spread out to catch more of the weak light. Counting the leaves would not test the idea at all.
@@ -709,6 +720,8 @@ When her father came home for Baisakhi, she showed him both. She did not explain
    **Answer:** A needle loses very little water in cold, dry winds. *Why:* A thin, tough needle has little surface for water to escape from. Picking 'catches more sunlight' mixes this up with wide leaves, which catch more light but lose more water.
 15. (fill) In a hollow bamboo stem, a solid wall runs across the tube at each ring. A ring on a stem is called a ____.  
    **Answer:** ['node']. *Why:* A node is where leaves and buds grow on a stem. In bamboo, the wall at each node stops the tube from squashing flat when it bends.
+16. (draw) Take one leaf from the kitchen or balcony, like mint, curry leaf or tulsi. Draw it. Label its colour, its shape, how it feels and its veins. Then crush a corner, sniff, and write its smell word beside it.  
+   **Answer:** A drawing of the leaf with labels such as 'dark green', 'oval', 'crinkly', 'net veins', and a smell word such as 'sharp' or 'sweet'.. *Why:* Leaves differ in colour, shape, feel, veins and smell. A careful drawing with labels is how a botanist records them.
 ### Think Like a Botanist (challenge) (challenge, 15 questions)
 1. (mcq) A sweet potato is a root, but it can sprout shoots. Does that break the rule 'buds grow on stems'?  
    Options: It shows that rules in biology have exceptions, so botanists use several clues together / It proves a sweet potato is a stem / It proves the rule is useless / Sweet potatoes cannot really sprout  
@@ -791,6 +804,12 @@ When her father came home for Baisakhi, she showed him both. She did not explain
 13. (mcq) Fossils show that the very first land plants were tiny stems, with no roots and no leaves. Why could they not grow tall?  
    Options: With no roots, they could not hold on or soak up water from deep in the soil / They had too many flowers / They were too heavy / They had spines  
    **Answer:** With no roots, they could not hold on or soak up water from deep in the soil. *Why:* Roots hold a plant down and bring up water. Without them, a plant has to stay small and close to wet ground. Roots, wide leaves and flowers came much later, and then plants could grow tall.
+14. (mcq) A bee drinks nectar from a mustard flower. Pollen sticks to her body, and she flies to the next flower. Who gains from this?  
+   Options: Both: the bee gets food, and the flower gets pollen carried to another flower / Only the bee, because the flower is there to feed animals / Only the flower, because the bee gets nothing / Neither, because the pollen falls off at once  
+   **Answer:** Both: the bee gets food, and the flower gets pollen carried to another flower. *Why:* The bee gets nectar to eat. The pollen she carries helps the next flower make seeds. Picking 'only the bee' thinks of flowers as made for animals. A flower's own job is to make seeds.
+15. (mcq) You crush a tulsi leaf between your fingers and smell it strongly. Where does the smell come from?  
+   Options: Tiny drops of oil inside the leaf / The chlorophyll, the green stuff in the leaf / The roots, which send the smell up the stem / Water that the leaf soaked up  
+   **Answer:** Tiny drops of oil inside the leaf. *Why:* Leaves like tulsi and mint hold small drops of oil, and crushing the leaf lets the smell out. Chlorophyll is a good guess, because it is in every leaf, but chlorophyll catches light and has no smell.
 
 ## Applications
 - Farmers grow carrot and radish seed by replanting the best roots in winter. This is called the root-to-seed method.

@@ -20,6 +20,7 @@
 - **Gas**: Matter that spreads out to fill whatever it is in. Its particles are far apart and move about freely. *e.g.* The smell of hot sambar spreads through the whole flat, carried by gases in the air.
 - **Takes up space**: Fills a place, so nothing else can be in exactly that place at the same time. *e.g.* When you get into a full bucket of water, water spills out, because your body takes up space.
 - **Compress**: To squash something into less space. Air can be compressed easily. Water hardly at all. *e.g.* A bicycle pump compresses air into a tyre, so the tyre gets hard.
+- **Expand**: To take up more room. Warm air expands. *e.g.* The warmed air in a hot-air balloon expands, so the balloon floats up.
 - **Particles**: The tiny pieces that all matter is made of. They are far too small to see. *e.g.* In air, the particles are far apart, with empty space between them.
 - **Weight**: How hard the Earth's gravity pulls something down. We measure it with a weighing scale. *e.g.* One litre of air weighs about 1.2 grams. One litre of water weighs about 1,000 grams.
 - **Oxygen**: The gas in air that our body needs to stay alive. About one-fifth of air is oxygen. *e.g.* Every time you breathe in, your lungs take some oxygen out of the air.
@@ -49,6 +50,12 @@ Pull back the plunger of a syringe to fill it with air. Hold a finger tight over
 - e.g. Bubble wrap pops when you squeeze it, because the squashed air bursts out.
 - **Robert Boyle:** Called air springy in 1662 and measured how squeezing it into half the space doubled its push. He thought of air as being like tiny coiled springs.
 - **Physicists after Boyle:** Explained the same result with moving particles. In less space they hit the walls more often, so the push grows.
+### Warm air expands · *defined*
+**Definition:** Warm air expands, which means it takes up more room than cold air.
+
+Air also takes up more room when it is warmed. This is called expanding. In a hot-air balloon, a flame warms the air inside. The air expands, so some of it flows out of the open mouth. There is then less air in the same space, and the balloon floats up.
+- e.g. A hot-air balloon rising over a fair, after the flame warms the air inside
+- e.g. A balloon left in a very hot car can swell
 ### Air has weight · *defined*
 **Definition:** Air has weight. Near the ground, one litre of air weighs about 1.2 grams.
 
@@ -86,6 +93,13 @@ Plants cannot walk about to find food, so they make their own. Their leaves take
 - e.g. Gardeners make holes in the bottom of pots so that extra water drains away and air gets back into the soil.
 - **Jan van Helmont (1600s):** Thought a willow tree grew mostly from the water it was given.
 - **Priestley and Ingenhousz (1770s):** Showed plants change the air, and that they need light to do it. Plants make their food from air, water and light.
+### Keeping the air we breathe clean · *defined*
+**Definition:** Air stays fresh when it can move through our homes, and when we make less smoke and dust. Trees help.
+
+Air in a closed room gets stale. It can feel stuffy and make you sleepy. Open windows and doors so fresh air comes in and stale air goes out. This is called ventilation. Do not sleep in a tightly sealed room, and never sleep in one with a coal or wood fire burning inside. Burning coal makes a poisonous gas called carbon monoxide, which you cannot see or smell. Smoke from vehicles, burning rubbish and crackers also makes the air dirty. Do not burn rubbish, and walk or cycle for short trips. Trees help. In the day, their leaves give out oxygen, and they catch dust on their leaves. A neem tree outside a house helps keep the air around it fresh.
+- e.g. Opening the windows in the morning to let fresh air through the house
+- e.g. Taking the rubbish to the bin, and not burning it in the lane
+- e.g. Planting a neem or a tulsi near the house
 ### Plants whose roots live in mud · *defined*
 **Definition:** Some plants grow where their roots sit in wet mud with very little air. They have special ways to get air down to their roots.
 
@@ -95,6 +109,13 @@ Mud under a pond or a river has almost no air in it. So a lotus has a problem: t
 - e.g. Rice plants in a flooded field also have air spaces in their stems that carry air to their roots.
 - **A gardener:** Knows that a pot with no drainage lets roots rot, because roots in waterlogged soil cannot get air. To most of us, roots do not look like they breathe.
 - **Plant scientists:** Show that root cells burn food with oxygen like any other cell. Mangrove trees grow special roots that stick up out of the mud, called pneumatophores, to take in air.
+### Air carries sound · *defined*
+**Definition:** Sound travels through air. A thing that shakes makes the air next to it shake, and the shaking passes on until it reaches your ear.
+
+Tap a steel tumbler and hold it near your ear. It rings. The tumbler shakes, and it shakes the air around it. Each bit of air pushes the next, and the shaking runs through the air to your ear. In air, sound travels about 340 metres in each second. Light is different. Light does not need air at all. Sunlight crosses empty space to reach the Earth. This is why in a thunderstorm you see the flash first and hear the thunder later. The light arrives almost at once, and the sound comes slower, through the air. On the Moon, which has almost no air, astronauts cannot hear each other speak. They use radios.
+- e.g. A temple bell ringing, and the sound reaching you across the courtyard
+- e.g. Seeing lightning first and hearing thunder a few seconds later
+- e.g. Astronauts on the Moon using radios, because there is almost no air to carry sound
 ### Where the oxygen in the air came from · *idea*
 When the Earth was young, its air had almost no oxygen. Scientists agree that the oxygen came from living things. Tiny beings in the sea, called cyanobacteria, were the first to photosynthesise and give out oxygen. Over hundreds of millions of years, oxygen built up in the air. Rocks show that this had clearly started by about 2,400 million years ago. Today plants on land and tiny floating beings in the sea, called plankton, keep making oxygen. Scientists estimate that about half of today's oxygen is made in the sea, but the exact share is still being worked out.
 - e.g. Old rocks called banded iron formations have stripes of iron rust. Many of them formed when oxygen from tiny sea beings met iron in the sea water.
@@ -507,7 +528,7 @@ Kavya laughed, and went to fetch the sugarcane.
   - Check: Why does a bottle of water glug when you tip it straight upside down? → **Air must bubble in to take the place of the water going out**
 
 ## Worksheets
-### Air Is Real (core) (core, 15 questions)
+### Air Is Real (core) (core, 16 questions)
 1. (write) A friend says, "An empty bottle has nothing in it." Describe a test that shows your friend is wrong.  
    **Answer:** Push a balloon into the bottle and stretch its mouth over the neck. Try to blow it up. It hardly grows, because the bottle is full of air, and the air has nowhere to go.. *Why:* A strong answer names a real test and says what you would see, and why it shows air is there.
 2. (fill) Squashing something into less space is called ____ it.  
@@ -540,7 +561,9 @@ Kavya laughed, and went to fetch the sugarcane.
    **Answer:** True. *Why:* True. Water vapour is water as a gas. There is more of it in the air on a sticky monsoon day than on a dry winter day.
 15. (match) Match each part of the body to its job when you breathe.  
    **Answer:** Windpipe → carries air down to the lungs; Lungs → soft bags where oxygen passes into the blood; Blood → carries oxygen to every cell; Ribs → move outwards to make room as the lungs fill. *Why:* Air travels from the windpipe to the lungs. Oxygen then passes into the blood, which carries it round the body.
-### Squashing, Weighing and Breathing (stretch) (stretch, 15 questions)
+16. (fill) Air that is warmed takes up more room. We say it ____.  
+   **Answer:** ['expands']. *Why:* Expand means to take up more room. Warm air expands, and cold air takes up less room.
+### Squashing, Weighing and Breathing (stretch) (stretch, 16 questions)
 1. (write) A syringe full of air can be pushed in, but a syringe full of water hardly moves. Explain why, using the word particles.  
    **Answer:** In air, the particles are far apart, with empty space between them, so pushing moves them closer. In water, the particles already touch, so there is no room to push them into.. *Why:* A strong answer compares the spacing of the particles in both, not only says air is 'soft'.
 2. (mcq) In the Full Glass test, a glass of big chana and a glass of tiny mustard seeds took in about the same amount of water. Why?  
@@ -574,7 +597,9 @@ Kavya laughed, and went to fetch the sugarcane.
    **Answer:** Their cells need oxygen to get energy from food. A lot of air fits in a small tank because air can be squashed: its particles are far apart, so they can be pushed close together.. *Why:* A strong answer uses both ideas from this lesson: cells need oxygen, and air can be compressed.
 15. (truefalse) A plant shut in a dark, sealed jar slowly uses up the oxygen inside it.  
    **Answer:** True. *Why:* True. In the dark there is no light for photosynthesis, so the plant only uses oxygen. Every living part of a plant needs oxygen.
-### Empty Pots and Ancient Tests (challenge) (challenge, 15 questions)
+16. (truefalse) A bell can be heard on the Moon, just as it can at home, because sound travels through everything.  
+   **Answer:** False. *Why:* False. Sound needs something to shake, like air. The Moon has almost no air, so a bell cannot be heard there. Light does not need air, so we can still see on the Moon.
+### Empty Pots and Ancient Tests (challenge) (challenge, 16 questions)
 1. (perspective) Long ago in ancient Greece, people argued about a pot with nothing you could see inside it.  
    **Answer:** A strong answer agrees with Anaxagoras, with evidence: the balloon in the bottle, the straw water thief and the bubbles from the chana. It also says the first idea made sense because air can't be seen or smelt, and usually feels like nothing.. *Why:* A strong answer gives evidence from the child's own tests, and is fair to the old idea by saying why people believed it.
 2. (write) Hero of Alexandria, an engineer who lived about 2,000 years ago, wrote that air is made of tiny pieces with empty space between them. Block the tip of a syringe full of air and push the plunger. Then do the same with a syringe full of water. What would you see, and how does it support Hero's idea?  
@@ -608,6 +633,8 @@ Kavya laughed, and went to fetch the sugarcane.
    **Answer:** In the sealed bottle the air can't get out. When you squeeze, the air gets squashed and pushes back. In the open bottle, the air just leaves through the neck.. *Why:* A strong answer says the air in the sealed bottle has nowhere to go, so it pushes back.
 15. (write) A plastic bottle is filled with water, and a tiny hole is made in its bottom with a pin. With the cap screwed on tight, hardly any water comes out of the hole. When the cap is opened, water pours out. Explain why.  
    **Answer:** With the cap on, no air can get into the bottle to take the place of the water, so the water stays in. With the cap off, air comes in at the top, and the water can run out of the hole.. *Why:* A strong answer says that water can only leave if air takes its place. The same thing happened in the Bottle Race, where the bottle glugged as air went in, and in The Balloon That Won't Blow Up, where the balloon shrank only when air could get back into the bottle.
+16. (sort) Sort these into 'keeps the air fresh' and 'makes the air dirty'.  
+   **Answer:** opening the windows each morning → Keeps the air fresh; burning rubbish in the lane → Makes the air dirty; planting a neem tree → Keeps the air fresh; lighting a coal fire in a sealed room → Makes the air dirty. *Why:* Fresh air coming in, and trees, keep the air fresh. Burning rubbish makes smoke. A coal fire in a sealed room fills the room with a poisonous gas called carbon monoxide.
 
 ## Videos
 - **What's Matter? - Crash Course Kids #3.1** (Crash Course Kids, 4 min) id `ELchwUIlWa8`: A short, clear video for children on what matter is: anything that takes up space and has mass, including air. *Check:* A parent should watch it first.
@@ -645,6 +672,15 @@ Kavya laughed, and went to fetch the sugarcane.
 10. (mcq) Thinkers in ancient Greece squeezed a wine bag full of air and felt it push back. What did this show?  
    Options: That a pot that looks empty is full of air / That water is heavier than wine / That air is made of fire  
    **Answer:** That a pot that looks empty is full of air. *Why:* A squeezed bag full of air pushes back. This shows air is a real thing that takes up space. A water thief is a jar with small holes in the bottom. When its top is covered, the air inside keeps water out for the same reason.
+11. (mcq) A flame warms the air inside a hot-air balloon. What does the warm air do?  
+   Options: It expands, and some flows out, so the balloon floats up / It shrinks, and the balloon sinks / Nothing happens to it  
+   **Answer:** It expands, and some flows out, so the balloon floats up. *Why:* Warm air takes up more room. Some of it flows out of the open mouth, so the balloon holds less air and is lighter. Cold air would not do this.
+12. (mcq) In a thunderstorm you see the flash, and then you hear the thunder a few seconds later. Why?  
+   Options: Light needs air to travel, but sound does not / Sound travels through air much more slowly than light does / The thunder happens after the flash is over  
+   **Answer:** Sound travels through air much more slowly than light does. *Why:* Light travels almost instantly, and sound runs through the air at about 340 metres each second. Light does not need air at all. Sound does.
+13. (mcq) It is a cold night. Which is the safest way to keep a bedroom's air fresh?  
+   Options: Seal every gap and light a coal fire inside / Keep a small window open, and warm up with a blanket / Burn some paper to warm the room  
+   **Answer:** Keep a small window open, and warm up with a blanket. *Why:* A little fresh air keeps the room from getting stuffy. A coal fire in a sealed room makes carbon monoxide, a poisonous gas you cannot see or smell. Burning paper makes smoke.
 
 ## Applications
 - Cycle, scooter and car tyres are filled with compressed air, so they stay firm and soften the bumps.

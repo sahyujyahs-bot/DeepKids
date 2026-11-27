@@ -37,10 +37,11 @@ Put a steel spoon in a tumbler, then in a bowl, then on a plate. It is the same 
 ### Liquids flow and take the shape of their container · *defined*
 **Definition:** A liquid flows. It has no shape of its own, so it takes the shape of whatever holds it. Its amount stays the same.
 
-In the thin bottle, the water stood tall. In the wide bowl, it spread out low and flat. It looked like more, then less. But when we poured it back into the tumbler, it came up to the same line, which we had marked with a bindi. The shape changed. The amount did not. A liquid also always settles at the bottom of its container, with a flat top.
+In the thin bottle, the water stood tall. In the wide bowl, it spread out low and flat. It looked like more, then less. But when we poured it back into the tumbler, it came up to the same line, which we had marked with a bindi. The shape changed. The amount did not. A liquid also always settles at the bottom of its container, with a flat top. Look closely at a glass of clean drinking water. It is clear, with no colour. Sniff it: it has almost no smell. Take a sip: it has almost no taste. That is how you tell it from milk, which is white, or from nimbu pani, which smells and tastes of lime. But it still takes the shape of the glass, like every liquid.
 - e.g. Water from the thin bottle filled the tumbler back to the bindi line.
 - e.g. Rasam poured from a pot takes the shape of each bowl.
 - e.g. Coconut water takes the shape of the inside of the coconut.
+- e.g. A glass of clean water is clear, with almost no smell or taste. Milk is white and smells of milk.
 - **Everyday view:** A liquid flows and takes the shape of its container.
 - **Physicists:** Find in-between things. Honey, ketchup and a mix of cornflour and water flow in odd ways. The cornflour mix is hard when hit and runny when poured slowly.
 ### Gases spread out to fill every corner · *defined*
@@ -52,6 +53,14 @@ In the Three Bags activity, the water lay at the bottom of its bag. The air fill
 - e.g. Bubbles in a glass of soda are a gas.
 - **Everyday view:** A gas spreads to fill every space.
 - **Physicists and mountaineers:** Know that Earth's gravity holds air near the ground. The air gets thinner as you climb, and climbers carry oxygen on Everest because the gas does not fill space evenly.
+### We use solids, liquids and gases every day · *defined*
+**Definition:** We use each state for what it does best. We hold and cut solids, pour and drink liquids, and breathe gases.
+
+Your food is mostly solid or liquid. Roti, rice and a banana are solids. You can hold them, bite them and cut them, because they keep their shape. Dal, milk and water are liquids. You pour them and drink them, and they take the shape of the katori or the tumbler. Air is a gas. You cannot see it, but you breathe it all day, and it fills a football and a cycle tyre. We use each state in its own way. A solid keeps its shape, so a steel plate holds your rice. A liquid flows, so a tap can send water to your kitchen. A gas spreads out, so the air reaches every corner of a room.
+- e.g. Roti, rice and a banana: solids you hold, bite and chew.
+- e.g. Dal, milk and water: liquids you pour and drink.
+- e.g. Air: a gas you breathe, and the air in a football or a cycle tyre.
+- e.g. A steel plate holds rice because it keeps its shape. A tap sends water along a pipe because water flows.
 ### Ice, water and steam are the same water · *defined*
 **Definition:** Ice is water as a solid. Liquid water is water as a liquid. Steam is water as a gas. Cooling and warming change water from one state to another.
 
@@ -392,7 +401,7 @@ Arjun looked at the ice tray, the cold water in his bottle and the white cloud o
   - Note: Freezing changes the water into a solid, which keeps its own shape and can be held in a hand. If your child did not think of it, ask: what if the water were not a liquid?
 
 ## Worksheets
-### Keep, Flow or Spread? (core) (core, 12 questions)
+### Keep, Flow or Spread? (core) (core, 13 questions)
 1. (match) Draw a line from each word to what it does.  
    **Answer:** Solid → keeps its own shape; Liquid → flows and takes the shape of its container; Gas → spreads out to fill all the space; Steam → water as a gas. *Why:* These are the main words in this lesson. Each state does something different with its shape.
 2. (mcq) In the pouring test, the water went into the thin bottle and then back into the tumbler. Where did it come to?  
@@ -420,7 +429,9 @@ Arjun looked at the ice tray, the cold water in his bottle and the white cloud o
    **Answer:** It fills the whole balloon. *Why:* Air is a gas, and a gas spreads out to fill all the space it has. If you picked 'only to the bottom', you mixed up a gas with a liquid.
 12. (write) Say out loud, and a grown-up writes it down: name one solid, one liquid and one gas in your kitchen.  
    **Answer:** For example: a steel plate (solid), coconut oil on a warm day (liquid) and the steam from the idli pot (gas).. *Why:* A strong answer gives one of each and can say why: it keeps its shape, it flows, or it spreads out.
-### Ice, Water and Steam (stretch) (stretch, 12 questions)
+13. (match) Match each thing you use every day to what it is.  
+   **Answer:** a banana you peel and eat → a solid, because it keeps its shape; milk you pour into a glass → a liquid, because it flows; the air in a cycle tyre → a gas, because it fills the whole space. *Why:* Each one is a different state. A banana keeps its shape, milk flows into the glass, and air spreads out to fill the tyre.
+### Ice, Water and Steam (stretch) (stretch, 13 questions)
 1. (mcq) In the ice glove test, the glove was cut off. What shape was the ice?  
    Options: A round ball / A hand, with fingers / A flat puddle  
    **Answer:** A hand, with fingers. *Why:* The water froze in the shape of the glove. Ice is a solid, so it kept that shape after the glove was gone.
@@ -447,6 +458,8 @@ Arjun looked at the ice tray, the cold water in his bottle and the white cloud o
    **Answer:** Pour the kulfi milk into a fish-shaped mould, then put the mould in the freezer. *Why:* Liquid milk takes the shape of the mould. When it freezes into a solid, it keeps that fish shape. Frozen kulfi is a solid, so it cannot be poured.
 12. (count) An ice tray has 2 rows, with 6 little boxes in each row. How many ice cubes does it make?  
    **Answer:** 12. *Why:* 2 rows of 6 make 12. Each cube takes the shape of its little box, because the water was a liquid when it was poured in.
+13. (fill) Clean drinking water is clear. It has no ____, and almost no smell or taste.  
+   **Answer:** ['colour', 'color']. *Why:* Water is clear, so we say it has no colour. That helps us tell it from milk, which is white, or from tea, which is brown.
 
 ## Videos
 - **3 States of Matter for Kids: solid, liquid, gas** (Free School, 5 min) id `wclY8F-UoTE`: Shows solids keeping their shape, liquids pouring into new shapes and gases spreading out. *Check:* Found by search: "3 States of Matter for Kids (Solid, Liquid, Gas): Science for Children - FreeSchool" by Free School, 4 min 35 s. A parent may preview it.
@@ -484,6 +497,12 @@ Arjun looked at the ice tray, the cold water in his bottle and the white cloud o
 10. (mcq) Before the pouring test, what should you do first?  
    Options: Guess what will happen, and say why / Ask someone for the answer / Pour without looking  
    **Answer:** Guess what will happen, and say why. *Why:* A guess with a reason helps you notice when the test surprises you.
+11. (mcq) At lunch, why does Amma put dal in a katori, but she can pass a roti from hand to hand?  
+   Options: Dal is a liquid with no shape of its own, but a roti is a solid that keeps its shape / Dal is hotter than roti / A roti is lighter than dal / Dal cannot be eaten without a spoon  
+   **Answer:** Dal is a liquid with no shape of its own, but a roti is a solid that keeps its shape. *Why:* A liquid flows, so it needs a container to hold it. A solid keeps its own shape, so you can hold it in your hand. Dal being hotter or roti being lighter does not explain why one needs a katori.
+12. (mcq) Two glasses stand on the table. One has clean water and one has milk. You do not look at them. You only sniff and sip. What do you find?  
+   Options: The water has almost no smell or taste, and the milk has its own / Both have exactly the same smell and taste / The water is sweet and the milk has no taste / Neither one has a smell  
+   **Answer:** The water has almost no smell or taste, and the milk has its own. *Why:* Clean water has almost no smell or taste. Milk has its own smell and taste. So we can tell the two liquids apart even with our eyes closed.
 
 ## Applications
 - Moulds for kulfi, ice cubes and candles work because a liquid takes the shape of the mould, then sets into a solid that keeps that shape.

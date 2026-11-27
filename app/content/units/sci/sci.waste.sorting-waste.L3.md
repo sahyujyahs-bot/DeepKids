@@ -28,6 +28,7 @@
 - **Waste picker**: A person who collects and sorts waste and sells what can be recycled. Many are women. *e.g.* In Kerala, women of the Haritha Karma Sena collect sorted dry waste from homes.
 - **Mercury**: A silvery metal that is liquid at room temperature. It is poisonous to people and animals. *e.g.* Tube lights and the curly CFL bulbs hold a tiny amount of mercury. This is why they go in the danger box.
 - **Breed**: To have young. Mosquitoes breed by laying eggs in still water. *e.g.* Rain water caught in a thrown-away coconut shell or cup is a place where mosquitoes breed.
+- **Zero-waste village**: A village where almost nothing goes to a dump, because everyone sorts, composts and reuses their waste together. *e.g.* Silluk in Arunachal Pradesh has bamboo dustbins, compost pits and a cleaning morning every week.
 
 ## Explanations
 ### Three kinds of household waste · *defined*
@@ -58,17 +59,24 @@ Sorted wet waste can go to a compost pot at home, or to a city compost yard or b
 - e.g. Peels from a sorted green bin become compost for a balcony plant.
 - e.g. Clean newspapers from a sorted blue bin are sold by weight to the kabadiwala.
 - e.g. A bag of mixed waste goes to the dumping ground, where it can rot, smell and burn.
+### The best waste is the food we never throw · *defined*
+**Definition:** Food waste is good food that gets thrown away. We make less of it when we cook and serve only what will be eaten.
+
+Compost is good. Making less wet waste is better. Cook only as much rice and dal as your family will eat. Serve a little on the plate first, and take more if you are still hungry. Fresh leftovers can be eaten at the next meal. Sharing food is a lovely thing. When guests come, offer them food, and share fresh extra food with a neighbour, so that it is eaten and not binned. Peels, tea leaves and scraps that nobody can eat go to the compost pot or the wet bin. Growing, carrying and cooking food takes a farmer's work, water and fuel. Throwing it away wastes all of that.
+- e.g. Putting a little rice on the plate first, and taking a second helping if you are still hungry
+- e.g. Giving a bowl of fresh extra sabzi to a neighbour
+- e.g. Eating yesterday's dal with today's roti, and putting only the peels in the compost pot
 ### Dangerous waste needs its own box · *defined*
 **Definition:** Household hazardous waste is kept apart, wrapped and marked, because it can cut, poison or burn the people and animals who touch it later.
 
-Broken glass and used blades cut the hands of the people who sort waste, so wrap them in thick newspaper and write 'broken glass' on it. Tube lights and curly CFL bulbs hold a tiny amount of mercury, a poisonous metal, so do not break them. Phone and laptop batteries can catch fire when they are crushed in a garbage truck. Old medicines should never be flushed or thrown loose, because they can harm animals that eat them and get into water. Used diapers and sanitary pads are wrapped in newspaper and marked, so that nobody opens them. Keep a small box for dangerous waste, and ask your city or a shop that sells batteries or bulbs where it can be taken.
+Broken glass and used blades cut the hands of the people who sort waste, so wrap them in thick newspaper and write 'broken glass' on it. Tube lights and curly CFL bulbs hold a tiny amount of mercury, a poisonous metal, so do not break them. Phone and laptop batteries can catch fire when they are crushed in a garbage truck. Old medicines should never be flushed or thrown loose, because they can harm animals that eat them and get into water. Used diapers and sanitary pads are wrapped in newspaper and marked, so that nobody opens them. Keep a small box for dangerous waste, and ask your city or a shop that sells batteries or bulbs where it can be taken. Thick old cloth works as well as newspaper. For small bits of glass, wrap them in cloth first and then in paper. The wrapping is for the sanitation worker, whose bare hands will lift the bag later.
 - e.g. A broken glass tumbler wrapped in newspaper and marked 'broken glass'.
 - e.g. Old batteries kept in a jar until there are enough to take to a collection point.
 - e.g. A box of expired tablets kept aside, not thrown in the bin.
 ### How waste makes a home or lane unsafe · *defined*
 **Definition:** Open waste draws flies, rats, crows and stray animals, and thrown-away containers catch rainwater where mosquitoes breed.
 
-Food in an open bin smells, and flies, cockroaches and rats come to feed. Flies walk on the waste and then on our food, carrying germs. Animals tear open garbage bags on the road and scatter the waste further. Cows and dogs may swallow plastic bags with food in them. After rain, a thrown-away cup, tyre or coconut shell holds still water. Mosquitoes breed in it, and some of them spread dengue. Plastic bags block drains, so water floods the street. A bin with a lid, waste taken out every day, and nothing left where water can collect keep a home and a lane safe.
+Food in an open bin smells, and flies, cockroaches and rats come to feed. Flies walk on the waste and then on our food, carrying germs. Animals tear open garbage bags on the road and scatter the waste further. Cows and dogs may swallow plastic bags with food in them. After rain, a thrown-away cup, tyre or coconut shell holds still water. Mosquitoes breed in it, and some of them spread dengue. Plastic bags block drains, so water floods the street. A bin with a lid, waste taken out every day, and nothing left where water can collect keep a home and a lane safe. Why do cows swallow plastic bags? A bag with food scraps stuck inside smells like food, and a cow cannot tell the bag from the food. Plastic cannot be digested, so it stays in her stomach and can make her very ill. Burning plastic is not a cure. The smoke stings the eyes and makes people cough, and it carries harmful gases that spread through the whole lane. That is why plastic must go in the dry bin and not on a fire.
 - e.g. A coconut shell left on a terrace after rain can hold mosquito young within a week.
 - e.g. A bin with a lid keeps flies and ants out of the kitchen.
 - e.g. A drain blocked by plastic bags floods the road after a heavy shower.
@@ -79,6 +87,13 @@ Every bag a home throws out is touched again by somebody's hands. In many cities
 - e.g. A collector can sell a bundle of clean, dry newspaper. A soaked bundle is worth nothing.
 - e.g. A waste picker sorting a mixed bag can be cut by a blade hidden inside.
 - e.g. A thank-you and a sorted bag make a waste collector's day easier.
+### A village that took charge: Silluk · *defined*
+**Definition:** A zero-waste village is one where almost nothing is thrown away to a dump, because the people sort, compost and reuse their waste together.
+
+Silluk is a village of some 150 homes in East Siang district, Arunachal Pradesh. Until 2019 it was called the dirtiest village in the district. Cow dung lay on the roads, and waste lay in the corners. Then the villagers started a group called Swachh Silluk Abhiyan, which means the Clean Silluk Campaign. They held cleaning drives every week. They put up bamboo dustbins. They dug compost pits for wet waste. They packed plastic into bottles to make eco-bricks, so it did not blow about or burn. They moved the cows to graze across the river, with cowsheds and caretakers. They fined people who littered. Women's self-help groups helped a great deal, and children were taught to make less waste. Within about six months the village was clean. It was named the cleanest village of its district three times. Today, Silluk is in an NCERT Class 3 book. The story shows that sorting works best when neighbours do it together.
+- e.g. A bamboo dustbin at every house in the village
+- e.g. A compost pit that turns peels into soil for the vegetable plot
+- e.g. A weekly cleaning morning when the whole village comes out
 ### Whether every home should sort, or machines should do it · *debated*
 Nearly everyone agrees that sorted waste is easier to use. People disagree about who should do the sorting.
 - e.g. Bengaluru and Indore ask every home to hand over waste sorted.
@@ -512,7 +527,7 @@ Lissy chechi weighed the paper on her hanging scale and smiled. 'Now this,' she 
   - Check: At the Onam sadya, where should the used banana leaves go? → **In the wet bin, because leaves rot and can be composted**
 
 ## Worksheets
-### Which Bin? (core) (core, 15 questions)
+### Which Bin? (core) (core, 16 questions)
 1. (sort) Sort these things into wet waste and dry waste.  
    **Answer:** used tea leaves → Wet waste; a rinsed milk packet → Dry waste; eggshells → Wet waste; a cardboard box → Dry waste; leftover idli → Wet waste; a steel lid → Dry waste. *Why:* Wet waste is food and other things that rot. Dry waste is paper, plastic, metal, glass and cloth, which do not rot quickly.
 2. (mcq) Which of these is household hazardous waste?  
@@ -548,7 +563,9 @@ Lissy chechi weighed the paper on her hanging scale and smiled. 'Now this,' she 
    **Answer:** Tear off the clean part for the dry bin, and put the cheesy part in the wet bin. *Why:* Paper with food stuck on it cannot be recycled, but the clean part can. Separating them saves what can be saved.
 15. (write) Think of one thing from your kitchen today that was hard to sort. Which bin did you choose, and why?  
    **Answer:** A good answer names a real thing, such as a tea bag or a curd cup, picks a bin, and gives a reason from what rots, what soaks up liquid, or what is dangerous.. *Why:* A strong answer gives a reason, not only a bin. If you are unsure, say what you would check.
-### Why Sorting Matters (stretch) (stretch, 15 questions)
+16. (sort) Lunch is over. Sort these into 'eat or share' and 'compost pot'.  
+   **Answer:** fresh leftover rice from lunch → Eat or share; a banana peel → Compost pot; a bowl of dal, still fresh → Eat or share; used tea leaves → Compost pot. *Why:* Fresh food that is still good should be eaten or shared. Peels and tea leaves cannot be eaten, so they go to the compost pot.
+### Why Sorting Matters (stretch) (stretch, 16 questions)
 1. (mcq) In the Two-Jar Test, the milk packet from the sambar jar came clean when rinsed, but the biscuit-box piece stayed stained. What explains this?  
    Options: Cardboard is made of paper fibres that absorb liquid, and plastic is not / The biscuit box was older / Sambar likes cardboard more / The milk packet was rinsed for longer  
    **Answer:** Cardboard is made of paper fibres that absorb liquid, and plastic is not. *Why:* Cardboard is pressed paper fibres, so liquid soaks in. Plastic has no gaps, so liquid stays on the surface. Picking 'rinsed for longer' would mean the test was unfair, but both were rinsed for ten seconds.
@@ -583,7 +600,9 @@ Lissy chechi weighed the paper on her hanging scale and smiled. 'Now this,' she 
    **Answer:** A brown stain spreads into the newspapers below it. *Why:* The wet tea bag leaks tea, and the paper absorbs it. One wet thing can spoil many dry things beneath it. Tea bags go in the wet bin.
 15. (truefalse) About half of the waste Indian homes throw out is wet waste.  
    **Answer:** True. *Why:* True. Studies of Indian city waste find that roughly half is food and other things that rot. That is why composting wet waste makes such a big difference.
-### Thinking Like a Waste Scientist (challenge) (challenge, 15 questions)
+16. (truefalse) Burning a heap of plastic bags is a safe way to get rid of them.  
+   **Answer:** False. *Why:* False. Burning plastic makes smoke that stings the eyes and carries harmful gases. Plastic should go in the dry bin to be recycled.
+### Thinking Like a Waste Scientist (challenge) (challenge, 16 questions)
 1. (write) Sugar stirred into tea spreads out by itself, but it never gathers back into a lump. How is this like mixed waste?  
    **Answer:** Things mix by themselves when they touch, like sambar soaking into paper. Getting them apart again needs a lot of work, or can't be done. So it is easier to keep them apart from the start.. *Why:* A strong answer sees the same pattern in both: mixing happens by itself, unmixing does not.
 2. (mcq) You want to test whether wet waste spoils cotton cloth too. Which test is fair?  
@@ -618,6 +637,8 @@ Lissy chechi weighed the paper on her hanging scale and smiled. 'Now this,' she 
    **Answer:** ['methane']. *Why:* Methane is made when food rots without air. It is also the main gas in the biogas used for cooking in some homes.
 15. (write) In the story Lissy Chechi Says No, Lissy chechi, a waste collector, said: 'It takes one minute to mix. It takes a person all day to pull a mixed heap apart.' Do the Sorting Race and the Two-Jar Test agree with her? Explain.  
    **Answer:** Yes. In the Sorting Race, mixing took ten seconds, but sorting the mixed bowl took much longer than sorting as I threw. In the Two-Jar Test, some things could not be unmixed at all.. *Why:* A strong answer uses numbers or results from the child's own tests, not only agreement.
+16. (write) In Silluk, cows were moved across the river to graze. Why would this help keep the village clean? Name one other thing the villagers did.  
+   **Answer:** Cow dung lay on the roads. With the cows across the river, the roads stayed clean. The villagers also held weekly cleaning drives, dug compost pits, put up bamboo dustbins and fined people who littered.. *Why:* A strong answer joins the cows to the dung on the roads, and names one more shared action.
 
 ## Videos
 - **Revolutionising Waste Management and Recycling in India: Hasiru Dala Innovations** (GA Circular, 5 min) id `q-SM037KCDA`: Shows waste pickers in Bengaluru sorting dry waste by kind at a collection centre. It shows where a sorted blue bag really goes, and why clean dry waste matters. *Check:* A parent should preview it first.
@@ -661,6 +682,15 @@ Lissy chechi weighed the paper on her hanging scale and smiled. 'Now this,' she 
 12. (mcq) Which of these can be rinsed and still go in the dry bin?  
    Options: A newspaper soaked in sambar / A curd cup with curd on it / A paper plate covered in oil / A wet cardboard box  
    **Answer:** A curd cup with curd on it. *Why:* Plastic does not absorb liquid, so a rinsed curd cup is clean dry waste. Paper and cardboard soak up food and oil, so they can't be saved.
+13. (mcq) Why do cows sometimes swallow plastic bags?  
+   Options: The bag smells of the food stuck inside it / Cows like the taste of plastic / Plastic is good for a cow's stomach  
+   **Answer:** The bag smells of the food stuck inside it. *Why:* A cow cannot tell a bag with food scraps from the food. Plastic cannot be digested, so it stays in her stomach and makes her ill. Cows do not like plastic. They are fooled by the smell of food.
+14. (mcq) Guests come for lunch. How can your family make the least wet waste?  
+   Options: Cook twice as much, to be safe / Serve small helpings, offer more, and share fresh extra with a neighbour / Throw the extra rice in the dry bin  
+   **Answer:** Serve small helpings, offer more, and share fresh extra with a neighbour. *Why:* Small helpings mean less is left on plates, and fresh extra food can be shared. Cooking too much makes waste. Rice is wet waste, so it never goes in the dry bin.
+15. (mcq) What did the people of Silluk do to become a zero-waste village?  
+   Options: They waited for a big machine to come / They worked together: weekly cleaning, compost pits, bamboo dustbins and fines for littering / They burned all their waste at night  
+   **Answer:** They worked together: weekly cleaning, compost pits, bamboo dustbins and fines for littering. *Why:* The villagers did the work themselves, as neighbours. A machine did not do it for them, and burning waste would spread smoke and harmful gases.
 
 ## Applications
 - Cities like Indore and Mysuru collect waste already sorted, and turn wet waste into compost and dry waste into recycled material.

@@ -23,6 +23,7 @@
 - **Rest**: Stopping hard work so that your body can recover. Sitting quietly, lying down and sleeping are all kinds of rest. *e.g.* After a game of kabaddi, the players sit down and drink water.
 - **Sleep**: The long rest your body takes every day, usually at night. Your eyes close and you stop noticing most things around you. Your body and brain are still busy. *e.g.* A child of 7 who goes to bed at 9 at night and wakes at 7 in the morning sleeps for 10 hours.
 - **Recover**: To get back to how you were before. After exercise, your breathing and heartbeat recover and slow down again. *e.g.* In the Puff Count, your breathing takes a few minutes to recover after the fast dance.
+- **Asana**: A yoga pose. You hold your body in a shape, slowly and steadily, to stretch, balance and feel calm. *e.g.* In tree pose (vrikshasana) you stand on one leg and keep still, like a tree.
 
 ## Explanations
 ### Why you breathe faster when you move · *defined*
@@ -48,6 +49,13 @@ When you use a muscle again and again, over weeks it gets stronger. Your heart i
 - e.g. Climbing the stairs instead of taking the lift.
 - e.g. Dancing to a song for ten minutes before dinner.
 - e.g. Swimming in a pool or a tank, with a grown-up.
+- e.g. Playing kho-kho or kabaddi with friends on the school ground, or gilli-danda in the lane.
+### Asanas, and play as a healthy habit · *defined*
+**Definition:** An asana is a yoga pose that you hold slowly and steadily. Play is moving and laughing with friends for the joy of it.
+
+Not all exercise makes you puff. Asanas are slow poses that people in India have practised for a very long time. Standing tall like a mountain (tadasana) stretches your whole body. Standing on one leg like a tree (vrikshasana) trains your balance and the muscles of your legs. Play is a healthy habit of its own. When you play outside with friends, you move without noticing, you laugh, and you learn to take turns. That makes you feel cheerful, and it helps you sleep well at night.
+- e.g. Tree pose: stand on one leg, rest the sole of the other foot on your calf, and put your palms together above your head like leaves.
+- e.g. Playing gilli-danda or kho-kho in the lane with friends until the street lights come on.
 ### Where muscles get their energy · *defined*
 **Definition:** Muscles get their energy from food. They use oxygen to release the energy stored in food.
 
@@ -323,6 +331,12 @@ Then they both laughed so much that they could not count anything.
   *Child mode:* Put a hand on your tummy and feel your breathing. Think back over all four moves.
   - Ask: Which made you puff most? (good: The frog jumps, because I jumped with my whole body.; The crab walk made my arms tired.)
   - Think: Working muscles use oxygen. A frog's muscles work hard when she jumps. What would you expect a frog to do with her breathing after many jumps?
+- **s5 (4 min)**  
+  *Parent does:* 1. Show your child the mountain: stand with feet together and arms by the sides, then stretch the arms up and breathe slowly three times. 2. Show the tree: stand on one leg. Rest the sole of the other foot on the calf or inner thigh, never on the knee. 3. Put the palms together above the head and hold for five slow breaths. Then swap legs. A wall nearby can help with balance.  
+  *Parent says:* Stand tall like a mountain. Now be a tree in the wind. Stand on one leg and keep very still.  
+  *Child mode:* Hold the tree for five slow breaths. Then swap legs. Notice if your breathing is fast or slow now.
+  - Ask: Did the asanas make you puff like the frog jumps did? (good: No, my breathing stayed slow.; No, but my leg worked hard to hold me up.)
+  - Note: It is fine to wobble. Balance grows with practice, and the other leg is often harder.
 ### a2 · My Bedtime Steps: put what you do before bed in order (12 min)
 - **record:** Stick your bedtime cards in order on a sheet of paper. Put a star on the steps that help you feel sleepy.
 - **s1 (5 min)**  
@@ -422,7 +436,7 @@ Then they both laughed so much that they could not count anything.
   - Note: Moves that use big muscles for longer, such as lifting the knees or raising both arms, are the most likely to make breathing faster. This links back to the Puff Count, where working muscles used more oxygen. If no move made them puff, that is a fair result for gentle chair moves.
 
 ## Worksheets
-### Move and Rest (core) (core, 10 questions)
+### Move and Rest (core) (core, 11 questions)
 1. (mcq) In the puff count test, when did you take the most breaths?  
    Options: Sitting still, before the dance / Right after the dance / After 5 minutes of rest  
    **Answer:** Right after the dance. *Why:* Right after the dance your muscles had been working hard and using up oxygen, so you breathed fastest. Picking 'after 5 minutes of rest' may mean the counts were mixed up: by then most children are back near their first count.
@@ -444,7 +458,9 @@ Then they both laughed so much that they could not count anything.
    **Answer:** ['the two shapes in the chest: lungs', 'the fist-sized shape between them: heart', 'the top of the leg: leg muscle']. *Why:* The lungs take in the air. The heart pumps the blood. The leg muscle uses the oxygen to move.
 10. (perspective) Two children talk about after school. The first child is 6. The second child is his sister, aged 9.  
    **Answer:** A strong answer might agree with the second child, because sitting all day gives the muscles little work and play helps you sleep well. It also says the first child is right that his body may need some rest.. *Why:* Both are partly right. A body needs both moving and resting. Which comes first can depend on how the day went.
-### Breath and Sleep (stretch) (stretch, 10 questions)
+11. (fill) Kho-kho, kabaddi and gilli-danda are outdoor ________. Playing them is good for your body.  
+   **Answer:** ['games', 'play']. *Why:* Outdoor games and play make you move and laugh with friends. They are a healthy habit, next to food, rest and exercise.
+### Breath and Sleep (stretch) (stretch, 11 questions)
 1. (order) Put the steps of the puff count test in order.  
    **Answer:** order shown. *Why:* We count sitting still first, so we know what normal breathing is. Then we can compare.
 2. (mcq) In the three moves test, which move made breathing fastest?  
@@ -467,6 +483,8 @@ Then they both laughed so much that they could not count anything.
    **Answer:** ['mends', 'repairs', 'heals']. *Why:* In sleep the body grows and mends. A strong answer uses a word like mends, repairs or heals.
 10. (perspective) The first child's family is going to a cousin's wedding. It ends late at night, and there is school the next day.  
    **Answer:** A strong answer uses a fact about sleep: a child needs 9 to 12 hours, and too little sleep makes it hard to learn. It also sees the other side: a family wedding matters too.. *Why:* There is no single right answer. Each person cares about something real: joy, sleep, or school.
+11. (order) Put the steps of the tree pose in order.  
+   **Answer:** order shown. *Why:* You start on two steady feet, then lift one. Holding still is what trains balance, and swapping legs trains both sides.
 ### Body Detective (challenge) (challenge, 10 questions)
 1. (write) A child counted 12 breaths sitting still and only 13 after dancing. What might have gone wrong in the test? You can say it out loud and a grown-up can write it down.  
    **Answer:** The child may have waited too long before counting, or danced slowly, or counted the wrong way.. *Why:* A strong answer finds a reason in how the test was done: the count must start straight after a fast dance, and last exactly half a minute.
@@ -530,6 +548,12 @@ Then they both laughed so much that they could not count anything.
 11. (mcq) Where do your muscles get their energy from?  
    Options: From the food you eat / From your hair / From the TV  
    **Answer:** From the food you eat. *Why:* The energy is in food. Oxygen helps your muscles release it.
+12. (mcq) You stand on one leg like a tree (vrikshasana) and hold still for five breaths. What does this exercise train?  
+   Options: Your balance and the muscles of your legs / How fast you can run / How loudly you can breathe  
+   **Answer:** Your balance and the muscles of your legs. *Why:* The tree pose is slow and steady. It trains balance and the leg muscles that hold you up. You do not need to puff for it to be exercise.
+13. (mcq) Seema plays kho-kho with her friends every evening. Why is play good for her?  
+   Options: It moves her body and makes her feel cheerful / It uses up her sleep / It is only good for winning  
+   **Answer:** It moves her body and makes her feel cheerful. *Why:* Play is exercise you enjoy, and it helps you feel cheerful and sleep well. Winning is not the point of a healthy habit.
 
 ## Applications
 - Doctors count a child's breaths in one minute to check if they are ill. Fast breathing at rest can be a sign of a chest infection.

@@ -603,6 +603,22 @@ It was the sweetest thing I had tasted in weeks. It tasted like a festival.
   *Child mode:* Point to how full you feel now. Is it different from before?
   - Ask: How does your body tell you it is full? (good: My tummy feels stretched.; Food stops tasting so nice.; I feel slower.)
   - Think: Who in your home eats first, and who eats last? Does everyone get to stop when they are full, and eat when they are hungry?
+### a7 · A Week of Plates: check the week's food (15 min, 7 days)
+- **record:** The week's colour counts, one sentence on what was missing, and one change for next week.
+- **schedule:** day 1: Each evening, list the day's food and colour it, as in Yesterday's Plate. (2 min); day 7: Count each colour for the whole week, check the balance, and choose one change for next week. (13 min)
+- **s1 (3 min)**  
+  *Parent does:* 1. Each evening, list the day's food and mark each food with its colour dots, as in Yesterday's Plate. 2. Keep the seven sheets together.  
+  *Parent says:* Each night, colour what you ate. Yellow is for go, red for grow, green for glow and blue for drinks.  
+  *Child mode:* Each night, colour your food. Yellow, red, green, blue.
+- **s2 (7 min)**  
+  *Parent does:* 1. Count each colour across the seven days. 2. Ask: did most days have a red dot and a green dot? 3. Write one sentence for each answer.  
+  *Parent says:* Did most days have a body-building food? A vegetable or fruit? Which colour is missing most?  
+  *Child mode:* Count each colour for the week. Which colour is missing most?
+  - Note: Many children have plenty of yellow and few greens. Do not judge the week. Look for the one gap that shows most.
+- **s3 (5 min)**  
+  *Parent does:* 1. Choose one small change for next week, such as a bowl of curd with lunch or a handful of chana as a snack. 2. Pick one eating habit to try: for example, eating dinner without the TV or phone on, so you can notice when you are full.  
+  *Parent says:* What is one small change you can make next week? Which habit will you try?  
+  *Child mode:* Pick one change for next week. Pick one habit to try too.
 
 ## Projects
 ### p1 · The 30-Plant Week: feed your gut microbes (50 min, 7 days)
@@ -672,7 +688,7 @@ It was the sweetest thing I had tasted in weeks. It tasted like a festival.
   - Think: Mountaineers and soldiers in the Himalayas need much more energy than usual. Why do you think cold and climbing use so much?
 
 ## Worksheets
-### My Balanced Plate (core) (core, 15 questions)
+### My Balanced Plate (core) (core, 16 questions)
 1. (mcq) A woman eats rice and thin dal every day and always feels full. Yet she grows pale and ill. Why?  
    Options: Enough food is not the same as the right food. Her meals are missing something her body needs. / She ate too much rice / Feeling full always means the body is well fed  
    **Answer:** Enough food is not the same as the right food. Her meals are missing something her body needs.. *Why:* Her stomach is full, but her meals have almost no vegetables, fruit, milk or eggs. So her body is short of a vitamin it needs only a pinch of. A full stomach and a balanced diet are not the same thing.
@@ -685,29 +701,31 @@ It was the sweetest thing I had tasted in weeks. It tasted like a festival.
    **Answer:** Potato is mostly starch, so in the body it acts more like rice than like greens. *Why:* Potato grows in the soil like a vegetable, but it is mostly starch, which gives energy. So that plate is nearly all energy food. Greens, beans, carrots or gourds would fill the vegetable half.
 5. (fill) Food is broken into tiny pieces that are small enough to pass into the ____, which carries them to every cell.  
    **Answer:** ['blood', 'bloodstream']. *Why:* Digestion breaks food into tiny building blocks. These pass through the wall of the gut into the blood. The blood carries them to all your cells.
-6. (truefalse) Eating one plate of jalebis at a wedding makes your whole diet unhealthy.  
+6. (fill) If a week of colour dots has lots of yellow and no red, the plate is missing foods that are good for ____.  
+   **Answer:** ['grow']. *Why:* Red dots mark grow foods, which give protein to build and mend the body. Yellow dots mark go foods, which give energy.
+7. (truefalse) Eating one plate of jalebis at a wedding makes your whole diet unhealthy.  
    **Answer:** False. *Why:* False. A diet is what you usually eat over many days. Sweets on special days are part of a balanced diet. What matters is the everyday pattern.
-7. (mcq) Why is it better to eat vegetables of many colours, not the same one every day?  
+8. (mcq) Why is it better to eat vegetables of many colours, not the same one every day?  
    Options: Different vegetables carry different vitamins and minerals, so a mix gives the body more of what it needs / Bright colours make food taste better / One vegetable has every vitamin, so the colour does not matter  
    **Answer:** Different vegetables carry different vitamins and minerals, so a mix gives the body more of what it needs. *Why:* Orange carrots and pumpkin give beta-carotene, which the body turns into vitamin A. Dark green keerai gives iron and folate. Tomatoes and amla give vitamin C. No one vegetable has everything, so a mix fills more gaps.
-8. (mcq) In the Paper Window Test, which food left a see-through spot that stayed?  
+9. (mcq) In the Paper Window Test, which food left a see-through spot that stayed?  
    Options: Peanut / Apple / Water  
    **Answer:** Peanut. *Why:* Peanuts carry fat, which leaves a see-through spot that does not dry. Apple has almost no fat, and water dries away. If you picked water, you may have looked at the paper before the water had time to dry.
-9. (write) In the Paper Window Test, two friends rub plain chapati on paper. One friend's chapati leaves a see-through spot that stays. The other friend's leaves none. What could explain the difference?  
+10. (write) In the Paper Window Test, two friends rub plain chapati on paper. One friend's chapati leaves a see-through spot that stays. The other friend's leaves none. What could explain the difference?  
    **Answer:** The first chapati may have had ghee or oil on it. Fat leaves a see-through spot that stays, so the spot shows fat. The second chapati was plain.. *Why:* A strong answer says the first chapati carried some fat, such as ghee, and connects a spot that stays with fat.
-10. (match) Match each nutrient to one of its jobs.  
+11. (match) Match each nutrient to one of its jobs.  
    **Answer:** Protein → builds muscles, hair and skin; Calcium → makes bones and teeth hard; Iron → helps the blood carry oxygen; Vitamin C → helps mend cuts and take in iron. *Why:* Each nutrient has its own jobs. Protein builds the body. Calcium hardens bones. Iron carries oxygen in the blood. Vitamin C helps mend skin and take in iron from plant foods.
-11. (order) Put the journey of a spoon of dal in order.  
+12. (order) Put the journey of a spoon of dal in order.  
    **Answer:** ['mouth', 'stomach', 'small intestine', 'blood', 'muscle cell']. *Why:* The dal is chewed in the mouth. Acid and enzymes break it down in the stomach. In the small intestine it is cut into tiny pieces called amino acids. These pass into the blood. A muscle cell joins them to make new muscle protein.
-12. (write) Suppose you ate only dosa, every meal, every day. Dosa gives energy and some protein. What would your body be short of, and why?  
+13. (write) Suppose you ate only dosa, every meal, every day. Dosa gives energy and some protein. What would your body be short of, and why?  
    **Answer:** My body would be short of vitamins like vitamin C, minerals like calcium and iron, and fibre, because dosa has very little of these. No single food has every nutrient. So I would need vegetables, fruit, curd or milk too.. *Why:* A strong answer names at least two missing nutrients and gives the main idea: no single food has everything.
-13. (draw) Draw a balanced thali. Show the half for vegetables and fruit, and the two quarters.  
+14. (draw) Draw a balanced thali. Show the half for vegetables and fruit, and the two quarters.  
    **Answer:** A plate with half vegetables and fruit, a quarter grains, a quarter protein foods like dal or curd, and a glass of water.. *Why:* Drawing the plate in parts helps you remember the amounts: half vegetables and fruit, a quarter each for grains and protein.
-14. (write) Write a balanced dinner using food your family often cooks. Label each food go, grow or glow.  
+15. (write) Write a balanced dinner using food your family often cooks. Label each food go, grow or glow.  
    **Answer:** Any meal with all three kinds. For example: rice (go), sambar with toor dal (grow), beans poriyal (glow) and a glass of water.. *Why:* A balanced meal has at least one food from each group, with water. Using your own family's food shows you can do it at home.
-15. (truefalse) Water has no energy in it, so it is not a nutrient.  
+16. (truefalse) Water has no energy in it, so it is not a nutrient.  
    **Answer:** False. *Why:* False. A nutrient is anything the body needs from food and drink, not only things with energy. Water makes up more than half of your body. Blood, spit and the inside of every cell are mostly water.
-### Inside My Body (stretch) (stretch, 15 questions)
+### Inside My Body (stretch) (stretch, 16 questions)
 1. (mcq) Why do dal and rice make such a good pair?  
    Options: Each fills the other's gap in amino acids / They taste the same / Rice has no protein at all  
    **Answer:** Each fills the other's gap in amino acids. *Why:* Proteins are built from small pieces called amino acids. Grains are a little low in one of them, and dals are low in another. Eaten over the same day, they give the body the full set. Rice does have some protein, just not the perfect mix.
@@ -744,6 +762,8 @@ It was the sweetest thing I had tasted in weeks. It tasted like a festival.
    **Answer:** Mouth (chewing and spit), stomach and small intestine (cut into glucose), blood (carrying glucose), brain cell (burning glucose for energy).. *Why:* A strong drawing shows the three big ideas: food is broken down, carried by the blood, and used in a cell.
 15. (write) A girl is 9 and growing fast. Her grandmother is 70. They eat the same dal. Why might they need different amounts of food?  
    **Answer:** The girl is growing, so her cells need extra protein and minerals to build new bone and muscle. She also runs about a lot and burns more energy for her size. Her grandmother has stopped growing, so she may need less food, but still all the same kinds.. *Why:* A strong answer says that growing and moving use extra food, and that both still need many kinds.
+16. (write) At dinner the TV is on, and a child eats the whole plate without noticing when she is full. Name one change that could help her notice, and say why it might work.  
+   **Answer:** For example: turn off the TV and eat slowly, and stop halfway to check. A strong answer gives one change and a reason based on the body's signal of fullness.. *Why:* The body's signal of fullness takes a while to reach the brain. Paying attention to the meal gives that signal time to arrive.
 ### Thinking Like a Food Scientist (challenge) (challenge, 15 questions)
 1. (perspective) Trillions of tiny living beings called microbes live in your gut. They eat the fibre you cannot digest. People disagree about whether they are part of you.  
    **Answer:** A strong answer picks a side and gives a reason from the science, for example that microbes make acids that feed the cells of the large intestine, or that they have their own genes. It then answers back fairly from another view.. *Why:* Scientists and thinkers really do argue about this. Each view has evidence, so the strength is in the reasons.
@@ -827,6 +847,12 @@ It was the sweetest thing I had tasted in weeks. It tasted like a festival.
 13. (mcq) Your friend says 'sweets are bad food'. What does science say?  
    Options: No single food is good or bad. The whole diet over many days matters. / Sweets are poison / Sweets are the best food  
    **Answer:** No single food is good or bad. The whole diet over many days matters.. *Why:* Scientists look at the overall pattern. Sweets give quick energy and are fine sometimes. Lots of added sugar every day is linked to tooth decay and other problems. Picking 'sweets are poison' goes far beyond the evidence.
+14. (mcq) After a week of colour dots, a child has lots of yellow dots and almost no red or green. What is the best next step?  
+   Options: Add dal, paneer or curd each day, and a vegetable or fruit / Eat only yellow foods, since they get the most dots / Stop the diary, since the week is already balanced  
+   **Answer:** Add dal, paneer or curd each day, and a vegetable or fruit. *Why:* Yellow dots mean energy foods only. Red (grow) and green (glow) foods are missing. Dal, paneer or curd give protein, and vegetables or fruit give vitamins.
+15. (mcq) A child eats dinner with the TV on and finishes the whole plate without noticing. Which change helps her notice when she is full?  
+   Options: Eat slowly without the TV or phone, and check how full she feels halfway / Eat faster, so the plate is cleared sooner / Skip dinner, so the body has no food to notice  
+   **Answer:** Eat slowly without the TV or phone, and check how full she feels halfway. *Why:* Paying attention to the meal helps you notice the body's signal of fullness. Eating fast or skipping meals does not help the body tell you what it needs.
 
 ## Applications
 - School midday meals (PM POSHAN), planned to give children energy, protein and vitamins every school day.
@@ -932,7 +958,7 @@ Sunlight on My Plate (sci.food.L3): Topic-level song
 
 ## Plan
 - Start options: a1, story, a2, g1, e2, big_questions, cards
-- Default order: intro → a1 → a2 → summary → terms → explanations → a3 → story → g1 → e1 → videos → ws-core → e2 → a4 → g2 → a6 → e3 → agreed → challenging → a5 → p1 → ws-stretch → c1 → c2 → big_questions → ws-challenge → open_questions → roots → quiz
+- Default order: intro → a1 → a2 → summary → terms → explanations → a3 → story → g1 → e1 → videos → ws-core → e2 → a4 → g2 → a6 → e3 → agreed → challenging → a5 → p1 → ws-stretch → c1 → c2 → a7 → big_questions → ws-challenge → open_questions → roots → quiz
 - Core: a1, a2, a3, e1, e2, g1, ws-core, a4
 
 ## Sources

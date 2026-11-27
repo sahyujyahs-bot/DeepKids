@@ -85,7 +85,7 @@ Water is part of the weight of nearly every food, but the body cannot get energy
 ### Reading a food label · *defined*
 **Definition:** A food label is the table and the list printed on a packet. It says what is in the food and how much. In India it is required by law, under rules set by the Food Safety and Standards Authority of India.
 
-Start at the nutrition table. Look for the column per 100 grams, because it lets you compare one packet with another fairly. A second column, per serving, shows what the maker counts as one helping. Check how many servings there are in the pack. Then look at the lines: energy in kilocalories, protein, carbohydrate with the sugars inside it, fat, and sodium. Next read the ingredient list. Ingredients are listed from the most by weight to the least, so the first three tell you most of the story. A green dot in a square means vegetarian, and a brown dot means it holds egg, meat or fish. A +F sign means vitamins or minerals have been added. The date tells you when the food should be used by. Percentages on a label are usually worked out for an adult who needs about 2,000 kilocalories a day, so they can mislead for a child.
+Start at the nutrition table. Look for the column per 100 grams, because it lets you compare one packet with another fairly. A second column, per serving, shows what the maker counts as one helping. Check how many servings there are in the pack. Then look at the lines: energy in kilocalories, protein, carbohydrate with the sugars inside it, fat, and sodium. Next read the ingredient list. Ingredients are listed from the most by weight to the least, so the first three tell you most of the story. A green dot in a square means vegetarian, and a brown dot means it holds egg, meat or fish. A +F sign means vitamins or minerals have been added. The date tells you when the food should be used by. A best-before date means the food is at its best for taste and quality. A use-by date is about safety, so do not eat the food after it. Percentages on a label are usually worked out for an adult who needs about 2,000 kilocalories a day, so they can mislead for a child.
 - e.g. A biscuit packet shows 480 kilocalories per 100 grams, but only 120 per serving, because a serving is 25 grams.
 - e.g. If the first ingredient on a 'fruit' biscuit is sugar, the biscuit holds more sugar than fruit.
 - e.g. 'Sodium' is not salt. To find the salt, multiply the sodium by about two and a half.
@@ -468,7 +468,7 @@ That evening on the veranda, Ammamma drank her tea slowly, with two biscuits and
   - Think: Most of the weight of idli is water. What makes up most of the weight of chikki? Which pack gives more energy for the same weight, and why?
 
 ## Worksheets
-### Energy, Building and Protection (core) (core, 16 questions)
+### Energy, Building and Protection (core) (core, 17 questions)
 1. (mcq) Which job do rice, roti and ghee mostly do in a meal?  
    Options: They give energy / They give vitamins to protect the eyes / They build bones only  
    **Answer:** They give energy. *Why:* Rice and roti are rich in starch, and ghee is almost pure fat. Starch and fat are both fuels for the body. These foods do hold some other nutrients, but energy is their main job.
@@ -505,6 +505,8 @@ That evening on the veranda, Ammamma drank her tea slowly, with two biscuits and
    **Answer:** ['9', 'nine']. *Why:* Fat gives about 9 kilocalories in each gram. Carbohydrate and protein give about 4. These standard numbers are used to work out the energy on labels.
 16. (write) Why does a label show the energy per 100 grams as well as per serving?  
    **Answer:** Per 100 grams is the same weight for every food, so you can compare two packets fairly. Per serving shows only what the maker counts as one helping, which can be small.. *Why:* A strong answer says that per 100 grams is a fair comparison across foods, and that servings differ from packet to packet.
+17. (write) Say it out loud, and a grown-up writes it: a packet lists 'ragi flour, jaggery, groundnuts, salt'. Which two ingredients are the main ones, and how do you know?  
+   **Answer:** Ragi flour and jaggery. The list starts with the biggest amount by weight, so the first two are the main ones.. *Why:* A strong answer names the first two ingredients and says that the list goes from the most to the least by weight.
 ### How the Numbers Work (stretch) (stretch, 16 questions)
 1. (mcq) A groundnut should give about 3 kilocalories, but the water above its flame gains only 1. What does this show?  
    Options: Most of the heat escaped into the air, the tumbler and the smoke / Groundnuts hold less energy than the label says / The thermometer must be broken  
@@ -619,6 +621,9 @@ That evening on the veranda, Ammamma drank her tea slowly, with two biscuits and
 12. (mcq) What did the sealed-room measurements of the 1890s show about a living body?  
    Options: The energy going in matched the heat and work coming out, as with a fire / People make energy from nothing / Food holds no energy  
    **Answer:** The energy going in matched the heat and work coming out, as with a fire. *Why:* The volunteer's food energy matched the heat and work measured. So a living body follows the same energy rules as a fire, with nothing made or lost.
+13. (mcq) A packet says 'Best before' with a date. What does that date mostly tell you?  
+   Options: When the food is at its best for taste and quality / That the food will make you ill after that day / How many kilocalories the food holds  
+   **Answer:** When the food is at its best for taste and quality. *Why:* A best-before date is about taste and quality. A use-by date is the one about safety, so do not mix the two up.
 
 ## Applications
 - Reading labels to choose snacks with less sugar and salt in each 100 grams.

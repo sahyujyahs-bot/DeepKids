@@ -153,6 +153,20 @@
    "context": "A map is smaller than the place. How do you know how far apart two places really are? This card explains scale."
   },
   {
+   "concept": "Models: small stand-ins for big things",
+   "status": "defined",
+   "context": "How can something huge fit in your hands? This card explains models.",
+   "definition": "A model is a smaller or simpler stand-in for something real. It can show how big things are, and how their parts connect.",
+   "description": "A map is a model of a place. So is a toy train, a globe and a clay hill. A scale model shrinks every length by the same amount, just as a map does. If 1 centimetre in the model stands for 20 centimetres in a real room, a bed 2 metres long becomes 10 centimetres in the model. A drawing can be a model too. Draw your village with the school, the pond and the road, label each one, and add arrows for the way rainwater flows. You have shown how the parts connect, without drawing every stone. A model leaves things out, and that is why it is useful. You can hold it, measure it and try ideas on it. But it is not the real thing, so ask what it leaves out.",
+   "examples": [
+    "A globe is a model of the Earth, smaller by the same amount in every direction.",
+    "A cardboard model of a room, with a bed, a cupboard and a door in the right places.",
+    "A labelled drawing of rain running from a hill into a pond, with arrows for the water."
+   ],
+   "perspectives": [],
+   "art": "A real room on the left and a small cardboard model of the same room on the right, with a ruler beside each and the words 1 cm for 20 cm."
+  },
+  {
    "concept": "Grid references: naming a square",
    "status": "defined",
    "definition": "A grid reference names one square on a map with a letter and a number. You read along first, then up or down.",
@@ -184,7 +198,7 @@
    "concept": "Height on a flat map: contour lines",
    "status": "defined",
    "definition": "A contour line is a line on a map that joins places at the same height above sea level. Lines that are close together mean a steep slope.",
-   "description": "A map is flat, but land has hills. Contour lines show the hills. Suppose you sliced a hill at every 10 metres of height. Each slice would leave a ring on the ground. Drawn on a map, the rings are contour lines. A hill looks like rings inside rings, and the smallest ring is the top. Where the land is steep, the rings are packed close together. Where it is gentle, they are far apart. The lines never cross, because one place cannot be at two heights. Roads on a hill follow the contour lines, zigzagging up, so that the climb is gentle. Some maps colour the land between lines, with green for low land and brown for high land.",
+   "description": "A map is flat, but land has hills. Contour lines show the hills. Suppose you sliced a hill at every 10 metres of height. Each slice would leave a ring on the ground. Drawn on a map, the rings are contour lines. A hill looks like rings inside rings, and the smallest ring is the top. Where the land is steep, the rings are packed close together. Where it is gentle, they are far apart. The lines never cross, because one place cannot be at two heights. Roads on a hill follow the contour lines, zigzagging up, so that the climb is gentle. Some maps colour the land between lines, with green for low land and brown for high land. High mountains need many lines. The Himalayas rise along the north of India, and run on through Nepal, Bhutan and Tibet. Mount Everest, on the border of Nepal and Tibet, is about 8,848 metres above sea level. Nepal calls it Sagarmatha. On a contour map, the smallest ring at its top carries a number near 8,848, and the lines are packed close together on its steep sides.",
    "examples": [
     "The hairpin bends of the ghat road up to Kodaikanal or the Nilgiris follow the contour lines.",
     "A map of the Western Ghats has contour lines packed close together on the western side.",
@@ -226,7 +240,7 @@
    "concept": "Latitude and longitude: a grid for the whole Earth",
    "status": "defined",
    "definition": "Latitude is how far north or south of the equator a place is. Longitude is how far east or west of the line through Greenwich a place is. Together they name any place on Earth.",
-   "description": "People drew a grid over the whole Earth. Lines of latitude run round the Earth in circles, parallel to the equator. The equator is 0 degrees, and the North Pole is 90 degrees north. Lines of longitude run from the North Pole to the South Pole. The line through Greenwich, near London, is 0 degrees, and the numbers go east and west from there. Chennai is at about 13 degrees north and 80 degrees east. Kanyakumari is at about 8 degrees north, and Delhi at about 28.6 degrees north. One degree of latitude is about 111 kilometres on the ground, so the north-south gap between Chennai and Delhi is about 1,700 kilometres. The Tropic of Cancer, at 23.5 degrees north, crosses eight Indian states.",
+   "description": "You already name a place by its address. It goes from small to big: your house, your street, your village or town, your district, your state, your country, and then your planet, Earth. Each layer holds the one before it. On a globe, you can find India by following the address outwards. It lies in Asia, north of the equator, with the Indian Ocean to its south. Latitude and longitude do the same job as an address for the whole Earth, with just two numbers. People drew a grid over the whole Earth. Lines of latitude run round the Earth in circles, parallel to the equator. The equator is 0 degrees, and the North Pole is 90 degrees north. Lines of longitude run from the North Pole to the South Pole. The line through Greenwich, near London, is 0 degrees, and the numbers go east and west from there. Chennai is at about 13 degrees north and 80 degrees east. Kanyakumari is at about 8 degrees north, and Delhi at about 28.6 degrees north. One degree of latitude is about 111 kilometres on the ground, so the north-south gap between Chennai and Delhi is about 1,700 kilometres. The Tropic of Cancer, at 23.5 degrees north, crosses eight Indian states.",
    "examples": [
     "A phone map shows the latitude and longitude of any spot if you press and hold on it.",
     "Indian Standard Time is based on the line of longitude at 82.5 degrees east.",
@@ -2080,6 +2094,119 @@
      "caption": "2. Find the equator and Delhi on a globe."
     }
    ]
+  },
+  {
+   "id": "a7",
+   "title": "Our Room in Miniature: make a scale model",
+   "mins": 35,
+   "days": 1,
+   "context": "In this activity you build a flat model of your room, with every length shrunk by the same amount. You see how a model shows size, and how the things in the room sit beside each other.",
+   "materials": [
+    {
+     "item": "a measuring tape, or a long string and a ruler",
+     "qty": 1
+    },
+    {
+     "item": "a ruler marked in centimetres",
+     "qty": 1
+    },
+    {
+     "item": "a big sheet of paper or the back of an old calendar",
+     "qty": 1
+    },
+    {
+     "item": "old cardboard or card, for the furniture",
+     "qty": 1
+    },
+    {
+     "item": "scissors",
+     "qty": 1
+    },
+    {
+     "item": "glue or tape",
+     "qty": 1
+    },
+    {
+     "item": "a pencil and a notebook",
+     "qty": 1
+    }
+   ],
+   "schedule": [
+    {
+     "day": 1,
+     "mins": 35,
+     "what": "Measure the room and three things in it, shrink each length, and build the model on paper."
+    }
+   ],
+   "record": "A photo of your model with every piece labelled, and the table in your notebook that shows each real length, the model length and the scale you used.",
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 10,
+     "do": "1. Measure the length and width of the room in centimetres. 2. Measure three things in it, such as the bed, a cupboard and the door. Write the lengths in your notebook.",
+     "say": "Measure the room, and then three things in it. Write each one in centimetres.",
+     "kid": "Measure the room and three things in it. Write the numbers.",
+     "parent": "Let your child hold the tape. A room of 3 metres by 4 metres is 300 centimetres by 400 centimetres.",
+     "context": "This is the first step of the room model. You measure the real room."
+    },
+    {
+     "id": "s2",
+     "mins": 8,
+     "do": "1. Use the scale 1 centimetre for 20 centimetres. 2. Divide each length by 20. 3. Write the model lengths next to the real ones.",
+     "say": "Every length shrinks by the same amount. Divide each by 20. What is the model length?",
+     "kid": "Divide each real length by 20 to find its model length.",
+     "parent": "A room of 300 by 400 centimetres becomes 15 by 20 centimetres. A bed 200 centimetres long becomes 10 centimetres. If your room is much bigger, use 1 centimetre for 50 centimetres instead, and divide by 50.",
+     "check": {
+      "t": "mcq",
+      "q": "With 1 centimetre for 20 centimetres, a cupboard is 100 centimetres wide. How wide is it in the model?",
+      "options": [
+       "5 centimetres",
+       "20 centimetres",
+       "2,000 centimetres"
+      ],
+      "a": 0,
+      "why": "100 divided by 20 is 5. If you picked 2,000, you multiplied instead of dividing, and made the model bigger than the room."
+     },
+     "context": "In this step you shrink each length with the same scale."
+    },
+    {
+     "id": "s3",
+     "mins": 12,
+     "do": "1. Draw the floor of the room on the paper at the model size. 2. Cut out card rectangles for the bed, the cupboard and the door. 3. Place them on the floor, in the same places as in the real room, and glue them down. 4. Label each piece.",
+     "say": "Draw the floor, then cut the furniture to size. Put each piece where it is in the real room.",
+     "kid": "Draw the floor. Cut out the pieces. Place and label them.",
+     "ask": [
+      {
+       "q": "Which piece is the biggest in the room, and is it the biggest in the model?",
+       "good": [
+        "The bed, in both.",
+        "Yes, because every length shrank by the same amount."
+       ]
+      }
+     ],
+     "parent": "If a piece looks too big or too small, measure it again. It is almost always a division slip.",
+     "context": "In this step you build the model."
+    },
+    {
+     "id": "s4",
+     "mins": 5,
+     "do": "Look at the model. Ask your child to say one thing it shows well, such as how far the bed is from the door. Then ask what it leaves out, such as colour, height or what is inside the cupboard.",
+     "say": "What does your model show well? What does it leave out? Why is that all right?",
+     "kid": "Say one thing your model shows and one thing it leaves out.",
+     "parent": "A good answer: the model shows size and place, and leaves out colour, height and what things are made of. Like a map, a model keeps what the reader needs.",
+     "context": "In this step you think about what a model keeps and what it leaves out."
+    }
+   ],
+   "setup": [
+    {
+     "art": "A child kneeling on the floor holding a measuring tape along the length of a bed, with a notebook beside her.",
+     "caption": "1. Measure the room and three things in it."
+    },
+    {
+     "art": "A sheet of paper with a drawn floor, and small cardboard pieces for a bed, a cupboard and a door glued in place, each with a label.",
+     "caption": "2. Shrink every length by the same amount. Build the model."
+    }
+   ]
   }
  ],
  "projects": [
@@ -2669,6 +2796,57 @@
      "a": 0,
      "why": "The map stretches areas near the poles. Africa has about fourteen times the area of Greenland.",
      "outcome": 6
+    },
+    {
+     "t": "order",
+     "p": "Put these parts of an address in order, from the smallest place to the biggest.",
+     "items": [
+      "Country",
+      "House",
+      "State",
+      "Planet",
+      "District",
+      "Village"
+     ],
+     "a": [
+      "House",
+      "Village",
+      "District",
+      "State",
+      "Country",
+      "Planet"
+     ],
+     "why": "Each part holds the one before it. A village holds houses, a district holds villages, a state holds districts, and a country holds states. All the countries are on the planet Earth.",
+     "outcome": 1
+    },
+    {
+     "t": "match",
+     "p": "Match each place to what its contour lines would look like.",
+     "pairs": [
+      [
+       "The peak of Mount Everest",
+       "The smallest ring, with a number near 8,848"
+      ],
+      [
+       "A steep gorge",
+       "Lines packed close together"
+      ],
+      [
+       "A flat plain of the Ganga",
+       "Few lines, far apart"
+      ]
+     ],
+     "a": "pairs as given",
+     "why": "Contour lines show height above sea level. Close lines show a steep slope, far apart lines show flat land, and the highest ring marks the top.",
+     "outcome": 3
+    },
+    {
+     "t": "draw",
+     "p": "Draw a labelled model of how rainwater gets from a hill to a pond in a village. Use arrows. Then write one thing your drawing leaves out.",
+     "a": "A hill, a stream or slope with arrows, and a pond, each labelled. The child names something left out, such as the trees, the colours or the size of the pond.",
+     "why": "A good drawing shows how the parts connect with arrows and labels. It does not need to look like the real place, but the child should know what it leaves out.",
+     "art": "An empty box for drawing.",
+     "outcome": 2
     }
    ]
   },
@@ -2900,6 +3078,23 @@
      ],
      "why": "Mercator keeps directions true but stretches areas near the poles.",
      "outcome": 6
+    },
+    {
+     "t": "fill",
+     "p": "On a globe, India lies north of the ____, in the continent of Asia.",
+     "a": [
+      "equator"
+     ],
+     "why": "The equator is the line at 0 degrees of latitude. India is north of it. Kanyakumari is at about 8 degrees north, the southern tip of the mainland.",
+     "outcome": 1
+    },
+    {
+     "t": "write",
+     "p": "You build a model of your school hall at 1 centimetre for 50 centimetres. The hall is 12 metres long. How long is it in the model? Show your working.",
+     "lines": 3,
+     "a": "12 metres is 1,200 centimetres. 1,200 divided by 50 is 24. So the hall is 24 centimetres long in the model.",
+     "why": "A strong answer changes metres to centimetres first, then divides by 50. A model has the same scale at every length, so any other length in the hall can be found the same way.",
+     "outcome": 0
     }
    ]
   },
@@ -3277,6 +3472,54 @@
    "a": 0,
    "why": "Soundings that were close together showed ridges and valleys that wide soundings missed. Careful drawing of the numbers revealed the shape.",
    "outcome": 6
+  },
+  {
+   "t": "mcq",
+   "p": "A model of a classroom uses 1 centimetre for 20 centimetres. A real bench is 180 centimetres long. How long is it in the model?",
+   "opts": [
+    "9 centimetres",
+    "90 centimetres",
+    "3,600 centimetres"
+   ],
+   "a": 0,
+   "why": "180 divided by 20 is 9. In a model, every real length is divided by the same number. If you picked 3,600, you multiplied, and made the model bigger than the room.",
+   "outcome": 0
+  },
+  {
+   "t": "mcq",
+   "p": "Ria draws rain running from a hill into the village pond, with labels and arrows. What is her drawing?",
+   "opts": [
+    "A model that shows how the parts of a real place connect",
+    "A photograph, because it has to look exactly like the pond",
+    "A guess, because nobody can draw water"
+   ],
+   "a": 0,
+   "why": "A drawing can stand for something real and show how its parts connect, without copying every detail. That is what a model does. A drawing leaves things out, and it is still useful.",
+   "outcome": 2
+  },
+  {
+   "t": "mcq",
+   "p": "On a contour map of a mountain, the smallest ring at the top has the number 8,848 on it. What does the number tell you?",
+   "opts": [
+    "The top is about 8,848 metres above sea level",
+    "The climb is 8,848 metres long",
+    "The mountain is 8,848 metres wide"
+   ],
+   "a": 0,
+   "why": "Each contour line is a height above sea level, in metres. The smallest ring is the highest place. A map number for a ring never tells you how long the climb or how wide the mountain is.",
+   "outcome": 3
+  },
+  {
+   "t": "mcq",
+   "p": "A letter is addressed to a house in a village in Idukki district, in Kerala. Which layer of the address is just bigger than the village?",
+   "opts": [
+    "The district",
+    "The state",
+    "The house"
+   ],
+   "a": 0,
+   "why": "An address goes from small to big: house, street, village, district, state, country, planet. A district holds many villages. A state holds many districts.",
+   "outcome": 1
   }
  ],
  "videos": [
@@ -3805,6 +4048,7 @@
    "p1",
    "c1",
    "c2",
+   "a7",
    "big_questions",
    "ws-challenge",
    "open_questions",

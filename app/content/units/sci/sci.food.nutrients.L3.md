@@ -35,7 +35,7 @@
 ### What a nutrient is · *defined*
 **Definition:** A nutrient is a part of food that the body uses to live, grow, move and mend itself. Scientists sort nutrients into six kinds: carbohydrates, proteins, fats, vitamins, minerals and water.
 
-Your body takes food apart into its nutrients. It burns some of them for energy. It uses others to build new parts, like muscle, bone and blood. Your body needs large amounts of carbohydrates, proteins, fats and water every day. It needs only tiny amounts of vitamins and minerals, but it cannot stay healthy without them.
+Your body takes food apart into its nutrients. It burns some of them for energy. It uses others to build new parts, like muscle, bone and blood. Your body needs large amounts of carbohydrates, proteins, fats and water every day. It needs only tiny amounts of vitamins and minerals, but it cannot stay healthy without them. When a child gets too little food for a long time, the body wastes away. This illness is called marasmus.
 - e.g. A plate of curd rice gives carbohydrate from the rice, and protein, fat, calcium and water from the curd.
 - e.g. A guava gives water, sugar, fibre and a lot of vitamin C.
 ### Food groups: boxes to sort food · *defined*
@@ -77,7 +77,7 @@ Vitamin A helps your eyes see in dim light. It is in carrots, mangoes, papaya an
 ### Minerals: from rocks to your bones · *defined*
 **Definition:** Minerals are nutrients that come from rocks and soil. Plants take them up from the soil with water. We get them from plants, from animals that ate plants, and from water.
 
-Calcium makes bones and teeth hard. Ragi, milk, curd, til and green leaves give calcium. Iron is used by blood to carry oxygen. Green leaves, dal, ragi, eggs and fish give iron. Iodine helps the body grow and the brain develop. India adds iodine to most salt for this reason. Many minerals dissolve in water. That is why tap water can leave white rings when it dries on a steel tumbler.
+Calcium makes bones and teeth hard. Ragi, milk, curd, til and green leaves give calcium. Iron is used by blood to carry oxygen. Green leaves, dal, ragi, eggs and fish give iron. Iodine helps the body grow and the brain develop. India adds iodine to most salt for this reason. Too little iron can cause anaemia. The blood then carries less oxygen, so a child tires quickly. Too little iodine can cause goitre, a swelling at the front of the neck. Many minerals dissolve in water. That is why tap water can leave white rings when it dries on a steel tumbler.
 - e.g. 100 grams of ragi flour has nearly three times as much calcium as 100 millilitres of milk.
 - e.g. Iron from green leaves is taken in better when the meal also has vitamin C, like a squeeze of lemon.
 ### Water: the nutrient you need most of · *defined*
@@ -493,7 +493,7 @@ Arjun licked his finger, touched the sticky film and tasted it. 'Sweet,' he said
   - Check: Why does a sports day drink have a pinch of salt in it? → **Sweat carries salt out of the body, so the salt puts some back**
 
 ## Worksheets
-### What Is Inside Our Food (core) (core, 15 questions)
+### What Is Inside Our Food (core) (core, 16 questions)
 1. (mcq) Which of these is a nutrient?  
    Options: Protein / A spoon / A plate  
    **Answer:** Protein. *Why:* Protein is a part of food that your body uses to build and mend itself. A spoon and a plate hold food, but they are not part of it.
@@ -527,6 +527,8 @@ Arjun licked his finger, touched the sticky film and tasted it. 'Sweet,' he said
    **Answer:** ['starch']. *Why:* Starch is a long chain of sugar pieces joined together.
 15. (order) Put the steps of the milk-splitting test in order.  
    **Answer:** ['A grown-up heats the milk and pours it into tumblers', 'Add 1 tablespoon of each liquid and stir', 'Wait 3 minutes and look for lumps', 'Pour it through a cotton cloth']. *Why:* First the milk is heated. Then the liquids are added. Then you wait and look for lumps. Last, the cloth separates the curds from the whey.
+16. (write) Say it out loud, and a grown-up writes it: a child feels tired and looks pale. Which mineral may be missing, and what does it do in the blood?  
+   **Answer:** Iron may be missing. Iron helps the blood carry oxygen around the body.. *Why:* A strong answer names iron and says its job: carrying oxygen in the blood.
 ### Nutrients at Work (stretch) (stretch, 15 questions)
 1. (mcq) In a Sun-Dried Slices test, a potato slice kept about a fifth of its weight. A cucumber slice kept almost nothing. Which slice had more of something that is not water?  
    Options: The potato, because it has a lot of starch / The cucumber, because it is green / Both the same, because they were the same size  
@@ -638,6 +640,9 @@ Arjun licked his finger, touched the sticky film and tasted it. 'Sweet,' he said
 12. (mcq) Two scientists ate no protein, then climbed a mountain. They measured how much protein their bodies used. It was far too little to give the energy for the climb. What does this show?  
    Options: Muscles run mainly on carbohydrates and fats, not protein / Muscles run only on protein / Climbing needs no energy  
    **Answer:** Muscles run mainly on carbohydrates and fats, not protein. *Why:* The climb needed a lot of energy, but very little protein was used. So the energy must have come mostly from carbohydrates and fats.
+13. (mcq) A child is often tired and pale. Her blood has too little iron. What is this illness called?  
+   Options: Goitre, a swelling at the front of the neck / Anaemia, when the blood carries less oxygen / Marasmus, when the body wastes away  
+   **Answer:** Anaemia, when the blood carries less oxygen. *Why:* Too little iron causes anaemia, so the blood carries less oxygen and the child tires quickly. Goitre comes from too little iodine, and marasmus comes from too little food for a long time.
 
 ## Applications
 - Paneer, chhena for rasgulla, and cheese are all made by making milk's protein clump.

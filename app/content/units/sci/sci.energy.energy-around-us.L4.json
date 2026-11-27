@@ -217,7 +217,7 @@
    "status": "defined",
    "description": "A patch of sunny floor one metre by one metre receives about as much power as a 1,000 watt heater. The Sun still feels gentler than a heater, because the Sun's power is spread over the whole floor, and the air carries some of the heat away. In one hour, the sunlight that reaches the Earth carries roughly as much energy as all the people on Earth use in a whole year. Food, wind, rain, firewood, coal and petrol all hold energy that came from sunlight, either lately or long ago. We count their energy in joules, so we can compare them with the Sun's light using the same unit.",
    "examples": [
-    "A solar panel of one square metre may give about 150 to 200 watts of electricity at noon.",
+    "A solar panel of one square metre may give about 150 to 200 watts of electricity at noon. In a village with no grid, a few panels on a roof can fill a battery in the day. The battery then runs a fan and bulbs after dark.",
     "Wind is moving air that the Sun warmed unevenly.",
     "Coal and petrol hold energy that came from sunlight, through plants and sea creatures that lived millions of years ago."
    ],
@@ -1703,6 +1703,19 @@
    "a": false,
    "why": "False. The bill depends on watts times hours. A small appliance on for a long time can cost more than a big one used briefly.",
    "outcome": 4
+  },
+  {
+   "t": "mcq",
+   "p": "In a village, a solar panel fills a battery in the day, and the bulb lights at night. What happens to the energy?",
+   "a": 2,
+   "why": "Energy is never made or destroyed. In the panel, sunlight becomes electricity. The battery holds it, and the bulb turns it into light and some warmth. Choosing 'the battery makes new energy' breaks the rule that energy is never made.",
+   "outcome": 5,
+   "opts": [
+    "The battery makes new energy each night",
+    "Electricity is made from nothing at the panel",
+    "Sunlight changes into electricity, then into light",
+    "The bulb makes light with no energy used"
+   ]
   }
  ],
  "worksheets": [
@@ -2104,6 +2117,13 @@
      "a": "The movement of the weight turned into heat. A fluid that only flows could not be made out of movement. So heat can be made, and it is a form of energy.",
      "why": "A strong answer says heat was made from movement, which a fluid that only flows could not be.",
      "outcome": 6
+    },
+    {
+     "t": "write",
+     "p": "A village has no grid. Its roof panel charges a battery in the day, and a fan runs at night. Name each change of energy, from the Sun to the moving fan.",
+     "lines": 3,
+     "a": "Sunlight becomes electricity in the panel. The electricity is stored in the battery as stored energy. The battery's electricity drives the fan, where it becomes movement, and some of it spreads out as warmth.",
+     "why": "A full answer names each change in order, and notices that some energy spreads out as warmth at the end."
     }
    ]
   },

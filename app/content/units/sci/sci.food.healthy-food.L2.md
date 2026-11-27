@@ -19,6 +19,8 @@
 - **Energy foods**: Energy foods give your body most of the energy it uses. Grains, potatoes, sugar, ghee and oil are energy foods. *e.g.* Rice, ragi, chapati, idli, poha and potatoes are energy foods.
 - **Protect foods**: Protect foods help your body stay well and fight illness. They give tiny amounts of helpers called vitamins and minerals. *e.g.* Greens, carrots, tomatoes, guavas, amla, bananas and papaya are protect foods.
 - **Starch**: Starch is the main food stored in grains and potatoes. It is made of many sugar pieces joined in long chains. *e.g.* Rice, ragi, wheat and potatoes are full of starch.
+- **Cereal**: A cereal is a grain that people grow and eat, like rice, wheat, ragi or bajra. Cereals are full of starch. *e.g.* Rice in Kerala, wheat for chapati in Punjab and ragi in Karnataka.
+- **Pulse**: A pulse is the dried seed of a bean or lentil plant. Pulses give protein for growing. *e.g.* Moong, masoor, chana and rajma are all pulses. We cook them as dal.
 - **Saliva**: Saliva is the proper word for spit. It wets your food and starts breaking it down. *e.g.* Your mouth fills with saliva when you smell hot dosa.
 - **Treat**: A treat is a food we have now and then, in a small amount. Treats have lots of sugar, fat or salt, and very little that helps you grow or stay well. *e.g.* A laddu at Diwali, a piece of mysorepak, or a packet of chips on a trip.
 
@@ -30,6 +32,11 @@ Your body grows taller every year, mends a cut finger, and runs, thinks and keep
 - e.g. An idli with sambar and a banana gives energy from the idli, grow food from the dal in the sambar, and protect food from the vegetables and banana.
 - e.g. Poha with peanuts, peas and a squeeze of lemon is a breakfast with all three jobs.
 - e.g. Fish curry and rice, eaten in Bengal and Kerala, gives grow food and energy food. A side of greens adds protect food.
+### Food families, and food that mends · *idea*
+Foods come in families with their own names. Rice, wheat, ragi and bajra are cereals, which are grains. Dal, rajma, chana and moong are pulses, which are dried seeds of bean plants. Fruits, vegetables and milk are families too. Food also mends you. When you scrape your knee, the protein in dal, egg or paneer helps build new skin. The vitamin C in a guava, an amla or a lemon helps the cut close.
+- e.g. Chapati is made from wheat, a cereal. The dal you eat with it is a pulse.
+- e.g. A guava eaten after a scraped knee gives vitamin C to help the cut close.
+- e.g. Curd, a vegetable sabzi and a fruit are three more families on one plate.
 ### How energy foods give us energy · *defined*
 **Definition:** Energy foods are full of starch, and starch is long chains of sugar. Your body cuts the chains into sugar and uses the sugar for energy.
 
@@ -40,7 +47,7 @@ Rice and chapati do not taste sweet, but their starch is made of sugar pieces jo
 ### Treats in small amounts · *defined*
 **Definition:** Treats give lots of energy from sugar or fat, but little to help you grow or protect you. So they are best now and then, in small amounts.
 
-Sweets, sweet drinks, chips and fried snacks taste very good and give a lot of energy quickly. But they do little to help you grow or to protect you. If treats fill your tummy, there is less room for foods that build and protect you. Sugar also stays on your teeth, where tiny living beings called bacteria feed on the sugar and make acid. So a treat is for sometimes, like payasam at Onam or a sweet at Durga Puja.
+Sweets, sweet drinks, chips and fried snacks taste very good and give a lot of energy quickly. But they do little to help you grow or to protect you. If treats fill your tummy, there is less room for foods that build and protect you. Sugar also stays on your teeth, where tiny living beings called bacteria feed on the sugar and make acid. So a treat is for sometimes, like payasam at Onam or a sweet at Durga Puja. Many people call these foods junk food. A plate of dal, rice, sabzi and curd is the opposite. It fills you up and helps you grow, run and stay well.
 - e.g. Many sweet fizzy drinks have about 4 to 5 teaspoons of sugar in one 200 ml glass.
 - e.g. A small plate of murukku at Diwali is a treat. A plate every day after school is not.
 - e.g. A guava gives sweetness and vitamins that protect you, together. A packet of sweets gives only the sweetness.
@@ -51,6 +58,16 @@ Most foods are a mix. Milk gives protein to grow, fat and sugar for energy, and 
 - e.g. Ragi gives energy, and also a lot of calcium for bones.
 - **Teachers and doctors who use three food groups:** Grow, energy and protect are easy to remember, and they help a family plan a meal with a bit of everything.
 - **Nutrition scientists:** Real foods are mixtures. They count the protein, starch, fat, vitamins and minerals in each food, and use more than three groups.
+### Water, the drink your body needs · *idea*
+More than half of your body is water. Water carries the good parts of food around your body in your blood. It also leaves your body as sweat, which cools you on a hot day, and as pee, which takes away waste. You lose water all day, so you must drink to replace it. Water gives no energy and does not build muscle like dal does. But without it, no food can do its work. Thirst is your body asking for water.
+- e.g. After a game of kabaddi your shirt is wet with sweat. A glass of water gives back what you lost.
+- e.g. On a hot day in Rajasthan, people drink chaas, nimbu pani and plain water from a matka to stay cool inside.
+- e.g. Fruits like watermelon and cucumber have a lot of water in them, so they help too.
+### Different ages need different food · *idea*
+A tiny baby needs only milk for about the first six months, and mother's milk is best. Then the baby slowly starts soft foods like mashed rice, dal water and banana. In many Indian families this first rice is a small ceremony called annaprashan. A child is growing taller every year, so a child needs plenty of grow foods like dal, milk and eggs, and energy foods for running and play. Grandparents have finished growing. Their teeth are often weaker, so they eat softer food like khichdi and curd. Many elders also eat less salt and sugar, and need calcium to keep bones strong. Everyone still needs all three jobs of food, just in different amounts and in a form their body can manage.
+- e.g. A six-month-old tastes a smear of mashed banana. A seven-year-old eats an egg and a chapati.
+- e.g. A grandmother with weak teeth has soft khichdi with ghee and a glass of buttermilk.
+- e.g. The whole family sits at one meal, but each plate is a little different.
 
 ## Mostly agreed
 - The body needs protein to grow and mend, energy to move and keep warm, and vitamins and minerals to stay well. *How we know:* Children who do not get enough protein grow slowly. People who go without certain vitamins fall ill in ways doctors know well, and get better when those foods are added back.
@@ -352,7 +369,7 @@ That evening, Lakshmi lay on the cool floor and thought. Ammamma's payasam had l
   - Ask: Why only one treat? (good: So there is room for the other foods.; Too much sugar hurts my teeth.; A treat is special because it is not every day.)
 
 ## Worksheets
-### Three jobs, and the spit test (core, 10 questions)
+### Three jobs, and the spit test (core, 12 questions)
 1. (sort) Colour each food by its main job: red for grow, yellow for go, green for protect.  
    **Answer:** dal → Grow; rice → Go; carrot → Protect; egg → Grow; ragi mudde → Go; guava → Protect. *Why:* Dal and egg are rich in protein, for growing. Rice and ragi are mostly starch, for energy. Carrot and guava give vitamins that protect.
 2. (match) Draw a line from each job to what it does for you.  
@@ -376,7 +393,11 @@ That evening, Lakshmi lay on the cool floor and thought. Ammamma's payasam had l
    **Answer:** Rice and chapati give sugar too, because the body cuts their starch into sugar. *Why:* Starch is sugar pieces joined in chains. Spit and the gut cut the chains, so starchy foods give sugar even when they do not taste sweet.
 10. (truefalse) A guava can taste sweet and still be a protect food.  
    **Answer:** True. *Why:* True. A guava has some sugar, and lots of vitamin C. Taste does not tell you a food's job.
-### Thinking about food jobs (stretch, 10 questions)
+11. (match) Draw a line from each person to the food that suits them best.  
+   **Answer:** A baby of four months → Only milk; A seven-year-old who plays all day → Dal, rice, egg or milk, and fruit; A grandmother with weak teeth → Soft khichdi and curd. *Why:* Everyone needs the three jobs of food, but a baby, a child and an elder need them in different forms and amounts.
+12. (fill) Rice, wheat and ragi are ______. Dal, rajma and chana are ______.  
+   **Answer:** ['cereals', 'pulses']. *Why:* Cereals are grains. Pulses are dried seeds of bean and lentil plants.
+### Thinking about food jobs (stretch, 12 questions)
 1. (write) Say it out loud, and a grown-up writes it: why does a chapati start to taste sweet if you chew it for a long time?  
    **Answer:** Spit cuts the starch in the chapati into sugar, and we can taste the sugar.. *Why:* A strong answer says that the starch was there all along, and spit turns some of it into sugar while you chew.
 2. (perspective) A girl and her grandmother are talking about milk.  
@@ -400,6 +421,11 @@ That evening, Lakshmi lay on the cool floor and thought. Ammamma's payasam had l
 10. (odd) Three of these are grow foods. Which one is not?  
    Options: Egg / Fish / Dal / Rice  
    **Answer:** 3. *Why:* Egg, fish and dal are rich in protein for growing. Rice is mostly starch, so it is a go food.
+11. (write) Say it out loud, and a grown-up writes it: your friend says, 'Water is not food, so it does nothing for me.' What would you say?  
+   **Answer:** Water gives no energy, but more than half of my body is water. It carries food parts in my blood and leaves as sweat to cool me, so I must keep drinking.. *Why:* A strong answer says water is not a food that gives energy or builds muscle, and also says what it does for the body.
+12. (mcq) Your grandfather has a cut on his hand. Which meal helps it heal best?  
+   Options: Dal, an egg and a guava / Only sweet tea / A packet of chips  
+   **Answer:** Dal, an egg and a guava. *Why:* Dal and egg give protein to build new skin. A guava gives vitamin C to help the cut close. Sweet tea and chips give little of either.
 
 ## Videos
 - **Why do we have saliva?** (SciShow Kids, 3 min) id `SZYA9cQpSCU`: Shows that saliva in the mouth starts breaking food down, the first step of digestion. *Check:* Found by search: "Why Do We Have Saliva?" by SciShow Kids, 2 min 54 s. A parent may preview it.
@@ -439,6 +465,18 @@ That evening, Lakshmi lay on the cool floor and thought. Ammamma's payasam had l
    **Answer:** So that only one thing changed, and the test was fair. *Why:* In a fair test, only one thing changes. Here it was what we stirred into the paste: water or spit.
 11. (truefalse) A small treat at a festival is fine, as part of a meal with grow, go and protect foods.  
    **Answer:** True. *Why:* True. Treats are part of the fun of festivals. The trouble comes when treats are eaten often and push other foods out.
+12. (mcq) Moong, masoor and chana are dried seeds that we cook as dal. Which food family are they?  
+   Options: Cereals / Pulses / Fruits  
+   **Answer:** Pulses. *Why:* Pulses are dried seeds of bean and lentil plants, and they give protein. Cereals are grains like rice and wheat. Fruits grow on plants as fleshy, often sweet, parts.
+13. (mcq) You scrape your knee. Which meal helps new skin grow back?  
+   Options: Dal, rice and a guava / A packet of chips and a sweet fizzy drink / Only a plate of jalebi  
+   **Answer:** Dal, rice and a guava. *Why:* The protein in dal helps build new skin, and the vitamin C in a guava helps the cut close. Chips, fizzy drinks and jalebi are treats with little of either.
+14. (mcq) After a hot game your shirt is wet with sweat. Why should you drink water?  
+   Options: Your body lost water in the sweat and needs it back / Water gives you the energy that rice gives / Water builds muscle, like dal  
+   **Answer:** Your body lost water in the sweat and needs it back. *Why:* Sweat is mostly water, so you must replace it. Water gives no energy and does not build muscle, but food cannot do its work without it.
+15. (mcq) Why does a baby of four months get only milk, and not rice and dal?  
+   Options: Milk has all a tiny baby needs, and the baby's body is not ready for other food yet / Babies do not need to grow / Rice and dal are poison for everyone  
+   **Answer:** Milk has all a tiny baby needs, and the baby's body is not ready for other food yet. *Why:* A tiny baby's body can manage milk, and milk gives all three jobs. Soft foods start slowly at about six months. Babies grow very fast, and rice and dal are fine later.
 
 ## Applications
 - Doctors and nurses check what young children eat, and give extra grow foods to children who are growing slowly.

@@ -74,6 +74,12 @@
    "meaning": "To get back to how you were before. After exercise, your breathing and heartbeat recover and slow down again.",
    "example": "In the Puff Count, your breathing takes a few minutes to recover after the fast dance.",
    "art": "Four small pictures of the same child: dancing, puffing, sitting, and then calm and smiling."
+  },
+  {
+   "term": "Asana",
+   "meaning": "A yoga pose. You hold your body in a shape, slowly and steadily, to stretch, balance and feel calm.",
+   "example": "In tree pose (vrikshasana) you stand on one leg and keep still, like a tree.",
+   "art": "A child standing on one leg in tree pose, palms together above the head, on a mat."
   }
  ],
  "explanations": [
@@ -116,10 +122,24 @@
     "Hopscotch drawn with chalk on the floor of a flat's parking area.",
     "Climbing the stairs instead of taking the lift.",
     "Dancing to a song for ten minutes before dinner.",
-    "Swimming in a pool or a tank, with a grown-up."
+    "Swimming in a pool or a tank, with a grown-up.",
+    "Playing kho-kho or kabaddi with friends on the school ground, or gilli-danda in the lane."
    ],
    "perspectives": [],
    "art": "A child hopping across a chalk hopscotch grid, with small drawings around them of a strong heart, a bone and a smiling face."
+  },
+  {
+   "concept": "Asanas, and play as a healthy habit",
+   "status": "defined",
+   "context": "This card adds two more kinds of moving: yoga poses, and play with friends.",
+   "definition": "An asana is a yoga pose that you hold slowly and steadily. Play is moving and laughing with friends for the joy of it.",
+   "description": "Not all exercise makes you puff. Asanas are slow poses that people in India have practised for a very long time. Standing tall like a mountain (tadasana) stretches your whole body. Standing on one leg like a tree (vrikshasana) trains your balance and the muscles of your legs. Play is a healthy habit of its own. When you play outside with friends, you move without noticing, you laugh, and you learn to take turns. That makes you feel cheerful, and it helps you sleep well at night.",
+   "examples": [
+    "Tree pose: stand on one leg, rest the sole of the other foot on your calf, and put your palms together above your head like leaves.",
+    "Playing gilli-danda or kho-kho in the lane with friends until the street lights come on."
+   ],
+   "perspectives": [],
+   "art": "A child in tree pose on a mat on one side, and a group of children playing kho-kho in a lane on the other side."
   },
   {
    "concept": "Where muscles get their energy",
@@ -948,7 +968,7 @@
     {
      "id": "s4",
      "mins": 3,
-     "context": "This is the last step of the animal moves. You compare the four moves.",
+     "context": "In this step you compare the four moves.",
      "do": "1. Ask the questions below. 2. Let your child put a hand on their tummy to feel their breathing.",
      "say": "Think back over all four moves. Which one was gentle, like a rest?",
      "kid": "Put a hand on your tummy and feel your breathing. Think back over all four moves.",
@@ -962,6 +982,24 @@
       }
      ],
      "think": "Working muscles use oxygen. A frog's muscles work hard when she jumps. What would you expect a frog to do with her breathing after many jumps?"
+    },
+    {
+     "id": "s5",
+     "mins": 4,
+     "context": "This is the last step of the animal moves. You try two yoga asanas, the mountain and the tree.",
+     "do": "1. Show your child the mountain: stand with feet together and arms by the sides, then stretch the arms up and breathe slowly three times. 2. Show the tree: stand on one leg. Rest the sole of the other foot on the calf or inner thigh, never on the knee. 3. Put the palms together above the head and hold for five slow breaths. Then swap legs. A wall nearby can help with balance.",
+     "say": "Stand tall like a mountain. Now be a tree in the wind. Stand on one leg and keep very still.",
+     "kid": "Hold the tree for five slow breaths. Then swap legs. Notice if your breathing is fast or slow now.",
+     "ask": [
+      {
+       "q": "Did the asanas make you puff like the frog jumps did?",
+       "good": [
+        "No, my breathing stayed slow.",
+        "No, but my leg worked hard to hold me up."
+       ]
+      }
+     ],
+     "parent": "It is fine to wobble. Balance grows with practice, and the other leg is often harder."
     }
    ]
   },
@@ -1561,6 +1599,30 @@
    "a": 0,
    "why": "The energy is in food. Oxygen helps your muscles release it.",
    "outcome": 1
+  },
+  {
+   "t": "mcq",
+   "p": "You stand on one leg like a tree (vrikshasana) and hold still for five breaths. What does this exercise train?",
+   "opts": [
+    "Your balance and the muscles of your legs",
+    "How fast you can run",
+    "How loudly you can breathe"
+   ],
+   "a": 0,
+   "why": "The tree pose is slow and steady. It trains balance and the leg muscles that hold you up. You do not need to puff for it to be exercise.",
+   "outcome": 2
+  },
+  {
+   "t": "mcq",
+   "p": "Seema plays kho-kho with her friends every evening. Why is play good for her?",
+   "opts": [
+    "It moves her body and makes her feel cheerful",
+    "It uses up her sleep",
+    "It is only good for winning"
+   ],
+   "a": 0,
+   "why": "Play is exercise you enjoy, and it helps you feel cheerful and sleep well. Winning is not the point of a healthy habit.",
+   "outcome": 4
   }
  ],
  "worksheets": [
@@ -1714,6 +1776,15 @@
      "lines": 3,
      "a": "A strong answer might agree with the second child, because sitting all day gives the muscles little work and play helps you sleep well. It also says the first child is right that his body may need some rest.",
      "why": "Both are partly right. A body needs both moving and resting. Which comes first can depend on how the day went."
+    },
+    {
+     "t": "fill",
+     "p": "Kho-kho, kabaddi and gilli-danda are outdoor ________. Playing them is good for your body.",
+     "a": [
+      "games",
+      "play"
+     ],
+     "why": "Outdoor games and play make you move and laugh with friends. They are a healthy habit, next to food, rest and exercise."
     }
    ]
   },
@@ -1834,6 +1905,21 @@
      "lines": 3,
      "a": "A strong answer uses a fact about sleep: a child needs 9 to 12 hours, and too little sleep makes it hard to learn. It also sees the other side: a family wedding matters too.",
      "why": "There is no single right answer. Each person cares about something real: joy, sleep, or school."
+    },
+    {
+     "t": "order",
+     "p": "Put the steps of the tree pose in order.",
+     "items": [
+      "Stand tall on both feet",
+      "Lift one foot and rest its sole on the other calf",
+      "Put your palms together above your head",
+      "Hold still for five slow breaths",
+      "Swap legs and try again"
+     ],
+     "a": "order shown",
+     "why": "You start on two steady feet, then lift one. Holding still is what trains balance, and swapping legs trains both sides.",
+     "context": "This question is about the tree pose (vrikshasana) at the end of the animal moves activity.",
+     "how": "a1"
     }
    ]
   },

@@ -102,6 +102,12 @@
    "art": "A river seen from above splitting into many branches like the fingers of a hand as it reaches the sea."
   },
   {
+   "term": "Mangrove",
+   "meaning": "A mangrove is a tree that grows in salty mud at the mouth of a river, with roots that stand in the water and take in air.",
+   "example": "The Sundarbans in West Bengal is a mangrove forest, and so is Pichavaram in Tamil Nadu.",
+   "art": "A mangrove tree at low tide, with arched roots in the mud, little roots pointing up like pencils, and a small fish hiding among them."
+  },
+  {
    "term": "Barrage",
    "meaning": "A low wall with gates built across a river, to raise the water and send some of it into canals. A dam is a higher wall that holds back a deep lake.",
    "example": "The barrage at Dowleswaram on the Godavari sends water to the canals of the delta.",
@@ -112,6 +118,12 @@
    "meaning": "Finding things by making a sound and listening for the echo that comes back.",
    "example": "A Ganga river dolphin finds a fish in muddy water by echolocation. Many bats find moths in the dark in the same way.",
    "art": "A river dolphin sending out curved sound lines that bounce back from a fish."
+  },
+  {
+   "term": "Coral reef",
+   "meaning": "A coral reef is a long ridge in warm shallow sea, built over thousands of years by tiny animals called corals. Fish and many other sea animals live in it.",
+   "example": "The Gulf of Mannar in Tamil Nadu and the islands of Lakshadweep have coral reefs.",
+   "art": "A colourful reef under the sea with branching corals, a clownfish, a turtle and a shoal of small fish."
   },
   {
    "term": "Pressure",
@@ -169,7 +181,7 @@
    "concept": "The sunlit layer feeds everything below it",
    "status": "defined",
    "definition": "Plants and algae can make food only where there is enough light. In water, that is the top layer, called the sunlit zone. Almost every animal in the water depends on food made there.",
-   "description": "A lake has three parts. Near the shore the water is shallow, so light reaches the bottom. Rooted plants such as lotus, water lily and reeds grow there, and young fish hide among them. In the open water the bottom is too deep for roots. The food makers there are phytoplankton, tiny drifting algae and bacteria. They must stay in the sunlit zone to live. Below the sunlit zone no food is made. The animals there eat what sinks down: dead plankton, droppings and dead animals. The sea is built the same way, only far deeper. Phytoplankton in the top 200 metres of the sea make about half of all the oxygen made on Earth each year. So the amount of life in a whole lake or sea depends on a thin bright layer at the top. If mud or waste makes the water turbid, that layer becomes thinner, and less food is made.",
+   "description": "A lake has three parts. Near the shore the water is shallow, so light reaches the bottom. Rooted plants such as lotus, water lily and reeds grow there, and young fish hide among them. In the open water the bottom is too deep for roots. The food makers there are phytoplankton, tiny drifting algae and bacteria. They must stay in the sunlit zone to live. Below the sunlit zone no food is made. The animals there eat what sinks down: dead plankton, droppings and dead animals. The sea is built the same way, only far deeper. Phytoplankton in the top 200 metres of the sea make about half of all the oxygen made on Earth each year. So the amount of life in a whole lake or sea depends on a thin bright layer at the top. If mud or waste makes the water turbid, that layer becomes thinner, and less food is made. Pond plants grow in three ways. Lotus and water lily are rooted in the mud. Their long stalks lift their leaves and flowers up to the light. Water hyacinth and duckweed float free. They have no roots in the mud, and their roots hang in the water. Water hyacinth came to India from South America. She spreads so fast that she can cover a whole pond, and then no light reaches the plants below.",
    "examples": [
     "Lotus and water lily grow only near the edge of a deep tank, where their stalks can reach from the mud to the light.",
     "A catfish at the bottom of a lake eats worms, and the worms eat dead plankton that sank from the top.",
@@ -195,7 +207,7 @@
    "concept": "A river changes from source to sea, and so do those who live in the river",
    "status": "defined",
    "definition": "A river starts small, steep and fast, and ends wide, flat and slow. The water, the bed and the food change along the way, so different living beings fit each stretch.",
-   "description": "Near the source, the stream is narrow and often shaded by forest. The water is cold, clear and full of oxygen, because it tumbles over rocks. Little light reaches it, so few algae grow. The main food is dead leaves that fall in from the trees. Insect young shred the leaves, and small fish eat the insects. Animals here have flat bodies or suckers, to hold on in the current. In the middle stretch the river is wider, and sunlight reaches the bed. Algae grow on the stones, and snails and insects graze on them. Big strong swimmers live here, such as the mahseer. In the last stretch the river is deep, slow and turbid. Few plants grow on the dark bed. The food is fine bits washed down from upstream, and plankton drifting in the slow water. Catfish, carp, turtles, river dolphins and crocodiles live here. Scientists call this pattern the river continuum. It fits many rivers well. It fits less well where a river crosses a dry land or is cut by many dams.",
+   "description": "Near the source, the stream is narrow and often shaded by forest. The water is cold, clear and full of oxygen, because it tumbles over rocks. Little light reaches it, so few algae grow. The main food is dead leaves that fall in from the trees. Insect young shred the leaves, and small fish eat the insects. Animals here have flat bodies or suckers, to hold on in the current. In the middle stretch the river is wider, and sunlight reaches the bed. Algae grow on the stones, and snails and insects graze on them. Big strong swimmers live here, such as the mahseer. In the last stretch the river is deep, slow and turbid. Few plants grow on the dark bed. The food is fine bits washed down from upstream, and plankton drifting in the slow water. Catfish, carp, turtles, river dolphins and crocodiles live here. Scientists call this pattern the river continuum. It fits many rivers well. It fits less well where a river crosses a dry land or is cut by many dams. A fish uses her fins to move and to steer. The tail fin sweeps from side to side and pushes her forward. The fins on her sides steer and stop her. The fin on her back keeps her upright. A fast swimmer like the mahseer has a strong tail. A fish who holds on in a fast stream, like the hill-stream loach, has wide flat fins that press on the rock.",
    "examples": [
     "The Kaveri begins at Talakaveri in the forested hills of Kodagu and reaches the sea after about 800 kilometres.",
     "The humpback mahseer, a very large fish, lives only in the Kaveri and its tributaries. She needs clean, flowing, rocky stretches.",
@@ -216,6 +228,24 @@
    ],
    "perspectives": [],
    "art": "A view from above of a brown river in flood spreading over green fields, with small fish drawn swimming out among the flooded grass."
+  },
+  {
+   "concept": "Mangroves: forests in salty mud",
+   "status": "defined",
+   "context": "At a river's mouth the silt builds new land. This card shows the forest that grows on it, and what that forest does.",
+   "definition": "Mangroves are trees that grow in the salty mud where a river meets the sea. Their roots hold the soil, slow the waves and shelter young fish.",
+   "description": "Mud at a river's mouth is soft, salty and short of air. Mangrove trees have found ways to live in it. Some have arched stilt roots that spread wide and hold the tree up. Others send up small roots that stand out of the mud like pencils, and these take in air. Together, the roots hold the mud, so the tide does not wash the land away. They also slow the waves, so a storm does less harm to the land behind. Among the roots, young fish, crabs and prawns hide and feed. The Sundarbans is the largest mangrove forest in the world. It stands where the Ganga, Brahmaputra and Meghna meet the sea, in India and Bangladesh. Fishers, crab catchers and honey collectors live and work on its edge. It is also home to the Bengal tiger, who swims from island to island.",
+   "examples": [
+    "After cyclones, villages behind thick mangroves have often had less damage than villages with none.",
+    "The Pichavaram mangroves in Tamil Nadu are a maze of small waterways where egrets and fish live."
+   ],
+   "perspectives": [
+    {
+     "who": "People of the Sundarbans",
+     "explanation": "The forest feeds us with fish, crabs and honey, and it stands between us and the storm. But it is also home to tigers, so we must enter with care and respect."
+    }
+   ],
+   "art": "The Sundarbans at low tide: stilt roots and pencil roots in grey mud, young fish and crabs among the roots, a fisher in a small boat and a tiger standing on a bank."
   },
   {
    "concept": "Fish who travel between the sea and the river",
@@ -255,6 +285,38 @@
    ],
    "perspectives": [],
    "art": "A tall side view of the ocean divided into five bands from pale blue at the top to black at the bottom, each band labelled with its depth and one animal."
+  },
+  {
+   "concept": "Coral reefs: a city built by tiny animals",
+   "status": "defined",
+   "context": "The sunlit zone of the sea holds one of the richest homes on Earth. This card shows how a reef is made.",
+   "definition": "A coral reef is a ridge in warm, shallow, sunlit sea, built by tiny living animals called corals, and it shelters many kinds of fish and other sea animals.",
+   "description": "Corals look like stones or plants, but they are animals. Each coral animal is called a polyp and is only a few millimetres wide. She makes a hard cup of limestone around her body. Over thousands of years, many polyps living side by side build a reef. Tiny algae live inside the polyp's body. The algae use sunlight to make food, and they share it with her. This is why reefs grow only in warm, clear, shallow water. A reef covers less than 1 part in 100 of the sea floor, yet about a quarter of all kinds of sea animals live in or near reefs. The branches and holes give young fish places to hide and feed. A reef also breaks the waves before they reach the shore. When the water gets too warm, the polyp pushes out her algae and turns white. This is called bleaching. Corals can recover if the water cools soon.",
+   "examples": [
+    "The Gulf of Mannar, off Tamil Nadu, has reefs where fishing families have fished for generations.",
+    "The Lakshadweep islands are made of coral reefs, which rise only a few metres above the sea.",
+    "Warm sea water has bleached reefs near the Andaman Islands and in many other seas."
+   ],
+   "perspectives": [
+    {
+     "who": "Fishing families of the Gulf of Mannar",
+     "explanation": "The reef is our field and our kitchen. We know where the fish gather, and we want it to stay healthy. We also need to fish to live, so we must be careful together."
+    }
+   ],
+   "art": "A cut-away of a warm shallow sea: coral polyps with tiny green algae inside, a reef with fish hiding in the branches, waves breaking against it, and a fishing boat above."
+  },
+  {
+   "concept": "Why the sea matters to the whole Earth",
+   "status": "defined",
+   "context": "A reef is one small part of the sea. This card looks at the whole sea and what it gives to every place on Earth, even far from the coast.",
+   "definition": "The sea gives oxygen, takes in heat and carbon dioxide, and feeds people. Its life matters to all of Earth, not only to the coast.",
+   "description": "The plankton of the sunlit zone make about half of our oxygen. So one in every two breaths you take comes from the sea. The sea also takes in much of the extra heat and carbon dioxide that people put into the air. Carbon dioxide is a gas that traps heat. And fish from the sea are the main food of millions of coastal families. If reefs, mangroves and plankton are harmed, these gifts shrink. That is why people look after the sea, even people who live far from it.",
+   "examples": [
+    "A family in Delhi, far from the sea, still breathes oxygen made by sea plankton.",
+    "A fishing family in Kerala eats and sells sardines every week."
+   ],
+   "perspectives": [],
+   "art": "The Earth seen from space, with arrows from the blue sea carrying oxygen up, heat and carbon dioxide into the sea, and fish to a fishing boat."
   },
   {
    "concept": "Pressure in the deep sea, and why it does not crush those who live there",
@@ -2467,6 +2529,35 @@
      "outcome": 0
     },
     {
+     "t": "sort",
+     "p": "Sort these pond plants. Are they rooted in the mud, or floating free on the water?",
+     "cats": [
+      "Rooted in the mud",
+      "Floating free"
+     ],
+     "items": [
+      [
+       "Lotus",
+       "Rooted in the mud"
+      ],
+      [
+       "Water lily",
+       "Rooted in the mud"
+      ],
+      [
+       "Water hyacinth",
+       "Floating free"
+      ],
+      [
+       "Duckweed",
+       "Floating free"
+      ]
+     ],
+     "a": "see items",
+     "why": "Lotus and water lily have roots in the mud and long stalks up to the light. Water hyacinth and duckweed float, with no roots in the mud.",
+     "outcome": 1
+    },
+    {
      "t": "order",
      "p": "Put these in order, as a river flows from source to sea.",
      "items": [
@@ -2626,6 +2717,14 @@
      "outcome": 6
     },
     {
+     "t": "write",
+     "p": "A hill-stream loach has wide flat fins pressed to the rock. A mahseer has a strong tail fin. Why does each have the fins she has?",
+     "lines": 3,
+     "a": "The loach lives in fast water, and her wide flat fins hold her to the rock so the current does not sweep her away. The mahseer swims for long distances in a river, and her strong tail pushes her forward.",
+     "why": "A strong answer links each fin to the work its owner has to do: holding on in a fast stream, or driving a strong swimmer forward.",
+     "outcome": 3
+    },
+    {
      "t": "sort",
      "p": "Sort these. Is the food made inside this habitat, or brought in from outside?",
      "cats": [
@@ -2725,6 +2824,14 @@
      "a": "Warm water holds less oxygen, and at night no algae are making any. With no wind, little oxygen comes in from the air. Stirring brings water to the surface, where it takes up oxygen.",
      "why": "A strong answer names the surface as the place where oxygen enters, and says that stirring brings deep water there.",
      "outcome": 2
+    },
+    {
+     "t": "write",
+     "p": "A cyclone is coming to a village on the Sundarbans coast. How could the mangroves help the village, and how could the village help the mangroves?",
+     "lines": 4,
+     "a": "The thick roots slow the waves and hold the mud, so the village behind them gets less damage. The village can help by not cutting the mangrove trees for fuel or building, and by leaving the roots alone.",
+     "why": "A strong answer says that roots slow the waves and hold the soil, and then names one way people can protect the trees.",
+     "outcome": 4
     },
     {
      "t": "perspective",
@@ -2938,6 +3045,14 @@
      "outcome": 6
     },
     {
+     "t": "write",
+     "p": "Many people never see the sea. Give two reasons why the loss of coral reefs and sea life matters to them too.",
+     "lines": 4,
+     "a": "Sea plankton make about half of the oxygen that everyone breathes. The sea also takes in heat and a gas called carbon dioxide from the air. Reefs shelter young fish that feed millions of people, and they break waves that would hit the coast.",
+     "why": "A strong answer gives two real reasons, such as oxygen, heat, food or coastal protection, and says who is helped by each.",
+     "outcome": 5
+    },
+    {
      "t": "draw",
      "p": "Draw three glasses with warm brown water on top: still, windy and iced. Show where the brown water goes.",
      "a": "The still glass has a brown layer on top and clear water below. The windy glass has ripples and the same two layers. The iced glass has thin brown streams falling and brown water at the bottom.",
@@ -3004,6 +3119,19 @@
   },
   {
    "t": "mcq",
+   "p": "Which pond plant floats free on the water, with roots that hang down and do not touch the mud?",
+   "opts": [
+    "Water hyacinth",
+    "Lotus",
+    "Water lily",
+    "Reed"
+   ],
+   "a": 0,
+   "why": "Water hyacinth floats on swollen stalks that hold air. Lotus, water lily and reeds are rooted in the mud. Water hyacinth came from South America and can spread over a whole lake, which cuts off light for the plants below.",
+   "outcome": 1
+  },
+  {
+   "t": "mcq",
    "p": "Why does warm water stay on top of cold water in a lake?",
    "opts": [
     "Warm water is lighter",
@@ -3043,6 +3171,19 @@
   },
   {
    "t": "mcq",
+   "p": "Which fin of a fish does most of the pushing forward?",
+   "opts": [
+    "The tail fin",
+    "The fin on the back",
+    "The small fin on the belly",
+    "The fin of a loach"
+   ],
+   "a": 0,
+   "why": "The tail sweeps from side to side and pushes the fish through the water. The back fin keeps her upright, and the side fins steer and brake.",
+   "outcome": 3
+  },
+  {
+   "t": "mcq",
    "p": "Why do many river fish lay their eggs on flooded land?",
    "opts": [
     "The young find food and hiding places there",
@@ -3052,6 +3193,19 @@
    ],
    "a": 0,
    "why": "Warm shallow flood water fills with plankton and insects, and plants give cover. The young return to the river as the flood goes down.",
+   "outcome": 4
+  },
+  {
+   "t": "mcq",
+   "p": "How do the roots of mangrove trees help the coast?",
+   "opts": [
+    "They hold the mud and slow the waves",
+    "They stop the river from flowing",
+    "They make the water fresh",
+    "They stop silt from settling"
+   ],
+   "a": 0,
+   "why": "Thick roots hold the soil in place and slow waves, so a storm does less harm to the land behind. They do not stop the river or take away the salt.",
    "outcome": 4
   },
   {
@@ -3066,6 +3220,19 @@
    "a": 0,
    "why": "Hilsa live in the sea and breed in rivers. A wall with no suitable way round cuts the journey.",
    "outcome": 4
+  },
+  {
+   "t": "mcq",
+   "p": "Why do coral reefs hold so many kinds of fish and other sea animals?",
+   "opts": [
+    "The reef gives food and hiding places in warm, sunlit water",
+    "Reefs are the deepest part of the sea",
+    "Fish cannot live anywhere else",
+    "Corals make the sea water fresh"
+   ],
+   "a": 0,
+   "why": "Reefs grow only in warm, bright, shallow water. Their many nooks give young fish and small animals a place to hide and feed. They are not deep, and the sea stays salty.",
+   "outcome": 5
   },
   {
    "t": "mcq",

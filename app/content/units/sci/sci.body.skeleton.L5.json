@@ -48,6 +48,18 @@
    "art": "A straight arm with the muscle on the back of the upper arm coloured."
   },
   {
+   "term": "Voluntary muscle",
+   "meaning": "A muscle that moves when you decide it should.",
+   "example": "The muscles in your fingers are voluntary. You decide to pick up a spoon, and they move.",
+   "art": "A hand picking up a spoon with a small arrow from the head to the fingers."
+  },
+  {
+   "term": "Involuntary muscle",
+   "meaning": "A muscle that works by itself, without you deciding.",
+   "example": "Your heart is an involuntary muscle. It keeps beating while you sleep.",
+   "art": "A heart and a gut, each with a small sleeping moon beside it."
+  },
+  {
    "term": "Muscle fibre",
    "meaning": "One muscle cell. It is long and very thin, and a muscle is a bundle of thousands of them.",
    "example": "Pull a thread from a piece of cooked chicken, or look at the strings in the flesh of a cooked fish. Each thread is a bundle of muscle fibres.",
@@ -153,6 +165,18 @@
    "art": "A hand pulling a bucket up on a rope beside an arm muscle pulling a forearm up, with the word 'pull' on both."
   },
   {
+   "concept": "Muscles you choose and muscles that work alone",
+   "status": "defined",
+   "definition": "A voluntary muscle moves when you decide it should. An involuntary muscle works without you deciding.",
+   "description": "Your body has about six hundred named muscles. You choose to move some of them. These are voluntary muscles, such as the muscles of your hands, feet and fingers. You decide to pick up a pencil, and your fingers do it. Other muscles work by themselves, all day and all night. These are involuntary muscles. Your heart is one. It keeps squeezing while you sleep. The muscles in the walls of your intestines are another. After you eat a roti, they squeeze it slowly along, and you never have to ask them. Both kinds can only pull, and both are made of the same sliding threads.",
+   "examples": [
+    "Voluntary: the muscles that move your fingers when you write, and your feet when you walk to school.",
+    "Involuntary: your heart beating, and your intestines squeezing food along."
+   ],
+   "perspectives": [],
+   "art": "A child's hand reaching for a roti, with arrows showing the finger muscles, and beside it a heart and a gut drawn with a small sleeping moon."
+  },
+  {
    "concept": "Inside a muscle: threads that slide",
    "status": "defined",
    "definition": "A muscle fibre is packed with two kinds of protein thread, called actin and myosin. A muscle contracts when the myosin threads pull the actin threads past them. The threads do not shrink. They slide.",
@@ -180,10 +204,22 @@
    "art": "An arm drawn twice. In one the front muscle is short and the back muscle is long. In the other the back muscle is short and the front muscle is long."
   },
   {
+   "concept": "Counting your bones: the longest and the smallest",
+   "status": "defined",
+   "definition": "An adult skeleton has 206 bones. A baby is born with more, and some join together as the child grows.",
+   "description": "The longest bone in your body is the thigh bone. It runs from your hip down to your knee. The smallest bones are deep inside your ears. Each ear has three tiny ones, and the smallest of them is smaller than a grain of rice. When a sound shakes your eardrum, these bones pass the shaking inward. That is how you hear a bell or a friend's voice. Bones meet at joints, and joints are where your body bends.",
+   "examples": [
+    "The thigh bone is the longest bone. Put your hand on the top of your leg and feel how long the bone under it must be.",
+    "The smallest bone is in the ear, inside your head, where you cannot feel it at all."
+   ],
+   "perspectives": [],
+   "art": "A child's skeleton standing beside a ruler, the thigh bone coloured long and orange, with a tiny ear bone drawn big in a circle beside the head."
+  },
+  {
    "concept": "Six kinds of moving joint",
    "status": "defined",
    "definition": "A joint is a place where two bones meet. The shape of the bone ends decides how the joint can move. There are six main kinds of moving joint.",
-   "description": "A hinge joint bends one way and back, like a door. Your elbow, your knee and the joints in your fingers are hinges. A ball and socket joint has a ball on one bone in a cup on the other, so it can swing in a full circle. Your shoulder and your hip are of this kind. A pivot joint lets one bone turn round. One pivot at the top of your neck turns your head. Another near your elbow turns your palm up and down. A saddle joint bends two ways, and the base of your thumb has one. An ellipsoid joint is an oval knob in an oval cup. It bends two ways but cannot spin, and your wrist is one. A gliding joint has flat surfaces that slide a little, as between the small bones of your wrist and ankle. Some joints do not move at all. The plates of your skull are locked together by zigzag joints called sutures. There is a price for free movement. A joint that can swing every way, like the shoulder, has to be held in place mostly by muscles and ligaments, and not by the fit of the bones.",
+   "description": "A hinge joint bends one way and back, like a door. Your elbow, your knee and the joints in your fingers are hinges. A ball and socket joint has a ball on one bone in a cup on the other, so it can swing in a full circle. Your shoulder and your hip are of this kind. A pivot joint lets one bone turn round. One pivot at the top of your neck turns your head. Another near your elbow turns your palm up and down. A saddle joint bends two ways, and the base of your thumb has one. An ellipsoid joint is an oval knob in an oval cup. It bends two ways but cannot spin, and your wrist is one. A gliding joint has flat surfaces that slide a little, as between the small bones of your wrist and ankle. Some joints do not move at all. The plates of your skull are locked together by zigzag joints called sutures. There is a price for free movement. A joint that can swing every way, like the shoulder, has to be held in place mostly by muscles and ligaments, and not by the fit of the bones. So joints fall into two groups. Movable joints, such as the knee, elbow, wrist and fingers, bend or turn. Immovable joints, such as the ones between the plates of the skull, do not move at all.",
    "examples": [
     "Hinge: elbow, knee, finger joints.",
     "Ball and socket: shoulder, hip.",
@@ -2080,6 +2116,44 @@
      "why": "A strong drawing shows the two muscles on opposite sides of the upper arm bone. Only one is short in each picture.",
      "art": "Two blank outlines of an arm from shoulder to hand, one bent and one straight.",
      "outcome": 1
+    },
+    {
+     "t": "fill",
+     "p": "The smallest bones in the body are inside the ____.",
+     "a": [
+      "ear"
+     ],
+     "why": "The three tiny bones of each ear pass the shaking of a sound inward, so you can hear. The longest bone, the thigh bone, is at the other end of the body.",
+     "outcome": 2
+    },
+    {
+     "t": "sort",
+     "p": "Sort each muscle by whether you choose to move it.",
+     "cats": [
+      "Voluntary",
+      "Involuntary"
+     ],
+     "items": [
+      [
+       "fingers writing",
+       "Voluntary"
+      ],
+      [
+       "feet kicking a football",
+       "Voluntary"
+      ],
+      [
+       "heart beating",
+       "Involuntary"
+      ],
+      [
+       "intestines squeezing food along",
+       "Involuntary"
+      ]
+     ],
+     "a": "see items",
+     "why": "You decide when to write or kick, so those muscles are voluntary. Your heart and intestines keep working without you deciding.",
+     "outcome": 0
     }
    ]
   },
@@ -2282,6 +2356,35 @@
      "a": "Any view with a reason from the unit. For example: an exoskeleton must be moulted, and the animal is soft and in danger each time. But a tube on the outside is strong for its weight.",
      "why": "Each view has something right. A strong answer names a real gain and a real cost, such as armour and moulting.",
      "outcome": 4
+    },
+    {
+     "t": "sort",
+     "p": "Sort each joint into movable or immovable.",
+     "cats": [
+      "Movable",
+      "Immovable"
+     ],
+     "items": [
+      [
+       "elbow",
+       "Movable"
+      ],
+      [
+       "knee",
+       "Movable"
+      ],
+      [
+       "wrist",
+       "Movable"
+      ],
+      [
+       "between the plates of the skull",
+       "Immovable"
+      ]
+     ],
+     "a": "see items",
+     "why": "The elbow, knee and wrist bend or turn. The skull plates are locked together to protect the brain.",
+     "outcome": 2
     }
    ]
   },
@@ -2484,6 +2587,13 @@
      "a": "Any view with a reason. For example: in the Water Balloon Worm, the water passed one pair of hands' squeeze to the other pair, which is what a bone does for two muscles. But the water did nothing until the balloon shut it in.",
      "why": "Scientists do call it a skeleton, because of the job it does. A strong answer says what job a skeleton does and tests the liquid against that.",
      "outcome": 5
+    },
+    {
+     "t": "truefalse",
+     "p": "The human body has about six hundred named muscles, and only a few are voluntary.",
+     "a": false,
+     "why": "False. Most of the muscles you move on purpose, in your arms, legs, hands and face, are voluntary. The heart and the gut muscles are the ones that work alone.",
+     "outcome": 0
     }
    ]
   }
@@ -2646,6 +2756,45 @@
    "why": "Only the finger changes. The ruler, the helper, the hand position and the way of measuring stay the same, so the numbers can be compared.",
    "outcome": 7,
    "how": "e2"
+  },
+  {
+   "t": "mcq",
+   "p": "Which is the longest bone in an adult's body?",
+   "opts": [
+    "The thigh bone",
+    "The bone of the upper arm",
+    "The bone of the spine",
+    "The bone of the skull"
+   ],
+   "a": 0,
+   "why": "The thigh bone runs from the hip to the knee and is the longest bone we have. The smallest bone is not in the arm or the leg at all. It is deep inside the ear.",
+   "outcome": 2
+  },
+  {
+   "t": "mcq",
+   "p": "Which of these joints does not move?",
+   "opts": [
+    "The plates of the skull",
+    "The elbow",
+    "The knee",
+    "A finger joint"
+   ],
+   "a": 0,
+   "why": "The plates of the skull lock together and do not move, to protect the brain. The elbow, knee and finger joints are movable joints.",
+   "outcome": 2
+  },
+  {
+   "t": "mcq",
+   "p": "Which muscle keeps working while you are fast asleep, without you deciding?",
+   "opts": [
+    "The heart",
+    "The muscle that lifts your finger",
+    "The muscle that moves your tongue to speak",
+    "The muscle that kicks a ball"
+   ],
+   "a": 0,
+   "why": "The heart is an involuntary muscle. It works all day and night without being told. The other three are voluntary muscles. They move only when you decide.",
+   "outcome": 0
   }
  ],
  "videos": [

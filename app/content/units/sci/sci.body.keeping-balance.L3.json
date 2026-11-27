@@ -212,11 +212,12 @@
    "concept": "Thirst and the water balance",
    "status": "defined",
    "definition": "Your body keeps the amount of water inside you just right. Thirst tells you to drink more, and your kidneys decide how much water to let go as pee.",
-   "description": "More than half of your body is water. Every day you lose some of it, in sweat, in pee and even in your breath. When your blood has too little water, it becomes a little too salty. Sensors in your hypothalamus notice this saltiness. They make you feel thirsty. They also send a chemical message to your kidneys, which says 'save water'. Then your pee becomes less and darker. When you have had plenty to drink, your pee is pale and you go to the toilet more often. Thirst is your body asking for water before things go wrong.",
+   "description": "More than half of your body is water. Every day you lose some of it, in sweat, in pee and even in your breath. When your blood has too little water, it becomes a little too salty. Sensors in your hypothalamus notice this saltiness. They make you feel thirsty. They also send a chemical message to your kidneys, which says 'save water'. Then your pee becomes less and darker. When you have had plenty to drink, your pee is pale and you go to the toilet more often. Thirst is your body asking for water before things go wrong. Water also carries waste out of you. Your kidneys filter waste out of your blood and mix it into water to make pee. Sweat carries out a little waste too.",
    "examples": [
     "On a hot day you drink more and pee less.",
     "Pale yellow pee usually means you have had enough to drink. Dark yellow pee usually means drink more.",
-    "Breathe on a cold mirror. The mist is water leaving your body."
+    "Breathe on a cold mirror. The mist is water leaving your body.",
+    "Many people aim for about 8 glasses of water a day. You need more on hot days and after play."
    ],
    "perspectives": [],
    "art": "A water drop with a gauge on it: too little (dark pee jar, thirsty face), just right (pale jar, happy face), plenty (very pale jar, toilet).",
@@ -1019,6 +1020,14 @@
       "evaporates"
      ],
      "why": "Evaporation takes heat from your skin, and that is why drying sweat cools you."
+    },
+    {
+     "t": "fill",
+     "p": "Your kidneys mix the waste they remove into ____ to make pee.",
+     "a": [
+      "water"
+     ],
+     "why": "Waste leaves the body dissolved in water. That is why drinking enough helps your body get rid of waste, and why pee is pale when you have had plenty."
     }
    ]
   },
@@ -1221,6 +1230,14 @@
      "lines": 3,
      "a": "In the cold, the blood vessels in my skin squeeze narrow, so less warm blood goes to my fingers and toes. My body keeps the warm blood near my middle, where my heart and brain are.",
      "why": "A strong answer says the blood vessels narrow, and that the body is saving heat for the parts that matter most. Cold fingers are the body working, not failing."
+    },
+    {
+     "t": "write",
+     "p": "A common guide is about 8 glasses of water a day. Why might a child in Chennai in May need more than that? Give one reason.",
+     "lines": 4,
+     "a": "The heat makes you sweat more, and playing hard makes you sweat even more. Sweat takes water out of the body, so you need to drink more to replace it.",
+     "why": "Water leaves the body in sweat and pee. On a hot day and after play you lose more, so the body needs more to stay just right.",
+     "how": "a1"
     }
    ]
   },
@@ -2710,6 +2727,32 @@
    "a": 2,
    "why": "Sweat cools only by drying. In very humid air it hardly dries, so the body heats up. Scientists are still working out exactly where the danger limit is.",
    "outcome": 6
+  },
+  {
+   "t": "mcq",
+   "p": "What carries the waste your kidneys remove out of your body?",
+   "opts": [
+    "Water, which leaves the body as pee",
+    "Your breath, which carries the waste out as air",
+    "Your food, which takes the waste back into your blood",
+    "Nothing: the waste stays in your blood for ever"
+   ],
+   "a": 0,
+   "why": "Your kidneys filter waste out of your blood and mix it into water to make pee. Breath does not carry the kidneys' waste, and the waste does not stay in the blood.",
+   "outcome": 2
+  },
+  {
+   "t": "mcq",
+   "p": "Ravi plays cricket for two hours on a hot May afternoon. What should he do about water?",
+   "opts": [
+    "Drink water through the day, and more than usual, because sweat takes water out of him",
+    "Drink nothing, because sweat is not pee and so does not count",
+    "Drink one big glass at bedtime and nothing during the game",
+    "Skip water, because the match is only two hours long"
+   ],
+   "a": 0,
+   "why": "Sweat is water leaving the body, so he must drink water to replace it. Drinking through the day works better than one big glass at bedtime, which does nothing for the water he lost at the match.",
+   "outcome": 2
   }
  ],
  "applications": [

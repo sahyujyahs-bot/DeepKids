@@ -53,6 +53,12 @@
    "art": "One plain apple slice on a plate with a small flag saying 'control'."
   },
   {
+   "term": "Hazard",
+   "meaning": "Something that could hurt you or someone else.",
+   "example": "A sharp knife, boiling water, or a wet floor.",
+   "art": "A knife, a steaming kettle and a puddle on a floor, each with a small warning triangle."
+  },
+  {
    "term": "Prediction",
    "meaning": "Your guess about what will happen, with a reason, made before the test.",
    "example": "\"I think the lemon slice will stay white, because lemon juice is sour and I have seen it put on cut fruit.\"",
@@ -89,6 +95,12 @@
    "art": "A table with one column shaded blue and one row shaded yellow."
   },
   {
+   "term": "Block graph",
+   "meaning": "A picture of results where each block is as tall as the number it shows.",
+   "example": "A block 7 squares tall for underarm and a block 4 squares tall for overarm.",
+   "art": "Two blocks on squared paper, one tall and one short, with a scale up the side."
+  },
+  {
    "term": "Repeat",
    "meaning": "To do the same test again, in the same way, to see if you get the same result.",
    "example": "Throw the paper ball 10 times, not once, before you decide which throw is better.",
@@ -99,6 +111,12 @@
    "meaning": "A result that happened by chance once and may not happen again.",
    "example": "One wild throw that goes straight in the bucket is a fluke if the next nine miss.",
    "art": "A paper ball flying into a bucket while the child looks surprised."
+  },
+  {
+   "term": "Average",
+   "meaning": "One middle number for a set of results. Add the results and divide by how many there are.",
+   "example": "Bounces of 45, 44 and 46 centimetres add up to 135. Divided by 3, the average is 45 centimetres.",
+   "art": "Three bars of different heights with a dotted line across the middle."
   },
   {
    "term": "Evidence",
@@ -156,6 +174,20 @@
    "context": "This card is about the control, the part of a test where you change nothing, and why every fair test needs one."
   },
   {
+   "concept": "Checking for hazards",
+   "status": "defined",
+   "definition": "A hazard is something that could hurt you or someone else.",
+   "description": "Before you start any test, look around and ask: what could go wrong? A knife can cut, so a grown-up cuts the apples. Lemon juice stings if it gets in your eyes. Hot water can burn, so use warm water, not boiling. A wet floor can make someone slip. Write the hazards down with the plan. Then decide how to avoid each one, and keep that decision the same for every try, so safety does not change the test.",
+   "examples": [
+    "Brown Apple Test: a grown-up cuts the apple. Wash your hands after touching lemon juice.",
+    "Ten Throws: wipe any water on the floor near the bucket. Clear the space so nobody gets hit.",
+    "Tumbler test: use warm water from the tap, not boiling water."
+   ],
+   "perspectives": [],
+   "art": "A child at a table with a plan on paper, a short list headed hazards, and a grown-up cutting an apple behind her.",
+   "context": "This card says to look for hazards before a test, and how to deal with them."
+  },
+  {
    "concept": "Writing results in a table",
    "status": "defined",
    "definition": "A results table has rows and columns. Each column has a heading that says what it holds, with the unit, such as 'Height (cm)'. Each row is one thing you tested.",
@@ -170,6 +202,33 @@
    "context": "This card explains how to write results in a table, and why we draw the table before we start."
   },
   {
+   "concept": "Drawing what you see",
+   "status": "defined",
+   "definition": "A labelled diagram is a drawing of what you see, with a word or two beside each part.",
+   "description": "A table is good for numbers. But some things you see cannot be written in a number, like how brown an apple slice looks. For these, draw a diagram next to the table. Draw each slice. Colour it as it looks. Write a label beside it, such as lemon, plain or water, and the time you looked. Later, you can place your diagram beside your table and see if they tell the same story.",
+   "examples": [
+    "After 30 minutes, draw each apple slice. Colour it the shade it has turned, and label it with what was on it.",
+    "Draw the brinjal bowl, and label the pieces that float and the pieces that sink."
+   ],
+   "perspectives": [],
+   "art": "A page with three apple slices drawn side by side, each with a label and shaded from pale to brown, beside a small table.",
+   "context": "This card says how a drawing can show what a table cannot."
+  },
+  {
+   "concept": "Showing results as a block graph",
+   "status": "defined",
+   "definition": "A block graph is a picture of a table. Each block is as tall as the number it shows.",
+   "description": "A table holds the numbers. A block graph lets you see them at a glance. Look at the two blocks for the Ten Throws test: underarm is 7 and overarm is 4. Underarm's block is taller, so more balls went in underarm. To read a block graph, look at the title, then the label under each block, then the scale up the side. A good scale starts at 0 and counts up evenly. The taller block is the bigger number. A graph can show what a table says, but it cannot show more than the test found.",
+   "examples": [
+    "A block graph of how many balls went in: underarm 7, overarm 4.",
+    "A block graph of bounces: rubber ball 45 cm, tennis ball 39 cm.",
+    "A block graph of how many children in class like each fruit best."
+   ],
+   "perspectives": [],
+   "art": "Squared paper with two blocks, underarm up to 7 and overarm up to 4, a numbered scale up the side and labels under each block.",
+   "context": "This card says how to read a block graph and what it shows."
+  },
+  {
    "concept": "Why we repeat a test",
    "status": "defined",
    "definition": "Doing a test only once can mislead you, because one try can be a fluke. Repeating it in the same way shows whether the result is real.",
@@ -182,6 +241,19 @@
    "perspectives": [],
    "art": "Ten tally marks next to a bucket, with one paper ball that missed off to the side.",
    "context": "This card explains why scientists test more than once, and what to do with an odd result."
+  },
+  {
+   "concept": "Averaging repeated results",
+   "status": "defined",
+   "definition": "An average is one middle number for a set of results. Add the results, then divide by how many there are.",
+   "description": "When you repeat a test, you get several numbers that are close but not the same. An average gives one fair number to compare. A ball drops three times and bounces 45, 44 and 46 centimetres. Add them: 45 plus 44 plus 46 is 135. Divide by 3 tries, and the average is 45 centimetres. An average only helps when the tries were done the same way. If one try is far from the rest, check what went wrong before you use it.",
+   "examples": [
+    "Underarm throws in three rounds of ten went in 6, 7 and 8 times. Added up, that is 21. Divided by 3, the average is 7.",
+    "Two paper planes fly 3, 4 and 3 metres, and 5, 6 and 5 metres. The averages are about 3 and 5 metres, so the second plane is probably better."
+   ],
+   "perspectives": [],
+   "art": "Three bounce heights marked on a wall beside a ruler, with a dotted line at the middle height labelled average.",
+   "context": "This card says how to turn repeated results into one number to compare."
   },
   {
    "concept": "Why a cut apple turns brown, and what lemon does",
@@ -1873,6 +1945,54 @@
    "a": 1,
    "why": "An unexpected result is still a result. If the test was fair and gives the same result again, you have learned something new.",
    "outcome": 5
+  },
+  {
+   "t": "mcq",
+   "p": "A block graph shows underarm at 7 and overarm at 4 balls in. Which is right?",
+   "opts": [
+    "Underarm's block is taller, so more balls went in underarm",
+    "Overarm's block is taller, because it is thrown harder",
+    "You cannot tell anything from a block graph"
+   ],
+   "a": 0,
+   "why": "A taller block means a bigger number. Here 7 is more than 4. A block graph is a picture of the table, so you can read it the same way.",
+   "outcome": 3
+  },
+  {
+   "t": "mcq",
+   "p": "In the Brown Apple Test, how do you record how brown each slice looks, when a number will not do?",
+   "opts": [
+    "Draw each slice, colour it as it looks, and label it",
+    "Do not record it at all",
+    "Write 'apple' for every slice"
+   ],
+   "a": 0,
+   "why": "A labelled drawing shows what you saw. A table of times and numbers cannot show shades, and leaving it out loses evidence.",
+   "outcome": 3
+  },
+  {
+   "t": "mcq",
+   "p": "Before Ten Throws, you see water spilled on the floor near the bucket. What should you do?",
+   "opts": [
+    "Wipe it up first, then start",
+    "Start, and just throw carefully",
+    "Throw harder, so you get it done quickly"
+   ],
+   "a": 0,
+   "why": "A wet floor is a hazard, because someone could slip. Checking for hazards comes before the test starts.",
+   "outcome": 2
+  },
+  {
+   "t": "mcq",
+   "p": "A ball bounces 20, 22 and 21 centimetres in three drops. What is the average bounce?",
+   "opts": [
+    "21 centimetres",
+    "20 centimetres",
+    "63 centimetres"
+   ],
+   "a": 0,
+   "why": "Add them: 20 plus 22 plus 21 is 63. Divide by 3 drops, and you get 21. The number 63 is only the total.",
+   "outcome": 4
   }
  ],
  "worksheets": [
@@ -2075,6 +2195,47 @@
      "a": "The same slope, lifted the same way, and the same floor or board. Also the same person lifting it.",
      "why": "A strong answer names things that could change the result if they were different, such as the board or the slope.",
      "lines": 2
+    },
+    {
+     "t": "sort",
+     "p": "Is each thing a hazard in a test, or fine? Sort them.",
+     "cats": [
+      "Hazard",
+      "Fine"
+     ],
+     "items": [
+      [
+       "a wet floor near the bucket",
+       "Hazard"
+      ],
+      [
+       "a sharp knife used by a child",
+       "Hazard"
+      ],
+      [
+       "boiling water in a tumbler",
+       "Hazard"
+      ],
+      [
+       "a pencil and a notebook",
+       "Fine"
+      ],
+      [
+       "a paper ball",
+       "Fine"
+      ]
+     ],
+     "a": "see items",
+     "why": "A hazard is something that could hurt you, like a slip, a cut or a burn. A pencil and a paper ball are safe to use."
+    },
+    {
+     "t": "fill",
+     "p": "In a block graph, a taller block means a bigger ______. You read it against the ______ up the side.",
+     "a": [
+      "number",
+      "scale"
+     ],
+     "why": "The height of a block shows the number. The scale up the side tells you how much each step is worth."
     }
    ]
   },
@@ -2308,6 +2469,24 @@
      "a": "For example: Did both cars start from the same step? Did you both let go without pushing?",
      "why": "A strong question names one thing that might have been different apart from the car.",
      "lines": 2
+    },
+    {
+     "t": "mcq",
+     "p": "Plane B flew 6, 8 and 7 metres in three throws. What is its average?",
+     "opts": [
+      "7 metres",
+      "8 metres",
+      "21 metres"
+     ],
+     "a": 0,
+     "why": "Add 6, 8 and 7 to get 21. Divide by 3 throws, and the average is 7 metres. The number 21 is only the total."
+    },
+    {
+     "t": "draw",
+     "p": "Draw three apple slices as they look after 30 minutes: one with lemon, one with water, one with nothing. Colour each and label it.",
+     "a": "Three labelled slices: lemon is the palest, water is a little brown, and plain is the brownest.",
+     "why": "A labelled drawing keeps what you saw. It can sit beside the table and show the same story.",
+     "art": "Three blank circles on a notebook page, each with an empty line beneath."
     }
    ]
   },
