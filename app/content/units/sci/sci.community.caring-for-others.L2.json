@@ -3,13 +3,13 @@
  "title": "Caring for people who need help: ramps, aids, and how to offer help with respect",
  "level": 2,
  "summary": {
-  "text": "A girl in a wheelchair reaches a doorway with one step, and she cannot get in. Is the trouble in her legs, or in the step? In this lesson you test how a ramp makes a climb easier, and you meet the tools that help people see, hear and move. You find out how to offer help so that the other person stays in charge. You also ask why humans and other animals look after their old, their sick and their hurt at all.",
+  "text": "A girl in a wheelchair reaches a doorway with one step, and she cannot get in. Is the trouble only in her legs, or is some of it in the step? In this lesson you test how a ramp makes a climb easier, and you meet the tools that help people see, hear and move. You find out how to offer help so that the other person stays in charge. You also ask why humans and other animals look after their old, their sick and their hurt at all.",
   "art": "A school doorway with one step, a girl in a wheelchair looking at it, and a wooden plank leaning against the wall nearby."
  },
  "intro": {
-  "hook": "Close one eye and keep your writing hand behind your back. Now open your water bottle and pour a drink. What was hard? What would have made it easier?",
-  "text": "For one minute your body worked differently, and an ordinary bottle became a problem. Perhaps you wished for a bottle with a flip top, or for someone to hold the cup. Many people live every day with a body or mind that works differently from most. Old people and sick people meet the same kind of trouble. Today you find out what really helps, and what only looks like help.",
-  "art": "A child with one arm behind the back, gripping a water bottle between the knees and twisting the cap with one hand."
+  "hook": "Think of the step at a shop door. A child with a heavy school bag, a grandmother with a stick, a parent with a pram and a person in a wheelchair all arrive at the same step. Who gets in easily, and who has to stop? Who was the step built for?",
+  "text": "A step is a small thing. Whoever drew the plan for the door was probably thinking of a person who walks in with free hands. But look at who really comes to a door: people of every age, carrying and pushing all kinds of things. Some people live every day with a body or a mind that works differently from most. And everyone needs help at some time: as a baby, when hurt or ill, and in old age. Today you find out what really helps, and what only looks like help.",
+  "art": "A shop door with one step. Five people stand in front of it: a child with a heavy bag, a grandmother with a stick, a parent with a pram, a delivery man with a trolley and a person in a wheelchair. Each looks at the step in a different way."
  },
  "outcomes": [
   "I can say that everyone needs help at some time in life, and give three examples.",
@@ -58,6 +58,12 @@
    "meaning": "A disabled person is a person who lives with a disability. Many people use this plain name for themselves.",
    "example": "Avani Lekhara is a champion shooter. She is also a person who uses a wheelchair.",
    "art": "A young woman in a wheelchair holding a shooting medal."
+  },
+  {
+   "term": "person with a disability",
+   "meaning": "A person with a disability is a person first, who also lives with a disability. India's law and the United Nations agreement use these words.",
+   "example": "India's law of 2016 is called the Rights of Persons with Disabilities Act.",
+   "art": "A girl with a school bag smiling at a doorway, with a ramp beside the steps."
   },
   {
    "term": "differently abled",
@@ -346,11 +352,17 @@
    "meaning": "A vaccine is a medicine, often a small injection or drops, that helps the body get ready to fight germs before they arrive.",
    "example": "Polio drops given to children helped India stop polio. The last case in India was found in 2011.",
    "art": "A health worker giving drops to a smiling child."
+  },
+  {
+   "term": "evolution",
+   "meaning": "Evolution is the slow change of living things over many, many generations, as those who do well in their surroundings leave more young.",
+   "example": "Over millions of years, the ancestors of whales, who once walked on land, became animals of the sea.",
+   "art": "A four-legged land animal, then a half-swimming animal, then a whale, in a row."
   }
  ],
  "explanations": [
   {
-   "concept": "Everyone needs help at some time in life",
+   "concept": "Every person needs help, as a baby, when hurt or ill, and often in old age",
    "status": "defined",
    "definition": "To need help is to be unable to do something alone that one needs to do. Every person is in this position as a baby, when ill or hurt, and usually in old age.",
    "description": "When you were a baby, you could not feed yourself, walk or keep yourself clean. Someone did all of it for you. Last time you had a fever, someone brought you water. If you break an arm, someone will button your shirt. And if you live to be old, you may need a hand on the stairs. So needing help is not a rare thing that happens to a few unlucky people. It is part of every human life. Some people need a certain kind of help for a short time, and some for all their lives.",
@@ -376,7 +388,7 @@
    "concept": "Bodies and minds come in many kinds, and about one person in six lives with a disability",
    "status": "defined",
    "definition": "A disability is a lasting difference in how a person's body, senses or mind work, which makes some everyday activities hard in the world as it is built.",
-   "description": "Some people cannot see, or see only a little. Some cannot hear. Some cannot walk, or have lost a hand or a leg. Some learn, speak or understand people in a different way. Some were born so, and others became so after an illness or an accident. The World Health Organization counted in 2022. About 130 crore people, one in every six on Earth, live with a disability that matters in daily life. India's 2011 census counted 2.68 crore. Many people who study this think the true number in India is far higher.",
+   "description": "Some people cannot see, or see only a little. Some cannot hear. Some cannot walk, or have lost a hand or a leg. Some learn, speak or understand people in a different way. Some were born so, and others became so after an illness or an accident. In 2022 the World Health Organization reported that about 130 crore people, one in every six on Earth, live with a disability that matters in daily life. India's 2011 census counted 2.68 crore. Many people who study this think the true number in India is far higher.",
    "examples": [
     "Wearing spectacles is so common that nobody calls it a disability, though without them many people could not read a board.",
     "Avani Lekhara of Jaipur, who uses a wheelchair, won gold medals in shooting at the Paralympic Games of 2021 and 2024.",
@@ -391,7 +403,7 @@
    "concept": "Which word is right: disabled, differently abled or divyang? People disagree",
    "status": "debated",
    "definition": "Several words are used in India for people with disabilities. The people described do not all prefer the same one.",
-   "description": "Words matter, because a word shows how you see a person. Old words such as 'handicapped' or 'lame' are hurtful and are no longer used. Your school book may say 'differently abled'. The Government of India has used 'divyang', meaning 'one with a divine body part', since 2016. India's law says 'persons with disabilities'. Many people say plainly 'disabled person'. Which is right? The people themselves do not agree. So the best rule is the simplest one. Use the person's name. If you need a word, use the word that person uses.",
+   "description": "Words matter, because a word shows how you see a person. Old words such as 'handicapped' or 'lame' are hurtful, so we avoid them. Your school book may say 'differently abled'. The Government of India has used 'divyang', meaning 'one with a divine body part', since 2016. India's law says 'persons with disabilities'. Many people say plainly 'disabled person'. Others say 'person with a disability', which puts the person first. Which is right? The people themselves do not agree. So the best rule is the simplest one. Use the person's name. If you need a word, use the word that person uses.",
    "examples": [
     "Many people who use sign language write Deaf with a capital D, to show they belong to a community with its own language.",
     "A person who uses a wheelchair is a 'wheelchair user'. The chair is how that person gets about."
@@ -406,8 +418,12 @@
      "explanation": "They objected to 'divyang'. They said a sweet word changes nothing about the missing ramps and the missing jobs. It also suggests that disabled people are special beings, when they want to be treated as ordinary citizens."
     },
     {
-     "who": "People who choose 'disabled person'",
+     "who": "Mike Oliver and other writers of the social model in Britain, and many disabled activists",
      "explanation": "They say 'disabled' is a plain fact and nothing to hide. Many add that they are disabled by buildings and attitudes, and the word reminds everyone of that."
+    },
+    {
+     "who": "The United Nations agreement of 2006, India's law of 2016, and People First groups started by people with learning disabilities",
+     "explanation": "They say 'person with a disability' puts the person first and the disability second. A person is never only a disability. Many families and many self-advocacy groups prefer these words, and some people are happy with both."
     }
    ],
    "art": "Four name badges on a table, reading 'Divyang', 'Differently abled', 'Disabled person' and, in the largest letters, a person's own name, 'Nandini'.",
@@ -458,11 +474,11 @@
   {
    "concept": "A wheelchair ramp must rise no more than 1 for every 12 along",
    "status": "defined",
-   "definition": "India's building guidelines say a ramp for wheelchair users should have a slope of 1 in 12 or gentler: for every 1 centimetre of height, at least 12 centimetres of length.",
-   "description": "How gentle is gentle enough? People tested it. A person turning the wheels with their own arms tires fast on a steep slope, and the chair can tip backwards. So India's guidelines give a number: 1 in 12. If a doorway is 30 centimetres above the road, the ramp must be at least 360 centimetres long. That is longer than a car. A steep ramp squeezed into a small space looks like help. For someone alone in a wheelchair, it can be as useless as stairs. A good ramp also has a handrail, a rough surface and a flat place to rest.",
+   "definition": "India's building guidelines say a wheelchair ramp should have a slope of 1 in 12 or gentler. That means at least 12 centimetres of length for every 1 centimetre of height.",
+   "description": "How gentle is gentle enough? People tested it. A person turning the wheels with their own arms tires fast on a steep slope, and the chair can tip backwards. So India's guidelines give a number: 1 in 12. If a doorway is 30 centimetres above the road, the ramp must be at least 360 centimetres long. That is about the length of a small car. A steep ramp squeezed into a small space looks like help. For someone alone in a wheelchair, it can be as useless as stairs. A good ramp also has a handrail, a rough surface and a flat place to rest.",
    "examples": [
     "Two ordinary steps are about 30 centimetres high. Measure 360 centimetres on your floor to see how much room a proper ramp needs.",
-    "Many ramps outside shops in India rise about 1 in 3. Try pushing a loaded trolley up one."
+    "Many ramps outside shops are much steeper than 1 in 12. Try pushing a loaded trolley up one."
    ],
    "perspectives": [],
    "one_view": "The figure of 1 in 12 is written in India's Harmonised Guidelines for accessibility and in the rules of many other countries.",
@@ -487,7 +503,7 @@
    "concept": "A ramp made for wheelchairs helps almost everyone",
    "status": "defined",
    "definition": "Universal design means making buildings and things so that as many people as possible can use them from the start, without special arrangements.",
-   "description": "In 1972 students who used wheelchairs in Berkeley, a city in the USA, got the city to cut small slopes into the edges of its footpaths. Their leader was Ed Roberts. Then something happened that nobody had planned. Parents with prams used the slopes. So did people pulling suitcases, workers with handcarts, cyclists and old people with sticks. A change made for a few turned out to help most. Ronald Mace, an architect who used a wheelchair, gave this approach a name in the 1980s: universal design. Design for the person with the most difficulty, and it works for everyone.",
+   "description": "In the early 1970s students who used wheelchairs in Berkeley, a city in the USA, got the city to cut small slopes into the edges of its footpaths. Their leader was Ed Roberts. Then something happened that nobody had planned. Parents with prams used the slopes. So did people pulling suitcases, workers with handcarts, cyclists and old people with sticks. A change made for a few turned out to help most. Ronald Mace, an architect who used a wheelchair, gave this approach a name in the 1980s: universal design. Design for the person with the most difficulty, and it works for everyone.",
    "examples": [
     "At a railway station, count who uses the ramp or the lift in ten minutes. Most will not be in wheelchairs.",
     "Words printed at the bottom of a video were made for deaf viewers. Now people use them in noisy buses and to learn languages.",
@@ -574,8 +590,8 @@
   {
    "concept": "The Jaipur Foot: a leg designed for the way people in India really live",
    "status": "defined",
-   "definition": "The Jaipur Foot is an artificial foot and lower leg made of rubber, wood and plastic, developed in Jaipur in 1968, that lets the wearer squat, sit cross-legged and walk barefoot on rough ground.",
-   "description": "An artificial leg replaces a leg lost to an accident or illness. The ones made abroad in the 1960s were costly and stiff. They were built to be worn with shoes on flat floors. But people in India sit on the floor, squat, walk barefoot and work in wet fields. In Jaipur a master craftsman named Ram Chandra Sharma had little schooling. He thought of making a foot from rubber, as a cycle tyre is mended. He and Dr P. K. Sethi built it in 1968. It bends like a real foot and costs very little. Lakhs of people now walk on it.",
+   "definition": "The Jaipur Foot is an artificial foot and lower leg made of rubber, wood and plastic. It was developed in Jaipur in 1968. The wearer can squat, sit cross-legged and walk barefoot on rough ground.",
+   "description": "An artificial leg replaces a leg lost to an accident or illness. The ones made abroad in the 1960s were costly and stiff. They were built to be worn with shoes on flat floors. But people in India sit on the floor, squat, walk barefoot and work in wet fields. In Jaipur a master craftsman named Ram Chandra Sharma, who had only a few years of schooling, had an idea. He thought of making a foot from rubber, as a cycle tyre is mended. He and Dr P. K. Sethi built it in 1968. It bends like a real foot and costs very little. Lakhs of people now walk on it.",
    "examples": [
     "The dancer Sudha Chandran lost a leg after an accident in 1981 and returned to the Bharatanatyam stage wearing a Jaipur Foot.",
     "A charity started in Jaipur in 1975 fits the limb free of charge, and it has been sent to people in many countries hurt by wars.",
@@ -587,13 +603,13 @@
    "context": "This card gives an aid invented in India by a craftsman, built for Indian ways of sitting and walking."
   },
   {
-   "concept": "When one sense is missing, the brain puts that space to other work",
+   "concept": "When one sense is missing, the brain puts that area to other work",
    "status": "defined",
    "definition": "The brain can change how it uses its parts. In people blind from early life, the area that usually handles sight becomes active during touch and hearing.",
    "description": "At the back of your head is a part of the brain that handles what your eyes see. What does that part do in a person who was born blind? It does not sit idle. In 1996 Norihiro Sadato and his team took pictures of the working brain of blind people as they read Braille. The 'seeing' part was busy, working on touch. Some blind people make sharp clicks with the tongue and listen to the echoes. In this way they can tell where a wall, a tree or a parked car is. So a blind person's world is built differently. It is a full world all the same.",
    "examples": [
     "Bats and dolphins find their way by echoes all the time.",
-    "Many deaf people notice movement at the edge of their sight more quickly than hearing people do.",
+    "Some studies find that many deaf people notice movement at the edge of their sight more quickly than hearing people do.",
     "Close your eyes while someone taps a steel tumbler in different corners of the room. You can already point to the sound."
    ],
    "perspectives": [
@@ -612,7 +628,7 @@
   {
    "concept": "Growing old changes the eyes, ears, bones and balance, and old people hold what a family knows",
    "status": "defined",
-   "definition": "Ageing brings slow changes: the eye's lens stiffens, high sounds are lost, bones become lighter and more easily broken, and balance and walking slow down.",
+   "definition": "Ageing brings slow changes: the eye's lens stiffens, high sounds are lost, bones become lighter and break more easily, and balance and walking slow down.",
    "description": "After about forty, the clear lens inside the eye gets stiff. Close things blur, and people hold the newspaper at arm's length. Later the ears lose high, soft sounds, so speech in a noisy room is hard to follow. Bones get lighter and break more easily. Balance is less sure, so a wet floor is a real danger. None of this changes who the person is. India has more than 10 crore people over sixty. They carry recipes, songs, cures, family stories and the memory of how things were done.",
    "examples": [
     "Speak a little slower and face an old person when you talk. Shouting does not help, because it bends the sounds.",
@@ -718,10 +734,10 @@
    "concept": "Old bones show that people cared for the sick and hurt tens of thousands of years ago",
    "status": "defined",
    "definition": "Skeletons of ancient people sometimes show serious injuries or conditions that had healed or lasted for years, which suggests that others fed and protected the person.",
-   "description": "How long have people looked after each other? Bones can tell us. In a cave at Shanidar in Iraq lay the skeleton of a Neanderthal man. He lived about 45,000 years ago. Neanderthals were a kind of human who no longer exist. One arm was withered and useless. He had been hit hard on the head, was probably blind in one eye and partly deaf, and walked with a limp. Yet the bones show that he lived for many years after these injuries. He could not have hunted. Someone must have shared food with him for years.",
+   "description": "How long have people looked after each other? Bones can tell us. In a cave at Shanidar in Iraq lay the skeleton of a Neanderthal man. He lived about 45,000 years ago. Neanderthals were a kind of human who no longer exist. One arm was withered and useless. He had been hit hard on the head, was probably blind in one eye and partly deaf, and walked with a limp. Yet the bones show that he lived for many years after these injuries. He could hardly have hunted. Most likely someone shared food with him for years.",
    "examples": [
     "At Man Bac in Vietnam, Lorna Tilley studied a young man buried about 4,000 years ago. His bones show he could not move his arms or legs from boyhood, and he lived about ten years more. Others must have fed, washed and turned him every day.",
-    "Tilley started a new branch of study in 2011, called the bioarchaeology of care, to read such bones carefully."
+    "In 2011 Tilley and her colleague Marc Oxenham set out a careful way to read such bones. It is now called the bioarchaeology of care."
    ],
    "perspectives": [
     {
@@ -771,7 +787,7 @@
    "examples": [
     "Put out a shallow clay dish of water on a balcony or wall, with a stone in it so that bees and small birds can drink safely.",
     "A baby bird on the ground is usually being watched by the parents. Leave the bird alone unless a cat is near.",
-    "Kite strings coated with glass cut thousands of birds every Sankranti. Plain cotton string does not.",
+    "Kite strings coated with glass cut thousands of birds every Sankranti. Plain cotton string does far less harm.",
     "Plastic bags with food smells are eaten by cows and block their stomachs. Give peels without the bag."
    ],
    "perspectives": [
@@ -799,10 +815,10 @@
    "concept": "Do other animals feel pain as we do? Most scientists now say many do, and argue about which",
    "status": "debated",
    "definition": "Pain is an unpleasant inner feeling that usually comes with harm to the body. Because a feeling cannot be seen from outside, scientists use behaviour and the body's wiring as evidence for pain in other animals.",
-   "description": "You cannot feel another person's pain. You believe in it because they cry out and pull away, and because their body is built like yours. The same test can be used for other animals. Dogs, cows, birds and fish all have nerves that carry signals of harm. They guard a hurt part. They learn to avoid what hurt them, and they act normally again when given a painkiller. Animals feel. In 2012, and again in 2024, large groups of scientists signed statements saying the evidence for this is strong. The argument now is about fish, insects and crabs.",
+   "description": "You cannot step inside another person's pain. You believe in it because they cry out and pull away, and because their body is built like yours. The same test can be used for other animals. Dogs, cows, birds and fish all have nerves that carry signals of harm. They guard a hurt part. They learn to avoid what hurt them, and they act normally again when given a painkiller. Animals feel. In 2012, and again in 2024, large groups of scientists signed statements saying the evidence for this is strong. The argument now is about fish, insects and crabs.",
    "examples": [
     "A dog with a thorn in the paw limps, licks the place and whimpers when it is touched.",
-    "Hermit crabs given a small shock inside their shell will leave a good shell, and are slower to leave when the shell is a better one. This looks like weighing up, and less like a jerk."
+    "Hermit crabs given a small shock inside their shell often leave it, but they are slower to leave a shell they like better. That looks like weighing things up, and less like a jerk."
    ],
    "perspectives": [
     {
@@ -860,7 +876,7 @@
   },
   {
    "text": "Children who learn beside disabled classmates do as well in their studies as other children.",
-   "evidence": "Reviews of many school studies, such as one by Thomas Hehir's team in 2016, find that the marks of non-disabled children do not fall in mixed classrooms, and their attitudes to people who are different improve."
+   "evidence": "In 2016 Thomas Hehir's team read many school studies together. The marks of children without disabilities did not fall in mixed classrooms. Their attitudes towards people who are different improved."
   },
   {
    "text": "Falls are the most common cause of serious injury in old people, and simple changes at home prevent many of them.",
@@ -872,7 +888,7 @@
    "claim": "Humans and other animals help each other only because it helped their own kind of genes to spread.",
    "who": "William Hamilton in 1964, Robert Trivers in 1971, and Richard Dawkins in 'The Selfish Gene', 1976",
    "for": "Animals help close relatives most, as the sums predict, and they help unrelated animals who help them back. Vampire bats share blood mostly with bats who shared with them before.",
-   "against": "People and other animals also help strangers and other species, with no return. Frans de Waal argued that the feeling of care is real in the animal, whatever its distant origin. Why a feeling arose does not tell us what the feeling is.",
+   "against": "People and other animals also help strangers and other species, with no return. Frans de Waal argued that the feeling of care is real in the animal, whatever the distant origin of the feeling. Why a feeling arose does not tell us what the feeling is.",
    "status": "debated",
    "context": "This view explains where caring came from without any kindness in it. It is strong science about origins, and scientists argue about how much it leaves out."
   },
@@ -943,7 +959,7 @@
    "hint": "Think how each would feel to the person being helped, and which help would still be there next year."
   },
   {
-   "q": "You cannot feel a fish's pain, or even your best friend's. So how do you know that anyone other than you feels anything?",
+   "q": "You cannot step inside a fish's pain, or even your best friend's. So how do you know that anyone other than you feels anything?",
    "kind": "deep",
    "hint": "Think about what you see and hear when a friend is hurt, and why that is enough for you."
   },
@@ -2384,7 +2400,7 @@
      "do": "Your child plans a ramp on paper, then builds it from card, books and tape. Test it by pulling the loaded toy up with the rubber band. Measure how long the ramp is and how high it rises.",
      "say": "Does the ramp rise no more than 1 centimetre for every 12? How does the band stretch?",
      "kid": "Plan the ramp. Build it. Test it with the toy and the band.",
-     "parent": "A grown-up cuts the card. If the ramp is too steep, make it longer by adding a turn. Compare the band's stretch to the straight 100-centimetre ramp in the ramp test. A good answer has a small stretch. There is more than one good answer, and none is the only right one.",
+     "parent": "A grown-up cuts the card. If the ramp is too steep, make it longer by adding a turn. Compare the band's stretch to the long ramp in the ramp test. A good answer has a small stretch. There is more than one good answer, and none is the only right one.",
      "adult": true
     },
     {
@@ -2855,7 +2871,7 @@
     },
     {
      "t": "truefalse",
-     "p": "We cannot feel another animal's pain, so nobody can tell if any animal feels pain.",
+     "p": "We cannot step inside another animal's pain, so nobody can tell if any animal feels pain.",
      "a": false,
      "why": "False. We know another person's pain only from what they do and how their body is built. Scientists use the same evidence for animals."
     },
@@ -3198,8 +3214,8 @@
  ],
  "jokes": [
   {
-   "j": "Why did the ramp win the race to the top?",
-   "a": "It took it slowly, and still got everybody there."
+   "j": "Why did the ramp get a medal at school?",
+   "a": "It was brilliant at lifting everybody's spirits, one centimetre at a time."
   },
   {
    "j": "What did the door say to the lever handle?",
@@ -3263,16 +3279,16 @@
    "why": "For the parent and child: videos and a dictionary of Indian Sign Language signs."
   },
   {
-   "title": "Department of Empowerment of Persons with Disabilities",
-   "url": "https://disabilityaffairs.gov.in/",
+   "title": "Department of Empowerment of Persons with Disabilities, Government of India",
+   "url": "https://depwd.gov.in/",
    "kind": "interactive",
-   "why": "For the parent: India's government site, with the law of 2016 and the Accessible India Campaign."
+   "why": "For the parent: India's government department for disability rights. The site opens in Hindi and has an English button. It lists the law of 2016."
   },
   {
    "title": "Animal Welfare Board of India",
    "url": "https://awbi.gov.in/",
    "kind": "interactive",
-   "why": "For the parent: the board set up by law in 1962 to look after animals, with advice on helping animals in need."
+   "why": "For the parent: the board set up in 1962 under the Prevention of Cruelty to Animals Act, 1960. It advises the government on animal welfare laws."
   }
  ],
  "buy": [
@@ -3463,7 +3479,7 @@
  "roots": {
   "context": "You have tested a ramp and learned how to offer help. Now we ask what needing and giving help tell us about who we are.",
   "deep_truth": {
-   "truth": "A step stopped the loaded cart, and a long plank let it climb with a small push. The cart did not change. So 'cannot' was never inside the cart alone. It sat between the cart and the step. People are like this too. What a person is able to do always depends on the world that meets them.",
+   "truth": "A step stopped the loaded cart, and a long plank let it climb with a small push. The cart did not change. So 'cannot' was never inside the cart alone. It sat between the cart and the step. People are like this too. What a person is able to do depends partly on the world that meets them: its steps, its signs, its rules and its ways of treating people.",
    "habit": "We say 'she can't walk in' or 'he is helpless' as if being unable were a thing inside a person, like the colour of their eyes. That label makes helper and helped look like two kinds of people.",
    "evidence": "In the ramp test the same load needed a big stretch of the rubber band on the steep plank and a small stretch on the long plank. One and the same cart was 'unable' and 'able' within a minute, and only the plank had changed."
   },
@@ -3472,7 +3488,7 @@
    "what_is_life": "No living being manages alone. A baby needs a parent, an old elephant needs the herd, a wounded ant needs a nestmate. A life is held up by other lives at its start, at its end, and at many points between.",
    "what_is_this_world": "A step or a ramp, a notice in one script or in two: the world we build decides who can take part in it. The world is not finished. Every doorway is a choice about who belongs, and you will help to make those choices."
   },
-  "thread": "The lesson's science is small and exact: a longer slope needs a smaller push. It carries a large idea. Ability is something that happens between a body and its surroundings. If that is so, then the line between 'the helpless' and 'the able' is drawn by how we build and behave. It also means that helping is less a gift from one separate person to another than a repair to something that joins them. Many old teachers said that the one who helps and the one helped are not truly two. Scientists who study evolution give a different account, and it is set out below.",
+  "thread": "The lesson's science is small and exact: a longer slope needs a smaller push. It carries a large idea. Ability is something that happens between a body and its surroundings. If that is so, then the line between 'the helpless' and 'the able' is drawn by how we build and behave. It also means that helping is less a gift from one separate person to another than a repair to something that joins them. Many old teachers said that the one who helps and the one helped are not truly two. Some difficulties also begin in the body, and medicine helps with those. Scientists who study evolution, the slow change of living things over many generations, give a different account of helping, and it is set out below.",
   "teachings": [
    {
     "source": "Isha Upanishad, verse 6",
@@ -3507,8 +3523,8 @@
   "practice": {
    "title": "The other side of the door",
    "mins": 4,
-   "say": "Stand at the main door of your home. Look at it as if you were someone else. First, be a person in a wheelchair. Is there a step? Is the door wide enough? Now be a person who cannot see. How would you find the bell? Now be very old and very tired. Is there somewhere to sit? Close your eyes and take three slow breaths. Think of one person you know who needs help, and of one thing they might like to be asked. Tell me what you would ask.",
-   "kid": "Stand at your front door. Pretend you use a wheelchair. Can you get in? Pretend you cannot see. Can you find the bell? Shut your eyes and breathe three times. Think of one person you could ask, 'Would you like some help?'"
+   "say": "Stand at the main door of your home. Look at it as if you were checking it for visitors. Think of a visitor who uses a wheelchair. Is there a step? Is the door wide enough? Think of a visitor who cannot see. Could they find the bell? Think of a very old visitor who is tired. Is there somewhere to sit? Close your eyes and take three slow breaths. Think of one person you know who needs help, and of one thing they might like to be asked. Tell me what you would ask.",
+   "kid": "Stand at your front door and look at it as a host would. Could a person in a wheelchair get in? Could a person who cannot see find the bell? Shut your eyes and breathe three times. Think of one person you could ask, 'Would you like some help?'"
   },
   "ask": [
    "When you help someone, where does the help come from: from you, or from everyone who ever helped you?",
@@ -3523,7 +3539,7 @@
   "when": "1784 to 1854",
   "wrong_idea": "People believed that blind readers should use raised ordinary letters. It was believable because sighted teachers judged by eye, and raised letters looked right to them, though they were poor for fingers."
  },
- "playtest": "Planned as a parent and child in a flat. Nothing in this lesson has been tried by a real family yet. Parts to try first: the rubber-band ramp test (the order of the three ways should always show, but the numbers depend on the band and the toy), the chappal test on a wet tray, and the dal-grain Braille names, where the glue must dry for about 20 minutes. The water dish for birds and squirrels needs two weeks, and in winter or heavy rain nobody may come. The one-hand-one-eye hook in the intro and the Hands full activity show a small difficulty for a minute and do not show what it is like to live with a disability, so tell your child that. If your child or someone at home lives with a disability, they are the expert in the room: ask them what these cards got right and wrong. Facts still to check against their sources: the World Health Organization count of 1.3 billion people and the census figures; the word divyang since 2016 and the objections to it; the 1 in 12 ramp slope in India's guidelines; the dates for Braille, Farffler, Everest and Jennings, Berkeley kerb cuts, Seiichi Miyake, Stokoe, the Milan congress and Nicaraguan Sign Language; the Jaipur Foot dates, Sudha Chandran, Arunima Sinha and Avani Lekhara; the Shanidar and Man Bac skeletons; the studies on ants, rats and vampire bats; Ashoka's Rock Edict 2, Thirukkural 315 and the other texts named; the 2012 and 2024 declarations on animal consciousness; the 2019 Time Use Survey; the last wild polio case in India in 2011; and the raised marks on the 100, 200 and 500 rupee notes. The web addresses in links and the videos have not been opened. The videos still need verified YouTube ids.",
+ "playtest": "Planned as a parent and child in a flat. Nothing in this lesson has been tried by a real family yet. Parts to try first: the rubber-band ramp test (the order of the three ways should always show, but the numbers depend on the band and the toy), the chappal test on a wet tray, and the dal-grain Braille names, where the glue must dry for about 20 minutes. The water dish for birds and squirrels needs two weeks, and in winter or heavy rain nobody may come. The intro asks about a real step at a door and who it leaves out, and does not ask the child to pretend to have a disability. The Hands full activity is about busy hands and ordinary objects. It does not show what it is like to live with a disability, so tell your child that. If your child or someone at home lives with a disability, they are the expert in the room: ask them what these cards got right and wrong. Facts still to check against their sources: the World Health Organization count of 1.3 billion people and the census figures; the word divyang since 2016 and the objections to it; the 1 in 12 ramp slope in India's guidelines; the dates for Braille, Farffler, Everest and Jennings, Berkeley kerb cuts, Seiichi Miyake, Stokoe, the Milan congress and Nicaraguan Sign Language; the Jaipur Foot dates, Sudha Chandran, Arunima Sinha and Avani Lekhara; the Shanidar and Man Bac skeletons; the studies on ants, rats and vampire bats; Ashoka's Rock Edict 2, Thirukkural 315 and the other texts named; the 2012 and 2024 declarations on animal consciousness; the 2019 Time Use Survey; the last wild polio case in India in 2011; and the raised marks on the 100, 200 and 500 rupee notes. The four web addresses in links were opened on 27 November 2026 and each one loaded. The Department's address was changed to depwd.gov.in because the old one passes you on to it, and the Jaipur Foot site shows a short check page before it opens. The videos have not been opened. The videos still need verified YouTube ids.",
  "warm": {
   "words": [
    "SLOPE",

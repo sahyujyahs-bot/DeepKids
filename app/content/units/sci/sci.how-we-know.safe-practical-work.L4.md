@@ -54,12 +54,15 @@
 - **Inference**: A step of thinking from what you know to something you have not yet seen. *e.g.* Cold took longer than warm, so you infer that warm tap water will be even faster.
 - **Familiar**: Something you have seen or done many times. *e.g.* Sugar going into tea is a familiar sight.
 - **Unfamiliar**: Something you have not met before. *e.g.* Powdered jaggery in warm water is unfamiliar if you have never timed it.
+- **Crystal**: A small solid piece with flat sides that meet in sharp corners, such as a grain of sugar or of rock salt. *e.g.* Look at a grain of sugar in torchlight. Its flat shiny sides are what make it a crystal.
 - **Dissolve**: To spread out into a liquid until the pieces are too small to see and the liquid is clear. *e.g.* Sugar dissolves in water, and the water turns clear again.
 - **Result**: What you find out when you do the test. *e.g.* The result was 41 seconds for the sugar in warm water.
 - **Difference**: How far apart two numbers are. You find it by subtracting the smaller from the larger. *e.g.* You predicted 40 seconds and the result was 52 seconds, so the difference is 12 seconds.
 - **Accuracy**: How close a prediction or a measurement is to the true result. *e.g.* A prediction that is 2 seconds off a 50-second result is more accurate than one that is 12 seconds off.
 - **Hindsight**: Looking back at something after you know how it ended. It makes people feel they expected the result all along. *e.g.* After a match, many people say 'I knew he would get out', though they never said it before.
 - **Spread**: How far apart your repeated results are, found by taking the smallest from the largest. *e.g.* Runs of 48, 52 and 56 seconds have a spread of 8 seconds.
+- **Middle value**: The number in the middle when you line your results up from the smallest to the biggest. *e.g.* Runs of 56, 48 and 52 seconds line up as 48, 52, 56, so the middle value is 52 seconds.
+- **Fluke**: A result that comes out oddly because of luck, not because of the idea you are testing. *e.g.* One run of the sugar test took 20 seconds longer because your finger pressed stop late. Three runs show whether that was a fluke.
 - **Forecast**: A prediction about the future, such as tomorrow's weather, made from what is known now. *e.g.* The monsoon forecast says how much rain a year is likely to bring.
 - **Eclipse**: When something in the sky passes in front of another and blocks its light, as the Moon does to the Sun. *e.g.* Astronomers can predict a solar eclipse centuries ahead, to the minute.
 - **Miss**: How far a prediction was from the result. *e.g.* A prediction of 40 seconds for a 52-second result is a miss of 12 seconds, too short.
@@ -73,14 +76,14 @@
 ### Practical work is finding out with your hands, and equipment is whatever helps you do it · *defined*
 **Definition:** Practical work is a test or an observation that you carry out yourself. Equipment is the set of things you use to carry it out.
 
-You can find some things out by thinking, and some by asking. Other things you can only find out by doing. Will a wet towel dry faster hung up or folded? You have to try it. That trying is practical work. The things you use are your equipment: a towel, a clothes line, a clock, a notebook. Equipment does not have to come from a laboratory. A steel tumbler is equipment when you measure with it. A window sill is equipment when you grow a seed on it. What makes something equipment is the job you give it.
+You can find some things out by thinking, and some by asking. Other things you can only find out by doing. Will a wet towel dry faster hung up or folded? You have to try it. That trying is practical work. The things you use are your equipment: a towel, a clothes line, a clock, a notebook. Equipment does not have to come from a laboratory. A steel tumbler is equipment when you measure with it. A window sill is equipment when you grow a seed there. What makes something equipment is the job you give it.
 - e.g. A kitchen weighing scale becomes science equipment when you weigh a sponge dry and then wet.
 - e.g. A phone becomes equipment three times over: a stopwatch, a torch and a camera.
 - e.g. A cook testing if the dosa pan is hot enough by sprinkling water is doing practical work.
 ### Each measuring tool answers one kind of question · *defined*
 **Definition:** A measuring tool is built to measure one quantity. Choosing equipment starts with asking which quantity you need.
 
-A quantity is something you can measure and give a number to. Length is a quantity, and a ruler or a tape measures it. Volume is how much space a liquid takes up, and a measuring cup measures it. Mass is how much stuff is in a thing, and a weighing scale measures it. Temperature is how hot or cold something is, and a thermometer measures it. Time is measured with a clock or a stopwatch. So the first question when you choose equipment is 'What do I need to know?' If you need to know how hot, a ruler cannot help you, however good the ruler is.
+A quantity is something you can measure and give a number to. Length is a quantity, and a ruler or a tape measures it. Volume is how much space a liquid takes up, and a measuring cup measures it. Mass is how much stuff is in a thing, and a weighing scale measures it. Temperature is how hot or cold something is, and a thermometer measures it. Time is measured with a clock or a stopwatch. So the first question when you choose equipment is 'What do I need to know?' Suppose you need to know how hot the water is. A ruler cannot help, however good the ruler is.
 - e.g. How tall is the bean plant today? Length, so a ruler, in centimetres.
 - e.g. How much water did the sponge soak up? Volume, so a measuring cup, in millilitres.
 - e.g. How heavy is one idli before and after steaming? Mass, so a kitchen scale, in grams.
@@ -88,9 +91,9 @@ A quantity is something you can measure and give a number to. Length is a quanti
 ### The tool must fit the size of the thing: look at the smallest mark · *defined*
 **Definition:** The smallest mark on a tool is the smallest amount it can measure. Choose a tool whose smallest mark is much smaller than the amount you are measuring.
 
-Two tools can measure the same quantity and still not be equally good for your job. A one-litre kitchen jug often has a mark only every 100 millilitres. A medicine cup has a mark every 5 millilitres or less. If you need 10 millilitres of water, the jug cannot show it, and the medicine cup can. The same goes for time. A wall clock with no seconds hand cannot time a toy car that rolls for 3 seconds. A tool that is too fine is also a poor fit. Nobody measures the length of a room with a 15 centimetre ruler, because laying it down 30 times adds 30 small mistakes.
+Two tools can measure the same quantity and still not be equally good for your job. A one-litre kitchen jug often has a mark only every 100 millilitres. A medicine cup has a mark every 5 millilitres or less. If you need 10 millilitres of water, the jug cannot show it, and the medicine cup can. The same goes for time. A wall clock with no seconds hand cannot time a toy car that rolls for 3 seconds. A tool that is too fine is also a poor fit. Nobody measures a room 6 metres long with a 15 centimetre ruler, because laying it down 40 times adds 40 small mistakes.
 - e.g. A school ruler has a mark every 1 millimetre. A tailor's tape has the same marks but bends round a tree trunk, so the tape fits that job.
-- e.g. A kitchen scale that shows whole grams cannot weigh one grain of rice. Weigh 100 grains and divide by 100.
+- e.g. A kitchen scale that shows whole grams cannot weigh one grain of rice. Weigh a hundred grains together, then divide the total by a hundred.
 - e.g. A phone stopwatch shows hundredths of a second, but your thumb takes about two tenths of a second to press. So the last digit means little when a person does the pressing.
 ### Using a tool the right way: start at zero, read at eye level, keep it steady · *defined*
 **Definition:** A tool gives a true reading only when it is used the way it was made to be used.
@@ -100,7 +103,7 @@ The right tool, used the wrong way, gives a wrong number. Three habits fix most 
 - e.g. Hold a thermometer by its top end. If you hold the tip, the thermometer measures your fingers.
 - e.g. Say 'three, two, one, go' so the hand that drops and the thumb that times start together.
 - **Sushruta Samhita, Sutrasthana, chapter 9, an Indian book of surgery whose oldest parts are more than 2,000 years old:** A student must practise each tool before using it on a person. The book tells the student to practise cuts on gourds, watermelons and cucumbers, and stitching on cloth and soft leather. It says that even a well-read student is unfit for the work without this practice.
-- **Sushruta Samhita, Sutrasthana, chapter 7:** The same book lists 101 blunt instruments and then says that the hand is the most important instrument of all, because no other instrument can work without it.
+- **Sushruta Samhita, Sutrasthana, chapter 7:** The same book lists 101 blunt instruments. It then says that the hand is the most important instrument of all, because no other instrument can work without it.
 ### Your senses are equipment too, and they compare more than they measure · *defined*
 **Definition:** Skin, eyes, ears, nose and tongue report how a thing differs from what they met just before. A measuring tool reports against a fixed scale.
 
@@ -109,7 +112,7 @@ Try this with three bowls of water: one cold, one warm from the tap and one in b
 - e.g. After a sweet laddu, a sweet orange tastes sour.
 - **John Locke, an English philosopher, in 'An Essay Concerning Human Understanding', book 2, chapter 8, in 1690:** He described this same test with two hands and one bowl. He concluded that warm and cold, as we feel them, are not in the water in the way that its amount is. They arise where the water meets the hand.
 - **Skilled craftspeople, such as tea tasters in Assam and the Nilgiris, and potters who judge a kiln by the colour of its flame:** With years of practice, senses become fine instruments. A trained taster can tell teas apart that no simple machine can. Their view is that a sense is a tool that must be trained and checked, like any other.
-- **Scientists who study other animals' senses:** Every being has their own equipment. A pit viper senses the warmth of a mouse from a distance, and a bee sees ultraviolet marks on a flower. No being's senses report the whole world.
+- **Scientists who study other animals' senses:** Every being has their own equipment. A pit viper senses the warmth of a mouse from a distance, and a bee sees ultraviolet marks on a flower, a kind of light that human eyes cannot see. No being's senses report the whole world.
 ### A hazard is a thing that could hurt, and a risk is the chance that it will · *defined*
 **Definition:** A hazard is anything that could cause harm. A risk is how likely the harm is, together with how bad it would be.
 
@@ -118,14 +121,14 @@ A kitchen knife is a hazard, because it is sharp. That is true when it lies in a
 - e.g. Hazard: a glass jar can break. The risk rises on a tiled floor and falls on a mat.
 - e.g. Hazard: the Sun can harm eyes. The risk is high if you look at the Sun, and low if you watch its shadow.
 ### Naming the risks before you start: what could hurt, whom, and how badly · *defined*
-**Definition:** A risk assessment is a short list, made before a test, of what could cause harm, who could be harmed, and how likely and how bad the harm would be.
+**Definition:** A risk assessment is a short list you make before a test. It says what could cause harm, who could be harmed, and how likely and how bad the harm would be.
 
-Before a test, walk through it in your head from the first step to the cleaning up. At each step ask three questions. What here could hurt someone? Who could be hurt: me, a helper, a baby who crawls in, a pet, the plant? How likely is it, and how bad would it be? Write each answer in a line. Scientists call this list a risk assessment. Most home tests have the same few hazards: heat, sharp edges, glass, things that should not be swallowed, mains electricity, water on the floor, and the Sun in the eyes. Naming them takes two minutes. A risk that has a name is much easier to plan for.
+Before a test, walk through it in your head from the first step to the cleaning up. At each step ask three questions. What here could hurt someone? Who could be hurt: me, a helper, a baby who crawls in, a pet, the plant? How likely is it, and how bad would it be? Write each answer in a line. Scientists call this list a risk assessment. Most home tests have the same few hazards. They are heat, sharp edges, glass, small things that could be swallowed, wall sockets, water on the floor, and the Sun in the eyes. Naming them takes two minutes. A risk that has a name is much easier to plan for.
 - e.g. Test: dissolving sugar in warm water. Risks named: a scald from water that is too hot, a slip on spilled water, a broken glass.
 - e.g. Test: growing moong seeds. Risks named: a toddler swallowing seeds, mouldy seeds touched and then fingers in the mouth.
 - e.g. Test: making shadows. Risk named: looking straight at the Sun.
 ### Making a risk smaller: remove, swap, separate, protect · *defined*
-**Definition:** A risk can be reduced by removing the hazard, swapping it for a safer one, putting distance or a barrier between it and people, or wearing protection. The first ways work better than the last.
+**Definition:** There are four ways to make a risk smaller. You can remove the hazard, swap it for a safer one, put a barrier or distance between it and people, or wear protection. The first ways work better than the last.
 
 Once a risk has a name, there are four kinds of plan, and they are not equally strong. The strongest is to remove the hazard. If the test works with cold water, use cold water. The next is to swap. Use a plastic or steel tumbler in place of glass, and warm tap water in place of boiling water. The third is to separate people from the hazard. Work on a tray in the middle of the table, and keep a baby in another room. The weakest is protection that you wear, such as an apron or glasses, because the hazard is still there and the protection can slip. Safety engineers call this order the hierarchy of controls.
 - e.g. A torch in place of a candle removes the flame from a shadow test.
@@ -142,16 +145,16 @@ A plan on paper protects nobody unless the hands follow it. A few habits do most
 ### A checklist catches the slips that skill does not · *debated*
 **Definition:** A checklist is a short written list of steps that must not be missed, read out and ticked at the moment of doing.
 
-Experts forget simple steps, most of all when the work is familiar. In October 1935 a new and very large aeroplane, the Boeing Model 299, crashed on a test flight in Ohio in the United States. The pilots were among the best in the country. They had forgotten to release a lock on the controls. Pilots then wrote the steps down on a card and read them before every flight. Aeroplanes have used checklists ever since. In 2008 the World Health Organization made a 19-step checklist for operations. It was tried in eight hospitals, one of them in New Delhi. Deaths after operations fell from 15 in every 1,000 to 8 in every 1,000.
+Experts forget simple steps, most of all when the work is familiar. In October 1935 a new and very large aeroplane, the Boeing Model 299, crashed on a test flight in Ohio in the United States. The pilots were among the best in the country. They had forgotten to release a lock on the controls. Pilots then wrote the steps down on a card and read them before every flight. Aeroplanes have used checklists ever since. In 2008 the World Health Organization made a 19-step checklist for operations. It was tried in eight hospitals in eight cities, one of them New Delhi. Deaths after operations fell from 15 in every 1,000 to 8 in every 1,000.
 - e.g. A test checklist for home: table clear, tray down, hair tied, grown-up near for the warm water, cloth ready, prediction written.
 - e.g. A cook's habit of checking the gas knob before leaving the kitchen is a one-line checklist.
 - **Atul Gawande, a surgeon, and the World Health Organization team, in the New England Journal of Medicine in 2009:** Work today has too many steps for memory alone. A short list read aloud catches the missed step, and it also makes the team speak to each other before they start.
-- **David Urbach and colleagues, who studied 101 hospitals in Ontario, Canada, in 2014:** When every hospital in Ontario was ordered to use the checklist, deaths after operations hardly changed. Their view is that a list by itself does little. It works only when the people using it believe in it and really stop to read it.
+- **David Urbach and colleagues, who studied 101 hospitals in Ontario, Canada, in 2014:** When hospitals across Ontario were required to use the checklist, deaths after operations hardly changed. Their view is that a list by itself does little. It works only when the people using it believe in it and really stop to read it.
 - **Some experienced surgeons and pilots, when checklists were first brought in:** A list treats a skilled person like a beginner, and ticking boxes can take the place of thinking. Attention, they said, is the real safety.
 ### A hazard that nobody knows about cannot be put on the list · *defined*
 **Definition:** A risk assessment can cover only the hazards that are known at the time. New materials and new methods can carry hazards that are discovered later.
 
-Listing risks has a limit. You can name only what somebody already knows. Carl Wilhelm Scheele, a Swedish chemist, discovered several new substances in the 1770s. He smelled and tasted them, as chemists then did. He died in 1786 at the age of 43, and many historians think his chemicals shortened his life. Marie Curie carried tubes of glowing radium in her pocket. Her notebooks are still radioactive, and the national library of France keeps them in lead-lined boxes. In the 1920s, young women in American factories painted watch dials with radium paint. They were told to point their brushes with their lips. Many fell terribly ill. Five of them, led by Grace Fryer, took the company to court in 1927.
+Listing risks has a limit. You can name only what somebody already knows. Carl Wilhelm Scheele, a Swedish chemist, discovered several new substances in the 1770s. He smelled and tasted them, as chemists then did. He died in 1786 at the age of 43, and some historians think his chemicals shortened his life. Marie Curie carried tubes of glowing radium in her pocket. Her notebooks are still radioactive, and the national library of France keeps them in lead-lined boxes. In the 1920s, young women in American factories painted watch dials with radium paint. They were told to point their brushes with their lips. Many fell terribly ill. Five of them, led by Grace Fryer, took the company to court in 1927.
 - e.g. The rule 'never taste anything in a test' exists because of people like Scheele.
 - e.g. When scientists work with something new, they treat it as hazardous until tests show otherwise.
 - **The dial painters, later called the Radium Girls, and the doctors who stood by them, such as Harrison Martland in 1925:** The company's scientists protected themselves with screens and tongs, while telling the painters that the paint was harmless. Their view is that risk is not only about knowledge. It is also about who is told, and who is listened to.
@@ -162,31 +165,31 @@ Listing risks has a limit. You can name only what somebody already knows. Carl W
 Even a test with a bowl of cold water has some risk, because someone can slip. Crossing the road to buy the sugar has more. So 'Is it safe?' is never a yes-or-no question. The real questions are how big the risk is, what we gain by doing the test, and who carries the risk. A test that teaches a lot may be worth a small risk. A test that teaches little is not worth a large one. People answer these questions differently, and that is a real disagreement, not a mistake by one side.
 - e.g. Cutting an apple to watch it brown needs a knife. Most families accept that risk with a grown-up cutting.
 - e.g. Boiling water for a test that works just as well with warm tap water is a risk with nothing gained.
-- **The Rio Declaration of the United Nations, Principle 15, in 1992:** Where serious harm is possible, do not wait for full proof before you act to prevent it. This is called the precautionary approach. When in doubt, hold back.
-- **Chauncey Starr, an American engineer, in the journal Science in 1969:** Every benefit carries some risk, so compare the two with numbers. He found that people accept much larger risks when they choose them freely, such as cycling, than when others impose them.
+- **The Rio Declaration of the United Nations, Principle 15, in 1992:** Where serious harm to the environment is possible, do not wait for full proof before you act to prevent it. This is called the precautionary approach. Suppose fish start dying in a river below a new factory. Waiting years for proof means years of harm, so the factory is asked to cut its waste now, while scientists study the river.
+- **Chauncey Starr, an American engineer, in the journal Science in 1969:** Every benefit carries some risk, so compare the two with numbers. He found that people accept much larger risks when they choose them freely, such as skiing, than when others impose them.
 - **People who carry the risk without getting the gain:** A sum of risk against benefit can look fine overall while one group gets the benefit and another gets the harm. They ask that the sum always says who is who.
 ### The other beings in your test are at risk too · *defined*
 **Definition:** A risk assessment counts every living being the test touches, not only people.
 
-Many tests at home use living beings: a potted plant, sprouting seeds, ants on a wall, a snail from the balcony, the curd bacteria in a bowl. Each of them can be harmed by the test. So they go on the list. Ask what the test will do to them, and how to do less. Watch ants where they already walk, and do not shut them in a jar. If a test keeps a plant in the dark, keep them there for a few days and no longer, and then bring them back to the light. Put a snail back where you found them within the hour. Plants and other animals feel, remember and decide. Some scientists call these automatic responses.
+Many tests at home use living beings. There may be a potted plant, sprouting seeds, ants on a wall, a snail from the balcony or the curd bacteria in a bowl. Each of them can be harmed by the test, so they go on the list. Ask what the test will do to them, and how to do less. Watch ants where they already walk, and do not shut them in a jar. If a test keeps a plant in the dark, do it for a few days at most, then bring the plant back to the light. Put a snail back where you found them within the hour. Plants and animals feel, remember and decide. Some scientists call these automatic responses.
 - e.g. To learn what ants like to eat, place a grain of sugar and a grain of salt near their path and watch. No ant needs to be caught.
-- e.g. To test if a seed needs water, sprout ten seeds, and plant the survivors afterwards.
+- e.g. To test whether seeds need light to sprout, put ten seeds on a damp cloth, some in light and some in a dark cupboard, and plant them all afterwards.
 - **William Russell and Rex Burch, British scientists, in 'The Principles of Humane Experimental Technique' in 1959:** They gave three rules for any test on animals. Replace the animal with something else where you can. Reduce the number of animals. Refine the method so that the animals suffer less. Laboratories across the world now follow these three rules.
 - **The Acharanga Sutra, book 1, lecture 4, lesson 1, one of the oldest Jain texts:** All breathing, existing, living beings should not be killed, treated with violence or tormented. Jain teaching counts plants, and the tiny beings in water and soil, among the living.
 - **Scientists who use animals in medical research:** Some knowledge that saves many lives, human and animal, cannot yet be gained without tests on animals. They accept the three rules and hold that stopping all such tests would cause more suffering than it prevents.
 ### A prediction is what you expect to happen, with a reason taken from what you already know · *defined*
 **Definition:** A prediction is a statement, made before a test, of what the result will be. A scientific prediction comes with a reason.
 
-A guess says what will happen. A prediction also says why you think so. 'The sugar will dissolve faster in warm water' is a guess. 'The sugar will dissolve faster in warm water, because I have seen sugar vanish quickly in hot tea and slowly in cold lemon juice' is a prediction. The reason matters for two things. It lets other people check your thinking. And when the result comes in, it tells you what to learn. If the result matches, the reason has passed one test. If the result does not match, something in the reason needs another look. Write the prediction down before the test, with a number if you can.
+A guess says what will happen. A prediction also says why you think so. 'The sugar will dissolve faster in warm water' is a guess. Here is a prediction. 'The sugar will dissolve faster in warm water, because I have seen sugar vanish quickly in hot tea and slowly in cold lemon juice.' The reason matters for two things. It lets other people check your thinking. And when the result comes in, it tells you what to learn. If the result matches, the reason has passed one test. If the result does not match, something in the reason needs another look. Write the prediction down before the test, with a number if you can.
 - e.g. I predict the wet towel will dry in about 2 hours on the line, because yesterday a wet shirt took about that long.
 - e.g. I predict the bigger ice cube will take longer to melt, because there is more ice to warm up.
 - **The Nyaya Sutra of Gautama, book 1, chapter 1, sutra 5, with Vatsyayana's commentary of about the 5th century CE:** This Indian text on reasoning names three kinds of inference. The first goes from a cause to what will follow. The commentary's example is seeing dark clouds gather and inferring that rain will come. That is a prediction with a reason.
 - **The Charaka Samhita, Sutrasthana, chapter 11, an Indian book of medicine whose oldest parts are about 2,000 years old:** It lists four ways of knowing: trusted teaching, direct seeing, inference, and yukti. Yukti is reasoning that puts many causes together to say what will result. Its example is a crop, which comes from water, ploughing, seed and season together.
 ### Predicting something new: reason from the nearest thing you know · *defined*
-**Definition:** In an unfamiliar situation, a prediction is made by finding a familiar case that is like it and asking what should stay the same and what should change.
+**Definition:** To predict something unfamiliar, find a familiar case that is like it. Then ask what should stay the same and what should change.
 
 It is easy to predict what you have seen many times. The real power of science is predicting what nobody has seen. You do it by stepping from the known to the new. You know that sugar dissolves faster in warm water. Now someone hands you rock salt, which you have never tested. Rock salt is like sugar in one way: both dissolve in water. So you predict that warm water will speed rock salt up too. In 1871 the Russian chemist Dmitri Mendeleev did this with a metal nobody had found. He reasoned from the metals around its empty place in his table. He predicted that each cubic centimetre of it would weigh about 5.9 grams.
-- e.g. In 1875 the French chemist Paul-Émile Lecoq de Boisbaudran found the metal, now called gallium. He first measured 4.7 grams. Mendeleev wrote that the sample must be impure. Measured again on a pure piece, it came to 5.9.
+- e.g. In 1875 the French chemist Paul-Émile Lecoq de Boisbaudran found the metal, now called gallium. He first measured 4.7 grams. Mendeleev wrote to him that the figure was too low, and that the sample must be impure. Measured again on a purer piece, it came to about 5.9.
 - e.g. You know a metal spoon in hot tea gets hot. Predict what a wooden spoon will do, and say what is the same and what is different.
 - e.g. You know a ball rolls farther on tile than on a mat. Predict what a ball will do on sand.
 ### Judging a prediction: write it first, then find the difference from the result · *defined*
@@ -198,19 +201,25 @@ After the test, put the prediction and the result side by side. Suppose you pred
 ### How close is close enough depends on the spread of your results and on what the answer is for · *defined*
 **Definition:** A prediction counts as accurate when its miss is no bigger than the natural spread of repeated results, or small enough for the purpose it serves.
 
-No test gives the same number twice. Do the sugar test three times and you may get 48, 52 and 56 seconds. The results spread over 8 seconds without anything being wrong. So a prediction of 50 seconds is as close as this test can judge. A prediction of 40 is outside the spread, and is a real miss. The purpose matters too. The India Meteorological Department predicts each year's monsoon rain as a percentage of the long-term average. It states with the forecast that the forecast may be off by about 5 in every 100 either way. A farmer can plan around that. An engineer cutting a part for a rocket engine cannot accept a miss of 5 in 100.
+No test gives the same number twice. Do the sugar test three times and you may get 48, 52 and 56 seconds. The results spread over 8 seconds without anything being wrong. So a prediction of 50 seconds is as close as this test can judge. A prediction of 40 is outside the spread, and is a real miss. The purpose matters too. The India Meteorological Department predicts each year's monsoon rain as a percentage of the long-term average. It says that the forecast may be off by about 5 per cent either way. If it forecasts 60 centimetres of rain, the true rain may be anywhere from 57 to 63. A farmer can plan around that. An engineer cutting a part for a rocket engine cannot accept a miss of 5 per cent.
 - e.g. Three results: 48, 52, 56 seconds. Prediction 50: inside the spread, so accurate. Prediction 40: outside, so a miss.
 - e.g. A recipe that says 'about a cup' accepts a large miss. A medicine dose does not.
 - e.g. A forecast of 'rain tomorrow afternoon' is close enough for carrying an umbrella, and not close enough for timing a kite festival to the minute.
-### A missed prediction asks three questions: was the reason wrong, the tool wrong, or the doing wrong? · *debated*
-**Definition:** When a result does not match a prediction, the cause may lie in the idea behind the prediction, in the equipment, or in how the test was carried out. Deciding which is a matter of judgement.
+### A missed prediction asks three questions: was the reason wrong, the tool wrong, or the doing wrong? · *defined*
+**Definition:** When a result misses a prediction, look in three places, in this order: how the test was done, the equipment, and the idea behind the prediction.
 
-A miss is information. But what does it tell you? There are three places to look. The doing: did you stir one cup and not the other? The tool: was the spoon heaped one time and level the next? The reason: is your idea about warm water wrong, or missing something? Check them in that order, because the first two are easier to fix. Scientists face the same puzzle, and they do not always agree. In the 1840s the planet Uranus was not where the sums predicted. Astronomers kept Newton's law and blamed an unseen planet. Neptune was found in 1846, close to where they said. Later, Mercury also strayed from the sums. Astronomers again predicted an unseen planet, and named it Vulcan. Nobody ever found it. This time the law itself needed changing, and Albert Einstein changed it in 1915.
+Say you predicted 45 seconds, and the sugar took 90. A miss is information. But what does it tell you? There are three places to look. The doing: did you stir one cup and not the other? The tool: was the spoon heaped one time and level the next? The reason: is your idea about warm water wrong, or missing something? Check them in that order, because the first two are easier to fix.
 - e.g. Your sugar took twice as long as predicted. You then notice that this spoonful had large crystals. The reason was missing something: crystal size matters too.
 - e.g. A plant you predicted would bend to the window grows straight. You check and find the curtain was closed all week. The doing was at fault.
-- **Karl Popper, a philosopher born in Vienna, in 1934:** A scientific idea must risk being wrong. When its prediction fails in a careful test, the honest thing is to give the idea up, and not to keep rescuing it with excuses.
 - **Pierre Duhem, a French physicist, in 1906:** No prediction tests one idea alone. It tests the idea together with the tools, the set-up and many smaller assumptions. A miss says that something in the whole bundle is wrong, and it cannot say which part.
-- **Imre Lakatos, a Hungarian philosopher, in 1970:** Scientists are right to protect a good idea for a while, as they did with Neptune. The test is what the protecting leads to. If it leads to new finds, carry on. If it leads only to more excuses, as with Vulcan, let go.
+### A miss alone cannot say whether a hidden cause or a wrong rule is to blame: Neptune and Vulcan · *debated*
+**Definition:** When a prediction misses in a careful test, scientists may look for a hidden cause outside the idea, or change the idea itself. A miss alone does not say which.
+
+Scientists meet the same puzzle as your sugar test, and they do not always agree. By the 1840s the planet Uranus was not where the sums predicted. Astronomers kept Newton's law and blamed an unseen planet. Neptune was found in 1846, close to where they said. Later, Mercury also strayed from the sums, by about one hundredth of a degree each century. Astronomers again predicted an unseen planet, and named it Vulcan. Nobody ever found it. This time the law itself needed changing, and Albert Einstein changed it in 1915.
+- e.g. Your cloth dried much slower than predicted. A hidden cause may be at work, such as a very humid day. Or your rule 'sun means quick' may be too simple, because shade and wind matter too.
+- e.g. A friend's sugar takes twice as long as yours. A hidden cause could be bigger crystals. Or you could ask whether warm water speeds up every kind of sugar equally.
+- **Karl Popper, a philosopher born in Vienna, in 1934:** A scientific idea must risk being wrong. When its prediction fails in a careful test, the honest thing is to give the idea up, and not to keep rescuing it with excuses.
+- **Imre Lakatos, a Hungarian philosopher, in 1970:** Scientists are right to protect a good idea for a while, as they did with Neptune. The test is what the protecting leads to. If it leads to new finds, carry on. If it leads only to more excuses, let go.
 ### Can everything be predicted? Some things, only a short way ahead · *debated*
 **Definition:** Some systems, such as the weather, follow fixed laws and still cannot be predicted far ahead, because tiny differences at the start grow into large ones.
 
@@ -223,50 +232,50 @@ If you knew enough, could you predict anything? In 1961 the American weather sci
 ### Careful practical work is very old, and India's texts wrote down its rules · *defined*
 **Definition:** Rules for testing things carefully, choosing instruments and learning from results were written in several ancient cultures, long before modern laboratories.
 
-It is easy to think that careful testing began in Europe a few hundred years ago. The written record says otherwise. The Charaka Samhita, in its Vimanasthana section, chapter 8, tells a physician to examine in an ordered way before acting, and to judge a claim by reasoning and by what is seen. In Cairo, about the year 1021 CE, Ibn al-Haytham wrote in his Book of Optics that a person who studies nature must test what earlier writers say, and must suspect even his own judgement. In China, the Mozi, a book from about the 4th century BCE, gives three tests for any statement. One of them is to check it against what ordinary people's eyes and ears report. The tools have changed. The habits are the same ones this lesson teaches.
+It is easy to think that careful testing began in Europe a few hundred years ago. The written record says otherwise. The Charaka Samhita, in its Vimanasthana section, chapter 8, tells a physician to examine in an ordered way before acting. It says to judge a claim by reasoning and by what is seen. In Cairo, about the year 1021 CE, Ibn al-Haytham wrote in his Book of Optics that a person who studies nature must test what earlier writers say. He added that you must suspect even your own judgement. In China, the Mozi, a book from about the 4th century BCE, gives three tests for any statement. One of them is to check it against what ordinary people's eyes and ears report. The tools have changed. The habits are the same ones this lesson teaches.
 - e.g. The Sushruta Samhita asks that a sharp instrument be so well made and sharpened that it can split a hair.
-- e.g. A potter in Manamadurai, a weaver in Kanchipuram and a cook testing sugar syrup between two fingers each follow tested rules passed from hand to hand, most of them never written down.
+- e.g. A potter in Manamadurai, a weaver in Kanchipuram and a cook testing sugar syrup between two fingers all use rules that were tested many times. The rules were passed from hand to hand, and most were never written down.
 - **Historians who place the start of modern science in Europe in the 1600s:** What was new then, they say, was joining tests to mathematics and to instruments, and publishing results so that strangers could repeat them. Earlier work was careful but was not organised in this way.
 - **Historians such as Joseph Needham, who studied science in China, and Dharampal, who studied science and technology in 18th-century India:** Careful, tested knowledge was built in many places by many kinds of people, among them craftspeople, healers and farmers. Much of it was passed on by doing and was never credited, because it was not written in books.
 
 ## Mostly agreed
-- A good prediction, shared in time, is one of the strongest safety tools people have. *How we know:* In October 2013 the India Meteorological Department, whose cyclone forecasting was led by Mrutyunjay Mohapatra, predicted days ahead where and how hard Cyclone Phailin would strike the Odisha coast. About a million people were moved inland before the storm arrived. A few dozen people died. A cyclone of similar strength struck the same coast in 1999, with much poorer warning, and about 10,000 people died.
-- After people learn a result, they remember their earlier expectation as closer to the result than it was. *How we know:* In 1975 the psychologist Baruch Fischhoff gave people accounts of events with different endings. People who were told an ending rated that ending as having been far more likely all along, and did not notice that knowing it had changed their view. The finding has been repeated many times.
+- A good prediction, shared in time, is one of the strongest safety tools people have. *How we know:* In October 2013 Cyclone Phailin was heading for the Odisha coast. The India Meteorological Department, with cyclone forecasting led by Mrutyunjay Mohapatra, said days ahead where and how hard it would strike. About a million people were moved inland before the storm arrived. Fewer than 50 people died. A cyclone of similar strength struck the same coast in 1999, with much poorer warning, and about 10,000 people died.
+- After people learn a result, they remember their earlier expectation as closer to the result than it was. *How we know:* In 1975 the psychologist Baruch Fischhoff gave people accounts of events with different endings. People who were told an ending said that ending had been far more likely all along. They did not notice that knowing it had changed their view. The finding has been repeated many times.
 - A person needs about a fifth of a second to react to something seen, so hand timing cannot be trusted for very short events. *How we know:* Reaction-time tests since the 1800s, and the simple test of catching a dropped ruler, give about 0.2 seconds for most people. That is why races decided by hundredths of a second are timed by light beams and cameras.
 
 ## How we found out
-**Bernardino Ramazzini, Alice Hamilton, Grace Fryer and the radium dial painters, Harrison Martland, 1700 to 1928.** For most of history, people who were hurt at work were said to be unlucky or careless. Sickness from a trade was treated as part of the trade. It fitted what everyone saw: miners coughed, potters shook, and it had always been so. In the year 1700 an Italian doctor, Bernardino Ramazzini, published a book on the diseases of workers. He had gone into workshops and asked a question doctors did not ask: 'What is your work?' He matched each trade to its own illness. So the harm had causes, and causes can be changed. In 1910 the American doctor Alice Hamilton went from factory to factory in the state of Illinois, and to workers' homes, tracing lead poisoning. Owners told her that the workers were to blame for not washing. She showed that the lead dust in the air was to blame. In the 1920s the radium dial painters proved in court that their employer had known the danger and had hidden it. Out of work like this came the modern rule that risks are named before work starts, and that the person in charge must reduce them.  
-*What people believed before:* Accidents and work sicknesses are bad luck or the worker's own carelessness, so nothing can be planned. It was believable because each injury looked like a separate event, until people counted them and found that the same work gave the same harm again and again.
+**Bernardino Ramazzini, Alice Hamilton, Grace Fryer and the radium dial painters, Harrison Martland, 1700 to 1928.** For most of history, people who were hurt at work were said to be unlucky or careless. Sickness from a trade was treated as part of the trade. It fitted what everyone saw: miners coughed, potters shook, and it had always been so. In the year 1700 an Italian doctor, Bernardino Ramazzini, published a book on the diseases of workers. He had gone into workshops and asked a question doctors did not ask: 'What is your work?' He matched each trade to its own illness. So the harm had causes, and causes can be changed. In 1910 the American doctor Alice Hamilton went from factory to factory in the state of Illinois, tracing lead poisoning. Owners told her that the workers were to blame for not washing. She showed that the lead dust in the air was to blame. In 1927 five radium dial painters took their employer to court. The case brought out that the company had known the danger, and in 1928 they won a settlement. Out of work like this came the modern rule that risks are named before work starts, and that the person in charge must reduce them.  
+*What people believed before:* Accidents and work sicknesses are bad luck or the worker's own carelessness, so nothing can be planned. It was believable because each injury looked like a separate event. Only when people counted the cases did they see that the same work gave the same harm again and again.
 
 ## Challenging perspectives
 - **Children are kept too safe. A childhood with no risk harms them more than scrapes and small burns would.** (Ellen Sandseter and Leif Kennair, psychologists in Norway, in 2011, and Mariana Brussoni and colleagues in Canada, in 2015; *debated*)  
-  For: Children who climb, use real tools and handle fire with care learn to judge danger for themselves. A review of studies in 2015 found that such play went with better health and more activity, and found no rise in serious injuries.  
+  For: Children who climb, use real tools and handle fire with care learn to judge danger for themselves. A review of studies in 2015 found that such play went with better health and with more active children. It found no clear sign of more serious injuries.  
   Against: The studies are mostly of outdoor play in rich countries. They cannot say how much risk is the right amount. Some injuries, such as to an eye, do not heal, so many doctors and schools prefer to stay on the cautious side.
-- **Hot water can freeze faster than cold water.** (Erasto Mpemba, a schoolboy in Tanzania, in 1963, who published it with the physicist Denis Osborne in 1969. Aristotle noted something like it in his Meteorology, book 1, chapter 12, in the 4th century BCE.; *debated*)  
-  For: Mpemba put a hot ice-cream mix in the freezer and saw the mix freeze before his classmates' cooler ones. His teacher laughed at him. He kept asking, and Osborne tested it and saw the same. In 2020 Avinash Kumar and John Bechhoefer in Canada showed a clear effect of this kind with a tiny glass bead cooling in water.  
+- **Hot water can freeze faster than cold water.** (Erasto Mpemba, a schoolboy in Tanzania, in 1963. He published it with the physicist Denis Osborne in 1969. Aristotle wrote about something like it in his Meteorology, book 1, chapter 12, in the 4th century BCE.; *debated*)  
+  For: Mpemba put a hot ice-cream mix in the freezer and saw it freeze before his classmates' cooler mixes. His classmates and his teacher laughed at him. He kept asking, and Osborne tested it and saw the same. In 2020 Avinash Kumar and John Bechhoefer in Canada showed a clear effect of this kind with a tiny glass bead cooling in water.  
   Against: In 2016 Henry Burridge and Paul Linden in Britain repeated the water test with great care and found no such effect. They showed that where the thermometer sits in the cup can create a false one. Nobody has an agreed explanation for water.
 - **When ordinary people fear a risk more than experts do, the people are not simply mistaken. They are counting things that the experts' numbers leave out.** (Paul Slovic, an American psychologist, in the journal Science in 1987; *debated*)  
-  For: Experts usually count expected deaths in a year. Slovic found that other people also weigh whether a risk is chosen or forced on them, whether it is understood, whether it could harm many at once, and whether it falls on children. These are real features of a risk.  
+  For: Experts usually count expected deaths in a year. Slovic found that other people also ask more questions. Is the risk chosen or forced on them? Is it understood? Could it harm many at once? Does it fall on children? These are real features of a risk.  
   Against: Fears that ignore the numbers lead people to dread rare harms and overlook common ones, such as road accidents. Many safety scientists hold that spending should follow the count of lives saved.
 
 ## Roots
 You have chosen tools, named risks, written a prediction and checked it against the result. Now we ask what it means that a prediction can come true at all, and what that tells us about ourselves and the world.
 
 **Deep truth.** You wrote a number in your notebook before the sugar touched the warm water. Then the water gave a number of its own, and the two were close. You built your number from water you had watched earlier. So a pattern from the world was already at work in your thinking. Where your number missed, your thinking had not yet met that part of the world.  
-*Habit it breaks:* We speak of 'my mind in here' and 'the world out there', as if a prediction were made in one place and tested in another, separate place. That split makes a correct prediction look like a lucky match between two strangers.  
-*Evidence:* In the dissolving test, your prediction for warm water came from your own results for cold water and room-warm water. The closer you had watched those two, the closer the prediction came. A prediction for something you had never watched at all would have been a blind guess.
+*Habit it breaks:* We speak of 'my mind in here' and 'the world out there'. It sounds as if a prediction is made in one place and tested in another. That split makes a correct prediction look like a lucky match between two strangers.  
+*Evidence:* In the dissolving test, your prediction for warm water came from your own results for cold water and room-warm water. Your reason in ink pointed at those two results. A prediction for something you had never watched at all would have been a blind guess.
 
 - *who am i:* You are someone who expects. Every step you take predicts that the floor will hold, and every sip predicts the taste. When a prediction of yours comes true, something of the world's pattern is living in you. So you are not looking in at the world through a window. You are a part of the world that has learned how other parts behave.
-- *what is life:* Every living being predicts. A sunflower bud faces east before dawn, expecting the Sun. A crow drops a nut on the road and waits for a wheel. A being who expects wrongly gets a surprise, and learns or suffers. Life can be seen as matter that has learned to expect, and to lower its own risks.
+- *what is life:* Many living beings act ahead of what is coming. A sunflower bud faces east before dawn, expecting the Sun. Some crows drop a nut on the road and wait for a wheel to crack it. A being who expects wrongly gets a surprise, and learns or suffers. Life can be seen as matter that has learned to expect, and to lower its own risks.
 - *what is this world:* The world can be predicted in part. The tide keeps its table, and sugar keeps its habit in warm water. No one knows why the world has patterns that a mind can hold. The world also keeps surprises, such as tomorrow's cloud. A world with both pattern and surprise is one you can learn from and never finish learning.
 
 A risk and a prediction are the same act looked at from two sides. Both are a mind running ahead of the present moment, using patterns it took in earlier. This can happen only if the one who knows and the thing known are made to the same pattern. Consciousness is the ground from which both arise, so a true prediction is that one ground recognising its own ways. Many scientists explain the match differently: brains were shaped over millions of years by the world they had to survive in. Both accounts agree on the plain fact you tested. You come to know by attending closely, and you come to know only what you have attended to.
 
 - **Bhagavad Gita, chapter 2, verse 47:** Your right is to the work itself, and never to its fruits. Do not let the result be your reason for acting, and do not fall into doing nothing. (In practical work you control the choosing, the care and the doing. The result belongs to the world, and comes out as it comes. The verse and the notebook agree on one point: do the work fully, write the prediction honestly, and then accept the answer that arrives.)
 - **The Kalama Sutta, Anguttara Nikaya 3.65:** The Buddha told the Kalama people not to accept a teaching because it is repeated, or is in a scripture, or comes from a respected teacher. When you know for yourselves that a thing leads to harm, give it up. When you know for yourselves that it leads to good, take it up. (This is the rule Selvi follows in the story when she marks her grandmother and the phone in the same way. A prediction is judged by what happens and not by who made it. The sutta is about how to live, and the lesson borrows only its method.)
-- **Zhuangzi, chapter 3, the story of Cook Ding, from China, about the 4th century BCE:** Cook Ding has used one knife for nineteen years and its edge is still like new. He explains that he no longer hacks. He lets the blade follow the natural gaps in what he is cutting. (A tool used the right way works with the thing and not against it. The eye at the level of the water line and the ruler's zero on the edge of the leaf are small cases of the same fit between a hand, a tool and the world.)
-- Science (idea): Several brain scientists, among them Karl Friston and Anil Seth, propose that a brain's main work is predicting what the senses will report next, and correcting itself when it is surprised. On this account, seeing and hearing are themselves predictions that are being checked.
-- Science (settled): Plants act ahead of events. Young sunflowers turn back to face east during the night, before the Sun rises, and keep doing so for a few days even under a lamp that does not move. Hagop Atamian and colleagues reported this in the journal Science in 2016.
+- **Zhuangzi, chapter 3, the story of Cook Ding, from China, about the 4th century BCE:** Cook Ding has used one knife for nineteen years and its edge is still like new. He explains that he no longer hacks. He lets the blade follow the natural gaps in what he is cutting. (A tool used the right way works with the thing and not against it. Reading at eye level and starting at the ruler's zero are small cases of the same fit between a hand, a tool and the world.)
+- Science (idea): Several brain scientists, among them Karl Friston and Anil Seth, propose that a brain's main work is predicting what the senses will report next. The brain then corrects itself when it is surprised. On this account, seeing and hearing are themselves predictions that are being checked.
+- Science (settled): Plants act ahead of events. Young sunflowers turn back to face east during the night, before the Sun rises. They keep doing so for a few days even under a lamp that does not move. Hagop Atamian and colleagues reported this in the journal Science in 2016.
 - Other view, The Charvaka thinkers of ancient India, as reported in Madhava's Sarvadarshanasangraha, chapter 1, of the 14th century CE, and the Scottish philosopher David Hume in 1748: Only what is directly seen is certain. A prediction rests on the belief that tomorrow will be like yesterday, and nothing can prove that belief without using it. So a match between prediction and result shows a habit of the mind that has worked so far. It does not show any deep fit between mind and world.
 - Practice, One breath of prediction (3 min): Sit comfortably and close your eyes. Before you breathe in, guess how many slow counts your next breath out will last. Hold the number in your mind. Now breathe in, and breathe out slowly while I count. Was your guess close? Do it twice more. Notice the small moment of waiting between the guess and the answer. Notice who made the guess, and who gave the answer.
 - Ask: Your body made the breath, and your mind made the guess about it. Are those two different makers, or one?
@@ -277,8 +286,8 @@ A risk and a prediction are the same act looked at from two sides. Both are a mi
 - *deep:* A knife is a hazard in a drawer and in a hand, yet the risk is different. So where is the danger: in the knife, in the person, or somewhere between them? (hint: Try changing only one of them at a time in your mind, and see if the danger changes.)
 - *deep:* Your two hands disagreed about the same bowl of water, and the thermometer gave one number. Does that make the thermometer right and your hands wrong? (hint: Ask what each of them was built to report, and what the number leaves out.)
 - *deep:* You moved the cup away from the table's edge and nothing was spilled. How can you ever know if moving the cup was what kept you safe? (hint: Think about what you would have to compare, and if you could ever see the thing that did not happen.)
-- *deep:* If a prediction comes true, does that prove the reason behind it was right? (hint: Think of someone who predicts rain because a crow cawed, on a day when it then rains.)
-- *big:* Who should decide how much risk is acceptable in a test: the person doing it, the person who could be hurt, or someone who knows the numbers? (hint: Think of a case where these are three different people, and what each one knows that the others do not.)
+- *deep:* If a prediction comes true, does that prove the reason behind it was right? (hint: Think of someone who predicts rain because a crow cawed, and then the rain comes. Was the cawing the reason?)
+- *big:* Who should decide how much risk a test may have: the person doing it, the person hurt by it, or an expert with the numbers? (hint: Think of a case where these are three different people, and what each one knows that the others do not.)
 - *big:* A snail, a plant or an ant cannot be asked if they agree to be in your test. Does that change what you may do? (hint: Think about how you would want a being much bigger than you to decide about you.)
 - *big:* Marie Curie's work harmed her, and it also led to treatments that have saved many lives. Was the risk worth it, and who gets to say? (hint: Notice that she did not know the risk, and ask if that changes your answer.)
 - *big:* If the world could be predicted perfectly, would your own choices be predicted too? (hint: Think about what happens if someone tells you their prediction of what you will do next.)
@@ -359,7 +368,7 @@ Selvi looked at her page. There was a line on it for what was predicted, and a l
 ### e1 · The dissolving-time test: choose your tools, name the risks, predict, then judge your prediction (45 min)
 - **question:** How long does a level teaspoon of sugar take to dissolve in cold, room-warm and warm water? Can you predict the warm time from the first two?
 - **predict:** Before the warm test, use your cold and room-warm times to write a number for warm water. Say why you think so.
-- **fair test:** These stay the same: the cup filled to the same line, the sugar from the same bag, one level teaspoon each time, the spoon, the stirring and the stop signal. The same person starts and stops the clock. Only the warmth of the water changes. Cold and room-warm are each run twice and warm is run three times, because a finger on a stopwatch is never exactly on time. In the second round, only the solid changes.
+- **fair test:** These stay the same. The cup is filled to the same line. The sugar comes from the same bag, one level teaspoon each time. The spoon, the stirring and the stop signal do not change. The same person starts and stops the clock. Only the warmth of the water changes. Cold and room-warm are each run twice and warm is run three times, because a finger on a stopwatch is never exactly on time. In the second round, only the solid changes.
 - **safety:** Use warm tap water only, never boiling water, and let a grown-up pour it. Stand the cups on a tray. Use plastic and not glass. Do not taste anything in the test.
 - **record:** Fill the table for cold, room-warm and warm water. Write your prediction and its reason before the warm test. After it, write the middle value, the spread and the miss. Then write one sentence each for what you thought, what you saw and why. Do the same for rock salt or jaggery.
 - **results table:** Water | Temperature in degrees Celsius, if you have a thermometer | Run 1 (seconds) | Run 2 (seconds) | Run 3 (seconds) | Middle value (seconds)
@@ -391,7 +400,7 @@ Selvi looked at her page. There was a line on it for what was predicted, and a l
   *Parent says:* Warm tap water is warmer than both of your cups. What time do you expect? Use your cold and room-warm times. Write the number and your reason in ink.  
   *Child mode:* Look at your two times. Write a number for warm water. Write your reason.
   - Ask: What number did you write, and what in your results made you choose it? (good: A number lower than the room-warm time, with a reason taken from the first two results.)
-  - Note: Do not correct the guess. A good reason uses the data. For example, 'Cold took 70 and room took 45, so a warmer cup should save about 25 seconds more, so about 20.' Any honest number with a reason is fine. The ink matters. A number that can be changed after the result cannot be judged.
+  - Note: Do not correct the guess. A good reason uses the data. For example: 'Cold took 70 seconds and room-warm took 45. Warmer water should save about 25 more, so about 20.' Any honest number with a reason is fine. The ink matters. A number that can be changed after the result cannot be judged.
 - **e1s6 (7 min) · grown-up needed**  
   *Parent does:* A grown-up fills a jug with warm tap water. Check it with the inside of a wrist or a thermometer. It must feel comfortably warm and read under 45 degrees Celsius. The grown-up pours one cup to the line. Time three runs, with fresh warm water for each run, and write each time.  
   *Parent says:* I will pour. You press start when the sugar touches the water. Same spoon, same stirring, same stop signal. We do three runs, because one run can be a fluke.  
@@ -413,6 +422,7 @@ Selvi looked at her page. There was a line on it for what was predicted, and a l
 - **question:** How far does a ruler fall before you catch it, and what does that tell us about how late a finger on a stopwatch is?
 - **predict:** Before you drop the first ruler, guess how many centimetres it will fall before you catch it. Say why you think so.
 - **fair test:** These stay the same: the ruler, the partner, the start position of your fingers and the eyes-on-zero rule. The partner lets go at a different time every drop, so that you cannot guess. For the second hand, only the hand changes. Ten drops are done for each hand, because one catch can be a fluke.
+- **safety:** Use a plastic or wooden ruler, not a metal one with sharp edges. The partner lets the ruler fall straight down and never swings or flicks it. Keep faces well away from the ruler.
 - **record:** Write ten numbers for each hand. Circle the middle value for each. Find the spread for each hand. Then write one sentence each for what you thought, what you saw and why.
 - **results table:** Drop | Right hand (centimetres) | Left hand (centimetres)
 - **e2s1 (3 min)**  
@@ -476,13 +486,14 @@ Selvi looked at her page. There was a line on it for what was predicted, and a l
   - Note: Skin reports a change from where it just was. A thermometer reports against a fixed scale. Neither is wrong. Tools give numbers, and senses notice what is worth measuring. If you have no thermometer, a grown-up's wrist is a third opinion.
   - Think: Your hands compare. What else in your day is judged by comparing and not by a number?
 ### a2 · Match the tool to the job (20 min)
+- **safety:** Rice grains and bottle caps are small enough for a toddler to swallow. Keep them away from babies and small children, and put them away when you finish. Wipe up any water at once.
 - **record:** Fill a table with the job, the quantity, the tool you chose, its smallest mark and why another tool would not fit.
 - **a2s1 (5 min)**  
   *Parent does:* Set out a ruler, a one-litre jug marked every 100 millilitres, and a medicine cup or a teaspoon. Add a phone stopwatch and a bottle cap. Job one is to find how much water one bottle cap holds. Ask your child to pick a tool.  
   *Parent says:* How much water fits in this bottle cap? Which tool will you pick? What is the smallest mark on each one? Which tool can show an amount as small as this?  
   *Child mode:* Pick a tool to measure the water in a cap. Check its smallest mark.
   - Ask: Why can the jug not measure the water in one cap? (good: Its smallest mark is 100 millilitres, which is far bigger than the water in a cap.)
-  - Note: The jug cannot show it, because its smallest mark is far bigger than the cap's water. If your cup shows 1 millilitre marks, fill the cap ten times into the cup and read the total. Divide by 10. With only a teaspoon, ten caps usually make a bit under one teaspoon. Most caps hold between 1 and 3 millilitres.
+  - Note: The jug cannot show it, because its smallest mark is far bigger than the cap's water. If your cup shows 1 millilitre marks, fill the cap to the brim ten times into the cup and read the total. Divide by 10. With only a teaspoon, count how many capfuls fill it. A teaspoon holds about 5 millilitres, so a teaspoon that takes 3 capfuls means a cap holds about 1.7 millilitres. Most caps hold between 1 and 3 millilitres.
 - **a2s2 (5 min)**  
   *Parent does:* Job two is the length of one grain of rice. Lay ten grains in a row, touching end to end, along the ruler. Read the whole length and divide by ten. Then measure one grain alone and compare.  
   *Parent says:* How long is one grain of rice? Measure one grain, then measure ten in a line and divide by ten. Which gives you the more careful answer? Why?  
@@ -500,6 +511,7 @@ Selvi looked at her page. There was a line on it for what was predicted, and a l
   - Note: Do not rank tools as good or bad. A tool fits when its smallest mark is much smaller than your amount and it is not so fine that you must repeat it many times. A 15 centimetre ruler could measure a room, but you would lay it down about 40 times and each laying adds a small mistake.
   - Think: What job could you do today with no tool at all, only your senses? When would a tool do better?
 ### a3 · How many drops fit on a coin? Predict, test and judge (15 min)
+- **safety:** Coins are small enough for a toddler to swallow, so keep them away from babies and small children. Wipe up spilled water at once so nobody slips.
 - **record:** Write each guess and its reason. Write three counts for each coin. Find the middle count and the spread. Write whether each guess was inside or outside the spread.
 - **a3s1 (3 min)**  
   *Parent does:* Wipe the small coin dry and lay it flat on a dry tray. Fill the cup with water. Ask your child to write how many drops will fit before the water spills over, and why.  
@@ -553,7 +565,7 @@ Selvi looked at her page. There was a line on it for what was predicted, and a l
   *Parent does:* Choose one small cotton cloth, such as a handkerchief. Wet it in a bowl of water for one minute, then twist it ten times to wring it out. Hang it at head height in the spot you chose. Write the time. Check it every hour until it feels dry. Write down the time.  
   *Parent says:* How long will a wet cloth take to dry? Write a risk list first. Hang the cloth low, where nobody must climb or lean. Then guess the time, with a reason, and check every hour.  
   *Child mode:* List the risks. Wet the cloth, wring it and hang it. Check every hour.
-  - Note: Risks to name: a wet floor under the line, climbing to reach a high line, and leaning over a balcony rail. Hang the cloth at head height or lower, with a cloth or tray underneath. A cloth is dry when it feels exactly like a dry cloth of the same kind, judged by the same person each day. With a kitchen scale you can weigh the cloth each hour, and it is dry when two weighings in a row match.
+  - Note: Risks to name: a wet floor under the line, climbing to reach a high line, and leaning over a balcony rail. Hang the cloth at head height or lower, with a cloth or tray underneath. A cloth is dry when it feels exactly like a dry cloth of the same kind, judged by the same person each day. With a kitchen scale you can weigh the cloth each hour, and it is dry when two weighings in a row match. In a very humid week the cloth may stay damp into the night. Then hang it in front of a fan, in the same place on every day, and write the time you checked. A chair back or a door handle also works for hanging.
   - Wait: Check once an hour until the cloth is dry
 - **p1s2 (10 min)**  
   *Parent does:* Wet, wring and hang the cloth in the same spot in the same way. Before you hang it, write a prediction for the drying time using Day 1, with a reason. Check every hour. Write the time it dried.  
@@ -585,6 +597,7 @@ Selvi looked at her page. There was a line on it for what was predicted, and a l
 ## Challenges
 ### ch1 · A test station that survives a spill (30 min)
 - **problem:** Build a test station where a knocked-over cup does not make the floor, the phone or the notebook wet. There is more than one good way.
+- **safety:** Use only 100 millilitres of water, and put a towel on the floor first. Wipe up spills at once. Keep water away from plugs and sockets, and keep the phone in its bag.
 - **your turn:** Build a station of your own from things at home. What did you change after the first tip that made the water do less harm? Do you think any station is ever spill-proof?
 - **constraints:** Use only things from the home. No glass.; The test must still be possible to do at the station. You must be able to reach the cup.; Use only 100 millilitres of water in the tipping test.; Test your station at least twice.
 - **general:** Put the cup on a tray with a rim, and a towel under the tray.; Put the phone in a clear plastic bag and the notebook on the far side of the table.; Use a cup with a wide base that is harder to knock over.
@@ -598,7 +611,7 @@ Selvi looked at her page. There was a line on it for what was predicted, and a l
   *Parent does:* Build your station from things in the house. Put in the cup, the phone in a plastic bag, the notebook and a cloth. Check that nothing is on the table edge.  
   *Parent says:* Build your station. Where will you put the phone and the notebook so they stay dry?  
   *Child mode:* Build your station with things from home. Keep the phone dry.
-  - Note: A baking dish, a box lid lined with a plastic bag, a tray with a towel under it and a dish rack in a sink are all good ideas. A cup that is not on the edge cuts the chance of a spill.
+  - Note: Good ideas: a baking dish, a box lid lined with a plastic bag, a tray on a towel, or a dish rack in a sink. A cup that is not on the edge cuts the chance of a spill.
 - **ch1s3 (8 min)**  
   *Parent does:* Pour 100 millilitres of water into the cup, about half a small cup. Then tip the cup over its edge by hand, to copy a knock. Look at where the water went. Wipe up at once.  
   *Parent says:* Now we knock it over, on purpose, with a small amount of water. Where does the water go? Is anything wet that should be dry?  
@@ -612,10 +625,11 @@ Selvi looked at her page. There was a line on it for what was predicted, and a l
   - Think: Which of your changes removed a hazard, and which only caught a spill after it happened?
 ### ch2 · Make your own measuring cup from a bottle (35 min)
 - **problem:** Turn a clear plastic bottle into a measuring cup with a mark every 25 millilitres up to 200. Your marks must agree with a real measuring cup to within 10 millilitres. There is more than one good way.
+- **safety:** Only a grown-up cuts a bottle, and the cut edge is covered with tape, because cut plastic can be sharp. Use no glass. Wipe up water as you go.
 - **your turn:** Make your own measuring cup from things at home. How did you make your marks closer to a real cup? Do you think any home-made tool is ever as good as a bought one?
 - **constraints:** Use a plastic bottle and no glass.; Use only tape, a pen, water and a trusted measure to mark it.; Check at least three of your marks against a real measuring cup.; Write down the error of each mark.
 - **general:** Pour a trusted 25 millilitres in at a time and mark each line on tape.; Use a bottle with straight sides, so equal amounts make equal gaps.; Mark from the bottom up, and read at eye level each time.
-- **creative:** Cut the top off a wide bottle to make a cup with a handle, then mark the inside.; Use a narrow clear tube or a long bottle, so each millilitre is a larger gap and the cup is more exact.; Mark a bottle in tablespoons or katoris, for a cooking cup in the family's own units.
+- **creative:** Ask a grown-up to cut the top off a wide bottle to make a cup with a handle, then mark the inside.; Use a narrow clear tube or a long bottle, so each millilitre is a larger gap and the cup is more exact.; Mark a bottle in tablespoons or katoris, for a cooking cup in the family's own units.
 - **ch2s1 (6 min)**  
   *Parent does:* Read the problem. Choose your master measure, which is a tool whose amount you trust, such as a medicine cup marked in millilitres. Decide how small your smallest mark will be.  
   *Parent says:* A measuring cup is only as good as its marks. What will be your trusted measure? How small will your smallest mark be? Why?  
@@ -677,7 +691,7 @@ Selvi looked at her page. There was a line on it for what was predicted, and a l
 15. (write) Predict how long a wet sock takes to dry on a line, and give a reason from something you have seen.  
    **Answer:** A time such as 'about 3 hours'. A reason from something seen, such as 'a wet shirt took that long yesterday'.. *Why:* A prediction without a reason is only a guess. Reasons come from patterns you have watched before.
 16. (perspective) Two ways to plan a test that needs warm water.  
-   **Answer:** Answers vary. A strong answer says removing the hazard is the strongest plan, and that the warm test teaches more but needs a grown-up and a tray, so it is a trade-off.. *Why:* Both views are sensible. The first is the stronger kind of plan. The second accepts a small risk for a clearer result, and that is a choice people make differently.
+   **Answer:** Answers vary. A strong answer says removing the hazard is the strongest plan. It also says the warm test teaches more but needs a grown-up and a tray, so it is a trade-off.. *Why:* Both views are sensible. The first is the stronger kind of plan. The second accepts a small risk for a clearer result, and that is a choice people make differently.
 ### Plans, spread and misses (stretch) (stretch, 17 questions)
 1. (mcq) You want the mass of one grain of rice on a scale that shows whole grams. What works?  
    Options: Weigh one grain and round up / Weigh a hundred grains, then divide / Use a bigger scale  
@@ -773,9 +787,9 @@ Selvi looked at her page. There was a line on it for what was predicted, and a l
 3. (mcq) Water in a measuring cup looks higher from above than from the side. Which reading is right?  
    Options: The one from above / The one with your eye level / The average of the two  
    **Answer:** The one with your eye level. *Why:* Looking from above makes the water seem to stand at a different mark. Eye level is the one position that gives the true mark.
-4. (mcq) A ruler's zero is 2 millimetres in from its end. You line up the end with a pencil's tip. The reading is...  
+4. (mcq) A ruler's zero is 2 millimetres in from its end. You start measuring a pencil at the end, not at zero. The reading is...  
    Options: 2 millimetres too big / 2 millimetres too small / exactly right  
-   **Answer:** 2 millimetres too big. *Why:* The scale begins 2 millimetres in, so the pencil is 2 millimetres longer in the number than in truth. Always line up the zero mark and not the edge.
+   **Answer:** 2 millimetres too small. *Why:* The scale starts counting 2 millimetres in from the end. So the first 2 millimetres of the pencil lie before the zero mark and are never counted. The reading is 2 millimetres less than the true length. Always line up the zero mark and not the edge.
 5. (mcq) Which sentence about a knife is true?  
    Options: A hazard only in someone's hand / A hazard in a drawer, with a low risk / A risk in a drawer only  
    **Answer:** A hazard in a drawer, with a low risk. *Why:* A hazard is what could cause harm, so the knife is one everywhere. The risk is the chance and size of the harm, and that changes with how and where it is used.
@@ -796,20 +810,20 @@ Selvi looked at her page. There was a line on it for what was predicted, and a l
 11. (mcq) You have timed sugar but never rock salt. What is the best first step to predict for rock salt?  
    Options: Compare what rock salt shares with sugar / Say nobody can predict a new thing / Pick any number, because it is new  
    **Answer:** Compare what rock salt shares with sugar. *Why:* Predicting the new works by stepping from a familiar case. Both dissolve, so warm should help, and rock salt crystals are bigger, so it may be slower.
-12. (mcq) You predict 40 seconds. Three runs give 48, 52 and 56 seconds. Was the prediction close enough?  
-   Options: No, 40 is outside the runs' spread / Yes, because 40 is near 48 / Yes, any number under 60 is fine  
-   **Answer:** Yes, because 40 is near 48. *Why:* The runs differ by 8 seconds without anything being wrong. A miss larger than that wobble is a real miss, and 40 is 8 seconds below the lowest run.
+12. (mcq) You predict 25 seconds. Three runs give 31, 34 and 37 seconds. Judged by the spread, was the prediction accurate?  
+   Options: No, 25 is outside the runs' spread / Yes, because 25 is near 31 / Yes, any number under 40 is fine  
+   **Answer:** No, 25 is outside the runs' spread. *Why:* The runs differ by 6 seconds without anything being wrong. A prediction outside that spread is a real miss, and 25 is 6 seconds below the lowest run. A number is not fine only because it is small.
 13. (truefalse) Writing your prediction after you see the result is as good as writing it before.  
    **Answer:** False. *Why:* False. After people see a result, they honestly remember having expected it. A number written before the test cannot change.
 14. (mcq) A prediction missed by a lot. Which check comes first?  
    Options: Whether each run was done the same way / Whether the idea behind it is wrong / Whether the thermometer is lying  
    **Answer:** Whether each run was done the same way. *Why:* Look at the doing first, then the tool, then the reason. The first two are easier to fix, and each is a likelier cause than a wrong idea.
-15. (mcq) A prediction missed. Scientists suspected a hidden cause, found it once, and never found it another time. What does that show?  
-   Options: A miss always means a hidden object / A prediction that missed is useless / A miss is a clue, not a verdict  
-   **Answer:** A miss is a clue, not a verdict. *Why:* A miss can come from an unseen cause or from a faulty rule. More tests are needed to tell which. A miss is a clue, not a verdict.
+15. (mcq) Two planets strayed from the sums. For one, an unseen planet was found. For the other, none ever was. What does that show?  
+   Options: A miss always means a hidden object / A prediction that missed is useless / A miss alone cannot say what is wrong  
+   **Answer:** A miss alone cannot say what is wrong. *Why:* In one case the cause was hidden outside the idea. In the other the idea itself needed changing. A miss is a clue, and more tests are needed to tell which.
 
 ## Applications
-- The India Meteorological Department forecasts the monsoon rain each year as a percentage of the long-term average and says it may be off by about 5 in every 100. Listen for the number on the news in June. Farmers plan sowing around it.
+- Each year the India Meteorological Department forecasts the monsoon rain as a percentage of the long-term average. It says the forecast may be off by about 5 per cent. Listen for the number on the news in June. Farmers plan sowing around it.
 - Cyclone warnings on the Odisha and Tamil Nadu coasts rely on predicting where a cyclone will land. In 2013 a good forecast helped about a million people move inland before Cyclone Phailin. Look at a cyclone warning on your phone and notice the 'cone' that shows how wide the forecast spread is.
 - A cough syrup comes with a small measuring cup because a kitchen spoon varies in size. Read the dose on a bottle and see which mark the cup shows. A miss here matters much more than in a recipe.
 - Surgeons in many hospitals read a short checklist aloud before an operation. Ask a parent if they have seen a checklist at a hospital or in a clinic, and what it asked.
@@ -827,7 +841,7 @@ Selvi looked at her page. There was a line on it for what was predicted, and a l
 - Watch how a grown-up checks the gas knob before leaving the kitchen. This one-line checklist guards against a hazard that skill alone can forget.
 
 ## Open questions
-- **Why can the world be predicted at all?** Science finds patterns and uses them, but has no agreed account of why nature keeps to patterns that minds and mathematics can capture. The physicist Eugene Wigner called this an unreasonable effectiveness in 1960. Some think the answer lies in how minds evolved, some in the nature of mathematics, and no test has yet decided it.
+- **Why can the world be predicted at all?** Science finds patterns and uses them. It has no agreed account of why nature keeps to patterns that minds and mathematics can capture. In 1960 the physicist Eugene Wigner called this the unreasonable effectiveness of mathematics. Some think the answer lies in how minds evolved, and some in the nature of mathematics. No test has yet decided it.
 - **Is the future already fixed by the present, or is some of it truly open?** Chaos shows that we cannot predict some things in practice, which is a different matter from their being open. Quantum physics seems to show events without a deciding cause, but physicists still disagree about how to read it. No experiment so far settles the question.
 - **Does hot water ever really freeze faster than cold, and if so, why?** Careful tests on water disagree with each other, and the effect, where reported, depends on the cup, the freezer and where the thermometer sits. An effect of this kind has been shown in other, simpler systems. For water there is no agreed result and no agreed explanation.
 - **How safe is safe enough?** Measuring a risk is science. Deciding that a measured risk is acceptable is a judgement about what people value, and people value different things. No measurement can make that choice for them.
@@ -835,23 +849,23 @@ Selvi looked at her page. There was a line on it for what was predicted, and a l
 
 ## Questions to ask kids
 - What is the hazard in your kitchen that worries you most, and what is the risk of it today? How would you make it smaller?
-- If you could use only one tool to find out how long something takes, how fast it goes or how hot it is, which would you choose? What could it not tell you?
+- You may take only one tool to a test: a stopwatch, a ruler or a thermometer. Which would you choose? What could it never tell you?
 - Your two hands disagreed about the same water. Which other things in your day depend on what you have just felt before?
 - When you guess the weather for tomorrow, what do you use for your reason? How close are you usually?
 - If a prediction of yours missed, how could you find out whether the doing, the tool or the idea was at fault?
 - How could you make a test safer for the ants or plants taking part?
-- Who should decide how much risk is fine in a test: you, a parent or a teacher? Why?
+- Think of a small risk you took, such as climbing a tree. What did you gain? Who else could have been hurt?
 - Is there something you can predict very well, and something you cannot? What makes the difference?
 
 ## Jokes
-- Why did the sugar go to the school counsellor? *It kept dissolving every time someone stirred things up.*
+- Why did the sugar see the school counsellor? *Every time things got stirred up, it fell apart.*
 - I tried to measure my classroom with a 15 centimetre ruler. What day is it now? *Day three, and I am still measuring. Please send a tape.*
 - Why was the teaspoon chosen as team captain? *It was always level-headed.*
 - What did the weather scientist say after the forecast went wrong? *'It was right, just not here, not now and not that day.'*
-- A butterfly flapped her wings in Madurai. A week later the forecast for Chennai was wrong. Who is the weather scientist still looking for? *The butterfly, and she says she was only stretching.*
+- A butterfly flapped her wings in Madurai, and a week later the Chennai forecast was wrong. Who did the weather scientist blame? *The butterfly. She said she was only stretching.*
 - Why did the child's finger lose the stopwatch race against the camera? *It was 0.2 seconds late and refused to say sorry.*
 - After the cricket match, everyone says 'I knew he would get out.' What did they write down before the match? *Nothing. Hindsight never writes anything in ink.*
-- Why did the knife stay in the drawer all day? *It did not want to be a risk-taker.*
+- Why was the knife so happy in the drawer? *It was still a hazard there, but the risk was low, and nobody was running with it.*
 - Why is the thermometer the cleverest tool on the table? *It has so many degrees!*
 
 ## Connected maths

@@ -1,7 +1,7 @@
 # Swachh Bharat: small actions for a clean India
 `sci.environment.swachh-bharat.L3`
 
-**Summary.** A family sweeps the house spotless and tips the dust outside the gate. Is the house clean now? In this lesson you sort one day of your own waste and find out what it is made of and where each part goes. You learn why wet and dry waste are kept apart. You learn how a toilet and a compost pit make waste safe, and why spitting and littering harm people you never meet. You look at the Swachh Bharat Mission, at what it changed and what people still argue about, and at the workers who clean India every day.
+**Summary.** A family sweeps the house spotless and tips the dust outside the gate. Is the house clean now? In this lesson you sort one day of your own waste and find out what it is made of and where each part goes. You learn why we sort waste, how toilets and compost pits make waste safe, and why spit and litter harm people you never meet. You look at the Swachh Bharat Mission, at what it changed and what people still argue about, and at the workers who clean India every day.
 
 **Intro.** *Think of the last thing you threw away. Where is it right now, this minute? Who has touched it since it left your hand?* Most of us cannot answer. The bin is where our knowing stops. But the thing did not stop. Someone lifted it, someone sorted it, and it is lying somewhere now, or it has become something else. Today you will be a detective of your own dustbin. You will find out what your family throws away in one day and follow each kind to where it goes next. Then you will see why a clean India is made of small actions, and what else it needs.
 
@@ -64,7 +64,7 @@
 - **microplastics**: Pieces of plastic smaller than a grain of rice, made when bigger pieces break up. *e.g.* Scientists have found microplastics in sea salt, in fish and in rain.
 - **clean-up**: A time when people come together to remove waste from a shared place. *e.g.* A weekend beach clean-up on Versova beach in Mumbai began with two people.
 - **system**: A set of rules, services and designs that shape what everyone does, such as waste collection and the packaging that companies make. *e.g.* A city truck that collects sorted waste each morning is part of the waste system.
-- **atom**: A tiny piece of matter, far too small to see. Everything you can touch is built from atoms. *e.g.* A peel is made of atoms. When bacteria eat it, the same atoms go into the soil and into the bacteria.
+- **atom**: A tiny piece of matter, far too small to see. Everything you can touch is built from atoms. *e.g.* A peel is made of atoms. When bacteria eat the peel, the same atoms go into the soil and into the bacteria.
 
 ## Explanations
 ### Clean means harmful things are kept away from mouths, water and soil. It is different from tidy · *defined*
@@ -175,7 +175,7 @@ Why does a person who would never throw a wrapper on the floor at home throw one
 - **Garrett Hardin, an American ecologist, in 1968:** He called this the 'tragedy of the commons'. Each person gains a little by misusing a shared thing, and the cost is spread over everyone. He believed only private ownership or strict government control could prevent ruin.
 - **Elinor Ostrom, an American scholar, who won the Nobel Prize in economics in 2009:** She studied forests, fisheries and water channels around the world, including in Nepal. She found many communities that cared for shared things very well for centuries, with their own rules, their own watchers and fair shares. The tragedy is not certain.
 ### Street drains lead to rivers, and most of India's waste water reaches them untreated · *defined*
-**Definition:** Sewage is the used water from toilets, kitchens and bathrooms. A sewage treatment plant cleans the sewage before it is let into a river or the sea.
+**Definition:** Sewage is the used water from toilets, kitchens and bathrooms. A sewage treatment plant cleans the sewage before the water is let into a river or the sea.
 
 A wrapper dropped in a gutter does not stay there. The next rain carries it to a bigger drain, then to a stream, then to a river and at last to the sea. The used water from homes takes the same road. In a treatment plant, bacteria in large tanks eat most of the waste in the water before it is let go. India's towns and cities make about 72,000 million litres of sewage a day. Less than one-third of it is treated. The rest flows into rivers and lakes as it is. People downstream bathe in that river, water crops with it and often drink from it. So do fish, birds and dolphins.
 - e.g. The Ganga passes about a hundred towns and cities, each adding waste water to what the last one sent down.
@@ -202,9 +202,9 @@ In October 2019 the government declared rural India open defecation free. It had
 - e.g. A 2024 study linked the mission to tens of thousands fewer deaths of babies each year.
 - e.g. Some reports described officials shaming or fining people to push up the numbers.
 - e.g. Women and girls gain most from a home toilet: safety at night, and no long wait for darkness.
-- **The Government of India:** More than ten crore toilets were built, and every village declared itself open defecation free, as checked by a national survey. Toilet coverage rose from under 40 percent of homes to nearly all in five years.
+- **The Government of India:** More than ten crore toilets were built. Every village declared itself open defecation free, and a national survey checked this. Toilet coverage rose from under 40 percent of homes to nearly all in five years.
 - **Aashish Gupta, Diane Coffey, Dean Spears and colleagues at the research group r.i.c.e., in 2018 and 2019:** Their repeat survey found a large fall in open defecation. It also found that open defecation stayed common in the four states they studied. They found that some poor families were pushed or threatened, and argued that counting toilets overstates success.
-- **Suman Chakrabarti and colleagues, in 2024:** Comparing districts before and after the mission, they found that districts where many toilets were built under the mission had clearly fewer deaths of babies and young children. They estimated 60,000 to 70,000 fewer infant deaths a year.
+- **Suman Chakrabarti and colleagues, in 2024:** They compared districts before and after the mission. Districts where many toilets were built had clearly fewer deaths of babies and young children. They estimated 60,000 to 70,000 fewer infant deaths a year.
 ### Who cleans India? Sanitation workers, an old injustice, and two views of it · *debated*
 **Definition:** A sanitation worker is a person whose job is to clean streets, drains, toilets, sewers or septic tanks. Manual scavenging means cleaning human waste by hand.
 
@@ -273,7 +273,7 @@ In October 2015 a lawyer named Afroz Shah and his 84-year-old neighbour began pi
 - **Rural India became open defecation free in 2019.** (The Government of India; *debated*)  
   For: Records show more than ten crore toilets built, and every village declared itself open defecation free, backed by a national survey of toilet use.  
   Against: The r.i.c.e. survey of 2018 and the National Family Health Survey of 2019 to 2021 both found a real share of people still without a toilet in use. Counting toilets is easier than counting habits.
-- **Burning waste to make electricity is the answer to India's rubbish mountains.** (Some city governments and waste-to-energy companies; *debated*)  
+- **Burning waste to make electricity is the answer to India's rubbish mountains.** (Some city governments and companies that burn waste to make electricity; *debated*)  
   For: Burning shrinks waste to a small amount of ash, needs little land and makes some electricity. Countries such as Japan and Sweden burn much of their waste.  
   Against: Indian waste is about half wet, so it burns poorly. Several Indian plants have shut or been fined for dirty smoke. Burning also destroys the paper and plastic that waste pickers earn from.
 - **A river should have the rights of a person.** (The Uttarakhand High Court in 2017, the Māori of the Whanganui River, and many environmental lawyers; *debated*)  
@@ -301,7 +301,7 @@ The lesson began with a house swept clean and dust outside the gate. It ends wit
 - **The saying of the Whanganui Māori people of New Zealand, written into their country's law in 2017:** 'I am the river, and the river is me.' (The water in a child's body was river and rain not long ago, and will be again. That is measured science. The Māori saying takes it as a statement of who they are.)
 - Science (settled): Everything is made of atoms, tiny pieces of matter far too small to see. The atoms in a peel, in soil, in a plant and in a child are the same atoms passed around. Matter is never used up. It only moves and changes form.
 - Science (open): A few scientists and philosophers take seriously the question of whether rivers, forests or the Earth as a whole have awareness. Most do not.
-- Other view, B. R. Ambedkar: Ambedkar warned that fine words about unity, and about the nobility of cleaning, have long been used while one group of people was made to do all the cleaning. On his view, what matters is not a feeling of oneness. What matters is law, schooling, machines and equal rights, so that no person is born into cleaning up after others.
+- Other view, B. R. Ambedkar: Ambedkar warned that fine words about unity have long been used while one group of people was made to do all the cleaning. The same is true of fine words about the nobility of cleaning. On his view, what matters is not a feeling of oneness. What matters is law, schooling, machines and equal rights, so that no person is born into cleaning up after others.
 - Practice, Follow one thing (4 min): Give your child one thing from today's waste, such as a peel or a clean wrapper. Say: 'Hold this in your hand. Take three slow breaths. Now, with your eyes closed, go backwards. Where was this before it reached our home? Who touched it? Go as far back as you can.' Wait. Then say: 'Now go forwards. Where will it be tomorrow? In a month? In a hundred years? Who will meet it?' Then let your child put it in the right bin.
 - Ask: Where does your home end? At the door, the gate, the drain or the river?
 - Ask: In a forest nothing is waste. What would have to change for that to be true in your home?
@@ -694,7 +694,7 @@ Her father opened his mouth, and found that he did not know.
   *Parent does:* Read the problem together. Walk around your kitchen and find a place where waste is thrown now. Draw how it works today. Ask the family which part is hard: the time, the smell, the spills or the thinking.  
   *Parent says:* What makes sorting slow or smelly in our kitchen today? Which part would you fix first?  
   *Child mode:* Draw how our kitchen handles waste today. Mark the hardest part.
-  - Ask: Which part of sorting is the hardest in your kitchen? (good: Smell and flies, no place for the third bin, or not knowing which bin.; Any honest answer from the family is good.)
+  - Ask: Which part of sorting is the hardest in your kitchen? (good: Smell and flies, no place for the third bin, or not knowing which bin.; Any honest answer about your own kitchen is good.)
   - Note: Ask all the family members, including those who do the sorting. The person who empties the bin will know what the problem is.
 - **ch1s2 (12 min)**  
   *Parent does:* Build the corner using what you have. Mark the square, place the three containers, add labels with a colour and a drawing, and cover the wet one. Make the harmful container a small box with a lid, kept up high or behind a door.  
@@ -960,11 +960,11 @@ Her father opened his mouth, and found that he did not know.
 - **Should rivers, forests and animals have rights in law?** Courts and laws in India, New Zealand, Ecuador and Colombia have answered in different ways. It is a question of values as well as science, and countries are still working it out.
 
 ## Questions to ask kids
-- Think of the last thing you threw away. Where is it right now, and who has touched it since?
+- Pick one thing from your family's waste today. Who will meet it after you?
 - If a place looks neat and has an open drain beside the hand pump, would you call it clean? Why?
 - Why does a heap of peels in a pot of soil turn into soil, and a heap in a plastic bag does not?
 - Who cleans the road you walk on to school? Have you ever said thank you to them?
-- Is it fair that people who make the least waste often do the most cleaning? What would be fair?
+- Is cleaning shared fairly in your home? What would fair look like?
 - If nobody ever sees you drop a wrapper, is there still a reason not to? What is it?
 - A river cannot speak. If someone spoke for the river, what would they ask for?
 - What is one thing you could refuse this week, so that it never becomes waste?

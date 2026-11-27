@@ -3,7 +3,7 @@
  "title": "Swachh Bharat: small actions for a clean India",
  "level": 3,
  "summary": {
-  "text": "A family sweeps the house spotless and tips the dust outside the gate. Is the house clean now? In this lesson you sort one day of your own waste and find out what it is made of and where each part goes. You learn why wet and dry waste are kept apart. You learn how a toilet and a compost pit make waste safe, and why spitting and littering harm people you never meet. You look at the Swachh Bharat Mission, at what it changed and what people still argue about, and at the workers who clean India every day.",
+  "text": "A family sweeps the house spotless and tips the dust outside the gate. Is the house clean now? In this lesson you sort one day of your own waste and find out what it is made of and where each part goes. You learn why we sort waste, how toilets and compost pits make waste safe, and why spit and litter harm people you never meet. You look at the Swachh Bharat Mission, at what it changed and what people still argue about, and at the workers who clean India every day.",
   "art": "A doorstep swept clean with a small heap of dust and wrappers just outside the gate, a crow looking at the heap, and a child in the doorway looking at both."
  },
  "intro": {
@@ -276,7 +276,7 @@
   {
    "concept": "Street drains lead to rivers, and most of India's waste water reaches them untreated",
    "status": "defined",
-   "definition": "Sewage is the used water from toilets, kitchens and bathrooms. A sewage treatment plant cleans the sewage before it is let into a river or the sea.",
+   "definition": "Sewage is the used water from toilets, kitchens and bathrooms. A sewage treatment plant cleans the sewage before the water is let into a river or the sea.",
    "description": "A wrapper dropped in a gutter does not stay there. The next rain carries it to a bigger drain, then to a stream, then to a river and at last to the sea. The used water from homes takes the same road. In a treatment plant, bacteria in large tanks eat most of the waste in the water before it is let go. India's towns and cities make about 72,000 million litres of sewage a day. Less than one-third of it is treated. The rest flows into rivers and lakes as it is. People downstream bathe in that river, water crops with it and often drink from it. So do fish, birds and dolphins.",
    "examples": [
     "The Ganga passes about a hundred towns and cities, each adding waste water to what the last one sent down.",
@@ -335,7 +335,7 @@
    "perspectives": [
     {
      "who": "The Government of India",
-     "explanation": "More than ten crore toilets were built, and every village declared itself open defecation free, as checked by a national survey. Toilet coverage rose from under 40 percent of homes to nearly all in five years."
+     "explanation": "More than ten crore toilets were built. Every village declared itself open defecation free, and a national survey checked this. Toilet coverage rose from under 40 percent of homes to nearly all in five years."
     },
     {
      "who": "Aashish Gupta, Diane Coffey, Dean Spears and colleagues at the research group r.i.c.e., in 2018 and 2019",
@@ -343,7 +343,7 @@
     },
     {
      "who": "Suman Chakrabarti and colleagues, in 2024",
-     "explanation": "Comparing districts before and after the mission, they found that districts where many toilets were built under the mission had clearly fewer deaths of babies and young children. They estimated 60,000 to 70,000 fewer infant deaths a year."
+     "explanation": "They compared districts before and after the mission. Districts where many toilets were built had clearly fewer deaths of babies and young children. They estimated 60,000 to 70,000 fewer infant deaths a year."
     }
    ],
    "art": "A balance with two pans: on one, a tall stack of small toilet models with a tick, and on the other a clipboard with a tally of people, some ticked and some not.",
@@ -511,7 +511,7 @@
   },
   {
    "claim": "Burning waste to make electricity is the answer to India's rubbish mountains.",
-   "who": "Some city governments and waste-to-energy companies",
+   "who": "Some city governments and companies that burn waste to make electricity",
    "for": "Burning shrinks waste to a small amount of ash, needs little land and makes some electricity. Countries such as Japan and Sweden burn much of their waste.",
    "against": "Indian waste is about half wet, so it burns poorly. Several Indian plants have shut or been fined for dirty smoke. Burning also destroys the paper and plastic that waste pickers earn from.",
    "status": "debated",
@@ -669,7 +669,7 @@
   ],
   "other_view": {
    "who": "B. R. Ambedkar",
-   "view": "Ambedkar warned that fine words about unity, and about the nobility of cleaning, have long been used while one group of people was made to do all the cleaning. On his view, what matters is not a feeling of oneness. What matters is law, schooling, machines and equal rights, so that no person is born into cleaning up after others."
+   "view": "Ambedkar warned that fine words about unity have long been used while one group of people was made to do all the cleaning. The same is true of fine words about the nobility of cleaning. On his view, what matters is not a feeling of oneness. What matters is law, schooling, machines and equal rights, so that no person is born into cleaning up after others."
   },
   "practice": {
    "title": "Follow one thing",
@@ -1032,7 +1032,7 @@
   {
    "term": "atom",
    "meaning": "A tiny piece of matter, far too small to see. Everything you can touch is built from atoms.",
-   "example": "A peel is made of atoms. When bacteria eat it, the same atoms go into the soil and into the bacteria.",
+   "example": "A peel is made of atoms. When bacteria eat the peel, the same atoms go into the soil and into the bacteria.",
    "art": "A banana peel with a magnifying circle showing a few small joined balls, and an arrow to a pinch of soil with the same small balls."
   }
  ],
@@ -2547,7 +2547,7 @@
        "q": "Which part of sorting is the hardest in your kitchen?",
        "good": [
         "Smell and flies, no place for the third bin, or not knowing which bin.",
-        "Any honest answer from the family is good."
+        "Any honest answer about your own kitchen is good."
        ]
       }
      ],
@@ -3647,11 +3647,11 @@
   "A steel tiffin, a cloth bag and a refilled bottle are used in thousands of homes in India. Count how many of these your family uses in a day, and how many thin bags and wrappers they replace."
  ],
  "ask_kids": [
-  "Think of the last thing you threw away. Where is it right now, and who has touched it since?",
+  "Pick one thing from your family's waste today. Who will meet it after you?",
   "If a place looks neat and has an open drain beside the hand pump, would you call it clean? Why?",
   "Why does a heap of peels in a pot of soil turn into soil, and a heap in a plastic bag does not?",
   "Who cleans the road you walk on to school? Have you ever said thank you to them?",
-  "Is it fair that people who make the least waste often do the most cleaning? What would be fair?",
+  "Is cleaning shared fairly in your home? What would fair look like?",
   "If nobody ever sees you drop a wrapper, is there still a reason not to? What is it?",
   "A river cannot speak. If someone spoke for the river, what would they ask for?",
   "What is one thing you could refuse this week, so that it never becomes waste?"
