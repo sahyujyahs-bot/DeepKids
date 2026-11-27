@@ -12,6 +12,8 @@ DeepKids has exactly two tracks. Older names in the code and docs map onto them 
 
 **How the DeepKids track is built.** A *topic* at a class (for example Forces, Class 3) has one overview: its story, big ideas, game, project and books. The topic is taught through its *units* (Friction, Push and pull, Simple machines and so on), each a full feed of 25 elements. While a topic still has no units, its overview is the lesson. Once the units exist, the overview becomes the topic's front page and the units are its lessons.
 
+**When a topic is complete.** Once every unit planned for a topic is written, the DeepKids track shows only those units for it, in the same design as every other unit, and the older topic lesson is not shown (the build marks such a topic `c.full`). For topics with units still unwritten, the older topic lesson stays beside the units until they are written.
+
 **How the board track uses the units.** When a board chapter teaches the same idea as a DeepKids unit, the chapter links to it ("Go deeper with the DeepKids unit"). The board family keeps the book's order and borrows any part of the unit: the song, games, worksheets, story, or the Roots card.
 
 ## What families are told about the DeepKids track

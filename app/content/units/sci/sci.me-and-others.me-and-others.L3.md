@@ -694,6 +694,7 @@ From Where You Stand (sci.me-and-others.L3): Topic-level song for Me and others 
 
 ## Things to buy
 - [Wonder by R. J. Palacio](https://www.amazon.in/s?k=Wonder) (book): A boy with a different face starts school. It suits a child who can read longer chapters and wants to talk about how others feel. Used in a1. Read a few chapters aloud over the lesson and talk about seeing from each person's side.
+- [Gifts of the Crow by John Marzluff and Tony Angell](https://www.amazon.in/s?k=Gifts+of+the+Crow+John+Marzluff+and+Tony+Angell) (book): The crow scientist from voice v4 tells what crows know, including how they remember faces. Used in a1. A book for the parent to read from, a few pages at a time, aloud. Children who want to read it themselves are welcome to. (adult; read parts aloud)
 
 ## Warm-up
 - You face someone. Your right hand is on which side for them? → Their left side.

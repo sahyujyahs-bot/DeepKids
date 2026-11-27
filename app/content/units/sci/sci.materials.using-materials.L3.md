@@ -840,6 +840,7 @@ What Is It Made Of? (sci.materials.L3): Topic-level song for Materials L3
 ## Things to buy
 - [A kitchen or bath thermometer (0 to 100 degrees)](https://www.amazon.in/s?k=digital+kitchen+thermometer) (tool): Measures water temperature fairly, because your hand can be fooled. Used in e3, p1, c1. 
 - [Small unglazed clay pots (one that fits inside another)](https://www.amazon.in/s?k=small+clay+pot+unglazed) (material): A local potter or a pot seller at the market often has them cheaply. Used in e3, p1. 
+- [Spacesuit: Fashioning Apollo by Nicholas de Monchaux](https://www.amazon.in/s?k=Spacesuit%3A+Fashioning+Apollo+Nicholas+de+Monchaux) (book): The real story of how a bra and girdle company and its seamstresses made the moon suits. Used in a1. A book for the parent to read from, a few pages at a time, aloud. Children who want to read it themselves are welcome to. (adult (look at the pictures together))
 
 ## Warm-up
 - What do we call what a material is like, such as hard or waterproof? → A property.

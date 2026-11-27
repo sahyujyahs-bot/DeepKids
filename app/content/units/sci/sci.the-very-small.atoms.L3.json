@@ -3443,6 +3443,17 @@
    "used_in": [
     "p1"
    ]
+  },
+  {
+   "id": "b-mr-tompkins-in-wonderland",
+   "item": "Mr Tompkins in Wonderland by George Gamow",
+   "kind": "book",
+   "why": "A bank clerk dreams himself into worlds where the rules of the very small show up at everyday size. Written by a real physicist.",
+   "url": "https://www.amazon.in/s?k=Mr+Tompkins+in+Wonderland+George+Gamow",
+   "used_in": [
+    "a1"
+   ],
+   "plan": "A book for the parent to read from, a few pages at a time, aloud. Children who want to read it themselves are welcome to. (adult (read short parts aloud))"
   }
  ],
  "warmup": [

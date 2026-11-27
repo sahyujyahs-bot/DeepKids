@@ -4310,6 +4310,11 @@ function chapterView() {
       ? `<section class="card fxnew"><span class="eyebrow">Guide being written</span><p class="sm">We're still writing the guide for this chapter. For now: read it together, talk about it, and let ${esc(S.child || "your child")} retell it in their own words.</p></section>`
       : "";
   if (!U.length) return unwritten + chapterPage() + more;
+  // a topic whose units are all written shows only the units: its older topic lesson is not shown (build marks c.full)
+  if (u.board === "combined" && u.c.full) {
+    setSheetTitle(u.title);
+    return `<section class="card fxnew"><span class="eyebrow">Lessons in this topic</span><p class="sm">Do them in order, or pick the one you are curious about.</p>${fxUnitBtns(U)}</section>${more}`;
+  }
   const n = u.c?.p?.days?.length,
     own = u.board === "combined";
   return (

@@ -230,6 +230,22 @@ for subj in plan:
                 for it in data['items']:
                     if it.get('k') == e.get('k'):
                         cdict(it)['units'] = refs
+# a topic is "full" when every unit planned for it is written and live: its older topic lesson is then not shown to families,
+# who see only the units (the app reads c.full)
+for it in data['items']: (it.get('c') or {}).pop('full', None)
+LIVE = set(data['units'])
+ITEM = {it.get('k'): it for it in data['items']}
+for subj, byl in plan.items():
+    for lvl, rungs in byl.items():
+        for e in rungs:
+            it = ITEM.get(e.get('k'))
+            if not it: continue
+            # the curriculum topics this rung stands for at its own class: by name, and through the units already linked to it
+            ts = {t['id']: t for c in CURS.values() for t in c['topic_levels'] if t['subject'] == subj and str(t['level']) == str(lvl) and (e['topic'] == slug(t['name']) or slug(e['title']) == slug(t['name']))}
+            for x in (it.get('c') or {}).get('units', []):
+                t = TL.get(x['id'])
+                if t and str(t['level']) == str(lvl): ts[t['id']] = t
+            if ts and all(s in LIVE for t in ts.values() for s in t['subtopic_levels']): cdict(it)['full'] = True
 print('units:', len(data['units']))
 # the welcome slides before log-in: one list (app/content/welcome.json), also copied next to the website's sign-in page
 data['welcome'] = json.load(open(os.path.join(APP, 'content', 'welcome.json')))

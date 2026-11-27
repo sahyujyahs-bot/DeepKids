@@ -713,6 +713,7 @@ Everybody Eats (sci.ecology.L3): Topic-level song for Living in harmony L3
 ## Things to buy
 - [A magnifying glass](https://www.amazon.in/s?k=magnifying+glass+for+kids) (tool): To see the tiny white roots as tomato seeds sprout, and the small seeds inside fruits. Any cheap hand lens works. Used in e1, e2, a1. 
 - [A pot about 25 centimetres across, and a small bag of potting soil](https://www.amazon.in/s?k=potting+soil+mix) (material): For growing the sprouted tomato seeds into plants. A big paint tin with holes in the base works too. Any plant nursery sells potting soil. Used in p1. 
+- [I Contain Multitudes by Ed Yong](https://www.amazon.in/s?k=I+Contain+Multitudes+Ed+Yong) (book): A science writer's lively account of the microbes that live with animals and people, and how they help us. Used in a1. A book for the parent to read from, a few pages at a time, aloud. Children who want to read it themselves are welcome to. (Adult (read short parts aloud))
 
 ## Warm-up
 - Name one thing plants give animals. → Food, shelter or oxygen.

@@ -823,6 +823,7 @@ Smaller Than Small (sci.the-very-small.L3): Topic-level song
 - [What's Smaller Than a Pygmy Shrew?, by Robert E. Wells](https://www.amazon.in/s?k=What%27s+Smaller+Than+a+Pygmy+Shrew+Robert+Wells) (book): A picture book that zooms down from tiny animals to cells, molecules, atoms and the particles inside them. Ages 5 to 9. Used in g1. 
 - [Quantum Physics for Babies, by Chris Ferrie](https://www.amazon.in/s?k=Quantum+Physics+for+Babies+Chris+Ferrie) (book): A very simple board book on atoms and energy levels. Good for younger siblings, and for a quick, calm read-aloud. Used in a6. 
 - [The Elements, by Theodore Gray](https://www.amazon.in/s?k=The+Elements+Theodore+Gray) (book): Beautiful photographs of every element. Look at the pictures together to see what pure carbon, gold and sodium look like. Used in p1. 
+- [Mr Tompkins in Wonderland by George Gamow](https://www.amazon.in/s?k=Mr+Tompkins+in+Wonderland+George+Gamow) (book): A bank clerk dreams himself into worlds where the rules of the very small show up at everyday size. Written by a real physicist. Used in a1. A book for the parent to read from, a few pages at a time, aloud. Children who want to read it themselves are welcome to. (adult (read short parts aloud))
 
 ## Warm-up
 - Everything you can touch is made of tiny particles called ____. → atoms

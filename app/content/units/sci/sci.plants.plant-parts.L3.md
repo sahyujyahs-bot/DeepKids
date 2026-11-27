@@ -1,9 +1,9 @@
 # Plant parts: how each part's shape suits its job
 `sci.plants.plant-parts.L3`
 
-**Summary.** A potato grows under the ground, so is it a root? In this unit you will play detective with vegetables to tell roots from stems, wake a stored food part with no soil, and test where plants keep their starch.
+**Summary.** A potato grows under the ground, so is it a root? In this lesson you will play detective with vegetables to tell roots from stems, wake a stored food part with no soil, and test where plants keep their starch.
 
-**Intro.** *Look at a carrot and a potato. Both grow under the ground. Both are fat and full of food. But only one of them is a root. Which one? And how could you ever tell?* A carrot and a potato look alike, but they are different parts of a plant. The carrot is a root. The potato is a stem that grows under the ground. Its 'eyes' show this, because only stems have buds like that. In this unit you will learn to tell each part by its clues, not by where it grows. You will also find out why each part of a plant has the shape it has.
+**Intro.** *Look at a carrot and a potato. Both grow under the ground. Both are fat and full of food. But only one of them is a root. Which one? And how could you ever tell?* A carrot and a potato look alike, but they are different parts of a plant. The carrot is a root. The potato is a stem that grows under the ground. Its 'eyes' show this, because only stems have buds like that. In this lesson you will learn to tell each part by its clues, not by where it grows. You will also find out why each part of a plant has the shape it has.
 
 ## Learning outcomes
 0. I can name the parts of a plant and say the main job of each one.
@@ -813,8 +813,8 @@ When her father came home for Baisakhi, she showed him both. She did not explain
 - Sugarcane at a juice stall, with its rings showing where leaves once grew.
 - Lotus and chembu leaves in a pond or a market, with raindrops rolling off in shiny balls.
 - Short prop roots at the bottom of maize plants in a field, gripping the soil like tent pegs.
-- Cactuses and aloe on a sunny balcony, and nagphani hedges along dry roads in Rajasthan, Gujarat or Tamil Nadu.
-- Mangrove breathing roots poking out of the mud at low tide in the Sundarbans, at Pichavaram in Tamil Nadu, or along creeks in Mumbai.
+- Cactuses and aloe on a sunny balcony, and nagphani hedges along dry roads.
+- Mangrove breathing roots poking out of the mud at low tide.
 - Plants on a dim landing with big, thin leaves, and plants in full sun with small, tough ones.
 
 ## Open questions
@@ -864,8 +864,8 @@ Green and Growing (sci.plants.L3): Topic-level song for Plants L3
 
 ## Links
 - [Acharya Jagadish Chandra Bose Indian Botanic Garden, home of the Great Banyan](https://bsi.gov.in) · place · Howrah, near Kolkata: See the Great Banyan, a single tree standing on thousands of pillar roots. The garden is run by the Botanical Survey of India, whose website is linked here.
-- [Lalbagh Botanical Garden]() · place · Bengaluru: Old trees, climbers, cactuses and a glass house. Look for prop roots, climbing stems and leaves of every shape.
-- [Sundarbans mangrove forest]() · place · South 24 Parganas, West Bengal: The world's largest mangrove forest. Boats take visitors past breathing roots at low tide.
+- Lalbagh Botanical Garden · place · Bengaluru: Old trees, climbers, cactuses and a glass house. Look for prop roots, climbing stems and leaves of every shape.
+- Sundarbans mangrove forest · place · South 24 Parganas, West Bengal: The world's largest mangrove forest. Boats take visitors past breathing roots at low tide.
 - [Living root bridges of Meghalaya](https://www.meghalayatourism.in) · place · East Khasi Hills, near Cherrapunji, Meghalaya: Bridges grown from the aerial roots of rubber fig trees by Khasi and Jaintia families over many years.
 - [Birbal Sahni Institute of Palaeosciences](https://www.bsip.res.in) · place · Lucknow: A research institute named after a great Indian scientist who studied fossil plants. Its museum shows plants turned to stone.
 - [Nehru Science Centre](https://www.nehrusciencecentre.gov.in) · place · Mumbai: Hands-on science exhibits, and a garden to look for plant shapes.
@@ -874,7 +874,7 @@ Green and Growing (sci.plants.L3): Topic-level song for Plants L3
 - [iNaturalist](https://www.inaturalist.org) · interactive: Take a photo of a plant and get help naming that plant. A grown-up should make the account.
 - [Exploratorium: Science Snacks](https://www.exploratorium.edu/snacks) · interactive: Free, tested hands-on activities from a science museum in San Francisco. Search for leaves and plants.
 - [Science Buddies](https://www.sciencebuddies.org/) · interactive: Step-by-step plant science projects for older children, including ones on roots and leaves.
-- [A banyan, a vegetable market and a kitchen garden near you]() · place · anywhere: Every street has plant parts in disguise. Ask the vegetable seller which vegetables are roots and which are stems, and see if they know.
+- A banyan, a vegetable market and a kitchen garden near you · place · anywhere: Every street has plant parts in disguise. Ask the vegetable seller which vegetables are roots and which are stems, and see if they know.
 
 ## Things to buy
 - [Magnifying glass (hand lens)](https://www.amazon.in/s?k=magnifying+glass+for+kids) (tool): To see root hairs, potato eyes, ginger rings and the veins of leaves. Useful but not needed: eyes alone work for every step. Used in a1, a2, a3, e4. 
@@ -883,6 +883,7 @@ Green and Growing (sci.plants.L3): Topic-level song for Plants L3
 - [Climbing bean seeds, such as sem, avarai (hyacinth bean) or a pole bean](https://www.amazon.in/s?k=pole+bean+seeds) (material): For the Climbing Bean Diary. Check the packet says 'pole' or 'climbing', not 'bush'. Used in p1. 
 - [Tops & Bottoms, by Janet Stevens](https://www.amazon.in/s?k=Tops+and+Bottoms+Janet+Stevens) (book): A funny picture book about a clever hare who tricks a lazy bear out of carrots, lettuce and corn, by knowing which part of each plant we eat. Used in g1, a1. 
 - [Plants Can't Sit Still, by Rebecca E. Hirsch](https://www.amazon.in/s?k=Plants+Can%27t+Sit+Still+Rebecca+Hirsch) (book): A picture book showing that plants move: they climb, twist, turn and spread. Used in p1, a3. 
+- [Braiding Sweetgrass for Young Adults by Robin Wall Kimmerer, adapted by Monique Gray Smith](https://www.amazon.in/s?k=Braiding+Sweetgrass+for+Young+Adults+Robin+Wall+Kimmerer%2C+adapted+by+Monique+Gray+Smith) (book): A botanist from the Potawatomi Nation on seeing plants as relatives and teachers. Read short sections aloud and talk. Used in a1. A book for the parent to read from, a few pages at a time, aloud. Children who want to read it themselves are welcome to. (10+ (read parts aloud))
 
 ## Warm-up
 - Root, stem or leaf: a potato? → A stem. Its eyes are buds.
