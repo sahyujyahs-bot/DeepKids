@@ -99,6 +99,9 @@ def parent_test(u):
     if abstract: W.append(f"{len(abstract)} abstract statements with no example or numbers beside them (show it with a real scene and real numbers): " + " | ".join(abstract[:3]))
     vagueph = [f"{p}: '{m.group(0)}'" for p, t in blocks for m in [VAGUE_PHRASE.search(t)] if m]
     if vagueph: W.append("vague or empty phrases (say the real thing, with a number if there is one): " + " | ".join(vagueph[:4]))
+    # one idea per card: a long explanation is usually three ideas heaped into one (found in review of the speed unit)
+    heaped = [f"'{e.get('concept', '')[:50]}' ({len(e.get('description', '').split())} words)" for e in u.get("explanations", []) if len(e.get("description", "").split()) > 140]
+    if heaped: W.append("explanations that carry more than one idea (over 140 words): split each into cards that each make one point, in the order a learner needs them: " + " | ".join(heaped[:4]))
     # words that sound defined but are not: a unit about one must say where science runs out (WRITER_BRIEF.md, principle 6)
     central = (u.get("title", "") + " " + " ".join(e.get("concept", "") for e in u.get("explanations", []))).lower()
     gapless = []

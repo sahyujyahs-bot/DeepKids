@@ -139,7 +139,7 @@ Before and after:
 
 ---
 
-### E2. Seven mistakes real readers found. Never repeat them.
+### E2. Ten mistakes real readers found. Never repeat them.
 
 A founder reading a finished unit on her phone found each of these. The checker now catches some, but you must not write them.
 1. **A heading or name that names nothing.** "Everyday speech" told the reader nothing. Every heading, card title and view name says what is inside. A view's name is a person, a book, a school of thought, a place or a clear group, never a bare label.
@@ -149,6 +149,10 @@ A founder reading a finished unit on her phone found each of these. The checker 
 5. **A big word instead of a fact.** "More energy than there is" sounds deep and says nothing. Say the real thing, with a number or a reason.
 6. **A date with no era.** "About 1150" left a reader asking "1150 what?" Years before about 1500 carry CE or BCE.
 7. **Three ideas in one sentence.** If a sentence needs a second reading, split it. A definition starts with the plain picture, then the technical statement.
+
+8. **Ideas heaped into one card.** A card that explains speed, average speed, speed at one moment and relativity in one paragraph helps nobody, even if every sentence is good. One card makes one point. Order the cards as a ladder, so each uses only what the earlier cards taught: the plain idea, then a number, then the next idea that builds on it. The main text of a card is short (about 120 words or fewer) with the examples and other views below it.
+9. **A tag that does not match the card.** Each card shows a tag from its `status`. `defined` means scientists agree on this (the tag then says "with other ways to see it" if the card also lists other views). `idea` means only hypotheses so far. `debated` means scientists disagree. Measured facts are `defined`, never `idea`. Pick the status for what the card's main claim is, and make sure the tag will make sense beside the text.
+10. **A heading that gestures at something.** "The same sum works for sound, for the ground under India and for the sky" never says what the sum is. Say it: "Distance divided by time works for everything: sound, the drifting ground of India, light".
 
 **The test, for every explanation, perspective, definition and heading:** read it aloud as a parent who never studied this and has no patience. Wherever you would stop, or the child would ask "what does that mean?", rewrite it before you go on.
 

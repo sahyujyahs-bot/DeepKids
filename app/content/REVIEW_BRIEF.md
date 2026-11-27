@@ -25,7 +25,7 @@ You are also the child's curious older friend: you notice when something is bori
 
 What you may not do alone: change a science claim you are unsure of, invent a source, a date, a quote or a number, or add a part that needs new research. List those under "Needs the writer or the founder".
 
-## Mistakes already found by real readers: look for these first
+## Mistakes already found by real readers: look for these first (WRITER_BRIEF.md section E2)
 
 Each one was found by the founder reading a finished unit, after the writer and a checker had passed it. They are listed in full, with examples, in `WRITER_BRIEF.md` section E2:
 1. a heading, title or view name that names nothing
@@ -35,6 +35,9 @@ Each one was found by the founder reading a finished unit, after the writer and 
 5. a big word instead of a fact ("more energy than there is")
 6. a date with no era
 7. three ideas in one sentence
+8. ideas heaped into one card: one point per card, in the order a learner needs them
+9. a tag (agreed, only ideas so far, scientists disagree) that does not match the card
+10. a heading that gestures at something without saying it
 
 ## The tests
 

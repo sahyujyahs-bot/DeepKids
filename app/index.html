@@ -15348,7 +15348,7 @@ function fxCards(u) {
         u.explanations.forEach((x, i) =>
           add(
             "expl." + i,
-            `${fxImg(u, "expl." + i, x.art)}<div class="fxtxt"><span class="fxeb">💡 ${x.status === "defined" ? "Agreed definition" : x.status === "idea" ? "Only ideas so far" : fxWho(u)[0] + " disagree"}</span><h2>${esc(x.concept)}</h2>${x.definition ? `<p><b>${esc(x.definition)}</b></p>` : ""}<p>${esc(x.description || "")}</p>${fxChart(x.chart)}${x.perspectives.map((p) => `<div class="fxvoice"><b>${esc(p.who)}</b><p>${esc(p.explanation)}</p></div>`).join("")}${fxChart(x.chart)}<ul class="fxsm">${x.examples.map((e) => `<li>${esc(e)}</li>`).join("")}</ul>${(folded.of[i] || []).map((a) => `<p class="fxsm"><b>How we know:</b> ${esc(a.evidence)}</p>${fxChart(a.chart)}`).join("")}</div>`,
+            `${fxImg(u, "expl." + i, x.art)}<div class="fxtxt"><span class="fxeb">💡 ${x.status === "defined" ? (x.perspectives?.length ? "Agreed, with other ways to see it" : "Agreed definition") : x.status === "idea" ? "Best idea so far, not settled" : fxWho(u)[0] + " disagree"}</span><h2>${esc(x.concept)}</h2>${x.definition ? `<p><b>${esc(x.definition)}</b></p>` : ""}<p>${esc(x.description || "")}</p>${fxChart(x.chart)}${x.perspectives.map((p) => `<div class="fxvoice"><b>${esc(p.who)}</b><p>${esc(p.explanation)}</p></div>`).join("")}${fxChart(x.chart)}<ul class="fxsm">${x.examples.map((e) => `<li>${esc(e)}</li>`).join("")}</ul>${(folded.of[i] || []).map((a) => `<p class="fxsm"><b>How we know:</b> ${esc(a.evidence)}</p>${fxChart(a.chart)}`).join("")}</div>`,
             x.concept + ". " + (x.definition || "") + " " + (x.description || ""),
           ),
         );
