@@ -136,7 +136,8 @@
    "examples": [
     "Pongal follows the Sun, so it falls in the middle of January every year. Bohag Bihu in Assam follows the Sun too, so it falls in mid-April.",
     "Deepavali follows the Moon, so its date moves between October and November.",
-    "Onam needs both: the Sun's month of Chingam and the Moon in the nakshatra Thiruvonam."
+    "Onam needs both: the Sun's month of Chingam and the Moon in the nakshatra Thiruvonam.",
+    "Even the week has names from the sky. Ravivar, Sunday, is named after Ravi, the Sun. Somvar, Monday, is named after Soma, the Moon. The other days are named after the planets Mars, Mercury, Jupiter, Venus and Saturn."
    ],
    "perspectives": [],
    "art": "Two wheels side by side, one with a Sun in the middle and 12 seasons, one with a Moon in the middle and 12 Moon shapes, with a small extra slice added to the Moon wheel.",
@@ -1816,6 +1817,18 @@
   },
   {
    "t": "mcq",
+   "p": "Somvar is the Indian name for Monday. Which sky body is it named after?",
+   "opts": [
+    "The Moon",
+    "The Sun",
+    "Venus"
+   ],
+   "a": 0,
+   "why": "Somvar is named after Soma, the Moon. Ravivar is named after the Sun, and Shukravar, Friday, after the planet Venus.",
+   "outcome": 6
+  },
+  {
+   "t": "mcq",
    "p": "Twelve Moon months make about 354 days. What happens to a calendar that counts only Moon months?",
    "opts": [
     "Its festivals slide about 11 days earlier through the seasons each year",
@@ -2044,6 +2057,12 @@
      ],
      "a": "see items",
      "why": "Festivals on the same date every year, like Pongal, Vishu, Bohag Bihu and Christmas, follow the Sun. Festivals that move each year, like Deepavali, Eid, Holi and Gudi Padwa, follow the Moon. A strong sorter checks whether the date moves."
+    },
+    {
+     "t": "fill",
+     "p": "Shanivar is the Indian name for Saturday. It is named after the planet ____.",
+     "a": "Saturn",
+     "why": "Shani is the name of Saturn in Hindi, so Shanivar is Saturn's day. The planets give their names to the days of the week."
     },
     {
      "t": "mcq",

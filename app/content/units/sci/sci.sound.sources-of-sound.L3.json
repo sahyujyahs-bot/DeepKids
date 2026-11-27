@@ -149,6 +149,12 @@
    "meaning": "What it takes to make something move, warm up or change. A vibration carries energy. When a sound fades, its energy becomes a tiny amount of warmth.",
    "example": "A ringing bell slowly goes quiet. Its vibration spreads out into the air as a tiny amount of warmth.",
    "art": "A bell's ring fading into faint warm orange dots in the air."
+  },
+  {
+   "term": "Ting and thak",
+   "meaning": "A ting is a sound that rings on for a while. A thak is a short knock that stops at once.",
+   "example": "A steel tumbler tapped with a spoon gives a ting. A wooden board tapped with a spoon gives a thak.",
+   "art": "Two small panels: one with a steel tumbler and wavy lines ringing on, one with a wooden board and a single short knock mark."
   }
  ],
  "explanations": [
@@ -1040,6 +1046,34 @@
      ],
      "a": "pairs as given",
      "why": "Every sound has a source that vibrates. Sometimes it is part of a body, sometimes a solid thing, and sometimes the air itself. A bird’s voice box, called the syrinx, sits deep in the chest, not in the throat as ours does."
+    },
+    {
+     "t": "sort",
+     "p": "Sort each tapped thing: does it give a ting that rings on, or a thak that stops at once?",
+     "cats": [
+      "Ting",
+      "Thak"
+     ],
+     "items": [
+      [
+       "a steel tumbler tapped with a spoon",
+       "Ting"
+      ],
+      [
+       "a wooden board tapped with a spoon",
+       "Thak"
+      ],
+      [
+       "a glass tapped with a spoon",
+       "Ting"
+      ],
+      [
+       "a plastic box tapped with a spoon",
+       "Thak"
+      ]
+     ],
+     "a": "see items",
+     "why": "Hard solids like steel and glass vibrate and ring on. Wood and plastic give a short knock that stops at once."
     },
     {
      "t": "truefalse",
@@ -2169,11 +2203,11 @@
     {
      "id": "s1",
      "mins": 4,
-     "do": "1. Tap each kitchen thing with the steel spoon, then with the wooden spoon. 2. Listen to how long each one rings.",
+     "do": "1. Tap each kitchen thing with the steel spoon, then with the wooden spoon. 2. Listen to how long each one rings. 3. Also tap a wooden board, a plastic box, a cloth bag and a glass. A ting is a sound that rings on. A thak is a short knock that stops at once. Which one gives a ting, and which gives a thak?",
      "say": "Everything in the kitchen has its own sound. Let's listen to each one. What is vibrating?",
      "kid": "Tap each thing with a spoon. Listen. Which rings longest? What is vibrating?",
      "context": "This is the first step of Kitchen Orchestra. You tap kitchen things to hear their sounds, then make a jal tarang, an Indian instrument of bowls of water.",
-     "parent": "Steel rings long. Wood and plastic give a short knock. A clay pot sounds like a ghatam, the clay-pot drum from Tamil Nadu."
+     "parent": "Steel rings long. Wood and plastic give a short knock. A clay pot sounds like a ghatam, the clay-pot drum from Tamil Nadu. The cloth bag gives a soft thud with almost no ring, because cloth soaks up the vibration. Glass rings on too."
     },
     {
      "id": "s2",
@@ -2940,6 +2974,19 @@
    "a": 0,
    "why": "Every human culture ever found has music, but scientists still argue about why. Some think music helps groups feel close. Others think it grew from parents singing to babies. Whether sound needs a medium is settled: it does.",
    "outcome": 7
+  },
+  {
+   "t": "mcq",
+   "p": "You tap a steel plate and a cloth bag with a spoon. Which one rings on with a ting?",
+   "opts": [
+    "The steel plate rings on, and the cloth gives a soft thud",
+    "The cloth bag rings on, and the steel gives a soft thud",
+    "Both ring on for the same time",
+    "Neither makes a sound"
+   ],
+   "a": 0,
+   "outcome": 2,
+   "why": "Steel is a hard solid that vibrates and rings on. Cloth soaks up the vibration, so it gives a soft thud with almost no ring."
   }
  ],
  "applications": [

@@ -192,7 +192,8 @@
    "examples": [
     "In Sss and Zzz, your fingers felt a buzz on your throat for 'zzz' but not for 'sss'.",
     "In Sss and Zzz, your hum stopped when you pinched your nose, because the breath could no longer flow.",
-    "A male cricket sings by rubbing his wings. A bee's hum is the beat of her wings."
+    "A male cricket sings by rubbing his wings. A bee's hum is the beat of her wings.",
+    "With your eyes shut, you can often tell the source. A cricket's chirp comes from rubbing wings. A dog's bark comes from vocal folds. A bird's song comes from the syrinx, deep in the chest."
    ],
    "perspectives": [],
    "art": "A view down a throat showing two pale folds, drawn once open and once closed, with small puffs of air rising between them."
@@ -231,7 +232,8 @@
    "examples": [
     "Heat in a steel tumbler is the vibration of its particles.",
     "The Earth rang for weeks after the Sumatra earthquake of December 2004.",
-    "String theory describes every particle as a tiny vibrating string. No experiment has tested it yet."
+    "String theory describes every particle as a tiny vibrating string. No experiment has tested it yet.",
+    "A rustle of dry leaves in the wind is many leaves knocking and rubbing against each other, so it has no clear note."
    ],
    "perspectives": [
     {
@@ -2488,6 +2490,42 @@
      "why": "False. The ends are held still. The string moves most in the middle, where the blur is widest.",
      "outcome": 0,
      "how": "a1"
+    },
+    {
+     "t": "sort",
+     "p": "Sort each sound by what makes it: a living body, or things knocking and rubbing together.",
+     "cats": [
+      "A living body",
+      "Things knocking or rubbing"
+     ],
+     "items": [
+      [
+       "a bird's song",
+       "A living body"
+      ],
+      [
+       "a rustle of dry leaves in the wind",
+       "Things knocking or rubbing"
+      ],
+      [
+       "a dog's bark",
+       "A living body"
+      ],
+      [
+       "a loose tin sheet clanging in the wind",
+       "Things knocking or rubbing"
+      ],
+      [
+       "a cricket's chirp",
+       "A living body"
+      ],
+      [
+       "a gate creaking as it swings",
+       "Things knocking or rubbing"
+      ]
+     ],
+     "a": "see items",
+     "why": "A bird, a dog and a cricket make sound with their own bodies. The leaves, the tin and the gate knock or rub against each other."
     }
    ]
   },
@@ -2830,6 +2868,19 @@
    "a": 0,
    "why": "A thin string pushes very little air. On the veena, the string makes the wide hollow body vibrate, and that large surface pushes much more air.",
    "outcome": 6
+  },
+  {
+   "t": "mcq",
+   "p": "With your eyes shut, you hear a soft rustle from a tree on a windy day. What is most likely making it?",
+   "opts": [
+    "Many leaves knocking and rubbing against each other in the wind",
+    "The tree singing its own note through its trunk",
+    "A bird with two vocal folds, singing from inside the leaves",
+    "A tabla skin under the branches"
+   ],
+   "a": 0,
+   "outcome": 3,
+   "why": "Wind moves the leaves, and they knock and rub against each other. A rustle has no clear note. Trees do not sing, and birds sing with the syrinx, not with vocal folds."
   }
  ],
  "videos": [

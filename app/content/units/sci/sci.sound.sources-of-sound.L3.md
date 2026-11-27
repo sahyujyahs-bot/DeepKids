@@ -37,6 +37,7 @@
 - **Ultrasound**: Sound too high for people to hear. It comes from very fast vibrations, more than about 20,000 a second. *e.g.* Many bats find insects in the dark using ultrasound squeaks.
 - **Echolocation**: Finding things by making a sound and listening for the echo that bounces back. *e.g.* Bats and dolphins use echolocation to find food.
 - **Energy**: What it takes to make something move, warm up or change. A vibration carries energy. When a sound fades, its energy becomes a tiny amount of warmth. *e.g.* A ringing bell slowly goes quiet. Its vibration spreads out into the air as a tiny amount of warmth.
+- **Ting and thak**: A ting is a sound that rings on for a while. A thak is a short knock that stops at once. *e.g.* A steel tumbler tapped with a spoon gives a ting. A wooden board tapped with a spoon gives a thak.
 
 ## Explanations
 ### Every sound comes from something vibrating · *defined*
@@ -452,10 +453,10 @@ That night, Bela lay on her mat and listened to the lane. A drum was still going
 - **safety:** Tap gently. Glass tumblers can crack if hit hard, so use steel tumblers if you have them.
 - **record:** Write which tumbler was highest and lowest, and how much water was in each.
 - **s1 (4 min)**  
-  *Parent does:* 1. Tap each kitchen thing with the steel spoon, then with the wooden spoon. 2. Listen to how long each one rings.  
+  *Parent does:* 1. Tap each kitchen thing with the steel spoon, then with the wooden spoon. 2. Listen to how long each one rings. 3. Also tap a wooden board, a plastic box, a cloth bag and a glass. A ting is a sound that rings on. A thak is a short knock that stops at once. Which one gives a ting, and which gives a thak?  
   *Parent says:* Everything in the kitchen has its own sound. Let's listen to each one. What is vibrating?  
   *Child mode:* Tap each thing with a spoon. Listen. Which rings longest? What is vibrating?
-  - Note: Steel rings long. Wood and plastic give a short knock. A clay pot sounds like a ghatam, the clay-pot drum from Tamil Nadu.
+  - Note: Steel rings long. Wood and plastic give a short knock. A clay pot sounds like a ghatam, the clay-pot drum from Tamil Nadu. The cloth bag gives a soft thud with almost no ring, because cloth soaks up the vibration. Glass rings on too.
 - **s2 (6 min)**  
   *Parent does:* 1. Line up 5 tumblers. 2. Pour water into them: 0, 50, 100, 150 and 200 ml. 3. Tap each one gently near the rim with the spoon.  
   *Parent says:* A jal tarang is a real Indian instrument, made of bowls with water in them. Let's make ours.  
@@ -605,7 +606,7 @@ That night, Bela lay on her mat and listened to the lane. A drum was still going
   - Check: Evelyn Glennie is deaf, yet she plays drums. How does she feel the music? → **She feels the vibrations through her body and the floor**
 
 ## Worksheets
-### Sound Detective (core) (core, 16 questions)
+### Sound Detective (core) (core, 17 questions)
 1. (write) You tap a steel tumbler with a spoon. The tumbler rings. Then you grip the tumbler with your whole hand, and the ring stops at once. Explain why gripping stopped the sound.  
    **Answer:** Tapping made the tumbler vibrate, which means move quickly back and forth. The vibrating steel pushed the air, and that made the ring. The hand held the steel still, so it stopped vibrating. With no vibration, there is no sound.. *Why:* A strong answer links the two things: the sound lasts only while the tumbler vibrates, so stopping the vibration stops the sound.
 2. (mcq) Someone says, "Nothing vibrates to make thunder, because there is nothing in the sky to shake." What really shakes to make thunder?  
@@ -632,16 +633,18 @@ That night, Bela lay on her mat and listened to the lane. A drum was still going
    **Answer:** The drawing shows the bell, then bands of crowded dots and spread-out dots between the bell and the ear, and an arrow from the bell towards the ear.. *Why:* The ringing bell squashes the air next to it, then lets it spread out, again and again. Those crowded and spread-out bands travel towards the ear. The molecules themselves only move back and forth a tiny bit.
 11. (match) Match each sound to what is vibrating to make it.  
    **Answer:** A crow cawing at the window → the voice box deep in the crow’s chest; Rain drumming on a tin roof → the tin roof; A pressure cooker whistle → the air rushing out through the whistle; A ceiling fan humming → the fan's motor and blades. *Why:* Every sound has a source that vibrates. Sometimes it is part of a body, sometimes a solid thing, and sometimes the air itself. A bird’s voice box, called the syrinx, sits deep in the chest, not in the throat as ours does.
-12. (truefalse) You can feel a sound as well as hear it.  
+12. (sort) Sort each tapped thing: does it give a ting that rings on, or a thak that stops at once?  
+   **Answer:** a steel tumbler tapped with a spoon → Ting; a wooden board tapped with a spoon → Thak; a glass tapped with a spoon → Ting; a plastic box tapped with a spoon → Thak. *Why:* Hard solids like steel and glass vibrate and ring on. Wood and plastic give a short knock that stops at once.
+13. (truefalse) You can feel a sound as well as hear it.  
    **Answer:** True. *Why:* True. A sound is a vibration, and you can feel vibrations with your skin. Put your hand on a speaker playing music, or on your throat while you hum, and you can feel the buzz.
-13. (mcq) A girl has two steel bowls of the same size. One is nearly empty. The other is nearly full of water. She taps each one with a spoon. Which bowl gives the lower note?  
+14. (mcq) A girl has two steel bowls of the same size. One is nearly empty. The other is nearly full of water. She taps each one with a spoon. Which bowl gives the lower note?  
    Options: The nearly empty bowl / The nearly full bowl / Both give the same note  
    **Answer:** The nearly full bowl. *Why:* The water moves along with the steel and weighs it down, so the full bowl vibrates more slowly. Slower vibrations sound lower. This is how a jal tarang player tunes her bowls.
-14. (write) A little boy thinks that a sound is a thing that flies out of a drum and into your ear. Write two or three sentences to tell him what really travels.  
+15. (write) A little boy thinks that a sound is a thing that flies out of a drum and into your ear. Write two or three sentences to tell him what really travels.  
    **Answer:** When the drum skin vibrates, it pushes the air molecules next to it. They push the next ones, and so on, all the way to your ear. The air does not fly across the room. Only the push travels, passed from molecule to molecule.. *Why:* A strong answer says that the molecules stay roughly where they are, and only the push or the pattern moves along.
-15. (perspective) The first child and her cousin the second child are arguing about whispers.  
+16. (perspective) The first child and her cousin the second child are arguing about whispers.  
    **Answer:** A strong answer sees that both have a point. The first child is right that the vocal folds do not vibrate in a whisper: the throat test shows no buzz. The second child is right that something still vibrates: the air itself, rushing through the narrow gaps between the tongue, teeth and lips, shakes back and forth. A strong answer uses the throat test as evidence and then gives the other side its due.. *Why:* A whisper is air rushing through a narrow gap, which makes the air itself shake. So every sound is still a vibration, but the thing vibrating can be the air, not the vocal folds.
-16. (mcq) A frog's throat swells up like a balloon when he calls. What does the swollen pouch do?  
+17. (mcq) A frog's throat swells up like a balloon when he calls. What does the swollen pouch do?  
    Options: It makes his call much louder / It stores food for later / It helps him breathe underwater  
    **Answer:** It makes his call much louder. *Why:* The thin pouch vibrates along with the frog's call and pushes on a lot more air, so the call carries further. A veena's hollow body works in a similar way. Frogs call to find mates, and they are not calling for us.
 ### Sounds of India and the World (stretch) (stretch, 15 questions)
@@ -768,6 +771,9 @@ That night, Bela lay on her mat and listened to the lane. A drum was still going
 13. (mcq) Which of these do scientists still not know for sure?  
    Options: Why people everywhere make music / Whether sound needs a medium to travel / Whether every sound starts with a vibration  
    **Answer:** Why people everywhere make music. *Why:* Every human culture ever found has music, but scientists still argue about why. Some think music helps groups feel close. Others think it grew from parents singing to babies. Whether sound needs a medium is settled: it does.
+14. (mcq) You tap a steel plate and a cloth bag with a spoon. Which one rings on with a ting?  
+   Options: The steel plate rings on, and the cloth gives a soft thud / The cloth bag rings on, and the steel gives a soft thud / Both ring on for the same time / Neither makes a sound  
+   **Answer:** The steel plate rings on, and the cloth gives a soft thud. *Why:* Steel is a hard solid that vibrates and rings on. Cloth soaks up the vibration, so it gives a soft thud with almost no ring.
 
 ## Applications
 - Every musical instrument, from a veena to a drum kit, is a way of making something vibrate.

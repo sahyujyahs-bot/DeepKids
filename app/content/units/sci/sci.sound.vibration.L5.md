@@ -70,6 +70,7 @@ The voice box is the bump you can feel at the front of your throat. Its proper n
 - e.g. In Sss and Zzz, your fingers felt a buzz on your throat for 'zzz' but not for 'sss'.
 - e.g. In Sss and Zzz, your hum stopped when you pinched your nose, because the breath could no longer flow.
 - e.g. A male cricket sings by rubbing his wings. A bee's hum is the beat of her wings.
+- e.g. With your eyes shut, you can often tell the source. A cricket's chirp comes from rubbing wings. A dog's bark comes from vocal folds. A bird's song comes from the syrinx, deep in the chest.
 ### How the vibration reaches your ear · *defined*
 **Definition:** A vibration travels through a medium because each particle pushes the next. The sound reaches you when the pushes make your eardrum vibrate.
 
@@ -89,6 +90,7 @@ Vibration is found far beyond music. The particles of every solid vibrate all th
 - e.g. Heat in a steel tumbler is the vibration of its particles.
 - e.g. The Earth rang for weeks after the Sumatra earthquake of December 2004.
 - e.g. String theory describes every particle as a tiny vibrating string. No experiment has tested it yet.
+- e.g. A rustle of dry leaves in the wind is many leaves knocking and rubbing against each other, so it has no clear note.
 - **Physicists who use quantum field theory:** Our best tested theory describes every particle as a ripple in a field that fills all of space. An electron is a ripple in the electron field. This is a very exact way of calculating, and it has passed every test so far.
 - **String theorists:** Every kind of particle may be one kind of tiny string, vibrating in different ways. One veena string gives different notes in the same way. The mathematics is promising. Nobody has yet found a way to test the idea by experiment.
 - **The musician and scholar Sharngadeva, about 800 years ago:** In the first chapter of his book on music, the Sangita Ratnakara, sound (nada) is treated as the root of music and, in a deeper sense, of all things. This is a teaching about meaning. It was not offered as a measurement.
@@ -546,7 +548,7 @@ Tresa was already working it out.
 15. (mcq) Why can sound not cross empty space?  
    Options: No particles are there to pass the push / Space is too cold / Space is too far away / Sound is too slow  
    **Answer:** No particles are there to pass the push. *Why:* A sound travels when each particle pushes the next. Empty space has no particles, so the vibration has nothing to travel through.
-### Why a vibration is fast or slow (stretch) (stretch, 15 questions)
+### Why a vibration is fast or slow (stretch) (stretch, 16 questions)
 1. (mcq) Where is a vibrating string moving fastest?  
    Options: As it passes its rest position / At the far edge of its swing / At its two fixed ends / It moves at one speed everywhere  
    **Answer:** As it passes its rest position. *Why:* The string speeds up all the way back to its rest position and slows down after it. At the far edge it stops for an instant. The fixed ends do not move at all.
@@ -581,6 +583,8 @@ Tresa was already working it out.
    **Answer:** ['Source: the drum, which vibrates', 'Medium: the air between the drum and the ear', 'Eardrum: the small tight skin at the end of the ear hole', 'Ear bones: the three tiny bones behind the eardrum', 'Inner ear: the coiled part filled with liquid']. *Why:* The vibration starts at the source, crosses the medium, and makes the eardrum vibrate. The bones pass it to the liquid of the inner ear.
 15. (truefalse) True or false: a plucked string moves most at its two ends.  
    **Answer:** False. *Why:* False. The ends are held still. The string moves most in the middle, where the blur is widest.
+16. (sort) Sort each sound by what makes it: a living body, or things knocking and rubbing together.  
+   **Answer:** a bird's song → A living body; a rustle of dry leaves in the wind → Things knocking or rubbing; a dog's bark → A living body; a loose tin sheet clanging in the wind → Things knocking or rubbing; a cricket's chirp → A living body; a gate creaking as it swings → Things knocking or rubbing. *Why:* A bird, a dog and a cricket make sound with their own bodies. The leaves, the tin and the gate knock or rub against each other.
 ### Testing ideas about vibration (challenge) (challenge, 15 questions)
 1. (mcq) A bell rings inside a jar while the air is pumped out. What happens?  
    Options: The bell still moves, but its sound fades / The bell stops moving / The sound grows louder / Nothing changes  
@@ -657,6 +661,9 @@ Tresa was already working it out.
 12. (mcq) Why is a veena string much louder on the veena than stretched between two hands?  
    Options: The wide wooden body pushes more air / The wood makes the string tighter / The wood vibrates faster than the string / Hands make strings heavier  
    **Answer:** The wide wooden body pushes more air. *Why:* A thin string pushes very little air. On the veena, the string makes the wide hollow body vibrate, and that large surface pushes much more air.
+13. (mcq) With your eyes shut, you hear a soft rustle from a tree on a windy day. What is most likely making it?  
+   Options: Many leaves knocking and rubbing against each other in the wind / The tree singing its own note through its trunk / A bird with two vocal folds, singing from inside the leaves / A tabla skin under the branches  
+   **Answer:** Many leaves knocking and rubbing against each other in the wind. *Why:* Wind moves the leaves, and they knock and rub against each other. A rustle has no clear note. Trees do not sing, and birds sing with the syrinx, not with vocal folds.
 
 ## Applications
 - Makers of veenas, violins and guitars choose the wood, the thickness and the shape of the body with care. A good body vibrates well and pushes the air strongly.

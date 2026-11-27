@@ -161,7 +161,7 @@
    "concept": "What waste is, and why nature has almost none",
    "status": "defined",
    "definition": "Waste is anything we have stopped using and throw out. In nature, almost nothing is wasted, because one living thing's leftovers are another living thing's food.",
-   "description": "In a forest, the leftovers of one living thing are food for another. Earthworms eat fallen leaves. Dung beetles feed their young on dung. Fungi and bacteria break dead things down, and what is left feeds new plants. So the same materials are used again and again. People make waste in two ways a forest does not. We make materials, like plastic, that almost nothing can eat. And we mix things together, so even useful things get spoiled. Because people make this waste, people can also make less of it.",
+   "description": "In a forest, the leftovers of one living thing are food for another. Earthworms eat fallen leaves. Dung beetles feed their young on dung. Fungi and bacteria break dead things down, and what is left feeds new plants. So the same materials are used again and again. People make waste in two ways a forest does not. We make materials, like plastic, that almost nothing can eat. And we mix things together, so even useful things get spoiled. Because people make this waste, people can also make less of it. Caring for nature is simple. Use less paper, say no to plastic, plant a tree, and put out water and grain for birds. A school clean-up drive helps too.",
    "examples": [
     "A fallen leaf feeds earthworms, which turn it into soil for the tree.",
     "A banana peel thrown on soil disappears in a few weeks.",
@@ -178,6 +178,8 @@
    "description": "Making anything uses up materials, water and energy. A plastic bag needs oil, a factory and a truck. Reducing means that bag is never made at all. So nothing is used up, and nothing has to be thrown out. Reusing and repairing keep a thing working for longer. Recycling is good too, but it comes last. It needs collecting, sorting, washing, melting and trucks. And a little of the material is lost each time. Some people add more Rs. Refuse means saying no to things you don't need. Repurpose means using a thing for a new job. Together these are often called the 5Rs.",
    "examples": [
     "Reduce: carry a steel water bottle instead of buying a plastic one.",
+    "Replace: a cloth bag for a plastic one, and a steel tiffin for a plastic box.",
+    "A zero-waste party: serve snacks on steel plates, use cloth napkins, and let guests take leftover food home in their own tiffins, so almost nothing goes in the bin.",
     "Reuse: a glass jar becomes a pencil holder.",
     "Repair: the cobbler stitches a torn chappal strap.",
     "Recycle: the kabadiwala takes old newspapers to be made into new paper."
@@ -1110,6 +1112,13 @@
      "why": "A strong answer gives two real examples and sees that each reuse means one new thing does not have to be made."
     },
     {
+     "t": "write",
+     "p": "Name two things you or your school could do to protect nature near home. For each one, say what it helps: the soil, the air, or the birds.",
+     "lines": 4,
+     "a": "Planting a tree gives shade and a home for birds, and the leaves that fall from the tree feed the soil. A clean-up drive takes litter away, so the soil and water stay clean and animals do not swallow plastic. Using less paper means fewer trees are cut down.",
+     "why": "A strong answer gives two real actions and says what each one helps. Paper is made from wood, so using less paper keeps trees standing."
+    },
+    {
      "t": "draw",
      "p": "Draw what you saw in your jars after two weeks: the peel, the paper, the cloth and the milk packet.",
      "a": "A drawing showing the peel dark and soft or partly gone, the paper soft or torn, the cloth stained, and the milk packet unchanged.",
@@ -1329,6 +1338,13 @@
      ],
      "a": "see items",
      "why": "Metal and glass can be melted and remade almost for ever. Paper fibres get shorter each time, and recycled PET usually becomes fibre that is hard to recycle again. A chips packet has layers of plastic and metal that cannot easily be pulled apart."
+    },
+    {
+     "t": "write",
+     "p": "Plan a zero-waste birthday party. Name three things you would use instead of plastic, and say which step of reduce, reuse and recycle each one is.",
+     "lines": 4,
+     "a": "Steel plates, cloth napkins and steel tumblers replace disposable plastic plates and cups. Guests take leftover food home in their own tiffin. Not buying the plastic at all is reduce, the first step, and it saves the most waste.",
+     "why": "A strong answer names three real swaps, and sees that a swap which stops the waste being made is reduce, the first step."
     },
     {
      "t": "truefalse",
@@ -2927,6 +2943,30 @@
    ],
    "a": 1,
    "why": "Sewing on a button takes minutes, and the shirt keeps working for years. Picking 'recycle' skips a step: mending comes before breaking a thing down.",
+   "outcome": 0
+  },
+  {
+   "t": "mcq",
+   "p": "A family is planning a birthday party, and wants no waste. Which plan follows the rule 'reduce first'?",
+   "opts": [
+    "Steel plates and cloth napkins, with no plastic bought at all",
+    "Buy plastic cups in bulk, and recycle them after the party",
+    "Paper plates, thrown in the dustbin after the party"
+   ],
+   "a": 0,
+   "why": "Reducing means the plastic is never bought, so nothing has to be collected or recycled. Buying plastic cups and recycling them still uses trucks and energy, and recycling comes last. Paper plates thrown away are waste too.",
+   "outcome": 0
+  },
+  {
+   "t": "mcq",
+   "p": "A school wants to protect the trees and birds near its gate. Which plan helps most?",
+   "opts": [
+    "Plant a tree and join a clean-up drive",
+    "Burn all the fallen leaves in the yard",
+    "Leave the chips packets on the ground, because rain will wash them away"
+   ],
+   "a": 0,
+   "why": "A tree gives birds a home, and a clean-up drive keeps litter out of the soil and water. Burning leaves sends smoke into the air. Rain does not make plastic disappear: it breaks into microplastics that stay for years.",
    "outcome": 0
   },
   {

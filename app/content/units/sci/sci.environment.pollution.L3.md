@@ -25,12 +25,14 @@
 - **Groundwater**: Water that has soaked down through soil and rock and is stored under the ground. Wells and borewells pump it up. *e.g.* Many flats in Chennai and Bengaluru get some of their water from a borewell, which pumps up groundwater.
 - **Air Quality Index (AQI)**: A number that says how polluted the outside air is today. Low numbers mean cleaner air. High numbers mean dirtier air. *e.g.* On the morning after Bhogi, Chennai's AQI often jumps much higher than on an ordinary day.
 - **Haze**: A dull, grey or yellow look in the air, made by many fine particles. Far-away buildings look blurry in haze. *e.g.* On a hazy winter morning, you may not see a water tank you can usually see clearly from your window.
+- **Noise pollution**: Sound that is so loud, or goes on for so long, that it harms people and animals. *e.g.* Horns on a busy road and loud crackers are noise pollution.
+- **Decibel**: The unit for how loud a sound is. A bigger number means a louder sound. *e.g.* A quiet room has a small decibel number, and a very loud cracker has a huge one.
 
 ## Explanations
 ### What pollution is · *defined*
 **Definition:** Pollution is the adding of harmful things to air, water or land faster than nature can clear them away. Each harmful thing is called a pollutant.
 
-Nature cleans up all the time. Rain washes dust out of the air. Microbes in soil and water break down dead leaves and dung. Wind spreads smoke out. Pollution happens when people add more than these can deal with. A little smoke from one lamp spreads out and is hard to notice. Smoke from thousands of vehicles and fires, all day, piles up in the air of a city. Some pollutants, such as plastic and some metals, are hardly cleared away at all, so even small amounts build up over years.
+Nature cleans up all the time. Rain washes dust out of the air. Microbes in soil and water break down dead leaves and dung. Wind spreads smoke out. Pollution happens when people add more than these can deal with. A little smoke from one lamp spreads out and is hard to notice. Smoke from thousands of vehicles and fires, all day, piles up in the air of a city. Some pollutants, such as plastic and some metals, are hardly cleared away at all, so even small amounts build up over years. Loud noise counts too, because people add it to the world and it can harm.
 - e.g. One cooking fire in a village spreads its smoke into a wide sky. Thousands of fires in a city on the same evening make a haze.
 - e.g. A river can break down a little waste from a few houses. Sewage from a whole city is far more than the river's microbes can deal with.
 - e.g. Plastic in a drain does not rot, so every bag thrown in adds to the pile.
@@ -62,6 +64,13 @@ Plants cannot walk away from a dusty road, so their leaves meet whatever the air
 - e.g. Just before the monsoon, the leaves of roadside trees look grey. After the first heavy rain, they are bright green again.
 - e.g. A damp cotton ball wiped over the top of a balcony leaf comes away grey.
 - e.g. Banana and money plant leaves, which are smooth and waxy, shed water drops and dust quickly.
+### Making less smoke and dust · *defined*
+**Definition:** The best fix makes less smoke and dust in the first place. Moving the smoke somewhere else, or hiding it, only changes who breathes it.
+
+Start with the fuel. Cooking on gas makes far less smoke than cooking on wood or dung. Since 2016 a government scheme called Ujjwala has given gas connections to millions of poor families. In Delhi, buses and autos changed to CNG, a cleaner gas fuel, in the early 2000s. Next, stop the burning. Put dry leaves in a compost pit, and never burn plastic or tyres. Some farmers in Punjab use a machine called the Happy Seeder to sow wheat through the stubble, so they need not burn it. Then use less. Walk, cycle or take the bus for short trips, and switch off the engine at a red light. Last, keep dust down. Sprinkle water on dusty ground, cover heaps of sand and open a window or switch on the exhaust fan while cooking. At school, children can plant trees and sweep the playground after wetting it.
+- e.g. A family that cooks on gas and not on a wood fire fills the kitchen with far less smoke.
+- e.g. Dry leaves from the balcony plants go into a compost pit, and in a few weeks they become soil for the tulsi.
+- e.g. A bus waiting at a signal with its engine switched off puffs no smoke while it waits.
 ### Water and land pollution · *defined*
 **Definition:** Water pollution is harmful things in rivers, lakes, the sea or groundwater. Land pollution is harmful things on and in the ground, such as rubbish, plastic and poisons.
 
@@ -70,6 +79,36 @@ Sewage is the biggest cause of dirty rivers in India. When sewage pours into a r
 - e.g. In the Through the Soil experiment, the muddy water came out clearer, but the salt in it went straight through.
 - e.g. A plastic bag in a drain stops the water flowing, and the drain floods in the rain.
 - e.g. After festivals such as Ganesh Chaturthi in Maharashtra and Durga Puja in Kolkata, idols made of plaster of Paris and chemical paint dissolve slowly and leave waste in lakes and rivers. Clay idols do far less harm.
+### A dirty neighbourhood: litter, polythene and spit · *defined*
+**Definition:** Litter, polythene, garbage and spit make our surroundings dirty. They block drains, feed flies and rats, and spread illness.
+
+Litter is rubbish dropped where it should not be. A polythene bag does not rot, so it lasts for years. Bags block drains, and then the water stands in the street. Mosquitoes lay their eggs in standing water. Cows and goats who eat polythene can fall ill and die. Garbage left in a heap on the roadside brings flies and rats. Spit left on the ground carries the germs of illnesses such as colds and TB. A clean street needs everyone to use a dustbin. Keeping wet waste, such as peels, apart from dry waste, such as paper and plastic, makes it easier to compost and recycle.
+- e.g. A bag of vegetable peels thrown on the road is eaten by a cow, polythene bag and all.
+- e.g. A drain blocked with polythene fills in the rain, and the street floods.
+- e.g. A heap of garbage near a tea stall draws flies all day.
+### Noise pollution: sound that harms · *defined*
+**Definition:** Noise pollution is sound so loud, or going on for so long, that it harms people and animals. Vehicles are a main cause in a city.
+
+Sound is made when something shakes the air. Loud sound can hurt the ears. We measure how loud a sound is in units called decibels, and a bigger number means a louder sound. Hearing can be damaged when a loud sound goes on for many hours. A very loud bang, such as a firecracker bursting near the ear, can harm hearing in a moment. Buses, lorries, autos and scooters make most of the noise in a city, with their engines and their horns. Loudspeakers, loud music, drills on a building site and aircraft add to it. Noise makes it hard to sleep and to learn, and it can cause headaches and tiredness. Birds and dogs are frightened by it. Humans make this pollution, so humans can make less of it. Switch off the horn in a jam, keep the music low, and choose a Diwali with diyas and no loud crackers.
+- e.g. A school beside a busy road, where the teacher must shout over the horns.
+- e.g. A loud cracker bursts and a street dog runs under a parked scooter, shaking.
+- e.g. Music from a loudspeaker at midnight that keeps a baby, and her grandmother, awake.
+### Science and technology: help and harm · *debated*
+**Definition:** Science and technology often solve one problem and make another. We should look at both effects in our own town.
+
+A gas stove makes less smoke than a wood fire, and that helps a kitchen. A bus, a tractor and a factory bring jobs, food and goods, but they also give smoke and noise. Plastic is light, cheap and clean, but it does not rot. Chemical fertilisers and pesticides help farmers grow more food. Used too much, they harm the soil. Pesticides can kill useful insects such as bees. Strong chemicals can harm earthworms, who loosen and feed the soil. Rain washes the chemicals into drains, ponds and rivers. Cheap chemical colours in some Holi powders and idol paints can sting the skin and eyes and wash into lakes. Colours made from flowers or haldi are gentler. A good question for any new thing is: who does it help, and who does it harm? Then ask: can we keep the good and lose the harm?
+- e.g. A tractor ploughs fast, and it gives smoke and noise.
+- e.g. A farmer's field with too much chemical spray: the bees stay away and the earthworms are few.
+- e.g. A shopkeeper gives away a thin polythene bag, and it ends in the drain.
+- **Many farmers:** Fertiliser and pesticide protect the crop and the family's income. Using less may mean a smaller harvest.
+- **Many soil scientists and organic farmers:** Too many chemicals harm the soil and the living beings in it over the years. Compost, cow dung manure and neem spray can do much of the same work with less harm.
+### How science shows our effect on the world · *defined*
+**Definition:** Scientists measure pollution with numbers, so that our effect on the world can be seen and not only felt.
+
+Our eyes and noses are not enough. Clear air can be dirty, and our ears are poor judges of how loud a sound is. So scientists measure. Air sensors give the Air Quality Index. A sticky card and a white cloth let you count and compare dust at home. A sound meter, which a phone app can copy roughly, gives decibels. For water, scientists test how much oxygen is dissolved in it, because fish need it. Numbers let us compare places and days, and show whether a fix has worked. Measuring over many years can show a change. Clair Patterson measured lead in layers of Greenland ice. There was almost none in very old ice and much more in recent ice, so people had put it there.
+- e.g. The AQI of a city on an ordinary day and on the morning after Diwali.
+- e.g. Your sticky card on the sill and the one in the dabba, compared by counting specks.
+- e.g. A school measures the noise at the gate at 8 in the morning and at noon.
 ### Do house plants clean the air in a room? · *debated*
 Plant leaves and the microbes in potting soil take in some pollutant gases from the air. That much is agreed. The question is how much difference a few pots make in a real room, where air comes in and goes out all the time.
 - e.g. Many shops sell money plants and snake plants as 'air-purifying plants'.
@@ -478,7 +517,7 @@ At lunchtime they compared them with last year's, which Kavya had kept in her no
   - Note: If your family does not celebrate Bhogi, the same plan works for clearing out before Diwali, Ugadi, Vishu, Onam or New Year.
 
 ## Worksheets
-### Air Detective (core) (core, 15 questions)
+### Air Detective (core) (core, 18 questions)
 1. (mcq) You wipe a window grill with a damp white cloth. The cloth comes away grey. Where did the grey come from?  
    Options: Dust and soot that came out of the air / The paint on the grill / The water in the cloth  
    **Answer:** Dust and soot that came out of the air. *Why:* Nobody put dirt on the grill. Dust and soot came out of the air, a speck at a time, and stuck to it. A strong answer says the dirt came from the air, and names a source such as vehicles or a building site.
@@ -513,7 +552,13 @@ At lunchtime they compared them with last year's, which Kavya had kept in her no
 15. (mcq) Why do people who work on building sites often wear masks?  
    Options: The site fills the air with dust that can get into their lungs / The sun is too bright on a site / Masks keep the noise out  
    **Answer:** The site fills the air with dust that can get into their lungs. *Why:* Cutting, mixing and moving sand and cement throws dust into the air. A mask stops some of it before it is breathed in.
-### Follow the Specks (stretch) (stretch, 15 questions)
+16. (sort) Sort each habit: does it keep our surroundings clean, or make them dirty?  
+   **Answer:** putting a wrapper in the dustbin → Keeps clean; dropping a plastic bag on the road → Makes dirty; spitting on the road → Makes dirty; carrying a cloth bag to the market → Keeps clean; leaving a garbage heap by the drain → Makes dirty. *Why:* Litter, polythene, garbage and spit make a street dirty and can bring flies, mosquitoes and illness. A dustbin and a cloth bag keep it clean.
+17. (fill) Dry leaves can go into a compost pit, so we need not ____ them.  
+   **Answer:** ['burn']. *Why:* Burning leaves makes smoke with fine particles. In a compost pit they rot slowly into soil, with no smoke.
+18. (truefalse) Noise is a kind of pollution too, because people add it and it can harm.  
+   **Answer:** True. *Why:* True. Loud horns, loud music and loud crackers can hurt hearing and make it hard to sleep or learn.
+### Follow the Specks (stretch) (stretch, 18 questions)
 1. (order) Put the steps of the Sticky Card Test in order.  
    **Answer:** ['Draw a square on each card', 'Spread a thin layer of jelly in each square', 'Put the cards in their places for three days', 'Count the specks in one corner of each square']. *Why:* First mark where to look, then make it sticky, then let the air reach it, then count.
 2. (write) Your nose and your sticky card both catch dust. Write two ways they are alike, and one way they are different.  
@@ -546,7 +591,14 @@ At lunchtime they compared them with last year's, which Kavya had kept in her no
    **Answer:** For example: keep the windows closed for a while, stay indoors instead of playing outside, wear a well-fitted mask if you go out, or skip burning anything at home.. *Why:* A strong answer gives changes that lower how much dirty air the family breathes on that day.
 15. (truefalse) Burning rubbish is a good way to get rid of it, because it disappears.  
    **Answer:** False. *Why:* False. The smoke goes into the air, and ash and metal bits are left on the land. Nothing disappears: it only changes form and moves.
-### Who Breathes It? (challenge) (challenge, 15 questions)
+16. (match) Match each helpful thing to the harm it can also bring.  
+   **Answer:** Chemical fertiliser → too much can harm bees and earthworms; Plastic bags → they do not rot and block drains; A diesel bus → smoke and noise; Cheap chemical colours → can sting the skin and wash into lakes. *Why:* Each of these helps someone, and each can also harm. A good thinker asks who is helped and who is harmed.
+17. (write) Name two ways your family or school could measure pollution. Say what each one shows.  
+   **Answer:** A sticky card on the window sill, which shows how much dust falls. An air quality app, which gives the AQI for today. A phone sound meter, which gives a rough decibel number at the gate.. *Why:* A strong answer names a real way to measure and says what the number tells us, such as comparing places or days.
+18. (mcq) Which school habit makes less dust?  
+   Options: Sprinkling water on the dry playground before sweeping / Sweeping the dry playground in a strong wind / Burning the swept-up leaves behind the school  
+   **Answer:** Sprinkling water on the dry playground before sweeping. *Why:* Wet ground does not fly up as dust. Sweeping dry ground in the wind throws dust into the air, and burning leaves adds smoke.
+### Who Breathes It? (challenge) (challenge, 17 questions)
 1. (write) Your sticky card on the window sill was dark grey after three days. A friend's card, on the 14th floor in a quiet lane, was light grey. Give two reasons the results could be different.  
    **Answer:** For example: her lane has fewer vehicles, so less soot. Road dust is kicked up near the ground, so less reaches the 14th floor. It may have rained on her side of the city.. *Why:* A strong answer gives two different, testable reasons, not just 'her home is cleaner'.
 2. (perspective) A building in Chennai is planning its Bhogi morning.  
@@ -581,6 +633,10 @@ At lunchtime they compared them with last year's, which Kavya had kept in her no
    **Answer:** Frying and tadka on the stove. *Why:* Hot oil gives off tiny droplets of oil and smoke. They float in the kitchen air and stick to high surfaces. That is why kitchen tops get sticky.
 15. (write) Pick one fix from this lesson that costs money and one that costs nothing. Which would more families really do? Why?  
    **Answer:** For example: a net costs money but switching off the engine at a signal costs nothing. A strong answer weighs cost, habit and how much smoke each one really stops.. *Why:* A strong answer is honest about what families can afford and still keeps the smoke or dust in mind.
+16. (write) A school stands beside a very busy road. Suggest two ways to make the classrooms quieter.  
+   **Answer:** Put classrooms on the far side of the school, away from the road. Plant a thick hedge or trees along the wall. Ask drivers not to blow their horns near the school with a 'no horn' board.. *Why:* A strong answer names changes that make less noise or keep it out, and not just 'be careful'.
+17. (perspective) One farmer says chemical fertiliser feeds her family. Her neighbour says it harms the soil. What would you say to them?  
+   **Answer:** A strong answer respects both farmers. It says that fertiliser helps the crop, that too much can harm the soil and the water, and that using less with compost or cow dung manure may keep the good and lose some of the harm.. *Why:* Pick-a-side questions have no single right side. Marks go for giving both farmers their due and for a way to keep the good and lose the harm.
 
 ## Videos
 - **What does Air Pollution PM 2.5 do inside children's body and brain?** (UNICEF Viet Nam, 2 min) id `G1mUopisDX4`: A short animation that follows fine particles from the air into a child's body. Good for the child and the parent together. Preview it first. *Check:* A parent should watch it first.
@@ -624,6 +680,30 @@ At lunchtime they compared them with last year's, which Kavya had kept in her no
 12. (mcq) Clair Patterson found almost no lead in very old Greenland ice, and much more in recent ice. What did this prove wrong?  
    Options: That the lead in the air was natural and had always been there / That snow falls in layers / That lead is a metal  
    **Answer:** That the lead in the air was natural and had always been there. *Why:* If the lead were natural, old ice would hold as much as new ice. The rise came after leaded petrol, so people had put it there.
+13. (mcq) Why is putting dry leaves in a compost pit better than burning them?  
+   Options: It makes no smoke and gives rich soil / Burning makes better soil than composting / Composting is faster than burning  
+   **Answer:** It makes no smoke and gives rich soil. *Why:* Burning puts fine particles into the air for others to breathe. A compost pit makes no smoke, and the leaves become soil for the plants.
+14. (mcq) Why can polythene bags in a drain bring mosquitoes?  
+   Options: They block the drain, so water stands and mosquitoes lay eggs in it / Mosquitoes like the smell of polythene / Polythene gives off warmth at night  
+   **Answer:** They block the drain, so water stands and mosquitoes lay eggs in it. *Why:* Polythene does not rot, so it blocks the drain and the water stays. Mosquitoes lay their eggs in standing water.
+15. (mcq) A road full of buses and autos adds which two kinds of pollution?  
+   Options: Smoke in the air and noise / Sewage and noise / Noise only  
+   **Answer:** Smoke in the air and noise. *Why:* The engines burn fuel and give smoke. The engines and horns also make loud sound. Sewage comes from toilets and drains, not from vehicles.
+16. (mcq) Why is a firecracker bursting near a child's ear dangerous?  
+   Options: A very loud bang can damage hearing in a moment / It makes the air too cold / It matters only at night  
+   **Answer:** A very loud bang can damage hearing in a moment. *Why:* Hearing can be damaged by a very loud sound, even one that lasts a moment. A loud sound is harmful at any time of the day.
+17. (mcq) Why can too much chemical fertiliser and pesticide harm a farm?  
+   Options: They can harm bees and earthworms, and rain washes them into water / They make the soil too soft to walk on / They give the plants too much sunlight  
+   **Answer:** They can harm bees and earthworms, and rain washes them into water. *Why:* Bees and earthworms do useful work for the farm, and strong chemicals can harm them. Rain then carries the chemicals into drains, ponds and rivers.
+18. (mcq) Why are colours made from flowers or haldi a better choice than cheap chemical colours?  
+   Options: Chemical colours can sting the skin and eyes and wash into lakes / Chemical colours are heavier / Flower colours last for a year  
+   **Answer:** Chemical colours can sting the skin and eyes and wash into lakes. *Why:* Some cheap colours have chemicals that irritate the skin and eyes. When they wash off, they go to drains and lakes.
+19. (mcq) Why do scientists measure noise in decibels, and not only judge it by ear?  
+   Options: Numbers let us compare places and days fairly / Ears can hear only quiet sounds / Decibels make a sound quieter  
+   **Answer:** Numbers let us compare places and days fairly. *Why:* Ears can be fooled, and two people may disagree. A number lets us compare a quiet lane with a busy road, and see if a fix has worked.
+20. (mcq) Plastic bags are light, cheap and clean. What else is true of them?  
+   Options: They do not rot, so they pile up and block drains / They turn into soil in a week / They clean the air  
+   **Answer:** They do not rot, so they pile up and block drains. *Why:* Every new thing has good and bad effects. Plastic is handy, but it lasts for years, so it needs to be used less and put in the dustbin.
 
 ## Applications
 - Air quality monitors on city streets, which measure fine particles every hour and give the AQI.

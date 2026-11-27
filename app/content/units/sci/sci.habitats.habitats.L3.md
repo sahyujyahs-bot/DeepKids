@@ -64,6 +64,7 @@ A forest is a place with many trees growing close together. Trees make a forest 
 - e.g. A tailorbird stitches leaves together with plant threads to make their nest.
 - e.g. An owl rests by day in a tree hollow and hunts at night.
 - e.g. The Western Ghats forests are home to thousands of kinds of plants and animals. Many live nowhere else on Earth.
+- e.g. A parakeet nests in a hole in an old tree. Beetles and ants live under its bark, and the leaves and fruit feed them.
 - **Bernie Krause (born 1938), USA:** Krause, a musician, spent decades recording the sounds of wild places around the world. He noticed that in healthy, undisturbed places the animals seemed to call at separate pitches and separate times, like instruments in an orchestra, so each could be heard. Listening to habitats is now a real tool called soundscape ecology, but whether animals truly share out the sound this way is still argued, because it seems to happen in some places and not others.
 ### The desert: little water, lots of life · *defined*
 **Definition:** A desert is a place that gets very little rain all year. It can be hot or cold.
@@ -101,6 +102,7 @@ We often say an animal lives in a habitat, as if the habitat were a box. But liv
 - e.g. Over a large forest like the Amazon, a big share of the rain is water that the forest's own leaves gave off.
 - e.g. Termites build tall mounds of mud that change the soil around them for years.
 - e.g. Elephants knock over small trees and open up grassland, which helps deer and other grazers.
+- e.g. Under a big neem tree at noon, the ground is cooler than the bare ground beside it, because the leaves block the sun.
 ### People destroy habitats, and people make them · *defined*
 **Definition:** Habitat loss is when a habitat is destroyed or changed so much that its living things can no longer live there. People can also protect and restore habitats.
 
@@ -602,7 +604,7 @@ I still make my sandbars, and I still take them away. That is what I am. But now
   - Think: If every balcony in your street had a butterfly corner, would that make a habitat?
 
 ## Worksheets
-### Habitat Detective (core) (core, 15 questions)
+### Habitat Detective (core) (core, 16 questions)
 1. (mcq) A bowl of water is put on a balcony. Next to it hangs a tin packed with dry twigs. Which two needs of a habitat do they give to small birds and insects?  
    Options: Water and shelter / Food and space / Sunlight and warmth / Air and food  
    **Answer:** Water and shelter. *Why:* The bowl gives water. The packed tin is a safe place to hide and rest, which is shelter. A strong answer also notices what is still missing: food, such as a plant with flowers. Picking 'food' forgets that water and twigs are not food.
@@ -637,7 +639,9 @@ I still make my sandbars, and I still take them away. That is what I am. But now
 15. (mcq) A crow nests in a neem tree, eats scraps from the bins and drinks from the water tank on the roof. What is the crow's habitat?  
    Options: All three places together, and the space between them / Only the nest / Only the water tank / The crow has no habitat in a city  
    **Answer:** All three places together, and the space between them. *Why:* A habitat is everywhere a living thing finds their needs. For this crow, that is the tree, the bins and the tank. Picking 'only the nest' mixes up a habitat with a home to sleep in.
-### Habitats Near and Far (stretch) (stretch, 15 questions)
+16. (fill) A parakeet nests in a ____ in the trunk of an old tree.  
+   **Answer:** ['hollow', 'hole', 'tree hole']. *Why:* A hollow is a hole in a tree trunk. Birds such as parakeets and owls use hollows for nests and rest.
+### Habitats Near and Far (stretch) (stretch, 16 questions)
 1. (mcq) Look at the chart from the five worlds test. An earthworm needs cool, damp soil. Which place would suit them best?  
    Options: Under the leaves / The sunny path / The grass / Under a bush  
    **Answer:** Under the leaves. *Why:* Under the leaves was the coolest place, at 28 degrees. Fallen leaves also keep the soil damp and give food as they rot. The sunny path was hottest and driest, so an earthworm would dry out there. A strong answer uses the numbers in the chart.
@@ -674,6 +678,8 @@ I still make my sandbars, and I still take them away. That is what I am. But now
    **Answer:** ['Tree roots take up water from the soil', 'Leaves give off water into the air', 'The damp air rises and forms clouds', 'Rain falls on the forest again']. *Why:* In the tree water test, a bag tied around a leafy branch filled with drops. That showed the second step: leaves give off water. Over a big forest like the Amazon, much of the rain is water that the forest's own leaves gave off. So the living trees change the non-living rain.
 15. (write) Some animals live in the forest canopy, and others on the forest floor below. Choose one need of a habitat other than light. Explain how the canopy and the floor give that need differently.  
    **Answer:** A strong answer picks one need and compares both layers. For example, water: the canopy is hot, windy and dries fast after rain, so canopy animals drink from rain caught in leaves and tree holes. The floor stays damp for days, which suits frogs, worms and fungi that dry out easily.. *Why:* One forest holds several habitats on top of each other. The same need is met in different ways at each level.
+16. (write) A thermometer under a neem tree at noon reads cooler than one on the bare road beside it. Explain why, using the word shade.  
+   **Answer:** The leaves make shade. The shade blocks the sun, so the ground under the tree takes less heat, and the thermometer there reads lower.. *Why:* A strong answer names the shade and says it blocks sunlight, so the ground warms less.
 ### Habitat Puzzles and Big Ideas (challenge) (challenge, 15 questions)
 1. (mcq) In the five worlds test, the sunny path was 41 degrees and under the stone was 29 degrees. Someone says: 'An earthworm would be fine on the path. It is only 12 degrees more.' What is wrong with this thinking?  
    Options: Earthworms breathe through damp skin, so the heat and dryness of the path can kill them / Nothing: 12 degrees is a small difference / Earthworms like 41 degrees / Thermometers do not work outside  
@@ -740,22 +746,28 @@ I still make my sandbars, and I still take them away. That is what I am. But now
 8. (mcq) A tree drops leaves that worms turn into soil. Which idea does this show?  
    Options: Living and non-living parts of a habitat change each other / Trees do not need soil / Worms eat stones / Habitats never change  
    **Answer:** Living and non-living parts of a habitat change each other. *Why:* The living tree and worms make the non-living soil, which feeds the tree again. Picking 'habitats never change' misses that living things change their habitats all the time.
-9. (mcq) In a flat, ants come to the corner by the kitchen sink, but hardly ever to a dry, clean bookshelf. Why?  
+9. (mcq) At noon on a hot day, which ground is cooler: the ground in full sun, or the ground under a big neem tree?  
+   Options: The ground under the tree, because its leaves block the sun / The ground in full sun, because the sun warms the air above the tree / They are the same, because the sun heats everything equally  
+   **Answer:** The ground under the tree, because its leaves block the sun. *Why:* Leaves block sunlight, so the ground under them takes less heat. Ground in full sun takes the whole heat of the noon sun. The sun does not heat everything equally, because shade stops some of it.
+10. (mcq) A parakeet nests in a hole in an old tree. Why is the tree a habitat for it?  
+   Options: The hole gives the parakeet a home, and the tree gives it food and a place to rest / The tree is a home only for insects, never for birds / A tree is a habitat only when it is dead  
+   **Answer:** The hole gives the parakeet a home, and the tree gives it food and a place to rest. *Why:* A habitat gives food, shelter and a place to live. The hole is a nest, and the leaves and fruit are food. The other two answers are wrong, because many birds and insects live in living trees.
+11. (mcq) In a flat, ants come to the corner by the kitchen sink, but hardly ever to a dry, clean bookshelf. Why?  
    Options: The sink corner gives them water and crumbs of food / Ants do not like books / Ants go anywhere by chance / The bookshelf is too high  
    **Answer:** The sink corner gives them water and crumbs of food. *Why:* A habitat is where a living thing finds what they need. The sink corner gives ants water and food, so it is part of their habitat. Picking 'by chance' does not fit, because they keep going to the same place. Ants climb walls easily, so height is not the reason.
-10. (mcq) In 2019, scientists who studied wild plants and animals all over the world named the biggest danger to them. What was it?  
+12. (mcq) In 2019, scientists who studied wild plants and animals all over the world named the biggest danger to them. What was it?  
    Options: Losing their habitats, as forests are cut and ponds are filled / Too much rain / Too many zoos / Being looked at by people  
    **Answer:** Losing their habitats, as forests are cut and ponds are filled. *Why:* Changing land and sea for human use is the main cause of the loss of wild species. When a habitat goes, the living things in it lose their food, water and shelter.
-11. (mcq) Jadav Payeng made a forest on a bare sandbar. How did the animals get there?  
+13. (mcq) Jadav Payeng made a forest on a bare sandbar. How did the animals get there?  
    Options: They came by themselves once the place gave them what they needed / He carried them all / They were brought by a zoo / They were always there  
    **Answer:** They came by themselves once the place gave them what they needed. *Why:* He made the place give shade, soil and food, and the animals came. Picking 'he carried them all' cannot be right, because nobody can carry an elephant. Picking 'they were always there' forgets that the story says the sandbar was bare at first.
-12. (mcq) Which of these do scientists NOT know yet?  
+14. (mcq) Which of these do scientists NOT know yet?  
    Options: Whether there is life on any other world / Whether deserts get little rain / Whether fish live in the sea / Whether warmth helps milk with curd in it to set  
    **Answer:** Whether there is life on any other world. *Why:* Nobody knows yet if life lives anywhere except Earth. The others have been tested and are agreed.
-13. (mcq) More than two kilometres down in the sea, no sunlight ever reaches. But warm water full of chemicals pours out of cracks in the sea floor. Could anything live there?  
+15. (mcq) More than two kilometres down in the sea, no sunlight ever reaches. But warm water full of chemicals pours out of cracks in the sea floor. Could anything live there?  
    Options: Yes: bacteria can make food from the chemicals, and worms, clams and crabs feed on them / No: nothing can live without sunlight / Only plants could live there / Only sand is there  
    **Answer:** Yes: bacteria can make food from the chemicals, and worms, clams and crabs feed on them. *Why:* Living things need energy, but it does not have to come from sunlight. Bacteria there make food from the chemicals, and animals eat the bacteria. Picking 'nothing can live without sunlight' is what scientists also thought before they looked.
-14. (mcq) Why is your body a habitat?  
+16. (mcq) Why is your body a habitat?  
    Options: Trillions of microbes live in and on it, and it gives them food, water and warmth / Because you live in a house / Because you can walk / It is not a habitat  
    **Answer:** Trillions of microbes live in and on it, and it gives them food, water and warmth. *Why:* Your body meets the needs of trillions of tiny living things, just as a pond meets the needs of a frog. Picking 'not a habitat' forgets the microbes in your tummy and on your skin.
 

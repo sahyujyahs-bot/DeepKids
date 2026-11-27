@@ -42,7 +42,7 @@
 ### What waste is, and why nature has almost none · *defined*
 **Definition:** Waste is anything we have stopped using and throw out. In nature, almost nothing is wasted, because one living thing's leftovers are another living thing's food.
 
-In a forest, the leftovers of one living thing are food for another. Earthworms eat fallen leaves. Dung beetles feed their young on dung. Fungi and bacteria break dead things down, and what is left feeds new plants. So the same materials are used again and again. People make waste in two ways a forest does not. We make materials, like plastic, that almost nothing can eat. And we mix things together, so even useful things get spoiled. Because people make this waste, people can also make less of it.
+In a forest, the leftovers of one living thing are food for another. Earthworms eat fallen leaves. Dung beetles feed their young on dung. Fungi and bacteria break dead things down, and what is left feeds new plants. So the same materials are used again and again. People make waste in two ways a forest does not. We make materials, like plastic, that almost nothing can eat. And we mix things together, so even useful things get spoiled. Because people make this waste, people can also make less of it. Caring for nature is simple. Use less paper, say no to plastic, plant a tree, and put out water and grain for birds. A school clean-up drive helps too.
 - e.g. A fallen leaf feeds earthworms, which turn it into soil for the tree.
 - e.g. A banana peel thrown on soil disappears in a few weeks.
 - e.g. A plastic wrapper thrown on the same soil is still there years later.
@@ -51,6 +51,8 @@ In a forest, the leftovers of one living thing are food for another. Earthworms 
 
 Making anything uses up materials, water and energy. A plastic bag needs oil, a factory and a truck. Reducing means that bag is never made at all. So nothing is used up, and nothing has to be thrown out. Reusing and repairing keep a thing working for longer. Recycling is good too, but it comes last. It needs collecting, sorting, washing, melting and trucks. And a little of the material is lost each time. Some people add more Rs. Refuse means saying no to things you don't need. Repurpose means using a thing for a new job. Together these are often called the 5Rs.
 - e.g. Reduce: carry a steel water bottle instead of buying a plastic one.
+- e.g. Replace: a cloth bag for a plastic one, and a steel tiffin for a plastic box.
+- e.g. A zero-waste party: serve snacks on steel plates, use cloth napkins, and let guests take leftover food home in their own tiffins, so almost nothing goes in the bin.
 - e.g. Reuse: a glass jar becomes a pencil holder.
 - e.g. Repair: the cobbler stitches a torn chappal strap.
 - e.g. Recycle: the kabadiwala takes old newspapers to be made into new paper.
@@ -624,7 +626,7 @@ Kamla noticed. And every evening she helped her mother sort the city's sacks, ti
   - Think: Your toy was made of waste. Is it still waste?
 
 ## Worksheets
-### Waste Detective (core) (core, 15 questions)
+### Waste Detective (core) (core, 16 questions)
 1. (write) A family buys a new plastic bottle of water every day. They say this is fine, because they give the bottles for recycling. A different plan is to fill a steel bottle at home instead. Explain why the steel bottle plan is better. Use the word energy or materials.  
    **Answer:** With a steel bottle, no new bottle is made at all, so no plastic, oil or energy is used to make one. Recycling still needs trucks, washing, shredding and melting, which all use energy. And many bottles never reach a factory. A steel bottle can be used for years.. *Why:* A strong answer says that reducing stops the waste being made, while recycling still uses energy and materials. That is why reduce comes first.
 2. (match) Match each action to its R.  
@@ -651,16 +653,18 @@ Kamla noticed. And every evening she helped her mother sort the city's sacks, ti
    **Answer:** Using an empty glass jam jar to store rava. *Why:* Reuse means using the thing again as it is. The jar is still a jar. Melting, shredding and pulping break a thing down into material, which is recycling. Reuse saves more energy, because nothing has to be broken down and made again.
 11. (write) Find two things in your home that are being reused. Say what each one was before. Then say what new thing your family did not have to buy because of it.  
    **Answer:** An old cotton T-shirt is now a duster. Before, it was a shirt. So we did not have to buy a new duster. A biscuit tin now holds buttons. Before, it held biscuits. So we did not need a new box.. *Why:* A strong answer gives two real examples and sees that each reuse means one new thing does not have to be made.
-12. (draw) Draw what you saw in your jars after two weeks: the peel, the paper, the cloth and the milk packet.  
+12. (write) Name two things you or your school could do to protect nature near home. For each one, say what it helps: the soil, the air, or the birds.  
+   **Answer:** Planting a tree gives shade and a home for birds, and the leaves that fall from the tree feed the soil. A clean-up drive takes litter away, so the soil and water stay clean and animals do not swallow plastic. Using less paper means fewer trees are cut down.. *Why:* A strong answer gives two real actions and says what each one helps. Paper is made from wood, so using less paper keeps trees standing.
+13. (draw) Draw what you saw in your jars after two weeks: the peel, the paper, the cloth and the milk packet.  
    **Answer:** A drawing showing the peel dark and soft or partly gone, the paper soft or torn, the cloth stained, and the milk packet unchanged.. *Why:* Drawing what you really saw is how scientists record. Yours may look different, and that is fine.
-13. (perspective) A family is deciding what to do with their old newspapers.  
+14. (perspective) A family is deciding what to do with their old newspapers.  
    **Answer:** A strong answer weighs real trade-offs. Recycling saves trees but still uses trucks, water and energy at the mill. Reusing keeps the paper useful for longer, and it can still be recycled later. Reducing comes first in the order of the Rs, but a phone also uses electricity and is hard to recycle. A strong answer picks one plan, gives a reason, and is fair to another.. *Why:* There is no single right answer. Each plan avoids some waste, and each has a cost.
-14. (mcq) A woman has a bundle of old newspapers, an empty oil tin, a broken plastic bucket and a bag of vegetable peels. Which ONE will the kabadiwala not buy?  
+15. (mcq) A woman has a bundle of old newspapers, an empty oil tin, a broken plastic bucket and a bag of vegetable peels. Which ONE will the kabadiwala not buy?  
    Options: The vegetable peels / The newspapers / The oil tin / The plastic bucket  
    **Answer:** The vegetable peels. *Why:* A kabadiwala buys things that factories can remake: paper, metal and hard plastic. They sell them on to dealers. Peels cannot be remade in a factory. They belong in a compost pot, where microbes turn them into soil.
-15. (truefalse) Paper rots in soil because it is made from wood, which was once part of a living tree.  
+16. (truefalse) Paper rots in soil because it is made from wood, which was once part of a living tree.  
    **Answer:** True. *Why:* True. Paper is made of fibres from wood. Soil microbes have been feeding on wood for millions of years, so they have enzymes that fit it. That is why paper rots, though more slowly than a peel.
-### Following Our Waste (stretch) (stretch, 16 questions)
+### Following Our Waste (stretch) (stretch, 17 questions)
 1. (mcq) In the rot jar test, a girl puts the peel jar on a sunny windowsill and the milk-packet jar in a cool cupboard. Why is this not a fair test?  
    Options: She changed two things at once, the material and the place, so she cannot tell which one made the difference / The jars are not the same colour / The milk packet should be in the sun too, so that it rots  
    **Answer:** She changed two things at once, the material and the place, so she cannot tell which one made the difference. *Why:* In a fair test, only one thing changes. Here the material and the warmth are both different. If the peel rots faster, nobody can tell whether the material or the warm sun caused it.
@@ -685,18 +689,20 @@ Kamla noticed. And every evening she helped her mother sort the city's sacks, ti
    **Answer:** ['You drink from it and put it in the dry waste bag', 'A waste picker or kabadiwala collects it', 'A scrap dealer sorts it with thousands of others', 'A factory shreds it into flakes', 'The flakes are melted and spun into polyester fibre']. *Why:* Most PET bottles recycled in India become polyester fibre for pillows, cloth and carpets. This is downcycling, because the fibre is hard to recycle again.
 10. (sort) Sort these by how many times they can be recycled.  
    **Answer:** a steel tumbler → Again and again, without getting weaker; an aluminium can → Again and again, without getting weaker; a glass bottle → Again and again, without getting weaker; a newspaper → Only a few times; a PET water bottle → Only a few times; a chips packet made of plastic and foil layers stuck together → Hardly at all. *Why:* Metal and glass can be melted and remade almost for ever. Paper fibres get shorter each time, and recycled PET usually becomes fibre that is hard to recycle again. A chips packet has layers of plastic and metal that cannot easily be pulled apart.
-11. (truefalse) Waste pickers do a large part of India's recycling.  
+11. (write) Plan a zero-waste birthday party. Name three things you would use instead of plastic, and say which step of reduce, reuse and recycle each one is.  
+   **Answer:** Steel plates, cloth napkins and steel tumblers replace disposable plastic plates and cups. Guests take leftover food home in their own tiffin. Not buying the plastic at all is reduce, the first step, and it saves the most waste.. *Why:* A strong answer names three real swaps, and sees that a swap which stops the waste being made is reduce, the first step.
+12. (truefalse) Waste pickers do a large part of India's recycling.  
    **Answer:** True. *Why:* True. Waste pickers, many of them women, collect and sort huge amounts of paper, plastic, glass and metal that others threw out.
-12. (truefalse) Melting down a glass bottle and making a new one uses less energy than washing the old bottle and filling it again.  
+13. (truefalse) Melting down a glass bottle and making a new one uses less energy than washing the old bottle and filling it again.  
    **Answer:** False. *Why:* False. Melting glass needs a furnace hotter than 1,000 degrees. Washing a bottle needs only water and a little heat. That is why reusing comes before recycling: the thing is used again as it is, and nothing has to be made again.
-13. (match) Match each old way of reuse or repair to what it is.  
+14. (match) Match each old way of reuse or repair to what it is.  
    **Answer:** Kantha → a quilt made from old saris; Rafoogar → a mender who weaves thread into holes; Kulhad → a clay cup that goes back to the earth; Kintsugi → mending pots with gold in Japan. *Why:* These are old ways of making things last, or making things that return to the soil.
-14. (write) Your family's dry waste bag is full of chips packets and thin wrappers. The kabadiwala won't buy them. What could your family do?  
+15. (write) Your family's dry waste bag is full of chips packets and thin wrappers. The kabadiwala won't buy them. What could your family do?  
    **Answer:** Buy fewer packaged snacks, and eat fruit, roasted chana or home-made snacks instead. Buy loose things in our own containers. That reduces the packets in the first place.. *Why:* When something can't be recycled, the answer is to reduce it.
-15. (mcq) Atoms are never destroyed. So when a banana peel rots, where do its atoms go?  
+16. (mcq) Atoms are never destroyed. So when a banana peel rots, where do its atoms go?  
    Options: Nowhere: they vanish / Into the microbes, the soil, water and air / Into the plastic / To the Moon  
    **Answer:** Into the microbes, the soil, water and air. *Why:* The peel's atoms become part of microbes, soil, water and the air. Nothing vanishes. Picking 'vanish' is natural, because we can't see where they go. But careful weighing, since Antoine and Marie-Anne Lavoisier's time, shows matter is never lost.
-16. (perspective) A city is arguing about who should sort its waste into wet and dry.  
+17. (perspective) A city is arguing about who should sort its waste into wet and dry.  
    **Answer:** A strong answer uses what the unit shows: mixed waste gets wet and dirty, so sorting at home keeps dry waste clean enough to recycle. It is fair to the waste picker, whose skill does much of India's recycling, and to the mother, who is short of time, even though sorting machines are costly and struggle with wet, mixed waste. A strong answer picks a side, gives a reason, and gives another side its due.. *Why:* Pune's waste pickers really did organise and win door-to-door collection work. Many Indian cities now ask homes to sort wet and dry waste. The best answer may combine the plans.
 ### No Such Place as Away (challenge) (challenge, 16 questions)
 1. (mcq) Long ago, many fallen trees didn't rot and became coal. One idea is that wood-rotting fungi had not evolved yet. What does that idea have in common with plastic today?  
@@ -749,43 +755,49 @@ Kamla noticed. And every evening she helped her mother sort the city's sacks, ti
 2. (mcq) Your school shirt has lost a button. What is the best thing to do?  
    Options: Send it to be recycled / Sew the button back on / Put it in the compost / Throw it out  
    **Answer:** Sew the button back on. *Why:* Sewing on a button takes minutes, and the shirt keeps working for years. Picking 'recycle' skips a step: mending comes before breaking a thing down.
-3. (mcq) In the rot jar test, why do we watch the jars for two whole weeks, and not just for one day?  
+3. (mcq) A family is planning a birthday party, and wants no waste. Which plan follows the rule 'reduce first'?  
+   Options: Steel plates and cloth napkins, with no plastic bought at all / Buy plastic cups in bulk, and recycle them after the party / Paper plates, thrown in the dustbin after the party  
+   **Answer:** Steel plates and cloth napkins, with no plastic bought at all. *Why:* Reducing means the plastic is never bought, so nothing has to be collected or recycled. Buying plastic cups and recycling them still uses trucks and energy, and recycling comes last. Paper plates thrown away are waste too.
+4. (mcq) A school wants to protect the trees and birds near its gate. Which plan helps most?  
+   Options: Plant a tree and join a clean-up drive / Burn all the fallen leaves in the yard / Leave the chips packets on the ground, because rain will wash them away  
+   **Answer:** Plant a tree and join a clean-up drive. *Why:* A tree gives birds a home, and a clean-up drive keeps litter out of the soil and water. Burning leaves sends smoke into the air. Rain does not make plastic disappear: it breaks into microplastics that stay for years.
+5. (mcq) In the rot jar test, why do we watch the jars for two whole weeks, and not just for one day?  
    Options: Rotting is slow, so one day would show almost no change / The jars need two weeks to get warm / Plastic needs two weeks to rot  
    **Answer:** Rotting is slow, so one day would show almost no change. *Why:* Microbes take days to grow on the peel and cut it apart. After one day, every jar would look the same, and we could not tell what rots. Two weeks is long enough to see a clear difference.
-4. (mcq) Look at the made-up jar results. Which thing was left almost unchanged?  
+6. (mcq) Look at the made-up jar results. Which thing was left almost unchanged?  
    Options: Banana peel / Newspaper / Cotton cloth / Milk packet  
    **Answer:** Milk packet. *Why:* The milk packet scored 5, meaning all of it was left. Picking the cloth is a fair second guess, because cotton rots slowly. But it does rot, and plastic does not.
-5. (mcq) Why does a banana peel rot in soil?  
+7. (mcq) Why does a banana peel rot in soil?  
    Options: The sun melts it / Microbes feed on it, using enzymes that cut its molecules / Rain washes it away / It dissolves like sugar  
    **Answer:** Microbes feed on it, using enzymes that cut its molecules. *Why:* Bacteria and fungi pour out enzymes that cut the peel's long molecules into food. Picking 'rain washes it away' means thinking the peel just moves. In a covered jar it still rots, so living things must be doing it.
-6. (mcq) A wooden spoon and a plastic spoon are buried side by side in damp soil. After a year, the wooden spoon is soft and crumbling, but the plastic spoon looks the same. Why?  
+8. (mcq) A wooden spoon and a plastic spoon are buried side by side in damp soil. After a year, the wooden spoon is soft and crumbling, but the plastic spoon looks the same. Why?  
    Options: Soil microbes have enzymes that fit wood, but almost none that fit plastic / The plastic spoon was buried deeper / The wooden spoon was older  
    **Answer:** Soil microbes have enzymes that fit wood, but almost none that fit plastic. *Why:* Microbes have fed on wood for millions of years, so they have enzymes that fit it. Plastic is new, and almost no microbe has an enzyme for plastic. Both spoons were in the same soil, so the material made the difference.
-7. (mcq) A girl bakes a tray of damp soil in a hot oven, so that every microbe in the soil dies. When it cools, she buries a banana peel in it and seals the jar. What will happen to the peel?  
+9. (mcq) A girl bakes a tray of damp soil in a hot oven, so that every microbe in the soil dies. When it cools, she buries a banana peel in it and seals the jar. What will happen to the peel?  
    Options: It will hardly rot, because there are no microbes to feed on it / It will rot faster, because the soil is warm / It will rot just as fast as in garden soil  
    **Answer:** It will hardly rot, because there are no microbes to feed on it. *Why:* Rotting is microbes feeding. With no microbes, the peel stays almost whole for a long time. Picking 'just as fast' means thinking the soil itself does the rotting. This is how people keep food from rotting: heating and sealing it, as in a jar of pickle or a sealed tin.
-8. (mcq) Why should a family keep wet waste and dry waste in separate bins?  
+10. (mcq) Why should a family keep wet waste and dry waste in separate bins?  
    Options: So the wet waste can be composted and the dry waste stays clean enough to recycle / So the bins look tidy / Because wet waste is heavier  
    **Answer:** So the wet waste can be composted and the dry waste stays clean enough to recycle. *Why:* Peels in their own bin can go to compost. Paper, metal and plastic kept dry and clean can be sold to the kabadiwala. Mixed together, both are spoilt, and most of it goes to the dump.
-9. (mcq) What does a kabadiwala do with the old newspapers they buy from homes?  
+11. (mcq) What does a kabadiwala do with the old newspapers they buy from homes?  
    Options: Sells them on to dealers, who send them to paper mills to be made into new paper / Burns them / Buries them in the dump  
    **Answer:** Sells them on to dealers, who send them to paper mills to be made into new paper. *Why:* Kabadiwalas buy, weigh and sort old paper, metal and bottles, then sell them on. That is how a lot of India's waste paper gets back to the mills.
-10. (mcq) Which of these places turns vegetable peels into something useful?  
+12. (mcq) Which of these places turns vegetable peels into something useful?  
    Options: A compost yard, where microbes turn them into compost for plants / A dumping ground / A river  
    **Answer:** A compost yard, where microbes turn them into compost for plants. *Why:* In a compost yard, peels rot with air and become dark, crumbly compost that feeds plants. In a dump they rot without air and make methane gas. In a river they make the water dirty.
-11. (mcq) You cut up an old T-shirt and tie it into a shopping bag. What is this called?  
+13. (mcq) You cut up an old T-shirt and tie it into a shopping bag. What is this called?  
    Options: Upcycling / Burning / Downcycling / Composting  
    **Answer:** Upcycling. *Why:* Upcycling makes waste into something more useful. Downcycling makes it into something of lower quality.
-12. (mcq) In the bag test, why do we lift every bag the same height and hold it for 10 seconds?  
+14. (mcq) In the bag test, why do we lift every bag the same height and hold it for 10 seconds?  
    Options: So the test is fair: only the bag is different / So the bag gets tired / So the weights get warm  
    **Answer:** So the test is fair: only the bag is different. *Why:* In a fair test, only one thing changes. If every bag is lifted the same way, any difference in what they hold comes from the bags. Picking 'gets tired' treats a bag like a person.
-13. (mcq) In 2016, scientists found a bacterium that eats PET bottle plastic. What do most scientists say about bacteria like this one?  
+15. (mcq) In 2016, scientists found a bacterium that eats PET bottle plastic. What do most scientists say about bacteria like this one?  
    Options: They have already cleaned up the oceans / They are real and exciting, but slow, and work mainly on one kind of plastic / They do not exist / They eat all plastic quickly  
    **Answer:** They are real and exciting, but slow, and work mainly on one kind of plastic. *Why:* The bacterium, Ideonella sakaiensis, is real. But these bacteria took weeks to eat a thin film of plastic, and they eat only PET. Scientists are still debating how much such microbes can help. Picking 'cleaned up the oceans' trusts a hopeful headline more than the evidence.
-14. (mcq) Scientists still argue about which of these?  
+16. (mcq) Scientists still argue about which of these?  
    Options: Whether recycling alone can solve the plastic problem, or whether we must make much less plastic / Whether plastic is made by people / Whether banana peels rot  
    **Answer:** Whether recycling alone can solve the plastic problem, or whether we must make much less plastic. *Why:* Everyone agrees that plastic is made by people and that peels rot. Some scientists say better recycling is the answer. Others say so little plastic is recycled that the only real answer is to make much less of it.
-15. (mcq) By a 2017 estimate, about how many out of every 100 parts of all the plastic waste ever made have been recycled?  
+17. (mcq) By a 2017 estimate, about how many out of every 100 parts of all the plastic waste ever made have been recycled?  
    Options: About 9 / About 50 / About 90 / All 100  
    **Answer:** About 9. *Why:* Roland Geyer, Jenna Jambeck and Kara Lavender Law estimated about 9 out of 100. About 79 out of 100 are in dumps or loose in nature. Picking 'about 50' or more is common, because recycling bins make it feel as if most plastic is recycled.
 

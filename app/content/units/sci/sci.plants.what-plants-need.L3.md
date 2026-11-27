@@ -662,8 +662,8 @@ Look for them. They are the tips that see the light.
 ## Projects
 ### p1 · My Bean, My Diary (80 min, 21 days)
 - **safety:** Do not eat raw rajma seeds, because they are harmful uncooked.
-- **record:** A diary with a page every third day: date, height, number of leaves, weather, temperature and one sentence about how the plant looks. At the end, a bar chart of the heights.
-- **schedule:** day 1: Soak the beans the night before. Choose the best place using your light map. Sow the beans. Name your plant. Start the diary. (20 min); day 3: Check the soil with a finger. Water if dry. Write one line in the diary. (3 min); day 6: Measure the shoot. Write the height, the weather and the temperature. (5 min); day 9: Measure. Count the leaves. (5 min); day 12: Measure. Push in the stick for climbing. Do a plant doctor check. (5 min); day 15: Measure. Draw the plant. (5 min); day 18: Measure. Did anything slow your plant down? (5 min); day 21: Final measuring. Draw a growth chart of all your measurements. Write what helped and what harmed your plant. Show your diary to the family. (32 min)
+- **record:** A diary with a page every third day: date, height, number of leaves, weather, temperature and one sentence about how the plant looks. At the end, a bar chart of the heights. Once flowers and fruit come, write those down too, with the date.
+- **schedule:** day 1: Soak the beans the night before. Choose the best place using your light map. Sow the beans. Name your plant. Start the diary. (20 min); day 3: Check the soil with a finger. Water if dry. Write one line in the diary. (3 min); day 6: Measure the shoot. Write the height, the weather and the temperature. (5 min); day 9: Measure. Count the leaves. (5 min); day 12: Measure. Push in the stick for climbing. Do a plant doctor check. (5 min); day 15: Measure. Draw the plant. (5 min); day 18: Measure. Did anything slow your plant down? Count the flowers and fruit, if there are any, and write them in the diary. (5 min); day 21: Final measuring. Draw a growth chart of all your measurements. Write what helped and what harmed your plant. Show your diary to the family. (32 min)
 - **s1 (8 min)**  
   *Parent does:* Look at the map you made in The Light Map of Our Home, if you made one. Choose a bright place with some morning sun for the pot.  
   *Parent says:* Beans need lots of light, water that is just right, and warmth. Where in our home is the best place?  
@@ -747,7 +747,7 @@ Look for them. They are the tips that see the light.
   - Check: Your bottle waterer made the soil soggy by the second day. What should you change? → **Make the hole smaller, so the water comes out more slowly**
 
 ## Worksheets
-### What a Plant Needs (core) (core, 15 questions)
+### What a Plant Needs (core) (core, 16 questions)
 1. (mcq) A girl keeps a cup of moong seedlings under an upside-down cardboard box for a week. She waters them just like her other cup. What will they look like when she lifts the box?  
    Options: Short and dark green / Tall, thin and pale yellow, with small folded leaves / Exactly the same as the seedlings in the light  
    **Answer:** Tall, thin and pale yellow, with small folded leaves. *Why:* In the dark, a seedling spends their stored food on stretching up to find light. They cannot make green chlorophyll without light, so they stay pale. Picking 'short and dark green' means guessing that the dark only slows a plant down. In fact the dark makes them grow taller, but weaker.
@@ -782,6 +782,8 @@ Look for them. They are the tips that see the light.
    **Answer:** True. *Why:* True. A money plant grows in a jar of water. Plants need what the soil gives them, water and minerals, not the soil itself.
 15. (write) Your plant is drooping and their soil is dry. Your friend's plant is also drooping, but their soil is wet and smells bad. Should you both water your plants? Explain.  
    **Answer:** I should water mine, because dry soil means they are short of water. My friend should not. Wet, smelly soil means the roots have too much water and no air, and they are starting to rot. My friend should let the soil dry out and check that the pot has a hole.. *Why:* The same clue, drooping, can have two opposite causes. A strong answer looks at the soil before deciding.
+16. (write) Your bean plant has its first flowers, and then small green pods. Write two things you would add to your diary, and why.  
+   **Answer:** A good answer names the flowers and the pods, with the date, because they show the plant is growing towards fruit.. *Why:* A strong answer names the flowers and the pods, and says that they show the plant is growing and making fruit.
 ### Fair Tests and Plant Clues (stretch) (stretch, 16 questions)
 1. (mcq) You want to test if plants need light. Which test is fair?  
    Options: One pot in the sun with water, and one pot in a cupboard with no water / A big plant in the sun and a tiny plant in the cupboard / Two pots of the same seedlings and soil, both watered the same, one in the sun and one in a cupboard  
@@ -882,28 +884,31 @@ Look for them. They are the tips that see the light.
 5. (mcq) Which sentence is a good conclusion for the water test?  
    Options: Plants are nice. / I watered the plants. / We found that the JUST RIGHT seedlings grew tallest, at 13 cm. This shows moong needs some water, but not too much.  
    **Answer:** We found that the JUST RIGHT seedlings grew tallest, at 13 cm. This shows moong needs some water, but not too much.. *Why:* A good conclusion says what was found, uses a number as proof, and says what it shows. Picking 'I watered the plants' describes what you did, not what you found.
-6. (mcq) It is the monsoon in Kochi, with weeks of thick grey cloud. Seedlings on a windowsill get water and warmth, but they grow slowly and lean towards the glass. Which need is in short supply?  
+6. (mcq) You keep a diary of a bean plant for weeks. Which entry is the most useful?  
+   Options: The date, the height, the number of leaves, and any flowers or fruit / Only the day the plant dies / One line on the first day, and nothing after that  
+   **Answer:** The date, the height, the number of leaves, and any flowers or fruit. *Why:* A plant changes slowly, so dated notes over weeks show the change. A diary written once, or only at the end, cannot show how the plant grew or when it flowered.
+7. (mcq) It is the monsoon in Kochi, with weeks of thick grey cloud. Seedlings on a windowsill get water and warmth, but they grow slowly and lean towards the glass. Which need is in short supply?  
    Options: Water / Light / Minerals  
    **Answer:** Light. *Why:* Thick cloud blocks much of the sunlight, so the seedlings lean towards the brightest place. Picking 'water' misses that the monsoon gives plenty of water. It is the light that is short.
-7. (mcq) A tulsi has lived in the same small pot of soil for three years. The tulsi gets good light and the right amount of water. But the new leaves are small and pale. What might help?  
+8. (mcq) A tulsi has lived in the same small pot of soil for three years. The tulsi gets good light and the right amount of water. But the new leaves are small and pale. What might help?  
    Options: Fresh soil or a little compost, because the old soil's minerals are used up / Moving the tulsi to a dark corner / Watering the tulsi twice as much  
    **Answer:** Fresh soil or a little compost, because the old soil's minerals are used up. *Why:* Each year the roots take minerals out of the soil, and in a small pot nothing puts them back. Pale, small new leaves are a clue that minerals are short. Picking 'twice as much water' would soak the soil and take away the roots' air.
-8. (mcq) Is more water always better for a plant?  
+9. (mcq) Is more water always better for a plant?  
    Options: Yes / No. Roots need air too, and soaked soil drowns them  
    **Answer:** No. Roots need air too, and soaked soil drowns them. *Why:* Each need must be just right. Picking 'yes' is one of the most common mistakes in caring for plants.
-9. (mcq) Which is true about warmth and plants?  
+10. (mcq) Which is true about warmth and plants?  
    Options: The hotter, the faster they grow, with no limit / Plants grow fastest in the fridge / Warmth speeds up growth, but too much heat harms plants  
    **Answer:** Warmth speeds up growth, but too much heat harms plants. *Why:* Each plant has a just-right range. Picking 'no limit' misses that great heat harms the plant's helper molecules.
-10. (mcq) Why is wheat sown in the cool winter in Punjab?  
+11. (mcq) Why is wheat sown in the cool winter in Punjab?  
    Options: Wheat needs a flooded field / Wheat grows best in cool weather / Wheat cannot grow in sunlight  
    **Answer:** Wheat grows best in cool weather. *Why:* Each crop has their own just right. Wheat likes it cool. Picking 'a flooded field' describes rice, not wheat.
-11. (mcq) How does a seedling in the dark know there is no light?  
+12. (mcq) How does a seedling in the dark know there is no light?  
    Options: With special light-sensing molecules, such as phytochrome / With tiny eyes on their leaves / They cannot sense light  
    **Answer:** With special light-sensing molecules, such as phytochrome. *Why:* Plants have photoreceptor molecules that change in light. Picking 'eyes' gives plants an animal body part they don't have.
-12. (mcq) Astronauts grow lettuce on the International Space Station, inside a closed box. Which need do the box's pink-purple lamps give the plants?  
+13. (mcq) Astronauts grow lettuce on the International Space Station, inside a closed box. Which need do the box's pink-purple lamps give the plants?  
    Options: Water / Minerals / Light  
    **Answer:** Light. *Why:* The lamps give light, mostly red and blue, the colours leaves use most. Water and minerals come from a pillow of soil-like material. Picking 'water' mixes up what a lamp gives with what a watering can gives.
-13. (mcq) A machine makes a plant's growth look thousands of times bigger. You touch the plant, then warm them. What would you most likely see?  
+14. (mcq) A machine makes a plant's growth look thousands of times bigger. You touch the plant, then warm them. What would you most likely see?  
    Options: The growth never changes / The growth speeds up or slows down within minutes / The plant grows only when someone is watching  
    **Answer:** The growth speeds up or slows down within minutes. *Why:* Plants respond to what is around them all the time, so their growth changes within minutes when they are touched or warmed. Jagadish Chandra Bose saw this with his crescograph.
 

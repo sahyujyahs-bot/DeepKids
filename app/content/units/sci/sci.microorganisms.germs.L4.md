@@ -27,6 +27,7 @@
 - **Resistant**: Germs are resistant to a medicine when the medicine no longer kills them. The germs are resistant, not the person. *e.g.* Resistant bacteria can carry on multiplying in a body that is taking an antibiotic.
 - **Dose**: The amount of a medicine to take at one time. A child's dose usually depends on how much the child weighs. *e.g.* A label may say 5 millilitres, three times a day. Too little may not work and too much can harm.
 - **Prescription**: A paper or message from a doctor that says which medicine to take, how much and for how long. *e.g.* The pharmacist gave the antibiotic only after seeing the doctor's prescription.
+- **ASHA worker**: An Accredited Social Health Activist: a woman chosen from her own village to help families with health, such as mothers, babies and vaccines. *e.g.* An ASHA worker reminds a family when a baby's next vaccine is due.
 - **Side effect**: An effect of a medicine that you did not want, such as a rash or a loose tummy. Most are mild. *e.g.* An antibiotic can upset the helpful bacteria in the gut and cause loose motions.
 - **Oral rehydration solution (ORS)**: A drink of clean water with the right amounts of salt and sugar. It replaces the water and salts the body loses in loose motions. *e.g.* A packet of ORS mixed in clean water is given in small sips to a child with loose motions.
 - **Vaccine**: A safe version of a germ, or a piece of one, given so the body learns to recognise the real germ. A vaccine does not give you the illness. *e.g.* The measles vaccine teaches the body to make antibodies against the measles virus.
@@ -93,6 +94,13 @@ Here are the rules that doctors give families. Give a medicine only when a docto
 - e.g. A child with a cold and a runny nose needs rest and drinks, not an antibiotic.
 - e.g. A child who cannot keep any drink down needs a doctor the same day.
 - e.g. Left-over tablets from last month's illness should not be given for a new illness without asking a doctor.
+### Who helps at a hospital or health centre · *defined*
+**Definition:** A hospital or health centre has staff, and each one has a job. Doctors decide what the illness is and what treatment it needs. Nurses look after patients and give injections and medicines.
+
+A doctor asks questions, looks at the signs of an illness, and writes a prescription. The prescription tells the family which medicine to take, how much and for how long. A nurse checks a child's temperature and weight, gives vaccines, and shows the mother how to make ORS. A chemist gives out the medicine written on the prescription. In villages, a health worker visits homes to check on babies and mothers, and takes them to the centre. In India, many of these health workers are ASHA workers, women chosen from their own village. Some care comes to a village for only one day. At an eye check-up camp, a doctor checks the eyes of children and grown-ups, and nurses write down each name.
+- e.g. A nurse at the health centre weighs a baby every month, so the mother can see that the baby is growing.
+- e.g. An eye check-up camp may run for one day in a village school, with a doctor checking eyes and nurses writing down names.
+- e.g. An ASHA worker walks to a house and reminds the mother when the next vaccine is due.
 ### Vaccines in simple words · *defined*
 **Definition:** A vaccine shows the body a safe version of a germ, so the body learns to fight the real germ before the real germ arrives.
 
@@ -668,7 +676,7 @@ Muthassi touched her round scar and smiled. "Our whole village was in that pictu
 17. (mcq) Almost everyone in a school is vaccinated against measles. A baby in the neighbourhood is too young for the vaccine. Why is the baby safer?  
    Options: The germ keeps meeting protected people and rarely reaches the baby / Babies have a stronger body than children / Measles cannot infect babies  
    **Answer:** The germ keeps meeting protected people and rarely reaches the baby. *Why:* Each vaccinated person is a broken link in the chain, so the germ has a hard time reaching anyone. Babies can catch measles, and they can become very ill.
-### Resistance, Vaccines and Evidence (stretch) (stretch, 17 questions)
+### Resistance, Vaccines and Evidence (stretch) (stretch, 18 questions)
 1. (mcq) Penicillin weakens the wall of a bacterium so that she bursts. Why does penicillin not harm the cells of a human?  
    Options: Human cells have no wall for the medicine to weaken / Human cells are bigger / The medicine is washed out by the stomach  
    **Answer:** Human cells have no wall for the medicine to weaken. *Why:* A medicine that attacks a wall has nothing to attack in a human cell, which has no wall. This is how an antibiotic can hurt a germ and leave you alone.
@@ -679,34 +687,36 @@ Muthassi touched her round scar and smiled. "Our whole village was in that pictu
    **Answer:** Almost no ordinary germs are left, and the tough germs have multiplied. *Why:* The medicine removes most ordinary germs each day, and the tough ones survive and double each night. Plate B keeps its crowd of ordinary germs, which holds the tough ones back.
 4. (fill) When the germs that survive a medicine are the ones that carry on, this is called natural ________.  
    **Answer:** ['selection']. *Why:* Natural selection means that the living beings who survive and multiply are the ones whose kind carries on. It shaped every living being, and it shapes germs too.
-5. (write) A child adds salt, vinegar, garlic and turmeric to separate glasses of yeast and measures the foam after 20 minutes. Why must she also set up a glass with nothing added?  
+5. (write) Name two jobs a nurse does at a health centre, and one job that only a doctor does.  
+   **Answer:** A nurse weighs babies and gives vaccines. Only a doctor writes the prescription that says which medicine to take and for how long.. *Why:* Each person at a health centre has a different job. The doctor decides the treatment, and the nurse looks after the patient and gives the care.
+6. (write) A child adds salt, vinegar, garlic and turmeric to separate glasses of yeast and measures the foam after 20 minutes. Why must she also set up a glass with nothing added?  
    **Answer:** The glass with nothing added shows how much foam yeast makes normally. Without it, she would not know whether the other glasses made more or less foam than usual.. *Why:* A comparison glass is a control. Scientists use one so that any change can be put down to the thing they added.
-6. (sort) Which kind of medicine would a doctor choose? Sort each illness.  
+7. (sort) Which kind of medicine would a doctor choose? Sort each illness.  
    **Answer:** a throat infection confirmed as bacterial → Antibiotic; ringworm → Antifungal; an ordinary cold → No germ-killer: rest and drinks; flu in a person at high risk → Antiviral; a chest infection caused by bacteria → Antibiotic; a fungus infection of the foot → Antifungal. *Why:* A doctor matches the medicine to the cause. Antibiotics are for bacteria, antifungal medicines for fungi, and an antiviral for a few viruses. For an ordinary cold, no germ-killer helps.
-7. (mcq) A flu vaccine is changed every year. What is the best reason?  
+8. (mcq) A flu vaccine is changed every year. What is the best reason?  
    Options: Flu viruses change a little, so last year's antibodies may not fit this year's virus / The vaccine goes off after a year in the fridge / Flu is a bacterium  
    **Answer:** Flu viruses change a little, so last year's antibodies may not fit this year's virus. *Why:* Antibodies fit one shape, like a key in a lock. If the virus changes shape, the old key may not fit. So each year's vaccine is matched to the viruses that are going around.
-8. (write) A neighbour says, "Nobody around here gets measles, so my child does not need the vaccine." Using herd protection, explain what she may be missing.  
+9. (write) A neighbour says, "Nobody around here gets measles, so my child does not need the vaccine." Using herd protection, explain what she may be missing.  
    **Answer:** A strong answer says that measles is rare around there because most children are vaccinated. If many stop being vaccinated, the germ will find enough unprotected children to spread to, and measles will come back.. *Why:* Herd protection works only while enough people stay vaccinated. The reason nobody sees measles is the vaccine.
-9. (truefalse) Herd protection means that people who are not vaccinated can never catch the illness.  
+10. (truefalse) Herd protection means that people who are not vaccinated can never catch the illness.  
    **Answer:** False. *Why:* False. Herd protection makes it less likely, because the germ meets fewer people to pass to. It is not a guarantee.
-10. (mcq) About 95 out of every 100 people need to be protected to stop measles spreading. In a class of 40, about how many children is that?  
+11. (mcq) About 95 out of every 100 people need to be protected to stop measles spreading. In a class of 40, about how many children is that?  
    Options: 38 / 30 / 20  
    **Answer:** 38. *Why:* 95 out of 100 is the same as 19 out of 20. A class of 40 is two lots of 20, so 2 times 19 is 38.
-11. (fill) The rabies vaccine can be given after a dog bite and still protect, because the virus travels ________ to the brain.  
+12. (fill) The rabies vaccine can be given after a dog bite and still protect, because the virus travels ________ to the brain.  
    **Answer:** ['slowly']. *Why:* The virus takes weeks to reach the brain, so the vaccine has time to teach the body. Even so, a person must get to a doctor at once.
-12. (perspective) Doctors disagree about how long a course of antibiotics should be.  
+13. (perspective) Doctors disagree about how long a course of antibiotics should be.  
    **Answer:** A strong answer sees that both can be true for different illnesses, and that families should follow the doctor who knows the illness and ask when to stop. Families should not set the length themselves.. *Why:* There is no single answer for all illnesses. A good response uses the evidence and respects that the doctor has the details of the case.
-13. (order) Put these in order to show how tough germs take over a body that takes an antibiotic.  
+14. (order) Put these in order to show how tough germs take over a body that takes an antibiotic.  
    **Answer:** ['A few germs in the crowd are already tough by chance', 'A person takes an antibiotic', 'The ordinary germs die', 'The tough germs multiply with plenty of room and food', 'Most of the germs in the body are now tough']. *Why:* The tough germs are there first. The medicine removes their competitors. Then they multiply into the space.
-14. (mcq) Why can taking an antibiotic cause loose motions?  
+15. (mcq) Why can taking an antibiotic cause loose motions?  
    Options: It kills some of the helpful bacteria in the gut as well / It is made of salt / It makes the body drink too much  
    **Answer:** It kills some of the helpful bacteria in the gut as well. *Why:* The gut is home to trillions of helpful bacteria. An antibiotic cannot always tell the helpful ones from the harmful ones, so a change in the gut can cause loose motions.
-15. (write) A bacteriophage attacks only one kind of bacterium. Give one reason this could be good for a medicine and one reason it could be hard.  
+16. (write) A bacteriophage attacks only one kind of bacterium. Give one reason this could be good for a medicine and one reason it could be hard.  
    **Answer:** Good: it leaves the helpful bacteria and the person's cells alone. Hard: a doctor must find out exactly which bacterium causes the infection, and must have the right phage ready.. *Why:* A narrow tool does less harm but needs more knowledge to use. That is one reason phages are still being tested.
-16. (draw) Esther Lederberg used a round velvet stamp to copy bacteria from one dish to other dishes. Draw how the stamp copies a pattern of dots from one dish of bacteria to two new dishes. Show which dish has the medicine in it.  
+17. (draw) Esther Lederberg used a round velvet stamp to copy bacteria from one dish to other dishes. Draw how the stamp copies a pattern of dots from one dish of bacteria to two new dishes. Show which dish has the medicine in it.  
    **Answer:** A drawing of a dish with dots, a round velvet pad pressed on it, then pressed on two new dishes where the same pattern of dots appears, one with a label for the medicine.. *Why:* The stamp copies the position of each colony, which is one small dot of bacteria. So scientists can compare the same colony on a dish with the medicine and a dish without it.
-17. (mcq) A doctor says a throat infection needs an antibiotic only after a test. Why wait for the test?  
+18. (mcq) A doctor says a throat infection needs an antibiotic only after a test. Why wait for the test?  
    Options: A sore throat looks the same whether bacteria or a virus cause the pain / Tests make the medicine stronger / The doctor wants the child to wait  
    **Answer:** A sore throat looks the same whether bacteria or a virus cause the pain. *Why:* The cause decides the medicine, and you cannot tell the cause by looking. A test avoids giving an antibiotic that cannot help.
 ### Thinking Like a Scientist About Medicine (challenge) (challenge, 15 questions)
@@ -791,6 +801,9 @@ Muthassi touched her round scar and smiled. "Our whole village was in that pictu
 13. (mcq) A glass of yeast with strong salt makes much less foam than a glass with nothing added. What does this show?  
    Options: Strong salt slows a living microbe / Yeast prefers salt / Salt turns into foam  
    **Answer:** Strong salt slows a living microbe. *Why:* The only difference between the glasses was the salt, so the salt held the yeast back. Strong salt would also harm our own cells, so it is not a medicine.
+14. (mcq) Which health worker writes the prescription that tells a family which medicine to take, and for how long?  
+   Options: A doctor / A nurse / A village health worker  
+   **Answer:** A doctor. *Why:* A doctor decides what the illness is and writes the prescription. A nurse gives injections and vaccines. A village health worker visits homes and takes people to the centre.
 
 ## Applications
 - A hospital lab grows bacteria from a patient on a dish and puts small paper discs of different antibiotics on top. A clear ring round a disc shows which medicine works, the same clue that Fleming noticed round a mould.

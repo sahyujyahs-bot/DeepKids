@@ -3312,7 +3312,7 @@
     {
      "t": "count",
      "p": "Jaisalmer gets 25 centimetres of rain a year. How many litres fall on one square metre of ground?",
-     "a": 200,
+     "a": 250,
      "why": "250 litres. One centimetre of rain on one square metre is 10 litres. 25 times 10 is 250.",
      "outcome": 5
     },

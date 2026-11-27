@@ -46,6 +46,7 @@ Twelve Moon months add up to about 354 days. That is about 11 days short of the 
 - e.g. Pongal follows the Sun, so it falls in the middle of January every year. Bohag Bihu in Assam follows the Sun too, so it falls in mid-April.
 - e.g. Deepavali follows the Moon, so its date moves between October and November.
 - e.g. Onam needs both: the Sun's month of Chingam and the Moon in the nakshatra Thiruvonam.
+- e.g. Even the week has names from the sky. Ravivar, Sunday, is named after Ravi, the Sun. Somvar, Monday, is named after Soma, the Moon. The other days are named after the planets Mars, Mercury, Jupiter, Venus and Saturn.
 ### Clocks before machines · *defined*
 **Definition:** Before clocks with gears, people used shadows to tell the time by day, and water flowing through a small hole to measure time at night.
 
@@ -536,7 +537,7 @@ When Amma came home, Karthik was already asleep on the swing, with five marks, a
   - Check: On Kuyil, 7 moon months are 70 days, and the year is 73 days. What happens if nobody adds the 3 extra days? → **Festivals come 3 days earlier in the seasons each year**
 
 ## Worksheets
-### Sky Clock Detective (core) (core, 15 questions)
+### Sky Clock Detective (core) (core, 16 questions)
 1. (mcq) Which repeat in the sky gives us the month?  
    Options: The Moon going from full to full again / The Earth turning once / The Sun coming back to the same season  
    **Answer:** The Moon going from full to full again. *Why:* The Moon goes from full to full in about 29 and a half days, and that is where the month comes from. The Earth turning once gives the day. The Sun coming back to the same season gives the year.
@@ -550,25 +551,27 @@ When Amma came home, Karthik was already asleep on the swing, with five marks, a
    **Answer:** No. The times are close, all between 3 minutes 5 and 3 minutes 25 seconds, only 20 seconds apart. Small things change the time a little, such as how gently the cup is put down or water left inside. So it is a fairly steady clock, but not a perfect one.. *Why:* A strong answer uses the numbers, works out the gap of 20 seconds, and gives a reason for the small differences.
 6. (sort) Sort these festivals and days. Does each one follow the Sun, or the Moon?  
    **Answer:** Pongal → Follows the Sun; Vishu → Follows the Sun; Bohag Bihu in Assam → Follows the Sun; 1 January, New Year's Day → Follows the Sun; Christmas → Follows the Sun; Deepavali → Follows the Moon; Ramzan Eid → Follows the Moon; Karthigai Deepam → Follows the Moon; Holi → Follows the Moon; Gudi Padwa → Follows the Moon. *Why:* Festivals on the same date every year, like Pongal, Vishu, Bohag Bihu and Christmas, follow the Sun. Festivals that move each year, like Deepavali, Eid, Holi and Gudi Padwa, follow the Moon. A strong sorter checks whether the date moves.
-7. (mcq) You want your cup clock to sink faster. What should you change?  
+7. (fill) Shanivar is the Indian name for Saturday. It is named after the planet ____.  
+   **Answer:** Saturn. *Why:* Shani is the name of Saturn in Hindi, so Shanivar is Saturn's day. The planets give their names to the days of the week.
+8. (mcq) You want your cup clock to sink faster. What should you change?  
    Options: Make the hole a little bigger / Use colder water / Put the cup in a smaller vessel  
    **Answer:** Make the hole a little bigger. *Why:* A bigger hole lets more water in each second, so the cup fills and sinks sooner. The size of the vessel does not change how fast water comes through the hole.
-8. (order) Put these in order, from the shortest to the longest.  
+9. (order) Put these in order, from the shortest to the longest.  
    **Answer:** ['a nazhigai', 'a day', 'a lunar month', 'a solar year']. *Why:* A nazhigai is 24 minutes. A day is 24 hours. A lunar month is about 29 and a half days. A solar year is about 365 days.
-9. (draw) Draw your sinking cup clock floating in the vessel. Label the hole, the coins, the water coming in, and the water in the vessel.  
+10. (draw) Draw your sinking cup clock floating in the vessel. Label the hole, the coins, the water coming in, and the water in the vessel.  
    **Answer:** A cup floating in a larger vessel, with coins taped inside at the bottom, a small hole in the bottom, an arrow showing water coming up through the hole, and the water level of the vessel.. *Why:* A strong drawing shows that water enters through the hole from below, and the coins sit at the bottom.
-10. (mcq) Which people wrote down the sky on clay tablets, night after night, for hundreds of years?  
+11. (mcq) Which people wrote down the sky on clay tablets, night after night, for hundreds of years?  
    Options: The Babylonians / The Maya / The Chinese  
    **Answer:** The Babylonians. *Why:* The Babylonians, in what is now Iraq, pressed marks into wet clay. The Maya painted their books on bark paper. The Chinese wrote with brushes on silk, bamboo and paper.
-11. (truefalse) The word 'ghadi', used for a clock in many Indian languages, comes from the ghati, an old Indian water clock.  
+12. (truefalse) The word 'ghadi', used for a clock in many Indian languages, comes from the ghati, an old Indian water clock.  
    **Answer:** True. *Why:* True. The ghati, or ghatika, was a bowl that sank once every 24 minutes. Its name lives on in 'ghadi'.
-12. (write) A sundial tells the time from the Sun's shadow. Why did astronomers in India still need the ghati water clock?  
+13. (write) A sundial tells the time from the Sun's shadow. Why did astronomers in India still need the ghati water clock?  
    **Answer:** A sundial needs sunlight. It does not work at night or on cloudy days. Astronomers watched the sky at night, so they needed a clock that works without the Sun, like a water clock.. *Why:* A strong answer says when a sundial fails, and why astronomers needed a clock at night.
-13. (perspective) Two friends are arguing about time.  
+14. (perspective) Two friends are arguing about time.  
    **Answer:** A strong answer might side with the second friend: the day, the month and the year all come from the sky, and hours and minutes were made by splitting the day. It might then grant the first friend that today's phones are set by atomic clocks, which are steadier than the Earth's spin.. *Why:* Both have a point. The units of time came from the sky, but today the most exact clocks are atomic clocks, not the sky.
-14. (fill) There are ____ nazhigai in one day and night.  
+15. (fill) There are ____ nazhigai in one day and night.  
    **Answer:** ['60', 'sixty']. *Why:* A day and night is 24 hours, or 1,440 minutes. 1,440 divided by 24 is 60.
-15. (mcq) A child closed his eyes and said 'now' when he thought a minute had passed. His three tries were 45, 52 and 71 seconds. What does this show?  
+16. (mcq) A child closed his eyes and said 'now' when he thought a minute had passed. His three tries were 45, 52 and 71 seconds. What does this show?  
    Options: Our feeling of time is not steady, so we need a clock or the sky to count / The child was cheating / A minute is not always 60 seconds  
    **Answer:** Our feeling of time is not steady, so we need a clock or the sky to count. *Why:* A minute is always 60 seconds, but our own sense of it drifts. That is why people looked for steadier ways to count time.
 ### Sky-Watchers of the World (stretch) (stretch, 15 questions)
@@ -654,31 +657,34 @@ When Amma came home, Karthik was already asleep on the swing, with five marks, a
 2. (mcq) About how long is a solar year?  
    Options: 365 days / 29 and a half days / 584 days  
    **Answer:** 365 days. *Why:* The Earth goes round the Sun in about 365 and a quarter days. 29 and a half days is a lunar month, and 584 days is the Venus cycle.
-3. (mcq) Twelve Moon months make about 354 days. What happens to a calendar that counts only Moon months?  
+3. (mcq) Somvar is the Indian name for Monday. Which sky body is it named after?  
+   Options: The Moon / The Sun / Venus  
+   **Answer:** The Moon. *Why:* Somvar is named after Soma, the Moon. Ravivar is named after the Sun, and Shukravar, Friday, after the planet Venus.
+4. (mcq) Twelve Moon months make about 354 days. What happens to a calendar that counts only Moon months?  
    Options: Its festivals slide about 11 days earlier through the seasons each year / It stays exactly with the seasons / It adds a day every week  
    **Answer:** Its festivals slide about 11 days earlier through the seasons each year. *Why:* 354 days is about 11 days short of the solar year, so a Moon-only calendar moves through the seasons. Indian calendars fix this with an extra month now and then.
-4. (mcq) Why did the ghati bowl sink?  
+5. (mcq) Why did the ghati bowl sink?  
    Options: Water came in slowly through a small hole until it was full / It was too heavy to float / Someone pushed it under  
    **Answer:** Water came in slowly through a small hole until it was full. *Why:* The bowl floated at first. Water came in through the tiny hole, and when it was full enough, it sank. The hole size set the time.
-5. (mcq) Who wrote in 499 that the Earth spins?  
+6. (mcq) Who wrote in 499 that the Earth spins?  
    Options: Aryabhata / Eratosthenes / Jai Singh II  
    **Answer:** Aryabhata. *Why:* Aryabhata wrote it in his book, the Aryabhatiya. Eratosthenes measured the Earth's size, and Jai Singh II built Jantar Mantar.
-6. (mcq) Venus comes back to the same place in the sky about every 584 days. Why could people who watched it carefully for many years predict where it would be?  
+7. (mcq) Venus comes back to the same place in the sky about every 584 days. Why could people who watched it carefully for many years predict where it would be?  
    Options: Its movement repeats in a steady cycle / Venus never moves / Venus shines only once  
    **Answer:** Its movement repeats in a steady cycle. *Why:* Anything that repeats in a steady cycle can be predicted once you have counted the cycle. Long records let sky-watchers count it.
-7. (mcq) A bright new star suddenly appears in the sky, bright enough to see by day. It fades over months. Today a glowing cloud of gas is in that spot. What was the new star most likely?  
+8. (mcq) A bright new star suddenly appears in the sky, bright enough to see by day. It fades over months. Today a glowing cloud of gas is in that spot. What was the new star most likely?  
    Options: A star exploding / A new planet being born / The Moon passing by  
    **Answer:** A star exploding. *Why:* An exploding star suddenly shines very brightly, then fades, and leaves a spreading cloud of gas behind. Old written records of such 'guest stars' help astronomers today.
-8. (mcq) Parameshvara was an astronomer in Kerala about 600 years ago. How did he find that the old eclipse tables were wrong?  
+9. (mcq) Parameshvara was an astronomer in Kerala about 600 years ago. How did he find that the old eclipse tables were wrong?  
    Options: He watched real eclipses for many years and compared them with the tables / He read it in a Greek book / He used a telescope  
    **Answer:** He watched real eclipses for many years and compared them with the tables. *Why:* He recorded eclipses for decades and saw they did not come when the old Parahita tables said. In 1431 he wrote a corrected system, Drigganita. Telescopes had not been invented yet.
-9. (mcq) Why did astronomers check their water clocks against the Sun and stars?  
+10. (mcq) Why did astronomers check their water clocks against the Sun and stars?  
    Options: Water clocks drift a little, and the sky's repeats are much steadier / Water clocks only work in the daytime / The stars told them to  
    **Answer:** Water clocks drift a little, and the sky's repeats are much steadier. *Why:* A water clock can run fast or slow if it is bumped, if the water warms, or if the hole changes. The turning sky is much steadier, so it was used to set them right.
-10. (mcq) How long is one nazhigai?  
+11. (mcq) How long is one nazhigai?  
    Options: 24 minutes / 60 minutes / 24 hours  
    **Answer:** 24 minutes. *Why:* There are 60 nazhigai in a day and night of 24 hours, so each one is 24 minutes.
-11. (mcq) Many Indian months are named after the star group where the full Moon sits that month. Why is the full Moon in a different star group each month?  
+12. (mcq) Many Indian months are named after the star group where the full Moon sits that month. Why is the full Moon in a different star group each month?  
    Options: The Moon moves along its path among the stars as it goes round the Earth / The stars move to new places every month / The Moon jumps about at random  
    **Answer:** The Moon moves along its path among the stars as it goes round the Earth. *Why:* The Moon goes round the Earth about once a month, so it slowly moves past the star groups. Each full Moon happens a bit further along, in or near a different star group.
 

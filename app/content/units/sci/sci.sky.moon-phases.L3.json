@@ -421,7 +421,8 @@
    "description": "Think of a heavy grown-up and a small child holding hands and spinning round. The child swings in a big circle. The grown-up wobbles in a small circle. Both turn round a point between them, close to the grown-up. The Earth and the Moon are like that. Each month, the Earth wobbles in a small circle as the Moon swings round. They also change each other in other ways. The Earth's pull locked the Moon's face. The Moon's pull makes our tides, and slowly slows the Earth's spin. As it does, the Moon drifts about 3.8 centimetres further away every year. Scientists measure this by bouncing laser light off mirrors left on the Moon by astronauts.",
    "examples": [
     "Astronomers find planets round other stars partly this way. A planet makes its star wobble a little, just as the Moon makes the Earth wobble.",
-    "Some scientists think the Moon helps keep the Earth's tilt steady, and so keeps our seasons steady. Others think the Earth would manage without it."
+    "Some scientists think the Moon helps keep the Earth's tilt steady, and so keeps our seasons steady. Others think the Earth would manage without it.",
+    "The Earth also spins once a day. That is why the Moon, like the Sun and the stars, seems to rise in the east and set in the west. Two movements mix together: the Moon's slow trip round the Earth, and the Earth's daily spin."
    ],
    "perspectives": [],
    "art": "A grown-up and a child holding hands and spinning, beside a drawing of the Earth and the Moon both circling a small dot just inside the Earth.",
@@ -1094,6 +1095,12 @@
      ],
      "a": "pairs as given",
      "why": "The Moon rises about 50 minutes later each day. The full Moon is opposite the Sun, so it rises as the Sun sets. The new Moon is next to the Sun, so it rises with it."
+    },
+    {
+     "t": "truefalse",
+     "p": "The Moon rises in the east mainly because the Earth spins once a day.",
+     "a": true,
+     "why": "True. The Earth's daily spin makes the Moon, the Sun and the stars all seem to rise in the east. The Moon's own trip round the Earth adds a small change on top."
     },
     {
      "t": "sort",
@@ -2822,6 +2829,18 @@
    "a": 0,
    "outcome": 1,
    "why": "The full Moon is opposite the Sun. So as it rises in the east, the Sun is setting in the west. Picking 'rising next to the Moon' describes the new Moon, which we cannot see."
+  },
+  {
+   "t": "mcq",
+   "p": "The Moon seems to rise in the east and set in the west. What is the main reason?",
+   "opts": [
+    "The Earth spins once a day",
+    "The Moon flies round the Sun",
+    "The Sun pulls the Moon across the sky"
+   ],
+   "a": 0,
+   "why": "The Earth spins once a day, so the whole sky seems to move across us. The Moon also goes round the Earth, which is why it rises about 50 minutes later each day. Flying round the Sun or being pulled by it does not make the Moon rise and set.",
+   "outcome": 2
   },
   {
    "t": "mcq",

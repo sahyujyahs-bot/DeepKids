@@ -818,7 +818,7 @@ Nimmy opened her notebook. Beside NEW RICE and POKKALI she ruled a third column,
 6. (truefalse) Scientists agree that mangroves weaken storm floods.  
    **Answer:** True. *Why:* True. Roots and trunks slow moving water. What scientists still argue about is how much mangroves help against a giant tsunami.
 7. (count) Jaisalmer gets 25 centimetres of rain a year. How many litres fall on one square metre of ground?  
-   **Answer:** 200. *Why:* 250 litres. One centimetre of rain on one square metre is 10 litres. 25 times 10 is 250.
+   **Answer:** 250. *Why:* 250 litres. One centimetre of rain on one square metre is 10 litres. 25 times 10 is 250.
 8. (count) A root grows 2 centimetres a day. How many days does she need to cross a 10-metre stream?  
    **Answer:** 500. *Why:* 500 days. 10 metres is 1,000 centimetres, and 1,000 divided by 2 is 500. That is well over a year, before the root has thickened at all.
 9. (fill) India's ten ecological regions were mapped in 1988, to check that each kind of land had a ____ area.  

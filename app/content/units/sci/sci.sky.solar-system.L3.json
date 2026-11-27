@@ -115,7 +115,8 @@
    "examples": [
     "Photos taken by spacecraft near Mars show the Earth as a small bright dot.",
     "In the evening sky, Venus looks like a very bright star. Someone on Venus would see the Earth as a bright dot too.",
-    "The Earth takes about 365 days to go round the Sun once. That is one year."
+    "The Earth takes about 365 days to go round the Sun once. That is one year.",
+    "The Moon circles the Earth. Jupiter has many moons, and four big ones that Galileo saw in 1610 with a small telescope."
    ],
    "perspectives": [],
    "art": "The view from the rocky surface of Mars at dusk, with a tiny blue dot shining low in the sky and a label 'Earth'.",
@@ -129,7 +130,8 @@
    "examples": [
     "Mercury is the smallest planet and the closest to the Sun.",
     "Jupiter is the biggest planet. Saturn has the brightest rings.",
-    "Uranus spins tipped over on its side, so it seems to roll round the Sun."
+    "Uranus spins tipped over on its side, so it seems to roll round the Sun.",
+    "A planetary system is a star with everything that goes round it: its planets, their moons, asteroids and comets. Our planetary system has one star, the Sun."
    ],
    "perspectives": [],
    "art": "A long strip with the Sun at one end and the eight planets marked at their real spacing, the first four bunched up near the Sun.",
@@ -1878,6 +1880,30 @@
    "a": 0,
    "why": "A planet is round, goes round the Sun and has cleared its path. The Earth does all three. Having a moon or people is not part of the rule, and planets do not make their own light.",
    "outcome": 0
+  },
+  {
+   "t": "mcq",
+   "p": "What is at the centre of a planetary system like ours?",
+   "opts": [
+    "A star, the Sun",
+    "Jupiter, the biggest planet",
+    "The Earth"
+   ],
+   "a": 0,
+   "why": "The Sun is a star, and the planets, asteroids and comets all go round it. Jupiter is the biggest planet, but it goes round the Sun too. The Earth is one of the planets.",
+   "outcome": 0
+  },
+  {
+   "t": "mcq",
+   "p": "What does a moon do, such as the Moon round the Earth?",
+   "opts": [
+    "It goes round its planet",
+    "It makes its own light",
+    "It stays still in one spot"
+   ],
+   "a": 0,
+   "why": "A moon goes round its planet, as the Moon goes round the Earth. A moon does not make its own light. It shines with sunlight, like a planet.",
+   "outcome": 3
   }
  ],
  "worksheets": [
@@ -1955,6 +1981,12 @@
      ],
      "a": "see items",
      "why": "The four nearest the Sun are small and rocky. The four furthest are giants made mostly of gas, or gas and ice. A strong answer notices that the two kinds are in two groups, not mixed up."
+    },
+    {
+     "t": "fill",
+     "p": "A planetary system has one star at its centre, and planets, asteroids and comets go round it. Our star is the ____.",
+     "a": "Sun",
+     "why": "The Sun is the star at the centre of our planetary system. Every planet, asteroid and comet in our system goes round it."
     },
     {
      "t": "truefalse",
@@ -2174,6 +2206,12 @@
      "a": 0,
      "why": "Mercury, Venus, Earth and Mars all fit in the first 15 cm. Jupiter, Saturn, Uranus and Neptune are spread over nearly 3 metres. Picking 'spaced evenly' is how many books draw it, but books squeeze the planets to fit the page.",
      "how": "a4"
+    },
+    {
+     "t": "truefalse",
+     "p": "Jupiter has four big moons, and Galileo saw them with a small telescope in 1610.",
+     "a": true,
+     "why": "True. Galileo's small telescope showed four big moons going round Jupiter. This showed that not everything goes round the Earth."
     },
     {
      "t": "truefalse",

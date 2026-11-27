@@ -188,7 +188,8 @@
    "examples": [
     "A tailorbird stitches leaves together with plant threads to make their nest.",
     "An owl rests by day in a tree hollow and hunts at night.",
-    "The Western Ghats forests are home to thousands of kinds of plants and animals. Many live nowhere else on Earth."
+    "The Western Ghats forests are home to thousands of kinds of plants and animals. Many live nowhere else on Earth.",
+    "A parakeet nests in a hole in an old tree. Beetles and ants live under its bark, and the leaves and fruit feed them."
    ],
    "perspectives": [
     {
@@ -300,7 +301,8 @@
    "examples": [
     "Over a large forest like the Amazon, a big share of the rain is water that the forest's own leaves gave off.",
     "Termites build tall mounds of mud that change the soil around them for years.",
-    "Elephants knock over small trees and open up grassland, which helps deer and other grazers."
+    "Elephants knock over small trees and open up grassland, which helps deer and other grazers.",
+    "Under a big neem tree at noon, the ground is cooler than the bare ground beside it, because the leaves block the sun."
    ],
    "perspectives": [],
    "art": "A bare sandbar turning, in four small pictures, into a forest: grass, then bamboo, then trees with birds, then a forest with a rain cloud above it.",
@@ -2486,6 +2488,16 @@
      ],
      "a": 0,
      "why": "A habitat is everywhere a living thing finds their needs. For this crow, that is the tree, the bins and the tank. Picking 'only the nest' mixes up a habitat with a home to sleep in."
+    },
+    {
+     "t": "fill",
+     "p": "A parakeet nests in a ____ in the trunk of an old tree.",
+     "a": [
+      "hollow",
+      "hole",
+      "tree hole"
+     ],
+     "why": "A hollow is a hole in a tree trunk. Birds such as parakeets and owls use hollows for nests and rest."
     }
    ]
   },
@@ -2744,6 +2756,13 @@
      "lines": 4,
      "a": "A strong answer picks one need and compares both layers. For example, water: the canopy is hot, windy and dries fast after rain, so canopy animals drink from rain caught in leaves and tree holes. The floor stays damp for days, which suits frogs, worms and fungi that dry out easily.",
      "why": "One forest holds several habitats on top of each other. The same need is met in different ways at each level."
+    },
+    {
+     "t": "write",
+     "p": "A thermometer under a neem tree at noon reads cooler than one on the bare road beside it. Explain why, using the word shade.",
+     "lines": 3,
+     "a": "The leaves make shade. The shade blocks the sun, so the ground under the tree takes less heat, and the thermometer there reads lower.",
+     "why": "A strong answer names the shade and says it blocks sunlight, so the ground warms less."
     }
    ]
   },
@@ -3056,6 +3075,30 @@
    "a": 0,
    "why": "The living tree and worms make the non-living soil, which feeds the tree again. Picking 'habitats never change' misses that living things change their habitats all the time.",
    "outcome": 3
+  },
+  {
+   "t": "mcq",
+   "p": "At noon on a hot day, which ground is cooler: the ground in full sun, or the ground under a big neem tree?",
+   "opts": [
+    "The ground under the tree, because its leaves block the sun",
+    "The ground in full sun, because the sun warms the air above the tree",
+    "They are the same, because the sun heats everything equally"
+   ],
+   "a": 0,
+   "why": "Leaves block sunlight, so the ground under them takes less heat. Ground in full sun takes the whole heat of the noon sun. The sun does not heat everything equally, because shade stops some of it.",
+   "outcome": 3
+  },
+  {
+   "t": "mcq",
+   "p": "A parakeet nests in a hole in an old tree. Why is the tree a habitat for it?",
+   "opts": [
+    "The hole gives the parakeet a home, and the tree gives it food and a place to rest",
+    "The tree is a home only for insects, never for birds",
+    "A tree is a habitat only when it is dead"
+   ],
+   "a": 0,
+   "why": "A habitat gives food, shelter and a place to live. The hole is a nest, and the leaves and fruit are food. The other two answers are wrong, because many birds and insects live in living trees.",
+   "outcome": 0
   },
   {
    "t": "mcq",

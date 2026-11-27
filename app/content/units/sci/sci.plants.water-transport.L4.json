@@ -226,7 +226,7 @@
    "concept": "Leaves let water out: transpiration",
    "status": "defined",
    "definition": "Transpiration is the loss of water vapour from a plant, mostly through the stomata, the tiny holes in a leaf. More than 95 of every 100 drops that enter the roots leave this way.",
-   "description": "A leaf must open its stomata to let in carbon dioxide, the gas it needs to make food. But when the holes are open, water vapour escapes. Many leaves have 100 to 300 stomata on every square millimetre. Only 1 or 2 drops in every 100 that a plant takes in are used to build her body. The rest passes through the plant and goes into the air. On a hot day, a field of crops sends up about 5 litres of water from each square metre of ground. This is not waste. The water on its way up carries minerals from the soil to the leaves, and its evaporation cools the leaf in the sun, like sweat cools your skin.",
+   "description": "A leaf must open its stomata to let in carbon dioxide, the gas it needs to make food. But when the holes are open, water vapour escapes. Many leaves have 100 to 300 stomata on every square millimetre. Only 1 or 2 drops in every 100 that a plant takes in are used to build her body. The rest passes through the plant and goes into the air. On a hot day, a field of crops sends up about 5 litres of water from each square metre of ground. This is not waste. The water on its way up carries minerals from the soil to the leaves, and its evaporation cools the leaf in the sun, like sweat cools your skin. A waxy coat, called the cuticle, covers the outside of most leaves. It is waterproof, so less water escapes through the leaf's skin, and most of the loss goes through the stomata.",
    "examples": [
     "A leaf in a closed bag soon has droplets on the inside of the bag.",
     "A grown banyan tree can send hundreds of litres of water into the air on a hot day.",
@@ -966,6 +966,12 @@
      "outcome": 4
     },
     {
+     "t": "fill",
+     "p": "A waxy coat on the outside of a leaf is called the ________.",
+     "a": "cuticle",
+     "why": "The cuticle is waterproof. It cuts down how much water escapes through the leaf's skin, so most of the loss goes through the stomata."
+    },
+    {
      "t": "mcq",
      "p": "Why does a plant lose almost no water on a foggy morning?",
      "opts": [
@@ -986,6 +992,13 @@
      ],
      "why": "Every 10 metres costs about 0.1, so 100 metres costs about 1. That is tiny compared with the 94 that dry air offers.",
      "outcome": 3
+    },
+    {
+     "t": "write",
+     "p": "Write two steps to find the stomata on a leaf with a hand lens. Which side of the leaf do you look at first?",
+     "lines": 3,
+     "a": "A good answer picks a leaf, holds the hand lens close to its surface, and looks at the underside first, because many leaves have more stomata there.",
+     "why": "A strong answer names the hand lens, the leaf's underside, and a reason for the side."
     },
     {
      "t": "truefalse",
@@ -1622,7 +1635,7 @@
   {
    "id": "e2",
    "title": "Fan, Still Air or Bag: which sprig loses the most water?",
-   "mins": 40,
+   "mins": 42,
    "days": 2,
    "question": "Does a leaf lose water faster in moving dry air, in still air, or inside a bag of damp air?",
    "predict": "Before you start, guess. Which bottle will lose the most water, and which the least? Say why you think so.",
@@ -1744,12 +1757,12 @@
     },
     {
      "id": "s3",
-     "mins": 6,
-     "do": "Cut the end of each sprig fresh, under a little water in a bowl. Push one sprig into each bottle neck, so the cut end is in the water and the leaves are outside. Put a bag over the leaves of bottle C and fasten it loosely round the bottle neck with a rubber band.",
+     "mins": 8,
+     "do": "Cut the end of each sprig fresh, under a little water in a bowl. Push one sprig into each bottle neck, so the cut end is in the water and the leaves are outside. Put a bag over the leaves of bottle C and fasten it loosely round the bottle neck with a rubber band. Also put one drop of water on the top of a cabbage leaf. The cabbage leaf has a waxy coat. Put another drop on a leaf with no wax. Watch which drop spreads out and which stays as a round bead. Then use a hand lens to look at the underside of a leaf and find the stomata.",
      "say": "Cut each stem under water, so no air gets into the tubes. Put a sprig in each bottle. Now put a bag over the leaves of bottle C. Tie it round the neck. Water leaves a leaf as vapour, which is water as an invisible gas. The bag will trap the vapour, so the air inside it will get damp.",
      "kid": "Put a sprig in each bottle. Tie a bag over the leaves of bottle C.",
      "adult": true,
-     "parent": "A grown-up cuts the stems. Make sure the cut ends stay in the water. A bag closed round the bottle neck keeps the air inside damp. Do not pull the rubber band so tight that the sprig is crushed. If a sprig leans or falls, tape its stem to the bottle neck. Mint and coriander droop fast once cut, so set up quickly.",
+     "parent": "A grown-up cuts the stems. Make sure the cut ends stay in the water. A bag closed round the bottle neck keeps the air inside damp. Do not pull the rubber band so tight that the sprig is crushed. If a sprig leans or falls, tape its stem to the bottle neck. Mint and coriander droop fast once cut, so set up quickly. The cabbage drop should stay as a bead, because the wax pushes water away. If the drop spreads, the wax is thin or the leaf is old.",
      "context": "In this step, you add the sprigs. One of them gets a bag."
     },
     {
@@ -2560,6 +2573,18 @@
    "outcome": 4
   },
   {
+   "t": "mcq",
+   "p": "You want to see the stomata on a leaf. Which tool helps most, and where do you look?",
+   "opts": [
+    "A hand lens, looking closely at the underside of the leaf",
+    "A ruler, measuring the length of the leaf",
+    "A thermometer, held against the top of the leaf"
+   ],
+   "a": 0,
+   "why": "Stomata are too small to see clearly with the eye alone. A hand lens shows them as tiny openings, and many leaves have more of them on the underside. A ruler and a thermometer cannot show the openings.",
+   "outcome": 4
+  },
+  {
    "t": "truefalse",
    "p": "A rice seedling in a field flooded with sea water has plenty of water to drink.",
    "a": false,
@@ -2600,6 +2625,18 @@
    ],
    "a": 0,
    "why": "Water leaves the cloth toward the bigger pull number. Damp air has a smaller number than dry air, so the pull is weaker and drying is slow.",
+   "outcome": 3
+  },
+  {
+   "t": "mcq",
+   "p": "A cabbage leaf has a waxy coat on its top. What does the coat do?",
+   "opts": [
+    "It is waterproof, so less water escapes from the leaf",
+    "It is sweet, so insects come to the leaf",
+    "It lets water soak in through the top of the leaf"
+   ],
+   "a": 0,
+   "why": "The waxy coat keeps water in, so less water escapes through the leaf's skin. Wax pushes water away, which is why a drop sits as a bead. A coat that let water soak in would not cut water loss.",
    "outcome": 3
   },
   {

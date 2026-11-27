@@ -95,6 +95,12 @@
    "art": "A doctor's handwritten note with a stethoscope beside it, and a hand passing it across a pharmacy counter."
   },
   {
+   "term": "ASHA worker",
+   "meaning": "An Accredited Social Health Activist: a woman chosen from her own village to help families with health, such as mothers, babies and vaccines.",
+   "example": "An ASHA worker reminds a family when a baby's next vaccine is due.",
+   "art": "A woman in a village lane with a bag of health cards."
+  },
+  {
    "term": "Side effect",
    "meaning": "An effect of a medicine that you did not want, such as a rash or a loose tummy. Most are mild.",
    "example": "An antibiotic can upset the helpful bacteria in the gut and cause loose motions.",
@@ -255,6 +261,21 @@
    ],
    "perspectives": [],
    "art": "A kitchen shelf with a medicine box on a high shelf, a label showing a dose, a calendar showing the expiry date and a phone with a doctor's number."
+  },
+  {
+   "concept": "Who helps at a hospital or health centre",
+   "status": "defined",
+   "definition": "A hospital or health centre has staff, and each one has a job. Doctors decide what the illness is and what treatment it needs. Nurses look after patients and give injections and medicines.",
+   "description": "A doctor asks questions, looks at the signs of an illness, and writes a prescription. The prescription tells the family which medicine to take, how much and for how long. A nurse checks a child's temperature and weight, gives vaccines, and shows the mother how to make ORS. A chemist gives out the medicine written on the prescription. In villages, a health worker visits homes to check on babies and mothers, and takes them to the centre. In India, many of these health workers are ASHA workers, women chosen from their own village. Some care comes to a village for only one day. At an eye check-up camp, a doctor checks the eyes of children and grown-ups, and nurses write down each name.",
+   "examples": [
+    "A nurse at the health centre weighs a baby every month, so the mother can see that the baby is growing.",
+    "An eye check-up camp may run for one day in a village school, with a doctor checking eyes and nurses writing down names.",
+    "An ASHA worker walks to a house and reminds the mother when the next vaccine is due."
+   ],
+   "perspectives": [],
+   "one_view": "Every health centre has jobs like these, so there is one view here. The number of staff and their names change from place to place.",
+   "context": "This card says who does what when a family goes to a health centre or a health camp.",
+   "art": "A health centre with a doctor at a desk, a nurse weighing a baby, a chemist behind a counter and an ASHA worker walking up a village path."
   },
   {
    "concept": "Vaccines in simple words",
@@ -2640,6 +2661,13 @@
     },
     {
      "t": "write",
+     "p": "Name two jobs a nurse does at a health centre, and one job that only a doctor does.",
+     "lines": 3,
+     "a": "A nurse weighs babies and gives vaccines. Only a doctor writes the prescription that says which medicine to take and for how long.",
+     "why": "Each person at a health centre has a different job. The doctor decides the treatment, and the nurse looks after the patient and gives the care."
+    },
+    {
+     "t": "write",
      "p": "A child adds salt, vinegar, garlic and turmeric to separate glasses of yeast and measures the foam after 20 minutes. Why must she also set up a glass with nothing added?",
      "a": "The glass with nothing added shows how much foam yeast makes normally. Without it, she would not know whether the other glasses made more or less foam than usual.",
      "why": "A comparison glass is a control. Scientists use one so that any change can be put down to the thing they added.",
@@ -3124,6 +3152,18 @@
    "why": "The only difference between the glasses was the salt, so the salt held the yeast back. Strong salt would also harm our own cells, so it is not a medicine.",
    "outcome": 3,
    "how": "e1"
+  },
+  {
+   "t": "mcq",
+   "p": "Which health worker writes the prescription that tells a family which medicine to take, and for how long?",
+   "opts": [
+    "A doctor",
+    "A nurse",
+    "A village health worker"
+   ],
+   "a": 0,
+   "why": "A doctor decides what the illness is and writes the prescription. A nurse gives injections and vaccines. A village health worker visits homes and takes people to the centre.",
+   "outcome": 5
   }
  ],
  "videos": [

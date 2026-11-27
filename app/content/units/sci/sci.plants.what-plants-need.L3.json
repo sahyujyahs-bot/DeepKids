@@ -1260,6 +1260,13 @@
      "lines": 4,
      "a": "I should water mine, because dry soil means they are short of water. My friend should not. Wet, smelly soil means the roots have too much water and no air, and they are starting to rot. My friend should let the soil dry out and check that the pot has a hole.",
      "why": "The same clue, drooping, can have two opposite causes. A strong answer looks at the soil before deciding."
+    },
+    {
+     "t": "write",
+     "p": "Your bean plant has its first flowers, and then small green pods. Write two things you would add to your diary, and why.",
+     "lines": 3,
+     "a": "A good answer names the flowers and the pods, with the date, because they show the plant is growing towards fruit.",
+     "why": "A strong answer names the flowers and the pods, and says that they show the plant is growing and making fruit."
     }
    ]
   },
@@ -3476,7 +3483,7 @@
     {
      "day": 18,
      "mins": 5,
-     "what": "Measure. Did anything slow your plant down?"
+     "what": "Measure. Did anything slow your plant down? Count the flowers and fruit, if there are any, and write them in the diary."
     },
     {
      "day": 21,
@@ -3484,7 +3491,7 @@
      "what": "Final measuring. Draw a growth chart of all your measurements. Write what helped and what harmed your plant. Show your diary to the family."
     }
    ],
-   "record": "A diary with a page every third day: date, height, number of leaves, weather, temperature and one sentence about how the plant looks. At the end, a bar chart of the heights.",
+   "record": "A diary with a page every third day: date, height, number of leaves, weather, temperature and one sentence about how the plant looks. At the end, a bar chart of the heights. Once flowers and fruit come, write those down too, with the date.",
    "flow": [
     {
      "id": "s1",
@@ -3887,6 +3894,18 @@
    "outcome": 3,
    "context": "This question is about the water test. Three cups of moong get no water. Three get 1 tablespoon of water every morning. Three stand in a dish of water all the time.",
    "how": "e2"
+  },
+  {
+   "t": "mcq",
+   "p": "You keep a diary of a bean plant for weeks. Which entry is the most useful?",
+   "opts": [
+    "The date, the height, the number of leaves, and any flowers or fruit",
+    "Only the day the plant dies",
+    "One line on the first day, and nothing after that"
+   ],
+   "a": 0,
+   "why": "A plant changes slowly, so dated notes over weeks show the change. A diary written once, or only at the end, cannot show how the plant grew or when it flowered.",
+   "outcome": 2
   },
   {
    "t": "mcq",
