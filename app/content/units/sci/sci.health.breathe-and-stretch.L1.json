@@ -659,7 +659,9 @@
   }
  ],
  "sources": {
-  "founder": [],
+  "founder": [
+   "No founder notes or sheets exist yet for this subtopic. The activities were written from the lesson's own cards."
+  ],
   "science": [
    "Zaccaro A. and others, 2018. How breath-control can change your life: a systematic review on psycho-physiological correlates of slow breathing. Frontiers in Human Neuroscience 12:353.",
    "Yackle K. and others, 2017. Breathing control center neurons that promote arousal in mice. Science 355:1411.",
@@ -677,35 +679,2544 @@
    "Texts: Patanjali, Yoga Sutras 1.34 and 2.46. Hatha Yoga Pradipika 2.2. Gheranda Samhita, chapter 2. Chandogya Upanishad 5.1. Prashna Upanishad, question 2. Majjhima Nikaya 118. Zhuangzi, chapter 6."
   ]
  },
- "playtest": {
-  "note": "Only the deep fields are written here. The founder's notes, the Combined lessons, the curriculum file and deep_truths.py were not opened for this draft, so sources.founder is empty and the deep truth has not been compared with the other lessons' deep truths. A reviewer should do both. The cards avoid repeating sci.health.exercise-and-rest.L2 (why moving makes you breathe hard) and sci.health.feelings-and-wellbeing.L1 (naming feelings).",
-  "main_investigation": "How far can I reach? A stretch test with a ruler. The child sits with legs straight and feet flat against a wall or a box, and reaches forward along a ruler. Measure three times. Then do three gentle toe-reach holds of three slow breaths each, and measure three times again. The child guesses first if the reach will change, and says why. Most children gain 1 to 4 centimetres. Afterwards ask what could have changed in ten minutes, the muscle or the feeling. It needs no bought material and works in any home.",
-  "other_parts_to_write": [
-   "Boat on the tummy: lying down with a paper boat on the tummy to see the diaphragm at work.",
-   "How many kabaddis on one breath? Count before and after a minute of slow breathing.",
-   "Four poses named after beings: tree, cobra, cat, mountain, each held for three breaths.",
-   "Watch a dog, a cat or a crow stretch, and copy the shape."
+ "playtest": "Every hands-on part was walked through as a parent and a six-year-old in a small flat, with only a mat, an eraser, a ruler, a paper boat, a bottle and balloons. Not yet tried with real families: the eraser reach test on carpet or rough floor (use a sheet of paper under the eraser), the lung model (it only works if the seal is airtight, so test it first), and the kabaddi breath test (the numbers may rise, stay or fall, and all are real results). The reach test cannot separate stretching from warming up and practice. Facts still to check: resting breaths a minute at each age and for each animal, Carl Ludwig's 1847 record, Yoga Sutras 1.34 and 2.46, Hatha Yoga Pradipika 2.2 and its 15 postures, the Gheranda Samhita's 32, Chandogya Upanishad 5.1, Zhuangzi chapter 6, Robert Provine's 1987 yawning test, Andrew Gallup's cooling finding, dogs catching yawns in 2008, the 2000 trial of stretching in army recruits, the Cuvier's beaked whale dive of more than three hours, the Raja of Aundh and Surya Namaskar in the 1920s, Krishnamacharya in Mysuru in the 1930s, the evidence on mouth breathing in children, the findings on longer muscle fibres, the half of the oxygen from the sea, Priestley's 1771 mouse and mint test, the Lavoisiers' and Laplace's 1783 measurement, and Ibn al-Nafis about 1242 CE. The yoga pose names (including Bitilasana) and the Kaivalyadhama and Krishnamacharya Yoga Mandiram details should be confirmed. The three videos are still to be chosen. A child with asthma or a cold can do everything gently, and nobody should hold their breath until dizzy.",
+ "terms": [
+  {
+   "term": "Breath",
+   "meaning": "A breath is one time air goes in and one time it comes out.",
+   "example": "Put your hand under your nose. Each warm puff you feel is the end of one breath.",
+   "art": "A child's hand under the nose with soft warm puffs drawn as small curls."
+  },
+  {
+   "term": "Breathe in",
+   "meaning": "To breathe in is to take air into your body through your nose or mouth.",
+   "example": "You breathe in when you smell a hot dosa.",
+   "art": "A child sniffing a plate of dosa with arrows going into the nose."
+  },
+  {
+   "term": "Breathe out",
+   "meaning": "To breathe out is to let air leave your body.",
+   "example": "You breathe out when you blow on hot kanji to cool it.",
+   "art": "A child blowing on a steel spoon of kanji with small curls of air."
+  },
+  {
+   "term": "Air",
+   "meaning": "Air is the invisible mix of gases all around us. You cannot see it, but you can feel it when it moves.",
+   "example": "A fan pushes air onto your face.",
+   "art": "A child with a fan blowing air against her hair."
+  },
+  {
+   "term": "Lungs",
+   "meaning": "Your lungs are two soft bags inside your chest. Air goes into them when you breathe in.",
+   "example": "Your lungs fill up like slow balloons when you take a big breath.",
+   "art": "A drawing of a child's chest with two soft bags that look like balloons."
+  },
+  {
+   "term": "Nose",
+   "meaning": "Your nose is the part of your face you breathe through. It warms and cleans the air as it goes in.",
+   "example": "After a dusty bus ride, your nose is grey inside, because it caught the dust.",
+   "art": "A child's face from the side with an arrow going in through the nose."
+  },
+  {
+   "term": "Mucus",
+   "meaning": "Mucus is the wet, sticky layer inside your nose. Dust sticks to it.",
+   "example": "When you blow your nose after a dusty ride, the dust comes out in your mucus.",
+   "art": "A close-up of the inside of a nose with a shiny wet layer holding specks of dust."
+  },
+  {
+   "term": "Diaphragm",
+   "meaning": "The diaphragm is a flat muscle under your lungs, shaped like an upturned bowl. You say it 'dye-a-fram'. It pulls down to bring air in.",
+   "example": "When you breathe in, your tummy rises because the diaphragm pushes down on it.",
+   "art": "A side view of a child's body with a curved flat muscle under two lungs, pulled down."
+  },
+  {
+   "term": "Hiccup",
+   "meaning": "A hiccup is when your diaphragm pulls down by itself, quickly, and you did not ask it to.",
+   "example": "You eat a laddoo too fast and 'hic' comes out.",
+   "art": "A surprised child with a tiny 'hic' in a speech bubble."
+  },
+  {
+   "term": "Automatic",
+   "meaning": "Automatic means it happens without you choosing it.",
+   "example": "Your heart beats automatically, even when you are asleep.",
+   "art": "A sleeping child with a small glowing heart beating by itself."
+  },
+  {
+   "term": "On purpose",
+   "meaning": "On purpose means you choose to do it.",
+   "example": "You wave to a friend on purpose.",
+   "art": "A child waving to a friend across a school gate."
+  },
+  {
+   "term": "Heart",
+   "meaning": "Your heart is a muscle in your chest that pushes blood all round your body.",
+   "example": "Put your hand on your chest. The thump you feel is your heart.",
+   "art": "A child with a hand on the chest, a small heart drawn inside."
+  },
+  {
+   "term": "Heartbeat",
+   "meaning": "A heartbeat is one push of your heart. It happens again and again, all your life.",
+   "example": "Your heartbeat is faster after you run and slower when you rest.",
+   "art": "A child's chest with a heart and small thump lines."
+  },
+  {
+   "term": "Pulse",
+   "meaning": "Your pulse is the tap you can feel on your wrist or neck each time your heart pushes blood.",
+   "example": "Press two fingers on the inside of your wrist and you feel the tap, tap, tap.",
+   "art": "Two fingers resting on the inside of a child's wrist."
+  },
+  {
+   "term": "Sigh",
+   "meaning": "A sigh is one long, loud out-breath.",
+   "example": "You sigh when you finally find your lost chappal.",
+   "art": "A child sitting down with a long curl of air leaving the mouth."
+  },
+  {
+   "term": "Calm",
+   "meaning": "Calm means quiet and settled inside, with no hurry.",
+   "example": "After five slow breaths, your shoulders drop and you feel calmer.",
+   "art": "A child with relaxed shoulders sitting under a tree."
+  },
+  {
+   "term": "Nerve",
+   "meaning": "A nerve is a thin thread inside your body that carries messages to and from your brain.",
+   "example": "A nerve in your finger tells your brain that the tea glass is hot.",
+   "art": "A drawing of a hand with a thin glowing thread going up the arm to the head."
+  },
+  {
+   "term": "Brain",
+   "meaning": "Your brain is the soft part inside your head that gets messages and sends messages. One small part of it starts every breath.",
+   "example": "Your brain gets the message that your foot is cold.",
+   "art": "A child's head from the side with a brain drawn inside."
+  },
+  {
+   "term": "Muscle",
+   "meaning": "A muscle is a part of your body that can pull. When a muscle pulls, a bone moves.",
+   "example": "Bend your arm and feel the bump above your elbow. That is a muscle pulling.",
+   "art": "A child bending an arm with the muscle bump drawn above the elbow."
+  },
+  {
+   "term": "Bone",
+   "meaning": "A bone is a hard part inside your body that holds you up. Muscles pull on bones to move you.",
+   "example": "You can feel the bones of your fingers when you press them.",
+   "art": "A drawing of an arm with bones showing inside, muscles joined at both ends."
+  },
+  {
+   "term": "Stretch",
+   "meaning": "To stretch is to move slowly until a muscle is pulled gently longer, and to hold it there.",
+   "example": "You stretch your arms up high when you wake up.",
+   "art": "A child on a bed reaching both arms up above the head."
+  },
+  {
+   "term": "Gentle pull",
+   "meaning": "A gentle pull is the mild tugging feeling of a good stretch. It does not hurt.",
+   "example": "Reaching for your toes can feel like a kite string pulling at the back of your legs.",
+   "art": "A child reaching towards the toes with a soft line like a kite string behind the legs."
+  },
+  {
+   "term": "Pain",
+   "meaning": "Pain is a hurting feeling, such as a sharp pinch or a burn. It is your body saying 'stop'.",
+   "example": "A sharp pinch behind the knee in a stretch means ease off.",
+   "art": "A child frowning and pulling back out of a stretch."
+  },
+  {
+   "term": "Sensor",
+   "meaning": "A sensor is a tiny part of the body that feels something and sends a message about it. Your body has thousands of kinds.",
+   "example": "Sensors in your fingertips feel if something is hot, rough or smooth.",
+   "art": "A fingertip with tiny dots showing little feelers inside the skin."
+  },
+  {
+   "term": "Body-position sense",
+   "meaning": "Body-position sense is how you know where your arms and legs are without looking. Scientists call it proprioception, said 'pro-pree-oh-SEP-shun'.",
+   "example": "With your eyes shut, you can still touch your nose with one finger.",
+   "art": "A child with eyes closed touching the nose with a finger."
+  },
+  {
+   "term": "Warm up",
+   "meaning": "To warm up is to move gently for a few minutes before you stretch or play, so your muscles are ready.",
+   "example": "You march on the spot before you stretch.",
+   "art": "A child marching on the spot beside a mat."
+  },
+  {
+   "term": "Bendy",
+   "meaning": "Bendy means your body can move a long way at a joint. The word scientists use is flexible.",
+   "example": "Some children can fold flat over their legs and others reach only their knees. Both are fine.",
+   "art": "Two children sitting and reaching, one reaching further than the other, both smiling."
+  },
+  {
+   "term": "Yawn",
+   "meaning": "A yawn is a long, deep breath in with a wide-open mouth, and then a breath out.",
+   "example": "You yawn when you are sleepy, and then your friend yawns too.",
+   "art": "A child yawning with arms stretching and a friend yawning beside her."
+  },
+  {
+   "term": "Yoga",
+   "meaning": "Yoga is a practice from India. People hold steady shapes, breathe quietly and pay attention.",
+   "example": "A neighbour does yoga on a mat in the park at dawn.",
+   "art": "A woman holding a yoga pose on a mat at dawn in a park."
+  },
+  {
+   "term": "Asana",
+   "meaning": "An asana is one yoga shape that you hold for a few breaths. You say it 'AH-suh-nuh'.",
+   "example": "The tree is an asana.",
+   "art": "A child standing like a tree."
+  },
+  {
+   "term": "Vrikshasana (tree pose)",
+   "meaning": "Vrikshasana is the tree pose. You stand on one leg and bring your hands together above your head.",
+   "example": "You stand like a neem tree, steady in the wind.",
+   "art": "A child standing on one leg with arms up like branches."
+  },
+  {
+   "term": "Bhujangasana (cobra pose)",
+   "meaning": "Bhujangasana is the cobra pose. You lie on your tummy and lift your chest a little, like a cobra rising.",
+   "example": "You lift your head and chest while your hips stay on the mat.",
+   "art": "A child lying on the tummy lifting the chest like a cobra."
+  },
+  {
+   "term": "Marjariasana (cat pose)",
+   "meaning": "Marjariasana is the cat pose. You go on hands and knees and round your back like a cat.",
+   "example": "A cat arches her back on a wall in the same shape.",
+   "art": "A child on hands and knees with a rounded back next to a cat doing the same."
+  },
+  {
+   "term": "Tadasana (mountain pose)",
+   "meaning": "Tadasana is the mountain pose. You stand tall and still with your feet together.",
+   "example": "You stand like the Himalayas, quiet and strong.",
+   "art": "A child standing tall with arms by the sides in front of a mountain."
+  },
+  {
+   "term": "Shavasana (resting pose)",
+   "meaning": "Shavasana is the resting pose. You lie on your back, still, and let your breath go slow.",
+   "example": "You lie down at the end of yoga and rest.",
+   "art": "A child lying flat on a mat with eyes closed and arms relaxed."
+  },
+  {
+   "term": "Surya Namaskar",
+   "meaning": "Surya Namaskar is a chain of twelve yoga shapes done one after another with the breath. The words mean 'greeting to the Sun'.",
+   "example": "Many families in India do it in the morning.",
+   "art": "A series of small figures moving through twelve yoga shapes facing the rising Sun."
+  },
+  {
+   "term": "Kabaddi",
+   "meaning": "Kabaddi is a team game from India. A raider runs into the other half and must keep chanting 'kabaddi' on one breath.",
+   "example": "Children play kabaddi in a sandy ground in the evening.",
+   "art": "Two teams of children facing each other on a sand court, a raider running in."
+  },
+  {
+   "term": "Raider",
+   "meaning": "A raider is the player in kabaddi who runs into the other team's half to touch someone and get back.",
+   "example": "The raider keeps chanting while she tries to touch a player and run home.",
+   "art": "A girl with one hand out running towards the other team and chanting."
+  },
+  {
+   "term": "Rest",
+   "meaning": "Rest is when the body is quiet and mends. Your heart and lungs still work.",
+   "example": "You rest after a game, and your breath slowly goes slow again.",
+   "art": "A child sitting on a step after playing, breathing slowly."
+  },
+  {
+   "term": "Active",
+   "meaning": "Active means moving your body around.",
+   "example": "Running, dancing and kabaddi are active.",
+   "art": "Children running, dancing and skipping in a courtyard."
+  },
+  {
+   "term": "Oxygen",
+   "meaning": "Oxygen is a gas in the air. Your body takes it from every breath and uses it to get energy from food.",
+   "example": "The air you breathe in has oxygen in it.",
+   "art": "A drawing of an in-breath with a small blue dot in the air going into the lungs."
+  },
+  {
+   "term": "Carbon dioxide",
+   "meaning": "Carbon dioxide is a gas your body gives out in every out-breath. Plants take it in.",
+   "example": "A tulsi plant takes in the carbon dioxide you breathe out.",
+   "art": "A child breathing out towards a tulsi plant with small arrows."
+  },
+  {
+   "term": "Gills",
+   "meaning": "Gills are the parts a fish breathes with. They take oxygen from the water.",
+   "example": "A fish opens and closes her gills as she swims.",
+   "art": "A fish with gills showing at the side of the head."
+  },
+  {
+   "term": "Prana",
+   "meaning": "Prana is a Sanskrit word for breath and also for the life in a living being.",
+   "example": "In India, thinkers used one word, prana, for breath and for life.",
+   "art": "A child's breath drawn as a curl of light going in and out."
+  }
+ ],
+ "games": [
+  {
+   "id": "g1",
+   "title": "By Myself, On Purpose, or Both? A card game",
+   "mins": 12,
+   "players": [
+    "alone",
+    "with a parent",
+    "with friends"
+   ],
+   "context": "This is a card game about what your body does. You sort 12 cards into three groups: things your body does by itself, things you choose, and things that are both. You will find out that breathing belongs in the group of both.",
+   "printables": [
+    {
+     "kind": "cards",
+     "title": "12 cards to cut out",
+     "items": [
+      {
+       "f": "Your heart beating",
+       "b": "My body does it by itself. I cannot tell my heart to stop for a moment."
+      },
+      {
+       "f": "Digesting your dinner",
+       "b": "My body does it by itself, inside, and I am not choosing it."
+      },
+      {
+       "f": "A hiccup",
+       "b": "My body does it by itself. The diaphragm pulls down when I did not ask."
+      },
+      {
+       "f": "A sneeze",
+       "b": "My body does it by itself. It comes when it comes."
+      },
+      {
+       "f": "A real yawn",
+       "b": "My body does it by itself. Nobody is sure why."
+      },
+      {
+       "f": "Waving to a friend",
+       "b": "I choose it, on purpose."
+      },
+      {
+       "f": "Kicking a ball",
+       "b": "I choose it, on purpose."
+      },
+      {
+       "f": "Singing a song",
+       "b": "I choose it, on purpose."
+      },
+      {
+       "f": "Breathing",
+       "b": "Both. My body breathes while I sleep, and I can also slow it, speed it or hold it for a short time."
+      },
+      {
+       "f": "Blinking",
+       "b": "Both. My eyes blink by themselves, and I can blink on purpose."
+      },
+      {
+       "f": "Stretching after waking",
+       "b": "Both. My body stretches by itself after resting, and I can also stretch on purpose."
+      },
+      {
+       "f": "Swallowing",
+       "b": "Both. I swallow by myself all day, and I can also swallow on purpose."
+      }
+     ]
+    },
+    {
+     "kind": "board",
+     "title": "3 sorting mats to draw or print",
+     "items": [
+      "My body does it by itself (draw a small sleeping face)",
+      "I choose it, on purpose (draw a raised hand)",
+      "Both (draw a sleeping face and a raised hand)"
+     ]
+    }
+   ],
+   "rules": [
+    "Lay the three mats on the floor.",
+    "Mix the cards and put them in a pile, with the words face up.",
+    "Take turns. Read the top card aloud and put it on the mat you think is right. Say why.",
+    "Another player can say 'I think it belongs on a different mat' and give a reason. The player may keep the card or move it.",
+    "Turn the card over and read the back. If the card is on the right mat, keep it. If not, put it on the right mat and nobody keeps it.",
+    "When all 12 cards are used, count your cards. The most cards wins. A tie is fine.",
+    "Playing alone, try to keep all 12."
+   ],
+   "setup": [
+    {
+     "art": "Three paper mats on the floor, one with a sleeping face, one with a raised hand, one with both.",
+     "caption": "1. Lay out the three mats."
+    },
+    {
+     "art": "A child placing a card that says 'Breathing' on the mat with both drawings while a parent smiles.",
+     "caption": "2. Read a card, put it on a mat and say why."
+    }
+   ],
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 2,
+     "do": "Cut out the cards and draw the three mats. Read the mats aloud.",
+     "say": "Some things your body does by itself. Some things you choose. And some things are both. Let us sort them.",
+     "kid": "Look at the three mats. Which one means 'my body does it by itself'?"
+    },
+    {
+     "id": "s2",
+     "mins": 8,
+     "do": "Play the game. Read each card aloud. Ask why before turning it over.",
+     "say": "Where does this card go? Why do you think so? Let us turn it over and check.",
+     "kid": "Pick a card. Where does it go? Say why.",
+     "ask": [
+      {
+       "q": "Where does 'Breathing' go? Why?",
+       "good": [
+        "On both, because I can do it on purpose and my body does it too."
+       ]
+      }
+     ],
+     "parent": "Many children put breathing on 'by itself' or 'on purpose'. Ask them to hold their breath to test it. For yawning, scientists still argue about why we do it, so accept a good reason."
+    },
+    {
+     "id": "s3",
+     "mins": 2,
+     "do": "Read the 'Both' cards together.",
+     "say": "These cards are the ones that are both. What is the same about them?",
+     "kid": "Look at the 'Both' cards. What is the same?",
+     "check": {
+      "t": "mcq",
+      "q": "What is the same about the 'Both' cards?",
+      "options": [
+       "They happen only when I choose them",
+       "My body does them and I can also change them",
+       "They never happen when I sleep"
+      ],
+      "a": 1,
+      "why": "Breathing, blinking, stretching and swallowing all happen by themselves, and we can also step in. A child who picks the first option is thinking of choosing only."
+     },
+     "think": "Is there anything your body does that you can never change?"
+    }
+   ]
+  },
+  {
+   "id": "g2",
+   "title": "Pose Charades: a game of 8 poses",
+   "mins": 12,
+   "players": [
+    "alone",
+    "with a parent",
+    "with friends"
+   ],
+   "context": "This is a guessing game with 8 yoga shapes. One player shows a pose for three slow breaths and the others guess which being it is. You will find out the names of 8 poses, and which ones feel like a gentle pull.",
+   "printables": [
+    {
+     "kind": "cards",
+     "title": "8 pose cards to cut out",
+     "items": [
+      {
+       "f": "I stand tall and still, feet together, arms by my sides. Which mountain am I?",
+       "b": "Tadasana, the mountain pose. Three slow breaths."
+      },
+      {
+       "f": "I stand on one leg, the other foot on my ankle, and my hands are together. Which tall being am I?",
+       "b": "Vrikshasana, the tree pose. Three slow breaths."
+      },
+      {
+       "f": "I am on hands and knees. I round my back up high. Which animal am I?",
+       "b": "Marjariasana, the cat pose. Three slow breaths."
+      },
+      {
+       "f": "I am on hands and knees. I let my back dip down a little and look up. Which animal am I?",
+       "b": "Bitilasana, the cow pose. Three slow breaths."
+      },
+      {
+       "f": "I lie on my tummy and lift my chest a little. Which animal am I?",
+       "b": "Bhujangasana, the cobra pose. Three slow breaths."
+      },
+      {
+       "f": "I sit with the soles of my feet together. My knees move like wings. Which flying being am I?",
+       "b": "Baddha Konasana, often called the butterfly. Three slow breaths."
+      },
+      {
+       "f": "My hands and feet are on the floor and my hips are high. Which animal waking up am I?",
+       "b": "Adho Mukha Svanasana, the dog facing down. Three slow breaths."
+      },
+      {
+       "f": "I sit on my heels with my head resting forward on the mat. What am I doing?",
+       "b": "Balasana, the child's pose. A resting pose. Three slow breaths."
+      }
+     ]
+    },
+    {
+     "kind": "score sheet",
+     "title": "Poses done",
+     "items": [
+      "Pose 1: a tick when done",
+      "Pose 2: a tick when done",
+      "Pose 3: a tick when done",
+      "Pose 4: a tick when done",
+      "Pose 5: a tick when done",
+      "Pose 6: a tick when done",
+      "Pose 7: a tick when done",
+      "Pose 8: a tick when done"
+     ]
+    }
+   ],
+   "rules": [
+    "Put the cards face down in a pile. Nobody looks at the back.",
+    "Take turns. Pick a card, read the front silently and do the pose without speaking.",
+    "Hold it for three slow breaths. The others guess the being or the name.",
+    "Turn the card over and read the back. Everyone does the pose together for three more slow breaths.",
+    "Tick the pose on the score sheet. The goal is for everyone to tick all 8 poses together.",
+    "Stop any pose that stops being a gentle pull. Come back slowly.",
+    "Playing alone, do all 8 poses and tick them."
+   ],
+   "setup": [
+    {
+     "art": "A pile of 8 cards on a mat and a score sheet with 8 boxes beside it.",
+     "caption": "1. Put the cards face down."
+    },
+    {
+     "art": "A child on hands and knees with a round back while a parent guesses, and a card in the child's hand.",
+     "caption": "2. Do the pose. The others guess."
+    }
+   ],
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 2,
+     "do": "Cut out the cards. Put the mat down and clear space.",
+     "say": "We will play a guessing game. One person does a pose and the others guess what being it is.",
+     "kid": "Clear space on the floor. Cut the cards."
+    },
+    {
+     "id": "s2",
+     "mins": 8,
+     "do": "Play the game. Hold each pose for three slow breaths. Ask where the pull is.",
+     "say": "What being is this? Can you feel a gentle pull anywhere? How do you know it is a gentle pull and not a pain?",
+     "kid": "Do the pose. Guess the being. Find the pull.",
+     "ask": [
+      {
+       "q": "Where do you feel the gentle pull?",
+       "good": [
+        "In my back.",
+        "At the back of my legs.",
+        "In my arms."
+       ]
+      }
+     ],
+     "parent": "The dog and cobra need a little strength. Keep them short. For any pose, a sharp pinch means stop."
+    },
+    {
+     "id": "s3",
+     "mins": 2,
+     "do": "Finish with the child's pose or lying down. Ask the question.",
+     "say": "Which pose did you like best? What did your breath do?",
+     "kid": "Rest in the child's pose. Which pose did you like best?",
+     "think": "Which being is each pose named after, and why do you think someone named it so?"
+    }
+   ]
+  }
+ ],
+ "experiments": [
+  {
+   "id": "e1",
+   "title": "How Far Can I Reach? A stretch test with an eraser and a ruler",
+   "mins": 22,
+   "days": 1,
+   "context": "In this experiment you measure how far you can reach along the floor. Then you do three gentle stretches and measure again. You will find out if your reach changes, and think about why.",
+   "question": "Does a few gentle stretches change how far I can reach towards my toes?",
+   "predict": "Guess first. Will you reach further after the stretches, the same, or less far? Say why you think so.",
+   "fair_test": "Only the stretching changes. We use the same floor, the same eraser, the same wall and the same slow reach. We reach three times before and three times after, because the first try is often the stiffest and one try can be a fluke. We never bounce. We warm up first. This test cannot tell stretching apart from warming up and practice, and the last step shows how to check.",
+   "results_table": [
+    "Try",
+    "Gap before (cm)",
+    "Gap after (cm)"
+   ],
+   "materials": [
+    {
+     "item": "a smooth floor beside a wall",
+     "qty": 1
+    },
+    {
+     "item": "a rubber eraser, or a small block that slides easily",
+     "qty": 1
+    },
+    {
+     "item": "a 30 centimetre ruler",
+     "qty": 1
+    },
+    {
+     "item": "paper and a pencil, for the results table",
+     "qty": 1
+    },
+    {
+     "item": "a mat, folded blanket or dari to sit on",
+     "qty": 1
+    }
+   ],
+   "safety": "Stretch only to a mild tug. A sharp pinch or a burn means stop and ease off. Never bounce. If your child has an injury, skip the stretch and just do the notice-and-count parts.",
+   "schedule": [
+    {
+     "day": 1,
+     "mins": 22,
+     "what": "Guess. Warm up. Measure three reaches. Do three gentle holds. Measure three reaches again. Talk about it."
+    }
+   ],
+   "record": "The results table with six gaps. Circle the smallest gap before and the smallest after. Ask your child to say what they think, what they saw and why.",
+   "setup": [
+    {
+     "art": "A child sitting on a mat with straight legs and the soles of the feet against a wall, an eraser on the floor between her hands.",
+     "caption": "1. Sit with straight legs and your feet flat against the wall."
+    },
+    {
+     "art": "The same child sliding the eraser forward along the floor with her fingertips, a parent holding a ruler beside the eraser and the wall.",
+     "caption": "2. Slide the eraser forward slowly. Your grown-up measures the gap to the wall."
+    },
+    {
+     "art": "The child reaching gently towards the toes and holding the stretch, eyes closed, breathing slowly.",
+     "caption": "3. Reach until you feel a gentle pull. Hold for three slow breaths."
+    },
+    {
+     "art": "A results table on paper with two columns, Before and After, and three rows with numbers written in.",
+     "caption": "4. Write each gap in the table."
+    }
+   ],
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 3,
+     "do": "1. Draw the results table together. 2. Ask your child to guess and say why. 3. Show the wall, the eraser and the ruler.",
+     "say": "We will measure how far you can reach. Then you will do some gentle stretches. Will you reach further, the same, or less far? Why do you think so?",
+     "kid": "Guess if you will reach further after the stretches. Say why.",
+     "ask": [
+      {
+       "q": "Will you reach further after the stretches? Why?",
+       "good": [
+        "Yes, because the stretch makes my legs looser.",
+        "The same, because it is only ten minutes.",
+        "I do not know. Let us find out."
+       ]
+      }
+     ],
+     "parent": "Write the guess down without saying if it is right. Every guess is welcome. Some children say a muscle cannot change so fast. That is a good thought."
+    },
+    {
+     "id": "s2",
+     "mins": 4,
+     "do": "1. March on the spot for one minute together. 2. Sit on the mat with straight legs and the soles of the feet flat on the wall. Knees stay straight but not pushed down. 3. Put the eraser on the floor between the hands, level with the hips.",
+     "say": "First we warm up, because warm muscles stretch more easily. Now sit with your feet against the wall. Put the eraser by your hips.",
+     "kid": "March for one minute. Then sit with your feet on the wall.",
+     "parent": "If a smooth floor is not available, put the eraser on a sheet of paper. If the child's legs are not quite straight, that is fine. Keep the same seat for every try."
+    },
+    {
+     "id": "s3",
+     "mins": 5,
+     "do": "1. Ask your child to breathe out and slide the eraser slowly forward along the floor, beside the legs. 2. They stop at a gentle pull. 3. Measure the gap from the eraser to the wall with the ruler. A smaller gap means a longer reach. 4. Write it down. 5. Do this three times, with a few breaths of rest between tries.",
+     "say": "Breathe out, and slide the eraser slowly. Stop at a gentle pull. No bouncing. I will measure how far the eraser is from the wall.",
+     "kid": "Breathe out and slide the eraser slowly. Stop when you feel a gentle pull.",
+     "parent": "Measure from the front of the eraser to the wall, along the floor. If the gap is longer than the ruler, measure twice and add. Say the number aloud and write it down. Do not say 'good' or 'not good'. Every gap is just a number."
+    },
+    {
+     "id": "s4",
+     "mins": 5,
+     "do": "1. Sit with straight legs again. 2. Ask your child to reach gently towards the toes with both hands and stop at a gentle pull. 3. Hold for three slow breaths while you count them aloud. 4. Come back slowly. 5. Do this three times.",
+     "say": "Reach towards your toes until you feel a gentle pull. Stay there for three slow breaths. In... out... one. In... out... two. In... out... three. Come back slowly. Where did you feel the pull?",
+     "kid": "Reach for your toes until you feel a gentle pull. Stay for three slow breaths. Point to where you feel it.",
+     "ask": [
+      {
+       "q": "Where do you feel the pull?",
+       "good": [
+        "At the back of my legs.",
+        "Behind my knees."
+       ]
+      }
+     ],
+     "parent": "If the pull turns into a pinch or a burn, come back a little. A child who only reaches the knees is stretching just as well as one who reaches the toes. Never press the child's back."
+    },
+    {
+     "id": "s5",
+     "mins": 3,
+     "do": "1. Put the eraser back by the hips. 2. Measure three reaches again in the same way as before. 3. Write the gaps in the After column.",
+     "say": "Now the same slow reach as before, three times. I will measure each one.",
+     "kid": "Slide the eraser slowly, like before. Three times.",
+     "parent": "Keep everything the same as in the first reaches. Same floor, same eraser, same slow reach."
+    },
+    {
+     "id": "s6",
+     "mins": 2,
+     "do": "1. Look at the smallest gap before and the smallest gap after. 2. Ask the questions. 3. Then tell your child that this test cannot yet say why a gap changed.",
+     "say": "What do you think? What did you see? Why do you think it changed, or did not change?",
+     "kid": "Say what you thought, what you saw, and why.",
+     "ask": [
+      {
+       "q": "What could have changed in ten minutes: the muscle, or the feeling?",
+       "good": [
+        "The muscle got looser.",
+        "I got used to the pull.",
+        "I was warmer from marching."
+       ]
+      }
+     ],
+     "parent": "Most children gain 1 to 4 centimetres, and some gain nothing. Both are real results. A muscle needs far longer than ten minutes to grow. The change may come from warm muscles, from getting used to the pull, or from practice. Scientists argue about this. To check, on another day, rest for three minutes instead of stretching, and measure again. If the gap changes only after stretching, the stretch did it.",
+     "think": "If you stretched every day for a month, what would you expect to happen? How would you find out?"
+    }
+   ]
+  },
+  {
+   "id": "e2",
+   "title": "How Many Kabaddis on One Breath? A breath test",
+   "mins": 15,
+   "days": 1,
+   "context": "In this experiment you chant 'kabaddi' on one breath and count how many you can say. Then you breathe slowly for one minute and chant again. You will find out if slow breathing changes your count.",
+   "question": "Does a minute of slow breathing change how many 'kabaddis' I can say on one breath?",
+   "predict": "Guess first. After slow breathing, will you say more, the same, or fewer? Say why you think so.",
+   "fair_test": "The chant is the same each time: one steady 'kabaddi' about every second, on a single out-breath, with no new breath. Only the minute of slow breathing changes. We try three times before and three times after, with a rest between tries, because one try can be a fluke. This test cannot tell slow breathing apart from practice, so the numbers may rise, stay the same or fall, and every one of them is a real result.",
+   "results_table": [
+    "Try",
+    "Kabaddis before slow breathing",
+    "Kabaddis after slow breathing"
+   ],
+   "materials": [
+    {
+     "item": "a grown-up with a watch or phone timer",
+     "qty": 1
+    },
+    {
+     "item": "paper and a pencil, for the results table",
+     "qty": 1
+    }
+   ],
+   "safety": "Chant only as long as it is easy. Stop at the first wish to breathe. Never chant until you feel dizzy, and sit down if you feel light-headed. Do only three tries each time. A child with asthma or a cold can chant for fewer kabaddis and does not need to match anyone.",
+   "schedule": [
+    {
+     "day": 1,
+     "mins": 15,
+     "what": "Guess. Chant three times. Breathe slowly for one minute. Chant three times again. Talk about it."
+    }
+   ],
+   "record": "The results table. Circle the biggest number before and after. Ask your child to say what they think, what they saw and why.",
+   "setup": [
+    {
+     "art": "A child standing with one hand out like a kabaddi raider, mouth open mid-chant, a parent beside her tapping fingers once a second.",
+     "caption": "1. Chant one steady 'kabaddi' each second on one out-breath."
+    },
+    {
+     "art": "The child sitting cross-legged with a hand on the tummy, breathing slowly, parent watching a clock.",
+     "caption": "2. Breathe slowly for one minute."
+    },
+    {
+     "art": "A paper with two columns, Before and After, and three rows filled in with small numbers.",
+     "caption": "3. Write each count in the table."
+    }
+   ],
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 3,
+     "do": "1. Explain the game: the raider chants on one out-breath and may not take a new breath. 2. Show it yourself first, with a steady 'kabaddi' about once a second. 3. Ask for a guess.",
+     "say": "In kabaddi, the raider says 'kabaddi' again and again on one breath. She cannot breathe in until she is back home. How many can you say? After a minute of slow breathing, will you say more, the same, or fewer? Why?",
+     "kid": "Listen to the raider's chant. Then guess if slow breathing will help you say more.",
+     "ask": [
+      {
+       "q": "Will slow breathing help you say more? Why?",
+       "good": [
+        "More, because I will be calm.",
+        "The same, because I have the same lungs.",
+        "I do not know. Let us find out."
+       ]
+      }
+     ],
+     "parent": "Write down the guess without saying if it is right."
+    },
+    {
+     "id": "s2",
+     "mins": 4,
+     "do": "1. Ask your child to stand, breathe in comfortably, not as much as possible, and chant on one out-breath. 2. Tap your finger once a second so the speed stays the same. 3. Count each 'kabaddi' and stop the moment a new breath is taken. 4. Rest for 30 seconds. 5. Do it three times in all and write down each count.",
+     "say": "Take a comfortable breath in. Now chant, one 'kabaddi' for each tap. I will count. Stop when you need to breathe.",
+     "kid": "Take a comfortable breath. Chant 'kabaddi' with each tap. Stop when you need to breathe.",
+     "parent": "Most children manage about six to ten. Count only whole chants. Do not cheer a bigger number or sigh at a smaller one."
+    },
+    {
+     "id": "s3",
+     "mins": 2,
+     "do": "1. Ask your child to sit comfortably and put a hand on the tummy. 2. Time one minute. 3. Together, breathe in for a count of three and out for a count of five, again and again.",
+     "say": "Sit and put a hand on your tummy. Breathe in, two, three. Breathe out, two, three, four, five. We will do this for one minute.",
+     "kid": "Sit. Hand on your tummy. Breathe in for three counts and out for five counts. Do it for one minute.",
+     "parent": "If the long out-breath feels too long, use in for two and out for four. Nobody should strain."
+    },
+    {
+     "id": "s4",
+     "mins": 4,
+     "do": "1. Stand again. 2. Do three more chants in the same way as before, with a rest between. 3. Write each count in the After column.",
+     "say": "Now chant again in the same way. Same speed, same tap, one out-breath.",
+     "kid": "Chant 'kabaddi' with each tap, like before. Three times.",
+     "parent": "Keep the tap speed the same. Stop any try that makes your child dizzy."
+    },
+    {
+     "id": "s5",
+     "mins": 2,
+     "do": "1. Look at the biggest number before and after. 2. Ask the questions below.",
+     "say": "What do you think? What did you see? What could have made the numbers change, or stay the same?",
+     "kid": "Say what you thought, what you saw, and why.",
+     "ask": [
+      {
+       "q": "What else, besides slow breathing, could change your count?",
+       "good": [
+        "Getting better at the game with practice.",
+        "Being more tired.",
+        "Saying it faster or slower."
+       ]
+      }
+     ],
+     "parent": "The numbers might go up, stay the same or go down. All three are real. The test cannot tell slow breathing apart from practice and from how fast each chant went. A scientist would ask, what could we test next? One idea is to try on another day with a minute of sitting still instead of slow breathing, and compare.",
+     "think": "Why might a raider breathe slowly before a raid? What would you test to find out?"
+    }
+   ]
+  }
+ ],
+ "activities": [
+  {
+   "id": "a1",
+   "title": "Boat on the Tummy: watch your breath",
+   "mins": 10,
+   "days": 1,
+   "context": "In this activity you lie down with a paper boat on your tummy and watch it sail up and down. You will see your breath working, and find out which part of you moves most.",
+   "materials": [
+    {
+     "item": "a small paper boat, or a light plastic lid, or a rolled-up sock",
+     "qty": 1
+    },
+    {
+     "item": "a mat, blanket or dari to lie on",
+     "qty": 1
+    }
+   ],
+   "schedule": [
+    {
+     "day": 1,
+     "mins": 10,
+     "what": "Lie down. Put the boat on the tummy. Watch it, breathe slowly, breathe fast, and try to move only the chest."
+    }
+   ],
+   "record": "Draw the boat when you breathe in and when you breathe out. Or tell your grown-up what the boat did each time.",
+   "setup": [
+    {
+     "art": "A child lying on the back on a mat with a small paper boat resting on the tummy.",
+     "caption": "1. Lie down and put the boat on your tummy."
+    },
+    {
+     "art": "Two pictures of the same child, one with the boat high on a risen tummy and one with the boat low.",
+     "caption": "2. Breathe in and watch the boat rise. Breathe out and watch it sink."
+    }
+   ],
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 3,
+     "do": "1. Ask your child to lie on their back with knees bent or straight, whichever is comfortable. 2. Place the boat on the tummy, just above the belly button. 3. Say nothing for a few breaths and let your child watch.",
+     "say": "Lie down and put the boat on your tummy. Do nothing special. Just watch what the boat does. What do you see?",
+     "kid": "Lie down. Put the boat on your tummy. Watch it.",
+     "ask": [
+      {
+       "q": "What does the boat do?",
+       "good": [
+        "It goes up and down.",
+        "It rides up when I breathe in."
+       ]
+      }
+     ],
+     "parent": "Loose clothes work best. If the boat tips off, use a flatter lid."
+    },
+    {
+     "id": "s2",
+     "mins": 4,
+     "do": "1. Ask your child to breathe slowly. Then fast, for a few breaths only. Then slowly again. 2. Next, ask them to try to keep the tummy flat and lift only the chest. 3. Ask what is harder.",
+     "say": "Breathe slowly and watch the boat. Now breathe fast for a few breaths. Now slowly again. Now try to breathe in without moving the boat. Is that easy?",
+     "kid": "Breathe slowly. Then fast for a few breaths. Then try to breathe without moving the boat.",
+     "ask": [
+      {
+       "q": "Is it easy to breathe without moving the boat?",
+       "good": [
+        "It is hard.",
+        "My chest went up instead."
+       ]
+      }
+     ],
+     "parent": "Fast breathing only for about five breaths. Stop if your child feels dizzy. Children can often breathe in using the chest alone. It is not wrong, and the boat just stays still."
+    },
+    {
+     "id": "s3",
+     "mins": 3,
+     "do": "1. Sit up. 2. Tell your child that air does not go into the tummy. Air goes into the lungs, which are in the chest. A flat muscle under the lungs, the diaphragm, pulls down and pushes the tummy out. 3. Ask the question.",
+     "say": "Air goes into your lungs, up in your chest. But the boat is on your tummy. Why do you think the tummy moves?",
+     "kid": "Think about why your tummy moves when the air goes into your chest.",
+     "ask": [
+      {
+       "q": "Why does the tummy move?",
+       "good": [
+        "Something pushes it down there.",
+        "Something under the lungs moves."
+       ]
+      }
+     ],
+     "parent": "The diaphragm is a flat muscle shaped like an upturned bowl, below the lungs. It pulls down to bring air in and pushes the tummy out of the way.",
+     "think": "What would the boat do on a sleeping baby's tummy?"
+    }
+   ]
+  },
+  {
+   "id": "a2",
+   "title": "Four Poses Named After Beings",
+   "mins": 15,
+   "days": 1,
+   "context": "In this activity you try four yoga poses named after a tree, a cobra, a cat and a mountain. You hold each for three slow breaths and notice where you feel a gentle pull. You will find out how breath and stretching go together in yoga.",
+   "materials": [
+    {
+     "item": "a mat, folded blanket or dari",
+     "qty": 1
+    },
+    {
+     "item": "a clear wall to stand near",
+     "qty": 1
+    }
+   ],
+   "safety": "Stay in each pose only while it is a gentle pull. For the tree, rest the foot on the calf or ankle, never on the knee. For the cobra, lift only the chest a little and keep the hips down. A sharp pinch or a burn means come out of the pose.",
+   "schedule": [
+    {
+     "day": 1,
+     "mins": 15,
+     "what": "Mountain, tree, cat, cobra, and a rest. Three slow breaths in each."
+    }
+   ],
+   "record": "Draw your favourite pose, and tell your grown-up where you felt the pull.",
+   "setup": [
+    {
+     "art": "A child standing tall like a mountain, and a second child on one leg with hands above the head like a tree.",
+     "caption": "1. Mountain: stand tall. Tree: stand on one leg."
+    },
+    {
+     "art": "A child on hands and knees with a rounded back like a cat, and another lying on the tummy with the chest lifted like a cobra.",
+     "caption": "2. Cat: round your back. Cobra: lift your chest."
+    }
+   ],
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 3,
+     "do": "1. Show the mountain (Tadasana): feet together, arms by the sides, standing tall. 2. Stay for three slow breaths. 3. Ask your child to feel their feet on the floor.",
+     "say": "Stand like a mountain. Feet together, arms down, tall and still. Breathe in slowly, out slowly. Three breaths. Where do you feel the floor?",
+     "kid": "Stand tall like a mountain. Feel your feet on the floor. Breathe slowly three times.",
+     "parent": "It looks like doing nothing. It takes attention. Keep the shoulders soft."
+    },
+    {
+     "id": "s2",
+     "mins": 3,
+     "do": "1. Stand near a wall. 2. Show the tree (Vrikshasana): rest one foot on the other ankle or calf, never the knee. 3. Bring the hands together in front, or up above the head. 4. Hold for three slow breaths, then change legs.",
+     "say": "Now be a tree. Stand on one leg, with the other foot on your ankle. Hands together. Breathe slowly three times. Then the other leg.",
+     "kid": "Stand on one leg like a tree. Rest your hand on the wall if you wobble. Breathe three times. Then change legs.",
+     "ask": [
+      {
+       "q": "Is a tree steady, or does she sway a little?",
+       "good": [
+        "She sways a little.",
+        "She stays still."
+       ]
+      }
+     ],
+     "parent": "Wobbling is normal. A tree sways in the wind and stays rooted. Put a hand on the wall for steadiness.",
+     "adult": false
+    },
+    {
+     "id": "s3",
+     "mins": 3,
+     "do": "1. Show the cat (Marjariasana): on hands and knees, hands under shoulders, knees under hips. 2. Breathe out and round the back up like an angry cat. 3. Breathe in and let the back dip down gently. 4. Do this three times, slowly.",
+     "say": "Go on hands and knees. Breathe out and round your back up like a cat. Breathe in and let it dip down a little. Do it slowly, three times.",
+     "kid": "Go on hands and knees. Round your back like a cat as you breathe out. Do it three times.",
+     "parent": "This is the same shape a cat makes when she arches on a wall. Keep the movement small and slow."
+    },
+    {
+     "id": "s4",
+     "mins": 3,
+     "do": "1. Show the cobra (Bhujangasana): lie on the tummy, hands under the shoulders, elbows close to the body. 2. Breathe in and lift only the head and chest, a little. 3. The hips and legs stay on the mat. 4. Hold for three slow breaths. 5. Come down slowly.",
+     "say": "Lie on your tummy. Hands by your shoulders. Breathe in and lift your head and chest a little, like a cobra rising. Stay for three breaths. Come down slowly. Do you feel a gentle pull in your back?",
+     "kid": "Lie on your tummy. Lift your chest a little like a cobra. Breathe three times. Come down slowly.",
+     "ask": [
+      {
+       "q": "Where do you feel the pull?",
+       "good": [
+        "In my tummy and my back.",
+        "In my chest."
+       ]
+      }
+     ],
+     "parent": "Lift only a little. The hands do not push. If the lower back pinches, lift less."
+    },
+    {
+     "id": "s5",
+     "mins": 3,
+     "do": "1. Ask your child to lie on their back, arms and legs loose (Shavasana, the resting pose). 2. Give one minute of quiet while they breathe. 3. Ask how the body feels now.",
+     "say": "Lie on your back and let your arms and legs go loose. Breathe slowly. Be still for one minute. How does your body feel now?",
+     "kid": "Lie on your back. Let everything go loose. Breathe slowly for one minute.",
+     "ask": [
+      {
+       "q": "How does your body feel after the poses?",
+       "good": [
+        "Quiet.",
+        "Warm.",
+        "A bit tired."
+       ]
+      }
+     ],
+     "parent": "Some children feel calmer. Some do not. Both are true results, and slow breathing does not work the same way for everyone every time.",
+     "think": "Which pose did you like best? What being would you like to be a pose of?"
+    }
+   ]
+  },
+  {
+   "id": "a3",
+   "title": "Watch an Animal Stretch",
+   "mins": 12,
+   "days": 1,
+   "context": "In this activity you watch a dog, cat, crow or hen stretch after resting, and copy the shape. You will find out that animals, including us, stretch without being taught.",
+   "materials": [
+    {
+     "item": "a window, balcony or park where you can watch an animal, or a pet at home",
+     "qty": 1
+    },
+    {
+     "item": "paper and a pencil, to draw",
+     "qty": 1
+    }
+   ],
+   "safety": "Watch street dogs and other animals from a distance. Never touch, feed or approach an animal you do not know.",
+   "schedule": [
+    {
+     "day": 1,
+     "mins": 12,
+     "what": "Find an animal that has been resting. Watch it wake up and stretch. Draw the shape and copy it."
+    }
+   ],
+   "record": "A drawing of the animal's stretch, with arrows showing which parts are pulled long.",
+   "setup": [
+    {
+     "art": "A child at a window watching a dog stretch with front legs forward and chest down in the street below.",
+     "caption": "1. Watch from a distance. Wait for the animal to wake up."
+    },
+    {
+     "art": "The same child on a mat copying the dog's stretch shape with arms forward and hips high.",
+     "caption": "2. Copy the shape with your own body."
+    }
+   ],
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 4,
+     "do": "1. Find a place to watch a resting animal. A dog under a parked auto, a cat on a wall, a hen, a crow, or your own pet. 2. Wait quietly. Animals often stretch just after they wake or stand up. 3. If you cannot find one, look at your own body when you wake up tomorrow and watch yourself stretch.",
+     "say": "Look for an animal that is resting. Watch quietly. When she wakes up, what does she do first?",
+     "kid": "Find a resting animal. Watch her wake up. What does she do first?",
+     "ask": [
+      {
+       "q": "What did the animal do when she woke up?",
+       "good": [
+        "She stretched her legs forward.",
+        "She arched her back.",
+        "She yawned."
+       ]
+      }
+     ],
+     "parent": "This may take a few minutes. Do not wake or disturb the animal. If no animal wakes up, use your own stretch tomorrow morning, or a pet or baby you know.",
+     "adult": false
+    },
+    {
+     "id": "s2",
+     "mins": 4,
+     "do": "1. Ask your child to draw what the animal did, and mark with arrows which parts were pulled long. 2. Then copy the shape on a mat with the body.",
+     "say": "Draw her stretch. Which parts got long? Now try the same shape yourself.",
+     "kid": "Draw the stretch. Then copy it with your body.",
+     "parent": "Dogs often put the front legs forward with the chest low. Cats arch up like a bridge. A hen or a crow may stretch a wing out, one side at a time."
+    },
+    {
+     "id": "s3",
+     "mins": 4,
+     "do": "1. Ask the questions below. 2. Tell your child that animals stretch without being taught, and scientists call this waking stretch pandiculation.",
+     "say": "Did anyone teach her to stretch? How does she know how? Do you think she feels something good?",
+     "kid": "Think about how the animal knows how to stretch.",
+     "ask": [
+      {
+       "q": "Did anyone teach the animal to stretch?",
+       "good": [
+        "No, she knew already.",
+        "She was born knowing how."
+       ]
+      }
+     ],
+     "parent": "Nobody knows exactly what a stretch feels like to an animal. It is fair to say we do not know.",
+     "think": "You stretch without planning to when you wake up. Is it you doing it, or your body?"
+    }
+   ]
+  },
+  {
+   "id": "a4",
+   "title": "Count My Breaths in One Minute",
+   "mins": 10,
+   "days": 1,
+   "context": "In this activity you count how many breaths you take in one minute while sitting still. Then you count a grown-up's breaths. You will find out how many breaths you take, and if everyone breathes at the same speed.",
+   "materials": [
+    {
+     "item": "a watch or phone with a timer",
+     "qty": 1
+    },
+    {
+     "item": "paper and a pencil, to make marks",
+     "qty": 1
+    }
+   ],
+   "schedule": [
+    {
+     "day": 1,
+     "mins": 10,
+     "what": "Sit still. Count your breaths for one minute. Count a grown-up's. Compare."
+    }
+   ],
+   "record": "Your count and the grown-up's count, as tally marks in groups of five.",
+   "setup": [
+    {
+     "art": "A child sitting still with a pencil and paper, making tally marks while a parent holds a phone timer.",
+     "caption": "1. Sit still and make one mark each time your tummy rises."
+    },
+    {
+     "art": "Two papers side by side, one with the child's tally marks and one with the parent's.",
+     "caption": "2. Compare the two counts."
+    }
+   ],
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 5,
+     "do": "1. Ask your child to sit still and relaxed. 2. Time one minute. 3. Your child makes a tally mark each time the tummy rises, or you watch the tummy and count for them. 4. Write the total.",
+     "say": "Sit still. When I say go, make one mark each time your tummy rises. Go. Stop. How many marks?",
+     "kid": "Sit still. Make one mark every time your tummy rises. Stop after one minute.",
+     "ask": [
+      {
+       "q": "How many breaths did you take in a minute?",
+       "good": [
+        "About 20.",
+        "About 18 to 25."
+       ]
+      }
+     ],
+     "parent": "Most six-year-olds count about 20. Counting changes breathing a little, so do not worry about the exact number. If your child finds it hard to count and breathe, watch the tummy and count for them."
+    },
+    {
+     "id": "s2",
+     "mins": 5,
+     "do": "1. Now count your own breaths for one minute while your child counts the marks, or watches the tummy. 2. Compare the two numbers. 3. Ask the question.",
+     "say": "Now I will breathe and you count. Who took more breaths, you or me? Why do you think so?",
+     "kid": "Count a grown-up's breaths for one minute. Who took more?",
+     "ask": [
+      {
+       "q": "Who breathes faster, you or a grown-up? Why?",
+       "good": [
+        "Me, because I am smaller.",
+        "I do not know."
+       ]
+      }
+     ],
+     "parent": "A resting grown-up takes about 12 to 20 breaths a minute. Smaller bodies breathe faster. A new baby takes about 40 a minute, and an elephant at rest about 4 to 12. Counts are different each day, and a number a little over or under is normal.",
+     "think": "Your breath does not stop all night. How many breaths do you take while you sleep?"
+    }
+   ]
+  },
+  {
+   "id": "a5",
+   "title": "Who Is in Charge of My Breath?",
+   "mins": 6,
+   "days": 1,
+   "context": "In this activity you hold your breath for a few seconds and feel your body ask for air. Then you breathe slowly on purpose. You will find out that your breath is something your body does and something you can change.",
+   "materials": [
+    {
+     "item": "a watch or phone with a timer",
+     "qty": 1
+    },
+    {
+     "item": "a chair or a mat to sit on",
+     "qty": 1
+    }
+   ],
+   "safety": "Hold your breath only for a few easy seconds, and breathe again the moment you want to. Never hold until you feel dizzy. Never hold your breath under water.",
+   "schedule": [
+    {
+     "day": 1,
+     "mins": 6,
+     "what": "Hold the breath for a few seconds. Notice what happens. Then breathe slowly on purpose for five counts."
+    }
+   ],
+   "record": "Say what you felt when you held your breath, and what you felt when you slowed it.",
+   "setup": [
+    {
+     "art": "A child sitting still with cheeks slightly puffed and one hand on the tummy, a parent watching a clock.",
+     "caption": "1. Hold your breath for a few easy seconds."
+    },
+    {
+     "art": "The same child breathing out slowly as if cooling hot kanji, with a thin curl of air.",
+     "caption": "2. Breathe out slowly, like cooling hot kanji."
+    }
+   ],
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 3,
+     "do": "1. Ask your child to take a comfortable breath and hold it. 2. Count the seconds aloud, and stop at 10 at most. 3. Tell them to breathe again the moment they want. 4. Do it twice.",
+     "say": "Take a normal breath and hold it. I will count. Breathe again as soon as you want to. What do you feel in your body?",
+     "kid": "Take a breath and hold it. Breathe again when you want to. What do you feel?",
+     "ask": [
+      {
+       "q": "What did your body do?",
+       "good": [
+        "It wanted to breathe again.",
+        "My chest got tight.",
+        "It breathed by itself."
+       ]
+      }
+     ],
+     "parent": "Stop at 10 seconds even if your child wants to continue. Never ask for a longer hold or a contest. The body asks for air, and that is the point."
+    },
+    {
+     "id": "s2",
+     "mins": 3,
+     "do": "1. Ask your child to put a hand on the tummy. 2. Breathe in through the nose for a count of three. 3. Breathe out slowly for a count of five, as if cooling hot kanji. 4. Do five breaths.",
+     "say": "Now you are in charge. Breathe in for three. Breathe out slowly for five, like cooling hot kanji. Five times. Who is breathing now, you or your body?",
+     "kid": "Breathe in for three counts and out for five, like cooling hot kanji. Do it five times.",
+     "ask": [
+      {
+       "q": "Who is breathing, you or your body?",
+       "good": [
+        "Me.",
+        "My body.",
+        "Both of us."
+       ]
+      }
+     ],
+     "parent": "There is no right answer. Many people feel it is both. The breath goes on by itself, and we can step in.",
+     "think": "Can you make your heartbeat stop for a moment, as you can with your breath?"
+    }
+   ]
+  }
+ ],
+ "projects": [
+  {
+   "id": "p1",
+   "title": "My Five-Day Breath and Stretch Book",
+   "days": 5,
+   "mins": 20,
+   "context": "In this project you make a small book and do five slow breaths and one gentle stretch each day for five days. You draw how you feel, and on day five you measure your reach again. You will find out what changes for you, and what does not.",
+   "materials": [
+    {
+     "item": "5 sheets of paper, folded in half and stapled or tied with thread",
+     "qty": 1
+    },
+    {
+     "item": "crayons or colour pencils",
+     "qty": 1
+    },
+    {
+     "item": "a rubber eraser and a 30 centimetre ruler",
+     "qty": 1
+    },
+    {
+     "item": "a clear wall to sit by",
+     "qty": 1
+    }
+   ],
+   "safety": "Stretch only to a gentle pull. A sharp pinch or burn means stop.",
+   "schedule": [
+    {
+     "day": 1,
+     "mins": 6,
+     "what": "Make the book. Do the reach test with the eraser and the ruler and write the gap. Do five slow breaths and one gentle stretch. Draw how you feel."
+    },
+    {
+     "day": 2,
+     "mins": 4,
+     "what": "Five slow breaths and one gentle stretch. Draw how you feel."
+    },
+    {
+     "day": 3,
+     "mins": 4,
+     "what": "Five slow breaths and one gentle stretch. Draw how you feel."
+    },
+    {
+     "day": 4,
+     "mins": 4,
+     "what": "Five slow breaths and one gentle stretch. Draw how you feel."
+    },
+    {
+     "day": 5,
+     "mins": 5,
+     "what": "Five slow breaths and one gentle stretch. Draw how you feel. Do the reach test again and compare with day one."
+    }
+   ],
+   "record": "The finished book: one page a day with a drawing of how you felt, the stretch you chose, and the two gaps from day one and day five.",
+   "setup": [
+    {
+     "art": "Five sheets of paper folded into a small book with 'My Breath and Stretch Book' written on the cover in crayon.",
+     "caption": "1. Make a little book with a page for each day."
+    },
+    {
+     "art": "An open page with a small drawn face, the name of a stretch, and the words 'five slow breaths' with five dots.",
+     "caption": "2. Fill one page each day."
+    }
+   ],
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 6,
+     "do": "1. Fold and tie the book. 2. Do the eraser reach test beside the wall, as in the reach experiment, and write the best gap on page one. 3. Do five slow breaths and one gentle stretch. 4. Your child draws a face to show how they feel.",
+     "say": "We will do five slow breaths and one gentle stretch every day for five days. Today we also measure your reach. Then you draw how you feel.",
+     "kid": "Make your book. Measure your reach. Breathe slowly five times. Do a gentle stretch. Draw how you feel.",
+     "parent": "Let your child choose the stretch each day from the poses they know. The ones that feel good matter most.",
+     "wait": "Do the next page tomorrow"
+    },
+    {
+     "id": "s2",
+     "mins": 4,
+     "do": "1. Five slow breaths. 2. One gentle stretch, held for three slow breaths. 3. Draw how you feel on the day's page.",
+     "say": "Five slow breaths, one gentle stretch, and then you draw how you feel.",
+     "kid": "Breathe slowly five times. Do a gentle stretch. Draw how you feel.",
+     "parent": "If your child skips a day, carry on. There is no need to catch up.",
+     "wait": "Do the next page tomorrow"
+    },
+    {
+     "id": "s3",
+     "mins": 4,
+     "do": "1. Five slow breaths. 2. One gentle stretch. 3. Draw how you feel.",
+     "say": "Same as yesterday. Notice if anything feels different.",
+     "kid": "Breathe slowly five times. Stretch gently. Draw how you feel.",
+     "wait": "Do the next page tomorrow"
+    },
+    {
+     "id": "s4",
+     "mins": 4,
+     "do": "1. Five slow breaths. 2. One gentle stretch. 3. Draw how you feel.",
+     "say": "Is it easier today, or the same?",
+     "kid": "Breathe slowly five times. Stretch gently. Draw how you feel.",
+     "wait": "Do the next page tomorrow"
+    },
+    {
+     "id": "s5",
+     "mins": 5,
+     "do": "1. Five slow breaths and one gentle stretch. 2. Do the reach test again, in the same way as day one, and write the best gap. 3. Compare the two gaps. 4. Show the book to someone and tell them what you found.",
+     "say": "Today we measure your reach again. Is the gap smaller, the same, or bigger than on day one? What do you think made it so?",
+     "kid": "Measure your reach again. Compare with day one. Show your book to someone.",
+     "ask": [
+      {
+       "q": "What changed in five days, if anything?",
+       "good": [
+        "My gap got smaller.",
+        "It is the same.",
+        "I felt calmer on some days."
+       ]
+      }
+     ],
+     "parent": "Whatever the result, it is real. A change after five days may be from the stretching, from being warm, from practice, or from the day. Nobody can tell which. Ask your child what they would test next.",
+     "think": "What would happen if you did this for a whole month?"
+    }
+   ]
+  }
+ ],
+ "challenges": [
+  {
+   "id": "c1",
+   "title": "Build a Model of the Muscle That Pulls Air In",
+   "mins": 25,
+   "context": "This is an engineering challenge. You build a model with a bottle and balloons that shows how the diaphragm pulls air into the lungs. You will find out how a flat muscle under the lungs can make air come in without anyone blowing.",
+   "problem": "Make a model where pulling something at the bottom makes a balloon, the 'lung', fill with air by itself, and letting go makes the air leave.",
+   "constraints": [
+    "No blowing into the balloon.",
+    "The balloon must fill and empty again and again.",
+    "Use only things from the list."
+   ],
+   "materials": [
+    "a clean 1 litre plastic bottle",
+    "2 balloons",
+    "a rubber band",
+    "tape",
+    "scissors, for a grown-up only"
+   ],
+   "general": [
+    "Cut the bottom off the bottle. Push a balloon into the bottle and stretch its neck over the mouth, so it hangs inside. Cover the open bottom with a cut-open second balloon, tied on with a rubber band. Pull the rubber down and the inside balloon fills. Push it up and the balloon empties."
+   ],
+   "creative": [
+    "Use a plastic glove for the bottom, and fill it with a pinch of air to show the 'diaphragm' moving.",
+    "Use a bigger bottle and make two balloon 'lungs' with a straw joined to both.",
+    "Draw the real diaphragm on the bottle and label the parts: lungs, diaphragm, nose."
+   ],
+   "your_turn": "Now change something. Make the model fill up more, or with less pulling. Which change helped most? How does your model differ from a real body?",
+   "safety": "A grown-up cuts the bottle with scissors and covers the cut edge with tape, because a cut plastic edge is sharp. Keep balloons away from children under five and never put a balloon in the mouth.",
+   "setup": [
+    {
+     "art": "A bottle with the bottom cut off, covered with tape on the cut edge, next to two balloons and a rubber band.",
+     "caption": "1. A grown-up cuts the bottle and tapes the edge."
+    },
+    {
+     "art": "A balloon hanging inside the bottle with its neck stretched over the bottle mouth, and a second balloon sheet tied tight over the open bottom.",
+     "caption": "2. Put a balloon inside. Cover the bottom with the second balloon."
+    },
+    {
+     "art": "A hand pulling the knot of the bottom balloon down while the balloon inside the bottle swells up.",
+     "caption": "3. Pull the bottom rubber down. The balloon inside fills with air."
+    }
+   ],
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 6,
+     "do": "1. A grown-up cuts the bottle about one-third of the way up from the bottom, and tapes the cut edge. 2. Cut the neck off the second balloon. 3. Keep the stretchy part of that balloon. It will cover the open bottom. You will pull it down by pinching the middle.",
+     "say": "We will build a model of the muscle that pulls air in. The bottle is the chest. The balloon inside is the lung. The stretchy rubber at the bottom is the diaphragm.",
+     "kid": "Look at the parts. The bottle is the chest. Which part do you think is the lung?",
+     "adult": true,
+     "parent": "A grown-up does all the cutting. Cover the whole cut edge with tape. Keep the neck of the bottle open."
+    },
+    {
+     "id": "s2",
+     "mins": 8,
+     "do": "1. Push the first balloon into the bottle. 2. Stretch its neck over the bottle mouth, so it hangs inside. 3. Stretch the cut balloon over the open bottom and fix it with a rubber band. 4. Test: pull the bottom rubber down and watch the lung.",
+     "say": "Now pull the bottom rubber down slowly. What happens to the balloon inside? Now let go. What happens?",
+     "kid": "Pull the bottom rubber down. Watch the balloon inside. Then let go.",
+     "ask": [
+      {
+       "q": "What happens to the balloon when you pull the bottom down?",
+       "good": [
+        "It gets bigger.",
+        "It fills up by itself."
+       ]
+      }
+     ],
+     "parent": "If the balloon does not fill, air is leaking. Press the rubber band tighter, or add tape round the bottom, then try again. The seal has to be airtight."
+    },
+    {
+     "id": "s3",
+     "mins": 5,
+     "do": "1. Ask your child to try small pulls and big pulls, and to see what changes. 2. Ask what is different from a real body.",
+     "say": "Try a small pull and a big pull. Which fills the balloon more? In a real body, what pulls down?",
+     "kid": "Try a small pull and a big pull. Which fills the lung more?",
+     "ask": [
+      {
+       "q": "What is the 'diaphragm' in your model?",
+       "good": [
+        "The stretchy rubber at the bottom.",
+        "The balloon at the bottom."
+       ]
+      }
+     ],
+     "parent": "Real lungs are not balloons in a bottle, and the real diaphragm is a muscle that curves under the lungs. A model shows an idea, and it is not the real thing."
+    },
+    {
+     "id": "s4",
+     "mins": 6,
+     "do": "1. Let your child try the creative ideas, or invent their own. 2. Ask which design worked best.",
+     "say": "Which change filled your lung the most? What would you change next?",
+     "kid": "Try a change. Did it fill more?",
+     "ask": [
+      {
+       "q": "What did you change, and what happened?",
+       "good": [
+        "I pulled further and it filled more.",
+        "I used a bigger bottle."
+       ]
+      }
+     ],
+     "parent": "There are many good designs. Do not rank them. Ask your child to say why theirs works."
+    }
+   ]
+  },
+  {
+   "id": "c2",
+   "title": "Make a Reach Measurer That Gives the Same Answer Every Time",
+   "mins": 18,
+   "context": "This is a design challenge. You make a tool to measure how far a child can reach along the floor, using things from home. You will find out what makes a measuring tool fair, and that there is more than one good design.",
+   "problem": "Make a tool that measures how far a child reaches along the floor. The same reach must give the same number each time.",
+   "constraints": [
+    "No bought material.",
+    "It must work on a floor next to a wall.",
+    "Measuring twice must give numbers within one centimetre."
+   ],
+   "materials": [
+    "a ruler or a strip of paper",
+    "a pencil and crayons",
+    "tape, or glue made with a little flour and water",
+    "an eraser, a block or a small bean bag"
+   ],
+   "general": [
+    "An eraser slid along the floor, and a ruler laid from the wall, so the gap can be read.",
+    "A paper strip with marks every centimetre, taped to the floor."
+   ],
+   "creative": [
+    "A colour-coded strip: green, yellow and orange zones, so a young child can read the zone instead of a number.",
+    "A sliding block in a groove made from two rulers, so it stays in a straight line.",
+    "A strip that a friend can read from the side, without bending over."
+   ],
+   "your_turn": "Make your own measurer. Test it with two people on the same day and again on another day. Does it give a number you can trust?",
+   "setup": [
+    {
+     "art": "A paper strip marked with centimetres taped to the floor beside the wall, with an eraser at the start.",
+     "caption": "1. Tape a paper strip to the floor beside the wall."
+    },
+    {
+     "art": "A child sliding the eraser along the strip and a friend reading the number from the side.",
+     "caption": "2. Slide the eraser and read the number."
+    }
+   ],
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 5,
+     "do": "1. Ask your child to think of a way to measure the reach. 2. Share the first solution if they get stuck. 3. Mark a paper strip in centimetres with a ruler.",
+     "say": "How can we measure your reach so it gives the same number every time? What do we need to keep the same?",
+     "kid": "Think of a way to measure your reach. What must stay the same each time?",
+     "ask": [
+      {
+       "q": "What must stay the same for a fair measure?",
+       "good": [
+        "The wall.",
+        "The start line.",
+        "The floor."
+       ]
+      }
+     ],
+     "parent": "A fair tool has the same start and the same slow reach each time. A tool that moves when you touch it is not fair."
+    },
+    {
+     "id": "s2",
+     "mins": 8,
+     "do": "1. Build the strip and test it. 2. Measure the same child three times. 3. Do the numbers match? If not, what moved?",
+     "say": "Test your measurer three times with the same reach. Are the numbers close? What could make them different?",
+     "kid": "Test your measurer three times. Are the numbers close?",
+     "parent": "Numbers within one centimetre are close enough. If the strip slides, add tape. If the start is not clear, mark it with a crayon."
+    },
+    {
+     "id": "s3",
+     "mins": 5,
+     "do": "1. Let your child try the creative ideas, or their own. 2. Ask which design worked best, and why.",
+     "say": "Which design is easiest to read? Which is the fairest? Is there one best design?",
+     "kid": "Which design would you use? Why?",
+     "ask": [
+      {
+       "q": "Which design is best?",
+       "good": [
+        "It depends on who is using it.",
+        "The one that gives the same number each time."
+       ]
+      }
+     ],
+     "parent": "There is more than one good answer. A young child may like colours more than numbers. A scientist may like numbers more."
+    }
+   ]
+  }
+ ],
+ "worksheets": [
+  {
+   "id": "ws-core",
+   "title": "Breath and Stretch (core)",
+   "tier": "core",
+   "mins": 15,
+   "items": [
+    {
+     "t": "mcq",
+     "p": "You hold your breath. After a few seconds, what does your body do?",
+     "opts": [
+      "It stops breathing for good",
+      "It makes you breathe again",
+      "It falls asleep"
+     ],
+     "a": 1,
+     "why": "Your body asks for air and takes over again. Breathing goes on by itself, and you can only step in for a short time."
+    },
+    {
+     "t": "truefalse",
+     "p": "You can tell your heart to stop for a moment, just like your breath.",
+     "a": false,
+     "why": "False. You can change your breath on purpose for a short time. You cannot tell your heart to stop, so breath works both ways and the heart does not."
+    },
+    {
+     "t": "sort",
+     "p": "Is it a gentle pull or a pain? Put each feeling in a box.",
+     "a": "Gentle pull: a slow pull at the back of my legs, a warm stretchy feeling in my side. Pain: a sharp pinch in my knee, a burning feeling in my back.",
+     "why": "A gentle pull is mild and you can breathe through it. A sharp pinch or a burn is pain. Pain means ease off.",
+     "cats": [
+      "Gentle pull",
+      "Pain, so stop"
+     ],
+     "items": [
+      [
+       "a slow pull at the back of my legs",
+       "Gentle pull"
+      ],
+      [
+       "a sharp pinch in my knee",
+       "Pain, so stop"
+      ],
+      [
+       "a warm stretchy feeling in my side",
+       "Gentle pull"
+      ],
+      [
+       "a burning feeling in my back",
+       "Pain, so stop"
+      ]
+     ]
+    },
+    {
+     "t": "match",
+     "p": "Draw a line from each being to its pose.",
+     "a": "pairs as given",
+     "why": "Yoga poses are named after beings and places. The tree is Vrikshasana, the cobra is Bhujangasana, the cat is Marjariasana and the mountain is Tadasana.",
+     "pairs": [
+      [
+       "Tree",
+       "Vrikshasana"
+      ],
+      [
+       "Cobra",
+       "Bhujangasana"
+      ],
+      [
+       "Cat",
+       "Marjariasana"
+      ],
+      [
+       "Mountain",
+       "Tadasana"
+      ]
+     ]
+    },
+    {
+     "t": "fill",
+     "p": "Fill the gap: When a stretch gives a sharp pain, you ____.",
+     "a": "stop",
+     "why": "A sharp pain is a message from the body. Ease off until it is only a gentle pull."
+    },
+    {
+     "t": "order",
+     "p": "Put the steps of one stretch in order.",
+     "a": [
+      "Reach slowly until you feel a gentle pull",
+      "Stay for three slow breaths",
+      "Come back slowly"
+     ],
+     "why": "You reach slowly first, so the pull stays gentle. Then you stay and breathe. Then you come back slowly, because a fast change can hurt.",
+     "items": [
+      "Reach slowly until you feel a gentle pull",
+      "Stay for three slow breaths",
+      "Come back slowly"
+     ]
+    },
+    {
+     "t": "write",
+     "p": "Put a hand on your tummy and breathe slowly. Say what moves, and what you think moves it.",
+     "a": "My tummy goes up when I breathe in and down when I breathe out. Something under my lungs pushes it.",
+     "why": "A good answer says the tummy rises with an in-breath. A strong answer says that a flat muscle under the lungs, the diaphragm, pulls down.",
+     "lines": 2
+    },
+    {
+     "t": "draw",
+     "p": "Draw yourself breathing in. Show with arrows where the air goes.",
+     "a": "A child with arrows going in at the nose and down into two lung shapes in the chest.",
+     "why": "A strong drawing shows the air going into the lungs in the chest, and not into the tummy.",
+     "art": "Two empty boxes labelled 'Breathing in' and 'Breathing out'."
+    },
+    {
+     "t": "mcq",
+     "p": "Which of these stretch when they wake up?",
+     "opts": [
+      "Only cats",
+      "Dogs, cats, birds and people",
+      "Only people"
+     ],
+     "a": 1,
+     "why": "Many animals with backbones stretch after resting, and nobody taught them. People do too."
+    },
+    {
+     "t": "perspective",
+     "p": "Two friends talk about breathing.",
+     "a": "No single right answer. Breathing is both.",
+     "why": "Both friends are partly right. Your body breathes by itself, and you can also change it. Where the one stops and the other starts is hard to say.",
+     "views": [
+      {
+       "who": "Divya, in Class 1",
+       "says": "My body does the breathing, and I just watch it."
+      },
+      {
+       "who": "Arun, in Class 1",
+       "says": "I am the one breathing, even when I sleep."
+      }
+     ],
+     "ask": "Who do you agree with? What could you try to find out?"
+    },
+    {
+     "t": "mcq",
+     "p": "Which is a good warm-up before a stretch?",
+     "opts": [
+      "Sitting still for a long time",
+      "Walking about for a few minutes",
+      "Holding your breath"
+     ],
+     "a": 1,
+     "why": "Warm muscles stretch more easily than cold ones. Walking about warms them."
+    }
+   ]
+  },
+  {
+   "id": "ws-stretch",
+   "title": "Breath, Heart and Muscles (stretch)",
+   "tier": "stretch",
+   "mins": 15,
+   "items": [
+    {
+     "t": "mcq",
+     "p": "What does your nose do to the air before it reaches your lungs?",
+     "opts": [
+      "It warms, wets and cleans it",
+      "It makes it colder",
+      "It turns it into water"
+     ],
+     "a": 0,
+     "why": "The inside of your nose is wet and warm, with hairs and mucus that catch dust."
+    },
+    {
+     "t": "truefalse",
+     "p": "Bouncing in a stretch helps you reach further.",
+     "a": false,
+     "why": "False. Bouncing makes the muscle sensors pull the muscle tight again, so you reach less."
+    },
+    {
+     "t": "count",
+     "p": "You take about 20 breaths each minute. How many breaths in 5 minutes?",
+     "a": "100",
+     "why": "20 + 20 + 20 + 20 + 20 = 100. Five minutes of the same 20 gives 100 breaths."
+    },
+    {
+     "t": "fill",
+     "p": "A hiccup is when the ____ pulls down by itself.",
+     "a": "diaphragm",
+     "why": "The diaphragm is the flat muscle under the lungs. A hiccup is it pulling down suddenly, when you did not ask."
+    },
+    {
+     "t": "sort",
+     "p": "Which ideas do scientists agree on, and which are still being worked out?",
+     "a": "Agree: slow out-breaths slow the heartbeat, and muscles pull on bones. Still being worked out: why we yawn, and why slow breathing leaves people calmer.",
+     "why": "Scientists agree on what happens in the body. They do not agree on why we yawn or why slow breathing often calms people.",
+     "cats": [
+      "Scientists agree",
+      "Still being worked out"
+     ],
+     "items": [
+      [
+       "The heartbeat slows a little on the out-breath",
+       "Scientists agree"
+      ],
+      [
+       "Why we yawn",
+       "Still being worked out"
+      ],
+      [
+       "Why slow breathing leaves people calmer",
+       "Still being worked out"
+      ],
+      [
+       "Muscles pull on bones to move us",
+       "Scientists agree"
+      ]
+     ]
+    },
+    {
+     "t": "write",
+     "p": "Your friend says, 'Only people stretch.' What do you say back? Use an animal you know.",
+     "a": "Dogs, cats, hens, crows and many other animals stretch when they wake up, and nobody teaches them.",
+     "why": "A good answer names a real animal and what she does. A strong answer says the animal was not taught.",
+     "lines": 2
+    },
+    {
+     "t": "label",
+     "p": "Mark L on the lungs and D on the flat muscle below them.",
+     "a": "L on the two soft bags, D on the flat curved muscle under the lungs.",
+     "why": "The lungs fill with air. The diaphragm lies under them and pulls down.",
+     "art": "A simple side drawing of a child's chest with ribs, two rounded lungs and a flat curved muscle under them."
+    },
+    {
+     "t": "mcq",
+     "p": "You measure your reach, stretch, then measure again and reach further. What else could explain it?",
+     "opts": [
+      "Only the stretch",
+      "Warming up and practice too",
+      "The ruler changed"
+     ],
+     "a": 1,
+     "why": "In a short test the stretch, the warm-up and practice happen together. We cannot tell which one made the change."
+    },
+    {
+     "t": "perspective",
+     "p": "Two scientists look at why daily stretching lets people reach further.",
+     "a": "Both ideas have some evidence.",
+     "why": "Some studies find longer muscle fibres after years of training. Others find the muscle as stiff as before, and the person only feels the pull less. Scientists have not settled it.",
+     "views": [
+      {
+       "who": "A scientist who studies muscle length",
+       "says": "The muscle becomes longer after long training."
+      },
+      {
+       "who": "A scientist who studies the feeling of stretch",
+       "says": "The person gets used to the pull, so they go further."
+      }
+     ],
+     "ask": "What test could tell the two ideas apart?"
+    },
+    {
+     "t": "order",
+     "p": "Put these in order from the most breaths a minute at rest to the fewest.",
+     "a": [
+      "Mouse",
+      "You",
+      "Elephant"
+     ],
+     "why": "Smaller bodies breathe faster. A mouse takes more than 100 a minute, you about 20, and an elephant at rest about 4 to 12.",
+     "items": [
+      "Mouse",
+      "You",
+      "Elephant"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "ws-challenge",
+   "title": "Think Like a Scientist of Breath (challenge)",
+   "tier": "challenge",
+   "mins": 20,
+   "items": [
+    {
+     "t": "mcq",
+     "p": "Which is a fair way to compare your reach before and after a stretch?",
+     "opts": [
+      "Use a different floor each time",
+      "Same floor, same slow reach, three tries",
+      "Try once and trust it"
+     ],
+     "a": 1,
+     "why": "A fair test changes one thing and keeps the rest the same. Three tries guard against one lucky or unlucky reach."
+    },
+    {
+     "t": "truefalse",
+     "p": "A whale that dives for three hours has gills.",
+     "a": false,
+     "why": "False. A Cuvier's beaked whale has lungs like yours. She has learned to make one breath last for hours."
+    },
+    {
+     "t": "count",
+     "p": "A child takes 20 breaths a minute. About how many breaths in one hour?",
+     "a": "1,200",
+     "why": "There are 60 minutes in an hour. 20 × 60 = 1,200 breaths."
+    },
+    {
+     "t": "mcq",
+     "p": "A tulsi plant is next to you. What does she do with the air you breathe out?",
+     "opts": [
+      "She uses the oxygen in it",
+      "She uses the carbon dioxide in it",
+      "She does nothing with it"
+     ],
+     "a": 1,
+     "why": "Plants take in carbon dioxide and use it, with sunlight and water, to build their bodies."
+    },
+    {
+     "t": "sort",
+     "p": "Match each being to the way she gets air.",
+     "a": "Lungs: dolphin, cow. Gills: fish. Damp skin: earthworm. Tiny air tubes: ant.",
+     "why": "Every animal needs to swap gases with the air or water. Bodies do it in different ways.",
+     "cats": [
+      "Lungs",
+      "Gills",
+      "Damp skin",
+      "Tiny air tubes"
+     ],
+     "items": [
+      [
+       "A dolphin",
+       "Lungs"
+      ],
+      [
+       "A fish",
+       "Gills"
+      ],
+      [
+       "An earthworm",
+       "Damp skin"
+      ],
+      [
+       "An ant",
+       "Tiny air tubes"
+      ],
+      [
+       "A cow",
+       "Lungs"
+      ]
+     ]
+    },
+    {
+     "t": "write",
+     "p": "Why does a stretch feel easier after playing than just after waking up?",
+     "a": "Playing warms the muscles. Warm muscles stretch more easily than cold ones.",
+     "why": "A strong answer says that muscles are warmer after playing, and that warm muscles stretch more easily.",
+     "lines": 2
+    },
+    {
+     "t": "draw",
+     "p": "Draw a street dog's waking stretch. Next to it, draw the yoga pose named after a dog.",
+     "a": "A dog with front legs forward and chest low, and a person with hands and feet down and hips high.",
+     "why": "The yoga pose called the dog facing down copies a dog's stretch. Both have the back sloping long.",
+     "art": "Two empty boxes, one labelled 'A dog stretching' and one labelled 'The dog pose'."
+    },
+    {
+     "t": "write",
+     "p": "Five slow breaths make you feel calmer. How could you test if the slow breaths did it?",
+     "a": "Rate how calm I feel, do slow breaths, rate again. On another day sit still for the same time without slow breaths, and compare.",
+     "why": "A fair test compares slow breaths with a quiet rest for the same time. It might be the rest that helps, and not the breaths.",
+     "lines": 3
+    },
+    {
+     "t": "perspective",
+     "p": "What does a raider need most in kabaddi?",
+     "a": "No single right answer. All three matter.",
+     "why": "A raider uses speed to get across, strength to twist away, and breath to keep chanting. Which matters most depends on the game. Players and coaches disagree.",
+     "views": [
+      {
+       "who": "Meena, a raider",
+       "says": "Speed. I must get in and out before they grab me."
+      },
+      {
+       "who": "Tara, a coach",
+       "says": "Breath. Without it, speed ends in the first few steps."
+      },
+      {
+       "who": "Ravi, a defender",
+       "says": "Strength. A strong hold stops any raider."
+      }
+     ],
+     "ask": "Which would you pick? What would you change in the game to test your idea?"
+    },
+    {
+     "t": "mcq",
+     "p": "Meena stretches every day for a month and reaches 4 centimetres further. Which reply is best?",
+     "opts": [
+      "Her muscles must be longer. That is proven.",
+      "Maybe longer muscles, maybe a braver stretch",
+      "Stretching never changes anything."
+     ],
+     "a": 1,
+     "why": "Scientists have measured both. The muscle may become longer, or the feeling of the stretch may change. Nobody has settled it."
+    },
+    {
+     "t": "mcq",
+     "p": "Which sentence about a yawn is true?",
+     "opts": [
+      "A yawn brings in extra oxygen",
+      "Scientists agree on why we yawn",
+      "Nobody is sure why we yawn"
+     ],
+     "a": 2,
+     "why": "In 1987 Robert Provine gave people extra oxygen, and they yawned as often as before. So that idea failed, and no other idea is agreed."
+    }
+   ]
+  }
+ ],
+ "quiz": [
+  {
+   "t": "mcq",
+   "p": "A paper boat lies on your tummy. You breathe in. What does the boat do?",
+   "opts": [
+    "It rises",
+    "It sinks",
+    "It stays still"
+   ],
+   "a": 0,
+   "why": "Your diaphragm pulls down and pushes your tummy out, so the boat rises. A child who says 'sinks' is thinking the tummy goes flat as air comes in.",
+   "outcome": 0
+  },
+  {
+   "t": "truefalse",
+   "p": "When your tummy rises as you breathe in, the air goes into your tummy.",
+   "a": false,
+   "why": "False. The air goes into your lungs in your chest. The tummy rises because the diaphragm pushes it out of the way.",
+   "outcome": 0
+  },
+  {
+   "t": "mcq",
+   "p": "You are asleep. Who makes you breathe?",
+   "opts": [
+    "Only you, by choosing each breath",
+    "Nobody, so breathing stops until you wake",
+    "A small part of your brain, without you choosing"
+   ],
+   "a": 2,
+   "why": "A small part of the brain sends the signal for every breath, asleep or awake. You can also step in and change your breath when you are awake.",
+   "outcome": 1
+  },
+  {
+   "t": "mcq",
+   "p": "Which one can your body do by itself and you can also do on purpose?",
+   "opts": [
+    "Your heart beating",
+    "Breathing",
+    "Digesting dinner"
+   ],
+   "a": 1,
+   "why": "You can slow, speed or hold your breath for a short time, and your body also does it for you. You cannot tell your heart to stop.",
+   "outcome": 1
+  },
+  {
+   "t": "mcq",
+   "p": "You feel cross. You breathe out slowly five times. What is most likely?",
+   "opts": [
+    "You feel a bit calmer, though not everyone does",
+    "You will always feel completely calm",
+    "Nothing at all happens inside you"
+   ],
+   "a": 0,
+   "why": "Many people feel calmer after slow breathing, and the heartbeat slows a little. It does not work for everyone every time. Scientists still argue about why.",
+   "outcome": 2
+  },
+  {
+   "t": "mcq",
+   "p": "During a slow out-breath, what does your heartbeat do?",
+   "opts": [
+    "Speeds up a lot",
+    "Stays exactly the same",
+    "Slows down a little"
+   ],
+   "a": 2,
+   "why": "In a healthy body the heartbeat speeds up a little on the in-breath and slows a little on the out-breath.",
+   "outcome": 2
+  },
+  {
+   "t": "mcq",
+   "p": "You sit and reach for your toes with straight legs. Where is the gentle pull?",
+   "opts": [
+    "In your arms",
+    "At the back of your legs",
+    "In your ears"
+   ],
+   "a": 1,
+   "why": "The muscles along the back of your legs are pulled long. That is where the stretch feels like a gentle pull.",
+   "outcome": 3
+  },
+  {
+   "t": "mcq",
+   "p": "Kiran stretches just after waking. Rani stretches after playing. Who reaches further?",
+   "opts": [
+    "Kiran",
+    "Rani, because her muscles are warm",
+    "Both the same, always"
+   ],
+   "a": 1,
+   "why": "Warm muscles stretch more easily than cold ones. After waking, muscles are cooler and often stiffer.",
+   "outcome": 3
+  },
+  {
+   "t": "mcq",
+   "p": "You feel a sharp pinch in a stretch. What do you do?",
+   "opts": [
+    "Push harder",
+    "Hold on and count to twenty",
+    "Come back a little"
+   ],
+   "a": 2,
+   "why": "A sharp pinch is pain, and pain means ease off. Come back until it is only a gentle pull.",
+   "outcome": 4
+  },
+  {
+   "t": "mcq",
+   "p": "Priya reaches her toes. Dev reaches his knees. Who is stretching well?",
+   "opts": [
+    "Only Priya",
+    "Both of them",
+    "Only Dev"
+   ],
+   "a": 1,
+   "why": "Each body is different. A gentle pull that stays gentle is a good stretch, however far it reaches.",
+   "outcome": 4
+  },
+  {
+   "t": "mcq",
+   "p": "A kabaddi raider chants on one breath. What does the chant show?",
+   "opts": [
+    "That she is very strong",
+    "That she is tired",
+    "That she has not taken a new breath"
+   ],
+   "a": 2,
+   "why": "If she stops chanting, it means she has taken a breath, and the raid is over.",
+   "outcome": 5
+  },
+  {
+   "t": "mcq",
+   "p": "You lie on your tummy and lift your chest a little. Which pose are you?",
+   "opts": [
+    "Cobra",
+    "Tree",
+    "Cat"
+   ],
+   "a": 0,
+   "why": "The cobra pose is Bhujangasana, and many poses are named after beings.",
+   "outcome": 5
+  },
+  {
+   "t": "mcq",
+   "p": "Why does your body need rest as well as moving?",
+   "opts": [
+    "Moving is bad for you",
+    "Rest does nothing",
+    "Rest is when muscles mend"
+   ],
+   "a": 2,
+   "why": "Moving asks your muscles and bones to work and grow stronger. Rest is when the small wear is mended, while the heart and lungs go on working.",
+   "outcome": 6
+  },
+  {
+   "t": "mcq",
+   "p": "A friend says rest means doing nothing. What is a good reply?",
+   "opts": [
+    "Yes, the body stops",
+    "Your heart and lungs keep working while muscles mend",
+    "You must stay awake"
+   ],
+   "a": 1,
+   "why": "Even at rest the heart beats and the lungs fill. The body is busy mending.",
+   "outcome": 6
+  }
+ ],
+ "applications": [
+  "A Carnatic singer plans every breath, and breathes out slowly to hold one long note. Listen to a singer on the radio and notice where she breathes in.",
+  "Players of the bansuri flute and the nadaswaram plan their breath for long phrases. Some nadaswaram players keep sound going for minutes by breathing in through the nose while they push air out from the cheeks.",
+  "Clam divers on Vembanad lake in Kerala sit quietly and breathe slowly before a dive, because a quiet body uses its air more slowly.",
+  "A PE teacher begins with marching and gentle stretches before a game, because warm muscles stretch more easily.",
+  "Many families in India do Surya Namaskar in the morning, twelve shapes joined by the breath.",
+  "A grown-up who sighs after a hard day is giving the heart a slow out-breath, without planning it.",
+  "A kabaddi coach trains the raiders to breathe in a steady way, so their chant on one breath lasts through the raid."
+ ],
+ "spotted": [
+  {
+   "text": "A street dog stretching with her front legs forward and her chest low, after a nap under a parked auto-rickshaw.",
+   "art": "A brown street dog stretching in the shade under a parked auto-rickshaw."
+  },
+  {
+   "text": "A sleeping baby's tummy going up and down much faster than yours.",
+   "art": "A baby asleep on a cot with the tummy rising, a small paper boat beside."
+  },
+  {
+   "text": "A neighbour doing yoga on a mat in the park at dawn, holding each pose for a few breaths.",
+   "art": "An older woman holding a tree pose on a mat in a park at sunrise."
+  },
+  {
+   "text": "Children playing kabaddi or kho-kho in the evening, and a raider chanting on one breath.",
+   "art": "Children playing kabaddi on a sandy ground at dusk."
+  },
+  {
+   "text": "A cat arching her back on the compound wall like a bridge.",
+   "art": "A cat arching her back on a painted wall in the sun."
+  },
+  {
+   "text": "People stretching their arms up after getting down from a long bus ride.",
+   "art": "A woman standing by a bus with both arms stretched up high."
+  },
+  {
+   "text": "A crow on a window grille opening one wing wide, then the other.",
+   "art": "A black crow on an electric wire stretching one wing."
+  }
+ ],
+ "ask_kids": [
+  "Hold your hand under your nose. Can you feel your breath? Is it warm or cool?",
+  "Which hand moves more when you breathe, the one on your chest or the one on your tummy?",
+  "When did you last stretch without planning to?",
+  "What does your body do by itself, and what do you choose?",
+  "Which animal have you seen stretch? What did she do?",
+  "What does a gentle pull feel like? How is it different from pain?",
+  "How many kabaddis do you think a raider can say on one breath?"
+ ],
+ "jokes": [
+  {
+   "j": "What did the lungs say to the party?",
+   "a": "We heard it was a breath of fresh air!"
+  },
+  {
+   "j": "How does a hiccup start a race?",
+   "a": "Ready, steady... HIC!"
+  },
+  {
+   "j": "Why is a yawn like a cold?",
+   "a": "You catch it from someone else."
+  },
+  {
+   "j": "What did the tree pose say to the wind?",
+   "a": "I am not falling for it!"
+  },
+  {
+   "j": "Why is the mountain pose never late?",
+   "a": "It never goes anywhere."
+  },
+  {
+   "j": "What is a dog's favourite yoga pose?",
+   "a": "The dog facing down. It is the only pose named after her."
+  },
+  {
+   "j": "Why did the kabaddi player stop telling her story?",
+   "a": "She ran out of breath."
+  },
+  {
+   "j": "How can you tell a snail does yoga?",
+   "a": "She takes all day to get into the pose."
+  },
+  {
+   "j": "What did the paper boat say to the tummy?",
+   "a": "Thanks for the ride!"
+  }
+ ],
+ "maths": [
+  {
+   "problem": "You take about 20 breaths in a minute. Count in twenties to find how many breaths you take in 5 minutes.",
+   "answer": "100 breaths.",
+   "explain": "20, 40, 60, 80, 100. Each minute adds another 20, and 5 minutes is 5 steps.",
+   "math_unit": "math.patterns.number-patterns.L1",
+   "context": "This is about how your breaths add up minute by minute.",
+   "why_maths": "Your breath keeps the same speed, so the total grows by the same amount each minute. Counting in twenties is how a pattern like that is built."
+  },
+  {
+   "problem": "A mouse takes 100 breaths in a minute. You take 20. How many of your minutes of breathing fit in one mouse minute?",
+   "answer": "5 of your minutes. 20, 40, 60, 80, 100: 5 steps of 20 make 100.",
+   "explain": "100 divided into steps of 20 gives 5 steps. The mouse breathes 5 times as fast as you.",
+   "math_unit": "math.patterns.number-patterns.L1",
+   "context": "This compares how fast two different bodies breathe.",
+   "why_maths": "Counting how many times one number fits into another tells us how many times as fast. It shows that small bodies breathe faster."
+  },
+  {
+   "problem": "A new baby takes 40 breaths a minute. You take 20. How is your count related to the baby's?",
+   "answer": "You take half as many breaths as the baby. 20 is half of 40.",
+   "explain": "Halve 40 to get 20. The baby breathes twice as fast as you, and you breathe half as fast as the baby.",
+   "math_unit": "math.fractions.halves-and-quarters.L1",
+   "context": "This compares a baby's breath with a child's.",
+   "why_maths": "Halves and doubles show how one number relates to another when two things happen at different speeds."
+  },
+  {
+   "problem": "A slow breath is 2 counts in and 4 counts out. After 3 slow breaths, how many counts of out-breath have you done? How many counts of in-breath?",
+   "answer": "12 counts out and 6 counts in.",
+   "explain": "Out-breath: 4, 8, 12. In-breath: 2, 4, 6. The out-breath is twice as long as the in-breath each time.",
+   "math_unit": "math.patterns.number-patterns.L1",
+   "context": "This is about the pattern of a slow breath.",
+   "why_maths": "A repeating pattern of in and out is built from the same pair of numbers, again and again. The out-breath is double the in-breath, and the doubles stay the same."
+  },
+  {
+   "problem": "Three kabaddi tries give 6, 8 and 7 kabaddis. Which try was biggest? How many more is it than the smallest?",
+   "answer": "The second try, with 8. It is 2 more than 6.",
+   "explain": "8 is bigger than 7 and 6. 8 take away 6 is 2.",
+   "math_unit": "math.data.sorting-and-tallies.L1",
+   "context": "This is about the numbers from a breath test.",
+   "why_maths": "Putting numbers in order and finding the gap between the biggest and the smallest shows how much a result can change between tries."
+  },
+  {
+   "problem": "Ria counts her breaths for one minute on three days and gets 19, 21 and 20. Her friend says the 19 and 21 are wrong. Is the friend right? Why or why not?",
+   "answer": "No. The counts are close to each other, around 20. A little change from day to day is normal.",
+   "explain": "19 is 1 less than 20 and 21 is 1 more. A small change each day is normal, because breathing is never exactly the same and counting changes it a little.",
+   "math_unit": "math.number-sense.comparing-ordering.L1",
+   "context": "This is about numbers that change a little each time.",
+   "why_maths": "Real counts change a little each time. Seeing that 19, 20 and 21 are close helps us tell the same from a real change."
+  }
+ ],
+ "song": {
+  "topic_level": "sci.health.L1",
+  "title": "Breathe In, Stretch Out",
+  "note": "Topic-level song for Health L1"
+ },
+ "links": [
+  {
+   "title": "KidsHealth for Kids",
+   "url": "https://kidshealth.org/en/kids/",
+   "kind": "interactive",
+   "why": "For the parent and child together: simple pictures and articles about the lungs, the heart and how the body works."
+  },
+  {
+   "title": "WHO guidelines on physical activity and sedentary behaviour",
+   "url": "https://www.who.int/publications/i/item/9789240015128",
+   "kind": "reading",
+   "why": "For the parent: how much moving and resting the World Health Organization advises for children."
+  },
+  {
+   "title": "Kaivalyadhama Yoga Institute",
+   "url": "",
+   "kind": "place",
+   "where": "Lonavala, Maharashtra",
+   "why": "One of the oldest yoga research centres in India, set up in 1924. Parents can read about the history of yoga and see how poses are taught."
+  },
+  {
+   "title": "Krishnamacharya Yoga Mandiram",
+   "url": "",
+   "kind": "place",
+   "where": "Chennai, Tamil Nadu",
+   "why": "A yoga school in the line of T. Krishnamacharya, who taught in Mysuru in the 1930s. Families in Chennai can look for classes for children."
+  }
+ ],
+ "videos": [
+  {
+   "title": "How the lungs and the diaphragm make you breathe",
+   "channel": "",
+   "youtube": "59knV9PJ3Rs",
+   "mins": 4,
+   "why": "Shows the lungs filling and the diaphragm pulling down, so a child can see what happens under the tummy.",
+   "check": "Found by YouTube search: \"Basic Breathing Mechanics\" by Dr Matt & Dr Mike. Title checked automatically; a parent may still preview it."
+  },
+  {
+   "title": "Animals stretching when they wake up",
+   "channel": "",
+   "youtube": "ueR6p09trso",
+   "mins": 3,
+   "why": "Shows dogs, cats and other animals stretching after sleep, and how people copy the shapes.",
+   "check": "Found by YouTube search: \"Top 10 Big Stretches\" by WeRateDogs. Title checked automatically; a parent may still preview it."
+  },
+  {
+   "title": "Kabaddi: how the raider chants on one breath",
+   "channel": "",
+   "youtube": "P6fGE_lYVMk",
+   "mins": 5,
+   "why": "Shows kabaddi being played, with the raider's chant on one breath.",
+   "check": "Found by YouTube search: \"THE FAMOUS \"KABADDI\" CHANT || VIVO PRO KABADDI SEASON 8 || PATNA PIRATES VS UP YODDHA\" by Patna Pirates. Title checked automatically; a parent may still preview it."
+  }
+ ],
+ "buy": [
+  {
+   "id": "b-printing",
+   "item": "Printed pages for the two games and the worksheets",
+   "kind": "material",
+   "why": "The game cards and worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine.",
+   "url": "",
+   "used_in": [
+    "g1",
+    "g2",
+    "ws-core",
+    "ws-stretch",
+    "ws-challenge"
+   ],
+   "plan": "Print the card game and the core worksheet before the first session. Or copy the cards by hand on small pieces of paper."
+  },
+  {
+   "id": "b-ruler",
+   "item": "A 30 centimetre ruler",
+   "kind": "material",
+   "why": "For measuring the reach gap. About ₹10 to ₹30 at any stationery shop. If you have none, mark a paper strip in centimetres with a tape measure from a tailor, or a borrowed ruler.",
+   "url": "",
+   "used_in": [
+    "e1",
+    "p1",
+    "c2"
+   ],
+   "plan": "Have it ready before the reach test."
+  },
+  {
+   "id": "b-balloons",
+   "item": "A packet of balloons",
+   "kind": "material",
+   "why": "For the lung model. A packet costs about ₹20 to ₹40 at a stationery or toy shop. If you have no balloons, a thin plastic carry bag with the corner cut off can be used for the diaphragm sheet, and a smaller bag for the lung.",
+   "url": "",
+   "used_in": [
+    "c1"
+   ],
+   "plan": "Buy before the model challenge. You need two balloons."
+  },
+  {
+   "id": "b-tape",
+   "item": "Masking tape or any strong tape",
+   "kind": "material",
+   "why": "For covering the cut edge of the bottle and sealing the model. About ₹30 to ₹50 at a stationery shop. Cello tape also works.",
+   "url": "",
+   "used_in": [
+    "c1",
+    "c2"
+   ],
+   "plan": "Keep it ready for the model and for the paper strip."
+  },
+  {
+   "id": "b-mat",
+   "item": "A yoga mat, or a folded blanket, dari or bedsheet",
+   "kind": "material",
+   "why": "A mat is about ₹300 to ₹600 online or at a sports shop. A folded blanket or a dari on a clean floor works just as well, so you do not need to buy one.",
+   "url": "https://www.amazon.in/s?k=yoga+mat+for+kids",
+   "used_in": [
+    "e1",
+    "a1",
+    "a2",
+    "p1"
+   ],
+   "plan": "Use what you have. Buy a mat only if your floor is hard."
+  }
+ ],
+ "warmup": [
+  {
+   "q": "Where does the air go when you breathe in?",
+   "a": "Into your lungs, in your chest."
+  },
+  {
+   "q": "What moves your tummy when you breathe?",
+   "a": "A flat muscle under your lungs, the diaphragm."
+  },
+  {
+   "q": "Does your body breathe when you sleep?",
+   "a": "Yes. It breathes by itself, all night."
+  },
+  {
+   "q": "What does a gentle stretch feel like?",
+   "a": "A mild pull. It does not hurt."
+  },
+  {
+   "q": "What do you do if a stretch gives a sharp pain?",
+   "a": "Stop and come back a little."
+  },
+  {
+   "q": "Which animals stretch when they wake up?",
+   "a": "Dogs, cats, birds and many others, and people too."
+  }
+ ],
+ "warm": {
+  "words": [
+   "LUNGS",
+   "PULSE",
+   "REACH",
+   "YAWNS",
+   "SIGHS"
   ],
-  "verify": [
-   "Resting breaths per minute: about 20 for a six-year-old, 12 to 20 for a grown-up, about 40 for a newborn, 15 to 30 for a dog, 4 to 12 for an elephant.",
-   "Carl Ludwig recorded the breath-linked change in heartbeat in 1847, in a dog.",
-   "Yoga Sutras 1.34 (calming the mind by out-breath and holding) and 2.46 (posture steady and comfortable).",
-   "Hatha Yoga Pradipika 2.2 (when breath moves, mind moves) and its count of 15 postures. Gheranda Samhita's count of 32 postures and the animal names listed.",
-   "Chandogya Upanishad 5.1: the quarrel of the senses, with breath leaving last, and the image of the horse and the pegs.",
-   "Zhuangzi chapter 6: the true person breathes from the heels.",
-   "Robert Provine's 1987 oxygen test on yawning. Andrew Gallup's cold-pack finding. Dogs catching human yawns, 2008.",
-   "Rodney Pope's 2000 trial of army recruits: the number of recruits (given here as more than 1,500) and the result.",
-   "Cuvier's beaked whale dive of more than three hours (reported in 2020).",
-   "Vembanad lake clam collectors dive on a held breath.",
-   "Bhawanrao Pant Pratinidhi, Raja of Aundh, popularised Surya Namaskar in the 1920s. T. Krishnamacharya taught in Mysuru in the 1930s.",
-   "Egil Harvold's monkey studies on mouth breathing, and the present state of the evidence in children.",
-   "Anthony Blazevich's findings on longer muscle fibres after long-term stretching.",
-   "About half of the oxygen in the air comes from tiny green beings in the sea.",
-   "Joseph Priestley's mouse and mint test, 1771. Lavoisier and Laplace's guinea pig measurement, 1783. Ibn al-Nafis, about 1242 CE."
+  "quiz": [
+   [
+    "You must think about every breath, or you will stop breathing.",
+    false,
+    "Your body breathes by itself, even when you sleep. You can also change your breath on purpose."
+   ],
+   [
+    "Air goes into your tummy when it rises.",
+    false,
+    "Air goes into your lungs. A muscle under the lungs pushes the tummy out."
+   ],
+   [
+    "A sharp pain in a stretch means stop.",
+    true,
+    "Pain is a message from your body. A gentle pull is fine, and pain means ease off."
+   ],
+   [
+    "Only people stretch.",
+    false,
+    "Dogs, cats, hens and many other animals stretch when they wake up."
+   ],
+   [
+    "A new baby breathes faster than you.",
+    true,
+    "A new baby takes about 40 breaths a minute, and you take about 20."
+   ],
+   [
+    "Scientists know exactly why we yawn.",
+    false,
+    "Nobody is sure. Scientists have several ideas, and none is agreed."
+   ],
+   [
+    "Kabaddi players chant 'kabaddi' to show they have not taken a new breath.",
+    true,
+    "In the old way of playing, the chant stops when the raider breathes in."
+   ],
+   [
+    "Plants use the carbon dioxide that you breathe out.",
+    true,
+    "Plants take in carbon dioxide, and give out oxygen."
+   ]
   ],
-  "flashcard_words": [
-   "breath", "breathe in", "breathe out", "air", "lungs", "nose", "mucus", "diaphragm", "hiccup", "automatic", "on purpose", "heart", "heartbeat", "pulse", "sigh", "calm", "nerve", "brain", "muscle", "bone", "stretch", "gentle pull", "pain", "sensor", "body-position sense (proprioception)", "warm up", "bendy (flexible)", "yawn", "yoga", "asana", "Vrikshasana (tree pose)", "Bhujangasana (cobra pose)", "Marjariasana (cat pose)", "Tadasana (mountain pose)", "Shavasana (resting pose)", "Surya Namaskar", "kabaddi", "raider", "rest", "active", "oxygen", "carbon dioxide", "gills", "prana"
+  "odd": [
+   [
+    [
+     "Dog",
+     "Cat",
+     "Hen",
+     "Stone"
+    ],
+    "Stone",
+    "A dog, a cat and a hen stretch when they wake up. A stone is not alive and does not stretch."
+   ],
+   [
+    [
+     "Tree pose",
+     "Cobra pose",
+     "Cat pose",
+     "Kho-kho"
+    ],
+    "Kho-kho",
+    "Tree, cobra and cat are poses named after living beings. Kho-kho is a game."
+   ],
+   [
+    [
+     "Lungs",
+     "Diaphragm",
+     "Nose",
+     "Pencil"
+    ],
+    "Pencil",
+    "Lungs, diaphragm and nose all help you breathe. A pencil is not part of the body."
+   ],
+   [
+    [
+     "Breathing",
+     "Blinking",
+     "Swallowing",
+     "Kicking a ball"
+    ],
+    "Kicking a ball",
+    "Breathing, blinking and swallowing happen by themselves and you can also do them on purpose. Kicking a ball you only do on purpose."
+   ]
+  ]
+ },
+ "cards_mins": 10,
+ "plan": {
+  "start_options": [
+   "intro",
+   "a1",
+   "e1",
+   "story",
+   "g1",
+   "cards"
   ],
-  "parent_note": "A child with asthma or a cold can do everything here gently. Nobody should hold the breath until dizzy: the breath-holding in the lesson is a few seconds, to feel the body take over."
+  "default_order": [
+   "intro",
+   "a1",
+   "summary",
+   "terms",
+   "a5",
+   "e1",
+   "explanations",
+   "story",
+   "g1",
+   "a2",
+   "ws-core",
+   "a4",
+   "e2",
+   "a3",
+   "g2",
+   "agreed",
+   "challenging",
+   "c1",
+   "c2",
+   "p1",
+   "ws-stretch",
+   "ws-challenge",
+   "big_questions",
+   "videos",
+   "open_questions",
+   "roots",
+   "quiz"
+  ],
+  "core": [
+   "a1",
+   "e1",
+   "g1",
+   "a2",
+   "ws-core"
+  ],
+  "spine": [
+   "intro",
+   "a1",
+   "e1",
+   "explanations",
+   "roots",
+   "quiz"
+  ]
  }
 }
