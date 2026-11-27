@@ -98,5 +98,60 @@
   "title": "Concepts of Biology",
   "licence": "CC BY",
   "use": "publish"
+ },
+ "openstax_Anatomy_and_Physiology_2013.pdf": {
+  "title": "openstax_Anatomy_and_Physiology_2013",
+  "licence": "CC BY",
+  "use": "publish"
+ },
+ "openstax_Astronomy_2016.pdf": {
+  "title": "openstax_Astronomy_2016",
+  "licence": "CC BY",
+  "use": "publish"
+ },
+ "openstax_Biology_2013.pdf": {
+  "title": "openstax_Biology_2013",
+  "licence": "CC BY",
+  "use": "publish"
+ },
+ "openstax_Chemistry_2015.pdf": {
+  "title": "openstax_Chemistry_2015",
+  "licence": "CC BY",
+  "use": "publish"
+ },
+ "openstax_Chemistry_Atoms_First_2016.pdf": {
+  "title": "openstax_Chemistry_Atoms_First_2016",
+  "licence": "CC BY",
+  "use": "publish"
+ },
+ "openstax_College_Physics_2012.pdf": {
+  "title": "openstax_College_Physics_2012",
+  "licence": "CC BY",
+  "use": "publish"
+ },
+ "openstax_College_Physics_for_AP_2015.pdf": {
+  "title": "openstax_College_Physics_for_AP_2015",
+  "licence": "CC BY",
+  "use": "publish"
+ },
+ "openstax_Microbiology_2016.pdf": {
+  "title": "openstax_Microbiology_2016",
+  "licence": "CC BY",
+  "use": "publish"
+ },
+ "openstax_University_Physics_Volume_1_2016.pdf": {
+  "title": "openstax_University_Physics_Volume_1_2016",
+  "licence": "CC BY",
+  "use": "publish"
+ },
+ "openstax_University_Physics_Volume_2_2016.pdf": {
+  "title": "openstax_University_Physics_Volume_2_2016",
+  "licence": "CC BY",
+  "use": "publish"
+ },
+ "openstax_University_Physics_Volume_3_2016.pdf": {
+  "title": "openstax_University_Physics_Volume_3_2016",
+  "licence": "CC BY",
+  "use": "publish"
  }
 }
