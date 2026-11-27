@@ -349,11 +349,15 @@ Back in Bengaluru, on the first night home, Tara stood on the balcony. She count
   *Parent does:* A grown-up folds the two papers in half, puts one inside the other, and staples or ties them at the fold. Your child writes 'My Sky Book' and their name on the cover.  
   *Parent says:* We are making a sky book. The front pages are for the day sky, and the back pages are for the night sky.  
   *Child mode:* Make your sky book. Write the title and your name on the cover.
-- **s2 (8 min)**  
+- **s2 (4 min)**  
   *Parent does:* In the day, your child looks out of the window and draws the day sky on the first two pages. Or they tell you, and you write it. Add their words under any picture.  
   *Parent says:* Look out of the window. Draw what you see in the day sky, or tell me and I will write it. What is making it so bright?  
   *Child mode:* Draw the day sky, or tell your grown-up what to write.
   - Ask: What makes the day sky bright? (good: The Sun.; Sunlight lights up the sky.)
+- **s2b (4 min)**  
+  *Parent does:* Your child cuts a sun from yellow paper and glues it on a day page. They cut a moon from white paper and a few stars, and keep them for the night pages.  
+  *Parent says:* Let us make a paper sun, a moon and some stars. The sun goes on the day page. The moon and stars wait for the night.  
+  *Child mode:* Cut a paper sun for the day page. Cut a moon and some stars for tonight.
 - **s3 (8 min) · grown-up needed**  
   *Parent does:* After dark, look out of the same window. Switch off the room light. Your child makes one dot on the last pages for each star. If the Moon is up, add a big circle.  
   *Parent says:* It is the same window, at night. What can you see now? Can you see the Moon? How many stars?  
@@ -391,7 +395,7 @@ Back in Bengaluru, on the first night home, Tara stood on the balcony. She count
   - Check: You put a cardboard roof over one ice cube in the sunshine. Why does that ice last longer? → **The roof makes shade, so less sunshine reaches the ice**
 
 ## Worksheets
-### Sun, Moon and Stars (core) (core, 10 questions)
+### Sun, Moon and Stars (core) (core, 11 questions)
 1. (sort) A grown-up reads each one. Does the Sun give it light, heat or both? Draw a line to the right box.  
    **Answer:** A bright room in the day → Light; A warm balcony railing → Heat; Clothes drying on the line → Heat; A leaf making food → Light; A sunny patch on the floor → Both. *Why:* The Sun gives light and heat together. A sunny patch is bright and warm, so it is both. A strong answer sees that some things use mostly the light, like a leaf making food, and some use mostly the heat, like drying clothes.
 2. (odd) Three of these are safe to do in the sun. Which one is not safe? Circle it.  
@@ -402,17 +406,19 @@ Back in Bengaluru, on the first night home, Tara stood on the balcony. She count
    **Answer:** On a sunny balcony line. *Why:* The Sun's heat dries clothes. In the sunshine they get more heat, so the water goes into the air faster.
 4. (truefalse) The Moon is a ball of rock that goes round the Earth.  
    **Answer:** True. *Why:* True. The Moon is a big ball of rock. It makes no light of its own, and shines with the Sun's light.
-5. (draw) Draw yourself on a hot day. Show where the sunshine falls and where the shade is. Colour the place you would sit to stay cool.  
+5. (fill) A paper moon is glued on a night page. The real Moon shines because the ____ lights it up.  
+   **Answer:** Sun. *Why:* The Moon has no light of its own. The Sun's light falls on it and bounces to our eyes.
+6. (draw) Draw yourself on a hot day. Show where the sunshine falls and where the shade is. Colour the place you would sit to stay cool.  
    **Answer:** A drawing with sunshine on one side and shade on the other, and the child sitting in the shade.. *Why:* A strong drawing shows shade where something blocks the sunlight, and sunshine where it does not.
-6. (match) Draw a line from each sky thing to where its light comes from.  
+7. (match) Draw a line from each sky thing to where its light comes from.  
    **Answer:** The Sun → Its own light; The Moon → Light from the Sun; A star → Its own light. *Why:* The Sun and the stars make their own light. The Moon has none of its own: it shines with sunlight.
-7. (write) In the torch star test, why was the torch star hard to see by the bright window? Say it out loud, and a grown-up writes it down.  
+8. (write) In the torch star test, why was the torch star hard to see by the bright window? Say it out loud, and a grown-up writes it down.  
    **Answer:** The light all around it was so bright that the small star got lost. The torch was still shining.. *Why:* A strong answer says the torch kept shining, and that the bright light around it hid the star.
-8. (count) Look at this picture of a night sky over a city. Count the stars. Write the number.  
+9. (count) Look at this picture of a night sky over a city. Count the stars. Write the number.  
    **Answer:** 4. *Why:* There are 4 stars. In a city, the lights hide most of the faint stars, so we see only a few bright ones.
-9. (perspective) It is a hot afternoon. A family is talking about the sunshine.  
+10. (perspective) It is a hot afternoon. A family is talking about the sunshine.  
    **Answer:** Any choice with a good reason. Sunshine brings useful light and heat. Too much of its heat in the afternoon can be hard on bodies, so shade helps then.. *Why:* A strong answer gives a reason, and fairly says something good about another view. The Sun's heat helps us, and too much of it can be too hot.
-10. (label) Look at this room in the day. A grown-up points to each place. Say 'warm' or 'cool', and the grown-up writes it.  
+11. (label) Look at this room in the day. A grown-up points to each place. Say 'warm' or 'cool', and the grown-up writes it.  
    **Answer:** ['warm', 'cool', 'warm', 'cool']. *Why:* Places where sunlight falls get warmer. Places in the shade get less of the Sun's heat, so they stay cooler.
 ### Sun, Moon and Stars (stretch) (stretch, 10 questions)
 1. (mcq) A solar water heater on a roof warms bath water. What does it use from the Sun?  
@@ -475,6 +481,9 @@ Back in Bengaluru, on the first night home, Tara stood on the balcony. She count
 10. (mcq) A total eclipse of the Sun makes the sky dark in the middle of the day. What can people see then?  
    Options: Bright stars / Nothing at all / Only clouds  
    **Answer:** Bright stars. *Why:* When the Moon covers the Sun, the sky goes dark, and bright stars appear. They were there all day.
+11. (mcq) You glue a paper moon on your night page. What lights the real Moon in the sky?  
+   Options: The Sun / The stars / Its own light  
+   **Answer:** The Sun. *Why:* Sunlight falls on the Moon and bounces off it to our eyes. The Moon has no light of its own, and the stars are too far away to light it.
 
 ## Applications
 - Solar panels on roofs and at railway stations turn sunlight into electricity.

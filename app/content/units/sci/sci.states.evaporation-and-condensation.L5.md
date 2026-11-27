@@ -45,6 +45,7 @@ The particles of liquid water touch each other and hold on to each other. They a
 - e.g. In the Shake the Plate activity in this lesson, whole chana, which are chickpeas, in a steel plate stand for particles of water. Only the chana that reached the rim with enough speed jumped out. Most of the chana stayed in the plate.
 - e.g. A wet steel plate left on the drying rack is dry by evening, though nobody heated it.
 - e.g. Ink left in an open bottle dries up over the summer holidays.
+- e.g. Leave salty water in a shallow steel plate in the sun. The water evaporates, and the salt that was dissolved in it is left behind as a white crust. Only the water turns into vapour, so the salt can be recovered.
 ### Water leaves only at the surface, so a bigger surface loses more · *defined*
 **Definition:** Evaporation happens where water meets air. The more surface the water has, the more particles are at the surface at any moment. So more of them leave each second.
 
@@ -651,7 +652,7 @@ The six cracked pots went into the soaking pit. By Sunday they had slumped into 
    **Answer:** Carries escaped particles away. *Why:* Moving air sweeps away the vapour above the floor, so fewer particles land back. A fan does not heat the water.
 15. (write) Name two ways your family uses evaporation at home. For each, say what evaporates.  
    **Answer:** For example: we dry clothes on the balcony, and the water in the cloth evaporates. We keep drinking water in a clay pot, and water that seeps through the clay evaporates and cools the pot.. *Why:* A strong answer names a real use and says which liquid leaves, and where it goes.
-### Faster, Slower, Cooler (stretch) (stretch, 15 questions)
+### Faster, Slower, Cooler (stretch) (stretch, 16 questions)
 1. (mcq) One water surface is 300 square cm and another is 75. How much more water does the bigger one lose?  
    Options: About 4 times as much / About twice as much / The same amount / About 300 times as much  
    **Answer:** About 4 times as much. *Why:* 300 ÷ 75 = 4. Water leaves only from the surface, so 4 times the surface loses about 4 times the water.
@@ -686,6 +687,8 @@ The six cracked pots went into the soaking pit. By Sunday they had slumped into 
    **Answer:** ['Evaporation: arrows rising from the sea', 'Condensation: where the cloud forms', 'Precipitation: rain falling from the cloud', 'River: water flowing back to the sea']. *Why:* Evaporation and condensation are changes of state. Precipitation and the river only move the water.
 15. (truefalse) True or false: on one day, a deep lake and a shallow puddle lose about the same depth.  
    **Answer:** True. *Why:* True. Each square centimetre of surface loses about the same amount. The puddle vanishes first only because it has little depth to lose.
+16. (write) A plate of salty water is left in the sun for a day, and all the water goes. Where did the water go, and where did the salt go?  
+   **Answer:** The water evaporated: its fastest particles escaped from the surface and mixed with the air as vapour. The salt did not evaporate, so it was left on the plate as a crust.. *Why:* A strong answer says the water turned into vapour and left, and that the salt stayed behind on the plate.
 ### Averages, Clouds and Open Questions (challenge) (challenge, 15 questions)
 1. (perspective) A thermometer in a tumbler of water reads 30 degrees. Two scientists disagree about what that number is.  
    **Answer:** A strong answer uses the unit: evaporation lowers the temperature by removing the fastest particles, so temperature does come from the particles. It also sees that the average does real things that no single particle does.. *Why:* Physicists and philosophers still argue about this. Both views fit every experiment.
@@ -764,6 +767,9 @@ The six cracked pots went into the soaking pit. By Sunday they had slumped into 
 12. (mcq) You test whether a fan speeds up drying. What must stay the same for both cloths?  
    Options: The cloth, the water and the warmth / Only the colour of the cloth / Nothing needs to stay the same / The fan must blow on both  
    **Answer:** The cloth, the water and the warmth. *Why:* In a fair test only one thing changes: here, the moving air. If the fan blew on both, nothing would have been tested.
+13. (mcq) A plate of salty water is left in the sun until all the water has gone. What is left on the plate, and why?  
+   Options: Salt, because only the water particles escape from the surface as vapour / Water vapour, because the salt turns into vapour too / Nothing, because the salt dissolves into the air / Water, because salt stops evaporation  
+   **Answer:** Salt, because only the water particles escape from the surface as vapour. *Why:* Only the water particles escape from the surface. The salt particles stay in the plate. A salt pan works in the same way, with sea water in wide, shallow pans.
 
 ## Applications
 - Farmers dry paddy, pepper, coffee beans and red chillies in the sun. They spread them in a thin layer and turn them. A heap would stay wet inside and grow mould.

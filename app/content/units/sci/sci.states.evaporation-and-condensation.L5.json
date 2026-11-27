@@ -153,7 +153,8 @@
    "examples": [
     "In the Shake the Plate activity in this lesson, whole chana, which are chickpeas, in a steel plate stand for particles of water. Only the chana that reached the rim with enough speed jumped out. Most of the chana stayed in the plate.",
     "A wet steel plate left on the drying rack is dry by evening, though nobody heated it.",
-    "Ink left in an open bottle dries up over the summer holidays."
+    "Ink left in an open bottle dries up over the summer holidays.",
+    "Leave salty water in a shallow steel plate in the sun. The water evaporates, and the salt that was dissolved in it is left behind as a white crust. Only the water turns into vapour, so the salt can be recovered."
    ],
    "perspectives": [],
    "art": "A zoom view of a water surface: a crowd of particles with short and long arrows, and two long-arrowed particles at the top flying off into the air."
@@ -2680,6 +2681,13 @@
      "p": "True or false: on one day, a deep lake and a shallow puddle lose about the same depth.",
      "a": true,
      "why": "True. Each square centimetre of surface loses about the same amount. The puddle vanishes first only because it has little depth to lose."
+    },
+    {
+     "t": "write",
+     "p": "A plate of salty water is left in the sun for a day, and all the water goes. Where did the water go, and where did the salt go?",
+     "lines": 3,
+     "a": "The water evaporated: its fastest particles escaped from the surface and mixed with the air as vapour. The salt did not evaporate, so it was left on the plate as a crust.",
+     "why": "A strong answer says the water turned into vapour and left, and that the salt stayed behind on the plate."
     }
    ]
   },
@@ -3055,6 +3063,19 @@
    "why": "In a fair test only one thing changes: here, the moving air. If the fan blew on both, nothing would have been tested.",
    "outcome": 7,
    "how": "e3"
+  },
+  {
+   "t": "mcq",
+   "p": "A plate of salty water is left in the sun until all the water has gone. What is left on the plate, and why?",
+   "opts": [
+    "Salt, because only the water particles escape from the surface as vapour",
+    "Water vapour, because the salt turns into vapour too",
+    "Nothing, because the salt dissolves into the air",
+    "Water, because salt stops evaporation"
+   ],
+   "a": 0,
+   "outcome": 0,
+   "why": "Only the water particles escape from the surface. The salt particles stay in the plate. A salt pan works in the same way, with sea water in wide, shallow pans."
   }
  ],
  "videos": [

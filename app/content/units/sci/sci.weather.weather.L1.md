@@ -50,6 +50,7 @@ Each kind of weather needs a different job from clothes. In hot sun, a cap and l
 - e.g. Khasi farmers in Meghalaya wear the knup, a rain shield of bamboo and leaves, on their head and back. It leaves both hands free to work.
 - e.g. In Assam, the japi, a wide hat of bamboo and palm leaves, shades farmers from the sun.
 - e.g. On the cold hills of Ladakh and Sikkim, people wear a windproof jacket over their woollens.
+- e.g. At home you may wear a cotton frock or shorts. At school, many children wear a uniform of a shirt and shorts, or a skirt.
 ### Does getting cold give you a cold? · *debated*
 A cold is an illness caused by tiny viruses, which pass from person to person. Getting chilly does not make a virus. But scientists still argue about one thing. Does being chilled make it easier for a virus you already have to make you ill?
 - e.g. In 1968, scientists in the United States put cold viruses into people's noses, and kept some of them in the cold. The chilled people did not get more colds.
@@ -247,7 +248,7 @@ Back home in Chennai, Meenakshi held her red sweater in front of the fan and put
   *Parent says:* On a cloudy day, look for your shadow. Will it be sharp or soft?  
   *Child mode:* Find your own shadow outside on a cloudy day.
   - Wait: Do this on the next cloudy day. If it is cloudy now, do it now.
-### a3 · Sort the Cupboard: clothes for each weather (12 min)
+### a3 · Sort the Cupboard: clothes for each weather (15 min)
 - **record:** Take a photo of each pile. Or point to one thing in each pile and tell your grown-up its job.
 - **s1 (8 min)**  
   *Parent does:* Lay out the four papers, one for each pile: sun, rain, wind and cold. Your child picks one thing at a time, puts it on a paper, and says its job.  
@@ -260,6 +261,10 @@ Back home in Chennai, Meenakshi held her red sweater in front of the fan and put
   *Parent says:* The sweater keeps us warm. But wind can blow through wool. What could we wear on top on a windy day?  
   *Child mode:* Where does the sweater go? Is there a job it cannot do?
   - Ask: What can we wear over a sweater on a windy day? (good: A raincoat.; A jacket with no holes.)
+- **s3 (3 min)**  
+  *Parent does:* Ask your child to pick one thing they wear today, and draw and colour it on a paper. Then they say which weather it is for.  
+  *Parent says:* What is this called? Which weather is it for, and what job does it do?  
+  *Child mode:* Draw and colour one of your own clothes. Say which weather it is for.
 
 ## Projects
 ### p1 · Dress the Window Doll: five mornings (30 min, 5 days)
@@ -308,7 +313,7 @@ Back home in Chennai, Meenakshi held her red sweater in front of the fan and put
   - Ask: What shape works best in the wind? (good: A low, curved hat.; A hat tied on with string.)
 
 ## Worksheets
-### Sun, Rain, Wind and Clouds (core) (core, 10 questions)
+### Sun, Rain, Wind and Clouds (core) (core, 11 questions)
 1. (match) Draw a line from each weather to its picture.  
    **Answer:** Sunny → A bright sun and a dark, sharp shadow; Rainy → Drops falling and a puddle; Windy → A tree bending and clothes flapping; Cloudy → A grey sky and a soft shadow. *Why:* Each weather has its own clues. A sharp shadow means sun. A bending tree means wind.
 2. (mcq) In the fan test, one steel tumbler stood in the fan's wind for five minutes. The other tumbler was kept far from the fan. How did the tumbler from the wind feel next to the other one?  
@@ -318,20 +323,22 @@ Back home in Chennai, Meenakshi held her red sweater in front of the fan and put
    **Answer:** Behind the sweater, the strip waves or flies. Behind the raincoat, the strip hangs straight down.. *Why:* A strong drawing shows the difference: wind came through the sweater's tiny gaps, but not through the raincoat.
 4. (sort) Circle the things that let wind through. Put a box round the things that stop it.  
    **Answer:** a woollen sweater → Lets wind through; a raincoat → Stops wind; a thin dupatta → Lets wind through; a sheet of newspaper → Stops wind; a cotton T-shirt → Lets wind through; a plastic sheet → Stops wind. *Why:* Cloth made of threads has tiny gaps, so wind gets through. Plastic and paper sheets have no gaps.
-5. (write) Say it to a grown-up, who writes it down: why did your arm feel cold in the fan's wind?  
+5. (sort) Sort these clothes: is each one worn mostly at home, or at school?  
+   **Answer:** a cotton frock → At home; a school uniform shirt → At school; a nightsuit → At home; school shoes → At school. *Why:* At home we wear what is cool and comfortable. At school many children wear a uniform. A nightsuit is for sleeping at home.
+6. (write) Say it to a grown-up, who writes it down: why did your arm feel cold in the fan's wind?  
    **Answer:** The wind carried warmth away from my warm arm.. *Why:* A strong answer says the wind took warmth away from the arm, not that the wind was cold.
-6. (truefalse) Tea-pickers tie plastic sheets over their shawls in the rain. A plastic sheet keeps the rain out because it has no holes.  
+7. (truefalse) Tea-pickers tie plastic sheets over their shawls in the rain. A plastic sheet keeps the rain out because it has no holes.  
    **Answer:** True. *Why:* True. Rain and wind cannot get through a sheet with no holes. A cloth shawl has tiny gaps, so it soaks up water and lets wind through.
-7. (label) Here is a child on a cold, windy hill. Colour red the layer that keeps warmth in. Colour blue the layer that stops the wind.  
+8. (label) Here is a child on a cold, windy hill. Colour red the layer that keeps warmth in. Colour blue the layer that stops the wind.  
    **Answer:** The sweater is red and the thin jacket on top is blue.. *Why:* The sweater holds warmth in. The jacket on top stops the wind blowing that warmth away.
-8. (odd) Which one is NOT for a rainy day?  
+9. (odd) Which one is NOT for a rainy day?  
    Options: A raincoat / An umbrella / A woollen shawl / A knup  
    **Answer:** 2. *Why:* A woollen shawl soaks up water. A raincoat, an umbrella and a knup all keep the rain off.
-9. (draw) Draw yourself dressed for a hot, sunny day in May.  
+10. (draw) Draw yourself dressed for a hot, sunny day in May.  
    **Answer:** A drawing with a cap or hat and light, loose clothes, maybe in the shade.. *Why:* A strong drawing shows something to shade the head, and light clothes that let sweat dry.
-10. (perspective) Two friends are going up a cold, windy hill.  
+11. (perspective) Two friends are going up a cold, windy hill.  
    **Answer:** The second friend will be warmer in the wind, because the raincoat stops the wind. But the first friend is right that a thick sweater keeps warmth in well on a still day.. *Why:* A strong answer uses the fan test: wind went through the sweater but not the raincoat. It is also fair to the first friend: wool is good at keeping warmth in.
-### Wind, Warmth and Clouds (stretch) (stretch, 10 questions)
+### Wind, Warmth and Clouds (stretch) (stretch, 11 questions)
 1. (mcq) A bus is racing along in the wind. Two children sit at the window. One wears a dry shirt. The other wears a wet shirt. Who feels colder?  
    Options: The child in the dry shirt / The child in the wet shirt / Both the same  
    **Answer:** The child in the wet shirt. *Why:* The wind dries the water in the shirt, and drying takes warmth from the skin. That is why wet clothes feel cold in the wind.
@@ -344,15 +351,17 @@ Back home in Chennai, Meenakshi held her red sweater in front of the fan and put
    **Answer:** Made it soft and pale. *Why:* The cloth spread out the torch's light, like a cloud spreads sunlight. So the shadow went soft.
 5. (draw) Draw a windy day. Show three things that the wind is moving.  
    **Answer:** A drawing with three things the wind moves, such as a bending tree, flapping clothes and a flying kite.. *Why:* A strong drawing shows wind by what it moves, because we cannot see air itself.
-6. (draw) Draw a cloud. Then draw a zoom-in circle next to it, showing what a cloud is made of.  
+6. (draw) Draw one of your own clothes and colour it. Write which weather it is best for.  
+   **Answer:** A child draws a cotton kurta and says it is for hot sun. Or draws a woollen cap and says it is for cold wind.. *Why:* A strong answer names the clothes it draws and matches them to a weather with a reason.
+7. (draw) Draw a cloud. Then draw a zoom-in circle next to it, showing what a cloud is made of.  
    **Answer:** A cloud with a circle full of tiny round water drops.. *Why:* A strong drawing shows that a cloud is made of many tiny drops of water.
-7. (match) Draw a line from each rain shield to where people wear it.  
+8. (match) Draw a line from each rain shield to where people wear it.  
    **Answer:** Knup, of bamboo and leaves → Meghalaya; Thoppikkuda, a palm-leaf hat → Kerala; Japi, a wide bamboo hat → Assam. *Why:* People all over India made clever hats and shields from plants that grow near them.
-8. (label) Here is the fan test. Colour the fan yellow, the paper strip green and the cloth purple.  
+9. (label) Here is the fan test. Colour the fan yellow, the paper strip green and the cloth purple.  
    **Answer:** The fan is yellow, the paper strip behind the cloth is green and the cloth held in front is purple.. *Why:* The fan makes the wind, the cloth is tested, and the strip shows if wind came through.
-9. (write) Someone says: 'My sweater is so thick, no wind can get through it.' What would you tell them? Say it to a grown-up, who writes it down.  
+10. (write) Someone says: 'My sweater is so thick, no wind can get through it.' What would you tell them? Say it to a grown-up, who writes it down.  
    **Answer:** In the fan test, wind came through the thick sweater. It has tiny gaps between the wool. A thin raincoat on top would stop the wind.. *Why:* A strong answer uses the evidence from the test, not only an opinion, and suggests what would work.
-10. (odd) Which one tells you it is windy?  
+11. (odd) Which one tells you it is windy?  
    Options: A sharp shadow / A puddle / Clothes flapping on the line / A grey sky  
    **Answer:** 2. *Why:* You cannot see wind, but you can see what it moves. A sharp shadow means sun, a puddle means rain and a grey sky means clouds.
 
@@ -368,28 +377,34 @@ Back home in Chennai, Meenakshi held her red sweater in front of the fan and put
 2. (mcq) Which is a kind of weather?  
    Options: Rainy / Sleepy / Hungry  
    **Answer:** Rainy. *Why:* Rainy is a kind of weather. Sleepy and hungry are how a body feels.
-3. (mcq) In the fan test, what did the paper strip do behind the raincoat?  
+3. (mcq) Ravi wears a school uniform: a shirt and shorts. Which words name his clothes?  
+   Options: Shirt and shorts / Sun and rain / A cloud  
+   **Answer:** Shirt and shorts. *Why:* A shirt and shorts are clothes, worn on the body. Sun and rain are weather, and a cloud is weather too. They are not clothes.
+4. (mcq) In the fan test, what did the paper strip do behind the raincoat?  
    Options: Flew about / Hung still / Caught fire  
    **Answer:** Hung still. *Why:* The raincoat has no gaps, so the wind could not get through. The strip hung still.
-4. (mcq) Which lets the most wind through?  
+5. (mcq) Which lets the most wind through?  
    Options: A newspaper / A woollen sweater / A plastic sheet  
    **Answer:** A woollen sweater. *Why:* Wool has tiny gaps between the threads, and wind blows through them. Newspaper and plastic have no gaps.
-5. (mcq) Why does the fan make your arm feel cold?  
+6. (mcq) Why does the fan make your arm feel cold?  
    Options: The fan makes cold air / The moving air carries your warmth away / The fan is made of ice  
    **Answer:** The moving air carries your warmth away. *Why:* Your arm is warmer than the air. The moving air keeps carrying that warmth away.
-6. (mcq) What is a cloud made of?  
+7. (mcq) What is a cloud made of?  
    Options: Cotton / Tiny drops of water / Smoke from fires  
    **Answer:** Tiny drops of water. *Why:* A cloud is millions of tiny water drops floating in the air. It only looks like cotton.
-7. (mcq) You are going out in the hot May sun. What should you wear?  
+8. (mcq) You are going out in the hot May sun. What should you wear?  
    Options: A thick sweater / A cap and loose cotton clothes / A raincoat  
    **Answer:** A cap and loose cotton clothes. *Why:* A cap shades your head, and loose cotton lets your sweat dry and cool you.
-8. (mcq) It is cold and windy on a hill. What should you wear?  
+9. (mcq) It is cold and windy on a hill. What should you wear?  
    Options: Only a cotton shirt / A sweater with a jacket on top / Only a cap  
    **Answer:** A sweater with a jacket on top. *Why:* The sweater keeps your warmth in. The jacket on top stops the wind blowing it away.
-9. (mcq) What are shadows like on a cloudy day?  
+10. (mcq) Anita draws her own clothes on paper: a blue cotton frock and yellow sandals. Which weather is her drawing for?  
+   Options: A hot, sunny day / A cold, windy hill / A rainy day in the monsoon  
+   **Answer:** A hot, sunny day. *Why:* A thin cotton frock and sandals keep the sun off and keep you cool. A cold, windy hill needs a sweater and a layer that stops the wind. In the rain you need a raincoat or an umbrella.
+11. (mcq) What are shadows like on a cloudy day?  
    Options: Soft and pale / Sharp and dark / Blue  
    **Answer:** Soft and pale. *Why:* Clouds spread out the Sun's light, so shadows go soft and pale.
-10. (mcq) You guessed the sweater would stop the wind. In the fan test, wind came through it. What should you do?  
+12. (mcq) You guessed the sweater would stop the wind. In the fan test, wind came through it. What should you do?  
    Options: Say the test was wrong / Change your idea to fit what you saw / Never test again  
    **Answer:** Change your idea to fit what you saw. *Why:* A good scientist changes her idea when the test shows something new. A wrong guess helps you learn.
 

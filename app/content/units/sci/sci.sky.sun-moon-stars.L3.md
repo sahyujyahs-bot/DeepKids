@@ -77,7 +77,7 @@ The whole sky seems to turn each night, because the Earth spins. But the stars k
 ### The Moon: the Earth's companion with borrowed light · *defined*
 **Definition:** The Moon is the Earth's natural satellite. It goes round the Earth about once a month. It makes no light. Moonlight is sunlight that has bounced off the Moon.
 
-The Moon is about 3 lakh 84 thousand kilometres away. It is about a quarter as wide as the Earth. The Moon is not white. Its ground is dark grey. It reflects only about 12 out of every 100 parts of the sunlight that hit it, about as much as an old tar road. It looks bright only because the night sky around it is so dark. The Moon always keeps the same face towards us, because it spins round once for each trip round the Earth. Its other side is not dark. It gets just as much sunlight. We simply never see it from Earth. Half of the Moon is always lit by the Sun. As it goes round us, we see more or less of that lit half, so it seems to change shape.
+The Moon is about 3 lakh 84 thousand kilometres away. It is about a quarter as wide as the Earth. The Moon is not white. Its ground is dark grey. It reflects only about 12 out of every 100 parts of the sunlight that hit it, about as much as an old tar road. It looks bright only because the night sky around it is so dark. The Moon always keeps the same face towards us, because it spins round once for each trip round the Earth. Its other side is not dark. It gets just as much sunlight. We simply never see it from Earth. Half of the Moon is always lit by the Sun. As it goes round us, we see more or less of that lit half, so it seems to change shape. The Moon is round, like a ball. So are the Earth and the Sun. Hold a ball in a torch beam in a dark room: the side facing the torch is lit, and the other side is in shadow, just as the Moon is.
 - e.g. Twelve astronauts walked on the Moon between 1969 and 1972. They found grey dust and rocks.
 - e.g. On 23 August 2023, India's Chandrayaan-3 landed near the Moon's south pole, the first spacecraft to land there.
 - e.g. The Sun is about 400 times wider than the Moon, and also about 400 times further away. That is why they look about the same size in our sky.
@@ -609,7 +609,7 @@ Karthik opened his mouth to say something about sparks. Then he closed it again.
   - Think: Baby Olive Ridley turtles hatch at night on Odisha's beaches and crawl towards the brightest light, which used to be the sea. What happens near a bright beach road?
 
 ## Worksheets
-### Sky Detective (core) (core, 15 questions)
+### Sky Detective (core) (core, 16 questions)
 1. (sort) Sort these. Does each one make its own light, or shine with reflected light?  
    **Answer:** the Sun → Makes its own light; the Moon → Shines with reflected light; a star → Makes its own light; Jupiter → Shines with reflected light; a firefly → Makes its own light; a steel plate in torchlight → Shines with reflected light. *Why:* Stars, including the Sun, and fireflies make light. The Moon, planets like Jupiter and a steel plate only reflect light that falls on them.
 2. (mcq) What is the Sun?  
@@ -619,31 +619,33 @@ Karthik opened his mouth to say something about sparks. Then he closed it again.
    **Answer:** ['Earth', 'earth', 'the Earth']. *Why:* The Moon is the Earth's satellite. It goes round the Earth about once a month.
 4. (truefalse) Stars are tiny sparks, much smaller than the Moon.  
    **Answer:** False. *Why:* False. Stars are suns, and many are bigger than our Sun. They look tiny only because they are so far away.
-5. (mcq) In the near lamp, far lamp test, what happened to the torch as it moved far away?  
+5. (truefalse) The Earth is flat, like a plate.  
+   **Answer:** False. *Why:* False. The Earth is round, like a ball, and so are the Sun and the Moon.
+6. (mcq) In the near lamp, far lamp test, what happened to the torch as it moved far away?  
    Options: It looked smaller and dimmer / It looked bigger / It went out / It changed colour  
    **Answer:** It looked smaller and dimmer. *Why:* The torch did not change at all. Its light spread out over the long distance, so less reached your eye. Picking 'it went out' usually means the far dot was so faint it was hard to see. Look carefully: it is still there, just small.
-6. (write) In the near lamp, far lamp test, your helper walked 40 steps away. Predict what the torch would look like at 100 steps. What does this tell you about a star that looks like a faint dot?  
+7. (write) In the near lamp, far lamp test, your helper walked 40 steps away. Predict what the torch would look like at 100 steps. What does this tell you about a star that looks like a faint dot?  
    **Answer:** At 100 steps the torch would look even smaller and fainter, maybe just a tiny dot. But it would still be the same torch. So a star that looks like a faint dot could be a huge, bright sun that is very far away.. *Why:* A strong answer predicts smaller and dimmer, says the torch itself did not change, and carries the idea over to stars: how small a light looks depends on how far away it is, not only on how big it is.
-7. (mcq) Why does the Sun look so much bigger than other stars?  
+8. (mcq) Why does the Sun look so much bigger than other stars?  
    Options: It is the biggest star in the universe / It is much nearer to us / It is on fire / The other stars are switched off in the day  
    **Answer:** It is much nearer to us. *Why:* The Sun is our nearest star. Other stars are hundreds of thousands of times further away. Picking 'the biggest star' is a common guess. In fact many stars are far bigger than the Sun.
-8. (match) Match each thing to what it is.  
+9. (match) Match each thing to what it is.  
    **Answer:** The Sun → our nearest star; The Moon → the Earth's satellite; The Earth → a planet; The Saptarishi → a pattern of stars. *Why:* The Sun is a star, the Earth is a planet going round it, the Moon goes round the Earth, and the Saptarishi is a pattern people see in the stars.
-9. (mcq) Soon after sunset, you see a very bright dot in the west. It shines steadily and does not twinkle. What is it most likely to be?  
+10. (mcq) Soon after sunset, you see a very bright dot in the west. It shines steadily and does not twinkle. What is it most likely to be?  
    Options: A star / A planet / A firefly  
    **Answer:** A planet. *Why:* Planets usually shine steadily, while stars twinkle. A bright steady dot in the west after sunset is very often Venus. Picking 'a star' is natural, because people call Venus the evening star. But it is a planet.
-10. (write) Someone says, 'The Moon is a small star, because it shines at night.' Use what you saw in the Own Light or Reflected Light test to explain the mistake.  
+11. (write) Someone says, 'The Moon is a small star, because it shines at night.' Use what you saw in the Own Light or Reflected Light test to explain the mistake.  
    **Answer:** In the dark, the steel plate and the ball vanished, but the torch did not. The plate and the ball only shone when the torch lit them. The Moon is like the ball: it only shines because sunlight falls on it. A star makes its own light, like the torch.. *Why:* A strong answer uses the test as evidence: things that make light can be seen in the dark, things that reflect light cannot. Shining at night does not make something a star. What matters is where its light comes from.
-11. (mcq) Why can't we see stars in the daytime?  
+12. (mcq) Why can't we see stars in the daytime?  
    Options: They go away in the day / The sunlit sky is too bright / Stars only shine at night / Clouds always cover them  
    **Answer:** The sunlit sky is too bright. *Why:* The stars are still there in the day, shining as always. Sunlight lights up our air, which drowns out their faint light. Picking 'stars only shine at night' is very common. Stars shine all the time. We just cannot see them against the bright sky.
-12. (order) Put these in order, from NEAREST to us to FURTHEST: the Sun, the Moon, the Andromeda galaxy, the nearest star after the Sun.  
+13. (order) Put these in order, from NEAREST to us to FURTHEST: the Sun, the Moon, the Andromeda galaxy, the nearest star after the Sun.  
    **Answer:** order shown. *Why:* Light from the Moon takes about 1 second to reach us. From the Sun, about 8 minutes. From the nearest other star, about 4 years. From the Andromeda galaxy, about 2 and a half million years.
-13. (draw) Draw the Sun, the Earth and the Moon. Draw arrows to show where the Moon's light comes from and where it goes.  
+14. (draw) Draw the Sun, the Earth and the Moon. Draw arrows to show where the Moon's light comes from and where it goes.  
    **Answer:** An arrow from the Sun to the Moon, and another arrow from the Moon to the Earth.. *Why:* Moonlight starts at the Sun, bounces off the Moon and then reaches our eyes on Earth.
-14. (write) Never look straight at the Sun. Write how you can look at the Sun safely.  
+15. (write) Never look straight at the Sun. Write how you can look at the Sun safely.  
    **Answer:** Stand with my back to the Sun. Let sunlight go through a tiny pinhole in a card. Look at the small bright circle it makes on white paper. That circle is a picture of the Sun.. *Why:* A pinhole viewer lets you see a picture of the Sun without looking at the Sun itself. Looking at the Sun, even for a short time or through sunglasses, can hurt your eyes for ever.
-15. (mcq) In the Own Light or Reflected Light test, you made the room dark. Which of these could you still see with the torch switched off?  
+16. (mcq) In the Own Light or Reflected Light test, you made the room dark. Which of these could you still see with the torch switched off?  
    Options: The steel plate / The white ball / A lit phone screen  
    **Answer:** A lit phone screen. *Why:* A phone screen makes its own light, so you can see it in the dark. The plate and the ball make no light, so they vanished until the torch shone on them.
 ### Lights in the Sky (stretch) (stretch, 15 questions)
@@ -773,6 +775,9 @@ Karthik opened his mouth to say something about sparks. Then he closed it again.
 15. (mcq) In a solar eclipse, the Moon covers most of the Sun. Is it safe to look straight at the Sun then?  
    Options: No. The small part still showing is bright enough to burn your eyes, and you would feel no pain while it happened / Yes, because most of the Sun is hidden / Yes, if you look for less than a minute  
    **Answer:** No. The small part still showing is bright enough to burn your eyes, and you would feel no pain while it happened. *Why:* Even a thin edge of the Sun is far too bright for eyes. The back of the eye has no pain sensors, so the harm happens without hurting. Watch an eclipse with a pinhole viewer instead, with your back to the Sun.
+16. (mcq) What shape are the Sun, the Earth and the Moon?  
+   Options: Round, like a ball / Flat, like a plate / Square, like a box  
+   **Answer:** Round, like a ball. *Why:* All three are round, like balls. A ball in a torch beam shows the same thing as the Moon: one side is lit and the other side is dark. A plate or a box would not look like that from every side.
 
 ## Applications
 - Sunlight powers almost all life on Earth. Plants catch it to make food, and animals eat the plants.

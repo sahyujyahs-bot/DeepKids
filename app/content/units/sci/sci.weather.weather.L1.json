@@ -100,7 +100,8 @@
     "Farmers in Kerala used the thoppikkuda, a hat made of palm leaves, shaped like a small umbrella.",
     "Khasi farmers in Meghalaya wear the knup, a rain shield of bamboo and leaves, on their head and back. It leaves both hands free to work.",
     "In Assam, the japi, a wide hat of bamboo and palm leaves, shades farmers from the sun.",
-    "On the cold hills of Ladakh and Sikkim, people wear a windproof jacket over their woollens."
+    "On the cold hills of Ladakh and Sikkim, people wear a windproof jacket over their woollens.",
+    "At home you may wear a cotton frock or shorts. At school, many children wear a uniform of a shirt and shorts, or a skirt."
    ],
    "perspectives": [],
    "art": "Four children, each dressed for one weather: a cap and cotton for sun, a raincoat for rain, a sweater with a jacket on top for wind, and a sweater for cold."
@@ -748,7 +749,7 @@
   {
    "id": "a3",
    "title": "Sort the Cupboard: clothes for each weather",
-   "mins": 12,
+   "mins": 15,
    "days": 1,
    "context": "In this activity you find out which clothes keep off the sun, the rain, the wind or the cold. You take clothes out of the family cupboard and sort them into piles: for sun, for rain, for wind and for cold. You say what job each one does.",
    "materials": [
@@ -764,7 +765,7 @@
    "schedule": [
     {
      "day": 1,
-     "mins": 12,
+     "mins": 15,
      "what": "Sort clothes into four weather piles and say the job of each one."
     }
    ],
@@ -812,6 +813,13 @@
        ]
       }
      ]
+    },
+    {
+     "id": "s3",
+     "mins": 3,
+     "do": "Ask your child to pick one thing they wear today, and draw and colour it on a paper. Then they say which weather it is for.",
+     "say": "What is this called? Which weather is it for, and what job does it do?",
+     "kid": "Draw and colour one of your own clothes. Say which weather it is for."
     }
    ]
   }
@@ -1091,6 +1099,35 @@
      "art": "Six small pictures: a sweater, a raincoat, a dupatta, a newspaper, a T-shirt and a plastic sheet."
     },
     {
+     "t": "sort",
+     "p": "Sort these clothes: is each one worn mostly at home, or at school?",
+     "cats": [
+      "At home",
+      "At school"
+     ],
+     "items": [
+      [
+       "a cotton frock",
+       "At home"
+      ],
+      [
+       "a school uniform shirt",
+       "At school"
+      ],
+      [
+       "a nightsuit",
+       "At home"
+      ],
+      [
+       "school shoes",
+       "At school"
+      ]
+     ],
+     "a": "see items",
+     "why": "At home we wear what is cool and comfortable. At school many children wear a uniform. A nightsuit is for sleeping at home.",
+     "outcome": 3
+    },
+    {
      "t": "write",
      "p": "Say it to a grown-up, who writes it down: why did your arm feel cold in the fan's wind?",
      "lines": 2,
@@ -1210,6 +1247,13 @@
     },
     {
      "t": "draw",
+     "p": "Draw one of your own clothes and colour it. Write which weather it is best for.",
+     "a": "A child draws a cotton kurta and says it is for hot sun. Or draws a woollen cap and says it is for cold wind.",
+     "why": "A strong answer names the clothes it draws and matches them to a weather with a reason.",
+     "outcome": 3
+    },
+    {
+     "t": "draw",
      "p": "Draw a cloud. Then draw a zoom-in circle next to it, showing what a cloud is made of.",
      "a": "A cloud with a circle full of tiny round water drops.",
      "why": "A strong drawing shows that a cloud is made of many tiny drops of water.",
@@ -1320,6 +1364,18 @@
   },
   {
    "t": "mcq",
+   "p": "Ravi wears a school uniform: a shirt and shorts. Which words name his clothes?",
+   "opts": [
+    "Shirt and shorts",
+    "Sun and rain",
+    "A cloud"
+   ],
+   "a": 0,
+   "why": "A shirt and shorts are clothes, worn on the body. Sun and rain are weather, and a cloud is weather too. They are not clothes.",
+   "outcome": 3
+  },
+  {
+   "t": "mcq",
    "p": "In the fan test, what did the paper strip do behind the raincoat?",
    "opts": [
     "Flew about",
@@ -1390,6 +1446,18 @@
    ],
    "a": 1,
    "why": "The sweater keeps your warmth in. The jacket on top stops the wind blowing it away.",
+   "outcome": 3
+  },
+  {
+   "t": "mcq",
+   "p": "Anita draws her own clothes on paper: a blue cotton frock and yellow sandals. Which weather is her drawing for?",
+   "opts": [
+    "A hot, sunny day",
+    "A cold, windy hill",
+    "A rainy day in the monsoon"
+   ],
+   "a": 0,
+   "why": "A thin cotton frock and sandals keep the sun off and keep you cool. A cold, windy hill needs a sweater and a layer that stops the wind. In the rain you need a raincoat or an umbrella.",
    "outcome": 3
   },
   {

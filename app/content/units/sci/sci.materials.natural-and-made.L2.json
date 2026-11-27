@@ -168,7 +168,11 @@
    "examples": [
     "A cotton shirt is made of a natural fibre, but people spun it and wove it into cloth.",
     "A wasp makes paper for her nest, so paper can be made by an animal too.",
-    "A brick began as clay, but it is baked so hot that it can never turn back into clay."
+    "A brick began as clay, but it is baked so hot that it can never turn back into clay.",
+    "Sand is natural, but once people melt it with soda and limestone, it becomes glass.",
+    "A sea sponge is a living animal, but many kitchen sponges are made by people from plastic.",
+    "Beeswax comes from a hive, and artificial wax is made from oil. Both can make a candle.",
+    "Plastic waste is made by people, yet it can stay in the soil, a river or the sea for a very long time."
    ],
    "perspectives": [
     {
@@ -1562,6 +1566,12 @@
      "why": "Sand is the raw material for glass. Wood is a raw material for paper."
     },
     {
+     "t": "truefalse",
+     "p": "Every kitchen sponge is a natural material, because a sponge is an animal.",
+     "a": false,
+     "why": "False. A sea sponge is a natural animal, but many kitchen sponges are made by people from plastic."
+    },
+    {
      "t": "fill",
      "p": "Rayon is a soft cloth made from wood ____, which is treated and spun into thread.",
      "a": [
@@ -1781,6 +1791,18 @@
    "a": 0,
    "why": "Rayon is made from wood pulp that is treated with chemicals and spun into thread. Oil makes plastic fibres, not rayon. Wool is spun from a sheep's fleece, not made into rayon.",
    "outcome": 1
+  },
+  {
+   "t": "mcq",
+   "p": "Which of these is a made wax, not a natural one?",
+   "opts": [
+    "Artificial wax made from oil",
+    "Beeswax from a hive",
+    "A sea sponge"
+   ],
+   "a": 0,
+   "why": "Artificial wax is made from oil by people. Beeswax comes from bees, and a sea sponge is a living animal, so both are natural.",
+   "outcome": 0
   }
  ],
  "applications": [

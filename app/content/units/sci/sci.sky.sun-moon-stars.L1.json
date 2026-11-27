@@ -1103,6 +1103,10 @@
     {
      "item": "a window or a balcony",
      "qty": 1
+    },
+    {
+     "item": "scissors, a glue stick, and yellow and white paper scraps or old greeting cards",
+     "qty": 1
     }
    ],
    "safety": "Never look straight at the Sun. A grown-up stays with your child on the balcony at night.",
@@ -1144,7 +1148,7 @@
     },
     {
      "id": "s2",
-     "mins": 8,
+     "mins": 4,
      "do": "In the day, your child looks out of the window and draws the day sky on the first two pages. Or they tell you, and you write it. Add their words under any picture.",
      "say": "Look out of the window. Draw what you see in the day sky, or tell me and I will write it. What is making it so bright?",
      "kid": "Draw the day sky, or tell your grown-up what to write.",
@@ -1157,6 +1161,13 @@
        ]
       }
      ]
+    },
+    {
+     "id": "s2b",
+     "mins": 4,
+     "do": "Your child cuts a sun from yellow paper and glues it on a day page. They cut a moon from white paper and a few stars, and keep them for the night pages.",
+     "say": "Let us make a paper sun, a moon and some stars. The sun goes on the day page. The moon and stars wait for the night.",
+     "kid": "Cut a paper sun for the day page. Cut a moon and some stars for tonight."
     },
     {
      "id": "s3",
@@ -1348,6 +1359,12 @@
      "p": "The Moon is a ball of rock that goes round the Earth.",
      "a": true,
      "why": "True. The Moon is a big ball of rock. It makes no light of its own, and shines with the Sun's light."
+    },
+    {
+     "t": "fill",
+     "p": "A paper moon is glued on a night page. The real Moon shines because the ____ lights it up.",
+     "a": "Sun",
+     "why": "The Moon has no light of its own. The Sun's light falls on it and bounces to our eyes."
     },
     {
      "t": "draw",
@@ -1679,6 +1696,18 @@
    "a": 0,
    "why": "When the Moon covers the Sun, the sky goes dark, and bright stars appear. They were there all day.",
    "outcome": 3
+  },
+  {
+   "t": "mcq",
+   "p": "You glue a paper moon on your night page. What lights the real Moon in the sky?",
+   "opts": [
+    "The Sun",
+    "The stars",
+    "Its own light"
+   ],
+   "a": 0,
+   "why": "Sunlight falls on the Moon and bounces off it to our eyes. The Moon has no light of its own, and the stars are too far away to light it.",
+   "outcome": 2
   }
  ],
  "videos": [

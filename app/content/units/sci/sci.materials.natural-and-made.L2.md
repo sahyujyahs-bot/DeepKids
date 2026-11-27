@@ -68,6 +68,10 @@ Some cases are easy. A stone is natural and a plastic mug is made by people. But
 - e.g. A cotton shirt is made of a natural fibre, but people spun it and wove it into cloth.
 - e.g. A wasp makes paper for her nest, so paper can be made by an animal too.
 - e.g. A brick began as clay, but it is baked so hot that it can never turn back into clay.
+- e.g. Sand is natural, but once people melt it with soda and limestone, it becomes glass.
+- e.g. A sea sponge is a living animal, but many kitchen sponges are made by people from plastic.
+- e.g. Beeswax comes from a hive, and artificial wax is made from oil. Both can make a candle.
+- e.g. Plastic waste is made by people, yet it can stay in the soil, a river or the sea for a very long time.
 - **Many textbooks:** If the material is still the same stuff, like cotton in a shirt or wood in a chair, it is natural. If it has become a new material, like glass or plastic, it is made.
 - **Some scientists who study animals:** Humans are animals. If a wasp's paper is natural, then our paper is natural too. Animals, including us, change natural materials all the time.
 - **People who care about waste:** The question that matters most is whether the material can break down and go back into the soil. Banana leaves can. Most plastic cannot, for a very long time.
@@ -403,7 +407,7 @@ Nila did not know. Amma did not say. They walked home with the green glass in Ni
    **Answer:** The banana peel. *Why:* Bacteria and fungi in the soil eat banana peel quickly. Picking the plastic bag may mean mixing up 'changed most' and 'changed least'.
 10. (perspective) Anjana and her grandfather are choosing plates for a big family lunch at Onam.  
    **Answer:** A strong answer picks one and gives a reason, such as 'the banana peel broke down in the soil test, and banana leaves are a plant material too'. It also says what the other is right about, such as 'steel plates are used again and again, so they make no rubbish'.. *Why:* Both are good choices. One breaks down, the other lasts and is used again. Made does not always mean bad.
-### From Sand to Glass (stretch) (stretch, 11 questions)
+### From Sand to Glass (stretch) (stretch, 12 questions)
 1. (write) Someone says, 'Glass can't be made from sand. Sand is not clear.' What would you tell them? Use the Sugar Test.  
    **Answer:** The sugar heap was white too, but melted and cooled it became clear. Each grain lets light through, but a heap has many edges. Melted sand joins into one piece with no edges, so glass is clear.. *Why:* A strong answer uses the sugar test as evidence, and says why melting makes the material clear.
 2. (mcq) Why does glass-making need a furnace, not a stove?  
@@ -417,16 +421,18 @@ Nila did not know. Amma did not say. They walked home with the green glass in Ni
    **Answer:** Sand, then a furnace melting it, then a worker pulling or shaping hot glass, then a bangle on a wrist.. *Why:* A strong drawing shows that the sand is melted by heat, shaped while hot, and cooled.
 6. (fill) The natural material that something is made from is called its ____ material.  
    **Answer:** ['raw']. *Why:* Sand is the raw material for glass. Wood is a raw material for paper.
-7. (fill) Rayon is a soft cloth made from wood ____, which is treated and spun into thread.  
+7. (truefalse) Every kitchen sponge is a natural material, because a sponge is an animal.  
+   **Answer:** False. *Why:* False. A sea sponge is a natural animal, but many kitchen sponges are made by people from plastic.
+8. (fill) Rayon is a soft cloth made from wood ____, which is treated and spun into thread.  
    **Answer:** ['pulp']. *Why:* Rayon starts as wood pulp, a natural plant material. People change it into a new cloth, so rayon is a made material.
-8. (truefalse) A cooking fire on a beach is hot enough to melt sand into glass.  
+9. (truefalse) A cooking fire on a beach is hot enough to melt sand into glass.  
    **Answer:** False. *Why:* False. Glass needs a closed furnace at about 1,500 degrees Celsius. A cooking fire is far cooler.
-9. (mcq) In the water shake, the tissue fell apart, but the plastic did not. Why?  
+10. (mcq) In the water shake, the tissue fell apart, but the plastic did not. Why?  
    Options: The tissue is made of fibres that let go of each other when wet / The plastic was bigger / The water was too cold  
    **Answer:** The tissue is made of fibres that let go of each other when wet. *Why:* Paper is plant fibres holding each other. Water gets between them and they let go. Plastic is made of long chains that water does not pull apart.
-10. (perspective) Anjana and her friend Sana see a paper wasp's nest on a balcony.  
+11. (perspective) Anjana and her friend Sana see a paper wasp's nest on a balcony.  
    **Answer:** A strong answer gives a clear reason, for example that people are animals too, so both could be called natural. It also names a difference, for example that people use big machines, chemicals and factories.. *Why:* There is no single right answer. It depends on where we draw the line between natural and made.
-11. (write) In the soil cup test, the plastic bag did not change in two weeks. Why could that be a problem if plastic is thrown on the ground?  
+12. (write) In the soil cup test, the plastic bag did not change in two weeks. Why could that be a problem if plastic is thrown on the ground?  
    **Answer:** Because it will stay there for a very long time. It does not break down like peel or paper, so it piles up.. *Why:* A strong answer uses the test result and says what happens when plastic is not broken down.
 
 ## Videos
@@ -468,6 +474,9 @@ Nila did not know. Amma did not say. They walked home with the green glass in Ni
 11. (mcq) Rayon, a soft cloth used for saris and shirts, is made from which natural material?  
    Options: Wood pulp / Sheep's wool / Oil  
    **Answer:** Wood pulp. *Why:* Rayon is made from wood pulp that is treated with chemicals and spun into thread. Oil makes plastic fibres, not rayon. Wool is spun from a sheep's fleece, not made into rayon.
+12. (mcq) Which of these is a made wax, not a natural one?  
+   Options: Artificial wax made from oil / Beeswax from a hive / A sea sponge  
+   **Answer:** Artificial wax made from oil. *Why:* Artificial wax is made from oil by people. Beeswax comes from bees, and a sea sponge is a living animal, so both are natural.
 
 ## Applications
 - Glass makers melt sand, and old crushed glass, to make bottles, windows, spectacles and bangles.

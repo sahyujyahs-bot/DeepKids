@@ -259,7 +259,7 @@
    "concept": "The Moon: the Earth's companion with borrowed light",
    "status": "defined",
    "definition": "The Moon is the Earth's natural satellite. It goes round the Earth about once a month. It makes no light. Moonlight is sunlight that has bounced off the Moon.",
-   "description": "The Moon is about 3 lakh 84 thousand kilometres away. It is about a quarter as wide as the Earth. The Moon is not white. Its ground is dark grey. It reflects only about 12 out of every 100 parts of the sunlight that hit it, about as much as an old tar road. It looks bright only because the night sky around it is so dark. The Moon always keeps the same face towards us, because it spins round once for each trip round the Earth. Its other side is not dark. It gets just as much sunlight. We simply never see it from Earth. Half of the Moon is always lit by the Sun. As it goes round us, we see more or less of that lit half, so it seems to change shape.",
+   "description": "The Moon is about 3 lakh 84 thousand kilometres away. It is about a quarter as wide as the Earth. The Moon is not white. Its ground is dark grey. It reflects only about 12 out of every 100 parts of the sunlight that hit it, about as much as an old tar road. It looks bright only because the night sky around it is so dark. The Moon always keeps the same face towards us, because it spins round once for each trip round the Earth. Its other side is not dark. It gets just as much sunlight. We simply never see it from Earth. Half of the Moon is always lit by the Sun. As it goes round us, we see more or less of that lit half, so it seems to change shape. The Moon is round, like a ball. So are the Earth and the Sun. Hold a ball in a torch beam in a dark room: the side facing the torch is lit, and the other side is in shadow, just as the Moon is.",
    "examples": [
     "Twelve astronauts walked on the Moon between 1969 and 1972. They found grey dust and rocks.",
     "On 23 August 2023, India's Chandrayaan-3 landed near the Moon's south pole, the first spacecraft to land there.",
@@ -988,6 +988,12 @@
      "p": "Stars are tiny sparks, much smaller than the Moon.",
      "a": false,
      "why": "False. Stars are suns, and many are bigger than our Sun. They look tiny only because they are so far away."
+    },
+    {
+     "t": "truefalse",
+     "p": "The Earth is flat, like a plate.",
+     "a": false,
+     "why": "False. The Earth is round, like a ball, and so are the Sun and the Moon."
     },
     {
      "t": "mcq",
@@ -2920,6 +2926,18 @@
    "a": 0,
    "outcome": 7,
    "why": "Even a thin edge of the Sun is far too bright for eyes. The back of the eye has no pain sensors, so the harm happens without hurting. Watch an eclipse with a pinhole viewer instead, with your back to the Sun."
+  },
+  {
+   "t": "mcq",
+   "p": "What shape are the Sun, the Earth and the Moon?",
+   "opts": [
+    "Round, like a ball",
+    "Flat, like a plate",
+    "Square, like a box"
+   ],
+   "a": 0,
+   "why": "All three are round, like balls. A ball in a torch beam shows the same thing as the Moon: one side is lit and the other side is dark. A plate or a box would not look like that from every side.",
+   "outcome": 0
   }
  ],
  "applications": [
