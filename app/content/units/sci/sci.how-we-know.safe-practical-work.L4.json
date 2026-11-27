@@ -654,7 +654,7 @@
    "India Meteorological Department, report on Very Severe Cyclonic Storm Phailin, 2013"
   ]
  },
- "playtest": "Main hands-on investigation, to be written under this name: 'The dissolving-time test: choose your tools, name the risks, predict, then judge your prediction'. The child measures how long one level teaspoon of sugar takes to dissolve in cold water and in room-warm water, with the same stirring. From those two results the child predicts the time for warm tap water, writes the prediction, tests three times and compares the miss with the spread. A second round predicts for an unfamiliar solid, rock salt or powdered jaggery. Warm tap water only, never boiling, poured by a grown-up, in steel or plastic on a tray. The roots, the summary and the deep truth refer to this test, so keep its shape. A short second activity the cards rely on: the three bowls of water for the two hands. Facts a reviewer must verify: the Sushruta Samhita chapter numbers (Sutrasthana 7 for instruments and the hand, 9 for practice on gourds) and the hair-splitting sharpness line (Sutrasthana 8). Charaka Samhita Sutrasthana 11 for the four ways of knowing and the crop example of yukti, and Vimanasthana 8 for ordered examination. Nyaya Sutra 1.1.5 and the cloud example in Vatsyayana. Locke's two-hands passage. Boeing Model 299 crash, October 1935. WHO checklist figures: 19 items, 8 hospitals including one in New Delhi, deaths 1.5 per cent to 0.8 per cent. Urbach 2014: 101 hospitals. Scheele died 1786 aged 43. Curie's notebooks in lead-lined boxes at the Bibliothèque nationale de France. Grace Fryer and four others sued in 1927. Mendeleev's 5.9 and Lecoq de Boisbaudran's first 4.7 for gallium. India Meteorological Department monsoon forecast error of about plus or minus 5 per cent. Cyclone Phailin: about a million moved, a few dozen deaths, about 10,000 deaths in 1999, and Mrutyunjay Mohapatra's role. Lorenz's 0.506 and 0.506127 in 1961. Neptune 1846, Vulcan, Einstein 1915. Popper 1934, Duhem 1906, Lakatos 1970. Mozi's three tests. Ibn al-Haytham about 1021 CE. Acharanga Sutra 1.4.1. Zhuangzi chapter 3. Sunflower study, Science 2016. Alice Hamilton's Illinois survey, 1910. Ramazzini's book, 1700. The deep truth was not compared with other lessons' deep truths, because this helper was told to make no other tool calls: run deep_truths.py and check. The founder's notes and the Combined lessons were not searched for the same reason, so sources.founder is empty. Words that need flashcards, in the order met: practical work, equipment, quantity, length, volume, mass, temperature, millilitre, smallest mark, zero mark, eye level, reading, thermometer, stopwatch, senses, compare, hazard, risk, harm, likely, risk assessment, remove, swap, barrier, protection, hierarchy of controls, spill, scald, checklist, radioactive, acceptable risk, precaution, living being, prediction, reason, inference, familiar, unfamiliar, dissolve, result, difference, accuracy, hindsight, spread, forecast, miss, assumption, chaos.",
+ "playtest": "Not yet tried at a real table: every hands-on part (the dissolving test, the falling ruler, the three bowls, the tool-to-job activity, the coin drops, the kitchen risk hunt, the drying project, both challenges and the game) was written from known behaviour and has not been run with a family. Timings are estimates. The sugar test is the main risk: sugar types differ, so the stirring pace has a fix written in for sugar that is too fine or too coarse. Check that the cold, room-warm and warm times are far enough apart to see, and that the warm test stays under 45 degrees Celsius. Facts still to check against sources: Sushruta Samhita chapter numbers (Sutrasthana 7 for instruments and the hand, 9 for practice on gourds, 8 for the hair-splitting sharpness line); Charaka Samhita Sutrasthana 11 (four ways of knowing, the crop example) and Vimanasthana 8 (ordered examination); Nyaya Sutra 1.1.5 and the cloud example in Vatsyayana; Locke's two-hands passage; Boeing Model 299 crash in October 1935; the WHO checklist figures (19 items, 8 hospitals including one in New Delhi, deaths from 1.5 to 0.8 per cent); Urbach 2014 (101 hospitals); Scheele's death in 1786 aged 43; Curie's notebooks in lead-lined boxes at the Bibliotheque nationale de France; Grace Fryer and four others suing in 1927; Mendeleev's 5.9 and Lecoq de Boisbaudran's first 4.7 for gallium; the monsoon forecast error of about 5 per cent; Cyclone Phailin figures and Mrutyunjay Mohapatra's role; Lorenz's 0.506 and 0.506127 in 1961; Neptune 1846, Vulcan and Einstein 1915; Popper 1934, Duhem 1906, Lakatos 1970; Mozi's three tests; Ibn al-Haytham about 1021 CE; Acharanga Sutra 1.4.1; Zhuangzi chapter 3; the sunflower study in Science 2016; Alice Hamilton's 1910 Illinois survey; Ramazzini's book of 1700. Also check: the falling-ruler table (5 cm 0.10 s, 10 cm 0.14 s, 15 cm 0.18 s, 20 cm 0.20 s, 25 cm 0.23 s, 30 cm 0.25 s), that most bottle caps hold 1 to 3 millilitres, that a small coin holds 10 to 40 drops, and which three videos best match the cards, since none is chosen yet. The deep truth was checked against other units by the script, which found no repeat, and no founder notes were found for this subtopic, so none are credited.",
  "terms": [
   {
    "term": "Practical work",
@@ -1036,7 +1036,7 @@
        "b": "REMOVE. Without a climb, a fall from a height cannot happen."
       },
       {
-       "f": "Watch the animal where she already is. Do not catch or move her.",
+       "f": "Watch the animal where they already are. Do not catch or move them.",
        "b": "REMOVE. Not catching removes the harm of trapping, and the animal stays free."
       },
       {
@@ -1300,11 +1300,11 @@
     {
      "id": "e1s3",
      "mins": 5,
-     "do": "Set a tray in the middle of the table and tie back long hair. Put a dark cloth on the tray and a clear cup on the cloth. Keep a spill cloth beside you. Read the checklist aloud and tick each line. Then do one practice run with cold water and sugar, and do not write the time down.",
+     "do": "Set a tray in the middle of the table and tie back long hair. Put a dark cloth on the tray and a clear cup on the cloth. Keep a spill cloth beside you. Read this checklist aloud and tick each line: tray down, hair tied, cloth ready, grown-up near, prediction paper ready. Fill a teaspoon with sugar and slide a stiff card across the top to level it. Then do one practice run with cold water, and do not write the time down.",
      "say": "Everything has its place. Now one practice run. Pour water to the line and add one level spoon of sugar. Start the clock as the sugar touches the water. Stir one slow circle each second, and say the count aloud.",
      "kid": "Set the tray and cup. Do one practice run. Stir one circle each second.",
      "adult": false,
-     "parent": "Checklist: tray down, hair tied, cloth ready, a grown-up near, prediction paper ready. For a level teaspoon, fill the spoon and slide a stiff card or the edge of a ruler across the top. The run ends when no crystals show on the dark cloth or in the water, and the water looks clear. If the practice run is still cloudy after 2 minutes, pour it away and stir two circles each second in every cup from now on. If it clears in under 10 seconds, your sugar is very fine, so stir one circle every two seconds in every cup. Keep your chosen stirring the same for the whole test."
+     "parent": "The edge of a ruler works as well as a card for levelling. The run ends when no crystals show on the dark cloth or in the water, and the water looks clear. If the practice run is still cloudy after 2 minutes, pour it away and stir two circles each second in every cup from now on. If it clears in under 10 seconds, your sugar is very fine, so stir one circle every two seconds in every cup. Keep your chosen stirring the same for the whole test."
     },
     {
      "id": "e1s4",
@@ -2093,7 +2093,7 @@
     {
      "id": "ch1s3",
      "mins": 8,
-     "do": "Tip 100 millilitres of water, about half a small cup, across the cup's edge by hand, to copy a knock. Look at where the water went. Wipe up at once.",
+     "do": "Pour 100 millilitres of water into the cup, about half a small cup. Then tip the cup over its edge by hand, to copy a knock. Look at where the water went. Wipe up at once.",
      "say": "Now we knock it over, on purpose, with a small amount of water. Where does the water go? Is anything wet that should be dry?",
      "kid": "Tip a little water on purpose. Where did it go?",
      "adult": false,
@@ -3120,8 +3120,8 @@
    "a": "It did not want to be a risk-taker."
   },
   {
-   "j": "Why did the thermometer join the cooking class?",
-   "a": "It wanted to hear every recipe's temperature talk."
+   "j": "Why is the thermometer the cleverest tool on the table?",
+   "a": "It has so many degrees!"
   }
  ],
  "maths": [
@@ -3160,8 +3160,8 @@
   },
   {
    "problem": "A test has a one-in-a-hundred chance of a small spill and a one-in-ten-thousand chance of a cut. If 200 families do it, how many spills and cuts do you expect?",
-   "answer": "About 2 spills and 0.02 cuts, which means a cut is unlikely, about 1 chance in 50 that anyone cuts at all.",
-   "explain": "200 × 1/100 = 2 spills. 200 × 1/10,000 = 0.02, which is 2 in 100, or 1 in 50. A risk joins how likely a harm is with how bad it would be. Spills are likely and mild. A cut is unlikely and worse.",
+   "answer": "About 2 spills and 0.02 cuts. A cut is unlikely: about one chance in 50 that anyone is cut at all.",
+   "explain": "200 × 1/100 = 2 spills. 200 × 1/10,000 = 0.02, which is about one chance in 50. A risk joins how likely a harm is with how bad it would be. Spills are likely and mild. A cut is unlikely and worse.",
    "math_unit": "math.fractions.ratio-and-proportion.L4",
    "context": "This problem puts numbers on how likely each harm is and compares two risks.",
    "why_maths": "A risk is a chance times a size. Counting how many times something is expected to happen across many tries is how safety workers compare risks."
