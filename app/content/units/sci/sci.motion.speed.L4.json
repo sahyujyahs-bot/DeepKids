@@ -109,16 +109,16 @@
    ],
    "perspectives": [
     {
-     "who": "Bhaskara II, an astronomer of the Deccan, in the Siddhanta Shiromani, about 1150",
-     "explanation": "He saw that a planet's speed across the sky keeps changing, so a day's average was not good enough. He worked out its 'tatkalika gati', which means its motion at that very time, by using very small pieces of time."
+     "who": "Bhaskara II, an astronomer of the Deccan, in his book Siddhanta Shiromani, about the year 1150 CE",
+     "explanation": "Bhaskara saw that a planet does not move at the same speed all day. An average for the whole day is wrong for any one moment. So he measured the planet's motion over a very short time. He called the result 'tatkalika gati', which means the motion at that very time."
     },
     {
-     "who": "Zeno of Elea, a Greek thinker of about 450 BCE, as reported in Aristotle's Physics, book 6, chapter 9",
-     "explanation": "At one single instant, a flying arrow covers no distance, because an instant has no length. Zeno asked how something that goes nowhere in each instant can be moving at all."
+     "who": "Zeno of Elea, a Greek thinker of about 450 BCE, as told by Aristotle in his book Physics",
+     "explanation": "Freeze a flying arrow at one instant, like a photograph. In the photograph the arrow is not travelling anywhere, because one instant has no length. So Zeno asked: if the arrow goes nowhere in every instant, how does it ever move at all?"
     },
     {
-     "who": "Mathematicians since Isaac Newton and Gottfried Leibniz in the 1600s",
-     "explanation": "The speed at a moment is the number that the average speed gets closer and closer to, as the piece of time is made smaller and smaller. Most mathematicians take this as the answer to Zeno. Some philosophers reply that it tells us how to calculate the speed, and still does not say what moving at an instant is."
+     "who": "Isaac Newton in England and Gottfried Leibniz in Germany, mathematicians of the 1600s, and those who came after them",
+     "explanation": "Newton and Leibniz found a way to answer Zeno with numbers. Take a car that is speeding up and, right now, is going 10 metres per second. Measure its average speed over the next whole second, and you get 11. Over the next tenth of a second, you get 10.1. Over the next hundredth of a second, you get 10.01. The shorter the time, the closer the average gets to 10. So 10 is the car's speed at that moment. Most mathematicians say this answers Zeno. Some philosophers say it only tells us how to calculate the speed. They say it still does not explain what moving at one instant means."
     }
    ],
    "art": "A distance line for a toy car cut into two unequal time pieces, with a magnifying glass over one very short piece near the start.",
@@ -797,7 +797,7 @@
   ],
   "science": [
    "Aryabhata, Aryabhatiya (499 CE), Gola section, verse 9: the boat and the river bank.",
-   "Bhaskara II, Siddhanta Shiromani (about 1150): tatkalika gati, the motion of a planet at a given time.",
+   "Bhaskara II, Siddhanta Shiromani (about the year 1150 CE): tatkalika gati, the motion of a planet at a given time.",
    "Ole Rømer, 'Démonstration touchant le mouvement de la lumière', Journal des Sçavans, 1676.",
    "A. A. Michelson and E. W. Morley, American Journal of Science, 1887: no change found in the speed of light.",
    "A. Einstein, 'Zur Elektrodynamik bewegter Körper', Annalen der Physik, 1905.",

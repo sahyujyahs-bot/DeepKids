@@ -41,9 +41,9 @@ In the toy car test, the car took longer over the second metre than over the fir
 - e.g. A train from Chennai to Coimbatore covers about 500 kilometres in about 6 hours. Its average speed is about 83 kilometres per hour, though the train stood still at each station.
 - e.g. A cricket ball's speed on television is measured over a tiny part of its flight, just after the ball leaves the bowler's hand.
 - e.g. On the way to school an autorickshaw may show 0, then 30, then 12 on its meter. The average for the trip is a different number again.
-- **Bhaskara II, an astronomer of the Deccan, in the Siddhanta Shiromani, about 1150:** He saw that a planet's speed across the sky keeps changing, so a day's average was not good enough. He worked out its 'tatkalika gati', which means its motion at that very time, by using very small pieces of time.
-- **Zeno of Elea, a Greek thinker of about 450 BCE, as reported in Aristotle's Physics, book 6, chapter 9:** At one single instant, a flying arrow covers no distance, because an instant has no length. Zeno asked how something that goes nowhere in each instant can be moving at all.
-- **Mathematicians since Isaac Newton and Gottfried Leibniz in the 1600s:** The speed at a moment is the number that the average speed gets closer and closer to, as the piece of time is made smaller and smaller. Most mathematicians take this as the answer to Zeno. Some philosophers reply that it tells us how to calculate the speed, and still does not say what moving at an instant is.
+- **Bhaskara II, an astronomer of the Deccan, in his book Siddhanta Shiromani, about the year 1150 CE:** Bhaskara saw that a planet does not move at the same speed all day. An average for the whole day is wrong for any one moment. So he measured the planet's motion over a very short time. He called the result 'tatkalika gati', which means the motion at that very time.
+- **Zeno of Elea, a Greek thinker of about 450 BCE, as told by Aristotle in his book Physics:** Freeze a flying arrow at one instant, like a photograph. In the photograph the arrow is not travelling anywhere, because one instant has no length. So Zeno asked: if the arrow goes nowhere in every instant, how does it ever move at all?
+- **Isaac Newton in England and Gottfried Leibniz in Germany, mathematicians of the 1600s, and those who came after them:** Newton and Leibniz found a way to answer Zeno with numbers. Take a car that is speeding up and, right now, is going 10 metres per second. Measure its average speed over the next whole second, and you get 11. Over the next tenth of a second, you get 10.1. Over the next hundredth of a second, you get 10.01. The shorter the time, the closer the average gets to 10. So 10 is the car's speed at that moment. Most mathematicians say this answers Zeno. Some philosophers say it only tells us how to calculate the speed. They say it still does not explain what moving at one instant means.
 ### Every speed is measured against something · *defined*
 **Definition:** A speed is always stated against a reference point. Change the reference point, and the same mover has a different speed.
 
@@ -682,7 +682,7 @@ How Fast Is Fast? (sci.motion.L4): Topic-level song
 - ideas/by_topic/space-time-and-dimensions.md, Grade 4 and Grade 5 time rows: speed changes the rate at which clocks tick, and light sets the universe's speed limit, used for the card on light.
 - ideas/sheets/science-grade-concepts--gravity-all-points.txt: sideways velocity of about 7.6 kilometres per second keeps the space station in orbit, used for the card on orbits and in applications.
 - Aryabhata, Aryabhatiya (499 CE), Gola section, verse 9: the boat and the river bank.
-- Bhaskara II, Siddhanta Shiromani (about 1150): tatkalika gati, the motion of a planet at a given time.
+- Bhaskara II, Siddhanta Shiromani (about the year 1150 CE): tatkalika gati, the motion of a planet at a given time.
 - Ole Rømer, 'Démonstration touchant le mouvement de la lumière', Journal des Sçavans, 1676.
 - A. A. Michelson and E. W. Morley, American Journal of Science, 1887: no change found in the speed of light.
 - A. Einstein, 'Zur Elektrodynamik bewegter Körper', Annalen der Physik, 1905.
