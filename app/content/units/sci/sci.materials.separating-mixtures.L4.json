@@ -3,7 +3,7 @@
  "title": "Separating mixtures: every method uses one difference between the parts",
  "level": 4,
  "summary": {
-  "text": "Stir one mustard seed into a katori of rava and you can pick the seed out again. Stir in a pinch of salt and you cannot, though the salt is still there. Why does one come back so easily and the other not? In this lesson you separate mixtures by picking, sieving, using a magnet, filtering and evaporating. You find that each method works by using one difference between the parts. Then you ask a harder question: clear water looks like one material, so how would you know if it is?",
+  "text": "Stir one mustard seed into a katori of rava and you can pick the seed out again. Stir in a pinch of salt and you cannot, though the salt is still there. Why does one come back so easily and the other not? In this lesson you separate mixtures by picking, sieving, a magnet, filtering and evaporating, and find that each method uses one difference between the parts. Then you ask a harder question: clear water looks like one material, so how would you know if it is?",
   "art": "A steel katori of rava with one black mustard seed lifted out and a few white salt grains still hidden in the rava."
  },
  "intro": {
@@ -198,7 +198,7 @@
     },
     {
      "who": "Samia Al Azharia Jahn, who studied village women's methods in Sudan in the 1970s and 1980s",
-     "explanation": "She recorded that women there cleared river water with crushed seeds of the moringa tree, which came from India and is also called the drumstick tree. Later tests in laboratories showed that a protein in the seeds makes mud and many bacteria clump together and sink."
+     "explanation": "She recorded that women there cleared river water with crushed seeds of the moringa tree. The tree came from India and is also called the drumstick tree. Later tests in laboratories showed that a protein in the seeds makes mud and many bacteria clump together and sink."
     },
     {
      "who": "Water engineers",
@@ -3034,7 +3034,7 @@
       },
       {
        "f": "Salt dissolved in water. Get the salt back.",
-       "b": "Evaporation. The water leaves as vapour and the salt stays behind."
+       "b": "Evaporation. Salt cannot turn into vapour at these temperatures, so it stays when the water goes."
       },
       {
        "f": "Mud mixed in water. Take the mud out.",
@@ -3070,7 +3070,7 @@
       },
       {
        "f": "Sea water in a salt pan. Get the salt.",
-       "b": "Evaporation. The Sun takes the water and the salt is left."
+       "b": "Evaporation. The Sun and wind carry the water off, and the salt crystals are raked from the pan."
       },
       {
        "f": "Dust blown into wheat on a threshing floor. Take out the dust.",
