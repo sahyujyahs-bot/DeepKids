@@ -8,7 +8,7 @@
  },
  "intro": {
   "hook": "Find an ant, or remember the last one you watched. How many legs did the ant have? Most people say 'lots'. Almost nobody has counted.",
-  "text": "The answer is six, always. Six legs is the first sign that you are looking at an insect. Insects are the animals you meet most often and look at least. There are more kinds of insects than of all other animals put together. Today you will set out food for the ants near your home and watch what they choose. Then you will find out how an insect's body works, and why the same insect can be called a helper in one place and a pest in another.",
+  "text": "The answer is six, always. Six legs is the first sign that you are looking at an insect. Insects are the animals you meet most often and look at least. There are more kinds of insects than of all other animals put together. Today you will set out food for the ants near your home and watch what they choose. Then you will find out how an insect's body works. You will also see why the same insect can be a helper in one place and a pest in another.",
   "art": "A child lying on the floor with chin on hands, watching a line of ants walk along the edge of a wall."
  },
  "outcomes": [
@@ -64,7 +64,7 @@
     "Centipede: one pair of legs on almost every part of a long body.",
     "Scorpions, ticks and mites have 8 legs, like spiders.",
     "A caterpillar seems to have many legs. Only the front six are true legs. The soft ones behind are grips that are lost when the caterpillar becomes a moth or butterfly.",
-    "Studies of DNA show that insects' closest relatives are the crabs and prawns."
+    "Studies of DNA show that insects are closer kin to crabs and prawns than to spiders."
    ],
    "perspectives": [
     {
@@ -120,7 +120,7 @@
    ],
    "perspectives": [],
    "one_view": "What antennae sense has been measured sensor by sensor, and scientists agree on it.",
-   "art": "A close view of an ant's head with one antenna tapping a dotted smell trail on the ground, and a male moth beside it with wide feathery antennae.",
+   "art": "A close view of an ant's head with one antenna tapping a dotted smell trail on the ground, and, next to the ant, a male moth with wide feathery antennae.",
    "context": "This card explains what an insect's feelers do, and how ants and moths use smell to find food and each other."
   },
   {
@@ -148,19 +148,19 @@
      "explanation": "Any one view of a thing is partial. A full account needs many viewpoints together. The bee's flower and the child's flower are both true and both incomplete."
     }
    ],
-   "art": "The same yellow flower shown twice: as a child sees it, plain yellow, and as a bee sees it, with dark ultraviolet lines pointing to the centre. A close-up of a compound eye sits between them.",
+   "art": "The same yellow flower shown twice: as a child sees the flower, plain yellow, and as a bee sees the same flower, with dark ultraviolet lines pointing to the centre. A close-up of a compound eye sits between them.",
    "context": "This card explains how insect eyes are built, and shows that a bee and a child looking at one flower see different things."
   },
   {
    "concept": "Insects breathe through holes along their sides, with no lungs",
    "status": "defined",
    "definition": "Spiracles are small breathing holes along the sides of an insect's body. They open into thin air tubes called tracheae, which carry air to every part of the body.",
-   "description": "An insect does not breathe through the mouth, and has no lungs. Look at a caterpillar's side and you may see a row of small dots. These are breathing holes, called spiracles. Each one opens into a tube. The tubes branch again and again, growing thinner, until they reach every muscle. Air goes straight to where it is needed. In your body, blood carries oxygen from the lungs. In an insect, the tubes deliver it directly, and the blood has other work. An insect can close the spiracles to save water. Many insects also pump the abdomen to push air through.",
+   "description": "An insect does not breathe through the mouth, and has no lungs. Look at a caterpillar's side and you may see a row of small dots. These are breathing holes, called spiracles. Each one opens into a tube. The tubes branch again and again, growing thinner, until they reach every muscle. Air goes straight to where it is needed. In your body, blood carries oxygen from the lungs. In an insect, the tubes deliver the air directly, and the blood has other work. An insect can close the spiracles to save water. Many insects also pump the abdomen to push air through.",
    "examples": [
     "A grasshopper's abdomen can be seen pumping in and out as the insect breathes.",
     "Mosquito young live under water and hang from the surface, breathing through a short tube like a snorkel.",
     "A diving beetle carries a bubble of air under the wing covers and breathes from it.",
-    "Soapy water kills many insects because it blocks the spiracles."
+    "On a large grasshopper you can find the spiracles with a magnifying glass, as small dots along her side."
    ],
    "perspectives": [],
    "one_view": "Spiracles and air tubes can be seen under a microscope, and scientists agree on how they work.",
@@ -174,13 +174,13 @@
    "description": "The heaviest insects alive weigh less than a small mango. Yet rocks hold fossils of an insect like a dragonfly with wings about 70 centimetres across. Their name is Meganeura, and they lived about 30 crore years ago. So insects were once much larger. Why not now? Scientists have three main answers. One is breathing. Air creeps slowly down long tubes, and a big body needs long tubes. A second is moulting. A big insect who has just shed the old skin would sag under their own weight. A third is birds, who hunt large flying insects. The answers may all be partly right.",
    "examples": [
     "The Atlas moth of Indian forests has wings about 25 centimetres across, among the widest of any living insect, yet weighs only a few grams.",
-    "The giant weta of New Zealand, one of the heaviest insects, can weigh about as much as a sparrow.",
+    "The giant weta of New Zealand, one of the heaviest insects, can weigh more than a sparrow.",
     "The smallest insects, fairy wasps, are smaller than a full stop."
    ],
    "perspectives": [
     {
      "who": "Jon Harrison and Alexander Kaiser, American scientists, in 2007",
-     "explanation": "They X-rayed beetles of many sizes. In bigger beetles the air tubes took up more and more of the room inside the legs. In the age of Meganeura the air held more oxygen than today, so thinner tubes were enough and bodies could be larger."
+     "explanation": "They X-rayed beetles of many sizes. In bigger beetles the air tubes took up a larger and larger share of the room inside the legs. In the age of Meganeura the air held more oxygen than today, so thinner tubes were enough and bodies could be larger."
     },
     {
      "who": "Matthew Clapham and Jered Karr, in 2012",
@@ -188,7 +188,7 @@
     },
     {
      "who": "Scientists who study the exoskeleton",
-     "explanation": "An outside skeleton must get much thicker as a body gets larger, and a large soft insect straight after a moult could not stand up on land. Large relatives of insects, such as crabs, live in water, which holds them up."
+     "explanation": "An outside skeleton must get much thicker as a body gets larger. A large insect, soft just after a moult, could not stand up on land. Large relatives of insects, such as crabs, live in water, which holds them up."
     }
    ],
    "art": "A fossil dragonfly-like insect with a 70-centimetre ruler along the wings, a child's arm beside it for size, and a modern dragonfly drawn small in the corner.",
@@ -200,7 +200,7 @@
    "definition": "Insect wings are thin, stiff sheets of exoskeleton moved by muscles in the thorax. They are not changed legs, as the wings of birds and bats are.",
    "description": "Insects were flying more than 30 crore years ago. That is long before any bird, bat or flying reptile. A bird's wing is a changed arm. An insect's wing is something else. An insect kept all six legs and grew wings as well. So where did the wings come from? No fossil shows the first small wing. Scientists have argued about this for more than a hundred years. Wings changed everything for insects. A flying insect can escape, find a mate and reach a new plant far away. Most kinds of insects alive today have wings.",
    "examples": [
-    "A housefly beats the wings about 200 times each second. That is the buzz you hear.",
+    "A housefly beats her wings nearly two hundred times a second. That is the buzz you hear.",
     "A dragonfly moves the four wings separately and can hover, fly backwards and turn on the spot.",
     "A beetle's front wings are hard covers. The thin back wings unfold from under them for flight.",
     "Worker ants have no wings, but new queens and males grow wings and fly once, in the rains."
@@ -216,7 +216,7 @@
     },
     {
      "who": "Scientists studying genes since about 2010, such as Yoshinori Tomoyasu's group",
-     "explanation": "The genes that build a wing are switched on in both places in insects without wings. They suggest that wings were made by two older body parts joining. Many researchers now favour this, and it is still being tested."
+     "explanation": "In winged insects, the genes that build a wing switch on in two places: on the back wall and near the leg. This suggests that wings were made by two older body parts joining. Many researchers now favour this, and it is still being tested."
     }
    ],
    "art": "A timeline with small pictures: a winged insect at more than 30 crore years ago, a flying reptile later, a bird later still, and a bat most recent.",
@@ -226,7 +226,7 @@
    "concept": "Growing up in four stages: the silk moth",
    "status": "defined",
    "definition": "Complete metamorphosis is growing up in four stages: egg, larva, pupa and adult. The larva and the adult look entirely different.",
-   "description": "A silk moth begins as an egg the size of a mustard seed. Out comes a larva, the silkworm, about as long as an eyelash. The silkworm does one thing: eat mulberry leaves. In about four weeks the silkworm moults four times and grows to about ten thousand times the first weight. Then the silkworm spins a cocoon from one unbroken thread. Inside, the silkworm becomes a pupa, and the body is rebuilt. About two weeks later a moth comes out. The moth has wings and feathery antennae and no working mouth. The moth never eats. The moth's work is to mate and lay eggs.",
+   "description": "A silk moth begins as an egg the size of a mustard seed. Out comes a larva, the silkworm, only a few millimetres long. The silkworm does one thing: eat mulberry leaves. In about four weeks the silkworm moults four times and grows to about ten thousand times the first weight. Then the silkworm spins a cocoon from one unbroken thread. Inside, the silkworm becomes a pupa, and the body is rebuilt. About two weeks later a moth comes out. The moth has wings and feathery antennae and no working mouth. The moth never eats. The moth's work is to mate and lay eggs.",
    "examples": [
     "Butterflies, beetles, flies, ants, bees and mosquitoes all grow up in these four stages.",
     "A fly's larva is called a maggot. A beetle's is called a grub. A mosquito's is called a wriggler.",
@@ -265,19 +265,19 @@
   {
    "concept": "Bees and other insects carry pollen, and much of our food depends on them",
    "status": "defined",
-   "definition": "Pollination is the moving of pollen, a fine powder, from one flower to another of the same kind, so that the plant can make seeds and fruits. An animal who does this is called a pollinator.",
-   "description": "A flower makes a fine powder called pollen. For a seed to form, pollen must reach another flower of the same kind. Plants cannot walk, so many pay insects to do it. The payment is nectar, a sweet drink. A bee pushes into a flower for nectar and gets dusted with pollen. At the next flower some pollen rubs off. A fruit can now grow. Of the main kinds of crops that people grow for food, about three out of four give more or better food when animals pollinate them. Most of those animals are insects. Honeybees do part of this work. Wild bees, flies, moths, beetles and wasps do the rest.",
+   "definition": "Pollination is the moving of pollen, a fine powder, from one flower to another of the same kind. This lets the plant make seeds and fruits. An animal who does this is called a pollinator.",
+   "description": "A flower makes a fine powder called pollen. For a seed to form, pollen must reach another flower of the same kind. Plants cannot walk, so many pay insects to do this job. The payment is nectar, a sweet drink. A bee pushes into a flower for nectar and gets dusted with pollen. At the next flower some pollen rubs off. A fruit can now grow. Of the main kinds of crops that people grow for food, about three out of four give more or better food when animals pollinate them. Most of those animals are insects. Honeybees do part of this work. Wild bees, flies, moths, beetles and wasps do the rest.",
    "examples": [
     "Mango flowers are pollinated mostly by flies. Cocoa, for chocolate, is pollinated by midges smaller than a sesame seed.",
     "Mustard, sunflower, apple, cardamom, coffee, brinjal and pumpkin all give more with insect visits.",
-    "Rice, wheat and maize are pollinated by wind and do not need insects.",
-    "India has several native honeybees: the rock bee, who builds one huge comb on cliffs and tall trees, the Indian hive bee, the little bee, and the tiny stingless bees.",
-    "Every kind of fig tree, including the banyan and the peepal, is pollinated by one kind of tiny wasp who lives nowhere else."
+    "Rice, wheat and maize do not need insects. Their pollen stays in the same flower or travels on the wind.",
+    "India has several native honeybees. The rock bee builds one huge comb on cliffs and tall trees. The others are the Indian hive bee, the little bee and the tiny stingless bees.",
+    "Each wild kind of fig tree, including the banyan and the peepal, is pollinated by its own kind of tiny wasp, who lives nowhere else."
    ],
    "perspectives": [
     {
      "who": "Alexandra-Maria Klein and colleagues, in 2007",
-     "explanation": "They checked the world's leading food crops one by one. Of 115 crops, 87 depend at least partly on animal pollinators. By weight, though, most food comes from wind-pollinated grains. Insects matter most for fruits, vegetables, nuts, spices and oils."
+     "explanation": "They checked the world's leading food crops one by one. Of 115 crops, 87 depend at least partly on animal pollinators. By weight, though, most food comes from grains that do not need insects. Insects matter most for fruits, vegetables, nuts, spices and oils."
     },
     {
      "who": "Renee Borges and other ecologists in India",
@@ -285,7 +285,7 @@
     },
     {
      "who": "Christian Konrad Sprengel, a German teacher, in 1793",
-     "explanation": "He was the first to show that flowers' colours, scents and nectar are there to draw insects. His book was ignored for decades. Most scholars then believed flowers were made to please people."
+     "explanation": "He was the first to show that flowers' colours, scents and nectar are there to draw insects. His book was ignored for decades. Charles Darwin later praised his work."
     }
    ],
    "art": "A honeybee inside a pumpkin flower covered in yellow pollen grains, with an arrow to a second flower and then to a small pumpkin beginning to swell.",
@@ -305,7 +305,7 @@
    "perspectives": [
     {
      "who": "Aristotle, in his History of Animals, about 350 BCE",
-     "explanation": "He called the large bee the king or leader. He noted that some people called this bee the mother, and he doubted it, because the bee has a sting and he thought nature gave weapons to males."
+     "explanation": "He called the large bee the king or leader, and many scholars repeated this after him."
     },
     {
      "who": "Luis Méndez de Torres in Spain in 1586, Charles Butler in England in 1609 and Jan Swammerdam in the Netherlands in the 1670s",
@@ -341,18 +341,18 @@
     },
     {
      "who": "Adrian Wenner and Patrick Wells, American scientists, from 1967",
-     "explanation": "They agreed the dance matches the place. They doubted that other bees use it. In their tests, new bees seemed to find food by the smell on the dancer's body. They argued that a dance 'language' was more than the evidence showed."
+     "explanation": "They agreed the dance matches the place. They doubted that other bees use the dance. In their tests, new bees seemed to find food by the smell on the dancer's body. They argued that a dance 'language' was more than the evidence showed."
     },
     {
      "who": "Axel Michelsen in Denmark in 1989, and Joe Riley's team in England in 2005",
-     "explanation": "Michelsen built a small robot bee that danced with no flower smell on it, and real bees flew where it pointed. Riley's team fixed tiny radar tags on bees who had followed a dance and tracked them flying straight towards the right place. Most scientists now accept that bees read the dance, and that smell helps them at the end."
+     "explanation": "Michelsen built a small model bee that danced with no flower smell on the model. Real bees flew where the model pointed. Riley's team fixed tiny radar tags on bees who had followed a dance and tracked them flying straight towards the right place. Most scientists now accept that bees read the dance, and that smell helps them at the end."
     }
    ],
    "art": "A honeycomb with a bee running a figure-of-eight, the straight middle part tilted to the left of straight up, and outside the hive the Sun with a flower field the same angle to its left.",
    "context": "This card explains the bee's dance and tells how scientists argued about it for forty years before it was settled."
   },
   {
-   "concept": "Silk is a thread spun by a caterpillar, and making it raises a hard question",
+   "concept": "Silk is a thread spun by a caterpillar, and making silk raises a hard question",
    "status": "defined",
    "definition": "Silk is the thread a silkworm spins to make a cocoon. Rearing silk moths for their thread is called sericulture.",
    "description": "A silkworm spins a cocoon from one long thread of protein, pushed out near the mouth. People learnt to unwind that thread and weave it. Silk threads have been found at Harappa and Chanhu-daro, from more than 4,000 years ago, made by wild silk moths. In China, people were keeping silk moths about 5,000 years ago. India makes four kinds of silk. Mulberry silk comes mostly from Karnataka. Tasar is gathered by Adivasi families in the forests of Jharkhand and Chhattisgarh. Eri and golden muga come from Assam. Here is the hard part. To unwind one whole thread, the cocoon is heated before the moth comes out, and the pupa inside dies.",
@@ -373,7 +373,7 @@
     },
     {
      "who": "Kusuma Rajaiah, a handloom officer from Telangana, since the 1990s",
-     "explanation": "He developed 'Ahimsa silk'. The moth is allowed to cut a way out, and the broken cocoon is spun into yarn. The cloth is less glossy and costs more, because the thread is in pieces and more cocoons are needed."
+     "explanation": "He developed 'Ahimsa silk'. The moth is allowed to cut a way out, and the broken cocoon is spun into yarn. The cloth is less glossy and costs more, because the thread is in pieces and extra cocoons are needed."
     },
     {
      "who": "Scientists who study insect minds",
@@ -387,7 +387,7 @@
    "concept": "Insects who hunt other insects: ladybirds, dragonflies and tiny wasps",
    "status": "defined",
    "definition": "A predator is an animal who hunts and eats other animals. Biological control is protecting crops by helping the predators of the insects who eat the crop.",
-   "description": "Look under a rose leaf and you may find aphids, small soft insects who suck the plant's juice. Look again in a week and there may be a ladybird. A ladybird and her larvae eat aphids, dozens in a day. Dragonflies catch mosquitoes in the air, and their nymphs eat mosquito young in the water. Tiny wasps lay their eggs inside caterpillars and aphids. A farmer who protects these hunters needs less spray. In 2008 the papaya mealybug reached Tamil Nadu and ruined papaya and mulberry fields. Sprays failed. In 2010 scientists in Bengaluru released a tiny wasp who preys on this mealybug, and within about a year the fields recovered.",
+   "description": "Look under a rose leaf and you may find aphids, small soft insects who suck the plant's juice. Look again in a week and there may be a ladybird. A ladybird and her larvae eat aphids, dozens in a day. Dragonflies catch mosquitoes in the air, and their nymphs eat mosquito young in the water. Tiny wasps lay their eggs inside caterpillars and aphids. A farmer who protects these hunters needs less spray. In 2008 the papaya mealybug reached Tamil Nadu and ruined papaya and mulberry fields. Sprays failed. In 2010 scientists in Bengaluru released a tiny wasp whose young grow inside the mealybug, and within about a year the fields recovered.",
    "examples": [
     "In 1888 orange trees in California were dying from a scale insect. Albert Koebele brought the vedalia ladybird from Australia, and within two years the trees were saved.",
     "Not every ladybird hunts. The hadda beetle, a ladybird with 28 spots, eats brinjal and potato leaves.",
@@ -397,7 +397,7 @@
    "perspectives": [
     {
      "who": "Farm scientists who practise biological control",
-     "explanation": "A released hunter keeps working for years at no cost, leaves no poison and is safe for bees. The papaya mealybug work is estimated to have saved Indian farmers a very large sum."
+     "explanation": "A released hunter keeps working for years at no cost, leaves no poison and is safe for bees. After the wasp spread, farmers could stop paying for sprays that had failed."
     },
     {
      "who": "Ecologists who study introductions that went wrong",
@@ -414,7 +414,7 @@
    "description": "Every day, animals leave dung, leaves fall and bodies die. Insects do much of the clearing. Dung beetles shape dung into balls, roll them away and bury them as food for their young. That feeds the soil and lets air and water in. Termites eat dead wood, with the help of tiny living beings in their guts who digest it. Ants carry away dead insects. Fly maggots clean a dead animal down to the bones. Without these workers, fields and forests would lie buried in waste. Australia found this out. Its native dung beetles could not handle cow dung, and pats covered the pastures until other dung beetles were brought in from the 1960s.",
    "examples": [
     "In 2013 Marie Dacke and colleagues showed that some dung beetles roll their balls in a straight line at night by steering by the Milky Way.",
-    "A cow pat in an Indian field may be gone in a day or two in the rains, taken underground by beetles.",
+    "A cow pat in an Indian field can be taken underground by beetles within days in the rains.",
     "Hospitals sometimes use specially raised, clean maggots to clear dead tissue from wounds that will not heal.",
     "Ants and termites turn and loosen soil, much as earthworms do."
    ],
@@ -441,7 +441,7 @@
     },
     {
      "who": "Historians who have studied his notebooks",
-     "explanation": "Ross relied on Indian helpers who are missing from most accounts. Husein Khan, a patient, let mosquitoes feed on him for a small payment. Kishori Mohan Bandyopadhyay worked beside Ross in the Calcutta laboratory and later received a gold medal. Giovanni Battista Grassi in Italy showed in 1898 which kind of mosquito carries human malaria, and received no prize."
+     "explanation": "Ross relied on Indian helpers who are missing from most accounts. Husein Khan, a patient, let mosquitoes feed on him for a small payment. Kishori Mohan Bandyopadhyay worked beside Ross in the Calcutta laboratory. Giovanni Battista Grassi in Italy showed in 1898 which mosquito carries human malaria. He did not share the Nobel Prize."
     },
     {
      "who": "Ecologists",
@@ -497,15 +497,15 @@
    "perspectives": [
     {
      "who": "Rachel Carson in 1962, and many bee scientists since, such as Dave Goulson",
-     "explanation": "Poisons travel through soil, water and food chains far beyond the field. Studies since 2012 found that a group of pesticides called neonicotinoids, even in tiny amounts, make bees worse at finding their way home and raising young. In 2018 the European Union banned three of them from outdoor use."
+     "explanation": "Poisons travel through soil, water and food chains far beyond the field. Studies since 2012 found that a group of pesticides called neonicotinoids harms bees, even in tiny amounts. The bees get worse at finding their way home and at raising young. In 2018 the European Union banned three of them from outdoor use."
     },
     {
      "who": "Pesticide makers and many farmers",
-     "explanation": "Without pesticides, harvests of some crops fall sharply and food costs more. They point to field studies that found little harm to honeybee hives at real farm doses, and say that mites, disease and loss of wild flowers harm bees more."
+     "explanation": "Without pesticides, harvests of some crops fall sharply and food costs more. They point to field studies that found little harm to honeybee hives at real farm doses. They say that mites, disease and loss of wild flowers harm bees more."
     },
     {
      "who": "Farm scientists who promote integrated pest management",
-     "explanation": "Count the insects first. Help the hunters, change the crop each season, and use the mildest spray on the smallest area only when the count passes a set level. Farmers in Asia who learnt this in field schools cut their spraying greatly and kept their rice harvests."
+     "explanation": "Count the insects first. Help the hunters and change the crop each season. Use the mildest spray, on the smallest area, only when the count passes a set level. Farmers in Asia who learnt this in field schools cut their spraying greatly and kept their rice harvests."
     }
    ],
    "art": "A vegetable patch with marigolds between the rows, a net over seedlings, a yellow sticky card on a stick and a ladybird on a leaf, with bees on the flowers.",
@@ -536,18 +536,18 @@
      "explanation": "Most long counts come from Europe and North America. Places that started with unusually high numbers are more likely to be studied and to show a fall. Insects need protecting, and overstating what is known can damage trust in science."
     }
    ],
-   "art": "A tent-shaped insect trap in a meadow with two jars beside it, one marked 1989 and nearly full, one marked 2016 and one-quarter full.",
+   "art": "A tent-shaped insect trap in a meadow with two jars beside the trap, one marked 1989 and nearly full, one marked 2016 and one-quarter full.",
    "context": "This card asks if insects are vanishing, shows how the question is measured, and says honestly that India has too few counts."
   },
   {
    "concept": "Do insects feel? The evidence is growing, and scientists are divided",
    "status": "debated",
    "definition": "To feel is to have an experience, such as pain, fear or pleasure. Scientists cannot observe an experience directly, so they look for behaviour that is hard to explain without it.",
-   "description": "A bee's brain is smaller than a sesame seed and holds about ten lakh nerve cells. Bees learn colours, count up to small numbers and remember routes. Insects feel, decide and remember. Some scientists say these are automatic responses with nobody feeling them. The evidence is hard to brush aside. In 2022 a team in London gave bumblebees small wooden balls. The bees rolled them again and again, with no food as reward. Young bees rolled more than old ones, as happens with play in mammals. In 2011 honeybees who had been shaken, as if a badger were attacking the hive, treated uncertain smells as bad news. They behaved like worried animals.",
+   "description": "A bee's brain is smaller than a sesame seed and holds about ten lakh nerve cells. Bees learn colours, count up to small numbers and remember routes. Their choices depend on what has happened to them before. Some scientists say these are automatic responses with nobody feeling them. The evidence is hard to brush aside. In 2022 a team in London gave bumblebees small wooden balls. The bees rolled them again and again, with no food as reward. Young bees rolled more than old ones, as happens with play in mammals. In 2011 honeybees who had been shaken, as if a badger were attacking the hive, treated uncertain smells as bad news. They behaved like worried animals.",
    "examples": [
     "Fruit flies who lose a fight are less willing to fight again for hours.",
     "An injured insect often keeps walking on a damaged leg. Some scientists take this as a sign of no pain. Others point out that hiding weakness is common in animals who are hunted.",
-    "In 2024 scientists finished a map of every nerve cell in a fruit fly's brain: about 1,40,000 cells and many crores of connections.",
+    "In 2024 scientists finished a map of every nerve cell in a fruit fly's brain: about 1,40,000 cells and about 5 crore connections between them.",
     "Paper wasps recognise the faces of other wasps in their nest."
    ],
    "perspectives": [
@@ -574,20 +574,20 @@
  ],
  "agreed": [
   {
-   "text": "There are far more insects than people, in kinds and in number.",
-   "evidence": "About ten lakh kinds of insects have been named, and a 2018 review by Nigel Stork estimated about 55 lakh kinds in all. In 2022 Patrick Schultheiss and colleagues pooled 489 studies and estimated about 20 quadrillion ants alone, which is about 25 lakh ants for every person."
+   "text": "Ants alone outnumber people by about 25 lakh to one.",
+   "evidence": "In 2022 Patrick Schultheiss and colleagues pooled 489 studies and estimated about 20 quadrillion ants alive at one time. Shared out, that is about 25 lakh ants for every person."
   },
   {
    "text": "Insects live on every continent, including Antarctica.",
-   "evidence": "A wingless midge, about half a centimetre long, lives on the Antarctic Peninsula and spends most of each year frozen. They are the largest animal who lives wholly on land there."
+   "evidence": "A wingless midge, only a few millimetres long, lives on the Antarctic Peninsula and spends most of each year frozen. This midge is the largest animal who lives wholly on land there."
   },
   {
-   "text": "Insects are among the oldest land animals.",
+   "text": "Insects were living on land long before the first dinosaurs.",
    "evidence": "Fossils of insect relatives and early insects are found in rocks about 40 crore years old, from before there were trees, and long before the dinosaurs."
   },
   {
-   "text": "Only a small share of insect kinds ever damage crops or carry illness.",
-   "evidence": "Farm scientists who list the insects causing real loss count a few thousand kinds worldwide, out of about ten lakh named. That is well under one in a hundred."
+   "text": "Almost every insect kind does us no harm at all.",
+   "evidence": "Farm scientists who list the insects causing real loss count a few thousand kinds worldwide. Set beside the lakhs of kinds that exist, that is well under one in a hundred."
   }
  ],
  "challenging": [
@@ -595,15 +595,15 @@
    "claim": "Insects feel pain and should be protected as other animals are.",
    "who": "Lars Chittka, Matilda Gibbons and colleagues, in a 2022 review",
    "for": "Insects show learned avoidance, trade-offs between harm and reward, wound-tending in some kinds, and mood-like states. Their nervous systems can turn pain signals up and down, as ours can.",
-   "against": "Shelley Adamo and others answer that each behaviour can be explained by small groups of nerve cells without experience, and that nobody has a test for feeling in a brain so different from ours.",
+   "against": "Shelley Adamo and others say that a small group of nerve cells can explain each of these behaviours, with no feeling needed. They add that nobody has a test for feeling in a brain so different from ours.",
    "status": "debated",
    "context": "A question with large consequences, because people kill and farm insects in enormous numbers. The evidence has shifted in the last fifteen years and is not settled."
   },
   {
    "claim": "Keeping more honeybee hives is the way to save pollinators.",
-   "who": "Many beekeeping campaigns and companies",
+   "who": "Beekeepers' associations and the honey companies that run 'adopt a hive' schemes",
    "for": "Honeybees pollinate many crops and are easy to move to where they are needed. More hives mean more pollination and income from honey.",
-   "against": "Jonas Geldmann and Juan González-Varo argued in 2018 that kept honeybees are farm animals, and that large numbers of hives can take food from wild bees and pass diseases to them. Many crops are pollinated better by wild bees and flies.",
+   "against": "Jonas Geldmann and Juan González-Varo argued in 2018 that kept honeybees are farm animals. Large numbers of hives can take food from wild bees and pass diseases to them. Many crops are pollinated better by wild bees and flies.",
    "status": "debated",
    "context": "A popular idea that some ecologists question. It shows that helping one insect is not the same as helping insects."
   },
@@ -611,14 +611,14 @@
    "claim": "Bees do not read the waggle dance. They find food by smell alone.",
    "who": "Adrian Wenner and Patrick Wells, from 1967",
    "for": "In their experiments, recruited bees went to the smell they had met on the dancer, even when the dance pointed elsewhere.",
-   "against": "A robot bee with no flower smell sent bees in the right direction in 1989, and radar tracking in 2005 followed recruits flying the direction and distance of the dance.",
+   "against": "In 1989 a model bee with no flower smell sent real bees in the right direction. In 2005 radar followed new bees as they flew the direction and distance that the dance showed.",
    "status": "rejected",
    "context": "A serious challenge that was tested for forty years and finally answered. It made the evidence for the dance far stronger than it had been."
   },
   {
    "claim": "People should eat insects in place of much of the meat they eat now.",
    "who": "The Food and Agriculture Organization of the United Nations, in a 2013 report, and food scientists such as Arnold van Huis",
-   "for": "About two hundred crore people already eat insects, including communities in Nagaland, Assam and Odisha. Farmed insects need far less land, water and feed than cattle for the same protein.",
+   "for": "About two hundred crore people already eat insects. They include communities in Nagaland, Assam and Odisha. Farmed insects need far less land, water and feed than cattle do for the same amount of protein.",
    "against": "If insects feel, farming them by the crore could cause suffering on a huge scale. Some researchers also doubt the savings once heating and feed are counted.",
    "status": "debated",
    "context": "A real proposal for feeding the world, which depends on the unsettled question of whether insects feel."
@@ -691,7 +691,7 @@
    "'So who is right?' said Rishabh.",
    "'I guard my worms,' said Aita. 'She feeds her chicks. The tree grows new leaves after the worms come down. Everybody is doing what they must. Keep waving the pole.'",
    "They guarded all day, in turns. In the evening something happened that Rishabh had not expected. The biggest caterpillars stopped eating. One by one they began to walk down the trunks, head first, in a slow line.",
-   "'They are ready,' said Junmoni. 'They come down to find a place to spin.' She and Aita lifted each one gently into a bamboo tray. In the shed they set them on bundles of dry leaves. By lamplight Rishabh watched one caterpillar swing their head from side to side, laying a thread as fine as a hair, back and forth, back and forth, until a pale gold wall hid them.",
+   "'They are ready,' said Junmoni. 'They come down to find a place to spin.' She and Aita lifted each one gently into a bamboo tray. In the shed they set them on bundles of dry leaves. By lamplight Rishabh watched one caterpillar swing her head from side to side, laying a thread as fine as a hair, back and forth, back and forth, until a pale gold wall hid her.",
    "'What happens inside?' he whispered.",
    "'The body is taken apart and made again,' said Junmoni. 'In about three weeks a moth comes out.'",
    "Aita was quiet for a moment. 'From a few of them,' she said. 'I keep the best cocoons for moths, so there will be eggs for the next rearing. The rest I put in the hot sun before the moth can cut the thread. If the moth comes out, the thread is in pieces.'",
@@ -725,14 +725,14 @@
   "deep_truth": {
    "truth": "You put sugar on a card, and ants came and carried it home. In the kitchen tin, the same ants doing the same thing are called pests. The caterpillar who eats the leaf is the butterfly who carries the pollen. So 'friend' and 'foe' name where we are standing when we look. The insect is one being all along.",
    "habit": "We sort insects into helpful ones and harmful ones, as if each insect carried the label inside. That sorting makes us feel that some lives are for us and some are against us. The lesson's findings show the same insect moving between the two lists as the place and the watcher change.",
-   "evidence": "In the ant test, the ants behaved at the sugar drop exactly as ants do at a sugar tin, and only our name for it differed. The lone locust and the swarming locust are the same animal, and the leaf-eating caterpillar and the pollinating butterfly are the same individual."
+   "evidence": "Ants carry sugar home in just the same way from a card on the floor and from a tin in the kitchen. Only our name for them changes. A lone locust and a swarming locust are one animal. A leaf-eating caterpillar and a pollinating butterfly are one individual."
   },
   "three": {
-   "who_am_i": "A bee's flower and your flower are different, because your eyes and hers pick up different light. So what you see is the world as your body builds it. Knowing this, you can ask who is doing the seeing in you, and whether a bee asks nothing or simply has no way to tell us.",
+   "who_am_i": "A bee's flower and your flower look different, because your eyes and hers pick up different light. So what you see is the world as your own eyes build it. Then who is doing the seeing in you? And does a bee wonder about this, or does she simply have no way to tell us?",
    "what_is_life": "A fig tree cannot make seeds without one kind of wasp, and the wasp cannot have young without the fig. A hive decides with no ruler. Life is not a set of separate beings who sometimes help each other. Each life is made partly of other lives.",
    "what_is_this_world": "Insects were flying, pollinating and clearing waste for crores of years before any human lived. The soil, the fruit and the clean ground that we take as given are their work. The world is something countless small beings are doing, every moment, all together."
   },
-  "thread": "Follow any insect far enough and the line between 'that insect' and 'the rest' gets hard to draw. The bee is in the mustard seed, the dung beetle is in the soil, and the mosquito's young are in the fish. We name an insect friend or foe at the point where the insect's life touches our plans. That is a fact about our plans. Consciousness is the ground from which the bee, the flower and the child who watches them all arise, and each is that one ground seen from a different place. Many scientists do not accept this last step, and their view is given below.",
+  "thread": "Follow any insect far enough and the line between 'that insect' and 'the rest' gets hard to draw. The bee is in the mustard seed, the dung beetle is in the soil, and the mosquito's young are in the fish. We name an insect friend or foe at the point where her life touches our plans. That is a fact about our plans. The Upanishads below go one step further. They say that one consciousness is the ground from which the bee, the flower and the child who watches them all arise. Many scientists do not accept this last step, and their view is given below.",
   "teachings": [
    {
     "source": "Chandogya Upanishad 6.9",
@@ -746,7 +746,7 @@
    },
    {
     "source": "Kuruntokai, poem 2, by Iraiyanar, from the Tamil Sangam collections",
-    "teaching": "The poet speaks to a bee as to an expert: 'You whose life is to study the pollen of flowers, tell me truly, and not to please me. Among all the flowers you know, is any sweeter than my beloved's hair?'",
+    "teaching": "The poet speaks to a bee as to an expert. 'You whose life is to study the pollen of flowers, tell me truly, and not to please me. Among all the flowers you know, is any sweeter than my beloved's hair?'",
     "link": "About two thousand years ago a Tamil poet treated a bee as someone who knows things a human does not. The lesson's science agrees that a bee senses a flower in ways we cannot."
    }
   ],
@@ -762,7 +762,7 @@
   ],
   "other_view": {
    "who": "Many neuroscientists, and the philosopher Daniel Dennett",
-   "view": "Awareness is something large, complex brains do. An insect's small brain may run skilful behaviour with nobody at home, as a thermostat keeps a room warm without feeling cold. On this view, kinship with insects is a fact about ancestry, and it does not follow that insects share experience with us."
+   "view": "Awareness is something large, complex brains do. An insect's small brain may run skilful behaviour with nobody at home, as a thermostat keeps a room warm without feeling cold. On this view, kinship with insects is a fact about ancestry alone, and says nothing about inner experience."
   },
   "practice": {
    "title": "Five minutes with one insect",
@@ -793,7 +793,7 @@
   },
   {
    "q": "How many kinds of insects are there?",
-   "why_open": "About ten lakh are named. Estimates of the total run from about 20 lakh to more than 1 crore, because most live in tropical forests that have hardly been searched, and many look alike."
+   "why_open": "About ten lakh are named. Estimates of the total run from about 20 lakh to more than 1 crore. Most insects live in tropical forests that have hardly been searched, and many kinds look alike."
   },
   {
    "q": "What does a caterpillar's memory become inside the pupa?",
@@ -872,7 +872,7 @@
    "term": "Chitin",
    "meaning": "The tough, light material that an insect's exoskeleton is made of.",
    "example": "A beetle's wing covers are made of chitin. They are light and very strong.",
-   "art": "A beetle with its hard wing covers lifted, showing the soft wings below."
+   "art": "A beetle with the hard wing covers lifted, showing the soft wings below."
   },
   {
    "term": "Moulting",
@@ -902,7 +902,7 @@
    "term": "Compound eye",
    "meaning": "An eye made of many tiny lenses packed together, each looking in a slightly different direction.",
    "example": "A dragonfly has up to about 30,000 lenses in each compound eye.",
-   "art": "A close-up of a dragonfly's head with its two large eyes in a honeycomb pattern."
+   "art": "A close-up of a dragonfly's head with two large eyes in a honeycomb pattern."
   },
   {
    "term": "Ultraviolet",
@@ -1007,6 +1007,18 @@
    "art": "A drone bee with big eyes beside a worker."
   },
   {
+   "term": "Comb",
+   "meaning": "The wall of six-sided wax cells that honeybees build to hold eggs, honey and pollen.",
+   "example": "The Indian rock bee hangs one huge comb from a cliff or a tall tree.",
+   "art": "A piece of honeycomb with six-sided cells, some holding honey and some holding bee young."
+  },
+  {
+   "term": "Swarm",
+   "meaning": "A very large crowd of insects who move together. A honeybee swarm is a crowd of bees looking for a new home.",
+   "example": "A locust swarm can cover many square kilometres of sky.",
+   "art": "A cloud of locusts over a field, and a hanging clump of honeybees on a branch."
+  },
+  {
    "term": "Waggle dance",
    "meaning": "A movement a honeybee makes on the comb to show her sisters the direction and distance of flowers.",
    "example": "A longer waggle means flowers farther away, and the direction shows the way compared with the Sun.",
@@ -1107,7 +1119,7 @@
      "items": [
       {
        "f": "Silk moth: egg",
-       "b": "A tiny egg the size of a mustard seed. The silkworm hatches from it."
+       "b": "A tiny egg the size of a mustard seed. The silkworm hatches from this egg."
       },
       {
        "f": "Silk moth: silkworm",
@@ -1231,7 +1243,7 @@
    ],
    "rules": [
     "Shuffle the 28 cards. With two players, deal 7 cards each. With three or four players, deal 5 each. Put the rest face down as the draw pile.",
-    "On your turn, ask any player for one stage card. Name the insect and the stage, as in 'Do you have the pupa of the ladybird?' You may ask only for an insect whose card you already hold.",
+    "On your turn, ask any player for one stage card. Name the insect and the stage. For example: 'Do you have the pupa of the ladybird?' You may ask only for an insect whose card you already hold.",
     "If the player has the card, they hand it over and you ask again. If not, they say 'Go and grow!' and you take the top card of the draw pile. If it is the card you asked for, show it and ask again. If not, your turn ends.",
     "When you hold every stage of one insect, lay the cards in life order on the table and read the back of each aloud. That is 4 cards for the silk moth, ladybird, mosquito and dung beetle, and 3 cards for the grasshopper, dragonfly, cockroach and cricket. Score 1 point for each card.",
     "Take 1 bonus point if you can say how the young stage looks different from the adult. The silk moth's young is a worm and the adult has wings. The grasshopper's young looks like the adult, only smaller.",
@@ -1530,7 +1542,7 @@
       {
        "q": "What happens on the winning square after the first ant arrives?",
        "good": [
-        "Many more ants come. The first ant leaves a smell trail and her sisters follow it.",
+        "Many more ants come. The first ant leaves a smell trail and her sisters follow the trail.",
         "It gets crowded fast, much faster than the first ant took to arrive."
        ]
       }
@@ -2058,7 +2070,7 @@
      "kid": "Write one sentence with your answer. Say where the walk would end.",
      "adult": false,
      "think": "A silkworm makes all of that thread inside her own body. What do you think that is like?",
-     "parent": "A silkworm makes the thread inside her body and pushes it out near the mouth. She takes a few days to spin the cocoon. The thread is one unbroken line, which is why it can be unwound and woven."
+     "parent": "A silkworm makes the thread inside her body and pushes the thread out near her mouth. She takes a few days to spin the cocoon. The thread is one unbroken line, which is why it can be unwound and woven."
     }
    ]
   },
@@ -2117,7 +2129,7 @@
     {
      "id": "a5s2",
      "mins": 12,
-     "do": "Walk through every room and outside. Look in flowerpot trays, buckets, a cooler's tank, a fridge tray, old tins, coconut shells, plant saucers, tyres and folds of plastic sheet. Use the torch in dark corners. Write each place on the plan, and put a cross where there is still water.",
+     "do": "Walk through every room and outside. Look in flowerpot trays, buckets, a cooler's tank and a fridge tray. Then look in old tins, coconut shells, plant saucers, tyres and folds of plastic sheet. Use the torch in dark corners. Write each place on the plan, and put a cross where there is still water.",
      "say": "Look for any water that has stood for more than 2 days. Use the torch to look into dark places. Where might small wrigglers be?",
      "kid": "Find every place where water stands. Put a cross on your plan.",
      "adult": false,
@@ -2304,7 +2316,7 @@
    "context": "This is a design problem. Ants find sugar in a kitchen. You design and test a way to keep them out of a sugar bowl that does not poison or hurt them.",
    "problem": "Keep ants out of a small bowl of sugar for 30 minutes, with no poison and no harm to the ants. There is more than one good answer.",
    "constraints": [
-    "No sprays, powders or poison of any kind, and nothing that hurts or traps ants.",
+    "No sprays or poison of any kind, and nothing that hurts or traps ants. A chalk line or a ring of ground cinnamon is allowed.",
     "The sugar must stay open enough that you could scoop it out with a spoon.",
     "Test each design for 10 minutes beside a real ant trail, and count how many ants reach the sugar.",
     "If an ant falls into water, lift her out with a leaf or a strip of paper."
@@ -2322,7 +2334,7 @@
    "setup": [
     {
      "art": "A bowl of sugar on a plate on the floor near an ant trail, with ants walking toward the bowl.",
-     "caption": "1. Put an open bowl of sugar near a trail and watch how ants reach it."
+     "caption": "1. Put an open bowl of sugar near a trail and watch how ants reach the sugar."
     },
     {
      "art": "A bowl of sugar standing in the middle of a plate filled with shallow water.",
@@ -2355,7 +2367,7 @@
        "q": "Which fix kept the most ants away?",
        "good": [
         "The lid, because ants cannot get in.",
-        "The water ring, because ants cannot cross it, or because a few drown and the rest turn back."
+        "The water ring, because ants cannot cross it and the rest turn back."
        ]
       }
      ],
@@ -2394,7 +2406,7 @@
     "Put the bowl on a stand with four legs, each in a small cup of water."
    ],
    "your_turn": "Design a way that keeps ants away from the sugar and is kind to them. Draw it, build it, test it for 10 minutes, and tell which parts worked. There is more than one good answer, and none of the answers is ranked as best.",
-   "safety": "Do not touch the ants, because some kinds bite. Wash your hands afterwards and wipe up all the sugar at the end."
+   "safety": "Some ants bite, so never use your fingers to move one. Use a leaf or a strip of paper. When you finish, clean up the sugar and the plate so that no trail leads into the kitchen."
   },
   {
    "id": "c2",
@@ -2493,7 +2505,7 @@
     "A pot kept in a net bag, tied at the neck."
    ],
    "your_turn": "Design your own cover for a water pot. Draw it, build it from things at home, test it with 20 mustard seeds and a mug, and tell what worked. There is more than one good answer.",
-   "safety": "A grown-up does the cutting with scissors. Wash your hands after handling the pot."
+   "safety": "A grown-up does the cutting with scissors. Wash your hands after handling the pot. The test water gets mustard seeds in it, so do not drink it."
   }
  ],
  "worksheets": [
@@ -2571,9 +2583,9 @@
     },
     {
      "t": "truefalse",
-     "p": "An insect's skeleton is inside her body, as yours is inside yours.",
-     "a": false,
-     "why": "False. An insect wears her skeleton on the outside, as a hard cover called an exoskeleton.",
+     "p": "An insect wears her skeleton on the outside of her body.",
+     "a": true,
+     "why": "True. Her skeleton is a hard cover on the outside, called an exoskeleton. Yours is inside you.",
      "outcome": 1
     },
     {
@@ -2630,14 +2642,14 @@
     },
     {
      "t": "mcq",
-     "p": "Which of these crops usually gives more when insects visit its flowers?",
+     "p": "Which of these crops usually gives more when insects visit the flowers?",
      "opts": [
       "Wheat",
       "Mustard",
       "Maize"
      ],
      "a": 1,
-     "why": "Mustard flowers are visited by bees and other insects, who carry pollen. Wheat and maize are pollinated by wind.",
+     "why": "Mustard flowers are visited by bees and other insects, who carry pollen. Wheat and maize do not need insects to carry their pollen.",
      "outcome": 3
     },
     {
@@ -2719,9 +2731,9 @@
     },
     {
      "t": "truefalse",
-     "p": "All scientists agree about whether insects feel.",
-     "a": false,
-     "why": "False. Some scientists point to play, mood and learning as signs that insects feel. Others say these are automatic responses. The question is still open.",
+     "p": "Scientists still disagree about whether insects feel.",
+     "a": true,
+     "why": "True. Some scientists point to play, mood and learning as signs of feeling. Others say these are automatic responses. The question is still open.",
      "outcome": 7
     }
    ]
@@ -2747,9 +2759,9 @@
     },
     {
      "t": "truefalse",
-     "p": "A walking insect lifts all six legs together, then puts them down together.",
-     "a": false,
-     "why": "False. She lifts three legs at a time, while three stay on the ground. The three on the ground always form a steady triangle.",
+     "p": "A walking insect keeps three legs on the ground while the other three move.",
+     "a": true,
+     "why": "True. The three on the ground always make a steady triangle. Then the two sets of legs swap.",
      "outcome": 1
     },
     {
@@ -2822,9 +2834,9 @@
     },
     {
      "t": "truefalse",
-     "p": "The banyan, like every fig tree, can make figs without any wasp at all.",
+     "p": "The banyan, like other wild fig trees, can make its seeds without any wasp at all.",
      "a": false,
-     "why": "False. Every kind of fig tree is pollinated by one kind of tiny wasp who lives nowhere else. Each one needs the other.",
+     "why": "False. The banyan's flowers are hidden inside the fig, and only its own kind of tiny wasp can carry pollen in. Each one needs the other.",
      "outcome": 3
     },
     {
@@ -2871,7 +2883,7 @@
     },
     {
      "t": "draw",
-     "p": "Draw one plain yellow flower twice, as you see it and as a bee sees it.",
+     "p": "Draw one plain yellow flower twice: once as you see the flower, and once as a bee sees the same flower.",
      "a": "The first flower is plain yellow. The second has dark lines pointing to the middle, which a bee sees in ultraviolet light.",
      "why": "Many flowers have ultraviolet marks that point to the nectar. We cannot see them, and a bee can.",
      "outcome": 1
@@ -2904,14 +2916,14 @@
     },
     {
      "t": "mcq",
-     "p": "Which way of protecting a crop is safest for bees?",
+     "p": "If a spray is truly needed on a crop that bees visit, which timing harms bees least?",
      "opts": [
-      "Spraying open flowers at noon",
-      "Poisoning the edge of the field",
-      "A fine net over young plants"
+      "At noon, when the flowers are wide open",
+      "Any time, because a mild spray never touches a bee",
+      "At dusk, after the bees have gone home"
      ],
      "a": 2,
-     "why": "A net protects the plants and never touches a bee. A spray on open flowers at noon reaches bees as they feed.",
+     "why": "Bees are out on open flowers at noon, and a spray would land on them. At dusk they are back in the hive. Even then, a mild spray is only for when it is truly needed, and never on open flowers.",
      "outcome": 6
     }
    ]
@@ -2944,14 +2956,14 @@
     },
     {
      "t": "mcq",
-     "p": "Scientists give three reasons why no insect today is as big as a dog. Which is NOT one of them?",
+     "p": "Imagine a beetle as big as a dog. Which problem would she meet first?",
      "opts": [
-      "Wings need cold air to grow",
-      "Air creeps slowly down long tubes",
-      "A big, newly moulted body would sag"
+      "Air would reach her muscles too slowly, down long tubes",
+      "Her compound eyes would stop working at that size",
+      "She could no longer eat leaves"
      ],
      "a": 0,
-     "why": "The three main ideas are breathing through long tubes, a soft new skin that cannot hold a big body, and birds hunting large insects. Cold air is not one of them.",
+     "why": "Insects breathe through air tubes. In a very large body the tubes must be very long, and air creeps slowly down them. Compound eyes and leaf-eating do not depend on size in this way.",
      "outcome": 1
     },
     {
@@ -2996,7 +3008,7 @@
       ]
      ],
      "a": "pairs as given",
-     "why": "Young insects often live where their food is. A dung beetle grub lives in the dung it eats.",
+     "why": "Young insects often live where their food is. A dung beetle grub lives in the dung she eats.",
      "outcome": 2
     },
     {
@@ -3059,9 +3071,9 @@
     },
     {
      "t": "truefalse",
-     "p": "If every honeybee vanished, no crop would give any food.",
-     "a": false,
-     "why": "False. Wild bees, flies and other insects pollinate too, and crops such as rice, wheat and maize use wind. Many crops would still give food.",
+     "p": "If every honeybee vanished, many crops would still give some food.",
+     "a": true,
+     "why": "True. Wild bees, flies and other insects pollinate too, and rice, wheat and maize do not need insects. Some crops would give less, but many would still give food.",
      "outcome": 3
     },
     {
@@ -3129,7 +3141,7 @@
     },
     {
      "t": "fill",
-     "p": "Protecting a crop by helping the insects who hunt its eaters is called ________ control.",
+     "p": "Protecting a crop by helping the insects who hunt the crop's eaters is called ________ control.",
      "a": [
       "biological"
      ],
@@ -3240,19 +3252,19 @@
     "Nothing changes, because wind does the work"
    ],
    "a": 1,
-   "why": "Flies carry the pollen from flower to flower, and without pollen a flower cannot make fruit. Wind pollinates rice and wheat, but not mango.",
+   "why": "Flies carry the pollen from flower to flower, and without pollen a flower cannot make fruit. Wind and self-pollination are how rice and wheat manage, but mango needs its flies.",
    "outcome": 3
   },
   {
    "t": "mcq",
-   "p": "Which crop is pollinated by wind, so it does not need insects?",
+   "p": "A gardener watches a bee push into a mustard flower. What does each of them get from this visit?",
    "opts": [
-    "Wheat",
-    "Mustard",
-    "Brinjal"
+    "The bee gets nectar, and the flower's pollen is carried to another flower",
+    "The bee gets pollen to eat, and the flower gets nectar",
+    "Neither gets anything, because the bee is only resting"
    ],
    "a": 0,
-   "why": "Wheat, rice and maize are pollinated by wind. Mustard and brinjal give more when insects visit their flowers.",
+   "why": "The bee drinks the sweet nectar, and the pollen on her body is carried to the next flower, so seeds can grow. Both gain. The bee does not give the flower nectar. The flower makes nectar to pay for the visit.",
    "outcome": 3
   },
   {
@@ -3312,7 +3324,7 @@
     "It also kills the ladybirds and wasps who hunted them"
    ],
    "a": 2,
-   "why": "A spray reaches every insect it touches. Aphids breed fastest, so they come back first, with no hunters left to stop them.",
+   "why": "A spray reaches every insect that the poison lands on. Aphids breed fastest, so they come back first, with no hunters left to stop them.",
    "outcome": 6
   },
   {
@@ -3368,7 +3380,7 @@
   },
   {
    "text": "After the first rains, look on a tree trunk or a wall for a brown, empty shell with a split down the back. It is the old skin of a cicada or a dragonfly, left behind when she grew. Notice the six legs on the shell.",
-   "art": "A brown empty skin clinging to a tree trunk, with a split down its back."
+   "art": "A brown empty skin clinging to a tree trunk, with a split down the back."
   },
   {
    "text": "At the vegetable market, look for cabbage, brinjal or drumstick leaves with round holes in them. Notice that somebody has eaten them, and ask what the plant looked like before.",
@@ -3411,16 +3423,16 @@
    "a": "She had two legs too many and one body part too few."
   },
   {
-   "j": "Why did the ants stay at the sugar tin all afternoon?",
-   "a": "They heard it was a sweet deal."
+   "j": "What did the ant say when you wiped away her smell trail?",
+   "a": "'Excuse me, who moved the road?'"
   },
   {
    "j": "A dragonfly's teacher said, 'Keep your eyes on your own paper.' What did the dragonfly say?",
    "a": "'Which of my thirty thousand?'"
   },
   {
-   "j": "What did the bee say when she flew back to the hive?",
-   "a": "'Honey, I'm home!'"
+   "j": "Why do bees have sticky hair?",
+   "a": "Because they use honeycombs."
   },
   {
    "j": "Why was the silkworm the best at telling long stories?",
@@ -3451,7 +3463,7 @@
   {
    "problem": "A silkworm grows to about ten thousand times her first weight in four weeks. A baby weighs 3 kilograms at birth. How heavy would the baby be if she grew ten thousand times?",
    "answer": "30,000 kilograms, which is 30 tonnes.",
-   "explain": "3 × 10,000 = 30,000. A baby growing that fast would be heavier than about five elephants. A silkworm does it in a month because she is so tiny at the start.",
+   "explain": "3 × 10,000 = 30,000. A baby growing that fast would weigh about as much as six elephants. A silkworm does it in a month because she is so tiny at the start.",
    "math_unit": "math.multiplication.scaling.L4",
    "context": "This problem scales a silkworm's growth up to the size of a baby.",
    "why_maths": "Growth by a number of times is multiplication, and it shows how large the change from egg to full-grown silkworm really is."
@@ -3470,10 +3482,10 @@
    "explain": "The waggle time is the distance in kilometres, so 3 seconds means 3 kilometres and 5 seconds means 5. 5 − 3 = 2.",
    "math_unit": "math.algebra.input-output.L4",
    "context": "This problem uses the waggle rule as a number rule.",
-   "why_maths": "A rule that turns one number into another is an input and output rule. Bees use one without writing it down."
+   "why_maths": "A rule that turns one number into another is an input and output rule. Bees use such a rule without writing it down."
   },
   {
-   "problem": "Mosquito young need at least 8 days in water to become adults. A family empties the water tray every 7 days. Another empties it every 10 days. Which family stops the young becoming adults? Why?",
+   "problem": "Mosquito young need about 8 days in water to become adults. A family empties the water tray every 7 days. Another empties it every 10 days. Which family stops the young becoming adults? Why?",
    "answer": "The family who empties every 7 days. Eggs laid on day 1 have only 7 days before the water goes, which is less than 8.",
    "explain": "Compare 7 with 8 and 10. If the time between emptyings is shorter than the time the young need, none can finish growing. A gap of 10 days is longer than 8, so some can.",
    "math_unit": "math.number-sense.comparing-ordering.L4",
@@ -3489,7 +3501,7 @@
    "why_maths": "To picture a huge number of ants you need to move between lakhs and crores. The same step is how we read big numbers in newspapers."
   },
   {
-   "problem": "A desert locust swarm covering 1 square kilometre eats in a day what about 35,000 people eat. In 2020, one swarm in India covered 5 square kilometres. How many people's food would it eat in one day?",
+   "problem": "A desert locust swarm covering 1 square kilometre eats in a day what about 35,000 people eat. Suppose a swarm in India covers 5 square kilometres. How many people's food would it eat in one day?",
    "answer": "1,75,000 people's food.",
    "explain": "35,000 × 5 = 1,75,000. If the swarm stays 3 days, multiply by 3 again: 5,25,000.",
    "math_unit": "math.multiplication.multi-digit.L4",
@@ -3715,7 +3727,7 @@
    [
     "An insect's skeleton is on the outside.",
     true,
-    "It is called an exoskeleton, and the insect sheds it to grow."
+    "It is called an exoskeleton, and the insect sheds this cover to grow."
    ],
    [
     "A silk moth grows up with a pupa stage.",
@@ -3745,7 +3757,7 @@
    [
     "Rice needs insects to carry its pollen.",
     false,
-    "Rice is pollinated by wind."
+    "Rice does not need insects. Its pollen stays in its own flower or travels on the wind."
    ],
    [
     "A locust is always a swarming insect.",
