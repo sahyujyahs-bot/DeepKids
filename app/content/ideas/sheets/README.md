@@ -4,7 +4,7 @@ Copied from the founder's Google Sheets on 27 Nov 2026, so writers can read them
 
 - `track--*`: DeepKids HomeSchooling Track (Physics, Biology, Chemistry, History, Philosophy, activity dumps, links, game types).
 - `v01--*`: DeepKids V0.1 (principles, realisations, activities, curriculum content, evolution notes).
-- `sci-cards--*`, `scientists-trading-cards--*`, `evolution-picture-book--*`, `escape-gravity-board-game--*`, `history-board-game--*`, `science-grade-concepts--*`, `school--*`, `deepkids--*`, `deepkids-website--*`, `content-calendar--*`: the other founder sheets, every tab.
+- `sci-cards--*`, `scientists-trading-cards--*`, `evolution-picture-book--*`, `escape-gravity-board-game--*`, `history-board-game--*`, `science-grade-concepts--*`: the other founder content sheets, every tab. The business sheets (content calendar, to-do lists, website plan, school list) are not kept here, because this repository is public.
 
 Format: one line per non-empty row, `R<row>: cell | cell`, line breaks inside a cell shown as ` ⏎ `. Phone numbers, emails and keys were removed.
 
