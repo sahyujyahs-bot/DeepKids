@@ -25,6 +25,7 @@ Every section is written with care, thoroughly, thought through and free of bias
 12. **Jokes are as good as possible** (section K).
 13. **Roots tell the child how understanding this concept brings them closer to who they are, what life is and what this world is** (section J).
 14. **Spotted and applications connect the concept to the child's everyday life,** never a shallow list to fill the page (section K).
+15. **Say where science runs out.** Where a unit uses a word that sounds defined but is not (energy, time, space, life, consciousness, matter, gravity), tell the child plainly that science has no final definition, how we use the word, and what nobody yet knows. Confusion and questions are what build science (principle 6, section B).
 
 Where the words "lesson" and "unit" appear: families only ever read "this lesson", "this idea" or the name of the thing. "Unit" and "topic" are our filing words and never go into text a family reads.
 
@@ -53,6 +54,21 @@ Where the words "lesson" and "unit" appear: families only ever read "this lesson
 3. **Many views, open debates, open questions.** Every big idea comes with the different ways of thinking about it (`perspectives`, each with a real `who`), the debates that are still open, including among scientists (`challenging`, `status`), and questions with no single answer (`big_questions`, `open_questions`). Never present one theory as the truth. Give the evidence on each side, then leave it open.
 4. **Plain writing** that a parent and a child understand on first reading (section E).
 5. **Pictures** are public domain, CC0, CC BY or Unsplash, always with credit (the photographer's name and "Unsplash" in the `credit` field). Never non-commercial or share-alike. Our own drawings are marked `drawn`. Canva designs are credited "Designed in Canva". Non-commercial or share-alike books are for reading only.
+6. **Say where science runs out.** Schools teach some words as if science had settled them, so that nobody asks questions. We do the opposite, and it is one of our strengths. For a word that sounds defined but is not, write three short things in plain words:
+   - **How we use the word:** the working meaning scientists use, and what it lets them do.
+   - **What science cannot yet say:** it has no final definition, only working definitions, estimates, assumptions and competing theories.
+   - **An invitation:** confusion and questions are how science grows. Ask the child what they think, and what they would test.
+
+   Examples that are safe to use (check each against its source before you write it):
+   - **Energy.** Physicists calculate a number called energy that stays the same when things change, and it works. The physicist Richard Feynman wrote in his Lectures on Physics (volume 1, chapter 4) that in physics today we have no knowledge of what energy is.
+   - **Time.** No agreed definition. Clocks measure it. Newton treated it as flowing the same for everyone, Einstein showed it differs between watchers, and some physicists, such as Carlo Rovelli, think time may not be basic at all. Augustine wrote in his Confessions (book 11) that he knew what time was until someone asked him to explain it.
+   - **Space.** Newton treated space as an empty stage, Leibniz as only the relations between things, and Einstein as something that bends. Many physicists think a theory joining gravity and quantum physics may show that space is not basic.
+   - **Life.** No agreed definition. NASA uses a working one: a self-sustaining chemical system that can evolve in a Darwinian way. Viruses sit at the edge of every definition.
+   - **Consciousness.** The "hard problem" (David Chalmers, 1995): science can follow what the brain does, and cannot yet say why there is an inner experience.
+   - **Matter and mass.** Most of the mass of an everyday thing comes from the energy that holds quarks together inside protons and neutrons, not from the quarks themselves. What matter finally is remains open.
+   - **Gravity.** Newton could say how it acts, and wrote that he made no hypothesis about its cause. Einstein described it as the bending of space and time. A theory that joins gravity with quantum physics does not yet exist.
+
+   Mark these explanations `idea` or `debated`, never `defined`, and put the open part in `open_questions`. Never claim science knows less than it does: say what is solid, then where it ends.
 
 ---
 
@@ -357,6 +373,7 @@ Ask each question and write down what is true:
 3. **Other traditions and cultures.** What do India's and other traditions say? Name them.
 4. **Other beings.** How does a bee, a plant or a microbe meet this idea?
 5. **Time.** How did people think about it before, and what changed their mind?
+6. **Where science runs out.** Is any word in this explanation one that sounds defined but is not (energy, time, space, life, consciousness, matter, gravity)? Say how we use it and what nobody yet knows (principle 6, section B).
 
 If at least two answers give a real second view, write `perspectives`. If none do, write `one_view` and say why.
 

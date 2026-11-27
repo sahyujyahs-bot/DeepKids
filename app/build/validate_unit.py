@@ -56,6 +56,8 @@ def _grade(t):
     if not sen or not words: return 0
     return 0.39 * len(words) / len(sen) + 11.8 * sum(_syll(w) for w in words) / len(words) - 15.59
 JARGON = "mass energy atom atoms molecule molecules electron electrons proton neutron photon photons wavelength frequency velocity acceleration momentum inertia gravity density pressure particle particles nucleus organism evolution species ecosystem relativity spacetime vacuum plasma isotope radiation".split()
+OPENWORDS = {"energy": "energy", "time": "time", "space": "space", "life": "life|alive", "consciousness": "consciousness|awareness", "matter": "matter", "gravity": "gravity"}
+OPENSAY = re.compile(r"no (?:single |one |agreed |final |complete |settled )*(?:definition|answer)|nobody (?:knows|can say|has)|no one (?:knows|can say|has)|scientists (?:do not|don't|still|cannot|can't) (?:agree|know|say)|(?:still )?an open question|science (?:cannot|can't) (?:yet )?say|working (?:definition|meaning)|not (?:yet )?(?:known|understood|settled)|have no knowledge of what", re.I)
 ABSTRACT = re.compile(r"\b(?:gets? closer and closer|approach(?:es)?|tends? to|in the limit|the number that|as (?:the|it) [^.]{0,40}(?:shrinks|grows|gets) (?:smaller|larger|bigger))\b", re.I)
 VAGUE_PHRASE = re.compile(r"\b(?:more \w+ than there is|in some sense|sort of|something about|a bit like|and so on|and more)\b", re.I)
 ERA = re.compile(r"\b(?:about|around|in|since|by|from|until|written in)\s+(?:the year\s+)?(\d{3,4})\b(?!\s*(?:CE|BCE|AD|BC|kilo|metre|meter|centi|milli|years|days|hours|minutes|seconds|people|km|m\b|cm|kg|rupee|degrees|kinds|species|animals|plants|%))", re.I)
@@ -97,6 +99,13 @@ def parent_test(u):
     if abstract: W.append(f"{len(abstract)} abstract statements with no example or numbers beside them (show it with a real scene and real numbers): " + " | ".join(abstract[:3]))
     vagueph = [f"{p}: '{m.group(0)}'" for p, t in blocks for m in [VAGUE_PHRASE.search(t)] if m]
     if vagueph: W.append("vague or empty phrases (say the real thing, with a number if there is one): " + " | ".join(vagueph[:4]))
+    # words that sound defined but are not: a unit about one must say where science runs out (WRITER_BRIEF.md, principle 6)
+    central = (u.get("title", "") + " " + " ".join(e.get("concept", "") for e in u.get("explanations", []))).lower()
+    gapless = []
+    for w, forms in OPENWORDS.items():
+        if not re.search(r"\b(?:" + forms + r")\b", central): continue
+        if not any(re.search(r"\b(?:" + forms + r")\b", t, re.I) and OPENSAY.search(t) for _, blk in blocks for t in re.split(r"(?<=[.!?])\s+", blk)): gapless.append(w)
+    if gapless: W.append("this unit is about words that sound defined but are not: " + ", ".join(gapless) + ". Tell the child plainly how we use the word and what science cannot yet say (WRITER_BRIEF.md principle 6), and mark the explanation idea or debated.")
     # a view's name must name someone: a person, a book, a school or a place, never a bare label like 'Everyday speech'
     vague = []
     for e in u.get("explanations", []):

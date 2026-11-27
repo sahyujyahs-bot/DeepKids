@@ -53,6 +53,7 @@ Each one was found by the founder reading a finished unit, after the writer and 
 
 ### C. The full science, truthfully, at depth
 - Check the unit against section 2 of the packet. Every item under `covers` and every board concept listed must be taught, at equal or greater depth than any board. The unit goes beyond the boards: into atoms and energy, the Earth and the cosmos, living bodies and what nobody knows yet, honestly marked.
+- **Where science runs out.** If the unit uses a word that sounds defined but is not (energy, time, space, life, consciousness, matter, gravity), does it say how we use the word, what science cannot yet say, and invite the child to question? See `WRITER_BRIEF.md` principle 6. Check that every claim of ignorance is true and sourced, and that the unit never claims science knows less than it does.
 - No false simplification ("five senses", "just a theory", "plants cannot think", "nothing is solid" claims left unexplained). When the unit simplifies, it says so and says what is missing.
 - Every number, date, name and source: do you know it is right? If not, list it. Never invent.
 - Anything missing that a parent would assume is there (a definition, a unit of measure, a safe way)? Add it if you are certain, otherwise list it.
