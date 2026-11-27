@@ -660,7 +660,9 @@
   }
  ],
  "sources": {
-  "founder": [],
+  "founder": [
+   "ideas/by_topic/how-we-know.md was searched for models and diagrams. Only its Rosalind Franklin card (the DNA photograph) touches the theme, so the parts of this lesson are new."
+  ],
   "science": [
    "George Box, 'Science and statistics', Journal of the American Statistical Association, 1976.",
    "Shaaron Ainsworth, Vaughan Prain and Russell Tytler, 'Drawing to learn in science', Science, 2011.",
@@ -672,10 +674,14 @@
    "Brenda Maddox, 'Rosalind Franklin: The Dark Lady of DNA', 2002.",
    "Anil Seth, 'Being You: A New Science of Consciousness', 2021.",
    "James Gibson, 'The Ecological Approach to Visual Perception', 1979.",
-   "Derek Waller, 'The Pundits: British Exploration of Tibet and Central Asia', University Press of Kentucky, 1990."
+   "Derek Waller, 'The Pundits: British Exploration of Tibet and Central Asia', University Press of Kentucky, 1990.",
+   "Morton Grosser, 'The Discovery of Neptune', Harvard University Press, 1962.",
+   "Albert Einstein, 'Erklärung der Perihelbewegung des Merkur aus der allgemeinen Relativitätstheorie', Sitzungsberichte der Preussischen Akademie der Wissenschaften, 1915.",
+   "Morton Grosser, 'The Discovery of Neptune', Harvard University Press, 1962.",
+   "Albert Einstein, 'Erklärung der Perihelbewegung des Merkur aus der allgemeinen Relativitätstheorie', Sitzungsberichte der Preussischen Akademie der Wissenschaften, 1915."
   ]
  },
- "playtest": "Main hands-on investigation, to be written under this name: 'The sealed box test: build a model of what you cannot see'. A grown-up tapes one or two things inside a shoebox or steel dabba out of the child's sight, for example a marble and a strip of card standing as a low wall, and seals it. The child tilts, shakes and listens, draws a diagram of what they think is inside, predicts what the box will do when tilted a new way, tests the prediction and changes the diagram. The box is not opened until the very end, or not at all, so the child feels what a scientist feels about an atom. It works in any home in 25 to 30 minutes. A second short activity the roots depend on: 'The blind-spot test', with a cross and a dot drawn 10 centimetres apart on white paper. Cover the left eye, look at the cross with the right eye and move the paper slowly from arm's length towards the face. The dot vanishes at about 30 centimetres. A third: the torch and ball model of day and night, with a tilted ball to predict the midnight Sun. Facts a reviewer must verify: the Earth's width of 12,742 kilometres and the arithmetic for a 30 centimetre globe. Africa at about 14 times the area of Greenland. Mercator in 1569, Gall in 1855, Peters in 1973, and Gauss in 1827. Cyclone Phailin in October 2013 with about ten lakh people moved, and about 10,000 deaths in 1999. Nyaya Sutra 1.1.6 on upamana. Maxwell's remark of 1855. Harry Beck in 1933. Udana 6.4. The solar system scale: a 22 centimetre Sun gives a 2 millimetre Earth at about 24 metres and Neptune at about 700 metres. The atom compared with a cricket ground. Ptolemy about 150 CE. Aryabhatiya, Gola section, verse 9. Nilakantha's Tantrasangraha of 1500 CE. The dates of the atom models, and Geiger and Marsden in 1909. Müller and Kanwar Bahadur in 1955. Marshall and Warren in 1982. The tongue map history: Hänig in 1901, the 1942 book by Edwin Boring, and Collings in 1974. The Wright wind tunnel of 1901 and about 200 wing shapes. The Pune research station founded in 1916. The waggle dance at roughly one second for each kilometre, which differs between kinds of bee. Wenner's challenge and the 2005 radar study. Lewis Carroll's map story of 1893, from 'Sylvie and Bruno Concluded'. Box in 1976, Korzybski in 1931, Putnam in 1975. Nagarjuna's two truths in chapter 24 of the Mulamadhyamakakarika. Mariotte in 1660. Mandukya Karika 2.17 and 2.18. The Nippur map tablet of about 1500 BCE. Every date in the DNA account, and that the first model was shown to Franklin in November 1951. All the details of Nain Singh Rawat in the story note. Brihadaranyaka Upanishad 2.3.6 for 'neti, neti'. The Shurangama Sutra for the finger and the Moon. The Hawking and Mlodinow goldfish example. I could not open the founder's notes, the list of other lessons' deep truths or the lesson on stories of discovery. So the founder sources are empty, the deep truth about the blind spot must be checked for overlap, and a reviewer should check that Rosalind Franklin's story is not already told in the discovery lesson. DNA is written without the word 'it' on purpose. Words that need flashcards, in the order met: model, feature, physical model, scale, diagram, label, arrow, picture, photograph, map, key, globe, computer model, forecast, analogy, comparison, explain, predict, prediction, evidence, scale model, not to scale, solar system, planet, ellipse, atom, particle, taste bud, engineer, wind tunnel, test model, pattern, waggle dance, blind spot, nerve, guess, useful, true, standpoint, territory.",
+ "playtest": "Notes for readers. Not yet tried with a family: the sealed box test (shoebox, marble and card wall), the blind-spot test (the dot should vanish at about 30 to 40 centimetres, so check on a real child), the torch and orange test (a 30 degree lean and a ring about 1 centimetre across, so check that the ring stays lit), the paper bridge coin counts (a folded sheet should hold far more than a flat one, but the numbers will differ), the touch map, the solar system walk and both games. Facts still to check: the Earth's width of 12,742 kilometres and the arithmetic for a 30 centimetre globe; Africa at about 14 times the area of Greenland (about 30.4 and 2.2 million square kilometres); Mercator in 1569, Gall in 1855, Peters in 1973 and Gauss in 1827; Cyclone Phailin in October 2013 with about ten lakh people moved, and about 10,000 deaths in 1999; Nyaya Sutra 1.1.6 on upamana; Maxwell's remark of 1855; Harry Beck in 1933; Udana 6.4; the solar system scale (a 22 centimetre Sun, a 2 millimetre Earth at about 24 metres, Neptune at about 700 metres) and the step counts of the walk; Ptolemy about 150 CE; Aryabhatiya, Gola section, verse 9; Nilakantha's Tantrasangraha of 1500 CE; the dates of the atom models and Geiger and Marsden in 1909; Muller and Kanwar Bahadur in 1955; Marshall and Warren in 1982; the tongue map history (Hanig in 1901, Boring's book of 1942, Collings in 1974); the Wright wind tunnel of 1901 and about 200 wing shapes; the Pune research station of 1916; the waggle dance at roughly one second for each kilometre, which differs between kinds of bee, Wenner's challenge and the 2005 radar study; Lewis Carroll's map story of 1893; Box in 1976, Korzybski in 1931 and Putnam in 1975; Nagarjuna's two truths in chapter 24 of the Mulamadhyamakakarika; Mariotte in 1660; Mandukya Karika 2.17 and 2.18; the Nippur map tablet of about 1500 BCE; the details of Nain Singh Rawat in the story note; Brihadaranyaka Upanishad 2.3.6; the Shurangama Sutra's finger and Moon; the Hawking and Mlodinow goldfish example; the Franklin and Gosling details in the 'agreed' card. The 'how we found out' account of Neptune and Mercury: Uranus in 1781 by Herschel, the sums by Adams and Le Verrier in 1845 and 1846, Galle and d'Arrest finding Neptune on 23 September 1846 within about one degree, Le Verrier's Vulcan and Einstein's 1915 explanation of Mercury. The three videos still need real ids. Rosalind Franklin's DNA story was dropped from 'how we found out' because the lesson on stories of discovery already tells it. DNA is written without the word 'it' on purpose. The deep truth about the blind spot should be checked for overlap with other lessons.",
  "terms": [
   {
    "term": "Model",
@@ -1341,11 +1347,11 @@
     {
      "id": "s1",
      "mins": 5,
-     "do": "Push the pencil through the middle of the orange from top to bottom. Draw a small ring about 1 centimetre across round the point where the pencil comes out at the top. Draw a dot about one centimetre above the middle line of the orange, on its side. Put the torch on a pile of books. It must shine at the middle of the orange when the orange is held 50 centimetres away.",
+     "do": "Push the pencil through the middle of the orange from top to bottom. Draw a small ring about 1 centimetre across round the point where the pencil comes out at the top. Find the halfway point between the two ends of the pencil. Draw a dot on the side of the orange, about one finger-width above it. Put the torch on a pile of books. It must shine at the middle of the orange when the orange is held 50 centimetres away.",
      "say": "This orange will stand for the Earth. The pencil is the line it spins on. The ring at the top is the far north. The dot is where we live. What will the torch stand for?",
      "kid": "A grown-up pushes the pencil through the orange. Draw a ring at the top and a dot near the middle.",
      "adult": true,
-     "parent": "Use a sharp pencil and push gently, because a slippery orange can slide. The ring stands for the far north, and the dot for a place such as Kochi or Chennai, which are not far above the middle. Real places are only a little above the equator, so the dot should be near the middle, about one finger-width above it."
+     "parent": "Use a sharp pencil and push gently, because a slippery orange can slide. The ring stands for the far north, and the dot for a place such as Kochi or Chennai, which are not far above the middle. Kochi and Chennai are only a little above the equator, so the dot should be near the middle."
     },
     {
      "id": "s2",
@@ -1723,7 +1729,7 @@
     {
      "id": "a3s2",
      "mins": 12,
-     "do": "Pace out the distances for Mercury, Venus, Earth, Mars and Jupiter. Put a poppy seed at Mercury, a mustard seed at Venus, a mustard seed at the Earth, a poppy seed at Mars and a marble at Jupiter. Mark each place with chalk or a piece of paper.",
+     "do": "Pace out the distances for Mercury, Venus, Earth, Mars and Jupiter. Mark each place with chalk or a piece of paper. Put a poppy seed at Mercury and at Mars. Put a mustard seed at Venus and at the Earth. Put a marble at Jupiter.",
      "say": "Walk 12 steps. Put down the smallest seed. That is Mercury. Now 23 steps from the Sun for Venus. Keep going.",
      "kid": "Pace out the planets. Put a small thing at each place.",
      "adult": false,
@@ -3598,7 +3604,7 @@
  ],
  "applications": [
   "Engineers test small models of bridges and tall buildings in wind tunnels before the real ones are built. A model is placed in a tunnel with a fan, and sensors measure the push of the air. Mistakes are found cheaply.",
-  "The India Meteorological Department uses computer models of the air over India to forecast the monsoon and cyclones. The model is stepped forward in time, and forecasters compare its answer with what they see. In 2013, forecasts of where Cyclone Phailin would cross the coast of Odisha helped move about ten lakh people to safety.",
+  "Forecasters in India use computer models of the air to forecast the monsoon and cyclones. The model is stepped forward in time, and they compare its answer with what they see. In 2013 a forecast of where Cyclone Phailin would cross the coast of Odisha helped move about ten lakh people to safety.",
   "Doctors use plastic models of bones and organs to explain an operation to a patient, and surgeons practise on models before they operate on a person.",
   "Town planners make a map of where a new road should go, then check the map against the land. They use maps of different scales for different jobs, such as one for the whole district and one for a single street.",
   "A tailor makes a paper pattern before cutting the cloth. The pattern is a model of the shirt, and a mistake on paper costs much less than a mistake in cloth.",
@@ -3679,19 +3685,17 @@
    "title": "To Scale: The Solar System",
    "channel": "Wylie Overstreet and Alex Gorosh",
    "mins": 7,
-   "youtube": "",
-   "status": "find-id",
+   "youtube": "zR3Igc3Rhfg",
    "why": "To see the solar system laid out true to scale across a dry lake bed, so that the idea of a scale model becomes real.",
-   "check": "Not yet found or watched. Find the id and check that it shows the true-to-scale model, then preview it before showing it."
+   "check": "Found by YouTube search: \"To Scale: THE SOLAR SYSTEM\" by To Scale:. Title checked automatically; a parent may still preview it."
   },
   {
    "title": "Why all world maps are wrong",
    "channel": "Vox",
    "mins": 5,
-   "youtube": "",
-   "status": "find-id",
+   "youtube": "kIID5FDi2JQ",
    "why": "To see why a flat map of the round Earth must stretch some part, and how different maps choose different stretches.",
-   "check": "Not yet found or watched. Find the id, check the title matches and preview it first."
+   "check": "Found by YouTube search: \"Why all world maps are wrong\" by Vox. Title checked automatically; a parent may still preview it."
   },
   {
    "title": "The waggle dance of the honeybee",
