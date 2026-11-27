@@ -179,7 +179,7 @@
   {
    "concept": "How any simple test works: find one way the food and the adulterant behave differently",
    "status": "defined",
-   "definition": "A test uses one property in which the adulterant differs from the food. A property is a way a thing behaves, such as sinking, floating, dissolving, being pulled by a magnet, or changing colour with a chemical.",
+   "definition": "A test uses one property in which the adulterant differs from the food. A property is a way a thing behaves. Sinking, floating, dissolving, being pulled by a magnet and changing colour with a chemical are all properties.",
    "description": "An adulterant is chosen because it looks like the food. So looking will not find it. A test works by finding some other way in which the two differ. Does one dissolve in water and the other not? Sugar dissolves and chalk does not. Does one sink and the other float? Does a magnet attract one? Iron filings jump to a magnet and tea leaves do not. Does one change colour with a certain chemical? Iodine turns starch blue-black and leaves pure milk alone. Every test in this lesson, and every test in a laboratory, is built on one such difference. Before you run any test, say aloud which difference it uses. Then you will know what it can find, and what it cannot.",
    "examples": [
     "Sugar and chalk: the difference is dissolving in water.",
@@ -245,7 +245,8 @@
    ],
    "perspectives": [],
    "art": "Three test gates in a row: a magnet gate that holds back only iron filings while a dye, a chalk powder and a little added water slip through, and a lab gate at the end that catches more.",
-   "context": "This card gives the most important limit of all testing: a pass means 'not found', which is weaker than 'not there'."
+   "context": "This card gives the most important limit of all testing: a pass means 'not found', which is weaker than 'not there'.",
+   "one_view": "No serious view disagrees with this, because it follows from how a test works. The argument is about which tests the law should require, and the next card shows it."
   },
   {
    "concept": "Honey: a test for thickness lets a thick syrup pass",
@@ -267,7 +268,7 @@
     }
    ],
    "art": "A jar of honey passing through a row of test gates, each gate catching one kind of adulterant, with a syrup-shaped shadow slipping through all but the last, most complex gate.",
-   "context": "Honey shows the limit of a test most clearly: a cheat can design a syrup to pass the usual tests, so a pass means 'not found' and no more."
+   "context": "Honey shows the limit of a test most clearly. A cheat can design a syrup to pass the usual tests."
   },
   {
    "concept": "Cheats aim at the test: the lactometer, and the melamine milk of 2008",
@@ -284,10 +285,24 @@
    "context": "This card shows that testing is a contest, and tells the worst known case of a test being fooled."
   },
   {
-   "concept": "How laboratories find what kitchens cannot: weight for size, the microscope, fingerprints of molecules, and DNA",
+   "concept": "Density and the microscope: two old ways to tell one thing from another",
    "status": "defined",
-   "definition": "Food laboratories use four main methods. They measure density, they look at tiny grains under a microscope, they read how a substance answers to light or to a strong magnet, and they read DNA.",
-   "description": "One of the oldest laboratory methods is density, which is how much a thing weighs for its size. A story from Sicily, about 250 BCE, says that Archimedes checked a gold crown for hidden silver. He compared its weight with the water it pushed aside. The Roman writer Vitruvius told the story more than 200 years later, and historians doubt its details. The principle is sound, and a lactometer uses it. The microscope came next. Starch grains from potato, rice and wheat each have their own shape, so a trained eye can name a hidden flour. Modern machines shine light on a sample, or put it inside a very strong magnet, and read how it answers. Each mixture of molecules answers in its own pattern, a kind of fingerprint. And DNA, the molecule in every cell that carries a living being's inherited instructions, tells one species from another.",
+   "definition": "A laboratory can tell foods apart by density and by looking at tiny grains under a microscope. Density is how much a thing weighs for its size.",
+   "description": "A story from Sicily, about 250 BCE, says that Archimedes checked a gold crown for hidden silver. He compared its weight with the water it pushed aside. The Roman writer Vitruvius told the story more than 200 years later, and historians doubt its details. The principle is sound, and a lactometer uses it. The microscope came next. Starch grains from potato, rice and wheat each have their own shape, so a trained eye can name a hidden flour.",
+   "examples": [
+    "A lactometer is a weighted glass float. It sinks deeper in thin milk, because thin milk weighs less for its size.",
+    "Under a microscope, starch grains from potato and rice have different shapes."
+   ],
+   "perspectives": [],
+   "one_view": "These are old, established methods, and nobody disputes how they work.",
+   "art": "Two panels: a crown on a balance beside a tub of water, and starch grains of three shapes under a microscope.",
+   "context": "This card follows testing from the kitchen into the laboratory, with two methods that need no big machine."
+  },
+  {
+   "concept": "Fingerprints of molecules and DNA: how modern laboratories name an adulterant",
+   "status": "defined",
+   "definition": "Modern machines read a pattern from a sample, like a fingerprint. Laboratories also read DNA, which carries a living being's inherited instructions.",
+   "description": "Modern machines shine light on a sample, or hold it inside a very strong magnet, and read how it answers. Each mixture of molecules answers in its own pattern, a kind of fingerprint. The honey test called NMR works this way. DNA is the molecule in every cell that carries a living being's inherited instructions. Each species has its own DNA, so a laboratory can tell one species from another, for example beef from horse.",
    "examples": [
     "In January 2013 food inspectors in Ireland used DNA tests on beef burgers and found horse meat. The finding led to checks and recalls across Europe.",
     "Scientists at the Centre for DNA Fingerprinting and Diagnostics in Hyderabad developed a DNA test that tells true basmati rice from look-alike long-grain varieties.",
@@ -295,13 +310,13 @@
    ],
    "perspectives": [],
    "one_view": "These are established methods. Which of them should be written into legal standards, and how fast, is argued over, as the honey card showed.",
-   "art": "Four panels: a crown on a balance in water, starch grains of three shapes under a microscope, a wavy fingerprint graph, and a short DNA ladder beside two rice grains.",
-   "context": "This card follows testing from the kitchen into the laboratory, from an ancient method to DNA."
+   "art": "Two panels: a wavy fingerprint graph beside a jar of honey, and a short DNA ladder beside two rice grains.",
+   "context": "This card follows testing from a kitchen to the most powerful laboratory methods, and ends with how DNA names a species."
   },
   {
    "concept": "How common is adulteration? The answer depends on what is counted",
    "status": "debated",
-   "definition": "A survey counts how many samples of a food fail. The answer changes with what is counted: failing a quality standard, holding an accidental contaminant, or holding a harmful adulterant.",
+   "definition": "A survey tests many samples of a food and counts how many fail. The count depends on what counts as failing: a quality standard, an accidental contaminant, or a harmful adulterant.",
    "description": "Is most Indian milk adulterated? Two national surveys by the food authority seem to disagree. In 2011, a quick survey of 1,791 samples reported that about 68 in every 100 did not meet the standard. In 2018, a larger survey of 6,432 samples reported that 93 in every 100 were safe to drink. Both can be true. The 2011 number counted every sample that fell short in any way, and most fell short through added water or low fat. The 2018 number asked a narrower question: is anything harmful in it? Only 12 samples held a harmful adulterant. About 6 in every 100 held traces of a mould poison that had come through the cattle's feed, which nobody had added on purpose. About 4 in 10 were safe but below the standard for fat or other solids.",
    "examples": [
     "In 2018 and 2019 a message passed round on phones. It claimed that the World Health Organization had warned that 87 out of every 100 Indians would get cancer by 2025 from adulterated milk. The World Health Organization said it had issued no such warning.",
@@ -428,7 +443,7 @@
   {
    "claim": "Many packaged foods that are legally pure are harmful because of how heavily they are processed, and should worry us more than old-style adulteration.",
    "who": "Carlos Monteiro, a Brazilian nutrition scientist, who proposed the idea of 'ultra-processed' food in 2009",
-   "for": "Many studies link diets high in ultra-processed foods with obesity, diabetes and heart disease. In a trial run by Kevin Hall in 2019, people ate about 500 kilocalories more a day when they were offered ultra-processed meals than when they were offered unprocessed ones. That is about the energy in five bananas. Nothing in such food is hidden or illegal.",
+   "for": "Many studies link diets high in ultra-processed foods with obesity, diabetes and heart disease. In a trial run by Kevin Hall in 2019, people offered ultra-processed meals ate about 500 kilocalories more a day than when offered unprocessed meals. That is about the energy in five bananas. Nothing in such food is hidden or illegal.",
    "against": "Critics say the category is too loose. It puts packaged wholemeal bread and fizzy drinks in one group. They argue that the harm comes from too much sugar, salt and fat and too little fibre, which is already known. They add that processing also makes food safe and cheap.",
    "status": "debated",
    "context": "This view asks whether 'Is anything hidden in my food?' is even the most important question. It is here to widen what the child means by food being good."
@@ -549,7 +564,7 @@
    "what_is_life": "Every living being tests what they take in. A rat nibbles a new food and waits. A bee's antennae judge nectar. A bacterium senses sugar and swims towards the sugar, and senses a poison and turns away. To be alive is to keep choosing what may cross from outside to inside.",
    "what_is_this_world": "A spoon of turmeric holds soil from a field, rain, a farmer's season, a miller's hands and a trader's choices. If any of them fails, the failure reaches your plate. The world is joined so closely that no meal comes from one place or one person."
   },
-  "thread": "This lesson set out to catch cheats and found something else as well. No food is one thing alone, and nobody eats alone. Each mouthful is a mixture made by plants, animals, microbes, weather and many people, most of whom you will never meet. Adulteration is a break in that chain at the one place where a person chose to hide something. One school of Indian thought, Advaita Vedanta, holds that consciousness is the ground from which the eater, the food and the grower all arise, so that eating is that one ground passing through its own forms. Many scientists do not accept this, and would say it more simply: atoms are shared and recycled among living things. Both views are given below. Both accounts agree that the line between your food and you lasts only a few hours.",
+  "thread": "This lesson set out to catch cheats and found something else as well. No food is one thing alone, and nobody eats alone. Each mouthful is a mixture made by plants, animals, microbes, weather and many people, most of whom you will never meet. Adulteration is a break in that chain at the one place where a person chose to hide something. One school of Indian thought, Advaita Vedanta, holds that consciousness is the ground from which the eater, the food and the grower all arise. On this view, eating is that one ground passing through its own forms. Many scientists do not accept this, and would say it more simply: atoms are shared and recycled among living things. Both views are given below. Both accounts agree that the line between your food and you lasts only a few hours.",
   "teachings": [
    {
     "source": "Taittiriya Upanishad, part 3, sections 2 and 7",

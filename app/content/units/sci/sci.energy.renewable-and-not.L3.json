@@ -798,6 +798,12 @@
    "art": "Three small pictures: a lump of coal, an oil drop and a gas flame."
   },
   {
+   "term": "Molecule",
+   "meaning": "A tiny group of atoms joined together. Water, sugar and the oils in living beings are all made of molecules.",
+   "example": "One drop of water holds more water molecules than anyone could count.",
+   "art": "A few round atoms joined into a small water molecule shape."
+  },
+  {
    "term": "Lignite",
    "meaning": "A soft brown coal that is younger than black coal and still looks a little like wood.",
    "example": "At Neyveli in Tamil Nadu, lignite is dug from open pits.",
@@ -808,6 +814,12 @@
    "meaning": "Wet land where water stays all year and plants grow thickly.",
    "example": "Coal began in warm swamps where tall plants fell into the water and were buried.",
    "art": "A warm swamp with tall plants and a fallen trunk in dark water."
+  },
+  {
+   "term": "Pressure",
+   "meaning": "A push spread over a surface. Deep underground, the weight of rock above presses very hard on what lies below.",
+   "example": "A pressure cooker keeps steam in, so the push of the steam rises and food cooks faster.",
+   "art": "A heavy layer of rock pressing down on a seam of buried plants."
   },
   {
    "term": "Reserve",
@@ -916,6 +928,12 @@
    "meaning": "A gas that burns, found in natural gas and in biogas. If it escapes unburnt, it holds back much more heat than carbon dioxide.",
    "example": "Natural gas is mostly methane, and a leaking pipe lets it into the air.",
    "art": "A gas pipe with small leaks drawn as dotted puffs."
+  },
+  {
+   "term": "Particle",
+   "meaning": "A very small piece of something. Atoms and the pieces inside them are particles.",
+   "example": "A grain of salt holds more particles than there are people in the world.",
+   "art": "A grain of salt with a zoom circle showing tiny dots."
   },
   {
    "term": "Atom",
@@ -1108,12 +1126,12 @@
       {
        "q": "Bowl B still has beans at round 15. Is it safe?",
        "good": [
-        "No. It goes down by one bean every round, so it will run out later.",
+        "No. The bowl goes down by one bean every round, so the beans will run out later.",
         "It looks fine now, but the speed of taking is bigger than the speed of giving."
        ]
       }
      ],
-     "parent": "Bowl A is empty at the end of round 5. Bowl B goes down by one bean each round and has 5 beans left after round 15. A parent can say that if you went on, it would be empty in round 17. That is a slow slide, and it is easy to miss if you stop early."
+     "parent": "Bowl A is empty at the end of round 5. Bowl B goes down by one bean each round and has 5 beans left after round 15. If you went on, the bowl would be empty in round 17. That is a slow slide, and it is easy to miss if you stop early."
     },
     {
      "id": "s5",
@@ -1148,14 +1166,14 @@
        ]
       }
      ],
-     "parent": "The answer you are looking for is that the same bowl can last or run out, depending on how fast we take compared with how fast it fills. A source is renewable only while the taking is slower than the giving back."
+     "parent": "The answer to look for is that the same bowl can last or run out. It depends on how fast we take compared with how fast it fills. A source is renewable only while the taking is slower than the giving back."
     },
     {
      "id": "s7",
      "mins": 3,
      "do": "Say what this test cannot tell us. Real forests and wells do not get exactly 3 beans every round. Rain is sometimes more and sometimes less. Ask what the child would change in the test to make it more like a real forest, and write one idea.",
      "say": "In this game the sky gave exactly 3 beans every round. Is a real forest like that? What would you change so that the game is more like a real forest or a real well?",
-     "kid": "Write one thing you would change to make the game more like a real forest.",
+     "kid": "Write one change that would make the game more like a real forest.",
      "adult": false,
      "ask": [
       {
@@ -1207,7 +1225,7 @@
      "qty": 1
     }
    ],
-   "record": "Fill in the table. Write one sentence for each of: what I think, what I saw and why. Say how you know both tumblers had the same sunlight.",
+   "record": "Fill in the table. Write what you expected, what you found and the reason. Say how you know both tumblers had the same sunlight.",
    "context": "In this experiment you warm water in the sun in a black tumbler and a foil tumbler. You find out how a surface can catch the Sun's energy as heat. It needs a sunny day, so it is an extra and not part of the main path.",
    "setup": [
     {
@@ -1338,7 +1356,7 @@
     {
      "id": "a1s1",
      "mins": 5,
-     "do": "Walk through the kitchen, a bedroom and the balcony or doorway. List eight things that use energy. Include a light, a fan, a stove, something with a plug, something with a battery, and one living being such as the child or a plant.",
+     "do": "Walk through the kitchen, a bedroom and the balcony or doorway. List eight things that use energy. Include a light, a fan and the kitchen burner. Add something with a plug, something with a battery, and one living being such as the child or a plant.",
      "say": "Let us find eight things in our home that use energy. What can you find?",
      "kid": "Walk round the home. Write eight things that use energy.",
      "adult": false,
@@ -1365,7 +1383,7 @@
     {
      "id": "a1s3",
      "mins": 4,
-     "do": "Draw three columns on a page. Write 'comes back in days to a few years', 'takes millions of years' and 'not sure'. Put each source in a column. Cooking gas, petrol and coal go in the middle column. Food, firewood, sunlight and wind go in the first. Electricity goes under not sure, until you find out where it comes from.",
+     "do": "Draw three columns on a page. Write 'comes back in days to a few years', 'takes millions of years' and 'not sure'. Put each source in a column. Cooking fuel in a cylinder, petrol and coal go in the middle column. Food, firewood, sunlight and wind go in the first. Electricity goes under not sure, until you find out where it comes from.",
      "say": "Which column has the most things? Which sources are you not sure about?",
      "kid": "Sort each source into a column. Put a question mark on any you are not sure about.",
      "adult": false,
@@ -1402,7 +1420,7 @@
      "qty": 8
     },
     {
-     "item": "a sharp pencil",
+     "item": "a fine-pointed pencil",
      "qty": 1
     }
    ],
@@ -1424,7 +1442,7 @@
      "caption": "2. Mark the end of the dinosaurs, the first dinosaurs and the coal swamps."
     },
     {
-     "art": "A sharp pencil point on the string at the today end, with a magnifying glass over it.",
+     "art": "A fine pencil point on the string at the today end, with a magnifying glass over it.",
      "caption": "3. Mark the 250 years of burning coal. It is smaller than the pencil dot."
     }
    ],
@@ -1459,7 +1477,7 @@
     {
      "id": "a2s3",
      "mins": 5,
-     "do": "Now ask the child to mark where the 250 years of burning coal would go. It starts at the today end. 250 years is 0.00025 centimetres, a width of 2.5 micrometres. Show a sharp pencil dot, which is about 0.1 millimetres wide. The pencil dot is about 40 times wider than the 250 years. Ask what that tells us.",
+     "do": "Now ask the child to mark where the 250 years of burning coal would go. It starts at the today end. 250 years is 0.00025 centimetres, a width of 2.5 micrometres. Show a pencil dot made with a fine point, which is about 0.1 millimetres wide. The pencil dot is about 40 times wider than the 250 years. Ask what that tells us.",
      "say": "How long is 250 years on our rope? Try to make a mark that small. Is it bigger or smaller than your pencil dot?",
      "kid": "Try to mark 250 years on the rope. Is your mark too big?",
      "adult": false,
@@ -1472,7 +1490,7 @@
        ]
       }
      ],
-     "parent": "Use a sharp pencil and a ruler with millimetres to see that the dot is much wider than the 250 years. The maths: 250 divided by 1,000,000 is 0.00025 centimetres."
+     "parent": "Use a fine pencil and a ruler with millimetres to see that the dot is much wider than the 250 years. The maths: 250 divided by 1,000,000 is 0.00025 centimetres."
     },
     {
      "id": "a2s4",
@@ -1566,7 +1584,7 @@
      "mins": 5,
      "do": "Explain that a unit on the electricity bill is 1,000 watt-hours. Work out how many days the whole list would take to make 1 unit. Then ask what the family could change to use less in a day, and how many watt-hours that would save.",
      "say": "A unit on the bill is 1,000 watt-hours. If we switch off the fan for 2 hours a day, how many watt-hours do we save?",
-     "kid": "A unit is 1,000 watt-hours. How many watt-hours do you save if you switch the fan off for 2 hours?",
+     "kid": "A unit is 1,000 watt-hours. How many do you save by switching the fan off for 2 hours?",
      "adult": false,
      "ask": [
       {
@@ -1636,7 +1654,7 @@
     {
      "id": "a4s1",
      "mins": 5,
-     "do": "Write these roles on six slips: a farmer downstream who needs water, a city family who needs electricity, a forest elder whose village lies behind the dam, a fisher who catches fish in the river, an engineer who built dams before, and one who speaks for the river and the forest animals. If there are fewer than six people, use fewer slips. Each person draws one and keeps it secret for now.",
+     "do": "Write six roles on six slips. They are a farmer downstream who needs water, a city family who needs electricity, and a forest elder whose village lies behind the dam. The others are a fisher who catches fish in the river, an engineer who built dams before, and one who speaks for the river and the forest animals. If there are fewer than six people, use fewer slips. Each person draws one and keeps it secret for now.",
      "say": "A big dam is planned on a river. Each of us will speak for someone different. We will not choose our own role. Draw a slip.",
      "kid": "Draw a slip. You will speak as that person in a moment.",
      "adult": false,
@@ -1758,10 +1776,10 @@
     {
      "id": "a5s3",
      "mins": 5,
-     "do": "Compare the two times. Ask why the lid made a difference, and where the energy goes in the pan without a lid. Ask the child to say how much gas the family could save in a month if the lid were used every time.",
+     "do": "Compare the two times. Ask why the lid made a difference, and where the heat goes in the pan with no lid. Ask the child how much fuel the family could save in a month if a lid were used every time.",
      "say": "Which pan boiled first, and by how much? Where do you think the heat went in the pan with no lid?",
      "kid": "Which pan boiled first? How many seconds sooner?",
-     "adult": false,
+     "adult": true,
      "ask": [
       {
        "q": "Why does a lid make the water boil sooner?",
@@ -1838,7 +1856,7 @@
      "what": "Work out the watt-hours saved, compare days 2 and 6, and talk about what changed."
     }
    ],
-   "record": "A table with one row for each evening and columns for the number of lights and fans on in empty rooms and the watt-hours that wasted. Draw a bar for each evening. Write one sentence for each of: what I think, what I saw and why.",
+   "record": "A table with one row for each evening. Add a column for the lights and fans on in empty rooms and a column for the watt-hours wasted. Draw a bar for each evening. End with three short lines about what you expected, what you found and the reason.",
    "setup": [
     {
      "art": "A home floor plan drawn on paper with a bulb or fan marked in each room and its watts beside it.",
@@ -1898,7 +1916,7 @@
     {
      "id": "p1s4",
      "mins": 10,
-     "do": "On day 6, count again. Then ask the family to choose one more habit for a day, such as putting a lid on the pot when boiling water, or using the fan only when someone is in the room. Write down which one.",
+     "do": "On day 6, count again. Then ask the family to choose one more habit for a day. It could be a lid on the pot, or the fan on only when someone is in the room. Write down which one.",
      "say": "What is one more small thing our family could do to use less energy? Let us try it for today.",
      "kid": "Count again. Choose one more habit and write it down.",
      "adult": false,
@@ -1916,7 +1934,7 @@
     {
      "id": "p1s5",
      "mins": 20,
-     "do": "On day 7, put the evening counts in a table. Work out the watt-hours wasted each evening by multiplying the watts of the things left on by the hours they would stay on, which you can guess as 2 hours. Draw a bar for each evening. Compare days 2 and 6. Then ask the family if they used the saving for something else, such as the television or the air conditioner.",
+     "do": "On day 7, put the evening counts in a table. Work out the watt-hours wasted each evening. Multiply the watts of the things left on by 2 hours, a fair guess for how long they stay on. Draw a bar for each evening. Compare days 2 and 6. Then ask the family if they used the saving for something else, such as the television or the air conditioner.",
      "say": "How did the counts change from day 2 to day 6? How many watt-hours did we save? Did anything else use more energy, to make up for it?",
      "kid": "Draw a bar for each evening. Compare the first and the last. Write what you notice.",
      "adult": false,
@@ -1940,7 +1958,7 @@
    "title": "A box that keeps food hot with no fuel",
    "mins": 30,
    "context": "This is a design problem. Gas is burnt to heat food. You build an insulated box that keeps hot water hot for two hours with no fuel, so that less gas is needed to cook.",
-   "problem": "Keep 500 millilitres of hot water in a lidded steel container as warm as you can for 2 hours, with no fuel, no electricity and nothing you must buy. Compare it with the same container left on a kitchen counter. There is more than one good answer.",
+   "problem": "Keep 500 millilitres of hot water in a lidded steel container as warm as you can for 2 hours. Use no fuel, no electricity and nothing you must buy. Compare it with the same container left on the counter. There is more than one good answer.",
    "constraints": [
     "Use only things you can find at home, such as a cardboard box, newspaper, old cloth and foil.",
     "Nothing may be plugged in or heated after the water is poured.",
@@ -2037,7 +2055,7 @@
        ]
       }
      ],
-     "parent": "The container in the box should be clearly warmer than the one on the counter, often by 10 degrees or more, though your numbers depend on the box and the room. If both are the same, check that the lid was on and the box was closed. A hay box, or a heat retention cooker, is used by families who finish cooking in a box after bringing food to the boil."
+     "parent": "The container in the box should be clearly warmer than the one on the counter, often by 10 degrees or more. Your numbers depend on the box and the room. If both are the same, check that the lid was on and the box was closed. Some families finish cooking in a hay box after bringing food to the boil."
     }
    ],
    "general": [
@@ -2048,7 +2066,7 @@
    "creative": [
     "Put the container in a box that sits inside a bigger box, with crumpled paper in the gap, so there are two layers of trapped air.",
     "Line the box with foil, shiny side in, so that heat is sent back to the container.",
-    "Heat a stone or a brick, wrap it, and put it in the box with the container, so that a second store of heat is working too, if an adult agrees."
+    "Put in a warm brick wrapped in cloth, if an adult agrees. It is a second store of heat that keeps the box warm."
    ],
    "your_turn": "Design your own box and test it against the counter. What did you change that kept the water warmest? How could your family use it to save gas in a month?"
   },
@@ -2066,7 +2084,14 @@
    ],
    "materials": [
     "paper and a pencil",
-    "a list of appliances to plan with: fridge 150 watts, working about 7 hours in a day, which is about 1 unit, 4 LED bulbs of 9 watts each on for 5 hours in the evening, 2 fans of 60 watts each on for 8 hours at night, water pump 750 watts for half an hour, mixie 500 watts for 15 minutes, iron 1,000 watts for 15 minutes, washing machine 400 watts for 1 hour, television 80 watts for 4 hours in the evening",
+    "the fridge: 150 watts, working about 7 hours in a day, which is about 1 unit",
+    "4 LED bulbs: 9 watts each, on for 5 hours in the evening",
+    "2 fans: 60 watts each, on for 8 hours at night",
+    "a water pump: 750 watts, for half an hour",
+    "a mixie: 500 watts, for 15 minutes",
+    "an iron: 1,000 watts, for 15 minutes",
+    "a washing machine: 400 watts, for 1 hour",
+    "a television: 80 watts, for 4 hours in the evening",
     "a calculator, if you like"
    ],
    "setup": [
@@ -2262,7 +2287,7 @@
     {
      "id": "g1s2",
      "mins": 15,
-     "do": "Play 8 rounds. In each, talk for a minute, put the cut cards down together, take the wood, then turn over a weather card and add trees. Write each round on the score sheet.",
+     "do": "Play 8 rounds. In each round, talk for a minute. Then put the cut cards down together and take the wood. Last, turn over a weather card and add trees. Write each round on the score sheet.",
      "say": "Talk first. What are you going to cut, and why? Then put down your card and turn them over together.",
      "kid": "Talk, then put down a cut card. Turn them over together. Take the wood.",
      "adult": false,
@@ -2311,7 +2336,7 @@
    "title": "Where does the energy come from? (core)",
    "tier": "core",
    "mins": 25,
-   "context": "This sheet checks that you can sort energy sources by how fast they come back, say what fossil fuels are made from, and follow energy back to the Sun.",
+   "context": "This sheet checks three things. You can sort energy sources by how fast they come back. You can say what fossil fuels are made from. You can follow energy back to the Sun.",
    "items": [
     {
      "t": "sort",
@@ -2397,7 +2422,7 @@
     },
     {
      "t": "mcq",
-     "p": "Bowl A and Bowl B each start with 20 beans. 5 beans are taken from each every round. Bowl B gets 3 a round. Which is empty first?",
+     "p": "Both bowls start with 20 beans. Each round, 5 are taken from each. Only Bowl B gets 3 back. Which empties first?",
      "opts": [
       "Bowl B",
       "They empty together",
@@ -2460,7 +2485,7 @@
      "p": "Which is a real cost of a big dam?",
      "opts": [
       "It adds a lot of soot to the air",
-      "It floods land, and people and animals who lived there lose their homes",
+      "It floods land, and people and other animals lose their homes",
       "It uses up the river for ever"
      ],
      "a": 1,
@@ -2531,7 +2556,7 @@
    "items": [
     {
      "t": "mcq",
-     "p": "A pond is filled by 100 buckets of rain each month. A village takes 120 buckets each month. Is the pond renewable for them?",
+     "p": "A pond gets 100 buckets of rain a month. A village takes 120 a month. Is the pond renewable for them?",
      "opts": [
       "Yes, because rain comes every month",
       "No, because the pond never fills with rain",
@@ -2580,7 +2605,7 @@
     },
     {
      "t": "write",
-     "p": "Mala says, 'Bowl B never ran out when we took 3 beans, so a forest is safe if we cut 3 trees a year.' What is missing from her claim?",
+     "p": "Mala says, 'Taking 3 beans a round was safe, so cutting 3 trees a year is safe.' What is missing?",
      "lines": 3,
      "a": "The 3 beans were what the game added each round. A real forest adds a different number each year. Mala needs to know how many trees grow back, and that changes with rain and land.",
      "why": "The safe number in the test came from the rule that 3 were added. A real forest has no such rule, so we must measure how fast it grows before saying a number is safe.",
@@ -2590,7 +2615,7 @@
      "t": "truefalse",
      "p": "Bowl B gets 3 beans a round. If we take 4 beans a round, it will be empty in round 4.",
      "a": false,
-     "why": "False. Taking 4 and adding 3 makes the bowl fall by just one bean a round, so it lasts until round 17. A small gap between the taking and the giving back is slow but still empties the bowl.",
+     "why": "False. Taking 4 and adding 3 makes the bowl fall by just one bean a round, so the bowl lasts until round 17. A small gap between the taking and the giving back is slow but still empties the bowl.",
      "outcome": 3,
      "how": "e1"
     },
@@ -2673,7 +2698,7 @@
       }
      ],
      "ask": "Which would you do first, and could you do both?",
-     "a": "Answers vary. A strong answer notes that saving costs nothing and that panels are best used on a school that already wastes little, so both together are the best.",
+     "a": "Answers vary. A strong answer notes that saving costs nothing. Panels work best at a school that already wastes little. So both together are best.",
      "why": "Using less and making more are both good. Each unit saved is a unit that need not be made, which is why many engineers say to save first.",
      "outcome": 6
     },
@@ -2683,12 +2708,12 @@
      "a": [
       "9"
      ],
-     "why": "An LED of about 9 watts gives about as much light as an old 60 watt bulb, so six or seven LED bulbs can shine on the energy of one old bulb.",
+     "why": "An LED of about 9 watts gives about as much light as an old 60 watt bulb. So six or seven LED bulbs can shine on the energy of one old bulb.",
      "outcome": 6
     },
     {
      "t": "count",
-     "p": "A home swaps four 60 watt bulbs for four 9 watt LED bulbs. Each is on 4 hours a day. How many watt-hours are saved in a day?",
+     "p": "Four 60 watt bulbs become four 9 watt LEDs. Each runs 4 hours a day. How many watt-hours are saved daily?",
      "a": "816",
      "why": "Each bulb saves 60 minus 9, which is 51 watts. 51 times 4 hours is 204 watt-hours for one bulb. Four bulbs save 4 times 204, which is 816 watt-hours.",
      "outcome": 6
@@ -2715,7 +2740,7 @@
     },
     {
      "t": "draw",
-     "p": "Draw Bowl A and Bowl B after 3 rounds of taking 2 beans from each, with 3 beans added to Bowl B each round. Write the number of beans in each.",
+     "p": "Draw both bowls after 3 rounds. Take 2 beans from each, and add 3 to Bowl B. Write the beans in each.",
      "a": "Bowl A with 14 beans and Bowl B with 23 beans.",
      "why": "Bowl A loses 2 each round for 3 rounds, so 20 minus 6 leaves 14. Bowl B loses 2 and gains 3, so it gains 1 each round and has 23.",
      "outcome": 3,
@@ -2746,7 +2771,7 @@
    "items": [
     {
      "t": "mcq",
-     "p": "A well holds 300 buckets. Rain gives back 40 buckets a day, and a village takes 50 a day. After how many days is it empty?",
+     "p": "A well holds 300 buckets. Rain gives 40 a day, and a village takes 50. After how many days is it empty?",
      "opts": [
       "6 days",
       "30 days",
@@ -2785,7 +2810,7 @@
       }
      ],
      "ask": "What would you want to know before choosing, and could both be partly right?",
-     "a": "Answers vary. A strong answer asks about cost, who gets power, how steady each source is and what stores exist, and may find that a mix is the answer.",
+     "a": "Answers vary. A strong answer asks about cost, who gets power and how steady each source is. It may find that a mix is the answer.",
      "why": "Both views are serious. The choice depends on numbers that change every year, such as costs and how much electricity can be stored.",
      "outcome": 5
     },
@@ -2877,13 +2902,13 @@
      "t": "write",
      "p": "Choose one thing in your home that could use less energy without losing what your family needs. How would you do it?",
      "lines": 3,
-     "a": "Answers vary. A strong answer names a thing, gives a real change such as a lid, switching off in an empty room or an LED bulb, and says roughly how much it would save.",
+     "a": "Answers vary. A strong answer names a thing and gives a real change, such as a lid, an LED bulb or switching off in an empty room. It says roughly how much that would save.",
      "why": "Saving energy means getting the same light, cooking or travel from less. The best changes cost little and do not make anyone's day harder.",
      "outcome": 6
     },
     {
      "t": "mcq",
-     "p": "India gets about 7 in 10 units of electricity from coal in about 2024, and this changes every year. Which is a fair thing to say?",
+     "p": "India made about 7 in 10 units from coal in about 2024, and it changes yearly. What is fair to say?",
      "opts": [
       "India can switch off coal tomorrow",
       "Solar panels will never help",
@@ -2895,7 +2920,7 @@
     },
     {
      "t": "draw",
-     "p": "Draw a graph of the beans in Bowl B after each of the first 6 rounds, when 4 are taken and 3 are added every round.",
+     "p": "Graph the beans in Bowl B for rounds 1 to 6, when 4 are taken and 3 are added each round.",
      "a": "Points at 19, 18, 17, 16, 15 and 14 beans, sliding down by one each round.",
      "why": "Bowl B loses 4 and gains 3, so it falls by one each round. A gentle slope can still end in an empty bowl, which a short test might not show.",
      "outcome": 3,
@@ -2904,7 +2929,7 @@
     },
     {
      "t": "label",
-     "p": "Label a pumped storage station with these words: high lake, low lake, turbine, water going up at noon, water coming down at night.",
+     "p": "Label a pumped storage station: high lake, low lake, turbine, water up at noon, water down at night.",
      "a": "A high lake and a low lake joined by a pipe with a turbine in it. An arrow up marked noon and an arrow down marked night.",
      "why": "At noon, spare electricity pumps water up. At night the water runs down through the turbine and makes electricity again. This is how a lake stores the Sun's work.",
      "outcome": 5,
@@ -2928,7 +2953,7 @@
    "p": "Cooking gas in a cylinder is a fuel, and sunlight is not. Why?",
    "opts": [
     "Gas costs money and sunlight is free",
-    "Gas is burnt to let out its stored energy, and sunlight is not burnt",
+    "Gas is burnt for its stored energy, and sunlight is not burnt",
     "Gas has more energy than sunlight"
    ],
    "a": 1,
@@ -2941,7 +2966,7 @@
    "opts": [
     "Power stations make energy out of nothing",
     "Power stations only store energy for later",
-    "Power stations collect energy from a source and pass it on as electricity"
+    "Power stations collect energy from a source and pass it on"
    ],
    "a": 2,
    "why": "Nobody makes energy out of nothing. A power station collects energy from coal, falling water, wind, sunlight or nuclear fuel and turns it into electricity. It is not mainly a store, because most of the energy leaves at once.",
@@ -3076,7 +3101,7 @@
    "opts": [
     "Panels use up their own energy each day",
     "Street lights only run on coal",
-    "Panels work in sunlight, so a store such as a battery is needed for night"
+    "Panels need light, so night needs a store such as a battery"
    ],
    "a": 2,
    "why": "A panel makes electricity only while light falls on it. To light a street at night we need a store, such as a battery, that was charged in the day. Panels do not use themselves up, and street lights can run on any source.",
@@ -3084,7 +3109,7 @@
   },
   {
    "t": "mcq",
-   "p": "An LED bulb of 9 watts and an old bulb of 60 watts give the same light. Both are on for 5 hours. How much more energy does the old one use?",
+   "p": "A 9 watt LED and a 60 watt bulb give equal light for 5 hours. How much more energy does the old one use?",
    "opts": [
     "51 watt-hours",
     "255 watt-hours",
@@ -3099,7 +3124,7 @@
    "p": "A city swaps to LED bulbs and still uses more electricity the next year. What is one possible reason?",
    "opts": [
     "LED bulbs make more energy than they use",
-    "Cheaper light may lead to more lights left on, or more things bought",
+    "Cheaper light may mean more lights left on, or more things bought",
     "Old bulbs always used less than LED bulbs"
    ],
    "a": 1,
@@ -3109,10 +3134,10 @@
  ],
  "applications": [
   "Your electricity bill shows units used. One unit is 1,000 watt-hours, which is a 1,000 watt iron on for an hour, or a 9 watt LED bulb on for about 110 hours. Find a bill, read the units, and ask which things at home used the most.",
-  "A cooking gas cylinder is a store of fuel. Ask how long the family's cylinder lasts. A lid on the pot or a pressure cooker that uses about half the gas can make it last weeks longer, so fewer cylinders have to be made and carried.",
+  "A cooking gas cylinder is a store of fuel. Ask how long the family's cylinder lasts. A lid on the pot can make it last longer. So can a pressure cooker, which uses about half the gas. Then fewer cylinders have to be made and carried.",
   "A solar water heater on a roof catches sunlight as heat in a black tank. Look for one on a nearby building and notice the angle of the panel and which way it faces. In Bengaluru and Pune many roofs have one.",
-  "Bus and metro fares in your city are partly a way of sharing fuel. A full bus carries fifty people on the fuel of about five cars. Notice the empty seats on a bus and the number of cars with only one person inside.",
-  "A home inverter is an energy store. It fills its battery while the power is on and gives it back during a power cut. Notice how long it lasts, and which things you turn off to make it last longer.",
+  "Count the people in the next bus you ride, and then count the cars beside it on the road with only one person inside. Ask how many cars the bus is standing in for, and how the road would look if every rider drove alone.",
+  "Think about a power cut at home. If you have an inverter, ask how many hours it keeps the lights on and which things you switch off to make it last. If you do not, ask what the neighbours use.",
   "A village biogas tank turns dung and kitchen scraps into cooking gas, and the left-over slurry goes to the fields as manure. In Gujarat, Maharashtra and Tamil Nadu many families cook on gobar gas."
  ],
  "spotted": [
@@ -3201,7 +3226,7 @@
    "explain": "At 20 a day the well gains 30 minus 20, which is 10 each day, so 200 plus 100 is 300. At 30 a day nothing changes. At 40 a day it loses 10 each day, so 200 minus 100 is 100 after 10 days. 200 divided by 10 is 20 days to empty.",
    "math_unit": "math.patterns.number-patterns.L3",
    "context": "This problem uses the same two speeds as the beans test, but with a well.",
-   "why_maths": "A source lasts or runs out depending on the gap between the speed of taking and the speed of giving back, which is a sum of change each day."
+   "why_maths": "A source lasts or runs out depending on the gap between the speed of taking and the speed of giving back. That gap is a sum of change each day."
   },
   {
    "problem": "A 9 watt LED bulb and a 60 watt old bulb are each on for 5 hours a day. Work out the watt-hours for each in one day and in 30 days. How many units on the bill does the old bulb use more in 30 days? One unit is 1,000 watt-hours.",
@@ -3467,7 +3492,7 @@
    [
     "Uranium for nuclear power got its energy from the Sun.",
     false,
-    "Uranium was made in exploding and colliding stars long before the Sun was born."
+    "The Sun did not make uranium. It was made in stars that ended before the Sun formed."
    ],
    [
     "A solar panel makes some electricity at night from the dark.",

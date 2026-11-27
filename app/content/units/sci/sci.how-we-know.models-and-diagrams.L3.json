@@ -729,7 +729,7 @@
    "term": "Photograph",
    "meaning": "A picture made by a camera. It records the light that reached the camera at one moment.",
    "example": "A phone photo of a hibiscus shows its shadow and the ant on one petal, as they were then.",
-   "art": "A phone taking a photo of a hibiscus with an ant on it."
+   "art": "A phone taking a photo of a hibiscus flower, with an ant on one petal."
   },
   {
    "term": "Map",
@@ -826,6 +826,30 @@
    "meaning": "A shape like a flattened circle, like an egg seen from the side. Planets move round the Sun on ellipses.",
    "example": "If you tilt a circular steel plate and look at its rim, you see an ellipse.",
    "art": "A circle and an ellipse side by side."
+  },
+  {
+   "term": "Orbit",
+   "meaning": "The curved path of one thing round another, such as the Earth round the Sun.",
+   "example": "The Moon is held in an orbit round the Earth, and goes once round in about a month.",
+   "art": "The Earth drawn on a curved path round the Sun."
+  },
+  {
+   "term": "Eclipse",
+   "meaning": "When one thing in the sky moves in front of another and hides some of its light.",
+   "example": "In a solar eclipse the Moon moves between us and the Sun, and the day grows dark for a few minutes.",
+   "art": "The Moon in front of the Sun, with a ring of light round it."
+  },
+  {
+   "term": "Gravity",
+   "meaning": "The pull that makes things fall and keeps the planets going round the Sun. Scientists can say how it acts. Nobody yet has a full theory of what it is.",
+   "example": "When you drop a ball, gravity pulls it to the floor.",
+   "art": "A ball falling towards the floor with an arrow."
+  },
+  {
+   "term": "Magnetism",
+   "meaning": "The push and pull between magnets, and between a magnet and some metals, such as iron.",
+   "example": "A fridge magnet sticks to the steel door because of magnetism.",
+   "art": "A magnet holding a paper to a steel door."
   },
   {
    "term": "Atom",
@@ -957,7 +981,7 @@
     }
    ],
    "record": "Draw your first model of the inside of the box as seen from above. Fill in the results table for at least six tilts. Draw your changed model after the tests. Then write one sentence each for what you think is inside, what you felt and heard, and why you think so.",
-   "context": "In this experiment a grown-up hides something inside a sealed box and you work out what it is by tilting the box. You build a model from clues, test it with a new prediction and change it when the test goes against it, which is how scientists study things they cannot see.",
+   "context": "In this experiment a grown-up hides something inside a sealed box and you work out what it is by tilting the box. You build a model from clues and test it with a new prediction. You change it when the test goes against it. This is how scientists study things they cannot see.",
    "setup": [
     {
      "art": "A grown-up's hands inside an open shoebox, taping a folded strip of card across the floor so that it leaves a gap at one end, with a marble in the other hand.",
@@ -980,7 +1004,7 @@
     {
      "id": "s1",
      "mins": 5,
-     "do": "Do this part alone, out of the child's sight. Fold 1 centimetre at the bottom of the card strip to make a foot. Tape the foot to the floor of the box so that the strip stands upright across the width of the box, about halfway along. Leave a gap of about 4 centimetres between one end of the strip and the side of the box, so that the marble can roll through it. Drop the marble into one half of the box, put on the lid and tape it shut all round.",
+     "do": "Do this part alone, out of the child's sight. Fold 1 centimetre at the bottom of the card strip to make a foot. Tape the foot to the floor of the box. The strip must stand upright across the width of the box, about halfway along. Leave a gap of about 4 centimetres between one end of the strip and the side of the box. The marble can roll through it. Drop the marble into one half of the box, put on the lid and tape it shut all round.",
      "say": "Now we make a puzzle. Something is inside this box and you may not look. Your job is to find out what it is, as scientists do with things they cannot see.",
      "kid": "Wait while a grown-up hides something in the box and seals it. Do not look.",
      "adult": true,
@@ -1210,7 +1234,7 @@
        ]
       }
      ],
-     "parent": "The dot usually vanishes at about 30 to 40 centimetres from the eye. If it does not vanish, make sure the eye stays on the cross, move the paper in and out more slowly, and check that the dot is on the same side as the open eye. If the left eye is covered, the dot is to the right of the cross. A very small child may need help to keep still. Expect most children to succeed in three or four tries."
+     "parent": "The dot usually vanishes at about 30 to 40 centimetres from the eye. If it does not vanish, keep the eye on the cross and move the paper more slowly. Check that the dot is on the same side as the open eye. If the left eye is covered, the dot is to the right of the cross. A very small child may need help to keep still. Expect most children to succeed in three or four tries."
     },
     {
      "id": "s4",
@@ -1258,7 +1282,7 @@
    "title": "Torch and orange: use a model to explain day and night, then to predict the midnight Sun",
    "mins": 25,
    "days": 1,
-   "question": "Can a torch and an orange explain why day and night happen, and tell us something about the far north that we have never seen?",
+   "question": "Can a torch and an orange explain why day and night happen, and tell us what happens in the far north, a place we have never seen?",
    "predict": "Before you tilt the orange, guess. If the orange leans towards the torch, will a dot right at the top ever go dark as the orange turns? Say why you think so.",
    "fair_test": "The torch stays in one place, at the same height as the middle of the orange, about 50 centimetres away. The room is as dark as you can make it. The orange turns at the same slow pace each time, three full turns for each lean. Only one thing changes between tests: the lean of the pencil, which is straight up, leaning towards the torch, or leaning away from it.",
    "results_table": [
@@ -1294,7 +1318,7 @@
     }
    ],
    "record": "Fill in the table for the three leans. Draw the orange, the torch and the pencil for each lean, and shade the lit half. Write one sentence each for what you think, what you saw and why.",
-   "context": "In this experiment you make a model of the Earth from an orange and use a torch for the Sun. First you use it to explain day and night. Then you use it to predict something about the far north, to find out if the model can tell you what you did not already know.",
+   "context": "In this experiment you make a model of the Earth from an orange and use a torch for the Sun. First you use it to explain day and night. Then you use it to predict what happens in the far north, to find out if the model can tell you what you did not already know.",
    "setup": [
     {
      "art": "An orange with a pencil pushed straight through it from top to bottom, a small ring drawn round the top end and a dot drawn near the middle.",
@@ -1317,7 +1341,7 @@
     {
      "id": "s1",
      "mins": 5,
-     "do": "Push the pencil through the middle of the orange from top to bottom. Draw a small ring about 1 centimetre across round the point where the pencil comes out at the top. Draw a dot about one centimetre above the middle line of the orange, on its side. Put the torch on a pile of books so that it shines at the middle of the orange when the orange is held 50 centimetres away.",
+     "do": "Push the pencil through the middle of the orange from top to bottom. Draw a small ring about 1 centimetre across round the point where the pencil comes out at the top. Draw a dot about one centimetre above the middle line of the orange, on its side. Put the torch on a pile of books. It must shine at the middle of the orange when the orange is held 50 centimetres away.",
      "say": "This orange will stand for the Earth. The pencil is the line it spins on. The ring at the top is the far north. The dot is where we live. What will the torch stand for?",
      "kid": "A grown-up pushes the pencil through the orange. Draw a ring at the top and a dot near the middle.",
      "adult": true,
@@ -1365,7 +1389,7 @@
     {
      "id": "s4",
      "mins": 6,
-     "do": "Lean the pencil towards the torch, so that the top of the pencil is about a third of the way towards the torch, about 30 degrees from straight up. Turn the orange slowly, three turns. Watch the ring at the top and the dot near the middle. Write what you see.",
+     "do": "Lean the pencil towards the torch, about 30 degrees from straight up. That is about a third of the way towards the torch. Turn the orange slowly, three turns. Watch the ring at the top and the dot near the middle. Write what you see.",
      "say": "Now the pencil leans towards the torch. Turn the orange. Watch the ring at the top. Does it go dark?",
      "kid": "Lean the pencil towards the torch. Turn the orange. Watch the ring.",
      "adult": false,
@@ -1429,7 +1453,7 @@
    "title": "Two maps of one home: different jobs, different models",
    "mins": 20,
    "days": 1,
-   "context": "In this activity you draw the same home twice, for two different visitors, and find out that each drawing keeps what its reader needs and leaves out the rest.",
+   "context": "In this activity you draw the same home twice, for two different visitors. You find out that each drawing keeps what its reader needs and leaves out the rest.",
    "materials": [
     {
      "item": "two sheets of paper",
@@ -1470,7 +1494,7 @@
     {
      "id": "a1s1",
      "mins": 6,
-     "do": "Give your child a sheet of paper. Ask for a map from the gate of the building (or the door of the home, if you live in a house) to your front door, for a delivery rider who has never been here. Ask the child to put in only what the rider needs.",
+     "do": "Give your child a sheet of paper. Ask for a map from the gate of the building to your front door, for a delivery rider who has never been here. If you live in a house, start from the street. Ask the child to put in only what the rider needs.",
      "say": "Draw the way from the gate to our front door so that a stranger can follow it. Put in only what they need. What do they need?",
      "kid": "Draw the way from the gate to your front door for a delivery rider.",
      "adult": false,
@@ -1479,9 +1503,9 @@
     {
      "id": "a1s2",
      "mins": 6,
-     "do": "On a second sheet, ask your child to draw the way from the bed to the water tap in the dark, for a friend who will walk it with the lights off. Ask for things you can feel with the feet and hands, and for the number of steps.",
+     "do": "On a second sheet, ask your child to draw the way from the bed to the water tap, for a friend who will walk it with the lights off. Ask for things you can feel with the feet and hands, and for the number of steps.",
      "say": "Now a friend must walk from the bed to the tap in the dark. What would they need to know that the rider did not? What do they not need any more?",
-     "kid": "Draw the way from your bed to the water tap for a walk in the dark.",
+     "kid": "Draw the way from your bed to the water tap. A friend will walk it in the dark.",
      "adult": false,
      "ask": [
       {
@@ -1608,7 +1632,7 @@
     {
      "id": "a2s4",
      "mins": 5,
-     "do": "Lay the photo, the diagram and the real tomato side by side. Ask what the photograph is good for, what the diagram is good for, and whether the diagram could be used for a different tomato.",
+     "do": "Lay the photo, the diagram and the real tomato side by side. Ask what the photograph is good for and what the diagram is good for. Then ask if the diagram could be used for a different tomato.",
      "say": "Which one tells you what this one tomato looked like today? Which one helps you understand any tomato?",
      "kid": "Compare the photo, the diagram and the tomato. Which is good for what?",
      "adult": false,
@@ -1632,7 +1656,7 @@
    "title": "Walk the solar system: a model that is true to scale",
    "mins": 30,
    "days": 1,
-   "context": "In this activity you lay out the Sun and the planets true to scale along a street, a park or a long corridor, and find out what every picture of the solar system must leave out.",
+   "context": "In this activity you lay out the Sun and the planets true to scale along a street, a park or a long corridor. You find out what every picture of the solar system must leave out.",
    "materials": [
     {
      "item": "a football or a ball about 22 centimetres across, or a steel plate that size",
@@ -1694,12 +1718,12 @@
        ]
       }
      ],
-     "parent": "The scale is simple. If the Sun is 22 centimetres across, the Earth is 2 millimetres across and 24 metres away. One big adult step is about 75 centimetres, so 24 metres is about 32 steps. The distances: Mercury is about 9 metres (12 steps), Venus 17 metres (23 steps), Earth 24 metres (32 steps), Mars 36 metres (48 steps), Jupiter 123 metres (164 steps), Saturn 226 metres, Uranus 454 metres and Neptune 711 metres."
+     "parent": "The scale is simple. If the Sun is 22 centimetres across, the Earth is 2 millimetres across and 24 metres away. One big adult step is about 75 centimetres, so 24 metres is about 32 steps. The distances are these. Mercury is about 9 metres (12 steps), Venus 17 metres (23 steps), Earth 24 metres (32 steps) and Mars 36 metres (48 steps). Jupiter is 123 metres (164 steps). Saturn is 226 metres, Uranus 454 metres and Neptune 711 metres."
     },
     {
      "id": "a3s2",
      "mins": 12,
-     "do": "Pace out the distances for Mercury, Venus, Earth, Mars and Jupiter. At each one, put down a poppy seed for Mercury, a mustard seed for Venus, a mustard seed for the Earth, a poppy seed for Mars and a marble for Jupiter. Mark each place with chalk or a piece of paper.",
+     "do": "Pace out the distances for Mercury, Venus, Earth, Mars and Jupiter. At each one put down a poppy seed for Mercury, a mustard seed for Venus, a mustard seed for the Earth, a poppy seed for Mars and a marble for Jupiter. Mark each place with chalk or a piece of paper.",
      "say": "Walk 12 steps. Put down the smallest seed. That is Mercury. Now 23 steps from the Sun for Venus. Keep going.",
      "kid": "Pace out the planets. Put a small thing at each place.",
      "adult": false,
@@ -1742,7 +1766,7 @@
    "title": "The heart is like a pump: where does the likeness stop?",
    "mins": 20,
    "days": 1,
-   "context": "In this activity you test a comparison, 'the heart is like a pump', with a soap pump and your own pulse, to find where the likeness holds and where it stops.",
+   "context": "In this activity you test the comparison 'the heart is like a pump'. You use a soap pump and your own pulse to find where the likeness holds and where it stops.",
    "materials": [
     {
      "item": "a soap dispenser or a spray bottle with a pump",
@@ -1894,7 +1918,7 @@
     {
      "id": "a5s1",
      "mins": 4,
-     "do": "Use a marker to draw a circle about 3 centimetres across, a square of about the same size and a long line from the top to the bottom of the orange. Ask your child to say what will happen to them when the skin is flattened.",
+     "do": "Use a marker to draw a circle about 3 centimetres across, a square of about the same size and a long line from the top to the bottom of the orange. Ask your child what will happen to them when the skin is flattened.",
      "say": "Draw a circle, a square and a line down the orange. What will happen to them if we press the peel flat?",
      "kid": "Draw a circle, a square and a long line on the orange. Guess what will happen.",
      "adult": false,
@@ -1903,7 +1927,7 @@
     {
      "id": "a5s2",
      "mins": 6,
-     "do": "Peel the orange with the thumb, without a knife, trying to keep the skin in as large a piece as possible. Lay the pieces on the plate. Press them flat with the palm and look at the drawings.",
+     "do": "Peel the orange by hand, using your thumb. Try to keep the skin in as large a piece as you can. Lay the pieces on the plate. Press them flat with the palm and look at the drawings.",
      "say": "Peel the orange. Press the peel flat. What happens to the circle, the square and the line?",
      "kid": "Peel the orange. Press the skin flat. Look at your drawings.",
      "adult": false,
@@ -1913,7 +1937,7 @@
        "good": [
         "The skin split or stretched, and the shapes were pulled out of shape.",
         "The line broke into pieces, and the circle stretched at the edges.",
-        "Any honest answer about what was seen."
+        "Any answer that says what happened to the shapes."
        ]
       }
      ],
@@ -1948,7 +1972,7 @@
    "title": "The map that a stranger can follow: draw, test, fix",
    "days": 4,
    "mins": 70,
-   "context": "In this project you draw a map of a short route, give it to someone who has never walked it, see where they go wrong, and fix the map. You find out that a good model is made by testing it on other people.",
+   "context": "In this project you draw a map of a short route and give it to someone who has never walked it. You see where they go wrong and fix the map. You find out that a good model is made by testing it on other people.",
    "materials": [
     {
      "item": "paper, a pencil and a rubber",
@@ -2016,7 +2040,7 @@
     {
      "id": "p1s1",
      "mins": 20,
-     "do": "Walk a short, safe route with your child from your own door to a place within sight, such as the building gate, the lift lobby or the shop at the corner. Ask your child to notice what could help a stranger find the way. Go home and ask for a map of the route, drawn from memory, with a start, an end and any signs along the way.",
+     "do": "Walk a short, safe route with your child to a place within sight, such as the building gate or the shop at the corner. Ask your child to notice what could help a stranger find the way. Back home, ask for a map of the route drawn from memory. It needs a start, an end and any signs along the way.",
      "say": "Walk to the gate and notice what helps you know where you are. Then draw a map of the way, so that someone who has never been here could follow it.",
      "kid": "Walk the route with a grown-up. Then draw a map of it from memory.",
      "adult": false,
@@ -2075,7 +2099,7 @@
     {
      "id": "p1s4",
      "mins": 15,
-     "do": "Open a phone map of the same route. Lay your final map beside it. Ask your child to list what each one shows well, what each leaves out, and which would be better for a stranger on foot, for a driver and for someone in a wheelchair.",
+     "do": "Open a phone map of the same route. Lay your final map beside it. Ask your child to list what each one shows well and what each leaves out. Then ask which is better for a stranger on foot, for a driver and for someone in a wheelchair.",
      "say": "Look at your map and the phone's map of the same route. What does each show? What does each leave out? Which is better for which person?",
      "kid": "Compare your map with the phone's map. Say what each leaves out.",
      "adult": false,
@@ -2135,7 +2159,7 @@
     {
      "id": "ch1s1",
      "mins": 6,
-     "do": "Say that some people read with their fingers. Ask your child what a map for them would need that a drawn map does not. Ask the child to sketch a plan of the route from the front door to the kitchen, and to decide which material stands for a wall, a door, the route and the kitchen.",
+     "do": "Say that some people read with their fingers. Ask your child what a map for them would need that a drawn map does not. Ask the child to sketch a plan of the route from the front door to the kitchen. Then ask which material will stand for a wall, a door, the route and the kitchen.",
      "say": "Imagine a person who cannot see this map. What would they use instead of their eyes? What things must feel different from each other?",
      "kid": "Plan the map. Pick a feel for walls, doors, the route and the kitchen.",
      "adult": false,
@@ -2216,7 +2240,7 @@
     "Mark the doors by leaving a gap in the string wall and putting a bead in the gap."
    ],
    "creative": [
-    "Use a different smell for each room, such as a dab of cardamom on a cotton ball for the kitchen and a dab of coconut oil on a cloth for the bedroom, so that the reader's nose helps their fingers.",
+    "Use a different smell for each room. Put a dab of cardamom on cotton for the kitchen and a dab of coconut oil on cloth for the bedroom. Then the reader's nose helps their fingers.",
     "Make the map out of a cloth that folds, so that it can be carried and a corridor can be pulled out to be felt in full length.",
     "Add small bells or a rattle of dal in a sealed packet at the door, so that the reader can feel and hear where they are."
    ],
@@ -2460,7 +2484,7 @@
      "title": "10 model cards (what it shows and what it leaves out on the back)",
      "items": [
       {
-       "f": "MODEL. The straight-line metro map. Shows the lines as straight strokes with evenly spaced stations.",
+       "f": "MODEL. The straight-line metro map. Shows each line as a straight stroke, with the stations spaced evenly along it.",
        "b": "It leaves out true distances and the real bends of the track. It breaks if you use it to guess how far apart two stations are."
       },
       {
@@ -2705,14 +2729,14 @@
       {
        "q": "What does the dance leave out, and who decided that?",
        "good": [
-        "The colour and smell of the flowers, and the shape of the way. The bee's way of dancing decides it.",
+        "The colour and smell of the flowers, and the shape of the way. The bee's way of dancing decides what is left out.",
         "Anything but the direction and the distance.",
         "Any answer that names something left out."
        ]
       }
      ],
      "think": "A bee's dance is a model made by a bee. Who else makes models?",
-     "parent": "Real bees also carry the smell of the flowers on their bodies and share nectar from them, so the dance is only a part of what the others know."
+     "parent": "Real bees also carry the smell of the flowers on their bodies. They share nectar too, so the dance is only a part of what the others know."
     }
    ]
   }
@@ -2851,7 +2875,7 @@
     },
     {
      "t": "truefalse",
-     "p": "A diagram of a flower stands for every flower of that kind, so it leaves out the shadow and the ant on one petal.",
+     "p": "A diagram of a flower stands for every flower of that kind. It leaves out one flower's shadow.",
      "a": true,
      "why": "True. A diagram keeps what all flowers of that kind share. A photograph keeps the shadow, the ant and everything else that was there at that moment.",
      "outcome": 2
@@ -2870,7 +2894,7 @@
       }
      ],
      "ask": "Which map would help a new child find the library on the first morning? Could the first one also be useful?",
-     "a": "Answers vary. A strong answer says the second map is quicker to read for finding the library, and the first could be useful for a different job, such as knowing where to sit under a tree. Neither is wrong, and each has a job.",
+     "a": "Answers vary. A strong answer says the second map is quicker to read for finding the library. The first could be useful for a different job, such as finding a tree to sit under. Neither is wrong, and each has a job.",
      "why": "The first map keeps more but is harder to read. The second keeps less but is clearer for one job. This is the trade-off in every model.",
      "outcome": 6
     },
@@ -2915,8 +2939,8 @@
     {
      "t": "odd",
      "p": "Which one is the odd one out, and why? A globe, a plastic skeleton, a sparrow on a branch, a diagram of a leaf.",
-     "a": "The sparrow, because it is the real thing. The other three are models made to stand for something real.",
-     "why": "A model stands for a real thing. A living bird is the real thing itself, and not a model of anything.",
+     "a": "The sparrow, because it is a real bird and not a model of one. The other three are models made to stand for something real.",
+     "why": "A model stands for a real thing. A living bird is a real being, and not a model of anything.",
      "outcome": 0
     },
     {
@@ -2956,7 +2980,7 @@
       "420",
       "430"
      ],
-     "why": "12,742 ÷ 30 is about 425. Each centimetre on the globe stands for about 425 kilometres of the real Earth.",
+     "why": "12,742 ÷ 30 is close to 425. Each centimetre on the globe stands for 425 kilometres of the real Earth, roughly.",
      "outcome": 3
     },
     {
@@ -3228,7 +3252,7 @@
       "0.21",
       "1/5"
      ],
-     "why": "9 ÷ 425 is about 0.02 centimetres, which is 0.2 of a millimetre. It would be too small to feel on a globe.",
+     "why": "9 ÷ 425 is about 0.02 centimetres, which is 0.2 of a millimetre. That is too small to feel on a globe.",
      "outcome": 3
     },
     {
@@ -3313,7 +3337,7 @@
      "t": "write",
      "p": "Scientists still argue about whether a model that works is true. Write one test that might help, and say why.",
      "lines": 3,
-     "a": "Any test with a reason, such as using the model to predict something new and checking it, or looking with a new instrument to see if the thing the model says is there is really there.",
+     "a": "Any test with a reason. One test is to use the model to predict something new and then check it. Another is to look with a new instrument at what the model says is there.",
      "why": "A strong answer picks a test that could show the model wrong.",
      "outcome": 4
     }
@@ -3494,7 +3518,7 @@
   {
    "problem": "A classroom globe is 30 centimetres across. The real Earth is 12,742 kilometres across. How many kilometres does 1 centimetre of the globe stand for?",
    "answer": "About 425 kilometres.",
-   "explain": "12,742 ÷ 30 is about 424.7, so about 425. Each centimetre of the globe stands for about 425 kilometres.",
+   "explain": "12,742 ÷ 30 comes to 424.7. Round it to 425. So 1 centimetre of the globe is 425 kilometres of the Earth.",
    "math_unit": "math.fractions.ratio-and-proportion.L4",
    "context": "This problem finds the scale of a globe from two sizes.",
    "why_maths": "A scale is a ratio between the model and the real thing. Once you know it, every length on the model can be turned into a real length."
@@ -3544,7 +3568,7 @@
  ],
  "spotted": [
   {
-   "text": "At a metro station in Chennai, Kochi, Delhi or Kolkata, look at the line map on the wall or the door. Notice that the stations are evenly spaced and the lines are straight, though the real tracks bend and the stations are not evenly apart.",
+   "text": "At a metro station in Chennai, Kochi, Delhi or Kolkata, look at the line map on the wall or the door. Notice that the stations are evenly spaced and the lines are straight. The real tracks bend, and the real stations are not evenly apart.",
    "art": "A metro map above a train door with straight coloured lines and evenly spaced dots."
   },
   {
@@ -3552,7 +3576,7 @@
    "art": "A phone screen showing a map zoomed out with only big roads, and the same place zoomed in with small lanes."
   },
   {
-   "text": "Find a floor plan in a flat advertisement or in the builder's brochure. Notice what it shows, such as walls, doors and room sizes, and what it leaves out, such as the view, the noise from the road and the smell of the kitchen.",
+   "text": "Find a floor plan in a flat advertisement or in the builder's brochure. Notice what it shows, such as walls, doors and room sizes. Notice what it leaves out, such as the view and the noise from the road.",
    "art": "A builder's brochure open to a simple floor plan with room labels."
   },
   {
@@ -3573,7 +3597,7 @@
   }
  ],
  "applications": [
-  "Building engineers in Mumbai and Kolkata test small models of bridges and tall buildings in wind tunnels before the real ones are built, so that mistakes are found cheaply. A model of the building is placed in a tunnel with a fan, and sensors measure the push of the air.",
+  "Engineers test small models of bridges and tall buildings in wind tunnels before the real ones are built. A model is placed in a tunnel with a fan, and sensors measure the push of the air. Mistakes are found cheaply.",
   "The India Meteorological Department uses computer models of the air over India to make forecasts of the monsoon and of cyclones. A model of the sea, the air and the land is stepped forward in time, and forecasters compare its answer with what they see. For Cyclone Phailin in 2013, forecasts of where it would cross the coast of Odisha helped move about ten lakh people to safety.",
   "Doctors use plastic models of bones and organs to explain an operation to a patient, and surgeons practise on models before they operate on a person.",
   "Town planners make a map of where a new road should go, then check the map against the land. They use maps of different scales for different jobs, such as one for the whole district and one for a single street.",
