@@ -148,6 +148,24 @@
    "meaning": "The part of plant food that human enzymes cannot digest. It holds water and keeps food moving through the gut.",
    "example": "Whole wheat atta, ragi, rajma, guava and greens are rich in fibre.",
    "art": "A sieve holding brown flakes of bran over a heap of fine white flour."
+  },
+  {
+   "term": "Junk food",
+   "meaning": "Junk food is food that gives a lot of energy, sugar, salt or fat, but few vitamins and minerals.",
+   "example": "A packet of chips or a sweet fizzy drink is junk food if it takes the place of a healthy meal.",
+   "art": "A packet of chips, a fizzy drink and a sweet beside a plate of dal, rice and vegetables."
+  },
+  {
+   "term": "Complementary food",
+   "meaning": "Complementary food is the soft food given to a baby over six months old, as well as mother's milk. It is also called top food.",
+   "example": "Mashed rice and dal with a little ghee is a complementary food.",
+   "art": "A baby with a bowl of soft rice and dal."
+  },
+  {
+   "term": "Seasonal food",
+   "meaning": "Seasonal food is a fruit or vegetable that is grown and eaten in its own time of the year.",
+   "example": "Mangoes are seasonal food in summer in India.",
+   "art": "A basket of mangoes under a hot sun."
   }
  ],
  "explanations": [
@@ -185,7 +203,8 @@
    "examples": [
     "A child short of vitamin A sees well at noon but stumbles in a dim room.",
     "In 1747 the ship's doctor James Lind gave two sailors with scurvy oranges and lemons. They recovered fastest. One was fit for duty again in six days.",
-    "A baby kept indoors all winter can get rickets, even with enough milk."
+    "A baby kept indoors all winter can get rickets, even with enough milk.",
+    "Fish oil, such as cod liver oil, holds vitamin D, and so does milk that has vitamin D added. Both help to prevent rickets, along with sunlight."
    ],
    "perspectives": [],
    "art": "Four small pictures in a row: an eye at dusk, a leg with wavy nerve lines, a mouth with red gums, and a bent leg bone."
@@ -198,10 +217,24 @@
    "examples": [
     "Ragi has about three times as much calcium as the same weight of milk.",
     "A squeeze of lemon on kala chana helps the gut absorb more of the iron.",
-    "Before iodised salt, goitre was common in the hills from Kashmir to Nagaland."
+    "Before iodised salt, goitre was common in the hills from Kashmir to Nagaland.",
+    "Calcium-rich foods that keep bones strong include milk, curd, ragi, sesame seeds, drumstick leaves and small fish eaten whole with their bones."
    ],
    "perspectives": [],
    "art": "A red blood cell, a butterfly-shaped gland on a neck and a leg bone, each joined by a line to a food: kala chana, a salt packet and a ragi ball."
+  },
+  {
+   "concept": "Reading the signs on the body",
+   "status": "defined",
+   "definition": "A lack of a nutrient shows on the body. Pale nails and gums can mean anaemia, and cracked lips can mean a lack of B vitamins.",
+   "description": "In anaemia, the gums and nails look pale. In severe anaemia, the face and feet may swell, and the heart may beat fast. A lack of some B vitamins gives dry, cracked skin and sores at the corners of the mouth. A lack of vitamin C makes the gums bleed. Each sign points to a different nutrient, but a doctor must say for sure.",
+   "examples": [
+    "A girl with pale nails and a tired look is checked at a health centre for anaemia.",
+    "A boy with sores at the corners of his mouth eats more greens, whole grains and curd."
+   ],
+   "perspectives": [],
+   "art": "Three faces: one with pale gums and nails, one with sores at the corners of the mouth, and one with bleeding gums.",
+   "context": "This card links signs on the body to the nutrients that may be missing."
   },
   {
    "concept": "Protein, energy and the most serious malnutrition",
@@ -215,6 +248,19 @@
    ],
    "perspectives": [],
    "art": "An anganwadi worker reading a hanging weighing scale with a small child in a cloth sling, and a growth chart on the wall."
+  },
+  {
+   "concept": "A baby's first foods",
+   "status": "defined",
+   "definition": "Mother's milk is the best first food, and from six months a baby also needs soft top food.",
+   "description": "Mother's milk is the easiest to get, healthy and complete first food for a baby. It is most complete when the mother herself eats enough protein. For the first six months, give the baby only mother's milk. After six months, a baby needs top food as well as mother's milk. Top food, also called complementary food, is soft food that tops up the milk. Good top foods are a mash of rice and lentils with milk, soft pulses, mashed vegetables and fruit. A child over six months needs proteins to grow, so give dal or egg in small amounts, a few times a day.",
+   "examples": [
+    "A mother in Tamil Nadu feeds her baby soft rice and moong dal mash with a little ghee.",
+    "A baby over six months eats mashed banana and ragi porridge."
+   ],
+   "perspectives": [],
+   "art": "A mother feeding a baby from a small bowl of soft rice and dal, with fruit and milk beside.",
+   "context": "This card tells what to feed a baby, from birth to the first year."
   },
   {
    "concept": "Why your eyes need vitamin A",
@@ -233,7 +279,7 @@
    "concept": "Different people need different plates",
    "status": "defined",
    "definition": "How much of each nutrient a person needs depends on four things. They are body size, growth, how hard the muscles work, and whether the person is feeding another body.",
-   "description": "Growth needs building material. A baby doubles their birth weight in about five months. So for each kilogram they need far more food than a grown-up. A child of two needs about 85 kilocalories for each kilogram of body weight. A woman who works at a desk needs about 30. A kilocalorie is the unit for the energy in food. Girls and boys from 10 to 18 grow fast. They need more protein, calcium and iron than at any time since babyhood. Girls need extra iron, because they will soon lose some blood every month. A pregnant woman builds a whole new body, so she needs more energy, protein, iron, folate and iodine. A breastfeeding mother makes about 750 millilitres of milk a day, which costs her about 600 kilocalories. A person who does heavy work with their muscles needs much more energy and water. An old person needs less energy, but just as much protein and more calcium. Their food should be soft to chew. A sick person needs fluids first, and extra food while they recover.",
+   "description": "Growth needs building material. A baby doubles their birth weight in about five months. So for each kilogram they need far more food than a grown-up. A child of two needs about 85 kilocalories for each kilogram of body weight. A woman who works at a desk needs about 30. A kilocalorie is the unit for the energy in food. Girls and boys from 10 to 18 grow fast. They need more protein, calcium and iron than at any time since babyhood. Girls need extra iron, because they will soon lose some blood every month. A pregnant woman builds a whole new body, so she needs more energy, protein, iron, folate and iodine. A breastfeeding mother makes about 750 millilitres of milk a day, which costs her about 600 kilocalories. A person who does heavy work with their muscles needs much more energy and water. An old person needs less energy, but just as much protein and more calcium. Their food should be soft to chew. A sick person needs fluids first, and extra food while they recover. Girls who have started their periods need even more iron-rich food, such as ragi, bajra and green leaves. A sick person needs energy food to keep strong, and also protective foods rich in vitamins and minerals, such as fruit, vegetables, dal and milk, to recover and fight infection.",
    "examples": [
     "A woman who carries loads all day needs about 1,000 kilocalories more than a woman at a desk.",
     "A two-year-old has a small stomach, so they need five or six small meals a day.",
@@ -250,10 +296,24 @@
    "examples": [
     "Idli, pongal, khichdi, rajma with rice and dal with roti all pair a cereal with a pulse.",
     "In the Cooking Water Test, the water from boiled cabbage cleared the blue liquid in fewer spoons than plain water.",
-    "A handful of roasted chana and groundnuts costs less than a packet of chips and gives far more protein."
+    "A handful of roasted chana and groundnuts costs less than a packet of chips and gives far more protein.",
+    "In Mexico, people have long soaked maize in lime water before cooking it. This sets free the vitamin niacin, also called vitamin B3, which is otherwise locked in the grain, and it adds calcium."
    ],
    "perspectives": [],
    "art": "A kitchen counter with soaked moong sprouting in a cloth, a pot of risen idli batter, a bunch of drumstick leaves and a black iron kadai."
+  },
+  {
+   "concept": "Seasonal and local food",
+   "status": "defined",
+   "definition": "Fruits and vegetables taste best, and are often fresher and cheaper, when they are in season and grown near you.",
+   "description": "Every fruit has its own season. Mangoes come in summer, and guavas and oranges in winter. Lychees come in the early summer heat. A local fruit has less far to travel, so it is fresher when you eat it. It also tends to cost less. A fruit that is out of season has often been stored for a long time or brought from far away. Eating seasonal food also means eating a wide variety through the year.",
+   "examples": [
+    "A local mango bought from a vendor in May is ripe, sweet and cheap.",
+    "Lychees from the nearest orchard reach the market within a day."
+   ],
+   "perspectives": [],
+   "art": "A year wheel with a mango in summer, a lychee in early summer and a guava and an orange in winter.",
+   "context": "This card tells why seasonal and local food is a good choice."
   },
   {
    "concept": "Preventing deficiency: food, fortified food, sunlight and tablets",
@@ -272,7 +332,7 @@
    "concept": "Fibre, water and too much of a good thing",
    "status": "defined",
    "definition": "Fibre and water are not burned for energy, yet the body cannot stay well without them. Sugar, salt and fat are needed, yet too much of them causes illness.",
-   "description": "Fibre is the part of plants that human enzymes cannot digest. It holds water, so faeces stay soft and pass easily. The bacteria in the large intestine feed on fibre. Whole grains, pulses, vegetables and fruit hold fibre. Maida, white sugar and oil hold almost none. Water is lost all day in urine, sweat and breath, so it must be replaced all day. Pale yellow urine is a sign of enough water. A diet can also be unbalanced by too much. Extra sugar and fat are stored as body fat. Sweet drinks, fried snacks and packet foods give a lot of energy and salt, with few vitamins or minerals. A person can therefore be overweight and anaemic at once. India now has both problems, sometimes in the same family.",
+   "description": "Fibre is the part of plants that human enzymes cannot digest. It holds water, so faeces stay soft and pass easily. The bacteria in the large intestine feed on fibre. Whole grains, pulses, vegetables and fruit hold fibre. Maida, white sugar and oil hold almost none. Water is lost all day in urine, sweat and breath, so it must be replaced all day. Pale yellow urine is a sign of enough water. A diet can also be unbalanced by too much. Extra sugar and fat are stored as body fat. Sweet drinks, fried snacks and packet foods give a lot of energy and salt, with few vitamins or minerals. A person can therefore be overweight and anaemic at once. India now has both problems, sometimes in the same family. Chips, sweets, fizzy drinks and fried packet snacks are often called junk food. They are not harmful in a small amount now and then. They become a problem when they replace healthy food. Too much sugar harms the teeth. Too much salt over many years can raise blood pressure. Too much fat builds up in the body.",
    "examples": [
     "Whole wheat atta leaves brown flakes of bran in a fine sieve. Maida leaves none.",
     "A 250 millilitre bottle of a sweet fizzy drink holds about 6 teaspoons of sugar.",
@@ -2410,6 +2470,81 @@
      "a": 0,
      "why": "The eye builds its dim-light substance from vitamin A. Trouble seeing at dusk, called night blindness, is the first sign of too little.",
      "outcome": 1
+    },
+    {
+     "t": "sort",
+     "p": "Sort each food into healthy food or junk food.",
+     "cats": [
+      "Healthy food",
+      "Junk food"
+     ],
+     "items": [
+      [
+       "dal and rice",
+       "Healthy food"
+      ],
+      [
+       "a packet of chips",
+       "Junk food"
+      ],
+      [
+       "a guava",
+       "Healthy food"
+      ],
+      [
+       "a sweet fizzy drink",
+       "Junk food"
+      ],
+      [
+       "ragi porridge",
+       "Healthy food"
+      ],
+      [
+       "fried packet snacks",
+       "Junk food"
+      ]
+     ],
+     "a": "see items",
+     "why": "Junk food has a lot of sugar, salt or fat but few vitamins and minerals. A little now and then does no harm. The problem is when it takes the place of healthy food.",
+     "outcome": 5
+    },
+    {
+     "t": "mcq",
+     "p": "Which of these foods gives calcium for strong bones?",
+     "opts": [
+      "Curd and milk",
+      "Plain sugar",
+      "Cooking oil",
+      "Black tea"
+     ],
+     "a": 0,
+     "why": "Milk and curd hold a lot of calcium. Ragi, sesame seeds and drumstick leaves do too. Sugar and oil have none.",
+     "outcome": 1
+    },
+    {
+     "t": "match",
+     "p": "Match each sign to the nutrient that may be missing.",
+     "pairs": [
+      [
+       "Pale nails and gums",
+       "Iron"
+      ],
+      [
+       "Sores at the corners of the mouth",
+       "B vitamins"
+      ],
+      [
+       "Bleeding gums",
+       "Vitamin C"
+      ],
+      [
+       "Crooked legs in a child",
+       "Vitamin D"
+      ]
+     ],
+     "a": "pairs as given",
+     "why": "Each nutrient does its own job, so each lack shows in its own way.",
+     "outcome": 1
     }
    ]
   },
@@ -2625,6 +2760,34 @@
      ],
      "why": "Rhodopsin fills the rod cells of the retina. Bright light breaks it down, and the eye rebuilds it in the dark.",
      "outcome": 1
+    },
+    {
+     "t": "write",
+     "p": "Explain two harms of eating too much junk food.",
+     "lines": 4,
+     "a": "Sugar harms the teeth. Salt, over many years, can raise blood pressure. Too much fat builds up in the body.",
+     "why": "A strong answer names two different harms and ties each to its cause.",
+     "outcome": 5
+    },
+    {
+     "t": "mcq",
+     "p": "From six months a baby needs soft top food. Which is a good top food?",
+     "opts": [
+      "A mash of rice, dal and a little milk",
+      "A fizzy drink",
+      "A packet of chips",
+      "Strong tea"
+     ],
+     "a": 0,
+     "why": "A baby needs soft, plain food with protein. A rice and dal mash is easy to eat and gives energy and protein.",
+     "outcome": 3
+    },
+    {
+     "t": "truefalse",
+     "p": "A sick person should eat only sweet things, so they can feel better.",
+     "a": false,
+     "why": "A sick person needs energy foods and also protective foods such as fruit, vegetables, dal and milk.",
+     "outcome": 3
     }
    ]
   },
@@ -2819,6 +2982,27 @@
      "a": "pairs as given",
      "why": "Each observation is evidence, and each conclusion says only what that evidence supports.",
      "outcome": 6
+    },
+    {
+     "t": "mcq",
+     "p": "A lychee seller says, 'These came from our village orchard this morning.' What is a good reason to buy them?",
+     "opts": [
+      "They are fresh, local and in season",
+      "They are out of season",
+      "They are packed in plastic",
+      "They came a long way"
+     ],
+     "a": 0,
+     "why": "Local fruit in season is fresh and often cheaper.",
+     "outcome": 4
+    },
+    {
+     "t": "write",
+     "p": "A girl has started her periods and is often tired. Name two cheap foods that may help, and say why.",
+     "lines": 4,
+     "a": "Bajra and green leaves are rich in iron. A girl loses some blood each month, so she needs more iron. A squeeze of lemon helps the body take in iron.",
+     "why": "A strong answer names two cheap iron foods and links them to the iron lost each month.",
+     "outcome": 3
     }
    ]
   }
@@ -2966,6 +3150,149 @@
    "a": 0,
    "why": "The villages differed in one thing, the iodine in their salt. So the fall in goitre was due to iodine. Plain salt did not cause goitre. It only failed to prevent it.",
    "outcome": 7
+  },
+  {
+   "t": "mcq",
+   "p": "Which food is a good source of calcium for strong bones?",
+   "opts": [
+    "Ragi",
+    "Sugar",
+    "Plain oil",
+    "Tea"
+   ],
+   "a": 0,
+   "why": "Ragi has a lot of calcium. Milk, curd and sesame seeds do too. Sugar and oil have none, and tea has almost none.",
+   "outcome": 1
+  },
+  {
+   "t": "mcq",
+   "p": "A child eats chips and sweets every day instead of dal, rice and vegetables. What may happen over time?",
+   "opts": [
+    "The child may gain weight and lack vitamins and minerals",
+    "The child will get stronger bones",
+    "The child will see better in the dark",
+    "Nothing"
+   ],
+   "a": 0,
+   "why": "Junk food has a lot of sugar, salt and fat, and few vitamins or minerals. It becomes a problem when it takes the place of healthy food.",
+   "outcome": 5
+  },
+  {
+   "t": "mcq",
+   "p": "A girl looks tired, and her nails and gums look pale. Which problem may she have?",
+   "opts": [
+    "Anaemia",
+    "Rickets",
+    "Goitre",
+    "Night blindness"
+   ],
+   "a": 0,
+   "why": "Pale gums and nails can be a sign of anaemia, caused by too little iron. A doctor must check it.",
+   "outcome": 1
+  },
+  {
+   "t": "mcq",
+   "p": "Which of these helps to prevent rickets?",
+   "opts": [
+    "Fish oil and sunlight",
+    "Chilli",
+    "Soda",
+    "Salt only"
+   ],
+   "a": 0,
+   "why": "Vitamin D helps the gut take in calcium for bones. Fish oil has vitamin D, and sunlight on the skin makes it.",
+   "outcome": 1
+  },
+  {
+   "t": "mcq",
+   "p": "A boy has sores at the corners of his mouth and dry, cracked skin. Which food may help?",
+   "opts": [
+    "Whole grains, curd and green leaves",
+    "Only sweets",
+    "Only fizzy drinks",
+    "Only chips"
+   ],
+   "a": 0,
+   "why": "These signs can come from a lack of B vitamins. Whole grains, curd and green leaves hold B vitamins.",
+   "outcome": 1
+  },
+  {
+   "t": "mcq",
+   "p": "From what age does a baby need soft top food as well as mother's milk?",
+   "opts": [
+    "Six months",
+    "One week",
+    "Two months",
+    "Four years"
+   ],
+   "a": 0,
+   "why": "Until six months, mother's milk alone is enough. After that, the baby needs soft top food as well.",
+   "outcome": 3
+  },
+  {
+   "t": "mcq",
+   "p": "Which food is cheap and rich in iron for a girl who has started her periods?",
+   "opts": [
+    "Bajra and green leaves",
+    "White sugar",
+    "Fizzy drinks",
+    "Sweet biscuits"
+   ],
+   "a": 0,
+   "why": "Girls who have started periods lose some blood each month, so they need more iron. Bajra and greens are rich in iron.",
+   "outcome": 3
+  },
+  {
+   "t": "mcq",
+   "p": "A person who is sick needs which kind of food to recover?",
+   "opts": [
+    "Energy foods and protective foods such as fruit, vegetables and dal",
+    "Only sweets",
+    "Only tea",
+    "No food"
+   ],
+   "a": 0,
+   "why": "A sick person needs energy to stay strong, and vitamins and minerals to fight infection.",
+   "outcome": 3
+  },
+  {
+   "t": "mcq",
+   "p": "Why is a mother's own food important for a breastfeeding baby?",
+   "opts": [
+    "Her milk is most complete when she eats enough protein",
+    "It changes the baby's colour",
+    "The baby eats her plate",
+    "It has no effect"
+   ],
+   "a": 0,
+   "why": "A mother who eats well makes milk that gives the baby what it needs.",
+   "outcome": 3
+  },
+  {
+   "t": "mcq",
+   "p": "Why do people in Mexico soak maize in lime water before cooking?",
+   "opts": [
+    "It sets free vitamin B3 in the grain",
+    "It makes it red",
+    "It makes it sweet",
+    "It removes calcium"
+   ],
+   "a": 0,
+   "why": "This old way of cooking frees niacin (vitamin B3), which is locked in maize. It also adds calcium.",
+   "outcome": 4
+  },
+  {
+   "t": "mcq",
+   "p": "Why is a local, seasonal fruit often better than one from far away out of season?",
+   "opts": [
+    "It is fresher and often cheaper",
+    "It is always sweeter",
+    "It has no seeds",
+    "It has more sugar"
+   ],
+   "a": 0,
+   "why": "A local fruit has less far to travel, so it is fresher. In season it tends to cost less.",
+   "outcome": 4
   }
  ],
  "videos": [

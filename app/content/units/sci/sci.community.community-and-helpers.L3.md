@@ -29,12 +29,16 @@
 - **Cooperate**: To work together towards something that helps everyone. *e.g.* The families in one lane in Mumbai cooperate to keep the drain clear before the rains.
 - **Dignity of labour**: The idea that every honest job deserves respect, whether it is done with the hands or with the head. *e.g.* The sweeper who cleans the street and the doctor at the clinic both do work the neighbourhood cannot live without.
 - **Emergency**: A sudden danger to someone's life, health or home, which needs help at once. *e.g.* A fire in a kitchen, a person who has fallen and will not wake, or a serious accident on the road is an emergency. In India, the number to call is 112.
+- **Public place**: A public place is a place that everyone in a community can use, such as a park or a library. *e.g.* The park near your home is a public place, so everyone helps to keep it clean.
+- **Court**: A court is a place where a judge listens to both sides of a quarrel and decides by the law. *e.g.* Two neighbours who cannot agree about a wall go to a court.
+- **Mela**: A mela is a big fair where many people gather, often for a festival. *e.g.* At a mela, an ambulance and a police jeep stand ready.
+- **Sanitation worker**: A sanitation worker cleans streets and drains and carries away garbage, so the neighbourhood stays healthy. *e.g.* The sanitation worker sweeps our lane every morning.
 
 ## Explanations
 ### What a community is · *defined*
 **Definition:** A community is a group of people who live near each other, share places and things, and depend on each other.
 
-A family is a small group of people who care for each other. A community is bigger. It is the families of a building, a street or a village, and the people who work there. They share roads, water, a market and a school. They also share problems, such as a blocked drain or a dry tank. Nobody in a community can meet all their needs alone.
+A family is a small group of people who care for each other. A community is bigger. It is the families of a building, a street or a village, and the people who work there. They share roads, water, a market and a school. They also share problems, such as a blocked drain or a dry tank. Nobody in a community can meet all their needs alone. Neighbours help each other every day. They lend a cup of sugar, keep an eye on a child for a while, or take a sick neighbour to the doctor. A neighbour often helps before anyone else can reach you.
 - e.g. An apartment block in Chennai, with its families, its watchman and its residents' association.
 - e.g. A fishing village near Kochi, where families share the boats, the beach and the market.
 - e.g. The people who live and work around one market in Guwahati.
@@ -45,6 +49,13 @@ Think of one plate of idli. A farmer grew the rice and the urad dal. A truck dri
 - e.g. A tailor stitches clothes for the farmer, and the farmer grows rice for the tailor.
 - e.g. A doctor cannot work if nobody cleans the hospital.
 - e.g. A postwoman carries letters for the whole street, so each family does not have to travel.
+- e.g. A school runs because of many people. Teachers teach, the caretaker keeps the building clean and safe, and the bus driver brings children to class. If one is missing, the whole school feels it.
+### How and why jobs change · *defined*
+**Definition:** Jobs change over time as people find new tools, new needs and new places to live.
+
+Long ago, many people worked as lamplighters, tonga drivers or letter-sorters. Today fewer do. New machines can do some tasks faster, and people move to cities. Some jobs vanish, and new ones appear. Today a delivery rider, an e-rickshaw driver and a software engineer have jobs that did not exist 100 years ago. When mills began to make cloth, many handloom weavers lost their customers. Some found new work, and some still weave today. People who lose a job need help to learn something new.
+- e.g. Lamplighters once lit street lamps by hand. Now electric lamps light up by themselves.
+- e.g. Many tonga drivers in Lucknow now drive autos.
 ### Every job needs skill, and every worker deserves respect · *defined*
 **Definition:** Dignity of labour is the idea that every honest job deserves respect. In India, the Constitution gives every citizen the right to choose their work.
 
@@ -52,6 +63,12 @@ Some jobs look simple from outside. Try stringing jasmine as fast as the flower 
 - e.g. A sweeper who clears a drain before the rains stops the street from flooding.
 - e.g. A nurse learns for years before she can work in a hospital.
 - e.g. Ambedkar's father worked in the army, and Ambedkar became a lawyer, an economist and a writer of the Constitution.
+### How people use science at work · *defined*
+**Definition:** Science is a way of asking questions and testing the answers, and many workers use it every day.
+
+A doctor uses a thermometer and medicines that were tested. A farmer checks the soil, picks seeds and knows when the rain is due. An engineer works out how strong a bridge must be. A scientist asks a question and does a test to find the answer. A cook knows how heat changes a raw dal into a soft one. Everyone uses a little science, and some people use a lot of it all day, as their work.
+- e.g. A farmer in Punjab tests the soil before sowing wheat.
+- e.g. An engineer checks that a bridge over the Godavari can hold heavy trucks.
 ### Public services · *defined*
 **Definition:** A public service is a service set up for everyone in a place, usually by the government, such as a school, a health centre, the post office, the water supply, garbage collection, the police and the fire service.
 
@@ -59,6 +76,18 @@ Some things are too big for one family to arrange. A family cannot build its own
 - e.g. The Greater Chennai Corporation collects garbage from the streets.
 - e.g. The fire service comes when you call 101 or 112.
 - e.g. The government health centre gives babies their vaccines free.
+### Public places: use them with care · *defined*
+**Definition:** A public place is a place that everyone in a community can use, so everyone must look after it.
+
+Parks, playgrounds, libraries, health centres, markets, bus stops and public toilets are public places. We need them because not every family has a garden, a big room or a clinic of its own. Each place has a use. A park is for play and rest, a library for reading, and a health centre for getting well. To behave well, wait in a line, speak softly in a library, and give your seat to an older person. To keep a place clean, put litter in a bin, keep water taps closed, and tell the municipality if a toilet is broken. For a festival, neighbours can decorate a park together with flowers and rangoli, then clean it afterwards. A big task is easier when it is split into jobs, such as sweeping, planting and watering.
+- e.g. Children in Pune take turns on the swings and put their wrappers in the bin.
+- e.g. Families on one street in Kochi make a flower carpet for Onam in the park, and clean up after.
+### The work of the police and courts · *defined*
+**Definition:** The police keep people safe and make sure the law is kept. A court listens to both sides in a quarrel and decides by the law.
+
+The police protect people and their things. They find a lost child, stop a fight and take down a complaint. They also guide traffic. A court is a place where a judge listens to both sides of a quarrel. The judge decides what the law says. The police and the courts are different. The police bring a matter to the court, and the court decides. In India, the law says every person is equal before it.
+- e.g. A police officer helps a lost child find her mother at a bus stand.
+- e.g. A judge in a district court listens to two neighbours who quarrel over a boundary wall.
 ### Who to call in an emergency · *defined*
 **Definition:** 112 is India's single emergency number. One call to 112 can bring the police, the fire service or an ambulance.
 
@@ -66,6 +95,12 @@ An emergency is a sudden danger to someone's life, health or home. In an emergen
 - e.g. An older person at home has fallen and is not waking up: call 112 or 108.
 - e.g. Smoke is coming from a flat downstairs: call 112 or 101.
 - e.g. A child is being hurt by a grown-up: call 1098.
+### Services at a mela and in hard times · *defined*
+**Definition:** A big gathering such as a mela needs public services on the spot. In a hard time like COVID-19, health and sanitation workers keep a neighbourhood safe.
+
+A mela is a big fair where many people gather. It has an ambulance for the hurt or sick, a police jeep to keep order, a fire engine in case of fire, and a lost-and-found booth, where a lost child or a lost bag is looked after. Each service has its own vehicle and its own job. In the COVID-19 time, doctors, nurses, garbage collectors and shopkeepers kept neighbourhoods going. Health workers treated the sick. Sanitation workers, who clean streets and carry away garbage, kept the streets clean when many people stayed home.
+- e.g. At a Kumbh Mela, thousands of police, doctors and sanitation workers are on duty.
+- e.g. A police patrol jeep goes round a neighbourhood at night to keep it safe.
 ### Shared resources · *defined*
 **Definition:** A shared resource, also called a commons, is something useful that many people use together, where what one person takes is not there for the next.
 
@@ -398,6 +433,18 @@ Selvi akka laughed. "So now I am the neerkatti of Thendral Apartments," she said
   *Parent says:* Which service is farthest? Which would we need first if someone was badly hurt?  
   *Child mode:* How far is each one? Which would you need first in an emergency?
   - Think: Who pays for all these services?
+### a7 · Our Family Work Chart: split a big task into jobs (20 min)
+- **safety:** A grown-up helps with anything sharp or heavy.
+- **record:** Tick each job as it is done. Write what went well.
+- **s1 (10 min)**  
+  *Parent does:* 1. Choose one task, such as making a corner of your home look nice. 2. Write four jobs on a chart: cleaning, planting, watering and cooking. 3. Give each person a job.  
+  *Parent says:* Let's split our task into jobs. Who will do which one?  
+  *Child mode:* Choose a job and write your name next to it.
+- **s2 (10 min)**  
+  *Parent does:* Do the jobs. Tick each one when it is done, and say thank you to each person.  
+  *Parent says:* How did it feel when each person did one job?  
+  *Child mode:* Do your job. Tick it when it is done.
+  - Note: Splitting a task into jobs lets a group finish faster. It also shows how a community works.
 
 ## Projects
 ### p1 · The Corridor Plant: share one plant for a week with a turn list (50 min, 7 days)
@@ -464,7 +511,7 @@ Selvi akka laughed. "So now I am the neerkatti of Thendral Apartments," she said
   - Think: Did your change save the helper any time? How can you tell?
 
 ## Worksheets
-### Helpers, Services and Shared Things (core) (core, 15 questions)
+### Helpers, Services and Shared Things (core) (core, 19 questions)
 1. (match) Match each helper to their work.  
    **Answer:** Postwoman → delivers letters and parcels; Cobbler → mends shoes and chappals; Caretaker → runs the water motor and looks after the building; Nurse → cares for sick people and gives vaccines. *Why:* Each helper does one kind of work that the neighbourhood needs. Matching them shows who you would go to for each job.
 2. (mcq) A flat gets its water from the city's water board. What kind of service is this?  
@@ -498,7 +545,15 @@ Selvi akka laughed. "So now I am the neerkatti of Thendral Apartments," she said
    **Answer:** For example: without the garbage collector, our bins would overflow, flies would come, and we might fall ill.. *Why:* A strong answer names a real helper and gives at least two things that would go wrong.
 15. (perspective) Two children talk about the shared swing in their building's park.  
    **Answer:** A strong answer picks one side, gives a reason from the Shared Pond Test, and says one thing the other child has right. For example: The first child is right that the swing gets broken, but a rule made together, like turns of 20 pushes, may keep it in use for everyone.. *Why:* Both have a point. A lock stops overuse but wastes the swing. A rule made together keeps it in use, but only if people keep it.
-### Why Shared Things Last or Run Out (stretch) (stretch, 15 questions)
+16. (match) Match each place to what it is used for.  
+   **Answer:** A library → reading books; A health centre → getting well and vaccines; A playground → play and games; A bus stop → waiting for a bus. *Why:* Each public place has its own use. A strong answer could name one more, such as a market.
+17. (match) Match each person who uses science to their work.  
+   **Answer:** Doctor → uses medicines that were tested; Farmer → checks soil and rain; Engineer → works out how strong a bridge must be; Scientist → tests an answer to a question. *Why:* Each worker uses science to do their work well.
+18. (truefalse) It is fine to drop litter on a park path, because a sweeper will clean it.  
+   **Answer:** False. *Why:* A public place is for everyone, so everyone keeps it clean. A bin is the right place.
+19. (write) Name three roles in a school and say how each one helps the school run.  
+   **Answer:** A teacher teaches children. A caretaker keeps the school clean and safe. A bus driver brings children to school.. *Why:* A strong answer names three roles and says how each helps.
+### Why Shared Things Last or Run Out (stretch) (stretch, 19 questions)
 1. (mcq) A building has 12 flats sharing one water tank. Every flat says, "I only take my share." Yet the tank is empty by afternoon. What is the most likely reason?  
    Options: The lorry brought no water / Each flat's share added up to more than the tank holds / The water leaked out of the sky  
    **Answer:** Each flat's share added up to more than the tank holds. *Why:* Each flat's share seemed small, but all the shares added up to more than the tank holds. The same thing happens in the silent game of the Shared Pond Test.
@@ -532,7 +587,16 @@ Selvi akka laughed. "So now I am the neerkatti of Thendral Apartments," she said
    **Answer:** For example: a shared thing needs someone to look after it. In the pond game, nobody was in charge, and the pond ran out. A rule and a person who checks, like a caretaker's notebook, keep a shared tank going.. *Why:* A strong answer says that a shared thing needs a rule and someone who checks, and gives one real example.
 15. (fill) The 6-digit number on a letter that leads it to the right post office is the ____ code.  
    **Answer:** ['PIN', 'pin']. *Why:* PIN stands for Postal Index Number.
-### Making Rules That Work (challenge) (challenge, 15 questions)
+16. (sort) Sort these services at a mela by what they do.  
+   **Answer:** an ambulance → Health; a fire engine → Safety; a police jeep → Safety; a lost-and-found booth → Finding people. *Why:* Each service has its own vehicle and job. Together they keep a crowd safe.
+17. (mcq) Who decides a quarrel between two neighbours by the law?  
+   Options: A court / A fire engine / A bus driver / A shopkeeper  
+   **Answer:** A court. *Why:* A court, led by a judge, listens to both sides and decides by the law.
+18. (write) Name one job that is less common than long ago, and one new job. Say why the change came.  
+   **Answer:** Lamplighters are rare now because electric lamps came. Delivery riders are new, because phones and apps came.. *Why:* A strong answer names an old job, a new job, and a real reason such as new tools.
+19. (fill) A person who cleans streets and carries away garbage is a ____ worker.  
+   **Answer:** sanitation. *Why:* Sanitation workers keep the neighbourhood healthy. In COVID-19 times, they kept working.
+### Making Rules That Work (challenge) (challenge, 17 questions)
 1. (write) In a silent game of the Shared Pond Test, four players each took 5 fish and the pond ran out. Nobody was trying to empty it. Write why it still ran out, in your own words.  
    **Answer:** Each player only thought about their own fish. Nobody could see what the others would take. Together they took 20, so nothing was left to breed.. *Why:* A strong answer says that each choice was small, but all the choices added together were too many.
 2. (perspective) The first child in Kolkata and the second child in Bengaluru argue about how to keep their city's lake clean.  
@@ -568,6 +632,10 @@ Selvi akka laughed. "So now I am the neerkatti of Thendral Apartments," she said
 15. (mcq) A building tries a new water rule for a month. Which is the best sign that the rule is working?  
    Options: Nobody ever talks about the rule / The tank is still half full at two o'clock, and everyone can read the notebook / The rule is very long  
    **Answer:** The tank is still half full at two o'clock, and everyone can read the notebook. *Why:* A rule works when people can see it working. A tank still half full at two o'clock, with a notebook everyone can read, is evidence. A rule nobody talks about or a very long rule proves nothing.
+16. (truefalse) The police decide the law in a court.  
+   **Answer:** False. *Why:* The police bring a matter, but a judge in a court decides.
+17. (odd) Three of these are public places. Which one is the odd one out?  
+   **Answer:** A bedroom. *Why:* A bedroom is a private room. The others can be used by everyone.
 
 ## Videos
 - **What is the tragedy of the commons?** (TED-Ed, 5 min) id `CxC161GvMPc`: An animated film about Hardin's idea of the tragedy of the commons. Watch it after the Shared Pond Test, and ask whether it matches what your family did. *Check:* Preview it first; the length is approximate.
@@ -608,6 +676,33 @@ Selvi akka laughed. "So now I am the neerkatti of Thendral Apartments," she said
 11. (mcq) In India today, can a child grow up to do any job she chooses, even if her family has always done a different job?  
    Options: No, each person must do their family's work / Yes, every citizen has the right to choose their work, and treating anyone as untouchable is against the law / Only if all jobs pay the same  
    **Answer:** Yes, every citizen has the right to choose their work, and treating anyone as untouchable is against the law. *Why:* India's Constitution gives every citizen the right to choose their work, and it ended untouchability. It did not make every job pay the same.
+12. (mcq) Which of these is a way neighbours help one another?  
+   Options: Taking a sick neighbour to the doctor / Playing loud music at night / Blocking the lane / Hiding a lost parcel  
+   **Answer:** Taking a sick neighbour to the doctor. *Why:* Neighbours help by looking after a child or a sick person. The others make life harder for the neighbours.
+13. (mcq) Which person uses science as part of their work?  
+   Options: A farmer who tests the soil / A person who never looks at the weather / A person who only guesses / None of them  
+   **Answer:** A farmer who tests the soil. *Why:* A farmer who tests the soil uses science to choose seeds and care for the crop.
+14. (mcq) Why are parks, libraries and health centres needed in a neighbourhood?  
+   Options: Because every family can use them, even without a garden or clinic of its own / Because only the rich can use them / So that nobody needs a home / To block the road  
+   **Answer:** Because every family can use them, even without a garden or clinic of its own. *Why:* A public place gives everyone a place to play, read or get well.
+15. (mcq) A child sees a banana peel on a park path. What is the best thing to do?  
+   Options: Put it in a bin / Kick it into the bushes / Leave it for others / Throw it at a friend  
+   **Answer:** Put it in a bin. *Why:* A bin keeps a public place clean and safe.
+16. (mcq) A neighbourhood has a mela. Which service takes care of a child who has lost her mother?  
+   Options: The lost-and-found booth with the police / The fire engine / The ambulance alone / Nobody  
+   **Answer:** The lost-and-found booth with the police. *Why:* A mela has a lost-and-found booth where a lost child is looked after until the family comes.
+17. (mcq) What does a judge in a court do?  
+   Options: Listens to both sides and decides by the law / Catches thieves / Guides traffic / Puts out fires  
+   **Answer:** Listens to both sides and decides by the law. *Why:* The police bring a matter, and the court decides. The judge listens to both sides.
+18. (mcq) Why did many jobs, such as lamplighting, change over time?  
+   Options: New tools and machines changed the work / People forgot how to work / The Sun stopped shining / Nobody wanted lamps  
+   **Answer:** New tools and machines changed the work. *Why:* New machines and new needs mean old jobs shrink and new ones appear.
+19. (mcq) A school has a teacher, a caretaker and a bus driver. What happens if the caretaker is not there?  
+   Options: The school becomes dirty and unsafe, so everyone feels it / Nothing changes / School closes for ever / Children teach the class  
+   **Answer:** The school becomes dirty and unsafe, so everyone feels it. *Why:* Each role matters. A school runs only when all do their jobs.
+20. (mcq) During COVID-19, which workers helped keep neighbourhoods clean and healthy?  
+   Options: Sanitation workers, nurses and doctors / Nobody / Only the police / Only the shopkeepers  
+   **Answer:** Sanitation workers, nurses and doctors. *Why:* Health workers treated the sick, and sanitation workers kept the streets clean.
 
 ## Applications
 - Residents' associations in apartment blocks use water rules, tank records and meeting votes to share water in summer.
@@ -680,7 +775,7 @@ Many Hands, One Street (sci.community.L3): Topic-level song for Community and ne
 
 ## Plan
 - Start options: a1, e1, story, g1, big_questions, cards, a2
-- Default order: intro → a1 → summary → terms → e1 → explanations → story → g1 → a2 → videos → ws-core → a3 → e2 → a4 → agreed → challenging → a5 → a6 → p1 → ws-stretch → c1 → c2 → big_questions → ws-challenge → open_questions → roots → quiz
+- Default order: intro → a1 → summary → terms → e1 → explanations → story → g1 → a2 → videos → ws-core → a3 → e2 → a4 → agreed → challenging → a5 → a6 → p1 → ws-stretch → c1 → c2 → a7 → big_questions → ws-challenge → open_questions → roots → quiz
 - Core: a1, e1, a2, g1, ws-core
 
 ## Sources
