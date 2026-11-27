@@ -847,9 +847,9 @@ So who had put it there?
    **Answer:** Argemone seeds are completely natural but poison mustard oil. Kesari dal is natural and can cause lathyrism when eaten alone for months.. *Why:* Nature makes poisons as well as foods, so a word like natural cannot stand in for a test or a standard.
 
 ## Videos
-- **Detecting common adulterants in food with simple tests (a food authority video)** (to find, 5 min) id `5axDN8YqS3g`: To see a grown-up carry out the water, paper and magnet tests that the lesson explains. *Check:* Found by YouTube search: "Simple tests that can be done at home to check food adulteration" by Times Foodie. Title checked automatically; a parent may still preview it.
-- **How paper chromatography separates colours** (to find, 4 min) id `TdJ57SQ6GAQ`: To see dyes separate into bands as water climbs paper, as in the experiment. *Check:* Found by YouTube search: "GCSE Chemistry - Paper Chromatography" by Cognito. Title checked automatically; a parent may still preview it.
-- **Lead in turmeric and how researchers traced it in Bangladesh** (to find, 6 min) id `lgD394q3ofs`: To hear how researchers followed lead in village women's blood back to turmeric, and how the government acted. *Check:* Found by YouTube search: "Stanford Researchers Find Lead in Commonly Used Spice" by Stanford Woods Institute for the Environment. Title checked automatically; a parent may still preview it.
+- **Simple tests that can be done at home to check food adulteration** (Times Foodie, 5 min) id `5axDN8YqS3g`: Shows simple tests a family can try at home for food adulteration, in the same spirit as the water and milk tests in the lesson. *Check:* 
+- **Chromatography | #aumsum #kids #science #education #children** (It's AumSum Time, 4 min) id `PvHvx7k7UPU`: Shows colours separating on paper, the same idea as the wet-paper test in the lesson. *Check:* 
+- **Stanford Researchers Find Lead in Commonly Used Spice** (Stanford Woods Institute for the Environment, 6 min) id `lgD394q3ofs`: Tells how researchers traced lead in a common spice, which is the story behind the card on lead in turmeric. *Check:* 
 
 ## Quiz
 1. (mcq) Which one is adulteration?  

@@ -844,9 +844,9 @@ That night Karan lay awake. In his head he walked from his flat in Chennai to th
    **Answer:** Any test with a reason. One test is to use the model to predict something new and then check it. Another is to look with a new instrument at what the model says is there.. *Why:* A strong answer picks a test that could show the model wrong.
 
 ## Videos
-- **To Scale: The Solar System** (Wylie Overstreet and Alex Gorosh, 7 min) id `zR3Igc3Rhfg`: To see the solar system laid out true to scale across a dry lake bed, so that the idea of a scale model becomes real. *Check:* Found by YouTube search: "To Scale: THE SOLAR SYSTEM" by To Scale:. Title checked automatically; a parent may still preview it.
-- **Why all world maps are wrong** (Vox, 5 min) id `kIID5FDi2JQ`: To see why a flat map of the round Earth must stretch some part, and how different maps choose different stretches. *Check:* Found by YouTube search: "Why all world maps are wrong" by Vox. Title checked automatically; a parent may still preview it.
-- **The waggle dance of the honeybee** (to be chosen, 4 min) id `to find`: To watch a real bee dance a direction and a distance on a honeycomb, a living model of a journey. *Check:* Not yet found or watched. Find a short, clear video of a real waggle dance and check that it explains the angle and the time.
+- **To Scale: THE SOLAR SYSTEM** (To Scale:, 7 min) id `zR3Igc3Rhfg`: To see the solar system laid out true to scale across a dry lake bed, so that the idea of a scale model becomes real. *Check:* 
+- **Know Your Globe** (SciShow Kids, 4 min) id `x7k7CeWDtWs`: To see a globe as a small model of the Earth, and what a model like this can show and what it leaves out. *Check:* 
+- **The Waggle Dance | Inside the Animal Mind** (BBC Earth, 3 min) id `12Q8FfyLLso`: To watch a real bee dance a direction and a distance on a honeycomb, a living model of a journey. *Check:* 
 
 ## Quiz
 1. (mcq) A friend says a model must be exactly like the real thing. What is the best reply?  
@@ -948,6 +948,7 @@ One Thing at a Time (sci.how-we-know.L3): Topic-level song for How we know L3
 - [PhET Gravity and Orbits](https://phet.colorado.edu/en/simulations/gravity-and-orbits) · simulation: A free online simulation. Move the Sun, Earth and Moon and see a model of gravity predict their paths.
 - [NASA Space Place](https://spaceplace.nasa.gov/) · website: Free pages and games for children about space, with the solar system explained at several levels.
 - [Visvesvaraya Industrial and Technological Museum](https://www.vismuseum.gov.in) · place · Bengaluru: A science museum with hands-on galleries and models that children can touch and test.
+- [PhET Build an Atom](https://phet.colorado.edu/en/simulations/build-an-atom) · simulation: A free online simulation. Build atoms from protons, neutrons and electrons, and see how the atom model fits each one.
 
 ## Things to buy
 - [A small pack of glass marbles](https://www.amazon.in/s?k=glass+marbles) (material): Used for the sealed box test. About ₹20 to ₹60 for a pack. One marble is enough. Used in e1. Use a round steel nut, a dry chickpea or a small ball of clay if you do not have a marble.

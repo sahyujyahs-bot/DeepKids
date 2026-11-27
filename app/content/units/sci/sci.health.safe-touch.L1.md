@@ -659,9 +659,9 @@ Ammamma thought about it for a long time. 'I do not believe anyone did,' she sai
    **Answer:** Answers vary. A strong answer sees that stopping a child from danger is for her safety, is done openly, and is explained afterwards. An unsafe touch is hidden, hurts or breaks the private-parts rule. Both views can be right.. *Why:* A touch is sorted by why it happens, who knows and whether it is hidden. Both people care about the child's safety.
 
 ## Videos
-- **A video for children on how the skin feels touch** (, 4 min) id `mWeTqNdSQlE`: To see how touch sensors in the skin send messages along nerves to the brain. *Check:* Found by YouTube search: "The Sense of Touch - Senses for Kids" by Smile and Learn - English. Title checked automatically; a parent may still preview it.
-- **Body safety for young children: say No, go and tell** (, 5 min) id `EnQ4pC-NO3k`: To hear the three body rules and No, Go, Tell in a calm voice. *Check:* Found by YouTube search: "SAY NO! 🖐️ | Body Safety Song for Kids | Learn to Set Boundaries & Stay Safe" by EasyFun Kids. Title checked automatically; a parent may still preview it.
-- **Mimosa pudica, the touch-me-not plant, folding her leaves** (, 3 min) id `nPf3FbR6eQE`: To watch a touch-me-not fold when touched and open again a few minutes later. *Check:* Found by YouTube search: "Touch-me-not plant/sensitive plant (mimosa pudica) leaves in action | लाजाळूचे झाड" by Akshay Marathe. Title checked automatically; a parent may still preview it.
+- **The Sense of Touch - Senses for Kids** (Smile and Learn - English, 4 min) id `mWeTqNdSQlE`: To see how touch sensors in the skin send messages along nerves to the brain. *Check:* 
+- **Talk PANTS with Pantosaurus and his PANTS song #TalkPANTS** (NSPCC, 2 min) id `-lL07JOGU5o`: A short NSPCC song that teaches the PANTS body-safety rules, including saying no and telling a trusted grown-up. *Check:* 
+- **Touch-me-not plant/sensitive plant (mimosa pudica) leaves in action | लाजाळूचे झाड** (Akshay Marathe, 3 min) id `nPf3FbR6eQE`: To watch a touch-me-not fold when touched and open again a few minutes later. *Check:* 
 
 ## Quiz
 1. (mcq) A relative wants to pinch your cheek, and you do not like it. What may you say?  

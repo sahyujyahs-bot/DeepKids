@@ -1,0 +1,36 @@
+{
+ "checked": "27 Nov 2026",
+ "units": {
+  "sci.energy.using-the-sun.L3": {
+   "videos": []
+  },
+  "sci.materials.separating-mixtures.L4": {
+   "videos": [
+    {
+     "title": "Separation Technique - Winnowing | Middle school science",
+     "channel": "Khan Academy",
+     "youtube": "v2skK5_JXWU",
+     "mins": 3,
+     "pitch": "stretch",
+     "matches": "Winnowing: moving air carries the light husk away while the heavier grain falls back, to go with the winnowing card.",
+     "confidence": "high"
+    },
+    {
+     "title": "Filtration | Middle school chemistry",
+     "channel": "Khan Academy",
+     "youtube": "rv6h2tw8-2M",
+     "mins": 4,
+     "pitch": "stretch",
+     "matches": "A filter with holes too small for the solid pieces holds them back while the liquid passes, to go with the filtering card.",
+     "confidence": "high"
+    }
+   ]
+  },
+  "sci.me-and-others.playing-fair.L1": {
+   "videos": []
+  },
+  "sci.health.safe-touch.L1": {
+   "videos": []
+  }
+ }
+}

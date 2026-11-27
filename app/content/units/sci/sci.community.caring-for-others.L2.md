@@ -834,9 +834,9 @@ Mary akka left the long plank at the library. By the next Friday it had two side
    **Answer:** The carer gets time to rest. *Why:* Care work is tiring, so a carer who gets help can rest. The jobs do not belong to one sex.
 
 ## Videos
-- **Louis Braille and how Braille works** (to be found, 5 min) id `o9BOQ6IpTSE`: To see how six dots make a letter and how a blind boy of fifteen invented a way for fingers to read. *Check:* Found by YouTube search: "The incredible story of the boy who invented Braille | BBC Ideas" by BBC Ideas. Title checked automatically; a parent may still preview it.
-- **How the Jaipur Foot is made and worn** (to be found, 5 min) id `GchWUvPfnzc`: To see how the Jaipur Foot is made and how it lets the wearer squat and walk barefoot. *Check:* Found by YouTube search: "Hope called Jaipur Foot" by Mint. Title checked automatically; a parent may still preview it.
-- **Kerb cuts and why a ramp for wheelchairs helps everyone** (to be found, 5 min) id `uRuosHa0bBQ`: To see how slopes cut into pavements for wheelchairs were soon used by prams, cyclists and people with trolleys. *Check:* Found by YouTube search: "LGIDA  Kerb Ramps & TGSI's" by LGIDA Videos. Title checked automatically; a parent may still preview it.
+- **The incredible story of the boy who invented Braille | BBC Ideas** (BBC Ideas, 4 min) id `o9BOQ6IpTSE`: To see how six dots make a letter and how a blind boy of fifteen invented a way for fingers to read. *Check:* 
+- **Hope called Jaipur Foot** (Mint, 3 min) id `GchWUvPfnzc`: To see the Jaipur Foot, a leg made in Jaipur for the way people in India live and move. *Check:* 
+- **Ramps: A Super, Simple Machine! - #sciencegoals** (SciShow Kids, 4 min) id `3COvm0TtxWg`: To see how a long gentle slope makes a climb easier, the same idea as a wheelchair ramp. *Check:* 
 
 ## Quiz
 1. (mcq) A girl broke her arm and cannot button her shirt for a month. What does this show?  

@@ -818,9 +818,9 @@ Ammini wrote one more line in her book. The phone can say how much. It cannot sa
    **Answer:** False. *Why:* False. In 2014 Appel and Cocroft showed that plants made more defence chemicals when played the vibrations of a caterpillar chewing. They sense vibration through their leaves.
 
 ## Videos
-- **How the ear turns sound into signals, and what loud sound does to the hair cells** (, 5 min) id `eQEaiZ2j9oc`: To see the cochlea and the hair cells at work, and the damage loud sound does to their tufts. *Check:* Found by YouTube search: "Journey of Sound to the Brain" by National Institutes of Health (NIH). Title checked automatically; a parent may still preview it.
-- **How noise-cancelling headphones work** (, 5 min) id `VIi04uD8LtY`: To see how a speaker plays the opposite of an incoming sound wave so that the two cancel. *Check:* Found by YouTube search: "How Do Noise Canceling Headphones Work?" by Branch Education. Title checked automatically; a parent may still preview it.
-- **How noise changes the lives of birds and whales** (, 8 min) id `to find`: To see how human noise changes songs and calls, and how scientists measured it. *Check:* Found by YouTube search: "An AI Talked to a Bird. The Bird Talked Back." by Observator. Title checked automatically; a parent may still preview it. WARNING: this address does not match the title above (it is a video about an AI talking to a bird). A person must replace it with a real video on noise and birds or whales before families use it.
+- **Journey of Sound to the Brain** (National Institutes of Health (NIH), 5 min) id `eQEaiZ2j9oc`: Follows sound from the outer ear to the hair cells and the nerve, which is the card on how the ear turns sound into signals. *Check:* 
+- **How Do Noise Canceling Headphones Work?** (Branch Education, 5 min) id `VIi04uD8LtY`: Shows a speaker playing the opposite of a sound wave so that the two cancel, which is the card on engineering quiet. *Check:* 
+- **Songs Of Whales Drowned By Man Made Noise** (Discovery Channel Southeast Asia, 3 min) id `9Zfx2YgI2hs`: Shows how human-made noise drowns out whale songs, which is the card on animals whose voices change because of noise. *Check:* 
 
 ## Quiz
 1. (mcq) Two neighbours hear the same drumbeat. One calls it music and the other calls it noise. What does this show?  
@@ -932,6 +932,7 @@ Back and Forth, Again and Again (sci.sound.L5): Topic-level song
 - [Dangerous Decibels](https://dangerousdecibels.org/) · interactive: A free hearing-health site with a virtual exhibit that shows the ear, hair cells and how loud sounds harm them.
 - [Central Pollution Control Board, Government of India](https://cpcb.nic.in/) · website: Where India's national noise rules and the noise monitoring data for cities are published.
 - [Awaaz Foundation, Mumbai](https://awaazfoundation.org/) · website: The Mumbai organisation founded by Sumaira Abdulali, which measures noise and campaigns for the rules to be kept.
+- [PhET Sound simulation](https://phet.colorado.edu/en/simulations/sound) · simulation: A free simulation where you change a sound and watch its wave change shape, so you can see what makes a sound louder.
 
 ## Things to buy
 - [A hand-held sound-level meter](https://www.amazon.in/s?k=sound+level+meter+decibel) (tool): An optional better meter for the noise map and the experiments. A phone app is free and works for comparing places. A cheap hand-held meter costs about ₹800 to ₹2,500 and is steadier. Phone apps and cheap meters can each be off by several decibels. Used in e1, e2, ch1, p2. Use a free decibel app on a phone. For the no-app backup, use a ticking clock and count the steps you can still hear it from.

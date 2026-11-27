@@ -794,9 +794,9 @@ Zoya watched the pans swing and settle. Tomatoes on one side and iron on the oth
    **Answer:** the height of a door → Has a standard unit; the heat of a cup of tea → Has a standard unit; how beautiful a kolam is → Has no standard unit; how kind a neighbour is → Has no standard unit; the time a bus takes → Has a standard unit; how much a tooth hurts → Has no standard unit. *Why:* Length, temperature and time have units and instruments. For beauty, kindness and pain, scientists still argue about whether any unit could be agreed.
 
 ## Videos
-- **How the kilogram was redefined in 2019** (, 5 min) id `Oo0jm1PPRuo`: To see why a metal cylinder was replaced by a constant of nature. *Check:* Found by YouTube search: "How We're Redefining the kg" by Veritasium. Title checked automatically; a parent may still preview it.
-- **How long is a coastline? The coastline paradox** (, 6 min) id `kFjq8PX6F7I`: To see why a coast's length depends on the size of the measuring step. *Check:* Found by YouTube search: "The Coastline Paradox Explained" by RealLifeLore. Title checked automatically; a parent may still preview it.
-- **How Eratosthenes measured the Earth with a shadow** (, 5 min) id `Mw30CgaXiQw`: To see how an angle and a distance can give a size nobody can stretch a tape across. *Check:* Found by YouTube search: "How Eratosthenes calculated the Earth's circumference" by Business Insider. Title checked automatically; a parent may still preview it.
+- **How We're Redefining the kg** (Veritasium, 10 min) id `Oo0jm1PPRuo`: Shows why the kilogram was redefined from a fixed number of nature's constants instead of a metal cylinder. *Check:* 
+- **The Coastline Paradox Explained** (RealLifeLore, 6 min) id `kFjq8PX6F7I`: Shows why a coast's length depends on the size of the step used to measure it. *Check:* 
+- **How People (And Squids) Measure Things** (SciShow Kids, 3 min) id `6wMXvP5LiiU`: Shows how humans and other animals measure by comparing with a unit and counting, as the opening cards do. *Check:* 
 
 ## Quiz
 1. (mcq) Which job needs a measurement rather than a guess?  
@@ -900,6 +900,7 @@ What Would We See? (sci.how-we-know.L4): Topic-level song
 - [National Physical Laboratory of India, New Delhi](https://www.nplindia.in/) · place · Dr K S Krishnan Marg, New Delhi: The laboratory that keeps India's units and India's official time. Check the website to see if visits or open days are offered.
 - [Jantar Mantar, Jaipur](https://whc.unesco.org/en/list/1338) · place · Jaipur, Rajasthan: The 18th century observatory with a sundial 27 metres tall. The page gives its history and pictures. Check opening times before going.
 - [Survey of India](https://surveyofindia.gov.in/) · website: India's national mapping body, with pages on how land and mountains are measured and mapped.
+- [PhET: Gravity Force Lab Basics](https://phet.colorado.edu/en/simulation/gravity-force-lab-basics) · simulation: A free simulation where a mass is pulled by a planet, so you can see how weight changes while mass stays the same.
 
 ## Things to buy
 - [Two clear plastic 1-litre bottles with straight sides](https://www.amazon.in/s?k=1+litre+water+bottle+plastic) (material): For the bottle clock test. Any packaged water or soft drink bottle works. A spare is useful if the first hole is too large. About ₹20 each, or free from the recycling bin. Used in e1. Use an empty bottle from the house. A bottle with a very curved shoulder works if you fill only the straight part.

@@ -797,7 +797,7 @@ Ponni looked at Karuppi, and at the puppy rising and falling on her breath. She 
 ## Videos
 - **Indian Traditional Game | Traditional Games of India | Indian sports traditional sports and games** (Sasu Fun Easy Learning, 3 min) id `9OSgupOGVsQ`: Shows hopscotch, five stones and other games played in lanes and courtyards, to go with the card on one game with many names in India. *Check:* 
 - **Dog play initiation** (Evelien Tewes, 2 min) id `Jf3Tzx1ooIM`: Shows a dog's play bow and the soft chase that follows, to go with the card on animals whose play has signals and rules. *Check:* 
-- **Learning To Play Fair | Learning Cartoon For Kids** (Dr. Panda - Scholastic, 7 min) id `PKEihTBZo9g`: A cartoon about playing fair with friends and waiting for a turn, to go with the cards on fair play and taking turns. *Check:* 
+- **Learning To Play Fair 💖🐼 Learning Cartoon For Kids** (Dr. Panda - Scholastic, 7 min) id `PKEihTBZo9g`: A cartoon about playing fair with friends and waiting for a turn, to go with the cards on fair play and taking turns. *Check:* 
 
 ## Quiz
 1. (mcq) Ten seeds lie on the floor. What turns them into a game?  

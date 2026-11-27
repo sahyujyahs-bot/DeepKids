@@ -801,9 +801,9 @@ Selvi kept looking at the bulb. Was this light from the coal, or from the wind t
    **Answer:** ['reserve']. *Why:* A reserve is always smaller than what is in the ground. New tools and higher prices make it larger, which is why the date for running out keeps moving.
 
 ## Videos
-- **How do solar panels work** (to be found, 5 min) id `xKxrkht7CpY`: To see how a solar cell turns light straight into electricity with nothing burning. *Check:* Found by YouTube search: "How do solar panels work? - Richard Komp" by TED-Ed. Title checked automatically; a parent may still preview it.
-- **How coal, oil and gas were formed** (to be found, 6 min) id `8YHsxXEVB1M`: To see swamp plants and tiny sea beings buried and slowly turned into fossil fuels over millions of years. *Check:* Found by YouTube search: "Oil and Gas Formation" by EarthScience WesternAustralia (ESWA). Title checked automatically; a parent may still preview it.
-- **How a wind turbine and a dam make electricity** (to be found, 6 min) id `ia1LJE9sOxQ`: To see a turbine spun by wind or falling water turning a generator to make electricity. *Check:* Found by YouTube search: "How Do Wind Turbines Work? | Sources Of Electric Energy | The Dr Binocs Show | Peekaboo Kidz" by Peekaboo Kidz. Title checked automatically; a parent may still preview it.
+- **How do solar panels work? - Richard Komp** (TED-Ed, 5 min) id `xKxrkht7CpY`: To see how a solar cell turns light straight into electricity with nothing burning. *Check:* 
+- **What are Fossil Fuels? How are they Formed? | Oil, Coal & Natural Gas** (STEAMspirations, 4 min) id `Ied4ogxqXUM`: To see how coal, oil and gas form from buried plants and tiny sea beings over millions of years. *Check:* 
+- **How Do Wind Turbines Work? | Sources Of Electric Energy | The Dr Binocs Show** (Peekaboo Kidz, 6 min) id `ia1LJE9sOxQ`: To see wind turn a turbine, and the turbine turn a generator to make electricity. *Check:* 
 
 ## Quiz
 1. (mcq) Cooking gas in a cylinder is a fuel, and sunlight is not. Why?  

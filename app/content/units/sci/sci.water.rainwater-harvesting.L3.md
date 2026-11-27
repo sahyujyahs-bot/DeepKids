@@ -932,8 +932,8 @@ The count was shorter than in June.
    **Answer:** Answers vary. A strong answer says the tank must be clean and covered, and the water must be filtered and boiled. It also says that scientists still argue about how much the traces matter.. *Why:* Both views rest on evidence. Long use shows rain can be safe when kept well. The new findings show there is something in rain that we cannot see.
 
 ## Videos
-- **How a rooftop rainwater harvesting system works** (, 5 min) id `tiOAsM-mIKE`: To see a real roof, gutter, first-flush, filter and tank at work. *Check:* Found by YouTube search: "Complete Rainwater Harvesting System Tour | PerfectWater Installation Explained" by PerfectWater. Title checked automatically; a parent may still preview it.
-- **Stepwells of India: Rani ki Vav and Chand Baori** (, 5 min) id `UjubH9b4BvE`: To walk down a stepwell and see why its steps reach the water at any level. *Check:* Found by YouTube search: "Get Lost in the Maze-Like Stepwell of Chand Baori" by Great Big Story. Title checked automatically; a parent may still preview it.
+- **How to Make a Rainwater Harvesting System** (Discover Permaculture with Geoff Lawton, 6 min) id `B-a7YrS6E8k`: Shows the parts of a rainwater system, from roof and gutter to filter and tank, put together step by step. *Check:* 
+- **Get Lost in the Maze-Like Stepwell of Chand Baori** (Great Big Story, 5 min) id `UjubH9b4BvE`: Shows the steps of a stepwell running down to the water, as in the stepwell card. *Check:* 
 - **Rajendra Singh and the johads of Alwar** (, 5 min) id `to find`: To see an earth wall hold the monsoon and a dry river flow again. *Check:* Video still to be found and checked against the johad card.
 
 ## Quiz

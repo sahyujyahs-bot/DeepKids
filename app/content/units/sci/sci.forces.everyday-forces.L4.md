@@ -899,9 +899,9 @@ Rosy chechi looked at the water for a while. 'I have never met one,' she said. '
    **Answer:** Lift the stone on a string with a spring or a rubber band. Note how far the band stretches in air. Lower the stone into water and see the band shorten. The stone seems lighter because the water pushes up on it.. *Why:* A strong answer lowers the stone on something that measures weight, such as a rubber band, and compares the reading in air and in water.
 
 ## Videos
-- **The hammer and feather drop on the Moon, Apollo 15, 1971** (NASA, to be matched, 2 min) id `oYEgdZ3iEKA`: To see the hammer and the falcon feather land at the same moment on the airless Moon. *Check:* Found by YouTube search: "Apollo 15 Hammer-Feather Drop" by NASA Solar System. Title checked automatically; a parent may still preview it.
-- **Terminal speed explained with a falling object** (to be matched, 5 min) id `k3AYX5INJ_4`: To see why a falling thing stops speeding up when the push of the air matches its weight. *Check:* Found by YouTube search: "GCSE Physics - Terminal Velocity - What Affects Air Resistance | Resultant Force & Acceleration" by Cognito. Title checked automatically; a parent may still preview it.
-- **How a muscle contracts: the sliding threads** (to be matched, 5 min) id `nTZnBdeIb5c`: To watch a muscle get shorter, shown in an animation of its inner threads. *Check:* Found by YouTube search: "Sliding Filament Theory Of Muscle Contraction Explained" by Teach PE. Title checked automatically; a parent may still preview it.
+- **Apollo 15 Hammer-Feather Drop** (NASA Solar System, 1 min) id `oYEgdZ3iEKA`: To see the hammer and the falcon feather land at the same moment on the airless Moon. *Check:* 
+- **Physics | Force & Motion | Introduction to Air Resistance & Gravity** (Big Bang Academy Kids, 5 min) id `IP9qwbn6lik`: To see how air pushes back against a falling thing, as the paper cones do in this lesson. *Check:* 
+- **How Your Muscles Work** (Nemours KidsHealth, 6 min) id `f_F5UwtdPOc`: To see how a muscle gets shorter to pull on a bone, the pull that moves your arm. *Check:* 
 
 ## Quiz
 1. (mcq) A lamp hangs still from a chain. Which forces act on the lamp?  

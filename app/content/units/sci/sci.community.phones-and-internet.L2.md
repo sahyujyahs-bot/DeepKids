@@ -696,9 +696,9 @@ Meenakshi pushed the swing with her toe. Somewhere under the sea, she knew, flas
    **Answer:** A phone and a tower with wavy lines. A cable goes along the ground and under the sea to another coast at Kochi, where a tower sends the message to a second phone.. *Why:* A message goes as radio waves to a tower, then as light along cables under the sea, then as radio waves to the second phone.
 
 ## Videos
-- **How a phone call travels** (to be found, 5 min) id `4UWpiOCkTAM`: To see how a voice becomes a signal, travels to a tower and comes out as sound again. *Check:* Found by YouTube search: "How Does a Phone Call Find You? (Mobile Networks Explained Simply)" by ExplainHowFast. Title checked automatically; a parent may still preview it.
-- **How the internet works: cables under the sea** (to be found, 6 min) id `yd1JhZzoS6A`: To see that the internet is real cables on the sea floor and not magic. *Check:* Found by YouTube search: "How The Internet Travels Across Oceans" by VISION. Title checked automatically; a parent may still preview it.
-- **Staying safe with phones: tell a trusted adult** (to be found, 5 min) id `Y889t-P2VwE`: To hear the four steps for something that feels wrong, from an Indian source if possible. *Check:* Found by YouTube search: "Cell Phone Safety for kids by a kid!" by Central Insurance. Title checked automatically; a parent may still preview it.
+- **How Does a Phone Call Find You? (Mobile Networks Explained Simply)** (ExplainHowFast, 5 min) id `4UWpiOCkTAM`: Shows how a voice becomes radio waves, travels to a mobile tower and comes out again as sound. *Check:* 
+- **How The Internet Travels Across Oceans** (VISION, 6 min) id `yd1JhZzoS6A`: Shows that the internet is real cables lying on the sea floor, not magic, which is the card about many computers joined together. *Check:* 
+- **Online Privacy for Kids - Internet Safety and Security for Kids** (Smile and Learn - English, 3 min) id `yiKeLOKc1tw`: Explains which facts about you are private and why passwords are not shared, which is the card on privacy and asking first. *Check:* 
 
 ## Quiz
 1. (mcq) A girl speaks into a phone. What does the phone send to her friend?  
@@ -811,6 +811,8 @@ Kind Words, Safe Screens (sci.community.L2): Topic-level song
 - [CERN: the birth of the web](https://home.web.cern.ch/science/computing/birth-web) · website: A grown-up can read how Tim Berners-Lee invented the World Wide Web in 1989 and gave it away free.
 - [Common Sense Media](https://www.commonsensemedia.org/) · website: Guides for parents about apps, games and videos, with age advice and a way to talk with a child about them.
 - [National Science Centre, Delhi](https://www.nscd.gov.in/) · place · Pragati Maidan, New Delhi: A science museum with displays about communication. Check the website for opening times before going.
+- [DIKSHA, India's national learning platform](https://diksha.gov.in/) · lesson: Free school lessons and videos from the government, in many Indian languages. A grown-up can search it for lessons on computers and networks.
+- [BBC Bitesize](https://www.bbc.co.uk/bitesize) · lesson: Free lessons, clips and quizzes for school children. A grown-up can search it for topics on computing and the internet.
 
 ## Things to buy
 - [2 paper cups, or 2 plastic cups, for the cup phone](https://www.amazon.in/s?k=paper+cups+small) (material): The cup phone needs two cups with a hole in the bottom. About ₹20 to ₹40 for a pack of cups. Used in e2. Any two clean empty curd cups work, or two steel tumblers with a hole already in them.

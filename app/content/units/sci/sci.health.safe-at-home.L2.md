@@ -822,9 +822,9 @@ Devika looked at the tomato knife on its high shelf, at Minnal asleep with her e
    **Answer:** Pain is an alarm. It tells me where the body is hurt, so I pull away and look after the place. Without it a burn can go on and on without being noticed.. *Why:* Pain is useful. Nobody can yet explain why a signal in a nerve feels like hurting. That is an open question.
 
 ## Videos
-- **How your body stops bleeding: platelets and clots** (to be chosen, 5 min) id `gExUCrpAKyQ`: Shows platelets sticking together to close a cut, as in the lesson. *Check:* Found by YouTube search: "Platelets & Blood Clotting | Biology | FuseSchool" by FuseSchool - Global Education. Title checked automatically; a parent may still preview it.
-- **First aid for burns: cool running water for 20 minutes** (a Red Cross or St John Ambulance channel, 4 min) id `6i7ov4vbxUc`: A parent can watch how cooling a burn is done and how long it takes. *Check:* Found by YouTube search: "How to Treat Burns" by St John Ambulance Kenya. Title checked automatically; a parent may still preview it.
-- **Why a thin edge cuts: pressure explained** (to be chosen, 5 min) id `E6bczqDwG7g`: Shows that the same push on a smaller place gives a bigger pressure. *Check:* Found by YouTube search: "Why Does a Sharp Knife Cut Better Than a Blunt One? 🔪| Physics of Pressure #HowItWorks #SharpVsBlunt" by ScienceGlide. Title checked automatically; a parent may still preview it.
+- **How Do Cuts Heal?** (SciShow Kids, 3 min) id `cLEdznnTT8s`: Shows how a small cut closes and heals, the idea behind the skin and first-aid cards. *Check:* 
+- **First Aid For Burns: Cool, Call, Cover** (Queen Victoria Hospital, 3 min) id `zExT8eNLnR0`: Shows the cool, call, cover steps for a burn, as in the cooling-a-burn card. *Check:* 
+- **What is Pressure? How it depends on Force and Area! Physics for Kids.** (Insight Engine, 2 min) id `j27wSI5jy9Y`: Shows that the same push on a smaller area gives a bigger pressure, as in the thin-edge card. *Check:* 
 
 ## Quiz
 1. (mcq) You press a pencil tip and a fingertip on your hand with the same push. Why does the tip hurt more?  
@@ -928,6 +928,7 @@ Handle, Cool and Hold (sci.health.L2): Topic-level song for Health and well-bein
 - [NHS: cuts and grazes](https://www.nhs.uk/conditions/cuts-and-grazes/) · reference: A parent page that says how to stop bleeding, wash and cover a small cut, and when to see a doctor.
 - [NHS: burns and scalds](https://www.nhs.uk/conditions/burns-and-scalds/) · reference: A parent page on cooling a burn under running water for 20 minutes and when to get help.
 - [Indian Academy of Pediatrics](https://iapindia.org/) · reference: The site of India's children's doctors. It has a section of guidelines for parents.
+- [PhET: Balancing Act](https://phet.colorado.edu/en/simulation/balancing-act) · simulation: A free simulation where you test where a weight must sit for a thing to stay balanced, the idea behind tipping.
 
 ## Things to buy
 - [Steel ruler, 30 centimetres (about Rs 30 to 50)](https://www.amazon.in/s?k=steel+ruler+30+cm) (tool): Used in the thin edge test. Any steel ruler from a stationery shop works. A plastic ruler is a cheap alternative that cuts a little less deep. Used in e1. 

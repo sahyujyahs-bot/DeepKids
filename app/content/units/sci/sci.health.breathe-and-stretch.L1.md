@@ -748,9 +748,9 @@ Somewhere in the middle she stopped trying. She was asleep. And her breath went 
    **Answer:** Nobody is sure why we yawn. *Why:* In 1987 Robert Provine gave people extra oxygen, and they yawned as often as before. So that idea failed, and no other idea is agreed.
 
 ## Videos
-- **How the lungs and the diaphragm make you breathe** (, 4 min) id `59knV9PJ3Rs`: Shows the lungs filling and the diaphragm pulling down, so a child can see what happens under the tummy. *Check:* Found by YouTube search: "Basic Breathing Mechanics" by Dr Matt & Dr Mike. Title checked automatically; a parent may still preview it.
-- **Animals stretching when they wake up** (, 3 min) id `ueR6p09trso`: Shows dogs, cats and other animals stretching after sleep, and how people copy the shapes. *Check:* Found by YouTube search: "Top 10 Big Stretches" by WeRateDogs. Title checked automatically; a parent may still preview it.
-- **Kabaddi: how the raider chants on one breath** (, 5 min) id `P6fGE_lYVMk`: Shows kabaddi being played, with the raider's chant on one breath. *Check:* Found by YouTube search: "THE FAMOUS "KABADDI" CHANT || VIVO PRO KABADDI SEASON 8 || PATNA PIRATES VS UP YODDHA" by Patna Pirates. Title checked automatically; a parent may still preview it.
+- **Operation Ouch - The Diaphragm** (Operation Ouch, 5 min) id `rUVMok4Qp-Y`: Shows the flat diaphragm under the lungs pulling down, so a child can see what happens under the tummy when they breathe in. *Check:* 
+- **Why Do We Stretch in the Morning?** (SciShow, 3 min) id `iOwjorRt5ZI`: Explains why humans and other animals stretch after rest, which is the card about the waking stretch. *Check:* 
+- **THE FAMOUS "KABADDI" CHANT || VIVO PRO KABADDI SEASON 8 || PATNA PIRATES VS UP YODDHA** (Patna Pirates, 5 min) id `P6fGE_lYVMk`: Shows a kabaddi raider chanting on one breath, which links to the card about breathing on purpose. *Check:* 
 
 ## Quiz
 1. (mcq) A paper boat lies on your tummy. You breathe in. What does the boat do?  
@@ -856,6 +856,7 @@ Breathe In, Stretch Out (sci.health.L1): Topic-level song for Health L1
 - [WHO guidelines on physical activity and sedentary behaviour](https://www.who.int/publications/i/item/9789240015128) · reading: For the parent: how much moving and resting the World Health Organization advises for children.
 - Kaivalyadhama Yoga Institute · place · Lonavala, Maharashtra: One of the oldest yoga research centres in India, set up in 1924. Parents can read about the history of yoga and see how poses are taught.
 - Krishnamacharya Yoga Mandiram · place · Chennai, Tamil Nadu: A yoga school in the line of T. Krishnamacharya, who taught in Mysuru in the 1930s. Families in Chennai can look for classes for children.
+- [KidsHealth: how the lungs work](https://kidshealth.org/en/kids/lungs.html) · reading: Short pages for children about the lungs and the air they take in. A grown-up can read it aloud with the child.
 
 ## Things to buy
 - [Printed pages for the two games and the worksheets]() (material): The game cards and worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine. Used in g1, g2, ws-core, ws-stretch, ws-challenge. Print the card game and the core worksheet before the first session. Or copy the cards by hand on small pieces of paper.
