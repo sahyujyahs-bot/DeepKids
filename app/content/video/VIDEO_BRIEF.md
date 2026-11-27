@@ -55,3 +55,6 @@ To check with her: "like no other app" claims (hers, unverified); the Kayadhu/Na
 
 ## Cost note
 Helpers: Sonnet for drawing/animation, Haiku for checks. Ask the founder (model, how many helpers, rough cost) before any helper job. She is low on weekly tokens.
+
+## The founder's own voice recording
+`voice/founder-voiceover-10-slides-1m53.m4a` (1 min 53 s) is her recording of the 10-slide "what is special" script, with an auto transcript beside it. Her voice was used for the app part of the DNA video. Keep her voice and tone as recorded; trim and time scenes to it, don't re-voice it with Alba.
