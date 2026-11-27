@@ -654,5 +654,2885 @@
    "India Meteorological Department, report on Very Severe Cyclonic Storm Phailin, 2013"
   ]
  },
- "playtest": "Main hands-on investigation, to be written under this name: 'The dissolving-time test: choose your tools, name the risks, predict, then judge your prediction'. The child measures how long one level teaspoon of sugar takes to dissolve in cold water and in room-warm water, with the same stirring. From those two results the child predicts the time for warm tap water, writes the prediction, tests three times and compares the miss with the spread. A second round predicts for an unfamiliar solid, rock salt or powdered jaggery. Warm tap water only, never boiling, poured by a grown-up, in steel or plastic on a tray. The roots, the summary and the deep truth refer to this test, so keep its shape. A short second activity the cards rely on: the three bowls of water for the two hands. Facts a reviewer must verify: the Sushruta Samhita chapter numbers (Sutrasthana 7 for instruments and the hand, 9 for practice on gourds) and the hair-splitting sharpness line (Sutrasthana 8). Charaka Samhita Sutrasthana 11 for the four ways of knowing and the crop example of yukti, and Vimanasthana 8 for ordered examination. Nyaya Sutra 1.1.5 and the cloud example in Vatsyayana. Locke's two-hands passage. Boeing Model 299 crash, October 1935. WHO checklist figures: 19 items, 8 hospitals including one in New Delhi, deaths 1.5 per cent to 0.8 per cent. Urbach 2014: 101 hospitals. Scheele died 1786 aged 43. Curie's notebooks in lead-lined boxes at the Bibliothèque nationale de France. Grace Fryer and four others sued in 1927. Mendeleev's 5.9 and Lecoq de Boisbaudran's first 4.7 for gallium. India Meteorological Department monsoon forecast error of about plus or minus 5 per cent. Cyclone Phailin: about a million moved, a few dozen deaths, about 10,000 deaths in 1999, and Mrutyunjay Mohapatra's role. Lorenz's 0.506 and 0.506127 in 1961. Neptune 1846, Vulcan, Einstein 1915. Popper 1934, Duhem 1906, Lakatos 1970. Mozi's three tests. Ibn al-Haytham about 1021 CE. Acharanga Sutra 1.4.1. Zhuangzi chapter 3. Sunflower study, Science 2016. Alice Hamilton's Illinois survey, 1910. Ramazzini's book, 1700. The deep truth was not compared with other lessons' deep truths, because this helper was told to make no other tool calls: run deep_truths.py and check. The founder's notes and the Combined lessons were not searched for the same reason, so sources.founder is empty. Words that need flashcards, in the order met: practical work, equipment, quantity, length, volume, mass, temperature, millilitre, smallest mark, zero mark, eye level, reading, thermometer, stopwatch, senses, compare, hazard, risk, harm, likely, risk assessment, remove, swap, barrier, protection, hierarchy of controls, spill, scald, checklist, radioactive, acceptable risk, precaution, living being, prediction, reason, inference, familiar, unfamiliar, dissolve, result, difference, accuracy, hindsight, spread, forecast, miss, assumption, chaos."
+ "playtest": "Main hands-on investigation, to be written under this name: 'The dissolving-time test: choose your tools, name the risks, predict, then judge your prediction'. The child measures how long one level teaspoon of sugar takes to dissolve in cold water and in room-warm water, with the same stirring. From those two results the child predicts the time for warm tap water, writes the prediction, tests three times and compares the miss with the spread. A second round predicts for an unfamiliar solid, rock salt or powdered jaggery. Warm tap water only, never boiling, poured by a grown-up, in steel or plastic on a tray. The roots, the summary and the deep truth refer to this test, so keep its shape. A short second activity the cards rely on: the three bowls of water for the two hands. Facts a reviewer must verify: the Sushruta Samhita chapter numbers (Sutrasthana 7 for instruments and the hand, 9 for practice on gourds) and the hair-splitting sharpness line (Sutrasthana 8). Charaka Samhita Sutrasthana 11 for the four ways of knowing and the crop example of yukti, and Vimanasthana 8 for ordered examination. Nyaya Sutra 1.1.5 and the cloud example in Vatsyayana. Locke's two-hands passage. Boeing Model 299 crash, October 1935. WHO checklist figures: 19 items, 8 hospitals including one in New Delhi, deaths 1.5 per cent to 0.8 per cent. Urbach 2014: 101 hospitals. Scheele died 1786 aged 43. Curie's notebooks in lead-lined boxes at the Bibliothèque nationale de France. Grace Fryer and four others sued in 1927. Mendeleev's 5.9 and Lecoq de Boisbaudran's first 4.7 for gallium. India Meteorological Department monsoon forecast error of about plus or minus 5 per cent. Cyclone Phailin: about a million moved, a few dozen deaths, about 10,000 deaths in 1999, and Mrutyunjay Mohapatra's role. Lorenz's 0.506 and 0.506127 in 1961. Neptune 1846, Vulcan, Einstein 1915. Popper 1934, Duhem 1906, Lakatos 1970. Mozi's three tests. Ibn al-Haytham about 1021 CE. Acharanga Sutra 1.4.1. Zhuangzi chapter 3. Sunflower study, Science 2016. Alice Hamilton's Illinois survey, 1910. Ramazzini's book, 1700. The deep truth was not compared with other lessons' deep truths, because this helper was told to make no other tool calls: run deep_truths.py and check. The founder's notes and the Combined lessons were not searched for the same reason, so sources.founder is empty. Words that need flashcards, in the order met: practical work, equipment, quantity, length, volume, mass, temperature, millilitre, smallest mark, zero mark, eye level, reading, thermometer, stopwatch, senses, compare, hazard, risk, harm, likely, risk assessment, remove, swap, barrier, protection, hierarchy of controls, spill, scald, checklist, radioactive, acceptable risk, precaution, living being, prediction, reason, inference, familiar, unfamiliar, dissolve, result, difference, accuracy, hindsight, spread, forecast, miss, assumption, chaos.",
+ "terms": [
+  {
+   "term": "Practical work",
+   "meaning": "A test or an observation that you carry out yourself, with your own hands.",
+   "example": "Timing how long a wet cloth takes to dry on the line is practical work.",
+   "art": "A child hanging a wet cloth on a line beside a clock."
+  },
+  {
+   "term": "Equipment",
+   "meaning": "The things you use to carry out a test or an observation.",
+   "example": "A steel tumbler, a spoon and a phone stopwatch are the equipment for timing sugar in water.",
+   "art": "A table with a tumbler, a spoon, a phone and a notebook laid out in a row."
+  },
+  {
+   "term": "Quantity",
+   "meaning": "Something you can measure and give a number to.",
+   "example": "How tall a plant is, how long a cloth takes to dry and how warm the water is are all quantities.",
+   "art": "Three labelled arrows from a bean plant, a clock and a cup of water, each pointing to a number."
+  },
+  {
+   "term": "Length",
+   "meaning": "How far it is from one end of something to the other. A ruler or a tape measures it.",
+   "example": "A bean plant that is 12 centimetres tall has a length of 12 centimetres.",
+   "art": "A ruler standing beside a small bean plant."
+  },
+  {
+   "term": "Volume",
+   "meaning": "How much space something takes up. For a liquid, a measuring cup measures it.",
+   "example": "A tumbler of water might hold 200 millilitres, and that is its volume.",
+   "art": "A measuring cup filled with water to the 200 mark."
+  },
+  {
+   "term": "Mass",
+   "meaning": "How much material a thing is made of. A weighing scale measures it, in grams or kilograms.",
+   "example": "One idli might have a mass of 40 grams on a kitchen scale.",
+   "art": "A kitchen scale with an idli on its plate and a number on the screen."
+  },
+  {
+   "term": "Temperature",
+   "meaning": "How hot or cold something is. A thermometer measures it, in degrees Celsius.",
+   "example": "Cold water from the fridge is about 5 degrees Celsius, and warm tap water is about 40.",
+   "art": "A thermometer standing in a tumbler of warm water."
+  },
+  {
+   "term": "Millilitre",
+   "meaning": "A small unit of volume. There are 1,000 millilitres in one litre.",
+   "example": "A teaspoon holds about 5 millilitres of water.",
+   "art": "A teaspoon next to a one-litre bottle, with a label 'about 5 of these are 25'."
+  },
+  {
+   "term": "Smallest mark",
+   "meaning": "The smallest amount a tool can show. A tool cannot tell apart amounts that are smaller than this.",
+   "example": "A kitchen jug marked every 100 millilitres cannot show 20 millilitres, but a medicine cup marked every 1 millilitre can.",
+   "art": "A jug with big marks beside a medicine cup with tiny marks."
+  },
+  {
+   "term": "Zero mark",
+   "meaning": "The mark on a tool where the counting starts. You line up what you measure with this mark.",
+   "example": "On many rulers the zero mark is a little way in from the end, so you line up the mark and not the edge.",
+   "art": "A ruler with an arrow pointing to its zero mark, set a little in from the end."
+  },
+  {
+   "term": "Eye level",
+   "meaning": "Your eyes at the same height as the thing you are reading, so that you look straight across it.",
+   "example": "Bend down until your eye is level with the water line in the measuring cup before you read it.",
+   "art": "A child with her eye at the height of the water line in a measuring cup."
+  },
+  {
+   "term": "Reading",
+   "meaning": "The number a tool shows when you use it.",
+   "example": "The thermometer's reading in the warm water was 41 degrees.",
+   "art": "A thermometer with a pointer to 41."
+  },
+  {
+   "term": "Thermometer",
+   "meaning": "A tool that measures temperature. It needs about a minute in the water before its number stops changing.",
+   "example": "Stand the thermometer in the warm water and read it after a minute, not at once.",
+   "art": "A digital kitchen thermometer standing in a steel tumbler."
+  },
+  {
+   "term": "Stopwatch",
+   "meaning": "A clock that you start and stop to measure how long something takes. A phone has one.",
+   "example": "Press start when the sugar touches the water, and press stop when the water is clear.",
+   "art": "A phone showing a stopwatch at 42.6 seconds."
+  },
+  {
+   "term": "Senses",
+   "meaning": "The body's sensors, such as those in the eyes, skin, ears, nose and tongue, that report what is around you. The body has many more kinds than the few best known.",
+   "example": "Your skin senses warm and cold, and your inner ear senses balance.",
+   "art": "A child's face and hands with arrows pointing to eyes, ears, nose, tongue and skin."
+  },
+  {
+   "term": "Compare",
+   "meaning": "To put two things side by side and say how they are alike and different.",
+   "example": "Your two hands compare the middle bowl of water with the bowls they were in before.",
+   "art": "Two hands over three bowls of water, one hand over a cold bowl and one over a warm bowl."
+  },
+  {
+   "term": "Hazard",
+   "meaning": "Anything that could cause harm.",
+   "example": "A kitchen knife is a hazard, whether it is in a drawer or in a hand.",
+   "art": "A closed drawer with a knife drawn faintly inside it."
+  },
+  {
+   "term": "Risk",
+   "meaning": "How likely a harm is, together with how bad it would be.",
+   "example": "A knife in a closed drawer has a tiny risk. A knife carried by a running child has a high risk.",
+   "art": "Two pictures of a knife, one in a drawer and one in a running child's hand."
+  },
+  {
+   "term": "Harm",
+   "meaning": "Hurt or damage to a person, another living being or a thing.",
+   "example": "A scald from hot water and a slip on a wet floor are two kinds of harm.",
+   "art": "A child holding a red hand beside a dripping tap."
+  },
+  {
+   "term": "Likely",
+   "meaning": "Something is likely if it will probably happen. It is unlikely if it will probably not.",
+   "example": "If you carry a full cup across a room while running, a spill is likely.",
+   "art": "A running child holding a full cup with drops flying out."
+  },
+  {
+   "term": "Risk assessment",
+   "meaning": "A short list made before a test of what could cause harm, who could be harmed, and how likely and how bad the harm would be.",
+   "example": "Before the sugar test, you write: warm water could scald, a spill could cause a slip, a cup could break.",
+   "art": "A notebook page with three columns headed What could hurt, Who, and My plan."
+  },
+  {
+   "term": "Remove",
+   "meaning": "To take a hazard away completely, so that the test does not have it at all.",
+   "example": "If the test works with cold water, use cold water and the scald hazard is gone.",
+   "art": "A steaming pot crossed out beside a cup of cold water."
+  },
+  {
+   "term": "Swap",
+   "meaning": "To replace a hazard with a safer thing that does the same job.",
+   "example": "A plastic cup in place of a glass one is a swap.",
+   "art": "A glass cup crossed out and a plastic cup drawn beside it."
+  },
+  {
+   "term": "Barrier",
+   "meaning": "Something put between people and a hazard, or distance kept from it, so that harm cannot easily reach them.",
+   "example": "A tray under the cups is a barrier, because a spill stays on the tray.",
+   "art": "A tray holding three cups on a table, with a spill staying inside its rim."
+  },
+  {
+   "term": "Protection",
+   "meaning": "Something you wear to guard your body from a hazard. It is the weakest kind of plan, because the hazard is still there.",
+   "example": "Tied-back hair and rolled-up sleeves keep loose things away from the work.",
+   "art": "A child with tied-back hair and rolled-up sleeves at a table."
+  },
+  {
+   "term": "Hierarchy of controls",
+   "meaning": "The order of ways to reduce a risk, from strongest to weakest: remove, swap, separate, and protect.",
+   "example": "Using cold water (remove) is stronger than using warm water with a grown-up pouring (separate).",
+   "art": "A ladder with four rungs labelled Remove, Swap, Separate and Protect from top to bottom."
+  },
+  {
+   "term": "Spill",
+   "meaning": "Liquid that runs out of its cup or bowl by mistake.",
+   "example": "A spill on a tiled floor makes it slippery.",
+   "art": "A tumbler lying on its side with water spreading across tiles."
+  },
+  {
+   "term": "Scald",
+   "meaning": "A burn from hot water or steam.",
+   "example": "Water that is too hot can scald skin, which is why we use warm tap water and never boiling water.",
+   "art": "A steaming kettle drawn beside a red warning mark on a hand."
+  },
+  {
+   "term": "Checklist",
+   "meaning": "A short written list of steps that must not be missed, read out and ticked at the moment of doing.",
+   "example": "Tray down, hair tied, cloth ready, grown-up near: tick each one before you start.",
+   "art": "A paper list with four ticks beside a tray and a cup."
+  },
+  {
+   "term": "Radioactive",
+   "meaning": "Giving out invisible rays that can harm the body. Some materials do this all the time, such as radium.",
+   "example": "Marie Curie's notebooks are still radioactive today.",
+   "art": "A lead-lined box on a library shelf with a notebook inside."
+  },
+  {
+   "term": "Acceptable risk",
+   "meaning": "A risk that people agree is small enough to take, because of what they gain. People do not all agree about how small that is.",
+   "example": "Most families accept the small risk of a cut when a grown-up slices an apple for a test.",
+   "art": "Two people on a see-saw, one holding a risk card and one holding a gain card."
+  },
+  {
+   "term": "Precaution",
+   "meaning": "A step taken before something happens, to keep harm away.",
+   "example": "Putting a tray under the cups is a precaution against a spill.",
+   "art": "A hand sliding a tray under a row of cups."
+  },
+  {
+   "term": "Living being",
+   "meaning": "A plant, an animal, a fungus, a microbe or any other someone who is alive.",
+   "example": "A potted plant, a snail on the balcony and the ants on the wall are all living beings.",
+   "art": "A potted plant, a snail and a line of ants on a wall."
+  },
+  {
+   "term": "Prediction",
+   "meaning": "A statement made before a test of what the result will be, with a reason for it.",
+   "example": "I predict the sugar will take 30 seconds in warm water, because cold took 70 and room-warm took 45.",
+   "art": "A notebook page that says 'I predict 30 seconds because...' with a pen beside it."
+  },
+  {
+   "term": "Reason",
+   "meaning": "What you already know that makes you expect a result.",
+   "example": "My reason is that warm water was faster than cold water in the first two tests.",
+   "art": "A thought bubble above a child's head that holds two small cups, a cold one and a warm one."
+  },
+  {
+   "term": "Inference",
+   "meaning": "A step of thinking from what you know to something you have not yet seen.",
+   "example": "Cold took longer than warm, so you infer that warm tap water will be even faster.",
+   "art": "A line of arrows from three known results to a question mark."
+  },
+  {
+   "term": "Familiar",
+   "meaning": "Something you have seen or done many times.",
+   "example": "Sugar going into tea is a familiar sight.",
+   "art": "A cup of tea with a spoon, drawn in warm colours."
+  },
+  {
+   "term": "Unfamiliar",
+   "meaning": "Something you have not met before.",
+   "example": "Powdered jaggery in warm water is unfamiliar if you have never timed it.",
+   "art": "A small heap of rock salt crystals beside a question mark."
+  },
+  {
+   "term": "Dissolve",
+   "meaning": "To spread out into a liquid until the pieces are too small to see and the liquid is clear.",
+   "example": "Sugar dissolves in water, and the water turns clear again.",
+   "art": "Sugar crystals sinking into a cup of water, getting smaller in three steps."
+  },
+  {
+   "term": "Result",
+   "meaning": "What you find out when you do the test.",
+   "example": "The result was 41 seconds for the sugar in warm water.",
+   "art": "A notebook page with a circled number under the heading Result."
+  },
+  {
+   "term": "Difference",
+   "meaning": "How far apart two numbers are. You find it by subtracting the smaller from the larger.",
+   "example": "You predicted 40 seconds and the result was 52 seconds, so the difference is 12 seconds.",
+   "art": "Two bars of different lengths with a bracket between their ends."
+  },
+  {
+   "term": "Accuracy",
+   "meaning": "How close a prediction or a measurement is to the true result.",
+   "example": "A prediction that is 2 seconds off a 50-second result is more accurate than one that is 12 seconds off.",
+   "art": "Two arrows hitting a target, one near the centre and one far from it."
+  },
+  {
+   "term": "Hindsight",
+   "meaning": "Looking back at something after you know how it ended. It makes people feel they expected the result all along.",
+   "example": "After a match, many people say 'I knew he would get out', though they never said it before.",
+   "art": "A cricket fan with a thought bubble that says 'I knew it' after the match."
+  },
+  {
+   "term": "Spread",
+   "meaning": "How far apart your repeated results are, found by taking the smallest from the largest.",
+   "example": "Runs of 48, 52 and 56 seconds have a spread of 8 seconds.",
+   "art": "Three dots on a number line from 48 to 56 with a bracket across them."
+  },
+  {
+   "term": "Forecast",
+   "meaning": "A prediction about the future, such as tomorrow's weather, made from what is known now.",
+   "example": "The monsoon forecast says how much rain a year is likely to bring.",
+   "art": "A weather map of India with a cloud over the south-west coast."
+  },
+  {
+   "term": "Miss",
+   "meaning": "How far a prediction was from the result.",
+   "example": "A prediction of 40 seconds for a 52-second result is a miss of 12 seconds, too short.",
+   "art": "An arrow landing beside a target, with a bracket showing the gap."
+  },
+  {
+   "term": "Assumption",
+   "meaning": "Something you take to be true without checking it.",
+   "example": "Assuming that both spoonfuls of sugar were the same size can hide the real reason for a miss.",
+   "art": "Two spoons that look the same, one heaped and one level."
+  },
+  {
+   "term": "Chaos",
+   "meaning": "When tiny differences at the start grow into big differences later, so that nothing can be predicted far ahead even though the rules are fixed.",
+   "example": "A tiny change in a weather sum makes the forecast for ten days later completely different.",
+   "art": "Two paths that start almost together and end far apart."
+  }
+ ],
+ "games": [
+  {
+   "id": "g1",
+   "title": "The Safer Plan: a card game about making risks smaller",
+   "mins": 25,
+   "players": "2 to 4 players. A parent and a child are enough.",
+   "context": "This is a card game in which every test card shows a hazard and every plan card shows a way to cut the risk. You score for the strongest kind of plan that really fits.",
+   "setup": [
+    {
+     "art": "A table with 16 test cards in one pile and 20 plan cards in another, cut out from printed sheets.",
+     "caption": "1. Cut out the 16 test cards and the 20 plan cards. Keep the two piles apart."
+    },
+    {
+     "art": "Two players each holding four plan cards close to their chests, with the test pile and the plan pile between them.",
+     "caption": "2. Deal 4 plan cards to each player."
+    },
+    {
+     "art": "A test card face up in the middle and two plan cards face down beside it.",
+     "caption": "3. Turn up a test card. Everyone puts one plan card face down."
+    }
+   ],
+   "printables": [
+    {
+     "kind": "cards",
+     "title": "16 test cards",
+     "items": [
+      "Test: dissolve sugar in warm water. Hazard: warm water on a table.",
+      "Test: sprout moong seeds on a window sill. Hazard: small seeds near a toddler.",
+      "Test: make shadows with a lamp. Hazard: a hot bulb that can burn fingers.",
+      "Test: dry a wet shirt in the sun. Hazard: leaning over a balcony rail to hang it.",
+      "Test: float and sink things in a steel basin. Hazard: water on the floor.",
+      "Test: watch ants carry sugar. Hazard: you could crush or trap the ants.",
+      "Test: smell different spices to compare. Hazard: sniffing chilli powder up close.",
+      "Test: stir salt into water to see how much dissolves. Hazard: tasting the water by mistake.",
+      "Test: roll a marble down a ramp. Hazard: a marble on the floor can make someone slip.",
+      "Test: time ice melting in two cups. Hazard: a glass cup that could crack.",
+      "Test: mark your height on the door each month. Hazard: stretching on tiptoe on a wet floor.",
+      "Test: try a magnet on steel things. Hazard: a small magnet a toddler could swallow.",
+      "Test: fly paper planes in a corridor. Hazard: a plane hitting someone's eye.",
+      "Test: find which cloth soaks up most water. Hazard: a wet floor after wringing.",
+      "Test: watch the Sun's shadow of a stick for an hour. Hazard: looking at the Sun to find it.",
+      "Test: warm milk to set curd. Hazard: a pan of hot milk."
+     ]
+    },
+    {
+     "kind": "cards",
+     "title": "20 plan cards, front and back",
+     "items": [
+      {
+       "f": "Use cold water. The test works without any warming.",
+       "b": "REMOVE. Taking the hazard away leaves nothing to go wrong. It fits tests that do not need warmth."
+      },
+      {
+       "f": "Skip the taste. Look and smell from a distance.",
+       "b": "REMOVE. Nothing is swallowed, so poison from a food or powder cannot happen."
+      },
+      {
+       "f": "Work at ground level. Nobody has to climb or lean.",
+       "b": "REMOVE. Without a climb, a fall from a height cannot happen."
+      },
+      {
+       "f": "Watch the animal where she already is. Do not catch or move her.",
+       "b": "REMOVE. Not catching removes the harm of trapping, and the animal stays free."
+      },
+      {
+       "f": "Use daylight from a window. Switch off the lamp.",
+       "b": "REMOVE. With no lamp, there is no hot bulb and no mains wire to touch."
+      },
+      {
+       "f": "Use a plastic cup in place of a glass one.",
+       "b": "SWAP. A plastic cup does the same job and cannot cut. It is safer than glass but stronger plans exist."
+      },
+      {
+       "f": "Use big objects, too big to swallow, in place of tiny ones.",
+       "b": "SWAP. A big object does the job of a small one without the swallowing hazard."
+      },
+      {
+       "f": "Use a cool torch in place of a lamp or a flame.",
+       "b": "SWAP. A torch gives light and leaves out the hot bulb or the flame."
+      },
+      {
+       "f": "Use warm tap water in place of boiling water.",
+       "b": "SWAP. A safer thing replaces a risky one and the test still works."
+      },
+      {
+       "f": "Use a sealed bottle in place of an open bowl.",
+       "b": "SWAP. A closed lid stops water slopping, though the bottle can still be dropped."
+      },
+      {
+       "f": "Work on a tray, so spills stay on the tray.",
+       "b": "SEPARATE. A rim is a barrier between the water and the floor. It does not stop the spill, only where it goes."
+      },
+      {
+       "f": "A grown-up does the risky step while you stand back.",
+       "b": "SEPARATE. Distance puts the child out of the way of the hazard, though the hazard stays."
+      },
+      {
+       "f": "Keep babies and pets in another room.",
+       "b": "SEPARATE. A closed door is a barrier between small hands and the work."
+      },
+      {
+       "f": "Put a mat under the work, so nothing is slippery.",
+       "b": "SEPARATE. A mat is a barrier between the water and the floor, but the water is still there."
+      },
+      {
+       "f": "Stand a long step back from anyone throwing or swinging.",
+       "b": "SEPARATE. Distance keeps the swing away from other people."
+      },
+      {
+       "f": "Tie back long hair and roll up loose sleeves.",
+       "b": "PROTECT. This guards your body, but the hazard is still there, so it is the weakest plan."
+      },
+      {
+       "f": "Wear chappals or shoes with grip.",
+       "b": "PROTECT. A better grip helps you stay up on a wet floor, but the wet floor remains."
+      },
+      {
+       "f": "Wear a cap and keep to the shade.",
+       "b": "PROTECT. A cap guards your head from the Sun, but the Sun is still there."
+      },
+      {
+       "f": "Wear a plastic apron.",
+       "b": "PROTECT. The apron guards clothes and skin, and the hazard is still there."
+      },
+      {
+       "f": "Wear glasses or goggles to guard your eyes.",
+       "b": "PROTECT. Goggles can slip, and the hazard is still in front of you."
+      }
+     ]
+    },
+    {
+     "kind": "score sheet",
+     "title": "Score sheet, to copy by hand: a row for each of 8 rounds and a column for each player",
+     "items": [
+      "Round 1 to Round 8. Write the points each player won.",
+      "Total at the end."
+     ]
+    }
+   ],
+   "rules": [
+    "Each plan card has a kind on its back. Remove is worth 4 points, Swap 3, Separate 2 and Protect 1. Keep the backs hidden until the reveal.",
+    "Deal 4 plan cards to each player. Put the rest face down as the plan pile. Shuffle the test cards and put them face down.",
+    "In each round, turn up one test card. Every player puts one plan card from their hand face down.",
+    "Turn all the plan cards over. Each player says in one sentence how their plan makes the risk smaller for this test.",
+    "The other players decide if each plan really fits this test. A plan that does not fit scores 0 and goes to the discard pile. With two players, the other player decides.",
+    "Among the plans that fit, the highest kind scores its points. If two plans are of the same kind and both fit, both score.",
+    "Everyone draws back up to 4 plan cards. If the plan pile runs out, shuffle the discard pile and carry on.",
+    "Play 8 rounds. The player with the most points wins. Players who tie share the win.",
+    "Two plans of a different kind can both be worth defending, so say why aloud. A Remove card that does not fit loses to a Protect card that does."
+   ],
+   "flow": [
+    {
+     "id": "g1s1",
+     "mins": 5,
+     "do": "Cut out the 16 test cards and the 20 plan cards. Keep them in two piles. Read three plan cards together and say which kind each one is.",
+     "say": "Each plan card is one of four kinds. Remove takes the hazard away. Swap replaces it with a safer thing. Separate puts a barrier or distance in the way. Protect only guards your body. Which is strongest, do you think?",
+     "kid": "Cut out the cards. Read three plan cards. Guess their kind.",
+     "adult": false,
+     "parent": "Cutting is for a grown-up if the child is under 8. Do not read the card backs aloud during play. Keep the cards in an envelope for next time."
+    },
+    {
+     "id": "g1s2",
+     "mins": 12,
+     "do": "Play round 1 and round 2. Turn up a test card, and everyone puts down a plan card. Turn them over, say why each fits and score.",
+     "say": "Here is the test and its hazard. Which of your plans cuts the risk most? Do not show me yet. Now turn them over. Why does yours fit?",
+     "kid": "Turn up a test card. Put down a plan card. Say why it fits.",
+     "adult": false,
+     "ask": [
+      {
+       "q": "Which of the four kinds is strongest, and why is it not always the best choice?",
+       "good": [
+        "Remove is strongest, but it may not fit the test, because a test that needs warmth cannot remove warmth."
+       ]
+      }
+     ]
+    },
+    {
+     "id": "g1s3",
+     "mins": 8,
+     "do": "Play the other 6 rounds. Add up the points. Share the winner's best plan.",
+     "say": "Add your points. Whose plan was the strongest kind and also really fitted? Which test card was hardest to make safe?",
+     "kid": "Finish the rounds. Add up the points.",
+     "adult": false,
+     "parent": "No test has zero risk. If someone says a plan 'makes it totally safe', ask what could still go wrong."
+    }
+   ]
+  }
+ ],
+ "experiments": [
+  {
+   "id": "e1",
+   "title": "The dissolving-time test: choose your tools, name the risks, predict, then judge your prediction",
+   "mins": 45,
+   "context": "In this test you time how long sugar takes to dissolve in cold, room-warm and warm water, predict the warm time from the first two, and then check how close you came. You choose the tools, name the risks and decide how close is close enough.",
+   "days": 1,
+   "question": "How long does one level teaspoon of sugar take to dissolve in cold, room-warm and warm water, and how close can you get when you predict the warm time from the first two?",
+   "predict": "Before the warm test, use your cold and room-warm times to write a number for warm water. Say why you think so.",
+   "fair_test": "The same cup filled to the same line, the same sugar from the same bag, one level teaspoon each time, the same spoon, the same stirring and the same stop signal all stay the same. The same person starts and stops the clock. Only the warmth of the water changes. Cold and room-warm are each run twice and warm is run three times, because a finger on a stopwatch is never exactly on time. In the second round, only the solid changes.",
+   "results_table": [
+    "Water",
+    "Temperature in degrees Celsius, if you have a thermometer",
+    "Run 1 (seconds)",
+    "Run 2 (seconds)",
+    "Run 3 (seconds)",
+    "Middle value (seconds)"
+   ],
+   "safety": "Use warm tap water only, never boiling water, and let a grown-up pour it. Stand the cups on a tray. Use plastic and not glass. Do not taste anything in the test.",
+   "record": "Fill the table for cold, room-warm and warm water. Write your prediction and its reason before the warm test. After it, write the middle value, the spread and the miss. Then write one sentence each for what you thought, what you saw and why. Do the same for rock salt or jaggery.",
+   "materials": [
+    {
+     "item": "clear plastic cups of about 200 millilitres",
+     "qty": 3
+    },
+    {
+     "item": "granulated sugar, about 2 tablespoons in a small bowl",
+     "qty": 1
+    },
+    {
+     "item": "a teaspoon, and a stiff card or ruler edge to level it",
+     "qty": 1
+    },
+    {
+     "item": "a steel spoon for stirring, the same one every time",
+     "qty": 1
+    },
+    {
+     "item": "a measuring cup or a jug with a mark at about 100 millilitres, or a pen line on each cup",
+     "qty": 1
+    },
+    {
+     "item": "a phone with a stopwatch",
+     "qty": 1
+    },
+    {
+     "item": "a kitchen thermometer, if you have one (digital, not glass)",
+     "qty": 1
+    },
+    {
+     "item": "a tray",
+     "qty": 1
+    },
+    {
+     "item": "a dark cloth or dark plate to put under the cup",
+     "qty": 1
+    },
+    {
+     "item": "a spill cloth",
+     "qty": 1
+    },
+    {
+     "item": "water from the fridge, water that has stood out for an hour, and warm tap water",
+     "qty": 3
+    },
+    {
+     "item": "a teaspoon of crushed rock salt or powdered jaggery",
+     "qty": 1
+    },
+    {
+     "item": "paper, a pen with ink and a notebook",
+     "qty": 1
+    }
+   ],
+   "setup": [
+    {
+     "art": "A table with a measuring cup, a one-litre jug, a ruler, a phone stopwatch, a wall clock and a thermometer, and a child's hand picking up the stopwatch.",
+     "caption": "1. Choose the tools. Pick one for how much, one for how long and one for how warm."
+    },
+    {
+     "art": "A notebook page with three columns headed What could hurt, Who could be hurt and My plan, and a pencil.",
+     "caption": "2. Write the risks of the test and a plan for each one."
+    },
+    {
+     "art": "A tray on a table holding a dark cloth, a clear plastic cup of water, a level teaspoon of sugar and a spoon, with a spill cloth beside it.",
+     "caption": "3. Set the tray. Fill the cup to the line. Add one level teaspoon of sugar."
+    },
+    {
+     "art": "A cup of water seen from the side, with a few sugar crystals at the bottom in the first picture and clear water in the second, and a phone stopwatch beside each.",
+     "caption": "4. Start the clock when the sugar touches the water. Stop it when the water is clear."
+    },
+    {
+     "art": "A folded paper slip under a tray, and a results table with three columns for cold, room-warm and warm water.",
+     "caption": "5. Write your prediction in ink and fold it away before the warm test."
+    }
+   ],
+   "flow": [
+    {
+     "id": "e1s1",
+     "mins": 4,
+     "do": "Put these on the table: a measuring cup, a one-litre jug, a ruler, a phone with a stopwatch and a wall clock. Add a thermometer if you have one. Ask your child to pick one tool for each question: how much water, how long, and how warm.",
+     "say": "We will time sugar in water. We need to know three things. How much water? How long does the sugar take? How warm is the water? Which tool answers each one, and why that one?",
+     "kid": "Look at the tools. Pick one for each question. Say why you chose it.",
+     "adult": false,
+     "ask": [
+      {
+       "q": "Which tool will you use to time the sugar, and why not the wall clock?",
+       "good": [
+        "The phone stopwatch, because it shows seconds, and the wall clock has no seconds hand."
+       ]
+      }
+     ],
+     "parent": "Good picks are the measuring cup for the water, the phone stopwatch for the time and the thermometer for the warmth. The wall clock has no seconds hand, so it cannot show 20 seconds. A ruler measures length, which this test does not need. If you have no thermometer, skip the numbers and call the waters cold, room and warm. Never use a glass thermometer that holds mercury."
+    },
+    {
+     "id": "e1s2",
+     "mins": 6,
+     "do": "Walk through the whole test in your head, from setting up to cleaning up. In a notebook, write three columns: What could hurt, Who could be hurt, and My plan. Fill in a row for each risk you find.",
+     "say": "Before we start, let us ask what could go wrong. Take each step in turn. What could hurt someone? Who could it hurt? How likely is it? Then we write one plan for each.",
+     "kid": "Think through each step. Write what could hurt, who, and your plan.",
+     "adult": false,
+     "parent": "Let your child name as many risks as they can. Then add the ones they miss. Warm water could scald, so we use warm tap water and never boiling water, and a grown-up pours it. A spill could make the floor slippery, so the cups stand on a tray and a cloth is ready. A glass cup could crack, so use plastic. Nothing here is meant to be eaten, so nobody tastes anything. A small child or a pet could knock things over, so keep them in another room. Sugar water draws ants, so wipe up at the end.",
+     "check": {
+      "t": "mcq",
+      "q": "Which plan cuts the scald risk the most?",
+      "options": [
+       "A grown-up pours the water slowly",
+       "Use warm tap water and never boiling water",
+       "Wear a plastic apron"
+      ],
+      "a": 1,
+      "why": "Swapping boiling water for warm tap water makes the hazard itself smaller. Pouring slowly only helps while nothing goes wrong, and an apron guards your clothes but leaves the hazard there."
+     }
+    },
+    {
+     "id": "e1s3",
+     "mins": 5,
+     "do": "Set a tray in the middle of the table and tie back long hair. Put a dark cloth on the tray and a clear cup on the cloth. Keep a spill cloth beside you. Read the checklist aloud and tick each line. Then do one practice run with cold water and sugar, and do not write the time down.",
+     "say": "Everything has its place. Now one practice run. Pour water to the line and add one level spoon of sugar. Start the clock as the sugar touches the water. Stir one slow circle each second, and say the count aloud.",
+     "kid": "Set the tray and cup. Do one practice run. Stir one circle each second.",
+     "adult": false,
+     "parent": "Checklist: tray down, hair tied, cloth ready, a grown-up near, prediction paper ready. For a level teaspoon, fill the spoon and slide a stiff card or the edge of a ruler across the top. The run ends when no crystals show on the dark cloth or in the water, and the water looks clear. If the practice run is still cloudy after 2 minutes, pour it away and stir two circles each second in every cup from now on. If it clears in under 10 seconds, your sugar is very fine, so stir one circle every two seconds in every cup. Keep your chosen stirring the same for the whole test."
+    },
+    {
+     "id": "e1s4",
+     "mins": 9,
+     "do": "Fill the cup to the line with cold water from the fridge bottle. Add one level teaspoon of sugar, start the clock and stir one circle each second. Stop the clock when the water is clear, and write the time. Do two runs with cold water and two with room-warm water from a jug that has stood out for an hour. Read each jug's temperature after a minute.",
+     "say": "Before the first run, which water do you think will be faster, cold or room-warm? Why do you think so? Now measure and see.",
+     "kid": "Do two cold runs and two room-warm runs. Write each time.",
+     "adult": false,
+     "ask": [
+      {
+       "q": "Which water do you think will be faster, cold or room-warm, and why?",
+       "good": [
+        "Room-warm, because sugar vanishes faster in warm tea than in cold juice."
+       ]
+      }
+     ],
+     "parent": "Use fresh water and the same spoon each time, and rinse the cup between runs. Do not tell your child the answer. If two runs of the same water differ by a few seconds, that is normal. A finger on a stopwatch is never exactly on time. In winter the room water may be nearly as cold as the fridge water. Write the real numbers whatever they are."
+    },
+    {
+     "id": "e1s5",
+     "mins": 4,
+     "do": "Cover the results table. On a slip of paper, write: Warm tap water. I predict ___ seconds, because ___. Write in ink. Fold the slip and put it under the tray.",
+     "say": "Warm tap water is warmer than both of your cups. What time do you expect? Use your cold and room-warm times. Write the number and your reason in ink.",
+     "kid": "Look at your two times. Write a number for warm water. Write your reason.",
+     "adult": false,
+     "ask": [
+      {
+       "q": "What number did you write, and what in your results made you choose it?",
+       "good": [
+        "A number lower than the room-warm time, with a reason taken from the first two results."
+       ]
+      }
+     ],
+     "parent": "Do not correct the guess. A good reason uses the data. For example, 'Cold took 70 and room took 45, so a warmer cup should save about 25 seconds more, so about 20.' Any honest number with a reason is fine. The ink matters. A number that can be changed after the result cannot be judged."
+    },
+    {
+     "id": "e1s6",
+     "mins": 7,
+     "do": "A grown-up fills a jug with warm tap water. Check it with the inside of a wrist or a thermometer. It must feel comfortably warm and read under 45 degrees Celsius. The grown-up pours one cup to the line. Time three runs, with fresh warm water for each run, and write each time.",
+     "say": "I will pour. You press start when the sugar touches the water. Same spoon, same stirring, same stop signal. We do three runs, because one run can be a fluke.",
+     "kid": "A grown-up pours the warm water. You do the timing. Do three runs.",
+     "adult": true,
+     "parent": "The child never carries or pours the warm water. If your tap gives hot water, add cold water until it feels comfortably warm on the inside of your wrist. Warm water cools a little between runs, so use fresh water each time. Whatever numbers you get are the real result. If warm water clears in under 10 seconds, the finger on the stopwatch matters more, so say so in the table."
+    },
+    {
+     "id": "e1s7",
+     "mins": 4,
+     "do": "Open the slip. Find the middle value of the three warm runs. Find the spread, which is the biggest time minus the smallest. Subtract your prediction from the middle value to get the miss. Write which way you missed, too short or too long.",
+     "say": "Your three runs differ from each other by this much. That wobble is the spread. Is your miss smaller than the wobble? If so, this test cannot tell your prediction from the truth.",
+     "kid": "Find the middle time and the spread. Find how far off you were.",
+     "adult": false,
+     "ask": [
+      {
+       "q": "Was your miss bigger or smaller than the spread? What does that tell you?",
+       "good": [
+        "If smaller, the prediction was as close as the test can judge. If bigger, the doing, the tool or the reason needs another look."
+       ]
+      }
+     ],
+     "parent": "If the miss is inside the spread, the prediction is as accurate as this test can show. If it is outside, it is a real miss. Then ask three questions in this order. Did we do every run the same way? Was the tool the same each time? Is the reason about warmth missing something? A test like this cannot say why the numbers fall as they do. Ask your child what else they would test.",
+     "think": "If a friend did this test with the same sugar, would they get the same numbers? What would make them differ?"
+    },
+    {
+     "id": "e1s8",
+     "mins": 6,
+     "do": "Choose rock salt or powdered jaggery, whichever you have. On a new slip, predict in ink how long one level teaspoon takes in warm water, and why. A grown-up pours warm water, and you time two runs. Stop at 3 minutes if the water is not clear.",
+     "say": "This one is new. Sugar and rock salt are alike in one way and different in another. What do you think will stay the same, and what will change? Write your number and your reason first.",
+     "kid": "Write your guess and your reason. Time two runs. Stop at 3 minutes.",
+     "adult": true,
+     "parent": "Good reasons: both dissolve in water, so warmth should still help. Rock salt crystals are bigger, so it may be slower than sugar. Powdered jaggery has tiny grains, so it may be about as fast as sugar. Jaggery water stays brown, so stop when no grains show on the dark cloth. If the water is still cloudy at 3 minutes, write 'more than 180 seconds'. A prediction of 'slower than sugar' is then right about the direction. Pour the water down the sink, rinse the cups and wipe the table, because sugar water draws ants."
+    }
+   ]
+  },
+  {
+   "id": "e2",
+   "title": "The falling ruler: how late is your finger on a stopwatch?",
+   "mins": 25,
+   "context": "In this test a ruler is dropped and you catch it, and the distance it falls tells you how long you took to react. You find out why timing a short event by hand is never exact.",
+   "days": 1,
+   "question": "How far does a ruler fall before you catch it, and what does that tell us about how late a finger on a stopwatch is?",
+   "predict": "Before you drop the first ruler, guess how many centimetres it will fall before you catch it. Say why you think so.",
+   "fair_test": "The same ruler, the same partner, the same start position of your fingers and the same eyes-on-zero rule stay the same. The partner lets go at a different time every drop, so that you cannot guess. For the second hand, only the hand changes. Ten drops are done for each hand, because one catch can be a fluke.",
+   "results_table": [
+    "Drop",
+    "Right hand (centimetres)",
+    "Left hand (centimetres)"
+   ],
+   "record": "Write ten numbers for each hand. Circle the middle value for each. Find the spread for each hand. Then write one sentence each for what you thought, what you saw and why.",
+   "materials": [
+    {
+     "item": "a 30 centimetre ruler, plastic, wood or steel, with the zero at the end",
+     "qty": 1
+    },
+    {
+     "item": "a partner, such as a parent or a friend",
+     "qty": 1
+    },
+    {
+     "item": "paper, a pencil and a results table of ten rows for each hand",
+     "qty": 1
+    }
+   ],
+   "setup": [
+    {
+     "art": "A child with finger and thumb open around the zero end of a hanging ruler, and a partner's hand holding the top.",
+     "caption": "1. A partner holds the ruler. Your fingers are open around the zero mark."
+    },
+    {
+     "art": "The ruler falling, with a blur, and the child's fingers closing on it.",
+     "caption": "2. The partner lets go without warning. You close your fingers as fast as you can."
+    },
+    {
+     "art": "A hand reading the ruler number at the top of a thumb, and a results table with ten rows.",
+     "caption": "3. Read the number at the top of your thumb and write it in the table."
+    }
+   ],
+   "flow": [
+    {
+     "id": "e2s1",
+     "mins": 3,
+     "do": "Ask a partner to hold a 30 centimetre ruler by its top end, with the zero end hanging down. Put your thumb and first finger around the zero mark, not touching the ruler. Look at the zero mark, not at your partner's hand.",
+     "say": "A ruler will drop when you least expect it. You must close your fingers as fast as you can. Before we start, how many centimetres do you think it will fall before you catch it, and why do you think so?",
+     "kid": "Hold your fingers round the zero mark. Guess how far the ruler will fall.",
+     "adult": false,
+     "ask": [
+      {
+       "q": "How far do you think the ruler will fall, and why?",
+       "good": [
+        "A small number such as 5 centimetres, with a reason such as 'my hand is fast'."
+       ]
+      }
+     ],
+     "parent": "Write the guess down. Most children guess 2 to 5 centimetres. Do not say the real answer. Without a partner, ask any grown-up or friend to drop the ruler."
+    },
+    {
+     "id": "e2s2",
+     "mins": 3,
+     "do": "Practise three drops without writing anything. The partner lets go at a different moment each time, anywhere between 2 and 5 seconds after saying 'ready'. Do not count aloud.",
+     "say": "I will say 'ready', wait a little, and then let go. Close your fingers as soon as you see it move.",
+     "kid": "Do three practice drops. Watch the zero mark.",
+     "adult": false,
+     "parent": "A random wait stops your child from guessing the moment. If the ruler falls right through, check that eyes are on the zero mark and fingers are open about 3 centimetres wide."
+    },
+    {
+     "id": "e2s3",
+     "mins": 7,
+     "do": "Do ten real drops with the same hand. After each one, read the number on the ruler at the top of your thumb. Write it in the table. Slide the ruler back into place each time.",
+     "say": "Ten drops, ten numbers. Write each one. Some will be bigger and some smaller. That is normal.",
+     "kid": "Do ten drops. Write each number.",
+     "adult": false,
+     "parent": "Typical numbers are between 12 and 22 centimetres. If a drop goes past 30 centimetres, do it again, because the child was probably looking away."
+    },
+    {
+     "id": "e2s4",
+     "mins": 5,
+     "do": "Now swap hands. First write a guess for the other hand, and a reason. Then do ten drops with that hand and write the numbers.",
+     "say": "Will the other hand catch higher or lower, or about the same? Write your guess and your reason first. Then try it.",
+     "kid": "Guess which hand is faster, and why. Try ten drops.",
+     "adult": false,
+     "ask": [
+      {
+       "q": "Which hand do you think is faster, and why?",
+       "good": [
+        "Either answer is fine, with a reason. The test will show whether any difference is bigger than the spread."
+       ]
+      }
+     ],
+     "parent": "Most children find the two hands differ by only a few centimetres, which is often smaller than the spread within one hand. If it is, the test cannot tell the hands apart."
+    },
+    {
+     "id": "e2s5",
+     "mins": 4,
+     "do": "Use the table to turn each number into a time. 5 centimetres is 0.10 seconds, 10 is 0.14, 15 is 0.18, 20 is 0.20, 25 is 0.23 and 30 is 0.25. Find the middle number for each hand and its time. Find the spread for each hand.",
+     "say": "Your hand took about this many tenths of a second to answer your eyes. A stopwatch press has the same delay.",
+     "kid": "Look up your middle number in the table. Write the time.",
+     "adult": false,
+     "parent": "The times come from the physics of falling things, and they are rounded. You do not need the sum, only the table."
+    },
+    {
+     "id": "e2s6",
+     "mins": 3,
+     "do": "Think of timing a toy car that rolls for 3 seconds by hand. Say how much of the time a delay of 0.2 seconds is. Then think of a snap that lasts 0.3 seconds.",
+     "say": "A finger is about a fifth of a second late. For a long event, that is small. For a very short one, it is most of the time. So when should you trust a hand-timed number?",
+     "kid": "A finger is 0.2 seconds late. When does that matter?",
+     "adult": false,
+     "ask": [
+      {
+       "q": "When can you trust a hand-timed number, and when not?",
+       "good": [
+        "For long events a fifth of a second is small. For very short events it is most of the result, so use a camera or a longer distance."
+       ]
+      }
+     ],
+     "parent": "0.2 out of 3 is about one in fifteen. 0.2 out of 0.3 is two thirds. Races decided by hundredths of a second use light beams and cameras for this reason."
+    }
+   ]
+  }
+ ],
+ "activities": [
+  {
+   "id": "a1",
+   "title": "Three bowls of water for two hands",
+   "mins": 12,
+   "context": "In this activity you put your two hands into the same bowl of water and find that they disagree. You see why a thermometer is useful and why your skin is still worth listening to.",
+   "days": 1,
+   "safety": "Use warm tap water only, never hot water. A grown-up pours it and checks it on the inside of a wrist first.",
+   "record": "Write what the left hand said and what the right hand said. Write the thermometer number if you have one.",
+   "materials": [
+    {
+     "item": "steel or plastic bowls",
+     "qty": 3
+    },
+    {
+     "item": "cold water, with ice cubes in summer, and warm tap water",
+     "qty": 1
+    },
+    {
+     "item": "a kitchen thermometer, if you have one",
+     "qty": 1
+    },
+    {
+     "item": "a tray and a towel",
+     "qty": 1
+    }
+   ],
+   "setup": [
+    {
+     "art": "Three bowls in a row on a tray, labelled cold, in between and warm, with steam from the right-hand one.",
+     "caption": "1. Fill three bowls: cold, in between and warm."
+    },
+    {
+     "art": "A child with a left hand in the cold bowl and a right hand in the warm bowl, and a clock showing one minute.",
+     "caption": "2. Keep your hands in the outer bowls for one minute."
+    },
+    {
+     "art": "A child with both hands in the middle bowl, looking puzzled, and a thermometer standing in the bowl.",
+     "caption": "3. Put both hands in the middle bowl, then read the thermometer."
+    }
+   ],
+   "flow": [
+    {
+     "id": "a1s1",
+     "mins": 3,
+     "do": "Set three bowls in a row on a tray. A grown-up fills the left bowl with cold water, and the right bowl with warm tap water that feels comfortable on the inside of a wrist. Fill the middle bowl with half cold and half warm water.",
+     "say": "We will use three bowls of water. One is cold, one is warm and one is in between. Do not touch them yet. What do you think will happen to your hands?",
+     "kid": "Look at the three bowls. A grown-up fills them.",
+     "adult": true,
+     "parent": "Cold bowl: cold tap water, with four ice cubes in summer. Warm bowl: warm tap water, comfortable on the inside of your wrist and under 45 degrees Celsius. Middle bowl: one cup from each, with no ice cubes. If your tap is only slightly warm in the hot months, the test still works, because the cold bowl is much colder than the middle one."
+    },
+    {
+     "id": "a1s2",
+     "mins": 3,
+     "do": "Ask your child to guess what each hand will say about the middle bowl. Then put the left hand in the cold bowl and the right hand in the warm bowl. Keep them there for one minute.",
+     "say": "Left hand in the cold bowl, right hand in the warm bowl. Wait for one minute. Before you move them, guess what each hand will feel when it goes into the middle bowl. Why do you think so?",
+     "kid": "Put one hand in each outer bowl. Wait one minute. Make a guess.",
+     "adult": false,
+     "ask": [
+      {
+       "q": "What do you think each hand will feel in the middle bowl, and why?",
+       "good": [
+        "Any guess with a reason is fine. Many children think both hands will feel the same."
+       ]
+      }
+     ]
+    },
+    {
+     "id": "a1s3",
+     "mins": 3,
+     "do": "Put both hands into the middle bowl at the same time. Ask what each hand says. Write down what the left hand says and what the right hand says.",
+     "say": "Both hands into the middle bowl, now. What does the left hand say? What does the right hand say? Is it the same water?",
+     "kid": "Put both hands in the middle bowl. What does each hand say?",
+     "adult": false,
+     "parent": "The left hand, which came from cold, feels warm. The right hand, which came from warm, feels cool. The same water feels different to each."
+    },
+    {
+     "id": "a1s4",
+     "mins": 3,
+     "do": "Stand a thermometer in the middle bowl and read it after one minute at eye level. Ask whose report your child trusts, and what they would use to check a baby's bath.",
+     "say": "The thermometer gives one number for the middle bowl. Your hands gave two answers. Is either hand wrong? What would you use to check that a baby's bath is safe?",
+     "kid": "Read the thermometer. Compare it with what your hands said.",
+     "adult": false,
+     "ask": [
+      {
+       "q": "Which would you trust to check a baby's bath, and why?",
+       "good": [
+        "A thermometer, because it gives one number that does not depend on where it just was."
+       ]
+      }
+     ],
+     "parent": "Skin reports a change from where it just was. A thermometer reports against a fixed scale. Neither is wrong. Tools give numbers, and senses notice what is worth measuring. If you have no thermometer, a grown-up's wrist is a third opinion.",
+     "think": "Your hands compare. What else in your day is judged by comparing and not by a number?"
+    }
+   ]
+  },
+  {
+   "id": "a2",
+   "title": "Match the tool to the job",
+   "mins": 20,
+   "context": "In this activity you meet three small jobs and choose a tool for each one. You see why a tool must fit the size of the thing, and what to do when no tool is fine enough.",
+   "days": 1,
+   "record": "Fill a table with the job, the quantity, the tool you chose, its smallest mark and why another tool would not fit.",
+   "materials": [
+    {
+     "item": "a 30 centimetre ruler",
+     "qty": 1
+    },
+    {
+     "item": "a one-litre jug marked every 100 millilitres",
+     "qty": 1
+    },
+    {
+     "item": "a medicine cup marked in millilitres, or a teaspoon",
+     "qty": 1
+    },
+    {
+     "item": "a phone with a stopwatch",
+     "qty": 1
+    },
+    {
+     "item": "a plastic bottle cap",
+     "qty": 1
+    },
+    {
+     "item": "10 grains of rice",
+     "qty": 1
+    },
+    {
+     "item": "a marble, a small ball or a round pencil, and a hardback book for a ramp",
+     "qty": 1
+    },
+    {
+     "item": "a wall clock with no seconds hand",
+     "qty": 1
+    }
+   ],
+   "setup": [
+    {
+     "art": "A table with a ruler, a jug, a medicine cup, a stopwatch and a bottle cap, with a hand picking the medicine cup.",
+     "caption": "1. Lay out the tools and pick one for each job."
+    },
+    {
+     "art": "Ten grains of rice lined up end to end along a ruler beside a single grain.",
+     "caption": "2. Measure one grain. Then measure ten in a row and divide by ten."
+    },
+    {
+     "art": "A marble at the top of a book ramp, a phone stopwatch and a wall clock with no seconds hand.",
+     "caption": "3. Time the roll with the phone and with the wall clock."
+    }
+   ],
+   "flow": [
+    {
+     "id": "a2s1",
+     "mins": 5,
+     "do": "Set out a ruler, a one-litre jug marked every 100 millilitres, a medicine cup or a teaspoon, a phone stopwatch and a bottle cap. Job one is to find how much water one bottle cap holds. Ask your child to pick a tool and say why.",
+     "say": "How much water fits in this bottle cap? Which tool will you pick? What is the smallest mark on each one? Which tool can show an amount as small as this?",
+     "kid": "Pick a tool to measure the water in a cap. Check its smallest mark.",
+     "adult": false,
+     "ask": [
+      {
+       "q": "Why can the jug not measure the water in one cap?",
+       "good": [
+        "Its smallest mark is 100 millilitres, which is far bigger than the water in a cap."
+       ]
+      }
+     ],
+     "parent": "The jug cannot show it, because its smallest mark is far bigger than the cap's water. If your cup shows 1 millilitre marks, fill the cap ten times into the cup and read the total. Divide by 10. With only a teaspoon, ten caps usually make a bit under one teaspoon. Most caps hold between 1 and 3 millilitres."
+    },
+    {
+     "id": "a2s2",
+     "mins": 5,
+     "do": "Job two is the length of one grain of rice. Lay ten grains in a row, touching end to end, along the ruler. Read the whole length and divide by ten. Then measure one grain alone and compare.",
+     "say": "How long is one grain of rice? Measure one grain, then measure ten in a line and divide by ten. Which gives you the more careful answer? Why?",
+     "kid": "Measure one grain. Then measure ten in a row and divide by ten.",
+     "adult": false,
+     "parent": "A grain is about 6 to 9 millimetres. One grain alone is read to the nearest millimetre, which is a big share of its length. Ten grains in a row spread that small error over ten grains. Line up the first grain at the zero mark, not the end of the ruler."
+    },
+    {
+     "id": "a2s3",
+     "mins": 5,
+     "do": "Job three is the time a marble or small ball takes to roll along a book ramp. Time it with the phone stopwatch. Then try the wall clock with no seconds hand. Say which tool fits the job and why.",
+     "say": "How long does the ball take to roll down? Time it with the phone, then try to time it with the wall clock. What happens? Which tool fits?",
+     "kid": "Time the roll with the phone. Try the wall clock too.",
+     "adult": false,
+     "parent": "The roll takes about 1 to 2 seconds. The wall clock has no seconds hand, so it cannot show it at all. The phone shows tenths and hundredths of a second, though your finger is about 0.2 seconds late. Run it three times."
+    },
+    {
+     "id": "a2s4",
+     "mins": 5,
+     "do": "Fill a table with four columns: the job, the quantity, the tool you chose and the smallest mark of that tool. Add a fifth column for a tool that would not fit, and why.",
+     "say": "For each job, which quantity were you finding out? Which tool fitted, and which did not? Would you use this ruler to measure our room? Why not?",
+     "kid": "Fill the table. Write why each unfit tool would not do.",
+     "adult": false,
+     "parent": "Do not rank tools as good or bad. A tool fits when its smallest mark is much smaller than your amount and it is not so fine that you must repeat it many times. A 15 centimetre ruler could measure a room, but you would lay it down about 40 times and each laying adds a small mistake.",
+     "think": "What job could you do today with no tool at all, only your senses? When would a tool do better?"
+    }
+   ]
+  },
+  {
+   "id": "a3",
+   "title": "How many drops fit on a coin? Predict, test and judge",
+   "mins": 15,
+   "context": "In this activity you predict how many drops of water a coin can hold, test it three times and compare your miss with the spread. Then you predict for a second coin, which is new to you.",
+   "days": 1,
+   "record": "Write each guess and its reason. Write three counts for each coin. Find the middle count and the spread. Write whether each guess was inside or outside the spread.",
+   "materials": [
+    {
+     "item": "a small coin and a larger coin, both flat and clean",
+     "qty": 2
+    },
+    {
+     "item": "a plastic dropper, or a drinking straw",
+     "qty": 1
+    },
+    {
+     "item": "a small cup of water",
+     "qty": 1
+    },
+    {
+     "item": "a tray and a dry cloth",
+     "qty": 1
+    },
+    {
+     "item": "paper and a pencil",
+     "qty": 1
+    }
+   ],
+   "setup": [
+    {
+     "art": "A small coin on a dry tray with a plastic dropper above it, and a cup of water beside it.",
+     "caption": "1. Lay a clean, dry coin flat on a tray."
+    },
+    {
+     "art": "Drops sitting in a dome on the coin, with one drop about to fall from the dropper.",
+     "caption": "2. Add drops one at a time and count until the water spills."
+    },
+    {
+     "art": "A small and a large coin side by side, with a results table of three runs for each.",
+     "caption": "3. Predict and test the bigger coin, then judge your two predictions."
+    }
+   ],
+   "flow": [
+    {
+     "id": "a3s1",
+     "mins": 3,
+     "do": "Wipe the small coin dry and lay it flat on a dry tray. Fill the cup with water. Ask your child to write a number of drops that will fit on the coin before the water spills over the edge, and a reason.",
+     "say": "How many drops of water can sit on this coin before it spills over? Write your number and why you think so, before we try.",
+     "kid": "Write how many drops you think will fit. Write why.",
+     "adult": false,
+     "parent": "Most families see between 10 and 40 drops on a small coin, so any guess is fine. A clean, dry coin is the key. A greasy coin makes the drops flatten and spill sooner. Wipe it with a dry cloth each time."
+    },
+    {
+     "id": "a3s2",
+     "mins": 5,
+     "do": "Hold the dropper or straw just above the coin. Add drops one at a time and count aloud until the water spills over the edge. Dry the coin. Do this three times and write each count.",
+     "say": "Drop, count, drop, count. Stop when the water runs over the edge. Do it three times. Are the counts the same?",
+     "kid": "Add drops one at a time. Count until it spills. Do three runs.",
+     "adult": false,
+     "parent": "To use a straw as a dropper, dip it in the water, put a finger over the top end and lift. Then ease your finger off to let drops fall. Keep the same height above the coin every time. The three counts will differ by a few drops. That is the spread."
+    },
+    {
+     "id": "a3s3",
+     "mins": 4,
+     "do": "Lay the bigger coin on the tray. Ask your child to predict its count from the small coin's result, with a reason. Then do three runs the same way and write each count.",
+     "say": "This coin is wider. How many drops do you think it will hold? Use what you found out with the small coin. Write your number and your reason first.",
+     "kid": "Guess for the bigger coin. Then do three runs.",
+     "adult": false,
+     "ask": [
+      {
+       "q": "What number did you write for the bigger coin, and why?",
+       "good": [
+        "A larger number than the small coin's, with a reason about the bigger top."
+       ]
+      }
+     ],
+     "parent": "A wider coin has a bigger top and holds more, though not in exact proportion. A good reason says that a bigger flat top has room for more water."
+    },
+    {
+     "id": "a3s4",
+     "mins": 3,
+     "do": "Find the middle count and the spread for each coin. Compare each miss with the spread. Say which prediction was closer, and whether you missed by more than the wobble of your own counts.",
+     "say": "Was your guess inside the spread or outside it? Which guess was closer, the first or the second? Why do you think so?",
+     "kid": "Find the middle and the spread for each coin. Judge your two guesses.",
+     "adult": false,
+     "parent": "You may find the second guess was closer, because the child had data to build on. Do not push this. Let the numbers say it.",
+     "think": "Would a drop that is twice as big change your counts? Which tool would you change to get a fairer count?"
+    }
+   ]
+  },
+  {
+   "id": "a4",
+   "title": "A risk hunt in your own kitchen",
+   "mins": 15,
+   "context": "In this activity you walk through your kitchen with a grown-up and name five hazards. You then judge the risk of each today and plan a safer way using the four kinds of plan.",
+   "days": 1,
+   "safety": "A grown-up stays beside the child. Nothing in the kitchen is touched or used.",
+   "record": "Write five hazards, the risk of each today and a plan for the riskiest, with its kind.",
+   "materials": [
+    {
+     "item": "five small cards or slips of paper",
+     "qty": 5
+    },
+    {
+     "item": "a pencil",
+     "qty": 1
+    }
+   ],
+   "setup": [
+    {
+     "art": "A child with a grown-up in a kitchen, pointing to a high shelf with a glass jar.",
+     "caption": "1. Walk through the kitchen and name five hazards."
+    },
+    {
+     "art": "Five cards laid in a row, each with a hazard and a mark for low, medium or high risk.",
+     "caption": "2. Rate the risk of each hazard today."
+    },
+    {
+     "art": "A card turned over with a drawing of a plan on the back.",
+     "caption": "3. Pick the riskiest and draw a plan to make it safer."
+    }
+   ],
+   "flow": [
+    {
+     "id": "a4s1",
+     "mins": 5,
+     "do": "Walk through the kitchen with your child and a grown-up. Point out five hazards, such as the gas stove, a sharp tool, a hot pan, a wet floor and a plug point. Write each on a card.",
+     "say": "Let us look for hazards in our kitchen. A hazard is anything that could cause harm. Can you find five? Do not touch them. Just point and name.",
+     "kid": "Walk through the kitchen. Name five hazards. Do not touch them.",
+     "adult": true,
+     "parent": "Stay beside your child the whole time and keep them from touching anything on the list. The aim is to see, not to handle. Other good hazards are a glass jar on a high shelf, a pressure cooker and a mat that slides."
+    },
+    {
+     "id": "a4s2",
+     "mins": 5,
+     "do": "Take each card and ask: how likely is harm today, and how bad would it be? Write low, medium or high for the risk. Then say what would make the risk higher, and what would make it lower.",
+     "say": "A hazard is not the same as a risk. A risk is how likely the harm is, and how bad it would be. Is the risk of this one low, medium or high today? What would change that?",
+     "kid": "Rate each risk low, medium or high. Say what would change it.",
+     "adult": false,
+     "ask": [
+      {
+       "q": "What would make the risk of this one higher today, and what would make it lower?",
+       "good": [
+        "Higher with a hurry, a child nearby or a wet floor. Lower with a barrier, a grown-up present or the thing put away."
+       ]
+      }
+     ],
+     "parent": "The same hazard can be low risk in one moment and high in another. A knife in a closed drawer is low risk. The same knife near the edge of the counter with a toddler about is higher. Let your child argue each rating. There may be more than one honest answer."
+    },
+    {
+     "id": "a4s3",
+     "mins": 5,
+     "do": "Pick the card with the highest risk. Choose a plan for it. Decide which kind it is: remove, swap, separate or protect. Draw the plan on the back of the card. Say if there is a stronger kind of plan.",
+     "say": "Pick the riskiest one. Can you remove it, swap it, put a barrier or distance round it, or only protect yourself? Which of these is the strongest? Draw your plan.",
+     "kid": "Pick the riskiest card. Draw a plan. Say what kind it is.",
+     "adult": true,
+     "parent": "The strongest kind of plan removes the hazard. Then comes a swap, then a barrier or distance, and last protection that you wear. A pan that must be hot cannot be removed, so you might keep a child away and have the grown-up cook. Do not decide for your child.",
+     "think": "Which of your plans changes the hazard, and which only changes the person?"
+    }
+   ]
+  }
+ ],
+ "projects": [
+  {
+   "id": "p1",
+   "title": "A week of drying forecasts: how well can you predict a wet cloth?",
+   "mins": 85,
+   "context": "In this project you time how long a wet cloth takes to dry and predict the next days' times. Then you predict for a new place, and you see how big the natural spread is from day to day.",
+   "days": 6,
+   "schedule": [
+    {
+     "day": 1,
+     "mins": 25,
+     "what": "List the risks. Wet, wring and hang the cloth. Check every hour until dry."
+    },
+    {
+     "day": 2,
+     "mins": 10,
+     "what": "Predict from Day 1. Hang the cloth again in the same place and check every hour."
+    },
+    {
+     "day": 3,
+     "mins": 10,
+     "what": "Predict from Days 1 and 2. Hang the cloth and check every hour."
+    },
+    {
+     "day": 4,
+     "mins": 15,
+     "what": "Predict for a new place. Hang the cloth there and check every hour."
+    },
+    {
+     "day": 5,
+     "mins": 10,
+     "what": "Find the spread of Days 1 to 3 and judge each prediction."
+    },
+    {
+     "day": 6,
+     "mins": 15,
+     "what": "Draw the graph and write what you learned."
+    }
+   ],
+   "record": "Keep a table with the day, the place, your prediction, your reason and the time the cloth took to dry. Add the spread and the miss for each day. Draw a graph of predictions and results.",
+   "safety": "Hang the cloth at head height or lower. Do not climb or lean over a balcony rail to reach a line. Wipe up any water on the floor.",
+   "materials": [
+    {
+     "item": "two small cotton cloths of the same size",
+     "qty": 2
+    },
+    {
+     "item": "a bowl of water",
+     "qty": 1
+    },
+    {
+     "item": "a place to hang them at head height",
+     "qty": 2
+    },
+    {
+     "item": "a clock or phone",
+     "qty": 1
+    },
+    {
+     "item": "a kitchen scale (optional)",
+     "qty": 1
+    },
+    {
+     "item": "paper, a pen and graph paper",
+     "qty": 1
+    }
+   ],
+   "setup": [
+    {
+     "art": "A bowl of water with a cotton cloth in it and a hand wringing another cloth.",
+     "caption": "1. Wet the cloth. Twist it ten times to wring it."
+    },
+    {
+     "art": "A cloth hanging at head height from a low line, with a clock beside it.",
+     "caption": "2. Hang it at head height. Write down the time."
+    },
+    {
+     "art": "A hand touching a cloth to check if it is dry, with a notebook beside it.",
+     "caption": "3. Check every hour until the cloth is dry."
+    },
+    {
+     "art": "A graph with crosses for predictions and dots for results over six days.",
+     "caption": "4. Draw your predictions and results on one graph."
+    }
+   ],
+   "flow": [
+    {
+     "id": "p1s1",
+     "mins": 25,
+     "do": "Choose one small cotton cloth, such as a handkerchief. Wet it in a bowl of water for one minute, then twist it ten times to wring it out. Hang it at head height in the spot you chose. Write the time. Check it every hour until it feels dry. Write down the time.",
+     "say": "How long will a wet cloth take to dry? Write a risk list first. Hang the cloth low, where nobody must climb or lean. Then guess the time, with a reason, and check every hour.",
+     "kid": "List the risks. Wet the cloth, wring it and hang it. Check every hour.",
+     "adult": false,
+     "parent": "Risks to name: a wet floor under the line, climbing to reach a high line, and leaning over a balcony rail. Hang the cloth at head height or lower, with a cloth or tray underneath. A cloth is dry when it feels exactly like a dry cloth of the same kind, judged by the same person each day. With a kitchen scale you can weigh the cloth each hour, and it is dry when two weighings in a row match.",
+     "wait": "Check once an hour until the cloth is dry"
+    },
+    {
+     "id": "p1s2",
+     "mins": 10,
+     "do": "Wet, wring and hang the cloth in the same spot in the same way. Before you hang it, write a prediction for the drying time using Day 1, with a reason. Check every hour. Write the time it dried.",
+     "say": "Yesterday the cloth took this long. How long do you think it will take today? Write your number and your reason in ink before you hang it.",
+     "kid": "Write a prediction. Hang the cloth. Check every hour.",
+     "adult": false,
+     "parent": "Use the same cloth, the same twist and the same place. The weather may differ from day to day. That is what makes a spread."
+    },
+    {
+     "id": "p1s3",
+     "mins": 10,
+     "do": "Repeat Day 2 exactly. Predict first, using Days 1 and 2. Then write the time it dried.",
+     "say": "Now you have two days of data. Can you predict better? Write the number and reason first.",
+     "kid": "Predict from two days. Hang the cloth. Check every hour.",
+     "adult": false,
+     "parent": "Do not tell your child how good the prediction was until the cloth is dry."
+    },
+    {
+     "id": "p1s4",
+     "mins": 15,
+     "do": "Choose a new place for the cloth, such as a shady corner or a window with sun. Predict the drying time there, with a reason from Days 1 to 3. Then wet, wring and hang the cloth in the new place, and check every hour.",
+     "say": "This place is new. What stays the same, and what changes? Write your number and your reason before you start.",
+     "kid": "Predict for the new place. Hang the cloth there. Check every hour.",
+     "adult": false,
+     "parent": "A sunny place should be quicker and a shady one slower, but the size of the change is not obvious. This is a prediction about something unfamiliar, so a miss is expected and useful."
+    },
+    {
+     "id": "p1s5",
+     "mins": 10,
+     "do": "Find the middle time and the spread of Days 1 to 3. Compare each of your predictions with the result, and say which were inside the spread. Then compare the new place's prediction with its result.",
+     "say": "The three days differ from each other. That wobble is the spread. Which of your predictions were inside it? What did the new place teach you?",
+     "kid": "Find the spread of Days 1 to 3. Judge each of your predictions.",
+     "adult": false,
+     "parent": "If the days differ a lot, the weather probably changed. A forecast cannot be sharper than the natural spread of what it forecasts."
+    },
+    {
+     "id": "p1s6",
+     "mins": 15,
+     "do": "Draw a graph with the days across and the drying time up. Mark each prediction with a cross and each result with a dot. Write what you learned about predicting, and what you would measure differently.",
+     "say": "Look at your crosses and your dots. Were they close? Did your predictions get better? What would help you predict better next time?",
+     "kid": "Draw the graph. Write what you learned.",
+     "adult": false,
+     "parent": "A good write-up says which of the three places, the doing, the tool or the reason, explained the biggest miss.",
+     "think": "Is a forecast of 'it will dry by evening' close enough, or do you need it to the minute? What decides?"
+    }
+   ]
+  }
+ ],
+ "challenges": [
+  {
+   "id": "ch1",
+   "title": "A test station that survives a spill",
+   "mins": 30,
+   "context": "This is a design problem. A full cup of water will get knocked over sometime, so you build a test station that keeps the spill from reaching the floor, a phone and your notebook.",
+   "days": 1,
+   "problem": "Build a test station where a knocked-over cup does not make the floor, the phone or the notebook wet. There is more than one good way.",
+   "constraints": [
+    "Use only things from the home. No glass.",
+    "The test must still be possible to do at the station. You must be able to reach the cup.",
+    "Use only 100 millilitres of water in the tipping test.",
+    "Test your station at least twice."
+   ],
+   "general": [
+    "Put the cup on a tray with a rim, and a towel under the tray.",
+    "Put the phone in a clear plastic bag and the notebook on the far side of the table.",
+    "Use a cup with a wide base that is harder to knock over."
+   ],
+   "creative": [
+    "Work in a sink or a large bowl, so a spill goes straight to a drain.",
+    "Press a damp cloth round the base of the cup like a collar, so that spilled water is soaked up straight away.",
+    "Put the whole test inside a box lid lined with a bag, so the whole station is a tray."
+   ],
+   "your_turn": "Build a station of your own from things at home. What did you change after the first tip that made the water do less harm? Do you think any station is ever spill-proof?",
+   "materials": [
+    {
+     "item": "a tray, a baking dish or a box lid",
+     "qty": 1
+    },
+    {
+     "item": "a plastic bag",
+     "qty": 1
+    },
+    {
+     "item": "a towel or old cloth",
+     "qty": 1
+    },
+    {
+     "item": "a small plastic cup with 100 millilitres of water",
+     "qty": 1
+    },
+    {
+     "item": "a phone and a notebook",
+     "qty": 1
+    }
+   ],
+   "setup": [
+    {
+     "art": "A tray with a rim holding a clear cup, with a phone in a plastic bag on a shelf above.",
+     "caption": "1. Plan where the cup, the phone and the notebook will stand."
+    },
+    {
+     "art": "A tray on a towel with a cup being tipped, and water pooling inside the rim of the tray.",
+     "caption": "2. Tip a little water on purpose to copy a knock."
+    },
+    {
+     "art": "A baking dish and a box lid lined with a plastic bag standing as two other designs.",
+     "caption": "3. Try a second design and compare it."
+    }
+   ],
+   "flow": [
+    {
+     "id": "ch1s1",
+     "mins": 6,
+     "do": "Read the problem and the rules. Draw a quick plan of your station. Say where the cup will stand, what will catch a spill, and where the phone and notebook will go.",
+     "say": "A cup of water will be knocked over one day. Where will the water go? Can you build a station so it does no harm? Draw your plan first.",
+     "kid": "Read the problem. Draw your plan. Say where the water will go.",
+     "adult": false,
+     "parent": "Do not suggest a plan. Ask what the water would touch first and where it would run."
+    },
+    {
+     "id": "ch1s2",
+     "mins": 10,
+     "do": "Build your station from things in the house. Put in the cup, the phone in a plastic bag, the notebook and a cloth. Check that nothing is on the table edge.",
+     "say": "Build your station. Where will you put the phone and the notebook so they stay dry?",
+     "kid": "Build your station with things from home. Keep the phone dry.",
+     "adult": false,
+     "parent": "A baking dish, a box lid lined with a plastic bag, a tray with a towel under it and a dish rack in a sink are all good ideas. A cup that is not on the edge cuts the chance of a spill."
+    },
+    {
+     "id": "ch1s3",
+     "mins": 8,
+     "do": "Tip 100 millilitres of water, about half a small cup, across the cup's edge by hand, to copy a knock. Look at where the water went. Wipe up at once.",
+     "say": "Now we knock it over, on purpose, with a small amount of water. Where does the water go? Is anything wet that should be dry?",
+     "kid": "Tip a little water on purpose. Where did it go?",
+     "adult": false,
+     "parent": "Use only 100 millilitres. Put a towel on the floor under the table first. Stay calm. A failure here is the useful part."
+    },
+    {
+     "id": "ch1s4",
+     "mins": 6,
+     "do": "Change one thing about your station so that the water does less harm. Tip a second time with 100 millilitres. Compare. Say which plan was the strongest kind: remove, swap, separate or protect.",
+     "say": "What did you change? Did it help? Which kind of plan is it?",
+     "kid": "Change one thing. Tip again. Did it help?",
+     "adult": false,
+     "parent": "Another group may find a very different answer. Both can be good.",
+     "think": "Which of your changes removed a hazard, and which only caught a spill after it happened?"
+    }
+   ]
+  },
+  {
+   "id": "ch2",
+   "title": "Make your own measuring cup from a bottle",
+   "mins": 35,
+   "context": "This is a design problem. You turn a clear plastic bottle into a measuring cup, mark it every 25 millilitres, and test how close your marks are to a real measuring cup.",
+   "days": 1,
+   "problem": "Turn a clear plastic bottle into a measuring cup with a mark every 25 millilitres up to 200. Your marks must agree with a real measuring cup to within 10 millilitres. There is more than one good way.",
+   "constraints": [
+    "Use a plastic bottle and no glass.",
+    "Use only tape, a pen, water and a trusted measure to mark it.",
+    "Check at least three of your marks against a real measuring cup.",
+    "Write down the error of each mark."
+   ],
+   "general": [
+    "Pour a trusted 25 millilitres in at a time and mark each line on tape.",
+    "Use a bottle with straight sides, so equal amounts make equal gaps.",
+    "Mark from the bottom up, and read at eye level each time."
+   ],
+   "creative": [
+    "Cut the top off a wide bottle to make a cup with a handle, then mark the inside.",
+    "Use a narrow clear tube or a long bottle, so each millilitre is a larger gap and the cup is more exact.",
+    "Mark a bottle in tablespoons or katoris, for a cooking cup in the family's own units."
+   ],
+   "your_turn": "Make your own measuring cup from things at home. How did you make your marks closer to a real cup? Do you think any home-made tool is ever as good as a bought one?",
+   "materials": [
+    {
+     "item": "a clear plastic bottle with straight sides, such as a one-litre water bottle",
+     "qty": 1
+    },
+    {
+     "item": "a medicine cup marked in millilitres, or a syringe without a needle",
+     "qty": 1
+    },
+    {
+     "item": "masking tape and a waterproof pen",
+     "qty": 1
+    },
+    {
+     "item": "a kitchen measuring cup",
+     "qty": 1
+    },
+    {
+     "item": "a tray and a cloth",
+     "qty": 1
+    }
+   ],
+   "setup": [
+    {
+     "art": "A clear plastic bottle standing on a table with a strip of tape at a water line and a medicine cup beside it.",
+     "caption": "1. Pour 25 millilitres, mark the line and write the amount."
+    },
+    {
+     "art": "A child's eye level with the water line in the bottle.",
+     "caption": "2. Read each mark with your eye level with the water."
+    },
+    {
+     "art": "A bottle poured into a kitchen measuring cup to check one of the marks.",
+     "caption": "3. Check your marks against a real measuring cup."
+    }
+   ],
+   "flow": [
+    {
+     "id": "ch2s1",
+     "mins": 6,
+     "do": "Read the problem. Choose your master measure, which is a tool whose amount you trust, such as a medicine cup marked in millilitres. Decide how small your smallest mark will be.",
+     "say": "A measuring cup is only as good as its marks. What will be your trusted measure? How small will your smallest mark be? Why?",
+     "kid": "Choose your trusted measure. Decide your smallest mark.",
+     "adult": false,
+     "parent": "A sealed bottle of water that is labelled 500 millilitres can serve as a master for a big mark. A medicine cup serves for small marks. Ask which marks must be the most careful."
+    },
+    {
+     "id": "ch2s2",
+     "mins": 12,
+     "do": "Stand the clear bottle on a flat table. Pour 25 millilitres from the master measure into it. Put a strip of tape at the water line, and write the amount with a pen. Add 25 millilitres again and mark again. Repeat up to 200 millilitres.",
+     "say": "Pour one measure, mark the line, pour again and mark again. Keep your eye level with the water at each mark. Why?",
+     "kid": "Pour 25 millilitres. Mark the line. Repeat to 200.",
+     "adult": false,
+     "parent": "Read each mark at eye level with the bottle on a flat table, never held in the hand. If the bottle has a curved base, begin counting only above the curve and mark the first line from there."
+    },
+    {
+     "id": "ch2s3",
+     "mins": 10,
+     "do": "Pour 100 millilitres from a kitchen measuring cup into your bottle. Mark where your bottle says 100 and see how far it is from the water line. Do the same for 50 and 150.",
+     "say": "Does your bottle agree with the real cup? How far off is it? Is the error the same at the bottom and the top?",
+     "kid": "Test your marks with a real measuring cup. How far off are they?",
+     "adult": false,
+     "ask": [
+      {
+       "q": "How close is your cup to a real one, and where is it the least accurate?",
+       "good": [
+        "Answers vary. Usually the marks near the curved base are least accurate."
+       ]
+      }
+     ],
+     "parent": "A difference of under half a mark is good. If a mark is off, fix it by moving the tape and testing again."
+    },
+    {
+     "id": "ch2s4",
+     "mins": 7,
+     "do": "Use your cup to measure 75 millilitres of water twice, and pour each into a real cup. Write how far each is from 75. Then say how you could make a finer cup.",
+     "say": "Measure 75 millilitres with your cup and check it on the real one. Which part of your cup would you improve first?",
+     "kid": "Measure 75 millilitres. Check it. Say how you would improve your cup.",
+     "adult": false,
+     "parent": "A thinner bottle has marks that are further apart for the same volume, so a narrow bottle gives a finer cup.",
+     "think": "Why does a narrower bottle give a more exact cup? What would a tool maker do to make a cup with marks every 1 millilitre?"
+    }
+   ]
+  }
+ ],
+ "worksheets": [
+  {
+   "id": "ws-core",
+   "title": "Tools, risks and predictions (core)",
+   "tier": "core",
+   "mins": 25,
+   "context": "This sheet checks that you can choose and use tools, tell a hazard from a risk, and judge how close a prediction was.",
+   "items": [
+    {
+     "t": "mcq",
+     "p": "Which tool answers 'How much water is in this tumbler?'",
+     "opts": [
+      "A measuring cup",
+      "A ruler",
+      "A stopwatch"
+     ],
+     "a": 0,
+     "why": "Water in a tumbler is a volume, and a measuring cup measures volume. A ruler measures length and a stopwatch measures time.",
+     "outcome": 0
+    },
+    {
+     "t": "fill",
+     "p": "A thermometer measures ____.",
+     "a": [
+      "temperature",
+      "how hot or cold"
+     ],
+     "why": "Each tool measures one kind of quantity. A thermometer is built for temperature.",
+     "outcome": 0
+    },
+    {
+     "t": "mcq",
+     "p": "You press the zero button on a kitchen scale after putting the empty bowl on. Why?",
+     "opts": [
+      "So the bowl weighs nothing in real life",
+      "To switch the scale on",
+      "So it shows only what you add"
+     ],
+     "a": 2,
+     "why": "The bowl has a mass of its own. Setting zero with the bowl on lets the scale show the food alone.",
+     "outcome": 1
+    },
+    {
+     "t": "truefalse",
+     "p": "A thermometer shows the true number the moment it touches the water.",
+     "a": false,
+     "why": "False. A thermometer needs about a minute for its number to stop changing. Read it after it settles.",
+     "outcome": 1
+    },
+    {
+     "t": "match",
+     "p": "Match each job to the tool that fits it.",
+     "pairs": [
+      [
+       "How long a toy car rolls",
+       "A phone stopwatch"
+      ],
+      [
+       "How long a leaf is",
+       "A ruler"
+      ],
+      [
+       "How much milk fits in a glass",
+       "A measuring cup"
+      ],
+      [
+       "How hot the tea is",
+       "A thermometer"
+      ]
+     ],
+     "a": "as given",
+     "why": "Each job asks about one quantity: time, length, volume or temperature. Each tool is made to measure one of them.",
+     "outcome": 0
+    },
+    {
+     "t": "sort",
+     "p": "Sort each one into hazard or plan to cut a risk.",
+     "cats": [
+      "Hazard",
+      "Plan to cut a risk"
+     ],
+     "items": [
+      [
+       "warm water on a table",
+       "Hazard"
+      ],
+      [
+       "a tray under the cups",
+       "Plan to cut a risk"
+      ],
+      [
+       "a spill on the floor",
+       "Hazard"
+      ],
+      [
+       "tied-back hair",
+       "Plan to cut a risk"
+      ],
+      [
+       "a cracked glass",
+       "Hazard"
+      ],
+      [
+       "a plastic cup in place of glass",
+       "Plan to cut a risk"
+      ]
+     ],
+     "a": "as given",
+     "why": "A hazard is a thing that could cause harm. A plan changes the set-up, so that harm is less likely or smaller.",
+     "outcome": 2
+    },
+    {
+     "t": "mcq",
+     "p": "A spill on the floor is a hazard. Which makes the risk of a slip smaller?",
+     "opts": [
+      "Leaving it until the test ends",
+      "Wiping it up at once",
+      "Walking round it faster"
+     ],
+     "a": 1,
+     "why": "Wiping removes the hazard from where people walk. Leaving it or hurrying past keeps the chance of a slip high.",
+     "outcome": 2
+    },
+    {
+     "t": "order",
+     "p": "Put these steps of a safe test in order.",
+     "a": [
+      "List the risks",
+      "Set up the tray and tools",
+      "Do the test",
+      "Clear up and wash hands"
+     ],
+     "why": "Risks come first, so the set-up can include their plans. Then you work. Tidying and washing close the test.",
+     "outcome": 3
+    },
+    {
+     "t": "truefalse",
+     "p": "If something unexpected happens in a test, keep going and fix it afterwards.",
+     "a": false,
+     "why": "False. A plan cannot cover everything. Stop, step back, tell someone and think before you carry on.",
+     "outcome": 3
+    },
+    {
+     "t": "fill",
+     "p": "A prediction says what you expect, and it also gives a ____.",
+     "a": [
+      "reason"
+     ],
+     "why": "The reason lets others check your thinking. If the result differs, it shows what to look at again.",
+     "outcome": 4
+    },
+    {
+     "t": "mcq",
+     "p": "You predicted 30 seconds. The result was 36 seconds. What is the difference?",
+     "opts": [
+      "66 seconds",
+      "30 seconds",
+      "6 seconds"
+     ],
+     "a": 2,
+     "why": "Subtract the smaller from the larger. 36 minus 30 is 6. Adding the two numbers is a common slip.",
+     "outcome": 5
+    },
+    {
+     "t": "mcq",
+     "p": "Two predictions missed by 12 seconds. One result was 30 seconds, the other 10 minutes. Which miss matters more?",
+     "opts": [
+      "The 10-minute one",
+      "The 30-second one",
+      "They matter the same"
+     ],
+     "a": 1,
+     "why": "12 seconds is a large share of 30 seconds and a tiny share of 10 minutes. Compare a miss with the size of the result.",
+     "outcome": 5
+    },
+    {
+     "t": "write",
+     "p": "The big ice cube was predicted to melt first, but the small one did. Name two places to look for the cause.",
+     "a": "A good answer names two of: the doing (were the cubes in the same water and place?), the tool (was the same clock or cup used?), the reason (is the idea that bigger means first wrong, or missing something?).",
+     "why": "A miss can come from how the test was done, from the equipment, or from the idea behind the prediction. Check the first two before blaming the idea.",
+     "outcome": 6
+    },
+    {
+     "t": "draw",
+     "p": "Draw a tray, three cups and a spill cloth. Mark where a baby or pet should not be.",
+     "a": "A tray in the middle of a table, three cups on it, a cloth beside it, and a mark such as a cross on the table edge or floor side where a small child or pet could reach.",
+     "why": "A tray and a clear space are barriers. They keep a spill and small hands away from each other.",
+     "outcome": 3
+    },
+    {
+     "t": "write",
+     "p": "Predict how long a wet sock takes to dry on a line, and give a reason from something you have seen.",
+     "a": "A number or a range such as 'about 3 hours', and a reason taken from something seen, such as 'a wet shirt took about that long yesterday in the same spot'.",
+     "why": "A prediction without a reason is only a guess. Reasons come from patterns you have watched before.",
+     "outcome": 4
+    },
+    {
+     "t": "perspective",
+     "p": "Two ways to plan a test that needs warm water.",
+     "views": [
+      {
+       "who": "A parent who wants no warm water at all (an imagined view)",
+       "says": "Use cold water only. The hazard is gone, and cold water still shows how fast sugar dissolves."
+      },
+      {
+       "who": "A teacher who allows warm tap water with a grown-up pouring (an imagined view)",
+       "says": "Use warm tap water. The difference between cold and warm is bigger and easier to see, and the risk is small if a grown-up pours."
+      }
+     ],
+     "ask": "Which would you choose for your home, and what would you lose with the other one?",
+     "a": "Answers vary. A strong answer says removing the hazard is the strongest plan, and that the warm test teaches more but needs a grown-up and a tray, so it is a trade-off.",
+     "why": "Both views are sensible. The first is the stronger kind of plan. The second accepts a small risk for a clearer result, and that is a choice people make differently.",
+     "outcome": 3
+    }
+   ]
+  },
+  {
+   "id": "ws-stretch",
+   "title": "Plans, spread and misses (stretch)",
+   "tier": "stretch",
+   "mins": 30,
+   "context": "This sheet asks you to use a hundred grains, a thermometer and the spread to judge predictions and plans in new situations.",
+   "items": [
+    {
+     "t": "mcq",
+     "p": "You want the mass of one grain of rice on a scale that shows whole grams. What works?",
+     "opts": [
+      "Weigh one grain and round up",
+      "Weigh 100 grains, then divide by 100",
+      "Use a bigger scale"
+     ],
+     "a": 1,
+     "why": "One grain is far below the scale's smallest mark. A hundred grains give a reading you can see, and dividing by 100 gives one grain.",
+     "outcome": 0
+    },
+    {
+     "t": "count",
+     "p": "100 grains of rice weigh 2 grams. What is the mass of one grain, in grams?",
+     "a": "0.02",
+     "why": "2 divided by 100 is 0.02 grams. This is how a tool that is too coarse for one grain can still tell you about it.",
+     "outcome": 0
+    },
+    {
+     "t": "truefalse",
+     "p": "Holding a thermometer by its tip gives the most exact reading.",
+     "a": false,
+     "why": "False. The tip then feels your fingers and not the water. Hold the thermometer by its top end.",
+     "outcome": 1
+    },
+    {
+     "t": "mcq",
+     "p": "A thermometer reads 44, then 42, then settles at 41 after a minute. Which do you write down?",
+     "opts": [
+      "41",
+      "44",
+      "42"
+     ],
+     "a": 0,
+     "why": "The reading changes until the thermometer has taken on the water's temperature. The settled number is the real reading.",
+     "outcome": 1
+    },
+    {
+     "t": "mcq",
+     "p": "A glass jar can break. In which set-up is the risk highest?",
+     "opts": [
+      "Standing on a mat on a table",
+      "Carried quickly across a tiled floor",
+      "Inside a closed cupboard"
+     ],
+     "a": 1,
+     "why": "The hazard is the same in all three. The risk rises with speed, a hard floor and a chance of dropping it.",
+     "outcome": 2
+    },
+    {
+     "t": "match",
+     "p": "Match each plan to its kind.",
+     "pairs": [
+      [
+       "Use cold water because the test works without warmth",
+       "Remove"
+      ],
+      [
+       "Use warm tap water in place of boiling water",
+       "Swap"
+      ],
+      [
+       "Keep a baby in another room",
+       "Separate"
+      ],
+      [
+       "Roll up your sleeves",
+       "Protect"
+      ]
+     ],
+     "a": "as given",
+     "why": "Remove takes the hazard away. Swap makes it safer. Separate keeps people away from it. Protect only guards your body.",
+     "outcome": 3
+    },
+    {
+     "t": "sort",
+     "p": "Sort each plan by when it happens.",
+     "cats": [
+      "Before the test",
+      "During the test"
+     ],
+     "items": [
+      [
+       "list the risks",
+       "Before the test"
+      ],
+      [
+       "put the tray down",
+       "Before the test"
+      ],
+      [
+       "tie back long hair",
+       "Before the test"
+      ],
+      [
+       "wipe a spill at once",
+       "During the test"
+      ],
+      [
+       "stop when the cup cracks",
+       "During the test"
+      ],
+      [
+       "step back and tell someone about a surprise",
+       "During the test"
+      ]
+     ],
+     "a": "as given",
+     "why": "A plan on paper protects nobody unless the hands follow it. Some steps are done in advance, and some are habits for the moment.",
+     "outcome": 3
+    },
+    {
+     "t": "mcq",
+     "p": "You have timed ice cubes melting. Which prediction for crushed ice of the same mass has the best reason?",
+     "opts": [
+      "Faster, because more ice touches the water",
+      "The same, because ice is ice",
+      "Nobody can say before trying it"
+     ],
+     "a": 0,
+     "why": "Step from the known case. Crushed ice has the same ice but much more surface touching the water, so it should melt sooner.",
+     "outcome": 4
+    },
+    {
+     "t": "mcq",
+     "p": "Runs of 20, 24 and 22 seconds. You predicted 21. Was the prediction accurate?",
+     "opts": [
+      "No, none of the runs was 21",
+      "No, it was lower than the middle run",
+      "Yes, it lies inside the spread"
+     ],
+     "a": 2,
+     "why": "The three runs spread over 4 seconds. A prediction inside that spread is as close as the test can judge.",
+     "outcome": 5
+    },
+    {
+     "t": "fill",
+     "p": "You predicted 50 seconds and the result was 40 seconds. The prediction was too ____.",
+     "a": [
+      "long"
+     ],
+     "why": "Saying which way you missed helps: 50 was longer than 40, so you expected the sugar to be slower than it was.",
+     "outcome": 5
+    },
+    {
+     "t": "count",
+     "p": "You predicted 40 seconds and the result was 50. The miss is what fraction of the result?",
+     "a": "1/5",
+     "why": "The difference is 10. 10 out of 50 is 1/5, which is 20 in every 100.",
+     "outcome": 5
+    },
+    {
+     "t": "order",
+     "p": "Put these in order for judging a prediction.",
+     "a": [
+      "Write the prediction in ink",
+      "Run the test three times",
+      "Find the spread of the runs",
+      "Compare the miss with the spread"
+     ],
+     "why": "The prediction must come first, or hindsight changes it. Repeated runs give the spread, and only then can a miss be judged.",
+     "outcome": 5
+    },
+    {
+     "t": "write",
+     "p": "Your sugar took twice as long as predicted. List your three checks in order, with one thing to look for in each.",
+     "a": "The doing: were all the cups stirred the same? The tool: was the spoon level each time? The reason: is something other than warmth, such as crystal size, also at work?",
+     "why": "Check the doing and the tool first, since they are easier to fix. Then question the idea behind the prediction.",
+     "outcome": 6
+    },
+    {
+     "t": "truefalse",
+     "p": "If a result matches your prediction, your reason is proved right.",
+     "a": false,
+     "why": "False. A different reason could give the same number. A match means the reason passed one test, and the next test can still go against it.",
+     "outcome": 6
+    },
+    {
+     "t": "perspective",
+     "p": "A farmer and an engineer both use a forecast. Each must decide how close is close enough.",
+     "views": [
+      {
+       "who": "A farmer planning when to sow (an imagined view)",
+       "says": "A forecast that may be off by about 5 in every 100 is close enough. I can plan around that."
+      },
+      {
+       "who": "An engineer cutting a part for a machine (an imagined view)",
+       "says": "A miss of 5 in every 100 would ruin the part. I need a far smaller miss."
+      }
+     ],
+     "ask": "Is either of them wrong? What decides how close is close enough?",
+     "a": "Neither is wrong. A strong answer says the purpose decides, because a sowing plan can absorb a miss that a machine part cannot.",
+     "why": "How close is close enough depends on the natural spread of the results and on what the answer is for.",
+     "outcome": 5
+    },
+    {
+     "t": "draw",
+     "p": "Draw a risk list with three columns for a test with a steel bowl of warm water. Fill one row.",
+     "a": "Three columns headed What could hurt, Who could be hurt, and My plan. One row such as: a spill makes the floor slippery, anyone walking by, a tray and a cloth.",
+     "why": "A risk assessment asks what could hurt, who, and what to do. Writing it down makes each answer clear.",
+     "outcome": 2
+    },
+    {
+     "t": "write",
+     "p": "To test which food ants like, name one risk to the ants and one plan to reduce it.",
+     "a": "A risk such as crushing, trapping or flooding the ants. A plan such as watching them where they already walk, putting a tiny grain of food near their path, and not shutting them in a jar.",
+     "why": "The risk assessment counts every living being the test touches, not only people. Ants feel and decide too, so they are on the list.",
+     "outcome": 3
+    }
+   ]
+  },
+  {
+   "id": "ws-challenge",
+   "title": "Faulty checks and open questions (challenge)",
+   "tier": "challenge",
+   "mins": 35,
+   "context": "This sheet tests faulty reasoning about predictions and risks, and asks questions that have no single answer.",
+   "items": [
+    {
+     "t": "mcq",
+     "p": "Both predicted 30 seconds. Runs were 29, 30, 31, 30 for one and 18, 30, 42 for the other. Whose is better supported?",
+     "opts": [
+      "The first, whose runs cluster around 30",
+      "The second, because 30 was one of its runs",
+      "Both the same, since the middle is 30"
+     ],
+     "a": 0,
+     "why": "A tight spread lets the prediction be judged sharply. A wide spread means the test itself cannot tell 30 from many other numbers.",
+     "outcome": 5
+    },
+    {
+     "t": "truefalse",
+     "p": "A prediction that comes true proves that its reason is right.",
+     "a": false,
+     "why": "False. Another reason could give the same number. A true prediction is one test passed, not a proof.",
+     "outcome": 4
+    },
+    {
+     "t": "mcq",
+     "p": "Warm water took longer than cold. The warm cup was stirred gently and the cold one hard. What is at fault?",
+     "opts": [
+      "The reason, because warm water is slower",
+      "The doing, because stirring differed",
+      "The thermometer"
+     ],
+     "a": 1,
+     "why": "Only the warmth should change. Different stirring is another change, so the test cannot say what caused the result.",
+     "outcome": 6
+    },
+    {
+     "t": "mcq",
+     "p": "A forecast says 80 centimetres of rain, plus or minus 5 per cent. 77 fall. Is that within the stated error?",
+     "opts": [
+      "No, it was not exactly 80",
+      "No, because 77 is lower",
+      "Yes, 77 lies between 76 and 84"
+     ],
+     "a": 2,
+     "why": "A forecast with a stated error is judged against that error. The range is 76 to 84, and 77 sits inside it.",
+     "outcome": 5
+    },
+    {
+     "t": "write",
+     "p": "Why does it matter to write a prediction in ink before the test?",
+     "a": "A good answer says that after seeing a result, people remember expecting it, which is hindsight. A number in ink cannot change, so the miss can be judged honestly.",
+     "why": "Hindsight makes a result feel more expected than it was. A written prediction beats memory.",
+     "outcome": 5
+    },
+    {
+     "t": "mcq",
+     "p": "A risk list names a scald, a slip and a broken cup. The test uses an untested powder. What is missing?",
+     "opts": [
+      "Nothing, because three risks are enough",
+      "Treating the powder as hazardous until tested",
+      "Nothing, because powders are always safe"
+     ],
+     "a": 1,
+     "why": "A list covers only the hazards known at the time. A new material is treated as hazardous until tests show it is not, and that is why we never taste in a test.",
+     "outcome": 2
+    },
+    {
+     "t": "sort",
+     "p": "Sort each test by whether it is worth its risk.",
+     "cats": [
+      "Worth a small risk",
+      "Not worth the risk"
+     ],
+     "items": [
+      [
+       "a grown-up cutting an apple to watch it turn brown",
+       "Worth a small risk"
+      ],
+      [
+       "using water at full boil when warm tap water works just as well",
+       "Not worth the risk"
+      ],
+      [
+       "growing seeds on a window sill",
+       "Worth a small risk"
+      ],
+      [
+       "tasting an unknown powder to see what it is",
+       "Not worth the risk"
+      ]
+     ],
+     "a": "as given",
+     "why": "The question is never only 'is it safe'. It is how big the risk is, what the test gives, and whether a safer way does the same job.",
+     "outcome": 3
+    },
+    {
+     "t": "match",
+     "p": "Match each job to how big a miss it can accept.",
+     "pairs": [
+      [
+       "A recipe that says 'about a cup'",
+       "A large miss"
+      ],
+      [
+       "Taking an umbrella for tomorrow's rain",
+       "A fairly large miss"
+      ],
+      [
+       "A dose of children's medicine",
+       "A very small miss"
+      ],
+      [
+       "Cutting a part for a rocket engine",
+       "A tiny miss"
+      ]
+     ],
+     "a": "as given",
+     "why": "What counts as close enough depends on what the answer is used for, and on how bad a wrong answer would be.",
+     "outcome": 5
+    },
+    {
+     "t": "mcq",
+     "p": "Two weather computers start from nearly the same numbers. Ten days on, their forecasts differ greatly. Why?",
+     "opts": [
+      "Tiny differences at the start grow in weather",
+      "One computer must be broken",
+      "Weather has no rules at all"
+     ],
+     "a": 0,
+     "why": "Weather follows fixed laws, but small differences in the start grow into large ones. So the forecast gets worse with each day ahead.",
+     "outcome": 6
+    },
+    {
+     "t": "write",
+     "p": "Give a reason to predict the Sun will rise tomorrow without saying 'it always has'.",
+     "a": "Answers vary. A good one says the Earth spins and keeps spinning unless something stops it, and we understand why the Sun seems to rise. The prediction comes from a cause, not only from the past.",
+     "why": "A reason made only of past days could not tell a lucky run from a rule. A cause we understand gives a stronger prediction.",
+     "outcome": 4
+    },
+    {
+     "t": "perspective",
+     "p": "A prediction missed. Two scientists look at it differently.",
+     "views": [
+      {
+       "who": "A scientist who keeps the rule and looks for a hidden cause (an imagined view)",
+       "says": "The rule has worked everywhere else. Something unseen must be pulling the result off, and I will search for it."
+      },
+      {
+       "who": "A scientist who doubts the rule itself (an imagined view)",
+       "says": "A rule that keeps missing in the same way may be wrong or incomplete. I will test changing the rule."
+      }
+     ],
+     "ask": "How could more tests tell these two apart?",
+     "a": "Answers vary. A good one says that finding the hidden cause would settle the first view, and that a new rule predicting better would settle the second. Until then both can be reasonable.",
+     "why": "History holds both: sometimes the hidden cause was found, and sometimes the rule needed changing. A miss alone cannot say which.",
+     "outcome": 6
+    },
+    {
+     "t": "draw",
+     "p": "Draw one bowl of warm water twice, with a high-risk and a low-risk set-up. Label three differences.",
+     "a": "High risk: a bowl at the table edge, no tray, a toddler close by. Low risk: a bowl on a tray in the middle of a cleared table, a cloth ready, a grown-up near and the toddler in another room.",
+     "why": "The hazard is the same in both drawings. The risk changes with where the bowl is, what is under it and who is near.",
+     "outcome": 2
+    },
+    {
+     "t": "fill",
+     "p": "A thermometer reads 44, then 41 after a minute, then stays at 41. Record ____ degrees.",
+     "a": [
+      "41"
+     ],
+     "why": "The thermometer needs about a minute to settle. The number that stops changing is the water's temperature.",
+     "outcome": 1
+    },
+    {
+     "t": "truefalse",
+     "p": "Checklists are only for beginners, because experts do not forget steps.",
+     "a": false,
+     "why": "False. Experts forget simple steps too, most of all when the work is familiar. Checklists catch the slips that skill does not.",
+     "outcome": 3
+    },
+    {
+     "t": "write",
+     "p": "Think of a guess of yours that missed. Which place explains it best: the doing, the tool or the reason?",
+     "a": "Answers vary. A good answer names a real moment, picks one of the three places, and gives a reason for the choice.",
+     "why": "Asking where a miss came from turns a surprise into something to learn.",
+     "outcome": 6
+    },
+    {
+     "t": "mcq",
+     "p": "You must time a snap that lasts 0.3 seconds. Why is timing it by hand a poor choice?",
+     "opts": [
+      "A 0.2 second reaction is most of 0.3",
+      "Phones cannot show tenths of a second",
+      "Such short times do not exist"
+     ],
+     "a": 0,
+     "why": "A person needs about a fifth of a second to react. For a very short event, that delay is a large share of the whole time.",
+     "outcome": 1
+    }
+   ]
+  }
+ ],
+ "quiz": [
+  {
+   "t": "mcq",
+   "p": "You must find how much water fits in a bottle cap. Which tool fits best?",
+   "opts": [
+    "A one-litre jug marked every 100 millilitres",
+    "A school ruler",
+    "A medicine cup marked every 1 millilitre"
+   ],
+   "a": 2,
+   "why": "A tool's smallest mark must be much smaller than your amount. The jug's smallest mark is far bigger than a cap of water, and a ruler measures length, not volume.",
+   "outcome": 0
+  },
+  {
+   "t": "mcq",
+   "p": "A 15 centimetre ruler is used to measure a 6 metre room. What is the main problem?",
+   "opts": [
+    "Laying it down 40 times adds 40 small mistakes",
+    "Its marks are too big",
+    "A ruler cannot measure length"
+   ],
+   "a": 0,
+   "why": "A tool that is too fine for the job adds many small mistakes. A tape would fit the job. The ruler's marks are tiny, and it does measure length, but only well over short distances.",
+   "outcome": 0
+  },
+  {
+   "t": "mcq",
+   "p": "Water in a measuring cup looks higher from above than from the side. Which reading is right?",
+   "opts": [
+    "The one from above",
+    "The one with your eye level",
+    "The average of the two"
+   ],
+   "a": 1,
+   "why": "Looking from above makes the water seem to stand at a different mark. Eye level is the one position that gives the true mark.",
+   "outcome": 1
+  },
+  {
+   "t": "mcq",
+   "p": "A ruler's zero is 2 millimetres in from its end. You line up the end with a pencil's tip. The reading is...",
+   "opts": [
+    "2 millimetres too big",
+    "2 millimetres too small",
+    "exactly right"
+   ],
+   "a": 0,
+   "why": "The scale begins 2 millimetres in, so the pencil is 2 millimetres longer in the number than in truth. Always line up the zero mark and not the edge.",
+   "outcome": 1
+  },
+  {
+   "t": "mcq",
+   "p": "Which sentence about a knife is true?",
+   "opts": [
+    "A hazard only in someone's hand",
+    "A hazard in a drawer, with a low risk",
+    "A risk in a drawer only"
+   ],
+   "a": 1,
+   "why": "A hazard is what could cause harm, so the knife is one everywhere. The risk is the chance and size of the harm, and that changes with how and where it is used.",
+   "outcome": 2
+  },
+  {
+   "t": "mcq",
+   "p": "Why list the risks of a test before starting it?",
+   "opts": [
+    "It proves the test is perfectly safe",
+    "It makes the test finish sooner",
+    "A named risk is easier to plan for"
+   ],
+   "a": 2,
+   "why": "Naming a risk lets you plan a way to make it smaller. No test has zero risk, so a list can never prove perfect safety.",
+   "outcome": 2
+  },
+  {
+   "t": "order",
+   "p": "Put these ways to cut a risk in order, from strongest to weakest.",
+   "a": [
+    "Remove the hazard",
+    "Swap it for a safer one",
+    "Put a barrier or distance between",
+    "Wear protection"
+   ],
+   "why": "Removing the hazard leaves nothing to go wrong. Swapping lowers it. A barrier keeps it away from people. Protection is weakest because the hazard is still there and the protection can slip.",
+   "outcome": 3
+  },
+  {
+   "t": "mcq",
+   "p": "A test works with cold water or with boiling water. Which plan cuts the risk most?",
+   "opts": [
+    "Use cold water",
+    "Boiling water, poured slowly",
+    "Boiling water, with oven gloves"
+   ],
+   "a": 0,
+   "why": "Cold water removes the scald hazard, and nothing is lost. Pouring slowly and gloves only make a hazard that is still there a little less likely to hurt.",
+   "outcome": 3
+  },
+  {
+   "t": "mcq",
+   "p": "Halfway through a test, a cup cracks. What do you do?",
+   "opts": [
+    "Pick up the pieces quickly",
+    "Finish the run, then clear up",
+    "Stop, step back and fetch a grown-up"
+   ],
+   "a": 2,
+   "why": "A plan cannot cover everything. When something unexpected happens, the safe habit is to stop and think before the hands carry on.",
+   "outcome": 3
+  },
+  {
+   "t": "mcq",
+   "p": "Which of these is a prediction and not only a guess?",
+   "opts": [
+    "Warm water will be quicker",
+    "Quicker, because cold took longer than room-warm",
+    "It will take about 30 seconds"
+   ],
+   "a": 1,
+   "why": "A prediction carries a reason taken from what you know. The reason lets others check your thinking and tells you what to rethink if the result differs.",
+   "outcome": 4
+  },
+  {
+   "t": "mcq",
+   "p": "You have timed sugar but never rock salt. What is the best first step to predict for rock salt?",
+   "opts": [
+    "Compare what rock salt shares with sugar",
+    "Say nobody can predict a new thing",
+    "Pick any number, because it is new"
+   ],
+   "a": 0,
+   "why": "Predicting the new works by stepping from a familiar case. Both dissolve, so warm should help, and rock salt crystals are bigger, so it may be slower.",
+   "outcome": 4
+  },
+  {
+   "t": "mcq",
+   "p": "You predict 40 seconds. Three runs give 48, 52 and 56 seconds. Was the prediction close enough?",
+   "opts": [
+    "No, 40 is outside the runs' spread",
+    "Yes, because 40 is near 48",
+    "Yes, any number under 60 is fine"
+   ],
+   "a": 1,
+   "why": "The runs differ by 8 seconds without anything being wrong. A miss larger than that wobble is a real miss, and 40 is 8 seconds below the lowest run.",
+   "outcome": 5
+  },
+  {
+   "t": "truefalse",
+   "p": "Writing your prediction after you see the result is as good as writing it before.",
+   "a": false,
+   "why": "False. After people see a result, they honestly remember having expected it. A number written before the test cannot change.",
+   "outcome": 5
+  },
+  {
+   "t": "mcq",
+   "p": "A prediction missed by a lot. Which check comes first?",
+   "opts": [
+    "Whether each run was done the same way",
+    "Whether the idea behind it is wrong",
+    "Whether the thermometer is lying"
+   ],
+   "a": 0,
+   "why": "Look at the doing first, then the tool, then the reason. The first two are easier to fix, and each is a likelier cause than a wrong idea.",
+   "outcome": 6
+  },
+  {
+   "t": "mcq",
+   "p": "A prediction missed. Scientists suspected a hidden cause, found it once, and never found it another time. What does that show?",
+   "opts": [
+    "A miss always means a hidden object",
+    "A prediction that missed is useless",
+    "A miss is a clue, not a verdict"
+   ],
+   "a": 2,
+   "why": "A miss can come from an unseen cause or from a faulty rule. More tests are needed to tell which. A miss is a clue, not a verdict.",
+   "outcome": 6
+  }
+ ],
+ "applications": [
+  "The India Meteorological Department forecasts the monsoon rain each year as a percentage of the long-term average and says it may be off by about 5 in every 100. Listen for the number on the news in June. Farmers plan sowing around it.",
+  "Cyclone warnings on the Odisha and Tamil Nadu coasts rely on predicting where a cyclone will land. In 2013 a good forecast helped about a million people move inland before Cyclone Phailin. Look at a cyclone warning on your phone and notice the 'cone' that shows how wide the forecast spread is.",
+  "A cough syrup comes with a small measuring cup because a kitchen spoon varies in size. Read the dose on a bottle and see which mark the cup shows. A miss here matters much more than in a recipe.",
+  "Surgeons in many hospitals read a short checklist aloud before an operation. Ask a parent if they have seen a checklist at a hospital or in a clinic, and what it asked.",
+  "Rocket launches everywhere use a long checklist during the countdown, because one forgotten step can end the mission. Watch a launch video and listen for the calls and replies.",
+  "A tailor measures twice before cutting cloth, with a tape that fits the job. Watch a tailor and notice what the tape measures and what a mistake would cost.",
+  "A weighing scale at a shop shows grams, and a grocer weighs 100 grams of a spice by sight first, then checks. Notice how close the first guess is each time."
+ ],
+ "spotted": [
+  {
+   "text": "When a parent tests whether the dosa pan is hot by sprinkling a few drops of water, watch what the drops do. They sizzle and dance when the pan is ready. That is a quick test with a prediction inside it.",
+   "art": "A hand sprinkling water drops onto a dosa pan, with the drops dancing."
+  },
+  {
+   "text": "Look at the marks on a milk pouch, a medicine bottle cap and a one-litre jug. Find the smallest mark on each and say which could measure 5 millilitres.",
+   "art": "A medicine cup, a jug and a milk pouch side by side with their marks circled."
+  },
+  {
+   "text": "On the way to school, look for something that keeps people away from a hazard, such as a railing at a drain, a fence round a pond, a speed bump or a zebra crossing. Say if it separates, swaps or protects.",
+   "art": "A street with a railing at a drain and a zebra crossing, with arrows pointing to each."
+  },
+  {
+   "text": "Watch a cook check sugar syrup between two fingers, or a potter check a pot's dryness by touch. Each one has a test and a prediction learned from hands that have done it many times.",
+   "art": "A cook holding a drop of syrup between a finger and thumb."
+  },
+  {
+   "text": "Look at a packing list on a fridge or a school timetable stuck on a wall. Each is a kind of checklist. Notice what it saves you from forgetting.",
+   "art": "A school bag beside a timetable with ticks next to some lines."
+  },
+  {
+   "text": "When the evening news gives tomorrow's forecast, write down what it says. Tomorrow, check the weather and say whether the forecast was close enough for what you needed to do.",
+   "art": "A television showing a weather map, with a notebook beside it."
+  },
+  {
+   "text": "Watch how a grown-up checks the gas knob before leaving the kitchen. This one-line checklist guards against a hazard that skill alone can forget.",
+   "art": "A hand turning a gas knob with a tick drawn beside it."
+  }
+ ],
+ "ask_kids": [
+  "What is the hazard in your kitchen that worries you most, and what is the risk of it today? How would you make it smaller?",
+  "If you could use only one tool to find out how long something takes, how fast it goes or how hot it is, which would you choose? What could it not tell you?",
+  "Your two hands disagreed about the same water. Which other things in your day depend on what you have just felt before?",
+  "When you guess the weather for tomorrow, what do you use for your reason? How close are you usually?",
+  "If a prediction of yours missed, how could you find out whether the doing, the tool or the idea was at fault?",
+  "How could you make a test safer for an ant or a plant that is in it?",
+  "Who should decide how much risk is fine in a test: you, a parent or a teacher? Why?",
+  "Is there something you can predict very well, and something you cannot? What makes the difference?"
+ ],
+ "jokes": [
+  {
+   "j": "Why did the sugar go to the school counsellor?",
+   "a": "It kept dissolving every time someone stirred things up."
+  },
+  {
+   "j": "I tried to measure my classroom with a 15 centimetre ruler. What day is it now?",
+   "a": "Day three, and I am still measuring. Please send a tape."
+  },
+  {
+   "j": "Why was the teaspoon chosen as team captain?",
+   "a": "It was always level-headed."
+  },
+  {
+   "j": "What did the weather scientist say after the forecast went wrong?",
+   "a": "'It was right, just not here, not now and not that day.'"
+  },
+  {
+   "j": "A butterfly flapped her wings in Madurai. A week later the forecast for Chennai was wrong. Who is the weather scientist still looking for?",
+   "a": "The butterfly, and she says she was only stretching."
+  },
+  {
+   "j": "Why did the child's finger lose the stopwatch race against the camera?",
+   "a": "It was 0.2 seconds late and refused to say sorry."
+  },
+  {
+   "j": "After the cricket match, everyone says 'I knew he would get out.' What did they write down before the match?",
+   "a": "Nothing. Hindsight never writes anything in ink."
+  },
+  {
+   "j": "Why did the knife stay in the drawer all day?",
+   "a": "It did not want to be a risk-taker."
+  },
+  {
+   "j": "Why did the thermometer join the cooking class?",
+   "a": "It wanted to hear every recipe's temperature talk."
+  }
+ ],
+ "maths": [
+  {
+   "problem": "Three timed runs of the sugar test give 48, 52 and 56 seconds. Find the mean by adding and dividing by 3, and the spread, which is the biggest minus the smallest. Is a prediction of 50 inside the spread?",
+   "answer": "Mean 52 seconds. Spread 8 seconds. Yes, 50 lies between 48 and 56.",
+   "explain": "48 + 52 + 56 = 156. 156 ÷ 3 = 52. The biggest is 56 and the smallest is 48, and 56 − 48 = 8. A prediction between 48 and 56 is inside the spread, so the test cannot tell it from the truth.",
+   "math_unit": "math.data.averages.L4",
+   "how": "e1",
+   "context": "This problem uses the numbers of a dissolving test to find the average and the spread, and to judge a prediction.",
+   "why_maths": "A mean and a spread are the two numbers a scientist needs to say how close a prediction was. One run alone cannot give either."
+  },
+  {
+   "problem": "One test predicted 40 seconds and got 52. Another predicted 9 minutes and got 10 minutes. Which miss is bigger in seconds, and which is bigger as a share of its result?",
+   "answer": "The 9-minute test misses by more seconds (60 against 12). The 40-second test misses by the bigger share, about 23 per cent against 10 per cent.",
+   "explain": "First test: 52 − 40 = 12 seconds. 12 ÷ 52 is about 0.23, which is 23 per cent. Second test: 10 minutes is 600 seconds and 9 minutes is 540, so the miss is 60 seconds. 60 ÷ 600 = 0.1, which is 10 per cent.",
+   "math_unit": "math.fractions.decimals-and-percentages.L4",
+   "context": "This problem compares two misses by their size in seconds and by their share of the result.",
+   "why_maths": "A miss only means something when it is compared with the size of the result. This is how a forecast is judged."
+  },
+  {
+   "problem": "A jug is marked every 100 millilitres, so a reading may be off by up to 50 millilitres. A medicine cup is marked every 5 millilitres, so a reading may be off by up to 2.5. How many times smaller is the cup's possible error?",
+   "answer": "20 times smaller.",
+   "explain": "The error can be up to half of the smallest mark. 50 ÷ 2.5 = 20. For a 10 millilitre amount, an error of 50 is five times the amount itself, so the jug is useless for it.",
+   "math_unit": "math.measurement-basics.estimation-and-precision.L4",
+   "context": "This problem turns the idea of the smallest mark into a number.",
+   "why_maths": "A tool can be wrong by about half of its smallest mark. Comparing marks is how you choose a tool that fits the job."
+  },
+  {
+   "problem": "A kitchen scale shows whole grams. 1,000 grains of rice show 21 grams. What is the mass of one grain? Why is weighing 1,000 grains better than weighing 100 grains that show 2 grams?",
+   "answer": "0.021 grams. The scale's rounding of up to 0.5 gram is about 2 per cent of 21 grams, but about 25 per cent of 2 grams.",
+   "explain": "21 ÷ 1,000 = 0.021. A reading of 2 grams may truly be anything from 1.5 to 2.5, a swing of 0.5 out of 2, which is 25 per cent. A reading of 21 swings 0.5 out of 21, about 2 per cent.",
+   "math_unit": "math.fractions.ratio-and-proportion.L4",
+   "context": "This problem uses a coarse scale to find the mass of one grain, by weighing many together.",
+   "why_maths": "Weighing many and dividing shrinks the share of the rounding error. Scientists use the same trick whenever a tool is too coarse for one small thing."
+  },
+  {
+   "problem": "In a test, there is a 1 in 100 chance of a small spill and a 1 in 10,000 chance of a cut. If 200 families do the test, about how many spills and how many cuts do you expect?",
+   "answer": "About 2 spills and 0.02 cuts, which means a cut is unlikely, about 1 chance in 50 that anyone cuts at all.",
+   "explain": "200 × 1/100 = 2 spills. 200 × 1/10,000 = 0.02, which is 2 in 100, or 1 in 50. A risk joins how likely a harm is with how bad it would be. Spills are likely and mild. A cut is unlikely and worse.",
+   "math_unit": "math.fractions.ratio-and-proportion.L4",
+   "context": "This problem puts numbers on how likely each harm is and compares two risks.",
+   "why_maths": "A risk is a chance times a size. Counting how many times something is expected to happen across many tries is how safety workers compare risks."
+  },
+  {
+   "problem": "A hand-timed run has a finger error of 0.2 seconds at the stop only. How big is that error as a share of a 5-second event, and of a 0.5-second event?",
+   "answer": "4 per cent of 5 seconds, and 40 per cent of 0.5 seconds.",
+   "explain": "0.2 ÷ 5 = 0.04, which is 4 per cent. 0.2 ÷ 0.5 = 0.4, which is 40 per cent. The same error is small for a long event and huge for a short one.",
+   "math_unit": "math.data.reading-data.L4",
+   "how": "e2",
+   "context": "This problem uses the delay found with the falling ruler to judge hand timing for long and short events.",
+   "why_maths": "An error only matters compared with the size of the thing being timed. This is why very short events are timed by cameras."
+  }
+ ],
+ "song": {
+  "topic_level": "sci.how-we-know.L4",
+  "title": "What Would We See?",
+  "note": "Topic-level song"
+ },
+ "links": [
+  {
+   "title": "India Meteorological Department",
+   "url": "https://mausam.imd.gov.in/",
+   "kind": "website",
+   "why": "Daily forecasts, cyclone warnings and monsoon outlooks for India, with the forecast spread shown on the maps."
+  },
+  {
+   "title": "Exploratorium Science Snacks",
+   "url": "https://www.exploratorium.edu/snacks",
+   "kind": "website",
+   "why": "Free hands-on tests that use simple equipment, many about measuring and predicting."
+  },
+  {
+   "title": "Nehru Science Centre, Mumbai",
+   "url": "https://nehrusciencecentre.gov.in/",
+   "kind": "place",
+   "where": "Worli, Mumbai",
+   "why": "A science museum with hands-on displays about measuring. Check the website for opening times before going."
+  },
+  {
+   "title": "CK-12",
+   "url": "https://www.ck12.org/",
+   "kind": "website",
+   "why": "Free textbook chapters about measuring tools and scientific investigations. Search for 'laboratory safety' inside the site."
+  },
+  {
+   "title": "Khan Academy",
+   "url": "https://www.khanacademy.org/",
+   "kind": "website",
+   "why": "Free lessons on measurement and on the scientific method. Search for 'measurement' inside the site."
+  }
+ ],
+ "videos": [
+  {
+   "title": "Reading a measuring cylinder at eye level",
+   "channel": "to be found",
+   "status": "find-id",
+   "mins": 4,
+   "why": "To see why the water line is read with the eye level with it, and how the surface curves.",
+   "check": "Not yet found. Find one, watch it, and check that it reads at eye level, from the bottom of the curve."
+  },
+  {
+   "title": "The checklist that made flying safer: Boeing Model 299",
+   "channel": "to be found",
+   "status": "find-id",
+   "mins": 6,
+   "why": "To hear how a forgotten step crashed a test flight in 1935, and how a short checklist came out of it.",
+   "check": "Not yet found. Find one, watch it, and check it says October 1935 and a lock on the controls."
+  },
+  {
+   "title": "The butterfly effect and weather: Edward Lorenz",
+   "channel": "to be found",
+   "status": "find-id",
+   "mins": 6,
+   "why": "To see how tiny differences at the start of a weather sum grow, so that forecasts fail beyond about two weeks.",
+   "check": "Not yet found. Find one, watch it, and check that it says 0.506127 against 0.506, in 1961."
+  }
+ ],
+ "buy": [
+  {
+   "id": "b-cups",
+   "item": "Clear plastic cups of about 200 millilitres, a pack of 25",
+   "kind": "material",
+   "why": "For the dissolving test, so you can see the sugar vanish. A pack costs about Rs 40 to 80.",
+   "url": "https://www.amazon.in/s?k=clear+plastic+cups+200+ml",
+   "used_in": [
+    "e1",
+    "ch1"
+   ],
+   "plan": "Instead, wash and reuse clear curd or yoghurt cups, or cut a clear plastic bottle in half."
+  },
+  {
+   "id": "b-thermo",
+   "item": "A digital kitchen thermometer",
+   "kind": "tool",
+   "why": "For reading the warmth of the water to the nearest degree. It costs about Rs 150 to 400. Do not buy a glass thermometer that holds mercury.",
+   "url": "https://www.amazon.in/s?k=digital+kitchen+thermometer+probe",
+   "used_in": [
+    "e1",
+    "a1"
+   ],
+   "plan": "Instead, call the waters cold, room and warm, and let a grown-up check the warm water on the inside of a wrist."
+  },
+  {
+   "id": "b-medcup",
+   "item": "A medicine measuring cup or a syringe without a needle, marked in millilitres",
+   "kind": "tool",
+   "why": "For small amounts of water. It costs about Rs 10 to 30, and cough syrups often come with one.",
+   "url": "https://www.amazon.in/s?k=medicine+measuring+cup+ml",
+   "used_in": [
+    "a2",
+    "ch2"
+   ],
+   "plan": "Instead, use a teaspoon of known size and check it against a medicine cup at a pharmacy."
+  },
+  {
+   "id": "b-jug",
+   "item": "A measuring jug marked every 50 or 100 millilitres, 500 millilitres or 1 litre",
+   "kind": "tool",
+   "why": "For measuring the same amount of water each time. It costs about Rs 60 to 150.",
+   "url": "https://www.amazon.in/s?k=plastic+measuring+jug+1+litre",
+   "used_in": [
+    "e1",
+    "a2",
+    "ch2"
+   ],
+   "plan": "Instead, make your own measuring cup from a bottle in the cup-making challenge."
+  },
+  {
+   "id": "b-scale",
+   "item": "A digital kitchen scale that shows whole grams",
+   "kind": "tool",
+   "why": "For weighing grains of rice and, if you wish, the drying cloth. It costs about Rs 300 to 600.",
+   "url": "https://www.amazon.in/s?k=digital+kitchen+weighing+scale",
+   "used_in": [
+    "a2",
+    "p1"
+   ],
+   "plan": "Instead, skip the weighing and judge dryness by touch, with the same person judging each time."
+  },
+  {
+   "id": "b-ruler",
+   "item": "A 30 centimetre plastic ruler with the zero at the end",
+   "kind": "tool",
+   "why": "For dropping in the reaction test and for measuring. It costs about Rs 10 to 20.",
+   "url": "https://www.amazon.in/s?k=30+cm+plastic+ruler",
+   "used_in": [
+    "e2",
+    "a2"
+   ],
+   "plan": "Instead, use a steel or wooden ruler, or a strip of card with centimetres marked from a ruler."
+  },
+  {
+   "id": "b-dropper",
+   "item": "A plastic dropper",
+   "kind": "tool",
+   "why": "For adding single drops to a coin. It costs about Rs 10 to 20.",
+   "url": "https://www.amazon.in/s?k=plastic+dropper+pipette",
+   "used_in": [
+    "a3"
+   ],
+   "plan": "Instead, use a drinking straw with a finger over the top end."
+  },
+  {
+   "id": "b-tape",
+   "item": "Masking tape and a waterproof pen",
+   "kind": "material",
+   "why": "For marking a bottle measuring cup. Together they cost about Rs 50 to 80.",
+   "url": "https://www.amazon.in/s?k=masking+tape+marker+pen",
+   "used_in": [
+    "ch2"
+   ],
+   "plan": "Instead, use a strip of paper stuck on with clear tape, and a pen."
+  },
+  {
+   "id": "b-salt",
+   "item": "Rock salt crystals (sendha namak) or powdered jaggery",
+   "kind": "material",
+   "why": "For the second round of the dissolving test with something new. About Rs 30 to 60 for a small packet.",
+   "url": "https://www.amazon.in/s?k=sendha+namak+rock+salt",
+   "used_in": [
+    "e1"
+   ],
+   "plan": "Instead, use any coarse salt, or a hard sugar crystal such as mishri."
+  },
+  {
+   "id": "b-print",
+   "item": "Printing the game and the worksheets",
+   "kind": "printing",
+   "why": "The game needs about two sheets of A4 paper, which costs about Rs 10 at a print shop.",
+   "url": "",
+   "used_in": [
+    "g1"
+   ],
+   "plan": "Instead, copy the 16 test cards and the 20 plan cards by hand onto scrap paper."
+  },
+  {
+   "id": "b-book",
+   "item": "Little People, Big Dreams: Marie Curie, by Isabel Sanchez Vegara",
+   "kind": "book",
+   "why": "A short picture book to read aloud about the scientist who worked with radium. It costs about Rs 400 to 500.",
+   "url": "https://www.amazon.in/s?k=little+people+big+dreams+marie+curie",
+   "used_in": [],
+   "plan": "Instead, borrow it from a library or ask a librarian for a children's book on Marie Curie."
+  }
+ ],
+ "warmup": [
+  {
+   "q": "Which tool tells you how hot water is?",
+   "a": "A thermometer."
+  },
+  {
+   "q": "Where should your eye be when you read a measuring cup?",
+   "a": "Level with the water, looking straight across."
+  },
+  {
+   "q": "What is the difference between a hazard and a risk?",
+   "a": "A hazard is anything that could cause harm. A risk is how likely the harm is, and how bad."
+  },
+  {
+   "q": "A prediction has two parts. What are they?",
+   "a": "What you expect to happen, and a reason."
+  },
+  {
+   "q": "You predict 30 seconds and the result is 36. What is the difference?",
+   "a": "6 seconds. 36 − 30 = 6."
+  },
+  {
+   "q": "Name the strongest way to cut a risk.",
+   "a": "Remove the hazard."
+  },
+  {
+   "q": "Why do we run a test three times?",
+   "a": "One run can be a fluke, and the spread of three runs shows how much results wobble."
+  },
+  {
+   "q": "Why write your prediction before the test and not after?",
+   "a": "After a result is known, people remember expecting it. A written number cannot change."
+  }
+ ],
+ "warm": {
+  "words": [
+   "RULER",
+   "SPOON",
+   "GUESS",
+   "RISKS",
+   "TOOLS"
+  ],
+  "quiz": [
+   [
+    "Every measuring tool is built to measure one kind of quantity.",
+    true,
+    "A ruler measures length, a cup measures volume and a thermometer measures temperature."
+   ],
+   [
+    "You should read a measuring cup by looking down from above.",
+    false,
+    "From above, the water seems to stand at a different mark. Bend down to eye level."
+   ],
+   [
+    "A hazard is the same as a risk.",
+    false,
+    "A hazard is what could cause harm. A risk is how likely the harm is, and how bad."
+   ],
+   [
+    "Wearing protection is the strongest way to cut a risk.",
+    false,
+    "It is the weakest. The hazard is still there, and protection can slip."
+   ],
+   [
+    "Removing a hazard is stronger than swapping it for a safer one.",
+    true,
+    "If the hazard is gone, nothing can go wrong. A swap leaves a smaller hazard."
+   ],
+   [
+    "A prediction needs a reason as well as a guess.",
+    true,
+    "The reason lets others check your thinking and shows what to rethink if the result differs."
+   ],
+   [
+    "No test can ever have zero risk.",
+    true,
+    "Even cold water on a floor can be slipped on. People choose how much risk is fine."
+   ],
+   [
+    "If a result is not what you predicted, the idea must be wrong.",
+    false,
+    "The doing or the tool may be at fault. Check those two first."
+   ],
+   [
+    "A thermometer shows its true number at the very instant you put it in.",
+    false,
+    "It takes about a minute to settle, so read it then."
+   ],
+   [
+    "A repeated test gives exactly the same number every time.",
+    false,
+    "Results wobble, and the size of the wobble is the spread."
+   ]
+  ],
+  "odd": [
+   [
+    [
+     "Ruler",
+     "Tape measure",
+     "Thermometer",
+     "Metre stick"
+    ],
+    "Thermometer",
+    "The others measure length. A thermometer measures temperature."
+   ],
+   [
+    [
+     "Tray under cups",
+     "Cold water in place of warm",
+     "Plastic cup",
+     "Spilled water"
+    ],
+    "Spilled water",
+    "The others make a risk smaller. A spill is the hazard."
+   ],
+   [
+    [
+     "Time",
+     "Volume",
+     "Mass",
+     "Risk"
+    ],
+    "Risk",
+    "Time, volume and mass are quantities with units. Risk is a chance joined to a size."
+   ],
+   [
+    [
+     "Remove",
+     "Swap",
+     "Wear protection",
+     "Guess"
+    ],
+    "Guess",
+    "The others are ways to cut a risk. A guess is the start of a prediction."
+   ],
+   [
+    [
+     "Written before",
+     "Has a reason",
+     "Judged with a spread",
+     "Changed after the result"
+    ],
+    "Changed after the result",
+    "The others are what a good prediction does. Changing it after hides the miss."
+   ]
+  ]
+ },
+ "cards_mins": 25,
+ "plan": {
+  "start_options": [
+   "a1",
+   "e1",
+   "story",
+   "big_questions",
+   "cards",
+   "g1"
+  ],
+  "default_order": [
+   "intro",
+   "a1",
+   "e1",
+   "summary",
+   "terms",
+   "explanations",
+   "e2",
+   "a2",
+   "story",
+   "g1",
+   "how_we_found_out",
+   "agreed",
+   "challenging",
+   "a3",
+   "ch1",
+   "ch2",
+   "a4",
+   "big_questions",
+   "open_questions",
+   "roots",
+   "quiz",
+   "p1",
+   "ws-core",
+   "ws-stretch",
+   "ws-challenge"
+  ],
+  "core": [
+   "a1",
+   "e1",
+   "e2"
+  ],
+  "spine": [
+   "intro",
+   "e1",
+   "explanations",
+   "roots",
+   "quiz"
+  ]
+ }
 }

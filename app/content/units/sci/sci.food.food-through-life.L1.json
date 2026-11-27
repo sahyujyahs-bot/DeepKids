@@ -3,7 +3,7 @@
  "title": "Food for babies, children and grandparents: why we eat differently as we grow",
  "level": 1,
  "summary": {
-  "text": "A new baby drinks only milk. A grandparent may ask for soft kanji. You can crunch a raw carrot. Why does the same family eat such different food? In this lesson you find out how a body changes from the first day of life to old age, and how food changes with it. You test which foods can be eaten without teeth, and you meet the foods people give to someone who is sick.",
+  "text": "A new baby drinks only milk, a grandparent may ask for soft kanji, and you can crunch a raw carrot. Why does the same family eat such different food? In this lesson you find out how a body changes from the first day of life to old age, and how food changes with it. You test which foods can be eaten without teeth, and you meet the foods people give to someone who is sick.",
   "art": "Three bowls in a row on a floor mat: a small bowl of ragi porridge with a baby's spoon, a plate with idli and a raw carrot, and a bowl of soft kanji, with three pairs of hands of different ages reaching in."
  },
  "intro": {
@@ -711,7 +711,9 @@
   }
  ],
  "sources": {
-  "founder": [],
+  "founder": [
+   "The founder's food notes and the Combined food lessons hold nothing on babies, elders or milk, so this lesson was written from the science sources and the deep sections already in it. The playful activities are new."
+  ],
   "science": [
    "Bode L., 2012. Human milk oligosaccharides: every baby needs a sugar mama. Glycobiology 22:1147.",
    "György P., Norris R. F. and Rose C. S., 1954. Bifidus factor I. Archives of Biochemistry and Biophysics 48:193.",
@@ -737,14 +739,7 @@
   ]
  },
  "playtest": {
-  "note": "Only the deep fields are written here. The founder's notes, the Combined lessons, the curriculum file and deep_truths.py were not opened for this draft, so sources.founder is empty and the deep truth has not been compared with the other lessons' deep truths. A reviewer should do both. The cards avoid repeating sci.food.healthy-food.L1 (water, why we like foods), sci.food.healthy-food.L2 (the three jobs of food) and sci.food.where-food-comes-from.L1.",
-  "main_investigation": "Eating without teeth: which foods can a tongue mash? Lay out six small pieces: ripe banana, cooked rice, a piece of idli, a piece of idli soaked in water or sambar, a biscuit, and a thin slice of raw carrot. For each one the child first guesses 'needs teeth' or 'no teeth needed' and says why. Then the child tries to eat the piece using only the tongue against the roof of the mouth, with a grown-up counting to twenty. Record pass or fail. Then soak the biscuit and steam or boil the carrot and test again. The child finds that the foods that pass are the ones babies and toothless elders are given, and that soaking and cooking move a food from one group to the other. A grown-up sits beside the child throughout, pieces are no bigger than a fingernail, and the child spits out anything that does not mash.",
-  "other_parts_to_write": [
-   "Make ORS at home: one litre of clean water, six level teaspoons of sugar, half a level teaspoon of salt. Taste it: no saltier than tears.",
-   "A family food interview: what was my first food, and what did the oldest person we know eat as a baby?",
-   "Grow marks on the door frame, repeated in three months, as a project.",
-   "Sort picture cards of foods on to three mats: baby of seven months, child of six, elder with few teeth. Many cards belong on more than one mat."
-  ],
+  "note": "Everything in this lesson was checked by reading it through step by step for a family at home. No family has tried it yet. The soft food test is the part to watch first: if your biscuit is already soft from damp air, use a rusk, and if your carrot is old and bendy, use a fresh crisp one. The game cards and worksheets are still untried with children.",
   "verify": [
    "Newborn stomach: about one teaspoon on day 1, about a hen's egg by day 10. Feeds 8 to 12 times in 24 hours.",
    "Human milk: almost nine-tenths water. About 200 kinds of special sugars (human milk oligosaccharides), the third largest solid part.",
@@ -769,9 +764,2807 @@
    "The agreed facts: honey and babies under one year, Mennella's carrot study of 2001, growth by age two.",
    "Clive McCay 1935 and the two monkey studies of eating less."
   ],
-  "flashcard_words": [
-   "baby", "newborn", "stomach", "teaspoon", "milk", "mother's milk", "colostrum (first milk)", "lactose (milk sugar)", "fat", "body-building food (protein)", "germ", "antibody (germ-fighter)", "bacteria", "friendly bacteria", "gut", "mammal", "crop milk", "milk bank", "formula", "first food", "annaprashan", "iron", "ragi", "porridge", "kanji", "khichdi", "mash", "allergy", "milk teeth", "chew", "saliva (spit)", "grow", "repair", "mend", "curd", "elder", "thirst", "muscle", "grandmother idea", "appetite", "fever", "loose motions", "ORS (sugar and salt water)", "ageing"
-  ],
   "parent_note": "Nothing here replaces a doctor's advice for a real baby or a sick person. Whole nuts, whole grapes and hard raw pieces are a choking risk for children under five."
+ },
+ "cards_mins": 10,
+ "terms": [
+  {
+   "term": "baby",
+   "meaning": "A baby is a very young child, from the day of birth until about one year old.",
+   "example": "A baby sleeps a lot, drinks milk and cries when hungry.",
+   "art": "A tiny baby asleep in a cloth cradle tied to a window frame, with a bowl and a spoon on a stool nearby."
+  },
+  {
+   "term": "newborn",
+   "meaning": "A newborn is a baby in the first few weeks after birth.",
+   "example": "A newborn feeds many times in a day and a night, because the stomach is tiny.",
+   "art": "A newborn wrapped in a soft cotton cloth on a bed, held by a mother's hands."
+  },
+  {
+   "term": "stomach",
+   "meaning": "Your stomach is a soft bag inside your tummy. Food goes there after you swallow it.",
+   "example": "After a big meal your stomach is full. After a small snack it has plenty of room left.",
+   "art": "A child pointing to her tummy, with a simple drawing of a bean-shaped bag inside."
+  },
+  {
+   "term": "teaspoon",
+   "meaning": "A teaspoon is a very small spoon. It holds only a few sips.",
+   "example": "A new baby's stomach holds only about one teaspoon of milk on the first day.",
+   "art": "A steel teaspoon next to a steel tumbler, to show how small the spoon is."
+  },
+  {
+   "term": "milk",
+   "meaning": "Milk is a white drink that a mother's body makes for her baby.",
+   "example": "A cow makes milk for her calf. A human mother makes milk for her baby.",
+   "art": "A cow nuzzling her calf in a shed, and a mother holding a baby, side by side."
+  },
+  {
+   "term": "mother's milk",
+   "meaning": "Mother's milk is the milk a baby's own mother makes. It gives the baby food and water together.",
+   "example": "For the first months a baby needs no other drink, because mother's milk has the water in it.",
+   "art": "A mother holding her baby close, with a small glow around the two of them."
+  },
+  {
+   "term": "colostrum (first milk)",
+   "meaning": "Colostrum is the very first milk. It is thick and yellow, and there is only a little.",
+   "example": "A little colostrum is just right for a stomach as small as a marble.",
+   "art": "A small steel katori with a few drops of thick yellow milk, next to a marble."
+  },
+  {
+   "term": "lactose (milk sugar)",
+   "meaning": "Lactose is the sugar inside milk.",
+   "example": "Milk tastes a little bit sweet because of lactose.",
+   "art": "A glass of milk with a tiny sugar-cube picture floating inside it."
+  },
+  {
+   "term": "fat",
+   "meaning": "Fat is the soft, oily part of food. A small bit of fat gives you a lot of strength to play.",
+   "example": "Ghee, butter and groundnuts are fat. Milk has some fat too.",
+   "art": "A spoon of ghee melting on a hot dosa."
+  },
+  {
+   "term": "energy",
+   "meaning": "Energy is the strength your body uses to run, play and keep warm. Food gives you energy. Scientists use this word every day, and they still cannot say exactly what energy is.",
+   "example": "After lunch you have energy to play. Before lunch you may feel tired and slow.",
+   "art": "A child running across a field after a meal, with a steel tiffin box open on the grass behind."
+  },
+  {
+   "term": "body-building food (protein)",
+   "meaning": "Body-building food helps your body grow and mend. Its proper name is protein.",
+   "example": "Dal, eggs, curd, paneer and fish are body-building foods.",
+   "art": "A plate with dal, a boiled egg, a bowl of curd and a piece of paneer."
+  },
+  {
+   "term": "germ",
+   "meaning": "A germ is a living being too tiny to see. Some germs make people ill.",
+   "example": "Germs can be on dirty hands, so we wash before we eat.",
+   "art": "A child washing hands with soap under a tap, with tiny round germs drawn floating away in the foam."
+  },
+  {
+   "term": "antibody (germ-fighter)",
+   "meaning": "An antibody is a tiny germ-fighter made by a body. It catches germs and stops them making you ill.",
+   "example": "A mother's body makes antibodies, and some pass into her milk to help her baby.",
+   "art": "A cartoon of tiny Y-shaped catchers holding on to small round germs."
+  },
+  {
+   "term": "bacteria",
+   "meaning": "Bacteria are living beings so small that you cannot see one alone. There are many kinds, and many are kind to us.",
+   "example": "Bacteria are the ones who turn warm milk into curd overnight.",
+   "art": "A bowl of curd with a zoomed circle showing tiny rod-shaped bacteria."
+  },
+  {
+   "term": "friendly bacteria",
+   "meaning": "Friendly bacteria are bacteria who help your body. Many of them live in your gut.",
+   "example": "Curd is full of friendly bacteria, and so is a baby's gut.",
+   "art": "A smiling cartoon gut tube with tiny friendly bacteria sitting along the wall."
+  },
+  {
+   "term": "gut",
+   "meaning": "Your gut is the long tube inside your tummy where food is broken down.",
+   "example": "After your stomach, food moves along your gut, and your body takes what it needs.",
+   "art": "A child's outline with a long curly tube drawn inside the tummy."
+  },
+  {
+   "term": "mammal",
+   "meaning": "A mammal is an animal whose mother makes milk for her babies. People are mammals too.",
+   "example": "Cows, goats, bats, whales and humans are all mammals.",
+   "art": "A cow, a bat, a whale and a human child standing in a row, each with a baby beside them."
+  },
+  {
+   "term": "crop milk",
+   "meaning": "Crop milk is a thick milky food made in the throat of a pigeon. Pigeon parents feed this milk to their chicks.",
+   "example": "A pigeon on a window ledge feeds her chick crop milk. The father pigeon makes this milk too.",
+   "art": "Two pigeons on a ledge, one feeding a fluffy chick with her beak."
+  },
+  {
+   "term": "milk bank",
+   "meaning": "A milk bank is a place in a hospital where mothers give spare milk for babies who need it.",
+   "example": "Asia's first milk bank opened at Sion Hospital in Mumbai in 1989.",
+   "art": "A hospital shelf with rows of small labelled milk bottles in a fridge."
+  },
+  {
+   "term": "formula",
+   "meaning": "Formula is a milk powder made for babies. A grown-up mixes it with clean, boiled water.",
+   "example": "If a baby cannot have their mother's milk, formula is one way to feed them.",
+   "art": "A tin of milk powder, a clean bottle and a kettle on a kitchen counter."
+  },
+  {
+   "term": "first food",
+   "meaning": "A first food is the first soft food a baby eats besides milk, at about six months.",
+   "example": "Ragi porridge is a first food in Karnataka and Tamil Nadu.",
+   "art": "A small bowl of smooth porridge with a baby spoon beside the bowl."
+  },
+  {
+   "term": "annaprashan",
+   "meaning": "Annaprashan is a family celebration of a baby's first taste of rice. Many families in India hold it.",
+   "example": "In Kerala this day is called choroonu. In Bengal it is called mukhe bhaat.",
+   "art": "A family sitting on a mat around a small bowl of rice and payasam, with a baby on someone's lap."
+  },
+  {
+   "term": "iron",
+   "meaning": "Iron is something your blood needs to stay strong. It comes from food.",
+   "example": "Ragi, dal, eggs and green leaves have iron in them.",
+   "art": "A bowl of ragi porridge, a bowl of dal, and a bunch of spinach in a row."
+  },
+  {
+   "term": "ragi",
+   "meaning": "Ragi is a small, dark grain. It is also called finger millet.",
+   "example": "People make ragi porridge, ragi mudde and ragi dosa.",
+   "art": "A heap of tiny dark brown ragi grains in a steel plate, with a ragi mudde ball next to it."
+  },
+  {
+   "term": "porridge",
+   "meaning": "Porridge is a grain cooked in water or milk until it is soft and thick.",
+   "example": "Ragi porridge, rice porridge and oats porridge are all soft foods.",
+   "art": "A steaming bowl of smooth porridge with a spoon standing up in it."
+  },
+  {
+   "term": "kanji",
+   "meaning": "Kanji is rice cooked in lots of water until it is very soft and runny.",
+   "example": "Many people eat kanji when they are ill or have few teeth.",
+   "art": "A steel bowl of kanji with a pinch of salt on top and a spoon beside it."
+  },
+  {
+   "term": "khichdi",
+   "meaning": "Khichdi is rice and dal cooked together until they are very soft.",
+   "example": "Khichdi is a soft food for a baby, a child and a grandparent.",
+   "art": "A steel plate of yellow khichdi with a small spoon of ghee melting on top."
+  },
+  {
+   "term": "mash",
+   "meaning": "To mash is to squash a food until it is soft and smooth.",
+   "example": "You can mash a banana with a fork, or with your tongue.",
+   "art": "A fork pressing down on a banana slice in a bowl until it turns to paste."
+  },
+  {
+   "term": "allergy",
+   "meaning": "An allergy is when a body reacts badly to a food that is harmless for most people. The reaction can be a rash, swelling or trouble breathing.",
+   "example": "Some children are allergic to peanuts, so their family keeps peanuts away from them.",
+   "art": "A child with a small red rash on the arm, and a grown-up checking a food label."
+  },
+  {
+   "term": "milk teeth",
+   "meaning": "Milk teeth are your first set of 20 teeth. They fall out one by one, and bigger teeth grow in.",
+   "example": "A wobbly front tooth is a milk tooth that is about to fall out.",
+   "art": "A child grinning with a gap in the front teeth, with one wobbly tooth drawn bigger."
+  },
+  {
+   "term": "chew",
+   "meaning": "To chew is to bite food and grind it with your teeth.",
+   "example": "You chew an apple slowly until it is small enough to swallow.",
+   "art": "A child chewing with a happy face, with arrows pointing at the moving jaw."
+  },
+  {
+   "term": "saliva (spit)",
+   "meaning": "Saliva is the wet spit in your mouth. It softens food and helps you swallow.",
+   "example": "A dry biscuit goes soft in your mouth because of saliva.",
+   "art": "A child's open mouth with a tiny drop shown wetting a biscuit crumb."
+  },
+  {
+   "term": "grow",
+   "meaning": "To grow is to get bigger. Bones, muscles and skin all grow, and they need food to do it.",
+   "example": "Your feet grow, so last year's chappals no longer fit.",
+   "art": "A child standing against a door frame, with pencil marks going up the wood."
+  },
+  {
+   "term": "repair",
+   "meaning": "To repair is to make something that is worn work well again.",
+   "example": "Your body repairs itself all the time, even when you are asleep.",
+   "art": "A child sleeping, with tiny cartoon builders mending a map of the body."
+  },
+  {
+   "term": "mend",
+   "meaning": "To mend is to fix a tear or a hole. Skin mends after a cut, and a torn shirt can be mended with a needle.",
+   "example": "A scratch on your knee mends in about a week.",
+   "art": "A knee with a small scab, and beside it a shirt being sewn with a needle."
+  },
+  {
+   "term": "curd",
+   "meaning": "Curd is milk that friendly bacteria have turned thick and a little sour.",
+   "example": "Curd rice is a soft food that a baby, a child and a grandparent can all eat.",
+   "art": "A steel bowl of white curd with a spoon, and a small plate of curd rice."
+  },
+  {
+   "term": "elder",
+   "meaning": "An elder is an older person in a family or a village. Elders know many things and stories.",
+   "example": "A grandparent or an older neighbour may be an elder you know.",
+   "art": "An elder with white hair sitting on a verandah, with a child leaning on their knee."
+  },
+  {
+   "term": "thirst",
+   "meaning": "Thirst is the feeling that your body needs water.",
+   "example": "You feel thirst after running in the sun.",
+   "art": "A child with a dry mouth and a hot face, looking at a tumbler of water."
+  },
+  {
+   "term": "muscle",
+   "meaning": "A muscle is a part of your body that pulls and makes you move.",
+   "example": "Leg muscles help you run, and arm muscles help you lift your school bag.",
+   "art": "A child lifting a bag, with the arm muscle drawn as a rope."
+  },
+  {
+   "term": "grandmother idea",
+   "meaning": "The grandmother idea is a scientist's guess. It says that grandmothers live a long time because they help feed their grandchildren.",
+   "example": "Kristen Hawkes watched Hadza grandmothers in Tanzania digging roots for their grandchildren, and so the idea was born.",
+   "art": "A grandmother digging a root out of the ground while two small children watch."
+  },
+  {
+   "term": "appetite",
+   "meaning": "Appetite is the wish to eat. When you are well, your appetite is big. When you are ill, it may go away.",
+   "example": "With a fever you may not want biryani, even though it is your favourite.",
+   "art": "A child pushing away a big plate with a tired face, and a small bowl of kanji on a tray."
+  },
+  {
+   "term": "fever",
+   "meaning": "A fever is when your body is hotter than usual. It often means the body is fighting a germ.",
+   "example": "With a fever you feel hot, tired and not hungry.",
+   "art": "A child in bed with a cloth on the forehead and a thermometer on a table."
+  },
+  {
+   "term": "loose motions",
+   "meaning": "Loose motions is when your poo is watery and comes often. The body loses a lot of water and salt.",
+   "example": "A child with loose motions needs ORS and a doctor's help.",
+   "art": "A glass of ORS and a spoon on a bedside table beside a resting child."
+  },
+  {
+   "term": "ORS (sugar and salt water)",
+   "meaning": "ORS is clean water with a little sugar and a little salt, mixed in the right amounts. It helps a sick body take in water.",
+   "example": "ORS packets are sold at every chemist shop in India.",
+   "art": "A packet of ORS powder, a jug of clean water and a glass of ORS."
+  },
+  {
+   "term": "ageing",
+   "meaning": "Ageing is how a body slowly changes as the years go by. Hair turns grey and some teeth may fall out.",
+   "example": "A grandparent has many years of ageing, and a lot of knowledge too.",
+   "art": "Three faces in a row of the same family: a baby, a parent and a white-haired grandparent."
+  }
+ ],
+ "experiments": [
+  {
+   "id": "e1",
+   "title": "Eating without teeth: which foods can a tongue mash?",
+   "mins": 25,
+   "days": 1,
+   "context": "In this experiment you test eight small foods. First you squash each one between your finger and thumb. Then you press the soft ones with your tongue. You find out which foods a baby or a grandparent with few teeth can eat, and how soaking and cooking change a food.",
+   "question": "Which foods can be mashed without teeth, and can we turn a hard food into one that can?",
+   "predict": "Look at each food. Guess if it needs teeth or can be eaten without teeth. Say why you think so.",
+   "fair_test": "Every piece is cut about the size of a fingernail. Every piece gets the same finger squash, and the soft ones get the same tongue press for a count of twenty. Between foods, you sip water. The only thing that changes from the first round to the second is that a food has been soaked or cooked.",
+   "results_table": [
+    "Food",
+    "My guess: needs teeth?",
+    "Finger squash: flat?",
+    "Tongue press: paste?"
+   ],
+   "materials": [
+    {
+     "item": "a ripe banana, one slice as thick as your finger",
+     "qty": 1
+    },
+    {
+     "item": "cooked rice",
+     "qty": "1 spoonful"
+    },
+    {
+     "item": "a plain idli, a piece the size of a fingernail",
+     "qty": 1
+    },
+    {
+     "item": "a small piece of idli soaked in a katori of water or sambar for one minute",
+     "qty": 1
+    },
+    {
+     "item": "a plain biscuit, a piece the size of a fingernail",
+     "qty": 1
+    },
+    {
+     "item": "a fresh raw carrot, one thin slice cut by a grown-up",
+     "qty": 1
+    },
+    {
+     "item": "3 soft cooked carrot slices, boiled by a grown-up for 10 minutes, or soft carrot from a sabzi",
+     "qty": 3
+    },
+    {
+     "item": "a katori of warm water, for soaking the biscuit piece",
+     "qty": 1
+    },
+    {
+     "item": "a steel plate to lay the foods out on",
+     "qty": 1
+    },
+    {
+     "item": "a tumbler of water, for sips between foods",
+     "qty": 1
+    },
+    {
+     "item": "tissue paper, for spitting out",
+     "qty": "4 pieces"
+    },
+    {
+     "item": "a spoon",
+     "qty": 1
+    }
+   ],
+   "safety": "A grown-up sits beside you the whole time. A food goes into your mouth only if it squashed flat between finger and thumb. Never put in a food that snapped or stayed hard. Spit out anything that does not turn to paste. Skip a food if your child is allergic to it. Wash hands first.",
+   "schedule": [
+    {
+     "day": 1,
+     "mins": 25,
+     "what": "Guess, squash and press eight small foods. Then soak and cook the two hard ones and test them again."
+    }
+   ],
+   "record": "Draw a face under each food. Draw a smile if it turned to paste. Draw a straight mouth if it did not. Or tell your grown-up which foods passed.",
+   "example_chart": {
+    "type": "table",
+    "title": "What usually happens",
+    "cols": [
+     "Food",
+     "Finger squash",
+     "Tongue press"
+    ],
+    "rows": [
+     [
+      "Ripe banana",
+      "Squashes flat",
+      "Paste in a few seconds"
+     ],
+     [
+      "Cooked rice",
+      "Squashes flat",
+      "Paste, maybe a few soft grains"
+     ],
+     [
+      "Plain idli",
+      "Squashes flat",
+      "Paste"
+     ],
+     [
+      "Soaked idli",
+      "Squashes flat",
+      "Paste, even faster"
+     ],
+     [
+      "Biscuit",
+      "Snaps or crumbles",
+      "Not tried"
+     ],
+     [
+      "Raw carrot",
+      "Stays hard",
+      "Not tried"
+     ],
+     [
+      "Biscuit, soaked",
+      "Squashes flat",
+      "Paste"
+     ],
+     [
+      "Carrot, cooked",
+      "Squashes flat",
+      "Paste"
+     ]
+    ]
+   },
+   "setup": [
+    {
+     "art": "Six small foods in a row on a steel plate: a banana slice, cooked rice, an idli piece, a soaked idli piece, a biscuit piece and a raw carrot slice.",
+     "caption": "1. Lay out six small foods, each the size of a fingernail."
+    },
+    {
+     "art": "A child pressing a piece of banana between a thumb and a finger, with a grown-up watching.",
+     "caption": "2. Squash each piece between finger and thumb. Does it go flat?"
+    },
+    {
+     "art": "A child with the tongue pressing a small piece of banana against the roof of the mouth, with an arrow showing the press.",
+     "caption": "3. Only the soft pieces go in. Press with your tongue and count to twenty."
+    }
+   ],
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 5,
+     "do": "1. Start the carrot slices boiling first, or take soft carrot from last night's sabzi. 2. Cut each food into pieces the size of a fingernail. The carrot slice is thin. 3. Lay the six foods in a row on the plate. Keep the soft cooked carrot and a katori of warm water to one side. 4. Put a tissue, a tumbler of water and a spoon beside the child.",
+     "say": "We will find out which foods can be eaten without teeth. A baby has no teeth, and some grandparents have very few. Here are six foods.",
+     "kid": "A grown-up cuts and cooks. You lay the six foods in a row.",
+     "adult": true,
+     "parent": "The grown-up does all the cutting and boiling. Keep every piece no bigger than a fingernail. If your biscuit has gone soft in damp weather, use a dry rusk or toast instead. If your carrot is old and bendy, use a fresh crisp one, because a fresh carrot snaps."
+    },
+    {
+     "id": "s2",
+     "mins": 3,
+     "do": "1. Point to each food in turn. 2. Ask your child to guess: needs teeth, or can be eaten without teeth. 3. Ask why. 4. Write each guess down, or draw a tooth or a no-tooth sign beside it. 5. Do not correct a guess.",
+     "say": "Look at each food. Do you think it needs teeth, or can a baby eat this food with no teeth? Why do you think so?",
+     "kid": "Look at each food. Guess if it needs teeth. Say why.",
+     "ask": [
+      {
+       "q": "Which food do you think will be hardest to eat without teeth? Why?",
+       "good": [
+        "The carrot, because it is hard.",
+        "The biscuit, because it is crunchy.",
+        "The banana is soft, so it will be easy."
+       ]
+      }
+     ],
+     "parent": "Every guess is a good guess. Do not say who is right yet. The test will tell."
+    },
+    {
+     "id": "s3",
+     "mins": 5,
+     "do": "1. Pick up one piece at a time. 2. The child squashes it between their finger and thumb. 3. Does it go flat with no hard bit? Tick for flat. Cross for snapped or hard. 4. Do all six foods.",
+     "say": "Squash each piece between your finger and thumb. Does it go flat? Or does it snap or stay hard?",
+     "kid": "Squash each piece with your finger and thumb. Does it go flat? Tick or cross.",
+     "ask": [
+      {
+       "q": "Which pieces went flat? Which did not?",
+       "good": [
+        "The banana, rice and idli went flat.",
+        "The biscuit snapped and the carrot stayed hard.",
+        "The soaked idli went flat easily."
+       ]
+      }
+     ],
+     "parent": "This step keeps a hard food out of the mouth. A piece that does not squash flat does not go in. Do not do the tongue test on it."
+    },
+    {
+     "id": "s4",
+     "mins": 6,
+     "do": "1. For each piece that went flat, put it on the tongue. 2. Press it against the roof of the mouth. No teeth at all. 3. Count slowly to twenty together. 4. Is it paste? Smile if yes. Straight mouth if there are lumps. 5. Spit out any lumps into the tissue. Sip water before the next one.",
+     "say": "Now put the soft pieces in your mouth one by one. Do not use your teeth. Press with your tongue and count to twenty. Is it paste?",
+     "kid": "Only soft pieces go in. Press with your tongue. Count to twenty. Is it paste?",
+     "check": {
+      "t": "mcq",
+      "q": "Why do we do the finger squash before the tongue press?",
+      "options": [
+       "To keep hard food out of the mouth",
+       "To make the food taste better",
+       "To wash the food"
+      ],
+      "a": 0,
+      "why": "A piece that does not squash flat could be hard for a mouth with no teeth. The finger squash tells us before the piece goes in."
+     },
+     "parent": "A small piece of idli, banana or rice is safe for a child of six. Count aloud for the child. If any piece feels stuck, the child spits it out at once."
+    },
+    {
+     "id": "s5",
+     "mins": 4,
+     "do": "1. Put the biscuit piece in the katori of warm water for one minute. 2. Squash it between finger and thumb. 3. Squash a piece of soft cooked carrot between finger and thumb. 4. If they go flat, press each one with the tongue for a count of twenty. 5. Add two more lines to your record.",
+     "say": "The biscuit and the carrot were too hard. Now one has been soaked and one has been cooked. Squash them again. What has changed?",
+     "kid": "Soak the biscuit. Squash it. Squash the cooked carrot. What changed?",
+     "ask": [
+      {
+       "q": "What did the water and the cooking do to the food?",
+       "good": [
+        "They made the food soft.",
+        "Now the biscuit and the carrot can be eaten without teeth."
+       ]
+      }
+     ],
+     "parent": "Soaking pushes water into a dry food. Cooking in water does the same to a carrot. Both soften it. If the soaked biscuit is still a little firm, soak for one more minute."
+    },
+    {
+     "id": "s6",
+     "mins": 2,
+     "do": "1. Look at the record. Which foods passed with no teeth? 2. Ask who in your family eats these. 3. Ask what a food like the raw carrot would need.",
+     "say": "Look at the foods that passed. Who in a family would eat these foods? What did the water and cooking do?",
+     "kid": "Look at the foods that passed. Who do you think eats them every day?",
+     "ask": [
+      {
+       "q": "Who would eat the foods that went to paste?",
+       "good": [
+        "A baby with no teeth.",
+        "A grandparent with few teeth.",
+        "Anyone who is not feeling well."
+       ]
+      }
+     ],
+     "think": "This test shows what is soft. It does not show if the food is full of goodness. Does a soft food always have enough goodness in it? How would you find out?",
+     "parent": "Say honestly what the test cannot tell us. It tests chewing only. Many old people have strong teeth, and a very soft food can still be thin in goodness. Scientists who study old people's meals ask both questions."
+    }
+   ]
+  }
+ ],
+ "activities": [
+  {
+   "id": "a1",
+   "title": "Make ORS at home and taste it",
+   "mins": 15,
+   "days": 1,
+   "context": "In this activity you make ORS, which is water with a little sugar and a little salt. You taste it and see how little salt is in it. You find out what the drink is for.",
+   "materials": [
+    {
+     "item": "clean drinking water that was boiled and cooled, or filtered water",
+     "qty": "1 litre"
+    },
+    {
+     "item": "sugar",
+     "qty": "6 level teaspoons"
+    },
+    {
+     "item": "salt",
+     "qty": "half a level teaspoon"
+    },
+    {
+     "item": "a clean jug or bottle that holds one litre",
+     "qty": 1
+    },
+    {
+     "item": "a clean spoon and a knife with a flat edge, to level each teaspoon",
+     "qty": 1
+    },
+    {
+     "item": "a clean steel tumbler or katori for tasting",
+     "qty": 2
+    }
+   ],
+   "safety": "Boiled water must be fully cool before a child touches it. A grown-up measures the salt.",
+   "schedule": [
+    {
+     "day": 1,
+     "mins": 15,
+     "what": "Measure, stir and taste a litre of ORS. Taste plain water first."
+    }
+   ],
+   "record": "Draw your face after tasting plain water and after tasting ORS. Say in one word how the ORS tasted.",
+   "setup": [
+    {
+     "art": "A jug of clean water, a bowl of sugar with a teaspoon and a bowl of salt with a half teaspoon on a kitchen counter.",
+     "caption": "1. Get one litre of clean water, sugar and salt."
+    },
+    {
+     "art": "A hand levelling a heaped teaspoon of sugar with the flat edge of a knife over the jug.",
+     "caption": "2. Level every spoon. Count: six sugar, half a salt."
+    },
+    {
+     "art": "A child tasting a small sip of the drink from a steel katori, scrunching the nose, while a grown-up stirs the jug.",
+     "caption": "3. Stir and taste a little. It tastes only a little salty."
+    }
+   ],
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 8,
+     "do": "1. Wash hands. 2. Pour one litre of clean water into the jug. 3. Level six teaspoons of sugar, one at a time. Count aloud as you add them. 4. Level half a teaspoon of salt. 5. Stir until you cannot see any grains.",
+     "say": "This drink is called ORS. We measure it very carefully. Count the sugar spoons with me. Six level spoons of sugar. Then half a spoon of salt.",
+     "kid": "Count six level spoons of sugar. Add half a spoon of salt. Stir.",
+     "ask": [
+      {
+       "q": "Why do you think we level every spoon?",
+       "good": [
+        "So every spoon has the same amount.",
+        "So it is not too sweet or too salty."
+       ]
+      }
+     ],
+     "parent": "Never heap the spoon. A heaped spoon holds far more than a level one, and too much salt is not good for a sick child. Use a packet from a chemist shop when you have one, because the packet is measured exactly."
+    },
+    {
+     "id": "s2",
+     "mins": 7,
+     "do": "1. Pour a sip of plain clean water into one katori. 2. Pour a sip of ORS into another. 3. Taste the plain water first, then the ORS. 4. Ask how they differ. 5. Tell your child what the drink is for.",
+     "say": "Taste the plain water. Now taste the ORS. It is only a little salty, about as salty as your tears. A sick body that has lost a lot of water needs this drink.",
+     "kid": "Taste plain water. Then taste ORS. What is different?",
+     "ask": [
+      {
+       "q": "How does ORS taste?",
+       "good": [
+        "A little sweet and a little salty.",
+        "About as salty as tears.",
+        "Not like sweets or like a salty snack."
+       ]
+      }
+     ],
+     "think": "Why do you think the sugar is in the drink, if it is for a sick tummy?",
+     "parent": "Say the real reason if your child asks. The sugar is there to help the salt and water get in. It is not a treat. Use the mixed ORS the same day, and make a fresh jug for the next day."
+    }
+   ]
+  },
+  {
+   "id": "a2",
+   "title": "Ask a grown-up: what was your first food?",
+   "mins": 15,
+   "days": 1,
+   "context": "In this activity you ask an older person what their first food was, and what they eat now. You find out that foods change with the body, and that every family has its own first foods.",
+   "materials": [
+    {
+     "item": "paper, folded in half",
+     "qty": 1
+    },
+    {
+     "item": "crayons or colour pencils",
+     "qty": "a few"
+    },
+    {
+     "item": "a grandparent, an older relative, a neighbour or a teacher to ask, in person, by phone or on a video call",
+     "qty": 1
+    }
+   ],
+   "schedule": [
+    {
+     "day": 1,
+     "mins": 15,
+     "what": "Ask two questions, listen, and draw the answers."
+    }
+   ],
+   "record": "A folded paper. Draw the first food on the left side and the food they eat now on the right.",
+   "setup": [
+    {
+     "art": "A child sitting on a mat beside an elder with a folded paper and crayons, with the elder talking and the child listening.",
+     "caption": "1. Sit with an older person. Ask your two questions."
+    },
+    {
+     "art": "A folded paper with a bowl of porridge drawn on the left side and a bowl of soft rice on the right side.",
+     "caption": "2. Draw their first food on one side and their food now on the other."
+    }
+   ],
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 8,
+     "do": "1. Choose an older person you can talk to. If there is no grandparent near you, ask a neighbour, a teacher or an older relative on the phone. 2. Ask what the first food was, and who gave it. 3. Ask what they love to eat now, and what is hard to eat.",
+     "say": "Ask a question. What was the first food you ate when you were a baby? And what is the food you like now?",
+     "kid": "Ask two questions. What was your first food? What do you eat now?",
+     "ask": [
+      {
+       "q": "Is the first food the same as the food now?",
+       "good": [
+        "No. It was softer.",
+        "It was a porridge, and now it is rice and dal.",
+        "It is not the same."
+       ]
+      }
+     ],
+     "parent": "Some people will not remember. Ask what their own elders said, or what the family usually gave to babies. If your family has no older person near you, ask the child to think about a friend's grandparent or an older teacher. Do not ask anything that feels sad."
+    },
+    {
+     "id": "s2",
+     "mins": 7,
+     "do": "1. Fold the paper. 2. Draw the first food on the left. 3. Draw the food they eat now on the right. 4. Tell each other what you found.",
+     "say": "Draw their first food on one side. Draw the food they eat now on the other side. Are they alike?",
+     "kid": "Draw their first food on one side. Draw their food now on the other.",
+     "ask": [
+      {
+       "q": "What do the two drawings tell you?",
+       "good": [
+        "Foods change as people grow.",
+        "The first food was soft.",
+        "People in different homes eat different first foods."
+       ]
+      }
+     ],
+     "think": "If you were to give a first food to a baby, what would you choose, and why?",
+     "parent": "Different families will give very different answers. That is the point. There is no best first food, only foods that are soft and local."
+    }
+   ]
+  },
+  {
+   "id": "a3",
+   "title": "A teaspoon of milk: how small is a newborn's stomach?",
+   "mins": 12,
+   "days": 1,
+   "context": "In this activity you pour out one teaspoon of water and look at it. A newborn baby's stomach holds about this much on the first day. Then you pour ten teaspoons, about what the stomach holds after a week or two. You find out why a new baby feeds so often.",
+   "materials": [
+    {
+     "item": "a clean teaspoon",
+     "qty": 1
+    },
+    {
+     "item": "a small steel katori",
+     "qty": 1
+    },
+    {
+     "item": "a tumbler of water",
+     "qty": 1
+    },
+    {
+     "item": "a marble or a guli, or a ball of dough the size of a marble",
+     "qty": 1
+    },
+    {
+     "item": "a hen's egg, held in a bowl (or just think of one)",
+     "qty": 1
+    },
+    {
+     "item": "a large steel bowl to pour into",
+     "qty": 1
+    }
+   ],
+   "schedule": [
+    {
+     "day": 1,
+     "mins": 12,
+     "what": "Pour one teaspoon. Then pour ten teaspoons. Compare."
+    }
+   ],
+   "record": "Draw a marble and an egg, and write a 1 under the marble and a 10 under the egg. Or tell your grown-up what you saw.",
+   "setup": [
+    {
+     "art": "A steel teaspoon with a little water in it above a small katori, next to a marble.",
+     "caption": "1. One teaspoon of water. This is the first day."
+    },
+    {
+     "art": "A large steel katori with water being poured into it from a teaspoon, ten small drops marked with tally lines on the table.",
+     "caption": "2. Pour ten teaspoons. This is about a hen's egg."
+    }
+   ],
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 5,
+     "do": "1. Fill the teaspoon with water. 2. Pour it into the katori. 3. Look at how little it is. 4. Place the marble beside it.",
+     "say": "A newborn baby's stomach holds only this much milk on the first day. About one teaspoon. It is about the size of this marble.",
+     "kid": "Pour one teaspoon of water. That is a newborn's whole stomach.",
+     "ask": [
+      {
+       "q": "Would one teaspoon make you full?",
+       "good": [
+        "No. It is tiny.",
+        "I would be hungry very soon."
+       ]
+      }
+     ],
+     "parent": "This stomach size is an estimate from studies. Say so if your child asks. Do not turn this into a worry about any real baby."
+    },
+    {
+     "id": "s2",
+     "mins": 7,
+     "do": "1. Count ten teaspoons into the large bowl. Count aloud. 2. Look at the bowl and at the egg. 3. Ask how many times a baby would need to eat if the stomach is this small.",
+     "say": "A few days later the stomach has grown. Count ten teaspoons with me. That is about what a hen's egg would hold.",
+     "kid": "Pour ten teaspoons, one by one. Count out loud.",
+     "ask": [
+      {
+       "q": "Why does a new baby feed many times in a day and a night?",
+       "good": [
+        "The stomach is small, so the milk goes quickly.",
+        "A teaspoon does not last long."
+       ]
+      }
+     ],
+     "think": "Why is milk, which is a liquid that needs no chewing, the right food for a stomach this small?",
+     "parent": "Tell your child plainly that this is why a new baby asks for milk so often. Mother's milk is made in small amounts at first, which fits."
+    }
+   ]
+  },
+  {
+   "id": "a4",
+   "title": "Soft but rich: cook kanji and add goodness",
+   "mins": 35,
+   "days": 1,
+   "context": "In this activity a grown-up cooks rice in lots of water until it turns into kanji. You then stir in dal to make the soft food richer. You find out why soft food for an old person must still be full of goodness.",
+   "materials": [
+    {
+     "item": "rice",
+     "qty": "quarter of a cup"
+    },
+    {
+     "item": "water",
+     "qty": "5 cups"
+    },
+    {
+     "item": "cooked dal, mashed",
+     "qty": "3 spoonfuls"
+    },
+    {
+     "item": "a pinch of salt",
+     "qty": 1
+    },
+    {
+     "item": "a spoon of ghee, if your family uses it",
+     "qty": 1
+    },
+    {
+     "item": "a large pot with a lid",
+     "qty": 1
+    },
+    {
+     "item": "two steel katoris",
+     "qty": 2
+    }
+   ],
+   "safety": "A grown-up does all the cooking. The pot is hot. Let the kanji cool until it is only warm before a child tastes it.",
+   "schedule": [
+    {
+     "day": 1,
+     "mins": 35,
+     "what": "Cook kanji, add dal, cool it, and compare a spoon of thin kanji with a spoon of rich kanji."
+    }
+   ],
+   "record": "Draw the two katoris. Write thin or rich under each. Say which one would fill a small stomach better.",
+   "setup": [
+    {
+     "art": "A grown-up stirring a large pot of rice with lots of water on a stove, with a child standing at a safe distance watching.",
+     "caption": "1. A grown-up cooks the rice in lots of water. The child watches."
+    },
+    {
+     "art": "Two steel katoris side by side, one with thin kanji and one with kanji stirred with yellow dal.",
+     "caption": "2. Stir dal into one katori. Compare thin and rich."
+    }
+   ],
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 25,
+     "do": "1. A grown-up puts the rice and the 5 cups of water in the pot. 2. Bring to the boil. Then simmer with the lid slightly open for about 25 minutes. Stir now and then, until the rice has burst and the water is thick. 3. Add the pinch of salt. 4. While it cooks, the child watches from a safe distance.",
+     "say": "We are making kanji. It is rice cooked in lots of water until it is very soft. Why do you think old people eat it?",
+     "kid": "A grown-up cooks the rice. You watch and wait.",
+     "adult": true,
+     "ask": [
+      {
+       "q": "What do you think will happen to the rice grains?",
+       "good": [
+        "They will go soft.",
+        "They will break open.",
+        "They will melt into the water."
+       ]
+      }
+     ],
+     "wait": "Wait about 25 minutes, then let the kanji cool.",
+     "parent": "Rice and water at 1 to 20 gives a thin, soft kanji. If the water boils away before the rice bursts, add half a cup of hot water. Make it thinner for a very weak elder and thicker for a stronger one."
+    },
+    {
+     "id": "s2",
+     "mins": 10,
+     "do": "1. Ladle two katoris of cooled kanji. 2. Leave one plain. 3. Stir the mashed dal and a drop of ghee into the other. 4. Wait until warm, not hot. 5. Taste a spoon of each.",
+     "say": "Now two bowls of kanji. One is plain. One has dal stirred in. Taste both. Which one will fill a small stomach better? Why?",
+     "kid": "Taste both kanjis. Which one has more goodness?",
+     "ask": [
+      {
+       "q": "Why add dal to the kanji?",
+       "good": [
+        "Dal gives body-building food.",
+        "It makes it richer.",
+        "An old person needs strong muscles too."
+       ]
+      }
+     ],
+     "think": "Soft food is easy to eat. What else must it have for an old person?",
+     "parent": "Old muscles need feeding and using, so a small bowl must carry a lot. Stir in dal, egg or curd, or ground nuts cooked soft."
+    }
+   ]
+  },
+  {
+   "id": "a5",
+   "title": "Mirror teeth: which teeth cut and which teeth grind?",
+   "mins": 12,
+   "days": 1,
+   "context": "In this activity you look at your own teeth in a mirror and count them. You bite a soft piece of idli with your front teeth, and chew it with your back teeth. You find out that different teeth do different jobs.",
+   "materials": [
+    {
+     "item": "a mirror",
+     "qty": 1
+    },
+    {
+     "item": "a plain idli, torn into 4 pieces",
+     "qty": 1
+    },
+    {
+     "item": "paper and a pencil",
+     "qty": 1
+    },
+    {
+     "item": "a tumbler of water",
+     "qty": 1
+    }
+   ],
+   "schedule": [
+    {
+     "day": 1,
+     "mins": 12,
+     "what": "Look, count, bite and chew."
+    }
+   ],
+   "record": "Draw your own smile. Colour front teeth red and back teeth blue.",
+   "setup": [
+    {
+     "art": "A child with a wide-open smile looking into a hand mirror, with a finger pointing at a front tooth.",
+     "caption": "1. Look at your teeth in the mirror. Find the front ones and back ones."
+    },
+    {
+     "art": "A child biting a soft idli piece with the front teeth, and then chewing it with a closed mouth.",
+     "caption": "2. Bite with the front teeth. Chew with the back teeth."
+    }
+   ],
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 6,
+     "do": "1. Wash hands. 2. Open wide in front of the mirror. 3. Count the teeth you see on top, then the bottom. 4. Point to a thin front tooth, a wide back tooth and any gap or wobbly tooth.",
+     "say": "Look at your teeth in the mirror. Front teeth are thin and have a straight edge. Back teeth are wide and flat. Find some of each. Are there any gaps?",
+     "kid": "Count your teeth. Find a gap. Which teeth are thin? Which are flat?",
+     "ask": [
+      {
+       "q": "Which teeth do you think cut food, and which teeth grind it?",
+       "good": [
+        "The thin ones in front cut.",
+        "The wide ones at the back grind."
+       ]
+      }
+     ],
+     "parent": "A child of six may have a gap, a wobbly tooth or a new big tooth. Any of these is normal. Count the milk teeth together, and say that by about three years old a child has 20 of them."
+    },
+    {
+     "id": "s2",
+     "mins": 6,
+     "do": "1. Give your child a soft piece of idli. 2. Bite it with the front teeth. 3. Then chew it with the back teeth, slowly, ten times. 4. Notice how the piece changes. 5. Sip water.",
+     "say": "Take a bite of idli with your front teeth. Now chew with your back teeth. How does the idli change?",
+     "kid": "Bite with front teeth. Chew with back teeth. Feel the change.",
+     "ask": [
+      {
+       "q": "How did the idli change as you chewed?",
+       "good": [
+        "It got smaller.",
+        "It got wet.",
+        "It became soft and mushy."
+       ]
+      }
+     ],
+     "think": "If your front teeth were gone, how would eating an apple change?",
+     "parent": "Chewing makes food small and mixes it with saliva, so the stomach has less work to do. Use a soft food. Do not give hard pieces to a child who has a wobbly tooth."
+    }
+   ]
+  }
+ ],
+ "projects": [
+  {
+   "id": "p1",
+   "title": "Door-frame growth marks: how much do I grow in three months?",
+   "mins": 19,
+   "days": 90,
+   "context": "In this project you mark your height on a door frame today, again in a month and a half, and again in three months. You find out that a growing body builds itself from food, a little every day. You also mark a grown-up, who stays the same.",
+   "materials": [
+    {
+     "item": "a pencil",
+     "qty": 1
+    },
+    {
+     "item": "a strip of masking tape or paper tape, 40 centimetres long, stuck on the door frame, or a plain wall",
+     "qty": 1
+    },
+    {
+     "item": "a flat hard-cover book to lay on the head",
+     "qty": 1
+    },
+    {
+     "item": "a grown-up to measure",
+     "qty": 1
+    }
+   ],
+   "schedule": [
+    {
+     "day": 1,
+     "mins": 8,
+     "what": "Mark your height. Mark a grown-up's height too. Write the date."
+    },
+    {
+     "day": 45,
+     "mins": 3,
+     "what": "Mark your height again. Look at the gap."
+    },
+    {
+     "day": 90,
+     "mins": 8,
+     "what": "Mark your height a third time. Mark the grown-up again. Look at all three marks together."
+    }
+   ],
+   "record": "The tape on the door frame, with three dated pencil marks for the child and three for the grown-up.",
+   "setup": [
+    {
+     "art": "A child standing straight with the back to a door frame, a flat book resting on the head and a grown-up making a pencil line on the tape.",
+     "caption": "1. Stand straight with no shoes. Lay a book on your head. Make a mark."
+    },
+    {
+     "art": "A strip of tape on a door frame with three pencil lines going up and dates written beside each.",
+     "caption": "2. Mark again later. The marks climb as your body grows."
+    }
+   ],
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 8,
+     "do": "1. Stick the tape on the door frame at the child's height. 2. The child stands with bare feet, heels to the wall, looking straight ahead. 3. Lay the flat book on the head and press it to the wall. 4. Mark the underside of the book on the tape. 5. Write the date. 6. Do the same for a grown-up, with a different pencil colour.",
+     "say": "Stand tall with your heels against the wall. I will mark where the top of your head is today. Remember this mark. We will come back in three months.",
+     "kid": "Stand straight against the wall. Get your mark. Then mark a grown-up.",
+     "ask": [
+      {
+       "q": "Do you think the mark will be higher in three months? How much higher?",
+       "good": [
+        "A bit higher.",
+        "A finger higher.",
+        "I will grow."
+       ]
+      }
+     ],
+     "parent": "Measure at the same time of day each time, because we are a little taller in the morning than at night. Do it with no shoes. Do three marks and use the middle one if the first two differ."
+    },
+    {
+     "id": "s2",
+     "mins": 3,
+     "do": "1. Mark the child again at the same time of day. 2. Date the mark. 3. Look at the gap.",
+     "say": "It has been a month and a half. Stand against the wall again. Is the new mark higher?",
+     "kid": "Stand against the wall. Make the second mark. Is it higher?",
+     "parent": "A gap of about a finger-width is normal. A child of six gains five or six centimetres a year, about one finger-width every two months. Do not compare with other children."
+    },
+    {
+     "id": "s3",
+     "mins": 8,
+     "do": "1. Mark the child and the grown-up again. 2. Look at all three marks for the child, and all three for the grown-up. 3. Ask where the extra height came from.",
+     "say": "It has been three months. Here are your three marks. Here are the three marks of a grown-up. What do you notice?",
+     "kid": "Look at your three marks. Look at a grown-up's three marks. What changed?",
+     "ask": [
+      {
+       "q": "Where did the extra bone and height come from?",
+       "good": [
+        "From the food I ate.",
+        "I made new bone from dal and rice.",
+        "I grew."
+       ]
+      }
+     ],
+     "think": "A grown-up has stopped getting taller. So why does a grown-up still eat so much?",
+     "parent": "The marks of the grown-up stay together. The grown-up's food goes to energy and to repair. Say this plainly if your child asks."
+    }
+   ]
+  },
+  {
+   "id": "p2",
+   "title": "Who feeds whom: a week of looking at baby animals",
+   "mins": 26,
+   "days": 7,
+   "context": "In this project you spend a few minutes each day looking for baby animals being fed. You look outside, ask your family, or look at pictures. You find out that many animals feed their babies, and that they do it in many ways.",
+   "materials": [
+    {
+     "item": "a notebook or four folded sheets of paper, stapled",
+     "qty": 1
+    },
+    {
+     "item": "crayons or a pencil",
+     "qty": "a few"
+    },
+    {
+     "item": "a picture book or a phone with pictures of baby animals, for days when nothing is seen outside",
+     "qty": 1
+    }
+   ],
+   "schedule": [
+    {
+     "day": 1,
+     "mins": 5,
+     "what": "Make the notebook. Draw a baby animal you know and how they are fed."
+    },
+    {
+     "day": 2,
+     "mins": 3,
+     "what": "Look out of a window or on a street for a baby animal or bird."
+    },
+    {
+     "day": 3,
+     "mins": 3,
+     "what": "Ask a family member which baby animal they have seen drinking milk."
+    },
+    {
+     "day": 4,
+     "mins": 3,
+     "what": "Find a picture of a baby animal drinking their mother's milk."
+    },
+    {
+     "day": 5,
+     "mins": 3,
+     "what": "Find a picture of a baby animal who eats a different food from their mother."
+    },
+    {
+     "day": 6,
+     "mins": 3,
+     "what": "Find a picture of a father animal who feeds a baby."
+    },
+    {
+     "day": 7,
+     "mins": 6,
+     "what": "Read the notebook together and sort the pages."
+    }
+   ],
+   "record": "A notebook with seven drawings, one for each day.",
+   "setup": [
+    {
+     "art": "A child at a table making a small notebook from folded paper, with crayons beside.",
+     "caption": "1. Make a notebook for baby animals."
+    },
+    {
+     "art": "A child at a window looking at a mother crow feeding a chick on a branch outside, with the notebook open on the sill.",
+     "caption": "2. Look and draw one baby animal each day."
+    }
+   ],
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 5,
+     "do": "1. Fold and staple the paper. 2. Write the child's name on the cover. 3. On page 1, draw a baby animal the child knows and say how they are fed.",
+     "say": "We will spend one week looking at how baby animals get fed. Today, draw a baby animal you know. How does the baby get their food?",
+     "kid": "Make your notebook. Draw a baby animal you know. How does the baby eat?",
+     "ask": [
+      {
+       "q": "How does a baby animal you know get their food?",
+       "good": [
+        "A kitten drinks milk from their mother.",
+        "A baby bird opens their beak and the mother puts food in.",
+        "A calf drinks milk."
+       ]
+      }
+     ],
+     "parent": "If your child draws a bird, ask what the bird puts in the chick's beak. If the child knows no baby animal, look at a book together."
+    },
+    {
+     "id": "s2",
+     "mins": 3,
+     "do": "1. Spend three minutes at a window or on a balcony looking for a baby animal or a bird feeding their young. 2. If you see none, find a picture. 3. Draw what you see.",
+     "say": "Look out of a window for three minutes. Do you see any bird or animal with a baby? If not, look at a picture.",
+     "kid": "Look outside for three minutes. Draw what you see.",
+     "parent": "Never depend on luck. If nothing is outside, use a picture. Do not go near a nest or a wild baby animal, and keep a safe distance from any mother with young."
+    },
+    {
+     "id": "s3",
+     "mins": 3,
+     "do": "1. Ask one family member which baby animal they have seen drinking their mother's milk. 2. Draw it.",
+     "say": "Ask someone at home which baby animal they have seen drinking milk. Draw what they say.",
+     "kid": "Ask someone at home about a baby animal drinking milk. Draw it.",
+     "parent": "Cows and calves, goats and kids, puppies and kittens are common answers."
+    },
+    {
+     "id": "s4",
+     "mins": 3,
+     "do": "1. Find a picture of a baby animal drinking milk. 2. Draw it. 3. Say the name of the mother and the name of the baby.",
+     "say": "Find a picture of a baby animal drinking their mother's milk. What is the baby called? What is the mother called?",
+     "kid": "Find a baby animal drinking milk. Draw it.",
+     "parent": "A cow's baby is a calf, a goat's baby is a kid, a dog's baby is a puppy, a bat's baby is a pup."
+    },
+    {
+     "id": "s5",
+     "mins": 3,
+     "do": "1. Find a picture of a baby animal who eats a different food from the mother. A caterpillar and a butterfly are one example. 2. Draw them both.",
+     "say": "Find a baby animal who eats a different food from their mother. A caterpillar eats leaves. What does the butterfly drink?",
+     "kid": "Find a baby who eats different food from their mother. Draw both.",
+     "parent": "A caterpillar eats leaves and a butterfly sips nectar from flowers. A tadpole scrapes green slime and a frog catches insects."
+    },
+    {
+     "id": "s6",
+     "mins": 3,
+     "do": "1. Find a picture of a father animal feeding a baby. 2. Draw it. 3. Say which animal this is.",
+     "say": "Some fathers feed babies too. A father pigeon makes crop milk in his throat. Find a picture of a pigeon feeding a chick.",
+     "kid": "Find a father who feeds a baby. Draw it.",
+     "parent": "Both pigeon parents feed their chicks crop milk. Some father penguins can make a milky food too."
+    },
+    {
+     "id": "s7",
+     "mins": 6,
+     "do": "1. Look at all seven pages together. 2. Sort the pages into those who drink milk and those who eat other food. 3. Ask the question.",
+     "say": "Look at all seven pages. Who drinks milk? Who eats other food? Who feeds the baby?",
+     "kid": "Look at all seven pages. Sort them into milk and other food.",
+     "ask": [
+      {
+       "q": "Who feeds the babies in your notebook?",
+       "good": [
+        "Mothers.",
+        "Mothers and some fathers.",
+        "Many different animals feed their babies."
+       ]
+      }
+     ],
+     "think": "Is there a baby in the notebook who feeds themselves?",
+     "parent": "Many baby animals find their own food soon after birth, and many are fed for a long time. Ask what humans do."
+    }
+   ]
+  }
+ ],
+ "games": [
+  {
+   "id": "g1",
+   "title": "Three Mats: who can eat it? A game of 24 food cards",
+   "mins": 20,
+   "players": [
+    "alone",
+    "with a parent",
+    "with friends"
+   ],
+   "context": "In this game each card names a food. You decide which of three people can eat it: a baby of seven months with no teeth, a child of six with milk teeth, or an elder with few teeth. Some foods fit more than one mat. You find out that soft food suits many people, and hard food suits few.",
+   "printables": [
+    {
+     "kind": "cards",
+     "title": "24 food cards to cut out",
+     "items": [
+      {
+       "f": "Mashed ripe banana",
+       "b": "All three mats. It is soft enough for a baby, a child and an elder with few teeth."
+      },
+      {
+       "f": "Smooth ragi porridge",
+       "b": "All three mats. It is soft, and ragi has iron and calcium."
+      },
+      {
+       "f": "Khichdi cooked very soft, with ghee",
+       "b": "All three mats. Rice and dal cooked soft need no teeth."
+      },
+      {
+       "f": "Idli soaked in warm dal, then mashed",
+       "b": "All three mats. Soaking and mashing make it paste."
+      },
+      {
+       "f": "Curd rice, mashed",
+       "b": "All three mats. It is soft and gentle on the tummy."
+      },
+      {
+       "f": "Thick kanji with dal stirred in",
+       "b": "All three mats. It is soft and has body-building food in it."
+      },
+      {
+       "f": "Mashed boiled potato",
+       "b": "All three mats. It is soft and easy to swallow."
+      },
+      {
+       "f": "Soft cooked pumpkin, mashed",
+       "b": "All three mats. Cooking makes it soft."
+      },
+      {
+       "f": "Mashed boiled egg",
+       "b": "All three mats, for people who eat eggs. It is soft and full of body-building food."
+      },
+      {
+       "f": "Ripe papaya in soft pieces",
+       "b": "Child and elder. A baby gets this fruit mashed, not in pieces."
+      },
+      {
+       "f": "Raw carrot in thin sticks",
+       "b": "Child mat only. A baby has no teeth, and an elder with few teeth cannot crush it."
+      },
+      {
+       "f": "Raw apple, a big bite",
+       "b": "Child mat. An elder with strong teeth can have it too. Both answers are worth defending."
+      },
+      {
+       "f": "Crunchy murukku",
+       "b": "Child mat. Some elders with strong teeth enjoy it. Both answers are worth defending."
+      },
+      {
+       "f": "A crisp papad",
+       "b": "Child mat. An elder may soften it in dal, and then it goes on more mats."
+      },
+      {
+       "f": "A dry chapati torn in pieces",
+       "b": "Child mat. Soaked in dal or curd, it can go on the other mats too."
+      },
+      {
+       "f": "Chapati soaked in warm dal",
+       "b": "All three mats once it is mashed. Soaking makes it soft."
+      },
+      {
+       "f": "A stick of sugarcane to chew",
+       "b": "Child mat only. It is hard and stringy, so a baby and an elder with few teeth cannot chew it."
+      },
+      {
+       "f": "Honey stirred into porridge",
+       "b": "Child and elder mats. Never for a baby under one year, because honey can carry a germ a baby's gut cannot stop."
+      },
+      {
+       "f": "Tender coconut water",
+       "b": "Child and elder mats. A young baby gets milk only."
+      },
+      {
+       "f": "Sattu drink, stirred in water",
+       "b": "Child and elder mats. It is full of body-building food. A baby of seven months does not start with this drink."
+      },
+      {
+       "f": "Warm ragi malt, thin",
+       "b": "Child and elder mats. It is a good drink, but too thin to be a baby's first food."
+      },
+      {
+       "f": "ORS drink for loose motions",
+       "b": "All three mats. A sick person at any age needs sips of ORS."
+      },
+      {
+       "f": "Soft moong dal, cooked until it melts",
+       "b": "All three mats. It is soft and has body-building food."
+      },
+      {
+       "f": "Boiled and mashed sweet potato",
+       "b": "All three mats. It is soft and sweet."
+      }
+     ]
+    },
+    {
+     "kind": "board",
+     "title": "Three mats to draw on paper",
+     "items": [
+      "Mat 1: A baby of seven months. No teeth. Soft, smooth food only.",
+      "Mat 2: A child of six. Milk teeth, and a gap or two.",
+      "Mat 3: An elder with few teeth. Soft food, rich in goodness."
+     ]
+    }
+   ],
+   "rules": [
+    "Lay three sheets of paper on the floor. Write on each one: baby of seven months, child of six, elder with few teeth. Mix the cards and stack them face down.",
+    "Take turns. Turn over the top card and say the food out loud.",
+    "Place the card on every mat that person could eat. A card can go on one mat, two mats or all three. Say why.",
+    "Then read the back aloud. Score one point for each mat you placed correctly, and one point if you gave a good reason.",
+    "A card marked 'both answers are worth defending' gives full points for either answer if you give a good reason.",
+    "When the stack is empty, add up your points. Most points wins. With a team of friends, you can also play together and try to place every card.",
+    "If you think a card is wrong for a real person you know, say why. Foods for a real person are for their grown-up and doctor to decide."
+   ],
+   "setup": [
+    {
+     "art": "Three sheets of paper on a floor mat, labelled baby, child and elder with a drawing of a face on each, and a pile of cards face down beside them.",
+     "caption": "1. Lay out three mats and mix the cards."
+    },
+    {
+     "art": "A child laying a card that says mashed banana on all three mats while a parent reads the back.",
+     "caption": "2. Place each card on every mat that can eat it."
+    }
+   ],
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 3,
+     "do": "1. Cut out the 24 cards. 2. Lay out the three mats. 3. Mix the cards and stack them face down.",
+     "say": "Today we decide who can eat which food. There are three people: a baby of seven months with no teeth, a child like you, and an elder with few teeth.",
+     "kid": "Three mats. One stack of cards. Who can eat each food?"
+    },
+    {
+     "id": "s2",
+     "mins": 14,
+     "do": "1. Take turns to turn a card. 2. Say the food and place the card on one, two or three mats. 3. Say why. 4. Read the back. 5. Score points.",
+     "say": "Turn a card. Which mats can this food go on? Why?",
+     "kid": "Turn a card. Put it on the mats that fit. Say why.",
+     "check": {
+      "t": "mcq",
+      "q": "Which food goes on every mat?",
+      "options": [
+       "Raw carrot sticks",
+       "Mashed ripe banana",
+       "A crisp papad"
+      ],
+      "a": 1,
+      "why": "Mashed banana goes on every mat, because it is soft. Raw carrot and papad need teeth."
+     },
+     "parent": "Many cards fit more than one mat. Welcome a child's reason, even if it is a different answer. If a card is a tie, ask: what could change this food? Soaking, cooking and mashing move a food from one mat to another."
+    },
+    {
+     "id": "s3",
+     "mins": 3,
+     "do": "1. Count the points. 2. Look at which mat has the most cards. 3. Ask the question.",
+     "say": "Which mat has the most cards? Which mat has the fewest? What does that tell you?",
+     "kid": "Count your points. Which mat has the most cards?",
+     "ask": [
+      {
+       "q": "Which mat has the most cards on it?",
+       "good": [
+        "The baby mat has few. Soft food suits everyone.",
+        "The child mat has many, because the child can eat hard food too."
+       ]
+      }
+     ],
+     "think": "What could you do to a hard food to put it on more mats?"
+    }
+   ]
+  },
+  {
+   "id": "g2",
+   "title": "Who Am I? A guessing game of 12 clue cards",
+   "mins": 15,
+   "players": [
+    "alone",
+    "with a parent",
+    "with friends"
+   ],
+   "context": "In this game someone reads a clue about a baby animal and how the baby is fed. You guess who is being described. You find out how many different ways there are to feed a baby.",
+   "printables": [
+    {
+     "kind": "cards",
+     "title": "12 clue cards to cut out",
+     "items": [
+      {
+       "f": "I live in the sea. My calf grows very fast on my rich milk. Who am I?",
+       "b": "A blue whale mother. Her milk is very rich in fat."
+      },
+      {
+       "f": "I hang upside down to sleep. I am a mammal. My pup drinks my milk. Who am I?",
+       "b": "A bat. A bat is a mammal who flies."
+      },
+      {
+       "f": "I have no nipples. My young lap milk from my fur. Who am I?",
+       "b": "A platypus. The milk seeps out of her skin."
+      },
+      {
+       "f": "I am a bird, not a mammal. My chick eats a thick milky food from my throat. Who am I?",
+       "b": "A pigeon. Both the mother and the father make crop milk."
+      },
+      {
+       "f": "I live on ice. My pup drinks fat-rich milk for only about four days, and grows fat fast. Who am I?",
+       "b": "A hooded seal. Her milk is more than half fat."
+      },
+      {
+       "f": "My baby is the size of a bean when born. The baby drinks milk in my pouch for months. Who am I?",
+       "b": "A kangaroo. The baby is called a joey."
+      },
+      {
+       "f": "My first milk is thick and yellow. In Karnataka some people steam this milk into a sweet. Who am I?",
+       "b": "A cow, a goat or a buffalo. The first milk is colostrum."
+      },
+      {
+       "f": "I am a caterpillar. I eat leaves all day. When I become a butterfly, what will I sip?",
+       "b": "Sweet liquid from flowers. The same being eats different food at different times of life."
+      },
+      {
+       "f": "I am a father penguin. I can make a milky food in my throat. Who is hungry?",
+       "b": "A newly hatched emperor penguin chick."
+      },
+      {
+       "f": "I am a tadpole. I scrape green slime from stones. When I become a frog, what will I eat?",
+       "b": "Insects. The same being eats different food as she grows."
+      },
+      {
+       "f": "I am the oldest elephant in the herd. How do I help the young ones eat?",
+       "b": "She leads the herd to water and food she remembers from many years ago."
+      },
+      {
+       "f": "I am a human baby. My stomach is as small as a marble. What do I drink?",
+       "b": "Mother's milk, or another milk made for babies."
+      }
+     ]
+    }
+   ],
+   "rules": [
+    "Cut out the 12 cards and stack them face down. One person is the reader.",
+    "The reader turns the top card and reads the clue aloud, but keeps the back hidden.",
+    "Everyone guesses. The first right guess scores one point.",
+    "The reader reads the back. If you guessed right, say one more thing about how that baby is fed for a bonus point.",
+    "Swap the reader after each card.",
+    "When the stack is empty, add up the points. Most points wins. Playing alone, try to guess all 12."
+   ],
+   "setup": [
+    {
+     "art": "A child and a parent sitting on a mat with a stack of 12 clue cards face down, and drawings of a whale, bat and pigeon beside them.",
+     "caption": "1. Stack the clue cards. One person reads."
+    },
+    {
+     "art": "A child with a hand raised guessing, and a parent holding a clue card that shows a blue whale on the back.",
+     "caption": "2. Read the clue, guess, then read the back."
+    }
+   ],
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 2,
+     "do": "1. Cut out and stack the 12 cards face down. 2. Choose a reader.",
+     "say": "We are going to guess who is feeding which baby. I read a clue, and you guess.",
+     "kid": "One reader. Twelve clues. Can you guess them all?"
+    },
+    {
+     "id": "s2",
+     "mins": 13,
+     "do": "1. The reader turns a card and reads the clue. 2. Players guess. 3. The reader reads the back. 4. Score the points. 5. Swap readers.",
+     "say": "Here is a clue. Who do you think this is? Why?",
+     "kid": "Listen to a clue. Guess who this is. Say why.",
+     "check": {
+      "t": "mcq",
+      "q": "Which one is a bird, not a mammal?",
+      "options": [
+       "A pigeon",
+       "A whale",
+       "A bat"
+      ],
+      "a": 0,
+      "why": "A pigeon is a bird. She still makes a milky food, called crop milk, for the chicks. A whale and a bat are mammals."
+     },
+     "think": "Which feeding way surprised you the most?",
+     "parent": "Some clues need a guess from what the child knows. Say the answer kindly and read the extra fact. Playing alone, the child can read the back after each clue."
+    }
+   ]
+  }
+ ],
+ "challenges": [
+  {
+   "id": "c1",
+   "title": "One pot, three bowls: a family meal for everyone",
+   "mins": 30,
+   "context": "This is a design challenge. A family has one pot of soft khichdi. A baby of seven months, a child of six and an elder with few teeth must all eat from the same pot. You change the same food in three ways. You find out that one meal can fit many bodies.",
+   "problem": "One pot of khichdi must become three bowls. One bowl is for a baby of seven months with no teeth. One is for a child of six. One is for an elder with few teeth. Every bowl must be soft enough for the person, and full of goodness.",
+   "constraints": [
+    "Use only the khichdi and things in the kitchen. Do not cook anything new.",
+    "The baby bowl is for a doll or a toy. Never feed a real baby for this challenge.",
+    "Every bowl must be only warm before tasting, never hot.",
+    "No whole nuts, no whole grapes, no hard pieces in any bowl."
+   ],
+   "materials": [
+    "a pot of cooked khichdi, warm, not hot",
+    "three steel katoris",
+    "a fork, a spoon and a little warm water",
+    "curd, ghee, a pinch of salt, and a few soft vegetables",
+    "paper and a pencil, for drawing the bowls"
+   ],
+   "general": [
+    "Mash a little khichdi smooth with a fork and a splash of warm water for the baby bowl.",
+    "Give the child a bowl of khichdi as it is, with a soft vegetable on the side.",
+    "Mash a little less for the elder bowl, add a spoon of curd and a drop of ghee."
+   ],
+   "creative": [
+    "Leave a crunchy side, such as a papad, on the child's tray only. The baby and elder bowls stay soft.",
+    "Stir mashed dal and a drop of ghee into the elder bowl to make a small bowl rich.",
+    "Use one pot but change the water. A thinner khichdi for the elder, a thicker one for the baby."
+   ],
+   "your_turn": "Now make your own three bowls. Draw each bowl and say who it is for. Taste the child bowl yourself. Is each bowl right for its person? What would you change?",
+   "setup": [
+    {
+     "art": "A pot of khichdi in the middle of a table, with three empty steel katoris and a doll, a child and an elder drawn as stick figures on paper beside them.",
+     "caption": "1. One pot of khichdi. Three bowls. Three people."
+    },
+    {
+     "art": "Three katoris of khichdi, one mashed smooth, one plain and one with curd and ghee, with small labels baby, child and elder beside them.",
+     "caption": "2. Change the pot into three bowls."
+    }
+   ],
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 5,
+     "do": "1. Read the problem aloud. 2. Ask the child what is different about the three people. 3. Ask what each one's body needs.",
+     "say": "One pot of khichdi. Three people with three kinds of mouths. What is different about each person?",
+     "kid": "Three people. One pot. What do they need?",
+     "ask": [
+      {
+       "q": "What is different about the three people?",
+       "good": [
+        "The baby has no teeth.",
+        "The elder has few teeth.",
+        "The child can chew."
+       ]
+      }
+     ],
+     "parent": "Keep the pot only warm. The meal is for a doll or a toy, not for a real baby, so no one is at risk."
+    },
+    {
+     "id": "s2",
+     "mins": 20,
+     "do": "1. Spoon khichdi into three katoris. 2. Make each katori right for its person. 3. Draw each bowl. 4. Say why each one is right.",
+     "say": "Make three bowls from one pot. One for a baby of seven months. One for a child like you. One for an elder with few teeth. How will you change each one?",
+     "kid": "Change the khichdi into three bowls. Draw each bowl.",
+     "adult": true,
+     "ask": [
+      {
+       "q": "What did you change in each bowl?",
+       "good": [
+        "I mashed the baby bowl.",
+        "I added curd to the elder bowl.",
+        "I left the child bowl as it is."
+       ]
+      }
+     ],
+     "parent": "A grown-up checks that every bowl is only warm. Let your child choose how to change each bowl. Praise any reason given."
+    },
+    {
+     "id": "s3",
+     "mins": 5,
+     "do": "1. Look at the three drawings. 2. Ask which bowl was hardest to make. 3. Ask the question.",
+     "say": "Which bowl was the hardest to make? Why?",
+     "kid": "Which bowl was the hardest? Why?",
+     "think": "Is there more than one good way to make a bowl for an elder?",
+     "parent": "There is no single right set of three bowls. Different families will make very different ones."
+    }
+   ]
+  },
+  {
+   "id": "c2",
+   "title": "A drink reminder for someone who feels little thirst",
+   "mins": 20,
+   "context": "This is a design challenge. Many elders feel thirst less than before, even when the body needs water. You design a way to remind someone to drink without having to ask. You find out that a body can need water before the elder feels thirsty.",
+   "problem": "An elder in a family feels very little thirst. They forget to drink water all day. Design a reminder that works at home, with no phone and no battery, and does not make the elder feel bossed about.",
+   "constraints": [
+    "It must work without a phone or a battery.",
+    "It must be easy to see and easy to use.",
+    "It must not make the elder feel bossed about.",
+    "It must use things you already have at home."
+   ],
+   "materials": [
+    "a steel tumbler or a bottle",
+    "a piece of coloured string or a rubber band",
+    "paper and a pencil",
+    "tape"
+   ],
+   "general": [
+    "Put a full glass of water beside the elder's favourite chair, and refill it every time someone passes.",
+    "Offer a glass of water or buttermilk every time tea is made, without waiting to be asked.",
+    "Fill a bottle in the morning. Tie a string around it at the level that should be gone by lunch."
+   ],
+   "creative": [
+    "Make a picture chart with five drops. Colour a drop each time a drink is finished. Do it together so it is a game, not a chore.",
+    "Tie a bright ribbon on the water jug. Every time the elder sees it, they take a sip.",
+    "Make drinks part of a family habit. Everyone drinks a glass at the same time, such as when the evening news starts."
+   ],
+   "your_turn": "Now design your own reminder. Draw it. Say how the elder will see it and use it. Try it for one day if you can, and ask the elder how it felt.",
+   "setup": [
+    {
+     "art": "An elder in a chair beside a small table with a steel tumbler and a water jug wearing a bright ribbon.",
+     "caption": "1. A glass and a jug, close to the favourite chair."
+    },
+    {
+     "art": "A paper chart with five blue drops in a row, three coloured in, stuck on a wall beside a calendar.",
+     "caption": "2. Colour a drop for each drink."
+    }
+   ],
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 5,
+     "do": "1. Read the problem aloud. 2. Ask why an elder may not feel thirsty. 3. Ask what could go wrong if they do not drink.",
+     "say": "Some elders feel little thirst, even when the body needs water. What could go wrong?",
+     "kid": "An elder feels very little thirst. Why might that be a problem?",
+     "ask": [
+      {
+       "q": "What could go wrong if an elder forgets to drink?",
+       "good": [
+        "They could feel tired or dizzy.",
+        "They could become ill.",
+        "Their body would be short of water."
+       ]
+      }
+     ],
+     "parent": "With age the body can feel thirst less. A glass of water is offered without waiting to be asked."
+    },
+    {
+     "id": "s2",
+     "mins": 15,
+     "do": "1. Think of two ways to remind someone to drink. 2. Pick one. 3. Draw it. 4. Say how the elder will use it.",
+     "say": "Think of a way to remind someone to drink. It must not use a phone. Draw it. How will the elder see it?",
+     "kid": "Think of a drink reminder. Draw it.",
+     "ask": [
+      {
+       "q": "How would your reminder work?",
+       "good": [
+        "A glass by the chair.",
+        "A ribbon on the jug.",
+        "A chart with drops."
+       ]
+      }
+     ],
+     "think": "Is a reminder that the elder helps design better than one we make for them?",
+     "parent": "The best reminders respect the person. If you can, ask an elder what would feel good to them."
+    }
+   ]
+  }
+ ],
+ "worksheets": [
+  {
+   "id": "ws-core",
+   "title": "Who eats what: babies, children and elders (core)",
+   "tier": "core",
+   "mins": 20,
+   "items": [
+    {
+     "t": "sort",
+     "p": "Sort each food. Does it need teeth, or can it be eaten without teeth?",
+     "cats": [
+      "Needs teeth",
+      "No teeth needed"
+     ],
+     "items": [
+      [
+       "raw carrot",
+       "Needs teeth"
+      ],
+      [
+       "mashed banana",
+       "No teeth needed"
+      ],
+      [
+       "crunchy murukku",
+       "Needs teeth"
+      ],
+      [
+       "soft kanji",
+       "No teeth needed"
+      ],
+      [
+       "idli soaked in dal",
+       "No teeth needed"
+      ],
+      [
+       "a big bite of raw apple",
+       "Needs teeth"
+      ]
+     ],
+     "a": "see items",
+     "why": "Raw carrot, murukku and raw apple are hard, so they need teeth. Mashed banana, kanji and soaked idli are soft, so no teeth are needed.",
+     "art": "Six small pictures: a raw carrot, a mashed banana, a murukku, a bowl of kanji, a soaked idli and an apple."
+    },
+    {
+     "t": "mcq",
+     "p": "A new baby drinks only milk. Why is milk a good food for a new baby?",
+     "opts": [
+      "It is the only white food",
+      "It is a liquid and needs no chewing",
+      "It is a hard food"
+     ],
+     "a": 1,
+     "why": "A new baby has no teeth, so a liquid food is right. A new baby's stomach is tiny, and milk is easy to use."
+    },
+    {
+     "t": "truefalse",
+     "p": "A newborn baby's stomach is as big as a pumpkin.",
+     "a": false,
+     "why": "False. It is about the size of a marble and holds about one teaspoon on the first day."
+    },
+    {
+     "t": "fill",
+     "p": "Almost all of mother's milk is ____.",
+     "a": [
+      "water"
+     ],
+     "why": "About nine spoonfuls out of ten are water. That is why a young baby needs no other drink."
+    },
+    {
+     "t": "match",
+     "p": "Draw a line from each person to the food that suits them.",
+     "pairs": [
+      [
+       "a newborn baby",
+       "mother's milk only"
+      ],
+      [
+       "a baby of seven months",
+       "smooth ragi porridge"
+      ],
+      [
+       "a child of six",
+       "three meals and two small snacks"
+      ],
+      [
+       "an elder with few teeth",
+       "soft kanji with dal"
+      ]
+     ],
+     "a": "pairs as given",
+     "why": "A newborn needs only milk. A baby of seven months starts soft foods. A child needs many meals for a growing body. An elder with few teeth needs soft food that is still full of goodness.",
+     "art": "Four people on the left, mixed with four bowls on the right: a newborn, a baby of seven months, a child, an elder, and milk, ragi porridge, a plate with snacks, and kanji."
+    },
+    {
+     "t": "order",
+     "p": "Put these steps of eating in order, from the earliest in life to the latest.",
+     "items": [
+      "milk only",
+      "first soft foods",
+      "first milk teeth",
+      "crunchy foods"
+     ],
+     "a": [
+      "milk only",
+      "first soft foods",
+      "first milk teeth",
+      "crunchy foods"
+     ],
+     "why": "A baby starts with milk only. Soft foods begin at about six months. The first teeth come at about the same time. Crunchy food comes after teeth have grown."
+    },
+    {
+     "t": "draw",
+     "p": "Draw three bowls, for a baby, a child and an elder with few teeth. What is in each bowl?",
+     "a": "Three bowls. A smooth porridge for the baby, rice and dal and a carrot for the child, soft kanji for the elder.",
+     "why": "A strong drawing shows soft food for the baby and the elder, and food with more bite for the child.",
+     "art": "Three empty circles in a row, each with a small stick figure above: a baby, a child and an elder."
+    },
+    {
+     "t": "write",
+     "p": "Say it out loud, and a grown-up writes it: why does a grandparent with few teeth often eat kanji?",
+     "lines": 2,
+     "a": "Kanji is soft, so they can eat it without teeth. A good answer says it needs no chewing.",
+     "why": "A good answer says that kanji is soft and needs no chewing."
+    },
+    {
+     "t": "perspective",
+     "p": "A person asks about an elder who says they are not thirsty. Two people talk about it.",
+     "views": [
+      {
+       "who": "The first person",
+       "says": "She says she is not thirsty, so we should not make her drink."
+      },
+      {
+       "who": "The second person",
+       "says": "Elders feel thirst less than before. A grown-up should offer water even if she does not ask."
+      }
+     ],
+     "ask": "Who do you agree with? Why? Then say one thing the other person has right.",
+     "lines": 3,
+     "a": "A good answer picks a side with a reason. For example: 'The second person, because the body can need water without feeling thirsty.' Then be fair to the other side. The first person is right that no one should be forced.",
+     "why": "With age, thirst grows weaker, so water is offered. The first person is also right that we should be kind and not bossy. Both sides care for the elder."
+    },
+    {
+     "t": "label",
+     "p": "Write P under each food that went to paste in the tongue test. Write X under each one that stayed hard.",
+     "a": "P under banana, rice, idli and soaked idli. X under biscuit and raw carrot.",
+     "why": "The soft foods went to paste. The biscuit and the raw carrot were too hard until they were soaked or cooked.",
+     "how": "e1",
+     "art": "Six foods in a row with an empty box under each: banana, cooked rice, idli, soaked idli, biscuit and raw carrot."
+    },
+    {
+     "t": "odd",
+     "p": "Three of these are good first foods for a baby of seven months. Which one is not?",
+     "opts": [
+      "Smooth ragi porridge",
+      "Mashed banana",
+      "Whole groundnuts",
+      "Soft khichdi"
+     ],
+     "a": 2,
+     "why": "Whole nuts can block a small throat. The other three are soft and smooth."
+    },
+    {
+     "t": "count",
+     "p": "A new baby feeds 10 times in a day and a night. How many feeds is that in 2 days and nights?",
+     "a": 20,
+     "why": "10 feeds and 10 more feeds make 20 feeds. A tiny stomach empties fast, so a baby feeds often."
+    }
+   ]
+  },
+  {
+   "id": "ws-stretch",
+   "title": "Milk, first foods and growing (stretch)",
+   "tier": "stretch",
+   "mins": 25,
+   "items": [
+    {
+     "t": "mcq",
+     "p": "Why does a milk tooth wobble just before it falls out?",
+     "opts": [
+      "The tooth is made of milk",
+      "The child ate too much sugar",
+      "A bigger tooth is growing in under it"
+     ],
+     "a": 2,
+     "why": "From about six years old milk teeth fall out, and bigger teeth push up to take their place."
+    },
+    {
+     "t": "truefalse",
+     "p": "Mother's milk is the same for every mammal baby.",
+     "a": false,
+     "why": "False. A hooded seal pup's milk is more than half fat. Human milk is thin and sweet. Each milk fits the life of the baby who drinks the milk."
+    },
+    {
+     "t": "fill",
+     "p": "The thick yellow milk made in the first days after birth is called ____.",
+     "a": [
+      "colostrum"
+     ],
+     "why": "Colostrum is made in small amounts, which is right for a stomach as small as a marble."
+    },
+    {
+     "t": "mcq",
+     "p": "Why does a baby of about six months need food besides milk?",
+     "opts": [
+      "Milk alone no longer has enough iron",
+      "The baby does not like milk",
+      "Milk is bad for a baby"
+     ],
+     "a": 0,
+     "why": "A baby is born with a store of iron. It runs low at about six months, so foods with iron such as ragi, dal and egg are added. Milk continues."
+    },
+    {
+     "t": "match",
+     "p": "Draw a line from each animal to what the baby gets from her.",
+     "pairs": [
+      [
+       "a cow",
+       "milk for her calf"
+      ],
+      [
+       "a pigeon",
+       "crop milk from her throat"
+      ],
+      [
+       "a bat",
+       "milk, hanging upside down"
+      ],
+      [
+       "a platypus",
+       "milk that seeps from her skin"
+      ]
+     ],
+     "a": "pairs as given",
+     "why": "A cow, a bat and a platypus are mammals, and make milk. A pigeon is a bird, and makes crop milk in her throat.",
+     "art": "Four animals on the left and four foods on the right in mixed order: a cow, a pigeon, a bat, a platypus, and milk in a calf's mouth, crop milk, milk on a pup, milk on fur."
+    },
+    {
+     "t": "order",
+     "p": "Put these in order, from a stomach that holds the least to the most.",
+     "items": [
+      "a newborn on the first day",
+      "a baby of ten days",
+      "a child of six",
+      "a grown-up"
+     ],
+     "a": [
+      "a newborn on the first day",
+      "a baby of ten days",
+      "a child of six",
+      "a grown-up"
+     ],
+     "why": "A stomach grows as the body grows. It is tiny at birth, the size of an egg at ten days, and much bigger by six years and in a grown-up."
+    },
+    {
+     "t": "sort",
+     "p": "Sort each person's body by what food is mostly for right now.",
+     "cats": [
+      "Mostly building a new body",
+      "Mostly keeping a body going and mending it"
+     ],
+     "items": [
+      [
+       "a baby of seven months",
+       "Mostly building a new body"
+      ],
+      [
+       "a child of six",
+       "Mostly building a new body"
+      ],
+      [
+       "a grown-up",
+       "Mostly keeping a body going and mending it"
+      ],
+      [
+       "an elder",
+       "Mostly keeping a body going and mending it"
+      ]
+     ],
+     "a": "see items",
+     "why": "A baby and a child are growing, so food builds new bone and muscle. A grown-up and an elder have stopped growing, but their bodies mend and renew all the time.",
+     "art": "Four people in a row: a baby, a child, a grown-up and an elder."
+    },
+    {
+     "t": "write",
+     "p": "A grown-up has stopped getting taller. Give two reasons the grown-up still needs food.",
+     "lines": 3,
+     "a": "Food gives energy for the day. Food gives spare parts to mend the body, such as skin, gut lining and blood.",
+     "why": "Food is not only for growing. A body also spends energy and mends itself all the time."
+    },
+    {
+     "t": "draw",
+     "p": "Draw the journey of one spoon of dal from your plate to your arm. Show where it goes on the way.",
+     "a": "A spoon of dal, then a mouth, a stomach, blood and an arm, joined by arrows.",
+     "why": "The food is broken down in the stomach and gut, carried by the blood and used to build and mend muscle.",
+     "art": "An empty box with a small outline of a child and a spoon of dal."
+    },
+    {
+     "t": "perspective",
+     "p": "A family has a baby of seven months. Two ways of giving soft foods are talked about.",
+     "views": [
+      {
+       "who": "Spoon feeding",
+       "says": "A grown-up gives smooth food from a spoon. We know how much the baby has eaten."
+      },
+      {
+       "who": "Baby-led feeding",
+       "says": "Soft finger-sized pieces are put in front of the baby, and the baby feeds themselves."
+      }
+     ],
+     "ask": "Which would you choose? Why? Then say one good thing about the other.",
+     "lines": 3,
+     "a": "A good answer picks a way with a reason, then says something fair about the other. Scientists have found less difference between the two ways than either side expected.",
+     "why": "Both ways are used by caring families. Careful tests so far show little difference. Safety matters most: no whole nuts, no grapes, no hard pieces."
+    },
+    {
+     "t": "odd",
+     "p": "Three of these foods can be given to a baby of seven months. Which one cannot?",
+     "opts": [
+      "Mashed boiled egg",
+      "Honey stirred into porridge",
+      "Smooth dal",
+      "Mashed sweet potato"
+     ],
+     "a": 1,
+     "why": "Honey can carry a germ that a baby's gut cannot stop. Honey is only for children over one year."
+    },
+    {
+     "t": "count",
+     "p": "A newborn's stomach holds 1 teaspoon. A hen's egg holds about 10 teaspoons. How many more teaspoons is that?",
+     "a": 9,
+     "why": "10 teaspoons take away 1 teaspoon leaves 9 teaspoons."
+    },
+    {
+     "t": "truefalse",
+     "p": "Most grown-ups in the world get a rumbling stomach from a big glass of milk.",
+     "a": true,
+     "why": "True. About two out of three adults make much less of the helper that breaks down milk sugar. Curd and buttermilk are easier."
+    }
+   ]
+  },
+  {
+   "id": "ws-challenge",
+   "title": "Doctors change their minds, and other open questions (challenge)",
+   "tier": "challenge",
+   "mins": 25,
+   "items": [
+    {
+     "t": "mcq",
+     "p": "Doctors once said no peanuts for babies, then said the opposite. What made them change?",
+     "opts": [
+      "More peanuts were grown",
+      "A trial found early smooth peanut foods lowered the allergy",
+      "Babies began to like peanut"
+     ],
+     "a": 1,
+     "why": "A careful trial in 2015 gave smooth peanut foods to babies early. They had far less peanut allergy at five. Doctors change their advice when new evidence comes."
+    },
+    {
+     "t": "truefalse",
+     "p": "If a food is soft, it must be full of goodness.",
+     "a": false,
+     "why": "False. Soft only means easy to eat. A thin kanji can be soft and have little goodness. Dal, egg and curd add the goodness."
+    },
+    {
+     "t": "fill",
+     "p": "ORS works because the gut takes in ____ and salt together, and water follows.",
+     "a": [
+      "sugar"
+     ],
+     "why": "The gut wall has tiny doors that carry sugar and salt in together. Water follows them."
+    },
+    {
+     "t": "mcq",
+     "p": "A sick dog stops eating. What is the best thing to say?",
+     "opts": [
+      "Nobody knows for sure if this helps or harms",
+      "The dog should be forced to eat",
+      "The dog is only being naughty"
+     ],
+     "a": 0,
+     "why": "Scientists have found that many sick animals lose their appetite. Whether it helps them heal or harms them depends on the illness, and is still being studied."
+    },
+    {
+     "t": "match",
+     "p": "Draw a line from each idea to the person who said it.",
+     "pairs": [
+      [
+       "feeding peanuts early lowers allergy",
+       "Gideon Lack and a trial in 2015"
+      ],
+      [
+       "grandmothers help feed grandchildren",
+       "Kristen Hawkes and the Hadza"
+      ],
+      [
+       "a drink of sugar and salt saves lives",
+       "Dr Dilip Mahalanabis and ORS"
+      ],
+      [
+       "human milk bank in Asia",
+       "Dr Armida Fernandez in Mumbai"
+      ]
+     ],
+     "a": "pairs as given",
+     "why": "Lack ran the peanut trial. Hawkes watched Hadza grandmothers. Dr Dilip Mahalanabis used ORS in 1971. Dr Armida Fernandez started Asia's first human milk bank in 1989.",
+     "art": "Four ideas on the left and four names on the right in mixed order."
+    },
+    {
+     "t": "order",
+     "p": "Put these in order of how fast each grows, from the slowest to the fastest.",
+     "items": [
+      "a banyan tree",
+      "a child of six",
+      "a young bamboo shoot"
+     ],
+     "a": [
+      "a banyan tree",
+      "a child of six",
+      "a young bamboo shoot"
+     ],
+     "why": "A banyan tree grows slowly over centuries. A child gets five or six centimetres taller a year. A young bamboo shoot can grow many centimetres in a day."
+    },
+    {
+     "t": "sort",
+     "p": "Sort each statement. Is it settled by science, or still debated?",
+     "cats": [
+      "Settled",
+      "Still debated"
+     ],
+     "items": [
+      [
+       "Honey is not for babies under one year",
+       "Settled"
+      ],
+      [
+       "A newborn's stomach is tiny",
+       "Settled"
+      ],
+      [
+       "Why bodies grow old",
+       "Still debated"
+      ],
+      [
+       "How much body-building food old people need",
+       "Still debated"
+      ]
+     ],
+     "a": "see items",
+     "why": "Honey and a tiny newborn's stomach are well known. Why bodies age and how much body-building food old people need are still being argued.",
+     "art": "Four statement cards and two baskets labelled settled and still debated."
+    },
+    {
+     "t": "write",
+     "p": "A hydra seems never to grow old. If people did not grow old, what in a family might change?",
+     "lines": 4,
+     "a": "There is no single answer. A good answer thinks about elders, soft food, caring, stories and what a family would be like.",
+     "why": "This question has no single right answer. A good answer thinks about family life with no elders."
+    },
+    {
+     "t": "draw",
+     "p": "Draw a family meal where a baby, a child and an elder all eat. Show how one pot is changed for each.",
+     "a": "A table with three bowls, each changed in a different way.",
+     "why": "A strong drawing shows the same food changed for each person.",
+     "art": "A table with a pot and three empty bowls and three people around it."
+    },
+    {
+     "t": "perspective",
+     "p": "Two people talk about milk.",
+     "views": [
+      {
+       "who": "The first person",
+       "says": "Milk is good for everyone, at every age."
+      },
+      {
+       "who": "The second person",
+       "says": "Milk is baby food. Most adults make less of the helper that digests milk sugar, and many do very well without milk."
+      }
+     ],
+     "ask": "What would you want to find out before you decide? Why?",
+     "lines": 4,
+     "a": "There is no single answer. A good answer asks a fair question, such as how many people in a family get stomach trouble from milk, or whether other foods give the same goodness.",
+     "why": "Scientists agree that milk is the right food for a baby. They disagree about how much milk grown-ups need. Curd and buttermilk are easier on the stomach."
+    },
+    {
+     "t": "label",
+     "p": "Write B under each food made inside a body. Write S under each food made by cooking.",
+     "a": "B under colostrum and mother's milk. S under kanji and khichdi.",
+     "why": "Colostrum and mother's milk are made inside a mother's body. Kanji and khichdi are cooked in a kitchen.",
+     "art": "Four labelled pictures with a blank under each: colostrum, mother's milk, kanji and khichdi."
+    },
+    {
+     "t": "odd",
+     "p": "Which of these is an open question that nobody can answer yet?",
+     "opts": [
+      "How big is a newborn's stomach?",
+      "Why do bodies grow old at all?",
+      "Is honey safe for a baby?",
+      "What is in mother's milk?"
+     ],
+     "a": 1,
+     "why": "Scientists have several guesses about why bodies age, and no agreed answer. The other three have answers."
+    },
+    {
+     "t": "count",
+     "p": "ORS needs 6 level teaspoons of sugar for 1 litre of water. How many teaspoons of sugar for 2 litres?",
+     "a": 12,
+     "why": "2 litres is two times 1 litre. Two times 6 is 12 teaspoons. Salt also doubles, to 1 teaspoon."
+    },
+    {
+     "t": "truefalse",
+     "p": "Only elders are helped by soft food.",
+     "a": false,
+     "why": "False. Babies, people who are ill, and anyone with a sore mouth can all be helped by soft food."
+    }
+   ]
+  }
+ ],
+ "quiz": [
+  {
+   "t": "mcq",
+   "p": "A new baby has a stomach about as big as a marble. Why is milk the right food?",
+   "opts": [
+    "It is a hard food that lasts long",
+    "It is a liquid that needs no chewing",
+    "It is the only food that is white"
+   ],
+   "a": 1,
+   "why": "A new baby has no teeth and a tiny stomach. A liquid food that is easy to use is right. A hard food would not work.",
+   "outcome": 0
+  },
+  {
+   "t": "mcq",
+   "p": "A baby of seven months is ready for first foods. Which sign shows this?",
+   "opts": [
+    "The baby has grown a beard",
+    "The baby cries at night",
+    "The baby can sit with a little help"
+   ],
+   "a": 2,
+   "why": "At about six months a baby can sit with help, hold the head steady and no longer pushes food out. Crying is not a sign of being ready.",
+   "outcome": 2
+  },
+  {
+   "t": "mcq",
+   "p": "Why does a baby need foods with iron at about six months?",
+   "opts": [
+    "The store of iron from birth is running low",
+    "The baby no longer likes milk",
+    "Milk makes the baby ill"
+   ],
+   "a": 0,
+   "why": "A baby is born with a store of iron. It runs low at about six months, and mother's milk has only a little. Milk is still given alongside.",
+   "outcome": 2
+  },
+  {
+   "t": "mcq",
+   "p": "Mother's milk gives a baby more than food. What else?",
+   "opts": [
+    "A set of milk teeth",
+    "A warm blanket",
+    "Germ-fighters called antibodies"
+   ],
+   "a": 2,
+   "why": "A mother's body makes antibodies, and some pass into her milk. They help to catch germs in the baby's mouth and gut. Special sugars also feed friendly bacteria.",
+   "outcome": 1
+  },
+  {
+   "t": "mcq",
+   "p": "A baby cannot have their own mother's milk. What is one safe way to feed them?",
+   "opts": [
+    "Infant formula or another mother's milk",
+    "Plain cow's milk from the shop",
+    "Only plain water"
+   ],
+   "a": 0,
+   "why": "Formula is made to be close to human milk. Plain cow's milk is made for a calf, and is not right for a young baby.",
+   "outcome": 1
+  },
+  {
+   "t": "mcq",
+   "p": "A child of six eats a lot for a small body. Why?",
+   "opts": [
+    "The body is building new bone and muscle",
+    "The child never feels full",
+    "The stomach is bigger than a grown-up's"
+   ],
+   "a": 0,
+   "why": "Every bit of new bone and muscle is made from food. A child has a small stomach too, so three meals and small snacks work well.",
+   "outcome": 3
+  },
+  {
+   "t": "mcq",
+   "p": "Which of these could a baby with no teeth eat?",
+   "opts": [
+    "Raw carrot sticks",
+    "Mashed ripe banana",
+    "Crunchy murukku"
+   ],
+   "a": 1,
+   "why": "A mashed banana is soft and can be pressed with a tongue. Raw carrot and murukku need teeth.",
+   "outcome": 6
+  },
+  {
+   "t": "mcq",
+   "p": "A raw carrot is too hard to eat without teeth. What could you do to it?",
+   "opts": [
+    "Cook it until it is soft",
+    "Say it is not a food",
+    "Leave it in the sun"
+   ],
+   "a": 0,
+   "why": "Cooking in water makes a carrot soft. Soaking does the same for a dry biscuit. Both moved from needing teeth to not needing teeth.",
+   "outcome": 6
+  },
+  {
+   "t": "mcq",
+   "p": "An elder with few teeth is given soft kanji. What else should the bowl have?",
+   "opts": [
+    "Nothing, because soft is enough",
+    "Dal, egg or curd, for body-building food",
+    "Only salt"
+   ],
+   "a": 1,
+   "why": "Soft only means easy to eat. Old muscles need body-building food as much as before. Dal, egg or curd makes a small bowl rich.",
+   "outcome": 4
+  },
+  {
+   "t": "mcq",
+   "p": "An elder says they are not thirsty. What is the best thing a grown-up can do?",
+   "opts": [
+    "Offer water anyway, in a friendly way",
+    "Let them skip water all day",
+    "Make them drink a big jug fast"
+   ],
+   "a": 0,
+   "why": "With age, thirst grows weaker, but the body still needs water. A friendly offer, without waiting to be asked, is kind and sensible.",
+   "outcome": 4
+  },
+  {
+   "t": "mcq",
+   "p": "A person has loose motions. Which drink helps most?",
+   "opts": [
+    "Plain water only",
+    "ORS, water with a little sugar and salt",
+    "A glass of sweet soda"
+   ],
+   "a": 1,
+   "why": "Plain water runs straight through a sick gut. The sugar helps the gut take in the salt and water. ORS has been used to save many lives.",
+   "outcome": 5
+  },
+  {
+   "t": "mcq",
+   "p": "A person has a fever and does not want food. What is true?",
+   "opts": [
+    "Light foods and plenty of drinks help",
+    "They must eat a big biryani",
+    "They should drink nothing"
+   ],
+   "a": 0,
+   "why": "Light foods like kanji and khichdi are easy to digest. A sick person must keep drinking. Scientists still argue about how much food is best.",
+   "outcome": 5
+  },
+  {
+   "t": "mcq",
+   "p": "You soak a dry biscuit in water and it goes soft. Which group does it now fit?",
+   "opts": [
+    "Needs teeth",
+    "It is not a food now",
+    "No teeth needed"
+   ],
+   "a": 2,
+   "why": "Soaking pushes water into a dry food and makes it soft. A soaked biscuit can be pressed flat and mashed, so it moves to the no-teeth group.",
+   "outcome": 6
+  }
+ ],
+ "videos": [
+  {
+   "title": "How oral rehydration solution works inside the gut",
+   "channel": "",
+   "youtube": "",
+   "status": "find-id",
+   "mins": 5,
+   "why": "Shows how sugar and salt together carry water through the gut wall.",
+   "check": "Search for a short explainer on oral rehydration solution. A parent should preview it."
+  },
+  {
+   "title": "What is in mother's milk? A short explainer on how milk protects a baby",
+   "channel": "",
+   "youtube": "",
+   "status": "find-id",
+   "mins": 5,
+   "why": "Shows antibodies and friendly bacteria in milk.",
+   "check": "Search for a short explainer on human milk. A parent should preview it."
+  },
+  {
+   "title": "Animal mothers and their milk: whales, bats and seals",
+   "channel": "",
+   "youtube": "",
+   "status": "find-id",
+   "mins": 5,
+   "why": "Shows that each kind of milk fits the baby who drinks the milk.",
+   "check": "Search for a nature video on mammal milk. A parent should preview it."
+  }
+ ],
+ "spotted": [
+  {
+   "text": "A baby on a lap at a family meal. Look at the spoon. Is the food in the bowl smooth or in lumps? What are the others eating?",
+   "art": "A baby on a grandmother's lap beside a bowl of smooth porridge, while the rest of the family eats idli and sambar."
+  },
+  {
+   "text": "Your own wobbly tooth, or a friend's gap. Which food do you bite with the side teeth because the front ones are gone?",
+   "art": "A child with a front-tooth gap biting a guava from the side of the mouth."
+  },
+  {
+   "text": "Door-frame marks in a friend's house or an old house. Why are the lower marks older?",
+   "art": "A door frame covered with pencil marks climbing up and names written beside each one."
+  },
+  {
+   "text": "A grandparent's tiffin or plate. Is the food softer than yours? Does it have more salt or pickle?",
+   "art": "An elder's steel plate with curd rice, a soft vegetable and a tiny pickle."
+  },
+  {
+   "text": "A cow with a calf at the roadside, or a kitten with a mother cat. Watch the baby drinking. How long does the baby stay?",
+   "art": "A cow standing by the road with a young calf beneath her, drinking."
+  },
+  {
+   "text": "An ORS packet at the chemist shop, or on a health poster at a clinic or an anganwadi. Read what it says about mixing it.",
+   "art": "A shelf at a chemist shop with small orange ORS packets in a row."
+  },
+  {
+   "text": "The kitchen on a sick day. Which soft foods does a family cook for someone who has a fever?",
+   "art": "A steel pot of kanji simmering on a stove, with a glass of tender coconut water beside it."
+  }
+ ],
+ "applications": [
+  "Families across India give a baby of about six months a first food that is soft and local. In Karnataka and Tamil Nadu it is ragi porridge. In Kerala it is banana-powder porridge. In Gujarat and Bengal it is khichdi.",
+  "Many families hold a celebration for a baby's first rice, called choroonu in Kerala and mukhe bhaat in Bengal. The baby is given a tiny taste of soft rice.",
+  "ORS packets, sold at every chemist shop in India, save lives when someone has loose motions. The gut takes in sugar and salt together, and water follows.",
+  "Hospitals keep human milk banks for babies who cannot have their own mother's milk. Asia's first opened at Sion Hospital in Mumbai in 1989.",
+  "Anganwadi centres give cooked meals or take-home rations to young children and to mothers who feed babies. The foods are soft and rich in goodness.",
+  "Care homes and families cook soft, rich food for elders with few teeth, such as kanji with dal, idli soaked in sambar, and curd rice.",
+  "The growth chart on a child's health card records weight and height. A nurse or an anganwadi worker uses it to see if a child is growing well."
+ ],
+ "ask_kids": [
+  "What was the first food you ate, if someone told you? What would you give a baby for a first food?",
+  "Which food do you like that a baby with no teeth could not eat? Could you change it so that a baby could?",
+  "What do the old people you know like to eat? Is it softer than your food?",
+  "Why do you think a body needs more food when it is growing than when it has stopped growing?",
+  "When you are sick, which food do you want most? Which food do you not want?"
+ ],
+ "jokes": [
+  {
+   "j": "What did the carrot say to the baby?",
+   "a": "Come back when you have teeth!"
+  },
+  {
+   "j": "Why did the banana go to the doctor?",
+   "a": "It was not peeling well."
+  },
+  {
+   "j": "Why did the loose tooth feel dizzy?",
+   "a": "It was hanging by a thread."
+  },
+  {
+   "j": "What did the cow say when her calf grew a first tooth?",
+   "a": "Moo-ve over, milk. Here comes solid food!"
+  },
+  {
+   "j": "Why did the idli stay in the sambar for a minute?",
+   "a": "It wanted to get soft before the party."
+  },
+  {
+   "j": "What did the front tooth say to the back tooth?",
+   "a": "You do the grinding. I will do the cutting."
+  },
+  {
+   "j": "Why was the kanji so calm?",
+   "a": "It had been simmering down all day."
+  },
+  {
+   "j": "What did the baby's stomach say to the one teaspoon of milk?",
+   "a": "Thanks, but I will be asking for another in an hour."
+  },
+  {
+   "j": "Why did the khichdi get invited to every meal?",
+   "a": "It mixes with everyone."
+  }
+ ],
+ "maths": [
+  {
+   "problem": "ORS needs 6 level teaspoons of sugar and half a teaspoon of salt for 1 litre of water. How much sugar and salt do you need for 2 litres?",
+   "answer": "12 teaspoons of sugar and 1 teaspoon of salt.",
+   "explain": "2 litres is two times 1 litre. Double 6 to get 12. Double one half to get 1. If you add too much salt, the drink is no longer right.",
+   "math_unit": "math.multiplication.equal-groups.L2",
+   "how": "a1",
+   "context": "This is about the ORS drink you made in the kitchen, where the amounts must be exact.",
+   "why_maths": "The amounts of sugar and salt in ORS must stay in the same proportion, so we double both together."
+  },
+  {
+   "problem": "A baby weighs 3 kilograms at birth. At one year the baby weighs about three times as much. How many kilograms is that? How many more than at birth?",
+   "answer": "About 9 kilograms. That is 6 kilograms more.",
+   "explain": "Three times 3 is 9. Then 9 take away 3 is 6. The extra 6 kilograms came from food.",
+   "math_unit": "math.multiplication.equal-groups.L2",
+   "how": "p1",
+   "context": "This is about how much a baby grows in a year, and where the new body comes from.",
+   "why_maths": "Multiplying shows how fast a young body grows, and subtracting shows how much new body food has built."
+  },
+  {
+   "problem": "A newborn's stomach holds 1 teaspoon on day 1 and about 10 teaspoons after a week or two. How many times more is that?",
+   "answer": "10 times more.",
+   "explain": "1 teaspoon grows to 10 teaspoons. 10 is ten times 1.",
+   "math_unit": "math.number-sense.comparing-ordering.L2",
+   "how": "a3",
+   "context": "This is about the teaspoons you poured in the stomach activity.",
+   "why_maths": "Comparing the two sizes shows how fast a baby's stomach grows in a few days."
+  }
+ ],
+ "song": {
+  "topic_level": "sci.food.L1",
+  "title": "Water in My Food",
+  "note": "Topic-level song for Food L1"
+ },
+ "links": [
+  {
+   "title": "Eat Right India",
+   "url": "https://eatrightindia.gov.in/",
+   "kind": "interactive",
+   "why": "For the parent: plain advice on safe and healthy food from India's food safety authority."
+  },
+  {
+   "title": "Poshan Abhiyaan",
+   "url": "https://poshanabhiyaan.gov.in/",
+   "kind": "interactive",
+   "why": "For the parent: India's national mission on nutrition for children and mothers, with plain advice on feeding young children."
+  },
+  {
+   "title": "Sion Hospital Human Milk Bank",
+   "url": "",
+   "kind": "place",
+   "where": "Mumbai",
+   "why": "The hospital where Asia's first human milk bank opened in 1989. A grown-up can read about it before you talk about milk banks."
+  }
+ ],
+ "buy": [
+  {
+   "id": "b-ors-packets",
+   "item": "ORS powder packets",
+   "kind": "material",
+   "why": "Used in Make ORS at home and taste it. About ₹20 to ₹30 for a packet at any chemist shop. Keep a packet at home for sick days. If you do not have one, mix the home recipe in the activity.",
+   "url": "https://www.amazon.in/s?k=ORS+powder+packets",
+   "used_in": [
+    "a1"
+   ],
+   "plan": "Get one before the ORS activity and keep it in the house."
+  },
+  {
+   "id": "b-measuring-spoons",
+   "item": "A set of measuring spoons",
+   "kind": "material",
+   "why": "Used in Make ORS at home, and A teaspoon of milk. About ₹60 to ₹150. An ordinary teaspoon levelled with a knife also works.",
+   "url": "https://www.amazon.in/s?k=measuring+spoons+set",
+   "used_in": [
+    "a1",
+    "a3"
+   ],
+   "plan": "Get them before the ORS activity."
+  },
+  {
+   "id": "b-plain-biscuits",
+   "item": "Plain biscuits",
+   "kind": "material",
+   "why": "Used in Eating without teeth. About ₹10 to ₹20 for a packet. A dry rusk or a piece of toast also works.",
+   "url": "https://www.amazon.in/s?k=plain+marie+biscuits",
+   "used_in": [
+    "e1"
+   ],
+   "plan": "Get a packet before the soft food test."
+  },
+  {
+   "id": "b-masking-tape",
+   "item": "Masking tape or paper tape",
+   "kind": "material",
+   "why": "Used in Door-frame growth marks. About ₹30 to ₹50. If you may write on the wall, pencil marks work without tape.",
+   "url": "https://www.amazon.in/s?k=masking+tape",
+   "used_in": [
+    "p1"
+   ],
+   "plan": "Get it before the growth marks project."
+  },
+  {
+   "id": "b-crayons",
+   "item": "Crayons or colour pencils",
+   "kind": "material",
+   "why": "Used in Ask a grown-up, Who feeds whom, and the drawing questions. About ₹40 to ₹100 for a box.",
+   "url": "https://www.amazon.in/s?k=crayons+for+kids",
+   "used_in": [
+    "a2",
+    "p2",
+    "a5"
+   ],
+   "plan": "Have a box ready."
+  },
+  {
+   "id": "b-notebook",
+   "item": "A small notebook",
+   "kind": "material",
+   "why": "Used in Who feeds whom. About ₹20 to ₹40. Folded paper stapled together also works.",
+   "url": "https://www.amazon.in/s?k=small+notebook",
+   "used_in": [
+    "p2"
+   ],
+   "plan": "Get it before the week of looking."
+  },
+  {
+   "id": "b-print",
+   "item": "Printing the game cards and worksheets",
+   "kind": "printing",
+   "why": "Used in Three Mats, Who Am I and the worksheets. About 6 to 8 sheets, at ₹2 to ₹10 a page at any print shop. You can also copy the cards by hand onto paper slips.",
+   "url": "",
+   "used_in": [
+    "g1",
+    "g2"
+   ],
+   "plan": "Print before the games."
+  },
+  {
+   "id": "b-animal-baby-book",
+   "item": "A picture book about animal babies",
+   "kind": "book",
+   "why": "Used in Who feeds whom, for days when no baby animal is nearby. ₹150 to ₹300, or borrow from a library. A parent can also show pictures on a phone.",
+   "url": "https://www.amazon.in/s?k=picture+book+baby+animals+kids",
+   "used_in": [
+    "p2"
+   ],
+   "plan": "Borrow or buy before the week of looking."
+  }
+ ],
+ "warmup": [
+  {
+   "q": "What does a new baby drink?",
+   "a": "Milk, from the mother or another milk made for babies."
+  },
+  {
+   "q": "How big is a newborn's stomach?",
+   "a": "About as small as a marble."
+  },
+  {
+   "q": "Name a soft food a baby of seven months can eat.",
+   "a": "Mashed banana, ragi porridge or soft khichdi."
+  },
+  {
+   "q": "What does a child's body use food for?",
+   "a": "To grow bigger and to mend."
+  },
+  {
+   "q": "Why do many elders eat soft food?",
+   "a": "They have fewer teeth, so soft food is easier to eat."
+  },
+  {
+   "q": "Name a drink for someone with loose motions.",
+   "a": "ORS, water with a little sugar and salt."
+  }
+ ],
+ "warm": {
+  "words": [
+   "MILK",
+   "KANJI",
+   "TEETH",
+   "ORS",
+   "GROW"
+  ],
+  "quiz": [
+   [
+    "A new baby's stomach is about the size of a marble.",
+    true,
+    "At first it holds only a teaspoon of milk."
+   ],
+   [
+    "Babies can eat whole nuts.",
+    false,
+    "Whole nuts can block a small throat."
+   ],
+   [
+    "Mother's milk is mostly water.",
+    true,
+    "About nine spoons out of ten are water."
+   ],
+   [
+    "Only babies need soft food.",
+    false,
+    "Elders and sick people may need it too."
+   ],
+   [
+    "An elder who is not thirsty never needs water.",
+    false,
+    "Thirst grows weaker with age, but the body still needs water."
+   ],
+   [
+    "A growing child builds new bone and muscle from food.",
+    true,
+    "Every bit of new body is made from food."
+   ],
+   [
+    "ORS is water with a little sugar and salt.",
+    true,
+    "The sugar helps the gut take in salt and water."
+   ],
+   [
+    "Honey is a good first food for a baby of six months.",
+    false,
+    "Honey is not for babies under one year."
+   ],
+   [
+    "Soft food is always rich in goodness.",
+    false,
+    "A thin kanji is soft but has little goodness. Dal, egg or curd add it."
+   ],
+   [
+    "Every kind of milk is the same.",
+    false,
+    "Each mammal makes milk that fits her baby."
+   ]
+  ],
+  "odd": [
+   [
+    [
+     "Mashed banana",
+     "Ragi porridge",
+     "Whole groundnuts",
+     "Soft khichdi"
+    ],
+    "Whole groundnuts",
+    "Whole nuts can block a small throat. The others are soft."
+   ],
+   [
+    [
+     "Cow",
+     "Bat",
+     "Pigeon",
+     "Whale"
+    ],
+    "Pigeon",
+    "A pigeon is a bird. The other three are mammals."
+   ],
+   [
+    [
+     "Kanji",
+     "Curd rice",
+     "Raw carrot",
+     "Mashed potato"
+    ],
+    "Raw carrot",
+    "Raw carrot is hard. The others are soft."
+   ],
+   [
+    [
+     "Marble",
+     "Teaspoon",
+     "Egg",
+     "Pumpkin"
+    ],
+    "Pumpkin",
+    "A newborn's stomach is as small as a marble, a teaspoon or an egg, never a pumpkin."
+   ]
+  ]
+ },
+ "plan": {
+  "start_options": [
+   "intro",
+   "e1",
+   "story",
+   "g1",
+   "a5",
+   "cards"
+  ],
+  "default_order": [
+   "intro",
+   "e1",
+   "summary",
+   "terms",
+   "explanations",
+   "a5",
+   "a3",
+   "story",
+   "g1",
+   "ws-core",
+   "a4",
+   "a1",
+   "a2",
+   "g2",
+   "agreed",
+   "challenging",
+   "p1",
+   "p2",
+   "c1",
+   "c2",
+   "ws-stretch",
+   "ws-challenge",
+   "big_questions",
+   "videos",
+   "open_questions",
+   "roots",
+   "quiz"
+  ],
+  "core": [
+   "e1",
+   "g1",
+   "a5",
+   "ws-core"
+  ],
+  "spine": [
+   "intro",
+   "e1",
+   "explanations",
+   "roots",
+   "quiz"
+  ]
  }
 }

@@ -3,7 +3,7 @@
  "title": "Noise and our ears: what loud sound does, who it reaches, and how sounds warn",
  "level": 5,
  "summary": {
-  "text": "A drummer loves the sound of her drum. The baby next door is woken by it, and a myna leaves her nest because of it. Is the drumming noise, or is it music? In this lesson you measure the sounds of your own home and street in decibels. You find out what loud sound does to the tiny hair cells inside the ear, and why that damage does not heal. You look at what noise does to sleep, to learning and to other animals, at India's rules about noise, and at the sounds that are loud on purpose because they warn us.",
+  "text": "A drummer loves her drum, but the drumming wakes the baby next door and sends a myna away from her nest. Is it noise, or is it music? In this lesson you measure the sounds of your own home and street in decibels, and find out what loud sound does to the tiny hair cells inside the ear and why that damage does not heal. You look at what noise does to sleep, to learning and to other animals, at India's rules about noise, and at the sounds that are loud on purpose because they warn us.",
   "art": "A street seen from a balcony with a drummer, a honking auto, a sleeping baby at a window and a myna on a wire, with a child holding a phone that shows a decibel number."
  },
  "intro": {
@@ -95,7 +95,7 @@
    "concept": "In people, dead hair cells are not replaced. In birds and fishes, they are",
    "status": "defined",
    "definition": "Humans and other mammals are born with all the cochlear hair cells they will ever have. Birds, fishes and frogs can grow new ones.",
-   "description": "Skin heals, and bone heals. The hair cells of the human cochlea do not. You are born with about 15,000 in each ear. When one dies, a scar forms in their place. This is why hearing lost to loud sound never comes back. For a long time scientists thought that was true of all animals. In 1987 and 1988, researchers in the United States deafened young chickens with loud sound and looked again days later. New hair cells had grown, and the birds could hear again. The work was done by Douglas Cotanche and Jeffrey Corwin, and by Brenda Ryals and Edwin Rubel. Fishes and frogs can do this too. Why mammals cannot is still being worked out.",
+   "description": "Skin heals, and bone heals. The hair cells of the human cochlea do not. You are born with about 15,000 in each ear. When one dies, a scar forms in their place. This is why hearing lost to loud sound never comes back. For a long time scientists thought that was true of all animals. In 1987 and 1988, researchers in the United States deafened young chickens and adult quail with loud sound and looked again days later. New hair cells had grown, and the birds could hear again. The work was done by Douglas Cotanche and Jeffrey Corwin, and by Brenda Ryals and Edwin Rubel. Fishes and frogs can do this too. Why mammals cannot is still being worked out.",
    "examples": [
     "A hearing aid makes sounds louder for the hair cells that remain. A cochlear implant sends electrical signals straight to the hearing nerve.",
     "A zebrafish, a small striped fish from India's rivers, regrows hair cells within days, and laboratories around the world study them to learn how."
@@ -300,7 +300,7 @@
    "examples": [
     "At a loud function, sitting at the back and far from the speakers changes the level more than anything else you can do.",
     "People who work with loud machines, such as road drills and factory looms, should be given ear protection by their employer.",
-    "A baby cannot move away or say that it hurts, so the family must be the one to carry the baby away from the sound."
+    "A baby cannot move away or say that they are hurt, so the family must carry the baby away from the sound."
    ],
    "perspectives": [],
    "one_view": "Source, path and time are the three parts of every hearing-protection plan used by health agencies, so there is only one honest view.",
@@ -529,7 +529,7 @@
    "Good, Jomol signed. Best one. Better than the grinder. The grinder is only buzzing. This one has steps.",
    "Ammini held the phone against the wall. It still said 104. The phone did not know about steps either.",
    "On the way home she passed Shanta chechi's house. Shanta was a nurse who worked nights at the hospital in town and slept in the day. Her window was shut and a blanket was nailed over it, and behind the blanket the baby was crying. Ammini held up the phone. 71. Not very much. It was plainly enough.",
-   "That night she wrote three lines in her project book. To Maama it is his life. To Jomol it is the best touch in the village. To Shanta chechi's baby it is the thing that will not let her sleep. Under them she wrote: all three are 104 at the shed. Then she wrote a fourth line, slowly, because she did not like it. Maama loves it, and his ear is ringing anyway.",
+   "That night she wrote three lines in her project book. To Maama it is his life. To Jomol it is the best touch in the village. To Shanta chechi's baby, the drumming is the thing that will not let her sleep. Under them she wrote: all three are 104 at the shed. Then she wrote a fourth line, slowly, because she did not like it. Maama loves it, and his ear is ringing anyway.",
    "That was the part she could not get past. She had thought that noise was sound you did not want. But her uncle wanted every beat, and his ear had not asked what he wanted.",
    "The next evening she did not tell anyone to stop. She walked away from the shed with the phone, counting steps. At two metres, 98. At four metres, 92. At eight metres, 86. At the far end of the grove, behind the old cattle shed wall, the phone showed 74, and at Shanta chechi's window she could hardly find the drums at all.",
    "She drew it as a map and gave it to her uncle. He looked at it for a long time. 'So we carry six chendas to the far end every evening because of a phone.'",
@@ -560,7 +560,7 @@
  "roots": {
   "context": "You have measured the sounds around you and followed them into the ear. Now we ask what it means that sound cannot be kept out, and what that tells us about ourselves and the world.",
   "deep_truth": {
-   "truth": "You measured the street's sound from inside your own room, with the window shut. A cracker burst three lanes away bends hair cells inside your head. Your eyelids can shut out light, but nothing on your body shuts out sound. So a sound made by one being becomes a change inside the bodies of all who are near. In sound, nobody's doing stays inside their own skin.",
+   "truth": "You measured the street's sound from inside your own room, with the window shut. A cracker burst three lanes away bends hair cells inside your head. Your eyelids can shut out light almost completely. Nothing on your body can do that for sound, and even earplugs only lower it. So a sound made by one being becomes a change inside the bodies of all who are near. In sound, nobody's doing stays inside their own skin.",
    "habit": "We think 'my sound is my own business' and 'my body ends at my skin'. Both ideas treat each person as sealed off from the others. Sound shows that the air we stand in is one shared thing, and that what one being does to it reaches inside the rest.",
    "evidence": "In the noise map, the meter inside the home showed readings from sources the child could not see: a horn, a neighbour's television, a far loudspeaker. The readings fell with distance and walls, and did not reach zero anywhere."
   },
@@ -661,5 +661,3196 @@
    "Chandogya Upanishad 3.13, Kena Upanishad 1.2, Tirukkural chapter 42, Hatha Yoga Pradipika chapter 4"
   ]
  },
- "playtest": "Main hands-on investigation, to be written under this name: 'A noise map of my home and street'. The child uses a free sound-meter app on a phone to take 30-second average readings in about eight places and times: bedroom with window shut and open, kitchen with the mixer-grinder on, the street side by day and after 10 at night, and one reading at 1, 2 and 4 big steps from a steady source such as a phone playing a ringtone. The child predicts each reading first, then compares with India's limits for homes. The result is unknown beforehand. Backup with no app: count how many steps away a ticking clock or a softly spoken word can still be made out in each place. A parent should know that phone apps differ by several decibels, so the map compares places and does not prove a breach of the law. No loud test sound is to be made near anyone's ears, and no crackers are used. The roots and the deep truth refer to this map. Facts a reviewer must verify: the four zone limits and the 10 at night to 6 in the morning rule. The 15 relaxed days a year. The cracker limit of 125 dB(AI) at 4 metres, and the 2018 two-hour Diwali window. The 1987 change to the Air Act. WHO 2018 values of 53 and 45. WHO child allowance of 75 decibels for 40 hours. 'More than one billion young people at risk'. About 15,000 hair cells per cochlea. The reflex threshold of about 80 decibels and its delay. Earplug and cotton wool figures. Bronzaft's 89 decibels, four and a half minutes and 11 months. Kujawa and Liberman's 'up to half'. Prendergast 2017. The bird regeneration papers and authors. Slabbekoorn and Peet 2003. Rolland 2012. Appel and Cocroft 2014. Seyfarth, Cheney and Marler 1980. Owren and Rendall. Suzuki 2016. Sumaira Abdulali's court work and dates. The Mumbai honking signal of 2020 and its 85 decibels. Paul Lueg's patent, and Amar Bose's 1978 flight and 1989 headset. Deborah Withington's broadband reversing alarm. The European Union's 2019 rule for electric cars. John Cage at Harvard in 1951 and 4'33\" in 1952. Chandogya Upanishad 3.13.8 (some editions number it 3.13.7). Sushruta Samhita Uttara Tantra 20 and its count of 28 ear diseases. Tirukkural 411 and 418. Kena Upanishad 1.2. Nightingale's line from Notes on Nursing, 1859. Barr 1886. Habermann 1890. Corti 1851. Ramazzini 1700 on the coppersmiths of Venice. The 2014 German musicians study and 'nearly four times'. Julia Barnett Rice, 1906. Evelyn Glennie and Dean Shibata 2001. The readings of 80 decibels or more at Indian junctions are a general statement and should be checked against Central Pollution Control Board data. The deep truth was not compared with other lessons' deep truths, because this helper was told to make no other tool calls: run deep_truths.py and check. The founder's notes and the Combined lessons were not searched for the same reason, so sources.founder is empty. Words that need flashcards, in the order met: noise, vibration, signal, pollutant, decibel, sound energy, sound-level meter, A-weighted, microphone, average reading, cochlea, hair cell, nerve signal, pitch, hertz, regrow, hearing aid, cochlear implant, Deaf, sign language, muffled, tinnitus, hidden hearing loss, connection, acoustic reflex, eardrum, middle ear, bang, impulse sound, firecracker limit, stress, blood pressure, noise pollution, residential area, silence zone, loudspeaker, source, barrier, dose, earplug, ear muff, earphone, weekly allowance, absorb, reflect, cancel, noise-cancelling, warning, siren, locate, alarm call, playback, alarm fatigue, silence, echo."
+ "playtest": "Notes for readers. The main investigation, 'A noise map of my home and street' (e1), is written and checked by reading, and has not been run in a real home. Untried: every experiment, activity, project, challenge and game. The decibel numbers in the story and the games are made up but realistic. The game 'Quiet Street' (g1) was tested only on a computer simulation of random play, which gave about a third to a half of wins with a good mix of fix cards. It has not been played by a family. Phone apps differ by several decibels, so the noise map compares places and does not prove a breach of the law. Expect a drop of about 3 to 6 decibels each time distance doubles. The second experiment's barrier results are estimates from general knowledge and have not been measured. Facts still to check against sources: the four zone limits and the quiet hours from 10 at night to 6 in the morning, the 15 relaxed days a year, the cracker limit of 125 dB(AI) at 4 metres and the 2018 two-hour Diwali window, the 1987 change to the Air Act, the World Health Organization's 2018 values of 53 and 45, the child's allowance of 75 decibels for 40 hours and 'more than one billion young people at risk', about 15,000 hair cells in each cochlea, the reflex threshold of about 80 decibels and its delay, the earplug and cotton wool figures, Bronzaft's 89 decibels, four and a half minutes and 11 months, 'up to half' from Kujawa and Liberman, Prendergast 2017, the bird regeneration papers (including whether quail or chickens were used by each team), Slabbekoorn and Peet 2003, Rolland 2012, Appel and Cocroft 2014, Seyfarth, Cheney and Marler 1980, Owren and Rendall, Suzuki 2016, Sumaira Abdulali's court work and dates, the Mumbai honking signal of 2020 and its 85 decibels, Paul Lueg's patent, Amar Bose's 1978 flight and 1989 headset, Deborah Withington's reversing alarm, the European Union's 2019 rule for electric cars, John Cage in 1951 and 4'33\" in 1952, Chandogya Upanishad 3.13.8 (some editions number it 3.13.7), the Sushruta Samhita's 28 ear diseases, Tirukkural 411 and 418, Kena Upanishad 1.2, Nightingale in 1859, Barr 1886, Habermann 1890, Corti 1851, Ramazzini in 1700, the 2014 German musicians study and 'nearly four times', Julia Barnett Rice in 1906, and Glennie and Shibata in 2001. Also to check: that readings of 80 decibels or more are common at Indian junctions, against Central Pollution Control Board data, that tall noise panels stand beside some Indian flyovers and metro lines, that India's coastal tsunami warning reaches village sirens, and the Rumi lines. The three videos still need a person to find and preview a real address. The deep truth was compared by search with the other lessons' deep truths and repeats none of them. The team's earlier notes and the Combined lessons for sound have not been searched, so the list of the team's own sources is empty.",
+ "terms": [
+  {
+   "term": "noise",
+   "meaning": "Sound that the listener does not want.",
+   "example": "A film song you love is music at a wedding. The same song, played loudly next door at midnight, is noise to you.",
+   "art": "A child with a pillow over her head while a speaker plays across the street."
+  },
+  {
+   "term": "vibration",
+   "meaning": "A very fast shaking to and fro.",
+   "example": "Touch a steel plate while a mixer-grinder is running. The shaking you feel is vibration.",
+   "art": "A hand resting on a humming steel plate."
+  },
+  {
+   "term": "signal",
+   "meaning": "A message carried by something that changes, such as a sound, a light or a nerve's tiny electric pulse.",
+   "example": "A pressure cooker's whistle is a signal that the steam inside is ready.",
+   "art": "A pressure cooker with a whistle and small wavy lines leaving it."
+  },
+  {
+   "term": "pollutant",
+   "meaning": "Something put into the air, water or soil that can harm the beings who share it.",
+   "example": "Smoke from a bonfire is a pollutant of the air. Indian law also counts loud noise as one.",
+   "art": "A chimney with smoke on one side and a loudspeaker with sound lines on the other."
+  },
+  {
+   "term": "decibel",
+   "meaning": "The unit for how strong a sound is. It is written dB.",
+   "example": "Whispering is about 30 decibels. Ordinary talking is about 60. A mixer-grinder at arm's length is about 90.",
+   "art": "A ladder of sounds from a whisper to a mixer-grinder, each with its decibel number."
+  },
+  {
+   "term": "sound energy",
+   "meaning": "The energy a sound carries as it moves through the air.",
+   "example": "A loud horn carries far more sound energy to your ear in each second than a whisper does.",
+   "art": "A whisper and a horn drawn with small and large piles of energy blocks."
+  },
+  {
+   "term": "sound-level meter",
+   "meaning": "A tool with a microphone and a display that shows how strong a sound is, in decibels.",
+   "example": "A teacher holds a sound-level meter at the back of the hall to check the band is not too loud.",
+   "art": "A hand-held meter with a small screen showing 72."
+  },
+  {
+   "term": "A-weighted",
+   "meaning": "A way of measuring sound so that each pitch counts about as much as a human ear hears it. It is written dB(A).",
+   "example": "India's noise limits are given in dB(A), because they are meant to protect human ears.",
+   "art": "A graph showing that human ears hear middle pitches best and very low rumbles poorly."
+  },
+  {
+   "term": "microphone",
+   "meaning": "A small part that turns the shaking of sound into a tiny electric signal.",
+   "example": "The tiny hole at the bottom of your phone is the opening to its microphone.",
+   "art": "A phone with an arrow pointing at the microphone hole."
+  },
+  {
+   "term": "average reading",
+   "meaning": "The middle value of a measurement that keeps jumping up and down, taken over a set time.",
+   "example": "A meter jumps between 55 and 75 on a street. Over 30 seconds the average reading may be 66.",
+   "art": "A meter display with a jumping number and a steady average number beside it."
+  },
+  {
+   "term": "cochlea",
+   "meaning": "The coiled, liquid-filled part of the inner ear where vibration becomes nerve signals. It is about the size of a pea.",
+   "example": "Your cochlea is curled like a tiny snail shell, deep inside the bone beside each ear.",
+   "art": "A cut-open snail-shaped tube with a zoom circle."
+  },
+  {
+   "term": "hair cell",
+   "meaning": "A sensing cell in the cochlea with a tuft of tiny stiff hairs. When the tuft bends, the cell sends a signal.",
+   "example": "A loud night of crackers can bend the hair cells so far that some do not recover.",
+   "art": "A hair cell with an upright tuft and a nerve below it."
+  },
+  {
+   "term": "nerve signal",
+   "meaning": "A tiny electric pulse that travels along a nerve to carry a message to the brain.",
+   "example": "When a hair cell bends, a nerve signal runs to your brain and you hear a sound.",
+   "art": "A line of small pulses running along a nerve towards a brain."
+  },
+  {
+   "term": "pitch",
+   "meaning": "How high or low a sound is.",
+   "example": "A mosquito's whine has a high pitch. A truck's rumble has a low pitch.",
+   "art": "A mosquito with a thin high line and a truck with a thick low line."
+  },
+  {
+   "term": "hertz",
+   "meaning": "The unit for how many vibrations happen in one second. It is written Hz.",
+   "example": "A note of 4,000 hertz is a very high whistle. The air shakes 4,000 times each second.",
+   "art": "A string vibrating with a counter that reads 4,000 each second."
+  },
+  {
+   "term": "regrow",
+   "meaning": "To grow back after being lost or damaged.",
+   "example": "A lizard can regrow her tail. A bird can regrow the hair cells in her ear. A person cannot.",
+   "art": "A lizard with a new tail and a bird with new hair cells."
+  },
+  {
+   "term": "hearing aid",
+   "meaning": "A small device worn in or behind the ear that makes sounds louder.",
+   "example": "A grandfather with a hearing aid can follow the talk at the dinner table again.",
+   "art": "An older man with a small device behind his ear."
+  },
+  {
+   "term": "cochlear implant",
+   "meaning": "A device placed inside the ear in an operation. It sends electrical signals straight to the hearing nerve.",
+   "example": "A child may receive a cochlear implant when her hair cells cannot send signals.",
+   "art": "A cut-away ear showing a thin wire inside the cochlea."
+  },
+  {
+   "term": "Deaf",
+   "meaning": "A word, written with a capital D, for people who do not hear much or at all and who often belong to a community that signs.",
+   "example": "Many Deaf people in India use Indian Sign Language and see it as a full language of their own.",
+   "art": "Two children signing to each other across a table."
+  },
+  {
+   "term": "sign language",
+   "meaning": "A full language made with the hands, face and body, with its own grammar.",
+   "example": "Indian Sign Language has signs for words, and a person can tell a story in it, just as in Tamil or Hindi.",
+   "art": "Two hands making a sign with a smiling face."
+  },
+  {
+   "term": "muffled",
+   "meaning": "Dull and hard to hear, as if wrapped in cotton.",
+   "example": "After a loud wedding band, the world may sound muffled for some hours.",
+   "art": "A child with a cotton-wool cloud around her head."
+  },
+  {
+   "term": "tinnitus",
+   "meaning": "A ringing, buzzing or hissing heard in the ear when no sound is outside.",
+   "example": "After a loud function, a boy hears a thin ringing in bed at night. That is tinnitus.",
+   "art": "A head with a thin wavy line inside one ear."
+  },
+  {
+   "term": "hidden hearing loss",
+   "meaning": "The idea that loud sound can destroy links between hair cells and the nerve, though a normal hearing test still passes.",
+   "example": "A person passes a hearing test, yet cannot follow talk in a noisy crowd.",
+   "art": "A hair cell joined to a nerve by links, half of them missing."
+  },
+  {
+   "term": "connection",
+   "meaning": "A link that joins one cell to another so a signal can pass.",
+   "example": "The connections between a hair cell and its nerve carry each sound towards the brain.",
+   "art": "Two cells joined by a small bridge."
+  },
+  {
+   "term": "acoustic reflex",
+   "meaning": "The ear's automatic tightening of a tiny muscle when a loud sound arrives. It lowers the sound that reaches the inner ear.",
+   "example": "When a loud lorry passes, your acoustic reflex tightens in about a tenth of a second.",
+   "art": "A tiny muscle pulling on a small ear bone."
+  },
+  {
+   "term": "eardrum",
+   "meaning": "The thin skin stretched across the inside of the ear, which shakes when sound reaches it.",
+   "example": "A sound enters your ear and shakes your eardrum, like the skin of a drum.",
+   "art": "A thin skin across a tube with sound lines hitting it."
+  },
+  {
+   "term": "middle ear",
+   "meaning": "The air-filled space behind the eardrum that holds three tiny bones.",
+   "example": "Vibration from the eardrum crosses the middle ear along three tiny bones.",
+   "art": "Three tiny linked bones inside a small cavity."
+  },
+  {
+   "term": "bang",
+   "meaning": "A sound that rises to full strength almost at once and is over in a moment.",
+   "example": "A burst balloon, a cap gun and a cracker all make a bang.",
+   "art": "A burst balloon with a sharp spiky sound line."
+  },
+  {
+   "term": "impulse sound",
+   "meaning": "The scientists' name for a bang: one very short, very sharp jump in air pressure.",
+   "example": "A cracker makes an impulse sound, which is why its loudness is measured in a special way.",
+   "art": "A tall thin spike on a sound graph."
+  },
+  {
+   "term": "firecracker limit",
+   "meaning": "India's rule that a cracker must not make more than 125 decibels measured 4 metres from where it bursts.",
+   "example": "A cracker sold in a shop must stay under the firecracker limit, but a child holding one stands much closer than 4 metres.",
+   "art": "A cracker with a mark 4 metres away and a child standing at 1 metre."
+  },
+  {
+   "term": "stress",
+   "meaning": "The body's alarm reaction, with faster heartbeat and tense muscles, when something seems like danger.",
+   "example": "A sudden horn makes your heart beat faster. That is the body's stress reaction.",
+   "art": "A child jumping at a horn with a heart drawn racing."
+  },
+  {
+   "term": "blood pressure",
+   "meaning": "How hard the blood pushes against the insides of the blood tubes.",
+   "example": "When you are startled, your blood pressure goes up for a short time.",
+   "art": "A blood tube with arrows pushing outward."
+  },
+  {
+   "term": "noise pollution",
+   "meaning": "Unwanted or harmful sound that is put into the shared air.",
+   "example": "Constant horns on a street are noise pollution for everyone and everything that lives beside it.",
+   "art": "A street with horn sound lines filling the air above the houses."
+  },
+  {
+   "term": "residential area",
+   "meaning": "A part of a town where people live in houses and flats.",
+   "example": "A lane of homes, a small temple and a corner tea shop is a residential area.",
+   "art": "A quiet lane of homes with a small tea shop."
+  },
+  {
+   "term": "silence zone",
+   "meaning": "The area within 100 metres of a hospital, a school or a court, where India's rules set the strictest noise limits.",
+   "example": "A 'No Horn' board on a road beside a hospital marks a silence zone.",
+   "art": "A hospital with a ring around it and a 'No Horn' board."
+  },
+  {
+   "term": "loudspeaker",
+   "meaning": "A device that turns an electric signal back into sound, often to reach many people.",
+   "example": "A loudspeaker on a pole carries a festival song across the whole neighbourhood.",
+   "art": "A pole with two horn-shaped loudspeakers and sound lines fanning out."
+  },
+  {
+   "term": "source",
+   "meaning": "The place where a sound begins.",
+   "example": "The source of a bus horn is the horn. The source of your voice is your throat.",
+   "art": "A horn with sound lines leaving it."
+  },
+  {
+   "term": "barrier",
+   "meaning": "Something placed in the path of sound that blocks or reduces it.",
+   "example": "A thick wall between a road and a school is a barrier to traffic sound.",
+   "art": "A wall between a loud road and a house."
+  },
+  {
+   "term": "dose",
+   "meaning": "The total amount of something a body takes in. For sound, it depends on how loud it is and for how long.",
+   "example": "A loud sound for a short while and a quieter sound for much longer can give the same dose to the ear.",
+   "art": "A tap filling a glass, with loudness as the tap's width and time as how long it runs."
+  },
+  {
+   "term": "earplug",
+   "meaning": "A small soft plug that fits in the ear canal and lowers the sound that reaches the ear.",
+   "example": "A drummer pushes foam earplugs gently into her ears before practice.",
+   "art": "A pair of foam earplugs beside an ear."
+  },
+  {
+   "term": "ear muff",
+   "meaning": "A pair of cups that cover the whole ear and lower the sound that reaches it.",
+   "example": "A road-drill worker wears ear muffs over both ears.",
+   "art": "A person in ear muffs beside a drill."
+  },
+  {
+   "term": "earphone",
+   "meaning": "A small speaker worn in or on the ear, which puts sound straight into the ear canal.",
+   "example": "A boy listens to songs through earphones on the bus.",
+   "art": "A child wearing earphones with a volume bar."
+  },
+  {
+   "term": "weekly allowance",
+   "meaning": "The total amount of listening an ear can safely take in one week.",
+   "example": "For a child, the World Health Organization's weekly allowance is 75 decibels for up to 40 hours.",
+   "art": "A weekly calendar with listening hours shaded in."
+  },
+  {
+   "term": "absorb",
+   "meaning": "To soak sound up so that little of it bounces back.",
+   "example": "A thick curtain absorbs sound, so a room with curtains sounds softer.",
+   "art": "A soft curtain with sound lines fading into it."
+  },
+  {
+   "term": "reflect",
+   "meaning": "To bounce back from a surface.",
+   "example": "A bare wall reflects sound, so a shout in an empty room comes back to you.",
+   "art": "A sound line bouncing off a hard wall."
+  },
+  {
+   "term": "cancel",
+   "meaning": "To remove each other when two opposite things are added together.",
+   "example": "Two waves that squeeze and stretch the air in exactly opposite ways cancel each other and leave a flat line.",
+   "art": "Two opposite waves adding up to a flat line."
+  },
+  {
+   "term": "noise-cancelling",
+   "meaning": "Using a speaker to play the opposite of an incoming sound so the two cancel.",
+   "example": "Noise-cancelling headphones quieten the steady drone of an aeroplane engine.",
+   "art": "A pair of headphones with two opposite waves meeting inside."
+  },
+  {
+   "term": "warning",
+   "meaning": "A signal made to tell you that danger is near, so you can act.",
+   "example": "The shrill beep of a smoke alarm is a warning to wake up and leave.",
+   "art": "A smoke alarm with sharp sound lines above a bed."
+  },
+  {
+   "term": "siren",
+   "meaning": "A loud warning sound that usually rises and falls in pitch.",
+   "example": "An ambulance siren tells the traffic ahead to move aside.",
+   "art": "An ambulance with sweeping sound lines."
+  },
+  {
+   "term": "locate",
+   "meaning": "To find where something is.",
+   "example": "With two ears you can locate a ringing bell, even with your eyes shut.",
+   "art": "A child with closed eyes pointing towards a ringing bell."
+  },
+  {
+   "term": "alarm call",
+   "meaning": "A sound an animal makes when she or he senses danger, which warns others.",
+   "example": "A langur's bark is an alarm call that makes chital deer run.",
+   "art": "A langur barking on a branch above deer."
+  },
+  {
+   "term": "playback",
+   "meaning": "Playing a recorded sound to animals to see how they respond.",
+   "example": "Scientists hid a loudspeaker in the grass and played back a leopard alarm call to vervet monkeys.",
+   "art": "A hidden loudspeaker in grass with monkeys looking towards it."
+  },
+  {
+   "term": "alarm fatigue",
+   "meaning": "Becoming so used to frequent warnings that you stop responding to them.",
+   "example": "A nurse who hears hundreds of beeps a shift may stop noticing a real one. That is alarm fatigue.",
+   "art": "A nurse surrounded by many small beeping symbols."
+  },
+  {
+   "term": "silence",
+   "meaning": "Having no sound at all. Nobody who can hear has ever found it fully.",
+   "example": "A very quiet room still has your breath, your blood and the faint hiss of your own ears. So full silence is hard to find.",
+   "art": "A person in a foam-lined room with two small sound lines inside the body."
+  },
+  {
+   "term": "echo",
+   "meaning": "A sound that bounces back from a hard surface so that you hear it again.",
+   "example": "If you shout in a stairwell with bare walls, you hear your own voice come back.",
+   "art": "A child shouting in a stairwell with a returning sound line."
+  }
+ ],
+ "experiments": [
+  {
+   "id": "e1",
+   "title": "A noise map of my home and street: which places are loudest, and are they within the limit?",
+   "mins": 45,
+   "days": 2,
+   "question": "How loud is each place in and around your home, and which of them are above India's limit for homes?",
+   "predict": "Before you measure each place, write a guess in decibels and say why you think so. Is the kitchen with the mixer-grinder louder than the street? Is the bedroom window quieter when it is shut?",
+   "fair_test": "Only the place or the time changes. The same phone is held the same way each time: at arm's length, at chest height, with the microphone end towards the sound. Each reading is the average over 30 seconds, taken twice. If the two readings differ by more than 5 decibels, a passing horn probably spoiled one, so take a third and use the middle one. For the distance readings, the sound source, its volume and the room stay the same, and only your distance changes.",
+   "results_table": [
+    "Place and time",
+    "My guess (dB)",
+    "Reading 1 (dB)",
+    "Reading 2 (dB)",
+    "Middle reading (dB)",
+    "India's limit for homes (dB)",
+    "How much I wanted this sound (1 to 5)",
+    "Backup: steps away I can still hear a ticking clock"
+   ],
+   "materials": [
+    {
+     "item": "a phone with a free sound-meter app that shows an average reading ",
+     "qty": 1
+    },
+    {
+     "item": "a second phone, a radio or a small speaker to play a steady sound at the ordinary volume of a talking voice",
+     "qty": 1
+    },
+    {
+     "item": "a mixer-grinder, run by a grown-up for 30 seconds with a little water inside",
+     "qty": 1
+    },
+    {
+     "item": "a ticking clock or a wristwatch, only for the no-app backup",
+     "qty": 1
+    },
+    {
+     "item": "paper, a pencil and a clock or phone timer",
+     "qty": 1
+    }
+   ],
+   "safety": "Make no loud sound near anyone's ears for this test. Keep the played sound at the volume of ordinary talk, and never use crackers or horns. A grown-up runs the mixer-grinder and takes the late-night reading.",
+   "schedule": [
+    {
+     "day": 1,
+     "mins": 40,
+     "what": "Set up the meter, write all eight guesses, then measure the bedroom, the kitchen, the distance steps and the street by day."
+    },
+    {
+     "day": 2,
+     "mins": 5,
+     "what": "At about a quarter past ten at night, a grown-up takes the street reading from the same spot, and you finish the table."
+    }
+   ],
+   "record": "Fill in the table for all eight readings. Draw a rough map of your home and street, and write each middle reading on the place where you took it. Colour the places above India's limit for homes red. Then write one sentence each for what you think, what you saw and why.",
+   "context": "In this investigation you use a phone as a sound meter and measure eight places and times in and around your home. You find out which places are loud, how fast sound fades with distance, and how your readings compare with India's limits.",
+   "setup": [
+    {
+     "art": "A child holding a phone at arm's length at chest height with the microphone end pointing at a window, a watch showing 30 seconds.",
+     "caption": "1. Hold the phone at arm's length, at chest height. Read the average over 30 seconds."
+    },
+    {
+     "art": "A paper table with eight rows for places and a guess column already filled in with pencil numbers.",
+     "caption": "2. Write your guess for every place before you measure any of them."
+    },
+    {
+     "art": "A small speaker on a table and three chalk marks on the floor at 1, 2 and 4 big steps, with the child standing at the second mark holding the phone.",
+     "caption": "3. Play a steady sound and measure at 1, 2 and 4 big steps away."
+    },
+    {
+     "art": "A child at a window with the phone held out and the street below, beside a hand-drawn map with numbers written in colour.",
+     "caption": "4. Measure the street from the window, by day and again late at night, and write the numbers on your map."
+    }
+   ],
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 5,
+     "do": "Pick a free sound-meter app and open it. Hold the phone at arm's length, at chest height, with the microphone end (the bottom edge on most phones) towards the sound. Practise in the room where you are. Watch the number for 30 seconds on a timer and write the average if the app shows one. If it shows only a jumping number, write the number it shows most often.",
+     "say": "A sound meter turns the shaking of air into a number of decibels. Hold the phone out, away from your body, and watch it for half a minute. What do you see the number do?",
+     "kid": "Hold the phone out at arm's length. Watch the number for 30 seconds. Write the average.",
+     "adult": false,
+     "parent": "Phone apps can differ from one another by several decibels, so this test compares one place with another. It does not prove that a law was broken. If you cannot get an app, use the backup. In every place, count the big steps you can walk away from a ticking clock while still hearing it. Write the number in the last column of the table. Examples of apps are the NIOSH Sound Level Meter on iPhone, or any free decibel app on Android. The farther you can hear it, the quieter the place."
+    },
+    {
+     "id": "s2",
+     "mins": 6,
+     "do": "Draw the table with eight rows. Make rows for the bedroom with the window shut and open, and for the kitchen with the mixer-grinder running. Add rows for the street side by day and after 10 at night. Add three rows for the steady sound at 1, 2 and 4 big steps. Write a guess in decibels for every row now, before measuring anything, and a few words on why. Use these for help: a whisper is about 30, ordinary talk about 60 and a mixer-grinder at arm's length about 90.",
+     "say": "Before we measure, what do you think each number will be? Write a guess for every row and tell me why you think so. We will not change them later, even if they are wrong.",
+     "kid": "Write a guess for every row. Do not change them later.",
+     "adult": false,
+     "ask": [
+      {
+       "q": "Which place do you think will be the loudest, and which the quietest?",
+       "good": [
+        "Any answer with a reason, such as the kitchen loudest because the mixer-grinder is loud, and the closed bedroom quietest.",
+        "An answer that gives a reason about walls, windows or distance."
+       ]
+      }
+     ],
+     "parent": "Wrong guesses are the useful part of this test. Do not correct the child. Let the meter do that."
+    },
+    {
+     "id": "s3",
+     "mins": 8,
+     "do": "Measure the bedroom with the window shut and then open. Stand in the middle of the room, hold the phone as before, and read the 30-second average twice for each. Then ask a grown-up to run the mixer-grinder for 30 seconds with a little water inside. Stand one big step away and read the average once, and then a second time with another 30 seconds of grinding. Write all the numbers.",
+     "say": "Stay still and quiet for the whole 30 seconds, because your own voice and footsteps count too. Is the open window louder than the shut one? By how much?",
+     "kid": "Measure the bedroom with the window shut and open. Then measure the kitchen while the mixer-grinder runs. Write each number.",
+     "adult": true,
+     "ask": [
+      {
+       "q": "What changed when the window was opened, and what does that tell you about where the sound comes from?",
+       "good": [
+        "The number went up, so a lot of the sound comes in from outside.",
+        "A glass window and walls block some sound, and an open window lets it in."
+       ]
+      }
+     ],
+     "parent": "A grown-up runs the mixer-grinder and keeps it to 30 seconds twice. Keep the child at the one-step mark and not close to the jar. Two runs of 30 seconds at one big step away are fine for the ears. Do not run it for much longer than a minute or two in all."
+    },
+    {
+     "id": "s4",
+     "mins": 6,
+     "do": "Play a steady sound on the second phone, radio or speaker, at the volume of ordinary talk. Put it on a table. Mark 1, 2 and 4 big steps from it with chalk or paper tape. Read the 30-second average at each mark, twice each. Do not raise the volume between marks. If the reading at 1 step is above about 70 decibels, turn the volume down and start again.",
+     "say": "The sound stays the same. Only you move. What do you think happens to the number each time you double the distance?",
+     "kid": "Stand at 1, 2 and 4 big steps from the sound. Read the number at each.",
+     "adult": false,
+     "ask": [
+      {
+       "q": "How much did the number change each time you doubled your distance?",
+       "good": [
+        "It fell by a few decibels each time, about 3 to 6.",
+        "It fell by about the same amount each doubling, so the drop was steady."
+       ]
+      }
+     ],
+     "parent": "Outdoors in an open space, each doubling of distance lowers the level by about 6 decibels. In a room, walls bounce the sound back, so you will usually see a smaller drop, often 3 to 5. Both are normal. Two phones in the same place may disagree by a few decibels. The drop each time you move should still look alike."
+    },
+    {
+     "id": "s5",
+     "mins": 6,
+     "do": "Go to a window, a balcony or the gate where the street can be heard. Stay with a grown-up. Read the 30-second average twice, in daytime, and write the numbers. If a horn or a bus passes, take a third reading and keep the middle one.",
+     "say": "This is the street at its busiest. Listen first. Which sounds do you want to hear, and which would you switch off if you could?",
+     "kid": "Stand at the window with a grown-up. Read the street's number twice.",
+     "adult": true,
+     "ask": [
+      {
+       "q": "Which sounds were in the street reading, and which were you glad to hear?",
+       "good": [
+        "Any honest list, such as horns, a vendor's call, a crow or a bell, with some marked wanted and some unwanted.",
+        "An answer that notices the meter counts all of them the same."
+       ]
+      }
+     ],
+     "parent": "Stay at a window or gate and do not go near the road. If your home is near a hospital, school or court, tell the child that this place may be a silence zone, with the lowest limits."
+    },
+    {
+     "id": "s6",
+     "mins": 9,
+     "do": "Look up India's limits for homes. A residential area is allowed 55 decibels by day and 45 at night, measured outside, and a silence zone is allowed 50 and 40. Add these numbers to the table. Colour each reading above its limit red. Then give each of the eight sounds a mark from 1 to 5 for how much you wanted it. Compare the order of the decibel numbers with the order of your marks.",
+     "say": "Which readings are above the limit? Now look at your wanting marks. Is the loudest place also the one you most wanted to be quiet?",
+     "kid": "Colour the readings above the limit red. Mark each sound from 1 to 5 for how much you wanted it.",
+     "adult": false,
+     "ask": [
+      {
+       "q": "Does the order of the numbers match the order of how much you wanted each sound?",
+       "good": [
+        "Not always. A sound can be loud and wanted, or quiet and unwanted.",
+        "An answer that says the meter measures strength and cannot measure wanting."
+       ]
+      }
+     ],
+     "parent": "The rules measure outside homes, so only the street readings can be compared with them. The other places are for comparing one place with another. Day means 6 in the morning to 10 at night.",
+     "think": "The meter can say how strong a sound is. Who can say whether it is noise?"
+    },
+    {
+     "id": "s7",
+     "mins": 5,
+     "do": "At about a quarter past ten at night, or any time after 10, a grown-up goes to the same window. They take two 30-second readings from the same place. Write them in the table. Compare the night number with the day number and with the night limit of 45 for homes. Then draw your map of your home and street, with each middle reading written on its place.",
+     "say": "The street at night is not the same street. Is it quieter? Is it quiet enough?",
+     "kid": "A grown-up takes the night reading. Then draw the map and write the numbers on it.",
+     "adult": true,
+     "parent": "If the child is asleep, take the reading yourself and tell the story in the morning. Write what you could hear, such as a lorry, a dog or a distant loudspeaker. If the reading is above 45, remember that it is one reading from one phone, so it is a pointer and not proof."
+    }
+   ]
+  },
+  {
+   "id": "e2",
+   "title": "Which cuts a steady sound the most: more distance, a quieter source or a barrier?",
+   "mins": 30,
+   "days": 1,
+   "question": "The three ways to protect the ear are a quieter source, more distance or a barrier, and less time. Which of the first two cuts a steady sound the most, and which material makes the best barrier?",
+   "predict": "Guess which will lower the reading most. Will it be doubling the distance, turning the volume down by three clicks, or standing a pile of books between the speaker and the phone? Say why you think so.",
+   "fair_test": "The same steady sound plays at the same volume from the same place, and the measuring phone stays at the same height and angle. For each test only one thing changes: the distance, the volume or the barrier. Each reading is the 30-second average, taken twice, and the middle value is used because one passing horn can spoil a reading.",
+   "results_table": [
+    "What I changed",
+    "Reading 1 (dB)",
+    "Reading 2 (dB)",
+    "Middle reading (dB)",
+    "Drop from the starting reading (dB)"
+   ],
+   "materials": [
+    {
+     "item": "a phone with a free sound-meter app",
+     "qty": 1
+    },
+    {
+     "item": "a second phone, a radio or a small speaker to play a steady sound",
+     "qty": 1
+    },
+    {
+     "item": "a sheet of paper stood up on its edge, taped to a book",
+     "qty": 1
+    },
+    {
+     "item": "a wall of 6 to 8 hardback books or full school bags, about 30 centimetres tall and 40 centimetres wide",
+     "qty": 1
+    },
+    {
+     "item": "a thick folded blanket or quilt, held upright by a chair",
+     "qty": 1
+    },
+    {
+     "item": "a tape measure, or a string with a knot every 50 centimetres",
+     "qty": 1
+    },
+    {
+     "item": "a quiet room with the door shut and the fan off",
+     "qty": 1
+    }
+   ],
+   "safety": "Keep the sound at the volume of ordinary talk. Do not play anything loud near anyone's ears.",
+   "record": "Fill in the table. Work out the drop in each row by taking the middle reading from the starting reading. Put the changes in order from the biggest drop to the smallest. Then write one sentence each for what you think, what you saw and why.",
+   "context": "In this experiment you test three ways of lowering a steady sound at one listening place. They are more distance, a quieter source and three kinds of barrier. You find out which lever works best, and why it matters for protecting ears.",
+   "setup": [
+    {
+     "art": "A small speaker on a table in a quiet room, a phone on a stack of books 50 centimetres away facing it, and a tape measure along the table.",
+     "caption": "1. Put the speaker at one end of a table and the phone 50 centimetres away. Read the starting level."
+    },
+    {
+     "art": "The same table with the phone moved to 1 metre, and a second picture with the speaker volume bar three clicks lower.",
+     "caption": "2. Move the phone to 100 centimetres. Then put it back and turn the speaker down three clicks."
+    },
+    {
+     "art": "Three barriers in turn between the speaker and the phone: a standing sheet of paper, a wall of books and a folded blanket.",
+     "caption": "3. Put each barrier between the speaker and the phone, close to the speaker."
+    },
+    {
+     "art": "A paper table with the rows filled in and a bar chart beside it, showing the longest bar for the biggest drop.",
+     "caption": "4. Work out each drop and draw one bar for each change."
+    }
+   ],
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 6,
+     "do": "Put the speaker at one end of a table, playing a steady sound at the volume of ordinary talk. A song with an even beat, or a recording of a fan, will do. Place the measuring phone 50 centimetres away, at the same height, with its microphone end towards the speaker. Read the 30-second average twice. This is the starting reading.",
+     "say": "We have one steady sound and one listening place. Write your guess first. Which of the three changes will cut the sound the most?",
+     "kid": "Play a steady sound. Read the level 50 centimetres away. Write it.",
+     "adult": false,
+     "ask": [
+      {
+       "q": "Which change do you think will cut the sound the most, and why?",
+       "good": [
+        "Any guess with a reason, such as the barrier because it stands in the way, or the distance because the sound spreads out.",
+        "An answer that thinks about sound spreading or being blocked."
+       ]
+      }
+     ],
+     "parent": "Do not move the speaker or the phone angle again. If the readings jump about by more than 5 decibels, close the door, switch off the fan and try again. If you have no meter app, use the backup. Stand where you can just hear a ticking clock. Count the big steps you can walk back, with and without each barrier."
+    },
+    {
+     "id": "s2",
+     "mins": 6,
+     "do": "Move the phone to 100 centimetres from the speaker, which is double the distance. Read the average twice and write it. Move the phone back to 50 centimetres. Then turn the speaker's volume down by three clicks on the volume button, and read twice again at 50 centimetres. Put the volume back up.",
+     "say": "Distance first, then quieter volume. How much did each one change the number?",
+     "kid": "Double the distance. Read. Then go back and turn the volume down three clicks. Read.",
+     "adult": false,
+     "ask": [
+      {
+       "q": "Which gave the bigger drop, double the distance or three clicks lower?",
+       "good": [
+        "The answer from the table, with the two numbers.",
+        "A guess about why, such as that the sound spreads out as it travels."
+       ]
+      }
+     ],
+     "parent": "In a room, doubling the distance usually lowers the level by 3 to 6 decibels. Three volume clicks lowers it by a very different amount depending on the phone, so there is no right number. Both are results, not mistakes."
+    },
+    {
+     "id": "s3",
+     "mins": 10,
+     "do": "Stand the sheet of paper on its edge between the speaker and the phone, close to the speaker, taped to a book so it stands upright. Read twice. Take it away. Build the wall of books about 10 centimetres in front of the speaker, 30 centimetres tall and wide enough to hide it. Read twice. Take it away. Then stand the thick blanket upright, close to the speaker, held by a chair. Read twice. Write all the numbers.",
+     "say": "Same sound, same place. Only the thing in the way changes. Which one will you trust to protect a baby's sleep?",
+     "kid": "Put a paper, then a wall of books, then a blanket in the way. Read each twice.",
+     "adult": false,
+     "ask": [
+      {
+       "q": "Which barrier cut the sound most, and which cut it least?",
+       "good": [
+        "The answer from the table, such as the books or the blanket the most and the paper the least.",
+        "An answer that links a thicker, heavier or softer barrier with a bigger drop."
+       ]
+      }
+     ],
+     "parent": "Expect a drop of about 0 to 2 decibels for the paper, and about 3 to 10 for books or a blanket. Sound also bends over the top and round the sides of a barrier, so make it taller than the speaker and wide enough. If all readings stay within 2 decibels of the start, check that the barrier is close to the speaker and has no gaps."
+    },
+    {
+     "id": "s4",
+     "mins": 8,
+     "do": "Work out the drop for each change: the starting middle reading minus the new middle reading. Put the five changes in order from the biggest drop to the smallest, and draw a bar for each. Then ask: which one could you use at a loud function? Which could you use for a street?",
+     "say": "Which lever cut the most? Is it the one you guessed?",
+     "kid": "Work out each drop. Draw a bar for each. Which is biggest?",
+     "adult": false,
+     "ask": [
+      {
+       "q": "The test is for a speaker in a room. What might be different for a bus horn on a road?",
+       "good": [
+        "A horn is much louder and comes from far away, and the sound bends round barriers.",
+        "A road is open, so there is little bounce from walls, and a barrier has to be tall and solid."
+       ]
+      }
+     ],
+     "parent": "This test cannot show how a barrier works for low or sudden sounds, or outdoors. Engineers still test those in the field. If a result surprised you, tell your child that surprises are the point.",
+     "think": "Which lever would you pull first to protect your own ears at a loud function, and which could you not pull at all?"
+    }
+   ]
+  }
+ ],
+ "activities": [
+  {
+   "id": "a1",
+   "title": "Wanted or not: sort the sounds of your day",
+   "mins": 20,
+   "days": 1,
+   "context": "In this activity you sort the sounds around you by whether you want them. The same sound can be wanted by one person and unwanted by another. It shows that noise is a judgement, not a measurement.",
+   "materials": [
+    {
+     "item": "paper cut into 12 small slips",
+     "qty": 1
+    },
+    {
+     "item": "a pencil",
+     "qty": 1
+    },
+    {
+     "item": "a sheet of paper folded into four boxes",
+     "qty": 1
+    }
+   ],
+   "schedule": [
+    {
+     "day": 1,
+     "mins": 20,
+     "what": "Listen for 2 minutes, write the sounds, sort them into four boxes, then find sounds that people sort differently."
+    }
+   ],
+   "record": "Keep the folded sheet with the sounds in their four boxes. Star the sounds where two people disagreed.",
+   "setup": [
+    {
+     "art": "A child sitting by a window with eyes closed and a pencil and paper slips on the floor.",
+     "caption": "1. Sit still for 2 minutes with your eyes closed and listen."
+    },
+    {
+     "art": "A sheet folded into four boxes labelled wanted and loud, wanted and quiet, unwanted and loud, unwanted and quiet, with slips in them.",
+     "caption": "2. Write one sound on each slip. Sort the slips into the four boxes."
+    },
+    {
+     "art": "A parent and a child each holding a slip with a different box in mind, pointing at different boxes.",
+     "caption": "3. Swap boxes with a grown-up and find the sounds you placed differently."
+    }
+   ],
+   "flow": [
+    {
+     "id": "a1s1",
+     "mins": 4,
+     "do": "Sit still in a room with a window for two minutes. Close your eyes and count every different sound you hear on your fingers. Open your eyes and write each sound on its own slip, up to twelve.",
+     "say": "Close your eyes. How many different sounds can you find? Count them on your fingers.",
+     "kid": "Sit still for 2 minutes. Count the sounds. Write each on a slip.",
+     "adult": false,
+     "parent": "If the room is too quiet to find 6 sounds, include the ones inside you, such as breathing, and the ones far away. Younger children can draw the sound instead of writing."
+    },
+    {
+     "id": "a1s2",
+     "mins": 6,
+     "do": "Fold a sheet of paper into four boxes. Label them: wanted and loud, wanted and quiet, not wanted and loud, not wanted and quiet. Sort each slip into one box.",
+     "say": "Which sounds did you want to hear, and which would you switch off if you could? Put each in a box.",
+     "kid": "Sort the slips into the four boxes.",
+     "adult": false,
+     "ask": [
+      {
+       "q": "Which box has the most slips, and which has the fewest?",
+       "good": [
+        "Any honest count, with a thought about why.",
+        "An answer that notices that loud and unwanted sounds are not the only kind that bother people."
+       ]
+      }
+     ]
+    },
+    {
+     "id": "a1s3",
+     "mins": 6,
+     "do": "Show your boxes to a parent, or a friend or older relative if you have one. Ask them to sort the same slips in their own four boxes without looking at yours. Compare. Put a star on every sound that was put into different boxes by the two of you.",
+     "say": "Where did we put the same sound in different boxes? Why do you think so?",
+     "kid": "Sort the same slips again with another person. Star the sounds you placed differently.",
+     "adult": false,
+     "ask": [
+      {
+       "q": "Why did the same sound go in different boxes?",
+       "good": [
+        "Because people want different things at different times, such as a mixer-grinder at 7 in the morning.",
+        "Because who is listening, when and why matters as much as how strong the sound is."
+       ]
+      }
+     ],
+     "parent": "Common differences: a child's own music, a baby's crying, a neighbour's festival song, a crow, a vendor's call. Do not argue about who is right. The point is that both are."
+    },
+    {
+     "id": "a1s4",
+     "mins": 4,
+     "do": "Choose one starred sound. Write down two people who might sort it differently and what each would say. Then, together, think of one thing that could make it wanted for both.",
+     "say": "Think of two people who would sort that sound differently. What could make it better for both?",
+     "kid": "Write two people who would disagree about a starred sound. Think of one fix.",
+     "adult": false,
+     "think": "A meter gives one number for a sound. What would you need to ask to find out whether it is noise?"
+    }
+   ]
+  },
+  {
+   "id": "a2",
+   "title": "Feel the beat: sound through the hands, the table and the floor",
+   "mins": 20,
+   "days": 1,
+   "context": "In this activity you feel the shaking of sound with your hands, your throat and the floor. You find out how a person who cannot hear can still take in a drum. It shows that sound is vibration, which is felt as well as heard.",
+   "materials": [
+    {
+     "item": "a phone or small speaker that can play a steady drum beat or a bass tune",
+     "qty": 1
+    },
+    {
+     "item": "2 balloons, blown up",
+     "qty": 2
+    },
+    {
+     "item": "a wooden or steel table",
+     "qty": 1
+    }
+   ],
+   "safety": "Keep the volume at the level of ordinary talk. Do not press a speaker against your ear or place a balloon between a speaker and an ear.",
+   "schedule": [
+    {
+     "day": 1,
+     "mins": 20,
+     "what": "Feel the hum in your throat, the table and a balloon while a steady beat plays, and compare."
+    }
+   ],
+   "record": "Draw three hands on a page, one for the throat, one for the table and one for the balloon. Write beside each what the shaking felt like.",
+   "setup": [
+    {
+     "art": "A child with two fingers resting lightly on her own throat while humming.",
+     "caption": "1. Hum and feel your throat shake."
+    },
+    {
+     "art": "A child's flat palms resting on a wooden table with a small speaker beside it.",
+     "caption": "2. Rest your palms on the table while a steady beat plays."
+    },
+    {
+     "art": "A child holding a blown-up balloon lightly in both hands near a speaker with soft sound lines.",
+     "caption": "3. Hold a balloon near the speaker and feel the beat in it."
+    }
+   ],
+   "flow": [
+    {
+     "id": "a2s1",
+     "mins": 4,
+     "do": "Rest two fingers lightly on your throat and hum a low note, then a high note. Next, hum with your hand on top of your head.",
+     "say": "Can you feel the shaking? Is it the same for a low hum and a high hum?",
+     "kid": "Hum with your fingers on your throat. Try a high note and a low note.",
+     "adult": false,
+     "ask": [
+      {
+       "q": "Where did you feel the shaking, and was it different for low and high?",
+       "good": [
+        "In the throat, and sometimes the chest or head. The low note shakes more.",
+        "Any honest description of where they felt it."
+       ]
+      }
+     ]
+    },
+    {
+     "id": "a2s2",
+     "mins": 6,
+     "do": "Put a small speaker or phone on a wooden table. Play a steady drum beat at the volume of ordinary talk. Rest both flat palms on the table. Then rest your bare feet on the floor. Close your eyes and try to feel the beat.",
+     "say": "Is the table shaking? Can you tell where the beat is without hearing it?",
+     "kid": "Put both palms flat on the table while the beat plays. Feel the shaking.",
+     "adult": false,
+     "parent": "Use a steady beat from a drum or a bass tune. A tune with deep notes is felt best. If the speaker is on a hard surface, the whole table shakes, which is why a drummer feels a drum in the floor."
+    },
+    {
+     "id": "a2s3",
+     "mins": 6,
+     "do": "Blow up a balloon and hold it lightly with both hands, close to the speaker but not touching it. Feel the beat in the balloon. Try the same with the balloon against your chest.",
+     "say": "The balloon is full of air, and the air is being shaken. Can you feel each beat?",
+     "kid": "Hold a balloon near the speaker. Feel the beat in it.",
+     "adult": false,
+     "ask": [
+      {
+       "q": "What did the beat feel like in your hands?",
+       "good": [
+        "A small pulse or throb with each beat.",
+        "A tickle, a buzz or a shake."
+       ]
+      }
+     ]
+    },
+    {
+     "id": "a2s4",
+     "mins": 4,
+     "do": "Talk about this: A girl who has been deaf since she was born stands barefoot beside a drum. What might she feel, and what might she hear? Share it with a parent, then write one sentence.",
+     "say": "Evelyn Glennie is a Scottish drummer who has been deaf since she was a child. She plays barefoot so that she can feel the music through the floor. What do you think she feels?",
+     "kid": "Write one sentence about what a deaf person can feel in a drum.",
+     "adult": false,
+     "think": "Is feeling the drum with your hands a kind of hearing, or a different thing?",
+     "parent": "Scientists still discuss whether feeling a drum is a kind of hearing. Many Deaf people would say they feel music fully."
+    }
+   ]
+  },
+  {
+   "id": "a3",
+   "title": "Two ears, one bell: can you point to where a sound is?",
+   "mins": 20,
+   "days": 1,
+   "context": "In this activity a helper makes a soft sound from different places around you and you point to it with your eyes closed. It shows how two ears let us find where a sound comes from, which is what a good warning depends on.",
+   "materials": [
+    {
+     "item": "a steel spoon and a steel tumbler, or a small bell",
+     "qty": 1
+    },
+    {
+     "item": "a helper",
+     "qty": 1
+    },
+    {
+     "item": "a scarf to cover the eyes, or just closed eyes",
+     "qty": 1
+    }
+   ],
+   "safety": "Make only soft sounds, never near an ear.",
+   "schedule": [
+    {
+     "day": 1,
+     "mins": 20,
+     "what": "Point to a soft sound from 8 places with two ears, then with one ear gently covered, and compare."
+    }
+   ],
+   "record": "Make a table with two columns: both ears and one ear covered. Put a tick each time you pointed correctly. Write the two totals.",
+   "setup": [
+    {
+     "art": "A child sitting on a chair with eyes shut and a helper standing behind her tapping a tumbler with a spoon.",
+     "caption": "1. Sit with your eyes closed. A helper taps softly from different places."
+    },
+    {
+     "art": "A top-down drawing of eight places around a chair, numbered, with an arrow pointing to the helper's position.",
+     "caption": "2. Point to each tap. The helper notes if you were right."
+    },
+    {
+     "art": "The same child with one palm resting gently over one ear while pointing.",
+     "caption": "3. Cover one ear with a palm and try again."
+    }
+   ],
+   "flow": [
+    {
+     "id": "a3s1",
+     "mins": 3,
+     "do": "Sit your child on a chair with eyes closed. Stand 2 big steps away. Tap the tumbler softly with the spoon, at the volume of a quiet knock. Ask your child to point. Practise twice.",
+     "say": "Close your eyes. I will tap somewhere. Point to where you think it is.",
+     "kid": "Sit with your eyes closed. Point to each soft tap.",
+     "adult": false,
+     "parent": "The tap should be soft. A table-top knock is about right. Do not tap close to the ear."
+    },
+    {
+     "id": "a3s2",
+     "mins": 6,
+     "do": "Tap from 8 places in turn: front, back, left, right, above, below, and two in between. Mix the order. After each tap, write a tick if your child pointed within a hand's width of the right place and a cross if not.",
+     "say": "Where is this one? Point first, and open your eyes at the end to check.",
+     "kid": "Point to each tap with your eyes closed.",
+     "adult": false,
+     "ask": [
+      {
+       "q": "Which places were hardest to point to?",
+       "good": [
+        "Straight ahead, straight behind or above, where the sound reaches both ears at the same time.",
+        "Any honest answer. Sounds on the side are usually easier."
+       ]
+      }
+     ]
+    },
+    {
+     "id": "a3s3",
+     "mins": 6,
+     "do": "Now ask your child to rest one palm gently over one ear. Do the same eight taps, in a different order. Count the ticks again.",
+     "say": "Now one ear is covered. Is it as easy? Which places are hardest now?",
+     "kid": "Cover one ear with a palm. Point to each tap again.",
+     "adult": false,
+     "ask": [
+      {
+       "q": "Why is it harder to find a sound with one ear covered?",
+       "good": [
+        "A sound reaches one ear a tiny bit sooner and louder than the other. The brain uses that to tell where it is.",
+        "With one ear, the brain has no difference to compare."
+       ]
+      }
+     ],
+     "parent": "A sound from the right reaches the right ear about half a thousandth of a second before the left. The brain compares the two. A siren that sweeps up and down gives more to compare than one steady note."
+    },
+    {
+     "id": "a3s4",
+     "mins": 5,
+     "do": "Swap places so that your child taps and you point. Then talk about it: why do a train's horn, an ambulance siren and a smoke alarm all sound so different from a steady hum?",
+     "say": "A good warning has to be heard and also found. What kind of sound is easy to find?",
+     "kid": "Swap with your helper and tap for them. Talk about warnings.",
+     "adult": false,
+     "think": "Why might a siren sweep up and down rather than stay on one note?"
+    }
+   ]
+  },
+  {
+   "id": "a4",
+   "title": "Warning duel: which sound do you notice and find first?",
+   "mins": 25,
+   "days": 1,
+   "context": "In this activity you make four warning sounds from things at home. You test which one stands out over a background sound, which one can be found and which one has a meaning. It shows what makes a warning work.",
+   "materials": [
+    {
+     "item": "a radio or a phone playing quiet talking at the volume of a conversation",
+     "qty": 1
+    },
+    {
+     "item": "a steel spoon and tumbler",
+     "qty": 1
+    },
+    {
+     "item": "a rubber band stretched over a bowl",
+     "qty": 1
+    },
+    {
+     "item": "a whistle or a small bell",
+     "qty": 1
+    },
+    {
+     "item": "a helper in the next room",
+     "qty": 1
+    },
+    {
+     "item": "paper and a pencil",
+     "qty": 1
+    }
+   ],
+   "safety": "Use the sounds softly and keep them away from the ears.",
+   "schedule": [
+    {
+     "day": 1,
+     "mins": 25,
+     "what": "Play four warnings over a background and score each for standing out, being found and having a meaning."
+    }
+   ],
+   "record": "Fill a table with four rows, one for each sound, and three columns: noticed, found, meaning. Give each a score from 1 to 3.",
+   "setup": [
+    {
+     "art": "A radio on a shelf playing quiet talking, with four sound-makers laid on a table.",
+     "caption": "1. Play a quiet background. Choose four ways to make a warning sound."
+    },
+    {
+     "art": "A child in one room and a helper in the next room with a doorway between them, the helper sounding a bell.",
+     "caption": "2. Sound each from the next room. The listener says when they notice it."
+    },
+    {
+     "art": "A table with four rows and three columns, with scores written in.",
+     "caption": "3. Score each for being noticed, being found and having a meaning."
+    }
+   ],
+   "flow": [
+    {
+     "id": "a4s1",
+     "mins": 5,
+     "do": "Put a radio or phone playing quiet talk in one room at the volume of a conversation. Lay out four sound-makers. Use the spoon on the tumbler, the plucked rubber band, the whistle or bell, and one of your own such as clapping. Agree on a meaning for each, such as 'come to dinner' or 'fire'.",
+     "say": "These four things will be our warnings. What do you think each one means? Which will be noticed first?",
+     "kid": "Choose four warning sounds. Give each a meaning. Guess which is noticed first.",
+     "adult": false,
+     "parent": "Do not use a real alarm, a loud whistle or anything that could frighten a baby or a pet."
+    },
+    {
+     "id": "a4s2",
+     "mins": 9,
+     "do": "Ask your child to listen in the room with the radio, doing a puzzle. Sound the warnings from the next room, one at a time, with a gap of about 30 seconds. Your child says 'now' when they notice each one. Write which was noticed and how quickly.",
+     "say": "Do your puzzle. Say 'now' as soon as you notice something new.",
+     "kid": "Do a puzzle. Say 'now' when you notice a new sound.",
+     "adult": false,
+     "ask": [
+      {
+       "q": "Which sound did you notice first, and what was special about it?",
+       "good": [
+        "The one that was sharp, high or sudden and different from the talking.",
+        "An answer that notices the warning was different from the background."
+       ]
+      }
+     ]
+    },
+    {
+     "id": "a4s3",
+     "mins": 5,
+     "do": "Sound each warning again from a different place in the room. Ask your child to point to it with eyes closed. Write a tick for each one found.",
+     "say": "Can you tell where each one is? Which one is easiest?",
+     "kid": "Close your eyes. Point to each warning.",
+     "adult": false,
+     "ask": [
+      {
+       "q": "Which warning was easiest to find, and why do you think so?",
+       "good": [
+        "The one with the sharper sound, which reached one ear before the other.",
+        "The one that kept changing pitch or repeating."
+       ]
+      }
+     ]
+    },
+    {
+     "id": "a4s4",
+     "mins": 6,
+     "do": "Ask your child to say what each sound means without being told. Then score each warning from 1 to 3 for standing out, being found and having a meaning. Talk about why a smoke alarm is shrill on purpose and why the pressure cooker's whistle works.",
+     "say": "A warning with no meaning warns nobody. Which of ours had a meaning the others could learn?",
+     "kid": "Say what each sound means. Score all four.",
+     "adult": false,
+     "think": "If a warning sounds all day long, what happens to it?"
+    }
+   ]
+  },
+  {
+   "id": "a5",
+   "title": "Silence hunt: find the quietest place and listen to what is left",
+   "mins": 20,
+   "days": 1,
+   "context": "In this activity you look for the quietest place in your home, measure it, and listen for what is still there. It shows that a living listener never meets complete silence.",
+   "materials": [
+    {
+     "item": "a phone with a sound-meter app, or just your ears",
+     "qty": 1
+    },
+    {
+     "item": "paper and a pencil",
+     "qty": 1
+    }
+   ],
+   "schedule": [
+    {
+     "day": 1,
+     "mins": 20,
+     "what": "Visit three places, listen for 2 minutes in each, measure each and list every sound left."
+    }
+   ],
+   "record": "List the three places, the reading for each (if you have a meter) and every sound you heard in each. Mark any sounds from inside your own body.",
+   "setup": [
+    {
+     "art": "A child sitting in a built-in cupboard with the door open, holding a phone and a paper list.",
+     "caption": "1. Choose three quiet places in your home."
+    },
+    {
+     "art": "A child listening with closed eyes, with a timer showing 2 minutes.",
+     "caption": "2. Listen in each for 2 minutes and list every sound."
+    },
+    {
+     "art": "A page with three places listed and a sound list under each, with a few in a circle for body sounds.",
+     "caption": "3. Circle the sounds that were from inside you."
+    }
+   ],
+   "flow": [
+    {
+     "id": "a5s1",
+     "mins": 4,
+     "do": "Choose three quiet places in your home, such as a room with the door shut, a cupboard or a bathroom. Predict which will be the quietest.",
+     "say": "Which place do you think will be the quietest? What would you hear there?",
+     "kid": "Pick three quiet places. Guess which is the quietest.",
+     "adult": false,
+     "parent": "Stay in rooms. Do not shut a child in a cupboard. A built-in cupboard with the door open is enough."
+    },
+    {
+     "id": "a5s2",
+     "mins": 10,
+     "do": "Sit in each place for 2 minutes with your eyes closed, and write every sound you can find. If you have a sound meter, take the 30-second average reading as well. Include faint sounds like a fridge, a far-off horn, your own breath or a ringing in your ears.",
+     "say": "Listen for 2 minutes. Is there ever a moment with no sound at all?",
+     "kid": "Sit in each place for 2 minutes. Write all the sounds.",
+     "adult": false,
+     "ask": [
+      {
+       "q": "Did you find a place with no sound at all?",
+       "good": [
+        "No. There was always something, even if faint.",
+        "Any honest answer, with the faint sounds named."
+       ]
+      }
+     ]
+    },
+    {
+     "id": "a5s3",
+     "mins": 4,
+     "do": "Circle every sound on your list that came from inside your body, such as breathing, a heartbeat or a thin ringing. Press your palms gently over your ears in the quietest place and listen to the low rumble inside.",
+     "say": "Which sounds were not from outside? Whose sounds are they?",
+     "kid": "Circle the sounds that came from your own body.",
+     "adult": false,
+     "parent": "The low rumble heard with palms over the ears is mostly made by muscles in the hands, arms and head. John Cage heard two sounds in a silent room at Harvard in 1951."
+    },
+    {
+     "id": "a5s4",
+     "mins": 2,
+     "do": "Compare your quietest place with the limit of 40 decibels at night in a silence zone, if you measured. Then ask: was the quietest place really silent?",
+     "say": "Is there a place on Earth with no sound at all?",
+     "kid": "Write one sentence about whether you found silence.",
+     "adult": false,
+     "think": "If a very quiet room still has your breath and your blood in it, is silence a place or a feeling?"
+    }
+   ]
+  }
+ ],
+ "projects": [
+  {
+   "id": "p1",
+   "title": "My week of listening: how many hours, how loud?",
+   "days": 7,
+   "mins": 60,
+   "context": "In this project you log a week of your own listening, through earphones and speakers. You work out whether it fits the World Health Organization's weekly allowance for a child. It shows that the dose for the ear depends on both how loud it is and for how long.",
+   "materials": [
+    {
+     "item": "a sheet of squared paper for a weekly chart",
+     "qty": 1
+    },
+    {
+     "item": "a pencil",
+     "qty": 1
+    },
+    {
+     "item": "a phone or earphones, if you use them",
+     "qty": 1
+    },
+    {
+     "item": "a clock or the phone's own screen-time or listening record",
+     "qty": 1
+    }
+   ],
+   "schedule": [
+    {
+     "day": 1,
+     "mins": 10,
+     "what": "Draw the weekly chart and write a guess for the week's total."
+    },
+    {
+     "day": 2,
+     "mins": 5,
+     "what": "Log yesterday's listening hours and the volume check."
+    },
+    {
+     "day": 3,
+     "mins": 5,
+     "what": "Log the listening hours and the volume check."
+    },
+    {
+     "day": 4,
+     "mins": 5,
+     "what": "Log the listening hours and the volume check."
+    },
+    {
+     "day": 5,
+     "mins": 5,
+     "what": "Log the listening hours and the volume check."
+    },
+    {
+     "day": 6,
+     "mins": 5,
+     "what": "Log the listening hours and the volume check."
+    },
+    {
+     "day": 7,
+     "mins": 25,
+     "what": "Add up, compare with the allowance and make a family plan."
+    }
+   ],
+   "record": "Keep a chart with a column for each day. For each day write the hours of listening through earphones and the hours through a speaker. Add a tick if you could hear someone speaking to you at arm's length. At the end, write the weekly total and one change you will make.",
+   "setup": [
+    {
+     "art": "A weekly chart with seven columns, one for each day, and rows for earphone hours, speaker hours and an arm's-length check.",
+     "caption": "1. Draw the chart and guess the week's total."
+    },
+    {
+     "art": "A child wearing earphones with a parent speaking to her at arm's length, the child looking puzzled.",
+     "caption": "2. Do the arm's-length check: can you hear someone speaking to you?"
+    },
+    {
+     "art": "A bar chart of the days with a line across it marked 40 hours.",
+     "caption": "3. Add up the week and compare with the allowance."
+    }
+   ],
+   "flow": [
+    {
+     "id": "p1s1",
+     "mins": 10,
+     "do": "Draw a chart with seven columns for the week. Make a row for the hours of listening with earphones, a row for hours with a speaker or television, and a row for the arm's-length check. Write your guess for the total for the week.",
+     "say": "How many hours do you think you listen through earphones in a week? Write a guess and do not change it.",
+     "kid": "Draw the weekly chart. Write a guess for the week's total.",
+     "adult": false,
+     "parent": "Younger children can use coloured blocks for each half hour. If the child does not use earphones, count the hours of television, music or class sound instead, and note that this is the one to compare."
+    },
+    {
+     "id": "p1s2",
+     "mins": 25,
+     "do": "On each of days 2 to 6, spend 5 minutes in the evening. Fill in the hours of the day before from memory or from the phone's own record. Do the arm's-length check: wear the earphones at the usual volume and ask someone to speak to you from an arm's length away. Tick if you can hear them clearly. If you cannot, turn the volume down until you can.",
+     "say": "When did you wear earphones yesterday? For how long? At the usual volume, could you hear me at arm's length?",
+     "kid": "Each evening, fill in your listening hours. Do the arm's-length check.",
+     "adult": false,
+     "ask": [
+      {
+       "q": "Could you hear someone speaking at arm's length, and if not, what does that tell you?",
+       "good": [
+        "The sound was louder than the voice, so the earphones were too loud.",
+        "Any honest answer, with the turning down noted."
+       ]
+      }
+     ],
+     "wait": "Do this each evening for five days",
+     "parent": "Many phones show listening levels in their health or settings pages. Look at them together if they are available. Phone volume is not a true decibel number, so the arm's-length check is a practical test, not a measurement."
+    },
+    {
+     "id": "p1s3",
+     "mins": 25,
+     "do": "On the last day, add up the week's hours. Compare with the allowance. For a child it is up to 40 hours a week at 75 decibels, and every 3 decibels louder halves the safe time. Work out, if your earphones were at 81 decibels, how many hours would be safe (40 halved twice is 10). Write a plan for your family with one thing you will keep and one you will change. If your family goes to loud functions, add foam earplugs to the plan.",
+     "say": "The World Health Organization says 75 decibels for up to 40 hours is the weekly allowance for a child. If the sound is 3 decibels louder, what happens to the hours?",
+     "kid": "Add up the week. Work out the safe hours at 81 decibels. Write one change.",
+     "adult": false,
+     "ask": [
+      {
+       "q": "What is the safe time at 81 decibels, and how did you work it out?",
+       "good": [
+        "10 hours. 81 is 6 decibels more than 75, which is two steps of 3, so 40 halved twice is 10.",
+        "Any answer that halves the time for each 3 decibels."
+       ]
+      }
+     ],
+     "think": "Which is easier to change for your ears, the volume or the hours?",
+     "parent": "The weekly allowance is a guide for safe listening. Because the real decibel level depends on the earphones, treat the hours as a rough guide and the arm's-length check as the daily rule."
+    }
+   ]
+  },
+  {
+   "id": "p2",
+   "title": "A street noise report: measure it, ask the neighbours, suggest a fix",
+   "days": 5,
+   "mins": 85,
+   "context": "In this project you study one noise on your own street. You measure it by day and by night, ask three neighbours how it affects them, and suggest fixes. It shows that noise is both a measurement and a matter of people with different needs.",
+   "materials": [
+    {
+     "item": "a phone with a sound-meter app",
+     "qty": 1
+    },
+    {
+     "item": "paper, a pencil and a clipboard or hard book",
+     "qty": 1
+    },
+    {
+     "item": "a grown-up to go with you",
+     "qty": 1
+    }
+   ],
+   "safety": "Stay on the pavement or at your gate and go with a grown-up. Do not go near traffic.",
+   "schedule": [
+    {
+     "day": 1,
+     "mins": 15,
+     "what": "Choose the noise and write what you expect."
+    },
+    {
+     "day": 2,
+     "mins": 20,
+     "what": "Measure by day, at two times."
+    },
+    {
+     "day": 3,
+     "mins": 15,
+     "what": "A grown-up measures it at night."
+    },
+    {
+     "day": 4,
+     "mins": 20,
+     "what": "Ask three neighbours, including one who sees it differently."
+    },
+    {
+     "day": 5,
+     "mins": 15,
+     "what": "Write the report and three fixes."
+    }
+   ],
+   "record": "Make a one-page report. Put in the noise's name, the readings by day and by night, and what three neighbours said. Then give three fixes, one for the source, one for the path or distance and one for the time.",
+   "setup": [
+    {
+     "art": "A child on a pavement with a grown-up, holding a phone towards a street scene with a loudspeaker on a pole.",
+     "caption": "1. Choose one noise on your street and measure it."
+    },
+    {
+     "art": "A child talking to a woman at a doorway with a notebook in her hands.",
+     "caption": "2. Ask three neighbours what they think of it."
+    },
+    {
+     "art": "A single page headed Street noise report with a table of readings and three fixes listed.",
+     "caption": "3. Write the report and the three fixes."
+    }
+   ],
+   "flow": [
+    {
+     "id": "p2s1",
+     "mins": 15,
+     "do": "Choose one noise on your street that bothers people, such as horns at a junction, a loudspeaker, a generator or building work. Write what you expect to find: how loud it is by day and by night, and who minds it most.",
+     "say": "Which noise on our street do people talk about? Who do you think minds it most, and who minds it least?",
+     "kid": "Choose one noise. Write what you expect.",
+     "adult": false,
+     "parent": "Pick a noise that is regular so it can be measured again. Avoid choosing a single neighbour's private matter, which could cause a quarrel. A road, a junction, a generator or a building site is better."
+    },
+    {
+     "id": "p2s2",
+     "mins": 20,
+     "do": "Stand at the same place on the pavement or at your gate, with a grown-up, at two times in the day. Take the 30-second average twice at each time. Write the numbers and what you could hear.",
+     "say": "Is it louder at one time of the day? What makes the number go up?",
+     "kid": "Measure twice at two times of day. Write the numbers.",
+     "adult": true
+    },
+    {
+     "id": "p2s3",
+     "mins": 15,
+     "do": "A grown-up measures the same noise from the same place after 10 at night, if it is there at night, and writes the numbers. If the noise is not there at night, write that and the quiet reading.",
+     "say": "At night, the limit for homes is lower. How does your number compare?",
+     "kid": "A grown-up measures at night. Write the number.",
+     "adult": true,
+     "parent": "Compare with 55 by day and 45 at night for residential areas, or 50 and 40 within 100 metres of a school, hospital or court. Remember the phone's reading is a guide, not proof."
+    },
+    {
+     "id": "p2s4",
+     "mins": 20,
+     "do": "With a grown-up, ask three neighbours: how does this noise affect you, when is it worst, and what would help? Include at least one person with a different view, such as a night-shift worker, a street vendor, a shopkeeper or a person who runs the noise. Write the answers in their own words.",
+     "say": "Listen first. You are not trying to win an argument. What does each person say they need?",
+     "kid": "Ask three neighbours the same three questions. Write what they say.",
+     "adult": true,
+     "ask": [
+      {
+       "q": "Did all three give the same answer? Why or why not?",
+       "good": [
+        "No. Different people need different things at different times.",
+        "An answer that notices a sleeping baby and a shop owner may want opposite things."
+       ]
+      }
+     ]
+    },
+    {
+     "id": "p2s5",
+     "mins": 15,
+     "do": "Write the report on one page. Include the noise, the numbers and what the neighbours said. Then add three fixes, one for each lever. Make it quieter at the source, put distance or a barrier in its path, and change the time. Check that each fix would work for the people you asked.",
+     "say": "A good fix helps the person who is hurt and does not unfairly hurt the person who makes the sound. Can yours do both?",
+     "kid": "Write the page. Add three fixes, one for each lever.",
+     "adult": false,
+     "think": "Whose job is it to fix a noise that belongs to everybody?",
+     "parent": "If the child would like, help them to share the report with the building's residents' association or the local ward office. Only share names with permission."
+    }
+   ]
+  }
+ ],
+ "challenges": [
+  {
+   "id": "ch1",
+   "title": "A quiet classroom beside a busy road",
+   "mins": 40,
+   "context": "This is a design problem. You build a shoebox classroom and play traffic sound outside it. You design ways to lower the sound inside by at least 6 decibels while letting in light and air. It shows how engineers quieten a place with a barrier, a soft lining and a gap that sound cannot pass.",
+   "problem": "A school stands beside a busy road. The windows must stay open for air and light on hot days. Find a way to lower the traffic sound reaching the children inside by at least 6 decibels. Or lower it to a level where talk is easy to hear. Do not close the windows completely. There is more than one good answer.",
+   "constraints": [
+    "Use only things you can find at home. A phone with a meter app is allowed.",
+    "The classroom must still let in light, shown by a window you can see through. It must also let in air, shown by a gap at least as big as your thumb.",
+    "The traffic sound must stay at the volume of ordinary talk, never louder.",
+    "Test each design at least twice and write the readings down, and say how much each lowered the level."
+   ],
+   "materials": [
+    "a shoebox or a small cardboard box with a window cut in one side",
+    "a phone playing a steady traffic or fan sound, placed 30 centimetres outside the window",
+    "a phone with a sound-meter app placed inside the box",
+    "scraps of cloth, cotton wool, paper, egg cartons, a strip of card and tape",
+    "scissors, used by a grown-up, and tape"
+   ],
+   "setup": [
+    {
+     "art": "A shoebox with a window cut in one side, a phone playing traffic outside it and a phone measuring inside.",
+     "caption": "1. Cut a window in a shoebox. Put one phone outside to play traffic and one phone inside to measure."
+    },
+    {
+     "art": "A shoebox with a strip of cardboard standing a little way outside the window as a barrier.",
+     "caption": "2. Try the usual fixes first: a barrier outside and a soft lining inside."
+    },
+    {
+     "art": "A card tube bent into a zigzag with a gap at each bend, fitted over the window.",
+     "caption": "3. Try a surprising fix: a zigzag air channel that lets air through but bends sound round corners."
+    }
+   ],
+   "flow": [
+    {
+     "id": "ch1s1",
+     "mins": 8,
+     "do": "A grown-up cuts a window about 8 centimetres square in one side of the box. Put the measuring phone inside, and the playing phone about 30 centimetres outside the window. Read the 30-second average twice with nothing else. This is the starting level.",
+     "say": "Is the traffic loud inside the box? What would you try first?",
+     "kid": "Cut a window in the box. Play traffic outside. Read the level inside.",
+     "adult": true,
+     "parent": "Cutting is for a grown-up. Keep the volume low, at the level of talk, so that nothing is harmful. Use a fresh measure if the reading jumps."
+    },
+    {
+     "id": "ch1s2",
+     "mins": 10,
+     "do": "Try the usual fixes. Stand a strip of card or a hardback book as a barrier between the playing phone and the window. Line the inside with cloth or egg cartons. Close the window partly. Read twice for each fix and write the numbers.",
+     "say": "Which fix lowered the sound most? Did any of them stop light or air?",
+     "kid": "Try a barrier, a soft lining and a half-closed window. Read each twice.",
+     "adult": false,
+     "ask": [
+      {
+       "q": "Which fix gave the biggest drop, and what did it cost in light or air?",
+       "good": [
+        "The answer from the numbers, with a note about light or air.",
+        "An answer that notices a closed window blocks air as well as sound."
+       ]
+      }
+     ]
+    },
+    {
+     "id": "ch1s3",
+     "mins": 12,
+     "do": "Try a surprising fix. Roll thin card into a tube about the width of a thumb and bend it into a zigzag. Fit it so that air must pass through the bends to reach the window. Line the inside of the tube with cloth. Read twice. Then try your own idea, for example a barrier that is tall and a lining that is thick.",
+     "say": "A silencer for air lets air through but makes sound bounce around until it fades. Can you make one?",
+     "kid": "Make a zigzag air channel with a soft lining. Try it. Read twice.",
+     "adult": false,
+     "ask": [
+      {
+       "q": "Did the zigzag let air through, and how much did it cut the sound?",
+       "good": [
+        "Yes, if the channel stayed open. It cut the sound by a few decibels or more.",
+        "Any honest answer with the numbers."
+       ]
+      }
+     ],
+     "parent": "Real buildings use this idea, called a silencer or baffle, in air vents. It lets air pass and makes sound bounce around until it fades."
+    },
+    {
+     "id": "ch1s4",
+     "mins": 10,
+     "do": "Compare all your designs. For each, write the drop in decibels and whether it kept light and air. Choose the best compromise and say why. Note that no model shows what happens outdoors or for sudden bangs.",
+     "say": "Which would you choose for a real school? What would you give up?",
+     "kid": "Write each drop. Choose the best design. Say what it gave up.",
+     "adult": false,
+     "think": "Is the best way to quieten a school to build it better, or to make the road quieter?"
+    }
+   ],
+   "general": [
+    "Put a solid barrier between the road and the windows, as tall as the windows.",
+    "Line the room's walls and ceiling with soft material so that sound that gets in does not bounce about.",
+    "Plant a thick belt of trees and bushes, which also hides the road from view, and move noisy rooms away from the road side.",
+    "Fit double windows with a gap between them, and close the ones that face the road on the worst days."
+   ],
+   "creative": [
+    "Build a zigzag air channel with a soft lining, so that air can pass and sound is bent round corners until it fades.",
+    "Move the quiet rooms to the far side of the building. Use the road side for stores and corridors.",
+    "Slow the drivers down in front of the school with a speed bump and a painted 'No Horn' board. That cuts the source, not the path."
+   ],
+   "your_turn": "Build your own design and test it. How many decibels did it take off? Which idea of yours would you want to try in a real classroom?"
+  },
+  {
+   "id": "ch2",
+   "title": "A warning for a person who cannot hear it",
+   "mins": 35,
+   "context": "This is a design problem. Many people cannot hear a smoke alarm or a doorbell, so you design a warning that works through light or touch. It shows what a warning needs to do, and that sound is only one way of carrying it.",
+   "problem": "A Deaf neighbour, asleep in bed, needs to be woken by a smoke alarm in the next room. Design a warning that reaches her without sound and that will wake a sleeping person. There is more than one good answer.",
+   "constraints": [
+    "Never connect anything to the mains electricity or a socket. Use a phone, a torch or a battery toy.",
+    "Nothing must touch a flame or anything hot.",
+    "The warning must work in the dark and not depend on the person looking in one direction.",
+    "Test it with a grown-up who is sitting with eyes closed, not asleep, and write whether they noticed it."
+   ],
+   "materials": [
+    "a phone with a stopwatch or a vibrate setting",
+    "a torch or a small lamp that runs on batteries",
+    "a long string or cord, a steel tumbler, a spoon",
+    "a toy that vibrates, or a phone on vibrate",
+    "paper and a pencil"
+   ],
+   "setup": [
+    {
+     "art": "A grown-up sitting with eyes closed on a bed, a child at the door pressing a phone that makes a torch flash.",
+     "caption": "1. Test what a person with eyes closed notices: a flashing torch."
+    },
+    {
+     "art": "A phone on vibrate placed under a pillow, with a pad of folded towel around it.",
+     "caption": "2. Test a vibrating phone under a pillow."
+    },
+    {
+     "art": "A string running from the child at the door to a tumbler and spoon tied by the bedpost.",
+     "caption": "3. Test your own invention."
+    }
+   ],
+   "flow": [
+    {
+     "id": "ch2s1",
+     "mins": 6,
+     "do": "Write down three things a sleeping person's body can sense besides sound: light on closed eyelids, touch, and shaking. Choose one way to carry the warning. Say how it must start at the same moment as a smoke alarm.",
+     "say": "What are all the ways you could wake someone without a sound? Which would you choose?",
+     "kid": "Write three ways to wake someone with no sound.",
+     "adult": false,
+     "ask": [
+      {
+       "q": "Which senses besides hearing can wake a sleeping person?",
+       "good": [
+        "Touch, shaking and bright light on the eyelids.",
+        "Any honest answer with a reason."
+       ]
+      }
+     ]
+    },
+    {
+     "id": "ch2s2",
+     "mins": 12,
+     "do": "Try the usual fixes. Ask a grown-up to sit on a bed with eyes closed, or a child to sit with eyes closed on a chair. Flash a torch on the closed eyes from the door. Put a phone on vibrate under a pillow and call it. Write whether the person noticed it, and how fast.",
+     "say": "Did the flashing light get noticed? Did the shaking? Which was faster?",
+     "kid": "Test a flashing torch and a vibrating phone. Write what was noticed.",
+     "adult": true,
+     "parent": "Never wake a real sleeping person for this test, and never test it on a baby. Use a grown-up with eyes closed. Do not use a very bright torch at the eyes. Use a soft light."
+    },
+    {
+     "id": "ch2s3",
+     "mins": 10,
+     "do": "Try a surprising fix. Tie a long string to a steel tumbler or a toy on the bedpost. A gentle pull from the door should make it shake or rattle the bed. Or put the vibrating phone in a small bag tied to the pillow. Test and write what was noticed.",
+     "say": "A string can carry a shake across the room. Can you use it?",
+     "kid": "Build a string that shakes the bed. Test it.",
+     "adult": false,
+     "ask": [
+      {
+       "q": "Did your invention work, and what would make it better?",
+       "good": [
+        "Yes or no, with a reason, and an idea to make it better.",
+        "Any honest answer that looks for a fix."
+       ]
+      }
+     ]
+    },
+    {
+     "id": "ch2s4",
+     "mins": 7,
+     "do": "Compare the ways. For each, write whether it works in the dark and whether it works if the person turns over. Also write whether the alarm can set it off. Choose the best and say why.",
+     "say": "Which one would you trust to wake your own family?",
+     "kid": "Compare your ways. Choose the best.",
+     "adult": false,
+     "think": "A warning must reach the person. Does it have to be a sound?"
+    }
+   ],
+   "general": [
+    "A bright flashing light that starts when the alarm sounds, placed where the person sleeps.",
+    "A small vibrating pad under the pillow or the mattress that shakes when the alarm sounds.",
+    "A neighbour or a relative who calls and checks, as part of a plan."
+   ],
+   "creative": [
+    "A string from the doorway to a bell or a tumbler tied to the bed.",
+    "A phone set to vibrate on a wooden bedstead, which carries the shaking along the frame.",
+    "A warning that does several things together, such as lights, shaking and a fan of air on the face."
+   ],
+   "your_turn": "Design your own warning for a person who cannot hear it. Which sense does it use? What would make you trust it to work every time?"
+  }
+ ],
+ "games": [
+  {
+   "id": "g1",
+   "title": "Quiet Street: a team card game about bringing a street's sound down",
+   "mins": 25,
+   "players": [
+    "alone",
+    "with a parent",
+    "with friends"
+   ],
+   "context": "In this team card game, sounds arrive on a street one by one. The players use fix cards to bring the street's total level under a limit. It shows how decibels combine, and why a quieter source, more distance or a barrier each help.",
+   "setup": [
+    {
+     "art": "A table with a street sheet drawn as a road with five boxes along it, and a zone card above it.",
+     "caption": "1. Draw the street with 5 boxes. Choose a zone card and put it above the street."
+    },
+    {
+     "art": "Two piles of cards, sounds and fixes, with a hand of four fix cards held by each player.",
+     "caption": "2. Shuffle the sound cards and the fix cards into two piles. Deal four fix cards to each player."
+    },
+    {
+     "art": "A street with three sound cards laid out and a fix card placed under one of them.",
+     "caption": "3. Each round, a sound card joins the street. Players then play fix cards on the sounds."
+    }
+   ],
+   "printables": [
+    {
+     "kind": "cards",
+     "title": "12 sound cards",
+     "items": [
+      "A bus horn at the junction, 88 decibels.",
+      "An auto horn in the lane, 85 decibels.",
+      "A lorry rumbling past, 78 decibels.",
+      "A neighbour's television, 60 decibels.",
+      "A wedding band with a loudspeaker, 90 decibels.",
+      "A street dog barking, 68 decibels.",
+      "A generator on a shop roof, 80 decibels.",
+      "A hammering workshop, 84 decibels.",
+      "A vendor calling out, 72 decibels.",
+      "A group of cyclists ringing bells, 62 decibels.",
+      "A festival loudspeaker, 92 decibels.",
+      "Children playing cricket, 66 decibels."
+     ]
+    },
+    {
+     "kind": "cards",
+     "title": "20 fix cards",
+     "items": [
+      "Turn it down. Take 6 decibels off one sound.",
+      "Turn it down. Take 6 decibels off one sound.",
+      "Turn it down. Take 6 decibels off one sound.",
+      "Turn it down. Take 6 decibels off one sound.",
+      "Turn it down. Take 6 decibels off one sound.",
+      "Turn it down. Take 6 decibels off one sound.",
+      "Move it farther away, double the distance. Take 6 decibels off one sound.",
+      "Move it farther away, double the distance. Take 6 decibels off one sound.",
+      "Move it farther away, double the distance. Take 6 decibels off one sound.",
+      "Move it farther away, double the distance. Take 6 decibels off one sound.",
+      "Put a heavy barrier in the way. Take 8 decibels off one sound.",
+      "Put a heavy barrier in the way. Take 8 decibels off one sound.",
+      "Put a heavy barrier in the way. Take 8 decibels off one sound.",
+      "Put a heavy barrier in the way. Take 8 decibels off one sound.",
+      "Change it for a quieter machine. Take 10 decibels off one sound.",
+      "Change it for a quieter machine. Take 10 decibels off one sound.",
+      "Change it for a quieter machine. Take 10 decibels off one sound.",
+      "Stop it for now. Take one sound out of the street.",
+      "Stop it for now. Take one sound out of the street.",
+      "Stop it for now. Take one sound out of the street."
+     ]
+    },
+    {
+     "kind": "cards",
+     "title": "4 zone cards",
+     "items": [
+      "Silence zone. The street may be no louder than 50 decibels. Very hard.",
+      "Residential area. The street may be no louder than 55 decibels. Hard.",
+      "Commercial area. The street may be no louder than 65 decibels. Medium.",
+      "Industrial area. The street may be no louder than 75 decibels. Easy."
+     ]
+    },
+    {
+     "kind": "cards",
+     "title": "1 adding table card",
+     "items": [
+      "Adding two sounds. Take the louder level and add this much. If the two levels are the same, add 3. If they differ by 1, 2 or 3, add 2. If they differ by 4 to 9, add 1. If they differ by 10 or more, add 0. Start with the loudest sound and add the others one at a time, from the next loudest to the quietest. These are rounded, so the answers are close and not exact."
+     ]
+    }
+   ],
+   "rules": [
+    "This is a team game. All the players win together or lose together. You can play alone, with a parent or with friends.",
+    "Choose a zone card and put it above the street. For one player, choose Commercial. For two players, choose Commercial. For three or four, choose Residential. Use an easier zone if the street keeps winning against you and a harder one if you win every time.",
+    "Shuffle the 12 sound cards and put them in a pile. Shuffle the 20 fix cards and deal four to each player. Put the rest in a pile for drawing.",
+    "Each round has two steps. First, turn the top sound card over and put it in the next empty box on the street. Second, the players take turns. Each plays one fix card from their hand on any sound in the street and puts it under that card. Then each draws a new card to bring their hand back to four. A player playing alone may play two fix cards on their turn. Then the next round starts.",
+    "A fix card changes the level of the sound it is placed under: take that many decibels off. A 'Stop it for now' card takes the sound out of the street altogether. Several fix cards can go on one sound. You can also choose not to play a card.",
+    "After the fifth sound has joined the street and the players have played their cards for that round, the game ends. Work out the street's level with the adding table card. Start with the loudest sound after its fixes and add each next one, loudest to quietest.",
+    "If the street's level is the same as or lower than the zone card's number, the team wins. If not, the street is too loud and the team loses. Talk about which fix cards would have helped.",
+    "If the fix pile runs out, nobody draws any more, and the players use the cards in their hands.",
+    "Say aloud after the game: which fix did we use most, and which could a real street use?"
+   ],
+   "flow": [
+    {
+     "id": "g1s1",
+     "mins": 5,
+     "do": "Cut out the cards or write each on a slip of paper. Draw a long street on a big sheet of paper with 5 boxes along it for the sounds. Shuffle the sound cards and the fix cards separately.",
+     "say": "This is a street with a limit. Sounds will come, and we will fix them together.",
+     "kid": "Cut out the cards. Draw the street with 5 boxes. Shuffle.",
+     "adult": false,
+     "parent": "Print the cards from this lesson. Cutting is for a grown-up if the child is under 8. Keep the cards in an envelope. The decibel numbers are made up, but realistic."
+    },
+    {
+     "id": "g1s2",
+     "mins": 5,
+     "do": "Choose a zone card and put it over the street. Deal four fix cards to each player. Read the adding table card together and try one sum: one sound of 80 and one of 80 make 83. One of 80 and one of 75 make 81.",
+     "say": "Two horns together are not double. Let us try adding 80 and 80. What do you think the answer is?",
+     "kid": "Read the adding table. Try 80 and 80.",
+     "adult": false,
+     "ask": [
+      {
+       "q": "Two sounds of 80 decibels together make how many decibels?",
+       "good": [
+        "83. Twice the energy is 3 decibels more, and does not double the number.",
+        "About 83, not 160."
+       ]
+      }
+     ]
+    },
+    {
+     "id": "g1s3",
+     "mins": 12,
+     "do": "Play five rounds. Each round, turn over a sound card and put it in the next box. Then each player plays one fix card under a sound and draws a card. Talk with your team about which sounds to fix first and why.",
+     "say": "Which sound should we fix first? Why is the loudest one the one that matters most?",
+     "kid": "Play the rounds. Talk about which sound to fix.",
+     "adult": false,
+     "ask": [
+      {
+       "q": "Why is it better to fix the loudest sound than the quietest one?",
+       "good": [
+        "Because the loudest sound sets the street's level, and a quiet one adds almost nothing to it.",
+        "Because adding a 60 to a 90 changes almost nothing."
+       ]
+      }
+     ]
+    },
+    {
+     "id": "g1s4",
+     "mins": 3,
+     "do": "After the fifth round, work out the street's level with the adding table. Check it against the zone card. Talk about the result.",
+     "say": "Is the street under the limit? What did the team do that worked best?",
+     "kid": "Work out the street's level. Check it against the zone.",
+     "adult": false,
+     "think": "Which fix would be easy for a real street, and which would be hard?"
+    }
+   ]
+  },
+  {
+   "id": "g2",
+   "title": "Higher or lower: the decibel ladder",
+   "mins": 20,
+   "players": [
+    "alone",
+    "with a parent",
+    "with friends"
+   ],
+   "context": "In this card game you guess whether the next sound is louder or quieter than the one before. You learn where everyday sounds sit on the decibel ladder. It shows the real sizes of sounds, from rustling leaves to a cracker.",
+   "setup": [
+    {
+     "art": "A deck of 14 cards face down, with one card turned up showing a sound name, and a player pointing.",
+     "caption": "1. Shuffle the 14 cards and put them face down in a pile. Turn the top card face up."
+    },
+    {
+     "art": "A hand turning a card over to reveal 'About 60 decibels' on the back.",
+     "caption": "2. Say 'higher' or 'lower'. Turn the new card over to check."
+    }
+   ],
+   "printables": [
+    {
+     "kind": "cards",
+     "title": "14 sound cards, with the decibel number on the back",
+     "items": [
+      {
+       "f": "Rustling leaves",
+       "b": "Roughly 20 decibels."
+      },
+      {
+       "f": "A whisper",
+       "b": "Roughly 30 decibels."
+      },
+      {
+       "f": "A quiet bedroom at night",
+       "b": "Roughly 35 decibels."
+      },
+      {
+       "f": "A humming fridge",
+       "b": "Roughly 40 decibels."
+      },
+      {
+       "f": "A ceiling fan on medium",
+       "b": "Roughly 50 decibels."
+      },
+      {
+       "f": "Ordinary talk",
+       "b": "Roughly 60 decibels."
+      },
+      {
+       "f": "A washing machine spinning",
+       "b": "Roughly 75 decibels."
+      },
+      {
+       "f": "A classroom of 40 talking children",
+       "b": "Roughly 80 decibels."
+      },
+      {
+       "f": "A busy road, seen from the pavement",
+       "b": "Roughly 80 decibels."
+      },
+      {
+       "f": "An auto horn from 2 metres away",
+       "b": "Roughly 90 decibels."
+      },
+      {
+       "f": "A mixer-grinder at arm's length",
+       "b": "Roughly 90 decibels."
+      },
+      {
+       "f": "A road drill from 2 metres away",
+       "b": "Roughly 100 decibels."
+      },
+      {
+       "f": "A cracker at the legal limit, 4 metres away",
+       "b": "Roughly 125 decibels."
+      },
+      {
+       "f": "A cracker bursting 1 metre away",
+       "b": "Roughly 137 decibels."
+      }
+     ]
+    },
+    {
+     "kind": "score sheet",
+     "title": "Score sheet, to copy by hand",
+     "items": [
+      "One row for each player. In each row, put a mark for every right guess."
+     ]
+    }
+   ],
+   "rules": [
+    "Shuffle the 14 cards and put them face down. Turn the top card over, face up, and read its name. Do not read the back yet.",
+    "The first player says whether the next card's sound is louder or quieter than the one showing, 'higher' or 'lower'. Then the card is turned over and the back is read out.",
+    "If the guess is right, the player earns one mark. If the two cards show the same number, any guess is right.",
+    "A player may also earn a bonus mark when the two cards are 10 or 20 decibels apart. The player says how many times more sound energy the louder card carries. For 10 decibels it is 10 times, and for 20 decibels it is 100 times.",
+    "The new card is now the one showing. Pass the turn to the next player.",
+    "When the pile is finished, count the marks. The player with the most marks wins. Players alone try to beat their last score.",
+    "Shuffle the cards and play again. A second time, try to remember where each sound goes on the ladder."
+   ],
+   "flow": [
+    {
+     "id": "g2s1",
+     "mins": 4,
+     "do": "Cut out the 14 cards and write each sound on the front and its number on the back. Shuffle and put them face down in a pile. Turn the top card up.",
+     "say": "Where would a whisper go on a ladder of sounds? Which of these do you think is the loudest?",
+     "kid": "Cut out the cards. Shuffle. Turn one up.",
+     "adult": false,
+     "parent": "The numbers are rounded and different meters show different readings. The cracker at 1 metre is worked out from the legal limit of 125 decibels at 4 metres. Every halving of distance adds about 6 decibels, so two halvings make about 12 more, or 137."
+    },
+    {
+     "id": "g2s2",
+     "mins": 12,
+     "do": "Play the pile through. Each player says 'higher' or 'lower', the next card is turned over, and the back is read out. Give a bonus mark for saying how many times more sound energy the louder card has, when the numbers are 10 or 20 apart.",
+     "say": "Is the next sound louder or quieter? Why do you think so?",
+     "kid": "Say higher or lower. Turn over the card.",
+     "adult": false,
+     "ask": [
+      {
+       "q": "A card is 20 decibels louder than another. How many times more sound energy does it carry?",
+       "good": [
+        "100 times. Every 10 decibels is 10 times, and 20 is 10 times 10.",
+        "Roughly 100 times."
+       ]
+      }
+     ]
+    },
+    {
+     "id": "g2s3",
+     "mins": 4,
+     "do": "Count the marks and talk about it. Which sounds surprised you? Where do the crackers sit compared with everyday sounds?",
+     "say": "Which sound was higher than you thought?",
+     "kid": "Count your marks. Which sound surprised you?",
+     "adult": false,
+     "think": "The ladder goes from 20 to 137. Why can one number do the work of so many?"
+    }
+   ]
+  }
+ ],
+ "worksheets": [
+  {
+   "id": "ws-core",
+   "title": "Decibels, the ear and India's rules (core)",
+   "tier": "core",
+   "mins": 30,
+   "context": "This sheet checks that you can read decibel numbers, name the parts of the ear, and say what India's rules and the three levers do.",
+   "items": [
+    {
+     "t": "mcq",
+     "p": "Which of these can a sound-level meter measure?",
+     "opts": [
+      "Whether a sound is noise",
+      "How strong a sound is",
+      "Who wants the sound"
+     ],
+     "a": 1,
+     "why": "A meter measures strength in decibels. Whether a sound is noise is a judgement by the listener, so no meter can say it.",
+     "outcome": 0
+    },
+    {
+     "t": "fill",
+     "p": "A whisper is about 30 decibels and ordinary talk about 60. Talk carries about ____ times the sound energy of a whisper.",
+     "a": [
+      "1000",
+      "1,000"
+     ],
+     "why": "The gap is 30 decibels. Every 10 decibels is 10 times the energy, so 30 decibels is 10 × 10 × 10 = 1,000.",
+     "outcome": 1
+    },
+    {
+     "t": "truefalse",
+     "p": "Ten horns of 90 decibels each, sounding together, make roughly 100 decibels.",
+     "a": true,
+     "why": "True. Ten times the energy adds 10 decibels. Doubling adds only about 3, so decibels do not add like ordinary numbers.",
+     "outcome": 1
+    },
+    {
+     "t": "match",
+     "p": "Match each part of the ear to what it does.",
+     "pairs": [
+      [
+       "eardrum",
+       "Shakes when sound reaches it"
+      ],
+      [
+       "three tiny bones",
+       "Pass the shaking inwards"
+      ],
+      [
+       "cochlea",
+       "Holds the hair cells in liquid"
+      ],
+      [
+       "hair cells",
+       "Send a signal when their tufts bend"
+      ]
+     ],
+     "a": "as given",
+     "why": "Sound is passed inwards from the eardrum, along the bones, into the liquid of the cochlea, and the hair cells turn the movement into signals.",
+     "outcome": 2
+    },
+    {
+     "t": "order",
+     "p": "Put the journey of a sound into the ear in order, first to last.",
+     "a": [
+      "The air shakes",
+      "The eardrum shakes",
+      "Three tiny bones pass the shaking on",
+      "The liquid in the cochlea moves",
+      "Hair cell tufts bend",
+      "A nerve signal goes to the brain"
+     ],
+     "why": "Each step hands the shaking to the next, and the hair cells are the last place where shaking becomes a signal.",
+     "outcome": 2
+    },
+    {
+     "t": "sort",
+     "p": "Sort each harm by where it happens.",
+     "cats": [
+      "Harm to the ear",
+      "Harm beyond the ear"
+     ],
+     "items": [
+      [
+       "a ringing heard after a loud wedding",
+       "Harm to the ear"
+      ],
+      [
+       "a raised heartbeat while asleep as a lorry passes",
+       "Harm beyond the ear"
+      ],
+      [
+       "losing high pitches around 4,000 hertz",
+       "Harm to the ear"
+      ],
+      [
+       "falling behind in reading beside a noisy railway",
+       "Harm beyond the ear"
+      ],
+      [
+       "higher stress chemicals in whales",
+       "Harm beyond the ear"
+      ]
+     ],
+     "a": "as given",
+     "why": "Noise reaches the ear first, but it also raises the body's stress, breaks sleep and slows learning, and it affects other animals too.",
+     "outcome": 3
+    },
+    {
+     "t": "mcq",
+     "p": "Which kind of area has the lowest noise limits in India's rules?",
+     "opts": [
+      "Industrial area",
+      "Commercial area",
+      "Silence zone"
+     ],
+     "a": 2,
+     "why": "A silence zone, the area within 100 metres of a hospital, school or court, has 50 decibels by day and 40 at night. Industrial areas are allowed the most.",
+     "outcome": 4
+    },
+    {
+     "t": "count",
+     "p": "A residential area's limit is 55 decibels by day and 45 at night. How many decibels lower is the night limit?",
+     "a": "10",
+     "why": "55 − 45 = 10. Ten decibels means one tenth of the sound energy, so the night limit is much stricter than it looks.",
+     "outcome": 4
+    },
+    {
+     "t": "truefalse",
+     "p": "A ball of cotton wool in the ear cuts sound as much as a well-fitted foam earplug.",
+     "a": false,
+     "why": "False. Cotton wool cuts about 5 to 7 decibels. A well-fitted foam earplug cuts about 15 to 30.",
+     "outcome": 5
+    },
+    {
+     "t": "mcq",
+     "p": "Which of these protects the ear by changing the time?",
+     "opts": [
+      "Walking away from the speaker",
+      "Leaving the function after an hour",
+      "Turning the volume down"
+     ],
+     "a": 1,
+     "why": "Staying for less time lowers the dose. Walking away changes the path, and turning the volume down changes the source.",
+     "outcome": 5
+    },
+    {
+     "t": "write",
+     "p": "Your hearing feels normal the morning after a loud function. Does that prove no harm was done? Explain.",
+     "lines": 3,
+     "a": "Not proven. In 2009, mice that passed hearing tests had lost up to half the links between hair cells and nerve. Whether this happens in people is still being debated, so a normal test does not prove there was no harm.",
+     "why": "A strong answer says that a normal test and no harm are different things, and that scientists still argue about hidden hearing loss in people.",
+     "outcome": 2
+    },
+    {
+     "t": "mcq",
+     "p": "Why is a smoke alarm made shrill and unpleasant on purpose?",
+     "opts": [
+      "So nobody can sleep through it",
+      "It costs less to make",
+      "Loud sounds use less battery"
+     ],
+     "a": 0,
+     "why": "A warning has to be noticed over everything, even in sleep. A pleasant sound is easier to ignore.",
+     "outcome": 6
+    },
+    {
+     "t": "odd",
+     "p": "Which is the odd one out and why? Broken sleep, raised blood pressure, tinnitus, stress chemicals in whales.",
+     "a": "Tinnitus, because it is a harm to the ear. The other three are harms beyond the ear.",
+     "why": "Noise acts on the whole body, and on other animals, as well as on the ear.",
+     "outcome": 3
+    },
+    {
+     "t": "write",
+     "p": "A friend reads 82 decibels on a phone and says, 'My neighbour is breaking the law.' What do you say?",
+     "lines": 3,
+     "a": "Ask where and when it was measured, for how long, and which kind of area it is. Phone apps can be off by several decibels. The limits apply outside homes, and the zone and the time of day change the limit.",
+     "why": "A good answer treats the number as a pointer, not proof, and asks about the place, the time and the kind of area.",
+     "outcome": 1
+    },
+    {
+     "t": "perspective",
+     "p": "A band with a loudspeaker marches past a hospital at noon.",
+     "views": [
+      {
+       "who": "A doctor at the hospital (an imagined view)",
+       "says": "The area near a hospital is a silence zone for a reason. Sick people and new babies need quiet, and noise can harm them."
+      },
+      {
+       "who": "A member of the wedding procession (an imagined view)",
+       "says": "A wedding comes once in a life. The band passes in a few minutes, and the road is public for everyone."
+      }
+     ],
+     "ask": "What would you try before choosing a side?",
+     "a": "Answers vary. A strong answer looks for a way that works for both, such as a different road, a quieter band near the hospital, or a shorter time.",
+     "why": "Both views are real. The rules and the doctor protect people who cannot move away. The procession shows that a rule must also respect what people value.",
+     "outcome": 4
+    },
+    {
+     "t": "draw",
+     "p": "Draw a hair cell before and after very loud sound. Show the tuft of hairs.",
+     "a": "Two drawings of a cell with a tuft. The first has a neat, upright tuft. The second has a bent, flattened or broken tuft, or no cell at all.",
+     "why": "Loud sound bends the tuft too far, and with enough sound the cell dies and is not replaced.",
+     "outcome": 2
+    }
+   ]
+  },
+  {
+   "id": "ws-stretch",
+   "title": "Distance, dose and other animals (stretch)",
+   "tier": "stretch",
+   "mins": 30,
+   "context": "This sheet asks you to work out how sound changes with distance and time, and to think about animals and warnings.",
+   "items": [
+    {
+     "t": "count",
+     "p": "A steady sound reads 96 decibels at 1 metre in the open. What does it read at 8 metres?",
+     "a": "78",
+     "why": "From 1 metre to 8 metres is three doublings (1, 2, 4, 8). Each doubling takes off about 6 decibels, so 96 − 18 = 78.",
+     "outcome": 1
+    },
+    {
+     "t": "fill",
+     "p": "A child's safe listening is 40 hours a week at 75 decibels. At 81 decibels the safe time is ____ hours.",
+     "a": [
+      "10"
+     ],
+     "why": "81 is 6 decibels above 75, which is two steps of 3. Each step halves the time, so 40 → 20 → 10.",
+     "outcome": 5
+    },
+    {
+     "t": "mcq",
+     "p": "A hall of 40 children talking reads 80 decibels. What would 20 children talking the same way read?",
+     "opts": [
+      "40 decibels",
+      "About 77 decibels",
+      "60 decibels"
+     ],
+     "a": 1,
+     "why": "Halving the number of equal sources takes off about 3 decibels, not half the number.",
+     "outcome": 1
+    },
+    {
+     "t": "truefalse",
+     "p": "Noise-cancelling headphones work best on a sudden sharp horn.",
+     "a": false,
+     "why": "False. They work best on steady, low sounds, such as an aeroplane's engine drone. A sudden or high sound changes too fast to cancel.",
+     "outcome": 5
+    },
+    {
+     "t": "match",
+     "p": "Match each living being to what scientists found.",
+     "pairs": [
+      [
+       "great tit",
+       "Sings at a higher pitch in noisy cities"
+      ],
+      [
+       "right whale",
+       "Had fewer stress chemicals when ship noise fell"
+      ],
+      [
+       "thale cress plant",
+       "Made more defence chemicals after chewing vibrations were played"
+      ],
+      [
+       "street dog",
+       "Hides and shakes on cracker nights"
+      ]
+     ],
+     "a": "as given",
+     "why": "Noise reaches many kinds of living beings, and each responds in a way that fits the body and the life.",
+     "outcome": 3
+    },
+    {
+     "t": "sort",
+     "p": "Sort each way of protecting the ears by the lever it uses.",
+     "cats": [
+      "The source",
+      "The path",
+      "The time"
+     ],
+     "items": [
+      [
+       "choosing a quieter mixer-grinder",
+       "The source"
+      ],
+      [
+       "sitting at the back of the hall",
+       "The path"
+      ],
+      [
+       "leaving after one hour",
+       "The time"
+      ],
+      [
+       "shutting the window",
+       "The path"
+      ],
+      [
+       "turning the volume down",
+       "The source"
+      ],
+      [
+       "taking a quiet break after loud sound",
+       "The time"
+      ]
+     ],
+     "a": "as given",
+     "why": "Source is where the sound is made, path is what lies between, and time is how long you stay. Each lowers the dose.",
+     "outcome": 5
+    },
+    {
+     "t": "mcq",
+     "p": "After a loud night you hear a faint ringing. What does this most likely show?",
+     "opts": [
+      "The ear is now cleaner",
+      "The sound was more than the ear could take",
+      "Hearing has improved"
+     ],
+     "a": 1,
+     "why": "Ringing and muffled hearing are signs that the sound was too much. If they come again and again, the loss may stay.",
+     "outcome": 2
+    },
+    {
+     "t": "order",
+     "p": "Put the steps of a fair noise test in order.",
+     "a": [
+      "Write a guess for each place",
+      "Play the same steady sound at the same volume",
+      "Hold the phone at the same height and distance",
+      "Read the 30-second average twice",
+      "Compare the readings"
+     ],
+     "why": "The guess comes first, so the test can surprise you. Only one thing changes at a time, and each reading is repeated because one try can be a fluke.",
+     "outcome": 1
+    },
+    {
+     "t": "write",
+     "p": "Plants may respond to the vibration of a chewing caterpillar. What do we still not know about plants and our noise?",
+     "lines": 3,
+     "a": "Appel and Cocroft found in 2014 that plants responded to vibrations of chewing. Almost no one has studied what human noise does to plants, so it is an open question.",
+     "why": "A strong answer names the finding and says that almost all noise research has been on people, birds and sea mammals.",
+     "outcome": 3
+    },
+    {
+     "t": "mcq",
+     "p": "Which is true of the 15 days in India's noise rules?",
+     "opts": [
+      "Loudspeakers may be used all night on them",
+      "Crackers have no limit on them",
+      "A state may relax night quiet hours to midnight"
+     ],
+     "a": 2,
+     "why": "A state may allow loudspeakers until midnight on up to 15 days in a year, for festivals. The rest of the rules still apply.",
+     "outcome": 4
+    },
+    {
+     "t": "odd",
+     "p": "Which is the odd one out: smoke alarm, train horn, ambulance siren, ticking clock?",
+     "a": "The ticking clock, because it is not made to warn.",
+     "why": "The others are made loud on purpose, to stand out and to carry a meaning that people have learned.",
+     "outcome": 6
+    },
+    {
+     "t": "draw",
+     "p": "Draw two opposite waves and the line they make when added together.",
+     "a": "One wave that rises and falls, another that falls where the first rises, and a flat line for their sum.",
+     "why": "Noise-cancelling headphones play the opposite of the incoming sound, so that squeezing and stretching of the air add to nothing.",
+     "outcome": 5
+    },
+    {
+     "t": "perspective",
+     "p": "Noise limits are set for human ears and measured where people live.",
+     "views": [
+      {
+       "who": "Campaigners such as the Awaaz Foundation",
+       "says": "The limits protect health, so they should apply equally to every source and every maker of the sound."
+      },
+      {
+       "who": "Biologists who study animals in cities (an imagined view)",
+       "says": "Other beings hear different pitches, and a rule shaped to human ears leaves out what birds, dogs and whales need."
+      }
+     ],
+     "ask": "Should a rule about noise count what a bird or a dog hears?",
+     "a": "Answers vary. A strong answer says that the human limits are a start. Animals could be added by measuring the pitches they hear and the places they live. This is not done yet.",
+     "why": "Both views are real. Neither is wrong, and the first has been the way rules have been written so far.",
+     "outcome": 3
+    },
+    {
+     "t": "truefalse",
+     "p": "A chicken's ear can grow new hair cells after loud sound, and a person's ear cannot.",
+     "a": true,
+     "why": "True. Researchers found this in birds in 1987 and 1988. Why mammals cannot is still being worked out.",
+     "outcome": 2
+    },
+    {
+     "t": "fill",
+     "p": "A sound with 100 times the energy of another is ____ decibels higher.",
+     "a": [
+      "20"
+     ],
+     "why": "Every factor of 10 in energy is 10 decibels. 100 is 10 × 10, so it is 20 decibels.",
+     "outcome": 1
+    },
+    {
+     "t": "mcq",
+     "p": "Why can a silent electric scooter be a danger?",
+     "opts": [
+      "It uses more power",
+      "People who cannot see it rely on hearing it",
+      "It runs slower than other scooters"
+     ],
+     "a": 1,
+     "why": "People who are blind, and anyone stepping off a kerb, use hearing to know a vehicle is near. The European Union has required new electric cars to make a sound at low speeds since 2019.",
+     "outcome": 6
+    }
+   ]
+  },
+  {
+   "id": "ws-challenge",
+   "title": "Reasoning with decibels and evidence (challenge)",
+   "tier": "challenge",
+   "mins": 30,
+   "context": "This sheet asks you to reason about energy, evidence and fair rules, and to argue both sides of questions that scientists and neighbours still disagree about.",
+   "items": [
+    {
+     "t": "count",
+     "p": "A cracker reads 125 decibels at 4 metres. In the open, how many decibels would it read at 2 metres?",
+     "a": "131",
+     "why": "Halving the distance adds about 6 decibels, so 125 + 6 = 131. At 1 metre it would be close to 137.",
+     "outcome": 4
+    },
+    {
+     "t": "mcq",
+     "p": "A road reads 70 decibels. Half of the cars are taken off. What is the new level?",
+     "opts": [
+      "About 35 decibels",
+      "About 67 decibels",
+      "About 60 decibels"
+     ],
+     "a": 1,
+     "why": "Half the sources takes off only about 3 decibels. The lower numbers come only when most of the cars are gone.",
+     "outcome": 1
+    },
+    {
+     "t": "truefalse",
+     "p": "A sound too quiet to hurt the ear cannot harm health, even if it goes on night after night.",
+     "a": false,
+     "why": "False. In 2018 the World Health Organization found strong evidence that long-lasting road noise at night raises the risk of heart disease. This happens at levels far below those that damage hearing.",
+     "outcome": 3
+    },
+    {
+     "t": "mcq",
+     "p": "Cotton wool cuts about 6 decibels. About how many times less sound energy reaches the ear?",
+     "opts": [
+      "2 times",
+      "About 4 times",
+      "6 times"
+     ],
+     "a": 1,
+     "why": "3 decibels is half the energy and 6 decibels is half again, so about one quarter, which is 4 times less.",
+     "outcome": 5
+    },
+    {
+     "t": "mcq",
+     "p": "A foam earplug cuts about 25 decibels. About how many times less energy reaches the ear?",
+     "opts": [
+      "25 times",
+      "Roughly 300 times",
+      "2,500 times"
+     ],
+     "a": 1,
+     "why": "Every 10 decibels is 10 times less, so 20 decibels is 100 times less and 5 more decibels is about 3 times again. That makes close to 300.",
+     "outcome": 5
+    },
+    {
+     "t": "write",
+     "p": "Scientists still disagree about hidden hearing loss in people. What evidence would you try to collect to settle it?",
+     "lines": 3,
+     "a": "A test that can see the links between hair cells and nerve in living people. Or a large study of young people with a lot of noise in their past and with little, using careful tests of hearing speech in noise.",
+     "why": "A strong answer says that the evidence in mice is clear, and that people need a test that can detect what a normal test misses.",
+     "outcome": 2
+    },
+    {
+     "t": "sort",
+     "p": "Sort each statement by whether India's noise rules contain it.",
+     "cats": [
+      "It is in the rules",
+      "It is not in the rules"
+     ],
+     "items": [
+      [
+       "Loudspeakers need written permission",
+       "It is in the rules"
+      ],
+      [
+       "A night-shift worker has quiet hours by day",
+       "It is not in the rules"
+      ],
+      [
+       "A silence zone is within 100 metres of a hospital, school or court",
+       "It is in the rules"
+      ],
+      [
+       "The limits take account of what dogs and birds hear",
+       "It is not in the rules"
+      ],
+      [
+       "Limits are given in dB(A)",
+       "It is in the rules"
+      ]
+     ],
+     "a": "as given",
+     "why": "The rules set limits for areas and times and set conditions for loudspeakers. They do not cover shift workers by day or the hearing of other animals, which is part of the debate about whose sound counts.",
+     "outcome": 4
+    },
+    {
+     "t": "mcq",
+     "p": "Which result best shows that noise, and not something else, slowed the reading of children beside a railway?",
+     "opts": [
+      "Teachers said so",
+      "One school showed a lag",
+      "The lag ended when the noise was cut"
+     ],
+     "a": 2,
+     "why": "If removing the noise removes the lag, noise was the cause. A single school or a teacher's opinion cannot rule out other causes.",
+     "outcome": 3
+    },
+    {
+     "t": "write",
+     "p": "A friend says, 'I am used to the trains, so they cannot harm me.' Give two reasons this is wrong.",
+     "lines": 3,
+     "a": "Hair cells may be lost, which makes the noise seem less. Also the body's stress response and the heart rate during sleep still respond to each train, though you may not wake.",
+     "why": "A good answer gives the hair-cell reason and the sleeping-body reason.",
+     "outcome": 3
+    },
+    {
+     "t": "perspective",
+     "p": "A festival loudspeaker plays until midnight on the last night.",
+     "views": [
+      {
+       "who": "A festival organiser (an imagined view)",
+       "says": "This is one of the few nights a year when the community celebrates together, and the state allows it."
+      },
+      {
+       "who": "A mother whose baby is ill (an imagined view)",
+       "says": "A baby cannot move away from the sound or sleep through the noise, and the quiet hours protect those who are already weak."
+      }
+     ],
+     "ask": "What would you try before banning it or allowing it?",
+     "a": "Answers vary. A strong answer looks for a middle way, such as turning the speakers away from homes, lowering the volume, ending earlier or moving the stage.",
+     "why": "Both are real. The rules allow a few relaxed days, and the child's health and the community's joy are both worth protecting.",
+     "outcome": 4
+    },
+    {
+     "t": "mcq",
+     "p": "A hospital ward has many alarms, and most do not need action. What is the best fix?",
+     "opts": [
+      "Make every alarm louder",
+      "Rank alarms so only the urgent ones sound loudly",
+      "Remove all alarms"
+     ],
+     "a": 1,
+     "why": "A warning that sounds too often is ignored. Ranking keeps the urgent ones rare enough to be believed.",
+     "outcome": 6
+    },
+    {
+     "t": "fill",
+     "p": "A classroom reads 78 decibels by day. A silence zone's limit by day is 50. The gap is ____ decibels.",
+     "a": [
+      "28"
+     ],
+     "why": "78 − 50 = 28. That is a very big gap, since every 10 decibels is 10 times the energy.",
+     "outcome": 1
+    },
+    {
+     "t": "match",
+     "p": "Match each warning to what it tells us.",
+     "pairs": [
+      [
+       "pressure cooker whistle",
+       "The steam has reached full pressure"
+      ],
+      [
+       "train horn",
+       "Keep off the track"
+      ],
+      [
+       "ambulance siren",
+       "Move aside"
+      ],
+      [
+       "coastal siren tower",
+       "A cyclone or a tsunami is coming"
+      ]
+     ],
+     "a": "as given",
+     "why": "A warning works because people have learned what it means. A sound with no agreed meaning warns nobody.",
+     "outcome": 6
+    },
+    {
+     "t": "write",
+     "p": "The sound of your own heartbeat in a quiet room: is it noise? Argue it in two sentences for each side.",
+     "lines": 3,
+     "a": "Noise: it is unwanted when you are trying to sleep. Not noise: it is your own body and a sign of life, and you did not choose to hear it but it is yours.",
+     "why": "A strong answer sees that noise is about the listener, and a meter would give a single number for both views.",
+     "outcome": 0
+    },
+    {
+     "t": "truefalse",
+     "p": "Plants have no ears, so noise and vibration cannot matter to them.",
+     "a": false,
+     "why": "False. In 2014 Appel and Cocroft showed that plants made more defence chemicals when played the vibrations of a caterpillar chewing. They sense vibration through their leaves.",
+     "outcome": 3
+    }
+   ]
+  }
+ ],
+ "quiz": [
+  {
+   "t": "mcq",
+   "p": "Two neighbours hear the same drumbeat. One calls it music and the other calls it noise. What does this show?",
+   "opts": [
+    "The meter must be broken",
+    "Noise depends on the listener",
+    "Music is always quieter than noise"
+   ],
+   "a": 1,
+   "why": "A meter reads the same for both, so the difference is in the listeners. Noise is a judgement, which is why people disagree about it.",
+   "outcome": 0
+  },
+  {
+   "t": "mcq",
+   "p": "One auto horn reads 90 decibels at your window. About what do two such horns read together?",
+   "opts": [
+    "93 decibels",
+    "180 decibels",
+    "100 decibels"
+   ],
+   "a": 0,
+   "why": "Twice the sound energy adds about 3 decibels. Choosing 180 adds the numbers like ordinary numbers, which decibels do not do.",
+   "outcome": 1
+  },
+  {
+   "t": "mcq",
+   "p": "A phone reads 80 decibels at 1 metre from a steady sound in the open. About what at 4 metres?",
+   "opts": [
+    "About 76 decibels",
+    "About 68 decibels",
+    "About 40 decibels"
+   ],
+   "a": 1,
+   "why": "4 metres is two doublings of distance, and each takes off about 6 decibels, so 80 − 12 = 68.",
+   "outcome": 1
+  },
+  {
+   "t": "mcq",
+   "p": "Why does hearing lost to loud sound not come back in people?",
+   "opts": [
+    "The nerve to the brain is cut",
+    "Hair cells that die are not replaced",
+    "The eardrum wears out"
+   ],
+   "a": 1,
+   "why": "Humans are born with all the hair cells they will ever have. Birds and fishes can grow new ones, and people cannot.",
+   "outcome": 2
+  },
+  {
+   "t": "mcq",
+   "p": "A cracker bang can harm the ear even though the ear has a guard muscle. Why?",
+   "opts": [
+    "The guard works only when asleep",
+    "Crackers are quieter than horns",
+    "The muscle needs a tenth of a second, and the bang is quicker"
+   ],
+   "a": 2,
+   "why": "The acoustic reflex takes about a tenth of a second to tighten. A bang reaches full strength in less than a thousandth of a second.",
+   "outcome": 2
+  },
+  {
+   "t": "mcq",
+   "p": "After a loud wedding your hearing returns by morning. What may still be true?",
+   "opts": [
+    "Some links to the hearing nerve may be lost",
+    "All the hair cells have grown back",
+    "The ear's guard has been mended"
+   ],
+   "a": 0,
+   "why": "In mice, loud sound can destroy up to half of the nerve links while hearing tests pass. Whether this happens in people is still debated.",
+   "outcome": 2
+  },
+  {
+   "t": "mcq",
+   "p": "A lorry passes at night and you sleep on. Is your body affected?",
+   "opts": [
+    "No, nothing happens unless you wake",
+    "Only if the lorry is very loud",
+    "Yes, heartbeat and blood pressure can rise"
+   ],
+   "a": 2,
+   "why": "Hearing never switches off in sleep. The body can react to each passing noise, and years of this are linked with heart disease.",
+   "outcome": 3
+  },
+  {
+   "t": "mcq",
+   "p": "Great tits sing at a higher pitch in noisy cities. Why does that help?",
+   "opts": [
+    "Traffic rumble is low, so a higher song is heard above it",
+    "High songs are quieter",
+    "It makes them look bigger"
+   ],
+   "a": 0,
+   "why": "Low rumble covers low songs. A higher song sits above the rumble and carries better.",
+   "outcome": 3
+  },
+  {
+   "t": "mcq",
+   "p": "In India's 2000 noise rules, loudspeakers may not be used in the open when?",
+   "opts": [
+    "Between 6 and 10 in the morning",
+    "At any time of the day",
+    "Between 10 at night and 6 in the morning, unless allowed"
+   ],
+   "a": 2,
+   "why": "The quiet hours are 10 at night to 6 in the morning. A state may relax them to midnight on up to 15 days in a year.",
+   "outcome": 4
+  },
+  {
+   "t": "mcq",
+   "p": "A cracker reads 120 decibels at 4 metres. A child fires it at 1 metre. What level reaches the child?",
+   "opts": [
+    "Roughly 132 decibels",
+    "Roughly 120 decibels",
+    "Roughly 100 decibels"
+   ],
+   "a": 0,
+   "why": "Each halving of distance adds about 6 decibels, and 4 metres to 1 metre is two halvings. So the child gets about 12 more.",
+   "outcome": 4
+  },
+  {
+   "t": "mcq",
+   "p": "Which best protects your ears at a loud function?",
+   "opts": [
+    "Cotton wool, near the speaker",
+    "Foam earplugs and sitting far from the speakers",
+    "Sitting beside the speaker and enjoying it"
+   ],
+   "a": 1,
+   "why": "Cotton wool cuts only 5 to 7 decibels. Earplugs cut 15 to 30, and distance cuts it more. Close to the speaker the sound is strongest, and enjoying it does not protect hair cells.",
+   "outcome": 5
+  },
+  {
+   "t": "mcq",
+   "p": "With earphones, which of the three levers are left to you?",
+   "opts": [
+    "Only volume and time",
+    "Distance and barrier",
+    "All three, as usual"
+   ],
+   "a": 0,
+   "why": "The earphone sits inside the ear, so there is no distance or barrier. Volume and hours are what you can change.",
+   "outcome": 5
+  },
+  {
+   "t": "mcq",
+   "p": "A child's weekly allowance is 40 hours at 75 decibels. What is the safe time at 84 decibels?",
+   "opts": [
+    "20 hours",
+    "13 hours",
+    "5 hours"
+   ],
+   "a": 2,
+   "why": "84 is 9 decibels above 75, which is three steps of 3. The time halves three times: 40 → 20 → 10 → 5.",
+   "outcome": 5
+  },
+  {
+   "t": "mcq",
+   "p": "What makes a warning sound work?",
+   "opts": [
+    "It stands out, can be located and has a meaning people have learned",
+    "It is the highest pitch possible",
+    "It lasts as long as it can"
+   ],
+   "a": 0,
+   "why": "A warning is noticed because it stands out, found because it can be located, and acted on because people know what it means.",
+   "outcome": 6
+  },
+  {
+   "t": "mcq",
+   "p": "A hospital ward's machines beep all shift, and most beeps need no action. Why is that a danger?",
+   "opts": [
+    "Beeps harm patients' ears",
+    "Staff may stop responding, even to real alarms",
+    "The machines wear out sooner"
+   ],
+   "a": 1,
+   "why": "A warning that sounds too often is tuned out. That is alarm fatigue.",
+   "outcome": 6
+  }
+ ],
+ "song": {
+  "topic_level": "sci.sound.L5",
+  "title": "Back and Forth, Again and Again",
+  "note": "Topic-level song"
+ },
+ "cards_mins": 25,
+ "warm": {
+  "words": [
+   "NOISE",
+   "SIREN",
+   "QUIET",
+   "DRUMS",
+   "ALARM"
+  ],
+  "quiz": [
+   [
+    "A meter can decide for you whether a sound counts as noise.",
+    false,
+    "A meter gives the strength of a sound. Whether it is noise depends on who is listening."
+   ],
+   [
+    "Two equal sounds together are about 3 decibels louder than one.",
+    true,
+    "Twice the sound energy adds about 3 decibels, so decibels do not add like ordinary numbers."
+   ],
+   [
+    "Hair cells in a person's ear grow back after loud sound.",
+    false,
+    "People are born with all the hair cells they will have. Some other animals, such as birds, can regrow them."
+   ],
+   [
+    "A ringing in the ears after a loud function means the sound was more than the ears could take.",
+    true,
+    "Muffled hearing and ringing are signs of overwork. If they come again and again, the loss may stay."
+   ],
+   [
+    "Cotton wool in the ears is as good as a foam earplug.",
+    false,
+    "Cotton wool cuts about 5 to 7 decibels. A well-fitted foam earplug cuts about 15 to 30."
+   ],
+   [
+    "A lorry at night can raise your heartbeat while you sleep on.",
+    true,
+    "Hearing never switches off. The body reacts to sounds in sleep, though you may not wake."
+   ],
+   [
+    "In the open, doubling your distance from a small steady source takes about 6 decibels off.",
+    true,
+    "The sound spreads out as it travels, so each doubling of distance lowers the level by about 6 decibels."
+   ],
+   [
+    "A warning that sounds all day is the best kind of warning.",
+    false,
+    "A warning that is always on is tuned out. It must be rare enough to be believed."
+   ],
+   [
+    "With earphones, only the volume and the time are left for you to change.",
+    true,
+    "The earphone sits inside the ear, so there is no distance and no barrier."
+   ],
+   [
+    "A room with no sound at all is easy to find.",
+    false,
+    "Even a very quiet room holds your breath, your blood and the faint hiss of your own ears."
+   ]
+  ],
+  "odd": [
+   [
+    [
+     "Horn",
+     "Siren",
+     "Smoke alarm",
+     "Fridge hum"
+    ],
+    "Fridge hum",
+    "The first three are made to warn. A fridge hum is not."
+   ],
+   [
+    [
+     "Earplug",
+     "Ear muff",
+     "Cotton wool",
+     "Turning the volume up"
+    ],
+    "Turning the volume up",
+    "The first three lower the sound that reaches the ear. Turning the volume up raises it."
+   ],
+   [
+    [
+     "Source",
+     "Path",
+     "Time",
+     "Weather"
+    ],
+    "Weather",
+    "The three levers that protect the ear are the source, the path and the time."
+   ],
+   [
+    [
+     "Cochlea",
+     "Eardrum",
+     "Hair cell",
+     "Loudspeaker"
+    ],
+    "Loudspeaker",
+    "The first three are parts of the ear. A loudspeaker is a machine."
+   ],
+   [
+    [
+     "Vervet monkey",
+     "Langur",
+     "Peafowl",
+     "Pressure cooker"
+    ],
+    "Pressure cooker",
+    "The first three give alarm calls to warn others. A pressure cooker's whistle is made by steam in a machine."
+   ]
+  ]
+ },
+ "warmup": [
+  {
+   "q": "A whisper is about 30 decibels and talking about 60. About how many times more sound energy does talking carry?",
+   "a": "About 1,000 times. 30 decibels is 10 × 10 × 10."
+  },
+  {
+   "q": "What does the A in dB(A) mean?",
+   "a": "The meter counts each pitch about as strongly as a human ear hears it."
+  },
+  {
+   "q": "What do hair cells do?",
+   "a": "They turn the movement of liquid in the cochlea into nerve signals."
+  },
+  {
+   "q": "Can a person's ear grow new hair cells?",
+   "a": "No. Birds, fishes and frogs can, but people and other mammals cannot."
+  },
+  {
+   "q": "How many decibels louder are two equal sounds than one?",
+   "a": "Roughly 3 decibels."
+  },
+  {
+   "q": "Name the three levers for protecting the ear.",
+   "a": "The source, the path (distance or a barrier) and the time."
+  },
+  {
+   "q": "In India's rules, between which hours may loudspeakers not be used in the open?",
+   "a": "Between 10 at night and 6 in the morning, unless the state allows it for a festival."
+  },
+  {
+   "q": "Name three things that make a warning work.",
+   "a": "It stands out, it can be found, and it has a meaning that people have learned."
+  }
+ ],
+ "ask_kids": [
+  "What is the loudest sound you heard today, and what is the sound you most wanted to hear? Were they the same?",
+  "Where in your home or street would you put a quiet corner, and what would you change to make it quieter?",
+  "When you use earphones, how loud are they, and how long? What would you check after this lesson?",
+  "Which sound at a festival do you love, and who nearby might not love it? What could make it better for both?",
+  "Why do you think a siren goes up and down instead of staying on one note?",
+  "If you could ask a bird or a street dog what they think of our noise, what do you think they would say?"
+ ],
+ "jokes": [
+  {
+   "j": "Why was the hair cell calm during the loud wedding?",
+   "a": "It was not. It was bent out of shape."
+  },
+  {
+   "j": "What did one ear say to the other ear?",
+   "a": "'Between us, we have a lot of sound ideas.'"
+  },
+  {
+   "j": "Knock, knock. Who is there? Decibel. Decibel who?",
+   "a": "'Decibel is not working, so I had to knock!'"
+  },
+  {
+   "j": "Why can you never hear the P in 'pterodactyl' going to the bathroom?",
+   "a": "Because the P is silent."
+  },
+  {
+   "j": "What did the pressure cooker say to the stove?",
+   "a": "'Stop turning up the heat or I will blow my whistle on you!'"
+  },
+  {
+   "j": "Why did the drum never win an argument?",
+   "a": "Because it always got beaten."
+  },
+  {
+   "j": "Why did the decibel go to school?",
+   "a": "To get a higher level of education."
+  },
+  {
+   "j": "Why did the bird sing higher in the city?",
+   "a": "The traffic was already doing the low notes."
+  },
+  {
+   "j": "What did the mixer-grinder say when asked to be quiet at seven in the morning?",
+   "a": "'I would, but I am only doing what I was whirled to do.'"
+  }
+ ],
+ "spotted": [
+  {
+   "text": "In your kitchen, switch on the mixer-grinder or listen to the pressure cooker's whistle from the next room. Notice how much louder it sounds at arm's length than from two rooms away, and how a closed door changes it.",
+   "art": "A kitchen with a mixer-grinder running and sound lines getting thinner towards a far room."
+  },
+  {
+   "text": "On the bus or in an auto, notice how often horns blow and what they were for. Count the horns in one minute and ask how many told anybody something they did not already know.",
+   "art": "A child on a bus seat counting horn blasts on her fingers."
+  },
+  {
+   "text": "Look for a 'No Horn' or 'Silence Zone' board near a hospital or school on your way. Notice if the horns stop, and how far from the board the quiet starts.",
+   "art": "A road sign with a crossed-out horn beside a hospital gate."
+  },
+  {
+   "text": "At a festival or a wedding, notice where the loudspeakers are and where the guests stand. Notice who sits near the speakers, and who sits at the back, and which babies and older relatives have been taken outside.",
+   "art": "A hall with large loudspeakers on stage and chairs filling up from the back."
+  },
+  {
+   "text": "On a bus or train, watch someone's earphones. Notice if you can hear their music from the next seat. If you can, it is a sign the volume is too high.",
+   "art": "A child looking at a passenger with earphones that leak small sound lines."
+  },
+  {
+   "text": "Listen to the birds at dawn and again at the busiest time of day. Notice whether the song is the same, and whether the birds sing before the traffic starts.",
+   "art": "A crow, a koel and a magpie-robin on a wire with a quiet road below at dawn."
+  },
+  {
+   "text": "Watch a street dog or a pet on a night with crackers. Notice where the animal goes to hide and what she or he does, and how long it takes to settle afterwards.",
+   "art": "A dog under a cot with her ears flat while distant flashes light the window."
+  },
+  {
+   "text": "Listen for the pressure cooker's whistle, a train's horn and an ambulance siren on a normal day. Notice that each one makes you do something without a word being said.",
+   "art": "A kitchen, a railway crossing and an ambulance, each with its own sound pattern."
+  }
+ ],
+ "applications": [
+  "Workers who use road drills, looms or grinders wear ear muffs or foam earplugs. Look for them at a building site, or ask a relative who works in a loud place. Notice what they use and how well it fits.",
+  "The silencer on an auto or a scooter is a metal box on the exhaust. Inside, the gas passes through chambers and holes, and the sound bounces around and loses energy. Look under a parked scooter to find it.",
+  "Phones and earphones now warn you when you listen too loud for too long. This follows a global standard for safe listening devices set by the World Health Organization and the International Telecommunication Union in 2019. Find the setting on a phone with a grown-up.",
+  "Many hospitals and some schools have silence-zone boards on the road outside. They apply the rule that sets lower limits within 100 metres. Look for one, and notice whether the traffic obeys it.",
+  "Cities draw noise maps by measuring many places and times, and use them to decide where to put barriers and where to reroute a road. Your noise map of home and street is a small one.",
+  "Hearing aids and cochlear implants help people whose hair cells cannot do their work. One makes the sound louder, and the other goes round the damaged cells. Many Deaf people use sign language, with or without either.",
+  "Tall solid panels stand beside some flyovers, railway lines and metro viaducts to lower the sound reaching homes. Look for them, and notice which side of the panel is quieter.",
+  "Sirens on towers warn coastal villages of cyclones and tsunamis, and the tsunami warning system for India's coast sends messages to them. Each siren is made loud and to carry far, because a warning has to reach everyone."
+ ],
+ "maths": [
+  {
+   "problem": "One auto horn measures 90 decibels at your window. Every doubling of the number of horns adds about 3 decibels, and every ten times as many horns adds 10. Find the level for 2 horns, 10 horns and 100 horns. A friend says 2 horns make 180. Say what is wrong.",
+   "answer": "2 horns: about 93. 10 horns: 100. 100 horns: 110. The friend added the numbers, but decibels count how many times the energy has grown.",
+   "explain": "Two horns carry 2 times the energy, so 90 + 3 = 93. Ten horns carry 10 times the energy, so 90 + 10 = 100. A hundred carry 100 times, so 90 + 20 = 110. Energy adds. Decibels count the tens of times it has grown, so they do not add like ordinary numbers.",
+   "math_unit": "math.fractions.ratio-and-proportion.L5",
+   "how": "e1",
+   "context": "This problem uses a horn at your window to show how decibels combine when sources are added.",
+   "why_maths": "The decibel scale counts multiplications of energy. Reading it correctly needs this ratio sum, or a street of horns would seem twice as loud as it is."
+  },
+  {
+   "problem": "A mixer-grinder reads 90 decibels and ordinary talk reads 60. How many times more sound energy does the mixer-grinder carry? What roughly 104 decibels against 74?",
+   "answer": "1,000 times in both cases.",
+   "explain": "Both gaps are 30 decibels. Each 10 decibels is 10 times the energy, so 30 decibels is 10 × 10 × 10 = 1,000. The same gap gives the same ratio wherever the two numbers sit on the scale.",
+   "math_unit": "math.multiplication.multi-digit.L4",
+   "how": "e1",
+   "context": "This problem asks how much more energy a loud sound carries than a quiet one.",
+   "why_maths": "The decibel scale is a ratio scale. A gap of the same size means the same multiplying factor, which is why one number can describe sounds from a whisper to a cracker."
+  },
+  {
+   "problem": "A steady source reads 100 decibels at 1 metre in the open. Each doubling of distance takes off about 6 decibels. Find the level at 2, 4, 8 and 16 metres. At about what distance does it fall to 64 decibels?",
+   "answer": "94, 88, 82 and 76 decibels. It falls to 64 at 64 metres.",
+   "explain": "Each doubling takes off 6: 100 → 94 → 88 → 82 → 76. To reach 64 we must take off 36, which is 6 doublings. Doubling 6 times from 1 metre gives 2 × 2 × 2 × 2 × 2 × 2 = 64 metres.",
+   "math_unit": "math.fractions.ratio-and-proportion.L5",
+   "how": "e1",
+   "context": "This problem uses the distance pattern from the third part of the noise map, with a louder source.",
+   "why_maths": "Distance makes sound fall in a repeating pattern, a fixed drop for each doubling. Spotting a pattern like this predicts a reading you never measured."
+  },
+  {
+   "problem": "A child's safe weekly listening is 40 hours at 75 decibels, and every 3 decibels more halves the time. Fill in the safe hours for 75, 78, 81, 84, 87 and 90 decibels. Then say how long is safe at 100 decibels, which many phones can reach at full volume.",
+   "answer": "40, 20, 10, 5, 2.5 and 1.25 hours. At 100 decibels, only about 7 minutes in a week.",
+   "explain": "Each step of 3 halves the time. From 75 to 100 is 25 decibels, about 8 steps of 3 and a bit more. Halving 8 times gives 40 ÷ 256, about 0.16 hours. The extra third of a step makes it about 0.12 hours, or about 7 minutes.",
+   "math_unit": "math.division.division-facts.L4",
+   "how": "p1",
+   "context": "This problem works out the weekly allowance for earphones at several volumes.",
+   "why_maths": "Repeated halving shows how quickly safe time collapses as the volume rises. A graph of the hours bends sharply, which is the reason the allowance is given as a pair of numbers."
+  },
+  {
+   "problem": "A foam earplug cuts 25 decibels and cotton wool cuts 6 decibels. About how many times less sound energy does each let through? How many times better is the earplug?",
+   "answer": "Earplug roughly 300 times less. Cotton wool about 4 times less. The earplug is about 80 times better.",
+   "explain": "6 decibels is two halvings of the energy, which is 4 times less. 25 decibels is 20 decibels, which is 100 times, and 5 more, which is about 3 times, so roughly 300 times. 300 ÷ 4 is about 75, so about 80 times better.",
+   "math_unit": "math.fractions.ratio-and-proportion.L5",
+   "how": "p1",
+   "context": "This problem compares two ways of protecting the ear using the energy ratio of each cut.",
+   "why_maths": "A difference of a few decibels sounds small, but the ratio of energies is large. This sum shows why cotton wool gives so little protection."
+  },
+  {
+   "problem": "A class of 40 children talking reads 80 decibels. Each time you halve the number of equal talkers, about 3 decibels come off. Find the level for 20, 10, 5 and 1 children. Why does one child alone not read 40?",
+   "answer": "77, 74, 71 and about 64 decibels. One child carries one fortieth of the energy, which is only about 16 decibels less, not 40.",
+   "explain": "Halving 40 children to 20 gives 77, halving to 10 gives 74, and halving to 5 gives 71. From 40 children to 1 child is about 5.3 halvings, so 80 − 16 = 64, close to the 60 of ordinary talk. A level of 40 would be 40 decibels below 80, which is only one ten-thousandth of the energy. One child is one fortieth of it.",
+   "math_unit": "math.division.division-facts.L4",
+   "how": "e1",
+   "context": "This problem asks why removing talkers from a class only lowers the level a little.",
+   "why_maths": "Taking away half of the sources gives a fixed drop, not half the number. This is why very large cuts in traffic are needed to make a street feel much quieter."
+  }
+ ],
+ "links": [
+  {
+   "title": "NIOSH Sound Level Meter app (US National Institute for Occupational Safety and Health)",
+   "url": "https://www.cdc.gov/niosh/noise/about/app.html",
+   "kind": "website",
+   "why": "A free sound-meter app for iPhone, and a page on how reliable phone meters are. For Android, search for a free decibel app that shows an average."
+  },
+  {
+   "title": "World Health Organization: Make Listening Safe",
+   "url": "https://www.who.int/activities/making-listening-safe",
+   "kind": "website",
+   "why": "Plain pages on safe listening with earphones, with the weekly allowance and the numbers behind it."
+  },
+  {
+   "title": "Dangerous Decibels",
+   "url": "https://dangerousdecibels.org/",
+   "kind": "interactive",
+   "why": "A free hearing-health site with a virtual exhibit that shows the ear, hair cells and how loud sounds harm them."
+  },
+  {
+   "title": "Central Pollution Control Board, Government of India",
+   "url": "https://cpcb.nic.in/",
+   "kind": "website",
+   "why": "Where India's national noise rules and the noise monitoring data for cities are published."
+  },
+  {
+   "title": "Awaaz Foundation, Mumbai",
+   "url": "https://awaazfoundation.org/",
+   "kind": "website",
+   "why": "The Mumbai organisation founded by Sumaira Abdulali, which measures noise and campaigns for the rules to be kept."
+  }
+ ],
+ "videos": [
+  {
+   "title": "How the ear turns sound into signals, and what loud sound does to the hair cells",
+   "channel": "",
+   "mins": 5,
+   "youtube": "",
+   "status": "find-id",
+   "why": "To see the cochlea and the hair cells at work, and the damage loud sound does to their tufts.",
+   "check": "No video was matched. A person must find a short film that shows hair cells in the cochlea, preview it, and confirm it shows noise damage."
+  },
+  {
+   "title": "How noise-cancelling headphones work",
+   "channel": "",
+   "mins": 5,
+   "youtube": "",
+   "status": "find-id",
+   "why": "To see how a speaker plays the opposite of an incoming sound wave so that the two cancel.",
+   "check": "No video was matched. A person must find a short film and check that it shows cancelling and says that it works best on steady, low sounds."
+  },
+  {
+   "title": "How noise changes the lives of birds and whales",
+   "channel": "",
+   "mins": 8,
+   "youtube": "",
+   "status": "find-id",
+   "why": "To see how human noise changes songs and calls, and how scientists measured it.",
+   "check": "No video was matched. A person must find a film that matches the great tit and right whale findings, and preview the film."
+  }
+ ],
+ "buy": [
+  {
+   "id": "b-meter",
+   "item": "A hand-held sound-level meter",
+   "kind": "tool",
+   "why": "An optional better meter for the noise map and the experiments. A phone app is free and works for comparing places. A cheap hand-held meter costs about ₹800 to ₹2,500 and is steadier. Phone apps and cheap meters can each be off by several decibels.",
+   "url": "https://www.amazon.in/s?k=sound+level+meter+decibel",
+   "used_in": [
+    "e1",
+    "e2",
+    "ch1",
+    "p2"
+   ],
+   "plan": "Use a free decibel app on a phone. For the no-app backup, use a ticking clock and count the steps you can still hear it from."
+  },
+  {
+   "id": "b-speaker",
+   "item": "A small portable speaker",
+   "kind": "tool",
+   "why": "A steady source of sound for the distance, barrier and classroom tests, and to feel a beat. About ₹500 to ₹1,500.",
+   "url": "https://www.amazon.in/s?k=small+bluetooth+speaker",
+   "used_in": [
+    "e1",
+    "e2",
+    "ch1",
+    "a2"
+   ],
+   "plan": "Use a second phone, or a radio, playing at the volume of ordinary talk."
+  },
+  {
+   "id": "b-balloons",
+   "item": "A pack of balloons",
+   "kind": "material",
+   "why": "For feeling a beat in the air inside a balloon. A pack costs about ₹30 to ₹60.",
+   "url": "https://www.amazon.in/s?k=balloons+pack",
+   "used_in": [
+    "a2"
+   ],
+   "plan": "Use a rubber glove or a plastic bag filled with air and tied at the top."
+  },
+  {
+   "id": "b-tape",
+   "item": "A roll of masking tape",
+   "kind": "material",
+   "why": "For marking distances on the floor and taping barriers. About ₹30 to ₹60.",
+   "url": "https://www.amazon.in/s?k=masking+tape",
+   "used_in": [
+    "e1",
+    "e2",
+    "ch1",
+    "ch2"
+   ],
+   "plan": "Use chalk or small strips of paper held down with a book."
+  },
+  {
+   "id": "b-earplugs",
+   "item": "Soft foam earplugs, a box of pairs",
+   "kind": "tool",
+   "why": "For loud functions. A well-fitted foam earplug cuts 15 to 30 decibels. A box of 5 to 10 pairs costs about ₹100 to ₹250.",
+   "url": "https://www.amazon.in/s?k=foam+earplugs",
+   "used_in": [
+    "p1"
+   ],
+   "plan": "If you cannot buy earplugs, use distance, and leave the loud place early. Cotton wool helps very little."
+  },
+  {
+   "id": "b-print",
+   "item": "Printing the game cards and worksheets",
+   "kind": "printing",
+   "why": "The cards of the two games need to be printed and cut. At a stationery shop this is about ₹2 per page, and about 6 pages in all for the games.",
+   "url": "https://www.amazon.in/s?k=a4+printer+paper",
+   "used_in": [
+    "g1",
+    "g2",
+    "ws-core",
+    "ws-stretch",
+    "ws-challenge"
+   ],
+   "plan": "Copy the cards by hand on to small slips of paper. Each is a short line."
+  }
+ ],
+ "plan": {
+  "start_options": [
+   "e1",
+   "story",
+   "big_questions",
+   "cards",
+   "g1",
+   "a1"
+  ],
+  "default_order": [
+   "intro",
+   "e1",
+   "summary",
+   "terms",
+   "explanations",
+   "story",
+   "a1",
+   "e2",
+   "g1",
+   "how_we_found_out",
+   "agreed",
+   "challenging",
+   "a2",
+   "ch1",
+   "big_questions",
+   "open_questions",
+   "roots",
+   "quiz",
+   "a3",
+   "a4",
+   "g2",
+   "a5",
+   "p1",
+   "p2",
+   "ch2",
+   "ws-core",
+   "ws-stretch",
+   "ws-challenge"
+  ],
+  "core": [
+   "e1",
+   "g1"
+  ],
+  "spine": [
+   "intro",
+   "e1",
+   "explanations",
+   "roots",
+   "quiz"
+  ]
+ }
 }
