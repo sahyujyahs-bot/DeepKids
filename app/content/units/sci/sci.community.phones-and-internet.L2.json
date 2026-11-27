@@ -242,7 +242,7 @@
    ],
    "perspectives": [
     {
-     "who": "Many parents and grandparents",
+     "who": "Parents and grandparents who share children's photos in family WhatsApp groups, a common habit in Indian families",
      "explanation": "They share children's photos out of love, so that relatives far away can watch the children grow."
     },
     {
@@ -292,7 +292,7 @@
      "explanation": "He has said he is sorry he made it. He meant to save people effort and did not foresee how much time it would take from them."
     },
     {
-     "who": "Companies that make apps",
+     "who": "The makers of apps and games, in their public statements about parental controls",
      "explanation": "They say they give people what people enjoy, and that parents can set time limits in the settings."
     },
     {
@@ -674,7 +674,7 @@
     "status": "debated"
    },
    {
-    "text": "Every kind of signal a phone uses, from radio waves to the flashes in glass fibre, is one thing: electromagnetic waves of different lengths.",
+    "text": "Every kind of signal a phone uses, from radio waves to the flashes in glass fibre, is one thing: electromagnetic waves, which are ripples of electricity and magnetism. They differ only in length. Visible light is the same kind of wave.",
     "status": "settled"
    }
   ],
@@ -2740,7 +2740,7 @@
   },
   {
    "j": "Why is a sea cable always calm?",
-   "a": "It is used to working under pressure."
+   "a": "Even with the whole sea sitting on top of it, it just carries on working."
   },
   {
    "j": "Why did the typed 'Okay.' get into trouble?",

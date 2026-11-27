@@ -157,7 +157,7 @@ Some facts are like the key to your house. Your full name, your home address, yo
 A photo of you is a piece of you that travels without you. So each person decides about their own picture. Before you take a photo of a friend, ask. Before you send that photo to anyone, ask again. If they say no, or say nothing, the answer is no. The same holds for you. You may say 'Please do not post that' to a friend, a relative or a teacher.
 - e.g. Your little brother is crying with rasam on his shirt. A video would be funny today. Ask yourself how he will feel when his class sees it in five years.
 - e.g. Taking a photo of someone who is changing clothes or bathing is never all right. Tell a trusted adult if anyone does this or asks for this.
-- **Many parents and grandparents:** They share children's photos out of love, so that relatives far away can watch the children grow.
+- **Parents and grandparents who share children's photos in family WhatsApp groups, a common habit in Indian families:** They share children's photos out of love, so that relatives far away can watch the children grow.
 - **Children's rights groups, and the United Nations Committee on the Rights of the Child in a statement of 2021:** They hold that children have a right to privacy online, and that adults should think about the child's own wishes before posting.
 ### Not everything on a screen is true · *defined*
 **Definition:** A rumour is a story passed from person to person that nobody has checked.
@@ -176,7 +176,7 @@ Have you ever meant to watch one video and watched six? That is partly by design
 - e.g. A game that gives a prize 'only if you come back tomorrow' is using the same trick.
 - e.g. Decide before you start: 'two videos', or 'until the timer rings at 20 minutes'.
 - **Aza Raskin, the designer who invented the page that scrolls without end, in 2006:** He has said he is sorry he made it. He meant to save people effort and did not foresee how much time it would take from them.
-- **Companies that make apps:** They say they give people what people enjoy, and that parents can set time limits in the settings.
+- **The makers of apps and games, in their public statements about parental controls:** They say they give people what people enjoy, and that parents can set time limits in the settings.
 - **Tristan Harris, who once worked on design at Google:** He argues that when thousands of engineers work to hold a child's attention, it is not a fair contest, and that the designs should change.
 ### A screen held close for a long time tires the eyes and can push sleep later · *defined*
 **Definition:** Looking at something near for a long time makes the small muscles of the eye work without rest. Bright light late in the evening tells the body it is still day.
@@ -289,7 +289,7 @@ A phone seems to join two separate people with a line. The test suggests somethi
 - **Avatamsaka Sutra, the image of Indra's net, as explained by the Chinese Buddhist teacher Fazang in the 7th century CE:** Imagine a net that stretches without end, with a shining jewel at every knot. Each jewel reflects every other jewel. (The internet is a real net with a device at each knot, and each device can show what any other sends. The old image goes further than the cables do. It says each thing holds the others, and not only that they are joined.)
 - **Tirukkural, chapter 13 on self-control, kural 129:** A burn from fire heals inside. A wound burnt in by the tongue does not heal. (This meets the card about copies. A typed word stays on forty phones long after the sender has forgotten it.)
 - Science (debated): When people watch another person's face show a feeling, some of the same parts of their own brain and body become active as when they feel it themselves. Scientists link this to how we understand each other.
-- Science (settled): Every kind of signal a phone uses, from radio waves to the flashes in glass fibre, is one thing: electromagnetic waves of different lengths.
+- Science (settled): Every kind of signal a phone uses, from radio waves to the flashes in glass fibre, is one thing: electromagnetic waves, which are ripples of electricity and magnetism. They differ only in length. Visible light is the same kind of wave.
 - Other view, Claude Shannon, the engineer who founded the mathematics of communication in 1948, and many scientists after him: Shannon wrote that the meaning of a message has nothing to do with the engineering problem. On this view a message is a pattern that is copied from one place to another, and feelings are separate events in two separate brains. Nothing is shared except the pattern.
 - Practice, One breath before send (3 min): Sit with your child and hold a phone that is switched off. Say: 'Think of someone you might send a message to. Close your eyes and see their face.' Wait. 'Now take one slow breath in, and one slow breath out. Imagine them reading your message. What does their face do?' Wait. 'That breath is your send button. Whenever you are about to send, take it first.' Do it three times, with three different people in mind.
 - Ask: When your family read your chit wrongly, whose mistake was it: yours, theirs, or nobody's?
@@ -691,9 +691,9 @@ Meenakshi pushed the swing with her toe. Somewhere under the sea, she knew, flas
    **Answer:** A phone, a tower with wavy lines, a cable going along the ground and under the sea, another coast at Kochi, a tower and a second phone.. *Why:* A message goes as radio waves to a tower, then as light along cables under the sea, then as radio waves to the second phone.
 
 ## Videos
-- **How a phone call travels** (to be found, 5 min) id `to find`: To see how a voice becomes a signal, travels to a tower and comes out as sound again. *Check:* Video id still to find. Check that it is accurate and gentle for a seven-year-old, and that it does not ask a child to go online.
-- **How the internet works: cables under the sea** (to be found, 6 min) id `to find`: To see that the internet is real cables on the sea floor and not magic. *Check:* Video id still to find. Check that it shows undersea cables and does not call the internet a cloud.
-- **Staying safe with phones: tell a trusted adult** (to be found, 5 min) id `to find`: To hear the four steps for something that feels wrong, from an Indian source if possible. *Check:* Video id still to find. Check that it tells children to tell an adult and does not blame them.
+- **How a phone call travels** (to be found, 5 min) id `4UWpiOCkTAM`: To see how a voice becomes a signal, travels to a tower and comes out as sound again. *Check:* Found by YouTube search: "How Does a Phone Call Find You? (Mobile Networks Explained Simply)" by ExplainHowFast. Title checked automatically; a parent may still preview it.
+- **How the internet works: cables under the sea** (to be found, 6 min) id `yd1JhZzoS6A`: To see that the internet is real cables on the sea floor and not magic. *Check:* Found by YouTube search: "How The Internet Travels Across Oceans" by VISION. Title checked automatically; a parent may still preview it.
+- **Staying safe with phones: tell a trusted adult** (to be found, 5 min) id `Y889t-P2VwE`: To hear the four steps for something that feels wrong, from an Indian source if possible. *Check:* Found by YouTube search: "Cell Phone Safety for kids by a kid!" by Central Insurance. Title checked automatically; a parent may still preview it.
 
 ## Quiz
 1. (mcq) A girl speaks into a phone. What does the phone send to her friend?  
@@ -784,7 +784,7 @@ Meenakshi pushed the swing with her toe. Somewhere under the sea, she knew, flas
 - What did the Wi-Fi say to the phone? *'I feel a strong connection!'*
 - Why did the koel never need a phone? *She already had a very good call.*
 - Why does an elephant never run out of data? *She sends her rumbles for free, and they travel for kilometres.*
-- Why is a sea cable always calm? *It is used to working under pressure.*
+- Why is a sea cable always calm? *Even with the whole sea sitting on top of it, it just carries on working.*
 - Why did the typed 'Okay.' get into trouble? *Nobody could see what face it was making.*
 - A 'puppy' on a game screen asked a child for her home address. What did her grandmother say? *'A real puppy has never asked for an address. It only asks for biscuits.'*
 - Why did the honey bee never lose her signal? *She sends her messages by dancing, and nobody has ever dropped a dance.*

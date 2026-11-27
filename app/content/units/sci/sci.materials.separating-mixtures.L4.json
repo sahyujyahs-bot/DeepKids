@@ -3,7 +3,7 @@
  "title": "Separating mixtures: every method uses one difference between the parts",
  "level": 4,
  "summary": {
-  "text": "Stir one mustard seed into a katori of rava and you can pick the seed out again. Stir in a pinch of salt and you cannot, though the salt is still there. Why does one come back so easily and the other not? In this lesson you separate mixtures by picking, sieving, a magnet, filtering and evaporation, and you find that each method works by using one difference between the parts. Then you ask a harder question: clear water looks like one material, so how would you know if it is?",
+  "text": "Stir one mustard seed into a katori of rava and you can pick the seed out again. Stir in a pinch of salt and you cannot, though the salt is still there. Why does one come back so easily and the other not? In this lesson you separate mixtures by picking, sieving, using a magnet, filtering and evaporating. You find that each method works by using one difference between the parts. Then you ask a harder question: clear water looks like one material, so how would you know if it is?",
   "art": "A steel katori of rava with one black mustard seed lifted out and a few white salt grains still hidden in the rava."
  },
  "intro": {
@@ -23,7 +23,7 @@
   {
    "concept": "A mixture is two or more materials together, and each one is still itself",
    "status": "defined",
-   "definition": "A mixture is two or more materials put together, in which each material stays the same material and can be taken out again without changing it into something else.",
+   "definition": "A mixture is two or more materials put together. Each material stays the same material, and can be taken out again without changing into something else.",
    "description": "Tip a cup of rice into a cup of toor dal and stir. You now have a mixture. Every grain of rice is still rice, and every grain of dal is still dal. Nothing new was made. You could sit and pick the two apart, and you would have the same cup of rice and the same cup of dal. The parts of a mixture can be in any amounts. One spoon of dal in a sack of rice is a mixture, and so is half and half. The parts can be solids, liquids or gases. Salt water is a solid mixed into a liquid. Air is several gases mixed together.",
    "examples": [
     "Sambar powder is a mixture of ground chilli, coriander seed, dal, fenugreek and other spices. Each family chooses different amounts.",
@@ -114,8 +114,8 @@
   {
    "concept": "Picking by hand uses a difference the eyes or fingers can tell",
    "status": "defined",
-   "definition": "Picking, also called hand-picking, is taking one part out of a mixture one piece at a time, using a difference in colour, shape or size that you can see or feel.",
-   "description": "Spread a handful of rice on a steel plate. A small grey stone shows up against the white grains, and you flick it out. That is picking. It needs no tool, only a difference your senses can catch. Picking works well when the unwanted pieces are few and easy to see. It is slow when there are many, and it fails when the pieces are too small or look alike. Picking is still one of the most used methods in the world. Much of India's tea is plucked by hand, two leaves and a bud at a time, mostly by women, because fingers can choose the young leaves from the old.",
+   "definition": "Picking, also called hand-picking, is taking one part out of a mixture one piece at a time. It uses a difference in colour, shape or size that you can see or feel.",
+   "description": "Spread a handful of rice on a steel plate. A small grey stone shows up against the white grains, and you flick it out. That is picking. It needs no tool, only a difference your senses can catch. Picking works well when the unwanted pieces are few and easy to see. It is slow when there are many, and it fails when the pieces are too small or look alike. Picking is still one of the most used methods in the world. Much of India's tea is plucked by hand, two leaves and a bud at a time. Most of the pluckers are women. Fingers can choose the young leaves from the old.",
    "examples": [
     "Taking small stones and bits of husk out of rice or dal before cooking.",
     "Sorting a mixed bag of buttons by colour.",
@@ -125,7 +125,7 @@
    "perspectives": [
     {
      "who": "Waste pickers in Indian cities",
-     "explanation": "By different estimates, between 15 lakh and 40 lakh people in India earn their living by picking paper, plastic, glass and metal out of mixed rubbish. They recover a large share of what the country recycles. Their groups, such as the women's cooperative SWaCH in Pune, ask families to keep wet and dry waste apart, because picking through mixed waste is slow and unsafe."
+     "explanation": "By different estimates, between 15 lakh and 40 lakh people in India earn their living by picking paper, plastic, glass and metal out of mixed rubbish. They recover a large share of what the country recycles. Their groups, such as the waste pickers' cooperative SWaCH in Pune, ask families to keep wet and dry waste apart. Picking through mixed waste is slow and unsafe."
     },
     {
      "who": "Engineers who build sorting machines for rice mills",
@@ -239,7 +239,7 @@
   {
    "concept": "A magnet uses a difference in being attracted",
    "status": "defined",
-   "definition": "Magnetic separation is taking a magnetic material, such as iron or steel, out of a mixture by using a magnet, which attracts it and leaves the other materials behind.",
+   "definition": "Magnetic separation is taking a magnetic material, such as iron or steel, out of a mixture with a magnet. The magnet attracts that material and leaves the others behind.",
    "description": "Mix steel pins into a bowl of rice. Wrap a magnet in a small plastic bag and pass it through the bowl. The pins cling to the bag and the rice does not. Lift the magnet out, hold it over an empty plate and pull the magnet out of the bag. The pins drop. A magnet strongly attracts iron, steel, nickel and cobalt. It does not attract rice, sand, plastic, wood, copper, aluminium or gold. So the method works only when one part is magnetic and the rest are not. Flour mills and spice factories pass their grain over strong magnets. A tiny chip of steel from a machine is caught before it reaches a packet.",
    "examples": [
     "Stir a wrapped magnet through dry sand from a beach or a building site. Black grains often cling to it. They are a mineral that holds iron.",
@@ -262,11 +262,11 @@
   {
    "concept": "Evaporation takes the water away as vapour and leaves the dissolved solid behind",
    "status": "defined",
-   "definition": "Evaporation is a liquid changing into a gas. When water evaporates from a solution, which is a liquid with something dissolved in it, the water leaves as water vapour and the dissolved solid stays behind.",
+   "definition": "Evaporation is a liquid changing into a gas. A solution is a liquid with something dissolved in it. When water evaporates from a solution, the water leaves as water vapour and the dissolved solid stays behind.",
    "description": "Pour a little salt water into a steel plate and leave it on a sunny windowsill. In a day or two the water is gone, and a white crust is left. Taste it. It is the salt. The water did not vanish. It went into the air as water vapour, a gas you cannot see. Salt does not turn into a gas at these temperatures, so it could not follow. This is the method for a solid that has dissolved, where no filter can help. One litre of sea water holds about 35 grams of salt, which is about six level teaspoons. Evaporation gives you the solid and loses the water. To keep the water as well, the vapour must be cooled back into liquid. That longer method is called distillation.",
    "examples": [
-    "In the salt pans of Thoothukudi in Tamil Nadu and the Rann of Kutch in Gujarat, sea water or salty ground water is let into shallow ponds. The Sun and the wind take the water. Gujarat makes about three quarters of India's salt.",
-    "In the Salt March of 1930, Mohandas Gandhi and his companions walked about 385 kilometres to the sea at Dandi and picked up salt left by evaporated sea water. A law of the time said Indians could not make their own salt.",
+    "In the salt pans of Thoothukudi in Tamil Nadu and the Rann of Kutch in Gujarat, salty water is let into shallow ponds. It comes from the sea or from under the ground. The Sun and the wind take the water. Gujarat makes about three quarters of India's salt.",
+    "In the Salt March of 1930, Mohandas Gandhi and his companions walked about 385 kilometres to the sea at Dandi. There they picked up salt left by evaporated sea water. A law of the time said Indians could not make their own salt.",
     "Jaggery is made by boiling sugarcane juice until most of the water has evaporated.",
     "A white ring left inside a steel vessel after water has boiled away is made of minerals that were dissolved in the tap water."
    ],
@@ -281,7 +281,7 @@
     },
     {
      "who": "Archaeologists, after F. R. Allchin's study of 1979",
-     "explanation": "Clay vessels found at Shaikhan Dheri in Gandhara, in today's Pakistan, look like parts of stills for distillation. They date from about 150 BCE to 350 CE. Allchin argued that distillation may have begun in ancient India. Other historians think it began in several places, and they credit Maria of Alexandria, a woman alchemist of about the 1st to 3rd century CE, with an early still."
+     "explanation": "Clay vessels found at Shaikhan Dheri in Gandhara, in today's Pakistan, look like parts of stills for distillation. They date from about 150 BCE to 350 CE. Allchin argued that distillation may have begun in ancient India. Other historians think it began in several places. They credit Maria of Alexandria, a woman alchemist of about the 1st to 3rd century CE, with an early still."
     }
    ],
    "art": "A steel plate on a sunny windowsill shown twice: with a thin pool of salt water and wavy arrows of vapour rising, and later dry with white salt crystals.",
@@ -290,8 +290,8 @@
   {
    "concept": "Choosing a method: find the difference, decide what you want to keep, then put the steps in order",
    "status": "defined",
-   "definition": "To separate a mixture of several materials, list the parts, find one difference for each part, pick the method that uses that difference, and do the dry methods before the wet ones.",
-   "description": "Think of a mixture of steel pins, rajma, sand and salt. No single method can part all four. So you use a chain. First, pass a magnet through it. Only the pins come out. Second, sieve it. The rajma stays on the sieve, and the sand and salt fall through. Third, add water and stir. The salt dissolves and the sand does not. Fourth, filter. The sand stays on the paper. Fifth, evaporate the water. The salt comes back. The order matters. A magnet and a sieve work best on dry things, so they come before the water. You also ask what you want to keep. If you want only the sand, you can pour the salty water away and skip the last step.",
+   "definition": "To separate a mixture of several materials, follow four steps. List the parts and decide which ones you want to keep. Find one difference for each part. Pick the method that uses that difference. Then do the dry methods before the wet ones.",
+   "description": "Think of a mixture of steel pins, rajma, sand and salt. No single method can part all four. So you use a chain. First, pass a magnet through it. Only the pins come out. Second, sieve it. The rajma stays on the sieve, and the sand and salt fall through. Third, add water and stir. Only the salt dissolves. Fourth, filter. The sand stays on the paper. Fifth, evaporate the water. The salt comes back. The order matters. A magnet and a sieve work best on dry things, so they come before the water. You also ask what you want to keep. If you want only the sand, you can pour the salty water away and skip the last step.",
    "examples": [
     "Rava and salt, the puzzle at the start: add water, filter through cloth so the rava stays, then evaporate the water to get the salt.",
     "Tea leaves, sugar and water in a cup of black tea: a strainer takes the leaves, and evaporation would bring back the sugar.",
@@ -317,7 +317,7 @@
   {
    "concept": "Chromatography separates materials that differ only a little, such as the colours in one ink",
    "status": "defined",
-   "definition": "Chromatography is a method in which a liquid creeps through paper or powder and carries the parts of a mixture along at different speeds, so that they spread out into separate bands.",
+   "definition": "Chromatography is a way of separating a mixture with a liquid that creeps through paper or powder. The liquid carries each part along at its own speed, so the parts spread out into separate bands.",
    "description": "Draw a thick dot with a black sketch pen near the bottom of a strip of filter paper or a white coffee filter. Dip only the bottom edge in water. The water climbs the paper and passes through the dot. As it climbs, the black spreads into bands of blue, pink or yellow. Many black inks are a mixture of dyes. Each dye differs a little in how strongly it clings to the paper and how well it dissolves in water. A dye that clings less travels farther. So a small difference, repeated over the whole climb, becomes a gap you can see. Chromatography is used wherever the parts are too alike for a sieve or a filter.",
    "examples": [
     "Laboratories use it to check food for colours that are not allowed.",
@@ -341,7 +341,7 @@
    "concept": "Living beings separate mixtures all day, using the same differences",
    "status": "defined",
    "definition": "Every living being takes what they need out of a mixture, such as air, water or food, and leaves or sends back the rest. Bodies do this with filters, with evaporation and with surfaces that let some materials through and stop others.",
-   "description": "You are separating a mixture as you read this. The air you breathe in is about 21 parts oxygen in every 100. The air you breathe out is about 16. Your lungs took some oxygen out of the mixture and left the rest. Your two kidneys filter your blood. About 180 litres of liquid pass through their filters each day. The kidneys take back nearly all of it and send out about one and a half litres as urine. Every cell does the same on a small scale. A cell's skin lets some materials in and keeps others out. A cell chooses what to let in. Many biologists describe this as automatic chemistry, with no choosing in it.",
+   "description": "You are separating a mixture as you read this. The air you breathe in is about 21 parts oxygen in every 100. The air you breathe out is about 16. Your lungs took some oxygen out of the mixture and left the rest. Your two kidneys filter your blood. Roughly 180 litres of liquid pass through their filters each day. The kidneys take back nearly all of it and send out about one and a half litres as urine. Every cell does the same on a small scale. A cell's skin lets some materials in and keeps others out. A cell chooses what to let in. Many biologists describe this as automatic chemistry, with no choosing in it.",
    "examples": [
     "A flamingo feeds with their head upside down. Their beak has rows of fine plates like a comb. Their tongue pumps water in and out, and the plates hold back tiny algae and small animals.",
     "Honey bees collect nectar, which can be more than half water. In the hive they spread it thin and fan it with their wings until enough water has evaporated. Honey is under one fifth water.",
@@ -364,7 +364,7 @@
   {
    "concept": "The Earth separates mixtures too: rain, rivers and salt lakes",
    "status": "defined",
-   "definition": "Sunlight, moving water, wind and gravity separate the Earth's materials by the same differences people use: evaporation leaves salt behind, and flowing water sorts stones by size.",
+   "definition": "Sunlight, moving water, wind and gravity separate the Earth's materials by the same differences people use. Evaporation leaves salt behind, and flowing water sorts stones by size.",
    "description": "The sea is salty and rain is not. The Sun warms the sea and water evaporates. The salt cannot follow, so the vapour that makes clouds is fresh. Rain is sea water that the Sun has separated. Rivers sort too. A fast mountain stream can roll large stones. As the river slows on the plain, it drops the pebbles first, then the sand, then the silt. The finest clay travels to the delta. So a river lays out its load by size, as a stack of sieves would. Where a lake has no way out to the sea, water leaves only by evaporation. The salts stay and build up year after year.",
    "examples": [
     "Sambhar Lake in Rajasthan is India's largest salt lake away from the coast. Rivers flow in, no river flows out, and people have collected salt there for well over a thousand years.",
@@ -412,7 +412,7 @@
    "concept": "How pure is 'pure'? Purity is a number, and it is never quite 100",
    "status": "defined",
    "definition": "A pure material is made of one substance only. In practice no sample is perfectly pure, so purity is given as a number that says how much of the sample is the named substance.",
-   "description": "A packet says 'pure salt'. A bottle says 'pure water'. In a shop, pure means clean and safe, with nothing added that should not be there. A chemist means something stricter: one substance and nothing else. By that meaning, hardly anything you have touched is pure. Bottled drinking water has minerals dissolved in it, and the label lists them. The purest gold bars are stamped 999, which means 999 parts gold in 1,000. The silicon used for computer chips is among the purest materials people make. Its makers reach about 99.9999999 parts in 100. That is one stray atom among a hundred crore, and still not zero. Each cleaner grade costs more work than the last.",
+   "description": "A packet says 'pure salt'. A bottle says 'pure water'. In a shop, pure means clean and safe, with nothing added that should not be there. A chemist means something stricter: one substance and nothing else. By that meaning, hardly anything you have touched is pure. Bottled drinking water has minerals dissolved in it, and the label lists them. The purest gold bars are stamped 999, which means 999 parts gold in 1,000. The silicon used for computer chips is among the purest materials people make. Its makers reach about 99.9999999 parts in every 100. That is one stray atom among a hundred crore, and still not zero. Each cleaner grade costs more work than the last.",
    "examples": [
     "Table salt often has a little iodine added on purpose, to keep people healthy. It is a mixture by design.",
     "Rainwater has dissolved gases from the air and dust that the drops formed around.",
@@ -425,11 +425,11 @@
     },
     {
      "who": "Chemists",
-     "explanation": "They never write 'pure' without a number. They give a grade, such as 99.9 in 100, and say which test measured it. A better instrument can find a smaller trace, so the number depends on how closely anyone has looked."
+     "explanation": "They never write 'pure' without a number. They give a grade, such as 99.9 in every 100, and say which test measured it. A better instrument can find a smaller trace, so the number depends on how closely anyone has looked."
     },
     {
      "who": "Anaxagoras, in Greece, about 450 BCE, in the fragments numbered 6 and 11",
-     "explanation": "He taught that in everything there is a portion of everything. A thing is named after what it has most of. He reasoned this from food: bread and water somehow become hair and bone, so he held that hair and bone must already be in them in small amounts. Chemists today explain that change differently, by materials being rebuilt in the body."
+     "explanation": "He taught that in everything there is a portion of everything. A thing is named after what it has most of. He reasoned this from food. Bread and water become hair and bone, so he held that hair and bone must already be in them in small amounts. Chemists today explain that change differently, by materials being rebuilt in the body."
     }
    ],
    "art": "A gold bar stamped 999, a bottle of drinking water with its mineral label enlarged, and a silicon disc, each with a tiny dot marked 'the rest'.",
@@ -467,7 +467,7 @@
    "definition": "Materials that can mix will spread into each other if left alone. Taking them apart again always needs energy, from the Sun, a fire, a motor or a body.",
    "description": "Let one drop of blue ink fall into a tumbler of still water. Do not stir. In an hour the whole tumbler is pale blue. The ink mixed itself in, because the particles of water and ink never stop moving. Now wait for the ink to gather back into a drop. You can wait for ever. To get it out you must do something, such as evaporating all the water, and that takes energy. Every method in this lesson has such a cost. Your arm shakes the sieve. The Sun dries the salt pan. Getting drinking water from the sea shows the size of the cost. The best plants use about 3 to 4 units of electricity for every 1,000 litres. Physics sets a lowest possible cost of about 1 unit, and no machine can go below it.",
    "examples": [
-    "The Minjur plant near Chennai, opened in 2010, makes about 10 crore litres of drinking water from sea water each day, and uses a great deal of electricity to do it.",
+    "The Minjur plant near Chennai opened in 2010. It makes about 10 crore litres of drinking water from sea water each day, and it uses a great deal of electricity to do so.",
     "The smell of agarbatti spreads through a room without a fan. Nobody has seen the smell gather back into the stick.",
     "Your kidneys use about one tenth of the energy your body spends at rest, mostly to take back salts and water after filtering."
    ],
@@ -500,7 +500,7 @@
     },
     {
      "who": "Josef Loschmidt, in 1876",
-     "explanation": "He objected that if every particle's motion were exactly turned round, the ink would gather again. So the rules alone cannot explain the one-way direction. Something about how things start must be added."
+     "explanation": "He objected that if every particle's motion were exactly turned round, the ink would gather again. So the rules alone cannot explain the one-way direction. How things start must also be part of the answer."
     },
     {
      "who": "The philosopher David Albert and the physicist Roger Penrose",
@@ -542,7 +542,7 @@
    "definition": "In the Vaisheshika school of Indian philosophy, samyoga means the coming together of things and vibhaga means their coming apart. The school taught that all the things we see are made and unmade by these two.",
    "description": "The Vaisheshika thinkers asked what the world is made of. Their answer was tiny particles, called paramanu, that cannot be cut further. On their account, the things we see are made when particles come together, and end when particles come apart. The particles themselves are not made or destroyed. That is close to what this lesson found with rice and dal: the parts stay themselves through mixing and separating. The old thinkers reached their view by reasoning. They did no experiments of the kind chemists do, and their particles are not the atoms of modern science. The old Indian thinkers also disagreed with each other about what a combined thing is. What would you ask them?",
    "examples": [
-    "Tradition says the founder of the school was called Kanada, which can mean 'grain eater', because he lived on grains gathered from the fields after harvest.",
+    "Tradition says the first teacher of the school was called Kanada, which can mean 'grain eater', because he lived on grains gathered from the fields after harvest.",
     "A clay pot, in the Vaisheshika account, is a new whole that exists while its particles stay joined, and ends when they part."
    ],
    "perspectives": [
@@ -560,7 +560,7 @@
     }
    ],
    "art": "A palm-leaf manuscript page beside a drawing of small dots coming together to form a clay pot and drifting apart again.",
-   "context": "This card gives the views of old Indian schools on what joining and parting are, and says honestly how they differ from modern chemistry and from each other."
+   "context": "This card gives what old Indian schools said about joining and parting. It says honestly how their views differ from modern chemistry and from each other."
   }
  ],
  "agreed": [
@@ -573,8 +573,8 @@
    "evidence": "A machine called a centrifuge spins a tube of blood for a few minutes. The red cells, which are denser, collect at the bottom and take up a little under half the tube. A pale yellow liquid called plasma stays on top. Dairies separate cream from milk in the same way. Churning curd with a wooden mathu to gather butter is an older use of spinning."
   },
   {
-   "text": "Plastic that has broken into tiny pieces is now mixed into the sea, the soil, the air and living bodies, and nobody has a practical way to take it out.",
-   "evidence": "In 2004 Richard Thompson and his team reported tiny plastic fibres and fragments in beach sand and in old plankton samples from around Britain, and named them microplastics. Since then they have been found in deep-sea mud, mountain snow, table salt and human blood. Filters can catch them in a factory pipe, but not across an ocean."
+   "text": "Plastic that has broken into tiny pieces is now mixed into the sea, the soil, the air and living bodies. Nobody has a practical way to take it out.",
+   "evidence": "In 2004 Richard Thompson and his team reported tiny plastic fibres and fragments in beach sand and in old plankton samples from around Britain. They named them microplastics. Since then they have been found in deep-sea mud, mountain snow, table salt and human blood. Filters can catch them in a factory pipe, but not across an ocean."
   },
   {
    "text": "Crude oil is separated into petrol, kerosene, diesel and tar by boiling, because each part turns to gas at a different temperature.",
@@ -582,7 +582,7 @@
   },
   {
    "text": "The gases of air can be separated by cooling air until it becomes liquid.",
-   "evidence": "Air cooled to about 200 degrees below zero Celsius becomes a pale blue liquid. As it warms a little, nitrogen boils off first and oxygen later. Carl von Linde built the first plant to do this in 1895. The oxygen cylinders in hospitals are filled from such plants."
+   "evidence": "Air cooled to about 200 degrees below zero Celsius becomes a pale blue liquid. As it warms a little, nitrogen boils off first and oxygen later. Carl von Linde made liquid air in a machine in 1895, and his company later used the method to separate oxygen and nitrogen. The oxygen cylinders in hospitals are filled from such plants."
   }
  ],
  "challenging": [
@@ -606,12 +606,12 @@
    "claim": "Crushed moringa seeds can clean drinking water as well as the chemicals used in a water works.",
    "who": "Samia Al Azharia Jahn recorded the practice of Sudanese village women and tested it from the 1970s. Stephanie Velegol and Darrell Velegol's team, from 2010, studied how the seed protein works.",
    "for": "Tests show the seeds remove most of the mud and a large share of the bacteria. The tree grows across India and Africa and the seeds cost almost nothing.",
-   "against": "The seeds leave plant material in the water, and bacteria can grow again on it within a day. The seeds do not remove dissolved poisons such as arsenic. Most water engineers say the treated water must be used the same day and is still safer after boiling.",
+   "against": "The seeds leave plant material in the water, and bacteria can grow again on the plant material within a day. The seeds do not remove dissolved poisons such as arsenic. Most water engineers say the treated water must be used the same day and is still safer after boiling.",
    "status": "debated",
    "context": "An old way of clearing water, kept alive mostly by women, has been tested in laboratories. It works, with limits that are still being measured."
   },
   {
-   "claim": "Water keeps a memory of a material that was once dissolved in it, even after so much thinning with more water that none of the material is left.",
+   "claim": "Water keeps a memory of a material once dissolved in it. This is said to hold even after so much thinning with more water that none of the material is left.",
    "who": "The French scientist Jacques Benveniste and his team, in Nature in 1988. The claim is used to support homeopathy.",
    "for": "Benveniste's laboratory reported that a solution thinned until no molecule of the active material should remain still acted on blood cells.",
    "against": "A team sent by the journal watched the tests repeated with the tubes secretly relabelled, so that nobody knew which was which. The effect disappeared. Later attempts by other laboratories did not find it. The groups that water molecules form last for less than a billionth of a second.",
@@ -621,7 +621,7 @@
  ],
  "big_questions": [
   {
-   "q": "Sugar stirred into tea has lost its shape, its crunch and its white colour, and kept only its sweetness. How many of its properties can a material lose and still be the same material?",
+   "q": "Sugar in tea looks gone, but the tea is still sweet. A material can seem to lose its shape, its crunch and its white colour. How many of its properties can it lose and still be the same material?",
    "kind": "deep",
    "hint": "List what changed and what came back when the water was evaporated. Then ask which properties you would use to recognise sugar."
   },
@@ -636,7 +636,7 @@
    "hint": "Think of rice-washing water given to plants, husk fed to cattle, and what a flamingo wants from a salt pan."
   },
   {
-   "q": "Ink mixes into water without any help, and it never unmixes without help. The rules for single particles work both ways. So where does the one-way direction come from?",
+   "q": "Ink mixes into water without any help, and it never unmixes without help. Yet a film of two single particles bumping looks right played backwards. So where does the one-way direction come from?",
    "kind": "deep",
    "hint": "Count how many ways the ink could be spread out and how many ways it could be in one drop. Then ask how the ink came to be in a drop to begin with."
   },
@@ -658,7 +658,7 @@
   {
    "q": "A child joins a new class, or a family moves to a new city. Do people keep their own properties in a group, as rice does in dal, or do they change, as milk does with lemon?",
    "kind": "big",
-   "hint": "Think of something about you that stays the same everywhere, and something that is different with different people."
+   "hint": "Think of a habit, a taste or a joke of yours that stays the same everywhere, and one thing that is different with different people."
   },
   {
    "q": "A cell stays alive by keeping the mixture inside different from the mixture outside. Is a living being a thing that separates, or is being alive the separating itself?",
@@ -681,7 +681,7 @@
   },
   {
    "q": "How did the first cells come to keep their inside different from their outside?",
-   "why_open": "A living cell needs a skin that lets some materials in and keeps others out. Fatty molecules can form such bubbles by themselves in water, as laboratory tests show. How a bubble first came to hold the right mixture and to control what crossed its skin is not known, because no trace of those first cells is left."
+   "why_open": "The first cells had to hold a small private mixture apart from the sea around them. Fatty molecules can form such bubbles by themselves in water, as laboratory tests show. How a bubble first came to hold the right mixture is not known. How it came to control what crossed its skin is not known either, because no trace of those first cells is left."
   },
   {
    "q": "Can the behaviour of a whole mixture, such as a living cell, be worked out from its parts alone?",
@@ -689,7 +689,7 @@
   },
   {
    "q": "How can the tiny pieces of plastic now mixed into the sea and the soil be removed, or will they stay?",
-   "why_open": "The pieces are spread thinly through enormous amounts of water and soil, and many are the same size as living plankton, so a filter that catches the plastic also catches living beings. Some bacteria and fungi can break down a few plastics slowly. Whether that can work outside a laboratory is being tested."
+   "why_open": "The pieces are spread thinly through enormous amounts of water and soil. Many are the same size as living plankton, so a filter that catches the plastic also catches living beings. Some bacteria and fungi can break down a few plastics slowly. Whether that can work outside a laboratory is being tested."
   }
  ],
  "story": {
@@ -738,7 +738,7 @@
   ]
  },
  "how_we_found_out": {
-  "story": "For about two thousand years, most thinkers in Greece, India and elsewhere counted air as one single element. It fitted what everyone saw. Air has no colour, no smell and no parts that anyone could pick out. In the 1770s three people broke it open. Carl Scheele in Sweden and Joseph Priestley in England each made a gas in which a candle burned brighter. In Paris, Antoine Lavoisier showed that this gas, oxygen, is about one fifth of air, and that the rest does not keep a flame alive. Marie-Anne Paulze Lavoisier translated the English papers for him, drew the apparatus and kept the records of the tests. So air was a mixture of two gases. For a century that seemed complete. Then in 1892 Lord Rayleigh weighed nitrogen taken from air and nitrogen made from chemicals. The nitrogen from air was heavier by about one part in 200. He and William Ramsay hunted for the reason. In 1894 they found a third gas hiding in air, about 1 part in 100, and named it argon. A tiny difference in weight had shown a part that nobody had looked for.",
+  "story": "For about two thousand years, most thinkers in Greece, India and elsewhere counted air as one single element. It fitted what everyone saw. Air has no colour, no smell and no parts that anyone could pick out. In the 1770s three people broke it open. Carl Scheele in Sweden and Joseph Priestley in England each made a gas in which a candle burned brighter. In Paris, Antoine Lavoisier showed that this gas, oxygen, is about one fifth of air, and that the rest does not keep a flame alive. Marie-Anne Paulze Lavoisier translated the English papers for him, drew the apparatus and kept the records of the tests. So air was a mixture of two gases. For a century that seemed complete. Then in 1892 Lord Rayleigh weighed nitrogen taken from air and nitrogen made from chemicals. The nitrogen from air was heavier by about one part in 200. He and William Ramsay hunted for the reason. In 1894 they found a third gas hiding in air, about 1 part in every 100, and named it argon. A tiny difference in weight had shown a part that nobody had looked for.",
   "who": "Carl Wilhelm Scheele, Joseph Priestley, Antoine Lavoisier, Marie-Anne Paulze Lavoisier, Lord Rayleigh (John William Strutt), William Ramsay",
   "when": "About 1771 to 1894",
   "wrong_idea": "Air is one single pure element, with no parts."
@@ -752,7 +752,7 @@
   },
   "three": {
    "who_am_i": "You are a mixture that keeps changing. The water you drank this morning is part of you now, and some of the air in your lungs was outside the window a minute ago. No test finds a hard line where the world stops and you begin. So asking 'who am I?' means asking what stays when every part is being swapped.",
-   "what_is_life": "A stone lets the world mix with it as it comes. A living cell keeps choosing: this in, that out. A being is alive for as long as they keep the mixture inside different from the mixture outside. So life is a way of separating that never stops, done by every being from a bacterium to a banyan.",
+   "what_is_life": "A stone lets the world mix with it as it comes. A living cell keeps sorting: this in, that out. Science has no agreed definition of life, but here is one clue from this lesson. A being stays alive for as long as they keep the mixture inside different from the mixture outside. So life looks like a way of separating that never stops, done by every being from a bacterium to a banyan.",
    "what_is_this_world": "The sea becomes cloud, the cloud becomes rain, the rain carries salt back to the sea. Nothing separated ever leaves the world. It only moves to another place in it. Every part you can pull out of a mixture was part of one whole before, and is part of one whole after."
   },
   "thread": "Every method in this lesson worked because the parts were different. So separating is how we come to know differences. But each time, the difference was found and not made: the salt was salty before the plate dried. And each cleaner part turned out, on a closer test, to hold other things again. Follow that down and no part is ever found standing completely alone. Consciousness is the ground that all these parts arise from, and the many materials are that one ground showing itself in different ways. Many scientists do not accept this last step, and their view is given below.",
@@ -790,8 +790,8 @@
   "practice": {
    "title": "One breath, sorted",
    "mins": 3,
-   "say": "Sit comfortably and let your hands rest. Breathe in slowly through your nose. That breath is a mixture of gases. Hold it gently and count to three. Right now your lungs are taking some oxygen out of it. Breathe out slowly. What leaves has less oxygen and more carbon dioxide. A plant near you may take that in. Do this for five slow breaths. Each time, notice that you are taking a little from the mixture and giving a little back. After the fifth breath, sit still for a moment. Ask yourself: where did the air stop and where did I begin?",
-   "kid": "Sit still. Breathe in slowly and count to three. Your lungs are taking oxygen out of the air right now. Breathe out slowly and think of a plant taking in what you gave back. Do this five times, then sit quietly and ask where the air stops and you begin."
+   "say": "Sit comfortably and let your hands rest. Breathe in slowly through your nose. That breath is a mixture of gases. Hold it gently and count to three. Right now your lungs are taking some oxygen out of it. Breathe out slowly. What leaves holds less oxygen and carries extra carbon dioxide. A plant near you may take that in. Do this for five slow breaths. Each time, notice that you are taking a little from the mixture and giving a little back. After the fifth breath, sit still for a moment. Ask yourself: where did the air stop and where did I begin?",
+   "kid": "Sit still. Breathe in slowly and count to three. Your lungs are taking oxygen out of the air right now. Breathe out slowly and think of a plant taking in what you gave back. Do this five times. Then sit quietly and ask: where does the air stop and where do I begin?"
   },
   "ask": [
    "The filtered water looked pure and was not. What else around you might look like one thing only because nobody has tested it closely?",
@@ -934,10 +934,22 @@
    "art": "A strainer holding a small heap of wet tea leaves, with an arrow labelled residue."
   },
   {
+   "term": "Plankton",
+   "meaning": "Tiny living beings that drift in sea, river and pond water.",
+   "example": "Some plankton are green specks that make food from sunlight and some are tiny animals. Flamingos in a salt pan strain them out of the water.",
+   "art": "A drop of pond water with a zoom circle showing small green specks and tiny animals drifting."
+  },
+  {
    "term": "Evaporation",
    "meaning": "A liquid changing into a gas and leaving the surface. When salt water evaporates, the water leaves and the salt stays.",
    "example": "Wet clothes dry on a line because their water evaporates into the air.",
    "art": "A shallow plate of salt water in sunlight with wavy arrows rising from the water."
+  },
+  {
+   "term": "Distillation",
+   "meaning": "Evaporating a liquid and then cooling the vapour back into a liquid, so that you keep the liquid as well as leaving the solid behind.",
+   "example": "Steam from boiling salt water that touches a cold lid turns back into drops of fresh water, and the salt stays in the pot.",
+   "art": "A pot of salty water with steam rising to a cold lid, and fresh drops falling into a small cup, with salt left in the pot."
   },
   {
    "term": "Energy",
@@ -1229,11 +1241,11 @@
    "art": "A steel filter coffee set with dark decoction dripping into the lower cup and wet powder in the upper one."
   },
   {
-   "text": "Look at how a cook uses a flat winnowing tray, called a soop in Hindi or a muram in Tamil. She tosses dal gently and the light husk flies off while the dal falls back. Notice that she does not touch each grain.",
-   "art": "A woman tossing dal in a flat bamboo tray, light husk drifting off the edge."
+   "text": "Look at how a cook uses a flat winnowing tray, called a soop in Hindi or a muram in Tamil. The cook tosses dal gently, and the light husk flies off while the dal falls back. Notice that the cook does not touch each grain.",
+   "art": "A cook tossing dal in a flat bamboo tray, light husk drifting off the edge."
   },
   {
-   "text": "When paneer is made, milk is curdled with lemon or vinegar and then poured through a muslin cloth. Notice that the lumps stay in the cloth and the thin liquid runs through. Two different changes happen in one kitchen.",
+   "text": "When paneer is made, milk is curdled with lemon or vinegar and then poured through a muslin cloth. Notice that the lumps stay in the cloth and the thin liquid runs through. The lemon changed the milk into something new, and the cloth only separates what the lemon made.",
    "art": "A muslin cloth held over a bowl with white paneer lumps inside and thin liquid dripping below."
   },
   {
@@ -1249,7 +1261,7 @@
    "art": "A clear plastic tumbler of muddy water on a windowsill, with the top half paler than the bottom."
   },
   {
-   "text": "Next time someone chops onion or pours out a bowl of tea, look at the tea strainer. Notice which part stays and which part goes through, and think about which difference between them the strainer uses.",
+   "text": "Next time someone pours a cup of tea, look at the strainer. Notice which part stays and which part goes through, and think about which difference between them the strainer uses.",
    "art": "A steel tea strainer above a cup, leaves in the strainer and tea in the cup."
   }
  ],
@@ -1260,11 +1272,11 @@
   "Water works in cities clear river water in steps. First the water stands in large tanks so that mud settles. Then it passes through beds of sand, which are filters. Last, it is treated to kill germs, because settling and filtering do not stop the smallest germs.",
   "A sari folded several times was used as a filter for drinking water in villages in Bangladesh. The microbiologist Rita Colwell and her team tested it, and cholera fell by about half. Cloth did not make the water pure. It held back the larger bits that carry the germs.",
   "Rice mills use sieves to sort whole grains from broken ones. Some use machines that look at the colour of each grain and blow out the discoloured ones with a jet of air. This is picking, done by a camera and fast air instead of fingers.",
-  "In your kidneys, the filters pass about 180 litres of liquid a day from your blood, and nearly all of it goes back to the blood. About 1.5 litres leave your body as urine, carrying waste. Your body separates mixtures all day without you noticing.",
+  "In your kidneys, the filters pass roughly 180 litres of liquid a day from your blood, and nearly all of it goes back to the blood. About 1.5 litres leave your body as urine, carrying waste. Your body separates mixtures all day without you noticing.",
   "Home water purifiers use cloth, ceramic or carbon filters and sometimes a thin sheet that passes water but not salt, in a process called reverse osmosis. The same ideas apply on a bigger scale at sea-water plants such as the one at Minjur near Chennai."
  ],
  "ask_kids": [
-  "You walked to the shop today. If you took a bag of rice, which parts of the day's journey were mixtures, and could you have separated them?",
+  "Think of your walk to school or the shop today. Name one mixture you breathed, touched or walked through, and say how you could separate its parts.",
   "Think of something you use every day that is a mixture and looks like one thing. What would you test to show it has more than one part?",
   "If you had to get salt back from a bucket of muddy sea water, what would you do first, and why not last?",
   "Which is easier at home, mixing two things or separating them again? What makes the difference?",
@@ -1299,8 +1311,8 @@
    "a": "'I'm sorry, I'm not clear about us.'"
   },
   {
-   "j": "Why would a sieve make a terrible goalkeeper?",
-   "a": "Everything gets through."
+   "j": "What do you call a sieve with no holes?",
+   "a": "A bowl."
   },
   {
    "j": "Why did the stone refuse to be friends with the rice?",
@@ -1594,7 +1606,7 @@
      "qty": 1
     }
    ],
-   "safety": "Do not taste the muddy water, the filtered water or the crust. Soil carries germs, and filtering does not remove all of them. Wash your hands afterwards and pour the leftover mud on a plant pot or a drain, not in the kitchen sink.",
+   "safety": "Do not taste the muddy water, the filtered water or the crust. Soil carries germs, and filtering does not remove all of them. Wash your hands afterwards and put the leftover mud in the dustbin or on bare ground outside. It is salty, so keep it away from plants, and keep it out of the kitchen sink where it blocks the pipe.",
    "schedule": [
     {
      "day": 1,
@@ -1649,7 +1661,7 @@
     {
      "id": "s3",
      "mins": 4,
-     "do": "Leave tumbler A still for 5 minutes. Look at the layers. Then pour the top liquid slowly into the steel bowl, stopping before the mud at the bottom moves. Pour the thick mud at the bottom into a pot of soil and rinse the tumbler.",
+     "do": "Leave tumbler A still for 5 minutes. Look at the layers. Then pour the top liquid slowly into the steel bowl, stopping before the mud at the bottom moves. Scrape the thick mud at the bottom into the dustbin, or onto bare ground outside, and rinse the tumbler. The mud is salty, so do not put it on a plant.",
      "say": "What has sunk? Is the water on top clear now? You have just done settling and pouring off.",
      "kid": "Wait 5 minutes. Then pour the top liquid into a bowl and keep the mud behind.",
      "adult": false,
@@ -2165,7 +2177,7 @@
      "say": "Here are ten steel pins hidden in the rice. How could we get them out without touching them?",
      "kid": "Hide the pins in the rice. Put the magnet in the bag.",
      "adult": false,
-     "parent": "A magnet from a fridge is enough for pins and clips if the bag is thin. If nothing clings, try a stronger magnet, such as one from an old toy. The bag stops the pins from sticking to the magnet so you can drop them."
+     "parent": "Safety: pins and small magnets are not for mouths, so count the pins in and count them out, and pick out every one before the rice is ever cooked. Paper clips are safer than pins for a child under 8. A magnet from a fridge is enough for pins and clips if the bag is thin. If nothing clings, try a stronger magnet, such as one from an old toy. The bag stops the pins from sticking to the magnet so you can drop them."
     },
     {
      "id": "a2s2",
@@ -2267,7 +2279,7 @@
      "say": "The paper bits are like husk in paddy. They are lighter than rice. What do you think the moving air will do to each one?",
      "kid": "Mix rice and paper bits on a plate. Set up the fan beside the tray.",
      "adult": false,
-     "parent": "If rice blows out of the plate, turn the fan lower or stand farther away. If the paper hardly moves, stand closer. A gentle steady breeze is all you need."
+     "parent": "Keep fingers and hair away from the fan blades, and use a fan with a guard. If rice blows out of the plate, turn the fan lower or stand farther away. If the paper hardly moves, stand closer. A gentle steady breeze is all you need."
     },
     {
      "id": "a3s2",
@@ -2635,7 +2647,7 @@
     {
      "id": "p1s6",
      "mins": 15,
-     "do": "Measure both plates for the last time. Look at the crust on each plate with the magnifying glass. Draw the graph in full. Write three sentences: what I think, what I saw and why. If you want, taste one crystal from the sun plate, only if the plate was clean.",
+     "do": "Measure both plates for the last time. Look at the crust on each plate with the magnifying glass. Draw the graph in full. Write three sentences: what I think, what I saw and why. Do not taste the crystals.",
      "say": "How much longer did the shady plate take? What shape are the crystals? Where did the water go?",
      "kid": "Look at the crystals through the lens. Finish the graph. Write what you thought, saw and why.",
      "adult": false,
@@ -2780,7 +2792,7 @@
      "kid": "Count the tallies. Draw a bar chart. Write one sentence on the hardest item.",
      "adult": false,
      "parent": "This project cannot show us what happens to the waste after it leaves your home. In most cities that depends on the system. Waste pickers are usually the ones who do the final separating. Some groups, such as SWaCH in Pune and Hasiru Dala in Bengaluru, are organised so that waste pickers are paid and respected.",
-     "think": "Is it fairer to mix waste and pay someone to sort it later, or to keep it apart from the start? Who does the work, and who gets the benefit, in each case?"
+     "think": "If your family's waste went out mixed, who would have to sort it, and what would that job be like for them? What would make it fairer?"
     }
    ]
   }
@@ -2847,7 +2859,7 @@
     {
      "id": "ch1s3",
      "mins": 15,
-     "do": "Follow your plan. Put each part on its own plate as soon as it is separated. If you need to dissolve the salt, use a little water and stir. Then filter the sand from the salt water. Dry the filtrate on the steel plate in the sun.",
+     "do": "Follow your plan. Put each part on its own plate as soon as it is separated. If you need to dissolve the salt, use a little water and stir. Then filter the sand from the salt water. Dry the filtrate on the steel plate in the sun, and look at it the next day.",
      "say": "Is each plate clean? Did any part end up in the wrong place? What would you change?",
      "kid": "Follow your plan. Put each part on its own plate.",
      "adult": false,
@@ -2860,7 +2872,7 @@
      "say": "Which plate is the cleanest? Where was the plan not quite perfect?",
      "kid": "Check each plate for anything out of place. Write what you find.",
      "adult": false,
-     "parent": "Sand that was not rinsed leaves a white film of salt when it dries. This is a good test of the plan, and not a mistake in the child."
+     "parent": "Sand that was not rinsed leaves a white film of salt when it dries. This is a good test of the plan, and not a mistake in the child. Count the pins out as well as in, so none is left in the chana or the sand."
     },
     {
      "id": "ch1s5",
@@ -3351,7 +3363,7 @@
       "Heat all of it on a stove"
      ],
      "a": 1,
-     "why": "A magnet works only on dry pieces, and takes out the pins cleanly. Adding water first would make the pins wet and the sand and salt harder to handle. Heating would not separate anything.",
+     "why": "A magnet works best on dry pieces. It takes out the pins cleanly while the sand and salt are loose. Adding water first would dissolve the salt and make wet sand cling to the pins. Heating would not separate anything.",
      "outcome": 3
     },
     {
@@ -3767,7 +3779,7 @@
     },
     {
      "t": "mcq",
-     "p": "A kidney filters about 180 litres a day but passes about 1.5 litres. Where does the rest go?",
+     "p": "A kidney filters roughly 180 litres a day but passes about 1.5 litres. Where does the rest go?",
      "opts": [
       "Back into the blood",
       "Out as sweat",

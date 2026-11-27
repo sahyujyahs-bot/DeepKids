@@ -3,12 +3,12 @@
  "title": "Using the Sun's heat and light: the solar cooker, the solar water heater and the solar cell",
  "level": 3,
  "summary": {
-  "text": "A steel tumbler of water left in the noon sun gets warm, but it never boils. Put the same tumbler in a black box under a clear lid, and the water can get hot enough to cook rice. The box has no flame and no wire, so where does the extra heat come from? In this lesson you build a simple solar cooker and find out how a solar cooker, a solar water heater and a solar cell each use sunlight. Then you follow the same sunlight into a basking lizard, a leaf, the whole Earth and your own body.",
+  "text": "A steel tumbler of water left in the noon sun gets warm, but it never boils. Put the same tumbler in a black box under a clear lid, and the water gets far hotter. A full-size box like this can cook rice. The box has no flame and no wire, so where does the extra heat come from? In this lesson you build a simple solar cooker. Then you find out how a solar water heater and a solar cell use sunlight in their own ways. After that you follow the same sunlight into a basking lizard, a leaf, the whole Earth and your own body.",
   "art": "Two steel tumblers of water on a sunny terrace, one standing in the open and one inside a black cardboard box with a clear lid and a foil flap tilted towards the Sun."
  },
  "intro": {
   "hook": "Hold the back of your hand in a patch of sunlight for ten slow breaths. Then move your hand into the shade. Nothing touched your hand. So what warmed it, and where did the warmth go?",
-  "text": "Sunlight crossed 15 crore kilometres of empty space and ended its journey on your skin. There it turned into heat. In the shade the heat left your hand again, into the air. People, lizards, butterflies and plants all use this arriving energy. Today you will build a box that lets sunlight in easily and lets heat out slowly. Then you will ask an odd question about every hot thing you know: is it hot because heat is coming in fast, or because heat is leaving slowly?",
+  "text": "Sunlight crossed 15 crore kilometres of empty space and ended its journey on your skin. There it turned into heat. In the shade the heat left your hand again, into the air. People, lizards, butterflies and plants all use this arriving energy. Today you will build a box that lets sunlight in easily and lets heat out slowly. Then you will ask an odd question about every hot thing you know. Is it hot because heat comes in fast, or because heat leaves slowly?",
   "art": "A child's hand held in a bright patch of sunlight on a floor, with the other hand resting in the shade beside it."
  },
  "outcomes": [
@@ -24,13 +24,13 @@
    "concept": "Sunlight carries energy from the Sun to the Earth",
    "status": "defined",
    "definition": "Sunlight is energy that travels from the Sun to the Earth as light. Some of it we can see, and some we cannot see.",
-   "description": "The Sun is about 15 crore kilometres away, and the space in between is almost empty. Sunlight crosses that space in about 8 minutes. When it lands on your skin, your skin gets warm. That warming shows that sunlight carries energy. Part of sunlight is the light our eyes see. Part is infrared, a kind of light our eyes cannot see. Infrared carries about half of the Sun's energy that reaches the ground. Our skin feels sunlight only as warmth, after the light has been taken in. So what do people do with all this arriving energy?",
+   "description": "The Sun is about 15 crore kilometres away, and the space in between is almost empty. Sunlight crosses that space in about 8 minutes. When it lands on your skin, your skin gets warm. That warming shows that sunlight carries energy. Part of sunlight is the light our eyes see. Part is infrared, a kind of light our eyes cannot see. Infrared carries about half of the Sun's energy that reaches the ground. Our skin cannot feel light itself. It feels only the warmth that appears when the light is taken in. So what do people do with all this arriving energy?",
    "examples": [
     "A black scooter seat parked in the sun at noon is too hot to sit on. No flame and no wire ever touched it.",
     "On a clear winter morning in Delhi or Shillong the air is cold, yet your face feels warm the moment the Sun's light falls on it."
    ],
    "perspectives": [],
-   "one_view": "That sunlight carries energy across empty space is measured every day by satellites and by instruments on the ground. What energy itself is has no final answer, and a later card says so.",
+   "one_view": "Satellites and ground instruments measure every day how much energy sunlight carries across empty space. What energy itself is has no final answer, and a later card says so.",
    "art": "The Sun on the left, the Earth on the right, and a band of light crossing the dark space between them, labelled '15 crore kilometres, about 8 minutes'.",
    "context": "This card says what sunlight brings to the Earth, before we look at how people and other beings use it."
   },
@@ -41,12 +41,12 @@
    "description": "A watt tells you how quickly energy is arriving or being used. A small LED bulb uses about 10 watts. Now mark a square on a sunny terrace, 1 metre long and 1 metre wide. At noon on a clear day, sunlight brings about 1,000 watts to that square. That is as much as 100 of those bulbs use. In the early morning, or under cloud, far less arrives, because the light passes through more air or is scattered by the cloud. Every way of using the Sun starts from this number. A bigger catching area catches more watts. What happens to those watts when they land?",
    "examples": [
     "A rooftop solar panel is about 2 square metres. At noon about 2,000 watts of sunlight fall on it.",
-    "A newspaper spread open in the sun covers about half a square metre, so about 500 watts fall on it at noon."
+    "A newspaper spread open in the sun covers about half a square metre, so roughly 500 watts fall on it at noon."
    ],
    "perspectives": [],
    "one_view": "This is a measured value. It changes with the hour, the season, the place and the cloud, and scientists agree on how to measure it.",
    "art": "A chalk square one metre wide on a sunny terrace with 100 small bulbs drawn inside it and the label '1,000 watts at noon'.",
-   "context": "This card gives the number that every solar cooker, heater and cell starts from: how much sunlight lands on a square metre."
+   "context": "This card gives the starting amount for every solar cooker, heater and cell: about 1,000 watts of sunlight on each square metre at noon."
   },
   {
    "concept": "People have used the Sun's heat and light directly for thousands of years",
@@ -74,14 +74,14 @@
    "concept": "Sunlight turns into heat only where it is absorbed",
    "status": "defined",
    "definition": "To absorb light is to take it in. To reflect light is to send it away again. Light that a surface absorbs turns into heat in that surface.",
-   "description": "Light that lands on a surface can do two things. The surface can absorb it, which means take it in. Or the surface can reflect it, which means send it away again. Absorbed light turns into heat. Reflected light keeps travelling as light and heats nothing here. A dull black surface absorbs nearly all the light that falls on it. A shiny surface, such as kitchen foil, reflects most of it. So a person building a solar cooker uses both. Black goes where the heat is wanted. Shiny goes where light must be sent somewhere else. But a black pot in the open sun still does not boil. Why not?",
+   "description": "Light that lands on a surface can do two things. The surface can absorb it, which means take it in. Or the surface can reflect it, which means send it away again. Absorbed light turns into heat. (In a solar cell or a leaf, part of it does other work, as later cards show.) Reflected light keeps travelling as light and heats nothing here. A dull black surface absorbs nearly all the light that falls on it. A shiny surface, such as kitchen foil, reflects most of it. So a person building a solar cooker uses both. Black goes where the heat is wanted. Shiny goes where light must be sent somewhere else. But a black pot in the open sun still does not boil. Why not?",
    "examples": [
     "Walk barefoot from a white painted line on a road to the black tar beside it at noon. The tar is far hotter under the same sunlight.",
     "Many terraces in Chennai and Ahmedabad are painted white so that the rooms below stay cooler."
    ],
    "perspectives": [
     {
-     "who": "A bee or a butterfly",
+     "who": "Scientists who study how bees and butterflies see",
      "explanation": "Many insects see ultraviolet light, which we cannot see. A flower that looks plain white to us may absorb ultraviolet in patches and look patterned to a bee. So 'black' and 'white' describe what our eyes receive, and other eyes sort surfaces differently."
     },
     {
@@ -99,7 +99,7 @@
    "description": "A black tumbler of water in the open sun warms up, and then it stops at about the warmth of bath water. The Sun is still shining on it. So why does it stop? As the water warms, it loses heat faster. Moving air carries heat away. The warm tumbler also sends out its own infrared. Soon heat is leaving as fast as sunlight brings it in, and the temperature stays where it is. This gives two ways to make the water hotter. You can bring more sunlight in. Or you can make the heat leave more slowly. A solar cooker does both.",
    "examples": [
     "Fill a bucket from a tap while its drain hole is open. The water level rises only until water leaves as fast as it enters.",
-    "A parked car with its windows shut gets much hotter inside than the air outside, because sunlight comes in through the glass and the warm air cannot get out."
+    "A parked car with its windows shut gets much hotter inside than the air outside. Sunlight comes in through the glass, and the warm air cannot get out."
    ],
    "perspectives": [],
    "one_view": "This is the measured behaviour of every warm thing, from a tumbler to a planet, and scientists agree on it. It follows from energy never being lost, only moved.",
@@ -109,8 +109,8 @@
   {
    "concept": "A solar box cooker does three jobs: it gathers sunlight, absorbs it and keeps the heat in",
    "status": "defined",
-   "definition": "A solar box cooker is a box that cooks food with sunlight. It has a shiny flap to send in extra light, a black inside to turn light into heat, and a clear lid and thick walls to slow the heat's escape.",
-   "description": "A solar box cooker can be made from a wooden or cardboard box. Each part has one job. The inside and the pot are black, so they absorb sunlight and turn it into heat. A clear cover of glass or plastic lets sunlight in and stops the warm air from blowing away. A mirror or a flap covered in aluminium foil reflects extra sunlight down into the box. Thick walls, or crumpled newspaper packed around the box, slow the heat passing out through the sides. With all three jobs done, a good box cooker reaches about 100 to 150 degrees Celsius. It cooks rice and dal in about two to three hours.",
+   "definition": "A solar box cooker is a box that cooks food with sunlight. It has a shiny flap to send in extra light and a black inside to turn light into heat. A clear lid and thick walls slow the heat's escape.",
+   "description": "A solar box cooker can be made from a wooden or cardboard box. Each part has one job. The inside and the pot are black, so they absorb sunlight and turn it into heat. A clear cover of glass or plastic lets sunlight in and stops the warm air from blowing away. A mirror or a flap covered in aluminium foil reflects extra sunlight down into the box. Thick walls, or crumpled newspaper packed around the box, slow the heat passing out through the sides. With all three jobs done, a good box cooker reaches roughly 100 to 150 degrees Celsius. It cooks rice and dal in about two to three hours.",
    "examples": [
     "Take away the lid, and wind carries the warm air off. Take away the black, and the light bounces out again. Take away the foil flap, and less light comes in. Each missing part makes the box cooler.",
     "A box cooker is aimed so that its own shadow falls straight behind it. Then the Sun is shining straight in."
@@ -187,8 +187,8 @@
      "explanation": "They point to the lakhs of box cookers sold with government help, the fuel saved and the smoke avoided. They hold that better designs and stored heat will widen their use."
     },
     {
-     "who": "Theresa Beltramo and David Levine, who ran a careful trial of solar ovens with about 1,000 households in Senegal, published in 2013",
-     "explanation": "Families who were given solar ovens did not burn less wood or breathe less smoke over the following months. The oven was too small for their large shared meals, so the fire stayed lit beside it."
+     "who": "Theresa Beltramo and David Levine, who ran a careful trial of solar ovens with families in Senegal, published in 2013",
+     "explanation": "Families who were given solar ovens did not burn less wood over the following months, so the smoke did not fall either. The oven was too small for their large shared meals, so the fire stayed lit beside it."
     },
     {
      "who": "Cooks who use them every sunny day",
@@ -201,7 +201,7 @@
   {
    "concept": "A solar water heater: black tubes under glass, with a wrapped tank above",
    "status": "defined",
-   "definition": "A solar water heater is a rooftop device that heats water with sunlight in black tubes or a black plate, and stores the hot water in a tank that is wrapped to keep heat in.",
+   "definition": "A solar water heater is a rooftop device that heats water with sunlight, in black tubes or behind a black plate. A wrapped tank keeps the hot water hot.",
    "description": "A solar water heater is a solar hot box with water running through it. On the roof sits a slanted panel that faces the Sun. Inside it, water flows through black tubes, or behind a black metal plate, under a glass cover. The black absorbs sunlight and turns it into heat, and the heat passes into the water. Many heaters use glass tubes with two walls and no air between the walls, like a thermos flask. With no air there, very little heat can leak out. The hot water collects in a tank wrapped in a thick insulator, which is a material that heat passes through only slowly. The water reaches about 60 to 80 degrees Celsius and stays hot until the next morning.",
    "examples": [
     "A garden hose left full of water in the sun gives hot water for the first few seconds. A solar water heater is that hose, made black, covered and connected to a tank.",
@@ -244,10 +244,10 @@
    "concept": "Inside a solar cell: each packet of light knocks one electron loose",
    "status": "defined",
    "definition": "Light arrives in tiny packets of energy called photons. In a solar cell, a photon that is absorbed frees one electron, and the two layers of the cell push the freed electrons in one direction.",
-   "description": "Light arrives as a stream of tiny packets of energy called photons. In silicon, most electrons are held in place between the atoms. When a photon is absorbed, its energy knocks one electron loose. A solar cell is made of two thin layers of silicon. Each layer has a tiny amount of a different element mixed in. Where the two layers meet, loose electrons are pushed one way and cannot go back. So they travel out through a wire, through a bulb or a fan, and round to the other side of the cell. More light means more photons, more loose electrons and a larger current. In the dark no electrons are freed, and the current stops.",
+   "description": "In silicon, most electrons are held in place between the atoms. When a photon is absorbed, its energy knocks one electron loose. A solar cell is made of two thin layers of silicon. Each layer has a tiny amount of a different element mixed in. Where the two layers meet, loose electrons are pushed one way and cannot go back. So they travel out through a wire, through a bulb or a fan, and round to the other side of the cell. More light means more photons, more loose electrons and a larger current. In the dark no electrons are freed, and the current stops.",
    "examples": [
     "Shade half of a small solar cell with a card. About half as many photons land, and the current drops to about half.",
-    "At noon, many thousand crore crore photons land on a fingernail-sized piece of a cell every second, which is why the push of single photons adds up to a steady current."
+    "At noon, about 3 followed by 17 zeros of photons land on a fingernail-sized piece of a cell every second. Each photon pushes only one electron, but there are so many that together they make a steady current."
    ],
    "perspectives": [
     {
@@ -270,10 +270,10 @@
    "concept": "A solar cell uses the light and not the heat, and it turns about one fifth of the light into electricity",
    "status": "defined",
    "definition": "A good rooftop solar panel turns about 20 parts in every 100 of the sunlight energy that lands on it into electricity. A hot panel gives less electricity than a cool one in the same light.",
-   "description": "Here is a surprise. A solar cooker wants to be hot. A solar panel works better cool. Of every 100 parts of sunlight energy that land on a good rooftop panel, about 20 come out as electricity. A few are reflected. The rest turn into heat in the panel and do no useful work. The heat even harms the output, because warm silicon pushes its electrons less strongly. A panel at 65 degrees Celsius on a May afternoon gives roughly 15 parts in 100 less than the same panel at 25 degrees. So panels are mounted with a gap underneath for air to pass. A cold, clear, bright day is a solar panel's best day.",
+   "description": "Here is a surprise. A solar cooker wants to be hot. A solar panel works better cool. Of every 100 parts of sunlight energy that land on a good rooftop panel, about 20 come out as electricity. A few are reflected. The rest turn into heat in the panel and do no useful work. The heat even harms the output, because warm silicon pushes its electrons less strongly. A panel at 65 degrees Celsius on a May afternoon gives roughly 15 parts in every 100 less than the same panel at 25 degrees. So panels are mounted with a gap underneath for air to pass. A cold, clear, bright day is a solar panel's best day.",
    "examples": [
     "Solar panels in the cold, high desert of Ladakh give more electricity for the same sunlight than panels on the hot plains.",
-    "The first working silicon solar cell, made in 1954, turned about 6 parts in 100 of the light into electricity."
+    "The first working silicon solar cell, made in 1954, turned about 6 parts in every 100 of the light into electricity."
    ],
    "perspectives": [],
    "one_view": "These are measured values that panel makers and laboratories agree on. How far the share can rise is an open research question, listed with the open questions.",
@@ -283,8 +283,8 @@
   {
    "concept": "Solar electricity in India, and the problem of the night",
    "status": "defined",
-   "definition": "A solar park is a large area of solar panels that sends electricity into the wires of a region. Solar panels give electricity only in daylight, so power for the night must be stored or made another way.",
-   "description": "India gets strong sunlight on most days of the year, and now makes a growing share of its electricity with solar panels. The Bhadla Solar Park in the Thar desert of Rajasthan covers about 56 square kilometres. The airport at Kochi in Kerala has run on its own solar panels since 2015. Modhera in Gujarat, a village with a Sun temple built in about 1026 CE, was declared India's first village to run on solar power day and night, in 2022. The night is the hard part. Panels give nothing after sunset, when homes switch their lights on. So the day's electricity must be kept in large batteries, or another power station must take over.",
+   "definition": "A solar park is a big field of solar panels. It sends electricity into the wires that serve a whole region. Panels work only in daylight, so power for the night must be stored or made another way.",
+   "description": "India gets strong sunlight on most days of the year, and now makes a growing share of its electricity with solar panels. The Bhadla Solar Park in the Thar desert of Rajasthan covers about 56 square kilometres. The airport at Kochi in Kerala has run on its own solar panels since 2015. Modhera in Gujarat has a Sun temple built in about 1026 CE. In 2022 the village was declared India's first to run on solar power day and night. The night is the hard part. Panels give nothing after sunset, when homes switch their lights on. So the day's electricity must be kept in large batteries, or another power station must take over.",
    "examples": [
     "A solar lantern charges for a whole day and then gives light for a few hours. Its battery sets how long the evening lasts.",
     "In the monsoon a panel under thick cloud may give only a tenth to a quarter of what it gives on a clear day."
@@ -297,8 +297,8 @@
   {
    "concept": "Living beings used sunlight first: basking bodies, bowl-shaped flowers and leaves",
    "status": "defined",
-   "definition": "Many living beings take in sunlight on purpose. Some use its heat to warm their bodies, and plants, algae and some bacteria use its light to make food.",
-   "description": "A garden lizard climbs a wall in the early morning and turns their side to the Sun. They are warming up, and they move to the shade when warm enough. A butterfly opens their dark wings to the Sun before flying, because flight muscles work only when warm. In the Arctic, some flowers are shaped like small bowls and turn to face the Sun all day. The middle of the flower is a few degrees warmer than the air, and insects come to sit in the warmth. Plants do something no cooker does. Their leaves catch light and use it to build sugar from air and water. A field of crops stores about 1 part in 100 of the sunlight that falls on it.",
+   "definition": "Many living beings take in sunlight on purpose. Some use the Sun's heat to warm their bodies. Plants, algae and some bacteria use the Sun's light to make food.",
+   "description": "A garden lizard climbs a wall in the early morning and turns their side to the Sun. They are warming up, and they move to the shade when warm enough. A butterfly opens their dark wings to the Sun before flying, because flight muscles work only when warm. In the Arctic, some flowers are shaped like small bowls and turn to face the Sun all day. The middle of the flower is a few degrees warmer than the air, and insects come to sit in the warmth. Plants do something no cooker does. Their leaves catch light and use it to build sugar from air and water. A field of crops stores about 1 part in every 100 of the sunlight that falls on it.",
    "examples": [
     "Crows, mynas and sparrows sometimes spread their wings flat on a sunny roof and stay still for a minute. Scientists think the heat helps them deal with tiny animals living in their feathers.",
     "A cat or a street dog moves through the day from one sunny patch to the next in winter and from shade to shade in summer."
@@ -306,7 +306,7 @@
    "perspectives": [
     {
      "who": "Solar engineers",
-     "explanation": "A panel turns about 20 parts in 100 of sunlight into electricity and a crop stores about 1 part in 100. By this count the panel uses sunlight far better."
+     "explanation": "A panel turns about 20 parts in every 100 of sunlight into electricity and a crop stores about 1 part in every 100. By this count the panel uses sunlight far better."
     },
     {
      "who": "Robert Blankenship and a group of plant and solar scientists, in the journal Science, 2011",
@@ -324,15 +324,15 @@
    "concept": "Is solar energy clean and free? It has costs, and people disagree about who should bear them",
    "status": "debated",
    "definition": "Sunlight costs nothing and using it makes no smoke. Making the machines and finding the land for them has costs to people, other living beings and places.",
-   "description": "Sunlight arrives free, and a working solar panel gives off no smoke. Many people call solar energy clean for that reason. The whole story is longer. Silicon for panels is purified in very hot furnaces, and most of those run on electricity from coal. A panel repays that energy in about one to three years, and then works for about 25 years. After that, the old panel must be taken apart or it becomes waste. Large solar parks need land. In western Rajasthan that land was grazing ground for herders' animals, and it is the home of the great Indian bustard, a large bird with fewer than 200 left. Bustards die when they fly into power lines.",
+   "description": "Sunlight arrives free, and a working solar panel gives off no smoke. Many people call solar energy clean for that reason. The whole story is longer. Silicon for panels is purified in very hot furnaces, and most of those run on electricity from coal. A panel repays that energy in about one to three years, and then works for about 25 years. After that, the old panel must be taken apart or it becomes waste. Large solar parks need land. In western Rajasthan that land was grazing ground for herders' animals. It is also the home of the great Indian bustard, a large bird with fewer than 200 left. Bustards die when they fly into power lines.",
    "examples": [
     "A panel on the roof of a house, a school or a railway station uses no extra land at all.",
-    "In 2021 the Supreme Court of India ordered that power lines in the main bustard areas be laid underground where possible. The order was later changed after power companies said this could not be done everywhere."
+    "In 2021 the Supreme Court of India ordered that power lines in the main bustard areas go underground where possible. Power companies said this could not be done everywhere, and the order was later changed."
    ],
    "perspectives": [
     {
      "who": "Climate scientists and India's energy planners",
-     "explanation": "Burning coal for electricity heats the whole Earth and dirties the air people breathe. Solar parks replace coal faster and more cheaply than any other choice, and deserts have the most sun."
+     "explanation": "Burning coal for electricity heats the whole Earth and dirties the air people breathe. Solar parks replace coal faster and at lower cost than any other choice, and deserts have the most sun."
     },
     {
      "who": "Herding communities of Jaisalmer and wildlife scientists of the Wildlife Institute of India",
@@ -340,7 +340,7 @@
     },
     {
      "who": "Engineers who study the whole life of a panel",
-     "explanation": "Counting mining, making, transport and waste, solar electricity still causes many times less harm to the air than coal electricity. They add that panel waste will become a large problem unless recycling is planned now."
+     "explanation": "They count the mining, making, transport and waste. Even so, solar electricity harms the air many times less than coal electricity. But they warn that old panels will pile up as waste unless recycling is planned now."
     }
    ],
    "art": "A wide solar park in a desert with a great Indian bustard flying near power lines on one side and a herder with goats on the other, and in a corner a house with panels on its roof.",
@@ -350,9 +350,9 @@
    "concept": "Where the Sun's energy comes from: hydrogen joining into helium",
    "status": "defined",
    "definition": "In the centre of the Sun, the centres of hydrogen atoms are pressed together so hard that they join to make helium. Each joining gives out energy, which leaves the Sun as light.",
-   "description": "Every solar cooker is fed from one place, the centre of the Sun. The Sun is mostly hydrogen, the lightest kind of atom. The astronomer Cecilia Payne showed this in 1925, when most astronomers thought the Sun was made much like the Earth. At the Sun's centre the temperature is about 1.5 crore degrees Celsius. There the centres of hydrogen atoms are pressed together and join to make helium. The helium weighs a tiny bit less than the hydrogen that made it. The missing matter has become energy. The Sun turns about 40 lakh tonnes of matter into energy every second. It has enough hydrogen to keep shining for about 500 crore years more.",
+   "description": "Every solar cooker is fed from one place, the centre of the Sun. The Sun is mostly hydrogen, the lightest kind of atom. The astronomer Cecilia Payne showed this in 1925, when most astronomers thought the Sun was made much like the Earth. At the Sun's centre the temperature is about 1.5 crore degrees Celsius. There the centres of hydrogen atoms are pressed together and join to make helium. The helium weighs a tiny bit less than the hydrogen that made it. The missing matter has become energy. The Sun turns about 40 lakh tonnes of matter into energy every second. It has enough hydrogen to keep shining for roughly 500 crore years more.",
    "examples": [
-    "The Earth catches less than one part in 200 crore of the light the Sun sends out. The rest goes past, out into space.",
+    "Picture the Sun's light as 200 crore buckets of water thrown out in every direction. The Earth catches less than one bucket, and the rest goes past into space.",
     "The sunlight that reaches the Earth in under two hours carries more energy than all the people of the world use in a year."
    ],
    "perspectives": [
@@ -417,8 +417,8 @@
      "explanation": "The Sun is the honey of the gods. The sky is the crossbeam the comb hangs from, the air between is the comb, and the rays are the young bees."
     },
     {
-     "who": "The Great Hymn to the Aten, in the tomb of Ay at Amarna, Egypt, about 1340 BCE",
-     "explanation": "The hymn says the Sun is far away, yet its rays are on the Earth, and that all beings live when it rises and rest when it sets."
+     "who": "Egyptian writers at Amarna, about 1340 BCE",
+     "explanation": "They carved a hymn in a tomb that thanks the Sun for the life of every being. Its words are given in the Roots part at the end of this lesson."
     },
     {
      "who": "Biologists who study deep-sea vents, first seen in 1977",
@@ -440,22 +440,22 @@
   },
   {
    "text": "Strong sunlight can make clear water safer to drink.",
-   "evidence": "In the 1980s Aftim Acra and his team in Beirut showed that sunlight kills many disease-causing germs in water. Later tests found that clear water in a clear plastic bottle, laid in full sun for about six hours, has far fewer living germs, through the ultraviolet light and the warmth together. The World Health Organization lists this method for places with no other way to treat water. It does not remove chemicals or mud."
+   "evidence": "In the 1980s Aftim Acra and his team in Beirut showed that sunlight kills many disease-causing germs in water. Later tests laid clear water in a clear plastic bottle in full sun for about six hours. It then had far fewer living germs, because of the ultraviolet light and the warmth together. The World Health Organization lists this method for places with no other way to treat water. It does not remove chemicals or mud."
   },
   {
    "text": "Heat from the Sun can be stored in a material that melts by day and sets again at night.",
-   "evidence": "In 1948 the scientist Mária Telkes, the architect Eleanor Raymond and the sculptor Amelia Peabody, who paid for it, built a house at Dover in Massachusetts heated only by the Sun. Sun-warmed air melted a salt kept in drums, and the salt gave the heat back as it set. The house stayed warm through cloudy days for about two winters, and then the salt stopped setting properly. Melting-and-setting heat stores are used today in buildings and in some solar cookers."
+   "evidence": "In 1948 the scientist Mária Telkes, the architect Eleanor Raymond and the sculptor Amelia Peabody built a house at Dover in Massachusetts, heated only by the Sun. Peabody paid for it. Sun-warmed air melted a salt kept in drums, and the salt gave the heat back as it set. The house stayed warm through cloudy days for about two winters, and then the salt stopped setting properly. Melting-and-setting heat stores are used today in buildings and in some solar cookers."
   },
   {
    "text": "The price of solar cells has fallen to less than one hundredth of what it was in the 1970s.",
-   "evidence": "Records of panel prices kept since 1976 show the price for each watt falling by more than 99 parts in 100. Each time the world's total number of panels doubled, the price fell by about a fifth, as makers learned to use less silicon and waste less."
+   "evidence": "Records of panel prices kept since 1976 show the price for each watt falling by more than 99 parts in every 100. Each time the world's total number of panels doubled, the price fell by about a fifth, as makers learned to use less silicon and waste less."
   }
  ],
  "challenging": [
   {
    "claim": "Archimedes set Roman ships on fire with mirrors at Syracuse in 212 BCE.",
    "who": "Later Greek and Byzantine writers, such as Anthemius of Tralles in the 500s CE",
-   "for": "In 1747 CE the Comte de Buffon in Paris aimed 168 flat mirrors at a plank about 45 metres away and set it alight. In 2005 a class at the Massachusetts Institute of Technology lit a wooden model of a ship's side with 127 small mirrors, after about ten minutes of steady sun.",
+   "for": "In 1747 CE the Comte de Buffon in Paris aimed 168 flat mirrors at a plank about 45 metres away and set it alight. In 2005 a class at the Massachusetts Institute of Technology aimed 127 small mirrors at a wooden model of a ship's side. It caught fire after about ten minutes of steady sun.",
    "against": "The writers nearest to the siege, Polybius, Livy and Plutarch, describe Archimedes' other machines and never mention mirrors. The story first appears hundreds of years later. A real ship moves, is wet, and is further away than the test planks. Most historians think it did not happen.",
    "status": "minority",
    "context": "This famous story is probably not true. It is here because the tests it led to show what many small mirrors can and cannot do."
@@ -464,7 +464,7 @@
    "claim": "The Oriental hornet turns sunlight into electricity in their own body.",
    "who": "Marian Plotkin, Jacob Ishay, David Bergman and colleagues at Tel Aviv University, in 2010",
    "for": "Most wasps are busiest in the morning, and this hornet digs most at midday, when sunlight is strongest. The brown parts of the hornet's outer covering have fine grooves that take in light. The yellow band holds a pigment called xanthopterin. The team built a small solar cell from that pigment and it gave a current.",
-   "against": "The home-made cell turned less than half of one part in 100 of the light into electricity. Nobody has measured a living hornet using such a current. The midday digging may simply be because the Sun's heat warms the muscles.",
+   "against": "The home-made cell turned less than half of one part in every 100 of the light into electricity. Nobody has measured a living hornet using such a current. The midday digging may simply be because the Sun's heat warms the muscles.",
    "status": "debated",
    "context": "This is a claim that an insect has their own solar cell. It is here because the evidence is interesting and not yet strong enough to settle it."
   },
@@ -480,7 +480,7 @@
    "claim": "Giving families solar cookers cuts the smoke they breathe and the wood they burn.",
    "who": "Many aid groups and government programmes since the 1980s",
    "for": "Smoke from cooking fires is linked to about 30 lakh early deaths a year across the world, by the World Health Organization's count. A solar cooker makes no smoke. Tests in kitchens show a box cooker can cook a family's rice and dal on a clear day.",
-   "against": "In the Senegal trial by Theresa Beltramo and David Levine, published in 2013, families with solar ovens burned as much wood and breathed as much smoke as families without them. The ovens were too small and too slow for the main meal. A machine that works in a test does not always fit a household.",
+   "against": "In the Senegal trial by Theresa Beltramo and David Levine, published in 2013, families with solar ovens burned as much wood as families without them, so their smoke did not fall either. The ovens were too small and too slow for the main meal. A machine that works in a test does not always fit a household.",
    "status": "debated",
    "context": "This is a claim about whether a good machine does good in real homes. It is here because the measurements disagree with the hopes."
   }
@@ -507,12 +507,12 @@
    "hint": "Think about what sets the top temperature in the box, and whether a perfect lid and perfect walls could exist."
   },
   {
-   "q": "The Earth catches less than one part in 200 crore of the Sun's light. Is the rest wasted?",
+   "q": "Only a tiny share of the Sun's light lands on the Earth, less than 1 part in every 200 crore. Is the rest wasted?",
    "kind": "deep",
    "hint": "Ask who the light would have to be for, before any of it could count as wasted."
   },
   {
-   "q": "A leaf stores about 1 part in 100 of the sunlight that lands on it, and a solar panel turns 20 into electricity. Which one uses the Sun better?",
+   "q": "A leaf stores about 1 part in every 100 of the sunlight that lands on it, and a solar panel turns 20 into electricity. Which one uses the Sun better?",
    "kind": "big",
    "hint": "List what each one does without help: building, mending, making more of their own kind, and what is left when each one's working life is over."
   },
@@ -607,7 +607,7 @@
   ]
  },
  "how_we_found_out": {
-  "story": "For most of history people thought a thing in the sun gets hot because the air around it is hot. It fitted what everyone felt: sunny days are warm days. More than 2,000 years ago, bronze workers in China and mathematicians in Greece knew that curved mirrors could light fires. Ordinary sunshine without a mirror seemed too weak for real heat. In 1767 Horace-Bénédict de Saussure of Geneva nested glass boxes inside one another and set them in the sun. The innermost passed the temperature of boiling water. Then he tested the hot-air idea. In 1774 he carried a hot box up a mountain, where the air was only about 6 degrees Celsius. The box got about as hot as it did on the warm plain below. So the heat came from the sunlight and not from the air. In the 1870s William Adams cooked meals in a mirror-sided box in Bombay. In 1945 M. K. Ghosh designed the first box cooker made for sale in India. In the 1950s M. L. Ghai at the National Physical Laboratory in Delhi built a dish cooker.",
+  "story": "For most of history people thought a thing in the sun gets hot because the air around it is hot. It fitted what everyone felt: sunny days are warm days. More than 2,000 years ago, bronze workers in China and mathematicians in Greece knew that curved mirrors could light fires. Ordinary sunshine without a mirror seemed too weak for real heat. In 1767 Horace-Bénédict de Saussure of Geneva nested glass boxes inside one another and set them in the sun. The innermost passed the temperature of boiling water. Then he tested the hot-air idea. In 1774 he carried a hot box up a mountain, where the air was much colder. The box got about as hot as it did on the warm plain below. So the heat came from the sunlight and not from the air. In the 1870s William Adams cooked meals in a mirror-sided box in Bombay. In 1945 M. K. Ghosh designed the first box cooker made for sale in India. In the 1950s M. L. Ghai at the National Physical Laboratory in Delhi built a dish cooker.",
   "who": "Bronze workers of ancient China, Diocles, Horace-Bénédict de Saussure, William Adams, M. K. Ghosh, M. L. Ghai",
   "when": "More than 2,000 years ago to the 1950s",
   "wrong_idea": "A thing left in the sun gets hot because the air around it is hot, so ordinary sunshine can never cook."
@@ -621,14 +621,14 @@
   },
   "three": {
    "who_am_i": "Your body stays at about 37 degrees Celsius, day and night. Your food brings energy in, and your skin lets heat out, and the two keep pace. Your food was grown with sunlight. So you are warm in the way the box is warm: sunlight is passing through you, and you slow it down.",
-   "what_is_life": "A leaf holds sunlight for a season as sugar. A lizard holds it for a morning as warmth. A mango tree holds it for years as wood. Every living being takes in energy that is passing and keeps it for a while by their own skill, and then it goes on.",
-   "what_is_this_world": "The Earth is a sun box too. Sunlight comes in, the air slows the heat's leaving, and all day and all night the Earth sends out to space about as much energy as it received. Its warmth, its winds and its rain are that passing energy, held for a while. Nothing on the Earth owns the energy it uses."
+   "what_is_life": "A leaf keeps sunlight for a season as sugar. A lizard keeps that sunlight for a morning as warmth. A mango tree stores that sunlight for years as wood. Every living being takes in energy that is passing and keeps it for a while by their own skill, and then it goes on.",
+   "what_is_this_world": "The Earth is a sun box too. Sunlight comes in, and the air slows the heat's leaving. All day and all night the Earth sends out to space about as much energy as it received. Its warmth, its winds and its rain are that passing energy, held for a while. Nothing on the Earth owns the energy it uses."
   },
-  "thread": "The cooker, the water heater, the solar cell, the leaf and your own body do not differ in where their energy comes from. They differ in what each does with it before it leaves. Even the Sun is passing on energy that was held in its hydrogen since the universe was young. Follow the heat of one pot of rice back or forward, and you never reach a thing that the energy belongs to. Consciousness is the ground that the Sun, the box and the one who watches arise from, and the one flow through all three is that ground in motion. Many scientists would agree only that the flow of energy is one, and would say that what it is remains unknown.",
+  "thread": "The cooker, the water heater, the solar cell, the leaf and your own body do not differ in where their energy comes from. They differ in what each does with it before it leaves. Even the Sun is passing on energy that was held in its hydrogen since the universe was young. Follow the heat of one pot of rice back or forward, and you never reach a thing that the energy belongs to. Some traditions, such as Advaita Vedanta, teach that awareness is the ground from which the Sun, the box and the one who watches all arise. Science has no test for that. Scientists would agree only that one flow of energy passes through all three. What that energy finally is remains unknown.",
   "teachings": [
    {
     "source": "Rig Veda 1.115.1",
-    "teaching": "The hymn to Surya, the Sun, says that the Sun has filled the sky, the earth and the space between, and calls the Sun the atman, the self, of all that moves and all that stands still.",
+    "teaching": "The hymn to Surya, the Sun, says that the Sun has filled the sky, the earth and the space between. It calls the Sun the atman, the self, of all that moves and all that stands still.",
     "link": "Science finds that wind, rain, rivers and the food of nearly every animal are driven by sunlight. The hymn says more than that. It says 'self', where science says 'source of energy', and science has no test for the larger claim."
    },
    {
@@ -658,7 +658,7 @@
   ],
   "other_view": {
    "who": "The Charvaka thinkers of ancient India, Anaxagoras of Greece about 450 BCE, and most physicists today",
-   "view": "The Charvakas taught that only what the senses can check is real, and that the body is matter and nothing more. Anaxagoras said the Sun is a hot stone and no kind of self. Most physicists today would say that the Sun is hydrogen joining into helium, with no awareness that anyone has detected. On this view, 'you are made of sunlight' is a true statement about where your body's energy came from, and it says nothing about who you are."
+   "view": "The Charvakas taught that only what the senses can check is real, and that the body is matter and nothing more. Anaxagoras said the Sun is a hot stone and no kind of self. Most physicists today would say that the Sun is hydrogen joining into helium, with no awareness that anyone has detected. On this view, 'you are made of sunlight' is a true statement about where your body's energy came from. It says nothing about who you are."
   },
   "practice": {
    "title": "Arriving and leaving",
@@ -668,7 +668,7 @@
   },
   "ask": [
    "The box made no heat and the panel made no energy. Is there anything you know of that truly makes energy, and does not only pass it on?",
-   "If the warmth in your hand was in the Sun eight minutes ago and will be in the air a minute from now, at which moment is it yours?",
+   "The warmth in your hand was in the Sun eight minutes ago. A minute from now it will be in the air. At which moment is it yours?",
    "A leaf, a lizard and you all slow sunlight down for a while. What would be left of each of you if the flow stopped?"
   ],
   "art": "A child sitting by a window with one hand in a patch of sunlight and one in shade, with a faint line of light drawn from the Sun through the hand and onward out of the room."
@@ -805,6 +805,12 @@
    "meaning": "Energy carried by tiny charged particles that move along a wire.",
    "example": "The electricity that lights a bulb is a flow of tiny particles through the wire.",
    "art": "A bulb joined by a wire to a battery, with small dots moving along the wire."
+  },
+  {
+   "term": "atom",
+   "meaning": "A tiny piece of matter, far too small to see. Everything is built from atoms, and there are many kinds, such as hydrogen and silicon.",
+   "example": "A single grain of sand holds more atoms than anyone could ever count.",
+   "art": "A grain of sand drawn bigger and bigger, until it shows a small ball with tiny dots buzzing around it."
   },
   {
    "term": "electron",
@@ -1108,7 +1114,7 @@
      "say": "The box tumbler goes first. Why do you think we read it quickly?",
      "kid": "A grown-up lifts the cover and reads the thermometers. Write both numbers.",
      "adult": true,
-     "parent": "On a clear summer noon, expect about 40 to 48 degrees Celsius for the open tumbler. Expect about 50 to 75 for the box tumbler. On a hazy day or in winter, expect about 30 to 38 and 40 to 55. Either way, the box tumbler should be at least 8 degrees ahead. If it is not, check that the clear sheet is sealed, the box was not in shade and the black paper is matt. A home box seldom passes 80 degrees, so do not promise cooked food. Never let a child put a finger into water the adult could not keep a finger in for three seconds. Pour the water on a plant when it is cool."
+     "parent": "On a clear summer noon, expect about 40 to 48 degrees Celsius for the open tumbler. Expect about 50 to 75 for the box tumbler. On a hazy day or in winter, expect about 30 to 38 and 40 to 55. Either way, the box tumbler should be at least 8 degrees ahead. If it is not, check that the clear sheet is sealed, the box was not in shade and the black paper is matt. A home box seldom passes 80 degrees, so do not promise cooked food. Never let a child put a finger into water the adult could not keep a finger in for three seconds. Let the water cool, then pour it on a plant."
     },
     {
      "id": "e1s11",
@@ -2830,9 +2836,9 @@
     },
     {
      "t": "truefalse",
-     "p": "If a box had a perfect lid and perfect walls, its water would heat without any limit.",
+     "p": "However good its lid and walls, a box in steady sunshine keeps heating its water for ever.",
      "a": false,
-     "why": "False. A perfect box does not exist, and the hotter the water gets, the faster it sends out heat as infrared. The temperature levels off.",
+     "why": "False. No lid or wall is perfect. The hotter the water gets, the faster heat leaves it, until the heat leaving equals the heat arriving. Then the temperature levels off.",
      "outcome": 2
     },
     {
@@ -3233,7 +3239,7 @@
    "why_maths": "Distance divided by speed gives the time. Working with lakh and crore shows how large the Sun's distance is."
   },
   {
-   "problem": "The Earth catches less than 1 part of every 200 crore of the Sun's light. Write 200 crore in figures. How many zeros does it have after the 2?",
+   "problem": "Of all the light the Sun sends out, the Earth catches less than 1 part in every 200 crore. Write 200 crore in figures. How many zeros does it have after the 2?",
    "answer": "2,00,00,00,000, which has 9 zeros after the 2.",
    "explain": "1 crore is 1,00,00,000. 200 crore is 200 × 1,00,00,000 = 2,00,00,00,000. That is a 2 followed by 9 zeros, or 2 thousand million.",
    "math_unit": "math.number-sense.big-numbers.L4",
@@ -3272,8 +3278,8 @@
    "a": "He was basking in his own glory."
   },
   {
-   "j": "What did one solar cell say to the other?",
-   "a": "'You light up my day!'"
+   "j": "What did the solar cell say to the heat?",
+   "a": "'Please go away. I only want the light.'"
   },
   {
    "j": "Why did the thermometer join the Sun Box club?",
@@ -3285,7 +3291,7 @@
   },
   {
    "j": "What did one hydrogen atom say to another in the middle of the Sun?",
-   "a": "'Let's join together and make something bright.'"
+   "a": "'It is so crowded in here that we may as well join up and glow!'"
   }
  ],
  "warmup": [
@@ -3433,7 +3439,7 @@
  },
  "spotted": [
   {
-   "text": "Look at a black scooter seat and a white wall in the noon sun. Touch the back of your hand near each, without touching. Notice which one gives out more warmth.",
+   "text": "Look at a black scooter seat and a white wall in the noon sun. Hold the back of your hand a few centimetres from each, without touching. Notice which one gives out more warmth.",
    "art": "A black scooter seat and a white wall in bright sun with a child's hand held near each."
   },
   {
@@ -3453,8 +3459,8 @@
    "art": "A street lamp with a small flat panel on its top at dusk."
   },
   {
-   "text": "Hold a steel tumbler of tea and a cloth tiffin bag in your hands for a minute. Notice which keeps its warmth longer when you set it down in the shade.",
-   "art": "A steel tumbler of tea beside a cloth-wrapped tiffin on a table."
+   "text": "Ask a grown-up to fill two steel tumblers with the same hand-hot water. Wrap one in a cloth tiffin bag and leave the other bare. Set both in the shade and feel them after half an hour. Notice which one keeps its warmth longer.",
+   "art": "Two steel tumblers on a table in the shade, one wrapped in a cloth tiffin bag and one bare."
   }
  ],
  "applications": [
