@@ -1923,6 +1923,18 @@
    "a": 0,
    "why": "A stopover is a rest and refuelling place on the way. If it is drained or built over, birds from far away lose a place they need.",
    "outcome": 6
+  },
+  {
+   "t": "mcq",
+   "p": "Grey wagtails come to the hill town of Valparai each winter. What are they?",
+   "opts": [
+    "Travellers that come for the winter, then fly on",
+    "Birds that never leave the hill town",
+    "Fish that swim up the town's rivers"
+   ],
+   "a": 0,
+   "why": "The grey wagtail is a migratory bird. It comes to Valparai for the winter months, then flies on, as many birds do.",
+   "outcome": 0
   }
  ],
  "worksheets": [
@@ -2150,6 +2162,13 @@
      ],
      "a": 2,
      "why": "Bright lights at night confuse birds that fly by the stars, and many crash into lit buildings. The others give birds food, rest or safe passage."
+    },
+    {
+     "t": "write",
+     "p": "Children in Valparai welcome winter visitors like the grey wagtail with care. Say one way you could welcome a bird that has flown far to visit your town.",
+     "lines": 3,
+     "a": "Answers can vary. For example: put out a bowl of water, keep cats indoors while the bird feeds, or simply watch it quietly without chasing it.",
+     "why": "A strong answer is kind and safe for the bird: it gives water or space, keeps animals away, and does not disturb it."
     }
    ]
   },
@@ -2581,7 +2600,7 @@
    "art": "A row of swallows with long forked tails on an electric wire against a pale sky."
   },
   {
-   "text": "Grey wagtails bobbing their tails on wet rooftops and drains from about October to March.",
+   "text": "Grey wagtails bobbing their tails on wet rooftops and drains from about October to March. In the hill town of Valparai, Tamil Nadu, children welcome these winter visitors with care.",
    "art": "A grey and yellow wagtail on a wet terrace, her tail lifted."
   },
   {

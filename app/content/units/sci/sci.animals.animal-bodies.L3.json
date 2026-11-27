@@ -1390,6 +1390,12 @@
      "lines": 3,
      "a": "Warm water holds less oxygen, and many fish in a small pond use up the oxygen. At the surface the water has a little more oxygen, so the fish gulp there. Bubbling air into the pond or moving the water adds oxygen.",
      "why": "Fish need oxygen dissolved in water. Warm, crowded, still water runs short of it, which is why fish farmers and aquarium pumps bubble in air."
+    },
+    {
+     "t": "draw",
+     "p": "Draw a bottle lung. Label the bottle, the balloon lung and the stretched rubber sheet, which stands for the diaphragm. Write one word for what each part does.",
+     "a": "A simple drawing of a bottle with a balloon inside, and a stretched sheet at the bottom. Each label names one part, and the words say what it does: the chest holds the lung, the lung fills with air, and the diaphragm pulls down.",
+     "why": "A strong drawing is simple, shows the real parts, and has one label for each part. The labels explain the picture."
     }
    ]
   },
@@ -2273,6 +2279,14 @@
      "parent": "Children love finding what's wrong with a model. It's real science thinking: a model shows one idea, not everything.",
      "think": "A fish has no diaphragm. Think about how water goes in at the mouth and out under the gill covers. How do they move water over their gills?",
      "context": "This is the step where you compare the bottle lung with your own breathing, and find what the model gets wrong."
+    },
+    {
+     "id": "s4",
+     "mins": 4,
+     "context": "In this step, you learn to draw a labelled diagram of the bottle lung you just made.",
+     "do": "Draw the bottle lung simply, as it is. Draw the bottle as the chest, the balloon inside as the lung, and the stretched balloon at the bottom as the diaphragm. Write one label for each part. Under each label, write one word for what it does.",
+     "say": "A labelled diagram shows the real thing in a simple way. Each label names one part. Draw the bottle, the lung and the diaphragm, and say what each one does.",
+     "kid": "Draw the bottle lung. Label the bottle, the lung and the rubber sheet. Write one word for what each does."
     }
    ],
    "problem": "Your lungs cannot move by themselves. A sheet of muscle under them, called the diaphragm, pulls down and makes space, and air rushes in. In this activity you build a model lung from a bottle and two balloons, and watch this happen."
@@ -3253,6 +3267,18 @@
    "a": 0,
    "why": "The carbon in your breath came from your food. A plant can take in that carbon dioxide and build it into a new leaf. Picking 'plants make carbon dioxide for us' gets it backwards. Plants give out oxygen in sunlight.",
    "outcome": 7
+  },
+  {
+   "t": "mcq",
+   "p": "What makes a labelled diagram of a lung useful?",
+   "opts": [
+    "It shows the real parts simply, and each label names one part",
+    "It is coloured in with as many colours as possible",
+    "It has no labels, so the picture looks neater"
+   ],
+   "a": 0,
+   "why": "A labelled diagram shows the real parts in a simple way. Each label tells you the name of one part, so the picture explains itself.",
+   "outcome": 1
   }
  ],
  "applications": [

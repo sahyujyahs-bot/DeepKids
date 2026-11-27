@@ -32,6 +32,9 @@
 - **Natural selection**: When animals with a helpful difference survive and have more young than others, so that the difference becomes common over many generations. *e.g.* Calves with broader pads walked farther on sand, lived longer and left more young.
 - **Convergent evolution**: When two kinds of animals that are not close relatives end up with a similar body part because they faced a similar problem. *e.g.* Octopuses and humans both have eyes with a lens, but their eyes grew separately.
 - **Camouflage**: Colour or shape that makes an animal hard to see against her background. *e.g.* An octopus on a reef turns the colour and pattern of the rock beside her.
+- **Herbivore**: An animal that eats only plants. *e.g.* A cow eats grass and leaves.
+- **Carnivore**: An animal that eats only other animals. *e.g.* A tiger eats deer.
+- **Omnivore**: An animal that eats both plants and animals. *e.g.* A crow eats grain and insects.
 
 ## Explanations
 ### Every odd body part answers a problem · *defined*
@@ -41,6 +44,13 @@ An animal has to solve the same few problems every day. She must get food, get w
 - e.g. A camel's hump keeps fat for lean times.
 - e.g. A woodpecker's stiff tail props her against a trunk.
 - e.g. An octopus's soft body squeezes into a crack to hide.
+### Teeth and stomachs fit what an animal eats · *defined*
+**Definition:** A herbivore eats only plants. A carnivore eats only other animals. An omnivore eats both plants and animals.
+
+A cow has flat back teeth that grind grass and leaves, and a stomach with four parts that breaks down the tough plant food. A tiger has long, sharp teeth that hold and tear meat. A human has flat back teeth for chewing rice, dal and roti, and sharp front teeth for biting fruit and fish. Each animal's teeth and stomach are an answer to the food she eats.
+- e.g. A goat's flat back teeth grind leaves before she swallows them.
+- e.g. A tiger's long, sharp teeth hold a deer while she tears the meat.
+- e.g. A crow eats grain, insects and scraps, so she is an omnivore.
 ### The camel's hump holds fat, not water · *defined*
 **Definition:** A camel's hump is a lump of fat under the skin. The camel uses the fat as a store of energy when food is hard to find.
 
@@ -482,7 +492,7 @@ Gauri stroked Bhuri's neck. 'The same foot,' she said. 'It is good for sand and 
   - Note: A good design is not a perfect one. It is one where the child can say honestly where it fails. Two to four children: all pick the same place, design alone, then swap drawings and look for each other's trouble spots.
 
 ## Worksheets
-### Core worksheet: problem, part and price (core, 16 questions)
+### Core worksheet: problem, part and price (core, 17 questions)
 1. (mcq) What is the best way to start understanding an odd body part?  
    Options: Ask what problem it solves and what it costs / Ask what colour it is / Ask whether the animal likes it  
    **Answer:** Ask what problem it solves and what it costs. *Why:* An odd part is usually an answer to a problem in the animal's way of life, and every answer has a price. Colour and liking do not tell you what the part is for.
@@ -495,28 +505,30 @@ Gauri stroked Bhuri's neck. 'The same foot,' she said. 'It is good for sand and 
    **Answer:** ['area']. *Why:* Pressure is weight divided by area. A bigger area shares the same weight over more ground, so each small patch is pushed less. This is why a camel's wide foot sinks less in sand.
 5. (match) Match each animal part to its job.  
    **Answer:** Camel's wide pad → Floats on soft sand; Woodpecker's stiff tail → Props her against a trunk; Octopus's funnel → Squirts out a jet of water; Octopus's beak → The only big hard part she has. *Why:* Each part answers a problem. The pad spreads the camel's weight. The tail works like a third foot. The funnel gives a jet to push the octopus forward. The beak sets the size of the smallest gap she can pass.
-6. (sort) Sort each body part by the problem it helps to solve.  
+6. (sort) Sort each animal by what it eats, using its teeth and stomach as clues.  
+   **Answer:** a cow, with flat back teeth and a stomach with four parts → Only plants; a tiger, with long, sharp teeth for tearing meat → Only other animals; a human, with flat back teeth and sharp front teeth → Both plants and animals. *Why:* A cow's flat teeth grind plants, and her stomach breaks them down. A tiger's sharp teeth hold meat. A human has both kinds of teeth, so a human eats both.
+7. (sort) Sort each body part by the problem it helps to solve.  
    **Answer:** fat kept in one hump, so the rest of the skin is thin → Staying cool; a camel's wide pad → Moving over soft ground; a duck's webbed foot on mud → Moving over soft ground; a woodpecker's chisel beak → Getting food from wood; a woodpecker's sticky tongue → Getting food from wood; a camel's temperature rising by day → Staying cool. *Why:* Each part has a main job. Fat in a hump leaves bare skin to lose heat. Wide and webbed feet spread weight. A beak and a tongue work together to get food from wood. Letting the body warm up saves sweating.
-7. (order) Put these in order to show how wide pads could become common in camels.  
+8. (order) Put these in order to show how wide pads could become common in camels.  
    **Answer:** ['Some calves are born with slightly wider pads', 'On soft sand, those calves walk farther and find more food', 'They live longer and have more calves', 'Their calves inherit the wide pads', 'After many generations, wide pads are normal']. *Why:* The small difference comes first. Survival and having young then make it more common, one generation at a time. No camel grew wider pads because she needed them.
-8. (odd) Which one is not true of an octopus, and why? Three hearts, blue blood, bones, a beak.  
+9. (odd) Which one is not true of an octopus, and why? Three hearts, blue blood, bones, a beak.  
    **Answer:** Bones, because an octopus has no bones. The other three are true of an octopus.. *Why:* An octopus has no skeleton. Her only big hard part is her beak. She has three hearts and blue blood, which carries oxygen with copper.
-9. (count) A square foot is 2 centimetres on each side. A bigger square foot is 4 centimetres on each side. How many times as big is the area of the bigger foot?  
+10. (count) A square foot is 2 centimetres on each side. A bigger square foot is 4 centimetres on each side. How many times as big is the area of the bigger foot?  
    **Answer:** 4. *Why:* The small foot has an area of 2 times 2, which is 4 square centimetres. The big foot has 4 times 4, which is 16 square centimetres. 16 divided by 4 is 4. Doubling the width makes the area 4 times as big.
-10. (write) A friend says, 'A camel's hump is full of water, because camels live in the desert.' What would you say to your friend? Give a reason.  
+11. (write) A friend says, 'A camel's hump is full of water, because camels live in the desert.' What would you say to your friend? Give a reason.  
    **Answer:** The hump is fat, not water. The camel uses the fat for energy when food is short. Her real water-saving tricks are letting her body warm up so she sweats less, and catching water from her breath.. *Why:* A strong answer says that the hump is fat, and gives at least one reason or piece of evidence. It may also say how a camel really saves water.
-11. (draw) Draw one camel with fat spread all over her body, and one camel with her fat in a hump. Draw arrows for heat leaving each one.  
+12. (draw) Draw one camel with fat spread all over her body, and one camel with her fat in a hump. Draw arrows for heat leaving each one.  
    **Answer:** Two camels. The first has a thick layer all around with few or no arrows. The second has a hump on her back and arrows leaving her bare sides.. *Why:* A strong drawing shows that heat leaves through the thin skin on the sides of the camel with a hump, and is held in by the thick layer on the other camel.
-12. (mcq) How does a woodpecker keep from falling backwards while she clings to a trunk?  
+13. (mcq) How does a woodpecker keep from falling backwards while she clings to a trunk?  
    Options: Her stiff tail props her like a third foot / She glues herself to the bark / She holds her breath  
    **Answer:** Her stiff tail props her like a third foot. *Why:* A woodpecker leans on her stiff tail, and her toes grip with two forward and two back. Together they hold her tight against the trunk.
-13. (truefalse) An octopus can pass through any gap that is wider than her beak.  
+14. (truefalse) An octopus can pass through any gap that is wider than her beak.  
    **Answer:** True. *Why:* True. The beak is her only big hard part. The rest of her body is soft, so it squeezes through. This is why octopuses escape from jars and tanks.
-14. (write) Choose any animal, including a human. Name one body part, the problem it solves and one price it has.  
+15. (write) Choose any animal, including a human. Name one body part, the problem it solves and one price it has.  
    **Answer:** A giraffe's long neck helps her reach high leaves. The price is that she needs a very strong heart to push blood up to her head. Or: a human's upright back frees the hands, and the price is backache.. *Why:* A strong answer names a real part, a real problem and a real price. The price may be a cost, or a place where the part does not work.
-15. (fill) A woodpecker's tongue is long and ____, so insects stick to it.  
+16. (fill) A woodpecker's tongue is long and ____, so insects stick to it.  
    **Answer:** ['sticky']. *Why:* The tip is also barbed. This lets her pull insects out of narrow tunnels in wood.
-16. (mcq) Which of these works for the same reason as a camel's wide foot?  
+17. (mcq) Which of these works for the same reason as a camel's wide foot?  
    Options: A snowshoe / A sharp nail / A knife blade  
    **Answer:** A snowshoe. *Why:* A snowshoe is wide, so it spreads a person's weight over more snow, and the snow holds. A nail and a knife do the opposite. They put all the push on a tiny patch.
 ### Stretch worksheet: gains, costs and different answers (stretch, 15 questions)
@@ -630,6 +642,9 @@ Gauri stroked Bhuri's neck. 'The same foot,' she said. 'It is good for sand and 
 12. (mcq) Octopus eyes and human eyes both have lenses, yet the animals are not close relatives. What best explains this?  
    Options: Both met the same problem, focusing light, and each found its own answer / An octopus is a kind of human / They share a recent ancestor with lens eyes  
    **Answer:** Both met the same problem, focusing light, and each found its own answer. *Why:* This is convergent evolution. A lens is a good answer to the problem of seeing a sharp image, so it appeared twice, from different bodies.
+13. (mcq) Which of these animals is an omnivore?  
+   Options: A human, who eats rice, dal, fruit and fish / A cow, who eats only grass and leaves / A tiger, who eats only deer  
+   **Answer:** A human, who eats rice, dal, fruit and fish. *Why:* A human eats both plants and animals, so a human is an omnivore. A cow is a herbivore, and a tiger is a carnivore.
 
 ## Applications
 - Wide, low-pressure tyres and let-down tyres help vehicles cross desert sand and soft mud.

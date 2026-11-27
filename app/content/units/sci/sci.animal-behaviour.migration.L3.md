@@ -470,7 +470,7 @@ The next morning, a big flock of sandpipers lifted off the mudflat all at once, 
   - Check: Why does a crab crossing need low walls beside it? → **To lead the crabs to the crossing**
 
 ## Worksheets
-### Who Travels, and Why (core) (core, 16 questions)
+### Who Travels, and Why (core) (core, 17 questions)
 1. (mcq) Which of these is a migration?  
    Options: A crow flying across the city to find food, and back the same evening / A crane flying from Mongolia to Rajasthan every winter, and back every spring / A family moving to a new house once  
    **Answer:** A crane flying from Mongolia to Rajasthan every winter, and back every spring. *Why:* Migration is a long journey made at the same time every year, and back again. A crow's trip across town and back each day is not migration, and nor is a single move to a new house.
@@ -508,6 +508,8 @@ The next morning, a big flock of sandpipers lifted off the mudflat all at once, 
 16. (odd) Three of these help migrating birds. Which one is the odd one out?  
    Options: Keeping a lake as a resting place / Counting birds and sharing the lists / Leaving bright lights on all night in tall buildings / Stopping hunting on the route  
    **Answer:** 2. *Why:* Bright lights at night confuse birds that fly by the stars, and many crash into lit buildings. The others give birds food, rest or safe passage.
+17. (write) Children in Valparai welcome winter visitors like the grey wagtail with care. Say one way you could welcome a bird that has flown far to visit your town.  
+   **Answer:** Answers can vary. For example: put out a bowl of water, keep cats indoors while the bird feeds, or simply watch it quietly without chasing it.. *Why:* A strong answer is kind and safe for the bird: it gives water or space, keeps animals away, and does not disturb it.
 ### Finding the Way (stretch) (stretch, 15 questions)
 1. (mcq) A young cuckoo is raised by other birds and never meets her parents. In autumn she flies alone to Africa, the right way. What does this tell scientists?  
    Options: She learned the way from the birds who raised her / The direction was inborn: she had it from birth / She followed other cuckoos she met by chance  
@@ -626,6 +628,9 @@ The next morning, a big flock of sandpipers lifted off the mudflat all at once, 
 14. (mcq) A lake where birds rest and eat on their route is called a what?  
    Options: A stopover / A breeding ground / A landmark  
    **Answer:** A stopover. *Why:* A stopover is a rest and refuelling place on the way. If it is drained or built over, birds from far away lose a place they need.
+15. (mcq) Grey wagtails come to the hill town of Valparai each winter. What are they?  
+   Options: Travellers that come for the winter, then fly on / Birds that never leave the hill town / Fish that swim up the town's rivers  
+   **Answer:** Travellers that come for the winter, then fly on. *Why:* The grey wagtail is a migratory bird. It comes to Valparai for the winter months, then flies on, as many birds do.
 
 ## Applications
 - Bird scientists and forest staff protect wetlands like Chilika Lake, Pulicat Lake and Point Calimere, because birds from far away depend on them.
@@ -639,7 +644,7 @@ The next morning, a big flock of sandpipers lifted off the mudflat all at once, 
 
 ## Spotted around us
 - Barn swallows sitting in rows on electric wires in South Indian towns in winter.
-- Grey wagtails bobbing their tails on wet rooftops and drains from about October to March.
+- Grey wagtails bobbing their tails on wet rooftops and drains from about October to March. In the hill town of Valparai, Tamil Nadu, children welcome these winter visitors with care.
 - Flamingos on the mudflats by the sea in the cooler months.
 - Thousands of cranes landing in a field in winter.
 - Clouds of butterflies passing by before and after the monsoon.

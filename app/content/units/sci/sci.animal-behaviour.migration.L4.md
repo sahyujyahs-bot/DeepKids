@@ -59,6 +59,7 @@ Many migrants do not fly the whole way in one go. They fly for a few days, land 
 - e.g. Chilika Lake in Odisha is a wintering ground and a stopover for many thousands of water birds.
 - e.g. The tidal mudflats of the Yellow Sea are a key stopover for waders on the way between Australia and the Arctic.
 - e.g. Keoladeo National Park near Bharatpur in Rajasthan is a wetland where many winter visitors arrive after crossing the Himalaya.
+- e.g. Rosy starlings fly thousands of kilometres each winter, from Russia and Mongolia to India.
 ### Other travellers: fish, turtles and mountain animals · *defined*
 **Definition:** Migration is not only for birds. Fish, turtles, insects, whales and mammals all make regular journeys, and some are short. Moving up and down a mountain with the seasons is also migration.
 
@@ -334,7 +335,7 @@ She stood there for a long time in the cold, looking at the empty wires, and she
   - Check: Why were more birds lost when wetland 3 was drained? → **The long gap needed all the fuel a bird could carry, so a headwind made more of them fall**
 
 ## Activities
-### a1 · Resident, Winter Visitor or Passer-by? Sort eight birds by when they are in India (15 min)
+### a1 · Resident, Winter Visitor or Passer-by? Sort eight birds by when they are in India (18 min)
 - **record:** A table of the eight birds with the label you chose and the clue that made you choose it.
 - **s1 (4 min)**  
   *Parent does:* Read the four labels. A resident stays all year. A winter visitor comes for the northern winter. A summer visitor comes to breed in the warm months. A passage migrant stops only for days or weeks on the way to somewhere else.  
@@ -347,7 +348,11 @@ She stood there for a long time in the cold, looking at the empty wires, and she
   *Child mode:* Read each clue. Put each bird under a label. Think about which months she is here.
   - Ask: Which bird was hardest to place, and why? (good: The pied cuckoo, because she comes for the rains.; The Amur falcon, because she stays for only a short time.)
   - Note: Answers: house crow, rock pigeon and cattle egret are residents. Rosy starling, barn swallow and northern pintail are winter visitors. Pied cuckoo is a summer visitor, since some come with the monsoon to nest. Amur falcon is a passage migrant. In some places the same species can have a different label, and a few cattle egrets also move short distances, so a book may disagree. With 2 to 4 children, each sorts alone first and then you compare; talk about any bird you placed differently.
-- **s3 (5 min)**  
+- **s3 (3 min)**  
+  *Parent does:* Find Russia, Mongolia and India on a globe. Run a string or your finger from Russia and Mongolia down to India. That is the route a rosy starling flies each winter.  
+  *Parent says:* Find Russia and Mongolia on the globe. Now follow the route south to India. A rosy starling flies this whole way every winter.  
+  *Child mode:* Find Russia, Mongolia and India on the globe. Trace the way the rosy starling flies.
+- **s4 (5 min)**  
   *Parent does:* Think of two more birds you have seen. Decide which label fits each. If you can, look them up in a field guide or on a phone. For a week, tick each bird you see near home. Residents show up every day.  
   *Parent says:* Pick two more birds you know. Which label fits each? How could we find out?  
   *Child mode:* Pick two more birds you know. Which label fits? How could you check?
@@ -447,7 +452,7 @@ She stood there for a long time in the cold, looking at the empty wires, and she
   - Check: Why is it a problem if one stopover is lost, even if other lakes are fine? → **Some birds may run out of fuel before they reach the next place**
 
 ## Worksheets
-### Migration: how a body is built for a journey (core) (core, 15 questions)
+### Migration: how a body is built for a journey (core) (core, 16 questions)
 1. (mcq) What does the word migration mean?  
    Options: A regular journey that an animal makes each year, going out and coming back / Flying very high / Moving house once in a lifetime  
    **Answer:** A regular journey that an animal makes each year, going out and coming back. *Why:* Migration is a regular, seasonal journey. The animal goes out and comes back, year after year.
@@ -482,6 +487,8 @@ She stood there for a long time in the cold, looking at the empty wires, and she
 15. (mcq) Which of these is also migration?  
    Options: A hilsa fish swimming from the sea up a river each monsoon to lay eggs / A crow flying from a tree to a roof / A dog walking to a gate  
    **Answer:** A hilsa fish swimming from the sea up a river each monsoon to lay eggs. *Why:* Migration is a regular, seasonal journey. The hilsa does it every year. A crow moving between a tree and a roof is a daily move.
+16. (truefalse) Rosy starlings eat locusts that harm crops in India.  
+   **Answer:** True. *Why:* True. Locusts are insects that can swarm and destroy crops. Rosy starlings eat them, which helps farmers.
 ### Migration: reading the evidence (stretch) (stretch, 15 questions)
 1. (mcq) Crows stay in Delhi through cold winters, and pied cuckoos migrate across the sea to India in the warm monsoon. What does this show?  
    Options: Migration follows food and conditions for raising young, not only cold / Cuckoos like rain more than crows / Crows cannot fly far  
@@ -593,6 +600,9 @@ She stood there for a long time in the cold, looking at the empty wires, and she
    **Answer:** How a young bird, who has never made the trip, times her journey and finds the way. *Why:* We know that day length and an inside yearly clock both play a part, but how they work together is still being studied. Rings and tags have shown that the journeys are real.
 12. (truefalse) Only birds migrate.  
    **Answer:** False. *Why:* False. Olive ridley turtles, hilsa fish, butterflies, elephants and many other animals make regular seasonal journeys. Some, such as the wallcreeper, move only up and down a mountain.
+13. (mcq) Rosy starlings fly from Russia and Mongolia to India each winter. What do they eat there that helps farmers?  
+   Options: Locusts that harm crops / Fish from the sea / Honey from flowers  
+   **Answer:** Locusts that harm crops. *Why:* Rosy starlings eat locusts. Locusts are insects that can swarm and destroy crops, so the winter visitors help farmers.
 
 ## Applications
 - Airports use radar and bird counts to warn pilots when large flocks are crossing, so planes avoid collisions.
@@ -601,6 +611,7 @@ She stood there for a long time in the cold, looking at the empty wires, and she
 - Planners place wind turbines and power lines away from busy flyways and narrow bottlenecks.
 - Citizen science projects such as eBird and Bird Count India use many people's sightings to follow migrants.
 - Doctors and engineers study how birds store and burn fat, and how they save energy in flight, for ideas in medicine and aircraft design.
+- Rosy starlings come to India in winter and eat locusts, insects that can swarm and harm crops.
 
 ## Spotted around us
 - Barn swallows sitting in rows on wires or sheltering under a bridge in winter, from October to March.

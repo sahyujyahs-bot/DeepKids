@@ -64,6 +64,7 @@ You breathe air in through your nose and mouth, and out again. You do it even wh
 - e.g. Put your hand on your chest and breathe in. Feel your chest get bigger.
 - e.g. A fish in a bowl keeps opening and closing her gills, taking in the air mixed into the water.
 - e.g. A tulsi plant on the balcony takes in air through tiny holes under the leaves.
+- e.g. Dust sticks to the leaves of a neem tree by the road, so the air there is cleaner.
 - **The Upanishads:** Speak of prana, the breath, as the life in a being. Without it a body does not live.
 - **Biologists:** Explain that cells use oxygen from air to release energy from food. Yet some microbes, deep in mud, live without oxygen at all, so not every being needs air.
 
@@ -383,7 +384,7 @@ Meenu lay down next to Appu under the fan. The cool air poured over them. "Ammam
   - Ask: What pushed the boat? (good: Moving air.; The wind I made.)
 
 ## Worksheets
-### Air Is Everywhere (core) (core, 10 questions)
+### Air Is Everywhere (core) (core, 11 questions)
 1. (sort) Is there air here? Put each place in a box.  
    **Answer:** under the bed → Air is here; inside an empty bucket → Air is here; in the kitchen → Air is here; inside a closed cupboard → Air is here; outside the window → Air is here. *Why:* Every place had air. In Catch the Air, the bag puffed up even under the bed and inside the bucket. A strong answer puts nothing in 'No air here'.
 2. (draw) In Catch the Air, you squeezed the bag flat and twisted it shut. Later you caught air in it. Draw the bag both ways.  
@@ -407,7 +408,10 @@ Meenu lay down next to Appu under the fan. The cool air poured over them. "Ammam
    **Answer:** 2. *Why:* A fan's breeze, your breath and the wind are all moving air. A stone on the floor is not air, and it is not moving.
 10. (perspective) Two friends in Madurai look at an empty water bottle with no cap.  
    **Answer:** The second child is right: the bottle is full of air, just like the bucket and the space under the bed. The first child is right that there is no water and nothing we can see inside.. *Why:* A strong answer uses Catch the Air: every place that looked empty had air. It is also fair to the first child: 'empty' usually means nothing we can see.
-### Feeling and Seeing Air (stretch) (stretch, 10 questions)
+11. (mcq) Which one of these helps keep the air clean?  
+   Options: Cutting down the trees along a road / Planting trees near our homes and schools / Burning plastic and rubbish in the open  
+   **Answer:** Planting trees near our homes and schools. *Why:* Leaves catch dust and smoke from the air, so trees help keep it clean. Burning plastic sends smoke and fumes into the air.
+### Feeling and Seeing Air (stretch) (stretch, 11 questions)
 1. (mcq) In Catch the Air, you squeezed the bag flat, twisted it shut and pulled the sides. Why did it stay flat?  
    Options: The bag was broken / No air could get in / Air is too heavy to go in  
    **Answer:** No air could get in. *Why:* With the neck twisted shut, no air could get in, so there was nothing to make the bag fat. This shows that the fat bags really had air in them.
@@ -430,6 +434,8 @@ Meenu lay down next to Appu under the fan. The cool air poured over them. "Ammam
 10. (mcq) In Bubble Blowing, what is inside a bubble you blew?  
    Options: Your breath, which is air / Nothing at all / Only water  
    **Answer:** Your breath, which is air. *Why:* A bubble is a thin skin of soapy water with your breath inside. Your breath is air.
+11. (truefalse) Only people in a laboratory use science.  
+   **Answer:** False. *Why:* False. A weather scientist measures the wind, a doctor checks a body, and an engineer builds a windmill. Each uses science.
 
 ## Videos
 - **Where Does Wind Come From? The Science of Flying** (SciShow Kids, 5 min) id `oHUVxkx8QRo`: Explains that wind is moving air that we cannot see, and what moving air can push. *Check:* Found by search: "Where Does Wind Come From? | The Science of Flying" by SciShow Kids, 5 minutes. A parent may preview it.
@@ -467,6 +473,12 @@ Meenu lay down next to Appu under the fan. The cool air poured over them. "Ammam
 10. (mcq) A kite stays up high in the sky. What holds it up?  
    Options: A hidden string in the sky / Moving air pushing on the kite / The Moon  
    **Answer:** Moving air pushing on the kite. *Why:* Moving air pushes against the kite and holds it up while someone holds the string.
+11. (mcq) Which of these keeps the air clean and fresh?  
+   Options: Cutting down the trees along a road / Planting trees near our homes and schools / Burning plastic and rubbish in the open  
+   **Answer:** Planting trees near our homes and schools. *Why:* Leaves catch dust and smoke from the air, so trees help keep it clean. Burning plastic sends smoke and fumes into the air.
+12. (mcq) Which of these people uses science in their work?  
+   Options: A child who draws a kite on paper / A weather scientist who measures how fast the wind blows / A child who sings a song on the bus  
+   **Answer:** A weather scientist who measures how fast the wind blows. *Why:* A weather scientist uses instruments to measure the air and the wind. Many people use science at work, such as doctors and engineers.
 
 ## Applications
 - Ceiling fans, table fans and palm-leaf hand fans move air onto us to cool us on hot days.
@@ -474,6 +486,7 @@ Meenu lay down next to Appu under the fan. The cool air poured over them. "Ammam
 - Kites fly over Ahmedabad at Uttarayan and over many cities at Makar Sankranti, held up by moving air.
 - Bicycle tyres, footballs and balloons are filled with air, so they are bouncy and firm.
 - Anna Mani, an Indian scientist, built instruments to measure the air: how fast the wind blows and how much ozone, a gas, is high up in the sky.
+- Weather scientists in India read the wind and the air every day, and use what they measure to warn people of storms and heavy rain.
 
 ## Spotted around us
 - Coconut palms swaying in the breeze near the sea.

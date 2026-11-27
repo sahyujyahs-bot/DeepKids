@@ -437,6 +437,10 @@ Selvi did not mind very much. On summer evenings, she still went down the steps 
   - Ask: How is the model different from real lungs? (good: We have two lungs, not one.; Real lungs are spongy, with millions of tiny bubbles.; Our ribs move too.; There is blood all around real lungs.)
   - Note: Children love finding what's wrong with a model. It's real science thinking: a model shows one idea, not everything.
   - Think: A fish has no diaphragm. Think about how water goes in at the mouth and out under the gill covers. How do they move water over their gills?
+- **s4 (4 min)**  
+  *Parent does:* Draw the bottle lung simply, as it is. Draw the bottle as the chest, the balloon inside as the lung, and the stretched balloon at the bottom as the diaphragm. Write one label for each part. Under each label, write one word for what it does.  
+  *Parent says:* A labelled diagram shows the real thing in a simple way. Each label names one part. Draw the bottle, the lung and the diaphragm, and say what each one does.  
+  *Child mode:* Draw the bottle lung. Label the bottle, the lung and the rubber sheet. Write one word for what each does.
 ### a3 · Gill Watch: count a fish's breaths (20 min)
 - **safety:** Stay with a grown-up near a pond. At a fish market, only look, and wash your hands if you touch anything.
 - **record:** Write how many times the fish's gill covers opened in one minute. Then tell your grown-up what colour and shape the gills were, or take a photo of them.
@@ -615,7 +619,7 @@ Selvi did not mind very much. On summer evenings, she still went down the steps 
    **Answer:** A strong answer picks a side and gives a reason, for example that air holds much more oxygen. It then admits a fair point from another side, for example that a breathing part is best only where the animal lives. It may say that all three are thin, damp and close to blood.. *Why:* There is no single winner. Each breathing part suits the place the animal lives. Lungs suit air, gills suit water, and a frog's skin helps in both, as long as the skin stays damp.
 15. (draw) Draw a bat hunting a moth at night. Draw lines to show the bat's sounds going out and the echo coming back.  
    **Answer:** A bat, a moth, curved lines going from the bat to the moth, and curved lines coming back to the bat's ears.. *Why:* The bat sends out high sounds. They bounce off the moth and return as echoes, which tell the bat where the moth is.
-### Breathing and finding food: think further (stretch, 15 questions)
+### Breathing and finding food: think further (stretch, 16 questions)
 1. (mcq) Your diaphragm is a sheet of muscle under your lungs. What does it do when you breathe in?  
    Options: It pulls down, making space, and air rushes into the lungs / It pushes air up into the nose / It squeezes the heart  
    **Answer:** It pulls down, making space, and air rushes into the lungs. *Why:* When the diaphragm pulls down, there is more space in the chest, and air flows in to fill it. In Make a Bottle Lung, pulling the bottom balloon down filled the balloon inside in the same way. Picking 'pushes air up' is what happens when you breathe out, not in.
@@ -651,6 +655,8 @@ Selvi did not mind very much. On summer evenings, she still went down the steps 
    **Answer:** True. *Why:* True. Crabs breathe with gills, even on land. They keep their gills damp inside a covered space on each side of their body. If the gills dry out, the crab cannot breathe.
 15. (write) On a hot day, all the fish in a small pond swim to the surface and gulp with their mouths open. Why might this happen, and what could help them?  
    **Answer:** Warm water holds less oxygen, and many fish in a small pond use up the oxygen. At the surface the water has a little more oxygen, so the fish gulp there. Bubbling air into the pond or moving the water adds oxygen.. *Why:* Fish need oxygen dissolved in water. Warm, crowded, still water runs short of it, which is why fish farmers and aquarium pumps bubble in air.
+16. (draw) Draw a bottle lung. Label the bottle, the balloon lung and the stretched rubber sheet, which stands for the diaphragm. Write one word for what each part does.  
+   **Answer:** A simple drawing of a bottle with a balloon inside, and a stretched sheet at the bottom. Each label names one part, and the words say what it does: the chest holds the lung, the lung fills with air, and the diaphragm pulls down.. *Why:* A strong drawing is simple, shows the real parts, and has one label for each part. The labels explain the picture.
 ### Breathing and finding food: big thinking (challenge, 15 questions)
 1. (write) A plastic bag is very thin, but dry. A thick wet towel is damp, but not thin. Would either make a good breathing part for an animal? Explain, using what lungs, gills and frog skin all have in common.  
    **Answer:** Neither would work well. A breathing part must be thin, damp, have lots of surface and have blood flowing just underneath. The plastic bag is dry and has no blood, and the towel is too thick for oxygen to pass through quickly.. *Why:* Oxygen must dissolve in a wet layer and then pass through a very thin wall into blood. A strong answer names all the shared features and shows which one each object is missing.
@@ -736,6 +742,9 @@ Selvi did not mind very much. On summer evenings, she still went down the steps 
 14. (mcq) Plants take in carbon dioxide to make their food. You breathe carbon dioxide out. What does this mean?  
    Options: Some carbon from the food you ate can end up in a plant's leaf / Plants and people never share anything / Plants make carbon dioxide for us to breathe  
    **Answer:** Some carbon from the food you ate can end up in a plant's leaf. *Why:* The carbon in your breath came from your food. A plant can take in that carbon dioxide and build it into a new leaf. Picking 'plants make carbon dioxide for us' gets it backwards. Plants give out oxygen in sunlight.
+15. (mcq) What makes a labelled diagram of a lung useful?  
+   Options: It shows the real parts simply, and each label names one part / It is coloured in with as many colours as possible / It has no labels, so the picture looks neater  
+   **Answer:** It shows the real parts simply, and each label names one part. *Why:* A labelled diagram shows the real parts in a simple way. Each label tells you the name of one part, so the picture explains itself.
 
 ## Applications
 - Doctors count breaths per minute to check if a person is unwell. Fast breathing at rest can be a sign of illness.

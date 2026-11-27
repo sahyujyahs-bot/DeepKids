@@ -152,7 +152,8 @@
    "examples": [
     "Put your hand on your chest and breathe in. Feel your chest get bigger.",
     "A fish in a bowl keeps opening and closing her gills, taking in the air mixed into the water.",
-    "A tulsi plant on the balcony takes in air through tiny holes under the leaves."
+    "A tulsi plant on the balcony takes in air through tiny holes under the leaves.",
+    "Dust sticks to the leaves of a neem tree by the road, so the air there is cleaner."
    ],
    "perspectives": [
     {
@@ -1305,6 +1306,30 @@
    "a": 1,
    "why": "Moving air pushes against the kite and holds it up while someone holds the string.",
    "outcome": 2
+  },
+  {
+   "t": "mcq",
+   "p": "Which of these keeps the air clean and fresh?",
+   "opts": [
+    "Cutting down the trees along a road",
+    "Planting trees near our homes and schools",
+    "Burning plastic and rubbish in the open"
+   ],
+   "a": 1,
+   "why": "Leaves catch dust and smoke from the air, so trees help keep it clean. Burning plastic sends smoke and fumes into the air.",
+   "outcome": 4
+  },
+  {
+   "t": "mcq",
+   "p": "Which of these people uses science in their work?",
+   "opts": [
+    "A child who draws a kite on paper",
+    "A weather scientist who measures how fast the wind blows",
+    "A child who sings a song on the bus"
+   ],
+   "a": 1,
+   "why": "A weather scientist uses instruments to measure the air and the wind. Many people use science at work, such as doctors and engineers.",
+   "outcome": 5
   }
  ],
  "worksheets": [
@@ -1453,6 +1478,17 @@
      "a": "The second child is right: the bottle is full of air, just like the bucket and the space under the bed. The first child is right that there is no water and nothing we can see inside.",
      "why": "A strong answer uses Catch the Air: every place that looked empty had air. It is also fair to the first child: 'empty' usually means nothing we can see.",
      "how": "e1"
+    },
+    {
+     "t": "mcq",
+     "p": "Which one of these helps keep the air clean?",
+     "opts": [
+      "Cutting down the trees along a road",
+      "Planting trees near our homes and schools",
+      "Burning plastic and rubbish in the open"
+     ],
+     "a": 1,
+     "why": "Leaves catch dust and smoke from the air, so trees help keep it clean. Burning plastic sends smoke and fumes into the air."
     }
    ]
   },
@@ -1575,6 +1611,12 @@
      "a": 0,
      "why": "A bubble is a thin skin of soapy water with your breath inside. Your breath is air.",
      "how": "a3"
+    },
+    {
+     "t": "truefalse",
+     "p": "Only people in a laboratory use science.",
+     "a": false,
+     "why": "False. A weather scientist measures the wind, a doctor checks a body, and an engineer builds a windmill. Each uses science."
     }
    ]
   }
@@ -1584,7 +1626,8 @@
   "Tall windmills near Kanyakumari and in Gujarat turn in the wind and make electricity.",
   "Kites fly over Ahmedabad at Uttarayan and over many cities at Makar Sankranti, held up by moving air.",
   "Bicycle tyres, footballs and balloons are filled with air, so they are bouncy and firm.",
-  "Anna Mani, an Indian scientist, built instruments to measure the air: how fast the wind blows and how much ozone, a gas, is high up in the sky."
+  "Anna Mani, an Indian scientist, built instruments to measure the air: how fast the wind blows and how much ozone, a gas, is high up in the sky.",
+  "Weather scientists in India read the wind and the air every day, and use what they measure to warn people of storms and heavy rain."
  ],
  "spotted": [
   {

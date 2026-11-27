@@ -155,7 +155,8 @@
    "examples": [
     "Chilika Lake in Odisha is a wintering ground and a stopover for many thousands of water birds.",
     "The tidal mudflats of the Yellow Sea are a key stopover for waders on the way between Australia and the Arctic.",
-    "Keoladeo National Park near Bharatpur in Rajasthan is a wetland where many winter visitors arrive after crossing the Himalaya."
+    "Keoladeo National Park near Bharatpur in Rajasthan is a wetland where many winter visitors arrive after crossing the Himalaya.",
+    "Rosy starlings fly thousands of kilometres each winter, from Russia and Mongolia to India."
    ],
    "perspectives": [],
    "art": "A chain of lakes on a map between the Arctic and India, with one link drawn broken and a flock above it looking for another."
@@ -1018,7 +1019,7 @@
   {
    "id": "a1",
    "title": "Resident, Winter Visitor or Passer-by? Sort eight birds by when they are in India",
-   "mins": 15,
+   "mins": 18,
    "days": 1,
    "context": "In this activity, you sort eight birds by how they spend the year in India. You find out which birds stay all year and which only visit. Birders use four labels: resident, winter visitor, summer visitor and passage migrant.",
    "materials": [
@@ -1035,7 +1036,7 @@
    "schedule": [
     {
      "day": 1,
-     "mins": 15,
+     "mins": 18,
      "what": "Learn the four labels. Sort eight birds. Check each one against the clue."
     }
    ],
@@ -1093,6 +1094,14 @@
     },
     {
      "id": "s3",
+     "mins": 3,
+     "context": "In this step, you trace a long winter journey on a globe.",
+     "do": "Find Russia, Mongolia and India on a globe. Run a string or your finger from Russia and Mongolia down to India. That is the route a rosy starling flies each winter.",
+     "say": "Find Russia and Mongolia on the globe. Now follow the route south to India. A rosy starling flies this whole way every winter.",
+     "kid": "Find Russia, Mongolia and India on the globe. Trace the way the rosy starling flies."
+    },
+    {
+     "id": "s4",
      "mins": 5,
      "context": "In this step, you check which label fits the birds you know.",
      "do": "Think of two more birds you have seen. Decide which label fits each. If you can, look them up in a field guide or on a phone. For a week, tick each bird you see near home. Residents show up every day.",
@@ -1696,6 +1705,18 @@
    "a": false,
    "why": "False. Olive ridley turtles, hilsa fish, butterflies, elephants and many other animals make regular seasonal journeys. Some, such as the wallcreeper, move only up and down a mountain.",
    "outcome": 0
+  },
+  {
+   "t": "mcq",
+   "p": "Rosy starlings fly from Russia and Mongolia to India each winter. What do they eat there that helps farmers?",
+   "opts": [
+    "Locusts that harm crops",
+    "Fish from the sea",
+    "Honey from flowers"
+   ],
+   "a": 0,
+   "why": "Rosy starlings eat locusts. Locusts are insects that can swarm and destroy crops, so the winter visitors help farmers.",
+   "outcome": 0
   }
  ],
  "worksheets": [
@@ -1907,6 +1928,12 @@
      "a": 0,
      "why": "Migration is a regular, seasonal journey. The hilsa does it every year. A crow moving between a tree and a roof is a daily move.",
      "outcome": 0
+    },
+    {
+     "t": "truefalse",
+     "p": "Rosy starlings eat locusts that harm crops in India.",
+     "a": true,
+     "why": "True. Locusts are insects that can swarm and destroy crops. Rosy starlings eat them, which helps farmers."
     }
    ]
   },
@@ -2295,7 +2322,8 @@
   "Health teams watch migrating waterbirds for diseases such as bird flu, because flocks can carry them between countries.",
   "Planners place wind turbines and power lines away from busy flyways and narrow bottlenecks.",
   "Citizen science projects such as eBird and Bird Count India use many people's sightings to follow migrants.",
-  "Doctors and engineers study how birds store and burn fat, and how they save energy in flight, for ideas in medicine and aircraft design."
+  "Doctors and engineers study how birds store and burn fat, and how they save energy in flight, for ideas in medicine and aircraft design.",
+  "Rosy starlings come to India in winter and eat locusts, insects that can swarm and harm crops."
  ],
  "spotted": [
   {

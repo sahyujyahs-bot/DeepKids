@@ -260,7 +260,8 @@
    "examples": [
     "Birds eat caterpillars. Young lime caterpillars are brown and white, like bird droppings, so birds leave them alone.",
     "Older lime caterpillars are green, the colour of the leaves they eat.",
-    "A grown butterfly does not grow any more. They drink nectar, find a mate and lay eggs."
+    "A grown butterfly does not grow any more. They drink nectar, find a mate and lay eggs.",
+    "A honey bee follows the same four stages. The queen lays an egg in a wax cell, and worker bees feed the larva until it is sealed in its cell as a pupa."
    ],
    "perspectives": [],
    "art": "A circle: a tiny egg on a curry leaf, a brown-and-white caterpillar, a green caterpillar, a green chrysalis on a stem, a black-and-yellow lime butterfly.",
@@ -288,7 +289,8 @@
    "examples": [
     "Just grows: hen, cow, snake, crocodile, human.",
     "Egg, nymph, adult: grasshopper, cockroach, dragonfly.",
-    "Egg, larva, pupa, adult: butterfly, silkworm moth, mosquito, ladybird, honeybee."
+    "Egg, larva, pupa, adult: butterfly, silkworm moth, mosquito, ladybird, honeybee.",
+    "Beetles, such as the Indian rhinoceros beetle, hatch as a grub (a larva) in soil or rotting wood, rest as a pupa, and then come out as adults."
    ],
    "perspectives": [],
    "art": "Three rows: a chick growing into a hen. A small wingless grasshopper growing into a winged one. A caterpillar, chrysalis and butterfly.",
@@ -966,6 +968,18 @@
      "context": "A mosquito has four stages. The young that live in water are called wrigglers. The resting stage, which is the pupa, is called a tumbler."
     },
     {
+     "t": "order",
+     "p": "Put the stages of a honey bee in order: adult, pupa, egg, larva.",
+     "items": [
+      "egg",
+      "larva",
+      "pupa",
+      "adult"
+     ],
+     "a": "order shown",
+     "why": "A honey bee starts as an egg in a wax cell. The larva is fed until it is sealed in its cell. The pupa then becomes an adult bee."
+    },
+    {
      "t": "write",
      "p": "Why do we draw a life cycle as a circle, and not as a straight line?",
      "lines": 3,
@@ -1244,6 +1258,12 @@
      ],
      "a": "see items",
      "why": "Butterflies, mosquitoes and bees have a pupa stage. Grasshoppers, cockroaches and dragonflies do not. Their nymphs grow wings slowly."
+    },
+    {
+     "t": "truefalse",
+     "p": "A beetle's grub turns into an adult without a pupa stage.",
+     "a": false,
+     "why": "False. A beetle goes through a pupa stage, like a butterfly. A grasshopper or cockroach skips it and goes from nymph to adult."
     },
     {
      "t": "truefalse",
@@ -3226,6 +3246,30 @@
    "outcome": 3,
    "how": "a1",
    "context": "In Open an Egg like a Scientist, you cracked an egg onto a plate and found all its parts."
+  },
+  {
+   "t": "mcq",
+   "p": "Which is the right order for a honey bee?",
+   "opts": [
+    "Egg, larva, pupa, adult",
+    "Egg, nymph, adult",
+    "Larva, egg, adult, pupa"
+   ],
+   "a": 0,
+   "why": "A honey bee changes completely, like a butterfly. Its larva is fed in a cell, then it rests as a pupa before it becomes an adult.",
+   "outcome": 2
+  },
+  {
+   "t": "mcq",
+   "p": "A beetle hatches from an egg as a grub. What comes next in the beetle's life cycle?",
+   "opts": [
+    "A pupa, and then an adult",
+    "A nymph that grows wings slowly",
+    "Nothing, the grub is already the adult"
+   ],
+   "a": 0,
+   "why": "A beetle changes completely, like a butterfly. The grub rests as a pupa before it becomes an adult. A grasshopper skips the pupa.",
+   "outcome": 2
   }
  ],
  "applications": [

@@ -118,6 +118,24 @@
    "meaning": "Colour or shape that makes an animal hard to see against her background.",
    "example": "An octopus on a reef turns the colour and pattern of the rock beside her.",
    "art": "An octopus almost invisible against a coral rock."
+  },
+  {
+   "term": "Herbivore",
+   "meaning": "An animal that eats only plants.",
+   "example": "A cow eats grass and leaves.",
+   "art": "A cow grazing on a green field."
+  },
+  {
+   "term": "Carnivore",
+   "meaning": "An animal that eats only other animals.",
+   "example": "A tiger eats deer.",
+   "art": "A tiger with a deer in the grass."
+  },
+  {
+   "term": "Omnivore",
+   "meaning": "An animal that eats both plants and animals.",
+   "example": "A crow eats grain and insects.",
+   "art": "A crow pecking at grain and an insect on a dusty road."
   }
  ],
  "explanations": [
@@ -134,6 +152,19 @@
    "perspectives": [],
    "art": "Three cards in a row: problem, part and price, with a camel's hump drawn on them.",
    "context": "This is the big idea of the unit. We will use it for each animal in turn."
+  },
+  {
+   "concept": "Teeth and stomachs fit what an animal eats",
+   "status": "defined",
+   "definition": "A herbivore eats only plants. A carnivore eats only other animals. An omnivore eats both plants and animals.",
+   "description": "A cow has flat back teeth that grind grass and leaves, and a stomach with four parts that breaks down the tough plant food. A tiger has long, sharp teeth that hold and tear meat. A human has flat back teeth for chewing rice, dal and roti, and sharp front teeth for biting fruit and fish. Each animal's teeth and stomach are an answer to the food she eats.",
+   "examples": [
+    "A goat's flat back teeth grind leaves before she swallows them.",
+    "A tiger's long, sharp teeth hold a deer while she tears the meat.",
+    "A crow eats grain, insects and scraps, so she is an omnivore."
+   ],
+   "perspectives": [],
+   "art": "Three animals side by side, a cow, a tiger and a human, each with a close-up of its teeth and a food bowl below."
   },
   {
    "concept": "The camel's hump holds fat, not water",
@@ -1809,6 +1840,31 @@
     },
     {
      "t": "sort",
+     "p": "Sort each animal by what it eats, using its teeth and stomach as clues.",
+     "cats": [
+      "Only plants",
+      "Only other animals",
+      "Both plants and animals"
+     ],
+     "items": [
+      [
+       "a cow, with flat back teeth and a stomach with four parts",
+       "Only plants"
+      ],
+      [
+       "a tiger, with long, sharp teeth for tearing meat",
+       "Only other animals"
+      ],
+      [
+       "a human, with flat back teeth and sharp front teeth",
+       "Both plants and animals"
+      ]
+     ],
+     "a": "as given",
+     "why": "A cow's flat teeth grind plants, and her stomach breaks them down. A tiger's sharp teeth hold meat. A human has both kinds of teeth, so a human eats both."
+    },
+    {
+     "t": "sort",
      "p": "Sort each body part by the problem it helps to solve.",
      "cats": [
       "Staying cool",
@@ -2477,6 +2533,18 @@
    "a": 0,
    "why": "This is convergent evolution. A lens is a good answer to the problem of seeing a sharp image, so it appeared twice, from different bodies.",
    "outcome": 7
+  },
+  {
+   "t": "mcq",
+   "p": "Which of these animals is an omnivore?",
+   "opts": [
+    "A human, who eats rice, dal, fruit and fish",
+    "A cow, who eats only grass and leaves",
+    "A tiger, who eats only deer"
+   ],
+   "a": 0,
+   "why": "A human eats both plants and animals, so a human is an omnivore. A cow is a herbivore, and a tiger is a carnivore.",
+   "outcome": 0
   }
  ],
  "maths": [

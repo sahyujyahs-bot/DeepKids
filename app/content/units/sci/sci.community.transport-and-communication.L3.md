@@ -27,10 +27,18 @@
 - **One-way communication**: In one-way communication, the message goes from the sender to the receiver, and the receiver cannot answer back straight away. *e.g.* A radio programme, a road sign and a newspaper are one-way.
 - **Two-way communication**: In two-way communication, both people can send and receive messages, so the listener can ask questions. *e.g.* A phone call and a talk at the dinner table are two-way.
 - **Mass communication**: Mass communication sends one message to a very large number of people at once. *e.g.* A cricket match on TV reaches millions of homes at the same time.
+- **SMS**: SMS is a short text message sent from one phone to another. *e.g.* My uncle sent an SMS to say the train was late.
+- **Email**: Email is a message sent from one person to another by the internet. *e.g.* A teacher sends a worksheet to parents by email.
+- **Internet**: The internet is a big web that joins computers and phones all over the world, so they can share messages, pictures and information. *e.g.* You can send a photo to a cousin in another country over the internet.
+- **Teleprinter**: A teleprinter was a machine with keys that sent typed messages along wires and printed them on paper at the other end. *e.g.* Newspaper offices once got news from far places on a teleprinter.
+- **Teletext**: Teletext sent pages of written news and weather along with the TV signal, to read on the TV screen. *e.g.* A family read the train times on teletext.
 - **Satellite**: A satellite is an object that goes round the Earth again and again. People send machines up into space to be satellites. Communication satellites pass on phone, TV and internet signals. *e.g.* Your TV dish points up at a satellite far above the Earth.
 - **PIN code**: A PIN code is the 6-digit number in an Indian address. PIN stands for Postal Index Number. It tells the post office which area a letter must go to. *e.g.* The PIN code 600001 is for an area in Chennai.
 - **Pollution**: Pollution is anything harmful that we add to air, water or land. Vehicle smoke and loud horns are two kinds of pollution. *e.g.* A bus with an old engine leaves a cloud of black smoke behind.
 - **Exhaust**: Exhaust is the smoke and gas that come out of a vehicle's engine when it burns petrol or diesel. It has carbon dioxide and tiny specks of soot in it. *e.g.* You can smell the exhaust behind a bus at a bus stop.
+- **Flyover**: A flyover is a raised road that lifts traffic above a busy crossing, so vehicles can go over it without stopping. *e.g.* The flyover in the city lets buses go over the junction while other vehicles use the road below.
+- **Traffic jam**: A traffic jam is when so many vehicles are on a road that they move very slowly or stop. *e.g.* A broken-down bus on a narrow road made a long traffic jam.
+- **CNG**: CNG stands for compressed natural gas. It is a gas squeezed into a tank, and it is used as fuel in some buses, autos and cars. *e.g.* Many autos in Delhi run on CNG instead of petrol.
 
 ## Explanations
 ### Why a dark shirt is hard to see at night · *defined*
@@ -47,6 +55,12 @@ The first transport was walking. People carried loads on their heads and backs, 
 - e.g. The first passenger train in South India ran from Royapuram in Madras in 1856.
 - e.g. Kattumaram, the Tamil name for a raft of logs tied together, gave English the word 'catamaran'.
 - e.g. Kochi started India's first water metro, with electric boats, in 2023.
+### Fuels that run vehicles · *defined*
+**Definition:** Engines need fuel. The main fuels are petrol, diesel, CNG and electricity.
+
+Petrol and diesel are liquids that come from under the ground. CNG is a gas, squeezed into a strong tank. Many buses and autos in Delhi run on it. Electric vehicles run on stored electricity from a battery. A cycle uses no fuel. It runs on the rider's legs.
+- e.g. An auto in Delhi runs on CNG.
+- e.g. An e-rickshaw runs on a battery.
 ### The kinds of transport · *defined*
 **Definition:** There are five main kinds of transport: road, rail, water, air and pipeline. Each is best for different journeys.
 
@@ -56,6 +70,12 @@ Road transport, such as cycles, autos, buses and trucks, goes almost everywhere,
 - e.g. Big ships carry cars and machines into Chennai port: water transport.
 - e.g. In Guwahati, ferries carry people and bicycles across the wide Brahmaputra river: water transport.
 - e.g. Mumbai's dabbawalas carry thousands of lunch boxes every day by train and by bicycle: rail and road transport working together.
+### Roads, rivers and skies · *defined*
+**Definition:** India has old roads, big rivers and air routes that carry people and goods.
+
+The Grand Trunk Road runs across north India. It is very old. In the 1500s, Sher Shah Suri rebuilt it with shady trees, wells and rest houses for travellers. National highways are big roads that join states and large cities. Rural roads join villages to towns and markets. Water transport began with small fishing boats. Later, big ships carried trade between countries. Boats and ships have long used rivers such as the Ganga and the Hooghly. Air transport is the fastest, and it can reach far places in the hills. A helicopter can reach a town such as Tawang in Arunachal Pradesh.
+- e.g. Trucks carry goods along a national highway from Delhi to Kolkata.
+- e.g. Ships on the Hooghly bring goods to Kolkata port.
 ### How communication grew · *defined*
 **Definition:** Communication grew from gestures and speech, to drums, smoke and messengers, to writing and the post, and then to electric messages: the telegraph, the telephone, radio, TV and the internet.
 
@@ -63,6 +83,36 @@ People first shared messages face to face, with sounds, faces and hand movements
 - e.g. The Radio Club of Madras began radio broadcasts in Chennai in 1924.
 - e.g. Odisha police kept a pigeon post service running until 2008.
 - e.g. PIN codes began in India on 15 August 1972.
+### Printing helped messages travel · *defined*
+**Definition:** Printing makes many copies of the same words. It began with carved wooden blocks and grew into letterpress and computer typesetting.
+
+In China, people carved words into wooden blocks. They rubbed ink on the block and pressed paper onto it. This block printing is more than 1,000 years old. Later, people made metal letters that could be moved around and used again. This is called letterpress. Today a computer sets the letters on a page in seconds.
+- e.g. A newspaper office once set metal letters by hand, and now uses a computer.
+### The post office and a letter's journey · *defined*
+**Definition:** A letter travels by post: a postbox, a postman, sorting by region and a delivery postman. The post office also sends money and parcels.
+
+You drop a letter in a red postbox. The postman collects it and takes it to the post office. There, workers sort the letters by region, using the PIN code, and send them on by train, truck or plane. At the end, a postman brings the letter to the door. In the past, a letter could take weeks to reach a far place. The post office also does other jobs. A money order sends money to a family far away. A parcel carries things, such as a gift or a book. India's first law about the post was in 1837, and the postal department began in 1854.
+- e.g. A grandmother in a village in Odisha gets a money order from her son in Mumbai through the postman.
+- e.g. A letter from Chennai to Kolkata is sorted at a post office using its 6-digit PIN code.
+### Telephone, teleprinter, radio and television · *defined*
+**Definition:** The telephone carries voices along wires. The teleprinter typed messages sent along telegraph wires. Radio and television carry sound, and television also carries pictures, through the air.
+
+The telegraph came first. Then the telephone carried a person's own voice. A teleprinter was a machine with keys, like a typewriter. When someone typed a message on it, the message went along wires and was printed on paper at the far end. Radio sends sound through the air as radio waves, and television sends pictures and sound. Both are one-way, so one station can reach millions of homes. Teletext sent pages of written news, weather and train times along with the television signal, and people read them on their TV screens. In India, the telegraph linked big cities by about 1860, and the first phones came in the 1880s. Radio started in the 1920s, and Doordarshan, India's TV, began in 1959. Today India uses the post, phones, radio, TV and the internet.
+- e.g. A farmer in Punjab listens to the radio for weather news in the morning.
+- e.g. Families in the 1980s gathered at one house to watch Doordarshan on one television.
+### SMS, email, fax and the internet · *defined*
+**Definition:** An SMS is a short text message sent from phone to phone. Email is a letter sent by the internet. A fax sends a copy of a page along a phone line. The internet joins computers and phones all over the world.
+
+An SMS arrives on a phone in a moment. An email can carry a long letter, a photo or a school form, and it reaches the other person's computer or phone within seconds. A fax copies a page and prints it at the other end. Farmers can get the price of their crop in the mandi (the market) by an SMS or on the internet, and so can choose where to sell. The internet is how a message on your phone reaches a computer in another country.
+- e.g. A girl in Pune sends an SMS to her cousin in Jaipur and gets a reply in a minute.
+- e.g. A farmer in Nashik checks onion prices on his phone before taking his crop to the mandi.
+- e.g. A boy in Kochi emails a drawing to his teacher.
+### Good and bad uses of messages · *defined*
+**Definition:** Phones, letters and TV can be used well or badly. A message may also be false, so it needs checking.
+
+Families use calls and messages to share news, jokes and photos, and children use them for fun. A phone call is quick. A letter is slow, but you can keep it and read it again. TV tells many people the news at once, but too much watching wastes time. The internet has bad uses too. Someone may send a false message, called false news, or a trick to take money. A message may be false. A careful person checks who sent it and asks a grown-up before sharing it.
+- e.g. A boy in Kochi calls his grandmother on her birthday, and she is happy.
+- e.g. A neighbour gets a message that a tiger is loose in the town. She asks the forest office, and finds it is false.
 ### One-way and two-way communication · *defined*
 **Definition:** In one-way communication, the receiver cannot answer back straight away. In two-way communication, both sides can send and receive, so the listener can ask questions.
 
@@ -73,18 +123,37 @@ A road sign, a radio programme and a newspaper are one-way. They can reach very 
 ### Road signs and traffic lights · *defined*
 **Definition:** Road signs give their message by shape and colour, so they can be read from far away and without words. In India, a circle gives an order, a triangle gives a warning, and a rectangle gives information.
 
-A red circle says what you must not do, such as 'No horn' or 'No entry'. A blue circle says what you must do, such as 'Go straight only'. A triangle with a red border warns you of something ahead, such as a school, a speed breaker or a sharp bend. A blue rectangle gives information, such as the way to a hospital or a petrol pump. The STOP sign is a red eight-sided shape. Traffic lights use red for stop, amber for get ready to stop, and green for go. People on foot have their own lights: a red standing person and a green walking person. These rules let thousands of strangers share a road without crashing into each other.
+A red circle says what you must not do, such as 'No horn' or 'No entry'. A blue circle says what you must do, such as 'Go straight only'. A triangle with a red border warns you of something ahead, such as a school, a speed breaker or a sharp bend. A blue rectangle gives information, such as the way to a hospital or a petrol pump. The STOP sign is a red eight-sided shape. Traffic lights use red for stop, amber for get ready to stop, and green for go. People on foot have their own lights: a red standing person and a green walking person. These rules let thousands of strangers share a road without crashing into each other. You will see other signs too. 'No Parking' means do not leave your vehicle here. 'Speed Breaker' means a raised bump is ahead, so slow down. 'Men at Work' means people are working on the road ahead, so go slowly.
 - e.g. A triangle with two children on it means 'School ahead: slow down'.
 - e.g. A red circle with '40' inside means 'Do not go faster than 40 kilometres an hour'.
 - e.g. A blue rectangle with a fuel pump picture means 'Petrol pump this way'.
+### Staying safe on the road and in a bus · *defined*
+**Definition:** To stay safe, cross a road only with care and a grown-up, and sit down in a bus with your hands and head inside.
+
+In India, vehicles keep to the left side of the road. So to cross, stop at the edge, look right, then left, then right again. Cross only when the road is clear, at a zebra crossing if there is one, and hold a grown-up's hand. In a bus, sit down or hold the rail firmly, and keep your hands and head inside the window. A hill bus trip needs even more care. A hairpin bend is a very sharp turn, shaped like a hairpin. The bus goes slowly round it, and people may feel the bus tip to one side. On a mountain road you may see tall trees on one side and a deep slope on the other. So stay seated, and do not disturb the driver. Playing safely matters too. A busy road, a roof with no railings and a construction site are not safe places to play. A park is a safer place, with a grown-up watching.
+- e.g. A girl in Shimla holds her mother's hand, looks right, left and right again, and crosses at the zebra crossing.
+- e.g. On a bus in the Nilgiri hills, a boy sits down and keeps his arm inside the window as the bus goes round a hairpin bend.
+### Who keeps the roads running and safe · *defined*
+**Definition:** Many people work to keep transport going, and traffic police and emergency vehicles keep the road safe for everyone.
+
+Transport needs many workers. Drivers, conductors (who sell tickets on a bus), mechanics, pilots, ship's captains, railway guards, porters, boatmen, petrol pump workers and cycle repairers all help people and goods reach their place. Traffic police stand at busy crossings. They wave their hands and blow whistles to guide vehicles, and they help when a light stops working. They also stop people who break the rules. Emergency vehicles, such as an ambulance, a fire engine and a police jeep, carry people in danger and need to go fast. They have flashing lights and a siren. When you hear one, you must move aside and let it pass.
+- e.g. A porter at a railway station carries heavy bags from the train to the gate.
+- e.g. A mechanic in a small garage mends a bus engine so it can run safely.
 ### How transport affects the air and our health · *defined*
 **Definition:** Vehicles that burn petrol or diesel give out exhaust. Exhaust has carbon dioxide, which warms the Earth, and tiny specks of soot and harmful gases, which hurt our lungs. Horns and engines also cause noise pollution.
 
-In big cities, much of the dirty air comes from vehicles. Breathing it for years can make people ill, especially children and old people. Carbon dioxide from engines adds to the gases that are warming the whole Earth. Walking and cycling make no exhaust at all. A full bus or metro carries many people with much less fuel for each person than if they all drove. Electric vehicles give out no exhaust on the road, but their electricity often comes from power stations that burn coal. So the cleanest journey is often the one we walk, cycle or share.
+In big cities, much of the dirty air comes from vehicles. Breathing it for years can make people ill, especially children and old people. Carbon dioxide from engines adds to the gases that are warming the whole Earth. Walking and cycling make no exhaust at all. A full bus or metro carries many people with much less fuel for each person than if they all drove. Electric vehicles give out no exhaust on the road, but their electricity often comes from power stations that burn coal. So the cleanest journey is often the one we walk, cycle or share. What makes vehicles noisy? Engines shake as they work. Horns blow loudly. Brakes squeal, and tyres roar on rough roads. Aeroplanes and trains are loud too. You can cut smoke and noise in many ways. Get engines serviced, so they burn fuel well. Switch the engine off at a long red light. Share a ride, or use a bus or metro. Walk or cycle for short trips. Blow the horn only when you must.
 - e.g. A Chennai Metro train carries hundreds of people at once on electricity.
 - e.g. Kolkata has India's oldest metro, opened in 1984. It carries people on electricity, with no exhaust in the streets.
 - e.g. A cycle ride to the shop makes no smoke and no noise.
 - e.g. Some hospital and school zones have 'No horn' signs to cut noise.
+- e.g. Delhi's buses and autos run on CNG, which gives out less smoke than diesel.
+### Traffic jams and how to ease them · *defined*
+**Definition:** A traffic jam happens when more vehicles try to use a road than it can carry, so they move slowly or stop.
+
+Jams happen for many reasons. There are too many vehicles at one time. The road is narrow. A vehicle breaks down or parks on the road. Rain floods a road. A busy crossing has no light or police. A jam wastes time, and engines that sit still keep making smoke. Cities try many ways to ease them. A flyover is a bridge-like road that lifts traffic above a busy crossing, so vehicles going straight do not have to stop there and wait. Buses, e-rickshaws and metro trains move many people in fewer vehicles. Offices and schools can start at different times, and neighbours can share a car.
+- e.g. The flyover at a busy junction in Bengaluru lets traffic go over the crossing while other vehicles use the road below.
+- e.g. A metro train on a bridge above the street takes people over a jam.
 ### How a radio message gets past the curve of the Earth · *defined*
 **Definition:** Some radio waves bounce off a layer high above the Earth called the ionosphere. In that layer, sunlight has given the thin air an electric charge. That charge is what bounces the radio waves back down. This lets them reach places far beyond the horizon. Today, satellites also pass on signals across the world.
 
@@ -419,6 +488,30 @@ Paati laughed. 'Now that is a question even I never asked on the night bus. What
   *Parent does:* Fill in the 'then and now' table together.  
   *Parent says:* Let's compare. What is faster now? Is anything better about how it was then?  
   *Child mode:* Fill in your table. What is faster now? Was anything better then?
+### a7 · Vehicle Picture Book: draw or collect vehicles (20 min)
+- **safety:** A grown-up helps with scissors and any outing.
+- **record:** Keep the book. Count how many vehicles use petrol, diesel, CNG or electricity.
+- **s1 (10 min)**  
+  *Parent does:* 1. Cut six vehicles from old papers or draw them. 2. Try to find different kinds: a cycle, a bus, a train, a boat, an aeroplane and an e-rickshaw.  
+  *Parent says:* Let's find six different vehicles. Draw them or cut them out.  
+  *Child mode:* Find or draw six different vehicles.
+- **s2 (10 min)**  
+  *Parent does:* 1. Stick each vehicle on a page. 2. Write its kind of transport and what fuel it uses.  
+  *Parent says:* What does each one run on? Petrol, diesel, CNG, electricity or just legs?  
+  *Child mode:* Write what each vehicle runs on.
+  - Note: A cycle runs on the rider's legs. An e-rickshaw runs on a battery. Many city buses use diesel or CNG.
+### a8 · Letter and Call: send the same news two ways (20 min)
+- **safety:** A grown-up helps with scissors and any outing.
+- **record:** Write one line: which was quicker, and what is good about each.
+- **s1 (10 min)**  
+  *Parent does:* 1. Write two lines to a relative. 2. Put it in an envelope and address it with the PIN code. 3. Then call the same relative, with a grown-up's help, and tell them the same news.  
+  *Parent says:* Let's send the same news two ways. First a letter, then a call.  
+  *Child mode:* Write a short letter. Then say the same news on a call.
+- **s2 (10 min)**  
+  *Parent does:* Ask which way was quicker, and which one can be kept.  
+  *Parent says:* Which one reached them first? Which can they keep and read again?  
+  *Child mode:* Which was quicker? Which can be kept?
+  - Note: A call is quick. A letter takes days, but can be kept and read again. Both are good, and each fits a different need.
 
 ## Projects
 ### p1 · Our Safe Walk Map: the route to the nearest shop (45 min, 2 days)
@@ -481,7 +574,7 @@ Paati laughed. 'Now that is a question even I never asked on the night bus. What
   *Child mode:* Point to the part that shone furthest.
 
 ## Worksheets
-### Transport, messages and road safety (core) (core, 15 questions)
+### Transport, messages and road safety (core) (core, 20 questions)
 1. (sort) Here is a list of ways to travel. Sort each one into its kind of transport.  
    **Answer:** an auto-rickshaw → Road; a goods train → Rail; a kattumaram → Water; a helicopter → Air; a city bus → Road; a metro train → Rail; a ferry boat → Water; an aeroplane → Air. *Why:* Road transport runs on roads, rail on tracks, water transport floats, and air transport flies. A kattumaram is a raft of logs tied together. A strong answer knows that a metro is rail transport, even when it runs on a bridge above the road.
 2. (mcq) In the Seen in the Dark test, the same dim torch shines on a black cloth and a white cloth. Which one can you still see from further away?  
@@ -516,7 +609,18 @@ Paati laughed. 'Now that is a question even I never asked on the night bus. What
    **Answer:** ['red: stop', 'amber: get ready to stop', 'green: go']. *Why:* The red light is at the top, amber in the middle and green at the bottom. A strong answer writes what each colour tells the driver to do.
 15. (write) Your family walks home after dinner at night. Write two things each person can do so that drivers see them.  
    **Answer:** Wear white or pale clothes. Wear or carry something with a reflective strip. Carry a torch and shine it on the ground ahead.. *Why:* A strong answer uses the Seen in the Dark test: pale clothes and reflective strips send much more light back to a driver.
-### Signs, signals and choices (stretch) (stretch, 15 questions)
+16. (match) Match each person to what they do for transport.  
+   **Answer:** Driver → drives the vehicle; Mechanic → mends engines; Traffic police → guides vehicles at a crossing; Porter → carries heavy bags at a station. *Why:* Many people work so that transport runs well. A strong answer can name one more job, such as a pilot or a boatman.
+17. (draw) Draw or paste four pictures of different vehicles. Write under each one what fuel it uses: petrol, diesel, CNG or electricity.  
+   **Answer:** Four pictures, such as a bus (diesel or CNG), a scooter (petrol), an e-rickshaw (electricity) and a car, each with a fuel written below.. *Why:* A strong answer picks four different vehicles and names a fuel for each. A cycle uses no fuel at all, only the rider's legs.
+18. (truefalse) On a bus it is safe to put your hand out of the window.  
+   **Answer:** False. *Why:* Your hand or head can hit a pole, a tree or another vehicle. Keep them inside and sit down.
+19. (match) Match each sign to what it tells you.  
+   **Answer:** No Parking → do not leave your vehicle here; Speed Breaker → a bump is ahead, so slow down; Men at Work → people are working, so go slowly. *Why:* These signs use words as well as pictures. A strong answer could draw one new sign of their own.
+20. (mcq) What is email?  
+   Options: A message sent by the internet / A kind of train / A road sign / A fuel  
+   **Answer:** A message sent by the internet. *Why:* Email is a message sent by the internet from one person to another, in seconds.
+### Signs, signals and choices (stretch) (stretch, 20 questions)
 1. (mcq) In the Seen in the Dark test, a reflective strip on the chair shone brightly when the torch was beside your eye. What happened when you held the torch far out to the side?  
    Options: The strip shone even brighter / The strip looked much duller / The strip turned black / Nothing changed  
    **Answer:** The strip looked much duller. *Why:* A reflective strip sends light straight back towards the lamp. With the torch by your eye, the light came straight back to you. With the torch to the side, the light went back to the torch, not to your eyes.
@@ -553,7 +657,18 @@ Paati laughed. 'Now that is a question even I never asked on the night bus. What
 15. (mcq) A honeybee finds flowers and comes back to the hive. How does she tell other bees where the flowers are?  
    Options: She draws a map / She dances, and the direction and length of her dance show the way / She buzzes the name of the flower / She cannot share it  
    **Answer:** She dances, and the direction and length of her dance show the way. *Why:* Honeybees dance on the comb. The direction of the dance shows which way to fly, and its length shows how far. Karl von Frisch worked this out.
-### Thinking like a road engineer (challenge) (challenge, 15 questions)
+16. (write) Name two reasons for a traffic jam, and give one way to make it smaller.  
+   **Answer:** Reasons: too many vehicles at once, a narrow road, a vehicle that broke down. A way to reduce it: build a flyover, run more buses, or share rides.. *Why:* A strong answer gives two real reasons and one way that fits those reasons.
+17. (mcq) Which road runs across north India and was rebuilt by Sher Shah Suri in the 1500s?  
+   Options: The Grand Trunk Road / The Hooghly / The Konkan Railway / A national airport  
+   **Answer:** The Grand Trunk Road. *Why:* The Grand Trunk Road is very old. Sher Shah Suri rebuilt it and added trees, wells and rest houses.
+18. (match) Match each tool to what it does.  
+   **Answer:** Teleprinter → prints typed messages from wires; Teletext → shows written news on a TV screen; Fax → copies a page and prints it far away; Radio → sends sound through the air. *Why:* Each tool carries a message in its own way. Only radio and TV send their message through the air to many homes.
+19. (write) Write one good use and one bad use of a phone, a letter or TV.  
+   **Answer:** Good use: a phone call lets a child hear a grandparent far away. Bad use: a false message that spreads fast. A letter is slow but can be kept. TV can inform us, but too much watching wastes time.. *Why:* A strong answer gives one fair good use and one fair bad use of the same tool.
+20. (sort) Sort each into 'helps cut smoke and noise' or 'adds smoke and noise'.  
+   **Answer:** switching off the engine at a red light → Cuts smoke and noise; blowing the horn all the time → Adds smoke and noise; sharing a ride → Cuts smoke and noise; a badly kept engine → Adds smoke and noise. *Why:* Less fuel burnt and fewer horns means cleaner air and a quieter street.
+### Thinking like a road engineer (challenge) (challenge, 19 questions)
 1. (write) In the Seen in the Dark test, the white cloth was seen from much further away than the black cloth. On a real road, why does this distance matter so much to a driver going fast?  
    **Answer:** A fast vehicle needs a long distance to slow down and stop. If the driver sees a walker only when very close, there is no time to stop. Seeing someone from further away gives the driver time.. *Why:* A strong answer links seeing distance to stopping distance, and so to safety.
 2. (mcq) In the Seen in the Dark test, suppose your white cloth is still visible at the far wall, 15 foot-steps away. What should you do to find how far it can really be seen?  
@@ -587,6 +702,15 @@ Paati laughed. 'Now that is a question even I never asked on the night bus. What
    **Answer:** ['your phone sends radio waves', 'radio waves reach a phone tower', 'the tower sends it on through cables or a satellite', "it reaches another tower and then your friend's phone"]. *Why:* A phone call is carried as radio waves to the nearest tower, then on through cables or satellites, then out again by radio to the other phone. A strong answer puts the parts in the right order.
 15. (order) Put these steps of a letter's journey in order.  
    **Answer:** ['You post it in a post box', 'It is sorted by PIN code at a sorting office', 'It goes by train or van to the right city', 'A postwoman brings it to the door']. *Why:* A letter is collected, sorted by PIN code, carried to the right area, and then delivered. Transport and communication work together here.
+16. (order) Put these Indian dates in order, from earliest to latest.  
+   **Answer:** ['Postal department begins (1854)', 'Telegraph links big cities (about 1860)', 'Radio begins (1920s)', 'Doordarshan begins (1959)']. *Why:* The post came first, then the telegraph, then radio and TV.
+17. (mcq) A message says, 'Free phones for everyone! Click here.' What is the best first step?  
+   Options: Click it at once / Ask a grown-up and check who sent it / Forward it to friends / Give your name and number  
+   **Answer:** Ask a grown-up and check who sent it. *Why:* A message that offers free things may be a trick. Stop, ask and check, and do not share it.
+18. (write) A flyover costs a lot, but a bus lane costs less. Which would you choose for a busy crossing in your town? Give two reasons.  
+   **Answer:** A strong answer picks one and gives two reasons, such as saving time, fewer jams, cost, or carrying more people in fewer vehicles. It names one good point of the other choice.. *Why:* Both can ease a jam in different ways, and the best choice depends on the road.
+19. (truefalse) On a hill road, a hairpin bend is a very sharp turn, so the bus goes slowly round it.  
+   **Answer:** True. *Why:* A hairpin bend is shaped like a hairpin. The bus slows down, and children stay seated.
 
 ## Videos
 - **Retroreflectors; they're everywhere, and they cheat physics (sort of)** (Technology Connections, 15 min) id `Bi_Tp1H9CDs`: For the parent and curious older children: how the strips on bags, road signs and cycle reflectors send light straight back to the lamp. It explains what the Seen in the Dark test showed with a reflective strip. *Check:* Preview it first and check its length.
@@ -630,6 +754,66 @@ Paati laughed. 'Now that is a question even I never asked on the night bus. What
 12. (mcq) One full bus carries about as many people as 25 cars. Why is that good for the city's air?  
    Options: Buses are painted brighter / One engine burns far less fuel than 25 engines / Buses never stop / Cars have no engines  
    **Answer:** One engine burns far less fuel than 25 engines. *Why:* One bus engine burns much less fuel than 25 car engines. So sharing a bus makes much less smoke for each person.
+13. (mcq) Which of these fuels is a gas, squeezed into a tank?  
+   Options: Petrol / Diesel / CNG / Coal  
+   **Answer:** CNG. *Why:* CNG means compressed natural gas. Petrol and diesel are liquids.
+14. (mcq) A bus is stuck behind a long line of vehicles at a busy crossing. Which helps most to ease the jam?  
+   Options: A flyover that lifts traffic over the crossing / More horns / More parked cars on the road / A narrower road  
+   **Answer:** A flyover that lifts traffic over the crossing. *Why:* A flyover lets many vehicles go over the crossing without stopping. Horns and parked cars do not help, and a narrower road makes the jam worse.
+15. (mcq) Which one cuts both smoke and noise from vehicles?  
+   Options: Blowing the horn often / Switching the engine off at a long red light / Driving faster / Never servicing the engine  
+   **Answer:** Switching the engine off at a long red light. *Why:* An engine that is off makes no smoke and no noise. Horns and a badly kept engine make both worse.
+16. (mcq) An ambulance comes up behind you with its siren on. What should the drivers do?  
+   Options: Race it / Move aside and let it pass / Stop in the middle of the road / Blow their horns  
+   **Answer:** Move aside and let it pass. *Why:* An ambulance may be carrying someone in danger. Drivers must make way.
+17. (mcq) Who helps fix a bus engine so that it runs safely?  
+   Options: A porter / A mechanic / A conductor / A postman  
+   **Answer:** A mechanic. *Why:* A mechanic mends engines. A porter carries bags, a conductor sells tickets, and a postman brings letters.
+18. (mcq) You want to cross a road in India. What should you do?  
+   Options: Run across at once / Stop at the edge, look right, left and right again, and cross when it is clear / Cross with your eyes closed / Wait in the middle of the road  
+   **Answer:** Stop at the edge, look right, left and right again, and cross when it is clear. *Why:* Vehicles keep to the left in India, so the first danger comes from the right. Look both ways and hold a grown-up's hand.
+19. (mcq) On a hill bus, why must you keep your hands and head inside?  
+   Options: It is cooler / The bus may pass very close to rocks, trees and other vehicles round a hairpin bend / The driver likes it / The windows are for looking at the sky  
+   **Answer:** The bus may pass very close to rocks, trees and other vehicles round a hairpin bend. *Why:* On narrow hill roads, things pass very close. A head or hand outside can be hurt.
+20. (mcq) A sign shows a triangle with a red border and a picture of men digging. What does it mean?  
+   Options: Men at Work: go slowly / No Parking / Petrol pump / You must go straight  
+   **Answer:** Men at Work: go slowly. *Why:* A red-bordered triangle is a warning. This one tells drivers that people are working on the road ahead.
+21. (mcq) Which place is safest for a child to play?  
+   Options: A busy road / A roof with no railings / A building site / A park, with a grown-up nearby  
+   **Answer:** A park, with a grown-up nearby. *Why:* A busy road has fast vehicles, a roof with no rail can lead to a fall, and a building site has holes and heavy machines.
+22. (mcq) Who rebuilt the Grand Trunk Road in the 1500s, with trees and rest houses along it?  
+   Options: Sher Shah Suri / Marconi / Gandhi / A British engineer in 1900  
+   **Answer:** Sher Shah Suri. *Why:* Sher Shah Suri, a ruler in the 1500s, rebuilt this very old road across north India with trees, wells and rest houses.
+23. (mcq) Which was used for early water transport, before big ships?  
+   Options: Fishing boats / Aeroplanes / Metro trains / Cars  
+   **Answer:** Fishing boats. *Why:* Water transport started with small fishing boats. Later, bigger ships carried trade between countries.
+24. (mcq) Why can a helicopter be useful in a hill place such as Tawang?  
+   Options: It can reach where roads are hard to build / It is the cheapest way / It needs no fuel / It makes no noise  
+   **Answer:** It can reach where roads are hard to build. *Why:* Air transport can reach far hill places. It costs a lot and uses fuel, and a helicopter is loud.
+25. (mcq) Which of these did people use first to print words?  
+   Options: A computer / Carved wooden blocks with ink / A mobile phone / A radio  
+   **Answer:** Carved wooden blocks with ink. *Why:* In China, people carved words into wood, inked them and pressed paper on them. Metal letters and computers came later.
+26. (mcq) A letter goes from Chennai to Kolkata. What happens between the postbox and the door?  
+   Options: It is sorted by region and sent on by train or truck, and then a postman brings it / It flies by itself / It goes straight to the door / It is sent by teleprinter  
+   **Answer:** It is sorted by region and sent on by train or truck, and then a postman brings it. *Why:* Post office workers sort letters by PIN code and send them on. A postman delivers them at the end.
+27. (mcq) Which pair of dates is right for India?  
+   Options: Radio in the 1920s, Doordarshan in 1959 / Doordarshan in 1859, radio in 1959 / Telephone in 1990, telegraph in 1920 / Postal department in 1950, radio in 1853  
+   **Answer:** Radio in the 1920s, Doordarshan in 1959. *Why:* Radio began in the 1920s and Doordarshan in 1959. The postal department began in 1854.
+28. (mcq) What did a teleprinter do?  
+   Options: Played music / Sent typed messages along wires and printed them on paper / Showed pictures / Made phone calls  
+   **Answer:** Sent typed messages along wires and printed them on paper. *Why:* A teleprinter was a keyboard machine that printed typed messages at the far end.
+29. (mcq) What does teletext show?  
+   Options: Pages of written news and weather on the TV screen / Live cricket on the radio / A phone call / A letter  
+   **Answer:** Pages of written news and weather on the TV screen. *Why:* Teletext sent written pages along with the TV signal.
+30. (mcq) A farmer gets the price of onions in the mandi by SMS. Why is that useful?  
+   Options: He can choose where to sell / It makes onions grow faster / It makes the road shorter / It gives him fuel  
+   **Answer:** He can choose where to sell. *Why:* Knowing the price helps him sell where he gets a fair price.
+31. (mcq) You get a message that says a big cyclone will hit tomorrow, but it came from a stranger. What is the best thing to do?  
+   Options: Forward it to everyone at once / Check with a grown-up and a trusted news source first / Delete your phone / Believe it because it is on a phone  
+   **Answer:** Check with a grown-up and a trusted news source first. *Why:* False news can spread fast. Check who sent it and whether it is true before you share it.
+32. (mcq) Which of these is a good use of a phone and a bad use?  
+   Options: Good: a call to a grandparent. Bad: staring at it all night / Good: staring at it all night. Bad: a call to a grandparent / Both are bad / Both are good  
+   **Answer:** Good: a call to a grandparent. Bad: staring at it all night. *Why:* A phone is useful for talking to family. Using it too much and losing sleep is a bad use.
 
 ## Applications
 - Reflective strips on school bags, helmets, uniforms of traffic police and cycle pedals keep people visible at night.
@@ -720,7 +904,7 @@ Many Hands, One Street (sci.community.L3): Topic-level song for Community and ne
 
 ## Plan
 - Start options: a1, e1, story, g1, big_questions, cards, a2
-- Default order: intro → a1 → e1 → summary → terms → explanations → story → g1 → a2 → videos → ws-core → e2 → a4 → agreed → challenging → a3 → a5 → a6 → g2 → p1 → ws-stretch → c1 → c2 → big_questions → ws-challenge → open_questions → how_we_found_out → roots → quiz
+- Default order: intro → a1 → e1 → summary → terms → explanations → story → g1 → a2 → videos → ws-core → e2 → a4 → agreed → challenging → a3 → a5 → a6 → g2 → p1 → ws-stretch → c1 → c2 → a7 → a8 → big_questions → ws-challenge → open_questions → how_we_found_out → roots → quiz
 - Core: a1, e1, g1, ws-core
 
 ## Sources
