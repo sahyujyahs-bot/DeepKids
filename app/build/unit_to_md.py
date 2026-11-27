@@ -66,7 +66,7 @@ w("\n## Questions to ask kids"); [w(f"- {a}") for a in u["ask_kids"]]
 w("\n## Jokes"); [w(f"- {j['j']} *{j['a']}*") for j in u["jokes"]]
 w("\n## Connected maths"); [w(f"- {m['problem']} **{m['answer']}**. {m['explain']} (queues `{m['math_unit']}`)") for m in u["maths"]]
 w(f"\n## Song\n{u['song']['title']} ({u['song']['topic_level']}): {u['song'].get('note','')}")
-w("\n## Links"); [w(f"- [{l['title']}]({l['url']}) · {l['kind']}{' · ' + l['where'] if l.get('where') else ''}: {l['why']}") for l in u["links"]]
+w("\n## Links"); [w(f"- {'[' + l['title'] + '](' + l['url'] + ')' if l.get('url') else l['title']} · {l['kind']}{' · ' + l['where'] if l.get('where') else ''}: {l['why']}") for l in u["links"]]
 w("\n## Things to buy"); [w(f"- [{b['item']}]({b['url']}) ({b['kind']}): {b['why']} Used in {', '.join(b['used_in'])}. {b.get('plan','')}") for b in u["buy"]]
 w("\n## Warm-up"); [w(f"- {q['q']} → {q['a']}") for q in u["warmup"]]
 p = u["plan"]; w(f"\n## Plan\n- Start options: {', '.join(p['start_options'])}\n- Default order: {' → '.join(p['default_order'])}\n- Core: {', '.join(p['core'])}")

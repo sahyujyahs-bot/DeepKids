@@ -2737,23 +2737,47 @@
   },
   {
    "title": "Smritivan Earthquake Memorial and Museum",
-   "url": "https://smritivanearthquakemuseum.com/",
+   "url": "https://smritivanearthquakemuseum.org/",
    "kind": "place",
    "where": "Bhuj",
    "why": "A museum on Bhujiyo hill about the 2001 earthquake, with a room where you can feel a simulated earthquake. Check the opening times before you go."
-  },
-  {
-   "title": "Government Museum, Chennai",
-   "url": "https://www.chennaimuseum.org/",
-   "kind": "place",
-   "where": "Chennai",
-   "why": "Its geology gallery has rocks, minerals and fossils from South India, including basalt and granite. Check the opening times before you go."
   },
   {
    "title": "St Mary's Islands",
    "kind": "place",
    "where": "Malpe, near Udupi",
    "why": "Six-sided columns of lava from 88 million years ago, reached by a short boat ride from Malpe beach in the dry months. Boats stop during the monsoon."
+  },
+  {
+   "title": "Earth Science Lab: Plate Boundaries Map",
+   "url": "https://earthsciencelab.org/",
+   "kind": "simulation",
+   "why": "Switch earthquakes and volcanoes on over a world map of plate edges and see how they line up. It is made for ages 10 and up, so a parent may need to help a younger child."
+  },
+  {
+   "title": "Earthquake! (Field Day)",
+   "url": "https://fielddaylab.wisc.edu/play/earthquake",
+   "kind": "interactive",
+   "why": "A free game that uses shockwaves and tin-can towns to show how scientists find where an earthquake started from its P and S waves."
+  },
+  {
+   "title": "World map of plates, earthquakes and volcanoes (IRIS)",
+   "url": "https://www.iris.edu/hq/inclass/interactive/world_tectonic_plates_earthquakes__volcanoes",
+   "kind": "interactive",
+   "why": "One map that shows earthquakes and volcanoes lining up along the plate edges."
+  },
+  {
+   "title": "Space Volcanoes (NASA Space Place)",
+   "url": "https://spaceplace.nasa.gov/volcanoes/en/",
+   "kind": "interactive",
+   "why": "Visit volcanoes across the Solar System and compare them with the ones on Earth."
+  },
+  {
+   "title": "Indian Museum, Geological Survey of India galleries",
+   "url": "https://gsi.gov.in/virtual-museum",
+   "kind": "place",
+   "where": "Kolkata",
+   "why": "The Geological Survey of India keeps rock, mineral and fossil galleries in the Indian Museum. Check the opening times before you go."
   }
  ],
  "buy": [
@@ -2906,5 +2930,5 @@
   "wrong_idea": "Geologists held that the continents never move, and that sunken land bridges explained matching fossils. Marie Tharp's map of a rift in the ocean ridge, the earthquakes along it and the magnetic stripes beside it showed that the sea floor spreads and the continents travel.",
   "context": "Do continents stay where they are? This card tells how an idea that was laughed at for fifty years turned out to be right, and who found the evidence."
  },
- "playtest": "Read as a parent and child in a city flat would use it, but not yet tried at home. Sticking Box: the pull needed and the jump sizes were worked out on paper for a 1 kilogram box on cotton cloth with two thin rubber bands. Real bands and floors differ a lot, so the steps give fixes for a box that glides and for a band that over-stretches. Try it with three kinds of cloth before the lesson goes live. Runny or Sticky: the batter thickness matters, and the steps say how to adjust it. Lemon Tower: check that 1 metre of tape is enough for a first tower. Facts to check again before going live: the death toll and magnitude for Bhuj 2001 and for the 2004 tsunami, the arrival time of the 2004 waves in Tamil Nadu, the dates of Barren Island's eruptions, the 88 million year age of St Mary's Islands, the base-isolated hospital at Bhuj, the Coimbatore earthquake of 1900, the wording of Isha Upanishad 5, Dhammapada 277 and Cratylus 402a, and the list of views in Brihat Samhita chapter 32. The three video addresses were matched to their titles and channels but the videos were not watched. Two link addresses, for the National Centre for Seismology and the Smithsonian, could not be opened from the writing machine and need a check by hand."
+ "playtest": "Read as a parent and child in a city flat would use it, but not yet tried at home. Sticking Box: the pull needed and the jump sizes were worked out on paper for a 1 kilogram box on cotton cloth with two thin rubber bands. Real bands and floors differ a lot, so the steps give fixes for a box that glides and for a band that over-stretches. Try it with three kinds of cloth before the lesson goes live. Runny or Sticky: the batter thickness matters, and the steps say how to adjust it. Lemon Tower: check that 1 metre of tape is enough for a first tower. Facts to check again before going live: the death toll and magnitude for Bhuj 2001 and for the 2004 tsunami, the arrival time of the 2004 waves in Tamil Nadu, the dates of Barren Island's eruptions, the 88 million year age of St Mary's Islands, the base-isolated hospital at Bhuj, the Coimbatore earthquake of 1900, the wording of Isha Upanishad 5, Dhammapada 277 and Cratylus 402a, and the list of views in Brihat Samhita chapter 32. The three video addresses were matched to their titles and channels but the videos were not watched. Two link addresses, for the National Centre for Seismology and the Smithsonian, could not be opened from the writing machine and need a check by hand. Links were checked on 27 Nov 2026 (the Chennai museum site was removed because it showed spam). The St Mary's Islands boat times and the content of the three videos are still to be checked by hand."
 }
