@@ -1,0 +1,1 @@
+ffmpeg -y -v error -i her18.wav -i her2.wav -i fA.wav -i fB.wav -i fC.wav -filter_complex "[0:a]apad[a0];[1:a]adelay=125030|125030,apad[a1];[2:a]adelay=184140|184140,apad[a2];[3:a]adelay=190940|190940,apad[a3];[4:a]adelay=196840|196840,apad[a4];[a0][a1][a2][a3][a4]amix=inputs=5:normalize=0:duration=longest,atrim=0:201.64[a]" -map "[a]" -ar 48000 -ac 1 voice7.wav
