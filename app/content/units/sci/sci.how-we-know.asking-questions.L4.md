@@ -860,7 +860,7 @@ What Would We See? (sci.how-we-know.L4): Topic-level song
 
 ## Plan
 - Start options: intro, a1, e1, g1, story, big_questions, cards
-- Default order: intro → summary → a1 → e1 → explanations → story → terms → g1 → g2 → e2 → a2 → a3 → a4 → a5 → ws-core → videos → agreed → challenging → p1 → c1 → ws-stretch → big_questions → ws-challenge → open_questions → roots → quiz
+- Default order: intro → summary → a1 → e1 → explanations → story → terms → g1 → g2 → e2 → a2 → a3 → a4 → a5 → ws-core → videos → agreed → challenging → p1 → c1 → ws-stretch → big_questions → ws-challenge → open_questions → roots → quiz → old1
 - Core: a1, e1, g1, e2, ws-core
 
 ## Sources

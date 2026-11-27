@@ -203,7 +203,7 @@ Step ids have no gaps. Step minutes add up to the part's minutes. A schedule's d
 | `intro` | `{hook, text, art}`: a 2-minute way in |
 | `outcomes` | 4 to 8 "By the end I can…" |
 | `terms` | `{term, meaning, example, art}`. Every word a child meets for the first time in the lesson gets a flashcard, in the order they are met: the plain word, a plain meaning, and a real scene as the example. An idea-rich lesson has 25 to 40 cards, not 8 |
-| `explanations` | `{concept, status, definition, description, examples[], perspectives, art, context}`. `status` is `defined`, `idea` or `debated` |
+| `explanations` | **A ladder of single-idea cards, in the order a learner needs them** (the plain idea, a number, then the next idea that builds on it and pushes against an assumption, as in `sci.motion.speed.L4`). Never heap three ideas into one card. Keep every perspective box and example. `{concept, status, definition, description, examples[], perspectives, art, context}`. `status` is `defined`, `idea` or `debated` |
 | `agreed` | `{text, evidence}`: only NEW things, never a restated explanation |
 | `challenging` | 2 or more views, each with `who`, `for`, `against`, `status` (`accepted`, `debated`, `minority`, `rejected`). At least one still debated or minority |
 | `big_questions` | 1 to 10, and more is better (the checker warns below 4). Each is unique and substantial, both kinds (`deep` goes down into the idea, `big` goes out to life), ends with "?" and has a `hint` that never gives the answer |
@@ -222,9 +222,9 @@ Step ids have no gaps. Step minutes add up to the part's minutes. A schedule's d
 | `maths` | `{problem, answer, explain, math_unit, why_maths}` |
 | `song` | `{"topic_level": "<topic-level id, for example sci.gravity.L3>", "title": "<the topic's song title>", "note": "Topic-level song"}`. No lyrics. Lessons of the same topic share one title |
 | `links` | real sites only. A place in India says the city |
-| `buy` | `{item, kind, why, url, used_in[], plan}` |
+| `buy` | `{item, kind, why, url, used_in[], plan}`. The family's shopping list, headed "What to buy or find" in the app. It covers EVERYTHING a family might need to buy or find for every experiment, activity, project, challenge and game, plus printing for the game and worksheets. Each entry says what it is, the approximate price in ₹, where to get it (an amazon.in search link or "any stationery shop"), a cheap alternative, and the ids it is used in. Household things (a steel bowl, a chappal) are not listed. Books are welcome, including ones a parent reads from aloud |
 | `roots` | section J |
-| `plan` | `{start_options[], default_order[], core[], spine[]}` (section I) |
+| `plan` | `{start_options[], default_order[], core[], spine[]}` (section I). `default_order` lists EVERY part id: every experiment, activity, project, game, challenge and worksheet. A part missing from it is written but never shown, and the checker treats that as an error |
 | `sources` | `founder`, `science` |
 | `playtest` | top-level note (section N) |
 
@@ -411,6 +411,7 @@ Add a short top-level `playtest` note: what you checked, the facts still to veri
 3. Put scripts in your own folder under the scratchpad, never in a shared one. Do not run git. Do not touch the app build or anyone else's files. Never commit live user data, keys or phone numbers.
 4. **Read your own unit as the tired parent, using tests A to H in `REVIEW_BRIEF.md`.** The reviewer uses the same tests once, after you. Anything the checker marks "(to do)" is fixed or has a stated reason. Write it right the first time so the review finds little.
 5. Ask: did I hold any idea back for age? Did I teach anything untrue to simplify? Did I give a second view and a question left open? Did I deny a mind? Is every living being a someone?
-6. Reply with: file written, title, number of parts, story title, charts added, the new deep truth, and anything you were unsure of or could not check.
+6. **Videos.** The unit's own 3 videos get real, verified ids (`python3 app/build/find_videos.py --apply <file>` finds them and checks each with YouTube's own page), and Khan Academy videos that really teach the unit's ideas are matched and added to `app/content/khan/` in the same format as the other batches. Do this for every unit.
+7. Reply with: file written, title, number of parts, story title, charts added, the new deep truth, and anything you were unsure of or could not check.
 
 **Maths units** also read `MATHS.md` (four threads: maths is subjective, linked to the universe, in every life activity, done by every being). **Board-track chapters** also read `TRACKS.md`: board packs carry the same thinking through `ideas`, `big`, `perspectives` and `challenge`, and a `roots` block in the same format.

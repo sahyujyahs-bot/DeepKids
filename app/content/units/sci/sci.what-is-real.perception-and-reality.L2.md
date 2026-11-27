@@ -585,7 +585,7 @@ What Is Real? (sci.what-is-real.L2): Topic-level song for What is real? L2
 
 ## Plan
 - Start options: intro, a1, e1, story, g2, cards
-- Default order: intro → a1 → e1 → summary → terms → explanations → roots → quiz → story → a2 → g1 → ws-core → e2 → how_we_found_out → a4 → g2 → a3 → p1 → ws-stretch → c1 → agreed → challenging → ws-challenge → videos → big_questions → open_questions
+- Default order: intro → a1 → e1 → summary → terms → explanations → roots → quiz → story → a2 → g1 → ws-core → e2 → how_we_found_out → a4 → g2 → a3 → p1 → ws-stretch → c1 → agreed → challenging → ws-challenge → videos → big_questions → open_questions → old1
 - Core: a1, e1, a2, g1, ws-core
 
 ## Sources

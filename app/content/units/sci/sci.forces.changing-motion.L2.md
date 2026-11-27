@@ -663,7 +663,7 @@ Squash It, Speed It, Turn It (sci.forces.L2):
 
 ## Plan
 - Start options: intro, a1, e1, story, g1, cards
-- Default order: intro → a1 → summary → terms → e1 → explanations → roots → quiz → story → e2 → g1 → ws-core → a2 → a3 → a4 → agreed → challenging → g2 → p1 → c1 → ws-stretch → big_questions → videos → how_we_found_out → ws-challenge → open_questions
+- Default order: intro → a1 → summary → terms → e1 → explanations → roots → quiz → story → e2 → g1 → ws-core → a2 → a3 → a4 → agreed → challenging → g2 → p1 → c1 → ws-stretch → big_questions → videos → how_we_found_out → ws-challenge → open_questions → p1x
 - Core: a1, e1, e2, g1, ws-core
 
 ## Sources

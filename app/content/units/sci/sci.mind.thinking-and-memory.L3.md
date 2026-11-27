@@ -785,7 +785,7 @@ Practise, Practise, Make the Path (sci.mind.L3): A song about how practice makes
 
 ## Plan
 - Start options: a1, story, e1, a5, big_questions, cards, g1
-- Default order: intro → a1 → summary → e1 → terms → explanations → a4 → story → a2 → a3 → e3 → g1 → videos → ws-core → a5 → e2 → a6 → g2 → agreed → challenging → p1 → ws-stretch → c1 → c2 → big_questions → ws-challenge → open_questions → roots → quiz
+- Default order: intro → a1 → summary → e1 → terms → explanations → a4 → story → a2 → a3 → e3 → g1 → videos → ws-core → a5 → e2 → a6 → g2 → agreed → challenging → p1 → ws-stretch → c1 → c2 → big_questions → ws-challenge → open_questions → roots → quiz → old1
 - Core: a1, a4, e1, e3, g1, ws-core, a5
 
 ## Sources

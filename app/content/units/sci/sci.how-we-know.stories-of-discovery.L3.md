@@ -761,7 +761,7 @@ One Thing at a Time (sci.how-we-know.L3): Topic-level song for How we know L3
 
 ## Plan
 - Start options: intro, e1, story, g1, big_questions, cards
-- Default order: intro → e1 → a1 → explanations → story → summary → terms → g1 → a2 → ws-core → videos → e2 → a3 → agreed → challenging → g2 → a4 → ws-stretch → p1 → c1 → c2 → big_questions → ws-challenge → open_questions → roots → quiz
+- Default order: intro → e1 → a1 → explanations → story → summary → terms → g1 → a2 → ws-core → videos → e2 → a3 → agreed → challenging → g2 → a4 → ws-stretch → p1 → c1 → c2 → big_questions → ws-challenge → open_questions → roots → quiz → old1
 - Core: e1, a1, g1, a2, ws-core
 
 ## Sources

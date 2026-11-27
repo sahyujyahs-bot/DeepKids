@@ -608,7 +608,7 @@ One Long Family, from the Sea to Me (sci.evolution.L2): Topic-level song for Evo
 
 ## Plan
 - Start options: intro, e1, story, a1, g1, cards
-- Default order: intro → e1 → summary → terms → explanations → a1 → roots → quiz → story → g1 → ws-core → how_we_found_out → a2 → e2 → g2 → ws-stretch → a3 → p1 → c1 → agreed → challenging → ws-challenge → videos → big_questions → open_questions
+- Default order: intro → e1 → summary → terms → explanations → a1 → roots → quiz → story → g1 → ws-core → how_we_found_out → a2 → e2 → g2 → ws-stretch → a3 → p1 → c1 → agreed → challenging → ws-challenge → videos → big_questions → open_questions → old1
 - Core: e1, a1, g1, ws-core
 
 ## Sources

@@ -7,7 +7,15 @@ function combinedTopicList(sj) {
       .map(Number)
       .sort((a, b) => a - b),
     lv = cls.includes(ui.bl) ? ui.bl : cls.includes(S.levels?.[sj]) ? S.levels[sj] : cls[0],
-    L = ((DATA.combined?.[sj] || {})[lv] || []).filter((e) => unitByK(e.k));
+    L = ((DATA.combined?.[sj] || {})[lv] || []).filter((e) => unitByK(e.k)),
+    // the units that map to this class's board topics, one list with no grouping by topic, the board-required ones first
+    ids = [...new Set(L.flatMap((e) => (e.units || []).map((x) => x.id)))]
+      .filter((id) => DATA.units?.[id])
+      .map((id, i) => [id, i])
+      .sort((a, b) => !!DATA.units[b[0]].req - !!DATA.units[a[0]].req || a[1] - b[1])
+      .map(([id]) => id),
+    // a topic whose units are not all written yet keeps its older lesson until they are
+    over = L.filter((e) => !(e.units || []).some((x) => DATA.units?.[x.id]));
   return {
     ctl:
       dkViewPick(sj) +
@@ -18,9 +26,9 @@ function combinedTopicList(sj) {
           .map((l) => `<button class="chip" aria-pressed="${lv === l}" data-act="bl" data-l="${l}">Class ${l}</button>`)
           .join(""),
       ),
-    sum: ["Topics by class", `Class ${lv}`],
-    count: `${L.length} topics`,
-    body: `<p class="xs muted">Your Class ${lv} plan on the DeepKids track: everything any board teaches in ${SUBJ[sj].toLowerCase()} in Class ${lv}, and more.</p><div class="libgrid">${L.map(combinedCard).join("")}</div>`,
+    sum: ["Board topic units", `Class ${lv}`],
+    count: `${ids.length} units`,
+    body: `<p class="xs muted">The units that cover everything any board teaches in ${SUBJ[sj].toLowerCase()} in Class ${lv}, and more. Your plan follows this list.</p><section class="fxnew">${fxUnitBtns(ids.map((id) => DATA.units[id]))}</section>${over.length ? `<div class="libgrid">${over.map(combinedCard).join("")}</div>` : ""}`,
   };
 }
 // a lesson of the DeepKids class plan, on the same card as a unit, with the picture of a unit it links to
@@ -73,7 +81,7 @@ const dkViewPick = (sj) =>
         "View",
         [
           ["topic", "DeepKids units"],
-          ["class", "Topics by class"],
+          ["class", "Board topic units"],
         ]
           .map(
             ([k, n]) =>

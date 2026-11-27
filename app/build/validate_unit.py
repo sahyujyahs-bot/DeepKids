@@ -104,6 +104,9 @@ def parent_test(u):
     # one idea per card: a long explanation is usually three ideas heaped into one (found in review of the speed unit)
     heaped = [f"'{e.get('concept', '')[:50]}' ({len(e.get('description', '').split())} words)" for e in u.get("explanations", []) if len(e.get("description", "").split()) > 140]
     if heaped: W.append("explanations that carry more than one idea (over 140 words): split each into cards that each make one point, in the order a learner needs them: " + " | ".join(heaped[:4]))
+    # the shopping list must cover what the hands-on parts need (found in review: one item for a unit with eleven hands-on parts)
+    hands = sum(len(u.get(k, [])) for k in FLOW)
+    if hands >= 4 and len(u.get("buy", [])) < 5: W.append(f"the shopping list has {len(u.get('buy', []))} items for {hands} hands-on parts: list everything a family may need to buy or find (tools, materials, printing), with ₹ prices and cheap alternatives (WRITER_BRIEF.md, `buy`)")
     # words that sound defined but are not: a unit about one must say where science runs out (WRITER_BRIEF.md, principle 6)
     central = (u.get("title", "") + " " + " ".join(e.get("concept", "") for e in u.get("explanations", []))).lower()
     gapless = []
@@ -457,6 +460,8 @@ def check(path):
     if len(sens) > 5 or any(len(x.split()) > 24 for x in sens): W.append("roots.deep_truth is long: fine if every sentence is clear and easy to follow; split a sentence rather than cut meaning (PHILOSOPHY.md, 'Simple and direct')")
     if len(u["warmup"]) < 5: P("warmup: 5+ quick questions")
     parent_test(u)
+    hidden = [i for k in FLOW for x in u.get(k, []) for i in [x.get("id")] if i not in u["plan"].get("default_order", [])] + [w.get("id") for w in u.get("worksheets", []) if w.get("id") not in u["plan"].get("default_order", [])]
+    if hidden: P("these parts are written but missing from plan.default_order, so families never see them: " + ", ".join(map(str, hidden)))
     ke, kt = writers_kit(u, path)
     for x in ke: P(x)
     W.extend(kt)

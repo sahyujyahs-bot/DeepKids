@@ -832,7 +832,7 @@ function fxCards(u) {
         if (u.buy.length)
           add(
             "buy",
-            `${fxImg(u, "buy", "")}<div class="fxtxt"><span class="fxeb">🛒 Things that help</span>${u.buy.map((b) => `<div class="fxvoice"><b><a target="_blank" rel="noopener" href="${esc(b.url)}">${esc(b.item)}</a></b><p class="fxsm">${esc(b.why)}${b.plan ? " " + esc(b.plan) : ""}</p>${(b.used_in || []).length ? `<button class="fxb" data-fxbought="${esc(u.id + "|" + b.item)}">${(S.bought || {})[u.id + "|" + b.item] ? "✔ We have it: added to the plan" : "We bought it"}</button>` : ""}</div>`).join("")}</div>`,
+            `${fxImg(u, "buy", "")}<div class="fxtxt"><span class="fxeb">🛒 What to buy or find</span>${u.buy.map((b) => `<div class="fxvoice"><b><a target="_blank" rel="noopener" href="${esc(b.url)}">${esc(b.item)}</a></b><p class="fxsm">${esc(b.why)}${b.plan ? " " + esc(b.plan) : ""}</p>${(b.used_in || []).length ? `<button class="fxb" data-fxbought="${esc(u.id + "|" + b.item)}">${(S.bought || {})[u.id + "|" + b.item] ? "✔ We have it: added to the plan" : "We bought it"}</button>` : ""}</div>`).join("")}</div>`,
             "",
           );
         break;
@@ -894,7 +894,11 @@ const FXS = {
   song: ["Song", "🎵", "Our song for this topic."],
   did_you_know: ["Did you know?", "📰", "True stories and facts from around India."],
   links: ["Try online and go see", "🌐", "Simulations to play with and places in India to visit."],
-  buy: ["Things that help", "🛒", "Tools, books and games that make this unit richer, and where each is used."],
+  buy: [
+    "What to buy or find",
+    "🛒",
+    "Everything you may need for the activities, experiments, projects and challenges, and good books, with where each is used.",
+  ],
 };
 const FXKL = {
   games: "This is a game. Play it together. The questions on screen are part of the game, not a test.",
@@ -1179,7 +1183,7 @@ function fxDraw(open, cards) {
     day = { 1: 30, 2: 35, 3: 40, 4: 45, 5: 45 }[cls] || 40,
     it = unitBy("unit|" + u.id),
     SD = (it ? sessionsFor(it) : 0) || Math.max(1, Math.round(tot / day)),
-    ref = unitRef(u.id),
+    ref = onDkTrack() ? "" : unitRef(u.id),
     groups = [
       ...new Set(
         SL.slice()
@@ -1875,7 +1879,7 @@ const fxUnitBtns = (L) => {
       pic: unitPic(x.id),
       title: x.title,
       gist: firstSentence(I.summary?.text),
-      tag: unitRef(x.id),
+      tag: onDkTrack() ? "" : unitRef(x.id),
       locked: !open,
       facts: open
         ? [

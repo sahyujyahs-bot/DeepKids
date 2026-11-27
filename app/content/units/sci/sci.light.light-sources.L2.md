@@ -629,7 +629,7 @@ Borrowed Light (sci.light.L2): Topic-level song for Light, seeing and shadows L2
 
 ## Plan
 - Start options: intro, a1, e1, story, g1, cards
-- Default order: intro → a1 → e1 → summary → terms → explanations → roots → quiz → story → g1 → ws-core → e2 → how_we_found_out → a2 → a3 → g2 → p1 → ws-stretch → c1 → agreed → challenging → ws-challenge → videos → big_questions → open_questions
+- Default order: intro → a1 → e1 → summary → terms → explanations → roots → quiz → story → g1 → ws-core → e2 → how_we_found_out → a2 → a3 → g2 → p1 → ws-stretch → c1 → agreed → challenging → ws-challenge → videos → big_questions → open_questions → old1
 - Core: a1, e1, g1, ws-core
 
 ## Sources

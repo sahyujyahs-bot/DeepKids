@@ -675,7 +675,7 @@ One More, One More (sci.nothing-and-forever.L3): Topic-level song for Nothing an
 
 ## Plan
 - Start options: a1, story, e1, e2, big_questions, cards, g1
-- Default order: intro → a1 → e1 → explanations → story → summary → terms → e2 → videos → ws-core → g1 → a2 → a3 → agreed → challenging → a5 → a4 → p1 → ws-stretch → c1 → big_questions → ws-challenge → open_questions → roots → quiz
+- Default order: intro → a1 → e1 → explanations → story → summary → terms → e2 → videos → ws-core → g1 → a2 → a3 → agreed → challenging → a5 → a4 → p1 → ws-stretch → c1 → big_questions → ws-challenge → open_questions → roots → quiz → old1
 - Core: a1, e1, e2, g1, ws-core
 
 ## Sources

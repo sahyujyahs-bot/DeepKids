@@ -659,9 +659,9 @@ Fathima aunty clicked the back onto the watch and held it to her ear. 'Then tell
    **Answer:** Answers vary. A good one is 'Why does the universe have a top speed?' A way to begin is to test, with better and better experiments, whether anything carrying a message ever goes faster than light, and to look for reasons in the theories that predict the limit.. *Why:* A strong answer is a real open question and suggests a test or an observation, not a guess dressed as a fact.
 
 ## Videos
-- **A short explainer on average speed and speed at one moment** (, 5 min) id `to find`: To see why a speedometer shows something different from the average speed of a trip, the same difference you found with the toy car. *Check:* No video id yet. Look for a short, clear explainer about average speed and instantaneous speed, and preview it before showing it to a child.
-- **A short explainer on how India's land is moving north and building the Himalayas** (, 5 min) id `to find`: To see how very slow speeds, measured over years with satellites, add up to mountains. *Check:* No video id yet. Look for a short explainer on plate movement and the Himalayas that gives the speed in centimetres each year, and preview it first.
-- **A short explainer on how the speed of light was first measured** (, 6 min) id `to find`: To meet the first attempts to time light, and why the answer is the same for everyone who measures it. *Check:* No video id yet. Look for a short explainer on Ole Romer or Galileo's lantern attempt, and check that it also says that the speed of light is the same for all watchers.
+- **Instantaneous speed & velocity** (Khan Academy India - English, 4 min) id `jNv-U1Gr8xI`: To see what a speedometer shows: the speed at one moment, which can differ from the average speed of a whole trip. *Check:* Verified with oEmbed: title 'Instantaneous speed & velocity', channel Khan Academy India - English, matching the speed-at-one-moment idea. Not watched; the length is from search. A parent should preview it.
+- **How the Himalayas Changed the World** (PBS Eons, 12 min) id `Mto0ih2pvC8`: To see how India's slow drift north into Asia built the highest mountains, a very slow speed that adds up over millions of years. *Check:* Verified with oEmbed: title 'How the Himalayas Changed the World' by PBS Eons, matching the India-Asia story. Not watched; it is not confirmed to give the centimetres-per-year speed; the length is from search (11:31) and it may be long for some children, so a parent should preview it.
+- **How Jupiter's Moons Showed Us the Speed of Light** (SciShow Space, 6 min) id `dku-cIfXtQE`: To meet Ole Roemer's way of timing light from Jupiter's moon Io, one of the first measurements of light's speed. *Check:* Verified with oEmbed: title 'How Jupiter's Moons Showed Us the Speed of Light' by SciShow Space, matching the Romer story. Not watched; it may not say that light's speed is the same for every watcher, so check before showing.
 
 ## Quiz
 1. (mcq) Car A covers 3 metres in 2 seconds. Car B covers 5 metres in 4 seconds. Which is faster?  
@@ -774,6 +774,14 @@ How Fast Is Fast? (sci.motion.L4): Topic-level song
 
 ## Things to buy
 - [A measuring tape of 3 metres](https://www.amazon.in/s?k=measuring+tape+3+metre) (tool): For the two-metre track and the trip notes. A tailor's tape or a shop's measuring tape costs about Rs 30 to 100. Used in e1, e2, a3, ch1. Instead, mark a string or a strip of paper at every 10 centimetres by holding it against a 30 centimetre school ruler, and use that.
+- [A small toy car with free-rolling wheels](https://www.amazon.in/s?k=toy+car+pull+back+small) (material): The ramp experiment and the design challenge both need a car that rolls straight. Any small toy car will do. About ₹100 to ₹200. A marble or a round torch cell also works. Used in e1, ch1. Buy once. It is used again in the challenge, and the cards in the game need no car.
+- [Paper masking tape](https://www.amazon.in/s?k=paper+masking+tape+1+inch) (material): Marks the start and finish lines on the floor and comes off cleanly. About ₹30 to ₹60 a roll. Chalk or a line of chappals also works. Used in e1, e2, a1. Keep the roll for the lines in all three tests.
+- [A digital stopwatch (optional)](https://www.amazon.in/s?k=digital+stopwatch+sports) (tool): The experiments time a car or a walk in seconds. A phone stopwatch with a Lap button works, so this is only needed if the phone is busy. About ₹150 to ₹400. Used in e1, e2, ch1. A second stopwatch lets two people time at once, which makes the results fairer.
+- [A 30 centimetre ruler with millimetres](https://www.amazon.in/s?k=30+cm+steel+ruler) (tool): Measures the ramp height and the sprouting seeds to the millimetre. About ₹10 to ₹30. A school ruler is fine. Used in e1, p1. Used in the ramp test and in the seed project.
+- [A roll of kitchen tissue](https://www.amazon.in/s?k=kitchen+tissue+roll) (material): The seed project uses a damp strip of tissue to carry coloured water up. About ₹30 to ₹60. Newspaper cut into a strip also works. Used in p1. Needed from the first day of the project.
+- [Whole moong or chana (from the grocery shop)](https://www.bigbasket.com/ps/?q=whole+moong) (material): Two tablespoons sprout in the seed project, and their growth is measured each day. Less than ₹10. Use whole seeds, never split dal. Used in p1. Soak them the evening before the project starts.
+- [Printed pages for the game and the worksheets]() (material): The game cards and the three worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine and the game can be cut with scissors. Used in g1, ws-core, ws-stretch, ws-challenge. Print the game and the core worksheet before the first session, and the others when you need them.
+- [The Way Things Work Now by David Macaulay](https://www.amazon.in/s?k=The+Way+Things+Work+Now+David+Macaulay) (book): A picture-filled book on wheels, ramps, engines and machines. It is for older children and parents to read from together. About ₹1,000 or more, so check a library first. Used in e1. Read about ramps and wheels together after the ramp experiment.
 
 ## Warm-up
 - A bus goes 60 kilometres in 2 hours. What is its speed? → 30 kilometres per hour. 60 ÷ 2 = 30.
@@ -787,7 +795,7 @@ How Fast Is Fast? (sci.motion.L4): Topic-level song
 
 ## Plan
 - Start options: e1, story, big_questions, cards, g1, ch1
-- Default order: intro → e1 → summary → terms → explanations → story → e2 → g1 → how_we_found_out → agreed → challenging → ch1 → big_questions → open_questions → roots → quiz
+- Default order: intro → e1 → summary → terms → explanations → story → e2 → g1 → how_we_found_out → agreed → challenging → ch1 → big_questions → open_questions → roots → quiz → p1 → a1 → a2 → a3 → ws-core → ws-stretch → ws-challenge
 - Core: e1, e2, g1
 
 ## Sources

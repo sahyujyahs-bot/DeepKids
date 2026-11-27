@@ -738,7 +738,7 @@ Nothing and Forever (sci.nothing-and-forever.L3): Topic-level song for Nothing a
 
 ## Plan
 - Start options: intro, a1, e1, story, a2, g1, big_questions
-- Default order: intro → a1 → a2 → e1 → explanations → story → summary → terms → a3 → g1 → ws-core → videos → agreed → challenging → a4 → a5 → e2 → g2 → ws-stretch → p1 → c1 → c2 → big_questions → ws-challenge → open_questions → roots → quiz
+- Default order: intro → a1 → a2 → e1 → explanations → story → summary → terms → a3 → g1 → ws-core → videos → agreed → challenging → a4 → a5 → e2 → g2 → ws-stretch → p1 → c1 → c2 → big_questions → ws-challenge → open_questions → roots → quiz → old1
 - Core: a1, a2, e1, a3, g1, ws-core
 
 ## Sources

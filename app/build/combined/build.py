@@ -77,7 +77,7 @@ FLOWK = ("games", "experiments", "activities", "projects", "challenges")
 PLAB = {"intro": "Before we begin", "story": "The story", "terms": "Flashcards", "explanations": "The core ideas", "how_we_found_out": "How we found out",
         "challenging": "Is this true?", "big_questions": "Big questions", "roots": "Roots", "videos": "Watch", "quiz": "Quiz", "open_questions": "Nobody knows yet",
         "jokes": "Jokes", "maths": "Maths", "applications": "Where people use it", "photos": "Real pictures", "spotted": "Spot it around you", "did_you_know": "Did you know?",
-        "ask_kids": "Ask during the day", "song": "Song", "links": "Try these and go see", "buy": "Things that help"}
+        "ask_kids": "Ask during the day", "song": "Song", "links": "Try these and go see", "buy": "What to buy or find"}
 
 
 CHECK_T = ("mcq", "truefalse", "fill")   # the item types the app checks and records

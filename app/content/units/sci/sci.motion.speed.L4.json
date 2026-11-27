@@ -1162,7 +1162,14 @@
    "big_questions",
    "open_questions",
    "roots",
-   "quiz"
+   "quiz",
+   "p1",
+   "a1",
+   "a2",
+   "a3",
+   "ws-core",
+   "ws-stretch",
+   "ws-challenge"
   ],
   "core": [
    "e1",
@@ -2842,31 +2849,28 @@
  ],
  "videos": [
   {
-   "title": "A short explainer on average speed and speed at one moment",
-   "channel": "",
-   "mins": 5,
-   "youtube": "",
-   "status": "find-id",
-   "why": "To see why a speedometer shows something different from the average speed of a trip, the same difference you found with the toy car.",
-   "check": "No video id yet. Look for a short, clear explainer about average speed and instantaneous speed, and preview it before showing it to a child."
+   "title": "Instantaneous speed & velocity",
+   "channel": "Khan Academy India - English",
+   "mins": 4,
+   "youtube": "jNv-U1Gr8xI",
+   "why": "To see what a speedometer shows: the speed at one moment, which can differ from the average speed of a whole trip.",
+   "check": "Verified with oEmbed: title 'Instantaneous speed & velocity', channel Khan Academy India - English, matching the speed-at-one-moment idea. Not watched; the length is from search. A parent should preview it."
   },
   {
-   "title": "A short explainer on how India's land is moving north and building the Himalayas",
-   "channel": "",
-   "mins": 5,
-   "youtube": "",
-   "status": "find-id",
-   "why": "To see how very slow speeds, measured over years with satellites, add up to mountains.",
-   "check": "No video id yet. Look for a short explainer on plate movement and the Himalayas that gives the speed in centimetres each year, and preview it first."
+   "title": "How the Himalayas Changed the World",
+   "channel": "PBS Eons",
+   "mins": 12,
+   "youtube": "Mto0ih2pvC8",
+   "why": "To see how India's slow drift north into Asia built the highest mountains, a very slow speed that adds up over millions of years.",
+   "check": "Verified with oEmbed: title 'How the Himalayas Changed the World' by PBS Eons, matching the India-Asia story. Not watched; it is not confirmed to give the centimetres-per-year speed; the length is from search (11:31) and it may be long for some children, so a parent should preview it."
   },
   {
-   "title": "A short explainer on how the speed of light was first measured",
-   "channel": "",
+   "title": "How Jupiter's Moons Showed Us the Speed of Light",
+   "channel": "SciShow Space",
    "mins": 6,
-   "youtube": "",
-   "status": "find-id",
-   "why": "To meet the first attempts to time light, and why the answer is the same for everyone who measures it.",
-   "check": "No video id yet. Look for a short explainer on Ole Romer or Galileo's lantern attempt, and check that it also says that the speed of light is the same for all watchers."
+   "youtube": "dku-cIfXtQE",
+   "why": "To meet Ole Roemer's way of timing light from Jupiter's moon Io, one of the first measurements of light's speed.",
+   "check": "Verified with oEmbed: title 'How Jupiter's Moons Showed Us the Speed of Light' by SciShow Space, matching the Romer story. Not watched; it may not say that light's speed is the same for every watcher, so check before showing."
   }
  ],
  "links": [
@@ -2922,6 +2926,103 @@
     "ch1"
    ],
    "plan": "Instead, mark a string or a strip of paper at every 10 centimetres by holding it against a 30 centimetre school ruler, and use that."
+  },
+  {
+   "id": "b-toy-car",
+   "item": "A small toy car with free-rolling wheels",
+   "kind": "material",
+   "why": "The ramp experiment and the design challenge both need a car that rolls straight. Any small toy car will do. About ₹100 to ₹200. A marble or a round torch cell also works.",
+   "url": "https://www.amazon.in/s?k=toy+car+pull+back+small",
+   "used_in": [
+    "e1",
+    "ch1"
+   ],
+   "plan": "Buy once. It is used again in the challenge, and the cards in the game need no car."
+  },
+  {
+   "id": "b-masking-tape",
+   "item": "Paper masking tape",
+   "kind": "material",
+   "why": "Marks the start and finish lines on the floor and comes off cleanly. About ₹30 to ₹60 a roll. Chalk or a line of chappals also works.",
+   "url": "https://www.amazon.in/s?k=paper+masking+tape+1+inch",
+   "used_in": [
+    "e1",
+    "e2",
+    "a1"
+   ],
+   "plan": "Keep the roll for the lines in all three tests."
+  },
+  {
+   "id": "b-stopwatch",
+   "item": "A digital stopwatch (optional)",
+   "kind": "tool",
+   "why": "The experiments time a car or a walk in seconds. A phone stopwatch with a Lap button works, so this is only needed if the phone is busy. About ₹150 to ₹400.",
+   "url": "https://www.amazon.in/s?k=digital+stopwatch+sports",
+   "used_in": [
+    "e1",
+    "e2",
+    "ch1"
+   ],
+   "plan": "A second stopwatch lets two people time at once, which makes the results fairer."
+  },
+  {
+   "id": "b-ruler",
+   "item": "A 30 centimetre ruler with millimetres",
+   "kind": "tool",
+   "why": "Measures the ramp height and the sprouting seeds to the millimetre. About ₹10 to ₹30. A school ruler is fine.",
+   "url": "https://www.amazon.in/s?k=30+cm+steel+ruler",
+   "used_in": [
+    "e1",
+    "p1"
+   ],
+   "plan": "Used in the ramp test and in the seed project."
+  },
+  {
+   "id": "b-kitchen-tissue",
+   "item": "A roll of kitchen tissue",
+   "kind": "material",
+   "why": "The seed project uses a damp strip of tissue to carry coloured water up. About ₹30 to ₹60. Newspaper cut into a strip also works.",
+   "url": "https://www.amazon.in/s?k=kitchen+tissue+roll",
+   "used_in": [
+    "p1"
+   ],
+   "plan": "Needed from the first day of the project."
+  },
+  {
+   "id": "b-moong",
+   "item": "Whole moong or chana (from the grocery shop)",
+   "kind": "material",
+   "why": "Two tablespoons sprout in the seed project, and their growth is measured each day. Less than ₹10. Use whole seeds, never split dal.",
+   "url": "https://www.bigbasket.com/ps/?q=whole+moong",
+   "used_in": [
+    "p1"
+   ],
+   "plan": "Soak them the evening before the project starts."
+  },
+  {
+   "id": "b-printing",
+   "item": "Printed pages for the game and the worksheets",
+   "kind": "material",
+   "why": "The game cards and the three worksheets are meant to be printed. A copy shop charges about ₹1 to ₹2 a page. Plain paper is fine and the game can be cut with scissors.",
+   "url": "",
+   "used_in": [
+    "g1",
+    "ws-core",
+    "ws-stretch",
+    "ws-challenge"
+   ],
+   "plan": "Print the game and the core worksheet before the first session, and the others when you need them."
+  },
+  {
+   "id": "b-way-things-work",
+   "item": "The Way Things Work Now by David Macaulay",
+   "kind": "book",
+   "why": "A picture-filled book on wheels, ramps, engines and machines. It is for older children and parents to read from together. About ₹1,000 or more, so check a library first.",
+   "url": "https://www.amazon.in/s?k=The+Way+Things+Work+Now+David+Macaulay",
+   "used_in": [
+    "e1"
+   ],
+   "plan": "Read about ramps and wheels together after the ramp experiment."
   }
  ],
  "song": {

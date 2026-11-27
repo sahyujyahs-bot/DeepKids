@@ -1,262 +1,318 @@
 {
- "checked": "2026-11-26",
+ "checked": "27 Nov 2026",
  "units": {
-  "sci.states.solids-liquids-gases.L2": {
+  "sci.day-night-seasons.seasons.L5": {
    "videos": [
     {
-     "title": "States of matter | Middle school chemistry",
+     "title": "Seasons | The Earth-sun-moon system | Middle school Earth and space science",
+     "channel": "Khan Academy",
+     "youtube": "0r9Lc7oYq5M",
+     "mins": 5,
+     "pitch": "on level",
+     "matches": "It covers how the tilted Earth going round the Sun makes the seasons, the core idea of the lesson.",
+     "confidence": "high"
+    }
+   ]
+  },
+  "sci.electricity.conductors-and-insulators.L4": {
+   "videos": [
+    {
+     "title": "Conductors and Insulators | Electricity | Telangana Grade-7 Physics",
+     "channel": "Khan Academy India - English",
+     "youtube": "3x1iz_0ysfI",
+     "mins": 8,
+     "pitch": "on level",
+     "matches": "It explains which materials let electricity through and which hold it back, the lesson's main question.",
+     "confidence": "high"
+    }
+   ]
+  },
+  "sci.energy.transfers.L4": {
+   "videos": [
+    {
+     "title": "Conservation of energy | Middle school physics",
+     "channel": "Khan Academy",
+     "youtube": "Tf4A93763Bw",
+     "mins": 7,
+     "pitch": "on level",
+     "matches": "It shows energy passing between forms and staying in total, as the marble's energy does in the lesson.",
+     "confidence": "high"
+    },
+    {
+     "title": "Potential energy | Middle school physics",
+     "channel": "Khan Academy",
+     "youtube": "5VVY0MSkrd0",
+     "mins": 8,
+     "pitch": "on level",
+     "matches": "It explains stored energy from height and how it turns into movement, as in the rolling marble.",
+     "confidence": "high"
+    }
+   ]
+  },
+  "sci.gravity.orbits.L5": {
+   "videos": [
+    {
+     "title": "Orbital motion | Earth and space science",
+     "channel": "Khan Academy",
+     "youtube": "zPHnZFoiO0E",
+     "mins": 13,
+     "pitch": "older: watch together",
+     "matches": "It explains an orbit as a fall that keeps missing the ground, using the Earth and Moon.",
+     "confidence": "high"
+    },
+    {
+     "title": "Gravity for astronauts in orbit | Centripetal force and gravitation | Physics",
+     "channel": "Khan Academy",
+     "youtube": "oIZV-ixRTcY",
+     "mins": 7,
+     "pitch": "older: watch together",
+     "matches": "It explains why astronauts in orbit feel weightless even though gravity still pulls on them.",
+     "confidence": "high"
+    },
+    {
+     "title": "Orbital Velocity | Space missions | MH Grade 10 | Science",
+     "channel": "Khan Academy India - English",
+     "youtube": "xvPNYfq_Dcc",
+     "mins": 5,
+     "pitch": "older: watch together",
+     "matches": "It explains the speed a satellite needs to keep orbiting, which the lesson's satellites depend on.",
+     "confidence": "high"
+    }
+   ]
+  },
+  "sci.how-we-know.questioning-evidence.L4": {
+   "videos": [
+    {
+     "title": "The Scientific Method | Wonderful World of Science | Middle School | Science",
+     "channel": "Khan Academy India - English",
+     "youtube": "4YdPXRPpZFk",
+     "mins": 5,
+     "pitch": "on level",
+     "matches": "It shows how a question, a test and a fair comparison lead to a conclusion that others can check.",
+     "confidence": "high"
+    },
+    {
+     "title": "Correlation and causality | Statistical studies | Probability and Statistics",
+     "channel": "Khan Academy",
+     "youtube": "ROpbdO-gRUo",
+     "mins": 10,
+     "pitch": "older: watch together",
+     "matches": "It explains why two things that happen together do not prove that one causes the other.",
+     "confidence": "high"
+    },
+    {
+     "title": "Introduction to experimental design | High school biology",
+     "channel": "Khan Academy",
+     "youtube": "ceWyayKg3QY",
+     "mins": 9,
+     "pitch": "older: watch together",
+     "matches": "It explains variables and control groups, the way to rule out a hidden third thing.",
+     "confidence": "high"
+    }
+   ]
+  },
+  "sci.how-we-know.stories-of-discovery.L4": {
+   "videos": [
+    {
+     "title": "Microscope invention | The World of Microorganisms | Class 8 | Life Science | Telangana",
+     "channel": "Khan Academy India - English",
+     "youtube": "3O9eRhjI0LU",
+     "mins": 7,
+     "pitch": "on level",
+     "matches": "It tells how the microscope was invented, the tool behind the water-drop lens the lesson asks children to make.",
+     "confidence": "high"
+    }
+   ]
+  },
+  "sci.light.living-light.L4": {
+   "videos": [
+    {
+     "title": "Photoreceptors (rods vs cones) | Science | Khan Academy (IN accent)",
+     "channel": "Khan Academy India - English",
+     "youtube": "jNdA6xy9OjM",
+     "mins": 4,
+     "pitch": "older: watch together",
+     "matches": "It explains the rod and cone cells that let the eye see in dim light, as the dark-adaptation test shows.",
+     "confidence": "high"
+    },
+    {
+     "title": "Human eye - features and functions | The human eye and the colourful world",
+     "channel": "Khan Academy",
+     "youtube": "27txjQwRETI",
+     "mins": 5,
+     "pitch": "older: watch together",
+     "matches": "It explains the parts of the eye, including the pupil that changes size as the lesson asks children to watch.",
+     "confidence": "high"
+    }
+   ]
+  },
+  "sci.magnets.magnets-and-materials.L4": {
+   "videos": [
+    {
+     "title": "Magnetic forces",
+     "channel": "Khan Academy",
+     "youtube": "Ikto_172Vak",
+     "mins": 3,
+     "pitch": "on level",
+     "matches": "Covers magnetic force as a pull that acts at a distance, the idea behind a magnet pulling a nail.",
+     "confidence": "high"
+    },
+    {
+     "title": "Magnetic force",
+     "channel": "Khan Academy",
+     "youtube": "u-3cEw0uDC0",
+     "mins": 7,
+     "pitch": "on level",
+     "matches": "Covers the pull and push between magnets and iron, the basic forces the lesson tests with the raft and the nails.",
+     "confidence": "high"
+    },
+    {
+     "title": "Newton's third law",
+     "channel": "Khan Academy",
+     "youtube": "9ViLDdSTrMU",
+     "mins": 7,
+     "pitch": "older: watch together",
+     "matches": "Covers Newton's third law, that a pull works both ways, the idea behind the magnet and the nail pulling each other.",
+     "confidence": "high"
+    }
+   ]
+  },
+  "sci.materials.magnetic-materials.L4": {
+   "videos": [
+    {
+     "title": "Effect of a magnet across a metal plate",
+     "channel": "Khan Academy India - English",
+     "youtube": "351BixmmaWM",
+     "mins": 2,
+     "pitch": "on level",
+     "matches": "Shows a magnet moved over a metal plate affecting the metal, the effect that makes the aluminium can roll.",
+     "confidence": "high"
+    },
+    {
+     "title": "Magnetic effect on Non-Magnetic Materials",
+     "channel": "Khan Academy India - English",
+     "youtube": "RnP4i4Hnyt4",
+     "mins": 2,
+     "pitch": "on level",
+     "matches": "Shows that a magnet still has an effect on some materials that are not magnetic, the difference the lesson tests.",
+     "confidence": "high"
+    }
+   ]
+  },
+  "sci.motion.speed.L4": {
+   "videos": [
+    {
+     "title": "Speed and Average Speed",
+     "channel": "Khan Academy India - English",
+     "youtube": "Z5mA_l-ptqk",
+     "mins": 7,
+     "pitch": "on level",
+     "matches": "Teaches speed as distance divided by time and average speed, the toy-car measurement the lesson does.",
+     "confidence": "high"
+    },
+    {
+     "title": "Units of Speed",
+     "channel": "Khan Academy India - English",
+     "youtube": "q5PptXscgh0",
+     "mins": 7,
+     "pitch": "on level",
+     "matches": "Works through units of speed such as metres per second, the unit the toy-car result is written in.",
+     "confidence": "high"
+    },
+    {
+     "title": "Reference frames",
+     "channel": "Khan Academy",
+     "youtube": "dAUdeFIOriY",
+     "mins": 6,
+     "pitch": "older: watch together",
+     "matches": "Explains that a speed is measured against something else, the idea that one mover has many speeds.",
+     "confidence": "high"
+    }
+   ]
+  },
+  "sci.planet-earth.volcanoes-and-earthquakes.L4": {
+   "videos": [
+    {
+     "title": "Introduction to plate tectonics",
+     "channel": "Khan Academy",
+     "youtube": "7jbwX1Uvd18",
+     "mins": 5,
+     "pitch": "on level",
+     "matches": "Introduces the broken outer shell of the Earth and how its plates move, the base for the lesson's moving ground.",
+     "confidence": "high"
+    },
+    {
+     "title": "Volcanoes",
+     "channel": "Khan Academy India - English",
+     "youtube": "999D-V4-_pQ",
+     "mins": 4,
+     "pitch": "on level",
+     "matches": "Introduces volcanoes and the melted rock that comes out of them, the lava and magma in the lesson.",
+     "confidence": "high"
+    },
+    {
+     "title": "Earthquakes - Causes and Effects",
+     "channel": "Khan Academy India - English",
+     "youtube": "RQy3OzZ2Cgg",
+     "mins": 9,
+     "pitch": "older: watch together",
+     "matches": "Covers what causes earthquakes and what they do, the stick, stretch and slip the lesson describes.",
+     "confidence": "high"
+    }
+   ]
+  },
+  "sci.sky.life-beyond-earth.L4": {
+   "videos": [
+    {
+     "title": "What Makes Earth Suitable for life",
+     "channel": "Khan Academy India - English",
+     "youtube": "WTJMk4t6c2Q",
+     "mins": 4,
+     "pitch": "on level",
+     "matches": "Explains the conditions that let life live on Earth, the test the lesson uses to ask what life needs on other worlds.",
+     "confidence": "high"
+    },
+    {
+     "title": "Earth as the planet for life",
+     "channel": "Khan Academy",
+     "youtube": "wJ8oFmHnFj0",
+     "mins": 10,
+     "pitch": "on level",
+     "matches": "Explains why Earth suits life compared with other planets, the habitable-world idea the lesson builds on.",
+     "confidence": "high"
+    }
+   ]
+  },
+  "sci.states.melting-and-solidifying.L4": {
+   "videos": [
+    {
+     "title": "Phase changes",
+     "channel": "Khan Academy",
+     "youtube": "Aeddl02frBE",
+     "mins": 8,
+     "pitch": "on level",
+     "matches": "Explains melting, freezing and other phase changes using particles, the core idea of the lesson.",
+     "confidence": "high"
+    },
+    {
+     "title": "States of matter",
      "channel": "Khan Academy",
      "youtube": "We7Kd4D0S90",
      "mins": 7,
-     "pitch": "older: watch together",
-     "matches": "Solids, liquids and gases and how their particles differ.",
-     "confidence": "medium"
-    }
-   ],
-   "note": "Middle-school chemistry; does not specifically cover water as ice, water and steam for young children."
-  },
-  "sci.waste.sorting-waste.L2": {
-   "videos": [],
-   "note": "No Khan video on sorting wet and dry waste at this level; the biodegradable video is Class 9 and sorts differently."
-  },
-  "sci.weather.clouds-and-rain.L2": {
-   "videos": [
-    {
-     "title": "How are clouds formed? | Rain where does it come from?",
-     "channel": "Khan Academy India - English",
-     "youtube": "Av4NV_yauT8",
-     "mins": 5,
-     "pitch": "older: watch together",
-     "matches": "How clouds form and where rain comes from.",
-     "confidence": "high"
-    },
-    {
-     "title": "The water cycle | Weather and climate",
-     "channel": "Khan Academy",
-     "youtube": "r2dnUvP1JgM",
-     "mins": 4,
-     "pitch": "older: watch together",
-     "matches": "Water rising, forming clouds and falling as rain.",
-     "confidence": "medium"
-    }
-   ],
-   "note": "Grade 6 and middle-school wording; does not stress that clouds are tiny drops of water."
-  },
-  "sci.what-is-life.signs-of-life.L2": {
-   "videos": [
-    {
-     "title": "What makes something living?",
-     "channel": "Khan Academy India - English",
-     "youtube": "tMfaKTBH6d8",
-     "mins": 8,
-     "pitch": "older: watch together",
-     "matches": "What the signs of life are and how living things differ from non-living.",
-     "confidence": "medium"
-    },
-    {
-     "title": "Introduction to Living and Non-Living",
-     "channel": "Khan Academy India - English",
-     "youtube": "4aLm2ukoqvg",
-     "mins": 9,
-     "pitch": "older: watch together",
-     "matches": "Telling living from non-living things.",
-     "confidence": "medium"
-    }
-   ],
-   "note": "Class 6 level; may not cover plants seeming still or the tricky sorting cases."
-  },
-  "sci.what-is-real.consciousness.L2": {
-   "videos": [],
-   "note": "No Khan match."
-  },
-  "sci.what-is-real.perception-and-reality.L2": {
-   "videos": [],
-   "note": "No Khan match."
-  },
-  "sci.air.air-around-us.L1": {
-   "videos": [],
-   "note": "No Khan video on air being all around us that we feel but cannot see."
-  },
-  "sci.animals.animal-babies.L1": {
-   "videos": [],
-   "note": "No close Khan match; the frog life-cycle video covers only one animal."
-  },
-  "sci.animals.animals-around-us.L1": {
-   "videos": [],
-   "note": "No Khan match."
-  },
-  "sci.animals.birds.L1": {
-   "videos": [],
-   "note": "Only high-school bird videos exist; none on feathers, beaks and nests."
-  },
-  "sci.basic-needs.basic-needs.L1": {
-   "videos": [],
-   "note": "No Khan match."
-  },
-  "sci.body.body-parts.L1": {
-   "videos": [],
-   "note": "No Khan match at this level."
-  },
-  "sci.classification.sorting-living-things.L1": {
-   "videos": [],
-   "note": "No Khan match at this level."
-  },
-  "sci.environment.caring.L1": {
-   "videos": [],
-   "note": "No Khan match for young children."
-  },
-  "sci.evolution.inheritance.L1": {
-   "videos": [],
-   "note": "Khan heredity videos are genetics for older students, not looking like parents."
-  },
-  "sci.family.family.L1": {
-   "videos": [],
-   "note": "No Khan match."
-  },
-  "sci.food.healthy-food.L1": {
-   "videos": [],
-   "note": "No Khan match at this level."
-  },
-  "sci.food.where-food-comes-from.L1": {
-   "videos": [
-    {
-     "title": "Where do we get our food from (Sources of Food)",
-     "channel": "Khan Academy India - English",
-     "youtube": "cmupZ8DuB3I",
-     "mins": 4,
      "pitch": "on level",
-     "matches": "Food comes from plants and from animals.",
+     "matches": "Shows the three states of matter and how particles move in each, the particle picture the lesson uses.",
      "confidence": "high"
     },
     {
-     "title": "Part of Plant as food",
-     "channel": "Khan Academy India - English",
-     "youtube": "e0kkwDxQJRs",
-     "mins": 4,
-     "pitch": "on level",
-     "matches": "Which plant parts we eat.",
-     "confidence": "high"
-    },
-    {
-     "title": "Food from animal sources",
-     "channel": "Khan Academy India - English",
-     "youtube": "92aqP17aUxE",
-     "mins": 11,
-     "pitch": "on level",
-     "matches": "Food we get from animals.",
-     "confidence": "high"
-    }
-   ],
-   "note": ""
-  },
-  "sci.forces.changing-motion.L1": {
-   "videos": [],
-   "note": "No Khan match at this level; middle-school force videos go further."
-  },
-  "sci.forces.how-toys-work.L1": {
-   "videos": [],
-   "note": "No Khan match."
-  },
-  "sci.forces.push-and-pull.L1": {
-   "videos": [
-    {
-     "title": "Forces | Middle school physics",
+     "title": "Thermal energy and heat transfer",
      "channel": "Khan Academy",
-     "youtube": "emZftp_UBKs",
-     "mins": 7,
-     "pitch": "older: watch together",
-     "matches": "A force is a push or a pull.",
-     "confidence": "medium"
-    }
-   ],
-   "note": "Middle-school physics; does not use playground and toy examples."
-  },
-  "sci.gravity.falling.L1": {
-   "videos": [
-    {
-     "title": "Gravitational forces | Forces at a distance",
-     "channel": "Khan Academy",
-     "youtube": "atogJ2qw9Ko",
-     "mins": 4,
-     "pitch": "older: watch together",
-     "matches": "Gravity pulls things toward Earth.",
-     "confidence": "medium"
-    }
-   ],
-   "note": "Middle-school physics; not about dropping things and watching them fall."
-  },
-  "sci.habitats.local-environments.L1": {
-   "videos": [
-    {
-     "title": "Tree, our house and garden as a habitat",
-     "channel": "Khan Academy India - English",
-     "youtube": "AJkVDsHt_U0",
+     "youtube": "n3boAYB7T3k",
      "mins": 7,
      "pitch": "on level",
-     "matches": "A tree, a house and a garden as places where living things live.",
+     "matches": "Explains heat moving into a substance, the reason a melting solid takes in heat without getting warmer.",
      "confidence": "high"
-    },
-    {
-     "title": "Habitat (Intro and types)",
-     "channel": "Khan Academy India - English",
-     "youtube": "0cdteShyjh8",
-     "mins": 5,
-     "pitch": "on level",
-     "matches": "What a habitat is.",
-     "confidence": "medium"
     }
-   ],
-   "note": "Does not cover ponds or life under a stone."
-  },
-  "sci.health.feelings-and-wellbeing.L1": {
-   "videos": [
-    {
-     "title": "Happy, Sad, Mad, Scared, & Silly",
-     "channel": "Khan Academy Kids",
-     "youtube": "ZP9wQCPSgp0",
-     "mins": 2,
-     "pitch": "on level",
-     "matches": "Naming feelings.",
-     "confidence": "high"
-    },
-    {
-     "title": "Feeling Mad",
-     "channel": "Khan Academy Kids",
-     "youtube": "Jj8QkeoDVT8",
-     "mins": 1,
-     "pitch": "on level",
-     "matches": "What to do when we feel angry.",
-     "confidence": "medium"
-    },
-    {
-     "title": "Feeling Happy & Sad",
-     "channel": "Khan Academy Kids",
-     "youtube": "Tc7LZtzK_zI",
-     "mins": 1,
-     "pitch": "on level",
-     "matches": "Happy and sad feelings.",
-     "confidence": "medium"
-    }
-   ],
-   "note": "For younger children; short clips."
-  },
-  "sci.health.hygiene.L1": {
-   "videos": [
-    {
-     "title": "This Is The Way We Wash Our Hands | Circle Time with Khan Academy Kids",
-     "channel": "Khan Academy Kids",
-     "youtube": "hungOoC1o_M",
-     "mins": 15,
-     "pitch": "on level",
-     "matches": "Washing hands.",
-     "confidence": "medium"
-    }
-   ],
-   "note": "Long circle-time video; handwashing only, not bathing or brushing teeth."
-  },
-  "sci.how-we-know.asking-questions.L1": {
-   "videos": [],
-   "note": "No Khan match."
+   ]
   }
  }
 }

@@ -572,7 +572,7 @@ Two Sides the Same (sci.patterns-symmetry.L1): Topic-level song for Patterns and
 
 ## Plan
 - Start options: intro, a1, e1, story, g1, cards
-- Default order: intro → a1 → summary → terms → e1 → explanations → roots → quiz → story → g1 → a2 → a3 → ws-core → g2 → agreed → challenging → p1 → c1 → ws-stretch → big_questions → videos → open_questions
+- Default order: intro → a1 → summary → terms → e1 → explanations → roots → quiz → story → g1 → a2 → a3 → ws-core → g2 → agreed → challenging → p1 → c1 → ws-stretch → big_questions → videos → open_questions → old1
 - Core: a1, e1, g1, a2, ws-core
 
 ## Sources

@@ -553,7 +553,7 @@ What Is It Made Of? (sci.materials.L1): Topic-level song for Materials L1
 
 ## Plan
 - Start options: intro, a1, e1, story, g1, cards
-- Default order: intro → a1 → summary → terms → e1 → explanations → story → g1 → a2 → e2 → ws-core → a3 → g2 → agreed → challenging → p1 → c1 → ws-stretch → big_questions → videos → open_questions → roots → quiz
+- Default order: intro → a1 → summary → terms → e1 → explanations → story → g1 → a2 → e2 → ws-core → a3 → g2 → agreed → challenging → p1 → c1 → ws-stretch → big_questions → videos → open_questions → roots → quiz → old1
 - Core: a1, e1, g1, a2, ws-core
 
 ## Sources

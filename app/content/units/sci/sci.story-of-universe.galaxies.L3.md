@@ -649,7 +649,7 @@ City of Stars (sci.story-of-universe.L3):
 
 ## Plan
 - Start options: story, a1, e1, big_questions, cards, g1, a2
-- Default order: intro → a1 → e1 → summary → terms → explanations → story → a2 → g1 → e2 → videos → ws-core → a4 → p1 → agreed → challenging → ws-stretch → a3 → c1 → big_questions → ws-challenge → open_questions → roots → quiz
+- Default order: intro → a1 → e1 → summary → terms → explanations → story → a2 → g1 → e2 → videos → ws-core → a4 → p1 → agreed → challenging → ws-stretch → a3 → c1 → big_questions → ws-challenge → open_questions → roots → quiz → old1
 - Core: a1, e1, a2, g1, e2, ws-core
 
 ## Sources

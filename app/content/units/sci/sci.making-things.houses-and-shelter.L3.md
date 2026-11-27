@@ -787,7 +787,7 @@ Look Close, Then Make (sci.making-things.L3): Topic-level song for Making things
 
 ## Plan
 - Start options: intro, e1, story, a1, g2, cards, big_questions, p1
-- Default order: intro → a1 → e1 → explanations → roots → story → summary → terms → a2 → g2 → e2 → e3 → ws-core → videos → a3 → g1 → a5 → a4 → agreed → challenging → ws-stretch → c1 → c2 → p1 → big_questions → ws-challenge → open_questions → quiz
+- Default order: intro → a1 → e1 → explanations → roots → story → summary → terms → a2 → g2 → e2 → e3 → ws-core → videos → a3 → g1 → a5 → a4 → agreed → challenging → ws-stretch → c1 → c2 → p1 → big_questions → ws-challenge → open_questions → quiz → old1
 - Core: a1, e1, e2, a2, g2, ws-core
 
 ## Sources

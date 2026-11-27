@@ -609,7 +609,7 @@ I Am Here, I Notice (sci.what-is-real.L2): Topic-level song for What is real? L2
 
 ## Plan
 - Start options: intro, e1, story, g1, a1, cards
-- Default order: intro → e1 → summary → terms → explanations → e2 → story → a1 → g1 → ws-core → a3 → g2 → a2 → a4 → agreed → challenging → p1 → c1 → ws-stretch → ws-challenge → big_questions → videos → open_questions → how_we_found_out → roots → quiz
+- Default order: intro → e1 → summary → terms → explanations → e2 → story → a1 → g1 → ws-core → a3 → g2 → a2 → a4 → agreed → challenging → p1 → c1 → ws-stretch → ws-challenge → big_questions → videos → open_questions → how_we_found_out → roots → quiz → old1
 - Core: e1, e2, a1, g1, ws-core
 
 ## Sources

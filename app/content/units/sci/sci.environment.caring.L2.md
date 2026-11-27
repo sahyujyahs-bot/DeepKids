@@ -625,7 +625,7 @@ Snip the Loop (sci.environment.L2): Topic-level song for Caring for the environm
 
 ## Plan
 - Start options: intro, e1, story, g1, cards, a1
-- Default order: intro → e1 → summary → terms → explanations → story → g1 → a1 → ws-core → e2 → g2 → a2 → agreed → challenging → p1 → c1 → a3 → ws-stretch → big_questions → videos → open_questions → roots → quiz
+- Default order: intro → e1 → summary → terms → explanations → story → g1 → a1 → ws-core → e2 → g2 → a2 → agreed → challenging → p1 → c1 → a3 → ws-stretch → big_questions → videos → open_questions → roots → quiz → old2 → old1
 - Core: e1, g1, a1, ws-core
 
 ## Sources
