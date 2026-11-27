@@ -1,9 +1,9 @@
 # Other points of view: what someone else sees, knows and needs
 `sci.me-and-others.me-and-others.L3`
 
-**Summary.** Two people can look at the same thing from different seats and see something different. In this unit you will draw what another person sees and check it, play Martin Hughes's hiding game, and guess what someone else will think is inside a box.
+**Summary.** Two people can look at the same thing from different seats and see something different. In this lesson you will draw what another person sees and check it, play Martin Hughes's hiding game, and guess what someone else will think is inside a box.
 
-**Intro.** *Sit at the dining table and put a steel tumbler in the middle. Hide a lime behind it, so you cannot see the lime. Can the person sitting opposite you see it? How do you know, without getting up?* Everyone looks at the world from their own place. A tumbler that hides a lime from you may not hide it from someone else. People also know different things, so they can think different things about the same box or the same quarrel. In this unit you test how well you can picture another person's view. You find hidden differences inside your own family. You learn what scientists found about how children come to understand other minds, and why friends who see things differently can still do things well together.
+**Intro.** *Sit at the dining table and put a steel tumbler in the middle. Hide a lime behind it, so you cannot see the lime. Can the person sitting opposite you see it? How do you know, without getting up?* Everyone looks at the world from their own place. A tumbler that hides a lime from you may not hide it from someone else. People also know different things, so they can think different things about the same box or the same quarrel. In this lesson you test how well you can picture another person's view. You find hidden differences inside your own family. You learn what scientists found about how children come to understand other minds, and why friends who see things differently can still do things well together.
 
 ## Learning outcomes
 0. I can draw what another person sees from a different seat, and check my drawing against a photo from that seat.
@@ -180,13 +180,69 @@ At breakfast Meenu saved one idli on a small steel plate by the window. Paati ra
 
 "Ah," said Paati, as if that made perfect sense. "Then put the plate on the floor, kanna. He might not reach the ledge."
 
-**For the parent:** For the parent: Meenu and Kombu were each frightened by what they saw from their own place. From the cot, the street light behind Kombu threw a big horn shadow on the wall. From the floor, a girl looks huge and her voice is loud. Neither could see the other's view until Meenu lay down where Kombu lived. Then she asked him what he needed, because some things you cannot see even from another place: you have to be told.
 
-- Ask: Why did Kombu's shadow look so much bigger than Kombu?
-- Ask: What did Meenu see when she lay on the floor that she could not see from her cot?
-- Ask: Why was Kombu scared of Meenu?
-- Ask: Meenu said, "You have to tell me what you need." Why couldn't she just look and see?
-- Ask: Paati told Meenu to put the plate on the floor. Whose point of view was Paati thinking from?
+## Another story: Which Crow Is Which?
+**
+
+I am a crow. I live on the water tank on top of Building C, in a housing society in Hyderabad. From up there I can see eleven balconies, two neem trees and the corner where the bread man stops his cycle.
+
+Humans think all crows look the same. We do not think all humans look the same. I know the old man in 3B, who throws chapati crusts at seven every morning. I know the woman in 5A, who waves a broom when I sit on her railing. I know them by their faces, the way they walk and the sound of their slippers. A crow who cannot tell faces apart does not eat for long. A crow who forgets a cruel face does not live for long.
+
+That summer a new family came to 2C. They had a boy called Stanzin, with a round face and straight black hair cut short. He sat on the steps by the wall and watched the other children play cricket in the parking lot.
+
+On the third day, a boy called Karthik walked over, swinging his bat. "Are you from Nepal?" he asked.
+
+"From Leh," said Stanzin. "In Ladakh. It's in India."
+
+"Oh," said Karthik. He went back to the game. Nobody asked Stanzin to play.
+
+So Stanzin watched us instead.
+
+He came every evening with a notebook. At first I did not like it. A crow who is watched closely becomes careful. But he never threw anything and never shouted. On the fourth evening he put a steel katori of water on the wall. On the fifth, a few grains of cooked rice beside it. He sat very still while we drank.
+
+He drew us. I saw his pages when the wind turned them. There was a crow with a grey patch on her left wing. That was me. There was a crow with one toe bent sideways, from a kite string long ago. That was my mate. There was a young one who still opened his beak and begged, though he was big enough to find his own food. That was our son. Under each drawing Stanzin wrote a name. He called me Grey-wing.
+
+By the end of the month he had seven drawings and seven names. That was every crow who lived on Building C.
+
+One evening the cricket ball rolled to the steps. A girl called Diya came to fetch it. She saw the notebook.
+
+"What are you drawing?"
+
+"The crows," said Stanzin. "There are seven who live here."
+
+Karthik laughed from the pitch. "Seven? It's the same two crows every day. All crows look the same!"
+
+Stanzin did not argue. He opened the notebook and waited.
+
+My mate landed on the wall. Stanzin pointed at the drawing with the bent toe, then at my mate's foot. Diya bent down and looked. The toe was bent sideways, just like the drawing.
+
+Then I came down. Stanzin turned the page to Grey-wing. Diya looked at my wing, and at the page, and at my wing again.
+
+"How can you tell?" she asked.
+
+"I looked at them every day," said Stanzin. "At first they all looked the same to me too."
+
+Diya did not say anything for a while. She looked at the crows. Then she looked at Stanzin, as if she was seeing him properly for the first time. Then she looked at her shoes.
+
+"Can I try?" she said at last.
+
+The next evening she came back with her own notebook. The evening after, Karthik came too, though he pretended he was only there to sit down. Stanzin showed them how to look: at the shape of the beak, the patches on the wings, the way each of us walks. Karthik was bad at it. Diya was good at it. Stanzin was best.
+
+"That one," Karthik said one evening, pointing at my son. "Bent-toe."
+
+"No," said Diya. "Look at his feet."
+
+Karthik looked for a long time. "Oh," he said. "He's the one who begs." And then, after a moment, "Stanzin, are you batting tomorrow? We need one more."
+
+The next morning, before the old man in 3B and before the bread man, I flew down to the wall by the steps. Three faces were waiting there, with a katori of water. I knew all three.
+
+**For the parent:** For the parent: the story turns when Diya sees that the crows only looked the same because nobody had looked closely, and then she looks at Stanzin 'properly for the first time'. The children had treated him as 'different' without knowing him. The idea is that we tell apart best the faces we see often, and that crows can tell human faces apart. Let your child find the link to Stanzin themselves.
+
+- Ask: How did the crow know the people in the building?
+- Ask: How did Stanzin learn to tell the crows apart?
+- Ask: Why did Karthik think there were only two crows?
+- Ask: Why do you think Diya looked at her shoes?
+- Ask: What changed for Stanzin by the end? What made it change?
 
 ## Games
 ### g1 · Guess Who I Am: answer as someone else (20 min)

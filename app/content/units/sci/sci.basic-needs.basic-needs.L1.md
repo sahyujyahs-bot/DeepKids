@@ -1,9 +1,9 @@
 # What we need to live: air, water, food, clothes and a home
 `sci.basic-needs.basic-needs.L1`
 
-**Summary.** You take a breath every few seconds and never stop. Why? In this unit you will count the five things every person needs, build a small wind box from a box and a tissue, and find which way its door must face to keep the air calm.
+**Summary.** You take a breath every few seconds and never stop. Why? In this lesson you will count the five things every person needs, build a small wind box from a box and a tissue, and find which way its door must face to keep the air calm.
 
-**Intro.** *Think of a baby, a grandmother and a crow at the window. What does each one need every single day?* Say your guesses out loud first. Then count them on your fingers. In this unit we find the five things every person needs: air, water, food, clothes and a home. We find out why we need some of them every few seconds and some only a few times a day. And we build a little home from a box, put it in front of a fan, and test which way its door should face.
+**Intro.** *Think of a baby, a grandmother and a crow at the window. What does each one need every single day?* Say your guesses out loud first. Then count them on your fingers. In this lesson we find the five things every person needs: air, water, food, clothes and a home. We find out why we need some of them every few seconds and some only a few times a day. And we build a little home from a box, put it in front of a fan, and test which way its door should face.
 
 ## Learning outcomes
 0. By the end I can name the five basic needs: air, water, food, clothes and a home.
@@ -27,6 +27,8 @@ Three of them we take inside our bodies: air, water and food. Two of them stay o
 - e.g. A newborn baby drinks milk. Milk gives the baby both food and water.
 - e.g. A fisher family at sea near Kochi takes drinking water on the boat. Sea water is too salty to drink.
 - e.g. A woman soldier in the snow of Ladakh needs thick clothes and a warm tent.
+- **Scientists:** Every living human needs air, water and food. Clothes and homes are needed in many places, but people in warm places live with little of both.
+- **Indian saying:** 'Roti, kapda aur makaan': food, clothing, shelter. Many families add health and school to this list.
 ### We need air, water and food again and again · *defined*
 **Definition:** Our body keeps using up air, water and food, so we must take them in again and again.
 
@@ -34,6 +36,8 @@ Your body uses air all the time, so you breathe every few seconds, even in your 
 - e.g. After running, you breathe faster and feel thirsty.
 - e.g. On a hot day in Chennai, you sweat and need more water.
 - e.g. After a long game of kho-kho, you feel hungry.
+- **Ayurveda:** Teaches three pillars of life: food (ahara), sleep (nidra) and moderation (brahmacharya). Sleep counts as a need as strong as food.
+- **Biologists:** Tardigrades, tiny animals, can dry out and live for years with almost no water, until rain comes. So the need for water can be paused, though not forever.
 ### Clothes and a home keep us safe · *defined*
 **Definition:** Clothes and a home protect our bodies from sun, rain, cold, wind, insects and dirt.
 
@@ -41,6 +45,8 @@ Your skin can burn in strong sun and get very cold in wind and rain. A cap and l
 - e.g. Farmers in the fields of Andhra Pradesh often tie a cotton towel around their heads to keep off the sun.
 - e.g. In Shillong in winter, people wear woollen shawls and caps.
 - e.g. Houses in rainy Kerala often have sloping roofs, so rain runs off.
+- **People of different lands:** The Inuit made fur parkas for deep cold, while people of hot India wore thin cotton. What 'enough' covering means depends on the climate.
+- **Other animals:** Birds weave nests, hermit crabs borrow shells, and bees build wax homes. Many animals make or find shelter.
 ### A wall makes calm air behind it · *defined*
 **Definition:** When wind meets a wall, the moving air cannot go through, so it flows around and over it. Behind the wall, the air is calm.
 
@@ -48,6 +54,8 @@ Wind is air that is moving. A wall is in the way of the wind, so the air cannot 
 - e.g. On a windy beach, people sit beside a boat, on the side away from the wind.
 - e.g. Farmers plant rows of trees along the edge of a field to slow the wind. These rows are called windbreaks.
 - e.g. A pigeon sits beside a water tank, on the side away from the wind.
+- **Everyday observers:** Stand behind a wall and the wind feels gentle. It seems that the wall stops the air.
+- **Engineers who test buildings:** Wind tunnel tests show that air swirls into eddies behind a building. Some spots are calm and others have gusts. A windbreak made of trees works better than a solid wall because it slows the air without making swirls.
 ### Other living beings have needs too · *defined*
 **Definition:** All animals need air, water and food, and many need a shelter. Plants need air, water and light. Humans are animals, so we share these needs.
 
@@ -55,6 +63,8 @@ A crow drinks from a bowl on the balcony on a hot day. A pigeon builds a nest on
 - e.g. A cat curls up in a warm, dry corner to sleep.
 - e.g. A crow chooses a shady branch at noon in summer.
 - e.g. Ants carry their young to a drier place when their nest gets wet.
+- **The Jain tradition:** Teaches that every being with life (jiva) wants to live, from humans to plants, which have one sense. This is the reason for ahimsa, doing no harm.
+- **Biologists:** Find that all life needs energy, water and a way to take in materials. Some microbes near deep-sea vents need no sunlight and no oxygen. So needs are shared, yet differ in detail.
 
 ## Mostly agreed
 - Every person needs air, water and food to stay alive, and clothes and a home to stay safe and well. *How we know:* Doctors everywhere agree. People who go without air, water or food become ill quickly and can die.
@@ -154,11 +164,61 @@ Kiran thought about this. Then he filled the steel lid of the water bottle and s
 
 Later, the stars came out over the sea. The pigeon was still on her calm ledge. And the whole family sat in their calm little tent, with the door wide open.
 
-**For the parent:** Lasya finds calm air behind the water tank, on the side away from the sea wind, where a pigeon is sitting. She turns the tent so its closed back faces the wind, and the tent goes calm even with the door open.
 
-- Ask: Why did the wind rush into the tent at first?
-- Ask: How did the pigeon help Lasya?
-- Ask: What five things did Kiran count on his fingers?
+## Another story: The Shawl Has No Fire
+**
+
+My name is Dolma. I am nine, and I live with my family on the Changthang, a high, cold plain in Ladakh. We are Changpa. We move with our goats, sheep and yaks from one grassland to the next. In winter we live in a rebo, a tent woven from yak hair. It is black, and it smells of smoke and animals, and on windy nights it shakes and creaks all around us.
+
+Up here, the air is thin. When a visitor came from Chennai last summer, he had to sit down after walking up a small slope. "There's no air here," he gasped. There is air. There is just less of it in every breath. My little brother laughed at him, and Ama told him off, and then she gave the man butter tea and let him rest in our tent.
+
+This story happened at the end of winter, when the nights are still far below freezing. That evening the wind was blowing snow sideways. Our goats were crowded together in their stone pen beside the tent. I was nearly asleep when I heard Karmo, our oldest goat, crying in a strange high voice.
+
+Ama took the lamp and went out, and I followed her in my robe. Karmo had given birth, too early, in the snow. The kid lay on the ground in a small, wet heap. Its eyes were shut. When I touched it, it felt as cold as a stone in the stream.
+
+"Is it dead?" I asked.
+
+Ama put her hand on its side. "It's breathing. Only just."
+
+I ran back into the tent. I knew exactly what to do. From the bottom of my bag I pulled out my pashmina shawl. It was made from the soft winter wool of our own goats, combed out of their coats one spring and woven far away in Kashmir. Ama gave it to me at Losar, our new year. It is the lightest thing I own, and the warmest. When I wrap it round me, I feel warm straight away.
+
+I carried the kid inside and rubbed it dry with an old cloth, the way Ama showed me. Then I wrapped it in my shawl, round and round, until only its little grey nose stuck out. I laid it in the corner on a sack, away from the stove, because Ama says animals and fire don't mix. Then I lay down, feeling proud. The warmest thing I owned was keeping it alive.
+
+I woke up in the dark. The stove had burned low. I crawled over to the corner and put my hand inside the shawl.
+
+The kid was shivering. Its body felt no warmer than before. And the shawl, my warm shawl, felt as cold as the sack it lay on.
+
+I was so angry that I nearly cried. "Why aren't you warm?" I whispered at the shawl, as if it could answer.
+
+Ama had woken. She came and knelt beside me and felt the kid, and then she felt the shawl. "The shawl has no fire in it, Dolma," she said quietly.
+
+"But it keeps me warm. Every day it keeps me warm."
+
+"Does it?" she said. And she said nothing more. She just looked at me in the lamplight, the way she does when she wants me to find something out for myself.
+
+I thought about it. When I wear the shawl, I am inside it. My hands were warm from sleeping under the blankets. My chest was warm. Where did that come from? Not from the shawl. The shawl was lying here, cold, in a cold corner.
+
+I opened my robe. I took the kid out of the shawl and held it against my bare chest. It was so cold that I gasped. Its tiny legs poked my ribs. Then I wrapped the shawl round both of us, tight, and pulled the blanket over the top.
+
+Ama blew on the stove until it glowed, and made me a cup of hot butter tea and a ball of tsampa, the roasted barley flour we eat every day. "Eat," she said. "You'll need it."
+
+So I sat in the dark and ate and drank, and held the kid. I could feel my own heart beating against its side. For a long time nothing happened. Then the shivering became smaller. Then it stopped. Its ears, which had been like ice, grew soft and warm. Just before the sky turned grey, it lifted its head and gave a tiny, cross bleat, as if I had woken it up.
+
+In the morning, Ama carried it out to Karmo, who had been calling all night. Karmo licked it all over, and the kid pushed its nose under her and found her milk. It drank and drank, its tail flicking.
+
+We called the kid Nyima, which means sun.
+
+A year later, when the snow began to melt, the goats started rubbing themselves against the rocks. Their winter undercoat was coming loose. I took the comb and sat down beside Nyima, who was big now and would not keep still. I combed and combed, and the soft wool came away in clouds.
+
+I held up a handful in the wind. It was so light that I had to close my fist to keep it.
+
+**For the parent:** For the parent: the turn comes when Dolma finds her warm shawl lying cold in the corner, with the kid still shivering inside it. A shawl makes no heat. It only keeps in heat that is already there. Dolma's own body makes that heat, from the food she eats and the air she breathes, which is why Ama gives her tea and tsampa. The pashmina is light because it is mostly trapped air, and the goats grew it first for their own winter. Let your child find this out from the ice cube test on Day 6 before you name it.
+
+- Ask: Why was the baby goat still cold inside the warm shawl?
+- Ask: Where did the warmth come from in the end?
+- Ask: Why do you think Ama gave Dolma tea and tsampa in the middle of the night?
+- Ask: Why do the goats grow soft wool in winter and lose it in spring?
+- Ask: How many of the five basic needs can you find in the story?
 
 ## Games
 ### g1 · Five Needs, Ten Helpers: a matching game (15 min)
@@ -465,7 +525,7 @@ Air and Water, Food and Home (sci.basic-needs.L1): Topic-level song for Our basi
 
 ## Links
 - [Florence Nightingale, in Encyclopaedia Britannica](https://www.britannica.com/biography/Florence-Nightingale) · interactive: For the parent: a checked life story of Florence Nightingale, to read with your child.
-- [DakshinaChitra heritage museum]() · place · Muttukadu, near Chennai: Real old homes from Tamil Nadu, Kerala, Karnataka and Andhra Pradesh, rebuilt so you can walk through them. See how each home suits its weather.
+- DakshinaChitra heritage museum · place · Muttukadu, near Chennai: Real old homes from Tamil Nadu, Kerala, Karnataka and Andhra Pradesh, rebuilt so you can walk through them. See how each home suits its weather.
 
 ## Things to buy
 
@@ -484,7 +544,7 @@ Air and Water, Food and Home (sci.basic-needs.L1): Topic-level song for Our basi
 
 ## Sources
 - ideas/by_topic/basic-needs.md was read. Its concept activity is about sound under water and does not fit this topic, so it was not used. Its SCI Cards (Alice Ball, Barry Marshall, Aditi Pant, M. S. Swaminathan, Varahamihira) do not match a Class 1 shelter unit and were left for other units.
-- No board chapter is listed for this level. The level 3 unit (sci.basic-needs.basic-needs.L3) was read so that this unit leads into it without repeating its tests, story or deep truth.
+- No board chapter is listed for this level. The level 3 unit (sci.basic-needs.basic-needs.L3) was read so that this lesson leads into it without repeating its tests, story or deep truth.
 - Flow around a bluff body: wind meeting a wall or box flows around and over it, leaving a sheltered region of slower, calmer air on the far side. This is the basis of shelterbelts and windbreaks in farming.
 - Survival without air (minutes), water (days) and food (weeks) are standard rough figures used in medicine and first aid.
 - Florence Nightingale took 38 nurses to the British army hospital at Scutari in late 1854. The Sanitary Commission cleaned the drains and water supply from March 1855, and deaths fell sharply. Her diagrams were published in 1858. She studied army and village health in India through reports, without visiting India. She held the miasma idea, that bad smells carry illness.

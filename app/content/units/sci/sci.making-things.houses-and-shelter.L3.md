@@ -1,9 +1,9 @@
 # Houses and shelter: what keeps a home standing, dry and safe
 `sci.making-things.houses-and-shelter.L3`
 
-**Summary.** Why does a square frame lean over when you push it, but a triangle frame stays firm? In this unit you will push-test both frames, find how steep a roof should be to shed rain, and hunt for triangles around you.
+**Summary.** Why does a square frame lean over when you push it, but a triangle frame stays firm? In this lesson you will push-test both frames, find how steep a roof should be to shed rain, and hunt for triangles around you.
 
-**Intro.** *Make a square from four strips of card, joined at the corners with pins. Lay it flat and push one side gently. It leans over and squashes flat. Now make a triangle from three strips and push it the same way. Why does the triangle not lean?* Every home has to stay standing. Wind pushes on it, its own heavy roof presses down on it, and sometimes the ground shakes. In this unit you test frames, roofs and tiles at home, and find out how builders all over India make houses that stand up, keep the rain out and keep people safe. You also meet houses made of mud, bamboo, stone and grass, and the people who are designing new ones.
+**Intro.** *Make a square from four strips of card, joined at the corners with pins. Lay it flat and push one side gently. It leans over and squashes flat. Now make a triangle from three strips and push it the same way. Why does the triangle not lean?* Every home has to stay standing. Wind pushes on it, its own heavy roof presses down on it, and sometimes the ground shakes. In this lesson you test frames, roofs and tiles at home, and find out how builders all over India make houses that stand up, keep the rain out and keep people safe. You also meet houses made of mud, bamboo, stone and grass, and the people who are designing new ones.
 
 ## Learning outcomes
 0. I can say what a shelter does for people and for other living beings, and why homes differ from place to place.
@@ -75,7 +75,7 @@ People keep inventing new ways to build. Laurie Baker, an architect born in Engl
 ### Safety rules when building and at home · *defined*
 **Definition:** Safety rules are steps that stop people getting hurt. On a building site and at home, most injuries come from falls, falling objects, sharp tools and electricity.
 
-Builders wear a hard helmet, because a falling brick or tool can hurt the head. They wear strong shoes, because nails and broken glass lie on the ground. Workers high up wear a harness tied to the building, so a slip does not become a fall. Bright jackets help drivers of trucks and cranes see them. At home, the same dangers are smaller but real. Children do not climb on balcony walls, grills or water tanks. Wet floors are wiped at once. Broken switches and loose wires are left for a grown-up to fix. In this unit, a grown-up does every step with a sharp point, a knife or a hammer.
+Builders wear a hard helmet, because a falling brick or tool can hurt the head. They wear strong shoes, because nails and broken glass lie on the ground. Workers high up wear a harness tied to the building, so a slip does not become a fall. Bright jackets help drivers of trucks and cranes see them. At home, the same dangers are smaller but real. Children do not climb on balcony walls, grills or water tanks. Wet floors are wiped at once. Broken switches and loose wires are left for a grown-up to fix. In this lesson, a grown-up does every step with a sharp point, a knife or a hammer.
 - e.g. A worker on scaffolding wearing a yellow helmet and a harness.
 - e.g. A sign at a building site saying 'Helmets must be worn'.
 - e.g. Grills or a net on a high balcony so that nobody can fall.
@@ -185,13 +185,57 @@ But Meenakshi knew they were there. After lunch she found Arun on the stairs, ea
 
 "I know," said Meenakshi. "I'll need triangles."
 
-**For the parent:** A frame of squares can lean even when every knot and pole is strong, because its corners can turn. A triangle cannot lean unless one of its sides changes length. So one cross pole, which turns a square into two triangles, keeps the whole pandal upright.
 
-- Ask: No knot came undone and no pole broke. So why did the pandal lean?
-- Ask: How did the little square of broom sticks help Meenakshi understand the big pandal?
-- Ask: Why did the triangle slide across the floor without changing shape?
-- Ask: Arun thought the cross poles were only for hanging lights. Why do people sometimes copy what they see without knowing why it is done?
-- Ask: Where in your home or street could you add a cross piece to stop something wobbling?
+## Another story: The Bull That Did Not Melt
+**
+
+My name is Asha, or that is what you may call me. You could not say my real name, because the words of my city were forgotten long ago. I live by a great river, in a city of brick, about four and a half thousand years before you were born. You call my city Mohenjo-daro.
+
+Every morning my father goes down to the riverbank with two baskets. He fills them with the smooth grey mud that the river leaves behind when the water falls. He carries it to our yard, mixes it with water and treads it with his bare feet until it is soft all through. Then he presses it into a wooden mould, flat on the ground, and lifts the mould away. There is a brick, wet and shining. He does it again, and again, until the yard is full of wet bricks in rows, like a field of flat grey seeds.
+
+'Every brick the same,' he says. 'This long, this wide, this thick. The same as the bricks in the cities up the river. A brick should fit any wall.'
+
+The sun dries them in a few days. They turn pale and hard, and ring a little when you tap them together. Father sells them to the builders. They are good bricks, and they cost nothing but mud, water, feet and sun.
+
+Across the lane lives my aunt Rupi, who is not really my aunt. She bakes bricks. Her kiln is a big round oven built of old bricks, and when it burns, the smoke stings my eyes from our yard. She stacks her dried bricks inside with wood between them, and feeds the fire for a day and a night. When the bricks come out they are red, and they are heavier to lift, and they sound different when you knock them.
+
+Father shakes his head at her kiln. 'All that wood,' he says. 'All that work. The sun does the same job for nothing.'
+
+I wanted a bull. Not a real one, a small one, to pull a little cart. So I took a handful of Father's mud and made two. I gave them horns and humps, and I pressed in eyes with a stick. One I left to dry in the sun on our wall. The other I gave to Aunt Rupi, and asked if it could go in her kiln, and she laughed and pushed it in among her bricks.
+
+Mine from the wall was pale and smooth. The one from the kiln came back red, a little smaller, with a black smudge on one side where the fire had kissed it. I liked the pale one better. It looked like it had come from the river.
+
+That summer the river grew. It always grows in summer, when the snow melts in the far mountains and the rains come. But that year it kept growing. It filled the low fields. It came up the lanes at the bottom of the city, slowly, brown and quiet, carrying sticks and a drowned goat. Our house stands on a high platform of bricks, and we watched from the roof as the water rose up the street, and touched the walls, and stayed.
+
+It stayed for six days. Then, as slowly as it came, it went away.
+
+When we came down, the lane smelled of wet earth. Father went straight to the wall at the bottom of our yard. It was the wall he had built himself, from his own sun-dried bricks. The lowest rows had gone soft. They had slumped and spread like porridge, and the wall above them leaned and cracked. Father put his hand on it, and a piece came away in his palm, just mud again, the same mud he had carried from the river.
+
+My pale bull was gone from the top of the wall. I looked for it everywhere. At last I found a soft grey lump in the corner of the yard, with one horn still sticking out of it.
+
+Then I remembered the other bull. I had left it by Aunt Rupi's door. I ran across the lane. The water had been there too. Mud lay over everything, and in the mud, on its side, was a small red bull with a black smudge. I picked it up and washed it in a pot of water. It was hard. Every horn and every eye was still there.
+
+Aunt Rupi's house had red baked bricks in its lowest rows, below the sun-dried ones. Those rows stood straight. The drain in the lane, which the city builders had made of baked bricks too, was full of mud but whole.
+
+I took both bulls to Father, the lump and the red one. I put them side by side on his palm.
+
+'They were the same mud,' I said. 'Your mud.'
+
+He looked at them for a long time. He turned the red bull over and tapped it with his nail, and it made that small hard sound.
+
+'The same mud,' he said. 'Once.'
+
+The next week Father carried a basket of his dried bricks across the lane to Aunt Rupi's kiln, and came back with his eyes red from the smoke. When he built the new wall, he laid the baked bricks at the bottom, where the water reaches, and his own pale bricks on top, where only the sun and the wind can touch them.
+
+I keep the red bull on the shelf by my bed. Sometimes I put it in a bowl of water, just to watch it stay.
+
+**For the parent:** For the parent: this is an imagined story set in a real place, Mohenjo-daro, where builders did use both sun-dried and kiln-baked bricks, and used baked ones where water reached. The turn is the flood: the sun-dried bricks and the sun-dried bull turn back to mud, but the baked bull and baked bricks do not. Fire changed the clay for ever. Asha's father's words 'Once' say it: they were the same mud, but baking was an irreversible change. Let your child find this out with the diya test on Day 3 before you name it.
+
+- Ask: Both bulls were made from the same mud. Why did one melt and one did not?
+- Ask: Why did Asha's father think the kiln was a waste at first? Was he wrong about everything?
+- Ask: Why did he put the baked bricks at the bottom of the new wall, and his own bricks on top?
+- Ask: What did the baked bricks cost that the sun-dried bricks did not?
+- Ask: Why do you think Asha puts the red bull in water just to watch it?
 
 ## Games
 ### g1 · Build It Right: a home for every place (20 min)
@@ -644,7 +688,7 @@ But Meenakshi knew they were there. After lunch she found Arun on the stairs, ea
 ## Spotted around us
 - A mobile phone tower on a building roof, made of steel triangles.
 - The cross poles inside a wedding pandal before the cloth goes on.
-- Steep red tiled roofs in villages and towns of Kerala and coastal Karnataka.
+- Steep red tiled roofs on houses in villages and towns.
 - Builders in yellow helmets on bamboo or steel scaffolding at a building site.
 - The steel triangles of a railway bridge, seen from a train window.
 - A bracket under a kitchen or bathroom shelf, making a triangle with the wall.

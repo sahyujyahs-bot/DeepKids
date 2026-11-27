@@ -595,32 +595,34 @@ function fxCards(u) {
           u.intro.hook + " " + u.intro.text,
         );
         break;
-      case "story": {
-        const P = st.text,
-          per = Math.ceil(P.length / 5);
-        add(
-          "story",
-          `${fxImg(u, "story.0", st.art[0], "fxhero")}<div class="fxtxt"><span class="fxeb">📖 Story · ${st.mins} min · read aloud</span><h1>${esc(st.title)}</h1><p class="fxsm">${esc(st.note || "")}</p><button class="fxb" data-fx="readall">🔊 Read the whole story to me</button></div>`,
-          st.title,
-        );
-        for (let i = 0; i < P.length; i += per) {
-          const pg = i / per,
-            img = ["story.2", "story.3", "story.4", "story.5"][pg - 1];
+      case "story":
+        [st, ...(u.more_stories || [])].forEach((sx, n) => {
+          const k = n ? "story" + (n + 1) : "story",
+            P = sx.text,
+            per = Math.ceil(P.length / 5);
           add(
-            "story.p" + pg,
-            `${pg ? fxImg(u, img, st.art[pg], "") : ""}<div class="fxtxt fxstory">${P.slice(i, i + per)
-              .map((p) => `<p>${esc(p)}</p>`)
-              .join("")}</div>`,
-            P.slice(i, i + per).join(" "),
+            k,
+            `${fxImg(u, k + ".0", sx.art?.[0], "fxhero")}<div class="fxtxt"><span class="fxeb">📖 ${n ? "Another story" : "Story"} · ${sx.mins} min · read aloud</span><h1>${esc(sx.title)}</h1><p class="fxsm">${esc(sx.note || "")}</p><button class="fxb" data-fx="readall" data-n="${n}">🔊 Read the whole story to me</button></div>`,
+            sx.title,
           );
-        }
-        add(
-          "story.end",
-          `<div class="fxtxt"><span class="fxeb">📖 After the story</span><h3>Talk about it</h3><ul>${st.ask.map((q) => `<li>${esc(q)}</li>`).join("")}</ul></div>`,
-          st.ask.join(" "),
-        );
+          for (let i = 0; i < P.length; i += per) {
+            const pg = i / per,
+              img = [k + ".2", k + ".3", k + ".4", k + ".5"][pg - 1];
+            add(
+              k + ".p" + pg,
+              `${pg ? fxImg(u, img, sx.art?.[pg], "") : ""}<div class="fxtxt fxstory">${P.slice(i, i + per)
+                .map((p) => `<p>${esc(p)}</p>`)
+                .join("")}</div>`,
+              P.slice(i, i + per).join(" "),
+            );
+          }
+          add(
+            k + ".end",
+            `<div class="fxtxt"><span class="fxeb">📖 After the story</span><h3>Talk about it</h3><ul>${sx.ask.map((q) => `<li>${esc(q)}</li>`).join("")}</ul></div>`,
+            sx.ask.join(" "),
+          );
+        });
         break;
-      }
       case "terms":
         u.terms.forEach((t, i) =>
           add(
@@ -919,7 +921,7 @@ function fxSecMeta(u, o, ent) {
   const m = (o === "maths" && u.id.startsWith("math.") ? FXMATH : FXS[o]) || [o, "✨", ""],
     mins =
       {
-        story: u.story.mins,
+        story: u.story.mins + (u.more_stories || []).reduce((n, sx) => n + sx.mins, 0),
         terms: Math.round((u.cards_mins || 20) / 2),
         explanations: u.agreed?.length ? 15 : 12,
         videos: u.videos.reduce((a, v) => a + v.mins, 0),
@@ -1660,7 +1662,10 @@ function fxClick(e) {
     return S1[k] && toast("Saved");
   }
   if (a === "read") return speak(fxCardText(sec));
-  if (a === "readall") return speak(u.story.title + ". " + u.story.text.join(" "));
+  if (a === "readall") {
+    const sx = +b.dataset.n ? u.more_stories[b.dataset.n - 1] : u.story;
+    return speak(sx.title + ". " + sx.text.join(" "));
+  }
   if (a === "flip") return b.classList.toggle("on");
   if (a === "vote") {
     sec.querySelector(".fxreveal").hidden = false;

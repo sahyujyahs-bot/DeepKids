@@ -1,9 +1,9 @@
 # Animal life cycles: how young animals grow into adults
 `sci.animals.animal-life-cycles.L3`
 
-**Summary.** A caterpillar becomes a butterfly, but a hen's chick just grows bigger. What is the difference? In this unit you will open an egg like a scientist, look for bubbles from a shell, make life cycle wheels, and play a card game of who comes next.
+**Summary.** A caterpillar becomes a butterfly, but a hen's chick just grows bigger. What is the difference? In this lesson you will open an egg like a scientist, look for bubbles from a shell, make life cycle wheels, and play a card game of who comes next.
 
-**Intro.** *Here is a puzzle. A small animal lives in water. They breathe with gills, like a fish. They have a long tail and no legs. They scrape algae off stones. Algae are tiny water plants that make a green, slimy coat. A few weeks later, the very same animal breathes air, has four legs and no tail, and eats insects. Nobody swapped them. What happened?* The animal is a tadpole, and they became a frog. In the monsoon, many ponds and puddles in India fill with tadpoles. In this unit you will open a hen's egg and find every part a chick needs. You will test whether air can pass through an eggshell. And you will find out where a tadpole's tail goes. It does not fall off.
+**Intro.** *Here is a puzzle. A small animal lives in water. They breathe with gills, like a fish. They have a long tail and no legs. They scrape algae off stones. Algae are tiny water plants that make a green, slimy coat. A few weeks later, the very same animal breathes air, has four legs and no tail, and eats insects. Nobody swapped them. What happened?* The animal is a tadpole, and they became a frog. In the monsoon, many ponds and puddles in India fill with tadpoles. In this lesson you will open a hen's egg and find every part a chick needs. You will test whether air can pass through an eggshell. And you will find out where a tadpole's tail goes. It does not fall off.
 
 ## Learning outcomes
 0. I can put the stages of a frog, a butterfly and a hen in order, and name each stage.
@@ -166,7 +166,7 @@ We have been learning how a chick grows inside an egg and how a tadpole becomes 
 
 **Deep truth.** In Open an Egg like a Scientist, the egg held a yolk, a white and a spot, but no chick. If the egg is fertilised and kept warm, a chick takes shape in that spot. Their heart beats on day 2, their eyes form next, and their feathers grow from about day 9. A chick is built part by part over 21 days, from an egg that held none of those parts.  
 *Habit it breaks:* We picture a tiny chick curled up in every egg, only waiting to grow bigger and hatch. Many scientists believed this too, in the 1600s and 1700s. In fact the egg holds the chick's food and a tiny spot, and the chick's parts are made one after another.  
-*Evidence:* In Open an Egg like a Scientist, you found a yolk, a white, two twisted cords and a tiny white spot, but no chick. Scientists who open eggs on each day of warming see the heart, the eyes and the feathers form one after another. The chick video in this unit shows the same.
+*Evidence:* In Open an Egg like a Scientist, you found a yolk, a white, two twisted cords and a tiny white spot, but no chick. Scientists who open eggs on each day of warming see the heart, the eyes and the feathers form one after another. The chick video in this lesson shows the same.
 
 - *who am i:* You also began as one tiny cell. Your body was built from the food your mother ate, and since then from your own food.
 - *what is life:* A living thing builds their new body out of food: a chick from their yolk, a frog partly from their tail, a butterfly from the caterpillar they were.
@@ -273,13 +273,63 @@ In September, Farida moved. Kavya did not cry at the gate, though she did cry la
 
 She thought that she should write to Farida about it. She thought that when she did, she would not write that something was lost. She would write that something had gone in.
 
-**For the parent:** For the parent: the tadpoles look as if they are breaking, but they are rebuilding. The tail's cells break down, and the body reuses the material to build a frog. That is why the tadpoles stop eating. The girls work this out from their records, not by a lucky guess: the numbers show the tail shrinking a little each day, not snapping.
 
-- Ask: Why did Kavya think the tadpoles were sick? What did Farida's notebook show instead?
-- Ask: Why did the tadpoles stop eating spinach when their tails were shrinking?
-- Ask: Where did the tadpoles' tails go?
-- Ask: Why did Kavya's mother say to use pond water and to put every tadpole back?
-- Ask: At the end, Kavya decides to write that something 'had gone in', not that something was lost. What do you think she means?
+## Another story: The Crab Who Had to Be Soft
+**
+
+I live in the mud of a mangrove creek at Pichavaram, on the coast of Tamil Nadu, where the trees stand on tiptoe on their roots. Twice a day the tide comes in and covers my home, and twice a day it goes out and leaves the mud shining. I am a mud crab. I have ten legs, two of them with strong claws, and a shell as hard as a pot.
+
+For a long time my shell was my whole world. Inside it I was safe from the herons with their spear beaks, and the fish that snap, and the monitor lizards that dig. I loved my shell.
+
+But I was growing. Every day I ate, little snails, dead fish, bits of whatever the tide brought, and every day there was more of me. And my shell did not grow. It cannot. It is not alive in the way my soft body is. It is a hard coat that my body made, and once it is made, it stays the size it is.
+
+So my shell began to pinch. First at the edges, then everywhere. I felt squeezed when I walked. I felt squeezed when I rested in my burrow.
+
+On the bank above the creek lived a girl called Kayal. She came down to the water most afternoons, to wash pots, or to look for crabs' holes with a stick, or just to sit. Her school shoes were tied around her neck by their laces because they were too small now, and they hurt her feet, and her mother had said there would be new ones after the harvest.
+
+One afternoon I felt it: the time had come. Underneath my old shell, slowly, over many days, my body had already made a new one, soft and folded and wrinkled like a wet cloth. Now I drank in water until I swelled. There was a crack along the back of my old shell. The crack widened.
+
+And I backed out.
+
+It is the hardest thing a crab ever does. I pulled my legs out of my old legs, every one, ten of them. I pulled my claws out through the narrow joints of my old claws. I even pulled out the thin coverings of my eyes and the linings of my gills. It took a long time. When I was finally out, I was soft. Soft all over, like a ripe mango. I couldn't pinch. I couldn't run fast. Anything could have eaten me.
+
+I crept into the deepest corner of my burrow, under a mangrove root, and waited, and swelled, and was afraid.
+
+Kayal found my old shell the next day.
+
+She found it lying on the mud at low tide: a whole crab, perfect, with all ten legs and both claws and even little eye cups. She picked it up and it was so light. She looked inside and it was empty.
+
+"Amma!" Kayal cried, running up the bank with it held out in both hands. "Amma, a crab has died! There's nothing left of it!"
+
+Her mother was spreading rice to dry on a mat. She wiped her hands on her sari and took the shell and turned it over, very carefully.
+
+"Look," she said. "Look here, at the back." There was the long split where I had climbed out. "And look, it's not broken anywhere else. Nothing ate this crab. It's not a dead crab, Kayal. It's an empty coat."
+
+Kayal stared at it. "A coat?"
+
+"The crab grew too big for the shell," said her mother. "So the crab climbed out. Somewhere down there the crab is hiding, soft and new and bigger, waiting for the new shell to harden."
+
+"It came out of all of it? Even the legs?"
+
+"Even the legs."
+
+Kayal held the empty shell for a long time. Then she looked down at the school shoes hanging round her neck. Last year they had been too big, and she had stuffed paper in the toes.
+
+She didn't say anything. She just went back down to the creek, and put my old shell on a flat stone by the water, carefully, the right way up, and sat beside it until the tide began to come in.
+
+Down in my burrow, I was hardening. It took days. My new shell turned from soft to leathery to hard, and it was bigger, so much bigger, with room inside to grow. One evening I came out into the low tide light and walked across the mud, slowly, then faster, and nothing pinched at all.
+
+On a flat stone at the edge of the water there was an old crab shell, just my size, the size I used to be. A girl was sitting next to it with her chin on her knees, watching the water come in.
+
+She saw me. She didn't move. And I didn't run.
+
+**For the parent:** Animals with a hard outside, like crabs, insects and spiders, must moult to grow. The shell can't grow, so the crab makes a new soft one underneath, climbs out of the old one, swells, and waits for the new shell to harden. The turn is Kayal's mother saying 'It's not a dead crab. It's an empty coat.' Kayal's too-small shoes show the same idea without anyone saying it.
+
+- Ask: Why couldn't the crab's shell grow with the crab?
+- Ask: Why did Kayal think the crab had died? What showed her mother it hadn't?
+- Ask: Why did the crab hide after moulting?
+- Ask: What was the same about the crab's shell and Kayal's shoes?
+- Ask: Why do you think Kayal put the shell on the stone and waited?
 
 ## Games
 ### g1 · Who Comes Next? A life cycle card game (20 min)
@@ -415,7 +465,7 @@ She thought that she should write to Farida about it. She thought that when she 
   *Parent does:* 1. With your child, find a monsoon puddle with tadpoles that may dry up. 2. Fill the tub halfway with water from that puddle. 3. Add a slimy stone, a few weeds and a stick. 4. Scoop 3 to 5 tadpoles gently in a tumbler and pour them in. 5. Keep the tub in the shade.  
   *Parent says:* These tadpoles are going to become frogs. We'll look after a few for some weeks, and then bring them all back here. We are borrowing them, not keeping them.  
   *Child mode:* With a grown-up, scoop a few tadpoles into pond water. Add a slimy stone and a stick. Keep it in the shade. You are borrowing them.
-  - Note: Use only pond water. Tap water has chlorine, which can harm tadpoles. Five tadpoles in 5 litres is plenty, because more will dirty the water. If you cannot find tadpoles, watch the tadpole video in this unit instead, and read the story 'Where the Tails Go'.
+  - Note: Use only pond water. Tap water has chlorine, which can harm tadpoles. Five tadpoles in 5 litres is plenty, because more will dirty the water. If you cannot find tadpoles, watch the tadpole video in this lesson instead, and read the story 'Where the Tails Go'.
 - **s2 (5 min)**  
   *Parent does:* 1. Hold the ruler outside the tub, level with one tadpole. 2. Measure their body, from nose to the start of the tail. 3. Measure their tail. 4. Write both numbers. 5. Do the same for each tadpole. 6. Drop in a pinch of spinach.  
   *Parent says:* Measure gently, from outside. We don't need to touch them.  
@@ -588,7 +638,7 @@ She thought that she should write to Farida about it. She thought that when she 
   *Parent does:* 1. Find an egg or a tiny caterpillar on a curry leaf or lemon plant. 2. Snip the leaf with them. 3. Stand a fresh sprig in a small jar of water, plug the top with cotton, and put it in the cage. 4. Lay the snipped leaf on the sprig.  
   *Parent says:* We are going to borrow this baby butterfly for a few weeks, and watch their whole change. At the end, we'll let them go right here.  
   *Child mode:* With a grown-up, find an egg or a tiny caterpillar. Put them with fresh leaves in a cage. You are borrowing them.
-  - Note: Look on the newest leaves of a curry leaf, lemon or orange plant. Nursery plants often carry eggs or tiny caterpillars. If you find none, try again after a week, or watch the butterfly video in this unit instead.
+  - Note: Look on the newest leaves of a curry leaf, lemon or orange plant. Nursery plants often carry eggs or tiny caterpillars. If you find none, try again after a week, or watch the butterfly video in this lesson instead.
 - **s2 (5 min)**  
   *Parent does:* Every day: 1. Put in a fresh sprig. 2. Shake out the droppings. 3. Hold a ruler beside the caterpillar without touching them. 4. Write their length and one thing you noticed.  
   *Parent says:* A caterpillar spends their days eating. Let's see how much they grow. Measure them every day, without touching.  
@@ -833,9 +883,9 @@ She thought that she should write to Farida about it. She thought that when she 
 - Frogspawn and tadpoles in rain puddles and paddy fields in the first weeks of the monsoon.
 - Lime butterfly caterpillars on curry leaf plants in balcony pots, looking like bird droppings.
 - Plain tiger butterflies and their striped caterpillars on aak, the milkweed plant growing on empty plots.
-- Hens with a row of chicks scratching in a village courtyard in Kerala or Bengal.
+- Hens with a row of chicks scratching in a courtyard.
 - Wrigglers in the tray of a desert cooler, in an old coconut shell or in a forgotten bucket.
-- Silk cocoons and silk saris in markets in Mysuru, Kanchipuram and Bhagalpur.
+- Silk cocoons and silk saris in a shop or a market.
 - Empty cicada nymph skins clinging to tree bark after the monsoon.
 - Frogs calling loudly at night after heavy rain. The males call so that females can find them in the dark.
 
@@ -886,9 +936,9 @@ Every Creature Counts (sci.animals.L3): Topic-level song
 - [Ask A Biologist](https://askabiologist.asu.edu/) · interactive: A free site from a university in the USA, with clear pages and pictures about animal life cycles, written for children.
 - [Bombay Natural History Society](https://www.bnhs.org/) · interactive: India's oldest nature society. It runs nature walks, including monsoon walks to see frogs and butterflies.
 - [Bannerghatta Butterfly Park](https://www.bannerghattabiologicalpark.org/) · place · Bengaluru: A covered butterfly garden where you can see butterflies, caterpillars and chrysalises, with a small museum.
-- [Ovalekar Wadi Butterfly Garden]() · place · Thane, near Mumbai: A family's private garden full of butterfly plants. Many kinds of butterflies lay eggs here. Call ahead before visiting.
-- [Butterfly Conservatory of Goa]() · place · Ponda, Goa: A small butterfly garden in the forest, with host plants where you can see caterpillars and chrysalises.
-- [Sanjay Gandhi National Park, monsoon nature trails]() · place · Mumbai: In the monsoon, guided trails show frogs, tadpoles and caterpillars in the forest.
+- Ovalekar Wadi Butterfly Garden · place · Thane, near Mumbai: A family's private garden full of butterfly plants. Many kinds of butterflies lay eggs here. Call ahead before visiting.
+- Butterfly Conservatory of Goa · place · Ponda, Goa: A small butterfly garden in the forest, with host plants where you can see caterpillars and chrysalises.
+- Sanjay Gandhi National Park, monsoon nature trails · place · Mumbai: In the monsoon, guided trails show frogs, tadpoles and caterpillars in the forest.
 
 ## Things to buy
 - [Magnifying glass, about 5 to 10 times](https://www.amazon.in/s?k=magnifying+glass+for+kids) (tool): To look closely at butterfly eggs, tadpole legs and caterpillar skins. It helps, but every activity works without it. Used in e1, e3, a1, a5, p1. 

@@ -1,9 +1,9 @@
 # What plants need, and how to test it fairly
 `sci.plants.what-plants-need.L3`
 
-**Summary.** Moong grown in a dark cupboard grows taller than moong on a windowsill, yet it is pale and weak. So what does a plant need? In this unit you will grow moong in light and in dark, test water and warmth, and measure with a paper-strip chart.
+**Summary.** Moong grown in a dark cupboard grows taller than moong on a windowsill, yet it is pale and weak. So what does a plant need? In this lesson you will grow moong in light and in dark, test water and warmth, and measure with a paper-strip chart.
 
-**Intro.** *Have you seen moong sprouts grown in a closed box, or a potato that has sat in a dark kitchen basket? Their shoots are white or pale yellow, not green. Why?* Sprouts grown in a closed tiffin, and potato shoots in a dark basket, come out long and pale. They are alive, and they grow fast. The only thing they were missing was light. So what does a plant really need? Is it light, water, warmth or soil? And how could you find out for sure, without guessing? In this unit you find out with fair tests, changing one thing at a time.
+**Intro.** *Have you seen moong sprouts grown in a closed box, or a potato that has sat in a dark kitchen basket? Their shoots are white or pale yellow, not green. Why?* Sprouts grown in a closed tiffin, and potato shoots in a dark basket, come out long and pale. They are alive, and they grow fast. The only thing they were missing was light. So what does a plant really need? Is it light, water, warmth or soil? And how could you find out for sure, without guessing? In this lesson you find out with fair tests, changing one thing at a time.
 
 ## Learning outcomes
 0. I can say what a plant needs to grow well: light, water, air, warmth and minerals, each in the right amount.
@@ -204,7 +204,7 @@ A moong seed holds the start of a plant: a tiny root, a tiny shoot and a store o
 - *big:* A plant cannot tell us in words what they need. How can we listen to something that does not use words? (hint: A plant doctor reads clues: drooping, yellow, leaning. A baby cannot use words either. How do people find out what a baby needs?)
 
 ## Story: A Stripe of Sun
-*Zoya, Nani, Rukmini Mami, Arjun, Kavitha and the contest are made up. What happens to Zoya's moong is real: you can see it in this unit's light test.*
+*Zoya, Nani, Rukmini Mami, Arjun, Kavitha and the contest are made up. What happens to Zoya's moong is real: you can see it in this lesson's light test.*
 
 In Zoya's lane in Triplicane, in Chennai, the buildings stood very close together. Neighbours could pass a bowl of kesari from one balcony to the next without leaning. Sunlight reached the lane for only about an hour each day. At eleven o'clock a thin yellow stripe slid down the wall opposite Zoya's window. For a while it touched the outer edge of the iron grille around her window. Then it was gone before lunch.
 
@@ -236,13 +236,47 @@ Rukmini Mami looked at the yellow plant leaning on their pencil for a long time.
 
 Arjun got the mango. He cut it on the terrace, and the juice ran down eleven chins. But Zoya hardly tasted her slice. She was thinking of the second cup on her windowsill downstairs. Its plants were only as tall as her little finger. They were green as a parrot. And they were leaning, every one of them, towards an old steel thali full of sun.
 
-**For the parent:** For the parent: Zoya's plant grew tallest because they were starving for light. A seedling in dim light spends their stored food on stretching their stem, and stays pale with folded leaves. Scientists call this etiolation. So height alone is the wrong measure of how well a plant is doing. Light was the need in shortest supply, and Zoya fixed it by bouncing sunlight in with a thali.
 
-- Ask: Zoya's moong grew the tallest. Why weren't they the healthiest?
-- Ask: Which way were all Zoya's plants leaning? What were they looking for?
-- Ask: How did the steel thali help the second cup of moong?
-- Ask: Rukmini Mami said she would need 'a better ruler' next year. What else could she measure, to find the healthiest plant?
-- Ask: The contest rule was 'the tallest plant wins'. Why did that rule pick the wrong winner?
+## Another story: The Small Letters
+*Based on real events: The Power of Movement in Plants, 1880.*
+
+My name is Francis Darwin, and when I was a young man I spent three summers on my knees in the dark.
+
+My father was old by then, and often ill. He could not walk far, and some days he could not work for more than an hour. But his mind was as restless as ever, and that year it had fixed itself on a question about grass.
+
+"Look, Frank," he said one evening, tapping the glass of a little pot. Inside were tiny seedlings of canary grass, each one a pale green needle no longer than my fingernail. "We grew them in the dark. Now we light a lamp at the far end of the room, so dim that you and I can barely see it. And look what they do."
+
+Every single seedling had bent towards the lamp, like a row of people turning their heads to listen.
+
+"They see it," my father said. "They have no eyes, and they see it better than we do. But which part of them sees?"
+
+So we set out to find out, the two of us. Or rather, he thought and I did. My father's hands shook too much for the delicate work, so it was my hands that made the tiny caps: little hoods of tinfoil, and thin glass tubes painted black, each one small enough to fit over the very tip of a seedling. It was my eyes, bent close to the pots by candlelight, that watched and measured and wrote down every curve.
+
+We capped the tips of some seedlings and left others bare. The bare ones bent towards the light as before. The capped ones stood straight up, as if they had been blindfolded. We buried others in fine black sand right up to their necks, so only the very tip could feel the light, and they bent just the same.
+
+"It's the tip," my father said, and his tired face lit up like a boy's. "The tip sees the light, but the bending happens lower down. So the tip must send a message, Frank. Something travels down inside the plant and tells it which way to turn."
+
+I remember thinking: a message, travelling through a plant with no nerves, no brain. It seemed impossible. And yet the grass had told us so itself.
+
+When the book was printed, I held the first copy in my hands. The title said: The Power of Movement in Plants. Underneath, in large letters: By Charles Darwin. And underneath that, in much smaller letters: assisted by Francis Darwin.
+
+I was not angry. He was my father, and the whole world knew his name. But I sat for a long time with the book open on my knees, looking at those small letters, and I thought about the seedlings.
+
+The tip of the seedling does the seeing. It sits in the light and feels it, quietly, and sends its message down. And the part lower down does the bending, the part that everyone watches. Nobody looks at the tip. Everybody looks at the bend.
+
+My father died two years later. I became a botanist myself, and I spent my life studying how plants move and grow. Long afterwards, scientists found the message we had guessed at: a chemical that travels from the tip and tells the plant cells which side to grow. They called it auxin.
+
+Sometimes, when I tell this story, people ask me which of us really discovered it. I tell them the truth: we did it together, the old man and the young one, the one who thought and the one who watched. But I also tell them to remember the small letters. Behind almost every name in large letters, there is someone in small letters, and often many people in no letters at all: the gardener who grew the seeds, my mother who kept the house running, my sisters who copied out the pages.
+
+Look for them. They are the tips that see the light.
+
+**For the parent:** The tip of a seedling senses light and sends a chemical signal (auxin) down to the growing region, which bends. Plants sense and communicate without nerves. The turn is Francis's realisation that 'nobody looks at the tip, everybody looks at the bend'. Underneath: the people whose work is credited in small letters or not at all (based on real events: The Power of Movement in Plants, 1880).
+
+- Ask: Which part of the seedling sees the light? Which part bends?
+- Ask: How did the caps and the black sand help them find out?
+- Ask: What did Francis mean when he said 'nobody looks at the tip'?
+- Ask: Who are the people 'in no letters at all' in this story?
+- Ask: Why did the Darwins grow the seedlings in the dark before lighting the lamp?
 
 ## Games
 ### g1 · Grow or Droop (25 min)
@@ -821,7 +855,7 @@ Arjun got the mango. He cut it on the terrace, and the juice ran down eleven chi
 13. (write) In the light test, we kept some seedlings in the dark until they were weak. Was that fair to the seedlings? Give one reason for and one reason against.  
    **Answer:** For: we learnt something important about what plants need, and we put the dark seedlings back in the light at the end, so most of them turned green. Against: we made living beings struggle on purpose. Any answer with a real reason on each side is good.. *Why:* There is no single right answer. The point is to weigh both sides.
 14. (write) Astronauts plan to grow food on the Moon. List what the plants will need, and say where the astronauts could get each one.  
-   **Answer:** Light: from the Sun during the long Moon day, or from lamps. Water: brought from Earth, or made from ice near the Moon's poles. Air: made and pumped into a sealed greenhouse. Warmth: heaters and covers, because Moon nights are freezing. Minerals: from Moon soil, with extra added.. *Why:* A strong answer covers every need from this unit, and notices that Earth gives most of them for free.
+   **Answer:** Light: from the Sun during the long Moon day, or from lamps. Water: brought from Earth, or made from ice near the Moon's poles. Air: made and pumped into a sealed greenhouse. Warmth: heaters and covers, because Moon nights are freezing. Minerals: from Moon soil, with extra added.. *Why:* A strong answer covers every need from this lesson, and notices that Earth gives most of them for free.
 15. (write) A fern on a sunny terrace has brown, crispy edges. A cactus in a dark bathroom is pale and leaning. What is wrong with each plant? What would you do?  
    **Answer:** The fern is getting too much sun and heat. Move the fern to a shady, cooler place and keep their soil damp. The cactus is getting too little light. Move the cactus to a sunny window, and water them only a little.. *Why:* Each kind of plant has their own just right. The same place can be too much for one plant and too little for another.
 16. (draw) Draw the shortest-plank bucket for Zoya's moong in the dim window. Label each plank with a need. Make the shortest plank the need that held the moong back.  
@@ -945,11 +979,11 @@ Green and Growing (sci.plants.L3): Topic-level song for Plants L3
 - [NASA](https://www.nasa.gov) · interactive: Search the site for 'Veggie' to see how astronauts grow lettuce and flowers on the International Space Station.
 - [Royal Horticultural Society](https://www.rhs.org.uk) · interactive: A gardening society in Britain with clear plant care advice. The Indian botanist Janaki Ammal worked there in the 1940s and 1950s.
 - [Bose Institute](https://www.jcbose.ac.in) · place · Kolkata: The research institute Jagadish Chandra Bose founded in 1917. Its museum shows instruments Bose built to study plants.
-- [Acharya Jagadish Chandra Bose Indian Botanic Garden]() · place · Howrah, near Kolkata: One of India's oldest botanic gardens, with plants from many climates and the Great Banyan Tree.
-- [Lalbagh Botanical Garden]() · place · Bengaluru: A big botanic garden with a glasshouse. Notice which plants grow in full sun and which grow in shade.
+- Acharya Jagadish Chandra Bose Indian Botanic Garden · place · Howrah, near Kolkata: One of India's oldest botanic gardens, with plants from many climates and the Great Banyan Tree.
+- Lalbagh Botanical Garden · place · Bengaluru: A big botanic garden with a glasshouse. Notice which plants grow in full sun and which grow in shade.
 - [Indian Agricultural Research Institute](https://www.iari.res.in) · place · New Delhi: India's famous farm research institute, where scientists test which crops grow best in heat, cold and drought.
 - [Nehru Science Centre](https://www.nehrusciencecentre.gov.in) · place · Mumbai: A science centre with hands-on exhibits and a science park.
-- [A plant nursery near you]() · place · anywhere: Ask the gardener which plants need full sun, which need shade, and how often to water each one. Look for shade nets and drip pipes.
+- A plant nursery near you · place · anywhere: Ask the gardener which plants need full sun, which need shade, and how often to water each one. Look for shade nets and drip pipes.
 
 ## Things to buy
 - [30 cm ruler with millimetre marks](https://www.amazon.in/s?k=30+cm+ruler) (tool): Measures seedlings and sprouts in the light, water and warmth tests, the growth chart and the bean diary. Used in e1, e2, e3, e4, a2, p1. 

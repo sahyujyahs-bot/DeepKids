@@ -177,6 +177,7 @@ Step ids have no gaps. Step minutes add up to the part's minutes. A schedule's d
 | `open_questions` | 3 or more `{q, why_open}` |
 | `story` | `{title, text[], epiphany, ask[], art[], read_aloud: true}`. About 450 to 1400 words (a guide; depth matters more) |
 | `spotted`, `applications` | where the idea shows up in the child's own day, in India, and where it is used (section K) |
+| `more_stories` | optional extra stories (same shape as `story`), only when each is different in kind and as deep as the main story |
 | `how_we_found_out` | `{story, who, when, wrong_idea}`, 80 to 200 words |
 | `games` | with `printables`, `rules`, `flow`, `setup`, `players` |
 | `experiments`, `activities`, `projects`, `challenges` | `setup` of 2 or more step pictures, `flow`, `materials`, `context`, `mins` |

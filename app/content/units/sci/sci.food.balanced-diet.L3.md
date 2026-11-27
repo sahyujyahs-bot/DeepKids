@@ -1,9 +1,9 @@
 # A balanced diet: why your body needs many kinds of food
 `sci.food.balanced-diet.L3`
 
-**Summary.** A plate of rice can fill your stomach and still leave your body short of protein and vitamins. Why? In this unit you will build a balanced thali, test which fruit has the most vitamin C, and follow a chapati to your cells with paper clips.
+**Summary.** A plate of rice can fill your stomach and still leave your body short of protein and vitamins. Why? In this lesson you will build a balanced thali, test which fruit has the most vitamin C, and follow a chapati to your cells with paper clips.
 
-**Intro.** *Breathe out slowly onto your hand. Feel how warm it is. Part of that breath is the chapati or rice you ate yesterday. How did your food get into your breath?* Almost all our food starts as plants growing in sunlight. In this unit we follow food after you swallow it. A spoon of dal does not stay dal for long. It is broken into pieces far too small to see. Then it travels in your blood to every part of you. Some of it becomes your muscles and your hair. Your cells use some of it as fuel. What is left over leaves your body as a gas when you breathe out. Some of it feeds trillions of tiny living things in your gut. So why do we need so many kinds of food? Why not just eat rice, or just eat sweets?
+**Intro.** *Breathe out slowly onto your hand. Feel how warm it is. Part of that breath is the chapati or rice you ate yesterday. How did your food get into your breath?* Almost all our food starts as plants growing in sunlight. In this lesson we follow food after you swallow it. A spoon of dal does not stay dal for long. It is broken into pieces far too small to see. Then it travels in your blood to every part of you. Some of it becomes your muscles and your hair. Your cells use some of it as fuel. What is left over leaves your body as a gas when you breathe out. Some of it feeds trillions of tiny living things in your gut. So why do we need so many kinds of food? Why not just eat rice, or just eat sweets?
 
 ## Learning outcomes
 0. I can say what a balanced diet is: many kinds of food, in about the right amounts, over a day or a week.
@@ -257,14 +257,61 @@ That summer I found a broken kerosene tin and filled it with earth from the rail
 
 When the first leaves came, small and round and green, I picked a handful. I washed them at the tap, chopped them as fine as I could, and stirred them into my mother's dal.
 
-**For the parent:** For the parent: the key moment is the doctor's sentence, 'Enough food is not the same as the right food.' Sakhu's stomach was full of rice every day, but her diet was not balanced. It was missing a vitamin, later named folate, that the body needs only in tiny amounts to make new blood cells. At the end, Kamal grows methi leaves for her mother. The story does not say why, but the missing vitamin is found in leaves. Whether a family eats a balanced diet often depends on money and work, not on knowing better.
 
-- Ask: Aai said she was not hungry. Why was she still ill?
-- Ask: What did the doctor mean when she said 'enough food is not the same as the right food'?
-- Ask: Why do you think the rich ladies on Malabar Hill did not get the pale sickness?
-- Ask: The doctor said she did not know yet what was in the jar. Was it brave or strange for a doctor to say that?
-- Ask: Why did Kamal grow methi at the end? What did she understand?
-- Ask: Why could Kamal's family not buy leaves in the city? Whose fault was that?
+## Another story: Sundari and the Sweet Rice Balls
+**
+
+My name is Sundari. I am an elephant, and I live at a big temple in Kumbakonam, a town of many temples near the Kaveri river.
+
+Every morning, before the sun is hot, my keeper Selvi scrubs my back with a coconut husk and paints a white and red mark on my forehead. Then I walk to the temple gate and stand on the warm stone, and the people come.
+
+They bring me gifts. Bananas, a stick of sugarcane, and best of all, sweet rice balls with jaggery. I reach out with the tip of my trunk, take each gift and pop it into my mouth. Then I touch each child's head gently with my trunk. The children squeal and laugh, and their mothers fold their hands.
+
+I loved the sweet rice balls most. They were soft and warm, and the jaggery stuck to my tongue. One, then ten, then fifty. By evening I was so full that I did not want the grass Selvi brought me. I pushed the bundle away with my foot.
+
+Months went by like that. I grew heavy. My feet ached on the hot stone. At night my tummy rumbled and grumbled, and I could not sleep. I was never hungry, but I was not happy either. Selvi stroked my ear and said nothing, but I could tell she was worried.
+
+One day a young woman came to see me. She was Dr. Revathi, an animal doctor. She did not bring me a sweet. She sat on the temple steps with a notebook and watched me for the whole day. She counted the rice balls. She looked at my feet. She even looked at my dung, which I thought was rude.
+
+In the evening she said to Selvi, 'Sundari is eating festival food every day. An elephant's body is made for plants: grass, leaves, branches and bark. In the forest, elephants walk and eat plants for most of the day and part of the night.'
+
+'But she loves the sweets,' said Selvi.
+
+'Everyone loves sweets,' said Dr. Revathi. 'That is why it is hard to stop.'
+
+So one cool season, they took me on a long, bumpy ride in a truck to a camp in the forest by a river. I smelled the other elephants before I saw them. There were dozens of us, all temple elephants, all a little too heavy.
+
+In the forest there were no rice balls. There were no bananas on plates. There was tall grass, and bamboo, and leafy branches piled high.
+
+I sulked. I stood under a tree and did not eat. Selvi sat beside me and did not make me.
+
+An old elephant named Kamakshi walked past. She wrapped her trunk around a clump of grass and pulled it up, roots and all. She knocked the soil off against her knee, thump, thump, and put the grass in her mouth. She chewed slowly, looking at nothing, and then she pulled up another clump.
+
+By evening I was hungry. Not a little bit hungry, the way I felt at the temple when a child came late with a rice ball. This hunger was deep and loud. My tummy roared.
+
+So I copied Kamakshi. I pulled up a clump of grass. I knocked off the soil, thump, thump. It was rough and it took a long time to chew. It was not sweet at all. I pulled up another clump, and another. I stripped the leaves off a branch with my trunk. I walked to the river and drank, and splashed water on my back, and came back for more.
+
+That night I slept the whole night through.
+
+The days went on like this. Walk, pull, thump, chew. Bathe. Walk, pull, thump, chew. I was eating almost all day, but I never felt stuffed. The ground was soft under my feet, and slowly the ache in them went away. My tummy was quiet. My body felt like my own again.
+
+One afternoon Dr. Revathi came to the camp and found me by the river. She watched me for a while, the way she had on the temple steps. Then she smiled. 'Well, Sundari,' she said. 'Is grass as good as rice balls?'
+
+I did not have words to answer her. I pulled up another clump, knocked it on my knee, the way Kamakshi does, and ate.
+
+After many weeks I went home to the temple. Now, every morning, Selvi brings me a great heap of grass and palm leaves, and I eat it slowly while the bells ring. People still come to the gate.
+
+Yesterday a small girl named Kavya came with her mother. She held up one banana in both hands, her arms stretched as high as they would go. I took it with the tip of my trunk, very gently, and put it in my mouth.
+
+It was the sweetest thing I had tasted in weeks. It tasted like a festival.
+
+**For the parent:** For the parent: Sundari's own problem comes first. An elephant's body needs a lot of plants, eaten slowly through the day, but the sweet rice balls filled her so fast that she never ate the grass her body needed. The turn comes when she feels real hunger in the forest and copies Kamakshi: she eats plain food all day and her body feels well again. At the end, one banana tastes like a festival, because a treat is special when it comes sometimes, not all day.
+
+- Ask: Why did Sundari push away the grass at the temple?
+- Ask: How was the hunger in the forest different from how Sundari felt at the temple?
+- Ask: Why did Sundari feel better in the forest, even though she ate almost all day?
+- Ask: Why did one banana taste like a festival at the end?
+- Ask: What food is your 'festival food', the kind you have only sometimes?
 
 ## Games
 ### g1 · Cell Delivery (25 min)
@@ -855,7 +902,7 @@ Sunlight on My Plate (sci.food.L3): Topic-level song
 - [Exploratorium: Science Snacks](https://www.exploratorium.edu/snacks) · interactive: Free hands-on activities from a science museum in San Francisco.
 - [Science City, Kolkata](https://www.sciencecitykolkata.org.in) · place · Kolkata: A large science centre with galleries on the human body and life.
 - [Visvesvaraya Industrial and Technological Museum](https://www.vismuseum.gov.in) · place · Bengaluru: A science museum with galleries on biology and the human body.
-- [A weekly poriyal market or a millet shop near you]() · place · Your own town or city: Go early with a grown-up. Count how many kinds of leaves, vegetables and grains you can find, and ask the sellers where they grew.
+- A weekly poriyal market or a millet shop near you · place · Your own town or city: Go early with a grown-up. Count how many kinds of leaves, vegetables and grains you can find, and ask the sellers where they grew.
 
 ## Things to buy
 - [Povidone-iodine antiseptic liquid](https://www.amazon.in/s?k=povidone+iodine+solution) (material): For the Vanishing Blue vitamin C test. Most homes already have it in the medicine box. Used in e2. 
@@ -890,7 +937,7 @@ Sunlight on My Plate (sci.food.L3): Topic-level song
 - DeepKids HomeSchooling Track, STEM Activities websites: Exploratorium Science Snacks (links).
 - DeepKids Combined Class 5 lesson 'Digestion: the long tube that turns a chapati into you' (app/content/combined/sci-C5-digestion.json): its enzymes-as-scissors idea, the gut microbes 'one and many' day and the Marshall and Warren voice, simplified for Class 3 in the Paper-Clip Journey (a3), the fibre and microbes card and Roots. Its story was not reused.
 - DeepKids Combined Class 3 lesson 'Caring for the body you live in' (app/content/combined/sci-C3-health-hygiene-exercise-and-illness.json): the 'old friends' idea about microbes, used in the microbes card and Roots.
-- DeepKids unit sci.food.where-food-comes-from.L3: this unit builds on it, following food forwards into the body instead of back to the Sun, and shares its topic song. Its iodine starch test is reused in a new way, to measure vitamin C (e2).
+- DeepKids unit sci.food.where-food-comes-from.L3: this lesson builds on it, following food forwards into the body instead of back to the Sun, and shares its topic song. Its iodine starch test is reused in a new way, to measure vitamin C (e2).
 - Cambridge Primary Science Stage 3, 2.2 'A healthy diet' and 2.3 'An unhealthy diet' (app/content/cambridge/sci-L3-02.json): coverage of food groups, the food triangle and balanced thali, water, sugar on drink labels and the paper spot test for fat (e1), and the voices of C. Gopalan, James Lind and John Yudkin.
 - Sender, Fuchs and Milo, 'Revised estimates for the number of human and bacteria cells in the body', PLoS Biology 2016 (about 30 trillion human cells and 38 trillion bacteria)
 - Meerman and Brown, 'When somebody loses weight, where does the fat go?', BMJ 2014 (most of the mass leaves as exhaled carbon dioxide)

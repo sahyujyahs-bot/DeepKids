@@ -41,6 +41,7 @@ if r:
     [w(f"- Ask: {q}") for q in r["ask"]]
 w("\n## Deep and big questions"); [w(f"- *{q['kind']}:* {q['q']} (hint: {q['hint']})") for q in u["big_questions"]]
 s = u["story"]; w(f"\n## Story: {s['title']}\n*{s.get('note','')}*\n"); [w(p + "\n") for p in s["text"]]
+for s in u.get("more_stories", []): w(f"\n## Another story: {s['title']}\n*{s.get('note','')}*\n"); [w(p + "\n") for p in s["text"]]
 w(f"**For the parent:** {s['epiphany']}\n"); [w(f"- Ask: {q}") for q in s["ask"]]
 for k, name in (("games", "Games"), ("experiments", "Experiments"), ("activities", "Activities"), ("projects", "Projects"), ("challenges", "Challenges")):
     w(f"\n## {name}")

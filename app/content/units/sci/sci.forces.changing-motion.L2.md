@@ -1,9 +1,9 @@
 # Three things a force can change: shape, speed and direction
 `sci.forces.changing-motion.L2`
 
-**Summary.** A marble rolls round a curved card wall, then shoots off straight where the wall ends. Why? In this unit you will crumple and bend foil, race a ball down steeper and flatter ramps, and bend a marble's path with a wall, then sort what a push or pull changed.
+**Summary.** A marble rolls round a curved card wall, then shoots off straight where the wall ends. Why? In this lesson you will crumple and bend foil, race a ball down steeper and flatter ramps, and bend a marble's path with a wall, then sort what a push or pull changed.
 
-**Intro.** *Roll a ball across the floor. Without touching the ball, can you make it turn a corner?* A rolling ball goes in a straight line until something pushes it sideways. A wall, a hand or a puff of air can turn it. Pushes and pulls can also squash things and stretch them. They can make things go faster or slower. In this unit you find all three things a force can change: shape, speed and direction. Then you find out what a ball does when the wall that is turning it suddenly ends.
+**Intro.** *Roll a ball across the floor. Without touching the ball, can you make it turn a corner?* A rolling ball goes in a straight line until something pushes it sideways. A wall, a hand or a puff of air can turn it. Pushes and pulls can also squash things and stretch them. They can make things go faster or slower. In this lesson you find all three things a force can change: shape, speed and direction. Then you find out what a ball does when the wall that is turning it suddenly ends.
 
 ## Learning outcomes
 0. By the end I can say that a force is a push or a pull, and that a force can change the shape, the speed or the direction of a thing.
@@ -102,10 +102,10 @@ We have changed shapes, sped a ball up on a ramp and turned a marble with a card
 - *what is life:* Animals turn by pushing on something. A crow pushes the air, an ant pushes the ground, a fish pushes the water, and you push the floor. The crow chooses when to turn, and the air pushes back on her wings.
 - *what is this world:* The Moon goes round the Earth, and the Earth goes round the Sun, because something pulls them all the time. Without that pull, each would fly off in a straight line.
 
-Nothing in the Bend Wall test turned by itself. The marble turned because the wall pushed it, and the wall felt the marble push back. Every change of shape, speed or direction in this unit came from two things meeting and pushing on each other. A rolling marble, a turning crow and the circling Moon are all changed by what they meet. Everything that took part, the marble and the wall too, is part of one conscious world, sensing and answering what it meets.
+Nothing in the Bend Wall test turned by itself. The marble turned because the wall pushed it, and the wall felt the marble push back. Every change of shape, speed or direction in this lesson came from two things meeting and pushing on each other. A rolling marble, a turning crow and the circling Moon are all changed by what they meet. Everything that took part, the marble and the wall too, is part of one conscious world, sensing and answering what it meets.
 
 - **Prashastapada, Padarthadharmasangraha (Vaisheshika school, India):** Prashastapada described three kinds of samskara. A samskara is a tendency that a thing keeps after something has acted on it. Vega is the tendency of a moving thing to keep moving. Sthitisthapaka is the tendency of a bent thing to spring back. Bhavana is the impression an experience leaves in the mind, which lets us remember. (Vega is the marble rolling straight on after the wall ends. Sthitisthapaka is the rubber band springing back in Foil Shapes. Prashastapada put both in the same family as memory.)
-- **Dhammapada, verse 277:** “Sabbe saṅkhārā aniccā,” The Buddha taught that all conditioned things are impermanent. A conditioned thing is one that comes about through causes, and so it changes when the causes change. (In every test in this unit, a change had a cause you could find: a hand, a wall or the pull of the Earth. When the wall's push ended, the marble's path changed too.)
+- **Dhammapada, verse 277:** “Sabbe saṅkhārā aniccā,” The Buddha taught that all conditioned things are impermanent. A conditioned thing is one that comes about through causes, and so it changes when the causes change. (In every test in this lesson, a change had a cause you could find: a hand, a wall or the pull of the Earth. When the wall's push ended, the marble's path changed too.)
 - Science (settled): A moving thing keeps going straight at the same speed unless a force acts on it. Isaac Newton wrote this down as his first law in 1687.
 - Science (open): Scientists do not agree on a deeper reason why moving things behave this way. Ernst Mach suggested in 1883 that it depends on all the matter in the universe.
 - Other view, Many physicists: Many physicists say there is no awareness in a marble or a wall. They describe the push between them as tiny electric forces between particles, and say nothing more is going on.
@@ -190,12 +190,49 @@ Kavya looked at the auto's front wheel, turned to the left. She looked at the ro
 
 "Paati!" they both called.
 
-**For the parent:** For the parent: Arjun thinks a striker can only go straight, and that a wooden frame cannot push anything. Paati shows him that the frame pushes the striker and turns it. Kavya adds that a wall pushes him when he leans on it. Every change in the striker's speed or direction comes from a push: a finger, a coin or the frame. The open question at the end has an answer the child can work out: the turned wheel pushes sideways on the road, and the road pushes the wheel back, which turns the auto.
 
-- Ask: Why did the striker go faster when Arjun flicked it harder?
-- Ask: How did Paati get the striker to the black coin when the queen was in the way?
-- Ask: What pushed the striker when it changed direction?
-- Ask: What do you think pushed the auto-rickshaw round the corner?
+## Another story: The Clay That Remembers
+**
+
+In Manamadurai, a town in Tamil Nadu where the potters' wheels hum from morning till night, there lived a girl called Lakshmi and her grandmother, Paati. Paati's hands were brown and cracked, like a dry riverbed in May, and they could do wonderful things. Lakshmi had watched them a thousand times: a lump of wet grey clay on the spinning wheel, Paati's thumbs pressing down into its middle, her fingers pulling up its sides, and a pot rising out of nothing like a flower opening.
+
+"How does the clay know what to become?" Lakshmi asked.
+
+"I don't know what clay knows," said Paati. "But I know this. Every push and every pull my hands give it, the clay keeps. A rubber ball doesn't keep anything. Squeeze it, let go, and it jumps back, as if nothing happened. But clay keeps every touch."
+
+Lakshmi tried it. She pressed her thumb into a soft lump of clay. When she lifted it, her thumbprint was still there, with every tiny swirl. She squeezed a rubber ball in her other hand and let go. Pop, back to round. The ball was round again, as if she had never touched it.
+
+After that she tested everything. The hair band on her plait stretched when she pulled it, and went small again when she let go. The tin lid she sat on by mistake stayed bent. Her own cheek, when Paati pinched it, sprang back at once, which made Paati laugh. "You are made of rubber," she said. "Good. Children should spring back."
+
+"Can I make the clay lose a shape, if I want to?" Lakshmi asked.
+
+"Only while it's wet," said Paati. She squashed the thumbprint flat with the heel of her hand, and it was gone. "Push it gently and it changes a little. Push it hard and it changes a lot. But once it goes into the fire, it keeps its shape for ever. The fire turns soft clay as hard as stone."
+
+That rainy season Paati grew tired, and then she grew ill. She stopped going to the wheel. The house was quiet in a way Lakshmi didn't like. When the paddy fields turned gold, Paati died.
+
+Lakshmi didn't want to go near the wheel after that. For weeks it stood still under its cloth. One day her mother asked her to fetch the big old water pot from the storeroom, the one that had been in the family longer than anyone could say. It was heavy and cool, and as Lakshmi carried it into the light, she saw something on its side, near the bottom, that she had never noticed before.
+
+A handprint. A small one, pressed into the clay before it was baked, a long, long time ago. And next to it, a bigger one.
+
+"Whose hands are these?" she whispered.
+
+Her mother knelt beside her and put her finger in the small handprint. "That," she said, "is Paati's hand, when she was about your age. And that big one is her mother's. She was teaching Paati, like Paati taught you."
+
+Lakshmi put her own hand next to the small one. It was almost exactly the same size. The clay had kept Paati's push for sixty years. The fire had made it hard, so the handprint could never be squashed out again.
+
+The next morning Lakshmi took the cloth off the wheel. She wet the clay the way Paati had shown her. She pushed her thumbs into its middle and pulled its walls up, slowly, wobbly, a little lopsided. It wasn't a good pot. But before it went into the kiln, she pressed her hand into its side, and her mother pressed hers next to it.
+
+"Some things spring back," Lakshmi said, looking at the two handprints. "And some things keep the shape you give them."
+
+Her mother didn't answer. She just held Lakshmi's clay-covered hand for a long time.
+
+**For the parent:** Forces change shape. Elastic things (a rubber ball, a hair band, a child's cheek) spring back when the force stops. Plastic things (wet clay, a bent tin lid) keep the new shape. Firing in a kiln makes clay hard, so its shape can't change any more. The story turns on the old handprint on the water pot.
+
+- Ask: What's the difference between the clay and the rubber ball?
+- Ask: Why was Paati's handprint still there after sixty years?
+- Ask: Find three things at home that spring back after a push, and three that stay changed.
+- Ask: What did Paati mean when she said children should spring back?
+- Ask: The handprint stayed for sixty years. What else around you still shows a push or a press from long ago?
 
 ## Games
 ### g1 · Shape, Speed or Direction? (15 min)
@@ -487,7 +524,7 @@ Kavya looked at the auto's front wheel, turned to the left. She looked at the ro
    **Answer:** pedals harder → Speeds up; squeezes the brakes → Slows down; turns the handle → Turns; rolls down a hill → Speeds up; rides up a hill without pedalling harder → Slows down. *Why:* Pedalling and going downhill give a push or pull forwards. Brakes and going uphill work against the motion. Turning the handle makes the road push the wheel sideways.
 7. (count) In one Ramp Race from 2 books, a ball rolled 5, 6 and 5 hand-spans. Which number came up most often?  
    **Answer:** 5. *Why:* 5 came up twice and 6 only once. Trying three times shows us the usual result, even if one try is a little different.
-8. (write) Many grown-ups think a ball rolling out of a curved pipe keeps curving. Which test in this unit shows what really happens? What does it show?  
+8. (write) Many grown-ups think a ball rolling out of a curved pipe keeps curving. Which test in this lesson shows what really happens? What does it show?  
    **Answer:** The Bend Wall test. When the wall ended, the marble went straight on. It does not keep curving.. *Why:* A strong answer names the test and the evidence, and says that the ball goes straight once nothing pushes it sideways.
 9. (mcq) Which of these needs a force: a ball speeding up, a ball slowing down, or a ball turning?  
    Options: Only speeding up / Speeding up and slowing down, but not turning / All three  
@@ -543,10 +580,10 @@ Kavya looked at the auto's front wheel, turned to the left. She looked at the ro
 
 ## Spotted around us
 - An auto-rickshaw at a street corner turns its front wheel, and the road pushes it round the bend.
-- On a curve in a Mumbai local train, you sway to the side. Your body tries to go straight while the train turns.
-- In a kitchen in Kolkata, a cook presses balls of dough flat to make luchis.
-- On Uttarayan in Gujarat, a flier pulls the kite string, and the kite swoops and turns.
-- At the Thiruvarur temple car festival in Tamil Nadu, thousands of people pull thick ropes together to start the huge wooden chariot rolling.
+- On a curve in a train, you sway to the side. Your body tries to go straight while the train turns.
+- In a kitchen, a cook presses balls of dough flat to make luchis.
+- On Uttarayan, a flier pulls the kite string, and the kite swoops and turns.
+- At a temple car festival, thousands of people pull thick ropes together to start a huge wooden chariot rolling.
 
 ## Open questions
 - **Why does a moving thing keep going in a straight line when nothing pushes it?** Isaac Newton described this rule, and it works everywhere we look. But nobody knows why the world works this way. Some scientists think it may depend on all the matter in the universe.
@@ -585,8 +622,8 @@ Squash It, Speed It, Turn It (sci.forces.L2):
 
 ## Links
 - [Forces and Motion: Basics (PhET simulation)](https://phet.colorado.edu/en/simulations/forces-and-motion-basics) · simulation: For the parent and child together: push a cart or a crate with a person and watch how the push changes its speed.
-- [Birla Industrial and Technological Museum]() · place · Kolkata: A science museum with hands-on galleries on motion and machines.
-- [Kerala State Science and Technology Museum]() · place · Thiruvananthapuram: A science museum and science park with exhibits on forces and motion.
+- Birla Industrial and Technological Museum · place · Kolkata: A science museum with hands-on galleries on motion and machines.
+- Kerala State Science and Technology Museum · place · Thiruvananthapuram: A science museum and science park with exhibits on forces and motion.
 
 ## Things to buy
 - [a small packet of glass marbles (goli)]() (material): Marbles roll smoothly along a card wall, so the Bend Wall result is easy to see. A ping-pong ball or any small hard ball works too. Used in e1, c1. Use them in the Bend Wall test and the Round the Bend challenge. Keep them away from children under 3.
@@ -608,7 +645,7 @@ Squash It, Speed It, Turn It (sci.forces.L2):
 
 ## Sources
 - ideas/by_topic/forces-and-movement.md, Motion in 1D, 2D, 3D: 'draw curved paths on the floor and roll balls' became the Bend Wall test and the Round the Bend challenge. Everyday forces and Friction: 'mime of brakes slowing a bicycle' became the cyclist questions. The founder's gravity notes on moving straight on forever in empty space are behind the card on why moving things keep going straight.
-- Cambridge Primary Science Stage 2, Unit 2 (2.2 Changing shape, 2.3 Changing speed, 2.4 Changing direction). The Level 1 unit on this subtopic uses the Tap Test, the Flick Test, the ceiling fan and Window Watch. The Level 3 unit uses dough shaping, the clay drop, wet ball prints, the sponge and ruler, and the paper bridge. None of those are repeated here: this unit uses Foil Shapes, the Bottle Squeeze, the Ramp Race, Bounce Off the Wall and the Bend Wall.
+- Cambridge Primary Science Stage 2, Unit 2 (2.2 Changing shape, 2.3 Changing speed, 2.4 Changing direction). The Level 1 unit on this subtopic uses the Tap Test, the Flick Test, the ceiling fan and Window Watch. The Level 3 unit uses dough shaping, the clay drop, wet ball prints, the sponge and ruler, and the paper bridge. None of those are repeated here: this lesson uses Foil Shapes, the Bottle Squeeze, the Ramp Race, Bounce Off the Wall and the Bend Wall.
 - Newton's first and second laws; circular motion needs a centripetal force (here the normal force of the wall or rim). Any introductory physics text.
 - M. McCloskey, A. Caramazza and B. Green, 'Curvilinear motion in the absence of external forces: naive beliefs about the motion of objects', Science 210 (1980) 1139-1141.
 - Robert Hooke's letter to Isaac Newton of November 1679, proposing that orbital motion is a straight tangential motion bent by an attraction to the central body. Newton, Philosophiae Naturalis Principia Mathematica (1687). Émilie du Châtelet, Principes mathématiques de la philosophie naturelle (1759), her French translation of the Principia with her own commentary.

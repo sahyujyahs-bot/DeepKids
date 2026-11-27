@@ -1,9 +1,9 @@
 # Caring for our environment: why some litter traps animals, and what we can do
 `sci.environment.caring.L2`
 
-**Summary.** Why can plastic litter trap a bird when wet paper cannot? In this unit you will soak loops of paper, cloth and plastic and try to pull each one apart, hunt for loops in your dry waste, and play a card game sorting litter that traps, gets swallowed or is safe.
+**Summary.** Why can plastic litter trap a bird when wet paper cannot? In this lesson you will soak loops of paper, cloth and plastic and try to pull each one apart, hunt for loops in your dry waste, and play a card game sorting litter that traps, gets swallowed or is safe.
 
-**Intro.** *On the day after a kite festival, people in many Indian cities find birds caught in kite string on trees and balconies. Why can't the bird just break the string and fly away?* A bird cannot break some kinds of string, however hard the bird pulls. Strong plastic litter can trap animals the same way. Our environment is everything around us: the air, the water, the land and every living being. In this unit we test which kinds of litter can trap an animal. Then we learn what people in India do to care for the places we share.
+**Intro.** *On the day after a kite festival, people in many Indian cities find birds caught in kite string on trees and balconies. Why can't the bird just break the string and fly away?* A bird cannot break some kinds of string, however hard the bird pulls. Strong plastic litter can trap animals the same way. Our environment is everything around us: the air, the water, the land and every living being. In this lesson we test which kinds of litter can trap an animal. Then we learn what people in India do to care for the places we share.
 
 ## Learning outcomes
 0. By the end I can say what our environment is, and name living and non-living parts of it.
@@ -164,11 +164,69 @@ They filled a whole bag. Arun counted the sticks of wound string. There were ele
 
 On the railing, the grey pigeon was back, pecking at a few grains of rice. Both her feet were free.
 
-**For the parent:** A loop that a bird cannot break is a trap. Plastic stays strong even when wet, so plastic string and loops can trap animals. Picking them up keeps the birds safe.
 
-- Ask: Why did Dr. Rehana snip the string instead of pulling it?
-- Ask: Why did the paper loop tear but the plastic loop did not?
-- Ask: What could Meenakshi's family do at the next Sankranti to keep birds safe?
+## Another story: Chirri Needs a Hole
+**
+
+My name is Chirri, and I am a house sparrow. I am small and brown, with a grey cap and a black bib on my chest. I live in Madurai, in a lane full of cycle bells, pressure cookers and the smell of frying vadas.
+
+All my life I lived in a hole. Not just any hole: the best hole in the whole lane, under the old clay tiles of Nila's grandmother's house, just where the roof met the wall. It was dark and dry and just my size. Every year my wife and I filled it with straw, threads and feathers, and every year we had chicks, three or four of them, cheeping in the dark.
+
+Then, one winter, the old house was knocked down.
+
+I watched from the electric wire. Workers came with hammers. The tiles came down. My hole came down. In its place they built a new house of smooth grey concrete with big glass windows. It was very clean. It had no holes at all.
+
+When it was time to nest, my wife and I flew round and round the new house. Smooth wall. Smooth wall. Glass. Smooth wall. There was nowhere. We tried the next house. Smooth. The next. Smooth. Behind the bakery the old tin roof had a gap, but the pigeons had got there first.
+
+Nila saw me. Nila is seven, she has a gap in her teeth, and she notices things. She saw me sitting on her window grill, looking sad (sparrows can be sad, whatever people say). 'Amma,' she said, 'that sparrow is hungry.'
+
+So Nila put out bread.
+
+It was kind of her. I ate a little. But I wasn't hungry, not really. I needed a hole.
+
+The next day Nila put out more bread. And a biscuit. And some murukku. The crows came and ate it all, and squabbled, and made a mess on the balcony. Nila's father sighed.
+
+Then my wife found a place. It was a dark grey box on the wall by the gate, with a little gap at the bottom where the wires came in. It was dark and dry and just our size. We started to carry straw into it.
+
+Nila's father saw us and shouted. 'Not there! That's the electric meter!' He was worried, not angry. He blocked the gap with tape. It was the right thing to do, because a meter box is dangerous for birds. But where were we to go now?
+
+That evening Nila sat on the step with her chin on her knees and watched me. She didn't put out bread. She just watched. She watched me fly to the corner of the yard where nobody went, where the grass was long and there was a tangle of what her father called weeds. She watched me come out with something green and wriggling in my beak.
+
+'Amma,' she said, 'what is the sparrow eating?'
+
+Her mother looked. 'A caterpillar, I think.'
+
+'Not bread?'
+
+'Baby sparrows can't eat bread,' her mother said slowly. 'I remember now. Your Paati used to say it. They need soft insects, caterpillars and little grubs. Lots of them.'
+
+Nila thought about this. She watched me again. She saw me fly to the meter box and find it taped, and sit on the wire, and look at the smooth grey wall. Then she did something no one had done before. Instead of deciding what I needed, she watched to see what I was looking for.
+
+'Amma,' she said, 'he isn't hungry. He wants a house.'
+
+The next Sunday Nila and her mother made a box from old wooden planks left over from the building work. It had a sloping roof, so the rain ran off, and a round hole in the front about 3 centimetres wide. 'Any bigger and the mynas can get in,' said her mother, who had looked it up. They hung it high on the wall under the edge of the roof, out of the afternoon sun, where cats could not reach.
+
+Then Nila went to her father and said, 'Please don't cut the weeds in the corner. The caterpillars live there.'
+
+Her father looked at her for a long moment. 'It looks untidy,' he said.
+
+'It's the sparrows' kitchen,' said Nila.
+
+Her father laughed, and the weeds stayed.
+
+I did not trust the box at first. It smelled of new wood and people. I sat on the wire for three days and looked at it. Then my wife went in, and came out, and went in again, and I knew. We carried in straw and threads, a pigeon's feather, and a bit of red wool that Nila left on the windowsill for us.
+
+Now, in the dark of the box, four chicks are cheeping. All day I fly to the sparrows' kitchen in the corner and back. Caterpillar. Grub. Caterpillar. Little green fly. Nila sits on the step and counts my trips on her fingers. Yesterday she ran out of fingers and borrowed her father's.
+
+I never ate her bread again. But I think she knows that I am grateful.
+
+**For the parent:** Nila first gives Chirri what she imagines a sparrow needs (bread), and it doesn't help. The turn comes when she stops deciding and starts watching. She sees that Chirri needs shelter (a hole for a nest) and the right food for chicks (insects from the 'weeds'). The hidden idea is the habitat: every animal needs their own kind of food, water and shelter, and caring means finding out what another living thing really needs.
+
+- Ask: Why didn't the bread help Chirri?
+- Ask: What did Chirri really need? How did Nila find out?
+- Ask: Why was the new concrete house a problem for sparrows?
+- Ask: Nila's father called the long grass 'weeds'. Nila called it 'the sparrows' kitchen'. Who was right?
+- Ask: What could you watch, near your home, to find out what an animal needs?
 
 ## Games
 ### g1 · Trap, Swallow or Safe? A card sorting game (12 min)
@@ -449,11 +507,11 @@ On the railing, the grey pigeon was back, pecking at a few grains of rice. Both 
 - Village women in Assam protect the nesting trees of the greater adjutant stork.
 
 ## Spotted around us
-- Kite string hanging from trees and wires in Ahmedabad, Hyderabad and Jaipur after the kite festivals.
+- Kite string hanging from trees and wires after the kite festivals.
 - Cows searching through roadside waste heaps in many Indian towns.
 - Green bins for wet waste and blue bins for dry waste in many Indian cities.
-- The banyan trees Saalumarada Thimmakka planted along a road near Kudur in Karnataka, now giant trees.
-- Greater adjutant storks nesting in village trees in Assam, guarded by the Hargila Army.
+- A row of banyan trees planted along a road, now giant trees.
+- A big stork nesting in a village tree. People who guard the nests help the stork's family.
 
 ## Open questions
 - **How long does a plastic bag really last?** Plastic bags have only been around for about 60 years, so nobody has watched one for hundreds of years. Scientists make careful guesses, and they do not all agree.
@@ -486,9 +544,9 @@ Snip the Loop (sci.environment.L2): Topic-level song for Caring for the environm
 
 ## Links
 - [National Green Tribunal of India](https://greentribunal.gov.in/) · interactive: For the parent: India's court for the environment, which banned nylon kite string in 2017.
-- [Keoladeo National Park]() · place · Bharatpur: A protected wetland where thousands of water birds spend the winter.
-- [Pallikaranai Marsh]() · place · Chennai: A protected marsh inside the city, home to many water birds, and a place where people have worked to stop dumping.
-- [Chilika Lake]() · place · Odisha: A huge lagoon where many birds spend the winter and dolphins live.
+- Keoladeo National Park · place · Bharatpur: A protected wetland where thousands of water birds spend the winter.
+- Pallikaranai Marsh · place · Chennai: A protected marsh inside the city, home to many water birds, and a place where people have worked to stop dumping.
+- Chilika Lake · place · Odisha: A huge lagoon where many birds spend the winter and dolphins live.
 
 ## Things to buy
 
@@ -507,9 +565,9 @@ Snip the Loop (sci.environment.L2): Topic-level song for Caring for the environm
 
 ## Sources
 - ideas/by_topic/caring-for-the-environment.md: mostly climate activities for older levels. Its Rachel Carson card is already used in the Level 1 unit, so it is not repeated here.
-- ideas/by_topic/waste.md: 'Waste is not a waste' week and the reduce-waste-at-home project. Waste sorting, rotting and recycling are taught in the sci.waste units, so this unit keeps to harm to animals and care.
+- ideas/by_topic/waste.md: 'Waste is not a waste' week and the reduce-waste-at-home project. Waste sorting, rotting and recycling are taught in the sci.waste units, so this lesson keeps to harm to animals and care.
 - Board chapter: Cambridge Primary Science Stage 2, 1.5 'How can we care for our environment?' (litter harming animals, recycling, protected places, a survey of places near home). The survey is activity a2, and protected places are in the links and the Hargila Army story.
-- Ladder: sci.environment.caring.L1 (rain carries litter to the drain, ants, caring for a plant) comes before. This unit moves on to what happens when animals meet litter, and why the material matters. It leads to sci.environment.caring.L3 (the living and non-living environment, the closed box) and the pollution and conservation units.
+- Ladder: sci.environment.caring.L1 (rain carries litter to the drain, ants, caring for a plant) comes before. This lesson moves on to what happens when animals meet litter, and why the material matters. It leads to sci.environment.caring.L3 (the living and non-living environment, the closed box) and the pollution and conservation units.
 - Charlton-Howard H. S., Bond A. L., Rivers-Auty J. and Lavers J. L. (2023). 'Plasticosis': characterising macro- and microplastic-associated fibrosis in seabird tissues. Journal of Hazardous Materials. Flesh-footed shearwater chicks on Lord Howe Island; scarring linked to plastic, not to pumice.
 - National Green Tribunal, order of 11 July 2017, banning nylon and synthetic kite string (manja) across India.
 - Schuyler Q. and others (2014). Global analysis of anthropogenic debris ingestion by sea turtles. Conservation Biology. Turtles commonly swallow plastic. That they mistake bags for jellyfish is a widely held but still studied explanation.

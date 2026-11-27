@@ -1,9 +1,9 @@
 # Living things need each other: how plants and animals help each other live
 `sci.ecology.interdependence.L3`
 
-**Summary.** Why do seeds not sprout inside a tomato? In this unit you will test whether tomato juice stops seeds sprouting, work out where the seeds of a fruit bowl would go, and play a memory game of who helps whom among plants and animals.
+**Summary.** Why do seeds not sprout inside a tomato? In this lesson you will test whether tomato juice stops seeds sprouting, work out where the seeds of a fruit bowl would go, and play a memory game of who helps whom among plants and animals.
 
-**Intro.** *Cut a ripe tomato in half and look at the seeds in the wet jelly. Seeds sprout when they are warm and wet, and the inside of a tomato is both. So why don't the seeds sprout inside the tomato?* The answer has to do with who eats tomatoes, guavas and mangoes, and why. In this unit you test it with tomato seeds. You find out how plants feed and shelter animals, and how animals help plants in return, by carrying their pollen and their seeds. You also meet a tree that needs a wasp smaller than a grain of rice, and a flower in Madagascar that needed a moth nobody had ever seen.
+**Intro.** *Cut a ripe tomato in half and look at the seeds in the wet jelly. Seeds sprout when they are warm and wet, and the inside of a tomato is both. So why don't the seeds sprout inside the tomato?* The answer has to do with who eats tomatoes, guavas and mangoes, and why. In this lesson you test it with tomato seeds. You find out how plants feed and shelter animals, and how animals help plants in return, by carrying their pollen and their seeds. You also meet a tree that needs a wasp smaller than a grain of rice, and a flower in Madagascar that needed a moth nobody had ever seen.
 
 ## Learning outcomes
 0. I can give examples of how plants help animals: with food, shelter and oxygen.
@@ -125,7 +125,7 @@ We have learned how plants and animals feed, shelter and carry each other, and w
 
 A tomato plant, a bird and a fig wasp each live in their own body. Yet the tomato's fruit is shaped for an eater's mouth, and the fig's tiny hole is shaped for one kind of wasp. These partners grew to fit each other over millions of years. Each now depends on the other to make the next generation.
 
-- **Tattvartha Sutra 5.21, a Jain text by Umaswati:** “परस्परोपग्रहो जीवानाम्” Parasparopagraho jivanam: living beings support and serve one another. (In this unit, the fig feeds the wasp's young and the wasp makes the fig's seeds. The tomato feeds an animal, and the animal carries her seeds to a new place.)
+- **Tattvartha Sutra 5.21, a Jain text by Umaswati:** “परस्परोपग्रहो जीवानाम्” Parasparopagraho jivanam: living beings support and serve one another. (In this lesson, the fig feeds the wasp's young and the wasp makes the fig's seeds. The tomato feeds an animal, and the animal carries her seeds to a new place.)
 - **Thirukkural 322, by Thiruvalluvar, in the chapter on not killing:** “பகுத்துண்டு பல்லுயிர் ஓம்புதல் நூலோர் / தொகுத்தவற்றுள் எல்லாந் தலை.” To share your food and care for every living being is the greatest of all the teachings the wise have gathered. (A fruit is food a plant shares with the animals who carry her seeds. The Kural asks people to share food and protect all living beings in the same way.)
 - **Charles Darwin, On the Origin of Species (1859), the last paragraph:** Darwin asks us to look at a tangled bank of plants, with birds singing, insects flying and worms crawling, and to see how different they are, and how closely they depend on each other. (Three years after writing this, Darwin looked at one orchid's long tube. He predicted that a long-tongued moth must exist, because the orchid depended on one to carry her pollen.)
 - Science (settled): Animals carry the pollen of about 87 in every 100 kinds of flowering plants.
@@ -201,12 +201,65 @@ A myna landed on the park railing and looked at them, her head on one side.
 
 Meenakshi thought of the tiny wasps, somewhere in the city, flying from fig to fig. 'And the wasps will find her,' she said. 'They always find the figs.'
 
-**For the parent:** For the parent: no person planted the peepal on the tank, and yet she had many helpers. A fig wasp pollinated the flowers inside a fig, so the fig could make seeds. A bird ate the fig and carried a seed inside her body to the terrace. The rain let the seed sprout. Then Meenakshi moved the plant to a place where she could grow without cracking the tank. Each helper got something too: the wasp's young grew inside the fig, and the bird got food. This is interdependence: lives that cannot happen without each other.
 
-- Ask: Who planted the peepal on the water tank?
-- Ask: Why can't a bee pollinate a peepal's flowers?
-- Ask: Name every helper the little peepal needed, from the wasp to Meenakshi.
-- Ask: Mr Raghavan wanted to pull the plant out to save the tank. Was he wrong? What else could the family have done?
+## Another story: The Spoon from Downstairs
+**
+
+We moved from Chennai to Delhi in December, and the first thing that went wrong was the curd.
+
+In Chennai, Amma made curd every night without thinking about it. She boiled the milk, let it cool, stirred in a spoonful of the day's curd and put the bowl in the cupboard. In the morning it was thick and white, and it wobbled when you shook the bowl.
+
+But we had packed in a hurry, and there was no curd left. On our first night in the new flat, Amma boiled the milk anyway and left it in a bowl. In the morning it was still milk. Just milk, cold and thin.
+
+"It needs a little curd to begin, Kavya," Amma said. "Curd makes curd."
+
+I didn't understand that. A dosa can't make a dosa. How can curd make curd?
+
+The flat downstairs belonged to an old lady called Harjeet Aunty. She had a long grey plait and a cough, and on our first day she had shouted at the delivery man for blocking the stairs. I was a little afraid of her. But Amma sent me down with an empty katori.
+
+Harjeet Aunty looked at the katori, and then at me. "Jaman?" she asked. That is her word for the starter, the little bit of old curd that begins the new curd. She went into her kitchen and came back with the katori half full. "Don't put it in hot milk," she said. "It's alive. You'll cook it."
+
+Alive? I carried it up the stairs very carefully, as if it might run away.
+
+That night I helped Amma. We let the milk cool until I could keep my finger in it while I counted to ten. We stirred in two spoons of Harjeet Aunty's curd, covered the bowl and put it on the kitchen shelf. I went to bed thinking about the tiny living things in the bowl, and whether they minded moving house.
+
+In the morning the curd had not set. It was a little thicker at the bottom, but when I tilted the bowl it ran like buttermilk. Amma sighed. "Delhi cold," she said.
+
+It was so cold that day that the lizard behind our tube light didn't come out at all. In Chennai there had been three lizards on the kitchen wall every evening, waiting for moths. Here there was one, and it stayed in a crack in the wall, still as a stick.
+
+I looked at the runny curd. Then I looked at the crack where the lizard was hiding. The lizard was alive, and it was too cold, so it had slowed down. If the curd things were alive too, maybe they had slowed down for the same reason.
+
+"Amma," I said, "what if they're cold?"
+
+She laughed, but she let me try. We warmed fresh milk until it was finger-warm again and stirred in the last of the jaman. I wrapped the bowl in my own woollen shawl, the red one Nani knitted, and put it inside the big casserole we keep chapatis in. Then I shut the lid. I put the whole thing in the warmest place in the flat, the corner next to the fridge, where warm air comes out at the back.
+
+All day I wanted to open it. I didn't.
+
+In the evening Amma lifted the lid and unwrapped the shawl. The curd was set, thick and white and shining. When she tipped the bowl, it moved all in one piece, like a soft cake. It tasted a little sour, the way it tasted at home.
+
+Amma said the tiny living things are called bacteria. There are millions of them in one spoon of curd. They eat the sugar in milk, and as they eat, the milk turns thick and sour. When they are warm, they eat and grow fast. When they are cold, they almost stop.
+
+"So we give them milk and a warm bed," I said, "and they give us curd."
+
+"And curd keeps longer than milk," said Amma.
+
+The next morning I filled the katori with our new curd and took it downstairs. Harjeet Aunty opened the door and looked at it. Then she laughed, a real laugh this time, with the cough in the middle of it.
+
+"My jaman came from my mother-in-law in Amritsar," she said. "Hers came from a neighbour. I've been feeding the same little family for fifty years. Now they live upstairs too."
+
+She let me in and made me a glass of lassi from her curd. I sat at her table, in the flat I had been afraid of, and drank it slowly.
+
+A week later, a new family moved into the empty flat above ours. Their boxes filled the stairs. Through the door I heard a woman say, "Oh no. I forgot to bring curd."
+
+I went into our kitchen and found a katori.
+
+**For the parent:** For the parent: Kavya's turn comes when she sees the lizard hiding from the cold and guesses that the curd makers are alive in the same way, so they have slowed down too. Warmth is the fix, and the result proves her guess. Curd is a partnership with bacteria: we give them milk and warmth, they give us curd. The same spoon of curd also connects neighbours, as a gift passed on and never sold.
+
+- Ask: Why didn't the curd set on the cold night?
+- Ask: What made Kavya think of the lizard? How were the lizard and the curd alike?
+- Ask: What did the family give the bacteria, and what did the bacteria give them?
+- Ask: Harjeet Aunty has fed the same family of bacteria for fifty years. Who else has she shared it with?
+- Ask: Why do you think Kavya went to find a katori at the end?
 
 ## Games
 ### g1 · Partners: a memory game of who helps whom (15 min)
@@ -610,7 +663,7 @@ Meenakshi thought of the tiny wasps, somewhere in the city, flying from fig to f
 - Bees on drumstick or mango flowers in spring.
 - Squirrels and parrots pecking at ripe guavas on a tree.
 - A morning kolam drawn with rice flour, with ants carrying away the grains.
-- Bee boxes along mustard fields in West Bengal and Rajasthan, or in litchi orchards in Bihar.
+- Bee boxes along mustard fields or in fruit orchards.
 - Kapok cotton, called ilavam panju in Tamil, inside an old pillow. It comes from a tree whose night flowers are visited by fruit bats.
 
 ## Open questions
@@ -655,7 +708,7 @@ Everybody Eats (sci.ecology.L3): Topic-level song for Living in harmony L3
 - [TED-Ed lesson: Are there really dead wasps in figs?](https://ed.ted.com/lessons/are-there-really-dead-wasps-in-figs-carolyn-beans) · interactive: The fig wasp video with questions to think about afterwards.
 - [Thimmamma Marrimanu, a giant banyan tree](https://en.wikipedia.org/wiki/Thimmamma_Marrimanu) · place · Anantapur district, Andhra Pradesh: One of the biggest banyan trees in the world, spreading over about five acres. Look for the birds eating her figs.
 - [The Great Banyan, Acharya Jagadish Chandra Bose Indian Botanic Garden](https://en.wikipedia.org/wiki/The_Great_Banyan) · place · Howrah, near Kolkata, West Bengal: A banyan so big she looks like a forest. Her main trunk was removed long ago, but the tree lives on through thousands of roots that grew down from her branches.
-- [A fig tree near you]() · place · Your street, a temple or a park: Find a peepal, banyan or fig tree with ripe figs. Watch for ten minutes and count the birds that come. Open one fig and look for the tiny flowers inside.
+- A fig tree near you · place · Your street, a temple or a park: Find a peepal, banyan or fig tree with ripe figs. Watch for ten minutes and count the birds that come. Open one fig and look for the tiny flowers inside.
 
 ## Things to buy
 - [A magnifying glass](https://www.amazon.in/s?k=magnifying+glass+for+kids) (tool): To see the tiny white roots as tomato seeds sprout, and the small seeds inside fruits. Any cheap hand lens works. Used in e1, e2, a1. 

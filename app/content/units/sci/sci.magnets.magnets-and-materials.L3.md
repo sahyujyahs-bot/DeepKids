@@ -1,9 +1,9 @@
 # Magnets: how they attract iron without touching it
 `sci.magnets.magnets-and-materials.L3`
 
-**Summary.** A magnet pulls an iron nail without touching it, but ignores a brass key. Why only some things? In this unit you will guess and test what a magnet attracts, make a floating needle compass, and compare magnets with a paper clip chain.
+**Summary.** A magnet pulls an iron nail without touching it, but ignores a brass key. Why only some things? In this lesson you will guess and test what a magnet attracts, make a floating needle compass, and compare magnets with a paper clip chain.
 
-**Intro.** *Try this. Hold a magnet near a steel safety pin and move it closer very slowly. Stop just before they touch. Did the pin jump to the magnet? The magnet never touched the pin. So how did the magnet move the pin?* People have wondered about this for thousands of years. In Sanskrit, a magnet is called chumbaka, which means 'the one that kisses'. An old Chinese book from over 2,000 years ago calls it the 'loving stone'. In this unit you find the real answer. A magnet has an invisible magnetic field around it, and its force acts through that field, even across air. You also find out what happens inside the iron, and why the whole Earth is a magnet too.
+**Intro.** *Try this. Hold a magnet near a steel safety pin and move it closer very slowly. Stop just before they touch. Did the pin jump to the magnet? The magnet never touched the pin. So how did the magnet move the pin?* People have wondered about this for thousands of years. In Sanskrit, a magnet is called chumbaka, which means 'the one that kisses'. An old Chinese book from over 2,000 years ago calls it the 'loving stone'. In this lesson you find the real answer. A magnet has an invisible magnetic field around it, and its force acts through that field, even across air. You also find out what happens inside the iron, and why the whole Earth is a magnet too.
 
 ## Learning outcomes
 0. I can name the materials a magnet attracts: iron, most steel, nickel and cobalt. I can name metals it does not attract, such as copper, brass and aluminium.
@@ -84,7 +84,7 @@ In 1820, a Danish scientist, Hans Christian Oersted, noticed that a compass need
 
 In Greece, about 2,600 years ago, the thinker Thales said that a lodestone has a soul, because it can move iron. We know this from Aristotle, who wrote about it later. In China, a book from about 240 BCE, the Lüshi Chunqiu, says 'the loving stone calls the iron to it'. In India, the magnet was called ayaskanta, which means 'beloved of iron', and chumbaka, which means 'the one that kisses'. The Sushruta Samhita, an old Indian book of surgery, describes using a magnet to draw a smooth iron arrowhead out of a wound. Later, people learned to find directions with magnets. A Chinese military book from 1044, the Wujing Zongyao, describes an iron 'south-pointing fish' floated in water. The iron fish was heated red-hot and left to cool while pointing north and south. This made it a magnet. In 1088, the Chinese scholar Shen Kuo described a needle made into a magnet by rubbing it on a lodestone. He also noticed that it does not point exactly north. Around 1232, Muhammad al-Awfi, a writer at the court of Delhi, described sailors who floated an iron fish rubbed with a magnet to find their way. In Europe, Petrus Peregrinus described a magnet's two poles in 1269.
 - e.g. Lodestones were set in brass or silver caps, so people could carry them and rub needles with them.
-- e.g. Iron fish compasses floated in a bowl of water, like the needle compass in this unit's experiment.
+- e.g. Iron fish compasses floated in a bowl of water, like the needle compass in this lesson's experiment.
 ### How did lodestones become magnets? · *debated*
 Most magnetite is not a magnet. Only a few pieces are lodestones. The Earth's magnetic field is far too weak to make such strong magnets. So how did lodestones become magnets? Scientists have different ideas.
 - e.g. Lodestones are usually found near the surface of the ground, not deep underground. That fits the idea that lightning magnetised them, because lightning strikes the surface.
@@ -240,13 +240,73 @@ Mariam watched them go. 'I have sailed for forty years,' she said, 'and I have n
 
 Two days later they saw the brown mountains behind Aden. After that, on every voyage, the big iron deg travelled at the front of the ship. And every night, in the fold of cloth beside the brass bowl, the black stone and the iron fish lay waiting for a girl who knew the way to rub them.
 
-**For the parent:** For the parent: the iron fish is a magnet, and a magnet and iron attract each other. So the big iron cooking pot turned the nose of the fish towards the pot, and the ship steered towards the pot instead of south. Once the pot was moved away, the Earth's magnetic field could turn the fish to point south again. The knocks of the storm had weakened the fish's magnetism. Stroking it with the lodestone, always in one direction, lined up the tiny magnets inside the iron again, so it turned quickly and surely. The turtles at the end need no iron fish, because their own bodies sense the Earth's magnetic field. Nobody yet fully knows how.
 
-- Ask: Why did the iron fish point the wrong way during the storm?
-- Ask: How did Amina work out what was wrong? What had she seen in the galley?
-- Ask: Why did Mariam rub the fish from tail to nose, and never back and forth?
-- Ask: The turtles found the way without a fish. How do you think they did it?
-- Ask: Amina noticed what the pilot had missed. What had Amina seen in the galley that helped her work it out?
+## Another story: The Key in the Drain
+**
+
+Every Saturday morning, Salim anna pushes his cart down our lane in Madurai. 'Old paper! Old iron! Old paper, old iron!' he calls. His cart is piled high with newspapers, bottles and bent pots. In his shirt pocket he keeps a round black magnet on a string.
+
+That Saturday, Amma sold him the lid of our old pressure cooker and a dented lota. Salim anna held his magnet against the lid. Click. It stuck so hard he had to twist it off. 'Steel,' he said, and threw the lid onto his pile of iron things.
+
+Then he held the magnet against the lota. It did not stick. It just slid down the side and swung on its string. Salim anna smiled. 'Brass,' he said. 'Brass pays better than iron.' He put the lota in a separate sack.
+
+'But brass is a metal too,' I said. 'Why didn't it stick?'
+
+Salim anna laughed. 'Ask your science teacher, Meena. I only know that it works.' He gave me a toffee and pushed his cart on down the lane.
+
+I forgot about it until the evening.
+
+Appa came home late from the office. Amma had gone to my aunt's house in Dindigul for the night, so it was only Appa, me and my little brother Kannan, who was six and very hungry. Appa stood at our gate and took the house keys out of his pocket. A motorbike roared past. Appa jumped, and the keys slipped out of his fingers.
+
+They fell onto the iron grating that covers the drain beside our gate. For one second they sat there. Then they slid through a gap and dropped with a soft plop into the dark water below.
+
+Appa knelt down and shone his phone torch through the grating. The drain was about as deep as my arm, with muddy water at the bottom. We could see the keys lying in the mud: two yellow keys and the small silver ring that held them together. The grating was far too heavy to lift. The gaps between its bars were only as wide as two of my fingers.
+
+'I can't get my hand in,' Appa said. 'We'll have to call a locksmith. He'll break the lock.' He looked at our front door. It was a good brass lock, and a new one would cost a lot. Kannan started to cry.
+
+Then I thought of the magnet on a string.
+
+I ran down the lane to the shed where Salim anna keeps his cart. He was eating his dinner on the step. When I told him, he put down his plate, took the magnet out of his pocket and walked back with me. He tied two more lengths of string to it, so it could reach the bottom.
+
+Appa held the torch. Salim anna lowered the magnet between the bars. It swung once, and then, clack! It jumped sideways and stuck to a bar of the grating.
+
+'The grating is iron,' said Salim anna. He pulled the magnet off and tried again. 'Down the middle of the gap. Slowly. Don't let it swing.' This time it went straight down, past the bars, and into the water.
+
+We watched it reach the bottom. Salim anna moved it until it touched the keys. Then he pulled the string up slowly. The magnet came up out of the water, dripping. Nothing was stuck to it.
+
+He tried again. And again. Each time the magnet came up with only mud on it.
+
+'It's the water,' Appa said quietly. 'The water must be stopping the magnet.'
+
+I looked down at the two yellow keys in the torchlight. Yellow, like Amma's lota. I thought about the lota sliding off the magnet that morning, and about the lid that stuck so hard.
+
+'The keys are brass,' I said. 'Like the lota.'
+
+Everyone looked at me. Salim anna's eyebrows went up.
+
+'But the ring isn't,' I said. 'The ring is silver-coloured, like the cooker lid.'
+
+Salim anna handed me the string. 'Then you do it,' he said.
+
+My hands were shaking. I let the magnet down through the middle of the gap, slowly, so it did not swing. It went into the water. Appa moved the torch so I could see the small silver ring. I lowered the magnet until it was just above the ring, and then a tiny bit lower.
+
+I felt it through the string: a small tug, like a fish nibbling.
+
+I pulled up very, very slowly. Out of the water came the magnet. Hanging from it was the silver ring, and hanging from the ring, swinging and dripping, were our two yellow keys.
+
+Kannan stopped crying and started shouting. Appa laughed out loud and hugged me with muddy hands. Salim anna took his magnet back, wiped it on his shirt and looked at it as if he had never seen it before.
+
+After dinner, I went round the kitchen with Amma's fridge magnet. It stuck to the tawa, the steel almirah and the gas cylinder. It did not stick to the brass diya, the copper pot or the aluminium pan. It slid off my steel tumbler, but it held on to my steel spoon.
+
+On Monday, Salim anna came down the lane again. He stopped at our gate and held up his magnet. 'So, Meena,' he said. 'Did you ask your teacher yet?'
+
+**For the parent:** For the parent: the turn is when the magnet keeps coming up empty. Appa thinks the water is stopping the magnet. Meena remembers that the magnet slid off the brass lota but stuck to the steel lid. She realises the keys are brass, which a magnet does not attract, but the small ring is steel, which it does. The story also shows the magnet jumping across a gap to the iron grating, and acting through water. Let your child find these out in the tests on Days 1 to 3 before you name them.
+
+- Ask: Why did Salim anna's magnet stick to the cooker lid but not to the lota?
+- Ask: Why did the magnet jump sideways onto the drain grating?
+- Ask: Appa thought the water was stopping the magnet. How could we test whether he was right?
+- Ask: Why did Meena aim the magnet at the ring and not at the keys?
+- Ask: Meena's magnet slid off her steel tumbler but held her steel spoon. What could that mean?
 
 ## Games
 ### g1 · Monsoon Voyage: sail by the iron fish (20 min)
@@ -807,11 +867,11 @@ Two days later they saw the brown mountains behind Aden. After that, on every vo
 - The magnetic catch that keeps a steel almirah or cupboard door shut.
 - Fridge magnets from trips and festivals, holding up lists and drawings.
 - The kabadiwala, the scrap dealer, testing metal with a magnet to tell iron from brass.
-- Black streaks of sand on Kerala's beaches, rich in magnetic minerals.
+- Black streaks of sand on a beach, rich in magnetic minerals.
 - A compass on a car dashboard, a phone map's blue arrow, or an old ship's compass in a museum.
 - Magnetic toys: fishing games, magnetic letters and building tiles.
 - Magnetic screwdrivers in a cycle repair shop, holding screws on their tips.
-- Olive ridley turtles coming ashore to nest at Rushikulya and Gahirmatha in Odisha, after crossing the sea.
+- Sea turtles coming ashore to nest after crossing the sea, in a video or on a beach.
 
 ## Open questions
 - **What is an electron's spin, really?** Scientists can measure it very exactly and use it every day, but cannot say what it is underneath. Some think it needs no further explanation.
@@ -867,12 +927,12 @@ Tiny Magnets, All in Line (sci.magnets.L3): Topic-level song for Magnets L3
 - [Nehru Science Centre](https://www.nehrusciencecentre.gov.in) · place · Mumbai: A science centre with hands-on exhibits. Look for the ones about magnets and electricity.
 - [Visvesvaraya Industrial and Technological Museum](https://www.vismuseum.gov.in) · place · Bengaluru: A big science museum with galleries on electricity, motors and magnets.
 - [Science City](https://www.sciencecitykolkata.org.in) · place · Kolkata: A large science centre with space and Earth science galleries.
-- [Rushikulya olive ridley nesting beach]() · place · Ganjam district, Odisha: In some years, thousands of olive ridley turtles come ashore here to nest, usually between February and April. Watch only with the forest department's guidance, and never disturb the turtles or their nests.
+- Rushikulya olive ridley nesting beach · place · Ganjam district, Odisha: In some years, thousands of olive ridley turtles come ashore here to nest, usually between February and April. Watch only with the forest department's guidance, and never disturb the turtles or their nests.
 - [Exploratorium: Science Snacks](https://www.exploratorium.edu/snacks) · interactive: Free, tested hands-on activities from a science museum in San Francisco. Search for magnets and compasses.
 - [NOAA Space Weather: Aurora forecast](https://www.swpc.noaa.gov/products/aurora-30-minute-forecast) · interactive: A live map of where auroras are glowing right now, made by watching the Sun and the Earth's magnetic field.
 
 ## Things to buy
-- [A set of school magnets: bar magnets and round ceramic magnets](https://www.amazon.in/s?k=bar+magnet+set+school) (tool): Bendy fridge magnets are often too weak to magnetise a needle. A bar or ceramic magnet works well for every experiment in this unit. Used in e1, e2, e3, a1, a2, a4. 
+- [A set of school magnets: bar magnets and round ceramic magnets](https://www.amazon.in/s?k=bar+magnet+set+school) (tool): Bendy fridge magnets are often too weak to magnetise a needle. A bar or ceramic magnet works well for every experiment in this lesson. Used in e1, e2, e3, a1, a2, a4. 
 - [Small neodymium disc magnets, about 10 mm across](https://www.amazon.in/s?k=neodymium+disc+magnet+10mm) (tool): Very strong for their size. They show in the paper clip chain test that a small magnet can be the strongest. Keep away from children under 5 and never let them near the mouth: two swallowed magnets can pinch the gut. Used in e2, e3. 
 - [A small magnetic compass](https://www.amazon.in/s?k=magnetic+compass+kids) (tool): To check your homemade needle compass and to make the map of your home. Used in e1, p1, c2. 
 - [A box of plain steel paper clips](https://www.amazon.in/s?k=steel+paper+clips) (material): For the paper clip chain test. Plastic-coated clips grip less well, so get plain metal ones. Used in e2. 

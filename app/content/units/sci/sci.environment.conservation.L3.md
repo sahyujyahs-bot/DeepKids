@@ -1,9 +1,9 @@
 # Caring for animals, soil and water: using them so they last
 `sci.environment.conservation.L3`
 
-**Summary.** Grass grows back after a cow bites off the top, but many other plants do not. Why? In this unit you will cut wheat and moong plants to see which grow back, test whether a mat of roots holds soil in water, and play a game of keeping a herd fed.
+**Summary.** Grass grows back after a cow bites off the top, but many other plants do not. Why? In this lesson you will cut wheat and moong plants to see which grow back, test whether a mat of roots holds soil in water, and play a game of keeping a herd fed.
 
-**Intro.** *A cow eats grass for about eight hours a day, often in the same field. If you cut a plant's stem, the plant usually does not grow taller from that stem again. So why does the field not run out of grass?* In this unit you find the answer by growing wheat and moong in a tub on your window, and cutting both. You find out what the animals who help us need from us, how a cover of roots keeps soil in place, and how cities like Chennai catch the rain. You also read about a bird park where people sent the buffaloes away to protect the birds, and the birds lost out.
+**Intro.** *A cow eats grass for about eight hours a day, often in the same field. If you cut a plant's stem, the plant usually does not grow taller from that stem again. So why does the field not run out of grass?* In this lesson you find the answer by growing wheat and moong in a tub on your window, and cutting both. You find out what the animals who help us need from us, how a cover of roots keeps soil in place, and how cities like Chennai catch the rain. You also read about a bird park where people sent the buffaloes away to protect the birds, and the birds lost out.
 
 ## Learning outcomes
 0. I can name at least six animals that help people, say what each one gives, and say what she needs from us to stay well.
@@ -204,12 +204,43 @@ Before they left, Kavya pulled up a few blades of grass from the field edge, ver
 
 Back in Chennai, Kavya asked Amma for a handful of wheat and a tub of soil. She wanted to see a field grow back on her own balcony.
 
-**For the parent:** For the parent: Kavya worries that the cows will finish the field, because when you cut most plants, that part is gone. But grass grows from the bottom of each leaf, near the soil, so a cow that eats only the top leaves the growing part behind. The goats show the other side: plants that grow from the tip, like bhindi, do not grow back the same way, and animals kept too long in one place eat plants to the roots. Caring for a farm means knowing what each living thing needs, from the buffalo's pond to the grass's time to regrow.
 
-- Ask: Why didn't the cows run out of grass, even though they ate the same field every day?
-- Ask: Why did Athai keep the goats tied and move them every few days?
-- Ask: What did each animal on the farm need from Athai?
-- Ask: Kavya said it wasn't the goats' fault. Do you agree? What could Athai do so the goats and the vegetables both do well?
+## Another story: The Cleaners of the Sky
+**
+
+I am an old vulture now, and I live in a very large cage at Pinjore, at the foot of the hills in Haryana. The cage is as tall as a tree and as long as a cricket ground, with branches to sit on and a pool to drink from. The people who look after me are kind. They feed me clean meat and weigh my eggs and write numbers in a book. But I remember the sky.
+
+When I was young, the sky over Rajasthan was full of us. You could look up on any hot afternoon and see a hundred of us turning on the warm air, round and round, so high that we were only dots, with our wings spread wide and never once flapping. We are white-rumped vultures. People thought we were ugly, with our bare grey heads and our long necks. They thought we were dirty, because of what we eat. But we were the cleaners of the sky.
+
+Here is what we did. When a cow or a buffalo or a camel died, out in the fields or by the road, the people dragged it to the edge of the village. A family there, the leather workers, took the skin to make shoes and drums. Then they stepped back and looked up. And we came. We came down out of the sky like a slow brown rain, dozens of us, and in less than an hour there was nothing left but clean white bones in the sun. The leather workers and the vultures. We were partners, though nobody ever called it that.
+
+A boy called Kishan, whose father was one of those leather workers, used to sit on the wall and watch us. He was not afraid. He gave us names. He called me Badi Amma, because I was the biggest. 'You eat so fast,' he said to me once, 'that the flies don't even get a chance.' I think that was the nicest thing anyone ever said to a vulture.
+
+Then something began to go wrong, and none of us understood it.
+
+One of my sisters sat down on a branch one morning, with her head hanging low, and did not fly. In a few days she was dead. Then another. Then a whole tree of us near the village, where we had nested for as long as anyone remembered, went silent. Each year there were fewer dots in the sky. The ones who lived laid eggs, but often no chicks hatched. I flew further and further looking for my kind, and found fewer and fewer.
+
+Kishan noticed. He was older now, nearly twelve. 'Bapu,' I heard him say, 'where have the gidh gone?'
+
+Without us, the dead animals lay at the edge of the village for days, and then weeks. The smell was terrible. The flies came in clouds. And the dogs came. Stray dogs had always been around, but now there was so much food for them that they had more and more puppies. Soon there were packs of them, thin and quick and quarrelsome, at the dump and in the lanes. Kishan's little sister, Pinky, was bitten on the leg by one of them while she was carrying water. She had to have a whole set of injections in the hospital in town, against rabies, and she cried every time. She was all right in the end. But Kishan sat on the wall that evening for a long time, looking at the empty sky.
+
+It took the scientists years to find out what was killing us. They counted our nests in Bharatpur and found us vanishing. They cut open the bodies of dead vultures and found our kidneys had failed. At last they found the answer, and it was the strangest thing. It was a medicine. Farmers had begun giving their sick cows a painkiller called diclofenac, to help them stand and work when they were old or hurt. It was a kind thing to do for a cow. But when a cow died with the medicine still inside her, and we ate her, the medicine stayed inside us too. For a cow it was a little help. For a vulture, it was poison. A tiny bit, in every meal, from every carcass, and our bodies could not get rid of it.
+
+Nobody had meant to hurt us. That was the hardest part to understand. Nobody had even thought about us at all.
+
+I was one of the last ones they caught, out near Bikaner, a few of us still alive. They brought us here to Pinjore, to keep us safe and to try to raise chicks who might, one day, fly free over a cleaner land. The medicine is banned for animals now. Things are slowly changing.
+
+Last spring, after many years, an egg of mine hatched. The chick is ugly, as all vulture chicks are, grey and fluffy and cross. I feed her and keep her warm. Sometimes, on a hot afternoon, I spread my wings in the cage, and she watches me, puzzled. I am showing her the shape of the sky.
+
+I do not know if she will ever see it full of us again. But I know what we were for. We were not beautiful and we were not loved. We were the end of every story, the ones who came last and made everything clean, so that it could all begin again.
+
+**For the parent:** The old vulture, a creature people call ugly and dirty, shows the child a food web from its least-loved strand. The turn comes when the vultures vanish: carcasses rot, dogs multiply, and Kishan's sister is bitten. The hidden ideas: scavengers and decomposers close the loop of every food web; removing one creature changes everything else; and a poison (a medicine for cows) can travel up a food chain and harm animals no one was thinking about. The quiet lenses: the leather workers and the vultures, both doing the 'dirty' work that kept the village clean, and both rarely thanked; and the question of who is 'useful'.
+
+- Ask: What job did the vultures do? Who else did that job with them?
+- Ask: Why did the dogs and the sickness come when the vultures went?
+- Ask: How did a medicine meant to help cows harm the vultures?
+- Ask: 'Nobody had even thought about us at all.' What does the vulture mean?
+- Ask: Was Badi Amma useful? Was she beautiful? Does it matter?
 
 ## Games
 ### g1 · Four Fields: keep the herd fed without a bare field (20 min)
@@ -570,7 +601,7 @@ Back in Chennai, Kavya asked Amma for a handful of wheat and a tub of soil. She 
 15. (fill) Water that soaks deep into the ground, which wells and borewells pump up, is called ____.  
    **Answer:** ['groundwater']. *Why:* Groundwater fills the tiny spaces between grains of soil, sand and rock. Rain refills it, if the rain can soak in.
 16. (match) Match each place or movement to its state.  
-   **Answer:** The Appiko movement → Karnataka; Silent Valley → Kerala; Keoladeo National Park → Rajasthan; Kangayam cattle → Tamil Nadu; The Chipko movement → Uttarakhand. *Why:* These are places in this unit where people protected forests, wetlands and animals.
+   **Answer:** The Appiko movement → Karnataka; Silent Valley → Kerala; Keoladeo National Park → Rajasthan; Kangayam cattle → Tamil Nadu; The Chipko movement → Uttarakhand. *Why:* These are places in this lesson where people protected forests, wetlands and animals.
 
 ## Videos
 - **Macro Time Lapse of Grass Growing - Example of Intercalary Meristems** (mortrek, 1 min) id `7QKw2_VI-ZM`: A close-up time lapse of cut grass growing back from the base. It shows what the Cutting Test shows, much faster. *Check:* A parent should preview it first.
@@ -634,10 +665,10 @@ Back in Chennai, Kavya asked Amma for a handful of wheat and a tub of soil. She 
 - A lawn or a park ground, green again a week after mowing.
 - A pipe from a terrace going into a covered pit in the ground beside a building.
 - Brown, muddy water in a drain after heavy rain, carrying soil from bare ground.
-- Painted horns and garlands on cattle at Mattu Pongal in Tamil Nadu.
+- Painted horns and garlands on cattle at Mattu Pongal.
 - Bees on the flowers of a drumstick tree, a mango tree or a pot of tulsi.
 - A water bowl for street dogs or birds outside a shop in summer.
-- Temple tanks and old village tanks, called eris in Tamil Nadu, full after the monsoon.
+- Temple tanks and old village tanks full after the monsoon.
 
 ## Open questions
 - **How many animals can a field or a hill feed for ever without being harmed?** It depends on the rain, the soil, the plants and the animals, and it changes from year to year. Scientists still argue about how to measure it.
@@ -681,9 +712,9 @@ Leave the Part That Grows (sci.environment.L3): Topic-level song for Caring for 
 ## Links
 - [India Water Portal](https://www.indiawaterportal.org) · interactive: For the parent. Articles and maps about water in India, including rainwater harvesting in cities.
 - [Keoladeo National Park, on the UNESCO World Heritage list](https://whc.unesco.org/en/list/340/) · place · Bharatpur, Rajasthan: The bird wetland in the how-we-found-out story. Winter, from October to February, is the best time for birds.
-- [Rain Centre, Chennai]() · place · Chennai: A small centre that shows how rainwater harvesting works in a city home. Check opening times before you go.
-- [Silent Valley National Park]() · place · Palakkad district, Kerala: The rainforest saved from a dam by a people's campaign. Visits are by forest department permit from Mukkali.
-- [Any dairy or goshala near you]() · place · Most towns: See how cows and buffaloes are fed, cooled and kept clean. Ask before visiting.
+- Rain Centre, Chennai · place · Chennai: A small centre that shows how rainwater harvesting works in a city home. Check opening times before you go.
+- Silent Valley National Park · place · Palakkad district, Kerala: The rainforest saved from a dam by a people's campaign. Visits are by forest department permit from Mukkali.
+- Any dairy or goshala near you · place · Most towns: See how cows and buffaloes are fed, cooled and kept clean. Ask before visiting.
 
 ## Things to buy
 - [Whole wheat grains, about 100 grams]() (material): For the Cutting Test. Any grocery shop sells whole wheat. Atta and dalia will not sprout. Used in e1, e2, e3, p1. 
