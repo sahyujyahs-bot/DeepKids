@@ -2532,7 +2532,7 @@
     },
     {
      "t": "fill",
-     "p": "In the ramp test, the rubber band stretched ____ on the long ramp than on the short ramp.",
+     "p": "A band pulls a toy up two ramps. The band stretches ____ on the long ramp than on the short one.",
      "a": "less",
      "how": "e1",
      "why": "The long ramp is gentler, so the pull is smaller and the band stretches less."
@@ -2698,7 +2698,7 @@
     },
     {
      "t": "mcq",
-     "p": "In the chappal test, on which surface did the chappal slide first?",
+     "p": "A tray is tilted slowly with a chappal on it. On which surface does the chappal slide first?",
      "opts": [
       "The rough towel",
       "The smooth dry tray",
@@ -2706,7 +2706,7 @@
      ],
      "a": 2,
      "how": "e2",
-     "why": "Water on a smooth surface makes it slippery, so the chappal slid at the lowest tilt. The rough towel gripped best."
+     "why": "Water on a smooth surface makes it slippery, so the chappal slides at the lowest tilt. The rough towel grips best."
     },
     {
      "t": "match",

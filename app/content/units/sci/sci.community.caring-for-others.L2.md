@@ -754,7 +754,7 @@ Mary akka left the long plank at the library. By the next Friday it had two side
    **Answer:** A long gentle ramp. *Why:* A long ramp rises only a little over each centimetre along, so the ramp carries most of the weight. A short steep ramp needs a bigger pull, and a straight lift needs the biggest.
 2. (truefalse) Everybody needs help at some time in life.  
    **Answer:** True. *Why:* True. A baby needs help with everything, a person who is ill needs help, and most people need help in old age.
-3. (fill) In the ramp test, the rubber band stretched ____ on the long ramp than on the short ramp.  
+3. (fill) A band pulls a toy up two ramps. The band stretches ____ on the long ramp than on the short one.  
    **Answer:** less. *Why:* The long ramp is gentler, so the pull is smaller and the band stretches less.
 4. (match) Draw a line from each helper to what it does.  
    **Answer:** Braille → Lets fingers read raised dots; White cane → Finds steps and poles ahead; Hearing aid → Makes sounds louder; Ramp → Lets wheels roll up a step. *Why:* Each helper is made for one job. Braille is read by touch, a cane sweeps the ground ahead, a hearing aid makes sound louder and a ramp replaces a step.
@@ -783,9 +783,9 @@ Mary akka left the long plank at the library. By the next Friday it had two side
    **Answer:** 240 cm. *Why:* 20 x 12 = 240. A ramp of 120 centimetres is right for a 10-centimetre step, and 40 centimetres is far too short.
 3. (truefalse) A steep ramp squeezed into a small space always counts as help.  
    **Answer:** False. *Why:* False. A steep ramp can be as useless as stairs for someone alone in a wheelchair. It must be gentle enough.
-4. (mcq) In the chappal test, on which surface did the chappal slide first?  
+4. (mcq) A tray is tilted slowly with a chappal on it. On which surface does the chappal slide first?  
    Options: The rough towel / The smooth dry tray / The smooth wet tray  
-   **Answer:** The smooth wet tray. *Why:* Water on a smooth surface makes it slippery, so the chappal slid at the lowest tilt. The rough towel gripped best.
+   **Answer:** The smooth wet tray. *Why:* Water on a smooth surface makes it slippery, so the chappal slides at the lowest tilt. The rough towel grips best.
 5. (match) Match each person to a good first thing to do.  
    **Answer:** A deaf girl → Face her in the light and speak normally, or write; A blind man → Offer your elbow and let him hold it; A woman in a wheelchair → Talk to her, not over her head; A guide dog in harness → Do not pet or feed without asking the person. *Why:* Each fits what the person needs. Faces help lip reading. An elbow lets the person guide. Talking to the person respects her. A guide dog in harness is working.
 6. (fill) A ramp made for wheelchairs also helps a parent with a ____.  

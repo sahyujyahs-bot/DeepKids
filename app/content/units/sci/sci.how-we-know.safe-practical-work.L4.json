@@ -359,7 +359,8 @@
     }
    ],
    "art": "A notebook page with a big question mark and three arrows from it, labelled 'my reason?', 'my tool?' and 'my doing?', each with a small picture.",
-   "context": "This card says what to do with a prediction that missed."
+   "context": "This card says what to do with a prediction that missed.",
+   "one_view": "Checking the doing and the tool before the idea is ordinary practice, and no school of science argues against it. The real argument is about when to give up the idea itself, and that has its own card."
   },
   {
    "concept": "A miss alone cannot say whether a hidden cause or a wrong rule is to blame: Neptune and Vulcan",
@@ -413,7 +414,7 @@
    "concept": "Careful practical work is very old, and India's texts wrote down its rules",
    "status": "defined",
    "definition": "Rules for testing things carefully, choosing instruments and learning from results were written in several ancient cultures, long before modern laboratories.",
-   "description": "It is easy to think that careful testing began in Europe a few hundred years ago. The written record says otherwise. The Charaka Samhita, in its Vimanasthana section, chapter 8, tells a physician to examine in an ordered way before acting. It says to judge a claim by reasoning and by what is seen. In Cairo, about the year 1021 CE, Ibn al-Haytham wrote in his Book of Optics that a person who studies nature must test what earlier writers say. He added that you must suspect even your own judgement. In China, the Mozi, a book from about the 4th century BCE, gives three tests for any statement. One of them is to check it against what ordinary people's eyes and ears report. The tools have changed. The habits are the same ones this lesson teaches.",
+   "description": "It is easy to think that careful testing began in Europe a few hundred years ago. The written record says otherwise. The Charaka Samhita, in its Vimanasthana section, chapter 8, tells a physician to examine in an ordered way before acting. It says to judge a claim by reasoning and by what is seen. In Cairo, about 1021 CE, Ibn al-Haytham wrote in his Book of Optics that anyone who studies nature must test what earlier writers say. He added that you must suspect even your own judgement. In China, the Mozi, a book from about the 4th century BCE, gives three tests for any statement. One of them is to check it against what ordinary people's eyes and ears report. The tools have changed. The habits are the same ones this lesson teaches.",
    "examples": [
     "The Sushruta Samhita asks that a sharp instrument be so well made and sharpened that it can split a hair.",
     "A potter in Manamadurai, a weaver in Kanchipuram and a cook testing sugar syrup all use rules that were tested many times. These rules passed from hand to hand. Most were never written down."
@@ -1894,7 +1895,7 @@
      "say": "Pick the riskiest one. Can you remove it, swap it, put a barrier or distance round it, or only protect yourself? Which of these is the strongest? Draw your plan.",
      "kid": "Pick the riskiest card. Draw a plan. Say what kind it is.",
      "adult": true,
-     "parent": "The strongest kind of plan removes the hazard. Then comes a swap, then a barrier or distance, and last protection that you wear. A pan that must be hot cannot be removed, so you might keep a child away and have the grown-up cook. Do not decide for your child.",
+     "parent": "The strongest kind of plan removes the hazard. Then comes a swap, then a barrier or distance, and last protection that you wear. A pan that must be hot cannot be removed, so you might keep a child away and have the grown-up cook. Let your child make the choice.",
      "think": "Which of your plans changes the hazard, and which only changes the person?"
     }
    ]
@@ -3075,7 +3076,7 @@
   }
  ],
  "applications": [
-  "Each year the India Meteorological Department forecasts the monsoon rain as a percentage of the long-term average. It says the forecast may be off by about 5 per cent. Listen for the number on the news in June. Farmers plan sowing around it.",
+  "On the news in June, listen for the monsoon forecast from the India Meteorological Department. It comes as a percentage of the long-term average, and it may be off by about 5 per cent. Farmers plan sowing around it.",
   "Cyclone warnings on the Odisha and Tamil Nadu coasts rely on predicting where a cyclone will land. In 2013 a good forecast helped about a million people move inland before Cyclone Phailin. Look at a cyclone warning on your phone and notice the 'cone' that shows how wide the forecast spread is.",
   "A cough syrup comes with a small measuring cup because a kitchen spoon varies in size. Read the dose on a bottle and see which mark the cup shows. A miss here matters much more than in a recipe.",
   "Surgeons in many hospitals read a short checklist aloud before an operation. Ask a parent if they have seen a checklist at a hospital or in a clinic, and what it asked.",
