@@ -79,6 +79,7 @@ In a running stitch the needle goes down and up along a line. The thread lies on
 - e.g. In the Leaky Seam Test, the seam with the longest stitches lets the most mustard seeds through.
 - e.g. A tailor tacks a blouse together with long running stitches for a fitting, then pulls them out after machine stitching.
 - e.g. A kantha quilt is held together by thousands of small running stitches through three or more layers of old cloth.
+- e.g. In a running stitch, one thread runs through every stitch. If that thread breaks, the rest of the line can slide loose and come undone.
 ### Natural fibres from plants and animals · *defined*
 **Definition:** Natural fibres are made by living beings. Plant fibres are made mostly of cellulose. Animal fibres are made of protein.
 
@@ -118,6 +119,7 @@ Woven in: the weaver uses coloured threads on the loom. In a Kanchipuram silk sa
 - e.g. In Paper Ikat, a shape drawn on the strips before weaving shows up broken into small squares after weaving.
 - e.g. Turn a printed cloth over and the pattern is fainter on the back. Turn a woven check over and it looks the same.
 - e.g. A kasuti pattern is planned so well that it looks the same on both sides of the cloth.
+- e.g. Natural dye is made by boiling beetroot, hibiscus or marigold in water, straining the liquid, and soaking the cloth in it overnight.
 ### Handloom, power loom and khadi · *debated*
 **Definition:** A handloom is worked by a person. A power loom is driven by a motor. Khadi is cloth that is both spun and woven by hand.
 
@@ -655,7 +657,7 @@ Paati knitted for nine evenings, and Thenmozhi knitted the plain rows when Paati
    **Answer:** down and up along a line. *Why:* A running stitch goes down and up along a line and leaves a dashed line of thread. Going back each time makes a backstitch.
 15. (write) Why does the cut edge of a bedsheet need a hem? Use the word 'fray'.  
    **Answer:** A cut edge of woven cloth will fray, because the threads along the edge have nothing outside them to hold them in. A hem folds the cut edge inside and stitches it down, so the threads cannot slide out.. *Why:* A strong answer says what fraying is and how the fold stops it, as in the Fray Test.
-### Testing cloth and choosing fibres (stretch) (stretch, 15 questions)
+### Testing cloth and choosing fibres (stretch) (stretch, 17 questions)
 1. (mcq) One row of thread pulled from 5 cm of T-shirt cloth is 18 cm long. What does this show?  
    Options: The cloth was measured wrongly / The thread is made of rubber / The thread runs in loops / Cotton grows when it is cut  
    **Answer:** The thread runs in loops. *Why:* The thread is more than 3 times as long as the cloth is wide, so it must be folded into loops. That spare length is where the stretch comes from.
@@ -690,6 +692,10 @@ Paati knitted for nine evenings, and Thenmozhi knitted the plain rows when Paati
    **Answer:** ['The fold at the bottom', 'The cut edge tucked inside', 'The stitches that hold the fold down']. *Why:* A hem works because the cut edge is shut inside the fold, where its threads cannot slide out.
 15. (write) A sock has a ladder running down it. Explain how one broken loop caused it.  
    **Answer:** In knitted cloth each loop is held by the loop next to it in the column. When one loop breaks, the next loop has nothing to hold it and slips out, and then the one after that. The line of slipped loops is the ladder.. *Why:* A strong answer says that every loop depends on another loop, which is the cost of knitting with one thread.
+16. (fill) To make natural dye, you boil the plant parts in water, then ____ the liquid to remove the bits before you soak the cloth.  
+   **Answer:** strain. *Why:* Straining pours the coloured water through a cloth or sieve, so only the liquid goes into the dye pot.
+17. (truefalse) In a running stitch, each stitch has its own separate thread, so one broken thread loses only one stitch.  
+   **Answer:** False. *Why:* False. The same thread runs through every stitch of a running stitch, so a break can let the whole line come loose.
 ### Weavers, evidence and arguments (challenge) (challenge, 15 questions)
 1. (write) Cloth rots in the ground. Explain how a lump of fired clay can show that people wove 26,000 years ago.  
    **Answer:** Wet clay was pressed against woven cloth and took its print. The clay was then baked in a fire and became hard. The cloth rotted, but the print of crossing threads stayed in the clay, and the clay can be dated.. *Why:* A strong answer separates the cloth, which is gone, from the evidence, which is its print.
@@ -764,6 +770,12 @@ Paati knitted for nine evenings, and Thenmozhi knitted the plain rows when Paati
 11. (mcq) An old cotton sari is too thin to wear. Which use keeps it as cloth?  
    Options: Burning it / Tearing it into fibre / Stitching it into a kantha quilt / Throwing it away  
    **Answer:** Stitching it into a kantha quilt. *Why:* In a kantha quilt the layers of old sari are still cloth, joined by running stitch. Tearing it into fibre keeps only the fibre.
+12. (mcq) A cook wants to dye a white cloth yellow with marigold flowers. Which way works?  
+   Options: Boil marigold petals in water, strain the liquid, and soak the cloth in it / Boil the cloth in plain water until it turns yellow / Sew marigold petals onto the cloth / Freeze the petals and iron them onto the cloth  
+   **Answer:** Boil marigold petals in water, strain the liquid, and soak the cloth in it. *Why:* Boiling plant parts puts their colour into the water. Straining removes the bits, and the cloth soaks up the colour. Plain water has no colour to give, so the cloth would stay white.
+13. (mcq) You sew a running stitch, and one thread breaks. What is most likely to happen?  
+   Options: Only the one stitch with the break comes loose / The rest of the line can slide loose and come undone / The cloth becomes stronger / Nothing, because the stitches hold each other  
+   **Answer:** The rest of the line can slide loose and come undone. *Why:* In a running stitch one thread runs through every stitch. When it breaks, the rest of the line can slide out. 'Only one stitch' is a fair guess, but it is not what the single thread does.
 
 ## Applications
 - Surgeons close wounds with stitches, and choose the stitch and the thread for each part of the body.

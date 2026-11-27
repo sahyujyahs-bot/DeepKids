@@ -207,7 +207,7 @@
    "status": "defined",
    "context": "In Hiding a Whisper, a running tap stopped you hearing a whisper. This card explains why, and how your brain picks out one voice.",
    "definition": "Masking happens when a louder sound makes a quieter sound impossible to hear, even though the quieter sound still reaches the ear. Sounds close in pitch to the noise are masked the most.",
-   "description": "In the Hiding a Whisper test, the whisper was still reaching your ears when the tap was running, but you did not hear it. The tap's sound moves the same part of the basilar membrane as the whisper does. The whisper's wave is much smaller than the tap's wave there, so it is lost. A sound that is far from the noise in pitch is masked less. This is why a thin, high whistle is easier to pick out among loud drums. It also helps to be close, because each time you halve the distance the voice gets a lot louder. And it helps to watch the speaker's mouth, because seeing the lips helps the brain fill in what the ear misses. The brain can also choose what to listen to. In a crowded hall you can follow one voice and ignore the rest. This is called the cocktail party effect. It needs both ears, because the brain uses the direction of each voice to separate them.",
+   "description": "A sound is any vibration of the air that reaches your ear. Noise is a sound that gets in the way, such as a running tap, a crowd or a fan. Noise also has no clear tune: it is a hiss made of many pitches mixed together. A whistle or a flute plays one clear pitch. In the Hiding a Whisper test, the whisper was still reaching your ears when the tap was running, but you did not hear it. The tap's sound moves the same part of the basilar membrane as the whisper does. The whisper's wave is much smaller than the tap's wave there, so it is lost. A sound that is far from the noise in pitch is masked less. This is why a thin, high whistle is easier to pick out among loud drums. It also helps to be close, because each time you halve the distance the voice gets a lot louder. And it helps to watch the speaker's mouth, because seeing the lips helps the brain fill in what the ear misses. The brain can also choose what to listen to. In a crowded hall you can follow one voice and ignore the rest. This is called the cocktail party effect. It needs both ears, because the brain uses the direction of each voice to separate them.",
    "examples": [
     "You cannot hear a whisper while the tap runs full, though the whisper is still there.",
     "A thin whistle is easier to hear over drums than a low voice, since its pitch is far from the drums.",
@@ -2273,6 +2273,42 @@
     },
     {
      "t": "sort",
+     "p": "Is each one a sound with a clear tune, or noise?",
+     "cats": [
+      "Sound with a clear tune",
+      "Noise"
+     ],
+     "items": [
+      [
+       "a whistle with one note",
+       "Sound with a clear tune"
+      ],
+      [
+       "a crowd's roar in a stadium",
+       "Noise"
+      ],
+      [
+       "a flute playing one tune",
+       "Sound with a clear tune"
+      ],
+      [
+       "a fan making a steady hiss",
+       "Noise"
+      ],
+      [
+       "a friend singing one song",
+       "Sound with a clear tune"
+      ],
+      [
+       "a tap running full",
+       "Noise"
+      ]
+     ],
+     "a": "see items",
+     "why": "A sound with a clear tune has one clear pitch, like a whistle or a sung note. Noise has many pitches mixed together, like a hiss or a roar, and it often hides the sounds we want."
+    },
+    {
+     "t": "sort",
      "p": "Is each one a clue the brain can use to find the direction of a sound, or not?",
      "a": "see items",
      "why": "The brain uses the time, the loudness, the folds of the ear flap and the changes when the head turns. The temperature of the room and the colour of the walls do not help.",
@@ -2994,6 +3030,19 @@
    "a": 0,
    "why": "The wave is in the air for every animal, but each animal's ears pick up only some pitches. People's ears cannot pick up a bat's squeak.",
    "outcome": 6
+  },
+  {
+   "t": "mcq",
+   "p": "Which one is noise, in the way this lesson means it?",
+   "opts": [
+    "A whistle with one clear note",
+    "A flute playing one tune",
+    "A song sung by one voice",
+    "A hiss from a running tap, made of many pitches with no clear tune"
+   ],
+   "a": 3,
+   "outcome": 3,
+   "why": "A whistle, a flute and a sung tune each have a clear pitch. Noise is a mix of many pitches with no clear tune, and it often gets in the way of a sound we want to hear."
   }
  ],
  "videos": [

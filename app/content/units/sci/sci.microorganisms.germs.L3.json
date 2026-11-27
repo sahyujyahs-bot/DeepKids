@@ -81,6 +81,12 @@
    "art": "A side view of a sneeze, with a spray of tiny drops flying out and falling to the floor."
   },
   {
+   "term": "Tuberculosis (TB)",
+   "meaning": "A disease caused by bacteria that usually attack the lungs. It spreads when a person with TB coughs or spits, and others breathe in the germs.",
+   "example": "The BCG vaccine given to babies in India helps protect them from serious TB.",
+   "art": "A pair of lungs with a few small bacteria drawn inside."
+  },
+  {
    "term": "Outbreak",
    "meaning": "When many people in one place fall ill with the same illness at around the same time.",
    "example": "In 1854, a cholera outbreak in one part of London killed more than 500 people in ten days.",
@@ -141,6 +147,21 @@
    "perspectives": [],
    "art": "Five small pictures in a ring around a child: a hand, a door handle, a sneeze, a glass of water, a fly, each with a dotted arrow pointing to the child's mouth or nose.",
    "context": "This card lists the rides germs take from one person to another. The Glitter Trail experiment shows one of them: hands and the things hands touch."
+  },
+  {
+   "concept": "Diseases that travel through the air",
+   "status": "defined",
+   "definition": "Some germs leave a sick person in tiny droplets from a cough, a sneeze or a breath. The droplets hang in the air for a while, and others can breathe them in. Flu, measles, chickenpox and tuberculosis can spread this way.",
+   "description": "A child with measles coughs in a crowded classroom with the windows shut, and the droplets stay in the air for a while. Anyone who breathes that air can catch measles. Tuberculosis, or TB, is caused by bacteria that usually attack the lungs. A person with TB who coughs or spits sends germs into the air of a small room. Fresh air helps. Open windows and a fan move the air, so fewer germs stay in the room. A cloth or a tissue over the mouth when you cough catches many droplets. Vaccines protect against some of these illnesses. In India, babies get the BCG vaccine against serious TB, and the measles vaccine in the national vaccination programme.",
+   "examples": [
+    "A grandfather with TB who coughs in a small room can send germs into the air that others breathe.",
+    "A bus or classroom with closed windows keeps droplets close to everyone inside it.",
+    "A fan and an open window let fresh air in, and the germs in the old air go out."
+   ],
+   "perspectives": [],
+   "one_view": "Health workers agree that these germs travel in the air in droplets, so there is one view here. Ask a doctor about any child who is ill.",
+   "context": "This card names illnesses that travel through the air, and what helps keep the air safer for everyone.",
+   "art": "A classroom with closed windows, a child coughing into her elbow, and a fan and an open window at the back letting air move through the room."
   },
   {
    "concept": "What an infection is",
@@ -1722,6 +1743,34 @@
      "why": "Germs need a ride. Some ride on hands and the things hands touch, some on droplets in the air, some in water and food, and some on insects."
     },
     {
+     "t": "sort",
+     "p": "Sort these illnesses by how they mostly travel: through the air in droplets, or through dirty water.",
+     "cats": [
+      "Through the air",
+      "Through dirty water"
+     ],
+     "items": [
+      [
+       "Measles",
+       "Through the air"
+      ],
+      [
+       "Tuberculosis (TB)",
+       "Through the air"
+      ],
+      [
+       "Cholera",
+       "Through dirty water"
+      ],
+      [
+       "Chickenpox",
+       "Through the air"
+      ]
+     ],
+     "a": "see items",
+     "why": "Measles, TB and chickenpox spread in droplets and in the air. Cholera spreads through water that has germs in it."
+    },
+    {
      "t": "mcq",
      "p": "In the Glitter Trail, round 2 put the glitter on the carrier's elbow. What usually happened?",
      "opts": [
@@ -2321,6 +2370,18 @@
    "a": 0,
    "why": "Comparing who drank the water with who fell ill shows the link. Germs are too small to see with your eyes. John Snow did this in London in 1854.",
    "outcome": 5
+  },
+  {
+   "t": "mcq",
+   "p": "Which of these illnesses spreads mainly through the air, in droplets from a cough?",
+   "opts": [
+    "Measles",
+    "Dengue",
+    "Cholera"
+   ],
+   "a": 0,
+   "why": "Measles spreads through droplets from a cough or sneeze, and the droplets can hang in the air. Dengue comes from mosquito bites. Cholera comes from dirty water.",
+   "outcome": 1
   }
  ],
  "videos": [

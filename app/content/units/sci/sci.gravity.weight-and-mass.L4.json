@@ -156,7 +156,7 @@
    "concept": "A spring scale measures a pull, so the place matters",
    "status": "defined",
    "definition": "A spring scale measures the pull on its spring. On the Moon, the same mango is pulled only about one sixth as hard, so a spring scale shows only about one sixth of the weight.",
-   "description": "A spring scale does not compare the mango with a weight. It lets the mango stretch a spring, and reads the stretch. The stretch depends on how hard the mango is pulled down, which is its weight. On the Earth the pull on a 300-gram mango is about 3 newtons. On the Moon it is about 0.5 newtons. The mango has not lost any matter. The Moon simply pulls less. Many bathroom scales and kitchen scales also measure a push or a pull inside, then show a number in kilograms by assuming the Earth's pull. On the Moon, they would show about one sixth of the right mass.",
+   "description": "A spring scale does not compare the mango with a weight. It lets the mango stretch a spring, and reads the stretch. The stretch depends on how hard the mango is pulled down, which is its weight. On the Earth the pull on a 300-gram mango is about 3 newtons. On the Moon it is about 0.5 newtons. The mango has not lost any matter. The Moon simply pulls less. Many bathroom scales and kitchen scales also measure a push or a pull inside, then show a number in kilograms by assuming the Earth's pull. On the Moon, they would show about one sixth of the right mass. To read a spring scale well, first check that its pointer rests at zero, the mark it shows with nothing on the hook. Then hold the scale still, and read the number at eye level once the load stops swinging. A swinging load pulls harder and softer, so the pointer jumps about.",
    "examples": [
     "A hanging scale in a vegetable shop is a spring scale.",
     "A digital kitchen scale that shows 500 grams on Earth would show about 80 grams for the same bag on the Moon.",
@@ -2065,6 +2065,18 @@
   },
   {
    "t": "mcq",
+   "p": "Why should you wait for a swinging mango to stop before you read a spring scale?",
+   "opts": [
+    "A swinging load pulls harder and softer, so the pointer jumps about and does not show a steady pull",
+    "A swinging mango loses some of its mass",
+    "The scale only works when it is still, and it breaks if it moves"
+   ],
+   "a": 0,
+   "why": "A spring scale shows the pull on its spring. When the mango swings, the pull changes from moment to moment, so the pointer jumps. A swinging mango keeps its mass. The scale does not break when it moves; it just gives an unsteady number.",
+   "outcome": 0
+  },
+  {
+   "t": "mcq",
    "p": "A steel spring stretches 3 centimetres under 300 grams. What does Hooke's law say about 600 grams?",
    "opts": [
     "It stretches about 6 centimetres",
@@ -2416,6 +2428,16 @@
      "a": 0,
      "why": "Dissolving breaks the sugar into tiny pieces, but they are still there. No mass is lost, so the total is 200 plus 20, which is 220 grams.",
      "outcome": 6
+    },
+    {
+     "t": "fill",
+     "p": "Before you read a spring scale, check that its pointer rests at ____ with nothing on the hook.",
+     "a": [
+      "zero",
+      "0",
+      "the zero mark"
+     ],
+     "why": "The zero mark is where the pointer rests with nothing hanging on the scale. If the pointer does not start there, every reading will be wrong by the same amount."
     }
    ]
   },

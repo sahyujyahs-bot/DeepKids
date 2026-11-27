@@ -1759,7 +1759,7 @@
      "what": "Look at the sky three times in one day: in the morning, in the afternoon and after dark. Fill one table."
     }
    ],
-   "record": "A table with three rows (morning, afternoon, night) and columns for the time, the colour of the sky, where the Sun is or where its shadows point, and whether the Moon or stars can be seen and what shape the Moon is.",
+   "record": "A table with three rows: morning, afternoon and night. The columns are the time, the colour of the sky, the Sun or shadow, and the Moon or stars.",
    "context": "In this activity, you watch the sky three times in one day and write what changes. You see how the Sun, the Moon and the sky look at different times of the day.",
    "setup": [
     {
@@ -1789,7 +1789,7 @@
     {
      "id": "s2",
      "mins": 6,
-     "do": "In the afternoon, go to the same place. Write the time. Fill the same row: the colour of the sky, whether the Sun is higher or lower than in the morning, and where the shadow of the same pole points and how long it is. Compare it with the morning.",
+     "do": "In the afternoon, go to the same place. Write the time. Fill the same row. Write the colour of the sky. Is the Sun higher or lower than in the morning? Which way does the shadow of the same pole point, and is it longer or shorter? Compare it with the morning.",
      "say": "Go back to the same spot. Is the sky the same colour? Is the shadow of the same pole longer or shorter? Which way does it point now?",
      "kid": "Go back to the same spot. Write the new sky colour. Is the shadow longer or shorter? Which way does it point?",
      "parent": "Near midday the shadow is at its shortest. By the late afternoon it grows long again, pointing east. The sky is usually a deeper blue around midday. Near sunset it goes orange or red.",
@@ -2522,13 +2522,7 @@
     },
     {
      "t": "order",
-     "p": "Put these in the order that a pole's shadow changes on a clear day, from morning to evening.",
-     "items": [
-      "Long, pointing west",
-      "Shorter",
-      "Shortest, at solar noon",
-      "Longer again, pointing east"
-     ],
+     "p": "Put these in the order that a pole's shadow changes on a clear day, from morning to evening: shorter; longer again, pointing east; long, pointing west; shortest, at solar noon.",
      "a": [
       "Long, pointing west",
       "Shorter",
@@ -2914,7 +2908,7 @@
    "p": "Look at a globe. About how much of the Earth's surface is sea?",
    "opts": [
     "Nearly three-quarters",
-    "About one-quarter",
+    "About half",
     "About half of half of it",
     "Almost all of it"
    ],

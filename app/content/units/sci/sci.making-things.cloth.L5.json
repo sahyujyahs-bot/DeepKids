@@ -231,7 +231,8 @@
    "examples": [
     "In the Leaky Seam Test, the seam with the longest stitches lets the most mustard seeds through.",
     "A tailor tacks a blouse together with long running stitches for a fitting, then pulls them out after machine stitching.",
-    "A kantha quilt is held together by thousands of small running stitches through three or more layers of old cloth."
+    "A kantha quilt is held together by thousands of small running stitches through three or more layers of old cloth.",
+    "In a running stitch, one thread runs through every stitch. If that thread breaks, the rest of the line can slide loose and come undone."
    ],
    "perspectives": [],
    "art": "Three seams drawn from the side, cut through the cloth: a running stitch dipping in and out, a backstitch overlapping underneath, and a machine lockstitch with two threads hooked together inside the cloth."
@@ -310,7 +311,8 @@
    "examples": [
     "In Paper Ikat, a shape drawn on the strips before weaving shows up broken into small squares after weaving.",
     "Turn a printed cloth over and the pattern is fainter on the back. Turn a woven check over and it looks the same.",
-    "A kasuti pattern is planned so well that it looks the same on both sides of the cloth."
+    "A kasuti pattern is planned so well that it looks the same on both sides of the cloth.",
+    "Natural dye is made by boiling beetroot, hibiscus or marigold in water, straining the liquid, and soaking the cloth in it overnight."
    ],
    "perspectives": [],
    "art": "Five small cloth squares in a row: a woven check, a blurred ikat diamond, a field of bandhani dots, a block-printed flower and an embroidered star."
@@ -2800,6 +2802,18 @@
      "a": "In knitted cloth each loop is held by the loop next to it in the column. When one loop breaks, the next loop has nothing to hold it and slips out, and then the one after that. The line of slipped loops is the ladder.",
      "why": "A strong answer says that every loop depends on another loop, which is the cost of knitting with one thread.",
      "lines": 3
+    },
+    {
+     "t": "fill",
+     "p": "To make natural dye, you boil the plant parts in water, then ____ the liquid to remove the bits before you soak the cloth.",
+     "a": "strain",
+     "why": "Straining pours the coloured water through a cloth or sieve, so only the liquid goes into the dye pot."
+    },
+    {
+     "t": "truefalse",
+     "p": "In a running stitch, each stitch has its own separate thread, so one broken thread loses only one stitch.",
+     "a": false,
+     "why": "False. The same thread runs through every stitch of a running stitch, so a break can let the whole line come loose."
     }
    ]
   },
@@ -3154,6 +3168,32 @@
    "a": 2,
    "why": "In a kantha quilt the layers of old sari are still cloth, joined by running stitch. Tearing it into fibre keeps only the fibre.",
    "outcome": 7
+  },
+  {
+   "t": "mcq",
+   "p": "A cook wants to dye a white cloth yellow with marigold flowers. Which way works?",
+   "opts": [
+    "Boil marigold petals in water, strain the liquid, and soak the cloth in it",
+    "Boil the cloth in plain water until it turns yellow",
+    "Sew marigold petals onto the cloth",
+    "Freeze the petals and iron them onto the cloth"
+   ],
+   "a": 0,
+   "why": "Boiling plant parts puts their colour into the water. Straining removes the bits, and the cloth soaks up the colour. Plain water has no colour to give, so the cloth would stay white.",
+   "outcome": 6
+  },
+  {
+   "t": "mcq",
+   "p": "You sew a running stitch, and one thread breaks. What is most likely to happen?",
+   "opts": [
+    "Only the one stitch with the break comes loose",
+    "The rest of the line can slide loose and come undone",
+    "The cloth becomes stronger",
+    "Nothing, because the stitches hold each other"
+   ],
+   "a": 1,
+   "why": "In a running stitch one thread runs through every stitch. When it breaks, the rest of the line can slide out. 'Only one stitch' is a fair guess, but it is not what the single thread does.",
+   "outcome": 4
   }
  ],
  "videos": [

@@ -338,7 +338,7 @@
    "concept": "India's way: small steps and learning from mistakes",
    "status": "defined",
    "definition": "India's space agency, ISRO, builds each mission as a careful step beyond the last, and learns from failures.",
-   "description": "In 2014, India's Mangalyaan reached Mars orbit on the first try. No other country had done that. It was reported to cost about 450 crore rupees, much less than most Mars missions. Ritu Karidhal, an engineer from Lucknow, was among the team leaders. In September 2019, the lander of Chandrayaan-2 lost contact just before touching down. The orbiter stayed in good health and kept working around the Moon for years. ISRO studied what went wrong, changed the lander and its landing plan, and tried again. Chandrayaan-3 landed on 23 August 2023. Its project director was P. Veeramuthuvel, from Tamil Nadu. India was the fourth country to land on the Moon, and the first near its south pole.",
+   "description": "In 2014, India's Mangalyaan reached Mars orbit on the first try. No other country had done that. It was reported to cost about 450 crore rupees, much less than most Mars missions. Ritu Karidhal, an engineer from Lucknow, was among the team leaders. In September 2019, the lander of Chandrayaan-2 lost contact just before touching down. The orbiter stayed in good health and kept working around the Moon for years. ISRO studied what went wrong, changed the lander and its landing plan, and tried again. Chandrayaan-3 landed on 23 August 2023. Its project director was P. Veeramuthuvel, from Tamil Nadu. India was the fourth country to land on the Moon, and the first near its south pole. Its lander, named Vikram, touched down on the Moon that same day. It then collected data about the soil and the ground, such as how hot the soil gets and how the ground shakes.",
    "examples": [
     "Chandrayaan-3 reused the Chandrayaan-2 orbiter, which was still working, to talk to the lander.",
     "Engineers chose a bigger landing area, so that a small error would not matter.",
@@ -2680,6 +2680,13 @@
      "outcome": 6
     },
     {
+     "t": "write",
+     "p": "The lander Vikram collected data about the soil on the Moon. Give one reason why scientists want to know how hot the soil gets.",
+     "lines": 3,
+     "a": "For example: the heat of the soil shows what the ground is made of, and how it changes from day to night.",
+     "why": "A strong answer links the heat of the soil, or the shaking of the ground, to what the ground is made of."
+    },
+    {
      "t": "label",
      "p": "Label the picture of a two-lens telescope: front lens, eyepiece, faraway object, gap between the lenses.",
      "a": "The faraway object is on the left. The front lens is next to it, and the eyepiece is at the eye end. The gap is the space between the two lenses.",
@@ -3036,6 +3043,18 @@
    ],
    "a": 0,
    "why": "A smaller rocket cannot throw the spacecraft all the way to the Moon in one push. The spacecraft's own engine fired many times, raising its orbit step by step, and later lowering it.",
+   "outcome": 6
+  },
+  {
+   "t": "mcq",
+   "p": "Chandrayaan-3's lander, named Vikram, touched down on the Moon on 23 August 2023. What did it do next?",
+   "opts": [
+    "It collected data about the soil and the ground",
+    "It brought rock samples back to Earth",
+    "It turned into an orbiter round the Moon"
+   ],
+   "a": 0,
+   "why": "Vikram collected data about the soil and the ground where it landed. Chandrayaan-3 did not bring rock samples back to Earth. Its orbiter, not the lander, went round the Moon.",
    "outcome": 6
   },
   {

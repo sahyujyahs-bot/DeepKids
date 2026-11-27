@@ -73,7 +73,7 @@ When a marble drops into water, the ring of ripples gets lower as it spreads, be
 ### Masking: why noise hides a voice · *defined*
 **Definition:** Masking happens when a louder sound makes a quieter sound impossible to hear, even though the quieter sound still reaches the ear. Sounds close in pitch to the noise are masked the most.
 
-In the Hiding a Whisper test, the whisper was still reaching your ears when the tap was running, but you did not hear it. The tap's sound moves the same part of the basilar membrane as the whisper does. The whisper's wave is much smaller than the tap's wave there, so it is lost. A sound that is far from the noise in pitch is masked less. This is why a thin, high whistle is easier to pick out among loud drums. It also helps to be close, because each time you halve the distance the voice gets a lot louder. And it helps to watch the speaker's mouth, because seeing the lips helps the brain fill in what the ear misses. The brain can also choose what to listen to. In a crowded hall you can follow one voice and ignore the rest. This is called the cocktail party effect. It needs both ears, because the brain uses the direction of each voice to separate them.
+A sound is any vibration of the air that reaches your ear. Noise is a sound that gets in the way, such as a running tap, a crowd or a fan. Noise also has no clear tune: it is a hiss made of many pitches mixed together. A whistle or a flute plays one clear pitch. In the Hiding a Whisper test, the whisper was still reaching your ears when the tap was running, but you did not hear it. The tap's sound moves the same part of the basilar membrane as the whisper does. The whisper's wave is much smaller than the tap's wave there, so it is lost. A sound that is far from the noise in pitch is masked less. This is why a thin, high whistle is easier to pick out among loud drums. It also helps to be close, because each time you halve the distance the voice gets a lot louder. And it helps to watch the speaker's mouth, because seeing the lips helps the brain fill in what the ear misses. The brain can also choose what to listen to. In a crowded hall you can follow one voice and ignore the rest. This is called the cocktail party effect. It needs both ears, because the brain uses the direction of each voice to separate them.
 - e.g. You cannot hear a whisper while the tap runs full, though the whisper is still there.
 - e.g. A thin whistle is easier to hear over drums than a low voice, since its pitch is far from the drums.
 - e.g. In a crowded hall you can follow one friend's voice by listening only to it.
@@ -582,7 +582,7 @@ That night, at home, Anjana taught her little brother Kiran the game. He sat wit
   - Think: Many Deaf people use flashing lights or vibrating alerts at home. What other things in a home use sound to tell us something, and how could each one be changed to use light or touch?
 
 ## Worksheets
-### Two Ears and Loud Sounds (core) (core, 16 questions)
+### Two Ears and Loud Sounds (core) (core, 17 questions)
 1. (mcq) A clap happens close to your right ear. Which ear gets the sound first, and which hears it a little louder?  
    Options: The right ear gets it first and hears it louder / The left ear gets it first and hears it louder / Both ears get it at the same time and equally loudly  
    **Answer:** The right ear gets it first and hears it louder. *Why:* The sound reaches the nearer ear first and is louder there, because the head blocks some sound from the far ear. The brain uses both clues.
@@ -604,22 +604,24 @@ That night, at home, Anjana taught her little brother Kiran the game. He sat wit
    **Answer:** 3. *Why:* The ear collects, passes on and detects sound. The source of a sound is outside the ear, and the ear cannot change it.
 8. (match) Match each word to what it means.  
    **Answer:** Pinna → the ear flap on the side of the head; Masking → a loud sound hiding a quiet one; Cochlea → the coiled tube where hair cells turn waves into signals; Decibel → the unit for how strong a sound is; Tinnitus → hearing ringing when there is no sound outside. *Why:* You need these words to talk about hearing.
-9. (sort) Is each one a clue the brain can use to find the direction of a sound, or not?  
+9. (sort) Is each one a sound with a clear tune, or noise?  
+   **Answer:** a whistle with one note → Sound with a clear tune; a crowd's roar in a stadium → Noise; a flute playing one tune → Sound with a clear tune; a fan making a steady hiss → Noise; a friend singing one song → Sound with a clear tune; a tap running full → Noise. *Why:* A sound with a clear tune has one clear pitch, like a whistle or a sung note. Noise has many pitches mixed together, like a hiss or a roar, and it often hides the sounds we want.
+10. (sort) Is each one a clue the brain can use to find the direction of a sound, or not?  
    **Answer:** the sound reaches one ear before the other → A clue for direction; the sound is louder in one ear → A clue for direction; the sound changes when you turn your head → A clue for direction; the temperature of the room → Not a clue for direction; the colour of the walls → Not a clue for direction. *Why:* The brain uses the time, the loudness, the folds of the ear flap and the changes when the head turns. The temperature of the room and the colour of the walls do not help.
-10. (order) Put these in order along the cochlea, from where the wave peaks first (the narrow start) to where it peaks last (the far end).  
+11. (order) Put these in order along the cochlea, from where the wave peaks first (the narrow start) to where it peaks last (the far end).  
    **Answer:** ['a high whistle of 3,000 hertz', 'a voice of about 250 hertz', 'a deep drum of 100 hertz']. *Why:* High pitches make the wave peak near the start of the cochlea. Low pitches make it peak near the far end.
-11. (truefalse) Hair cells destroyed by very loud noise grow back in a few weeks, so loud noise never causes lasting harm.  
+12. (truefalse) Hair cells destroyed by very loud noise grow back in a few weeks, so loud noise never causes lasting harm.  
    **Answer:** False. *Why:* False. In people, hair cells do not grow back. Loud noise can cause lasting loss of hearing, often with no pain at the time.
-12. (mcq) You cannot hear a whisper while a tap runs hard. What is the best explanation?  
+13. (mcq) You cannot hear a whisper while a tap runs hard. What is the best explanation?  
    Options: The whisper still reaches your ear, but the louder noise hides it / The whisper never leaves the speaker's mouth / Your ears stop working when there is noise  
    **Answer:** The whisper still reaches your ear, but the louder noise hides it. *Why:* This is called masking. The louder sound moves the same part of the ear as the quiet one, so the quiet one is lost.
-13. (label) Label the model of the basilar membrane: the narrow stiff end, the wide soft end, where high pitches peak, and where low pitches peak.  
+14. (label) Label the model of the basilar membrane: the narrow stiff end, the wide soft end, where high pitches peak, and where low pitches peak.  
    **Answer:** ['narrow stiff end', 'wide soft end', 'high pitches peak', 'low pitches peak']. *Why:* The narrow, stiff end is the start, where high pitches peak. The wide, soft end is the far end, where low pitches peak.
-14. (write) Explain to a friend why covering one ear makes it harder to say where a sound is.  
+15. (write) Explain to a friend why covering one ear makes it harder to say where a sound is.  
    **Answer:** Two ears hear a sound a tiny bit differently. The nearer ear gets it first and louder. The brain compares them to work out the direction. With one ear covered, there is nothing to compare, so the brain has to guess.. *Why:* A strong answer says that the two ears get slightly different sounds, that the brain compares them, and that one ear removes the comparison.
-15. (draw) Draw a head seen from above with a clap on the right side. Draw a line from the clap to each ear, and show which line is shorter.  
+16. (draw) Draw a head seen from above with a clap on the right side. Draw a line from the clap to each ear, and show which line is shorter.  
    **Answer:** A head with two ears, a clap on the right, a short line to the right ear and a longer line to the left ear.. *Why:* The clap is closer to the right ear, so the sound reaches it first and is a little louder there. The longer line shows that it takes more time to reach the left ear.
-16. (mcq) In a noisy room, which of these helps a speaker be heard?  
+17. (mcq) In a noisy room, which of these helps a speaker be heard?  
    Options: Face the listener, come closer and speak clearly / Turn away from the listener and mumble / Speak as quickly as possible  
    **Answer:** Face the listener, come closer and speak clearly. *Why:* Coming closer makes the voice louder than the noise. Facing the listener lets them see the lips, which helps the brain fill in what the ear misses. Speaking clearly helps too.
 ### Numbers, Ears and Animals (stretch) (stretch, 17 questions)
@@ -743,6 +745,9 @@ That night, at home, Anjana taught her little brother Kiran the game. He sat wit
 12. (mcq) A bat's squeak is too high for people to hear. A moth hears it and dives. What does this suggest about sounds?  
    Options: Different animals hear different ranges of sound / Bats' squeaks are not real sounds / Moths hear better than all other animals  
    **Answer:** Different animals hear different ranges of sound. *Why:* The wave is in the air for every animal, but each animal's ears pick up only some pitches. People's ears cannot pick up a bat's squeak.
+13. (mcq) Which one is noise, in the way this lesson means it?  
+   Options: A whistle with one clear note / A flute playing one tune / A song sung by one voice / A hiss from a running tap, made of many pitches with no clear tune  
+   **Answer:** A hiss from a running tap, made of many pitches with no clear tune. *Why:* A whistle, a flute and a sung tune each have a clear pitch. Noise is a mix of many pitches with no clear tune, and it often gets in the way of a sound we want to hear.
 
 ## Applications
 - Hearing aids make sounds louder for people whose hair cells still work but have become less sensitive, for example in old age.

@@ -125,7 +125,7 @@ In 1967, countries including India signed the Outer Space Treaty. It says that n
 ### India's way: small steps and learning from mistakes · *defined*
 **Definition:** India's space agency, ISRO, builds each mission as a careful step beyond the last, and learns from failures.
 
-In 2014, India's Mangalyaan reached Mars orbit on the first try. No other country had done that. It was reported to cost about 450 crore rupees, much less than most Mars missions. Ritu Karidhal, an engineer from Lucknow, was among the team leaders. In September 2019, the lander of Chandrayaan-2 lost contact just before touching down. The orbiter stayed in good health and kept working around the Moon for years. ISRO studied what went wrong, changed the lander and its landing plan, and tried again. Chandrayaan-3 landed on 23 August 2023. Its project director was P. Veeramuthuvel, from Tamil Nadu. India was the fourth country to land on the Moon, and the first near its south pole.
+In 2014, India's Mangalyaan reached Mars orbit on the first try. No other country had done that. It was reported to cost about 450 crore rupees, much less than most Mars missions. Ritu Karidhal, an engineer from Lucknow, was among the team leaders. In September 2019, the lander of Chandrayaan-2 lost contact just before touching down. The orbiter stayed in good health and kept working around the Moon for years. ISRO studied what went wrong, changed the lander and its landing plan, and tried again. Chandrayaan-3 landed on 23 August 2023. Its project director was P. Veeramuthuvel, from Tamil Nadu. India was the fourth country to land on the Moon, and the first near its south pole. Its lander, named Vikram, touched down on the Moon that same day. It then collected data about the soil and the ground, such as how hot the soil gets and how the ground shakes.
 - e.g. Chandrayaan-3 reused the Chandrayaan-2 orbiter, which was still working, to talk to the lander.
 - e.g. Engineers chose a bigger landing area, so that a small error would not matter.
 - e.g. Many of the engineers and scientists at ISRO are women, and several led teams in these missions.
@@ -649,7 +649,7 @@ She took a pebble from her pocket. She held it out over the dark sea and opened 
 18. (mcq) What is space debris?  
    Options: Dust that comes from the Sun / Broken satellites, empty rocket stages and tiny bits that still orbit the Earth / Clouds high above the air  
    **Answer:** Broken satellites, empty rocket stages and tiny bits that still orbit the Earth. *Why:* Space debris is the junk that people have left in orbit. Even a speck moving at orbital speed can damage a satellite.
-### Orbits, Light and Bodies (stretch) (stretch, 19 questions)
+### Orbits, Light and Bodies (stretch) (stretch, 20 questions)
 1. (perspective) More and more satellites are launched each year, and old ones become junk. A town meeting is discussing what to do.  
    **Answer:** A strong answer picks a side and uses a fact, such as: junk moves at 8 kilometres a second, so even tiny pieces cause damage, or old satellites at 36,000 kilometres stay for ages. It then admits a fair point from another side, such as the cost to small companies.. *Why:* This is a real argument. Safety and shared use are set against cost and fairness, and no one answer settles it.
 2. (mcq) Satellite A orbits 500 kilometres above the Earth. Satellite B orbits 1,500 kilometres above it. Which one takes longer for one lap?  
@@ -689,9 +689,11 @@ She took a pebble from her pocket. She held it out over the dark sea and opened 
 17. (mcq) Apollo 11 took about 4 days to reach the Moon. Chandrayaan-3 took 40 days. How many times longer did Chandrayaan-3 take?  
    Options: 10 times / 4 times / 36 times  
    **Answer:** 10 times. *Why:* 40 divided by 4 is 10. Chandrayaan-3 used a smaller rocket and many small engine burns, which took ten times as long.
-18. (label) Label the picture of a two-lens telescope: front lens, eyepiece, faraway object, gap between the lenses.  
+18. (write) The lander Vikram collected data about the soil on the Moon. Give one reason why scientists want to know how hot the soil gets.  
+   **Answer:** For example: the heat of the soil shows what the ground is made of, and how it changes from day to night.. *Why:* A strong answer links the heat of the soil, or the shaking of the ground, to what the ground is made of.
+19. (label) Label the picture of a two-lens telescope: front lens, eyepiece, faraway object, gap between the lenses.  
    **Answer:** The faraway object is on the left. The front lens is next to it, and the eyepiece is at the eye end. The gap is the space between the two lenses.. *Why:* A strong labeller puts the big, weak lens at the front and the small, strong lens at the eye.
-19. (fill) The 30 dishes of the Giant Metrewave Radio Telescope work together like one huge ____.  
+20. (fill) The 30 dishes of the Giant Metrewave Radio Telescope work together like one huge ____.  
    **Answer:** ['telescope']. *Why:* Dishes spread over about 25 kilometres act together like one telescope that large.
 ### Space Detective (challenge) (challenge, 16 questions)
 1. (write) A friend says that astronauts float because there is no gravity on the space station. What would you say to her, and what evidence would you give?  
@@ -771,7 +773,10 @@ She took a pebble from her pocket. She held it out over the dark sea and opened 
 11. (mcq) Chandrayaan-3 took 40 days to reach the Moon. What was it doing for most of that time?  
    Options: Firing its engine to raise its orbit round the Earth, and later to lower its orbit round the Moon / Waiting for the Moon to come near / Looking for a place to land  
    **Answer:** Firing its engine to raise its orbit round the Earth, and later to lower its orbit round the Moon. *Why:* A smaller rocket cannot throw the spacecraft all the way to the Moon in one push. The spacecraft's own engine fired many times, raising its orbit step by step, and later lowering it.
-12. (mcq) In September 2019 the lander of Chandrayaan-2 lost contact just before touching down. What did ISRO do next?  
+12. (mcq) Chandrayaan-3's lander, named Vikram, touched down on the Moon on 23 August 2023. What did it do next?  
+   Options: It collected data about the soil and the ground / It brought rock samples back to Earth / It turned into an orbiter round the Moon  
+   **Answer:** It collected data about the soil and the ground. *Why:* Vikram collected data about the soil and the ground where it landed. Chandrayaan-3 did not bring rock samples back to Earth. Its orbiter, not the lander, went round the Moon.
+13. (mcq) In September 2019 the lander of Chandrayaan-2 lost contact just before touching down. What did ISRO do next?  
    Options: Studied what went wrong, changed the lander and its landing plan, and landed in 2023 / Stopped trying to land on the Moon / Waited for another country to do it  
    **Answer:** Studied what went wrong, changed the lander and its landing plan, and landed in 2023. *Why:* ISRO learned from the failure and built Chandrayaan-3. India landed near the Moon's south pole on 23 August 2023.
 

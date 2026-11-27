@@ -30,6 +30,7 @@
 - **Oxygen**: The gas that makes up about 21 of every 100 particles of air. Humans and other animals need it to get energy from food, and fires need it to burn. *e.g.* Hospitals keep oxygen squeezed into strong steel cylinders.
 - **Carbon dioxide**: A gas made when things burn, when living beings breathe out, and when vinegar meets baking soda. It is about one and a half times as heavy as air. *e.g.* The bubbles in soda water are carbon dioxide.
 - **Water vapour**: Water as a gas. It is invisible, and the amount in the air changes from day to day. *e.g.* On a humid monsoon day in Kochi, up to 4 of every 100 particles of air are water vapour.
+- **Hydrogen**: The lightest gas. It is a gas at room temperature. *e.g.* Weather balloons sent up from Chennai and Thiruvananthapuram are filled with hydrogen, the lightest gas.
 - **Atmosphere**: The layer of air around the Earth. It is thickest near the ground and thins out slowly, with no sharp top. *e.g.* Half of all the air lies below about five and a half kilometres, lower than many Himalayan peaks.
 - **Density**: How much mass is packed into a certain space. A dense gas is heavy for its size. *e.g.* Carbon dioxide is denser than air, so a balloon of it falls faster than a balloon of air.
 - **Upthrust**: The upward push of a liquid or a gas on anything inside it. The push equals the weight of the liquid or gas that the thing pushes aside. *e.g.* The upthrust of air holds up a helium balloon, as the upthrust of water holds up a boat.
@@ -41,7 +42,7 @@
 ### A gas is a substance: it takes up space and has mass · *defined*
 **Definition:** A gas is matter, just like a solid or a liquid. It is made of particles, it takes up space, and it has mass.
 
-We cannot see most gases, so they are easy to mistake for nothing. Two tests show that a gas is something. First, a gas takes up space. Push a tumbler mouth-down into water, and the air inside keeps the water out. Second, a gas has mass. One litre of air has a mass of about 1.2 grams. That is small, but air adds up. Take a bedroom 4 metres long, 3 metres wide and 3 metres high. The air in it has a mass of about 43 kilograms. When vinegar and baking soda fizz in an open tumbler, the tumbler gets lighter. The lost grams left as carbon dioxide gas. Cooking gas is even sold by mass. A home cylinder holds 14.2 kilograms of it.
+We cannot see most gases, so they are easy to mistake for nothing. Two tests show that a gas is something. First, a gas takes up space. Push a tumbler mouth-down into water, and the air inside keeps the water out. Second, a gas has mass. One litre of air has a mass of about 1.2 grams. That is small, but air adds up. Take a bedroom 4 metres long, 3 metres wide and 3 metres high. The air in it has a mass of about 43 kilograms. When vinegar and baking soda fizz in an open tumbler, the tumbler gets lighter. The lost grams left as carbon dioxide gas. Cooking gas is even sold by mass. A home cylinder holds 14.2 kilograms of it. Some substances are gases at room temperature, which is a normal warm room. Carbon dioxide, hydrogen and water vapour are three of them. Water vapour is water as a gas, and it is in the air on every humid day.
 - e.g. In Pour Air Upwards, air moved from one tumbler to another under water. It pushed the water out of the second tumbler.
 - e.g. In Weigh the Fizz, the open tumbler lost about 3 grams as the gas left. The closed bottle lost nothing until its cap was opened.
 - e.g. An auto-rickshaw driver in Bengaluru buys compressed natural gas by the kilogram.
@@ -607,7 +608,7 @@ Athai lifted the lid of the steamer, and a white cloud rolled up into the mornin
   - Check: Gas from a fizz pushed 900 ml of water out of an upturned bottle. What is the volume of the gas caught? → **About 900 ml**
 
 ## Worksheets
-### Gases Are Something (core) (core, 15 questions)
+### Gases Are Something (core) (core, 16 questions)
 1. (mcq) Which of these is a gas at room temperature?  
    Options: Oxygen / Coconut oil / Salt / Honey  
    **Answer:** Oxygen. *Why:* Oxygen is a gas: it has no shape or volume of its own. Coconut oil and honey are liquids, and salt is a solid.
@@ -617,30 +618,32 @@ Athai lifted the lid of the steamer, and a white cloud rolled up into the mornin
    **Answer:** ['container']. *Why:* A gas has no volume of its own. Its particles fly freely until walls stop them, so it fills whatever holds it.
 4. (sort) Sort these into solid, liquid or gas.  
    **Answer:** steel spoon → Solid; water vapour → Gas; petrol → Liquid; ice cube → Solid; carbon dioxide → Gas; buttermilk → Liquid; nitrogen → Gas; a grain of sugar → Solid. *Why:* Solids keep their shape. Liquids flow but keep their volume. Gases spread to fill their container. A strong answer can give the property used for each.
-5. (match) Match each word to what it means.  
+5. (fill) At room temperature, carbon dioxide, hydrogen and water vapour are all ____.  
+   **Answer:** ['gases', 'gas']. *Why:* All three are gases at room temperature, in a normal warm room. Water vapour is water as a gas.
+6. (match) Match each word to what it means.  
    **Answer:** Compress → to squash into a smaller space; Atmosphere → the layer of air around the Earth; Mixture → two or more substances together; Mass → how much matter a thing is made of; Volume → how much space a thing takes up. *Why:* These words come up all through the unit. A strong answer could give a home example of each.
-6. (write) Two balloons are the same size. The carbon dioxide balloon sinks lower on a balance than the air balloon. Explain why.  
+7. (write) Two balloons are the same size. The carbon dioxide balloon sinks lower on a balance than the air balloon. Explain why.  
    **Answer:** Both balloons held the same volume of gas. Carbon dioxide particles are heavier than the particles of air. So the same volume of carbon dioxide has more mass, and its end of the hanger went down.. *Why:* A strong answer says that the sizes were the same, so the difference must come from the gas. It also says that both gases have mass.
-7. (mcq) Baking soda is added to vinegar, and the mix fizzes. What state is the new substance in the bubbles?  
+8. (mcq) Baking soda is added to vinegar, and the mix fizzes. What state is the new substance in the bubbles?  
    Options: A gas / A liquid / A solid / No new substance is made  
    **Answer:** A gas. *Why:* The bubbles are carbon dioxide, a gas made when the solid and the liquid meet. Choosing 'no new substance' treats the fizz as air that was hiding in the vinegar.
-8. (draw) Draw the particles of a solid, a liquid and a gas in three boxes of the same size.  
+9. (draw) Draw the particles of a solid, a liquid and a gas in three boxes of the same size.  
    **Answer:** Solid: many particles touching, in neat rows. Liquid: about as many particles, touching but jumbled. Gas: only one or two particles, far apart, with arrows to show them flying.. *Why:* A strong drawing keeps the particles the same size in all three boxes, and leaves the gas box almost empty.
-9. (odd) Three of these are gases in the air. Which is the odd one out?  
+10. (odd) Three of these are gases in the air. Which is the odd one out?  
    Options: Nitrogen / Oxygen / Salt / Argon  
    **Answer:** 2. *Why:* Nitrogen, oxygen and argon are the three main gases of dry air. Salt is a solid.
-10. (truefalse) True or false: a gas has mass.  
+11. (truefalse) True or false: a gas has mass.  
    **Answer:** True. *Why:* True. A fizzing mix gets lighter as its gas leaves, and a ball gets heavier when air is pumped in. A litre of air has a mass of about 1.2 grams.
-11. (order) These are the steps for making a gas and catching it in a balloon. Put them in order.  
+12. (order) These are the steps for making a gas and catching it in a balloon. Put them in order.  
    **Answer:** ['Pour vinegar into a bottle', 'Put baking soda into a flat balloon', 'Fit the balloon over the bottle mouth', 'Tip the baking soda into the vinegar', 'Tie the balloon when the fizzing stops']. *Why:* The solid and the liquid must meet only after the balloon is fitted. Otherwise the gas escapes before it can be caught.
-12. (label) Label a drawing of an upside-down tumbler pushed under water: trapped air, water inside the tumbler, water outside.  
+13. (label) Label a drawing of an upside-down tumbler pushed under water: trapped air, water inside the tumbler, water outside.  
    **Answer:** ['Trapped air at the top of the tumbler', 'Water inside the tumbler, only a little way up', 'Water outside, much higher']. *Why:* The air takes up space, so the water can rise only a little way inside the tumbler.
-13. (perspective) Two children look at a bottle with nothing poured into it. They disagree about it.  
+14. (perspective) Two children look at a bottle with nothing poured into it. They disagree about it.  
    **Answer:** A strong answer agrees that the bottle is full of air. It gives evidence from a test, such as trapped air keeping water out. It also sees that the first child uses 'empty' the everyday way. To that child, it means that nothing we put there is inside.. *Why:* In science the second child is right. But the everyday word 'empty' is useful too, and the two meanings need not fight.
-14. (mcq) About how much of the air is nitrogen?  
+15. (mcq) About how much of the air is nitrogen?  
    Options: About 78 particles in every 100 / About 21 particles in every 100 / About 1 particle in every 100 / Almost none  
    **Answer:** About 78 particles in every 100. *Why:* About 78 in 100 are nitrogen, 21 are oxygen and 1 is argon. Choosing 21 mixes nitrogen up with oxygen.
-15. (write) Name two things in your home that hold a gas. Say what each gas is used for.  
+16. (write) Name two things in your home that hold a gas. Say what each gas is used for.  
    **Answer:** For example: a cooking gas cylinder holds LPG, which burns to cook food. A cycle tyre holds compressed air, which makes the ride soft. A packet of chips holds nitrogen, which keeps the chips crisp.. *Why:* A strong answer names a real container, the gas inside it and what the gas does.
 ### Why Gases Behave As They Do (stretch) (stretch, 15 questions)
 1. (mcq) Why does a gas spread out to fill a whole room?  
@@ -740,19 +743,22 @@ Athai lifted the lid of the steamer, and a white cloud rolled up into the mornin
 7. (mcq) Which gas makes up about one-fifth of the air, and is the gas our bodies use?  
    Options: Oxygen / Nitrogen / Carbon dioxide / Argon  
    **Answer:** Oxygen. *Why:* About 21 in every 100 particles of air are oxygen. Nitrogen is nearly four-fifths, but our bodies breathe it in and out unchanged.
-8. (mcq) Vinegar is a liquid and baking soda is a solid. They fizz together. What is made?  
+8. (mcq) Water is in the air on a humid day, but you cannot see it. What state is this water in?  
+   Options: A gas, called water vapour / A solid, called frost / A liquid, in tiny drops you can see  
+   **Answer:** A gas, called water vapour. *Why:* Water vapour is water as a gas, and it is invisible. The tiny drops you can see in fog or a cloud are liquid water, not vapour. Frost is solid water.
+9. (mcq) Vinegar is a liquid and baking soda is a solid. They fizz together. What is made?  
    Options: A new gas, carbon dioxide / More vinegar / Only a new solid / Nothing new  
    **Answer:** A new gas, carbon dioxide. *Why:* The fizz is bubbles of carbon dioxide, a new substance in a third state. Choosing 'nothing new' treats the bubbles as air that was already there.
-9. (mcq) Two balloons are the same size. One holds carbon dioxide and one holds air. Why is the first heavier?  
+10. (mcq) Two balloons are the same size. One holds carbon dioxide and one holds air. Why is the first heavier?  
    Options: Its particles are heavier, and just as many / It holds a liquid / It is colder / It was blown up harder  
    **Answer:** Its particles are heavier, and just as many. *Why:* The same space holds about the same number of gas particles. Carbon dioxide particles have about one and a half times the mass of air particles.
-10. (mcq) A bag of water feels almost weightless while it is under water. What is the same idea for air?  
+11. (mcq) A bag of water feels almost weightless while it is under water. What is the same idea for air?  
    Options: A balloon of air seems weightless in air / Air has no mass / Water has no mass / Bags always float  
    **Answer:** A balloon of air seems weightless in air. *Why:* The water around the bag holds it up. The air around a balloon of air holds it up in the same way. Both the water and the air have mass.
-11. (mcq) What is PM2.5?  
+12. (mcq) What is PM2.5?  
    Options: Tiny solid and liquid bits floating in air / A gas that plants make / A kind of oxygen / The name of a weather app  
    **Answer:** Tiny solid and liquid bits floating in air. *Why:* PM2.5 is not a gas. It is bits smaller than 2.5 thousandths of a millimetre, small enough to reach deep into the lungs.
-12. (mcq) Two balloons of different gases are compared, but one balloon is bigger. Why is the test not fair?  
+13. (mcq) Two balloons of different gases are compared, but one balloon is bigger. Why is the test not fair?  
    Options: Two things differ, so the cause is unclear / Bigger balloons always win / A fair test needs three balloons / The balloons must be the same colour  
    **Answer:** Two things differ, so the cause is unclear. *Why:* In a fair test only one thing changes. If the gas and the size both differ, either could explain the result.
 

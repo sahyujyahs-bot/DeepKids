@@ -47,7 +47,7 @@ On each pan, gravity pulls down on whatever is there. The pull on the left pan a
 ### A spring scale measures a pull, so the place matters · *defined*
 **Definition:** A spring scale measures the pull on its spring. On the Moon, the same mango is pulled only about one sixth as hard, so a spring scale shows only about one sixth of the weight.
 
-A spring scale does not compare the mango with a weight. It lets the mango stretch a spring, and reads the stretch. The stretch depends on how hard the mango is pulled down, which is its weight. On the Earth the pull on a 300-gram mango is about 3 newtons. On the Moon it is about 0.5 newtons. The mango has not lost any matter. The Moon simply pulls less. Many bathroom scales and kitchen scales also measure a push or a pull inside, then show a number in kilograms by assuming the Earth's pull. On the Moon, they would show about one sixth of the right mass.
+A spring scale does not compare the mango with a weight. It lets the mango stretch a spring, and reads the stretch. The stretch depends on how hard the mango is pulled down, which is its weight. On the Earth the pull on a 300-gram mango is about 3 newtons. On the Moon it is about 0.5 newtons. The mango has not lost any matter. The Moon simply pulls less. Many bathroom scales and kitchen scales also measure a push or a pull inside, then show a number in kilograms by assuming the Earth's pull. On the Moon, they would show about one sixth of the right mass. To read a spring scale well, first check that its pointer rests at zero, the mark it shows with nothing on the hook. Then hold the scale still, and read the number at eye level once the load stops swinging. A swinging load pulls harder and softer, so the pointer jumps about.
 - e.g. A hanging scale in a vegetable shop is a spring scale.
 - e.g. A digital kitchen scale that shows 500 grams on Earth would show about 80 grams for the same bag on the Moon.
 - e.g. A forcemeter in a school laboratory is a spring scale marked in newtons.
@@ -582,7 +582,7 @@ The next week, he came back with the scale in one hand and a bottle of water in 
   - Note: The centre of gravity of the whole stack must lie over the table. The overhang looks as if it should fall, but the boxes on the table side hold the balance. A good answer is that the whole stack, taken as one thing, has its centre of gravity above the table.
 
 ## Worksheets
-### Weighing and Balancing (core) (core, 16 questions)
+### Weighing and Balancing (core) (core, 17 questions)
 1. (mcq) A shopkeeper in Coimbatore balances a mango against a 250-gram weight on a two-pan balance, and the pans are level. The balance and both things are taken to the Moon. What happens?  
    Options: The pans stay level, because both pans are pulled less by the same amount / The mango side goes down, because it is heavier / The weight side goes down, because iron is heavy  
    **Answer:** The pans stay level, because both pans are pulled less by the same amount. *Why:* A balance compares two masses, and the Moon pulls both pans by the same fraction. So the pans stay level. The mango still has a mass of 250 grams on the Moon.
@@ -620,6 +620,8 @@ The next week, he came back with the scale in one hand and a bottle of water in 
 16. (mcq) A cup holds 200 grams of water and 20 grams of sugar. The sugar is stirred in until it cannot be seen. What does the scale show for the whole cup, ignoring the cup itself?  
    Options: 220 grams / 200 grams / 180 grams  
    **Answer:** 220 grams. *Why:* Dissolving breaks the sugar into tiny pieces, but they are still there. No mass is lost, so the total is 200 plus 20, which is 220 grams.
+17. (fill) Before you read a spring scale, check that its pointer rests at ____ with nothing on the hook.  
+   **Answer:** ['zero', '0', 'the zero mark']. *Why:* The zero mark is where the pointer rests with nothing hanging on the scale. If the pointer does not start there, every reading will be wrong by the same amount.
 ### Stretch, Balance and Topple (stretch) (stretch, 17 questions)
 1. (mcq) Look at the graph of a rubber band's stretch. For each extra 100 grams, the stretch grew by 0.9, then 1.0, then 1.1, then 1.3, then 1.5 centimetres. What does this tell you?  
    Options: The band does not follow Hooke's law exactly, because each extra 100 grams stretched it a bit more than the one before / The band is broken / A rubber band is the same as a steel spring  
@@ -713,37 +715,40 @@ The next week, he came back with the scale in one hand and a bottle of water in 
 2. (mcq) A spring scale shows 6 newtons for a bag on Earth. About what will it show on the Moon?  
    Options: About 1 newton / About 6 newtons / About 36 newtons  
    **Answer:** About 1 newton. *Why:* The Moon pulls about one sixth as hard, so the scale shows about one sixth of 6, which is 1 newton. The bag's mass has not changed.
-3. (mcq) A steel spring stretches 3 centimetres under 300 grams. What does Hooke's law say about 600 grams?  
+3. (mcq) Why should you wait for a swinging mango to stop before you read a spring scale?  
+   Options: A swinging load pulls harder and softer, so the pointer jumps about and does not show a steady pull / A swinging mango loses some of its mass / The scale only works when it is still, and it breaks if it moves  
+   **Answer:** A swinging load pulls harder and softer, so the pointer jumps about and does not show a steady pull. *Why:* A spring scale shows the pull on its spring. When the mango swings, the pull changes from moment to moment, so the pointer jumps. A swinging mango keeps its mass. The scale does not break when it moves; it just gives an unsteady number.
+4. (mcq) A steel spring stretches 3 centimetres under 300 grams. What does Hooke's law say about 600 grams?  
    Options: It stretches about 6 centimetres / It stretches about 3 centimetres / It stretches about 9 centimetres  
    **Answer:** It stretches about 6 centimetres. *Why:* Twice the load gives twice the stretch, until the elastic limit. Twice 3 centimetres is 6 centimetres.
-4. (mcq) You hang known masses on a rubber band, and the line on your graph bends. What is the best thing to say?  
+5. (mcq) You hang known masses on a rubber band, and the line on your graph bends. What is the best thing to say?  
    Options: The band is not perfectly even, so use the graph to read masses, and do not assume equal steps / The experiment has failed and must be thrown away / The band follows Hooke's law exactly  
    **Answer:** The band is not perfectly even, so use the graph to read masses, and do not assume equal steps. *Why:* Rubber bands often give a curved line. The graph still works as a scale if you read masses from it, because you calibrated it with known masses.
-5. (mcq) A child has a mass of 20 kilograms. On Mars the pull is 3.7 newtons for each kilogram. What is the child's weight there?  
+6. (mcq) A child has a mass of 20 kilograms. On Mars the pull is 3.7 newtons for each kilogram. What is the child's weight there?  
    Options: 74 newtons / 20 newtons / 7.4 newtons  
    **Answer:** 74 newtons. *Why:* Weight is mass times the pull: 20 times 3.7 is 74 newtons. Picking 20 forgets the pull. Picking 7.4 loses a zero.
-6. (mcq) Which of these is the same on every world?  
+7. (mcq) Which of these is the same on every world?  
    Options: The mass of a bag of rice / The weight of the bag of rice / The reading of a spring scale  
    **Answer:** The mass of a bag of rice. *Why:* Mass is how much matter there is, and the bag carries all of it everywhere. Weight and a spring scale's reading depend on the pull of the world.
-7. (mcq) The plumb lines drawn on a cardboard ring cross in the middle of its hole. Where is the ring's centre of gravity?  
+8. (mcq) The plumb lines drawn on a cardboard ring cross in the middle of its hole. Where is the ring's centre of gravity?  
    Options: In the hole, where there is no cardboard / On the cardboard nearest the pin / It has no centre of gravity  
    **Answer:** In the hole, where there is no cardboard. *Why:* The pulls on all the crumbs of cardboard act as one pull at the crossing point, and for a ring, that is in the empty middle.
-8. (mcq) A bus with luggage piled on its roof topples more easily on a sharp bend than an empty bus. Why?  
+9. (mcq) A bus with luggage piled on its roof topples more easily on a sharp bend than an empty bus. Why?  
    Options: The luggage raises the centre of gravity, so a smaller tilt takes the line down from it outside the wheels / The luggage makes the bus weigh less / The luggage pushes the bus off the road  
    **Answer:** The luggage raises the centre of gravity, so a smaller tilt takes the line down from it outside the wheels. *Why:* The higher the centre of gravity, the sooner the line down from it leaves the base. A thing that is low, wide and heavy at the bottom is stable.
-9. (mcq) A bottle of vinegar and baking soda is sealed and weighed before and after it fizzes. Then the same mixture fizzes in an open cup, weighed before and after. What is the result?  
+10. (mcq) A bottle of vinegar and baking soda is sealed and weighed before and after it fizzes. Then the same mixture fizzes in an open cup, weighed before and after. What is the result?  
    Options: The sealed bottle keeps its mass, and the open cup loses some, as gas floats away / Both keep their mass exactly / Both lose mass  
    **Answer:** The sealed bottle keeps its mass, and the open cup loses some, as gas floats away. *Why:* Gas has mass. In the sealed bottle, it cannot leave. In the open cup, it floats away and the scale shows a drop.
-10. (mcq) Sugar is stirred into a cup of water until it cannot be seen. What happens to the mass of the cup and its contents?  
+11. (mcq) Sugar is stirred into a cup of water until it cannot be seen. What happens to the mass of the cup and its contents?  
    Options: It stays the same / It goes down, because the sugar has gone / It goes up, because the sugar is wet  
    **Answer:** It stays the same. *Why:* Dissolving breaks the sugar into tiny pieces that spread through the water. They are still there and still weigh the same.
-11. (mcq) What did Cavendish's number for the Earth's density, about 5.4 times that of water, show?  
+12. (mcq) What did Cavendish's number for the Earth's density, about 5.4 times that of water, show?  
    Options: The inside of the Earth is denser than the rocks at the surface / The Earth is made of water / The Earth is lighter than the Moon  
    **Answer:** The inside of the Earth is denser than the rocks at the surface. *Why:* Surface rock is only about 2.7 times as dense as water. A much bigger average means a much denser inside, which we now know is an iron core.
-12. (mcq) A litre of water has a mass of about how much?  
+13. (mcq) A litre of water has a mass of about how much?  
    Options: 1 kilogram / 100 grams / 10 kilograms  
    **Answer:** 1 kilogram. *Why:* The litre and the kilogram were first meant to match. A litre of water has a mass of about 1 kilogram, so water is a handy standard mass.
-13. (mcq) A homemade scale and a trusted scale give different answers for the same tomato. What should you do first?  
+14. (mcq) A homemade scale and a trusted scale give different answers for the same tomato. What should you do first?  
    Options: Check both against a known mass, such as a litre of water / Trust the homemade scale, because you made it / Trust the shiny one, because it cost more  
    **Answer:** Check both against a known mass, such as a litre of water. *Why:* Before you trust any scale, weigh something you already know. The one that disagrees with the known mass needs fixing.
 

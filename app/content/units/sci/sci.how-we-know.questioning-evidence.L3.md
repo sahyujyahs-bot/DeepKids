@@ -77,7 +77,7 @@ Thinkers have argued for a long time about what makes something science and not 
 - **Thomas Kuhn, a historian of science (1922 to 1996):** Scientists who work on the same subject share the same main ideas. They do not drop one of these ideas after one failed test. They often keep it until a better idea comes along.
 - **Many working scientists:** What matters most is that a claim is checked again and again, by different people in different places, and that they share how they did it so others can try.
 ### We cannot check everything ourselves · *idea*
-Nobody can test every claim. You have not been to the Moon, and you have not looked inside an octopus. So we all trust other people. 'Says who?' does not mean 'trust nobody'. It means trust people because of how they know, not because of how sure they sound. A good source can say how they found out, lets others check, and changes their mind when new evidence comes. People still argue about how much to trust experts, and when.
+Nobody can test every claim. You have not been to the Moon, and you have not looked inside an octopus. So we all trust other people. 'Says who?' does not mean 'trust nobody'. It means trust people because of how they know, not because of how sure they sound. A good source can say how they found out, lets others check, and changes their mind when new evidence comes. People still argue about how much to trust experts, and when. Books and trusted sources can answer many questions we cannot test ourselves. A good book on birds, written by a bird scientist, can tell you where a migrating bird goes in winter. You cannot follow the bird to check, so check who wrote the book, and whether they say how they know.
 - e.g. You trust the train timetable because the railway sets the times and you can see trains leave on time.
 - e.g. You trust that the Earth goes round the Sun because many people, over hundreds of years, measured it in ways anyone can repeat.
 
@@ -479,7 +479,7 @@ The next morning the crow called on the balcony rail, kaa, kaa. Arun looked at M
   - Note: Choose the message yourself, so your child does not see anything upsetting.
 
 ## Worksheets
-### Says Who? Detective (core) (core, 15 questions)
+### Says Who? Detective (core) (core, 16 questions)
 1. (fill) A sentence that says something is true is called a ____.  
    **Answer:** ['claim']. *Why:* A claim can be right or wrong. Evidence shows which.
 2. (fill) Something you can see, count or measure that shows whether a claim is true is called ____.  
@@ -511,7 +511,9 @@ The next morning the crow called on the balcony rail, kaa, kaa. Arun looked at M
    **Answer:** A strong answer sees that a tally of every day is better evidence than memory. It also gives the first child her due: Paati has watched crows for years, and she noticed something true, that crows call a lot.. *Why:* Pick-a-side questions have no single right answer. Marks go for using evidence and stating the other view fairly.
 14. (order) Put the steps of checking a claim in order.  
    **Answer:** ['Hear the claim', 'Ask: says who, and how do they know?', 'Look at the real thing, or ask someone who measured it', 'Decide if the claim is right']. *Why:* You decide last, after you have asked the questions and looked at the evidence.
-15. (label) Here is a forwarded message: 'Doctors say eating three bananas a day makes you taller. My cousin tried it! Forward to everyone.' Label the part with no named source, the part that is only one person's story, and the part that rushes you.  
+15. (order) Put the steps of finding an answer in a book in order.  
+   **Answer:** ['Find a book written by someone who studied the thing', 'Check who wrote the book and how they know', 'Read the part that answers your question', 'Compare it with a second trusted source', 'Write the answer, and name the book it came from']. *Why:* First pick a good source. Check it before you trust it. Read the answer, then check it against a second source. Last, write the answer with its source, so someone else can check it.
+16. (label) Here is a forwarded message: 'Doctors say eating three bananas a day makes you taller. My cousin tried it! Forward to everyone.' Label the part with no named source, the part that is only one person's story, and the part that rushes you.  
    **Answer:** No named source: 'Doctors say'. Only one person's story: 'My cousin tried it'. Rushes you: 'Forward to everyone'.. *Why:* A strong answer finds all three parts and says why each one is a warning sign.
 ### Hits, Misses and Missing People (stretch) (stretch, 15 questions)
 1. (write) In the story Paati's Crow, Paati said a crow calling means a guest is coming. What result in a tally would make you think the saying might be true?  
@@ -624,6 +626,9 @@ The next morning the crow called on the balcony rail, kaa, kaa. Arun looked at M
 12. (mcq) A girl says, 'If a claim sounds true and lots of people say it, it must be true.' What is wrong with this?  
    Options: Nothing, she is right / Many claims that sound true and are repeated often turn out wrong when checked / Claims that sound true are always false / Only children repeat claims  
    **Answer:** Many claims that sound true and are repeated often turn out wrong when checked. *Why:* Many people say that a goldfish forgets everything after three seconds, and that lightning never strikes the same place twice. Both are wrong. What makes a claim trustworthy is that someone checked it, in a way others can repeat.
+13. (mcq) You want to know where a bird goes in winter, but you cannot follow it yourself. What is the best next step?  
+   Options: Read a bird book by a bird scientist, and check who wrote it and how they know / Ask the first person you meet, who sounds very sure / Forward a message from a friend, because many people shared it  
+   **Answer:** Read a bird book by a bird scientist, and check who wrote it and how they know. *Why:* A book written by a scientist who studied birds is a source, and you can check how the writer knows. A sure voice or a forwarded message does not show how anyone knows.
 
 ## Applications
 - Doctors ask who was in a medicine's tests before they give it to a child, a pregnant woman or an old person.

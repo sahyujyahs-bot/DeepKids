@@ -29,12 +29,13 @@
 - **Worm castings**: The small heaps of soil that come out of an earthworm's body after they have eaten. They are full of nutrients. *e.g.* Little curly heaps on a lawn after rain are worm castings.
 - **Crop**: A plant that farmers grow in large amounts for food, cloth or other uses. *e.g.* Rice, ragi, sugarcane and cotton are crops.
 - **Topsoil**: The top layer of soil, usually darker, with the most humus and the most living things. Most roots grow in it. *e.g.* When a pit is dug for a building, the top part of the wall of the pit is darker. That is topsoil.
+- **Gully**: A deep groove cut in the land by fast-running rain water. Many large gullies together make a ravine. *e.g.* The Chambal valley in central India has many ravines cut by rain water over a long time.
 
 ## Explanations
 ### What soil is made of · *defined*
 **Definition:** Soil is a mix of rock grains, humus, air and water, with many living things in it.
 
-Most of the solid part of soil is rock, broken into grains. The grains come in three sizes: sand, silt and clay. Mixed in with them is humus, made from dead plants and animals. Between the grains are tiny gaps. Some gaps are full of air, and some are full of water. Plant roots need both. Roots take in water from the gaps, and they also need air to stay alive. In a good garden soil, roughly half is solid grains and humus. The other half is gaps, filled with air and water. Earthworms, ants, fungi and bacteria live in the gaps too. A teaspoon of healthy soil can hold hundreds of millions of bacteria.
+Most of the solid part of soil is rock, broken into grains. The grains come in three sizes: sand, silt and clay. Mixed in with them is humus, made from dead plants and animals. Between the grains are tiny gaps. Some gaps are full of air, and some are full of water. Plant roots need both. Roots take in water from the gaps, and they also need air to stay alive. In a good garden soil, roughly half is solid grains and humus. The other half is gaps, filled with air and water. Earthworms, ants, fungi and bacteria live in the gaps too. A teaspoon of healthy soil can hold hundreds of millions of bacteria. After rain, look for millipedes in the damp soil under a stone or a flowerpot. A millipede has two pairs of short legs on almost every ring of the body, and many curl up when touched. They eat dead leaves, so they help make humus.
 - e.g. Soil from a flower pot, shaken in a jar of water, settles into layers of sand, silt and clay, with bits of humus floating on top.
 - e.g. Squeeze a lump of damp soil and drops of water come out of the gaps.
 - e.g. Drop a lump of dry soil into water and small bubbles rise. The bubbles are air that was in the gaps.
@@ -55,7 +56,7 @@ You can see a single grain of sand. It feels gritty between your fingers. Silt g
 ### Humus: how dead plants become part of soil · *defined*
 **Definition:** Humus is the dark, soft part of soil made when dead plants and animals decompose.
 
-Leaves, flowers and roots die and fall onto the soil. So do dead insects and animal droppings. Decomposers eat them. Decomposers are living things such as fungi, bacteria, earthworms and woodlice. They break the dead things into smaller and smaller pieces. What is left at the end is humus. Humus makes soil dark and crumbly. It soaks up water like a sponge and holds it for the roots. It also releases nutrients that plants need. This is why farmers spread manure and compost on their fields. A forest needs no farmer, because leaves keep falling and decomposing every year.
+Leaves, flowers and roots die and fall onto the soil. So do dead insects and animal droppings. Decomposers eat them. Decomposers are living things such as fungi, bacteria, earthworms and woodlice. They break the dead things into smaller and smaller pieces. What is left at the end is humus. Humus makes soil dark and crumbly. It soaks up water like a sponge and holds it for the roots. It also releases nutrients that plants need. This is why farmers spread manure and compost on their fields. A forest needs no farmer, because leaves keep falling and decomposing every year. Look at soil after rain and away from plants. After rain, the top of the soil turns darker, softer and stickier. Soil on bare ground, far from any plant, has little humus, so the soil is paler and dries into a hard crust. Soil under a tree stays dark and crumbly.
 - e.g. Under a big tree, the top of the soil is dark with humus from fallen leaves.
 - e.g. Farmers in Tamil Nadu and Karnataka spread farmyard manure on their fields before the rains.
 - e.g. Compost made from kitchen peels is mostly humus.
@@ -83,10 +84,26 @@ India has several main kinds of soil. Red soil covers much of Tamil Nadu and Kar
 ### Why crops need soil, and why it must be kept · *defined*
 **Definition:** Plants make their own food from light, air and water. They take water and nutrients from the soil through their roots, and soil holds them up.
 
-A rice plant makes their food in their leaves, using sunlight. But they need water and nutrients, and these come from the soil, through the roots. The roots also anchor the plant, so wind and rain cannot knock them over. Every crop taken from a field carries away some of the soil's nutrients. So farmers put nutrients back with manure, compost and fertilisers. Topsoil can also be lost. Heavy rain washes bare soil away, and strong wind blows dry soil away. This is called soil erosion. Because new soil forms so slowly, soil that is lost is gone for hundreds of years. Farmers protect it with plant roots, trees at the edges of fields, and walls or terraces on hill slopes.
+A rice plant makes their food in their leaves, using sunlight. But they need water and nutrients, and these come from the soil, through the roots. The roots also anchor the plant, so wind and rain cannot knock them over. Every crop taken from a field carries away some of the soil's nutrients. So farmers put nutrients back with manure, compost and fertilisers. Topsoil can also be lost. Heavy rain washes bare soil away, and strong wind blows dry soil away. This is called soil erosion. Because new soil forms so slowly, soil that is lost is gone for hundreds of years. Farmers protect it with plant roots, trees at the edges of fields, and walls or terraces on hill slopes. Sowing on time matters too. A seed needs damp, warm soil to germinate, which means to start to grow. If rice is sown too late, the rains may stop before the grain is full. Then the yield, which is how much grain the field gives, is small.
 - e.g. On the hills of the Nilgiris, tea is planted in rows across the slope, which slows the rain running down.
 - e.g. After the monsoon, rivers run brown with soil washed off bare land.
 - e.g. The Soil Health Card scheme, started by the Government of India in 2015, tests farmers' soil and tells them which nutrients it needs.
+### How water and wind carry soil away · *defined*
+**Definition:** Fast rain water cuts gullies and ravines. In dry places, wind lifts soil and blows it away.
+
+When rain runs down a bare slope, it gathers into small streams. A fast stream picks up soil and cuts a groove in the ground. This groove is called a gully. Each monsoon the water follows the same path and makes the gully deeper and wider. Many big gullies together make a ravine. The Chambal valley in central India is famous for its ravines. In dry places, wind does the same work. Where there are no plants, wind lifts the dry, fine grains and blows them far away. This is wind erosion. It happens at the edges of the Thar desert in Rajasthan, where moving sand can bury fields. Plants hold both kinds of erosion back. Roots grip the soil, and leaves and stems slow the wind and the rain.
+- e.g. After the monsoon, brown water runs in a gully near a bare hill, but the bushes beside it stay green.
+- e.g. A dust storm in Rajasthan carries fine soil from dry fields into the air.
+- e.g. The Chambal ravines were cut over a very long time, by rain water running through soft soil.
+### What lost soil costs · *defined*
+**Definition:** When soil washes away, wells, rivers and canals fill with mud, floods are more likely, and farms and pastures give less.
+
+The soil that rain carries away does not vanish. It settles somewhere else. It settles in wells and in the beds of rivers and canals. These fill up with mud, so they hold less water. A river with a muddy bed spills over its banks sooner, so floods come more easily. Bare land also lets less rain soak in. So fewer wells and streams fill up. On the land that lost its soil, grass and crops grow badly. Cows and goats have less to eat. The farmer harvests less and earns less. A farm family may then have to leave the land to find work. Check dams are small low walls built across slopes, rivers and drains. A check dam has outlets, which are gaps. They slow the water but let it pass, so the soil it carries settles behind the wall. Over time, plants can take root in this soil, and the gully heals.
+- e.g. A village tank in Rajasthan that fills with mud holds less water for cows and fields every year.
+- e.g. Villagers in Rajasthan, led by organisations such as Tarun Bharat Sangh in Alwar, built many small earth walls called johads to catch rain and hold soil. Water came back to dry wells.
+- e.g. A check dam in a small drain on a hillside stops brown water and leaves a patch of rich soil.
+- **Village water keepers of Rajasthan:** They built johads and other walls that slow rain water, long before the word 'check dam' was used. Their way of keeping water and soil together is much older than the government schemes.
+- **Engineers:** Say check dams must be built in the right place and kept clear of silt, or they stop working after a few years.
 ### Roots and soil life sense and choose · *debated*
 Roots sense the soil around them. They grow towards water and towards patches rich in nutrients, and away from salt and from hard ground. Roots and fungi in the soil trade with each other. The fungi bring water and nutrients to the root, and the plant gives the fungi sugar made in the leaves. Bacteria in the soil sense chemicals and swim towards food. Earthworms sense light, touch, damp and shaking ground, and decide where to go. All of these beings sense what is around them and act on it. So the soil is full of living beings who are feeling their surroundings and making choices.
 - e.g. A root grows sideways towards a damp patch in a pot, rather than straight down into dry soil.
@@ -390,6 +407,11 @@ The next morning, Lakshmi found Arjun on the balcony with a pile of fallen curry
   *Child mode:* Smell dry soil. Now smell wet soil. Is it different?
   - Note: Wet soil smells like the first rain. Much of that smell is a chemical called geosmin, made by bacteria that live in soil. So the smell is a sign that the soil is alive with bacteria.
   - Check: Damp soil smells like the first rain. Where does much of that smell come from? → **Bacteria that live in the soil**
+- **s4 (8 min)**  
+  *Parent does:* 1. Take a spoon of soil from under a plant. 2. Take another from bare ground, far from plants. 3. Put each on white paper, and compare colour, feel and smell. 4. If it has rained, look under a stone for millipedes, and gently put them back.  
+  *Parent says:* Is the soil under the plant different from the bare soil? Which one is darker? Which one smells more like rain?  
+  *Child mode:* Compare soil from under a plant and from bare ground. Which is darker and softer?
+  - Note: Soil under a plant usually has more humus, so that soil is darker and crumbly. Bare soil is often paler and harder. Millipedes may curl up, which is how they protect themselves. Wash hands after touching them, as some give out a smelly liquid.
 ### a2 · Worm Window: watch earthworms mix layers (if you can get earthworms) (30 min, 7 days)
 - **safety:** A grown-up cuts the bottle and tapes over the sharp edge. Handle worms gently with wet hands. Release them into a pot or a compost bin after one week.
 - **record:** Take a photo of the bottle on day 1, day 3 and day 7, or draw it. Show the layers, the tunnels and the leaves.
@@ -448,6 +470,21 @@ The next morning, Lakshmi found Arjun on the balcony with a pile of fallen curry
   *Parent says:* Which pot has hard, pale soil? How could we feed it?  
   *Child mode:* Point to the pot that needs feeding. Choose compost or fallen leaves to feed it.
   - Note: Hard, pale soil that water runs off is packed and low in humus. Loosening the top with a fork and adding a layer of compost or dry leaves helps.
+### a6 · Make Clay at Home (40 min, 2 days)
+- **safety:** Wash your hands after touching soil. Do not put soil in your mouth.
+- **record:** Draw the jar before and after, and the shape you made. Write how long the clay took to dry.
+- **schedule:** day 1: Sieve soil, mix it with water and leave it to settle. (30 min); day 2: Pour off the water, shape the clay and leave it to dry in the sun. (10 min)
+- **s1 (15 min)**  
+  *Parent does:* 1. Push the soil through the sieve into a bowl, to take out stones, roots and leaf bits. 2. Put the sieved soil in a jar and fill it with water. 3. Stir well. 4. Leave it still for the night.  
+  *Parent says:* Sand sinks fast. Clay sinks very slowly. Let us leave the jar still and see what is on top tomorrow.  
+  *Child mode:* Sieve the soil. Put it in the jar with water. Stir. Leave it still.
+  - Note: The stones and roots stay in the sieve. This is the same way the soil jar test works. If you stir the jar again, the grains will mix up again.
+- **s2 (15 min)**  
+  *Parent does:* 1. Pour the clear water from the top, slowly. 2. Scoop the thick mud from the top layer into a bowl. 3. Press and knead it, like a roti dough, until it holds together. 4. Shape a small bowl or a diya. 5. Leave it in the sun to dry for a day or two.  
+  *Parent says:* The thick mud on top is the finest grains, the silt and the clay. Pour off the water, and knead it. Now shape it like a potter.  
+  *Child mode:* Pour off the water. Knead the mud. Make a small shape and leave it in the sun.
+  - Note: The layer at the bottom is sand. Keep only the fine mud above it. If the clay cracks as it dries, wet your fingers and smooth it. Sun-dried clay is not as hard as clay fired by a potter, and it may soften again in water.
+  - Wait: The next day
 
 ## Projects
 ### p1 · Sand or Soil: do methi seedlings need humus? (60 min, 21 days)
@@ -518,7 +555,7 @@ The next morning, Lakshmi found Arjun on the balcony with a pile of fallen curry
   *Child mode:* Pick the best mix for the tulsi. Tell why.
 
 ## Worksheets
-### Inside a Handful of Soil (core) (core, 15 questions)
+### Inside a Handful of Soil (core) (core, 17 questions)
 1. (fill) The biggest grains in soil, which feel gritty, are called ____.  
    **Answer:** ['sand']. *Why:* Sand grains are the biggest grains in soil. You can see each one, and they feel gritty when rubbed.
 2. (sort) Sort these parts of soil. Did each one come from rock, or from living things?  
@@ -551,7 +588,11 @@ The next morning, Lakshmi found Arjun on the balcony with a pile of fallen curry
    **Answer:** False. *Why:* False. India has red, black, river and laterite soils, from different rocks and climates, and they suit different crops.
 15. (draw) Draw a cut-away of soil under a tree. Show fallen leaves on top, humus below them, an earthworm tunnel and a root.  
    **Answer:** Leaves on the surface, a dark humus layer below, a worm in a tunnel, and a root growing down.. *Why:* A strong drawing shows how dead leaves become humus and how worms and roots share the soil.
-### Rock, Worms and Rain (stretch) (stretch, 15 questions)
+16. (order) Put the steps of making clay at home in order.  
+   **Answer:** ['Sieve the soil to take out stones and roots', 'Leave the muddy water still until the grains settle', 'Pour the water off the top', 'Shape the clay into a dough', 'Dry the shaped clay in the sun']. *Why:* Sieving takes out the big bits. Settling lets the clay and silt sink. Pour off the water, and the thick mud left is the clay to shape and dry in the sun.
+17. (truefalse) Soil from bare ground, far from any plant, has more humus than soil from under a big tree.  
+   **Answer:** False. *Why:* False. Under the tree, fallen leaves decompose and make dark humus. Bare ground gets less humus, so the soil is paler and drier.
+### Rock, Worms and Rain (stretch) (stretch, 16 questions)
 1. (write) In the Soil Jar experiment, the soil settled into layers. Use the layers to explain why soil is a mix and not one material.  
    **Answer:** If soil were one material, it would all sink or float together. Instead, sand, silt and clay settled at different speeds, and plant bits floated. So soil is made of different parts mixed together.. *Why:* A strong answer uses the different settling speeds as evidence for a mix.
 2. (mcq) Two soils are tested in jars. Soil A has a thick sand layer and almost no clay. Soil B has a thick clay layer. Which soil will water drain through faster?  
@@ -586,7 +627,9 @@ The next morning, Lakshmi found Arjun on the balcony with a pile of fallen curry
    **Answer:** Plants take water and small amounts of nutrients from the soil, and the soil holds them up. Most of a plant's body is made from air and water, joined together using sunlight.. *Why:* A strong answer separates what comes from the soil (water and nutrients) from what comes from air and light.
 15. (label) Label the layers in the side of a dug pit: topsoil, lower soil, broken rock, solid rock.  
    **Answer:** Dark topsoil at the top, lighter lower soil below it, broken rock below that, and solid rock at the bottom.. *Why:* The layers show soil forming from rock below and humus from above.
-### Soil Takes Centuries (challenge) (challenge, 15 questions)
+16. (match) Match each word about washed-away soil to its meaning.  
+   **Answer:** Gully → a deep groove cut in the land by fast-running rain water; Ravine → a very large, deep gully, like those in the Chambal valley; Wind erosion → dry soil lifted and blown away, as in desert edges; Check dam → a small low wall across a gully or drain, with gaps for the water to leave. *Why:* Fast water digs gullies, and many gullies together make ravines. In dry places wind carries soil away. A check dam slows the water so it drops its soil.
+### Soil Takes Centuries (challenge) (challenge, 16 questions)
 1. (perspective) A city is deciding what to do with the fallen leaves in its parks.  
    **Answer:** A strong answer uses humus as evidence: fallen leaves become humus that holds water and feeds the soil, and burning sends them into the air as smoke. It also admits a real point on the other side, such as tidy paths.. *Why:* This is a real choice that cities make. Each view balances tidiness, smoke and soil.
 2. (write) Charles Darwin found that earthworms slowly buried stones in a field under their castings. Explain how worms could bury a stone without ever moving it.  
@@ -621,6 +664,8 @@ The next morning, Lakshmi found Arjun on the balcony with a pile of fallen curry
 15. (mcq) Why does a jar of soil from under a big old tree usually have more floating bits than a jar of sand from a building site?  
    Options: Leaves have fallen and rotted there for years, adding humus / Trees make sand / Building sand has been cleaned of rock  
    **Answer:** Leaves have fallen and rotted there for years, adding humus. *Why:* Under a tree, leaves keep falling and decomposing, so the soil gathers humus. Building sand is rock grains with almost no dead plant material.
+16. (write) A hill farm loses a little soil every monsoon. Name three people or things, besides the farmer, who lose something when the soil washes away.  
+   **Answer:** The cows and goats lose grass to eat. The village well may have less water. The canal or tank fills up with mud and holds less water. The people downstream may get floods.. *Why:* A strong answer sees that lost soil harms more than the farm. It silts up water, it can bring floods, and it takes away the grass that animals eat.
 
 ## Videos
 - **Where Does Soil Come From?** (SciShow Kids, 4 min) id `5b9o7yM7YGE`: A short video for children on how rock is broken down and mixed with dead plants to make soil. *Check:* A parent should watch it first.
@@ -634,30 +679,48 @@ The next morning, Lakshmi found Arjun on the balcony with a pile of fallen curry
 2. (mcq) You shake pot soil in a jar of water and put the jar down. Which layer reaches the bottom first?  
    Options: Clay / Sand / Humus  
    **Answer:** Sand. *Why:* Sand grains are the biggest and heaviest, so they sink in seconds. Clay grains are so small they take a day or more. Humus bits often float.
-3. (mcq) Where does humus come from?  
+3. (mcq) You sieve soil and mix it with water in a jar. After the water is left still, how do you get clay?  
+   Options: Pour off the water, and keep the fine mud that settled on top / Boil the soil / Heat the jar in the sun until the water is gone  
+   **Answer:** Pour off the water, and keep the fine mud that settled on top. *Why:* The fine grains of silt and clay sink slowly and form the mud on top. Pouring off the water leaves that mud, which you can shape. Boiling or heating the jar changes the soil for no reason.
+4. (mcq) Where does humus come from?  
    Options: From rocks melting / From dead plants and animals that decomposers have broken down / From rain water  
    **Answer:** From dead plants and animals that decomposers have broken down. *Why:* Humus is the dark part of soil made when fungi, bacteria, earthworms and other decomposers break down dead leaves, roots and animals.
-4. (mcq) How does humus help a plant?  
+5. (mcq) How does humus help a plant?  
    Options: It holds water like a sponge and gives nutrients / It makes the soil hard / It keeps the sunlight off the roots  
    **Answer:** It holds water like a sponge and gives nutrients. *Why:* Humus soaks up water and holds it near the roots. As it breaks down further, it releases nutrients that plants need.
-5. (mcq) A peepal plant grows in a crack in an old wall. What happens to the wall over many years?  
+6. (mcq) A peepal plant grows in a crack in an old wall. What happens to the wall over many years?  
    Options: Nothing, because roots are soft / The roots grow thicker and push the crack wider / The wall turns into a tree  
    **Answer:** The roots grow thicker and push the crack wider. *Why:* Roots grow thicker as the plant grows, and they push with great force. This is one way rock and stone are broken up by living things.
-6. (mcq) You pour water on two cups of packed soil. One cup has pencil holes. What happens?  
+7. (mcq) You pour water on two cups of packed soil. One cup has pencil holes. What happens?  
    Options: The cup with holes soaks up the water much faster / Both soak it up at the same speed / The cup with holes keeps a puddle on top  
    **Answer:** The cup with holes soaks up the water much faster. *Why:* The holes are open paths, like worm tunnels. Water runs down them quickly. On packed soil with no holes, the water sits on top.
-7. (mcq) Why do farmers like earthworms in their fields?  
+8. (mcq) Why do farmers like earthworms in their fields?  
    Options: Worms eat the crops' pests / Worm tunnels let in air and water, and their castings are rich in nutrients / Worms keep the soil dry  
    **Answer:** Worm tunnels let in air and water, and their castings are rich in nutrients. *Why:* Worm tunnels help air and rain into the soil and give roots easy paths. Worm castings hold nutrients plants can use.
-8. (mcq) Why is the red soil of Tamil Nadu and Karnataka red?  
+9. (mcq) After rain, you turn over a flowerpot and find long, brown, many-legged creatures that curl up. What are they probably?  
+   Options: Millipedes, who eat dead leaves in the damp soil / Earthworms, who have no legs / Centipedes, who have a single pair of legs on each ring  
+   **Answer:** Millipedes, who eat dead leaves in the damp soil. *Why:* Millipedes have two pairs of short legs on almost every ring, and many curl up when touched. They live in damp soil and eat dead leaves, so they help make humus. Earthworms have no legs. Centipedes have one pair on each ring.
+10. (mcq) Why is the red soil of Tamil Nadu and Karnataka red?  
    Options: It has iron in it, the same way rust is red / Red flowers have rotted into it / It is very hot  
    **Answer:** It has iron in it, the same way rust is red. *Why:* Red soil holds iron. Iron that has joined with oxygen, like rust, is red.
-9. (mcq) Black soil holds water for a long time after the rain stops. Why does this help farmers in a dry place?  
+11. (mcq) Black soil holds water for a long time after the rain stops. Why does this help farmers in a dry place?  
    Options: Crops can keep drinking for weeks after the rain / The soil stays cold / Water makes the soil black  
    **Answer:** Crops can keep drinking for weeks after the rain. *Why:* Black soil is full of clay, which holds water. So crops like cotton can keep growing well into the dry season. It is also called black cotton soil.
-10. (mcq) Why is soil that washes away in a storm such a big loss?  
+12. (mcq) A farmer sows rice weeks after the first rains. What may go wrong?  
+   Options: The rains may end before the grain is full, so the harvest is smaller / The seeds will turn into wheat / Nothing, the soil is the same  
+   **Answer:** The rains may end before the grain is full, so the harvest is smaller. *Why:* Seeds sprout well when the soil is damp and warm. A crop sown late may run short of water and give a small yield. Sowing on time also lets the plants grow before pests and the hot weeks arrive. Rice seeds give rice and never wheat.
+13. (mcq) Why is soil that washes away in a storm such a big loss?  
    Options: New soil takes hundreds of years to form / Soil cannot get wet again / The rain takes the soil to the Moon  
    **Answer:** New soil takes hundreds of years to form. *Why:* Soil forms very slowly from rock and dead plants. It can take up to a thousand years to make one centimetre. Soil lost in a storm cannot be quickly replaced.
+14. (mcq) Why do check dams have gaps, called outlets, instead of being solid walls?  
+   Options: So the water slows down and passes through, and the soil settles behind / So the water cannot get in / So the wall is cheaper  
+   **Answer:** So the water slows down and passes through, and the soil settles behind. *Why:* A solid wall could burst or flood the field. A check dam with an outlet slows the water. It drops its soil behind the wall and lets the rest pass. Check dams are built across slopes, rivers and drains.
+15. (mcq) What happens to a well or a canal when soil keeps washing into it?  
+   Options: It fills up with mud and holds less water / It gets deeper / It is not changed  
+   **Answer:** It fills up with mud and holds less water. *Why:* Eroded soil settles at the bottom of wells, canals and rivers, so they hold less water. A river with a lot of mud in it can also flood sooner. Soil washed off the farm can harm farms that are far downstream.
+16. (mcq) Fast rain water runs down a bare slope for years, in the same path. What does the land look like later?  
+   Options: It has a deep groove called a gully / It is flat and smooth / It has a new hill  
+   **Answer:** It has a deep groove called a gully. *Why:* Water in a fast channel carries soil away and cuts the groove deeper each monsoon. Many large gullies together make ravines, like those along the Chambal river. A flat land or a new hill would not come from running water.
 
 ## Applications
 - Farmers test soil and add manure, compost or fertiliser to put back nutrients.
@@ -748,7 +811,7 @@ Rock, Leaf and Worm (sci.planet-earth.L3): Topic-level song for Planet Earth L3
 
 ## Plan
 - Start options: intro, a1, e1, story, big_questions, cards, g2
-- Default order: intro → a1 → e1 → summary → terms → explanations → story → e2 → g2 → videos → ws-core → a3 → a4 → a5 → e3 → g1 → agreed → challenging → ws-stretch → p1 → c1 → c2 → a2 → big_questions → ws-challenge → open_questions → roots → quiz
+- Default order: intro → a1 → e1 → summary → terms → explanations → story → e2 → g2 → videos → ws-core → a3 → a4 → a5 → e3 → g1 → agreed → challenging → ws-stretch → p1 → c1 → c2 → a2 → a6 → big_questions → ws-challenge → open_questions → roots → quiz
 - Core: a1, e1, e2, g2, ws-core
 
 ## Sources

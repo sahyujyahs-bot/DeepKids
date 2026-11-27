@@ -108,6 +108,12 @@
    "art": "A wet towel on a balcony rail with faint arrows rising from it into the air."
   },
   {
+   "term": "Hydrogen",
+   "meaning": "The lightest gas. It is a gas at room temperature.",
+   "example": "Weather balloons sent up from Chennai and Thiruvananthapuram are filled with hydrogen, the lightest gas.",
+   "art": "A round weather balloon rising on a string, with a small label reading hydrogen."
+  },
+  {
    "term": "Atmosphere",
    "meaning": "The layer of air around the Earth. It is thickest near the ground and thins out slowly, with no sharp top.",
    "example": "Half of all the air lies below about five and a half kilometres, lower than many Himalayan peaks.",
@@ -149,7 +155,7 @@
    "concept": "A gas is a substance: it takes up space and has mass",
    "status": "defined",
    "definition": "A gas is matter, just like a solid or a liquid. It is made of particles, it takes up space, and it has mass.",
-   "description": "We cannot see most gases, so they are easy to mistake for nothing. Two tests show that a gas is something. First, a gas takes up space. Push a tumbler mouth-down into water, and the air inside keeps the water out. Second, a gas has mass. One litre of air has a mass of about 1.2 grams. That is small, but air adds up. Take a bedroom 4 metres long, 3 metres wide and 3 metres high. The air in it has a mass of about 43 kilograms. When vinegar and baking soda fizz in an open tumbler, the tumbler gets lighter. The lost grams left as carbon dioxide gas. Cooking gas is even sold by mass. A home cylinder holds 14.2 kilograms of it.",
+   "description": "We cannot see most gases, so they are easy to mistake for nothing. Two tests show that a gas is something. First, a gas takes up space. Push a tumbler mouth-down into water, and the air inside keeps the water out. Second, a gas has mass. One litre of air has a mass of about 1.2 grams. That is small, but air adds up. Take a bedroom 4 metres long, 3 metres wide and 3 metres high. The air in it has a mass of about 43 kilograms. When vinegar and baking soda fizz in an open tumbler, the tumbler gets lighter. The lost grams left as carbon dioxide gas. Cooking gas is even sold by mass. A home cylinder holds 14.2 kilograms of it. Some substances are gases at room temperature, which is a normal warm room. Carbon dioxide, hydrogen and water vapour are three of them. Water vapour is water as a gas, and it is in the air on every humid day.",
    "examples": [
     "In Pour Air Upwards, air moved from one tumbler to another under water. It pushed the water out of the second tumbler.",
     "In Weigh the Fizz, the open tumbler lost about 3 grams as the gas left. The closed bottle lost nothing until its cap was opened.",
@@ -2358,6 +2364,16 @@
      ]
     },
     {
+     "t": "fill",
+     "p": "At room temperature, carbon dioxide, hydrogen and water vapour are all ____.",
+     "a": [
+      "gases",
+      "gas"
+     ],
+     "why": "All three are gases at room temperature, in a normal warm room. Water vapour is water as a gas.",
+     "outcome": 3
+    },
+    {
      "t": "match",
      "p": "Match each word to what it means.",
      "a": "pairs as given",
@@ -3022,6 +3038,18 @@
    ],
    "a": 0,
    "why": "About 21 in every 100 particles of air are oxygen. Nitrogen is nearly four-fifths, but our bodies breathe it in and out unchanged.",
+   "outcome": 3
+  },
+  {
+   "t": "mcq",
+   "p": "Water is in the air on a humid day, but you cannot see it. What state is this water in?",
+   "opts": [
+    "A gas, called water vapour",
+    "A solid, called frost",
+    "A liquid, in tiny drops you can see"
+   ],
+   "a": 0,
+   "why": "Water vapour is water as a gas, and it is invisible. The tiny drops you can see in fog or a cloud are liquid water, not vapour. Frost is solid water.",
    "outcome": 3
   },
   {

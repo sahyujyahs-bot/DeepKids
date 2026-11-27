@@ -504,14 +504,14 @@ From then on, she woke at five every day, and we sat at the window and waited fo
   - Think: Is a clock supposed to follow the Sun, or to help people work together?
 ### a6 · Sky Diary: morning, afternoon and night (30 min)
 - **safety:** Never look straight at the Sun, not even for a moment. Look at the colour of the sky and where the Sun is by looking at the light and the shadows. A grown-up must be with you at night.
-- **record:** A table with three rows (morning, afternoon, night) and columns for the time, the colour of the sky, where the Sun is or where its shadows point, and whether the Moon or stars can be seen and what shape the Moon is.
+- **record:** A table with three rows: morning, afternoon and night. The columns are the time, the colour of the sky, the Sun or shadow, and the Moon or stars.
 - **s1 (8 min) · grown-up needed**  
   *Parent does:* Draw a table with three rows: Morning, Afternoon and Night. Draw the columns: Time, Colour of the sky, Sun or shadows, Moon and stars. Choose a morning time soon after sunrise. Look at the sky and write the time. Write the colour of the sky. Do not look at the Sun. Say if the light is low and golden or high and white, and which way the shadow of a tree or a pole points. Write what you see.  
   *Parent says:* Write the time. What colour is the sky? Is the Sun low or high? Which way does the shadow of that pole point? Do not look straight at the Sun.  
   *Child mode:* Write the time. What colour is the sky? Is the Sun low or high? Which way is the shadow? Never look at the Sun.
   - Note: Morning shadows point west, because the Sun is in the east. If the Moon is still up in the daytime sky, a pale Moon in the morning is a good thing to note. The Moon is often up in the day, and many children do not know this.
 - **s2 (6 min)**  
-  *Parent does:* In the afternoon, go to the same place. Write the time. Fill the same row: the colour of the sky, whether the Sun is higher or lower than in the morning, and where the shadow of the same pole points and how long it is. Compare it with the morning.  
+  *Parent does:* In the afternoon, go to the same place. Write the time. Fill the same row. Write the colour of the sky. Is the Sun higher or lower than in the morning? Which way does the shadow of the same pole point, and is it longer or shorter? Compare it with the morning.  
   *Parent says:* Go back to the same spot. Is the sky the same colour? Is the shadow of the same pole longer or shorter? Which way does it point now?  
   *Child mode:* Go back to the same spot. Write the new sky colour. Is the shadow longer or shorter? Which way does it point?
   - Note: Near midday the shadow is at its shortest. By the late afternoon it grows long again, pointing east. The sky is usually a deeper blue around midday. Near sunset it goes orange or red.
@@ -690,7 +690,7 @@ From then on, she woke at five every day, and we sat at the window and waited fo
    **Answer:** A globe with two circles, a long one at the equator and a half-length one near the top, longer arrow on the equator, and the label 2 times faster.. *Why:* A strong drawing shows the equator circle about twice as long as the 60 degree circle, so the equator's arrow is about twice as long.
 17. (perspective) Two friends are talking about school start times in a state in the far east of India, where the Sun rises very early.  
    **Answer:** Answers vary. A strong answer picks a side, gives a reason, and uses a fact such as noon being about 58 minutes earlier in Dong than at the middle of India.. *Why:* Both views have a point. A single clock is simple, and following the Sun saves daylight. The clock time is something people agreed on, and the Sun's own time is different in each place.
-18. (order) Put these in the order that a pole's shadow changes on a clear day, from morning to evening.  
+18. (order) Put these in the order that a pole's shadow changes on a clear day, from morning to evening: shorter; longer again, pointing east; long, pointing west; shortest, at solar noon.  
    **Answer:** ['Long, pointing west', 'Shorter', 'Shortest, at solar noon', 'Longer again, pointing east']. *Why:* The shadow follows the Sun. It is long when the Sun is low, shortest when the Sun is highest, and long again in the evening on the other side.
 19. (write) It is 12 noon in Delhi. A girl in Chicago, in the USA, video-calls her grandmother in Delhi. Is it day or night where the girl is? Say why, using the day-night line.  
    **Answer:** It is night in Chicago, in the middle of the night or very early morning. The Earth is lit on one half only. When Delhi is in the sunlit half, Chicago is on the far side, in the dark half.. *Why:* A strong answer says that half the Earth is lit and half dark, and that India and the USA are on opposite sides of the Earth.
@@ -784,7 +784,7 @@ From then on, she woke at five every day, and we sat at the window and waited fo
    Options: New York in the USA / Colombo in Sri Lanka / Dhaka in Bangladesh / Kathmandu in Nepal  
    **Answer:** New York in the USA. *Why:* New York is on the far side of the Earth from India, in the dark half. Colombo, Dhaka and Kathmandu are close to India and are in daylight at the same time.
 16. (mcq) Look at a globe. About how much of the Earth's surface is sea?  
-   Options: Nearly three-quarters / About one-quarter / About half of half of it / Almost all of it  
+   Options: Nearly three-quarters / About half / About half of half of it / Almost all of it  
    **Answer:** Nearly three-quarters. *Why:* Seven parts in every ten of the surface are sea, which is nearly three-quarters. Land is a little under one-third. So the globe looks mostly blue.
 
 ## Applications

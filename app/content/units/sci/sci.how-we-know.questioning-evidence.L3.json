@@ -195,7 +195,7 @@
   {
    "concept": "We cannot check everything ourselves",
    "status": "idea",
-   "description": "Nobody can test every claim. You have not been to the Moon, and you have not looked inside an octopus. So we all trust other people. 'Says who?' does not mean 'trust nobody'. It means trust people because of how they know, not because of how sure they sound. A good source can say how they found out, lets others check, and changes their mind when new evidence comes. People still argue about how much to trust experts, and when.",
+   "description": "Nobody can test every claim. You have not been to the Moon, and you have not looked inside an octopus. So we all trust other people. 'Says who?' does not mean 'trust nobody'. It means trust people because of how they know, not because of how sure they sound. A good source can say how they found out, lets others check, and changes their mind when new evidence comes. People still argue about how much to trust experts, and when. Books and trusted sources can answer many questions we cannot test ourselves. A good book on birds, written by a bird scientist, can tell you where a migrating bird goes in winter. You cannot follow the bird to check, so check who wrote the book, and whether they say how they know.",
    "examples": [
     "You trust the train timetable because the railway sets the times and you can see trains leave on time.",
     "You trust that the Earth goes round the Sun because many people, over hundreds of years, measured it in ways anyone can repeat."
@@ -1840,6 +1840,18 @@
    "a": 1,
    "why": "Many people say that a goldfish forgets everything after three seconds, and that lightning never strikes the same place twice. Both are wrong. What makes a claim trustworthy is that someone checked it, in a way others can repeat.",
    "outcome": 3
+  },
+  {
+   "t": "mcq",
+   "p": "You want to know where a bird goes in winter, but you cannot follow it yourself. What is the best next step?",
+   "opts": [
+    "Read a bird book by a bird scientist, and check who wrote it and how they know",
+    "Ask the first person you meet, who sounds very sure",
+    "Forward a message from a friend, because many people shared it"
+   ],
+   "a": 0,
+   "why": "A book written by a scientist who studied birds is a source, and you can check how the writer knows. A sure voice or a forwarded message does not show how anyone knows.",
+   "outcome": 1
   }
  ],
  "worksheets": [
@@ -2028,6 +2040,25 @@
       "Decide if the claim is right"
      ],
      "why": "You decide last, after you have asked the questions and looked at the evidence."
+    },
+    {
+     "t": "order",
+     "p": "Put the steps of finding an answer in a book in order.",
+     "items": [
+      "Write the answer, and name the book it came from",
+      "Find a book written by someone who studied the thing",
+      "Compare it with a second trusted source",
+      "Check who wrote the book and how they know",
+      "Read the part that answers your question"
+     ],
+     "a": [
+      "Find a book written by someone who studied the thing",
+      "Check who wrote the book and how they know",
+      "Read the part that answers your question",
+      "Compare it with a second trusted source",
+      "Write the answer, and name the book it came from"
+     ],
+     "why": "First pick a good source. Check it before you trust it. Read the answer, then check it against a second source. Last, write the answer with its source, so someone else can check it."
     },
     {
      "t": "label",

@@ -23,6 +23,7 @@
 - **Symptom**: A sign in your body that you are ill, such as a fever, a cough, a runny nose or loose motions. *e.g.* Sneezing and a blocked nose are symptoms of a cold.
 - **Contagious**: An illness is contagious when it can pass from one person to another. *e.g.* Chickenpox is very contagious. A broken bone is not contagious at all.
 - **Droplets**: Tiny drops of spit and mucus that fly out when we cough, sneeze, talk or sing. They can carry germs. *e.g.* A sneeze can spray droplets across a room.
+- **Tuberculosis (TB)**: A disease caused by bacteria that usually attack the lungs. It spreads when a person with TB coughs or spits, and others breathe in the germs. *e.g.* The BCG vaccine given to babies in India helps protect them from serious TB.
 - **Outbreak**: When many people in one place fall ill with the same illness at around the same time. *e.g.* In 1854, a cholera outbreak in one part of London killed more than 500 people in ten days.
 - **Cholera**: An illness caused by bacteria in dirty water or food. It gives very watery loose motions, so the body quickly loses water. *e.g.* Clean drinking water and toilets stop cholera spreading.
 - **Antibiotic**: A medicine that kills bacteria, or stops them multiplying. Antibiotics do not work on viruses. *e.g.* A doctor may give an antibiotic for a bacterial throat infection, but not for a cold, which is a virus.
@@ -49,6 +50,13 @@ Many bacteria can swim, but only a tiny distance. Viruses cannot move on their o
 - e.g. A boy sneezes into his hand and opens the fridge. His sister opens the fridge an hour later and then eats a biscuit.
 - e.g. A sneeze into the air sprays droplets onto everyone at the table.
 - e.g. A fly walks on a rubbish heap and then on an open plate of jalebis.
+### Diseases that travel through the air · *defined*
+**Definition:** Some germs leave a sick person in tiny droplets from a cough, a sneeze or a breath. The droplets hang in the air for a while, and others can breathe them in. Flu, measles, chickenpox and tuberculosis can spread this way.
+
+A child with measles coughs in a crowded classroom with the windows shut, and the droplets stay in the air for a while. Anyone who breathes that air can catch measles. Tuberculosis, or TB, is caused by bacteria that usually attack the lungs. A person with TB who coughs or spits sends germs into the air of a small room. Fresh air helps. Open windows and a fan move the air, so fewer germs stay in the room. A cloth or a tissue over the mouth when you cough catches many droplets. Vaccines protect against some of these illnesses. In India, babies get the BCG vaccine against serious TB, and the measles vaccine in the national vaccination programme.
+- e.g. A grandfather with TB who coughs in a small room can send germs into the air that others breathe.
+- e.g. A bus or classroom with closed windows keeps droplets close to everyone inside it.
+- e.g. A fan and an open window let fresh air in, and the germs in the old air go out.
 ### What an infection is · *defined*
 **Definition:** An infection is when germs get inside the body and multiply there.
 
@@ -486,7 +494,7 @@ Paati went home to Tiruchi a week later, without a cough. On the phone that nigh
   *Child mode:* Tell what you would change.
 
 ## Worksheets
-### Germ Detective (core) (core, 15 questions)
+### Germ Detective (core) (core, 16 questions)
 1. (mcq) Which of these is caused by a virus?  
    Options: A cold / Cholera / Ringworm / A broken arm  
    **Answer:** A cold. *Why:* Colds are caused by viruses. Cholera is caused by bacteria, ringworm by a fungus, and a broken arm by no germ at all.
@@ -494,33 +502,35 @@ Paati went home to Tiruchi a week later, without a cough. On the phone that nigh
    **Answer:** False. *Why:* False. Only a few kinds of microbe are germs. Your body carries trillions of bacteria, and nearly all of them do no harm.
 3. (sort) Sort these ways germs travel into the right group.  
    **Answer:** a shared steel tumbler → On hands and things; a sneeze across the table → Through the air; dirty well water → In water or food; a mosquito bite → On insects; a lift button → On hands and things; uncovered chopped fruit → In water or food; a fly on the food → On insects; a cough with no hanky → Through the air. *Why:* Germs need a ride. Some ride on hands and the things hands touch, some on droplets in the air, some in water and food, and some on insects.
-4. (mcq) In the Glitter Trail, round 2 put the glitter on the carrier's elbow. What usually happened?  
+4. (sort) Sort these illnesses by how they mostly travel: through the air in droplets, or through dirty water.  
+   **Answer:** Measles → Through the air; Tuberculosis (TB) → Through the air; Cholera → Through dirty water; Chickenpox → Through the air. *Why:* Measles, TB and chickenpox spread in droplets and in the air. Cholera spreads through water that has germs in it.
+5. (mcq) In the Glitter Trail, round 2 put the glitter on the carrier's elbow. What usually happened?  
    Options: Much less glitter reached the things and the other people / More glitter reached everyone / Exactly the same as round 1  
    **Answer:** Much less glitter reached the things and the other people. *Why:* The elbow does not open doors or press buttons, so the glitter mostly stayed on it. That is why we cough into our elbow.
-5. (fill) When germs get inside your body and multiply, that is called an ________.  
+6. (fill) When germs get inside your body and multiply, that is called an ________.  
    **Answer:** ['infection']. *Why:* An infection means germs have got in and are multiplying. Germs just sitting on your skin are not an infection.
-6. (mcq) Where do germs most often get into the body?  
+7. (mcq) Where do germs most often get into the body?  
    Options: Through the eyes, nose and mouth / Through dry skin with no cuts / Through the hair  
    **Answer:** Through the eyes, nose and mouth. *Why:* The eyes, nose and mouth have soft, wet linings that germs can get through. Skin with no cuts keeps most germs out.
-7. (match) Match each habit to the link it breaks.  
+8. (match) Match each habit to the link it breaks.  
    **Answer:** Cough into your elbow → Keeps germs off your hands; Wash hands before eating → Stops germs reaching your mouth; Boil or filter drinking water → Stops germs in water; Cover food → Keeps flies off; Stay home when ill → Keeps your germs away from others. *Why:* Each habit breaks a different link in a germ chain. Breaking any one link stops that chain.
-8. (truefalse) You can catch a cold from someone you never touched.  
+9. (truefalse) You can catch a cold from someone you never touched.  
    **Answer:** True. *Why:* True. Germs can ride on things like buttons and handles, or in droplets in the air.
-9. (mcq) You have a cold. Which is the best way to sneeze?  
+10. (mcq) You have a cold. Which is the best way to sneeze?  
    Options: Into your elbow / Into your hand / Into the air  
    **Answer:** Into your elbow. *Why:* An elbow catches most of the droplets, and does not touch handles or food. A hand catches them too, but then spreads them to everything it touches.
-10. (order) Put this germ chain in order.  
+11. (order) Put this germ chain in order.  
    **Answer:** ['Farhan has a tummy bug', 'He does not wash after the toilet', 'He touches the fridge handle', 'Lakshmi opens the fridge', 'Lakshmi eats a biscuit without washing']. *Why:* The chain goes from the ill person, out on his hand, onto the handle, onto Lakshmi's hand, and into her mouth.
-11. (draw) Draw a germ chain in your home with four links. Then draw a pair of scissors cutting one link.  
+12. (draw) Draw a germ chain in your home with four links. Then draw a pair of scissors cutting one link.  
    **Answer:** Any chain with an ill person, a way out, a ride and a next person, with one link cut.. *Why:* Drawing the chain shows that you know germs need a ride, and that one habit can break it.
-12. (write) Why should you wash your hands even on a day you feel well?  
+13. (write) Why should you wash your hands even on a day you feel well?  
    **Answer:** Because you can carry germs, and pass them on, before you feel ill, or without ever feeling ill.. *Why:* Many germs spread before a person has symptoms. Washing every day breaks chains you cannot see.
-13. (mcq) Which of these is NOT contagious?  
+14. (mcq) Which of these is NOT contagious?  
    Options: A broken leg / Chickenpox / A cold / Flu  
    **Answer:** A broken leg. *Why:* A broken leg cannot pass from one person to another. Chickenpox, colds and flu are caused by germs that spread.
-14. (perspective) Kavya has a cold. Her friend Nandini had a cold last week, but Kavya never sat near her.  
+15. (perspective) Kavya has a cold. Her friend Nandini had a cold last week, but Kavya never sat near her.  
    **Answer:** A strong answer picks a side and gives evidence: in the Glitter Trail, people who never touched the carrier still got glitter from the handle and remote. It also says what the other side has right: colds do spread through droplets in the air too, so both can happen.. *Why:* Both ways are real. Scientists still argue about which matters more for colds, so a good answer uses evidence and does not throw the other view away.
-15. (fill) Germs that travel through the air ride in tiny drops of spit and mucus called ________.  
+16. (fill) Germs that travel through the air ride in tiny drops of spit and mucus called ________.  
    **Answer:** ['droplets']. *Why:* Coughs and sneezes spray droplets. They can carry germs to people and things nearby.
 ### How Germs Multiply and Spread (stretch) (stretch, 15 questions)
 1. (truefalse) In the Handshake Chain, where glitter passed along four hands, the fourth hand usually had as many specks as the first.  
@@ -636,6 +646,9 @@ Paati went home to Tiruchi a week later, without a cough. On the phone that nigh
 11. (mcq) Many people near one water pump fall ill. How could you find out whether the pump is to blame?  
    Options: Ask each family where they get their water, and see whether most who fell ill drank from that pump / Look for the germ with your own eyes / Smell the air near it  
    **Answer:** Ask each family where they get their water, and see whether most who fell ill drank from that pump. *Why:* Comparing who drank the water with who fell ill shows the link. Germs are too small to see with your eyes. John Snow did this in London in 1854.
+12. (mcq) Which of these illnesses spreads mainly through the air, in droplets from a cough?  
+   Options: Measles / Dengue / Cholera  
+   **Answer:** Measles. *Why:* Measles spreads through droplets from a cough or sneeze, and the droplets can hang in the air. Dengue comes from mosquito bites. Cholera comes from dirty water.
 
 ## Applications
 - Doctors and health workers trace outbreaks the way John Snow did, by asking where ill people ate, drank and went.
