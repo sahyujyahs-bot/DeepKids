@@ -1,0 +1,19 @@
+# History Board Game / Game Play Mechanics (copied from Google Sheets, 2026-11-27)
+R3:  | Players are curators of inter galactic museum
+R5:  |  |  |  |  |  |  | Empire Cards | Quips about each empire/civilization |  |  | Flag
+R7:  |  |  |  |  |  |  | Tokens
+R8:  | Token Type | Card | Token | Point
+R9:  | per Empire | Location | Flag
+R11:  |  |  |  |  |  |  |  | Marked on the map | Player Token | 4 colours
+R12:  |  |  |  |  |  |  |  | River
+R13:  |  |  |  |  |  |  |  | Mountain Ranges
+R14:  |  |  |  |  |  |  |  | Ores
+R15:  |  |  |  |  |  |  |  | Platue
+R16:  |  |  |  |  |  |  |  | Forest
+R17:  |  | deal 10 cards per player |  |  |  |  |  | Desert
+R18:  |  | Roll dice - land on a time period |  |  |  |  |  | Soil Type
+R19:  |  |  | If p1 doesnt have a card from the time period - insert one card back into the deck in a random place & pick the top card | If still no card from the time period, lose turn
+R20:  |  | p1 plays a card from the time period |  |  |  |  |  | 6 time periods | 50 empires | 19 categories | 38 | 1900
+R21:  |  | Place the flag for the empire played on the board map - flag for every first card played in a Empire
+R22:  |  | Other players now have to play the same empire as P1 | if they dont have the empire card, they insert one back & pick top card | if still no empire card, lose the turn |  |  |  | 304 | cards per timeperiod
+R23:  |  | Round is over when all players have had a turn (played or lost)

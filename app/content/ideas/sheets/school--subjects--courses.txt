@@ -1,0 +1,64 @@
+# School / Subjects- Courses (copied from Google Sheets, 2026-11-27)
+R3:  |  | FT Teachers | PT Teachers | Ops Managers/Course Facilitators | Min No of Teachers FT | Min no of PT | Min no of ops/Facilitators |  | Lattice-Based & Post-Quantum Cryptography
+R4:  | Math - Proabilities, Geometry, , Algebra, Vedic Math, Meta math, arithmetic | 4 | 2 | 3 | 1 |  | 6 |  | Passive Radiative Cooling Materials
+R5:  | Science - Phy, Chem, Bio- Genetics; Bio Mimcry, Comp, Vedic Sc, Meta Physics, Fringe Science | 6 |  |  | 1 |  |  |  | Material Science for future
+R6:  | Humanities - His, Geo, EVS. Gender Studies. Behavioural Science, Economics, Civics | 4 |  |  | 1 |  |  |  | Precision Fermentation & Cellular Agriculture
+R7:  | Language & Literature - Eng, Sanskrit, Tamil, Hindi, Japanese, Chinese, French,etc | 4 | 3 | 3 |  | 6 |  |  | Bio materials
+R8:  | Global Perspectives | 1
+R9:  | Art & Design - Drawing, Painting, Music, Instruments, Classical dances, drama, graphic design, product design, illustration, UI/UX,  | 1 | 18 |  |  | 6
+R10:  | PE - Yoga, Karate, Swimming, Aerobics, Tracks & Fields, Gym, etc | 3 | 8 |  | 1 | 6
+R11:  | Tech - Coding, electrical & Electronics, Mech, Wood Working, Origami, CAD/3D Printing, <system design>, Solar punk, Bio Mimicry | 3 | 15 | 2 |  | 6
+R12:  | Research Dept | 1 |  | 2
+R14:  | Headcount | 40 | 46 | 10 | 20 | 24 | 6
+R15:  | Salary/month | 75000 | 25000 | 50000 | 75000 | 25000 | 50000
+R16:  | Salary/year | 36000000 | 13800000 | 6000000 | 18000000 | 7200000 | 3600000
+R18:  |  |  |  | inr55,800,000 |  |  | inr28,800,000
+R20:  | Teacher Attendance % | 24 |  |  | 12
+R21:  | Max no of students  | 480 |  |  | 240 |  |  | inr120,000
+R27:  |  |  |  |  |  |  |  |  |  |  |  |  | Min | Max
+R28:  |  |  |  |  |  |  |  |  |  |  | per teacher | per day | 3 classes - 3 hrs | 5 periods
+R31:  |  | Timing | Mon | Tue | Wed | Thu | Fri | Sat
+R32:  |  | 7-8 | Assembly - News, Performances, Announcements, weekly TT collab
+R33:  |  | 8-9 | Math  | Math  | Math  | Math - Meta/vedic | Math | Project
+R34:  |  | 9-10 | Sci -Phy | Sci- Chem | Sci-Bio | Sci -Comp | Sci - Vedic/fringe/Meta
+R35:  |  | 10.30-11.30 | Hum - His | Hum-Geo | Hum - BS / GS | Hum - Eco/Civics/EVS | Cutting Edge Research Subject
+R36:  |  | 11.30-12.30 | Lang -Eng | Lang - 2nd lang | Lang - 3rd lang | Student Teacher 2 | TT
+R37:  |  | 2.30-3.30 | A&D 1 | A&D2 |  | A&D3 |  | Research
+R38:  |  | 3.30-4.30 | PE1 | Student Teacher 1 | PE2
+R39:  |  | 5 -6 | Debate/GD/GP | Tech 1 | Debate/GD/GP | Tech 2
+R40:  |  | 6 -7.30 | Optional Extra | Optional Extra | Optional Extra | Optional Extra | Optional Extra | Optional Extra
+R44:  |  |  | Per week | Per Month | Per Term (5 month) | Per Year (10 Months)
+R45:  | FT | math | 4 | 16 | 80 | 160
+R46:  | Recorded Course? | vedic math | 0.5 | 2 | 10 | 20
+R47:  | Recorded Course? | meta math | 0.5 | 2 | 10 | 20
+R48:  | FT | Phy | 1 | 4 | 20 | 40
+R49:  | FT | Chem | 1 | 4 | 20 | 40
+R50:  | FT | Bio | 1 | 4 | 20 | 40
+R51:  | FT | Comp | 1 | 4 | 20 | 40
+R52:  | Recorded Course? | Vedic Sc | 0.33 | 1.32 | 6.6 | 13.2
+R53:  | Recorded Course? | Meta Sc | 0.33 | 1.32 | 6.6 | 13.2
+R54:  | PT | Fringe Sc | 0.33 | 1.32 | 6.6 | 13.2
+R55:  | FT | History | 1 | 4 | 20 | 40
+R56:  | FT | Geo | 1 | 4 | 20 | 40
+R57:  | FT | EVS | 0.33 | 1.32 | 6.6 | 13.2
+R58:  | FT | Civics | 0.33 | 1.32 | 6.6 | 13.2
+R59:  | Recorded Course? | GS | 0.5 | 2 | 10 | 20
+R60:  | Recorded Course? | BS | 0.5 | 2 | 10 | 20
+R61:  | PT | Eco | 0.33 | 1.32 | 6.6 | 13.2
+R62:  | FT | Eng | 1 | 4 | 20 | 40
+R63:  | FT*3 | Lang 2 - Sans, tamil, hindi | 1 | 4 | 20 | 40
+R64:  | PT*4 | Land 3 - Chinese, french, japanese, etc' | 1 | 4 | 20 | 40
+R65:  | FT + PT*8  | PE 1 | 1 | 4 | 20 | 40
+R66:  |  | PE 2 | 1 | 4 | 20 | 40
+R67:  | FT + PT*10 | Tech 1 | 1 | 4 | 20 | 40
+R68:  |  | Tech 2 | 1 | 4 | 20 | 40
+R69:  | FT+ PT*12 | A&D1 | 1 | 4 | 20 | 40
+R70:  |  | A&D2 | 1 | 4 | 20 | 40
+R71:  |  | A&D3 | 1 | 4 | 20 | 40
+R72:  |  | GP | 0.66 | 2.64 | 13.2 | 26.4
+R73:  |  | Debate | 0.66 | 2.64 | 13.2 | 26.4
+R74:  |  | GD | 0.66 | 2.64 | 13.2 | 26.4
+R75:  |  | Tech 1 | 1 | 4 | 20 | 40
+R76:  |  | Tech 2 | 1 | 4 | 20 | 40
+R77:  |  | Project | 2 | 8 | 40 | 80
+R78:  |  | Research | 2 | 8 | 40 | 80

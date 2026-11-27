@@ -1,0 +1,219 @@
+# SCI Cards / Colour System (copied from Google Sheets, 2026-11-27)
+R1: Era | Date Range | Palette Name | Mood / Feel | Zone | Hex Code | RGB | Text Color Hex | Text Color RGB | Color Sample | Text Sample | Scientists in this Era
+R2: Ancient / Vedic / Classical | Before 500 CE | Firelight | Warm amber, burnt earth, ochre. Knowledge passed by firelight, carved in stone, written on palm leaf. The oldest ideas, closest to the ground. | Outer Frame | #B71C1C | rgb(183, 28, 28) | #FFCDD2 | rgb(255, 205, 210) | ████████ | Sample Text | Kanada, Sushruta, Baudhayana, Pingala, Charaka, Aryabhata, Varahamihira, Brahmagupta, Archimedes, Hypatia, Zhang Heng, Ibn al-Haytham (overlaps with Medieval)
+R3:  |  |  |  | Name Banner | #2E1A00 | rgb(46, 26, 0) | #FFCC80 | rgb(255, 204, 128) | ████████ | Sample Text
+R4:  |  |  |  | Portrait Background | #1A0F00 | rgb(26, 15, 0) | #A1887F | rgb(161, 136, 127) | ████████ | Sample Text
+R5:  |  |  |  | Decorative Strip | #4E342E | rgb(78, 52, 46) | #BCAAA4 | rgb(188, 170, 164) | ████████ | Sample Text
+R6:  |  |  |  | Contribution Box | #3E1F10 | rgb(62, 31, 16) | #FFCC80 | rgb(255, 204, 128) | ████████ | Sample Text
+R7:  |  |  |  | Whisper Box | #1C0E05 | rgb(28, 14, 5) | #D7CCC8 | rgb(215, 204, 200) | ████████ | Sample Text
+R8:  |  |  |  | Score/Tag Area | #120A02 | rgb(18, 10, 2) | #8D6E63 | rgb(141, 110, 99) | ████████ | Sample Text
+R10: Islamic Saturnen Age / Medieval | 500–1400 CE | Jade & Teal | Deep teal, jade green, turquoise. The great libraries of Baghdad and Córdoba. Geometric tile patterns, astronomical observatories, the colour of Islamic scholarly tradition. | Outer Frame | #B71C1C | rgb(183, 28, 28) | #FFCDD2 | rgb(255, 205, 210) | ████████ | Sample Text | Ibn al-Haytham (Alhazen), Jabir ibn Hayyan, Ibn Sina (Avicenna), Al-Jazari, Madhava of Sangamagrama
+R11:  |  |  |  | Name Banner | #0A2E2E | rgb(10, 46, 46) | #80CBC4 | rgb(128, 203, 196) | ████████ | Sample Text
+R12:  |  |  |  | Portrait Background | #042020 | rgb(4, 32, 32) | #4DB6AC | rgb(77, 182, 172) | ████████ | Sample Text
+R13:  |  |  |  | Decorative Strip | #004D40 | rgb(0, 77, 64) | #80CBC4 | rgb(128, 203, 196) | ████████ | Sample Text
+R14:  |  |  |  | Contribution Box | #1A3636 | rgb(26, 54, 54) | #B2DFDB | rgb(178, 223, 219) | ████████ | Sample Text
+R15:  |  |  |  | Whisper Box | #0A1A1A | rgb(10, 26, 26) | #80CBC4 | rgb(128, 203, 196) | ████████ | Sample Text
+R16:  |  |  |  | Score/Tag Area | #051010 | rgb(5, 16, 16) | #4DB6AC | rgb(77, 182, 172) | ████████ | Sample Text
+R18: Renaissance / Scientific Revolution / Enlightenment | 1400–1800 CE | Royal Indigo | Deep indigo, midnight blue, royal purple. Telescopes, Principia, candlelit calculations. Velvet-and-brass aesthetic of early scientific instruments. The 'classic science' palette. | Outer Frame | #B71C1C | rgb(183, 28, 28) | #FFCDD2 | rgb(255, 205, 210) | ████████ | Sample Text | Copernicus, Tycho Brahe, Galileo, Kepler, Newton, Hooke, Halley, Cavendish, Laplace, Lagrange, Émilie du Châtelet, Caroline Herschel, John Michell, Seki Takakazu, Edmond Halley
+R19:  |  |  |  | Name Banner | #1A1A2E | rgb(26, 26, 46) | #C5CAE9 | rgb(197, 202, 233) | ████████ | Sample Text
+R20:  |  |  |  | Portrait Background | #12122A | rgb(18, 18, 42) | #9FA8DA | rgb(159, 168, 218) | ████████ | Sample Text
+R21:  |  |  |  | Decorative Strip | #1A237E | rgb(26, 35, 126) | #7986CB | rgb(121, 134, 203) | ████████ | Sample Text
+R22:  |  |  |  | Contribution Box | #2A1A3E | rgb(42, 26, 62) | #CE93D8 | rgb(206, 147, 216) | ████████ | Sample Text
+R23:  |  |  |  | Whisper Box | #150A28 | rgb(21, 10, 40) | #B39DDB | rgb(179, 157, 219) | ████████ | Sample Text
+R24:  |  |  |  | Score/Tag Area | #0A0518 | rgb(10, 5, 24) | #7E57C2 | rgb(126, 87, 194) | ████████ | Sample Text
+R26: Victorian / Industrial Age | 1800–1900 CE | Deep Forest | Dark forest green, oxidized copper, botanical tones. Darwin's voyages, Faraday's basement lab, Tesla's coils, Mendel's garden. Nature and machine intertwined. | Outer Frame | #B71C1C | rgb(183, 28, 28) | #FFCDD2 | rgb(255, 205, 210) | ████████ | Sample Text | Darwin, Faraday, Tesla, Mendeleev, Ada Lovelace, Mendel, Boltzmann, Cantor, Arrhenius, Semmelweis, Mary Anning, Nettie Stevens, J.C. Bose, P.C. Ray, Carlos Finlay
+R27:  |  |  |  | Name Banner | #1B2A1B | rgb(27, 42, 27) | #A5D6A7 | rgb(165, 214, 167) | ████████ | Sample Text
+R28:  |  |  |  | Portrait Background | #0F1A0F | rgb(15, 26, 15) | #81C784 | rgb(129, 199, 132) | ████████ | Sample Text
+R29:  |  |  |  | Decorative Strip | #1B5E20 | rgb(27, 94, 32) | #A5D6A7 | rgb(165, 214, 167) | ████████ | Sample Text
+R30:  |  |  |  | Contribution Box | #2E2416 | rgb(46, 36, 22) | #FFCC80 | rgb(255, 204, 128) | ████████ | Sample Text
+R31:  |  |  |  | Whisper Box | #1A1208 | rgb(26, 18, 8) | #D7CCC8 | rgb(215, 204, 200) | ████████ | Sample Text
+R32:  |  |  |  | Score/Tag Area | #0D0A04 | rgb(13, 10, 4) | #A1887F | rgb(161, 136, 127) | ████████ | Sample Text
+R34: Modern Physics / Contemporary | 1900 CE–Present | Deep Space | Deep navy, cosmic blue, violet undertones. Relativity, quantum mechanics, black holes, DNA, computation. Looking outward to space and inward to atoms. The coolest palette — from firelight to starlight. | Outer Frame | #B71C1C | rgb(183, 28, 28) | #FFCDD2 | rgb(255, 205, 210) | ████████ | Sample Text | Einstein, Curie, Noether, Chandrasekhar, Schwarzschild, Turing, Franklin, Ramanujan, Rubin, Raman, Saha, Subbarow, S.N. Bose, Lemaître, Penrose, Ghez, Eddington, Thorne, Hedy Lamarr, Meitner, Wu, McClintock, Bell Burnell, Tu Youyou, Marshall, Margulis, Shechtman, Salam, Molina, Zewail, Vavilov, Payne, Leavitt, Alice Ball, Esther Lederberg, Hoyle, Wegener, Percy Julian
+R35:  |  |  |  | Name Banner | #1A1A40 | rgb(26, 26, 64) | #C5CAE9 | rgb(197, 202, 233) | ████████ | Sample Text
+R36:  |  |  |  | Portrait Background | #0D1B3E | rgb(13, 27, 62) | #90CAF9 | rgb(144, 202, 249) | ████████ | Sample Text
+R37:  |  |  |  | Decorative Strip | #1A237E | rgb(26, 35, 126) | #90CAF9 | rgb(144, 202, 249) | ████████ | Sample Text
+R38:  |  |  |  | Contribution Box | #4A1942 | rgb(74, 25, 66) | #E1BEE7 | rgb(225, 190, 231) | ████████ | Sample Text
+R39:  |  |  |  | Whisper Box | #1A0A2E | rgb(26, 10, 46) | #D1C4E9 | rgb(209, 196, 233) | ████████ | Sample Text
+R40:  |  |  |  | Score/Tag Area | #0F0F2D | rgb(15, 15, 45) | #9FA8DA | rgb(159, 168, 218) | ████████ | Sample Text
+R43: Score Range | Background Hex | Background RGB | Text Hex | Text RGB | Color Name | Sample BG | Sample Text | Usage Notes
+R44: 9–10 | #C62828 | rgb(198, 40, 40) | #FFCDD2 | rgb(255, 205, 210) | Deep Crimson | ████████ | Score 10 | Exceptional — field-defining or civilization-altering
+R45: 7–8 | #E65100 | rgb(230, 81, 0) | #FFF3E0 | rgb(255, 243, 224) | Burnt Orange | ████████ | Score 10 | Strong — significant impact or impressive odds
+R46: 5–6 | #F9A825 | rgb(249, 168, 37) | #4E3800 | rgb(78, 56, 0) | Warm Amber | ████████ | Score 10 | Moderate — solid contribution or average circumstances
+R47: 3–4 | #90A4AE | rgb(144, 164, 174) | #263238 | rgb(38, 50, 56) | Cool Slate | ████████ | Score 10 | Below average — limited scope or comfortable path
+R48: 1–2 | #B0BEC5 | rgb(176, 190, 197) | #37474F | rgb(55, 71, 79) | Pale Grey | ████████ | Score 10 | Minimal — narrow impact or privileged starting point
+R51: SCORE ABBREVIATIONS
+R52: FI | Field Impact | How much they changed their specific scientific field
+R53: GI | Global Impact | How much their work affects everyday life worldwide
+R54: OD | Odds Defied | How unlikely their success was given circumstances
+R55: CFI | Counterintuitive Factor | How surprising / mind-bending their contribution is
+R59: Tag Name | Category | Background Hex | Background RGB | Text Hex | Text RGB | Sample BG | Sample Text
+R60: Underdog | Adversity | #D84315 | rgb(216, 67, 21) | #FFF3E0 | rgb(255, 243, 224) | ████████ | Underdog
+R61: IP Theft Victim | Adversity | #C62828 | rgb(198, 40, 40) | #FFEBEE | rgb(255, 235, 238) | ████████ | IP Theft Victim
+R62: Heretic | Adversity | #AD1457 | rgb(173, 20, 87) | #FCE4EC | rgb(252, 228, 236) | ████████ | Heretic
+R63: Controversial | Adversity | #6A1B9A | rgb(106, 27, 154) | #F3E5F5 | rgb(243, 229, 245) | ████████ | Controversial
+R64: Forbidden Knowledge | Adversity | #4A148C | rgb(74, 20, 140) | #E1BEE7 | rgb(225, 190, 231) | ████████ | Forbidden Knowledge
+R65: World Changer | Achievement | #1565C0 | rgb(21, 101, 192) | #BBDEFB | rgb(187, 222, 251) | ████████ | World Changer
+R66: Foundational | Achievement | #0277BD | rgb(2, 119, 189) | #B3E5FC | rgb(179, 229, 252) | ████████ | Foundational
+R67: Ahead of Time | Achievement | #00838F | rgb(0, 131, 143) | #B2EBF2 | rgb(178, 235, 242) | ████████ | Ahead of Time
+R68: Invisible Giant | Achievement | #00695C | rgb(0, 105, 92) | #B2DFDB | rgb(178, 223, 219) | ████████ | Invisible Giant
+R69: Applied | Achievement | #2E7D32 | rgb(46, 125, 50) | #C8E6C9 | rgb(200, 230, 201) | ████████ | Applied
+R70: Child Prodigy | Origin | #F9A825 | rgb(249, 168, 37) | #4E3800 | rgb(78, 56, 0) | ████████ | Child Prodigy
+R71: Late Bloomer | Origin | #FF8F00 | rgb(255, 143, 0) | #4E2C00 | rgb(78, 44, 0) | ████████ | Late Bloomer
+R72: Self-Taught | Origin | #EF6C00 | rgb(239, 108, 0) | #FFF3E0 | rgb(255, 243, 224) | ████████ | Self-Taught
+R73: Credit Thief | Moral | #78909C | rgb(120, 144, 156) | #ECEFF1 | rgb(236, 239, 241) | ████████ | Credit Thief
+R74: Wrong but Important | Moral | #546E7A | rgb(84, 110, 122) | #CFD8DC | rgb(207, 216, 220) | ████████ | Wrong but Important
+R77: Field | Background Hex | Background RGB | Text Hex | Text RGB | Color Logic | Sample BG | Sample Text
+R78: Physics | #1A237E | rgb(26, 35, 126) | #C5CAE9 | rgb(197, 202, 233) | Deep blue — energy, waves, force | ████████ | Physics
+R79: Mathematics | #4A148C | rgb(74, 20, 140) | #CE93D8 | rgb(206, 147, 216) | Royal purple — abstract, pure | ████████ | Mathematics
+R80: Astronomy / Cosmology | #0D1B3E | rgb(13, 27, 62) | #90CAF9 | rgb(144, 202, 249) | Darkest — night sky, stars | ████████ | Astronomy / Cosmology
+R81: Chemistry | #BF360C | rgb(191, 54, 12) | #FFCCBC | rgb(255, 204, 188) | Fire red — reactions, heat, transformation | ████████ | Chemistry
+R82: Biology / Natural History | #1B5E20 | rgb(27, 94, 32) | #C8E6C9 | rgb(200, 230, 201) | Deep green — life, nature | ████████ | Biology / Natural History
+R83: Medicine / Surgery | #B71C1C | rgb(183, 28, 28) | #FFCDD2 | rgb(255, 205, 210) | Blood red — urgency, the body | ████████ | Medicine / Surgery
+R84: Engineering / Invention | #E65100 | rgb(230, 81, 0) | #FFF3E0 | rgb(255, 243, 224) | Industrial orange — building, making | ████████ | Engineering / Invention
+R85: Computing / CS | #006064 | rgb(0, 96, 100) | #B2EBF2 | rgb(178, 235, 242) | Terminal teal — digital, electric | ████████ | Computing / CS
+R86: Genetics / Cytogenetics | #33691E | rgb(51, 105, 30) | #DCEDC8 | rgb(220, 237, 200) | Living green, lighter — DNA, growth | ████████ | Genetics / Cytogenetics
+R87: Geology / Geophysics | #3E2723 | rgb(62, 39, 35) | #D7CCC8 | rgb(215, 204, 200) | Earth brown — rock, ground, deep time | ████████ | Geology / Geophysics
+R88: Pharmacology | #880E4F | rgb(136, 14, 79) | #F8BBD0 | rgb(248, 187, 208) | Deep rose — compounds, cures | ████████ | Pharmacology
+R89: Natural Philosophy | #4E342E | rgb(78, 52, 46) | #BCAAA4 | rgb(188, 170, 164) | Ancient brown — classical, pre-modern | ████████ | Natural Philosophy
+R90: Botany / Agriculture | #2E7D32 | rgb(46, 125, 50) | #A5D6A7 | rgb(165, 214, 167) | Plant green — mid-range, fertile | ████████ | Botany / Agriculture
+R91: Optics | #1565C0 | rgb(21, 101, 192) | #BBDEFB | rgb(187, 222, 251) | Clear blue — light, lenses, vision | ████████ | Optics
+R92: Epidemiology | #AD1457 | rgb(173, 20, 87) | #F8BBD0 | rgb(248, 187, 208) | Warning pink — outbreaks, patterns | ████████ | Epidemiology
+R93: Astrophysics | #0D1B3E | rgb(13, 27, 62) | #90CAF9 | rgb(144, 202, 249) | Same as Astronomy — sub-discipline | ████████ | Astrophysics
+R94: Electrical Engineering | #E65100 | rgb(230, 81, 0) | #FFF3E0 | rgb(255, 243, 224) | Same as Engineering — sub-discipline | ████████ | Electrical Engineering
+R97: Region | Countries Included | Background Hex | Background RGB | Text Hex | Text RGB | Color Logic | Sample BG | Sample Text
+R98: India | India (all eras) | #FF6F00 | rgb(255, 111, 0) | #FFF8E1 | rgb(255, 248, 225) | Saffron — largest single group, distinct, warm | ████████ | India
+R99: Britain / Ireland | England, Scotland, Northern Ireland | #1565C0 | rgb(21, 101, 192) | #BBDEFB | rgb(187, 222, 251) | Royal blue — classic association | ████████ | Britain / Ireland
+R100: Germany / Austria | Germany, Austria, Silesia | #283593 | rgb(40, 53, 147) | #C5CAE9 | rgb(197, 202, 233) | Deep blue — formal, distinct from Britain | ████████ | Germany / Austria
+R101: France / Belgium | France, Belgium | #0277BD | rgb(2, 119, 189) | #B3E5FC | rgb(179, 229, 252) | Lighter blue — Gallic blue | ████████ | France / Belgium
+R102: Americas | USA, Cuba, Mexico, Australian (honorary) | #1B5E20 | rgb(27, 94, 32) | #C8E6C9 | rgb(200, 230, 201) | Green — New World | ████████ | Americas
+R103: Ancient Mediterranean | Greece, Syracuse, Roman Egypt, Alexandria | #4E342E | rgb(78, 52, 46) | #D7CCC8 | rgb(215, 204, 200) | Earth brown — ancient civilizations | ████████ | Ancient Mediterranean
+R104: Islamic Saturnen Age | Arab, Persian, Ottoman, Uzbek, Iraqi | #00695C | rgb(0, 105, 92) | #B2DFDB | rgb(178, 223, 219) | Jade teal — matches era palette | ████████ | Islamic Saturnen Age
+R105: East Asia | China, Japan | #C62828 | rgb(198, 40, 40) | #FFCDD2 | rgb(255, 205, 210) | Red — shared cultural association | ████████ | East Asia
+R106: Other / Multi-National | Pakistan, Sweden, Israel, Hungary, Polish, Danish, Serbian | #6A1B9A | rgb(106, 27, 154) | #E1BEE7 | rgb(225, 190, 231) | Purple — catch-all, distinctive | ████████ | Other / Multi-National
+R109: Rarity | Celestial Body | Core Hex | Mid Hex | Edge Hex | Core RGB | Mid RGB | Edge RGB | Core Sample | Mid Sample | Edge Sample | Count in Set | Visual Description
+R110: blackhole | Black Hole | #1A1A2E | #E65100 | #FF6F00 | rgb(26, 26, 46) | rgb(230, 81, 0) | rgb(255, 111, 0) | ████ | ████ | ████ | 7 | Dark void center with blazing orange accretion disk. Glowing ring. The most dramatic and rarest — the most extreme gravity object IS the rarest card.
+R111: Sun | Star | #E1F5FE | #4FC3F7 | #0288D1 | rgb(225, 245, 254) | rgb(79, 195, 247) | rgb(2, 136, 209) | ████ | ████ | ████ | 19 | Multi-pointed star shape. Bright blue-white core fading to deeper blue edges. Sharp, bright, celestial.
+R112: Saturn | Sun | #FFF9C4 | #FFD54F | #FF8F00 | rgb(255, 249, 196) | rgb(255, 213, 79) | rgb(255, 143, 0) | ████ | ████ | ████ | 30 | Radiating sun with pointed rays. Warm yellow-Saturn center, deepening to amber at edges. The 'default' warmth.
+R113: Moon | Moon | #ECEFF1 | #B0BEC5 | #607D8B | rgb(236, 239, 241) | rgb(176, 190, 197) | rgb(96, 125, 139) | ████ | ████ | ████ | 19 | Crescent or full moon shape. Cool grey-Moon tones. Subtle, elegant, reflective.
+R114: Asteroid | Earth | #A5D6A7 | #4CAF50 | #2E7D32 | rgb(165, 214, 167) | rgb(76, 175, 80) | rgb(46, 125, 50) | ████ | ████ | ████ | 0 | Simple circle/sphere. Green-earth tones. Reserved for future expansion sets.
+R117: Element | Hex Code | RGB | Where Used | Sample | Notes
+R118: Outer Frame | #B71C1C | rgb(183, 28, 28) | Card border — ALL cards, ALL eras, ALL rarities | ████ | The brand signature. Red edge visible when cards are stacked or fanned.
+R119: Frame Text (card number) | #FFCDD2 | rgb(255, 205, 210) | SCI1001 in bottom-right corner of red frame | ████ | Soft pink on red — visible but not competing.
+R120: Warm White (name text) | #E8E6F0 | rgb(232, 230, 240) | Scientist name in display font | ████ | Not pure white — has a lavender warmth that prevents vibration on dark backgrounds.
+R121: Decorative Strip Structure | varies by era | — | The eye-and-celestial motif band | — | SHAPE is fixed (eyes, stars, cosmic motifs). The TINT shifts by era palette.
+R122: Contribution Icon | #FFAB91 | rgb(255, 171, 145) | Small book/scroll icon before contribution text | ████ | Warm coral — stands out on all era backgrounds.
+R123: Whisper Icon | #CE93D8 | rgb(206, 147, 216) | Small gem/crystal icon before whisper text | ████ | Soft purple — signals 'deeper meaning'.
+R124: Gender Symbol | #B0BEC5 | rgb(176, 190, 197) | Small symbol next to the name | ████ | Neutral grey — present but not prominent. Same across all cards.
+R127: COMPLETE HEX CODE QUICK REFERENCE
+R129: FRAME (all cards)
+R130: Outer Frame | #B71C1C | #FFCDD2
+R132: ANCIENT ERA (before 500 CE)
+R133: Name Banner BG | #2E1A00 | #FFCC80
+R134: Portrait BG | #1A0F00 | #A1887F
+R135: Strip | #4E342E | #BCAAA4
+R136: Contribution BG | #3E1F10 | #FFCC80
+R137: Whisper BG | #1C0E05 | #D7CCC8
+R138: Score Area BG | #120A02 | #8D6E63
+R140: ISLAMIC/MEDIEVAL ERA (500–1400 CE)
+R141: Name Banner BG | #0A2E2E | #80CBC4
+R142: Portrait BG | #042020 | #4DB6AC
+R143: Strip | #004D40 | #80CBC4
+R144: Contribution BG | #1A3636 | #B2DFDB
+R145: Whisper BG | #0A1A1A | #80CBC4
+R146: Score Area BG | #051010 | #4DB6AC
+R148: RENAISSANCE/ENLIGHTENMENT ERA (1400–1800 CE)
+R149: Name Banner BG | #1A1A2E | #C5CAE9
+R150: Portrait BG | #12122A | #9FA8DA
+R151: Strip | #1A237E | #7986CB
+R152: Contribution BG | #2A1A3E | #CE93D8
+R153: Whisper BG | #150A28 | #B39DDB
+R154: Score Area BG | #0A0518 | #7E57C2
+R156: VICTORIAN/INDUSTRIAL ERA (1800–1900 CE)
+R157: Name Banner BG | #1B2A1B | #A5D6A7
+R158: Portrait BG | #0F1A0F | #81C784
+R159: Strip | #1B5E20 | #A5D6A7
+R160: Contribution BG | #2E2416 | #FFCC80
+R161: Whisper BG | #1A1208 | #D7CCC8
+R162: Score Area BG | #0D0A04 | #A1887F
+R164: MODERN ERA (1900 CE–present)
+R165: Name Banner BG | #1A1A40 | #C5CAE9
+R166: Portrait BG | #0D1B3E | #90CAF9
+R167: Strip | #1A237E | #90CAF9
+R168: Contribution BG | #4A1942 | #E1BEE7
+R169: Whisper BG | #1A0A2E | #D1C4E9
+R170: Score Area BG | #0F0F2D | #9FA8DA
+R172: SCORE PILLS (by value)
+R173: Score 9–10 BG / Text | #C62828 | #FFCDD2
+R174: Score 7–8 BG / Text | #E65100 | #FFF3E0
+R175: Score 5–6 BG / Text | #F9A825 | #4E3800
+R176: Score 3–4 BG / Text | #90A4AE | #263238
+R177: Score 1–2 BG / Text | #B0BEC5 | #37474F
+R179: TAG PILLS — Adversity
+R180: Underdog | #D84315 | #FFF3E0
+R181: IP Theft Victim | #C62828 | #FFEBEE
+R182: Heretic | #AD1457 | #FCE4EC
+R183: Controversial | #6A1B9A | #F3E5F5
+R184: Forbidden Knowledge | #4A148C | #E1BEE7
+R186: TAG PILLS — Achievement
+R187: World Changer | #1565C0 | #BBDEFB
+R188: Foundational | #0277BD | #B3E5FC
+R189: Ahead of Time | #00838F | #B2EBF2
+R190: Invisible Giant | #00695C | #B2DFDB
+R191: Applied | #2E7D32 | #C8E6C9
+R193: TAG PILLS — Origin
+R194: Child Prodigy | #F9A825 | #4E3800
+R195: Late Bloomer | #FF8F00 | #4E2C00
+R196: Self-Taught | #EF6C00 | #FFF3E0
+R198: TAG PILLS — Moral
+R199: Credit Thief | #78909C | #ECEFF1
+R200: Wrong but Important | #546E7A | #CFD8DC
+R202: FIELD BADGES
+R203: Physics | #1A237E | #C5CAE9
+R204: Mathematics | #4A148C | #CE93D8
+R205: Astronomy / Cosmology | #0D1B3E | #90CAF9
+R206: Chemistry | #BF360C | #FFCCBC
+R207: Biology / Natural History | #1B5E20 | #C8E6C9
+R208: Medicine / Surgery | #B71C1C | #FFCDD2
+R209: Engineering / Invention | #E65100 | #FFF3E0
+R210: Computing / CS | #006064 | #B2EBF2
+R211: Genetics | #33691E | #DCEDC8
+R212: Geology / Geophysics | #3E2723 | #D7CCC8
+R213: Pharmacology | #880E4F | #F8BBD0
+R214: Natural Philosophy | #4E342E | #BCAAA4
+R215: Botany / Agriculture | #2E7D32 | #A5D6A7
+R216: Optics | #1565C0 | #BBDEFB
+R217: Epidemiology | #AD1457 | #F8BBD0
+R219: COUNTRY/REGION BADGES
+R220: India | #FF6F00 | #FFF8E1
+R221: Britain / Ireland | #1565C0 | #BBDEFB
+R222: Germany / Austria | #283593 | #C5CAE9
+R223: France / Belgium | #0277BD | #B3E5FC
+R224: Americas | #1B5E20 | #C8E6C9
+R225: Ancient Mediterranean | #4E342E | #D7CCC8
+R226: Islamic Saturnen Age | #00695C | #B2DFDB
+R227: East Asia | #C62828 | #FFCDD2
+R228: Other / Multi-National | #6A1B9A | #E1BEE7
+R230: RARITY HALOS
+R231: blackhole — Core (void) | #1A1A2E
+R232: blackhole — Glow | #E65100
+R233: blackhole — Ring | #FF6F00
+R234: Sun — Core | #E1F5FE
+R235: Sun — Mid | #4FC3F7
+R236: Sun — Edge | #0288D1
+R237: Saturn — Core | #FFF9C4
+R238: Saturn — Mid | #FFD54F
+R239: Saturn — Edge | #FF8F00
+R240: Moon — Core | #ECEFF1
+R241: Moon — Mid | #B0BEC5
+R242: Moon — Edge | #607D8B
+R243: Asteroid — Core | #A5D6A7
+R244: Asteroid — Mid | #4CAF50
+R245: Asteroid — Edge | #2E7D32
+R248: Era-Region | Font | Thickness | Feel | Example
+R249: Ancient India | Modak | Very thick | Devanagari warmth | BRAHMAGUPTA
+R250: Modern India | Baloo 2 Bold | Thick | Indian-modern rounded | RAMANUJAN
+R251: Islamic Golden Age | Lalezar | Very thick | Arabic signage geometry | IBN SINA
+R252: Renaissance/Enlightenment | Abril Fatface | Thick (high contrast) | European classical poster | KEPLER
+R253: Victorian/Industrial | Diplomata SC | Extremely thick | Carved institutional stone | DARWIN
+R254: Modern Western | Staatliches | Thick condensed | Bauhaus geometric | EINSTEIN
+R255: Ancient Mediterranean | Ultra | Extremely thick | Deep-carved marble | ARCHIMEDES

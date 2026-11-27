@@ -1,0 +1,74 @@
+# SCI Cards / Pack 1 Pivot (copied from Google Sheets, 2026-11-27)
+R1: COUNTA of Card ID | Gender
+R2: Pack |  | F | M | Grand Total
+R3:  | 0 |  |  | 0
+R4: Ancient India |  |  | 3 | 3
+R5: Frontier Mix |  | 3 | 2 | 5
+R6: Gravity Core |  | 2 | 9 | 11
+R7: Heretics & Rebels |  | 1 | 3 | 4
+R8: Hidden Giants |  | 1 | 3 | 4
+R9: Indian Modern |  | 4 | 1 | 5
+R10: Mystery Pack |  | 9 | 2 | 11
+R11: Stolen Light |  | 3 | 1 | 4
+R12: Women of Science |  | 5 |  | 5
+R13: Grand Total | 0 | 28 | 24 | 52
+R15: Gender | COUNTA of Card ID
+R16:  | 0
+R17: F | 28 |  |  |  |  |  |  |  | Fields | COUNTA of Card ID
+R18: M | 24 |  |  |  |  |  |  |  |  | 0
+R19: Grand Total | 52 |  |  |  |  |  |  |  | Astronomy | 2
+R20:  |  |  |  |  |  |  |  |  | Astronomy, Astrophysics | 1
+R21:  |  |  |  |  |  |  |  |  | Astronomy, Cosmology | 1
+R22:  |  |  |  |  |  |  |  |  | Astronomy, Mathematics, Geophysics | 1
+R23:  |  |  |  |  |  |  |  |  | Astronomy, Mathematics, Hydrology, Astrology | 1
+R24: COUNTA of Card ID | Gender |  |  |  |  |  |  |  | Astronomy, Mathematics, Optics, Crystallography | 1
+R25: Rarity |  | F | M | Grand Total |  |  |  |  | Astrophysics, Cosmology | 1
+R26:  | 0 |  |  | 0 |  |  |  |  | Astrophysics, Radio Astronomy | 1
+R27: Asteroid |  | 6 | 9 | 15 |  |  |  |  | Biochemistry, Genetics, Microbiology | 1
+R28: Blackhole |  | 3 | 2 | 5 |  |  |  |  | Biology, Evolutionary Biology | 1
+R29: Moon |  | 7 | 7 | 14 |  |  |  |  | Botany, Genetics, Agriculture | 1
+R30: Saturn |  | 8 | 2 | 10 |  |  |  |  | Chemistry, DNA Nanotechnology, Cell Biology | 1
+R31: Sun |  | 4 | 4 | 8 |  |  |  |  | Chemistry, History of Science | 1
+R32: Grand Total | 0 | 28 | 24 | 52 |  |  |  |  | Chemistry, Pharmacology | 1
+R33:  |  |  |  |  |  |  |  |  | Chemistry, X-ray Crystallography, Molecular Biology | 1
+R34:  |  |  |  |  |  |  |  |  | Computer Science, Computational Imaging | 1
+R35: Nationality | COUNTA of Card ID |  |  |  |  |  |  |  | Computer Science, Mathematics | 1
+R36: American | 9 |  |  |  |  |  |  |  | Electrical Engineering, Invention | 1
+R37: English | 7 |  |  |  |  |  |  |  | Electrical Engineering, Microwave Engineering | 1
+R38: Indian | 2 |  |  |  |  |  |  |  | Electrical Engineering, Physics | 1
+R39: Serbian-American | 1 |  |  |  |  |  |  |  | Genetics, Biology, Botany | 1
+R40: Serbian | 1 |  |  |  |  |  |  |  | Genetics, Cytogenetics | 1
+R41: Russian / Soviet | 1 |  |  |  |  |  |  |  | Genetics, Cytology | 1
+R42: Roman Egyptian (Alexandria) | 1 |  |  |  |  |  |  |  | Materials Science, Chemistry | 1
+R43: Polish-French | 1 |  |  |  |  |  |  |  | Mathematics | 2
+R44: Persian (Afshana, modern Uzbekistan) | 1 |  |  |  |  |  |  |  | Mathematics, Astronomy | 2
+R45: Northern Irish | 1 |  |  |  |  |  |  |  | Mathematics, Astronomy, Philosophy | 1
+R46: Japanese | 1 |  |  |  |  |  |  |  | Mathematics, Astronomy, Physics | 1
+R47: Italian | 1 |  |  |  |  |  |  |  | Mathematics, Computing | 1
+R48: Israeli | 1 |  |  |  |  |  |  |  | Mathematics, Orbital Mechanics | 1
+R49: Indian-American (Coimbatore, Tamil Nadu) | 1 |  |  |  |  |  |  |  | Mathematics, Theoretical Physics | 1
+R50: Indian (works in USA) | 1 |  |  |  |  |  |  |  | Medicine, Epidemiology | 1
+R51: Indian (Varanasi / Kashi) | 1 |  |  |  |  |  |  |  | Medicine, Philosophy, Astronomy, Chemistry | 1
+R52: Indian (Ujjain) | 1 |  |  |  |  |  |  |  | Meteorology, Physics, Instrumentation | 1
+R53: Indian (Sangamagrama, modern Irinjalakuda, Kerala) | 1 |  |  |  |  |  |  |  | Microbiology, Genetics | 1
+R54: Indian (Peermade, Kerala) | 1 |  |  |  |  |  |  |  | Nuclear Physics | 1
+R55: Indian (Karnataka) | 1 |  |  |  |  |  |  |  | Nuclear Physics, Particle Physics | 1
+R56: Indian (Bengali) | 1 |  |  |  |  |  |  |  | Paleontology, Geology | 1
+R57: Indian (Bengal) | 1 |  |  |  |  |  |  |  | Pharmacology, Traditional Medicine | 1
+R58: German-Swiss-American | 1 |  |  |  |  |  |  |  | Physics, Astronomy, Mathematics | 1
+R59: German-American | 1 |  |  |  |  |  |  |  | Physics, Biology, Architecture | 1
+R60: German | 1 |  |  |  |  |  |  |  | Physics, Biology, Botany | 1
+R61: French / American | 1 |  |  |  |  |  |  |  | Physics, Chemistry | 2
+R62: French | 1 |  |  |  |  |  |  |  | Physics, Cosmology | 1
+R63: Danish | 1 |  |  |  |  |  |  |  | Physics, Mathematics | 2
+R64: Cuban | 1 |  |  |  |  |  |  |  | Physics, Mathematics, Astronomy | 1
+R65: Chinese-American | 1 |  |  |  |  |  |  |  | Surgery, Medicine, Anatomy | 1
+R66: Chinese | 1 |  |  |  |  |  |  |  | Grand Total | 52
+R67: British-American | 1
+R68: Austrian-Swedish | 1
+R69: Austrian-American | 1
+R70: Austrian (Silesian) | 1
+R71: Austrian | 1
+R72: American (African-American) | 1
+R73:  | 0
+R74: Grand Total | 52

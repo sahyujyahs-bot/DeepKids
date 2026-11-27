@@ -1,0 +1,292 @@
+# DeepKids HomeSchooling Track / Game Types Universe (copied from Google Sheets, 2026-11-27)
+R1: 🕹 Universal Game Types / Formats
+R2: 🎲 A. Chance & Randomness
+R3: Dice / Spinners / Coins → randomize outcomes.
+R4: Draw-from-Deck → unknown card creates suspense.
+R5: Lottery / Raffle → win by chance.
+R6: Push-Your-Luck → risk vs reward, stop or continue.
+R7: 🧩 B. Puzzle & Problem Solving
+R8: Jigsaw Assembly → piece-to-picture.
+R9: Pattern Recognition → sequence, logic, visual.
+R10: Escape Room / Clue Chains → solve step by step.
+R11: Hidden Objects / Spot the Difference.
+R12: Riddles / Lateral Thinking Challenges.
+R13: 🎯 C. Collection & Matching
+R14: Memory Flip → pair finding.
+R15: Domino Chains → match ends.
+R16: Set Building → collect 3 of a kind, complete families.
+R17: Trading/Swapping → barter system.
+R18: Bingo → match drawn items to board.
+R19: 🚶 D. Movement & Embodied Play
+R20: Relay Races → pass objects, timed.
+R21: Obstacle Course → crawl, climb, balance.
+R22: Dance / Freeze Games.
+R23: Simon Says / Copycat.
+R24: Scavenger Hunt → find, fetch, collect.
+R25: Human Domino / Chain Reaction.
+R26: 🧑‍🤝‍🧑 E. Social Role & Simulation
+R27: Roleplay / Pretend → kids embody characters.
+R28: Charades / Acting Guess.
+R29: Tableau → freeze into shapes/scenes.
+R30: Role Swap → kid as teacher/parent.
+R31: Debate / Judge & Jury.
+R32: Market Simulation → trade, buy, sell.
+R33: 🎭 F. Story & Narrative
+R34: Reading Stories, Writing Stories
+R35: Story Dice / Story Cards.
+R36: Build-a-Story Chain → each adds a sentence.
+R37: Choose Your Path → branching decisions.
+R38: Mystery / Detective Games.
+R39: Adventure Quests → missions, journeys.
+R40: Puppet/Mask Theatre.
+R41: 🎨 G. Creative Expression
+R42: Drawing Prompts → doodle then guess.
+R43: Collaborative Drawing → pass paper.
+R44: Painting Challenges → interpret music/emotion.
+R45: Build / Sculpt / Craft as Play.
+R46: Dance Improvisation.
+R47: Music-Making → rhythm circles, soundscapes.
+R48: 🧠 H. Strategy & Tactics
+R49: Board Strategy → capture territory, outsmart opponent.
+R50: Resource Management → limited tokens, spend wisely.
+R51: Planning Ahead → chess-like, predict moves.
+R52: Bluffing / Hidden Info → “Werewolf”-style games.
+R53: Co-op Strategy → group beats a system.
+R54: 🔄 I. Transformation & Manipulation
+R55: Break & Rebuild → entropy, Legos, clay.
+R56: Combination Games → mix two things into third.
+R57: Mutation/Variation → tweak rules or pieces.
+R58: Before/After Transformations → reveal what changes.
+R59: 🕵️ J. Information & Knowledge Games
+R60: Trivia / Quiz Style.
+R61: Guess Who / Deduction Games.
+R62: 20 Questions.
+R63: Sorting/Classifying Challenges.
+R64: Detective Work → “find the cause.”
+R65: 📱 K. Digital-Light Mechanics (Optional)
+R66: Timers / Beat the Clock.
+R67: QR Treasure Hunt.
+R68: AR Peek / Pop-up Clues.
+R69: Stop-Motion Animation.
+R70: Digital Pictionary / Drawing Board.
+R72: 🎮 The Big Gameplay Library (for Kids ~6+)
+R73: 🎲 1. Card-Based Play
+R74: Draw & Do → instruction card.
+R75: Matching → pairs, memory flip.
+R76: Sorting → by category, property.
+R77: Sequencing → timelines, life cycles.
+R78: Guessing → charades/Pictionary.
+R79: Collect & Trade → Pokémon style.
+R80: Build-a-Story → story prompts.
+R81: Role Cards → assume character, act it out.
+R82: 🎯 2. Board & Tabletop
+R83: Race-to-Finish → Snakes & Ladders, Candyland.
+R84: Tile Placement → Carcassonne, tangram-like.
+R85: Resource Collection → gather tokens/points.
+R86: Area Control → place pieces to “own” sections.
+R87: Path/Maze → find exits or solve routes.
+R88: Co-op Boards → beat the “board” together.
+R89: Modular Boards → rearrangeable tiles for replay.
+R90: Puzzle Boards → complete picture/map.
+R91: 🎲 3. Dice & Chance Games
+R92: Roll & Move → classic board mechanic.
+R93: Probability Play → guess before rolling.
+R94: Combo Goals → match pairs (e.g., 5+2 = 7).
+R95: Custom Dice → icons for actions/roles.
+R96: Push-Your-Luck → keep rolling until failure.
+R97: 🤸 4. Physical / Embodied Play
+R98: Action-Mimic → Simon Says, mirror game.
+R99: Scavenger Hunts → indoors/outdoors.
+R100: Obstacle Course → crawling, balancing.
+R101: Relay Chains → pass objects, human domino.
+R102: Freeze/Dance → music stops, freeze.
+R103: Movement Patterns → copy clap rhythms, step sequences.
+R104: Tug-of-War / Push-Pull → force & resistance.
+R105: Gesture Guessing → act without words.
+R106: 🧩 5. Puzzle & Build Games
+R107: Jigsaw → complete images.
+R108: Tangram / Geometric puzzles.
+R109: 3D Puzzles → cubes, models.
+R110: Construction → Lego, blocks, magnetic tiles.
+R111: Pattern Replication → copy designs.
+R112: Break & Rebuild → entropy/order.
+R113: Hidden Picture / Spot the Difference.
+R114: Maze Solving → pencil, string, or physical.
+R115: 🎭 6. Story & Roleplay
+R116: Role Cards → kids play scientist, planet, particle.
+R117: Story Dice → roll pictures, weave story.
+R118: Guided Roleplay → teacher narrates scenario, kids act.
+R119: Puppet Theatre → act with puppets.
+R120: Costume/Mask Play → embody concepts.
+R121: “As If” Games → pretend to be an object (electron, tree, photon).
+R122: Detective Play → solve mystery cause-effect.
+R123: 🎶 7. Music & Sound Games
+R124: Clap-Back Rhythms → repeat beats.
+R125: Rhythm Copy → stomp, tap, drum imitation.
+R126: Freeze Dance → move until music stops.
+R127: Sound Hunt → identify sounds blindfolded.
+R128: Make Instruments → bottle flutes, rubber band guitars.
+R129: Group Orchestra → kids each make sound, combine.
+R130: Musical Chairs → cause-effect + chaos.
+R131: Sound Symmetry → echo game.
+R132: 🎨 8. Art & Creative Games
+R133: Drawing Prompts → “Draw time as an animal.”
+R134: Collaborative Drawing → pass paper, each adds.
+R135: Symmetry Art → fold/ink blots.
+R136: Mandala Coloring → rotational symmetry.
+R137: Doodle Transformations → turn scribble into object.
+R138: Pictionary / Guess the Drawing.
+R139: Painting to Music → interpret sounds visually.
+R140: Shadow Drawing → trace objects in light.
+R141: Sculpture/Clay Play → model atoms, mountains, etc.
+R142: 🎤 9. Acting & Theatre Games
+R143: Charades → act out concepts.
+R144: Mirror Acting → mimic partner.
+R145: Role Swap → child is “teacher,” parent is “student.”
+R146: Improvisation → “What happens next?”
+R147: Tableau → freeze in a shape/scene.
+R148: Gibberish Acting → act concept without words.
+R149: Hot Seating → one child answers questions as a character.
+R150: 🧠 10. Challenge & Competition
+R151: Minute-to-Win-It → 60-sec tasks (stack cups, balance).
+R152: Collect-the-Most → scavenger/token race.
+R153: Beat-the-Clock → timed tasks.
+R154: Team vs Team Challenges.
+R155: Guess & Score → trivia-style with points.
+R156: Prediction Contests → guess outcomes (probability).
+R157: 🤝 11. Cooperative / Social Games
+R158: Group Puzzle → only solvable if all contribute pieces.
+R159: Story Chain → each adds a sentence.
+R160: Shared Build → tower/bridge with blocks.
+R161: Pass-the-Secret → telephone/entropy game.
+R162: Group Symmetry → kids arrange into patterns.
+R163: Co-op Defense → beat the “board” or “clock” together.
+R164: 🌳 12. Outdoor & Exploration
+R165: Nature Scavenger Hunt → find leaves, rocks, patterns.
+R166: Map Exploration → hide clues around house/garden.
+R167: Shadow Chase → measure shadows at different times.
+R168: Obstacle Trails → rope, chalk, cones.
+R169: Collect & Classify → bugs, leaves, rocks.
+R170: Cloud Spotting → shapes & symmetry.
+R171: Night Sky Watch → stars, moon phases.
+R172: 📱 13. Digital-Light Hybrids
+R173: QR Clue Hunt → scan to get new clue.
+R174: Digital Spinner / Dice apps.
+R175: AR Peek → see 3D model over card (optional).
+R176: Stop-Motion Animation → kids film their toys moving.
+R177: Audio Recording → “record your thunder sound.”
+R178: 🔢 Math-Related Gameplay
+R179: Number Bingo → call out answers, kids mark numbers.
+R180: Math Board Race → solve sums to move forward.
+R181: Card Math Wars → flip cards, add/multiply fastest wins.
+R182: Number Sorting → order shuffled cards (smallest → biggest).
+R183: Guess My Number → parent gives clues (“greater than 20, even”).
+R184: Shape Hunt → find shapes around house, photograph/draw.
+R185: Tangram Challenge → build animals/objects from shapes.
+R186: Pattern Repetition → continue number/color sequences.
+R187: Math Dominoes → connect sums to correct results.
+R188: Story Problems Acting → act out: “3 kids jump, 2 more join, how many?”
+R189: 📖 Reading & Word Games
+R190: Word Bingo → sight words or phonics sounds.
+R191: Scramble & Unscramble → letters on cards → make words.
+R192: Memory Match → word with picture.
+R193: Story Chain Reading → each kid/parent reads one sentence.
+R194: Treasure Hunt Words → hide word cards around house → assemble into a sentence.
+R195: Act the Word → draw card (“run,” “jump”) → act it, others guess.
+R196: Fill-in-the-Blank Stories → silly Mad Libs style.
+R197: Pass-the-Book → each adds a line/drawing to a story.
+R198: Reading Detective → find certain words in a page under time limit.
+R199: ✍️ Writing Games
+R200: Draw & Write → draw picture, write 1–2 sentences.
+R201: Letter Relay → write letters on cards, kids arrange into words.
+R202: Invisible Ink → write with lemon juice, reveal with light.
+R203: Story Dice Writing → roll image dice, write short story.
+R204: Copy Cat Challenge → parent writes silly sentence, kid copies perfectly (timed).
+R205: Word Build Race → write as many words as possible from given letters.
+R206: Postcard Game → write short message to imaginary character (dinosaur, astronaut).
+R207: Caption This → show funny picture → kids write a caption.
+R208: ⌨️ Typing & Computer Skills (Screen-Light)
+R209: Typing Race → short words typed fastest.
+R210: Keyboard Treasure Hunt → “Find the A key! Now find Enter!”
+R211: Type My Name → type own name, family names.
+R212: Copy Challenge → display 1 short sentence, kids copy it.
+R213: Typing to Rhythm → type letters along with a clap or metronome.
+R214: Keyboard Simon Says → “Press F + J,” “Press Shift + Space.”
+R215: Draw with Keyboard → type symbols to make patterns (//// ****).
+R216: Mouse Maze → guide pointer through digital maze.
+R217: Drag & Drop Sorting → simple classification in apps.
+R218: Click Race → click certain colors/numbers fastest.
+R219: 🎼 Music + Math/Language Crossovers
+R220: Rhythm Counting → clap 2, 4, 6 beats → count aloud.
+R221: Musical Spelling → play note per letter → spell words as music.
+R222: Math Dance → call “Jump 3 times, spin twice.”
+R223: Beat Patterns → kids guess next in rhythm sequence.
+R224: 🧩 Logic & Thinking Games
+R225: Sudoku (Kid Version) → 4x4 with numbers or pictures.
+R226: Odd One Out → find item that doesn’t fit pattern.
+R227: Sorting Challenges → classify cards/objects by more than one rule (red + triangle).
+R228: If…Then Game → parent says “If I say CAT, you say DOG.” Add twists.
+R229: Memory Chains → “I saw an apple, and a ball, and a cat…” each adds.
+R230: 🔬 1. Experiments-as-Play
+R231: (Drop a ball, burn paper with a lens, grow crystals)
+R232: Falls under Puzzle & Problem-Solving (kids predict → test → see feedback).
+R233: Also under Exploration / Simulation → you’re simulating physics or natural laws.
+R234: 👉 Key mechanic = hypothesis + test + observe.
+R235: So in taxonomy: Experiments = Problem-Solving + Simulation mechanics.
+R236: 🤸 2. Activities / Embodied Challenges
+R237: (Run around house, jump, relay, freeze dance)
+R238: Already under Movement & Embodied Play.
+R239: Key mechanic = body as tool.
+R240: 👉 Often overlaps with Sports/Game mechanics (competition, time, scoring).
+R241: 🏏 3. Sports & Games (Chess, Cricket, etc.) as Cross-Learning
+R242: These map into classic Strategy / Competition mechanics:
+R243: Chess → Strategy, Planning Ahead, Pattern Recognition.
+R244: Cricket / Football → Teamwork, Roleplay (batsman/bowler/goalkeeper), Probability (coin toss, outcomes), Physics (forces, angles).
+R245: Racing games → Time pressure, Optimization.
+R246: 👉 Sports add team, score, and time layers that pure experiments often lack.
+R247: 🗺 4. Exploration / Outdoor Play
+R248: (Treasure hunts, map quests, scavenger challenges)
+R249: Taxonomy: Exploration mechanics.
+R250: Different from experiments: no “lab result,” instead discovery, searching, spatial reasoning.
+R251: 🧪 5. “Run-Your-Own Lab” Games
+R252: Parent sets rules → kid tweaks variables (drop ball on sand vs floor, change height, change shape).
+R253: That’s Rule Variation mechanics → turning science into iterative play.
+R254: 🕹 Extended Gameplay Categories (to cover your cases)
+R255: In addition to Cards / Boards / Dice / Puzzles / Roleplay / Art / Music / Theatre, we must also explicitly include:
+R256: Experimentation Games → Predict → Test → Observe → Reflect.
+R257: Embodied / Physical Activity Games → Body is tool (run, jump, act).
+R258: Sports Mechanics → Team, competition, scoring, time.
+R259: Exploration / Quest Games → Hunt, discover, map.
+R260: Rule Variation Games → tweak variables to explore outcomes.
+R261: 🔬 Science Experiments as Gameplay Types
+R262: 1. Predict–Test–Observe (Core Experiment Play)
+R263: Setup → ask kid to predict outcome.
+R264: Run experiment → compare result.
+R265: Example: Drop a feather vs a ball → which lands first?
+R266: 👉 This is the “Guess & Reveal” mechanic, same as drawing a mystery card, but in real world.
+R267: 2. Variable-Changing Experiments (Rule Variation Play)
+R268: Repeat with 1 change (height, size, material).
+R269: Kids compare results.
+R271: Example: Bounce different balls from same height → which bounces higher?
+R272: 👉 Same structure as “tweak rules in a board game” → teaches systems thinking.
+R273: 3. Cause & Effect Chains (Experiment as Domino)
+R275: One event triggers another.
+R277: Example: Vinegar + baking soda → gas → blows up balloon.
+R279: Treat as chain-reaction game (like Rube Goldberg).
+R280: 👉 Mechanic = “Trigger something and see cascade.”
+R281: 4. Exploration Experiments (Discovery Play)
+R283: Open-ended, no set “right” answer.
+R285: Example: Shine flashlight on objects → what shadows/shapes appear?
+R287: Mechanic = Exploration / Mapping.
+R288: 5. Competition Experiments (Challenge Play)
+R290: Time it, measure it, race it.
+R292: Example: Whose paper airplane flies farthest?
+R294: Mechanic = Sports overlay on science.
+R295: 6. Simulation Experiments (Model Play)
+R297: Use simple objects to model big systems.
+R299: Example: Bed sheet + balls → spacetime curvature.
+R301: Mechanic = Roleplay but with objects.
+R303: Dumb Charades
+R304: Guess The Word
+R305: Guess the Person
+R306: 20 Questions

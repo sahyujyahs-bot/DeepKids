@@ -1,0 +1,61 @@
+# DeepKids HomeSchooling Track / Learning Modes (copied from Google Sheets, 2026-11-27)
+R1: 🧠 Types of Learning / Modes / Processes
+R2: 1. Sensory Modes (How information enters)
+R3: Visual → diagrams, colors, patterns, watching demos.
+R4: Auditory → stories, songs, rhythms, instructions.
+R5: Kinesthetic → movement, touch, physical manipulation.
+R6: Oral/Linguistic → speaking, discussing, storytelling.
+R7: Written → reading, note-taking, writing reflections.
+R8: Multi-sensory → combining 2+ channels (art + story + sound).
+R9: 2. Cognitive Processes (What brain does with input)
+R10: Memorization → recall facts, names, steps.
+R11: Comprehension → understand meaning, restate.
+R12: Application → use knowledge in a new task.
+R13: Analysis → break into parts, find relationships.
+R14: Synthesis/Creation → combine to make something new.
+R15: Evaluation → judge, debate, critique.
+R16: 👉 (These are Bloom’s levels, but simplified for kids).
+R17: 3. Experiential Modes (Learning by Doing)
+R18: Exploration → try without instructions, see what happens.
+R19: Experimentation → structured trial and error.
+R20: Simulation → model bigger system (roleplay atom/planet).
+R21: Practice / Drill → repeat until mastery (typing, math facts).
+R22: Project-based → build something (poster, model, story).
+R23: Play-based → game as main medium.
+R24: Problem-based → solve challenge with constraints.
+R25: 4. Social Modes (Learning with Others)
+R26: Imitation → copy peer/parent.
+R27: Discussion → talk through ideas.
+R28: Cooperation → build something together.
+R29: Competition → try to outdo peers (healthy rivalry).
+R30: Teaching Others → kid explains to sibling/parent → retention spikes.
+R31: 5. Reflective Modes (Turning experience into insight)
+R32: Self-questioning → “Why did this happen?”
+R33: Comparison → noticing differences, similarities.
+R34: Prediction vs Outcome → testing intuition.
+R35: Metacognition → “How did I solve this?”
+R36: Journaling / Drawing reflections → capturing thoughts.
+R37: 6. Creative & Expressive Processes
+R38: Artistic expression → drawing, music, dance, theater.
+R39: Storytelling → narrative framing.
+R40: Roleplay → embodying characters or forces.
+R41: Invention / Design Thinking → “How else can we do this?”
+R42: Improvisation → spontaneous creation.
+R43: 7. Embodied / Emotional Learning
+R44: Emotional association → surprise, delight, frustration → memory sticks.
+R45: Identity connection → “I am the Sun / I am the Explorer.”
+R46: Awe & Wonder → encountering the vast (universe, infinity).
+R47: Failure & Retry → safe mistakes build resilience.
+R48: 8. Inquiry-Based Processes (Core for DeepKids)
+R49: Questioning → asking own questions.
+R50: Hypothesizing → forming guesses.
+R51: Testing → experiment.
+R52: Interpreting → making sense of results.
+R53: Connecting → link to larger patterns.
+R54: Generalizing → “If it works here, maybe it works there too.”
+R55: 9. Modes of Knowledge (What is being learned)
+R56: Conceptual → big ideas (gravity, entropy, story structure).
+R57: Procedural → “how to” (tie shoelaces, run experiment).
+R58: Experiential → “I saw/felt it happen.”
+R59: Metacognitive → “I know how I learn.”
+R60: Values/Ethical → fairness, teamwork, respect.

@@ -1,0 +1,57 @@
+# DeepKids - Science - Grade Concepts / Sheet15 (copied from Google Sheets, 2026-11-27)
+R1: Tile no | Quip | Region | Gravity Well | max steps in a turn | Gravity well type | Force card category | landing tile - drops | Landing tiles - climb | No of tiles fall or climb | roll dice no og tiles drop or climb
+R2: -10 | Gravity 0, Time Slows, Core | Core | Lose 2 Turns | 0 | turn loss | earth
+R3: -9 | Gravity lower than surface | Mantle | climb to -1 | 1 | opportunity | body | -1 |  | 8
+R4: -8 | time slows close to the center | Mantle | lose 1 turn | 0 | turn loss | water
+R5: -7 | crushed from the pressure above | Mantle | Drop to -9 | 2 | doownfall | body | -9 |  | -2
+R6: -6 | sticky sludge resists movement | Mantle | lose 1 turn | 0 | turn loss | water
+R7: -5 | brittle crust cracks under weight | Crust | drop to -6 | 1 | doownfall | body | -6 |  | -1
+R8: -4 | crust absorbs small quakes | Crust | lose 1 turn | 0 | turn loss | earth
+R9: -3 | Increasing gravity near surface | Crust | drop to -7 | 3 | doownfall | any 2 | -7 |  | -4
+R10: -2 | crust plates shift and move | Crust | drop to -6 | 1 | doownfall | earth | -6 |  | -4
+R11: -1 | stable crust platform for life | Crust | safe spot | 0 | safespot | nil
+R12: 0 | Earth''s surface starting point | Surface | if round >1, reach ISS | 2 | opportunity | speed, speed | 35 |  | 35
+R13: 1 | sink hole- grund could collapse under you | Surface | drop to -3 | 4 | doownfall | earth | -3 |  | -4
+R14: 2 | ocean less dense than land - cant hold you as well | Surface | drop to -2 | 2 | doownfall | water | -2 |  | -4
+R15: 3 | gravity highest ar surface, but dense land holds you | Surface | climb to 4  | 4 | opportunity | energy | 4 |  | 1
+R16: 4 | himalayas- low gravity at altitude | Surface | climb to 19 | 3 | opportunity | speed, energy | 19 |  | 15
+R17: 5 | rough ocean waves drag you | Surface | drop to - 10 | 1 | doownfall | water | -10 |  | -15
+R18: 6 | losing balance at a cliff can be deadly | Surface | drop to -1 | 1 | doownfall | balance | -1 |  | -7
+R19: 7 | time is measured relative to surface | Surface | safe spot | 0 | safespot | nil
+R20: 8 | all weather and rain happens in troposphere | Troposphere | safe spot | 0 | safespot | nil
+R21: 9 | cold dense air and strong resistance | Troposphere | lose 2 turns | 0 | turn loss | any 2
+R22: 10 | storm and unpredictable wind  | Troposphere | roll dice again, even climb to 17, odd drop to -9 | 1 or 2 | downfall or opportunity | air | -9 | 17 | -19 | 7
+R23: 11 | thunder storms can push you up | Troposphere | climb to 19 | 3 | opportunity | any 2 | 19 |  | 8
+R24: 12 | tin air no lift | Troposphere | drop to -4 | 1 | doownfall | energy | -4 |  | -16
+R25: 13 | airplanes fly at troposphere edge -cause drag | Troposphere | drop to 8 | 1 | doownfall | air | 8 |  | -5
+R26: 14 | thin air - parachutes fail - hard fall | Stratosphere | drop to 6 | 2 | doownfall | energy | 6 |  | -8
+R27: 15 | ozone in stratosphere absorbs uv -is hot | Stratosphere | lose 1 turn | 0 | turn loss | air
+R28: 16 | minor decrease in gravity with height | Stratosphere | drop to 8 | 1 | doownfall | any 2 |  |  | -16
+R29: 17 | hot air above cold troposphere - no movement  | Stratosphere | safe spot | 0 | safespot | nil
+R30: 18 | time speeds with height - you age a bit faster | Stratosphere | drop to 10 | 2 or 3 | doownfall | speed | 10 |  | -8
+R31: 19 | strong horizontal winds in stratosphere | Stratosphere | drop to 0 | 2 | doownfall | balance | 0 |  | -19
+R32: 20 | military jets flying here can drag you | Stratosphere | drop to 15 | 1 | doownfall | balance | 15 |  | -5
+R33: 21 | mesosphere - air gets thinner with altitude | Mesosphere | drop to 13 | 2 | doownfall | energy | 13 |  | -8
+R34: 22 | meteors burning in the mesosphere can cause turbulence | Mesosphere | drop to 14 | 3 | doownfall | air | 14 |  | -8
+R35: 23 | highest gravity clouds signal fast wind and drag | Mesosphere | drop to 19 | 3 | doownfall | energy | 19 |  | -4
+R36: 24 | gravity waves are most active & hostile in mesosphere | Mesosphere | drop to 11 | 4 | doownfall | energy | 11 |  | -13
+R37: 25 | mesosphere helps stabilise earth's temperature | Mesosphere | safe spot | 0 | safespot | nil
+R38: 26 | near vacuum - low pressure warning | Mesosphere | drop to 15 | 1 | doownfall | any 2 | 15 |  | -11
+R39: 27 | extreme temperatuure shifts cause turbulence | Mesosphere | drop to 11 | 4 | doownfall | speed | 11 |  | -16
+R40: 28 | your gravitas has power too | Mesosphere | pull every player token 3 steps towards you |  | Gravitas | energy
+R41: 29 | coldest region -causes gravity waves to move upwards | Mesosphere | climb to 34 | 3 | opportunity | any 2 | 34 |  | 5
+R42: 30 | auroras - charged with high energy - jitters motion | Thermosphere | drop to 28 | 1 | doownfall | any 2 | 28 |  | -2
+R43: 31 | rare gravity waves rising upwards from lower atmosphere | Thermosphere | climb to 33 | 2 | opportunity | speed | 33 |  | 2
+R44: 32 | almost no air molecules in thermosphere | Thermosphere | drop to 16 | 2 | doownfall | energy | 16 |  | -16
+R45: 33 | surprise planetary alignment | Thermosphere | roll dice again, even climb to iss, odd - drop to 17 | 1 | downfall or opportunity | body | 17 | 35 | -16 | 2
+R46: 34 | Extreme Uv but no air to feel the heat or provide lift | Thermosphere | drop to 26 | 2 | doownfall | any 2 | 26 |  | -8
+R47: 35 | ISS |  | if moon is the mission, climb to L1 | 1 | opportunity | speed, energy
+R48: 36 | Gravity at 90% of the surface and no air to support | Thermosphere | drop to 25  | 1 | doownfall | air | 25 |  | -11
+R49: 37 | your gravitas has power too | Thermosphere | pull any player 3 steps closer to you |  | Gravitas | any 2
+R50: 38 | gps signals refract at the end of atmosphere | Exosphere | drop to 28 | 1 | doownfall | any 2 | 28 |  | -10
+R51: 39 | exobase - gets easier to exit earths atmosphere now | Exosphere | climb to L1 | 1 | opportunity | balance
+R52: 40 | No air in exosphere nothing to push on  | Exosphere | drop to 30 | 2 | doownfall | energy | 30 |  | -10
+R53: 41 | clam drifting zone - very few forces act | Exosphere | safespot | 0 | safespot | nil
+R54: 42 | exosphere edge - leaving earth's gravity for good | Exosphere | climb to L1 | 1 | opportunity | balance
+R55: 43 | temperature is meaningless without air | Exosphere | lose 1 turn or drop to 15 | 0 or 1 | turn loss or downfall | any 2 | 15 |  | -28
+R56: 44 | last bit of atmosphere - say bye to earth | Exosphere | climb to L1 or drop to 32 | 1 or 3 | downfall or opportunity | balance | 32 |  | -12

@@ -1,0 +1,14 @@
+# Evolution Picture Book / Sheet16 (copied from Google Sheets, 2026-11-27)
+R1: System | Male Bilaterians | Female Bilaterians
+R2: Genetic System | Typically XY or equivalent chromosomal system; genes regulate sperm production, smaller gametes. | Typically XX or equivalent; genes regulate oocyte production, larger gametes.
+R3: Reproductive System | Produce motile sperm; generally external fertilization initially; minimal resource investment. | Produce nutrient-rich eggs; internal fertilization evolved early; high resource investment.
+R4: Endocrine System | Hormones like androgens drive gamete production, behavior, and secondary traits. | Estrogen-like hormones regulate ovulation, cyclical readiness, and resource allocation.
+R5: Nervous System | Fewer neurons dedicated to sensory integration; simpler early neural circuits. | More neurons for internal state regulation; greater neural complexity for reproduction.
+R6: Immune System | Smaller immune organs; less robust immune response observed in many lineages. | Larger thymus/spleen analogs; stronger immune responses linked to reproductive demands.
+R7: Musculoskeletal System | Lean muscle adaptations for mobility and mating competition. | Adapted for endurance, protection of offspring, and hormonal resilience.
+R8: Integumentary System | Often less fat storage, different skin/hair expression (e.g., thicker dermal structures). | Greater fat storage for reproductive buffering; more responsive dermal changes.
+R9: Circulatory System | Efficient circulation oriented around mobility and short bursts of action. | Circulation tuned toward stability and long-term homeostasis (e.g., pregnancy).
+R10: Respiratory System | Simpler early structures; respiration scaled for activity bursts, not long-term load. | Larger capacity to exchange gases for self and potential offspring.
+R11: Digestive System | Efficient but less extensive, reflecting lower resource intake needs. | Adaptations for nutrient absorption, gestation demands, and microbiome maintenance.
+R12: Excretory System | Lower capacity for water conservation in early evolution; simpler waste expulsion. | Greater development of systems to manage pregnancy waste and conserve water.
+R13: Social/Behavioral Traits | More solitary or territorial; less involved in offspring rearing in many early species. | More social and cooperative in many species; vital in nurturing and teaching offspring.

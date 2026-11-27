@@ -1,0 +1,11 @@
+# DeepKids HomeSchooling Track / useful links (copied from Google Sheets, 2026-11-27)
+R3: topics to master by grade - Science | IXL Science | Online science practice https://share.google/h5diBxvI0J1S2z6YZ
+R4:  | KS1-2 science curriculum unit sequence | Oak National Academy https://share.google/j7zaT09FIVg8CGFV4
+R6: AI Learning Companions | https://socratiq.ai/
+R7:  | https://aws.amazon.com/blogs/publicsector/build-a-personalized-student-companion-powered-by-generative-ai-on-amazon-bedrock/
+R8:  | Gauth
+R10: Print on Demand Company | https://qikink.com/blog/custom-printed-paper-products/
+R11: Using Canon & papers to buy | https://www.youtube.com/watch?v=Y8z8NBE-1VA
+R13:  | https://rantonels.github.io/small-remark-lqg/
+R15:  | https://musiclab.chromeexperiments.com/Song-Maker
+R17:  | https://thescikuproject.com/

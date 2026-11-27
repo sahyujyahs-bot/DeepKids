@@ -1,0 +1,62 @@
+# DeepKids / To Do List (copied from Google Sheets, 2026-11-27)
+R2:  | Task Item | Deadline | Category
+R3: 1 | Products
+R4: a | Gravity Games
+R5:  | Finish GamePlay Book | 20th March | Product - EG
+R6:  | Make Glossary & 'Learnings' Book | 20th March | Product - EG
+R7:  | Finish Score Book | 20th March | Product - EG
+R8:  | FInish Box Design | 20th March | Product - EG
+R9:  | Box Samples & Production - find manufacturers, samples, finalise, negotiate - Place Order for EG | 31st March | Product - EG
+R10:  | Buy Kit Items | 31st March | Product - EG
+R11:  | Print Boards & Cards for EG - Find printers, samples, finalise, bulk deal | 31st March | Product - EG
+R12:  | Finish Who Pulls Whom Cards + Box Design | 15th April | Product - GG
+R13:  | Finish Time Travel Comic Strip Art Work & Design | 15th April | Product - GG
+R14:  | Finish Gravity SCI. Cards + Box Design | 15th April | Product - GG
+R15:  | Production (Cards, Boxes, Boards) for other GG - Place order | 20th April | Product - GG
+R16: b | Evolution Book
+R17:  | Write the Remaining Pages Content | May, June, July | Product - EB
+R18:  | Rewrite All Content - Final | May, June, July | Product - EB
+R19:  | Complete other pages Art work | May, June, July | Product - EB
+R20:  | Final layout & Print ready File | May, June, July | Product - EB
+R21:  | Printout Sample & First Copies  | By End Of July '26 | Product - EB
+R23: 2 | Sales & Website - Acquisition
+R24:  | GamePlay How To Video | Finish by 30th April | Sales Content - EG,GG
+R25:  | EscapeGravity Pre Order Ad Video & Carousel Graphics | Finish by 31st March | Sales Content - EG,GG
+R26:  | Escape Gravity Kids Playing Clips | Shoot During Gameplay evenings from April Week 2 | Sales Content - EG,GG
+R27:  | Posters & messages for BoardGame Evening Signup (Sid & Dip) | Finish 20th March | Sales Content - EG,GG
+R28:  | Website-Landing Page - Gravity Games - Pre-Order with well done SEO | Finish by 15th April | Website
+R29:  | Get the word out through Dip, Manni, Sid - Signups for Boardgame evening  | Start from 30th March | Testing Marketing
+R30:  | TESTING -BoardGame Evening Hosting - Shoot clips, collect feedback - 3 Events , 3 Days | Start from 21st April | Testing
+R31:  | TESTING - Send out Gift Boxes to 5 Parents & get back videos, feedback, reviews | Start from 21st April | Testing Shipping
+R32:  | Insta ads /Linkedin ads - for Pre-Orders | Start from 1st May | Sales Ads - PreOrder
+R33:  | Website- Payment gateway, logistics, personalised emails & notifications, google analytics & tracking integrations | Finish by 10th May | Website
+R34:  | Setup Email & notifications pipeline for website triggers , signups, insta interactions | Finish by 31th May | Retargeting Communication
+R35:  | Setup Google retargeting ads for website triggers | Start June 1st | Retargeting Ads
+R36:  | Identify parent+kid content creators - partner for playing & review videos, unboxing video, gameplay clips | Start by 1st May | Influencer Marketing & Content Gen
+R37:  | Host Free/Paid Boardgame evenings at Apartments --- <who will host?Me??? :( - need someone for this> - 1 per month? | ? | Testing Marketing 
+R38:  | Host Paid Boardgame Evenings in Collab with OpenHouse /Similar Kids Events/Classes companies <can they handle the hosting part?> | Start by 15th May | Testing Marketing
+R39:  | Apartment/ Techpark - Stalls -- <will need someone with me or 2 people instead of me - gotta figure> | ? | Offline Sales
+R41: 3 | Operations - Procument, Logistics, Order Fulfilment
+R42:  | Identify wholesalers for Kit Items, negotiate & Buy | Finish by 31st March | Procurment - EG
+R43:  | Box assembly - Do at home myself for 1st 50 boxes | From April | Order Fulfilment Routine
+R44:  | Box Assembly - Look for solutions for scale | Start &Setup in June/July | Order Fulfilment Routine
+R45:  | Finalise delivery partners through Amazon on other service providers & rates | By End of April | Order Fulfilment -Logistics Partnership
+R46:  | Packaging material, invoicing setup for shipping & logistics website integration | By End of April | Order Fullfilment- Logistics setup
+R48: 4 | Marketing & Community - Brand and Aid Acquisition & Retention ⏎ Social Media - daily posting - Content Calendar - min 1 post per day to start with  | (Start from May 1st)
+R49:  | Social Media - Detailed content pipeline & ideas | 31st March | Social Media - ContentCalendar
+R50:  | Make them yourself or find someone to outsource this to - Keep content ready for next 30 days + 30 pieces of buffer content always | Finish by 30th April  ⏎ (60 Content pieces)  ⏎ Continue to create 30+ content pieces every month | Social Media - Content Gen
+R51:  | Follow target audience, engage & interact with their content  - some kind of interaction with min 10 prospective customers every day | Start from May 1st | Social Media - Ops
+R52:  | Community Content Calender , Content Creation, Pipeline & Sending Automation | Start in June | Community 
+R54: 5 | Retention & Customer Service
+R55:  | Communication from order placed till feedback collected
+R56:  | Connect with all  parents & kids who have recieved/bought boxes (1 day & 1 week after) ⏎  - collect feedback, videos of them playing,get them to post a review about us on their page
+R57:  | Cross promotional calls, notifications, emails, SMS
+R59: 6 | Legal
+R60:  | Company registration , bank account & paidup capital | May,June
+R61:  | Game Names Trademarks | May,June
+R62:  | Game Artwork Trademarks where possible | May,June
+R63:  | Other patents or trademarks to secure assets | May,June
+R64:  | CA , Accounting, etc | May,June
+R66: 7 | Extras
+R67:  | DeepKids Song  | By August '26
+R68:  | Explore publisher deal for Evolution Book

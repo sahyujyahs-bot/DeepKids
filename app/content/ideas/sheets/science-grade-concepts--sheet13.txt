@@ -1,0 +1,28 @@
+# DeepKids - Science - Grade Concepts / Sheet13 (copied from Google Sheets, 2026-11-27)
+R1:  |  | Each Turn
+R2:  | Constant for every turn, for every player | Darw An Activity Card 
+R3:  |  | Do It
+R4:  |  | Earn A Foce Card
+R6:  | Per Turn Variations can happen here | Get To Roll Dice
+R7:  |  | Move On The Board
+R8:  |  | Do What The Landing Tile Says  | - Turn loss Tile  - If it says lose turn(s), then dont roll dice the next tun(s) ; but do the activity & earn force cards every turn - only forego rolling dice & moving on the board
+R9:  |  |  | -  Opportunity Or Downfall Tile - Roll Dice again special cases -  if the landing tile says to roll dice again - then do it within the same turn only - before moving on to the next player - and now refer again to the what the next landing tile says
+R10:  |  |  | - DownFall & Death Tiles - If it says to drop to another tile - then drop at the end of this turn only - and again refer to this landing tile & follow accordingly
+R11:  |  |  | - A Card To Move Tiles - if it requires a card to move - then play it before the begining of your next turn to roll dice & move on the board - you have time till then to earn the required force card, even if you dont already have it - more opportunity for luck to play a roll
+R12:  |  |  | - safe spots - are simple  - land, stay, and other players turn goes on - you move out of it without having to pay any card 
+R13:  |  |  | - Opportunity tiles - if you have the required cards, use them and jump up - before the end of that round
+R15:  |  | Over Turn Cards | DownFall & Death Tiles also have over turn card icons on them - you can escape that gravity well of downfall or death - by playing the over turn cards, before the end of the round
+R28:  | Over Turn - Single | Over Turn - As Choice | Opportunity
+R29: Buoyancy | 1 | 2
+R30: Normal Force | 1 | 2
+R31: Physical Work | 1 | 3
+R32: Weight | 2
+R33: Air Lift | 1 | 2 | 2
+R34: Magnetic |  |  | 1
+R35: Neutral Pull | 1 |  | 3
+R36: Escape Velocity | 1 | 1 | 2
+R37: Sideways Velocity | 2 |  | 2
+R38: Knowledge | 3
+R39: COG | 1 | 2
+R40: Elastic Energy |  |  | 1
+R41: Air Resitance | 1 | 2

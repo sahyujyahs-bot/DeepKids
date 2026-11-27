@@ -1,0 +1,27 @@
+# DeepKids - Science - Grade Concepts / Pivot Table 4 (copied from Google Sheets, 2026-11-27)
+R1: COUNT of Tile no | Gravity well type
+R2: Region | doownfall | downfall or opportunity | Gravitas | opportunity | safespot | turn loss | turn loss or downfall | Grand Total
+R3:  |  |  |  | 1 |  |  |  | 1
+R4: Core |  |  |  |  |  | 1 |  | 1
+R5: Crust | 3 |  |  |  | 1 | 1 |  | 5
+R6: Exosphere | 2 | 1 |  | 2 | 1 |  | 1 | 7
+R7: Mantle | 1 |  |  | 1 |  | 2 |  | 4
+R8: Mesosphere | 6 |  | 1 | 1 | 1 |  |  | 9
+R9: Stratosphere | 5 |  |  |  | 1 | 1 |  | 7
+R10: Surface | 4 |  |  | 3 | 1 |  |  | 8
+R11: Thermosphere | 4 | 1 | 1 | 1 |  |  |  | 7
+R12: Troposphere | 2 | 1 |  | 1 | 1 | 1 |  | 6
+R13: Grand Total | 27 | 3 | 2 | 10 | 6 | 6 | 1 | 55
+R20: Force card category | COUNT of Tile no
+R21: air | 5
+R22: any 2 | 11
+R23: balance | 6
+R24: body | 4
+R25: earth | 4
+R26: energy | 9
+R27: nil | 6
+R28: speed | 3
+R29: speed, energy | 2
+R30: speed, speed | 1
+R31: water | 4
+R32: Grand Total | 55

@@ -1,0 +1,2 @@
+# Escape Gravity Board Game / GamePlay Rule Updates (copied from Google Sheets, 2026-11-27)
+R3:  | Removed the Play any 2 cards to move gravity well. They are also now Lost Turns

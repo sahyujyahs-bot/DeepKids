@@ -1,0 +1,61 @@
+# Escape Gravity Board Game / Board Tiles (copied from Google Sheets, 2026-11-27)
+R1: Tile Number | Region Name | Region Quip V2 | Gravity Well | OverTurn Force Card Category | Gravity Well Type | Final Quip | Illustration On Tile | Region Quip - Old | Over Turn Force Card Old version
+R2: 0 | 1Core | Force Of Gravity 0, Time Slows | Lose 2 Turns | Earth | Turn Loss |  |  | Gravity 0, Time Stops | Nil
+R3: 1 | 2Mantle | Time Stretches Closer To Center  | Lose 1 Turn | Body | Turn Loss |  |  | Time Slows | Elastic Energy Or Magnetic Energy
+R4: 2 | 2Mantle | Crushed From Pressure Above | Drop to Tile 1 | Body | Downfall |  |  | Low Gravity & Opposing Force - Slow Descent | Neutral Pull
+R5: 3 | 2Mantle | Sticky Sludge Mantle Resists Movement | Lose 1 Turn | Water | Turn Loss |  | Glowing Honey Like motlen layer | High Viscocity Layer - Movement Slow | Buoyancy Card
+R6: 4 | 2Mantle | Gravity Increases Upwards | Climb to Tile 9 | Body | Opportunity |  |  | Slow flowing solid rock layer  | Nil
+R7: 5 | 3Crust | Brittle Crust - Cracks Under Weight | Drop To Tile 4 | Earth | Downfall |  |  | Brittle - Could cave in with weight | Nil
+R8: 6 | 3Crust | Crust Absorbs Small Quakes | Lose 1 Turn | Earth | Turn Loss |  |  | An Earthquake shock absorbed | Physical Work Card
+R9: 7 | 3Crust | Increasing Gravity Near Surface | Drop To Tile 3 | Any 2 | Downfall |  |  | Gravity increasing, climbing out difficult | Nil
+R10: 8 | 3Crust | Crust Plates Shift & Move | Drop To Tile 7 | Earth | Downfall |  |  | Rock layers keep shifting | Normal Force Card
+R11: 9 | 3Crust | Stable Crust Platform For  Life | Safe Spot | Nil | Safe |  |  | Platform for Life | Nil
+R12: 10 Starting Point | 4Surface | Expeditions Begin From The Surface | If round>1, Jump to ISS | Speed*2 | Opportunity |  |  | Space Expeditions Start here | Nil
+R13: 11 | 4Surface | SinkHole - Ground Collapse Under You | Drop To Tile 7 | Earth | Downfall |  | Sinkhole Illustration | Granite Mound - Below surface density high -Gravity high | ?
+R14: 12 | 4Surface | Ocean Less Dense Than Land - Sink | Drop to Tile 8 | Water | Downfall |  | Ocean | Ocean - Surface density too low to hold you against gravity | COG Or Physical Work
+R15: 13 | 4Surface | Gravity Is Highest At The Surface, But The Land Holds You | Jump To Tile 14 | Energy | Opportunity |  | Starting Point Indication | Starting Point | Nil
+R16: 14 | 4Surface | Himalayas - Gravity Low At Altitude - Time To Fly | Jump to Tile 29 | Energy & Speed | Opportunity |  | Snow peaked mountain | Himalayas - High altitude, low surface density, low gravity | Nil
+R17: 15 | 4Surface | Rough Ocean Waves Drag You | Drop to Tile 0 | Water | Downfall |  | Rough Ocean | Treacherous Ocean | COG or Buoyancy Card Or Physical Work
+R18: 16 | 4Surface | Losing Balance At Cliff Edge Is Deadly | Drop to Tile 9 | Balance | DownFall |  | Cliff Edge | Cliff Edge | COG
+R19: 17 | 4Surface | We Meaure Time In Other Layer Against The Surface Time | Safe Spot | Nil | Safe |  | City Scape | Pull Of Gravity is highest | Nil
+R20: 18 | 5Troposphere | All Weather & Rains Happens In Troposphere | Safe Spot | Nil | Safe |  |  | All Weather & Rains Happen here | Nil
+R21: 19 | 5Troposphere | Cold Dense Air In Troposphere ,Strong Resistance | Lose 2 Turns | Any 2 | Turn Loss |  |  | Drag Storm - Intense air resistance | Weight Card  Or Magnetic or Elastic
+R22: 20 | 5Troposphere | Storm & Unpredicatble Wind | Roll dice again , if even goto 27, if odd, go to 17 1 | Air | Opportunity Or DownFall |  | Storm Illustration | Storm Forming | Nil
+R23: 21 | 5Troposphere | Troposphere Thunder Storms Can Push You Upwards | Jump To Tile 28 | Any 2 | Opportunity |  |  | Temperature & Pressure drops as you go up | Nil
+R24: 22 | 5Troposphere | Thin Air - No Lift | Drop To Tile 6 | Energy | DownFall |  |  | Breathing is not easy | Air Lift Card
+R25: 23 | 5Troposphere | Airplanes Fly At The Troposphere Edge - Cause Drag | Drop to Tile 18 | Air | DownFall |  | Airplanes | Airplane Crossing - Strong Horizontal Wind | Air Resistance
+R26: 24 | 6Stratosphere | Air Thin In Stratosphere - Parachutes Fail- Hard Fall |  Drop to Tile 16 4 | Energy | DownFall |  |  | Thin Air- Cannot Provide Lift | Air Lift Or Normal Force or Air Reistance
+R27: 25 | 6Stratosphere | Ozone In Startosphere Absorbs UV & Is Hot | Lose 1 Turn | Air | Turn Loss |  | Failed Parachutes | Ozone Absorbs UV- Temperature Rises | Nil
+R28: 26 | 6Stratosphere | Gravity decrease is too little to work in favour | Drop to tile 18 | Any 2 | DownFall |  |  | Parachutes Dont Work | Buyonacy
+R29: 27 | 6Stratosphere | Hot Air Above Cold Troposphere Air - No Movement | Safe Spot | Nil | Safe |  |  | Stable Weather Free Layer | Nil
+R30: 28 | 6Stratosphere | Time Speeds Up With Height, You Age Faster | Drop to Tile 14 | Speed | Downfall |  |  | Low Air Resistance - Faster Drop | Sideways Velocity 
+R31: 29 | 6Stratosphere | Strong Horizontal Winds | Drop To Tile 6 | Balance | DownFall |  |  | Gravity Almost Same As Surface | Air Resistance
+R32: 30 | 6Stratosphere | Military Jets Fly Here, Can Drag You, Caution! | Drop to Tile 25 | Balance | DownFall |  | Military Jets Illustration | Military Jets Crossing | Escape Velocity Card
+R33: 31 | 7Mesosphere | Mesosphere -Air Gets Thinner With Altitude | Drop to Tile 16 | Energy | DownFall |  |  | Thin Air - Cannot Breathe | Knowledge Card 
+R34: 32 | 7Mesosphere | Metors Burn At Mesosphere Causing Turbulence | Drop to Tile 24 | Air | DownFall |  | Meteors | Gravity, Turbulence & Friction From Meteor Heating | Air Lift Or Normal Force or Air Reistance
+R35: 33 | 7Mesosphere | High Glowing Clouds - Signal Fast Wind & Drag | Drop to tile 29 | Energy | DownFall |  | Glowing Thin Clouds | Space Glow Highest Clouds  | Knowledge Card 
+R36: 34 | 7Mesosphere | Gravity Waves Are Most Active & Hostile | Drop to Tile 21 | Energy | DownFall |  |  | Meteor Drag Zone | Weight Card  Or Magnetic or Elastic
+R37: 35 | 7Mesosphere | Mesosphere Helps Stabilise Earth's Temperature | Safe Spot | Nil | Safe |  |  | Stabilizes Global Temperature | Nil
+R38: 36 | 7Mesosphere | Near Vaccum - Low Pressure Warning! | Drop to Tile 25 | Any 2 | DownFall |  |  | Pressure & Air Densite Too Low | Nil
+R39: 37 | 7Mesosphere | Extreme Temperature Shifts Cause Turbulence | Drop to Tile 30 | Speed | DownFall |  |  | Extreme Temperature Gradient - Turbulence | Sideways Velocity 
+R40: 38 | 7Mesosphere | Your Gravitas Has Power Too! | Every other player to move 3 steps towards you | Nil | Opportunity |  | self oneness energy emanating type illustration | Gravitas Well - Your own gravity surge momentarily | Nil
+R41: 39 | 7Mesosphere | Mesosphere's Coldest Region Cause Gravity Waves To Move Upwards | Jump To Tile 44 | Any 2 | Opportunity |  |  | Coldest - Temperature Starts Dropping Again | Nil
+R42: 40 | 8Thermosphere | Charged Glowing High Energy Auroras Jitters Motion | Drop To Tile 38 | Any 2 | DownFall |  | Auroras | Auroras - Charged Particles Here | Nil
+R43: 41 | 8Thermosphere | Rare Gravity Waves Rising Upwards From Lower Atmosphere | Jump To Tile 43 | Speed | Opportunity |  |  | High Energy Frontier | Weight
+R44: 42 | 8Thermosphere | Almost No Air Molecules | Drop to Tile 35  19 | Energy | DownFall |  |  | Near Vaccum | Physical Work or Espace Velocity
+R45: 43 | 8Thermosphere | Surprise Planetary Alignment | Roll Dice Again, Even - Jump to LEO, Odd - Drop To Tile 1 | Body | Opportunity Or DownFall |  | Show some planetary alignment? | Planetary Alignment | Knowledge Card
+R46: 44 | 8Thermosphere | Extreme UV, but no air to feel heat or provide lift | Drop to Tile 36 | Any 2 | Downfall |  |  | Extreme UV - But You Wont Feel  | Nil
+R47: 45 | Game End Goal 1 | Gravity at 90% at LEO, But ISS is 8X Faster Than Moon , So Inside ISS , Gravity Is Not Felt | Roll A 1 On Dice To Move to Tile 47 If Continuing  | Nil | - |  |  | ISS - LEO | Nil
+R48: 46 | 8Thermosphere | Your Gravitas Has Power Too! | You can pull any player closer to you by 3 steps or you jump to Tile 48 | Nil | Opportunity |  | self oneness energy emanating type illustration | Gravitas Well - Your own gravity surge momentarily | Nil
+R49: 47 | 8Thermosphere | GPS Signals Refract At The Edge Of Thermosphere | Lose A Turn | Any 2 | Turn Loss |  |  | GPS Signals Refracting | Nil
+R50: 48 | 9Exosphere | Exobase: Leaving Atmosphere | Play a Neutral pull card to reach L1 | Balance | Opportunity |  |  | Edge Of Space | Nil
+R51: 49 | 9Exosphere | No Air Pressure, Nothing To Push On | Drop to Tile 40 | Energy | DownFall |  |  | Air Pressure & Density Almost 0 | Knowledge
+R52: 50 | 9Exosphere | Calm drifting zone - very few forces act. | Nil | Nil | Safe |  |  | Safe Spot | Nil
+R53: 51 | 9Exosphere | Close To Exosphere Edge - Easy To Leave Earth's gravity for good | Play a Neutral pull card to reach L1 | Balance | Opportunity |  |  | Escaping Earth's Gravity Easiest | Nil
+R54: 52 | 9Exosphere | Temperature Is Meaningless - With No Air | Lose 1 Turn | Any 2 | Turn Loss |  |  | Temperature Is Meaningless | Nil
+R55: 53 | 9Exosphere | Last Bit Of Exosphere - Say Bye To Earth! | Play a Neutral pull card to reach L1 | Balance | Opportunity |  |  | Final Layer of Atmosphere | Nil
+R56: 54 | L1 | Earth's Pull & Moon's Pull Cancel Out Here | Roll A 3 to Move to L2 |  | Roll to Move |  |  | Earth Moon Lagrange Point 1 | Nil
+R57: 55 | L2 | A Stable Gravity Parking Spot Between Earth & Moon | Roll A 1 to Move to L3 |  | Roll to Move |  |  | Earth Moon Lagrange Point 2 | Nil
+R58: 56 | L3 | One Point Where Earths & Suns Pull Balance Out | Roll A 1 to move to L4 |  | Roll to Move |  |  | Sun Earth Lagrange Point 1 | Nil
+R59: 57 | L4 | 2nd Point Where Earths & Suns Pull Balance Out | Game End Goal 2 |  | Game Done |  |  | Sun Earth Lagrange Point 1 | Game Done
+R62:  |  | 32

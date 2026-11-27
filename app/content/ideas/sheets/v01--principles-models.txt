@@ -1,0 +1,22 @@
+# DeepKids V0.1 / Principles,Models (copied from Google Sheets, 2026-11-27)
+R4:  |  | Ask Questions
+R5:  |  | Make Choices
+R6:  |  | Get people onboard
+R7:  |  | Evaluation
+R8:  |  | Feedback - Peer
+R10:  |  | Challenge - commonly used solution - new creative solution
+R12:  |  | incubation period - gain more info & connect
+R14:  |  | Team activities | group collaboarations
+R16:  |  | Rank ideas based on likliness of others suggesting same ideas for given problems
+R18:  |  | Communication
+R20:  |  | Motivation - how to encourage for most creative solutions
+R22:  |  | require tasks to be authentic and represent a wide range of domains (e.g., science, social sciences, math, language arts) and situations (e.g., personal, public, educational, occupational).
+R24:  |  | conversation bet learner & virtual agents
+R26:  |  | Lil bit of Drama, Music, Reading , Writing
+R27:  |  | farming, gardening, cooking |  |  |  |  |  |  |  |  | 48
+R28:  |  |  |  |  |  |  |  |  |  |  | 480 | Weeks 
+R29:  |  | Activate prior knowlege during learning
+R31:  |  | Teaching, Enacting
+R33:  |  | Interpretations & Inferences from knowledge
+R35:  |  | Add more info/knowledge through time
+R37:  |  | we learn when we are surprised, schocked

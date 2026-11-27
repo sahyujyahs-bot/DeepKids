@@ -1,0 +1,313 @@
+# DeepKids HomeSchooling Track / Biology (copied from Google Sheets, 2026-11-27)
+R1: Concept(s) | About the Concept | Principles within the Concept | Philosophy underlying the Concepts | Experiments | Activities around the House | Activities outside the House & in Nature | Dance | Drama | Painting / Drawing | Music | Yoga / Breathing | Physical Games | Games – any kind | Reading | Writing – observations / stories / poems / answers | More Activities | Other Activities | Craft Activities | Co-creation output generating Activities | Parent: Topic explainer | Parent: Everyday prompts | Parent: Roles & setup | Parent: Scripts | Parent: Reflection prompts
+R2: What is Life
+R3: Subjective Experience
+R4: Self Awareness, Identity
+R5: Characteristics of life
+R6: Nature of science & scientific method
+R7: History of biology & key discoveries
+R8: Memory
+R9: DMN
+R10: Dopamine Addiction
+R12: Human anatomy (systems-based)
+R13: Homeostasis | Your body’s balance-keeper. It keeps temperature, water, and energy just right so you can play, think, and sleep. | (1) Feedback loops (when too hot → cool down). (2) Set points (like a comfy room temp). (3) Sensors–controllers–effectors (skin → brain → sweat glands). | Balance is not stillness; it’s gentle adjusting like a surfer staying on a wave. We learn to notice signals and respond kindly to the body. | Sweat Lab: Hand in warm water vs. fan; track skin temp with touch/ice cube timing. [P+C] (bowl, fan, ice). Salty Sip: Taste tiny pinches of salt in water to feel osmosis thirst signals (safe amounts). [P+C] Sugar Steady: Eat a small snack (fruit/crackers), play for 10 min, notice energy change; chart feelings. [Solo] | Thermostat Hunt: Find household “balancers” (fridge, AC, dimmer). Label with sticky notes. [P+C] Clothing Dial: Try layers, jump 1 min, remove/add and notice comfort. [Solo] Water Whisperer: Place 2 cups; drink small sips every 15 mins; note bathroom trips. [Solo] | Shade Chaser: Walk sun→shade; feel temp change; measure by time-to-sweaty. [Friends] Leaf Guard: Mist one plant, not the other; check wilting. [P+C] Puddle Patrol: Observe puddle shrinking; wind vs sun. [Solo] | Thermo Groove: Move slow when “snowflake”, fast when “sunbeam”, freeze when “just right”. [Friends] Fan-and-Flame: Partner fans with paper plate when music says “hot”. [P+C] Pulse Party: Dance 30s, check pulse, breathe down. [Solo] | Body Council: Kid plays “Brain Mayor”, parent as “Sweat Team”, plushies are “Sensors”; improv scenes (too hot kitchen!). [P+C] Crisis Call: A cookie monster wants more sugar; council decides balance plan. [Friends] Thirsty Planet: River town saves water. [Zoom] | Balance Bar Graph: Draw you in three weathers; color zones: hot/cold/just right. [Solo] Feedback Arrows: Blue arrows for cool-down, red for warm-up. [P+C] Set-Point Sun: Paint a thermostat with a smile when comfy. [Solo] | Tempo Thermostat: Clap fast (hot), slow (cold), medium (just right); switch on cue. [Friends] Rainstick Reset: Shake → breathe until beads stop = calm return. [Solo] Drum & Hum: Drum 10 beats, hum to settle. [P+C] | Cooling Cloud: Inhale 4, “blow soup” exhale 6; hand on belly. [Solo] Ocean Ears: Cup ears, listen to breath like waves. [Solo] Starfish Hand: Trace inhale/exhale along fingers. [P+C] | Set-Point Relay: Run to “Hot/Cold/Just Right” cones on parent cues. [Friends] Sweater Sprint: Wear sweater, run 30s, remove, compare feel. [P+C] Water Token Tag: Earn “sips” tokens after laps. [Friends] | Card Dial: Card game where red raises temp, blue cools; play to keep meter at 5. [Friends] Balance Bingo: Squares: drink water, rest, stretch, snack. [Solo] Feedback Flip: Flip a coin: heads = too hot, tails = too cold; act solution. [P+C] | Short reads: “Your Amazing Body Thermostat” (1‑page zine). Plant Water Watch mini article. Why We Sweat fact cards. | Notebook: “Today my body said… I listened by…”. Poem: “I am a thermostat.” Survey: Ask 3 family members their comfy temp. | Kitchen Chemistry Lite: Warm/room/cool water taste tests. Sock Thermometer: Wet vs dry sock on wrists (supervised). Ice Tower: Melt race under fan vs towel. | Mindful Snack: Apple slices + peanut butter → energy check-in. Shadow Breaks: Schedule 3 five‑minute calm resets. Bath Thermometer: Safe warm water test with elbow. | Cardboard Control Panel: Knobs for “water, warmth, calm, energy”. [P+C] Paper Fan: Decorate cool-down fans. Sweat Gland Puppets: Paper strip “sprayers”. | “Balance Me” Poster Pack: Printable meters, habit stickers, daily check chart. Feedback Loop Flipbook: Hot→sweat→cool sequence. Family Thermostat Pact: Rules everyone co-writes for summer/winter comfort. | Explainer: Homeostasis = body balance via feedback loops. Sensors (skin, brain) notice changes; effectors (sweat, shiver) adjust. Food & water fuel steady energy; rest returns to baseline. | Prompts: “What is your body asking for?” “Is this too hot, too cold, or just right?” “What’s one tiny dial you can turn now?” | Roles: Parent = Narrator (sets scenes), Safety Monitor (temp/food allergies), Co‑player (joins relays), Timekeeper (check‑ins every 10–15 min). Prep bowls/ice/fan, shade plan, water bottles. | Scripts: “Sensor says: cheeks warm. Brain Mayor calls Sweat Team!” “Our goal is ‘just right,’ not ‘perfect.’ What’s your next tiny dial?” “Try water first; then re‑check.” | Reflect: “When did a small change help a lot?” “Which dial (water, clothing, rest) you used most today?” “What body message do you ignore sometimes?”
+R14: Nervous & endocrine integration | Two messenger systems team up. Nerves send fast zaps; hormones send slow waves through blood. Together they plan, react, and keep balance. | (1) Speed vs duration. (2) Network (nerves) vs broadcast (hormones). (3) Integration: brain checks hormones; glands respond to brain. | Wisdom can be quick or slow. We practice matching the message to the moment—sprint or stroll, whisper or town‑announcement. | Reaction Ruler: Drop a ruler; measure catch distance (nerves). [Solo] Paper “Hormone” Diffusion: Food dye in water spreading (slow signal). [P+C] Reflex Tap: Knee reflex (gentle, supervised) vs deliberate kick (choice). [P+C] | Signal Stations: Place bells in rooms; one bell = nerve (instant), many bells = hormone (echo). [P+C] Kitchen Timer Test: 10‑sec rapid math vs 10‑min puzzle; which system fits? [Solo] Scent Messenger: Vanilla in one room diffuses; note timing. [P+C] | Bird Flock: Watch birds/squirrels; fast flinch vs calm forage. [Solo] Flower Clock: Note when blooms open/close (slow rhythms). [P+C] Trail Tasks: Sprint to a tree on clap (fast); wait 2 mins before snack (slow). [Friends] | Zap & Wave: Sharp moves on drum hits (nerve), flowing moves on sustained notes (hormone). [Friends] Stop‑Start Tai‑chi: Freeze–flow cycles. [P+C] Metronome Moods: Fast beat = alert dance; slow beat = calm sway. [Solo] | Brain HQ: Kid as “Commander Neuron,” parent as “Gland Council”; improv emergencies (bee! test! bedtime!). [P+C] Post‑Office Play: Letters (hormones) vs phone calls (nerves). [Friends] Weather Newsroom: Breaking news vs weekly forecast. [Zoom] | Neural Pathways Map: Draw roads from sense organs to brain; traffic lights = decisions. [Solo] Gland Garden: Sketch pituitary “sprinkler,” thyroid “sun,” pancreas “candy shop.” [P+C] Signal Comics: 4‑panel: problem → nerve ping → hormone help → balance. [Solo] | Call & Echo: Clap (call) + ooooh (echo). [Friends] Instrument Roles: Snare = nerves; cello = hormones. [P+C] Pulse to Piano: Play fast then slow to match heartbeat. [Solo] | Bee Breath (bhramari): hum to calm slow system. Box Breath 4‑4‑4‑4 for steady signals. Rocket Breath: 3 quick sniffs (alert), long exhale (settle). | Neuron Tag: Tag = nerve zaps; safe zones = glands releasing “shields”. [Friends] Balance Course: Quick hop then long hold pose. [P+C] Message Relay: Whisper chain vs written note passed around. [Zoom/Friends] | Card Draft: “Use Nerve or Hormone?” scenario cards. [Friends] Reflex Catch: Toss‑and‑clap patterns. [Friends] Endo‑Bingo: Squares: “hydrated”, “slept 9h”, “ate breakfast”, etc. [Solo] | Short reads: “Who’s in the Gland Council?” Mini‑bio of neurons. Daily Rhythms one‑pager. | Notebook: “A time I needed fast help…” Comic: “The Day Thyroid Slept In.” List: 5 slow habits that help me think fast. | Gelatin Diffusion: Dye in gelatin vs water (slower!) Lemon Alert: Smell lemon → salivate (integration). Sound & Startle: Pop a paper bag (warn first), track pulse jump + recovery. | Light Hygiene: Dim lights 1 hr pre‑bed for melatonin. Snack Plan: Protein + fruit for steady attention. Alarm Audit: Gentle sunrise alarm instead of loud buzzer. | Pipe‑Cleaner Neuron: Dendrites/axon model. Cardboard Endocrine Map: Flaps for glands. Signal Spinner: A spinner that lands on “fast/slow/both” to decide responses. | “Body Signals Playbook” Zine: Kid‑made guide of fast vs slow choices. Scenario Deck: Printable 30‑card pack with everyday dilemmas. Group Play Kit: Zoom slides + cue cards for stop/flow games. | Explainer: Nerves = quick electric messages along wires (neurons). Endocrine = chemical messages (hormones) in blood, slower but longer‑lasting. Brain and glands talk both ways to match needs. | Prompts: “Is this a sprint or marathon moment?” “What would the Gland Council suggest?” “How will today’s sleep help tomorrow’s thinking?” | Roles: Parent = Game Master (sets scenarios), Safety (noise/startle), Coach (sleep/light/food routines), Modeler (self‑talk: “I’ll choose a slow solution”). | Scripts: “Call the nerves for now, and book the hormones for later.” “We’ll make a fast choice, then a slow check.” “Let’s ask Pancreas: need steady fuel?” | Reflect: “Which system did you use more today?” “Where did slow signals save the day?” “What routine helps your brain best?”
+R15: Human reproduction & development | How new humans begin and grow. Two tiny cells (egg and sperm) join to make a single cell that grows into a baby in the uterus. Growth continues after birth through childhood and beyond. (Age‑appropriate, non‑graphic.) | (1) Cells and heredity. (2) Stages: fertilization → embryo → fetus → birth → growth. (3) Care: safe bodies, consent, and family care systems. | Life is continuity and care. We honor privacy, respect, and the many shapes of families. Growth is a shared project between body, caregivers, and community. | Seed to Sprout: Plant seeds to model early growth stages. [P+C] Balloon Uterus Model: Gently place a small plush in a balloon within a bowl to show cushioning (no inflation near face). [Parent handles] Heartbeat Metronome: Use a metronome to imagine baby heartbeat rhythms and slowing during calm (educational metaphor). [P+C] | Family Growth Timeline: Photos from baby to now; label milestones. [P+C] Care Stations: Set diaper bag/blanket/doll and practice gentle caregiving. [Solo] Food Rainbow: Build a plate for “growing bodies”. [P+C] | Nest Watch: Observe birds building nests; discuss egg care. [P+C] Mammal Moms: Look for animal parents feeding/guarding young. [Solo] Tree Rings Talk: See age rings in a stump or photos; discuss growth. [Friends] | Growth Wave: Start tiny curl, unfold to tall stretch; repeat with music. [Solo] Partner Support: One leans (baby), one supports (caregiver), swap. [P+C] Life‑Stage Parade: Act out baby→kid→teen→adult with movements. [Friends] | Clinic Roleplay (Respect Rules): Kid as doctor; parent as patient; practice asking consent (“May I listen to your heartbeat?”). [P+C] Birth Day Newsroom: Announce a baby’s arrival with facts (weight, name). [Friends] Family Helpers: Assign roles—cooker, reader, calmer. [Zoom] | Life Spiral: Draw a spiral with pictures of stages. [Solo] Care Hands Poster: Outline hands; write ways hands care safely. [P+C] Family Tree (inclusive): Include adoptive, blended, all caregivers. [P+C] | Lullaby Lab: Listen/sing calming songs used for babies; create your own. [P+C] Heartbeat Drum: Soft drumming patterns; practice soothing rhythms. [Solo] Care Chimes: Use a xylophone to signal routine times. [Friends] | Bubble Nest Breath: Hands on belly, slow bubbles. Flower Breath: Smell a flower, blow a feather. Mountain Pose for feeling strong & safe. | Gentle Carry Course: Carry a plush “newborn” through obstacles without jostling. [Friends] Swaddle & Soothe: Practice safe wrapping of a doll (avoid face). [P+C] Caregiver Relay: Fetch blanket/book/water on cue. [Friends] | Matching Pairs: Cards of stages to match order. [Friends] Care Choices: Pick best option for a baby scenario. [Solo] Consent Charades: Thumbs‑up/sideways/down to safe touch requests. [Friends] | Short reads: “From One Cell to You” mini‑zine. Families Come Many Ways page. My Body, My Rules safety guide. | Notebook: “How I’ve grown this year.” Letter: Write to a future self. Poem: “I was tiny; I will be tall.” | Osmosis Demo: Coffee filter “placenta” letting colored water (nutrients) pass while beads (toy “germs”) don’t. [P+C] Growth Chart Build: Mark height monthly. [P+C] Care Routine Test: Try story-before-sleep vs no story; note calm level. [Solo] | Community Helpers: Thank‑you notes to doctors, doulas, midwives, adoptive agencies, foster carers. Kitchen Safety Audit: “Baby‑proofing” hunt. Quiet Corner: Create a calm nook. | Paper Uterus Model (folded pouch). Lifecycle Wheel spinner. Care Cards with routine pics (feed, burp, nap). | Family Story Book: Co‑author an origin story (age‑appropriate, inclusive). Lifecycle Board Game: Squares for milestones; care tokens. Consent Poster: “Ask, Respect, Tell” with kid’s drawings. | Explainer: Reproduction is how humans make new humans. An egg from an adult woman and sperm from an adult man can join to begin a pregnancy in a uterus; a baby develops there until birth. Many families form through adoption, surrogacy, or fostering. Teaching privacy, consent, and respect keeps kids safe. | Prompts: “What helps babies feel safe?” “How has your body changed since you were a baby?” “Whom do we ask before touching?” “Families are made in many ways—what ways do you know?” | Roles: Parent = Guide (answers simply, no graphic detail), Consent Model (asks before hugs), Safety Monitor (doll swaddling, balloon model), Cultural Keeper (share family birth/growth stories respectfully). | Scripts: “That’s a great question. The short answer is…” “Those are private body parts; we use proper names and keep them private.” “Different families grow in different ways; all are real families.” | Reflect: “What new respect rule did we use today?” “What do babies need most?” “What helps you feel safe when learning about bodies?”
+R16: Nutrition & metabolism
+R17: Diseases & disorders (genetic, infectious, chronic)
+R19: Animal Biology (Zoology)
+R20: Animal tissues & body plans
+R21: Reproduction & development (gametogenesis, fertilization, embryology)
+R22: Nervous system & senses
+R23: Musculoskeletal system
+R24: Circulatory systems (open vs closed, vertebrate heart) | Notes on Safety & Inclusion
+R25: Respiratory systems
+R26: Digestive systems
+R27: Excretion & osmoregulation
+R28: Endocrine system
+R29: Immune system
+R30: Human Biology & Physiology
+R31: Fish biology (ichthyology)
+R32: Amphibians & reptiles (herpetology)
+R33: Birds (ornithology)
+R34: Mammals (mammalogy)
+R36: Chemistry of Life (Biochemistry)
+R37: Atoms, elements, and compounds
+R38: Bonds (ionic, covalent, hydrogen, van der Waals)
+R39: Water: properties & importance
+R40: Organic molecules:
+R41: Carbohydrates
+R42: Lipids
+R43: Proteins
+R44: Nucleic acids
+R45: Enzymes: structure, function, kinetics, regulation
+R46: Energy molecules: ATP, NADH, FADH₂
+R47: Metabolism overview (catabolism vs anabolism)
+R48: RNA, DNA
+R50: Evolution & Origin of Life
+R51: Abiogenesis & RNA world hypothesis
+R52: Natural selection, adaptation, speciation
+R53: Phylogeny & cladistics
+R54: Major evolutionary transitions (endosymbiosis, multicellularity, etc.)
+R55: Population genetics (Hardy-Weinberg, drift, gene flow)
+R56: Macroevolution: mass extinctions, punctuated equilibrium
+R57: Early Life
+R58: Self, Thought, Awareness
+R60: Chronobiology (time biology)
+R61: Circadian rhythms
+R62: Seasonal cycles, photoperiodism
+R63: Biological clocks (molecular, neural)
+R64: Sleep biology
+R65: Lunar & tidal rhythms (grunion fish, corals spawning, etc.)
+R67: Biogeochemistry
+R68: Earth system science links: nitrogen cycle, carbon sequestration
+R69: Role of microbes in global cycles
+R70: Ocean-atmosphere interactions
+R71: Climate biology
+R73: Consciousness & Cognitive Biology
+R74: Origin of consciousness & cognition
+R75: Emergence of awareness in evolution
+R76: Animal consciousness studies
+R77: Comparative cognition
+R78: Human self-awareness vs other species
+R81: Cell Biology
+R82: Cell theory
+R83: Prokaryotic vs eukaryotic cells
+R84: Organelles and structures:
+R85: Nucleus, mitochondria, chloroplasts
+R86: ER, Golgi apparatus
+R87: Lysosomes, peroxisomes
+R88: Cytoskeleton
+R89: Cell membranes: structure, transport, signaling
+R90: Cell cycle & division: mitosis, meiosis, checkpoints
+R91: Stem cells, cell differentiation, apoptosis
+R93: 🧠 Neuroscience
+R94: Neuron structure & function
+R95: Action potentials & synapses
+R96: Neurotransmitters
+R97: Neural circuits & plasticity
+R98: Sensory systems
+R99: Motor control
+R100: Brain regions & cognition
+R101: Disorders (Parkinson’s, Alzheimer’s, depression)
+R102: Brain & Behaviour
+R104: 🧠 Behavioral Biology / Ethology
+R105: Foundations
+R106: Innate vs learned behaviors
+R107: Fixed action patterns
+R108: Imprinting (Lorenz etc.)
+R109: Reflexes & instincts
+R110: Habituation, sensitization
+R111: Learning & Cognition
+R112: Classical conditioning (Pavlov)
+R113: Operant conditioning (Skinner)
+R114: Observational learning, imitation
+R115: Problem-solving, tool use
+R116: Animal memory & cognition
+R117: Communication
+R118: Chemical (pheromones)
+R119: Visual (displays, colors)
+R120: Auditory (songs, calls, echolocation)
+R121: Tactile (touch, grooming, vibration)
+R122: Symbolic language (bee dances, primates, human speech)
+R123: Social Behavior
+R124: Territoriality
+R125: Dominance hierarchies
+R126: Altruism & kin selection (Hamilton’s rule)
+R127: Cooperation & reciprocal altruism
+R128: Parental care strategies
+R129: Mating & Reproductive Behavior
+R130: Sexual selection (mate choice, competition)
+R131: Courtship rituals
+R132: Monogamy, polygamy, polyandry, promiscuity
+R133: Parental investment theory
+R134: Foraging & Survival Strategies
+R135: Optimal foraging theory
+R136: Predator-prey interactions
+R137: Camouflage, mimicry, defense strategies
+R138: Migration & Navigation
+R139: Seasonal migrations (birds, fish, insects)
+R140: Orientation & navigation (magnetic fields, sun compass, star maps)
+R141: Human Behavioral Biology (bridging psychology & anthropology)
+R142: Evolutionary psychology
+R143: Social structures, cooperation, conflict
+R144: Language, culture, ritual
+R145: Aggression, empathy, altruism
+R146: Cognitive biases and decision-making
+R148: Evolutionary psychology
+R150: Frontiers of Biology
+R151: Synthetic biology
+R152: Artificial life & bio-computing
+R153: Epigenetics & transgenerational inheritance
+R154: Human enhancement & transhumanism
+R155: Gaia theory & planetary biology
+R157: Synthetic Biology / Bioengineering
+R158: Minimal genome projects
+R159: DNA as storage medium
+R160: Artificial cells & protocells
+R161: Biosensors
+R162: Biofuels
+R163: Bioreactors
+R165: 🌍 Evolutionary & Comparative Biology
+R166: Comparative anatomy & physiology
+R167: Biogeography
+R168: Coevolution
+R169: Sexual selection in depth
+R170: Evolution of development (Evo-Devo)
+R171: Molecular evolution
+R173: Ethics in Biology
+R174: Not pure science, but integral:
+R175: Animal testing ethics
+R176: Genetic modification debates
+R177: Conservation dilemmas
+R178: Medical ethics (stem cells, cloning)
+R180: Molecular Biology & Genetics
+R181: DNA structure, replication
+R182: RNA types & transcription
+R183: Protein synthesis: translation, genetic code
+R184: Regulation of gene expression (prokaryotic & eukaryotic)
+R185: Mutations & DNA repair mechanisms
+R186: Epigenetics (methylation, histones, imprinting)
+R187: Genomics, transcriptomics, proteomics
+R188: Recombinant DNA, CRISPR, biotechnology
+R190: Diversity of Life
+R191: Prokaryotic kingdoms
+R192: Protists
+R193: Fungi
+R194: Plants: bryophytes, ferns, gymnosperms, angiosperms
+R195: Animals:
+R196: Invertebrates (sponges, cnidarians, worms, mollusks, arthropods, echinoderms)
+R197: Vertebrates (fishes, amphibians, reptiles, birds, mammals)
+R199: Microbiology
+R200: Bacteria: structure, metabolism, reproduction
+R201: Archaea
+R202: Viruses: structure, replication cycles, retroviruses
+R203: Prions, viroids
+R204: Microbial ecology
+R205: Pathogenic vs beneficial microbes
+R207: Plant Biology (Botany)
+R208: Plant cells & tissues
+R209: Photosynthesis (light & dark reactions, C3, C4, CAM)
+R210: Transport in plants (xylem, phloem)
+R211: Growth & hormones
+R212: Reproduction (sexual, asexual, alternation of generations)
+R213: Ecology & importance of plants
+R215: Ecology
+R216: Levels: organism → population → community → ecosystem → biosphere
+R217: Biomes & habitats
+R218: Energy flow (food chains, webs, pyramids)
+R219: Biogeochemical cycles (carbon, nitrogen, phosphorus, water)
+R220: Population dynamics (growth, regulation, carrying capacity)
+R221: Species interactions (predation, competition, symbiosis)
+R222: Conservation biology, biodiversity, climate change impact
+R223: I listed basic ecology, but full treatment includes:
+R224: Landscape ecology (patterns, patch dynamics)
+R225: Community ecology (succession, niches, keystone species)
+R226: Global ecology (biogeography, Earth systems, Gaia theory)
+R227: Restoration ecology
+R228: Human ecology / Urban ecology
+R230: Biogeography
+R231: Distribution of species over space and time
+R232: Island biogeography
+R233: Continental drift & plate tectonics impact on life
+R234: Endemism, invasive species
+R236: Marine & Freshwater Biology
+R237: Plankton ecology
+R238: Coral reef biology
+R239: Deep sea adaptations (bioluminescence, pressure tolerance)
+R240: Freshwater ecosystems (lakes, rivers, wetlands)
+R242: Soil Biology
+R243: Microbial communities in soil
+R244: Nutrient cycling (N-fixers, mycorrhizae)
+R245: Soil-plant-animal interactions
+R247: Biomathematics & Theoretical Biology
+R248: Population models (Lotka-Volterra, logistic growth)
+R249: Epidemiological models (SIR, SEIR)
+R250: Game theory in biology (hawk-dove, prisoner’s dilemma)
+R251: Chaos theory & complexity in ecosystems
+R252: Network biology
+R254: Biotechnology & Applied Biology
+R255: Genetic engineering (CRISPR, cloning)
+R256: Agriculture (GM crops, pest resistance)
+R257: Medicine (gene therapy, vaccines, stem cells)
+R258: Industrial microbiology (fermentation, biofuels)
+R259: Forensics & DNA fingerprinting
+R260: Bioinformatics
+R262: 🧑‍⚕️ Medicine / Human-specific Specialties (that biologists own parts of)
+R263: Pathology (mechanisms of disease at tissue/cellular level)
+R264: Epidemiology (disease spread in populations)
+R265: Nutritional biology
+R266: Aging & gerontology
+R267: Public health biology
+R269: 🦠 Immunology (glossed over under “human physiology”)
+R270: Innate immunity
+R271: Adaptive immunity (B cells, T cells)
+R272: Antigen presentation, MHC
+R273: Vaccines, memory response
+R274: Autoimmunity, hypersensitivity, allergies
+R275: Immunodeficiency (HIV, congenital)
+R277: 🧪 Pharmacology / Toxicology (applied biology)
+R278: Drug discovery & mechanism of action
+R279: Dose–response relationships
+R280: Neuropharmacology
+R281: Antibiotics & resistance
+R282: Plant & animal toxins
+R283: Environmental toxicology
+R285: 🧑‍🔬 Applied / Interdisciplinary Fields
+R286: Biostatistics & Bioinformatics – statistical analysis, algorithms, modeling, machine learning for genomics
+R287: Biophysics – mechanics of cells, protein folding, membranes
+R288: Systems biology – networks, feedback loops, emergent properties
+R289: Astrobiology – potential life beyond Earth
+R290: Agricultural biology – crop science, soil biology, entomology
+R291: Marine biology & Oceanography – plankton ecology, deep-sea biology, coral reefs
+R292: Conservation biology – endangered species, habitat loss, restoration
+R293: Biotechnology – already covered, but overlaps with applied microbiology & synthetic biology
+R295: 🧬 Developmental Biology
+R296: Fertilization & early cleavage
+R297: Gastrulation & body axis formation
+R298: Organogenesis
+R299: Morphogens & gradients
+R300: Hox genes & developmental genetics
+R301: Metamorphosis & regeneration
+R303: Parasitology
+R304: Protozoan parasites (malaria, amoebiasis)
+R305: Helminths (worms)
+R306: Ectoparasites (ticks, lice, fleas)
+R307: Host-parasite coevolution
+R309: Entomology (Insect Biology)
+R310: Insect anatomy & physiology
+R311: Metamorphosis
+R312: Social insects (ants, bees, termites)
+R313: Pollination biology
+R314: Pest biology & control
+R316: Biopharmaceutical & Medical Biology
+R317: Vaccinology
+R318: Stem cell therapy
+R319: Cancer biology (oncogenes, tumor suppressors, metastasis)
+R320: Regenerative medicine
+R321: Personalized medicine & pharmacogenomics
+R323: Astrobiology (Life beyond Earth)
+R324: Extremophiles as Earth analogs
+R325: Biosignatures
+R326: Planetary habitability
+R327: Origin-of-life scenarios extrapolated to exoplanets
+R329: Paleobiology
+R330: Fossilization processes
+R331: Extinct lineages (trilobites, ammonites, etc.)
+R332: Mass extinctions (Permian, Cretaceous, etc.)
+R333: Evolutionary trends through deep time
+R335: Biomimetics & Bionics
+R336: Engineering inspired by biology
+R337: Robotics mimicking animal locomotion
+R338: Bio-inspired materials (gecko tape, lotus effect, spider silk)
+R340: Mathematical/Computational Neuroscience
+R341: (bridge between biology, AI, and physics)
+R342: Neural coding & information theory
+R343: Artificial neural networks as biological analogues
+R344: Brain-computer interfaces
+R346: Exobiotic Risks / Biosecurity
+R347: Zoonotic disease emergence
+R348: Pandemic biology
+R349: Bioterrorism & biosafety
+R350: Containment & lab protocols (BSL levels)
+R352: Biophysics & systems biology

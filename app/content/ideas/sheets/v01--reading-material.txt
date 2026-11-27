@@ -1,0 +1,15 @@
+# DeepKids V0.1 / reading material (copied from Google Sheets, 2026-11-27)
+R1: https://www.oecd.org/pisa/publications/PISA-2021-creative-thinking-framework.pdf
+R2: https://research.acer.edu.au/cgi/viewcontent.cgi?article=1041&context=ar_misc
+R3: https://www.mdpi.com/2079-3200/8/2/16/htm
+R4: https://issuu.com/cambridgeupelt/docs/cambridgelifecompetencies_creativethinkingbooklet_
+R5: https://bootcampmilitaryfitnessinstitute.com/wp-content/uploads/2016/01/eight-ways-to-promote-generative-learning-fiorella-mayer-2015.pdf
+R6: https://bootcampmilitaryfitnessinstitute.com/wp-content/uploads/2016/01/eight-ways-to-promote-generative-learning-fiorella-mayer-2015.pdf
+R7: https://www.childrenandscreens.com/media/press-releases/how-to-build-creativity/
+R9: https://humanorigins.si.edu/human-characteristics/language-symbols
+R13: https://www.understood.org/en/articles/developmental-milestones-for-typical-4-year-olds
+R15: https://learn.ncartmuseum.org
+R17: https://help-for-early-years-providers.education.gov.uk
+R19: https://files.eric.ed.gov/fulltext/ED410479.pdf
+R23: https://livehappygoa.com
+R25: https://teachpsych.org/resources/Documents/otrp/resources/Sensation%20and%20Perception-Activities%20to%20Enhance%20Learning.pdf

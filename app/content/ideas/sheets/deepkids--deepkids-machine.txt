@@ -1,0 +1,27 @@
+# DeepKids / DeepKids Machine (copied from Google Sheets, 2026-11-27)
+R2:  | Engines
+R3:  | Products & Testing | Operations | Growth & Retention | Sales | Website & Platforms | Finance | People
+R4:  | Products | Production | Content Gen | Targets, Budgeting | Website | Legal | Hiring Planning - Freelance/Full time/Partners
+R5:  | Ideation | Find & finalise product production partners for different components | Product Intro Video | Sales Targets & planning | Full website requirements Doc | Company registration | Posts, ads, interviews, hiring, training
+R6:  | Research & Content | Packaging Production | How To Play/Use Videos | Online Ads | Base website - Home page, product listing pages, product pages - setup, keep adding & updating | Bank setup & paidup capital | KPIs, Targets, Resources
+R7:  | Design - product components, packaging | Procurement | Clips Of Kids Playing | Sales Ads on Google, Meta,Linkedin | Payment gateway, logistics, GA, communication , retargeting integrations & triggers | Indiviudal Product/Game Name Trademark | Salaries & related ops & legal
+R8:  | Illutrations for products & packaging | Find & Procure Product Components Needed | Game Scenarios Clips | Videos, Graphics , Posters for Online Ads  | Regular Maintenance & Updates | Individual gameplay/art trademenrk/patents where needed/possible | Devices procurments, etc
+R9:  | Layout | Shipping Covers etc Procurement | Kids Asking questions/teaching parents, identifying concepts in everyday life videos | Ad analytics, testing, updates, etc | Sales Landing Pages - create, update regularly | CA partner | Other HR legal procedures
+R10:  | Samples Printing/Production | Warehouse Management | FirstPrinciple Thinking Concept Videos | Retargeting ads content, graphics, execution, daily analytics & updates | CRM, OM systems for tracking & processing | Accounting
+R11:  | Concept Art Per Product | Warehousing to be figured out for scale - setup, maintenance, etc | Mom & Daughter Series | Retargeting emails & notifications content, setup & triggers | Sales Platforms | Record expenses religiously
+R12:  | Testing |  | Science Jokes & Memes | Word - Of Mouth | Setup with & launch on - Amazon, Instamart, FirstCry & More | Setup backend for orders & income tracking
+R13:  | Self Play Test & Play test with fam & friends | Assembly  | Illustrations & Graphics for Website | Parenting Community Activation |  | Audits, returns, etc - CA
+R14:  | Marketing + One on One Reach out for Testing signups - Posters, Content + Reach out through friends, etc | Put together components into the final box | Marketing & Analytics | Offline Sales |  | Investment
+R15:  | Testing Events Hosing | Figure out assembly setup/outsourcing for scale | Content Calendar & Pipeline | Offline Retail Partenerships  |  | Fund Raising Efforts - Pipleline Investors
+R16:  | Testing by gifting Select Parents  |  | GA , Hotjar & Website Improvements | Offline Sales through Stalls |  | Reach out & keep updating
+R17:  |  | Shipping & Returns | Daily Posting across platforms |  |  | Quarterly Magazine for Prospective investors
+R18:  |  | Shipping partnerm negotiation, tech integrations | Daily TG follows, interactions across platforms |  |  | Stock options & equity allocation -Lawyer
+R19:  |  | Pack & ship as orders as they come | Cross promotion emails, notifications, whatsapp setup, triggers for existing customers |  |  | Targets & Budgets
+R20:  |  | Customer Service | Influencers partnerships & co-content creation |  |  | Yearly, Quarterly, Monthly, Weekly, Daily Sales Targets
+R21:  |  | During sale support | Regular posts & interactions on online parenting communities |  |  | Planning & Budgeting for the Targets
+R22:  |  | After order till delivery communication | Regular Offline Events - through partnerships - openhouse & similar orgs
+R23:  |  | After delivery feedback | Regular Offline Events - Apartments
+R24:  |  | 1week & 1 month Feedback | Community
+R25:  |  | Cross promotion communication | Community content calendar
+R26:  |  |  | Content gen & pipeline
+R27:  |  |  | Everyday community interactions

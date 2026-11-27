@@ -1,0 +1,56 @@
+# Escape Gravity Board Game / Pivot Table 1 (copied from Google Sheets, 2026-11-27)
+R1: COUNTA of Gravity Well Type | Gravity Well Type
+R2: Region Name | Downfall | Opportunity | Opportunity Or DownFall | Safe | Turn Loss | Grand Total |  | Downfall % | Turn Loss % | Safe % | Opportunity %
+R3: 1Core |  |  |  |  | 1 | 1 |  | 0 | 100 | 0 | 0
+R4: 2Mantle | 1 | 1 |  |  | 2 | 4 |  | 25 | 50 | 0 | 25
+R5: 3Crust | 3 |  |  | 1 | 1 | 5 |  | 60 | 20 | 20 | 0
+R6: 4Surface | 4 | 3 |  | 1 |  | 8 |  | 50 | 0 | 13 | 38
+R7: 5Troposphere | 2 | 1 | 1 | 1 | 1 | 6 |  | 42 | 17 | 17 | 25
+R8: 6Stratosphere | 5 |  |  | 1 | 1 | 7 |  | 71 | 14 | 14 | 0
+R9: 7Mesosphere | 6 | 2 |  | 1 |  | 9 |  | 67 | 0 | 11 | 22
+R10: 8Thermosphere | 3 | 2 | 1 |  | 1 | 7 |  | 50 | 14 | 0 | 36
+R11: 9Exosphere | 1 | 3 |  | 1 | 1 | 6 |  | 17 | 17 | 17 | 50
+R12: Grand Total | 25 | 12 | 2 | 6 | 8 | 53 |  | 49 | 15 | 11 | 25
+R24: OverTurn Force Card Category | COUNTA of OverTurn Force Card Category
+R25:  | 0
+R26: Energy & Speed | 1 | 2 |  |  |  |  |  |  | Force Card Category  | Force Card | COUNTA of Force Card
+R27: Speed*2 | 1 | 2 |  |  |  |  |  |  |  |  | 0
+R28: Speed | 3 | 3 |  |  |  |  |  |  |  | 1 | 2
+R29: Water | 3 | 3 |  |  |  |  |  |  |  | 2 | 1
+R30: Air | 4 | 4 |  |  |  |  |  |  |  | 3 | 4
+R31: Body | 4 | 4 |  |  |  |  |  |  |  | 4 | 3
+R32: Earth | 5 | 5 |  |  |  |  |  |  |  | 5 | 3
+R33: Balance | 6 | 6 | 31 |  |  |  |  |  |  | 6 | 3
+R34: Energy | 8 | 16 | 14 |  |  |  |  |  |  | 9 | 1
+R35: Nil | 9 | 9 | 4 |  |  |  |  |  |  | 34 | 1
+R36: Any 2 | 10 |  |  |  |  |  |  |  |  | 36 | 1
+R37: Grand Total | 54 |  |  |  |  |  |  |  |  | Air Lift | 1
+R38:  |  |  |  | Min 51 Activities |  |  |  |  |  | COG | 1
+R39:  |  |  |  |  |  |  |  |  |  | COUNTA of Game Name | 1
+R40:  |  |  |  |  |  |  |  |  |  | COUNTA of Gravity Well | 1
+R41:  |  |  |  |  |  |  |  |  |  | Elastic Energy | 1
+R42:  |  |  |  |  |  |  |  |  |  | Entropy | 2
+R43:  |  |  |  |  |  |  |  |  |  | Sideways V | 1
+R44:  |  |  |  |  |  |  |  |  |  |  Total |  | 27
+R45:  |  |  |  |  |  |  |  |  | Air | Air Lift | 4
+R46:  |  |  |  |  |  |  |  |  |  | Air Resistance | 3
+R47:  |  |  |  |  |  |  |  |  | Air Total |  | 7
+R48:  |  |  |  |  |  |  |  |  | Balance | Center Of Gravity | 6
+R49:  |  |  |  |  |  |  |  |  |  | Neutral Pull | 1
+R50:  |  |  |  |  |  |  |  |  | Balance Total |  | 7
+R51:  |  |  |  |  |  |  |  |  | Body | Mass & Weight | 1
+R52:  |  |  |  |  |  |  |  |  |  | Physical Work | 3
+R53:  |  |  |  |  |  |  |  |  |  | Weight | 2
+R54:  |  |  |  |  |  |  |  |  | Body Total |  | 6
+R55:  |  |  |  |  |  |  |  |  | Earth | Normal Force | 5
+R56:  |  |  |  |  |  |  |  |  | Earth Total |  | 5
+R57:  |  |  |  |  |  |  |  |  | Energy | Elastic Energy | 4
+R58:  |  |  |  |  |  |  |  |  |  | Knowledge | 3
+R59:  |  |  |  |  |  |  |  |  |  | Magnetic Energy | 3
+R60:  |  |  |  |  |  |  |  |  | Energy Total |  | 10
+R61:  |  |  |  |  |  |  |  |  | Speed | Escape Velocity | 3
+R62:  |  |  |  |  |  |  |  |  |  | Sideways Velocity | 5
+R63:  |  |  |  |  |  |  |  |  | Speed Total |  | 8
+R64:  |  |  |  |  |  |  |  |  | Water | Buoyancy | 4
+R65:  |  |  |  |  |  |  |  |  | Water Total |  | 4
+R66:  |  |  |  |  |  |  |  |  | Grand Total |  | 74

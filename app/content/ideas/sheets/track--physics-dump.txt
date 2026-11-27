@@ -1,0 +1,193 @@
+# DeepKids HomeSchooling Track / Physics Dump (copied from Google Sheets, 2026-11-27)
+R1: What is Physics |  | what do you wonder about? ⏎ who are you? ⏎ what is life? ⏎ what is this world?  ⏎ recess therapy type - interview all kids when joining & record
+R2: Story of Physics |  | StoryBook
+R3: History of of Universe
+R4: What is our World, Universe |  | Activities : ⏎ take photos of World + some cue cards + instant photograph camera +roll
+R5: Particles
+R6: Space
+R7: Time | West African view of Time
+R8: Gravity & Theroies | Gravitation – Kepler’s laws, escape velocity, satellites, orbital mechanics.
+R9: Entropy
+R10: Symmetry
+R11: Casuality, Karma
+R12: Unpredictability
+R13: Probability
+R14: Singularity
+R15: Quantum Entanglement
+R16: Twin Paradox
+R18: Chaos,Order, Zero, Infinity
+R19: Relativity
+R20: Time Travel
+R21: Worm Hole
+R22: String Theory
+R23: Quantum Physics
+R24: Zero Sum
+R25: Real, Imaginary
+R26: Dimensions
+R27: Fringe Science
+R28: Consciousness, Awareness, Subjective Experience
+R30: Astronomy - Other planets, stars, bodies, other galaxies, oher Universes
+R31: Our galaxy, Sun, solar system, Earth, Moon & movement | Tides seed → moon pulls water (watch beach/pond). ⏎ Comets/meteors story → shooting stars. ⏎ Day length → summer vs winter (more/less daylight). ⏎ Planets vs stars → planets don’t twinkle
+R32: Moon phases
+R33: Constellations: join dots in sky → Orion, Saptarishi.
+R34: Day Night cyles, Earth's Rotation
+R35: Black Holes
+R37: Weather
+R38: Climate
+R39: Elements - Wind, Air
+R40: Water Cycle
+R41: Temperature
+R42: Pressure
+R44: Atom
+R45: Other elemntary particles
+R46: Molecules, Compunds
+R47: Crystalline Structures
+R48: Atomic Model
+R50: Waves & Oscillation | Water waves: ripple in pond, wave tank. ⏎ Energy transfer: pebble makes ripples spread. ⏎ Slinky toy: demonstrate compression/expansion waves. ⏎ Vibrations everywhere: guitar strings, drum skin, even voice box. ⏎ Pendulum time → long pendulum swings slower than short one. ⏎ Resonnance ⏎ Mathematical Waveforms – sinusoidal, superposition, standing waves. ⏎ Resonance in depth – bridges collapsing, instruments. ⏎ Acoustics – harmonics, sound intensity, decibel scale.
+R51: Swing & Pendulum
+R53: Light , Photon, Speed of Light | Mirrors: reflection, left–right flip, kaleidoscope toy. ⏎ Periscopes: two mirrors in a box (simple spy scope). ⏎ Colour absorption: black cloth hotter in sun than white. ⏎ Afterimages: stare at red dot, see green blur (retina fatigue). ⏎ Photography with just a tin box over a long time - insta reel ⏎ Lenses – concave, convex, focal length, optical instruments. ⏎ Wave Optics – Young’s double-slit, Huygens principle. ⏎ Polarization – filters, sunglasses, stress patterns. ⏎ Fiber Optics & LASERs – applications in medicine, communication.
+R54: Light Waves
+R55: Reflection, Shadow, Refraction, Rainbows, Prism, Sun's movement
+R56: Theory of Colours | Spectrum play → CD/DVD surface rainbow. ⏎ Diffraction/Interference seed → soap bubbles, oil films. ⏎ Pinhole camera → upside-down image on wall. ⏎ Colour blindness seed → why some people see colours differently. ⏎ Biology cross-link → pupils shrink in light, widen in dark.
+R57: Mixing Paints, Vs lights
+R58: Transparent, Translucent, Opaque
+R61: Sound Waves
+R62: Sound & Vibrations | Beats → clap at different speeds. ⏎ Simple resonance demo → glass of water hums when rubbed. ⏎ Sound through solids → ear to table when pencil taps. ⏎ Ultrasound seed → bats & dolphins “see” with sound. ⏎ Silence as sound’s absence → sit in stillness, notice heartbeat. ⏎ Reverberation
+R63: How sound travels
+R64: Pitch, Echo
+R65: Sources of sound
+R66: Om
+R67: Resonance seed: one tuning fork making another vibrate (demo with glasses).
+R68: Materials & sound: knock wood vs metal vs cloth.
+R69: Underwater sound: tap stones inside water bowl.
+R70: Doppler effect seed: moving whistle/bell sounds different.
+R73: Matter & States, Phases, Materials | Compressibility: squeeze sponge vs metal. ⏎ Buoyancy seed: why big ship floats but small stone sinks. ⏎ Density play: oil on water, layers with honey/water/oil. ⏎ States reversible: freeze water, melt it back. ⏎ Vacuum idea (playful) → straw won’t work if hole in it. ⏎ Stretchiness & strength → compare rubber band vs thread. ⏎ Fluid Mechanics – Bernoulli’s principle, Pascal’s law, Archimedes revisited, hydraulics, surface tension, capillarity.
+R74: Mass, Weight, Density
+R75: Super Fluids
+R76: Viscosity
+R77: Soluble vs insoluble (salt vs sand in water).
+R78: Float vs sink → wood, stone, plastic.
+R79: Waterproof vs absorbent.
+R80: Mixing → what happens when we mix different things (milk + water, oil + water).
+R82: Force | push, pull, Elasticity: stretch a rubber band, it springs back. ⏎ Springs & bounce: how balls bounce differently (rubber vs sponge vs marble). ⏎ Balance: centre of gravity with seesaws, standing on one foot. ⏎ Inertia seed: “Why does your body jerk when car stops suddenly?” (act it out with chairs). ⏎ Air resistance: paper flat vs crumpled drop.
+R83: Action, Reaction | Rotational Motion – torque, angular momentum, rotational inertia
+R84: Motion, Position | rolling, sliding, lifting, Collisions – elastic vs inelastic, conservation principles.
+R85: Length, Velocity, Acceleration
+R86: Patterns of motion
+R87: Newton's Laws of Motion
+R88: Friction
+R89: Fire
+R90: Heat Flow
+R91: Materials Under Heat
+R92: Energy, Forms & Source, Heat | Stored energy → wind-up toy, stretched rubber band. ⏎ Energy change → potential (raised ball) → kinetic (falling ball). ⏎ Solar energy seed → magnifying glass makes paper warm. ⏎ Evaporation & cooling → wet cloth feels cooler. ⏎ Condensation → droplets on a cold bottle.
+R93: Conservation of Energy
+R94: Work, Power
+R95: Momentum | Momentum seed → rolling heavy ball vs light ball, who pushes who? ⏎ Chain reactions → dominoes falling, marbles on tracks. ⏎ Gyroscope play → spinning top stays upright because of spin. ⏎ Boomerang/Frisbee → curved flight path.
+R96: Entropy
+R97: Mass-Energy Equivalence
+R98: Laws of Thermodynamics | Kinetic Theory of Gases – pressure-temperature-volume relations, Maxwell-Boltzmann distribution. ⏎ Heat Engines – Carnot cycle, refrigerators. ⏎ Statistical Mechanics – microscopic vs macroscopic view (Boltzmann, partition functions).
+R100: Electricity
+R101: Electric Charge
+R102: Conductivity , Resistance, super conductors, Semi conductors, Nano tech
+R103: Magnetism
+R104: Electro Magnetism | Electrostatics – Coulomb’s law, fields, potential. ⏎ Capacitance & Inductance – energy storage, circuits. ⏎ AC vs DC Circuits – resonance, transformers, power transmission. ⏎ Magnetism of Matter – diamagnetic, paramagnetic, ferromagnetic. ⏎ Electromagnetic Waves – spectrum, applications.
+R106: Simple Machines , Tech, Tools | Magnifying glass → big vs small view. ⏎ Microscope/telescope seed → simple toy versions. ⏎ Scales & balance → measure fruit weights. ⏎ Springs in pens/toys → stored energy. ⏎ Fan blades & propellers → air push = movement.
+R107: Machines in daily life: bicycle wheels, fans, taps. | Wheel, lever, pulley, fan, switches (done). ⏎ Extras: ⏎ Inclined plane: sliding toy car down ramp. ⏎ Gear play: bicycle wheels, wind-up toys. ⏎ Screw seed: bottle cap, corkscrew. ⏎ Magnets in tech: fridge door, speakers. ⏎ Electric circuits seed: connect battery + bulb (safe snap circuits).
+R108: Electricity basics: switches ON/OFF, batteries in torch.
+R109: Safety with electricity (no touch wires).
+R110: Transport → how wheels help vehicles move.
+R112: Physics in Art → light colours vs paint colours, shadow tracing, spirographs.
+R113: Physics in Music → beats, vibrations, pitch.
+R114: Physics in Sports → bouncing balls, throwing angles, running friction.
+R115: Physics in Cooking → boiling, melting, heating.
+R117: Measurement & Units – SI system, dimensions, errors, significant figures.
+R118: Vectors vs Scalars – operations, dot & cross product.
+R119: Graphs in Physics – position-time, velocity-time, energy diagrams.
+R120: Frames of Reference – inertial vs non-inertial, relativity of motion.
+R122: Nuclear Physics – radioactivity, fission, fusion, reactors.
+R123: Geophysics – earthquakes, Earth’s magnetic field.
+R124: Astrophysics – stellar life cycles, neutron stars, cosmology.
+R125: Environmental Physics – greenhouse effect, energy resources, sustainability.
+R126: Computational Physics – simulations, chaos theory, fractals (you touched chaos, but not applied).
+R128: Principle of Superposition (forces, waves, fields).
+R129: Conservation Laws – energy, momentum, angular momentum, charge.
+R130: Symmetry & Noether’s Theorem – deep link between conservation laws and symmetries.
+R131: Unification Themes – electroweak theory, GUTs.
+R132: Information Physics – entropy as information, quantum information theory.
+R136: Stage 1 – Foundations of Doing Physics
+R137: What is Physics (the “why we study it” story)
+R138: Measurement & Units – SI, errors, significant figures
+R139: Vectors vs Scalars – arrows vs numbers, operations
+R140: Graphs in Physics – position-time, velocity-time
+R141: Frames of Reference – rest vs motion
+R143: Stage 9 – The Universe
+R144: History of the Universe, Big Bang
+R145: Space & Time (incl. cultural views like West African view of time)
+R146: Astronomy – planets, stars, galaxies
+R147: Our Solar System – Earth, Moon, Sun
+R148: Tides, comets, day length, seasons
+R149: Moon phases & constellations
+R150: Black Holes, Wormholes, String Theory
+R151: Cosmology – singularity, multiverse, dimensions
+R153: Stage 10 – Advanced Themes & Principles
+R154: Symmetry & Noether’s Theorem
+R155: Conservation Laws (energy, momentum, charge)
+R156: Entropy & Information
+R157: Chaos & Order, Zero & Infinity
+R158: Unification Themes – electroweak, GUTs
+R159: Information Physics & Quantum Information
+R160: Environmental Physics – climate, energy resources
+R161: Geophysics – earthquakes, Earth’s magnetic field
+R162: Computational Physics – simulations, fractals
+R164: Stage 8 – Modern Physics
+R165: Atomic Model, Molecules, Crystals
+R166: Quantum Physics – wave-particle duality, tunneling
+R167: Relativity – time dilation, twin paradox
+R168: Nuclear Physics – fission, fusion, reactors
+R169: Particle Physics – quarks, leptons, bosons
+R170: Condensed Matter – superconductors, semiconductors, nanotech
+R172: Stage 2 – Matter & Materials
+R173: Matter & States – solid, liquid, gas, plasma
+R174: Properties: mass, weight, density, buoyancy
+R175: Compressibility, solubility, waterproof vs absorbent
+R176: Heat & Phase Changes – melting, boiling, evaporation
+R177: Fluid Mechanics – pressure, Pascal’s law, Bernoulli, capillarity
+R179: Stage 3 – Motion & Forces
+R180: Push & Pull, Elasticity, Balance
+R181: Motion basics – rolling, sliding, lifting
+R182: Length, Velocity, Acceleration
+R183: Newton’s Laws of Motion
+R184: Friction, Air Resistance
+R185: Rotational Motion – torque, angular momentum
+R186: Collisions – elastic vs inelastic
+R187: Gravity – falling objects, Kepler’s laws, satellites
+R189: Stage 4 – Energy & Heat
+R190: Forms of Energy – potential, kinetic
+R191: Conservation of Energy
+R192: Work & Power
+R193: Momentum & Gyroscopes
+R194: Heat Transfer – conduction, convection, radiation
+R195: Laws of Thermodynamics
+R196: Kinetic Theory of Gases
+R197: Heat Engines & Efficiency
+R199: Stage 5 – Waves, Sound & Light
+R200: Waves & Oscillation – slinky, pendulum
+R201: Resonance & Harmonics
+R202: Sound – vibration, pitch, echo, Doppler effect
+R203: Light Basics – reflection, refraction, shadows, rainbows
+R204: Lenses & Mirrors – optics, instruments
+R205: Wave Optics – diffraction, interference, polarization
+R206: LASERs & Fiber Optics
+R207: Theory of Colours – mixing, absorption, spectrum
+R209: Stage 6 – Electricity & Magnetism
+R210: Electric Charge & Circuits
+R211: Conductors, Resistance, Safety
+R212: Magnetism – natural & artificial
+R213: Electromagnetism – motors, generators
+R214: AC vs DC, transformers
+R215: Capacitance & Inductance
+R216: Electromagnetic Waves – spectrum & uses
+R218: Stage 7 – Applied Physics
+R219: Simple Machines – lever, pulley, wheel, screw, gears
+R220: Physics in Daily Life – art, music, sports, cooking
+R221: Technology – microscopes, telescopes, circuits

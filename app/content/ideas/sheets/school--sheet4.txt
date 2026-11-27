@@ -1,0 +1,29 @@
+# School / Sheet4 (copied from Google Sheets, 2026-11-27)
+R4:  | Students Capacity | 240 | 480
+R5:  | Class Rooms | 12 | 24
+R7:  | Setup | inr2,000,000 | inr5,000,000 |  |  |  |  | Equipments
+R8:  |  |  |  |  |  |  |  | Electronics
+R9:  | School Rent Per Month | inr250,000 | inr500,000 |  |  |  |  | Lab setups
+R10:  | Maintenance | inr50,000 | inr100,000
+R11:  | Electricity | inr25,000 | inr25,000
+R12:  | Internet | inr20,000 | inr25,000
+R13:  | Water | inr50,000 | inr200,000
+R14:  | Infra Spend/Year | inr4,740,000 | inr10,200,000
+R16:  | Cleaning Staff | 10 | 30
+R17:  | Salary/head/month | inr15,000 | inr15,000
+R18:  | Salary/Year | inr1,800,000 | inr5,400,000
+R20:  | Security | 6 | 10
+R21:  | Salary/head/month | inr15,000 | inr15,000
+R22:  | Salary/Year | inr1,080,000 | inr1,800,000
+R24:  | Maintenance Manager | 1 | 2
+R25:  | Maintenance Team | 4 | 6
+R26:  | Manager Salary/Month/Head | inr50,000 | inr50,000
+R27:  | Teamsalary/month/head | inr30,000 | inr30,000
+R28:  | Salary/Year | inr2,040,000 | inr3,360,000
+R30:  | Teachers+Ops Salary/Year | inr28,800,000 | inr55,800,000
+R32:  | AI/month | 100000 | 500000
+R33:  | Misc/month | 100000 | 250000
+R34:  | Other spend/year | 2400000 | 9000000
+R36:  | Total Expenses/Year | inr42,860,000 | inr90,560,000
+R38:  | Minimum Fees/Year/Student | inr200,000 | inr200,000
+R39:  | Total Number Of Students for breakeven | 214 | 452.8

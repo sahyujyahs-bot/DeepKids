@@ -1,0 +1,23 @@
+# Escape Gravity Board Game / Tasks (copied from Google Sheets, 2026-11-27)
+R1: S.no | Tasks | Owner | Estimated Date Of Completion
+R2: 1 | Board Rings Width | Swetha
+R3: 2 | Final Board Drawing - Flat Board Version (just the rings, without illustrations, text, icons) | Swetha | 10th Jan?
+R4: 3 | Tile Layout  ⏎ Quip Text ⏎ Gravty Well - which gravity well, which tile to drop or jump to - As Text Or Icons? ⏎ Over Turn Force Card Group Icon - 1 icon for downfall, 2 icons for opportunity  ⏎ Tile Number | Swetha | 15th Jan?
+R5: 4 | Board Illustrations - Moutains, oceans, cliffs, meteros, etc for each tile (selectively) | Sakshi | 25th Jan?
+R6: 5 | Gravity Well Icons (if doing icons & not text) ⏎ Downfall (with tile number to fall to) ⏎ Lose Turns (1 or 2 turns of dice throw & token movement) ⏎ Sacrifce Any 2 Cards  ⏎ Safe Spot ⏎ Opportunity Spot (with tile number to jump to) | Sakshi | 15th Jan?
+R7: 6 | OverTurn Force Card Groups Icons - 7 groups + 7 Force Card Groups Top Side  | Sakshi | 10th Jan?
+R8: 7 | Font For Quip,  ⏎ Font For Gravity Well Text (if),  ⏎ Font For Tile Number ⏎  ⏎ Font For Card Text ⏎ Font For Card Titles | S&S | 10th Jan?
+R9: 8 | Activity Card - Top Side Illustrations ⏎  1 Illustration (Idea suggestion - group of kids going for an adventure into a swirly spiral)   ⏎ + 60secs Timer Icon ? (to show all activities must be done within 60S) ⏎  ⏎ --- Colour code activity cards with corresponding force cards  | Sakshi | 15th Jan?
+R10: 9 | Activity Card - Content Side -  Layout -  ⏎ 1. Activity Text ⏎ 2. Activity Type - Compete or Co-operate ⏎ 3. Winning Condition  ⏎ 4. Duration & Rounds (needed?) ⏎ 5. Corresponding Force Card Icon ⏎ 6. Challenge Or Mission (Challenge - immediate, Mission - do it later) ⏎ 7. Activity Illustration | Swetha | 20th Jan?
+R11: 10 | Activity Cards - Content Side - Each Activity Illustration (depicting the activity) | Sakshi | 20th Jan?
+R12: 11 | Force Cards Content Side Layout  ⏎ Force Name (13 types) ⏎ Few Lines About The Force - Content ⏎ Force Card Illustration  | Swetha | 20th Jan?
+R13: 12 | Force Card Content Side Illustrations for 13 Forces  | Sakshi | 25th Jan?
+R14: 13 | Force Card Content for 13 Forces | Sayu | 10th Jan
+R15: 14 | Activities Content  | Sayu | 10th Jan
+R16: 15 | Final Board Quip Content | Sayu | 10th Jan
+R17: 16 | Board - Final - 3d Spiral Version | Swetha | 30th Jan?
+R18: 17 | Packaging Design - Flat Board & 3d Spiral  | S & S | 6th Feb?
+R19: 18 | Add ons  - Rule Book
+R21:  | Turn Tracker Token
+R22:  | Book to note Mission cards, kids name, game number, status - completed & reaped reward
+R23:  | Card tray with slots for force cards - packaging

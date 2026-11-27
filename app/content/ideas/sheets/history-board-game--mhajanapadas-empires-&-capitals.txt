@@ -1,0 +1,34 @@
+# History Board Game / Mhajanapadas empires & capitals (copied from Google Sheets, 2026-11-27)
+R1: # | Janapada | Capital (ancient) | Core region (today) | Notes
+R2: 1 | Aṅga | Campā | East Bihar–West Bengal (Bhagalpur area) | Early rival/target of Magadha.
+R3: 2 | Magadha | Rājagṛha → Pāṭaliputra | South–central Bihar (Patna, Rajgir) | The ultimate unifier (Nandas → Mauryas).
+R4: 3 | Kāśi | Vārāṇasī | Eastern U.P. | Fought seesaw wars with Kośala/Magadha.
+R5: 4 | Kośala | Śrāvastī (also Sāketa/Ayodhyā) | Oudh region, U.P. | Powerful monarchs (Prasenajit); Buddha’s era.
+R6: 5 | Vajji (Vṛji) Confederacy | Vaiśālī | North Bihar (Mithila/Tirhut) | Gaṇa-sangha (republican league: Licchavis, Videhas, etc.).
+R7: 6 | Malla | Kuśinārā & Pāvā | North Bihar–East U.P. | Republican clans; Buddha’s parinirvāṇa at Kuśinārā.
+R8: 7 | Cedi (Cedi/Cheti) | Suktimatī (site debated) | Bundelkhand–Narmada belt (MP/UP) | Old lineage; location uncertain in archaeology.
+R9: 8 | Vatsa | Kauśāmbī | Allahabad/Prayagraj–Kaushambi (U.P.) | Prosperous trading monarchy (Udayana).
+R10: 9 | Kuru | Indraprastha (& Iśukāra in some lists) | Delhi–Haryana | Later a gaṇa element; Vedic prestige zone.
+R11: 10 | Pañcāla | Ahicchatra (North), Kampilya (South) | Rohilkhand–Doab (U.P.) | Mixed monarchical/republican phases.
+R12: 11 | Matsya | Vīrāṭanagara (modern Bairāt) | NE Rajasthan–Alwar/Jaipur | Smaller but strategic, near Aravallis.
+R13: 12 | Sūrasena | Mathurā | Western U.P. | On Yamunā trade; later Krishna-cult heartland.
+R14: 13 | Avanti | Ujjayinī & Mahishmatī | Western & southern MP | Western powerhouse; rival of Magadha.
+R15: 14 | Gāndhāra | Takṣaśilā | NW Pakistan–Afghanistan | University/cosmopolitan hub; Achaemenid contact.
+R16: 15 | Kamboja | Rājapura/Kapiśa (disputed) | Kabul–Kunar–Swat belt | Trans-Himalayan horse culture; often republican.
+R17: 16 | Assaka (Aśmaka) | Potali (Paudanya) | Godāvarī valley (N Maharashtra/Telangana) | The outlier to the south among the 16.
+R19:  | Variants: Some old lists swap Videha (Mithilā) in place of the broader Vajji league; several polities (e.g., Śākyas, Koliyas) were smaller republican clans inside bigger janapadas.
+R22:  |  | Aṅga (Campā): Conquered by Magadha (Bimbisāra).
+R24:  |  | Magadha: Absorbs others; becomes Nanda → Maurya core.
+R26:  |  | Kāśi: Squeezed by Kośala then Magadha.
+R28:  |  | Kośala: Strong under Prasenajit; loses edge; drawn into Magadhan orbit.
+R30:  |  | Vajji (Vṛji): Ajātaśatru breaks the confederacy after protracted war.
+R32:  |  | Malla: Small republics; fall post-Magadhan campaigns.
+R34:  |  | Cedi: Power dilutes; folded into larger kingdoms.
+R36:  |  | Vatsa (Kauśāmbī): Weakened by wars; annexed.
+R38:  |  | Kuru & Pañcāla: Prestige declines; integrated by neighbors and later Mauryas.
+R40:  |  | Matsya: Subsumed amid Kośala/Avanti pressures; later Mauryan.
+R42:  |  | Sūrasena (Mathurā): Taken in larger unifications (Mauryan).
+R44:  |  | Avanti: Rival to Magadha; Śiśunāga defeats/annexes.
+R46:  |  | Gandhāra: Falls to Achaemenids; later Mauryan.
+R48:  |  | Kamboja: NW republic/oligarchy; eclipsed under Achaemenid→Mauryan.
+R50:  |  | Assaka (Aśmaka): Southern outlier; later overshadowed by post-Mauryan Deccan polities.
