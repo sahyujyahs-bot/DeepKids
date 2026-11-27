@@ -628,5 +628,3337 @@
    "Indian Council of Medical Research, expert panel recommendation on Lathyrus sativus, 2016"
   ]
  },
- "playtest": "Main hands-on investigation, to be written under this name: 'The mystery cups test: can simple tests find what a grown-up has secretly added?' A grown-up prepares pairs of samples out of the child's sight: sugar with and without a pinch of chalk powder, tea leaves with and without a drop of food colouring dried on them, turmeric powder with and without a pinch of food colouring, and milk with none, a little and a lot of added water. The child predicts, tests each with water, wet paper and the slanting plate, and names which cup was changed. The milk series shows the smallest amount a test can notice, so the result is not known beforehand. Only then does the child test the family's own kitchen samples. A clean result on a kitchen sample is to be reported as 'nothing found by this test', never as 'pure'. Nothing tested is eaten or drunk afterwards. The iodine test is optional, with a grown-up, because tincture of iodine stains and must not be swallowed. No test for lead is possible at home, and the lesson must not suggest one. The roots, the summary and the deep truth refer to this test. A parent should know that most home samples will pass, and that this is the expected and honest result. Facts a reviewer must verify: the exact wording of each DART test, above all pepper and papaya seeds in water, coffee and chicory, the milk drop on a slanting surface, and the detergent shake. India's lead limit for turmeric of 10 parts per million. The Bangladesh studies of 2019 and 2023 and the 2024 South Asia study, and the role of icddr,b. Delhi 1998 figures of about 3,000 ill and about 60 dead, and the 1877 Kolkata report. Mandatory iodised salt since 2006. Eight permitted synthetic colours. The 2024 cotton candy bans in Tamil Nadu and Karnataka. Milk at about 87 per cent water. Chandogya Upanishad 7.26.2 and Shankara's reading of 'food'. Amagandha Sutta, Sutta Nipata 2.2. The honey report: 13 brands, 10 failing NMR. Melamine 2008: about 300,000 babies ill and six deaths. Kjeldahl 1883. Vitruvius and the crown story. The Irish horse meat finding of January 2013. The basmati DNA test from the Centre for DNA Fingerprinting and Diagnostics, Hyderabad. Milk surveys: 1,791 samples and about 68 per cent in 2011, and 6,432 samples, 93 per cent safe, 12 unsafe adulterated samples, about 6 per cent with aflatoxin M1 and about 41 per cent below quality standards in 2018. The false '87 per cent cancer' message. Calcium carbide ban and permitted ethylene. Richard Gane 1934. Kesari dal ban of 1961, the states where it is still grown, and the 2016 Indian Council of Medical Research panel. Arthashastra 4.2 and the fine of 12 panas. Ibn al-Ukhuwwa's handbook. The 1954 and 2006 Acts, the 14-digit licence number, and the fines of 5 lakh rupees and life imprisonment. AGMARK and the 1937 Act. Food Safety Connect app, Food Safety on Wheels and helpline 1915. Pliny, Natural History book 12, on pepper. Colin and Gaultier de Claubry 1814. Children absorbing four to five times as much lead. Monteiro 2009 and Hall 2019. McCann 2007. Schoenheimer. Garcia 1955. Accum 1820, Hassall's roughly 2,500 samples from 1851 to 1854, the 1860 British law, Wiley from 1902 and the 1906 law. Erode as a turmeric centre and Kodumudi as a growing area. The price of milk in the profit sum is an example only. The deep truth was not compared with other lessons' deep truths, because this helper was told to make no other tool calls: run deep_truths.py and check. The founder's notes and the Combined lessons were not searched for the same reason, so sources.founder is empty. Words that need flashcards, in the order met: pure, adulteration, adulterant, adding, removing, swapping, profit, by weight, label, supply chain, trader, wholesaler, nourishment, poison, dye, pigment, lead, lead chromate, argemone, epidemic dropsy, additive, fortification, iodised salt, permitted colour, preservative, mixture, standard, toned milk, property, dissolve, settle, float, magnet, iodine, starch, curcumin, detergent, lather, lactometer, chromatography, band, detect, limit of a test, nectar, syrup, stand-in measurement, protein, nitrogen, melamine, density, microscope, DNA, survey, sample, contaminant, ethylene, ripening, calcium carbide, kesari dal, lathyrism, drought, licence number, sub-standard, misbranded, unsafe, batch number, complaint."
+ "playtest": "Main hands-on investigation, to be written under this name: 'The mystery cups test: can simple tests find what a grown-up has secretly added?' A grown-up prepares pairs of samples out of the child's sight: sugar with and without a pinch of chalk powder, tea leaves with and without a drop of food colouring dried on them, turmeric powder with and without a pinch of food colouring, and milk with none, a little and a lot of added water. The child predicts, tests each with water, wet paper and the slanting plate, and names which cup was changed. The milk series shows the smallest amount a test can notice, so the result is not known beforehand. Only then does the child test the family's own kitchen samples. A clean result on a kitchen sample is to be reported as 'nothing found by this test', never as 'pure'. Nothing tested is eaten or drunk afterwards. The iodine test is optional, with a grown-up, because tincture of iodine stains and must not be swallowed. No test for lead is possible at home, and the lesson must not suggest one. The roots, the summary and the deep truth refer to this test. A parent should know that most home samples will pass, and that this is the expected and honest result. Facts a reviewer must verify: the exact wording of each DART test, above all pepper and papaya seeds in water, coffee and chicory, the milk drop on a slanting surface, and the detergent shake. India's lead limit for turmeric of 10 parts per million. The Bangladesh studies of 2019 and 2023 and the 2024 South Asia study, and the role of icddr,b. Delhi 1998 figures of about 3,000 ill and about 60 dead, and the 1877 Kolkata report. Mandatory iodised salt since 2006. Eight permitted synthetic colours. The 2024 cotton candy bans in Tamil Nadu and Karnataka. Milk at about 87 per cent water. Chandogya Upanishad 7.26.2 and Shankara's reading of 'food'. Amagandha Sutta, Sutta Nipata 2.2. The honey report: 13 brands, 10 failing NMR. Melamine 2008: about 300,000 babies ill and six deaths. Kjeldahl 1883. Vitruvius and the crown story. The Irish horse meat finding of January 2013. The basmati DNA test from the Centre for DNA Fingerprinting and Diagnostics, Hyderabad. Milk surveys: 1,791 samples and about 68 per cent in 2011, and 6,432 samples, 93 per cent safe, 12 unsafe adulterated samples, about 6 per cent with aflatoxin M1 and about 41 per cent below quality standards in 2018. The false '87 per cent cancer' message. Calcium carbide ban and permitted ethylene. Richard Gane 1934. Kesari dal ban of 1961, the states where it is still grown, and the 2016 Indian Council of Medical Research panel. Arthashastra 4.2 and the fine of 12 panas. Ibn al-Ukhuwwa's handbook. The 1954 and 2006 Acts, the 14-digit licence number, and the fines of 5 lakh rupees and life imprisonment. AGMARK and the 1937 Act. Food Safety Connect app, Food Safety on Wheels and helpline 1915. Pliny, Natural History book 12, on pepper. Colin and Gaultier de Claubry 1814. Children absorbing four to five times as much lead. Monteiro 2009 and Hall 2019. McCann 2007. Schoenheimer. Garcia 1955. Accum 1820, Hassall's roughly 2,500 samples from 1851 to 1854, the 1860 British law, Wiley from 1902 and the 1906 law. Erode as a turmeric centre and Kodumudi as a growing area. The price of milk in the profit sum is an example only. The deep truth was not compared with other lessons' deep truths, because this helper was told to make no other tool calls: run deep_truths.py and check. The founder's notes and the Combined lessons were not searched for the same reason, so sources.founder is empty. Words that need flashcards, in the order met: pure, adulteration, adulterant, adding, removing, swapping, profit, by weight, label, supply chain, trader, wholesaler, nourishment, poison, dye, pigment, lead, lead chromate, argemone, epidemic dropsy, additive, fortification, iodised salt, permitted colour, preservative, mixture, standard, toned milk, property, dissolve, settle, float, magnet, iodine, starch, curcumin, detergent, lather, lactometer, chromatography, band, detect, limit of a test, nectar, syrup, stand-in measurement, protein, nitrogen, melamine, density, microscope, DNA, survey, sample, contaminant, ethylene, ripening, calcium carbide, kesari dal, lathyrism, drought, licence number, sub-standard, misbranded, unsafe, batch number, complaint.",
+ "terms": [
+  {
+   "term": "pure",
+   "meaning": "Made of one substance only, or in food law, meeting a written standard with nothing hidden.",
+   "example": "A packet says 'pure milk'. A chemist says milk is a mixture, and the law says it is pure if it meets the standard.",
+   "art": "A milk packet with the word pure in large letters and a question mark above it."
+  },
+  {
+   "term": "adulteration",
+   "meaning": "Secretly adding, removing or swapping something in food so that the seller gains and the buyer is cheated or harmed.",
+   "example": "Brick powder is mixed into chilli powder and sold as pure chilli powder.",
+   "art": "A hand pouring a pinch of red brick dust into a heap of chilli powder."
+  },
+  {
+   "term": "adulterant",
+   "meaning": "The cheaper or harmful thing that is secretly put into food.",
+   "example": "In sugar mixed with chalk powder, the chalk is the adulterant.",
+   "art": "A spoon of white sugar with a pinch of white chalk dust beside it, labelled chalk."
+  },
+  {
+   "term": "adding",
+   "meaning": "Putting a cheaper or harmful thing into a food without saying so.",
+   "example": "A seller stirs water into milk before filling the packets.",
+   "art": "A jug of water being poured into a steel milk can."
+  },
+  {
+   "term": "removing",
+   "meaning": "Taking out a valuable part of a food and still selling it as the whole food.",
+   "example": "Cream is skimmed off milk, and the milk is still sold as full-cream.",
+   "art": "A spoon lifting a layer of cream off a pan of milk."
+  },
+  {
+   "term": "swapping",
+   "meaning": "Selling one food in place of a costlier one.",
+   "example": "Cheap long-grain rice sold as basmati rice.",
+   "art": "Two heaps of rice grains, one slim and one thicker, with a basmati label on both."
+  },
+  {
+   "term": "profit",
+   "meaning": "The money a seller has left after paying for everything.",
+   "example": "Water costs almost nothing, so a seller who sells it as milk keeps nearly all the money as profit.",
+   "art": "A coin jar with a few coins taken out and a larger pile left on the table."
+  },
+  {
+   "term": "by weight",
+   "meaning": "Sold according to how heavy it is, so heavier means more money.",
+   "example": "A kilogram of chilli powder is sold by weight, so a heavy dust mixed in adds to the weight and costs the seller little.",
+   "art": "A kitchen scale with a heap of red powder and a price tag."
+  },
+  {
+   "term": "label",
+   "meaning": "The writing on a packet that says what the food is, who made it and what it holds.",
+   "example": "The label on a salt packet says iodised salt and shows the maker's address.",
+   "art": "A packet with a label showing a name, an address and a list of contents."
+  },
+  {
+   "term": "supply chain",
+   "meaning": "The line of people through whom food passes from the farm to the kitchen.",
+   "example": "Turmeric goes from a farmer to a trader, a grinder, a packer, a shop and then to your home.",
+   "art": "A row of six small drawings: a field, a sack, a grinding mill, a packet, a shop and a kitchen."
+  },
+  {
+   "term": "trader",
+   "meaning": "A person who buys food from farmers and sells it on.",
+   "example": "A trader in Erode buys turmeric roots from many farms and sells them to mills.",
+   "art": "A man and a woman weighing sacks of turmeric roots in a market yard."
+  },
+  {
+   "term": "wholesaler",
+   "meaning": "A seller who buys in very large amounts and sells to shops.",
+   "example": "A wholesaler buys a lorry of rice and sells a sack at a time to the shops.",
+   "art": "A wide godown full of sacks with a shopkeeper collecting two of them."
+  },
+  {
+   "term": "nourishment",
+   "meaning": "The things in food that the body uses to grow, mend and work.",
+   "example": "Milk gives protein, fat, calcium and other nourishment to a growing child.",
+   "art": "A tumbler of milk with arrows to a growing bone and a muscle."
+  },
+  {
+   "term": "poison",
+   "meaning": "A substance that harms the body, even in small amounts.",
+   "example": "Lead is a poison that harms a child's growing brain.",
+   "art": "A red warning triangle drawn over a spoon of grey powder."
+  },
+  {
+   "term": "dye",
+   "meaning": "A colouring that soaks into cloth, paper or food and stains it.",
+   "example": "A cloth dye that stains your fingers yellow should never be in a sweet.",
+   "art": "A strip of white cloth dipped in yellow dye, with a stained finger beside it."
+  },
+  {
+   "term": "pigment",
+   "meaning": "A coloured powder that does not dissolve in water and is used in paints.",
+   "example": "Lead chromate is a bright yellow pigment made for paint, not for food.",
+   "art": "A pot of bright yellow paint with a brush and a heap of yellow powder."
+  },
+  {
+   "term": "lead",
+   "meaning": "A heavy grey metal that is a poison. The body mistakes it for calcium and stores it in the bones.",
+   "example": "Lead was once added to paints and petrol, and it can reach food through paint pigments.",
+   "art": "A grey metal weight beside a bone, with an arrow from the weight into the bone."
+  },
+  {
+   "term": "lead chromate",
+   "meaning": "A yellow paint pigment that contains lead, and that has been added to turmeric to make it look bright.",
+   "example": "Researchers in Bangladesh traced high lead in village women's blood to lead chromate in turmeric.",
+   "art": "A heap of bright yellow powder labelled lead chromate beside a pale natural turmeric heap."
+  },
+  {
+   "term": "argemone",
+   "meaning": "A thorny wild plant with yellow flowers whose seeds look like mustard seeds and give a poisonous oil.",
+   "example": "In 1998 argemone seeds pressed with mustard made oil that made thousands of people in Delhi ill.",
+   "art": "A thorny plant with a yellow flower and a pod of tiny black round seeds."
+  },
+  {
+   "term": "epidemic dropsy",
+   "meaning": "An illness with swollen legs and breathlessness, caused by eating oil that holds argemone oil.",
+   "example": "Many families in Delhi who cooked with one kind of loose mustard oil became ill at the same time.",
+   "art": "A kitchen with a bottle of oil and a worried family around a table."
+  },
+  {
+   "term": "additive",
+   "meaning": "A substance added to food openly, within a legal limit and for a stated reason.",
+   "example": "A permitted yellow colour named on a sweet packet is an additive.",
+   "art": "A sweet packet with a coloured circle beside the words permitted colour."
+  },
+  {
+   "term": "fortification",
+   "meaning": "Adding a nutrient to food openly so that more people get enough of it.",
+   "example": "Iodine is added to salt, and vitamins A and D to some oil and milk.",
+   "art": "A packet of salt with a small drop of iodine drawn into it."
+  },
+  {
+   "term": "iodised salt",
+   "meaning": "Salt that has iodine added to it. All salt sold for eating in India has had to be iodised since 2006.",
+   "example": "The salt packet on the shelf says iodised salt, and iodine helps the thyroid gland.",
+   "art": "A salt packet with a blue plus F mark and the word iodised."
+  },
+  {
+   "term": "permitted colour",
+   "meaning": "A food colour that the law allows in certain foods, up to a set limit.",
+   "example": "India allows eight artificial colours in certain foods, and each must be named on the label.",
+   "art": "A sweet with a list of eight small colour dots."
+  },
+  {
+   "term": "preservative",
+   "meaning": "A substance that slows the spoiling of food.",
+   "example": "Salt in pickle is a preservative that stops the mango from spoiling.",
+   "art": "A jar of mango pickle with a spoon of salt beside it."
+  },
+  {
+   "term": "mixture",
+   "meaning": "Two or more substances together, which can often be separated again.",
+   "example": "Milk is a mixture of water, fat, protein, milk sugar and minerals.",
+   "art": "A glass of milk with small labelled arrows pointing at water, fat and protein."
+  },
+  {
+   "term": "standard",
+   "meaning": "A written rule that says what a food must be, such as the least fat that milk must hold.",
+   "example": "The standard for toned milk says how much fat it must have.",
+   "art": "A page of printed rules next to a tumbler of milk."
+  },
+  {
+   "term": "toned milk",
+   "meaning": "Milk that has had some fat taken out and sold openly under that name.",
+   "example": "A packet that says toned milk is not adulterated, because it says what was done.",
+   "art": "A packet marked toned milk next to a packet marked full cream."
+  },
+  {
+   "term": "property",
+   "meaning": "A way in which a thing behaves or looks that can be noticed or measured.",
+   "example": "Sinking in water is a property of a stone, and floating is a property of a dry leaf.",
+   "art": "A stone sinking and a leaf floating in a glass of water."
+  },
+  {
+   "term": "dissolve",
+   "meaning": "To mix into a liquid so completely that the pieces can no longer be seen.",
+   "example": "Sugar dissolves in water, and the water stays clear.",
+   "art": "A spoon of sugar disappearing in a glass of clear water over three drawings."
+  },
+  {
+   "term": "settle",
+   "meaning": "To sink slowly to the bottom of a liquid and stay there.",
+   "example": "Chalk powder in water makes the water cloudy and then settles as a white layer.",
+   "art": "A glass of cloudy water with a white layer forming at the bottom."
+  },
+  {
+   "term": "float",
+   "meaning": "To stay on top of a liquid instead of sinking.",
+   "example": "A dry tea leaf floats on water for a while.",
+   "art": "A glass of water with a few leaves on the surface."
+  },
+  {
+   "term": "magnet",
+   "meaning": "A piece of iron or steel, or a special stone, that attracts iron.",
+   "example": "A magnet drawn through tea leaves picks up any iron filings and leaves the tea.",
+   "art": "A horseshoe magnet pulling grey specks out of a heap of tea leaves."
+  },
+  {
+   "term": "iodine",
+   "meaning": "A dark brown liquid from a medical shop that turns starch blue-black. It stains skin and must never be swallowed.",
+   "example": "A grown-up puts a drop of iodine on a slice of potato, and the potato turns blue-black.",
+   "art": "A dropper over a potato slice with a dark blue-black spot."
+  },
+  {
+   "term": "starch",
+   "meaning": "The store of energy in many plants, in grains, potatoes and rice, which turns blue-black with iodine.",
+   "example": "A drop of iodine turns a slice of boiled potato blue-black because the potato is full of starch.",
+   "art": "A potato cut in half with a blue-black stain and a few starch grains drawn large."
+  },
+  {
+   "term": "curcumin",
+   "meaning": "The yellow substance in turmeric that gives it its colour and does not dissolve well in water.",
+   "example": "Turmeric powder in still water gives only a pale yellow haze, because curcumin hardly dissolves.",
+   "art": "A turmeric root cut open, showing the deep yellow inside."
+  },
+  {
+   "term": "detergent",
+   "meaning": "A cleaning liquid or powder that makes thick bubbles in water.",
+   "example": "A drop of washing-up liquid in a bottle of water makes a mountain of foam when it is shaken.",
+   "art": "A small bottle of dish liquid beside a bottle full of bubbles."
+  },
+  {
+   "term": "lather",
+   "meaning": "A thick, lasting foam made of many small bubbles.",
+   "example": "Shaking soap and water in a bottle makes a lather that stays for minutes.",
+   "art": "A shaken bottle full of thick white foam."
+  },
+  {
+   "term": "lactometer",
+   "meaning": "A weighted glass float that sinks deeper in thin milk and floats higher in thick milk.",
+   "example": "A dairy dips a lactometer into each can to check the milk quickly.",
+   "art": "A tall glass float standing in a jar of milk with a scale on its stem."
+  },
+  {
+   "term": "chromatography",
+   "meaning": "A way of separating coloured mixtures by letting water carry them up paper, so that each colour travels a different distance.",
+   "example": "A black felt-pen dot on wet paper spreads into bands of different colours.",
+   "art": "A paper strip standing in water with a dot splitting into coloured bands."
+  },
+  {
+   "term": "band",
+   "meaning": "One coloured stripe on a chromatography paper, made by one substance.",
+   "example": "A green dot on wet paper may split into a yellow band and a blue band.",
+   "art": "A paper strip with a blue band and a yellow band above a pencil line."
+  },
+  {
+   "term": "detect",
+   "meaning": "To find that something is there.",
+   "example": "A magnet detects iron filings in tea.",
+   "art": "A magnifying glass over a heap of powder with a small grey speck."
+  },
+  {
+   "term": "limit of a test",
+   "meaning": "The smallest amount of an adulterant that a test can notice, and everything it cannot show at all.",
+   "example": "A drop of milk on a plate cannot show a spoon of water in a whole tumbler.",
+   "art": "A scale with a line marking the amount below which a test shows nothing."
+  },
+  {
+   "term": "nectar",
+   "meaning": "The sweet liquid that flowers make. Bees collect it and turn it into honey.",
+   "example": "A bee visiting a mustard flower sucks up its nectar.",
+   "art": "A bee with her tongue in a yellow flower."
+  },
+  {
+   "term": "syrup",
+   "meaning": "A thick sweet liquid made by dissolving a lot of sugar in a little water.",
+   "example": "A syrup of sugar and water can be as thick as honey.",
+   "art": "A steel pan of thick golden sugar syrup with a spoon dripping."
+  },
+  {
+   "term": "stand-in measurement",
+   "meaning": "An easy thing that we measure because it usually goes along with the thing we truly care about.",
+   "example": "Thickness stands in for quality in honey, and nitrogen stands in for protein in milk.",
+   "art": "A ruler measuring a jar of honey with a question mark above the word quality."
+  },
+  {
+   "term": "protein",
+   "meaning": "The nourishment in food that the body uses to build muscle and to mend itself.",
+   "example": "Milk, dal, eggs and paneer hold protein.",
+   "art": "A bowl of dal and an egg with a strong arm drawn beside it."
+  },
+  {
+   "term": "nitrogen",
+   "meaning": "A gas in the air, and also an element that every protein holds.",
+   "example": "A laboratory measures the nitrogen in milk to estimate how much protein it holds.",
+   "art": "A small flask with the letter N and a drawing of a protein chain."
+  },
+  {
+   "term": "melamine",
+   "meaning": "A white chemical used to make plastics. It holds a lot of nitrogen and forms stones in the kidneys.",
+   "example": "In 2008 melamine in milk made thousands of babies in China ill.",
+   "art": "A white powder in a dish labelled melamine, with a red cross over a baby bottle."
+  },
+  {
+   "term": "density",
+   "meaning": "How much a thing weighs for its size.",
+   "example": "A steel spoon has a high density, and the same size of foam has a low one.",
+   "art": "Two equal boxes on a balance, one filled with steel and one with foam."
+  },
+  {
+   "term": "microscope",
+   "meaning": "An instrument with lenses that makes tiny things look much larger.",
+   "example": "Under a microscope, starch grains from potato and rice have different shapes.",
+   "art": "A child looking through a microscope at a slide of tiny grains."
+  },
+  {
+   "term": "DNA",
+   "meaning": "The molecule inside every cell that carries a living being's inherited instructions.",
+   "example": "A laboratory reads the DNA of a rice grain to tell basmati from a look-alike.",
+   "art": "A long twisted ladder drawn inside a single rice grain."
+  },
+  {
+   "term": "survey",
+   "meaning": "A study that tests many samples of the same food to find out how common a fault is.",
+   "example": "A national survey tested thousands of milk samples from towns across India.",
+   "art": "A clipboard with rows of tick marks beside many small milk bottles."
+  },
+  {
+   "term": "sample",
+   "meaning": "A small amount taken from a larger amount so that it can be tested.",
+   "example": "A teaspoon of turmeric from a packet is a sample of that packet.",
+   "art": "A teaspoon of yellow powder lifted out of a big sack."
+  },
+  {
+   "term": "contaminant",
+   "meaning": "A harmful thing that gets into food by accident, from soil, water, air or storage.",
+   "example": "Aflatoxin, a poison made by a mould, can get into milk when the cow eats mouldy feed.",
+   "art": "A heap of grain with a patch of green mould."
+  },
+  {
+   "term": "ethylene",
+   "meaning": "A gas that fruits make themselves, which tells them to ripen.",
+   "example": "A banana in a paper bag ripens faster because her own ethylene stays near her.",
+   "art": "A banana in a paper bag with small wavy arrows around it."
+  },
+  {
+   "term": "ripening",
+   "meaning": "The changes that make a fruit soft, sweet and coloured.",
+   "example": "A green mango turns yellow, soft and sweet as she ripens.",
+   "art": "Three mangoes from green to yellow to deep orange."
+  },
+  {
+   "term": "calcium carbide",
+   "meaning": "Grey stones that give off a gas when they get wet. Using them to ripen fruit is banned in India.",
+   "example": "A trader hid calcium carbide in a box of green mangoes, and the law forbids it.",
+   "art": "A box of mangoes with a red cross over a packet of grey stones."
+  },
+  {
+   "term": "kesari dal",
+   "meaning": "A pulse that looks like toor dal, from the grass pea plant. Eaten as the main food for months, it can cause lathyrism.",
+   "example": "Kesari dal has long been mixed into toor dal and besan because it costs less.",
+   "art": "Two small heaps of split pulses, one wedge-shaped and one round."
+  },
+  {
+   "term": "lathyrism",
+   "meaning": "An illness that makes the legs weak or stiff for life, caused by eating mostly one pulse for months.",
+   "example": "In famine years, many people who ate little but grass pea dal became unable to walk properly.",
+   "art": "A person leaning on a stick on a village path beside a field."
+  },
+  {
+   "term": "drought",
+   "meaning": "A long time with too little rain.",
+   "example": "In a drought most crops die, but the grass pea plant keeps growing.",
+   "art": "A cracked dry field with a few green plants."
+  },
+  {
+   "term": "licence number",
+   "meaning": "The 14-digit number that an Indian food business must print on its packets.",
+   "example": "The 14-digit number on a biscuit packet shows that the maker is registered.",
+   "art": "A packet corner showing a row of fourteen digits."
+  },
+  {
+   "term": "sub-standard",
+   "meaning": "Food that falls short of the written standard but is not necessarily harmful.",
+   "example": "Milk with less fat than the standard asks for is sub-standard.",
+   "art": "A measuring jar with a line for the least fat and the milk falling below it."
+  },
+  {
+   "term": "misbranded",
+   "meaning": "Food whose label says something that is not true.",
+   "example": "A packet that says cow ghee but holds another fat is misbranded.",
+   "art": "A packet whose label says one thing and a spoon of contents that shows another."
+  },
+  {
+   "term": "unsafe",
+   "meaning": "Food that can harm health.",
+   "example": "Turmeric with lead chromate is unsafe.",
+   "art": "A plate of food with a red warning triangle."
+  },
+  {
+   "term": "batch number",
+   "meaning": "A number on a packet that tells which lot it was made in, so that a bad lot can be traced.",
+   "example": "If a batch of biscuits is found bad, shops can pull back only the packets with that batch number.",
+   "art": "A packet end with a row of printed numbers and an arrow to a crate."
+  },
+  {
+   "term": "complaint",
+   "meaning": "A report to the food authority that a food looks or tests wrong.",
+   "example": "A family keeps the packet and the bill and sends a complaint through the Food Safety Connect app.",
+   "art": "A hand holding a phone with a packet and a bill on the table."
+  }
+ ],
+ "warmup": [
+  {
+   "q": "What is food adulteration?",
+   "a": "Secretly adding, removing or swapping something in food so that the seller gains and the buyer is cheated or harmed."
+  },
+  {
+   "q": "Name one thing that can be added to milk to cheat the buyer.",
+   "a": "Water. Starch, sugar, salt or detergent are others."
+  },
+  {
+   "q": "True or false: if you can see no difference, the food has nothing added.",
+   "a": "False. Adulterants are chosen because they look like the food."
+  },
+  {
+   "q": "Why does adulteration pay more with saffron than with potatoes?",
+   "a": "A small weight of saffron costs a lot, so a cheap stand-in earns a lot."
+  },
+  {
+   "q": "Is iodine added to salt adulteration? Why or why not?",
+   "a": "No. It is allowed, within a limit, and the label says so."
+  },
+  {
+   "q": "Chalk is stirred into a glass of water. What does it do?",
+   "a": "It makes the water cloudy and then settles as a white layer. It does not dissolve."
+  },
+  {
+   "q": "What do we write if a test finds nothing?",
+   "a": "Nothing found by this test. We do not write pure."
+  },
+  {
+   "q": "About how much of milk is water?",
+   "a": "About 87 parts in every 100."
+  }
+ ],
+ "warm": {
+  "words": [
+   "CHALK",
+   "SPICE",
+   "LABEL",
+   "FLOAT",
+   "STAIN"
+  ],
+  "quiz": [
+   [
+    "Chalk dissolves in water like sugar does.",
+    false,
+    "Chalk does not dissolve. It stays as a cloud and then settles."
+   ],
+   [
+    "A food that passes one home test is surely pure.",
+    false,
+    "A test finds only what it was built to find, above a smallest amount."
+   ],
+   [
+    "Toned milk sold under that name is adulterated.",
+    false,
+    "It is sold openly under its name, so nobody is cheated about what it is."
+   ],
+   [
+    "Milk is a mixture, and most of it is water.",
+    true,
+    "About 87 parts in every 100 are water, mixed with fat, protein, milk sugar and minerals."
+   ],
+   [
+    "Lead is stored in the bones because the body mistakes it for calcium.",
+    true,
+    "That is why lead stays in the body for years."
+   ],
+   [
+    "A magnet can find brick powder in chilli powder.",
+    false,
+    "A magnet attracts iron only, and brick powder is not iron."
+   ],
+   [
+    "An iodine drop turns starch blue-black.",
+    true,
+    "Iodine slips inside the coiled starch molecules and the colour changes."
+   ],
+   [
+    "Adding a cheaper thing is the only kind of adulteration.",
+    false,
+    "Food can also be adulterated by removing a valuable part or swapping one food for another."
+   ],
+   [
+    "A 14-digit licence number shows that this packet was tested.",
+    false,
+    "It shows that the business is registered and can be traced."
+   ],
+   [
+    "Chromatography can split a green dye into a blue and a yellow dye.",
+    true,
+    "Different dyes cling to paper by different amounts, so they travel different distances."
+   ]
+  ],
+  "odd": [
+   [
+    [
+     "Sugar",
+     "Salt",
+     "Chalk",
+     "Honey"
+    ],
+    "Chalk",
+    "Sugar, salt and honey dissolve in water. Chalk does not."
+   ],
+   [
+    [
+     "Magnet",
+     "Iodine drop",
+     "Slanting plate",
+     "Rumour"
+    ],
+    "Rumour",
+    "The other three are tests that use a difference you can see. A rumour is not a test."
+   ],
+   [
+    [
+     "Lead chromate",
+     "Argemone oil",
+     "Water in milk",
+     "Iodine in salt"
+    ],
+    "Iodine in salt",
+    "The first three are hidden additions. Iodine in salt is open, allowed and on the label."
+   ],
+   [
+    [
+     "Pepper sinks",
+     "Papaya seeds float",
+     "Chicory sinks fast",
+     "Sugar floats"
+    ],
+    "Sugar floats",
+    "The first three are what a water test shows for pepper, papaya seeds and chicory. Sugar does not float. It dissolves."
+   ],
+   [
+    [
+     "Honey",
+     "Turmeric",
+     "Milk",
+     "Distilled water"
+    ],
+    "Distilled water",
+    "The first three are mixtures. Distilled water is closest to one substance only."
+   ]
+  ]
+ },
+ "cards_mins": 25,
+ "games": [
+  {
+   "id": "g1",
+   "title": "Catch the Cheat: a card game about which test finds which adulterant",
+   "mins": 25,
+   "players": [
+    "alone",
+    "with a parent",
+    "with friends"
+   ],
+   "context": "This is a card game in which a case card names what a seller secretly did to a food, and each player chooses the test that would catch it. Some cases have no home test at all, and some foods are clean.",
+   "setup": [
+    {
+     "art": "A table with twenty case cards face down in a pile and a row of eight test cards in front of each player.",
+     "caption": "1. Cut out the 20 case cards and shuffle them face down. Each player takes a set of the 8 test cards."
+    },
+    {
+     "art": "A case card turned up with the front showing a food and what was done to it, and each player holding one test card face down.",
+     "caption": "2. Read the front of the top case card. Each player puts one test card face down."
+    },
+    {
+     "art": "Test cards turned over together and the case card turned to show its back with the answer, and a score sheet beside it.",
+     "caption": "3. Turn the test cards over together, then turn the case card and score."
+    }
+   ],
+   "printables": [
+    {
+     "kind": "cards",
+     "title": "20 case cards",
+     "items": [
+      {
+       "f": "Sugar. The seller secretly mixed in chalk powder.",
+       "b": "Catches it: the glass of water. Sugar dissolves and the chalk stays as a white cloud and then a white layer. Also: a laboratory, but a home test is enough."
+      },
+      {
+       "f": "Tea leaves. The seller secretly dried food colour onto old leaves.",
+       "b": "Catches it: the wet paper. Added colour stains the paper at once, and natural tea stains slowly. Also: a laboratory, but a home test is enough."
+      },
+      {
+       "f": "Tea leaves. The seller secretly mixed in iron filings.",
+       "b": "Catches it: the magnet. Iron is attracted, and tea leaves are not."
+      },
+      {
+       "f": "Turmeric powder. The seller secretly mixed in a cloth dye.",
+       "b": "Catches it: the glass of water. An added dye dissolves and runs bright yellow at once, while natural turmeric hardly dissolves. Wet paper can also show a running colour."
+      },
+      {
+       "f": "Chilli powder. The seller secretly mixed in brick powder.",
+       "b": "Catches it: the glass of water. Brick powder sinks fast and feels gritty at the bottom, and chilli powder floats for a while. A hand lens can also show gritty grains."
+      },
+      {
+       "f": "Black pepper. The seller secretly mixed in papaya seeds.",
+       "b": "Catches it: the glass of water. Pepper sinks and papaya seeds float. A hand lens also shows that the seeds are a different shape."
+      },
+      {
+       "f": "Coffee powder. The seller secretly mixed in chicory.",
+       "b": "Catches it: the glass of water. Coffee floats for a while, and chicory sinks quickly and leaves brown trails."
+      },
+      {
+       "f": "Milk. The seller secretly added half as much water.",
+       "b": "Catches it: the slanting plate. Whole milk moves slowly and leaves a white trail, and watered milk runs fast and leaves little or none."
+      },
+      {
+       "f": "Milk. The seller secretly added a little washing detergent.",
+       "b": "Catches it: the shake in a bottle. Milk gives a thin layer of foam, and milk with detergent gives a thick, lasting lather."
+      },
+      {
+       "f": "Milk. The seller added water, then added starch to thicken it again.",
+       "b": "Catches it: the iodine drop, which turns blue-black with starch. The slanting plate may be fooled, because starch makes the milk thick again. Cheats aim at the test."
+      },
+      {
+       "f": "Paneer. The seller secretly mixed in starch.",
+       "b": "Catches it: the iodine drop. Starch turns blue-black. The iodine is used by a grown-up and the paneer is never eaten after the test."
+      },
+      {
+       "f": "Toor dal. The seller secretly mixed in kesari dal.",
+       "b": "A hand lens can show wedge-shaped grains that toor dal does not have. Only a laboratory is sure, so either may be defended."
+      },
+      {
+       "f": "Mustard oil. The seller secretly mixed in argemone oil.",
+       "b": "No home test is safe to suggest. The oil looks and smells normal. Send it to a laboratory. Only a laboratory and a report can protect other families."
+      },
+      {
+       "f": "Turmeric. The seller secretly polished it with lead chromate.",
+       "b": "No home test can find lead. A water test only looks for dyes that dissolve, and lead chromate does not dissolve. Only a laboratory, or a market scanner for metals, can find it."
+      },
+      {
+       "f": "Honey. The seller secretly mixed in sugar syrup.",
+       "b": "No home test is sure. The drop-in-water test checks only thickness, and a thick syrup passes. In 2020 most failing samples had passed the usual tests. Only a laboratory can tell."
+      },
+      {
+       "f": "Milk powder. The seller secretly added melamine to fool a protein test.",
+       "b": "No home test can find it. The protein test measured nitrogen, and melamine is rich in nitrogen. Only a laboratory that tests for melamine can find it."
+      },
+      {
+       "f": "Rice. The seller secretly sold cheap long-grain rice as basmati.",
+       "b": "A laboratory DNA test tells basmati from look-alikes. A hand lens shows grain length but cannot be sure."
+      },
+      {
+       "f": "Turmeric. The seller added nothing at all.",
+       "b": "Clean card. Any test says 'nothing found by this test'. Say those words. 'Pure' loses points, because the test cannot know what was never added or what it cannot see."
+      },
+      {
+       "f": "Sugar. The seller added nothing at all.",
+       "b": "Clean card. Any test says 'nothing found by this test'. Say those words. 'Pure' loses points."
+      },
+      {
+       "f": "Milk. The seller added nothing at all.",
+       "b": "Clean card. Any test says 'nothing found by this test'. Say those words. 'Pure' loses points. Milk is still a mixture of water, fat, protein and sugar."
+      }
+     ]
+    },
+    {
+     "kind": "cards",
+     "title": "8 test cards, one set for each player",
+     "items": [
+      "1. A glass of water. Uses dissolving, sinking, floating or colour running.",
+      "2. Wet paper. Uses colour that comes off and stains the paper.",
+      "3. A magnet. Uses attraction to iron.",
+      "4. The slanting plate. Uses how fast a drop of milk runs.",
+      "5. A shake in a bottle. Uses how thick and lasting the foam is.",
+      "6. An iodine drop, used by a grown-up. Uses the blue-black colour that starch makes.",
+      "7. A hand lens. Uses the shape and size of grains and seeds.",
+      "8. Send it to a laboratory. Can find nearly everything, but costs time and money."
+     ]
+    },
+    {
+     "kind": "score sheet",
+     "title": "Score sheet, to copy by hand: one row for each case card and one column for each player",
+     "items": [
+      "Case number, then each player's test card and points.",
+      "Total points for each player at the end."
+     ]
+    }
+   ],
+   "rules": [
+    "Shuffle the 20 case cards and put them face down. Each player takes the 8 test cards. Print the test cards once for each player.",
+    "On each round, turn over the top case card and read only the front aloud. Do not read the back.",
+    "Every player puts one test card face down. Everyone turns their card over together.",
+    "Now read the back of the case card. A home test that the back names scores 2 points.",
+    "Sending the food to a laboratory scores 1 point if the back names a home test that works, and 3 points if the back says that no home test can find it.",
+    "A card that the back does not name scores 0. But if you can say which difference your test uses and why it would still catch the case, the other players vote. If most say yes, you score 1.",
+    "On a clean card, every player picks any test and then says aloud, 'pure' or 'nothing found by this test'. Saying 'nothing found by this test' scores 2 points. Saying 'pure' scores 0.",
+    "Play all 20 cards, or only 10 for a short game. The player with the most points wins. Players with equal points share the win.",
+    "If you play alone, play all 20 cards and score yourself. Score 30 points or more to be a master tester. Try again to beat your own score.",
+    "If you play with four players, nobody is ever stuck, because every player has a test card to play in every round."
+   ],
+   "flow": [
+    {
+     "id": "g1s1",
+     "mins": 5,
+     "adult": false,
+     "do": "Cut out the 20 case cards and the 8 test cards. Print the test cards once for every player. Shuffle the case cards and put them face down in a pile. Read the rules aloud together.",
+     "say": "Today you are testers in a market. A case card tells you what a seller secretly did. You choose the test that would catch it.",
+     "kid": "Cut out the cards. Read the rules together.",
+     "parent": "Two players are enough. A parent and a child can each use a set of the 8 test cards."
+    },
+    {
+     "id": "g1s2",
+     "mins": 5,
+     "adult": false,
+     "do": "Play three rounds slowly. For each, read the front aloud, let every player choose, reveal and then read the back. Say why the cards that were not right would not work.",
+     "say": "Which test would catch this? Which difference does it use? Why not the others?",
+     "kid": "Play three rounds. For each, choose a test and read the back.",
+     "ask": [
+      {
+       "q": "Why does the magnet not help with brick powder in chilli powder?",
+       "good": [
+        "A magnet attracts only iron, and brick powder is not iron.",
+        "A test works only on the difference it uses."
+       ]
+      }
+     ],
+     "parent": "Let the child lay the cards first and explain the choice before reading the back."
+    },
+    {
+     "id": "g1s3",
+     "mins": 12,
+     "adult": false,
+     "do": "Play the rest of the cards. Keep a score on the score sheet. On a clean card, remember to say 'nothing found by this test'.",
+     "say": "Keep the score. On a clean card, what do we say, and what do we never say?",
+     "kid": "Play on. Write your points. On a clean card, say 'nothing found by this test'.",
+     "ask": [
+      {
+       "q": "Which case cards had no home test at all, and why does that matter?",
+       "good": [
+        "Lead in turmeric, argemone in oil, honey with syrup and melamine in milk powder.",
+        "Some of the most harmful cases cannot be found at home, so laboratories and the law matter."
+       ]
+      }
+     ],
+     "parent": "Do not rush the cards with no home test. They are the reason the lesson ends with laboratories and with law."
+    },
+    {
+     "id": "g1s4",
+     "mins": 3,
+     "adult": false,
+     "do": "Add up the points. Then sort the case cards into those that a home test can catch, those that only a laboratory can catch, and the clean ones.",
+     "say": "Add up the points. Which pile has the cards that worry you most?",
+     "kid": "Add your points. Sort the cards into three piles.",
+     "think": "If most of the worst cases have no home test, what else could protect a family?",
+     "parent": "A good answer might be licences and batch numbers, buying whole, testing by the authority, reporting and laws."
+    }
+   ]
+  }
+ ],
+ "experiments": [
+  {
+   "id": "e1",
+   "title": "The mystery cups test: can simple tests find what a grown-up has secretly added?",
+   "mins": 57,
+   "days": 2,
+   "question": "A grown-up has secretly changed some cups of food. Can a glass of water, a wet paper and a slanting plate show which cups were changed, and how little can each test notice?",
+   "predict": "Before any test, guess for each set which cup was changed and which test will show it. For the milk, guess how much added water the plate will be able to notice. Say why you think so.",
+   "fair_test": "Each pair is tested with the same amount of powder, the same amount of water and the same wait. For the milk, the same clean plate, the same slant and the same size of drop are used for every cup, and each drop starts on the same line at the same moment. The milk drops are run twice, the second time with the cups in a different order on the plate, because the place on the plate can change how a drop runs. A sample that seems to show something is tested a second time with fresh water, because one try can be a fluke.",
+   "results_table": [
+    "Set and cup",
+    "What I saw in the test",
+    "My guess: changed or not changed",
+    "What the grown-up reveals",
+    "Did the test notice it?"
+   ],
+   "materials": [
+    {
+     "item": "2 teaspoons of sugar for each of 2 cups, and a quarter teaspoon of white chalk crushed to a fine powder",
+     "qty": 1
+    },
+    {
+     "item": "1 teaspoon of dry tea leaves for each of 2 cups, and a few drops of red, green or blue food colouring",
+     "qty": 1
+    },
+    {
+     "item": "1 teaspoon of turmeric powder for each of 2 cups, and a pinch of yellow food colouring powder or a drop of liquid yellow colouring",
+     "qty": 1
+    },
+    {
+     "item": "4 tablespoons of fresh milk for each of 3 cups, and 3 tablespoons of water",
+     "qty": 1
+    },
+    {
+     "item": "9 small cups or katoris, with paper labels and a pen",
+     "qty": 9
+    },
+    {
+     "item": "4 clear plastic tumblers, each half full of plain water",
+     "qty": 4
+    },
+    {
+     "item": "2 plates and 2 squares of white paper napkin or kitchen tissue",
+     "qty": 2
+    },
+    {
+     "item": "a clean steel plate or tray, and 3 books to tilt it",
+     "qty": 1
+    },
+    {
+     "item": "9 clean teaspoons, or one spoon washed between uses",
+     "qty": 9
+    },
+    {
+     "item": "paper, a pencil, a folded sheet for the secret key and a coin",
+     "qty": 1
+    }
+   ],
+   "safety": "Nothing tested here is eaten or drunk afterwards, not even the milk. The grown-up crushes the chalk inside a plastic bag and tips it out slowly, so that nobody breathes the dust. Food colouring stains hands and cloth, so cover the table with newspaper. Wash hands after the test.",
+   "schedule": [
+    {
+     "day": 1,
+     "mins": 10,
+     "what": "A grown-up dries colour onto tea leaves and onto turmeric powder, out of the child's sight, and leaves them overnight."
+    },
+    {
+     "day": 2,
+     "mins": 47,
+     "what": "A grown-up finishes the secret cups. Then the child predicts, tests the four sets, learns the answers and tests the family's own samples."
+    }
+   ],
+   "record": "Fill in the table as you go. After the reveal, tick each set that you named correctly. Then write one sentence each for what you think, what you saw and why. Write the smallest amount of added water that the plate noticed, or write that it noticed none.",
+   "context": "In this experiment a grown-up secretly changes some foods, and you use water, wet paper and a slanting plate to find which were changed. You also find out how little each test can notice, and then test your own kitchen samples.",
+   "setup": [
+    {
+     "art": "A grown-up at a table dropping red food colouring onto a plate of dry tea leaves, with a screen of newspaper hiding the plate from a child.",
+     "caption": "1. Day 1: a grown-up colours some tea leaves and some turmeric, out of your sight, and leaves them to dry."
+    },
+    {
+     "art": "Nine labelled cups in four small groups: two for sugar, two for tea, two for turmeric and three for milk, with a folded paper key beside them.",
+     "caption": "2. Day 2: nine cups in four sets, with a secret key hidden in a folded paper."
+    },
+    {
+     "art": "Two tumblers of clear water, one with a white cloud and layer at the bottom and one clear, and a teaspoon of powder floating on a third tumbler.",
+     "caption": "3. The water tests: look at the water after 30 seconds and after 2 minutes."
+    },
+    {
+     "art": "A steel plate tilted on three books with three drops of milk running down it at different speeds, and a pencil line at the top.",
+     "caption": "4. The slanting plate: three drops start on one line, and you watch which runs farthest in 10 seconds."
+    }
+   ],
+   "flow": [
+    {
+     "id": "s1",
+     "mins": 10,
+     "adult": true,
+     "do": "On day 1, out of the child's sight, make the changed tea and turmeric. Spread 1 teaspoon of dry tea leaves on a plate and drop 4 or 5 drops of red, green or blue food colouring onto them, then stir. Stir a pinch of yellow food colouring powder into 1 teaspoon of turmeric on another plate. If you only have liquid yellow colouring, stir in 1 drop. Leave both plates in a fan's breeze or in the sun for at least 3 hours, or overnight, until they are completely dry. Break up any lumps with a spoon. Keep 1 teaspoon of plain tea and 1 teaspoon of plain turmeric dry in other cups.",
+     "say": "This part is for the grown-up. Please keep the plates where your child will not see them.",
+     "kid": "Ask a grown-up to do this part when you are not looking. They will secretly change some tea and some turmeric.",
+     "wait": "Leave the coloured tea and turmeric to dry for at least 3 hours or overnight",
+     "parent": "Use a colour that is not brown for the tea, so that natural tea stain and added colour look different. If the powders are still damp, the test result will be muddy, so dry them completely. The turmeric may clump after drying. Crumble it with a spoon before use."
+    },
+    {
+     "id": "s2",
+     "mins": 10,
+     "adult": true,
+     "do": "On day 2, finish the secret cups. Make 9 cups labelled by set. S1 and S2 hold sugar: put 2 teaspoons of sugar in each, and stir a quarter teaspoon of chalk powder into one of them. T1 and T2 hold tea: one has plain tea and one has the coloured tea. H1 and H2 hold turmeric: one plain and one coloured. M1, M2 and M3 hold milk, 4 tablespoons in total in each, measured with the same spoon: one with 4 spoons of milk and no water, one with 3 spoons of milk and 1 spoon of water, and one with 2 spoons of milk and 2 spoons of water. Decide which cup gets the changed sample by flipping a coin, and decide the milk order by drawing three slips from a bowl. Write the answers on a sheet of paper, fold it, and put it out of reach of the child.",
+     "say": "I have made nine cups in four sets. In each set of two, one cup has been changed. In the milk set, one cup is plain milk, one has a little water, and one has a lot. You will find which, and you will not know until the end.",
+     "kid": "A grown-up has made nine cups for you. In each pair, one cup has been changed. Your job is to find the changed one.",
+     "parent": "Do not mix milk cups in advance, because the milk will spoil. Do the milk last, and wash the spoon between cups. The secret key must stay folded until step 8. Put the cups in the order S, T, H and M on a tray."
+    },
+    {
+     "id": "s3",
+     "mins": 3,
+     "adult": false,
+     "do": "Show your child the four sets of cups. Ask for a guess for each set, and a reason. Write the guesses in the table. Say that for the milk the guess is about how much water the plate can notice. Do not correct any guess.",
+     "say": "In each pair, one cup was changed. Which test do you think will find it? How much water in the milk do you think the plate can notice? Tell me what you think and why.",
+     "kid": "Guess which cup in each set was changed and why. Write your guesses in your table.",
+     "ask": [
+      {
+       "q": "How could a changed cup behave differently from a plain one?",
+       "good": [
+        "It might dissolve, or float, or sink, or leave a colour behind.",
+        "The changed one may look the same but act differently in water."
+       ]
+      }
+     ],
+     "parent": "Do not say who is right. Every guess is a good guess at this point. The tests will answer."
+    },
+    {
+     "id": "s4",
+     "mins": 5,
+     "adult": false,
+     "do": "Test the two sugar cups. Stir the contents of S1 into one tumbler of water with a clean spoon for 20 seconds, and the contents of S2 into the other with a second spoon. Look at both tumblers after 30 seconds and again after 2 minutes. Hold a dark cloth or paper behind the tumblers to see any cloudiness. Write what you see. Then say which cup you think was changed.",
+     "say": "Stir each one for 20 seconds. What does each glass look like now, and after 2 minutes? Which cup do you think was changed?",
+     "kid": "Stir each cup into its own glass of water. Look at the water now and after 2 minutes. Which one is cloudy?",
+     "ask": [
+      {
+       "q": "What difference between sugar and the added powder does this test use?",
+       "good": [
+        "Sugar dissolves and the powder does not.",
+        "The changed one stays cloudy and settles as a white layer."
+       ]
+      }
+     ],
+     "parent": "A quarter teaspoon of chalk makes a clear white cloud, and then a white layer on the bottom within 2 minutes. If both glasses look clear, the chalk was too little or too coarse. Say 'nothing found by this test' and keep going. That is a real result."
+    },
+    {
+     "id": "s5",
+     "mins": 6,
+     "adult": false,
+     "do": "Test the two turmeric cups. Put 1 teaspoon of H1 gently on the top of one tumbler of still water, and 1 teaspoon of H2 on the other. Do not stir. Look after 1 minute and after 5 minutes. Look for streaks of colour running down from the powder, and notice how fast the water changes colour. Write what you see.",
+     "say": "Do not stir. Watch the powder. Does any colour run down into the water? How quickly? Which cup do you think was changed?",
+     "kid": "Put each powder on still water without stirring. Watch for colour running down. Which one runs bright yellow fastest?",
+     "ask": [
+      {
+       "q": "Why should we not stir the water?",
+       "good": [
+        "Stirring would spread colour and powder by force, and we would not see which one dissolves by itself.",
+        "We want to see what each powder does on its own."
+       ]
+      }
+     ],
+     "parent": "Natural turmeric tints the water a faint pale yellow after some minutes, because a little of the curcumin does dissolve. Added colour shows up much faster, as bright streaks. What matters is how quickly and how strongly the water changes. If both look alike after 5 minutes, say 'nothing found by this test'."
+    },
+    {
+     "id": "s6",
+     "mins": 5,
+     "adult": false,
+     "do": "Test the two tea cups. Lay a square of white napkin or tissue on each plate, and wet both with a little water until damp but not floating. Sprinkle a pinch of T1 on one and a pinch of T2 on the other. Wait 1 minute. Lift a few leaves and look at the paper underneath. Look again after 10 minutes while you do the next test. Write what you see.",
+     "say": "Is the paper stained under each pinch? What colour is the stain? What about after 10 minutes?",
+     "kid": "Sprinkle each tea on wet paper. Wait 1 minute. Lift the leaves and look at the paper.",
+     "ask": [
+      {
+       "q": "Both teas may stain the paper after a long time. So which stain tells you more, the first one or the last?",
+       "good": [
+        "The first stain, because added colour comes off at once and natural tea comes off slowly.",
+        "How fast the colour appears matters as much as whether it appears."
+       ]
+      }
+     ],
+     "parent": "Added colour makes a bright red, green or blue stain at once. Natural tea leaves stain the paper brown slowly, over many minutes. Both are real. The test looks at the colour and its speed."
+    },
+    {
+     "id": "s7",
+     "mins": 8,
+     "adult": false,
+     "do": "Test the three milk cups. Wash and dry a steel plate so that it is free of grease, and tilt it on 3 books so that it slopes steeply, about as steep as a roof. Mark a pencil or tape line across the top. With a separate clean spoon for each cup, let 1 drop from the tip of each spoon fall onto the plate on that line, about 3 centimetres apart. Start all three drops together. Watch for 10 seconds and look at how far each one ran and whether it leaves a white trail. Wipe the plate and run it a second time with the cups in a different order. Rank the three drops from the one that moved slowest to the one that moved fastest.",
+     "say": "Put the drops down together. Which runs farthest? Which leaves a white trail? Which cup do you think holds the most water?",
+     "kid": "Put three drops of milk on the slanting plate together. Which runs fastest? Which leaves a white trail?",
+     "ask": [
+      {
+       "q": "If the cup with a lot of water and the plain cup both look the same, what does that tell you?",
+       "good": [
+        "The test cannot notice that much water, or the plate is greasy.",
+        "A test may be too weak to find the difference. That is a result, not a failure."
+       ]
+      }
+     ],
+     "parent": "Whole milk moves slowly and leaves a white trail. The cup with half water usually runs much faster and leaves a thin trail. The cup with a quarter water is often hard to tell from plain milk. If all three run alike, wash the plate with soap, dry it and tilt it more. If they still run alike, write 'nothing found by this test'."
+    },
+    {
+     "id": "s8",
+     "mins": 4,
+     "adult": false,
+     "do": "Look at your table. Write your final answer for each set, and the milk ranking from most water to least. Then ask the grown-up to unfold the key and read the answers. Tick each set that you named correctly. For the milk, write the smallest amount of added water that the plate noticed.",
+     "say": "Now tell me your final answers. Then we will open the key and see.",
+     "kid": "Write your final answers. Then a grown-up reads the key. Tick the ones you got right.",
+     "ask": [
+      {
+       "q": "Which set was easiest and which was hardest? Why?",
+       "good": [
+        "The test that uses a big difference was easiest, such as dissolving or colour running.",
+        "The milk with a little water was hardest, because the difference was small."
+       ]
+      }
+     ],
+     "think": "What would you need to know about a sample before you could be sure that a test said 'nothing found' because nothing was there?",
+     "parent": "If your child got some wrong, say that the tests have limits, and that is exactly what the experiment is for. Never say the child failed."
+    },
+    {
+     "id": "s9",
+     "mins": 8,
+     "adult": false,
+     "do": "Test the family's own samples. Choose a teaspoon of turmeric powder, a teaspoon of sugar, a pinch of tea leaves and a spoon of milk from the kitchen. Run the same tests as before: the sugar and turmeric in water, the tea on wet paper, and the milk on the plate next to a drop of the cup you named plain milk and a drop of plain water. For each, write 'found something' or 'nothing found by this test'. Never write 'pure'. If a test shows something, repeat it once with fresh water, and keep the packet and the bill.",
+     "say": "Here are our own foods. What does each test say? We will write 'found something' or 'nothing found by this test'. We never write 'pure'. Why not?",
+     "kid": "Test your family's own turmeric, sugar, tea and milk. Write 'nothing found by this test' or 'found something'. Never write 'pure'.",
+     "ask": [
+      {
+       "q": "A kitchen turmeric leaves the water pale. What exactly can you say?",
+       "good": [
+        "Nothing found by the dye test.",
+        "The test says nothing about lead chromate or any other adulterant that it cannot see."
+       ]
+      }
+     ],
+     "parent": "Most home samples will pass, and that is the expected and honest result. A passing sample is not a proof of purity. If something does show, do not decide that the shop cheated. Try a second brand, and a whole spice if you have one. If you are still worried, keep the packet and the bill and report it. Project p2 shows how to write a report."
+    },
+    {
+     "id": "s10",
+     "mins": 4,
+     "adult": false,
+     "do": "Clean up. Pour the water and the milk down the sink and put the powders in the bin. Wash the cups, the plate and the spoons with soap. Wash hands. Then write your claim, what you saw and why in three sentences. Say one thing this test could not tell you.",
+     "say": "Nothing we tested is eaten or drunk. Pour it all away and wash everything. Then write what you think, what you saw and why.",
+     "kid": "Pour everything away and wash the cups. Write what you think, what you saw and why.",
+     "think": "If a seller wanted to fool every test you used today, what could the seller add?",
+     "parent": "Do not reuse any of the tested food. Nothing here is for eating. Wash the plate well so that the steel does not keep a film of milk."
+    }
+   ]
+  },
+  {
+   "id": "e2",
+   "title": "Whose colour is it? Splitting colours on wet paper",
+   "mins": 25,
+   "days": 1,
+   "question": "A dot of green food colouring or black felt-pen ink is placed on paper, and water creeps up the paper. Does each dot stay one colour, or does it split into several?",
+   "predict": "Before you start, guess. Will each dot stay one colour or split into more? Which dot will split into the most colours? Say why you think so.",
+   "fair_test": "Every strip is the same paper, the same width and the same length. Each dot is the same size and the same height above the water. The water is the same depth and the strips wait for the same 10 minutes. The paper is changed only in the colour of the dot. Each colour is tried on two strips, because one strip can be spoiled by a drip.",
+   "results_table": [
+    "Colour dot",
+    "Colours seen after 10 minutes",
+    "Distance the water travelled (millimetres)",
+    "Distance of the farthest band (millimetres)"
+   ],
+   "materials": [
+    {
+     "item": "6 strips of coffee filter paper or kitchen paper towel, each 2.5 centimetres wide and 12 centimetres long",
+     "qty": 6
+    },
+    {
+     "item": "green food colouring, a washable black felt pen and a washable brown felt pen",
+     "qty": 3
+    },
+    {
+     "item": "3 clear plastic tumblers, each with 1 centimetre of plain water",
+     "qty": 3
+    },
+    {
+     "item": "3 pencils to lay across the tumblers, and paper tape",
+     "qty": 3
+    },
+    {
+     "item": "a ruler with millimetres, a pencil and a clock",
+     "qty": 1
+    },
+    {
+     "item": "a toothpick or a matchstick to dab food colouring",
+     "qty": 1
+    }
+   ],
+   "record": "Fill in the table. Draw each strip and colour in the bands. Work out, for each band, its distance divided by the distance that the water travelled. Write one sentence each for what you think, what you saw and why.",
+   "context": "In this experiment you let water carry coloured dots up paper strips. You find out whether a colour is one dye or several, which is how food laboratories begin to look for forbidden dyes.",
+   "setup": [
+    {
+     "art": "A paper strip with a pencil line 2 centimetres from the bottom and three small coloured dots on the line.",
+     "caption": "1. Draw a pencil line 2 centimetres from the bottom of each strip, and put one small dot on the line."
+    },
+    {
+     "art": "A paper strip hanging from a pencil laid across a tumbler with the bottom of the strip just in the water and the dot above the water.",
+     "caption": "2. Hang each strip so that the bottom touches the water and the dot stays above it."
+    },
+    {
+     "art": "Three strips after ten minutes, with a blue and a yellow band on one, several bands on another, and a single band on a third.",
+     "caption": "3. After 10 minutes, take out the strips and mark where the water reached."
+    }
+   ],
+   "flow": [
+    {
+     "id": "e2s1",
+     "mins": 6,
+     "adult": false,
+     "do": "Cut 6 strips, each 2.5 centimetres wide and 12 centimetres long. On each strip draw a pencil line 2 centimetres from one end. Put a small dot on the line, about the size of a pinhead. Use a toothpick dipped in food colouring for the green, and the felt pens for black and brown. Make 2 strips for each colour. Let the dots dry for 1 minute.",
+     "say": "Make a small dot on each pencil line. Keep it small. Which dot do you think will stay one colour?",
+     "kid": "Draw a pencil line near the bottom of each strip. Put one small dot on each line.",
+     "parent": "A big dot spreads into a blur. Keep it as small as a pinhead. Washable pens give clear bands. A permanent marker does not dissolve in water, so it will not move. If your black pen stays one colour, try a green or a purple pen."
+    },
+    {
+     "id": "e2s2",
+     "mins": 3,
+     "adult": false,
+     "do": "Ask for the guesses and the reasons, and write them down. Then pour 1 centimetre of water into each tumbler, so that the water is below the pencil line.",
+     "say": "Which dots will split into more colours? Why do you think so? Make a guess before the water arrives.",
+     "kid": "Guess which dots will split. Pour 1 centimetre of water into each glass.",
+     "parent": "Do not correct the guesses. If the water is higher than 1 centimetre, it will cover the dots and wash the colour into the glass."
+    },
+    {
+     "id": "e2s3",
+     "mins": 10,
+     "adult": false,
+     "do": "Tape the top of each strip to a pencil laid across a tumbler, and lower the strip until the bottom touches the water. The dot must stay above the water. Watch for 10 minutes. Look every 2 minutes and say what you see. After 10 minutes, take out each strip and quickly mark where the water reached with a pencil, before the paper dries.",
+     "say": "What happens to the dot when the water reaches it? Which colour moves first? Does any colour stay at the bottom?",
+     "kid": "Hang the strips so that the bottom touches the water. Watch the dots for 10 minutes.",
+     "ask": [
+      {
+       "q": "Why do different colours travel different distances?",
+       "good": [
+        "Different dyes cling to the paper by different amounts.",
+        "The ones that cling less are carried farther by the water."
+       ]
+      }
+     ],
+     "parent": "Most green food colourings split into a blue and a yellow band. Some black pens split into pink, blue and yellow. If a dot does not split, say so. Some colours are single dyes. A strip that drifts into the glass can be started again."
+    },
+    {
+     "id": "e2s4",
+     "mins": 6,
+     "adult": false,
+     "do": "Measure with a ruler the distance from the pencil line to the water mark, and from the pencil line to the top of each band. Write the numbers. Work out for each band its distance divided by the water's distance. Colour in a drawing of each strip.",
+     "say": "How far did the water go? How far did each colour go? Which one travelled most?",
+     "kid": "Measure how far the water went and how far each colour went. Draw each strip.",
+     "think": "If a sweet claims to hold one colour and its colour splits into three, what might that mean, and what would it not prove?",
+     "parent": "Fractions such as 0.4 and 0.8 are enough. The same band on the same paper should give about the same number on two strips. If two strips of one colour disagree a lot, a drip probably spoiled one."
+    }
+   ]
+  }
+ ],
+ "activities": [
+  {
+   "id": "a1",
+   "title": "Dissolve, sink, float or stripe: what does each powder do in water?",
+   "mins": 20,
+   "days": 1,
+   "context": "This activity shows that foods differ in how they behave in water. Every test in this lesson uses one such difference, so you try six foods before you try any test.",
+   "materials": [
+    {
+     "item": "a clear plastic tumbler of plain water for each food, 6 in all",
+     "qty": 1
+    },
+    {
+     "item": "a pinch each of sugar, salt, chilli powder and dry tea leaves",
+     "qty": 1
+    },
+    {
+     "item": "3 whole black peppercorns",
+     "qty": 1
+    },
+    {
+     "item": "1 drop of cooking oil",
+     "qty": 1
+    },
+    {
+     "item": "a teaspoon, paper, a pencil and a dark cloth",
+     "qty": 1
+    },
+    {
+     "item": "optional: a small magnet and a pinch of iron filings",
+     "qty": 1
+    }
+   ],
+   "schedule": [
+    {
+     "day": 1,
+     "mins": 20,
+     "what": "Predict, try six foods in water, sort them by what they did, and write down the difference each one shows."
+    }
+   ],
+   "record": "Draw a table with six rows. For each food, write your guess, what happened after 30 seconds, and what happened after 2 minutes. Then sort the foods into dissolves, sinks, floats and makes streaks.",
+   "setup": [
+    {
+     "art": "Six clear tumblers of water in a row, each with a different food: sugar, salt, chilli powder, tea leaves, peppercorns and a drop of oil.",
+     "caption": "1. Half fill six tumblers with plain water and put one food in each."
+    },
+    {
+     "art": "A hand holding a dark cloth behind a tumbler to show cloudiness and a clock showing two minutes.",
+     "caption": "2. Look at each tumbler after 30 seconds and again after 2 minutes."
+    },
+    {
+     "art": "A table with four columns headed dissolves, sinks, floats and streaks, with food names written under each.",
+     "caption": "3. Sort the foods by what they did."
+    }
+   ],
+   "flow": [
+    {
+     "id": "a1s1",
+     "mins": 5,
+     "adult": false,
+     "do": "Set out six tumblers half full of plain water. Ask your child to guess, for each food, what will happen in the water. Write the guesses, with the reason.",
+     "say": "Which of these will vanish into the water? Which will sink? Which will float? Why do you think so?",
+     "kid": "Guess what each food will do in water. Write your guesses.",
+     "parent": "Do not correct any guess. Just write each one."
+    },
+    {
+     "id": "a1s2",
+     "mins": 8,
+     "adult": false,
+     "do": "Put a pinch of each food into its own tumbler, without stirring: sugar, salt, chilli powder, tea leaves. Add 3 peppercorns to the fifth and 1 drop of oil to the sixth. Stir only the sugar and the salt, for 15 seconds. Look at every tumbler after 30 seconds and after 2 minutes. Use a dark cloth behind each one to see any cloudiness.",
+     "say": "What happened to each one? Is the water clear or cloudy? Is there colour running?",
+     "kid": "Put each food in its own glass. Look at them after 30 seconds and 2 minutes.",
+     "parent": "You should see this. Sugar and salt vanish and the water stays clear. Peppercorns sink. The oil floats and stays in one piece. Chilli powder floats for a while and then sinks slowly, leaving red streaks. Dry tea leaves float, and later sink, and tint the water faintly brown. Small differences in the foods may change the timing, so write what you really see."
+    },
+    {
+     "id": "a1s3",
+     "mins": 4,
+     "adult": false,
+     "do": "Sort the six foods into dissolves, sinks, floats and streaks. A food may go in more than one group. Then try the optional magnet test, if you have a magnet and iron filings. Sprinkle a pinch of filings into a pinch of tea leaves on paper, and pull the magnet slowly just above them.",
+     "say": "Which foods go in more than one group? If a cheat added chalk, which group would it go in? Why would the cheat be easy to find?",
+     "kid": "Sort the foods into groups. Some can go in more than one.",
+     "ask": [
+      {
+       "q": "If a cheat wanted to hide a powder in sugar, which kind of powder would be hard to find with water?",
+       "good": [
+        "A powder that dissolves in water like sugar does.",
+        "One that looks the same and also vanishes in the water."
+       ]
+      }
+     ],
+     "parent": "The magnet step is optional. Filings jump to the magnet and the tea stays behind. If you have no filings, skip it. The game covers it."
+    },
+    {
+     "id": "a1s4",
+     "mins": 3,
+     "adult": false,
+     "do": "Write one sentence: 'A test works by finding one way in which two things differ.' Then write which difference you would use to tell sugar from salt, and why that is hard.",
+     "say": "Why must a test use a difference? Can you tell sugar from salt in water?",
+     "kid": "Write what a test uses. Write why sugar and salt are hard to tell apart in water.",
+     "think": "What other difference could you use to tell sugar from salt without tasting?",
+     "parent": "Do not taste anything. Other differences are the shape of the grains under a lens, or the way they burn, which a grown-up should not try at home."
+    }
+   ]
+  },
+  {
+   "id": "a2",
+   "title": "The shake test: thin foam or thick lather?",
+   "mins": 15,
+   "days": 1,
+   "context": "This activity shows how one property, foam, can show detergent in milk. You see the difference between milk and soapy water side by side before you read about it.",
+   "materials": [
+    {
+     "item": "2 small clean plastic bottles with lids, about 200 millilitres each",
+     "qty": 1
+    },
+    {
+     "item": "4 tablespoons of fresh milk",
+     "qty": 1
+    },
+    {
+     "item": "4 tablespoons of water",
+     "qty": 1
+    },
+    {
+     "item": "1 drop of washing-up liquid",
+     "qty": 1
+    },
+    {
+     "item": "a clock or a phone timer",
+     "qty": 1
+    }
+   ],
+   "safety": "The soapy bottle is not drunk or eaten. Pour both bottles down the sink afterwards and wash the bottles.",
+   "schedule": [
+    {
+     "day": 1,
+     "mins": 15,
+     "what": "Shake two bottles for 10 seconds each, one plain and one with a drop of washing-up liquid, and time how long the foam lasts."
+    }
+   ],
+   "record": "Write how tall the foam is in each bottle in centimetres, right after shaking and again after 2 minutes. Write which bottle you think held the detergent before the test.",
+   "setup": [
+    {
+     "art": "Two small plastic bottles each with 2 tablespoons of milk and 2 tablespoons of water, one with a drop of washing-up liquid.",
+     "caption": "1. Put milk and water in two bottles. Add one drop of washing-up liquid to one."
+    },
+    {
+     "art": "A child shaking a closed bottle with both hands while a parent holds a clock.",
+     "caption": "2. Close the lids. Shake each bottle hard for 10 seconds."
+    },
+    {
+     "art": "Two bottles on a table with a ruler beside each foam layer, one thin and one thick.",
+     "caption": "3. Measure the foam at once and again after 2 minutes."
+    }
+   ],
+   "flow": [
+    {
+     "id": "a2s1",
+     "mins": 5,
+     "adult": true,
+     "do": "A grown-up does this step out of the child's sight. Pour 2 tablespoons of milk and 2 tablespoons of water into each bottle. Add 1 drop of washing-up liquid to one bottle only, and close both lids. Mark the bottles on the bottom with a secret sign and write which is which on a folded paper.",
+     "say": "I have put the same milk and water into two bottles. I have secretly changed one. Which one do you think it was?",
+     "kid": "Ask a grown-up to prepare two bottles and secretly change one.",
+     "parent": "Do not add more than 1 drop of washing-up liquid. A bigger amount makes both bottles foam so much that nothing can be compared. Do not let your child drink any of the milk after this."
+    },
+    {
+     "id": "a2s2",
+     "mins": 6,
+     "adult": false,
+     "do": "Ask your child to shake each bottle for 10 seconds with the lid on. Set both bottles down side by side. Measure the foam right away, and again after 2 minutes.",
+     "say": "Which has the thicker foam? Which foam lasts longer after 2 minutes? Which do you think holds the detergent?",
+     "kid": "Shake each bottle for 10 seconds. Measure the foam now and after 2 minutes.",
+     "ask": [
+      {
+       "q": "What is different about foam made by milk alone and foam made with detergent?",
+       "good": [
+        "Milk gives a thin layer that goes quickly.",
+        "Detergent gives a thick lather that stays."
+       ]
+      }
+     ],
+     "parent": "Plain milk with water gives a thin layer of foam that fades. The bottle with detergent gives a tall, thick lather that lasts for minutes."
+    },
+    {
+     "id": "a2s3",
+     "mins": 4,
+     "adult": false,
+     "do": "Open the paper to see which bottle held detergent. Pour all of it down the sink and wash both bottles. Write one sentence on what the test found, and one on what it could not find.",
+     "say": "Pour everything away. Was your guess right? What could this test not find?",
+     "kid": "Check your guess. Pour everything away and wash the bottles.",
+     "think": "Could a seller add something that makes a lather but is not detergent? What would that show?",
+     "parent": "The shake test finds a lot of detergent and misses a very small amount. A very small drop in a big can gives only a little extra foam."
+    }
+   ]
+  },
+  {
+   "id": "a3",
+   "title": "Starch hunt with an iodine drop (optional, with a grown-up)",
+   "mins": 20,
+   "days": 1,
+   "context": "This optional activity shows how a drop of iodine finds starch in foods. A grown-up does all the iodine steps, because iodine stains and must never be swallowed.",
+   "materials": [
+    {
+     "item": "a bottle of tincture of iodine from a medical shop and a clean earbud or toothpick",
+     "qty": 1
+    },
+    {
+     "item": "a slice of potato, a slice of bread, a pinch of sugar and a spoon of cooked rice",
+     "qty": 1
+    },
+    {
+     "item": "a small steel plate or a saucer for each food",
+     "qty": 1
+    },
+    {
+     "item": "4 tablespoons of milk, and half a teaspoon of cornflour or maida",
+     "qty": 1
+    },
+    {
+     "item": "old clothes and a newspaper to cover the table",
+     "qty": 1
+    }
+   ],
+   "safety": "Tincture of iodine stains skin and cloth and must never be swallowed. A grown-up handles the bottle, puts the drops on, and keeps it away from small children. Nothing tested here is eaten afterwards. Wash hands after the activity.",
+   "schedule": [
+    {
+     "day": 1,
+     "mins": 20,
+     "what": "A grown-up puts a drop of iodine on four foods and on milk with and without added flour, and the child writes what colours appear."
+    }
+   ],
+   "record": "Make a table with the foods down the side. For each, write your guess (starch or no starch), the colour after the iodine drop, and your decision.",
+   "setup": [
+    {
+     "art": "Four small plates in a row with a slice of potato, a slice of bread, a pinch of sugar and a spoon of cooked rice.",
+     "caption": "1. Lay out four foods, each on its own plate."
+    },
+    {
+     "art": "A grown-up's hand touching a drop of dark brown iodine from an earbud to a slice of potato, turning it blue-black.",
+     "caption": "2. A grown-up puts one drop of iodine on each food. Watch for blue-black."
+    },
+    {
+     "art": "Two cups of milk, one stirred with a little flour and one plain, with a blue-black drop in the first.",
+     "caption": "3. Test the milk with and without the flour in it."
+    }
+   ],
+   "flow": [
+    {
+     "id": "a3s1",
+     "mins": 4,
+     "adult": false,
+     "do": "Set out the potato, bread, sugar and cooked rice on separate plates. Ask your child to guess which hold starch and to give a reason. Write the guesses down.",
+     "say": "Potatoes, bread and rice are plant foods that store energy. Sugar is sweet. Which do you think hold starch? Why?",
+     "kid": "Guess which foods hold starch. Write why.",
+     "parent": "If your child asks what starch is, say it is the store of energy in many plants, made of long chains. Do not let your child touch the iodine."
+    },
+    {
+     "id": "a3s2",
+     "mins": 7,
+     "adult": true,
+     "do": "A grown-up puts one drop of iodine on each food, using a clean earbud for each. Look after 10 seconds. Starch turns the drop blue-black. Sugar leaves the iodine brown. Then the grown-up mixes half a teaspoon of cornflour or maida into 1 tablespoon of milk in one cup. Warm both milks a little in a steel pan and let them cool, because starch reacts best when cooked. A grown-up puts one drop of iodine on a spoon of each milk.",
+     "say": "Watch the drop. What colour does it turn on each? What colour does it turn on the milk with flour, and on the plain milk?",
+     "kid": "Ask a grown-up to put the drops on. Look for blue-black.",
+     "parent": "Potato, bread and rice turn blue-black. Sugar stays brown or orange. The milk with flour turns blue-black, and the plain milk stays brown. Do not use a stove while a child is near. If the colour seems faint, add a second drop. Cooked starch gives a deeper colour than raw."
+    },
+    {
+     "id": "a3s3",
+     "mins": 5,
+     "adult": false,
+     "do": "Write what you saw. Say which foods held starch. Say what the test cannot tell you: a food that stays brown has no starch that the test can find, but it may still hold something else that is wrong. Throw the tested foods away and wash everything.",
+     "say": "Which foods held starch? A food that stays brown has no starch. Does that mean nothing else was added?",
+     "kid": "Write which foods held starch. Throw the tested food away and wash your hands.",
+     "think": "Starch is not a poison. Why might a seller still add it to paneer or milk?",
+     "parent": "Starch is cheap and heavy, so it adds weight and thickness for almost no money, and so it cheats the buyer of the real food."
+    }
+   ]
+  },
+  {
+   "id": "a4",
+   "title": "Read three packets: what the label tells you, and what it does not",
+   "mins": 20,
+   "days": 1,
+   "context": "This activity trains you to read what a packet says and to see what it leaves out. A label is the first test that any family can do.",
+   "materials": [
+    {
+     "item": "3 food packets from the kitchen, one of them salt or oil",
+     "qty": 1
+    },
+    {
+     "item": "a pencil and the table you draw",
+     "qty": 1
+    },
+    {
+     "item": "a hand lens or a phone camera to zoom in",
+     "qty": 1
+    }
+   ],
+   "schedule": [
+    {
+     "day": 1,
+     "mins": 20,
+     "what": "Find eight things on each of three packets, write them in a table and then say what is still hidden."
+    }
+   ],
+   "record": "Draw a table with three columns, one for each packet, and the rows: licence number, maker's address, batch number, best before date, ingredients, plus F mark or other mark, and 'what I still cannot tell'.",
+   "setup": [
+    {
+     "art": "Three food packets on a table with a child pointing at the licence number on one.",
+     "caption": "1. Choose three packets and lay them out."
+    },
+    {
+     "art": "A close view of a packet corner showing a 14-digit number, a batch number and a date.",
+     "caption": "2. Find the numbers and the dates, and write them in your table."
+    },
+    {
+     "art": "A filled table beside a packet with a circle drawn around the words ingredients.",
+     "caption": "3. Fill in the table and write what the label does not tell you."
+    }
+   ],
+   "flow": [
+    {
+     "id": "a4s1",
+     "mins": 6,
+     "adult": false,
+     "do": "Choose three packets. Ask your child to find the 14-digit licence number, which starts with the number 1 or 2 on most Indian packets, and the maker's address. Write them in the table.",
+     "say": "Find a row of 14 numbers near the word FSSAI. Find where the packet was made. Write them down.",
+     "kid": "Find the 14-digit number and the maker's address on each packet.",
+     "parent": "The licence number is usually printed near the FSSAI sign. If a packet has no number, write 'none' and talk about what that means. Packets sold loose may have none."
+    },
+    {
+     "id": "a4s2",
+     "mins": 8,
+     "adult": false,
+     "do": "Find the batch number, the best before or expiry date and the list of ingredients on each packet. Look for any special mark such as a blue plus F, which means the food has been fortified. Write them down.",
+     "say": "What number tells which lot this packet came from? What date is printed? What is in it?",
+     "kid": "Find the batch number, the date and the ingredients. Look for a plus F mark.",
+     "ask": [
+      {
+       "q": "Why would a batch number help if a bad lot is found?",
+       "good": [
+        "Shops can take back only the packets with that number.",
+        "It lets a problem be traced to one lot."
+       ]
+      }
+     ],
+     "parent": "A batch number lets a problem be traced to one lot. Ingredients are listed from the most to the least by weight."
+    },
+    {
+     "id": "a4s3",
+     "mins": 6,
+     "adult": false,
+     "do": "In the last row of your table, write what the label cannot tell you. Does it say what was added in secret? Does it say that this packet was tested? Does it say what the farm was like?",
+     "say": "What does the label tell you? What is it silent about? Can a label show a secret addition?",
+     "kid": "Write what the label does not tell you.",
+     "think": "If a label is true, what keeps a seller from printing a false one? Who checks?",
+     "parent": "A label tells you who made it and what they say it holds. It cannot show a secret. The licence number says the business is registered and can be traced. It does not say that this packet was tested."
+    }
+   ]
+  },
+  {
+   "id": "a5",
+   "title": "Is curd one thing? Drain the whey and see",
+   "mins": 25,
+   "days": 1,
+   "context": "This activity shows with your own eyes that a food we call pure is a mixture, because a thin liquid drains out of curd and leaves a thicker part behind.",
+   "materials": [
+    {
+     "item": "4 tablespoons of plain curd",
+     "qty": 1
+    },
+    {
+     "item": "a clean thin cloth or a muslin square",
+     "qty": 1
+    },
+    {
+     "item": "a steel bowl",
+     "qty": 1
+    },
+    {
+     "item": "a steel spoon, a clock and a tape or string",
+     "qty": 1
+    }
+   ],
+   "schedule": [
+    {
+     "day": 1,
+     "mins": 25,
+     "what": "Hang curd in a cloth for 20 minutes and look at what drips out and what stays behind."
+    }
+   ],
+   "record": "Write what the thin liquid looks like and how much there is. Write what is left in the cloth. Draw the cloth with the curd, the drips and the bowl.",
+   "setup": [
+    {
+     "art": "A square of thin cloth holding four tablespoons of curd tied at the top with string.",
+     "caption": "1. Tie the curd in a clean cloth."
+    },
+    {
+     "art": "The cloth hanging above a steel bowl with a few drops of watery liquid falling.",
+     "caption": "2. Hang it over a bowl for about 20 minutes."
+    },
+    {
+     "art": "A bowl holding a thin yellowish liquid and a cloth opened to show thick curd.",
+     "caption": "3. Open the cloth and look at both parts."
+    }
+   ],
+   "flow": [
+    {
+     "id": "a5s1",
+     "mins": 5,
+     "adult": false,
+     "do": "Spoon 4 tablespoons of plain curd into the middle of a clean thin cloth. Gather the corners and tie them with string. Hang the bundle on a tap or a spoon laid across the bowl, so that it hangs above the bowl.",
+     "say": "Curd looks like one thing. What do you think will come out of the cloth, if anything?",
+     "kid": "Tie the curd in a cloth. Hang it over a bowl. Guess what will drip.",
+     "parent": "Use a cloth with a fine weave, such as muslin or an old cotton handkerchief that has been washed well."
+    },
+    {
+     "id": "a5s2",
+     "mins": 15,
+     "adult": false,
+     "do": "Leave the bundle for 15 to 20 minutes. Every 5 minutes, look at the bowl. Write what drips out and how much.",
+     "say": "What colour is the liquid? Is it thin or thick? Does the bundle stop dripping?",
+     "kid": "Wait. Look into the bowl every 5 minutes. Write what you see.",
+     "wait": "Leave the curd to drain for 15 to 20 minutes",
+     "parent": "The thin liquid is whey, which is mostly water with some milk sugar and protein. If the curd is very thick, only a few spoons will drip, so it may take longer. That is fine."
+    },
+    {
+     "id": "a5s3",
+     "mins": 5,
+     "adult": false,
+     "do": "Open the cloth. Compare the thick curd that stayed with the thin whey in the bowl. Write what is the same and what is different. Then say how many parts the curd came apart into.",
+     "say": "Is curd one thing or more? What came out? What stayed behind?",
+     "kid": "Open the cloth. Compare the thick part and the thin liquid.",
+     "think": "Both parts are food. So what does 'pure curd' mean, if curd comes apart so easily?",
+     "parent": "The thick part holds most of the protein and fat, and the thin part is mostly water. Both are part of the milk. The curd is a mixture."
+    }
+   ]
+  },
+  {
+   "id": "a6",
+   "title": "From the field to the kitchen: where could a cheat step in?",
+   "mins": 20,
+   "days": 1,
+   "context": "This activity draws the long chain that food travels along and asks where a buyer can look and where a buyer cannot. It shows why cheating is hard to catch.",
+   "materials": [
+    {
+     "item": "a large sheet of paper and a pencil",
+     "qty": 1
+    },
+    {
+     "item": "coloured pens or crayons",
+     "qty": 1
+    },
+    {
+     "item": "a packet of turmeric or rice from the kitchen to read the label",
+     "qty": 1
+    }
+   ],
+   "schedule": [
+    {
+     "day": 1,
+     "mins": 20,
+     "what": "Draw the chain for one food, then mark where someone can see inside, where someone can add, and who can check."
+    }
+   ],
+   "record": "Draw the chain as a row of boxes. Use three colours: one for 'someone can look inside here', one for 'someone could add something here' and one for 'someone checks here'.",
+   "setup": [
+    {
+     "art": "A row of six boxes across a page, drawn as a field, a sack, a mill, a packet, a shop and a kitchen.",
+     "caption": "1. Draw the chain from the field to your kitchen as a row of boxes."
+    },
+    {
+     "art": "The same row with green ticks over some boxes, red crosses over others and a magnifying glass over one.",
+     "caption": "2. Mark where someone can look, where someone could add, and who checks."
+    }
+   ],
+   "flow": [
+    {
+     "id": "a6s1",
+     "mins": 8,
+     "adult": false,
+     "do": "Choose one food, such as turmeric or milk. Draw the chain on the paper, one box for each person or place between the field and your kitchen. Write the name of each one underneath. Read the label on a packet to find clues about the maker and the shop.",
+     "say": "Who grows it? Who buys it next? Who grinds or packs it? Who sells it to us? Draw one box for each.",
+     "kid": "Draw the chain from the field to the kitchen.",
+     "parent": "A turmeric chain: a farmer, a trader, a miller, a packer, a wholesaler, a shop, a kitchen. Milk may go from a cow to a dairy to a delivery person."
+    },
+    {
+     "id": "a6s2",
+     "mins": 8,
+     "adult": false,
+     "do": "Use three colours. Draw a green tick over every box where a person could see the food and judge it with their own eyes. Draw a red cross over every box where someone could add something without being seen. Draw a blue circle where someone checks.",
+     "say": "Where can someone see what is inside? Where could a cheat add something and nobody would see? Where does anyone check?",
+     "kid": "Mark each box with a green tick, a red cross or a blue circle.",
+     "ask": [
+      {
+       "q": "Which box is the hardest one to see inside?",
+       "good": [
+        "The packet, because the food is hidden.",
+        "Any box where powder is hidden in a sack."
+       ]
+      }
+     ],
+     "parent": "There is no single right answer. A farmer can see the roots. A buyer cannot see inside a sealed packet."
+    },
+    {
+     "id": "a6s3",
+     "mins": 4,
+     "adult": false,
+     "do": "Look at your red crosses. Pick the one place where a check would help most. Write why, in one sentence.",
+     "say": "If you could put one inspector in this chain, where would you put her? Why there?",
+     "kid": "Pick one place for a check. Write why.",
+     "think": "Who in the chain wants honest food, and who might be tempted to cheat? Could the same person be both?",
+     "parent": "Many people in the chain are honest and also under pressure. A good answer talks about both."
+    }
+   ]
+  },
+  {
+   "id": "a7",
+   "title": "Ask three people how they choose their food",
+   "mins": 25,
+   "days": 1,
+   "context": "This activity asks three people how they pick turmeric, milk or oil, and what they would do if they found something wrong. It shows what people check, and what they trust without checking.",
+   "materials": [
+    {
+     "item": "a notebook and a pencil",
+     "qty": 1
+    },
+    {
+     "item": "3 people to ask, such as a neighbour, a shopkeeper, a relative or a friend's parent",
+     "qty": 1
+    }
+   ],
+   "schedule": [
+    {
+     "day": 1,
+     "mins": 25,
+     "what": "Ask three people the same four questions, write their answers, and compare them with each other."
+    }
+   ],
+   "record": "Make a table with three columns, one for each person, and four rows for the questions. Underline any check that is something you could test and circle any check that is only trust.",
+   "setup": [
+    {
+     "art": "A child with a notebook asking a woman at a fruit and vegetable shop a question.",
+     "caption": "1. Ask the same four questions of each person."
+    },
+    {
+     "art": "A notebook page with a table, a few answers and circled words.",
+     "caption": "2. Write the answers in a table. Underline checks and circle trust."
+    }
+   ],
+   "flow": [
+    {
+     "id": "a7s1",
+     "mins": 5,
+     "adult": false,
+     "do": "Write the four questions in the notebook. First, how do you choose your turmeric, milk or oil? Second, have you ever found something wrong with food, and what did you do? Third, whom do you trust to sell you food, and why? Fourth, would you pay more for food that is tested?",
+     "say": "We will ask three people these questions. Ask each one politely and write what they say.",
+     "kid": "Write the four questions. Choose three people to ask.",
+     "parent": "Choose people who are happy to talk, such as a neighbour, a shopkeeper or a relative. A shopkeeper may know a great deal."
+    },
+    {
+     "id": "a7s2",
+     "mins": 15,
+     "adult": false,
+     "do": "Ask each person the questions, and write down what they say in their words. Do not tell them what you think. If someone says that they test their food, ask how.",
+     "say": "Ask the first question. Write down what they say. Do not argue. Ask the next.",
+     "kid": "Ask the four questions of each person. Write down what they say.",
+     "ask": [
+      {
+       "q": "What do people check, and what do they trust without checking?",
+       "good": [
+        "Many check colour, smell or price, and trust a shop they know.",
+        "Few can check for things that cannot be seen."
+       ]
+      }
+     ],
+     "parent": "Keep the conversation friendly. A person who says 'I trust my shop' is giving a real answer. It is not a wrong one."
+    },
+    {
+     "id": "a7s3",
+     "mins": 5,
+     "adult": false,
+     "do": "Compare the three tables. Underline each check that you could test. Circle each that is only trust. Write one sentence on what you learned.",
+     "say": "What did the three people have in common? Where did they differ? Which checks could you test?",
+     "kid": "Underline what can be tested. Circle what is trust. Write one thing you learned.",
+     "think": "Is trusting a seller a good way to choose food? When is it, and when is it not?",
+     "parent": "Trust is not foolish. It becomes risky when nothing else checks the food. Both ideas belong in the answer."
+    }
+   ]
+  }
+ ],
+ "projects": [
+  {
+   "id": "p1",
+   "title": "Whole or powder: which is easier to fake?",
+   "days": 3,
+   "mins": 60,
+   "context": "In this project you compare a whole spice with the same spice ground into powder. You look, smell and test both, and decide which one a cheat would find easier to fake.",
+   "materials": [
+    {
+     "item": "2 tablespoons of whole coriander seeds or black peppercorns from a shop",
+     "qty": 1
+    },
+    {
+     "item": "2 tablespoons of the same spice sold as powder",
+     "qty": 1
+    },
+    {
+     "item": "a mortar and pestle or a rolling pin and a strong bag",
+     "qty": 1
+    },
+    {
+     "item": "a hand lens or a phone camera",
+     "qty": 1
+    },
+    {
+     "item": "2 tumblers of plain water, a spoon, a white plate and paper",
+     "qty": 1
+    }
+   ],
+   "schedule": [
+    {
+     "day": 1,
+     "mins": 20,
+     "what": "Buy or find the whole spice and the powder. Look at both under a lens and draw what you see."
+    },
+    {
+     "day": 2,
+     "mins": 25,
+     "what": "Grind half of the whole spice at home. Compare your powder with the shop powder by looking, smelling and trying the water test."
+    },
+    {
+     "day": 3,
+     "mins": 15,
+     "what": "Write which is easier to fake, say what you could not tell, and say what you would buy."
+    }
+   ],
+   "record": "Keep a table with three columns: the whole spice, your ground powder and the shop powder. Rows: how it looks under a lens, how it smells, how it behaves in water, and what a cheat could hide in it.",
+   "setup": [
+    {
+     "art": "A heap of whole coriander seeds beside a heap of coriander powder on a white plate with a hand lens.",
+     "caption": "1. Day 1: put the whole spice beside the powder and look at both closely."
+    },
+    {
+     "art": "A child grinding coriander seeds in a stone mortar with a pestle.",
+     "caption": "2. Day 2: grind some of the whole spice yourself."
+    },
+    {
+     "art": "Two tumblers of water, one with a teaspoon of homemade powder floating and one with shop powder, side by side.",
+     "caption": "3. Try the water test on both powders and write what you see."
+    }
+   ],
+   "flow": [
+    {
+     "id": "p1s1",
+     "mins": 20,
+     "adult": false,
+     "do": "Look at the whole spice under a lens. Draw three grains. Then look at the shop powder under the lens and draw what you see. Write what you can see in each, and whether anything in the powder does not look like the spice.",
+     "say": "What can you see in the whole spice? What can you see in the powder? Could you tell what is inside the powder by looking?",
+     "kid": "Look at the whole spice and the powder with a lens. Draw what you see.",
+     "parent": "A whole seed shows its own shape, colour and size, so a cheat would find it hard to hide something that is not a seed. A powder hides every shape."
+    },
+    {
+     "id": "p1s2",
+     "mins": 25,
+     "adult": false,
+     "do": "Grind 1 tablespoon of the whole spice into a powder, in a mortar or in a strong bag with a rolling pin. Smell your powder and the shop powder. Then put 1 teaspoon of each in its own tumbler of still water, without stirring. Watch for 2 minutes and write what each does.",
+     "say": "Which smells stronger? What does each powder do on the water? Do they look different?",
+     "kid": "Grind a spoon of the spice. Smell both powders. Try each on water.",
+     "ask": [
+      {
+       "q": "Why do you think the powder you ground may look and smell different from the shop powder?",
+       "good": [
+        "Freshly ground spice usually smells stronger.",
+        "The shop powder may be older, or may hold something else, and one test cannot tell which."
+       ]
+      }
+     ],
+     "parent": "Do not conclude that the shop powder is adulterated if it behaves differently. Old powder smells weaker. Different grinds float and sink differently. Write what you see and keep an open mind."
+    },
+    {
+     "id": "p1s3",
+     "mins": 15,
+     "adult": false,
+     "do": "Write which is easier to fake, a whole spice or a powder, and why. Then write one thing that you could not tell from your tests. Pour the water away and put the powders in the bin.",
+     "say": "Which would be easier for a cheat to fake? What could you not tell? What would you buy?",
+     "kid": "Write which is easier to fake and why. Write one thing you could not tell.",
+     "think": "If grinding at home is safer, who has the time and a mortar to do it, and who does not? What could a school or a housing society do?",
+     "parent": "This is a real trade-off. Whole spices are safer but take time and cost effort. Many families cannot grind everything."
+    }
+   ]
+  },
+  {
+   "id": "p2",
+   "title": "A neighbourhood test table and one honest report",
+   "days": 5,
+   "mins": 95,
+   "context": "In this project your family or class tests ten kitchen samples and shares the results in a table. You report what you found in honest words, and practise a complaint to the food authority.",
+   "materials": [
+    {
+     "item": "10 small samples of powders, such as turmeric, sugar and tea, from friends, neighbours or classmates, each in a labelled cup",
+     "qty": 1
+    },
+    {
+     "item": "a clear tumbler of water for each sample",
+     "qty": 1
+    },
+    {
+     "item": "paper napkins, a pencil and a big sheet of paper",
+     "qty": 1
+    },
+    {
+     "item": "a phone or a notebook to write a practice complaint",
+     "qty": 1
+    }
+   ],
+   "schedule": [
+    {
+     "day": 1,
+     "mins": 15,
+     "what": "Plan which foods to test and ask ten households for a teaspoon of each."
+    },
+    {
+     "day": 2,
+     "mins": 15,
+     "what": "Collect the samples. Write each household's code on a cup, not their name."
+    },
+    {
+     "day": 3,
+     "mins": 30,
+     "what": "Run the water and wet paper tests on every sample."
+    },
+    {
+     "day": 4,
+     "mins": 20,
+     "what": "Make a table and a bar chart of what was found, 'nothing found by this test', and what was not tested."
+    },
+    {
+     "day": 5,
+     "mins": 15,
+     "what": "Write the honest report and a practice complaint."
+    }
+   ],
+   "record": "Make a table of ten samples with columns for food, test, what you saw and 'found something' or 'nothing found by this test'. Then draw a bar chart of the results.",
+   "setup": [
+    {
+     "art": "Ten small cups labelled with codes on a long table, each holding a pinch of powder.",
+     "caption": "1. Day 2: collect ten samples and label them with codes."
+    },
+    {
+     "art": "A row of tumblers of water, each with a pinch of a different powder.",
+     "caption": "2. Day 3: run the same water test on every sample."
+    },
+    {
+     "art": "A table and a bar chart with three bars: found something, nothing found, and not tested.",
+     "caption": "3. Day 4: chart the results."
+    },
+    {
+     "art": "A page with a short honest report and a phone showing a complaint form.",
+     "caption": "4. Day 5: write what you found and practise a complaint."
+    }
+   ],
+   "flow": [
+    {
+     "id": "p2s1",
+     "mins": 15,
+     "adult": false,
+     "do": "Decide which two or three foods to test, such as turmeric, sugar and tea. Ask ten households, friends or neighbours for a teaspoon of the food they use. Tell them that you will test it and not tell anyone whose sample is whose.",
+     "say": "Which foods can we test with water and wet paper? Who can we ask? We will only write codes, never names.",
+     "kid": "Choose which foods to test. Ask ten people for a teaspoon each.",
+     "parent": "Keep the samples anonymous. A family should never be shamed because of a test result."
+    },
+    {
+     "id": "p2s2",
+     "mins": 15,
+     "adult": false,
+     "do": "Collect the samples. Put each in its own cup with a code number. Write the codes in a list, and keep the list of who gave which one in a separate place.",
+     "say": "Write a code on each cup. Keep the list of names apart. Why do we do that?",
+     "kid": "Label each cup with a number.",
+     "parent": "Using codes keeps the test fair. It also keeps the results honest and kind."
+    },
+    {
+     "id": "p2s3",
+     "mins": 30,
+     "adult": false,
+     "do": "Test each sample in the same way. Put a teaspoon of the powder on still water, wait 2 minutes, and write what you see. Put tea on wet paper. Write 'found something' or 'nothing found by this test'. If a sample shows something, test it again with fresh water before you write it down.",
+     "say": "What does this test say about each sample? What do we write when it finds nothing?",
+     "kid": "Run the test on every cup. Write 'found something' or 'nothing found by this test'.",
+     "ask": [
+      {
+       "q": "If most samples show nothing, did you prove that all the food is pure?",
+       "good": [
+        "No. The test can find only what it is built to find.",
+        "Nothing found does not mean nothing is there."
+       ]
+      }
+     ],
+     "parent": "Most samples will pass, and that is the honest and expected result. Natural turmeric and tea also tint water a little, so use the same test and the same wait for all."
+    },
+    {
+     "id": "p2s4",
+     "mins": 20,
+     "adult": false,
+     "do": "Make the table. Count how many samples found something, how many found nothing, and what you did not test, such as lead. Draw a bar chart with three bars.",
+     "say": "How many samples showed something? How many showed nothing? What did we not test at all?",
+     "kid": "Count the results. Draw a bar chart.",
+     "parent": "Include the bar for 'not tested' even though it has no samples counted. It is the honest part of the chart."
+    },
+    {
+     "id": "p2s5",
+     "mins": 15,
+     "adult": false,
+     "do": "Write a short honest report in five sentences. Say what was tested, how many samples, what was found, what was not tested and what you would do next. Then write a practice complaint of three sentences, which says what you bought, where you bought it, the batch number and what you noticed. Do not send it unless a real test shows something and a grown-up agrees.",
+     "say": "Write what we did, what we found and what we cannot say. Then write a practice complaint in three sentences.",
+     "kid": "Write your report. Then practise a complaint, but do not send it.",
+     "think": "How is a report that says 'nothing found by these tests' different from one that says 'all our food is pure'? Who might be misled by the second one?",
+     "parent": "Real complaints can go through the Food Safety Connect app or the state food safety office. Keep the packet and the bill. Only report when you have a real reason."
+    }
+   ]
+  }
+ ],
+ "challenges": [
+  {
+   "id": "ch1",
+   "title": "Build a milk-flow tester: a plate, a slope and a ruler",
+   "mins": 35,
+   "context": "This is an engineering challenge. The slanting-plate test is easy to do and easy to do badly, so you design a tester that two different people can use and get the same answer.",
+   "problem": "Build a milk-flow tester from things at home that tells plain milk from milk with an equal amount of water, so that two different people get the same ranking.",
+   "constraints": [
+    "Use only things from home, such as plates, trays, books, a ruler, tape and a spoon.",
+    "Test plain milk, milk with an equal amount of added water, and plain water.",
+    "Test each at least three times.",
+    "Both of you must get the same ranking from fastest to slowest.",
+    "The milk is never eaten or drunk afterwards."
+   ],
+   "materials": [
+    "a clean steel plate or tray",
+    "3 or 4 books",
+    "a ruler and paper tape",
+    "fresh milk, water and a clean spoon",
+    "a phone to film the drops, if you wish"
+   ],
+   "setup": [
+    {
+     "art": "A steel tray leaning on a stack of books with a paper tape line across the top and a ruler along the side.",
+     "caption": "1. Build a slope with a line at the top and a ruler beside it."
+    },
+    {
+     "art": "Three drops of milk, watered milk and water running down the tray in different lanes.",
+     "caption": "2. Put three drops on the line together and measure how far each runs in 10 seconds."
+    },
+    {
+     "art": "A table of ten rows comparing the distances that two testers measured for each liquid.",
+     "caption": "3. Compare your results with a second tester."
+    }
+   ],
+   "flow": [
+    {
+     "id": "ch1s1",
+     "mins": 8,
+     "adult": false,
+     "do": "Try the plain method first. Tilt a clean plate on books, put one drop of milk and one drop of watered milk on it, and see which runs farther. Ask a second person to do the same. Write down how far each drop ran, if you can. Look at whether the two of you agree.",
+     "say": "Did you and the other person get the same ranking? What could make your results different?",
+     "kid": "Try the plain test. Ask a friend to try too. Do you agree?",
+     "ask": [
+      {
+       "q": "What could make two people's drops run differently?",
+       "good": [
+        "A different slope, a different size of drop or a greasy plate.",
+        "Each person may drop them at a different moment."
+       ]
+      }
+     ],
+     "parent": "A greasy plate makes drops run unevenly. Wash it with soap and dry it before every trial."
+    },
+    {
+     "id": "ch1s2",
+     "mins": 10,
+     "adult": false,
+     "do": "Try the usual fixes. Fix the slope with books so that it is the same every time. Mark a line at the top of the plate with tape. Use the same spoon tip to make a drop of about the same size. Put all the drops on the line together. Measure how far each ran in 10 seconds with a ruler. Do it three times and write the distances.",
+     "say": "Which fix made the results more similar from one try to the next?",
+     "kid": "Fix the slope and the line. Measure how far each drop runs in 10 seconds.",
+     "parent": "Use a ruler laid beside the plate on the same side each time."
+    },
+    {
+     "id": "ch1s3",
+     "mins": 10,
+     "adult": false,
+     "do": "Try a surprising fix. Film the drops with a phone placed on books. Play the film at slow speed and count how long each drop takes to reach a line 10 centimetres down. Or cut a strip of paper and tape it down the plate as a lane, so that each drop runs in its own lane. Write the times or the distances.",
+     "say": "Is a film more exact than your eyes? Why do lanes help?",
+     "kid": "Film the drops and watch slowly. Or tape lanes so that drops cannot meet.",
+     "parent": "A lane stops drops from touching. If two drops touch, they join and run differently."
+    },
+    {
+     "id": "ch1s4",
+     "mins": 7,
+     "adult": false,
+     "do": "Compare all the methods. For each one, see whether two people got the same ranking, and whether the numbers were close on three tries. Choose the one you trust most. Write how much water you could add before the tester no longer noticed it.",
+     "say": "Which method would you trust? How little water can your tester notice?",
+     "kid": "Choose your best method. Write how little water it can notice.",
+     "think": "If you improve the tester, does the milk change, or only how sure you are?",
+     "parent": "A better tester finds smaller amounts, but no tester finds everything."
+    }
+   ],
+   "general": [
+    "Lean the plate on the same books every time so that the slope is always the same.",
+    "Put a tape line across the top and start every drop on it.",
+    "Use the same spoon tip, and wash and dry the plate before each try."
+   ],
+   "creative": [
+    "Film from the side and count the drops' time over 10 centimetres.",
+    "Tape paper lanes so that every drop has its own track.",
+    "Add a steel ruler as a groove, so that a drop runs along a straight channel."
+   ],
+   "your_turn": "Design your own tester and test it on milk with a little water, with half water and with plain water. How little water can your tester notice? Do you think any home tester can find everything?"
+  },
+  {
+   "id": "ch2",
+   "title": "A seal that shows the jar was opened",
+   "mins": 30,
+   "context": "This is an engineering challenge about trust. In the supply chain, a sack or jar can be opened and closed again unseen, so you design a seal that shows if it has been opened.",
+   "problem": "Design a seal for a jar of spice so that anyone can see if the jar was opened, and test whether a friend can open and close it without being caught.",
+   "constraints": [
+    "Use paper, tape, thread, a pen and a rubber band.",
+    "The seal must be cheap and must hold on a plastic or steel jar.",
+    "A friend must try to open the jar and close it again without leaving a sign.",
+    "The friend must not be told how your seal works.",
+    "The jar must be easy for the owner to open once."
+   ],
+   "materials": [
+    "a small plastic or steel jar with a lid",
+    "paper strips, tape and a pen",
+    "thread and a rubber band",
+    "a friend to try to beat the seal"
+   ],
+   "setup": [
+    {
+     "art": "A small jar with a paper strip across the lid and down both sides, signed across the join.",
+     "caption": "1. Stick a paper strip across the lid and sign across the join."
+    },
+    {
+     "art": "A friend peeling at the paper seal while the child watches.",
+     "caption": "2. Ask a friend to try to open the jar without being noticed."
+    },
+    {
+     "art": "A jar with a thread through two holes in the lid and tape, with a torn corner showing.",
+     "caption": "3. Try a second design and test it again."
+    }
+   ],
+   "flow": [
+    {
+     "id": "ch2s1",
+     "mins": 8,
+     "adult": false,
+     "do": "Seal the jar with the usual fix. Stick a paper strip across the lid and down both sides, then sign across the join in pen. Ask a friend to try to open and close the jar without leaving a sign. Look to see if you can tell.",
+     "say": "Can you tell if the jar was opened? How could a friend beat this seal?",
+     "kid": "Stick a strip across the lid. Sign it. Ask a friend to try to open it secretly.",
+     "ask": [
+      {
+       "q": "What can a cheat do to beat a simple tape seal?",
+       "good": [
+        "Peel it slowly and stick it back.",
+        "Copy the signature."
+       ]
+      }
+     ],
+     "parent": "Do not tell the friend your plan. Let the friend try freely, and be fair to the friend."
+    },
+    {
+     "id": "ch2s2",
+     "mins": 10,
+     "adult": false,
+     "do": "Make a second seal that is harder to beat. Cut slits in the paper so that it tears when peeled. Or tape a thread across the lid, with a knot, so that it must be cut. Test it again with the friend.",
+     "say": "What does your friend do this time? Is your seal harder to beat?",
+     "kid": "Make a seal that tears when it is peeled. Test it again.",
+     "parent": "Thin paper tears more easily than tape."
+    },
+    {
+     "id": "ch2s3",
+     "mins": 7,
+     "adult": false,
+     "do": "Try a surprising idea. Sprinkle a few grains of rice under a folded paper flap, so that the grains spill when the flap opens. Or layer tape, paper and tape. Test it with the friend.",
+     "say": "Would a seller or a buyer want this seal? Why?",
+     "kid": "Try a surprising seal. Ask a friend to test it.",
+     "parent": "A seal cannot show what was added before the jar was sealed. It only shows what happened after."
+    },
+    {
+     "id": "ch2s4",
+     "mins": 5,
+     "adult": false,
+     "do": "Compare the designs. For each one, write whether the friend beat it and how easy it was for the owner to open. Choose the best, and write what a seal can never tell you.",
+     "say": "Which design was best? What can a seal never tell you?",
+     "kid": "Choose your best seal. Write what it can never tell you.",
+     "think": "A seal shows if a jar was opened after it was sealed. What if the cheating happened before?",
+     "parent": "A seal protects only from the moment it is applied."
+    }
+   ],
+   "general": [
+    "A paper strip across the lid with a signature across the join.",
+    "A tape seal that tears when peeled.",
+    "A thread tied through the lid so that it must be cut."
+   ],
+   "creative": [
+    "Rice grains under a flap that spill when it is opened.",
+    "A layered seal of tape and paper that leaves a mark if it is lifted.",
+    "A seal with a number that is written in a notebook, so that a changed number shows."
+   ],
+   "your_turn": "Design your own seal and test it on a friend. What would make your seal very hard to beat but easy for the owner to open? What can a seal never tell you about the food inside?"
+  }
+ ],
+ "worksheets": [
+  {
+   "id": "ws-core",
+   "title": "Adding, removing, swapping and the first tests (core)",
+   "tier": "core",
+   "mins": 25,
+   "context": "This sheet checks that you can tell what adulteration is, why it pays, and which simple test uses which difference.",
+   "items": [
+    {
+     "t": "match",
+     "p": "Match each trick to its kind of adulteration.",
+     "pairs": [
+      [
+       "chalk powder stirred into sugar",
+       "adding"
+      ],
+      [
+       "cream skimmed off milk sold as full-cream",
+       "removing"
+      ],
+      [
+       "cheap long-grain rice sold as basmati",
+       "swapping"
+      ],
+      [
+       "water poured into a milk can",
+       "adding"
+      ]
+     ],
+     "a": "as given",
+     "why": "Adding puts in a cheaper thing, removing takes out a valuable part and swapping sells one food as another. In every case the change is secret.",
+     "outcome": 0
+    },
+    {
+     "t": "sort",
+     "p": "Sort each one into adulteration or not adulteration.",
+     "cats": [
+      "Adulteration",
+      "Not adulteration"
+     ],
+     "items": [
+      [
+       "iodine in salt, allowed and named on the packet",
+       "Not adulteration"
+      ],
+      [
+       "brick dust secretly mixed into chilli powder",
+       "Adulteration"
+      ],
+      [
+       "toned milk sold under the name toned milk",
+       "Not adulteration"
+      ],
+      [
+       "starch secretly mixed into paneer",
+       "Adulteration"
+      ],
+      [
+       "vitamins A and D in fortified oil, named on the label",
+       "Not adulteration"
+      ],
+      [
+       "cloth dye in a sweet",
+       "Adulteration"
+      ]
+     ],
+     "a": "as given",
+     "why": "What matters is whether the addition is secret, unallowed or harmful. Open, allowed and labelled additions are not adulteration.",
+     "outcome": 5
+    },
+    {
+     "t": "count",
+     "p": "A seller has 40 litres of milk, sells it at 50 rupees a litre and adds 10 litres of water. How many extra rupees does the seller make?",
+     "a": "500",
+     "why": "Sold as milk, 50 litres at 50 rupees brings 2,500 rupees, and 40 litres brings 2,000. The difference is 500 rupees for water that cost almost nothing.",
+     "outcome": 1
+    },
+    {
+     "t": "truefalse",
+     "p": "A buyer can usually find adulteration in a sealed packet by looking and smelling.",
+     "a": false,
+     "why": "False. Adulterants are chosen so that they look and smell like the food, so the buyer's eyes and nose cannot find them.",
+     "outcome": 1
+    },
+    {
+     "t": "mcq",
+     "p": "Why is saffron cheated far more often than potatoes?",
+     "opts": [
+      "A tiny weight of saffron costs a lot, so a cheap stand-in earns a lot",
+      "Saffron is easier to grow",
+      "Potatoes are never sold by weight"
+     ],
+     "a": 0,
+     "why": "Cheating pays most where a food costs a lot for its weight. A child who picks the second answer has noticed that potatoes are sold by weight, but they are sold by weight and cost little.",
+     "outcome": 1
+    },
+    {
+     "t": "mcq",
+     "p": "Which adulterant harms mainly by what it is, and not only by cheating?",
+     "opts": [
+      "Clean water in milk",
+      "Used tea leaves in fresh tea",
+      "Lead chromate in turmeric"
+     ],
+     "a": 2,
+     "why": "Lead chromate is a poison that builds up in the body. Clean water and used leaves cheat the buyer of food but are not poisons themselves.",
+     "outcome": 2
+    },
+    {
+     "t": "fill",
+     "p": "Lead is stored in the body's ____ because the body mistakes it for calcium.",
+     "a": [
+      "bones"
+     ],
+     "why": "The body uses calcium to build bones and takes up lead by mistake, and it stays there for years.",
+     "outcome": 2
+    },
+    {
+     "t": "order",
+     "p": "Put the steps of a fair slanting-plate test in order.",
+     "a": [
+      "Wash and dry the plate",
+      "Tilt it on the same books",
+      "Put a drop of each milk on the same line together",
+      "Compare how far each drop ran in 10 seconds"
+     ],
+     "why": "A clean plate and the same slope keep the test fair. Starting drops together on one line means that only the milk differs.",
+     "outcome": 3
+    },
+    {
+     "t": "truefalse",
+     "p": "A magnet can find brick powder in chilli powder.",
+     "a": false,
+     "why": "False. A magnet attracts iron only, and brick powder is not iron. A magnet test suits iron filings in tea.",
+     "outcome": 3
+    },
+    {
+     "t": "mcq",
+     "p": "Chalk is stirred into sugar. Which difference does the water test use?",
+     "opts": [
+      "Sugar floats and chalk sinks",
+      "Sugar dissolves and chalk does not",
+      "Sugar is white and chalk is grey"
+     ],
+     "a": 1,
+     "why": "Sugar vanishes into water, and chalk stays as a cloud and then a layer. Colour is not the difference, since both are white.",
+     "outcome": 3
+    },
+    {
+     "t": "draw",
+     "p": "Draw the slanting-plate test. Show the plate, the books, the line and three drops of milk.",
+     "a": "A plate tilted on books, a line across its top, and three drops starting together with trails of different lengths, one short and white, one medium and one long.",
+     "why": "A fair test needs the same plate, the same slope and a common start line, so that only the milk differs.",
+     "outcome": 3
+    },
+    {
+     "t": "write",
+     "p": "A sample passed every test. Write one honest sentence for the family notebook.",
+     "lines": 2,
+     "a": "A good answer says 'nothing found by these tests' and does not say 'pure'. It may add what the tests could not find.",
+     "why": "A test can say 'I found this' but never 'there is nothing here', so the honest words are 'nothing found'.",
+     "outcome": 4
+    },
+    {
+     "t": "perspective",
+     "p": "Is milk pure?",
+     "views": [
+      {
+       "who": "A chemist",
+       "says": "Pure means one substance only. Milk is a mixture of water, fat, protein and more, so it is never pure."
+      },
+      {
+       "who": "Food law",
+       "says": "Milk is pure if it meets the written standard and nothing was added or taken away."
+      },
+      {
+       "who": "A shopper",
+       "says": "Pure means natural, as it came from the cow."
+      }
+     ],
+     "ask": "Which meaning would you use when you buy milk, and why?",
+     "a": "Answers vary. A strong answer sees that each meaning is useful for something. The chemist's meaning fits no food, the legal one lets inspectors act and the shopper's one can include natural poisons.",
+     "why": "The three meanings answer different questions, and the word pure alone does not tell you which one is meant.",
+     "outcome": 5
+    },
+    {
+     "t": "mcq",
+     "p": "A pink dye made for cloth is found in cotton candy. Why is it adulteration and not a permitted addition?",
+     "opts": [
+      "Pink is not a food colour",
+      "Cotton candy is not a real food",
+      "It is not allowed in food, and it is hidden"
+     ],
+     "a": 2,
+     "why": "Eight artificial colours are allowed in certain foods, in set amounts, and named on the label. A cloth dye is not one of them.",
+     "outcome": 5
+    },
+    {
+     "t": "write",
+     "p": "Name two things on a packet that a family can check before buying, and say what each tells.",
+     "lines": 3,
+     "a": "For example the 14-digit licence number, which shows that the business is registered, and the batch number, which lets a bad lot be traced. Also the date, the address and the ingredients.",
+     "why": "A label cannot show a secret addition, but it makes tracing and reporting possible.",
+     "outcome": 6
+    },
+    {
+     "t": "mcq",
+     "p": "A family finds that a test shows something odd in a packet of turmeric. What should they do first?",
+     "opts": [
+      "Throw the packet away quietly",
+      "Taste a little to check",
+      "Tell nobody",
+      "Test again with fresh water, keep the packet and the bill, and ask for help"
+     ],
+     "a": 3,
+     "why": "One try can be a fluke, so repeat it. Keeping the packet and the bill lets the food authority test it, and tasting an unknown sample is never safe.",
+     "outcome": 6
+    }
+   ]
+  },
+  {
+   "id": "ws-stretch",
+   "title": "What a test can and cannot tell (stretch)",
+   "tier": "stretch",
+   "mins": 30,
+   "context": "This sheet goes further. It asks what a passing test means, how cheats aim at tests, and what packets and laws add.",
+   "items": [
+    {
+     "t": "mcq",
+     "p": "A honey sample passes the test of a drop that holds together in water. What does this show?",
+     "opts": [
+      "That the honey is made from nectar",
+      "Only that it is thick, which a thick syrup also passes",
+      "That no sugar was added"
+     ],
+     "a": 1,
+     "why": "The test checks thickness, and bees make honey by drying nectar until it is thick. A syrup can be as thick, so it passes too.",
+     "outcome": 4
+    },
+    {
+     "t": "truefalse",
+     "p": "A test that finds nothing proves that a food is pure.",
+     "a": false,
+     "why": "False. A test can find only what it was built for, and only above its smallest amount. 'Nothing found' is all it can say.",
+     "outcome": 4
+    },
+    {
+     "t": "fill",
+     "p": "Before anyone adds anything, about ____ parts in every 100 parts of milk are water.",
+     "a": [
+      "87"
+     ],
+     "why": "Milk is a mixture, and most of it is water. Adding water changes the mix, not the kind of substance.",
+     "outcome": 5
+    },
+    {
+     "t": "mcq",
+     "p": "On wet paper, one colour travels farther than another. What does this show?",
+     "opts": [
+      "It clings less to the paper and is carried more easily by the water",
+      "It is the better dye",
+      "It is heavier"
+     ],
+     "a": 0,
+     "why": "Each dye clings to paper by a different amount, so the water carries them different distances. That separates the dyes.",
+     "outcome": 3
+    },
+    {
+     "t": "sort",
+     "p": "Which test would catch each adulterant?",
+     "cats": [
+      "Glass of water",
+      "Magnet",
+      "Slanting plate",
+      "Iodine drop"
+     ],
+     "items": [
+      [
+       "chalk in sugar",
+       "Glass of water"
+      ],
+      [
+       "iron filings in tea",
+       "Magnet"
+      ],
+      [
+       "water in milk",
+       "Slanting plate"
+      ],
+      [
+       "starch in paneer",
+       "Iodine drop"
+      ],
+      [
+       "brick powder in chilli powder",
+       "Glass of water"
+      ]
+     ],
+     "a": "as given",
+     "why": "Each test uses one difference: dissolving or sinking, attraction to iron, how fast a drop runs, and colour with starch.",
+     "outcome": 3
+    },
+    {
+     "t": "match",
+     "p": "Match each adulterant to the difference that its test uses.",
+     "pairs": [
+      [
+       "iron filings in tea",
+       "attracted by a magnet"
+      ],
+      [
+       "starch in paneer",
+       "turns blue-black with iodine"
+      ],
+      [
+       "papaya seeds in pepper",
+       "float while pepper sinks"
+      ],
+      [
+       "water in milk",
+       "runs fast down a slope"
+      ]
+     ],
+     "a": "as given",
+     "why": "A test works by finding one difference between the food and the thing that was added.",
+     "outcome": 3
+    },
+    {
+     "t": "order",
+     "p": "Put these in order, from the drop that runs slowest on a slanting plate to the one that runs fastest.",
+     "a": [
+      "Plain whole milk",
+      "Milk with a quarter water",
+      "Milk with half water",
+      "Plain water"
+     ],
+     "why": "More water makes the liquid thinner, so the drop runs faster. The quarter-water milk is close to plain milk, so the first two are hard to tell apart.",
+     "outcome": 4
+    },
+    {
+     "t": "write",
+     "p": "A dairy checks milk with a lactometer. Say how cheats fooled it, and why.",
+     "lines": 4,
+     "a": "The lactometer notices thin milk. Cheats added sugar, starch or salt to bring the thickness back. The test measured one property that stands for quality, and the cheats supplied only that property.",
+     "why": "When a test checks one property, cheats can restore that property alone.",
+     "outcome": 4
+    },
+    {
+     "t": "mcq",
+     "p": "A seller adds clean water to milk. Why does the law still treat it as an offence?",
+     "opts": [
+      "Clean water is a poison",
+      "Milk must never be mixed with anything",
+      "The family pays for milk but gets less protein, fat and calcium"
+     ],
+     "a": 2,
+     "why": "Harm by cheating is real, even when nothing poisonous is added. The family loses money and nourishment.",
+     "outcome": 2
+    },
+    {
+     "t": "write",
+     "p": "Iodine in salt is welcome and chalk in sugar is a crime. Say what three things separate them.",
+     "lines": 4,
+     "a": "The iodine has been tested and is allowed, it is within a limit and the label says so. The chalk is hidden, unallowed and a cheat.",
+     "why": "An addition is not adulteration if it is allowed, within the limit and declared.",
+     "outcome": 5
+    },
+    {
+     "t": "perspective",
+     "p": "Is food in sealed packets safer than loose food?",
+     "views": [
+      {
+       "who": "A food regulator",
+       "says": "A packet has a licence number and a batch number, so a bad lot can be traced to a maker."
+      },
+      {
+       "who": "A buyer of loose whole spice",
+       "says": "Loose whole food can be seen, smelled and tested, and the seller has a face you know."
+      },
+      {
+       "who": "A family on a small budget",
+       "says": "Packets cost more, and a cheaper loose food may be all we can buy."
+      }
+     ],
+     "ask": "Which view would you give a friend, and what would you want to know first?",
+     "a": "Answers vary. A strong answer notes that the 2020 honey tests found failures in big brands, and that tracing needs a packet. Neither view is always right.",
+     "why": "Evidence supports packets for some foods, such as oils, and not for all. Cost also decides what a family can do.",
+     "outcome": 6
+    },
+    {
+     "t": "truefalse",
+     "p": "Toned milk sold under that name is adulterated milk.",
+     "a": false,
+     "why": "False. It has had fat taken out openly, and it says so on the packet, so nobody is cheated about what it is.",
+     "outcome": 5
+    },
+    {
+     "t": "count",
+     "p": "A turmeric sample holds lead at 30 parts per million. India's limit is 10 parts per million. How many times the limit is that?",
+     "a": "3",
+     "why": "30 ÷ 10 = 3. The sample holds three times the limit.",
+     "outcome": 2
+    },
+    {
+     "t": "draw",
+     "p": "Draw a paper strip after 10 minutes in water with a dot of green food colour that has split into two colours.",
+     "a": "A strip standing in water with a pencil line near the bottom, a yellow band that travelled farther and a blue band that stayed lower, and a mark where the water reached.",
+     "why": "Different dyes cling by different amounts, so they separate into bands at different heights.",
+     "outcome": 3
+    },
+    {
+     "t": "mcq",
+     "p": "A label says 'no added colour', but a laboratory finds a dye. Which kind of bad food is this?",
+     "opts": [
+      "Sub-standard, because it is cheap",
+      "Misbranded, because the label says something untrue",
+      "Unsafe, because it has a label"
+     ],
+     "a": 1,
+     "why": "A false label makes the food misbranded. A dye may also make it unsafe, but the label is the first fault.",
+     "outcome": 6
+    },
+    {
+     "t": "write",
+     "p": "A family's test shows something. Write what they should keep and what they should do next.",
+     "lines": 3,
+     "a": "Keep the packet, the bill and the batch number. Repeat the test once. Report it to the food authority through the Food Safety Connect app or the state food safety office.",
+     "why": "Evidence kept is what the food authority needs to trace and test the lot.",
+     "outcome": 6
+    }
+   ]
+  },
+  {
+   "id": "ws-challenge",
+   "title": "Faulty claims and open questions (challenge)",
+   "tier": "challenge",
+   "mins": 35,
+   "context": "This sheet asks you to spot faulty reasoning about tests and surveys and to weigh debates that scientists have not settled.",
+   "items": [
+    {
+     "t": "mcq",
+     "p": "A girl says, 'My turmeric left the water pale, so it has no lead.' What is wrong with her claim?",
+     "opts": [
+      "The water was too cold",
+      "Turmeric never holds lead",
+      "The test looks for dyes that dissolve, and lead chromate does not dissolve"
+     ],
+     "a": 2,
+     "why": "A test can find only what it uses a difference for. Lead chromate hardly dissolves, so a water test cannot show it.",
+     "outcome": 4
+    },
+    {
+     "t": "mcq",
+     "p": "A school tests 10 samples and finds nothing. Which claim can the school fairly make?",
+     "opts": [
+      "All the food in the town is pure",
+      "These tests found nothing in these 10 samples",
+      "Nobody cheats in this town"
+     ],
+     "a": 1,
+     "why": "Ten samples are a small part of a town's food, and the tests have limits. The honest claim is only about what was tested.",
+     "outcome": 4
+    },
+    {
+     "t": "truefalse",
+     "p": "If a country starts testing for a new adulterant, the number of cases reported can rise even if nothing changed in the food.",
+     "a": true,
+     "why": "True. A new test finds what the old tests could not see, so counts reflect what is looked for as well as what exists.",
+     "outcome": 4
+    },
+    {
+     "t": "fill",
+     "p": "Milk is 87 parts water in every 100. A mix of half milk and half added water has ____ parts water in every 100.",
+     "a": [
+      "93.5"
+     ],
+     "why": "Half water and half milk gives (100 + 87) ÷ 2 = 93.5 per hundred parts of water. The jump from 87 is only 6.5, so a test can easily miss it.",
+     "outcome": 4
+    },
+    {
+     "t": "write",
+     "p": "Many families in Delhi fell ill at once in 1998. What does that tell you about oil sold loose from one source?",
+     "lines": 4,
+     "a": "One source of oil reached many families, so one poisoned batch harmed many. It is hard to trace loose oil, and it shows why batch numbers and sealed packets help.",
+     "why": "A long chain with loose food makes one fault spread, and a lack of tracing makes it hard to stop.",
+     "outcome": 6
+    },
+    {
+     "t": "order",
+     "p": "Put these in order from the easiest to find at home to the hardest, for a family with a glass of water and a spoon.",
+     "a": [
+      "Chalk in sugar",
+      "Dye in turmeric",
+      "Water in milk, a quarter",
+      "Lead chromate in turmeric"
+     ],
+     "why": "Chalk settles in water and a dye runs, but a small amount of added water barely changes a drop, and lead chromate cannot be found without a laboratory.",
+     "outcome": 4
+    },
+    {
+     "t": "perspective",
+     "p": "Kesari dal is banned in most of India. Should it stay banned?",
+     "views": [
+      {
+       "who": "A doctor who has seen lathyrism",
+       "says": "People eating mostly kesari dal for months have lost the use of their legs. A ban protects them."
+      },
+      {
+       "who": "A farmer in a dry district",
+       "says": "The grass pea grows when other crops fail. A ban takes away a drought food and a crop that fixes nitrogen."
+      },
+      {
+       "who": "A plant breeder",
+       "says": "Varieties with little of the harmful substance exist, so a rule could allow only these."
+      }
+     ],
+     "ask": "What would you want to know before you decide?",
+     "a": "Answers vary. A strong answer asks who eats it, how much and for how long, and whether the low-toxin varieties are used. No view is marked right, because scientists still disagree.",
+     "why": "The harm comes from eating mostly one pulse for months, so the question is not simply safe or unsafe.",
+     "outcome": 5
+    },
+    {
+     "t": "write",
+     "p": "A rat tastes a small amount of a new food and waits. You run a water test on turmeric. Are you and the rat doing the same thing?",
+     "lines": 4,
+     "a": "Both test before trusting, in small amounts, and both can miss what the test cannot show. The rat tests with her body and a delay, and you use a chosen difference.",
+     "why": "Testing a little before trusting a lot is a way living beings protect themselves, and every test has limits.",
+     "outcome": 5
+    },
+    {
+     "t": "mcq",
+     "p": "Which is the worst way to say how common adulteration is?",
+     "opts": [
+      "Giving one percentage without saying what was counted",
+      "Saying how many samples were tested",
+      "Saying what the standard was"
+     ],
+     "a": 0,
+     "why": "A survey may count failing a quality standard, finding an accidental contaminant or finding a harmful adulterant. These give very different numbers.",
+     "outcome": 4
+    },
+    {
+     "t": "sort",
+     "p": "Sort each one into a stand-in measurement or a direct check.",
+     "cats": [
+      "Stand-in measurement",
+      "Direct check"
+     ],
+     "items": [
+      [
+       "nitrogen read as protein",
+       "Stand-in measurement"
+      ],
+      [
+       "a magnet pulling iron out of tea",
+       "Direct check"
+      ],
+      [
+       "a drop that holds together read as honey",
+       "Stand-in measurement"
+      ],
+      [
+       "reading the DNA of a rice grain",
+       "Direct check"
+      ],
+      [
+       "bright yellow read as good turmeric",
+       "Stand-in measurement"
+      ]
+     ],
+     "a": "as given",
+     "why": "A stand-in measures an easy thing that usually goes with quality. A cheat can supply the easy thing without the quality.",
+     "outcome": 4
+    },
+    {
+     "t": "match",
+     "p": "Match each situation to the reason a test failed.",
+     "pairs": [
+      [
+       "melamine fooled a protein test",
+       "the test measured nitrogen, which melamine has"
+      ],
+      [
+       "watered milk passed a lactometer",
+       "sugar was added to bring back the thickness"
+      ],
+      [
+       "failing honey passed home tests",
+       "the tests checked only thickness"
+      ],
+      [
+       "lead was missed by a water test",
+       "lead chromate does not dissolve"
+      ]
+     ],
+     "a": "as given",
+     "why": "Each test measured one property, and the cheat or the chemistry supplied that property.",
+     "outcome": 4
+    },
+    {
+     "t": "draw",
+     "p": "Draw the chain from a turmeric field to your kitchen. Mark where you can look and where you cannot.",
+     "a": "A row of boxes: field, trader, mill, packer, shop, kitchen. A tick where someone can see the food and a cross where the food is hidden, such as inside a sealed sack or packet.",
+     "why": "Cheating can enter wherever the food is hidden from the next person.",
+     "outcome": 1
+    },
+    {
+     "t": "count",
+     "p": "India's limit for lead in turmeric is 10 milligrams in every kilogram. How many milligrams are allowed in 500 grams?",
+     "a": "5",
+     "why": "500 grams is half a kilogram, so half of 10 is 5 milligrams.",
+     "outcome": 2
+    },
+    {
+     "t": "truefalse",
+     "p": "Calcium carbide gives a gas like the one a fruit makes itself, so it is a safe way to ripen mangoes.",
+     "a": false,
+     "why": "False. The gas it gives off is similar to ethylene, but the stones carry poisonous impurities. The use is banned in India. Ethylene itself is permitted.",
+     "outcome": 2
+    },
+    {
+     "t": "write",
+     "p": "'Natural' and 'safe' mean the same thing. Give one example from this lesson that shows they do not.",
+     "lines": 3,
+     "a": "Argemone seeds are completely natural but poison mustard oil. Kesari dal is natural and can cause lathyrism when eaten alone for months.",
+     "why": "Nature makes poisons as well as foods, so a word like natural cannot stand in for a test or a standard.",
+     "outcome": 5
+    }
+   ]
+  }
+ ],
+ "quiz": [
+  {
+   "t": "mcq",
+   "p": "Which one is adulteration?",
+   "opts": [
+    "A permitted colour named on a sweet packet",
+    "Brick dust secretly mixed into chilli powder",
+    "Toned milk sold as toned milk"
+   ],
+   "a": 1,
+   "why": "Adulteration is secret. Open, allowed and labelled additions are not. A child who picks another answer may think any addition counts.",
+   "outcome": 0
+  },
+  {
+   "t": "mcq",
+   "p": "A seller secretly skims the fat from milk and still calls it full-cream. What kind of adulteration is this?",
+   "opts": [
+    "Adding a cheaper thing",
+    "Swapping one food for another",
+    "Removing a valuable part"
+   ],
+   "a": 2,
+   "why": "The seller takes out the valuable fat and keeps the name. Adding and swapping would need something new to be put in.",
+   "outcome": 0
+  },
+  {
+   "t": "mcq",
+   "p": "Two sellers sell turmeric. One adds dye so it looks bright, and buyers cannot tell. What tends to happen to the honest seller?",
+   "opts": [
+    "Loses customers to the bright turmeric",
+    "Gets more customers",
+    "Nothing changes"
+   ],
+   "a": 0,
+   "why": "If buyers cannot tell good from bad, they may not pay more for the honest one, and the cheat can win. Akerlof wrote about this in 1970.",
+   "outcome": 1
+  },
+  {
+   "t": "mcq",
+   "p": "Which food is most likely to be adulterated?",
+   "opts": [
+    "Potatoes, because they are everywhere",
+    "Plain water, because it is free",
+    "Saffron, because a small weight costs a lot"
+   ],
+   "a": 2,
+   "why": "A cheat gains most where a food costs a lot for its weight. Potatoes are cheap, so the gain is small.",
+   "outcome": 1
+  },
+  {
+   "t": "mcq",
+   "p": "Which adulterant harms mainly by cheating and not by poisoning?",
+   "opts": [
+    "Lead chromate in turmeric",
+    "Clean water in milk",
+    "Argemone oil in mustard oil"
+   ],
+   "a": 1,
+   "why": "Clean water is not a poison, but the family pays for milk and gets less nourishment. The other two harm by what they are.",
+   "outcome": 2
+  },
+  {
+   "t": "mcq",
+   "p": "Why does lead harm a young child more than a grown-up?",
+   "opts": [
+    "A child eats far more turmeric",
+    "Lead is harmless to adults",
+    "A child absorbs more of the lead that is swallowed, and the brain is still growing"
+   ],
+   "a": 3,
+   "why": "Children absorb about four to five times as much of the lead they swallow, and their brains are still being built.",
+   "outcome": 2
+  },
+  {
+   "t": "mcq",
+   "p": "A teaspoon of turmeric on still water gives bright yellow streaks at once. What does this suggest?",
+   "opts": [
+    "Lead chromate is present",
+    "The turmeric is strong and pure",
+    "A dye that dissolves may be present"
+   ],
+   "a": 2,
+   "why": "Natural turmeric hardly dissolves, so a quick bright colour points to a dye. The test cannot show lead chromate, which does not dissolve.",
+   "outcome": 3
+  },
+  {
+   "t": "mcq",
+   "p": "Iron filings were mixed into tea. Which test could catch it?",
+   "opts": [
+    "A magnet, because iron is attracted and tea is not",
+    "The glass of water, because iron dissolves",
+    "The iodine drop, because iron turns blue-black"
+   ],
+   "a": 0,
+   "why": "A test uses one difference. Iron is attracted to a magnet, and it does not dissolve and does not react with iodine like starch.",
+   "outcome": 3
+  },
+  {
+   "t": "mcq",
+   "p": "You test two milks on a slanting plate. Which makes the test fair?",
+   "opts": [
+    "Tilt the plate more for the watered milk",
+    "Same plate, same slope, same size of drop, started together",
+    "Use a bigger drop of the milk you think is plain"
+   ],
+   "a": 1,
+   "why": "A fair test changes only the milk. Changing the slope or the drop size would change two things at once.",
+   "outcome": 3
+  },
+  {
+   "t": "mcq",
+   "p": "A turmeric sample leaves the water pale. What can you say?",
+   "opts": [
+    "It has no lead chromate",
+    "It is pure",
+    "Nothing found by this dye test, which says nothing about lead"
+   ],
+   "a": 3,
+   "why": "Each test finds one kind of thing, above a smallest amount. A water test cannot show lead chromate, which does not dissolve.",
+   "outcome": 4
+  },
+  {
+   "t": "mcq",
+   "p": "Cheats added melamine to milk, and the protein test said 'plenty of protein'. Why?",
+   "opts": [
+    "The test measured nitrogen, and melamine is rich in nitrogen",
+    "Melamine is a protein",
+    "The test was never used"
+   ],
+   "a": 0,
+   "why": "Nitrogen stands in for protein. Melamine supplied the nitrogen without the protein, so the test was fooled.",
+   "outcome": 4
+  },
+  {
+   "t": "mcq",
+   "p": "A packet says 'pure milk'. A chemist says milk is not pure. How can both be right?",
+   "opts": [
+    "The chemist has not tested the milk",
+    "The packet is always lying",
+    "The chemist means one substance only, and milk is a mixture"
+   ],
+   "a": 2,
+   "why": "In chemistry pure means one substance only. In food law it means meeting a standard with nothing hidden. The meanings differ.",
+   "outcome": 5
+  },
+  {
+   "t": "mcq",
+   "p": "Which addition is NOT adulteration?",
+   "opts": [
+    "A permitted colour used in secret to hide stale food",
+    "Iodine in salt, within the limit and named on the label",
+    "A cloth dye in a sweet"
+   ],
+   "a": 1,
+   "why": "Allowed, within the limit and declared. A permitted colour used secretly breaks the third rule, and a cloth dye is never allowed.",
+   "outcome": 5
+  },
+  {
+   "t": "mcq",
+   "p": "A 14-digit licence number is printed on a packet. What does it tell you?",
+   "opts": [
+    "The business is registered and can be traced",
+    "This packet was tested in a laboratory",
+    "The food is free of adulterants"
+   ],
+   "a": 0,
+   "why": "It shows that the maker is registered, so a complaint can be traced. It does not show that this packet was tested.",
+   "outcome": 6
+  },
+  {
+   "t": "mcq",
+   "p": "A family finds a worrying result on a spice. What is the best first step?",
+   "opts": [
+    "Mix it with the rest of the stock",
+    "Repeat the test, keep the packet and the bill, and report it",
+    "Throw it away and say nothing"
+   ],
+   "a": 1,
+   "why": "One try can be a fluke, and a kept packet with a bill lets the food authority test the lot. Quietly throwing it away leaves others at risk.",
+   "outcome": 6
+  }
+ ],
+ "maths": [
+  {
+   "problem": "A cup of whole milk is about 87 per cent water. A cup holds 4 spoons, made of 2 spoons of milk and 2 spoons of added water. About what share of the cup is water? Compare it with plain milk.",
+   "answer": "About 93.5 per cent, compared with 87 per cent. The share rises by only about 6.5 percentage points.",
+   "explain": "2 spoons of milk hold 2 × 0.87 = 1.74 spoons of water. Add 2 spoons of added water to get 3.74 spoons of water in 4 spoons. 3.74 ÷ 4 = 0.935, which is 93.5 per cent. Plain milk is 87 per cent, so half-and-half milk is only about 6.5 points higher.",
+   "math_unit": "math.fractions.decimals-and-percentages.L5",
+   "how": "e1",
+   "context": "This problem uses the milk cups of the mystery test to show how big the change in water really is.",
+   "why_maths": "Even half added water changes the share of water only a little, because milk is mostly water already. That is why a test has trouble noticing small amounts."
+  },
+  {
+   "problem": "A seller has 100 litres of milk and a test that can only notice added water when it is more than 30 out of every 100 parts of the mixture. Imagine this test. How many litres of water can the seller add and still not be noticed? How many would be noticed?",
+   "answer": "Up to about 42 litres is not noticed, and more than about 43 litres would be.",
+   "explain": "Water added is x litres, and the mixture is 100 + x litres. We want x ÷ (100 + x) to be 0.30. So x = 0.30 × (100 + x), which gives 0.7x = 30 and x is about 42.9 litres. Anything under 42 litres stays under the limit of the test.",
+   "math_unit": "math.fractions.ratio-and-proportion.L5",
+   "context": "This problem uses an imagined test limit to show how a seller can stay below the smallest amount a test can notice.",
+   "why_maths": "Every test has a smallest amount that it can see, and this sum shows how much a cheat can add without crossing it."
+  },
+  {
+   "problem": "India's limit for lead in turmeric is 10 parts per million, which is 10 milligrams in every kilogram. A sample holds 300 times the limit. How many milligrams of lead are in a 100 gram packet?",
+   "answer": "300 milligrams, which is 0.3 grams.",
+   "explain": "300 times 10 is 3,000 milligrams in each kilogram. A 100 gram packet is one tenth of a kilogram, so 3,000 ÷ 10 = 300 milligrams.",
+   "math_unit": "math.multiplication.multi-digit.L4",
+   "context": "This problem uses the limit for lead in turmeric to show how a part per million is worked out in a packet.",
+   "why_maths": "Parts per million is how scientists write very small amounts, and the same ratio works for any packet size."
+  },
+  {
+   "problem": "A survey tested 6,432 milk samples. It found 12 samples of unsafe adulterated milk, and about 41 out of every 100 samples below quality standards. About how many samples were below standard? About how many times more is that than 12?",
+   "answer": "About 2,637 samples, which is about 220 times more than 12.",
+   "explain": "41 ÷ 100 × 6,432 = 2,637 samples. And 2,637 ÷ 12 is about 220. The two counts differ because they count different things.",
+   "math_unit": "math.data.reading-data.L5",
+   "context": "This problem uses the figures of a national milk survey to show how different counts of the same food can give very different numbers.",
+   "why_maths": "A percentage means nothing until you know what was counted, and a ratio of two counts shows how far apart two definitions are."
+  },
+  {
+   "problem": "In the chromatography test, the water travels 60 millimetres up the paper. A yellow band stops 54 millimetres up and a blue band stops 24 millimetres up. Work out each band's distance divided by the water's distance. Which dye clings more to the paper?",
+   "answer": "Yellow 54 ÷ 60 = 0.9, blue 24 ÷ 60 = 0.4. The blue dye clings more.",
+   "explain": "A band that moves almost as far as the water, 0.9, clings little to the paper. A band that moves less, 0.4, clings more. The same dye on the same paper gives about the same number each time, so the number helps name a dye.",
+   "math_unit": "math.fractions.ratio-and-proportion.L5",
+   "how": "e2",
+   "context": "This problem uses the numbers from a paper strip test to compare how far two dyes travelled.",
+   "why_maths": "A ratio of distances is a number that stays the same for a dye on a given paper, so it can be used to identify the dye."
+  }
+ ],
+ "spotted": [
+  {
+   "text": "At the kitchen counter, hold a packet of turmeric or a bar of rice next to the same food sold loose. Notice that the packet has a printed licence number and a batch number, and the loose food has none. Ask what that tells you about who can trace it.",
+   "art": "A packet and an open sack of rice side by side on a kitchen counter with a finger pointing at a printed number."
+  },
+  {
+   "text": "On a milk packet in the fridge, look for the word toned, double toned or full cream. Notice that the packet names what has been done to the milk, and that this is why it is not adulterated.",
+   "art": "A milk pouch with the words toned milk circled and a fat percentage beside them."
+  },
+  {
+   "text": "At the sweet shop, look at a very bright orange or pink sweet next to a pale one. Notice the colour, and ask what the packet says about colour. A permitted colour must be named.",
+   "art": "A tray of sweets with one very bright orange sweet and a shop label with a list of colours."
+  },
+  {
+   "text": "At the fruit seller's stall in mango season, look at a pile of mangoes. Notice whether the colour is even and whether the skin is spotted. Ask how the seller ripens them. A fruit ripens by her own gas, and the stones that give a similar gas are banned.",
+   "art": "A fruit seller with a pile of mangoes in different colours, and a child looking closely at one."
+  },
+  {
+   "text": "At the grocery, pick up a bottle of mustard oil or ghee and look at its seal and its label. Notice if the seal is whole, and if the batch number and date are printed.",
+   "art": "A hand lifting a sealed oil bottle with a thumb on the seal and a printed batch number."
+  },
+  {
+   "text": "In the tea cup, drop a pinch of tea leaves into plain water. Watch how fast the colour comes out. Notice that natural tea colours water slowly, and that this is one reason added colour can be found.",
+   "art": "A clear glass of water with a pinch of tea leaves and a faint brown trail beginning."
+  },
+  {
+   "text": "At the corner shop, look at the salt packet. Notice the word iodised and the blue plus F mark. Ask why a nutrient that is added openly is not adulteration.",
+   "art": "A salt packet with the word iodised and a small blue plus F sign."
+  },
+  {
+   "text": "At the weekly market, notice how many hands a sack of turmeric or rice passes through between the field and your bag. Ask which of them you could ask a question.",
+   "art": "A weekly market with sacks of spices, a seller, a buyer and a child looking at a sack."
+  }
+ ],
+ "applications": [
+  "The Food Safety and Standards Authority of India sends mobile testing vans, called Food Safety on Wheels, to markets in many states. Families can bring a sample to be tested for common adulterants. Ask your local food safety office where the van visits.",
+  "Dairies measure milk at the gate with a lactometer, and many test for fat and added water. If a farmer's milk is found watered, it can be refused or priced lower, which pays an honest farmer better.",
+  "In Bangladesh in 2019 and 2023, researchers traced lead in blood to lead chromate in turmeric, and the government warned traders and checked markets. The lead in market turmeric then fell, which shows that testing and law together can work.",
+  "A trader in a spice market in Erode, Tamil Nadu, one of India's big turmeric centres, can send a sample of a lot to a laboratory before it is ground, so that a problem is found before it reaches a thousand kitchens.",
+  "Honey from a beekeeper you know, bought near the hive, has a short chain. A short chain means you can ask the beekeeper how it was made, which a long chain does not allow.",
+  "A school canteen in a city can buy whole spices and grind them in the school kitchen, so that nobody can add anything. This costs more time, and it can feed many children safely.",
+  "The Food Safety Connect app and the helpline 1915 let any family report a suspected case. A kept packet and bill help the food officer trace the lot back through the chain.",
+  "India's DNA test for basmati, developed by the Centre for DNA Fingerprinting and Diagnostics in Hyderabad, helps exporters show that a sack of rice is truly basmati, so that honest farmers are paid fairly."
+ ],
+ "ask_kids": [
+  "Which food at home do you think could be cheated, and why would a cheat choose it?",
+  "If a test finds nothing, what exactly can you say? What can you not say?",
+  "Milk is mostly water. So why is adding more water wrong?",
+  "Why do you think buyers pick the brightest turmeric, and what might that make a seller do?",
+  "Salt has iodine added on purpose, and chalk in sugar is a crime. What is the difference?",
+  "A rat tastes a tiny bit of a new food and waits. When do you test a food before you trust it?",
+  "Who could you ask in your own market to learn where the food comes from?",
+  "What would you want to know about a test before you trusted its answer?"
+ ],
+ "jokes": [
+  {
+   "j": "What did the sugar say to the chalk in the glass of water?",
+   "a": "'I am off to dissolve into the conversation. You can stay at the bottom and think about it.'"
+  },
+  {
+   "j": "Why did the magnet get the job at the tea stall?",
+   "a": "It was very attractive, and it always picked out what did not belong."
+  },
+  {
+   "j": "What did the milk say when it was shaken in a bottle with a drop of detergent?",
+   "a": "'I only came for a quiet foam. Now I am a bubble bath.'"
+  },
+  {
+   "j": "Why did the iodine blush on the potato?",
+   "a": "Because the potato was full of starch, and it turned bright blue-black with feeling."
+  },
+  {
+   "j": "Why did the turmeric refuse to take the water test?",
+   "a": "It was afraid of showing its true colours. Then it stayed pale and passed, and it still could not say it was pure."
+  },
+  {
+   "j": "Why did the lactometer feel low at the dairy?",
+   "a": "The milk kept letting it sink."
+  },
+  {
+   "j": "What does a paper napkin say to a dye that has run away?",
+   "a": "'I know where you have been. You left a stain.'"
+  },
+  {
+   "j": "Why did the chalk stay at the bottom of the glass?",
+   "a": "It never learned to mix. It just settled down in a corner."
+  },
+  {
+   "j": "What did the tester say to the tea leaves that passed every test?",
+   "a": "'Nothing found. But I will not call you pure until you stop being mixed up with so many other things.'"
+  }
+ ],
+ "links": [
+  {
+   "title": "FSSAI, the Food Safety and Standards Authority of India",
+   "url": "https://www.fssai.gov.in/",
+   "kind": "website",
+   "why": "The official site of India's food authority. It holds the standards, the DART booklet of home tests and how to make a complaint."
+  },
+  {
+   "title": "Eat Right India",
+   "url": "https://eatrightindia.gov.in/",
+   "kind": "website",
+   "why": "The authority's campaign for safe and healthy food, with pages for families and schools."
+  },
+  {
+   "title": "Centre for Science and Environment, New Delhi",
+   "url": "https://www.cseindia.org/",
+   "kind": "website",
+   "why": "An Indian research group that tests foods such as honey and publishes its findings and method in plain language."
+  },
+  {
+   "title": "CSIR Central Food Technological Research Institute, Mysuru",
+   "url": "https://cftri.res.in/",
+   "kind": "place",
+   "where": "Mysuru",
+   "why": "A national food research laboratory. Check its website for any open days and visits."
+  },
+  {
+   "title": "Centre for DNA Fingerprinting and Diagnostics, Hyderabad",
+   "url": "https://www.cdfd.org.in/",
+   "kind": "place",
+   "where": "Hyderabad",
+   "why": "The institute that developed a DNA test for basmati rice. Its website explains how DNA is read."
+  },
+  {
+   "title": "National Consumer Helpline",
+   "url": "https://consumerhelpline.gov.in/",
+   "kind": "website",
+   "why": "A government helpline and website where consumers can send a complaint. The telephone number is 1915."
+  }
+ ],
+ "videos": [
+  {
+   "title": "Detecting common adulterants in food with simple tests (a food authority video)",
+   "channel": "to find",
+   "mins": 5,
+   "youtube": "",
+   "status": "find-id",
+   "why": "To see a grown-up carry out the water, paper and magnet tests that the lesson explains.",
+   "check": "Not yet found or verified. A parent should preview any video that is chosen, and confirm that it matches the lesson's cautions that home tests find only some adulterants."
+  },
+  {
+   "title": "How paper chromatography separates colours",
+   "channel": "to find",
+   "mins": 4,
+   "youtube": "",
+   "status": "find-id",
+   "why": "To see dyes separate into bands as water climbs paper, as in the experiment.",
+   "check": "Not yet found or verified. The video should show water, paper and a coloured dot and should name the method chromatography."
+  },
+  {
+   "title": "Lead in turmeric and how researchers traced it in Bangladesh",
+   "channel": "to find",
+   "mins": 6,
+   "youtube": "",
+   "status": "find-id",
+   "why": "To hear how researchers followed lead in village women's blood back to turmeric, and how the government acted.",
+   "check": "Not yet found or verified. It should match the Forsyth studies of 2019 and 2023. A parent should preview it."
+  }
+ ],
+ "buy": [
+  {
+   "id": "b-colour",
+   "item": "Food colouring in yellow, red or green (liquid or powder)",
+   "kind": "material",
+   "why": "Used by the grown-up to secretly colour tea and turmeric for the mystery cups, and for the paper strip test. About ₹30 to ₹80 for a small pack of three.",
+   "url": "https://www.amazon.in/s?k=food+colour+set+liquid",
+   "used_in": [
+    "e1",
+    "e2"
+   ],
+   "plan": "Any bright food colour from a baker's shop works. Do not use a brown one for tea. A bright red sweet-coating or a few drops of red kumkum water also work."
+  },
+  {
+   "id": "b-iodine",
+   "item": "Tincture of iodine, a small bottle (optional)",
+   "kind": "material",
+   "why": "For the starch activity, used only by a grown-up. About ₹20 to ₹60 from a medical shop. It stains and must never be swallowed.",
+   "url": "https://www.amazon.in/s?k=tincture+iodine+50+ml",
+   "used_in": [
+    "a3",
+    "g1"
+   ],
+   "plan": "If you do not have it, skip the starch activity. The game and the lesson work without it."
+  },
+  {
+   "id": "b-chalk",
+   "item": "White chalk sticks",
+   "kind": "material",
+   "why": "Crushed to a fine powder for the 'chalk in sugar' cup. About ₹10 for a box from a stationery shop.",
+   "url": "https://www.amazon.in/s?k=white+chalk+box",
+   "used_in": [
+    "e1"
+   ],
+   "plan": "A pinch of dry eggshell ground very fine in a mortar also makes a white cloud in water."
+  },
+  {
+   "id": "b-paper",
+   "item": "Coffee filter paper or white kitchen paper towel",
+   "kind": "material",
+   "why": "For the paper strips in the colour test. About ₹50 to ₹150 for coffee filters.",
+   "url": "https://www.amazon.in/s?k=coffee+filter+paper",
+   "used_in": [
+    "e2",
+    "e1"
+   ],
+   "plan": "A white paper napkin or kitchen tissue works. Newspaper does not, because its ink runs."
+  },
+  {
+   "id": "b-pens",
+   "item": "Washable felt pens, black and brown",
+   "kind": "material",
+   "why": "For the colour-splitting test. About ₹30 to ₹100. Check that the label says washable or water-based.",
+   "url": "https://www.amazon.in/s?k=washable+felt+tip+pens",
+   "used_in": [
+    "e2"
+   ],
+   "plan": "Use the colours of any washable pen. A green food colouring dot is enough on its own."
+  },
+  {
+   "id": "b-lens",
+   "item": "A hand lens or magnifying glass",
+   "kind": "tool",
+   "why": "To look closely at grains, seeds and powders. About ₹50 to ₹150.",
+   "url": "https://www.amazon.in/s?k=magnifying+glass+kids",
+   "used_in": [
+    "p1",
+    "g1",
+    "a4"
+   ],
+   "plan": "A phone camera zoomed in works well."
+  },
+  {
+   "id": "b-magnet",
+   "item": "A small magnet and a pinch of iron filings (optional)",
+   "kind": "material",
+   "why": "For the optional magnet step. A magnet is about ₹20 to ₹60 and filings about ₹30 from a hardware shop or a school science kit.",
+   "url": "https://www.amazon.in/s?k=iron+filings+with+magnet",
+   "used_in": [
+    "a1",
+    "g1"
+   ],
+   "plan": "Skip the magnet step if you cannot find filings. The game card teaches the same idea."
+  },
+  {
+   "id": "b-bottles",
+   "item": "Small clear plastic bottles with lids",
+   "kind": "material",
+   "why": "For the shake test. Any 200 millilitre bottle with a screw lid, about ₹10 to ₹20 each.",
+   "url": "https://www.amazon.in/s?k=small+plastic+bottle+with+cap",
+   "used_in": [
+    "a2"
+   ],
+   "plan": "A clean water bottle or a plastic jar with a lid works."
+  },
+  {
+   "id": "b-muslin",
+   "item": "Muslin cloth",
+   "kind": "material",
+   "why": "For draining curd. About ₹30 to ₹80 for a metre.",
+   "url": "https://www.amazon.in/s?k=muslin+cloth+cotton",
+   "used_in": [
+    "a5"
+   ],
+   "plan": "A clean thin cotton handkerchief or an old dupatta that has been washed well works."
+  },
+  {
+   "id": "b-print",
+   "item": "Printing for the game and the worksheets",
+   "kind": "tool",
+   "why": "Printing about 6 pages of game cards and 3 pages of worksheets. About ₹2 to ₹10 a page at a print shop.",
+   "url": "https://www.amazon.in/s?k=a4+paper+75+gsm",
+   "used_in": [
+    "g1",
+    "ws-core",
+    "ws-stretch",
+    "ws-challenge"
+   ],
+   "plan": "Copy the case cards by hand on index cards or scrap paper, and write the eight test names on slips."
+  },
+  {
+   "id": "b-books",
+   "item": "A book about food and the people who grow it",
+   "kind": "book",
+   "why": "A parent can read from a book about food or farming aloud before the story. Library or second-hand copies cost much less than new.",
+   "url": "https://www.amazon.in/s?k=children+book+food+farming+india",
+   "used_in": [
+    "p1",
+    "p2"
+   ],
+   "plan": "Ask at the school or town library, or borrow from a friend."
+  }
+ ],
+ "plan": {
+  "start_options": [
+   "e1",
+   "story",
+   "big_questions",
+   "cards",
+   "g1",
+   "ch1"
+  ],
+  "default_order": [
+   "intro",
+   "e1",
+   "summary",
+   "terms",
+   "explanations",
+   "story",
+   "e2",
+   "g1",
+   "how_we_found_out",
+   "agreed",
+   "challenging",
+   "ch1",
+   "ch2",
+   "big_questions",
+   "open_questions",
+   "roots",
+   "quiz",
+   "a1",
+   "a2",
+   "a3",
+   "a4",
+   "a5",
+   "a6",
+   "a7",
+   "p1",
+   "p2",
+   "ws-core",
+   "ws-stretch",
+   "ws-challenge"
+  ],
+  "core": [
+   "e1",
+   "e2",
+   "g1"
+  ],
+  "spine": [
+   "intro",
+   "e1",
+   "explanations",
+   "roots",
+   "quiz"
+  ]
+ },
+ "song": {
+  "topic_level": "sci.food.L5",
+  "title": "Sunlight on My Plate",
+  "note": "Topic-level song"
+ }
 }
