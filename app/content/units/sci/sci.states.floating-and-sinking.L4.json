@@ -194,7 +194,8 @@
    "examples": [
     "A foil ball sinks, but a foil boat floats.",
     "A steel katori floats when it is set on the water with its mouth up, but it sinks when it fills with water.",
-    "A steel ship floats because most of its hull is air."
+    "A steel ship floats because most of its hull is air.",
+    "A weighted doll with a heavy base rocks back upright when you tip it. Its weight sits low, so the weight pulls it back to balance. A straw with clay at one end floats upright in the same way."
    ],
    "art": "Two drawings side by side: a solid steel block sinking and a hollow steel boat floating, with the hollow part drawn as a pocket of air.",
    "perspectives": [
@@ -2102,6 +2103,13 @@
      "a": "It leaves out the size. A big lemon can weigh more than a small potato. What matters is how heavy each one is for its size, which is its density.",
      "why": "A strong answer points out that weight alone does not settle it, and mentions size or density.",
      "outcome": 0
+    },
+    {
+     "t": "write",
+     "p": "A straw has clay at one end and floats upright. A gust tips it over. Explain what brings it back upright. Then say what would happen if the clay were moved to the top.",
+     "lines": 3,
+     "a": "The clay is heavy and sits low, so its weight pulls the straw back to upright. If the clay were at the top, the straw would tip over more easily, because the heavy part would be high.",
+     "why": "A strong answer says the heavy part is low, that its weight pulls the straw back, and that a high weight makes it tip."
     }
    ]
   },
@@ -2455,6 +2463,19 @@
    "a": 0,
    "why": "A pattern is something you notice, not a rule you can trust yet. One clear exception, such as a ship, shows that the pattern is incomplete and needs testing.",
    "outcome": 6
+  },
+  {
+   "t": "mcq",
+   "p": "A straw with clay at one end floats on water, then a gust tips it over. What brings it back upright?",
+   "opts": [
+    "Its heavy end sits low, so its weight pulls it back to upright",
+    "The air inside the straw pushes it sideways",
+    "The water warms up, and the straw rights itself",
+    "The straw gets lighter at the top"
+   ],
+   "a": 0,
+   "outcome": 1,
+   "why": "The clay is heavy and sits low, so the weight pulls the straw back to upright. Air inside and warm water do not balance a floating straw."
   }
  ],
  "videos": [

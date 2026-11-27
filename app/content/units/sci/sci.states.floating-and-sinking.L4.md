@@ -67,6 +67,7 @@ Foil is denser than water, so a ball of foil sinks. When you fold the same foil 
 - e.g. A foil ball sinks, but a foil boat floats.
 - e.g. A steel katori floats when it is set on the water with its mouth up, but it sinks when it fills with water.
 - e.g. A steel ship floats because most of its hull is air.
+- e.g. A weighted doll with a heavy base rocks back upright when you tip it. Its weight sits low, so the weight pulls it back to balance. A straw with clay at one end floats upright in the same way.
 - **Beypore boat builders of Kerala:** Build large wooden ships, the uru, by skill handed down for centuries, using no drawings. Their hulls are shaped to push aside enough water.
 - **Pierre Bouguer:** In 1746 he explained how a ship stays upright, with a point he called the metacentre. Calculation joined craft in designing ships.
 ### Salt water holds things up better · *defined*
@@ -518,7 +519,7 @@ On the second trip, the rice came across, and the line stayed dry the whole way.
    **Answer:** The upthrust is bigger than the weight of the ball. *Why:* Under the water, the ball pushes aside a lot of water for its weight. The upthrust is bigger than the weight, and so it rises.
 16. (write) Someone says: 'A ship made of solid steel would float better than a hollow one, because steel is so strong.' Do you agree? Why?  
    **Answer:** No. A solid steel ship would be much denser than water and would sink. A hollow ship holds air and pushes aside much more water. Steel is strong, but it is the hollow shape that makes the ship float.. *Why:* A strong answer separates strength from density, and says that a solid lump would push aside little water for its weight, while a hollow shape pushes aside a lot.
-### Why Things Float (stretch) (stretch, 17 questions)
+### Why Things Float (stretch) (stretch, 18 questions)
 1. (mcq) A potato sinks in tap water and floats in very salty water. What is the best explanation?  
    Options: The salt made the water denser than the potato / The salt made the potato lighter / The potato dried out  
    **Answer:** The salt made the water denser than the potato. *Why:* The potato was the same in both glasses. The salt dissolved and made the water denser. When the water is denser than the potato, the potato floats.
@@ -558,6 +559,8 @@ On the second trip, the rice came across, and the line stayed dry the whole way.
    **Answer:** ['load', 'Plimsoll']. *Why:* A load line stops ships from being overloaded. It has different marks for sea water and fresh water.
 17. (write) Someone says: 'A potato sinks and a lemon floats, so potatoes are heavy and lemons are light.' What is missing from this sentence?  
    **Answer:** It leaves out the size. A big lemon can weigh more than a small potato. What matters is how heavy each one is for its size, which is its density.. *Why:* A strong answer points out that weight alone does not settle it, and mentions size or density.
+18. (write) A straw has clay at one end and floats upright. A gust tips it over. Explain what brings it back upright. Then say what would happen if the clay were moved to the top.  
+   **Answer:** The clay is heavy and sits low, so its weight pulls the straw back to upright. If the clay were at the top, the straw would tip over more easily, because the heavy part would be high.. *Why:* A strong answer says the heavy part is low, that its weight pulls the straw back, and that a high weight makes it tip.
 ### Be the Boat Designer (challenge) (challenge, 16 questions)
 1. (write) A potato sinks in tap water and floats in very salty water. You slowly pour plain water on top of the salty water. Describe what you think will happen to the potato and explain why.  
    **Answer:** The plain water floats on top of the salty water, because it is less dense. The potato floats in the salty layer, but it sinks through the plain water on top, and stops where the water is as dense as the potato, at the boundary between the two layers.. *Why:* A strong answer says that the layers do not mix at first, that the plain layer is less dense, and that the potato sits where the liquid is dense enough to hold it up.
@@ -637,6 +640,9 @@ On the second trip, the rice came across, and the line stayed dry the whole way.
 12. (mcq) Many people believe that heavy things sink. A steel ship floats. What does this show about the pattern?  
    Options: The pattern is not always true, so it must be tested / The ship is not really heavy / The pattern is always true  
    **Answer:** The pattern is not always true, so it must be tested. *Why:* A pattern is something you notice, not a rule you can trust yet. One clear exception, such as a ship, shows that the pattern is incomplete and needs testing.
+13. (mcq) A straw with clay at one end floats on water, then a gust tips it over. What brings it back upright?  
+   Options: Its heavy end sits low, so its weight pulls it back to upright / The air inside the straw pushes it sideways / The water warms up, and the straw rights itself / The straw gets lighter at the top  
+   **Answer:** Its heavy end sits low, so its weight pulls it back to upright. *Why:* The clay is heavy and sits low, so the weight pulls the straw back to upright. Air inside and warm water do not balance a floating straw.
 
 ## Applications
 - Building boats, ships, rafts and life jackets that float with a load.
