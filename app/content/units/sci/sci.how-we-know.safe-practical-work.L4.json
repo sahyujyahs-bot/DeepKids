@@ -1,0 +1,658 @@
+{
+ "id": "sci.how-we-know.safe-practical-work.L4",
+ "title": "Safe practical work: choosing equipment, naming risks, judging predictions",
+ "level": 4,
+ "summary": {
+  "text": "You want to know how long a spoon of sugar takes to vanish in warm water. Which spoon, which cup and which clock will you use, and what could go wrong before you even begin? In this lesson you choose your own equipment and learn to use it the right way. You name the risks of a test and plan how to make each one smaller. Then you write a prediction, which is a guess with a reason, and use your results to say how close it was.",
+  "art": "A child at a table with a steel tumbler on a tray, a teaspoon, a phone stopwatch and a notebook that says 'I predict 40 seconds'."
+ },
+ "intro": {
+  "hook": "Put a ruler, a teaspoon, a big steel pot and a phone on the table. Your job is to find out how much water a small bottle cap holds. Which of these would you pick up, and which would you leave?",
+  "text": "A test done with your hands is called practical work. Before any practical work, a scientist makes three choices. She chooses the tools that fit the job. She thinks about what could hurt someone, and how to stop that. And she says what she expects to happen, so that the result can surprise her. Today you make all three choices yourself, and then you check how good your expectation was.",
+  "art": "A table with a ruler, a teaspoon, a big steel pot, a phone and one small bottle cap in the middle, with a child's hand hovering over them."
+ },
+ "outcomes": [
+  "I can pick the right equipment for a job from a set, and say why it fits.",
+  "I can use a ruler, a measuring cup, a thermometer and a stopwatch the right way.",
+  "I can tell a hazard from a risk, and name the risks in a test before I start.",
+  "I can plan how to make each risk smaller, and carry out the test safely.",
+  "I can make a prediction with a reason, for something I know and for something new to me.",
+  "I can use my results to say how close my prediction was.",
+  "I can say what a missed prediction might be telling me."
+ ],
+ "explanations": [
+  {
+   "concept": "Practical work is finding out with your hands, and equipment is whatever helps you do it",
+   "status": "defined",
+   "definition": "Practical work is a test or an observation that you carry out yourself. Equipment is the set of things you use to carry it out.",
+   "description": "You can find some things out by thinking, and some by asking. Other things you can only find out by doing. Will a wet towel dry faster hung up or folded? You have to try it. That trying is practical work. The things you use are your equipment: a towel, a clothes line, a clock, a notebook. Equipment does not have to come from a laboratory. A steel tumbler is equipment when you measure with it. A window sill is equipment when you grow a seed on it. What makes something equipment is the job you give it.",
+   "examples": [
+    "A kitchen weighing scale becomes science equipment when you weigh a sponge dry and then wet.",
+    "A phone becomes equipment three times over: a stopwatch, a torch and a camera.",
+    "A cook testing if the dosa pan is hot enough by sprinkling water is doing practical work."
+   ],
+   "perspectives": [],
+   "one_view": "This card only says what the two words mean in this lesson. The different views about tools and the senses come in later cards.",
+   "art": "A kitchen shelf where a tumbler, a spoon, a scale and a clock each wear a small label saying 'equipment'.",
+   "context": "This card says what practical work and equipment are, so the rest of the lesson can use both words."
+  },
+  {
+   "concept": "Each measuring tool answers one kind of question",
+   "status": "defined",
+   "definition": "A measuring tool is built to measure one quantity. Choosing equipment starts with asking which quantity you need.",
+   "description": "A quantity is something you can measure and give a number to. Length is a quantity, and a ruler or a tape measures it. Volume is how much space a liquid takes up, and a measuring cup measures it. Mass is how much stuff is in a thing, and a weighing scale measures it. Temperature is how hot or cold something is, and a thermometer measures it. Time is measured with a clock or a stopwatch. So the first question when you choose equipment is 'What do I need to know?' If you need to know how hot, a ruler cannot help you, however good the ruler is.",
+   "examples": [
+    "How tall is the bean plant today? Length, so a ruler, in centimetres.",
+    "How much water did the sponge soak up? Volume, so a measuring cup, in millilitres.",
+    "How heavy is one idli before and after steaming? Mass, so a kitchen scale, in grams.",
+    "How long does the ice take to melt? Time, so a clock, in minutes."
+   ],
+   "perspectives": [],
+   "one_view": "Which tool measures which quantity is agreed everywhere, so there is only one honest view here.",
+   "art": "Five tools in a row, a ruler, a measuring cup, a kitchen scale, a thermometer and a stopwatch, each joined by a line to the question it answers.",
+   "context": "This card matches each common tool to the one question it can answer."
+  },
+  {
+   "concept": "The tool must fit the size of the thing: look at the smallest mark",
+   "status": "defined",
+   "definition": "The smallest mark on a tool is the smallest amount it can measure. Choose a tool whose smallest mark is much smaller than the amount you are measuring.",
+   "description": "Two tools can measure the same quantity and still not be equally good for your job. A one-litre kitchen jug often has a mark only every 100 millilitres. A medicine cup has a mark every 5 millilitres or less. If you need 10 millilitres of water, the jug cannot show it, and the medicine cup can. The same goes for time. A wall clock with no seconds hand cannot time a toy car that rolls for 3 seconds. A tool that is too fine is also a poor fit. Nobody measures the length of a room with a 15 centimetre ruler, because laying it down 30 times adds 30 small mistakes.",
+   "examples": [
+    "A school ruler has a mark every 1 millimetre. A tailor's tape has the same marks but bends round a tree trunk, so the tape fits that job.",
+    "A kitchen scale that shows whole grams cannot weigh one grain of rice. Weigh 100 grains and divide by 100.",
+    "A phone stopwatch shows hundredths of a second, but your thumb takes about two tenths of a second to press. So the last digit means little when a person does the pressing."
+   ],
+   "perspectives": [],
+   "one_view": "This is a rule of measuring that every instrument maker and scientist uses, so there is only one honest view.",
+   "art": "A big jug and a small medicine cup side by side, each holding 10 millilitres of water, with the jug's water far below its first mark.",
+   "context": "This card shows how to choose between two tools that measure the same thing."
+  },
+  {
+   "concept": "Using a tool the right way: start at zero, read at eye level, keep it steady",
+   "status": "defined",
+   "definition": "A tool gives a true reading only when it is used the way it was made to be used.",
+   "description": "The right tool, used the wrong way, gives a wrong number. Three habits fix most mistakes. First, start at zero. On many rulers the zero mark is a little way in from the end, so line up the mark and not the edge. Press the zero button on a kitchen scale after you put the empty bowl on. Second, read at eye level. Put a measuring cup on a flat table and bring your eye down to the water line. Looked at from above, the water seems to stand at a different mark. Third, keep the tool steady and wait. A thermometer needs about a minute in the water before its number stops changing.",
+   "examples": [
+    "In a narrow clear tube, the surface of water curves up at the sides. Read the bottom of the curve.",
+    "Hold a thermometer by its top end. If you hold the tip, the thermometer measures your fingers.",
+    "Say 'three, two, one, go' so the hand that drops and the thumb that times start together."
+   ],
+   "perspectives": [
+    {
+     "who": "Sushruta Samhita, Sutrasthana, chapter 9, an Indian book of surgery whose oldest parts are more than 2,000 years old",
+     "explanation": "A student must practise each tool before using it on a person. The book tells the student to practise cuts on gourds, watermelons and cucumbers, and stitching on cloth and soft leather. It says that even a well-read student is unfit for the work without this practice."
+    },
+    {
+     "who": "Sushruta Samhita, Sutrasthana, chapter 7",
+     "explanation": "The same book lists 101 blunt instruments and then says that the hand is the most important instrument of all, because no other instrument can work without it."
+    }
+   ],
+   "art": "A child crouching so that her eye is level with the water line in a measuring cup on a table, with a dotted line from eye to mark.",
+   "context": "This card gives the three habits that make a tool tell the truth: zero, eye level and steadiness."
+  },
+  {
+   "concept": "Your senses are equipment too, and they compare more than they measure",
+   "status": "defined",
+   "definition": "Skin, eyes, ears, nose and tongue report how a thing differs from what they met just before. A measuring tool reports against a fixed scale.",
+   "description": "Try this with three bowls of water: one cold, one warm from the tap and one in between. Keep one hand in the cold bowl and the other in the warm bowl for one minute. Then put both hands into the middle bowl. The same water feels warm to one hand and cool to the other. Your skin was not wrong. Skin reports change, and each hand came from a different starting point. A thermometer put in the middle bowl gives one number, whichever bowl it came from. That is why scientists use tools for numbers. It is also why they still use their senses to notice that something is worth measuring.",
+   "examples": [
+    "A room feels dark when you walk in from the sun and bright when you wake at night, though the lamp is the same.",
+    "After a sweet laddu, a sweet orange tastes sour."
+   ],
+   "perspectives": [
+    {
+     "who": "John Locke, an English philosopher, in 'An Essay Concerning Human Understanding', book 2, chapter 8, in 1690",
+     "explanation": "He described this same test with two hands and one bowl. He concluded that warm and cold, as we feel them, are not in the water in the way that its amount is. They arise where the water meets the hand."
+    },
+    {
+     "who": "Skilled craftspeople, such as tea tasters in Assam and the Nilgiris, and potters who judge a kiln by the colour of its flame",
+     "explanation": "With years of practice, senses become fine instruments. A trained taster can tell teas apart that no simple machine can. Their view is that a sense is a tool that must be trained and checked, like any other."
+    },
+    {
+     "who": "Scientists who study other animals' senses",
+     "explanation": "Every being has their own equipment. A pit viper senses the warmth of a mouse from a distance, and a bee sees ultraviolet marks on a flower. No being's senses report the whole world."
+    }
+   ],
+   "art": "Three bowls in a row with a child's two hands going from the outer bowls into the middle one, and a thermometer in the middle bowl showing one number.",
+   "context": "This card shows why a number needs a tool, by letting two hands disagree about the same water."
+  },
+  {
+   "concept": "A hazard is a thing that could hurt, and a risk is the chance that it will",
+   "status": "defined",
+   "definition": "A hazard is anything that could cause harm. A risk is how likely the harm is, together with how bad it would be.",
+   "description": "A kitchen knife is a hazard, because it is sharp. That is true when it lies in a closed drawer and when a running child carries it. But the risk is very different in the two cases. In the drawer the chance of a cut is tiny. In the running child's hand the chance is high, and the cut could be deep. So a hazard is about the thing. A risk is about the thing, the person, the place and what is being done. This is good news, because you often cannot change the hazard. Water for tea must be hot. You can nearly always change the risk.",
+   "examples": [
+    "Hazard: hot water. Low risk: half a tumbler of warm tap water on a tray. High risk: a full pot of boiling water at the table's edge.",
+    "Hazard: a glass jar can break. The risk rises on a tiled floor and falls on a mat.",
+    "Hazard: the Sun can harm eyes. The risk is high if you look at the Sun, and low if you watch its shadow."
+   ],
+   "perspectives": [],
+   "one_view": "These are working definitions that safety workers around the world share, so there is only one honest view of the two words.",
+   "art": "The same knife drawn twice: resting in a closed drawer with a small 'low risk' tag, and in the hand of a running child with a large 'high risk' tag.",
+   "context": "This card separates two words that people mix up, hazard and risk, because the rest of the lesson needs both."
+  },
+  {
+   "concept": "Naming the risks before you start: what could hurt, whom, and how badly",
+   "status": "defined",
+   "definition": "A risk assessment is a short list, made before a test, of what could cause harm, who could be harmed, and how likely and how bad the harm would be.",
+   "description": "Before a test, walk through it in your head from the first step to the cleaning up. At each step ask three questions. What here could hurt someone? Who could be hurt: me, a helper, a baby who crawls in, a pet, the plant? How likely is it, and how bad would it be? Write each answer in a line. Scientists call this list a risk assessment. Most home tests have the same few hazards: heat, sharp edges, glass, things that should not be swallowed, mains electricity, water on the floor, and the Sun in the eyes. Naming them takes two minutes. A risk that has a name is much easier to plan for.",
+   "examples": [
+    "Test: dissolving sugar in warm water. Risks named: a scald from water that is too hot, a slip on spilled water, a broken glass.",
+    "Test: growing moong seeds. Risks named: a toddler swallowing seeds, mouldy seeds touched and then fingers in the mouth.",
+    "Test: making shadows. Risk named: looking straight at the Sun."
+   ],
+   "perspectives": [],
+   "one_view": "Listing risks before work is standard practice in schools, laboratories and workshops. People differ on how much risk to accept, and that debate is in a later card.",
+   "art": "A notebook page with three columns headed 'What could hurt?', 'Who?' and 'How likely, how bad?', filled in by a child for a warm-water test.",
+   "context": "This card gives the three questions that turn a vague worry into a list of named risks."
+  },
+  {
+   "concept": "Making a risk smaller: remove, swap, separate, protect",
+   "status": "defined",
+   "definition": "A risk can be reduced by removing the hazard, swapping it for a safer one, putting distance or a barrier between it and people, or wearing protection. The first ways work better than the last.",
+   "description": "Once a risk has a name, there are four kinds of plan, and they are not equally strong. The strongest is to remove the hazard. If the test works with cold water, use cold water. The next is to swap. Use a plastic or steel tumbler in place of glass, and warm tap water in place of boiling water. The third is to separate people from the hazard. Work on a tray in the middle of the table, and keep a baby in another room. The weakest is protection that you wear, such as an apron or glasses, because the hazard is still there and the protection can slip. Safety engineers call this order the hierarchy of controls.",
+   "examples": [
+    "A torch in place of a candle removes the flame from a shadow test.",
+    "A tray under the cups means a spill stays on the tray and not on the floor.",
+    "Tied-back hair and rolled-up sleeves keep loose things away from the work.",
+    "A grown-up pouring the warm water is separation too: the child is kept apart from the pouring."
+   ],
+   "perspectives": [],
+   "one_view": "The order from removing down to wearing protection is used by safety bodies in most countries. The open question is how far to go, which the card on zero risk takes up.",
+   "art": "Four steps going down like a staircase, labelled remove, swap, separate and protect, each with a small picture: no flame, a steel tumbler, a tray, an apron.",
+   "context": "This card gives four ways to shrink a named risk, in order from strongest to weakest."
+  },
+  {
+   "concept": "Carrying out the work safely: the habits that matter while your hands are busy",
+   "status": "defined",
+   "definition": "Working safely means keeping to the plan while you work, and stopping when something happens that the plan did not cover.",
+   "description": "A plan on paper protects nobody unless the hands follow it. A few habits do most of the work. Clear the table of everything the test does not need. Put each thing back in its own place after you use it. Never taste anything in a test unless the test is about taste and a grown-up has said the food is safe. To smell something, hold it away and wave a little air towards your nose. Wipe a spill at once. Wash your hands at the end. And the most important habit is this: if something happens that you did not expect, stop. Step back, tell someone, and think again before you carry on.",
+   "examples": [
+    "The water from the tap comes out hotter than you planned. Stop, add cold water, and test the warmth with a thermometer or with a grown-up's hand before going on.",
+    "A cup cracks. Stop, leave the pieces, and fetch a grown-up with a broom.",
+    "At the end, pour sugar water down the sink and not into a bottle someone may drink from."
+   ],
+   "perspectives": [],
+   "one_view": "These habits are common to school and research laboratories. They are practice, not theory, so there is only one honest view.",
+   "art": "A tidy table with only a tray, two cups, a spoon and a notebook on it, and a child wiping up a small spill with a cloth.",
+   "context": "This card lists the habits that keep a safe plan safe while the test is going on."
+  },
+  {
+   "concept": "A checklist catches the slips that skill does not",
+   "status": "debated",
+   "definition": "A checklist is a short written list of steps that must not be missed, read out and ticked at the moment of doing.",
+   "description": "Experts forget simple steps, most of all when the work is familiar. In October 1935 a new and very large aeroplane, the Boeing Model 299, crashed on a test flight in Ohio in the United States. The pilots were among the best in the country. They had forgotten to release a lock on the controls. Pilots then wrote the steps down on a card and read them before every flight. Aeroplanes have used checklists ever since. In 2008 the World Health Organization made a 19-step checklist for operations. It was tried in eight hospitals, one of them in New Delhi. Deaths after operations fell from 15 in every 1,000 to 8 in every 1,000.",
+   "examples": [
+    "A test checklist for home: table clear, tray down, hair tied, grown-up near for the warm water, cloth ready, prediction written.",
+    "A cook's habit of checking the gas knob before leaving the kitchen is a one-line checklist."
+   ],
+   "perspectives": [
+    {
+     "who": "Atul Gawande, a surgeon, and the World Health Organization team, in the New England Journal of Medicine in 2009",
+     "explanation": "Work today has too many steps for memory alone. A short list read aloud catches the missed step, and it also makes the team speak to each other before they start."
+    },
+    {
+     "who": "David Urbach and colleagues, who studied 101 hospitals in Ontario, Canada, in 2014",
+     "explanation": "When every hospital in Ontario was ordered to use the checklist, deaths after operations hardly changed. Their view is that a list by itself does little. It works only when the people using it believe in it and really stop to read it."
+    },
+    {
+     "who": "Some experienced surgeons and pilots, when checklists were first brought in",
+     "explanation": "A list treats a skilled person like a beginner, and ticking boxes can take the place of thinking. Attention, they said, is the real safety."
+    }
+   ],
+   "art": "A pilot's hand holding a small card of ticked steps in a cockpit, beside a child's hand holding a similar card over a kitchen table.",
+   "context": "This card tells where checklists came from, what they achieved, and why people still argue about them."
+  },
+  {
+   "concept": "A hazard that nobody knows about cannot be put on the list",
+   "status": "defined",
+   "definition": "A risk assessment can cover only the hazards that are known at the time. New materials and new methods can carry hazards that are discovered later.",
+   "description": "Listing risks has a limit. You can name only what somebody already knows. Carl Wilhelm Scheele, a Swedish chemist, discovered several new substances in the 1770s. He smelled and tasted them, as chemists then did. He died in 1786 at the age of 43, and many historians think his chemicals shortened his life. Marie Curie carried tubes of glowing radium in her pocket. Her notebooks are still radioactive, and the national library of France keeps them in lead-lined boxes. In the 1920s, young women in American factories painted watch dials with radium paint. They were told to point their brushes with their lips. Many fell terribly ill. Five of them, led by Grace Fryer, took the company to court in 1927.",
+   "examples": [
+    "The rule 'never taste anything in a test' exists because of people like Scheele.",
+    "When scientists work with something new, they treat it as hazardous until tests show otherwise."
+   ],
+   "perspectives": [
+    {
+     "who": "The dial painters, later called the Radium Girls, and the doctors who stood by them, such as Harrison Martland in 1925",
+     "explanation": "The company's scientists protected themselves with screens and tongs, while telling the painters that the paint was harmless. Their view is that risk is not only about knowledge. It is also about who is told, and who is listened to."
+    },
+    {
+     "who": "Historians of science",
+     "explanation": "Curie and Scheele were not careless by the standards of their day. Nobody could have listed a hazard that had not been discovered. The lesson they draw is to stay watchful when a thing is new."
+    }
+   ],
+   "art": "An old notebook resting in a grey lead-lined box with a small radiation sign, and beside it a watch dial with glowing numbers.",
+   "context": "This card shows the limit of naming risks: some hazards are not yet known, and some are known but not shared."
+  },
+  {
+   "concept": "No test has zero risk, so people must decide how much is acceptable",
+   "status": "debated",
+   "definition": "Risk can be made small but never zero. How small is small enough is a choice people make, and they do not all choose alike.",
+   "description": "Even a test with a bowl of cold water has some risk, because someone can slip. Crossing the road to buy the sugar has more. So 'Is it safe?' is never a yes-or-no question. The real questions are how big the risk is, what we gain by doing the test, and who carries the risk. A test that teaches a lot may be worth a small risk. A test that teaches little is not worth a large one. People answer these questions differently, and that is a real disagreement, not a mistake by one side.",
+   "examples": [
+    "Cutting an apple to watch it brown needs a knife. Most families accept that risk with a grown-up cutting.",
+    "Boiling water for a test that works just as well with warm tap water is a risk with nothing gained."
+   ],
+   "perspectives": [
+    {
+     "who": "The Rio Declaration of the United Nations, Principle 15, in 1992",
+     "explanation": "Where serious harm is possible, do not wait for full proof before you act to prevent it. This is called the precautionary approach. When in doubt, hold back."
+    },
+    {
+     "who": "Chauncey Starr, an American engineer, in the journal Science in 1969",
+     "explanation": "Every benefit carries some risk, so compare the two with numbers. He found that people accept much larger risks when they choose them freely, such as cycling, than when others impose them."
+    },
+    {
+     "who": "People who carry the risk without getting the gain",
+     "explanation": "A sum of risk against benefit can look fine overall while one group gets the benefit and another gets the harm. They ask that the sum always says who is who."
+    }
+   ],
+   "art": "A balance scale with 'what we learn' in one pan and 'what could go wrong' in the other, and three different people each pointing to a different tilt.",
+   "context": "This card says why no test is perfectly safe, and lays out three ways people decide how much risk to take."
+  },
+  {
+   "concept": "The other beings in your test are at risk too",
+   "status": "defined",
+   "definition": "A risk assessment counts every living being the test touches, not only people.",
+   "description": "Many tests at home use living beings: a potted plant, sprouting seeds, ants on a wall, a snail from the balcony, the curd bacteria in a bowl. Each of them can be harmed by the test. So they go on the list. Ask what the test will do to them, and how to do less. Watch ants where they already walk, and do not shut them in a jar. If a test keeps a plant in the dark, keep them there for a few days and no longer, and then bring them back to the light. Put a snail back where you found them within the hour. Plants and other animals feel, remember and decide. Some scientists call these automatic responses.",
+   "examples": [
+    "To learn what ants like to eat, place a grain of sugar and a grain of salt near their path and watch. No ant needs to be caught.",
+    "To test if a seed needs water, sprout ten seeds, and plant the survivors afterwards."
+   ],
+   "perspectives": [
+    {
+     "who": "William Russell and Rex Burch, British scientists, in 'The Principles of Humane Experimental Technique' in 1959",
+     "explanation": "They gave three rules for any test on animals. Replace the animal with something else where you can. Reduce the number of animals. Refine the method so that the animals suffer less. Laboratories across the world now follow these three rules."
+    },
+    {
+     "who": "The Acharanga Sutra, book 1, lecture 4, lesson 1, one of the oldest Jain texts",
+     "explanation": "All breathing, existing, living beings should not be killed, treated with violence or tormented. Jain teaching counts plants, and the tiny beings in water and soil, among the living."
+    },
+    {
+     "who": "Scientists who use animals in medical research",
+     "explanation": "Some knowledge that saves many lives, human and animal, cannot yet be gained without tests on animals. They accept the three rules and hold that stopping all such tests would cause more suffering than it prevents."
+    }
+   ],
+   "art": "A child lying on the floor watching a line of ants walk past a grain of sugar and a grain of salt, with a notebook and no jar in sight.",
+   "context": "This card adds plants and other animals to the list of those a test could harm."
+  },
+  {
+   "concept": "A prediction is what you expect to happen, with a reason taken from what you already know",
+   "status": "defined",
+   "definition": "A prediction is a statement, made before a test, of what the result will be. A scientific prediction comes with a reason.",
+   "description": "A guess says what will happen. A prediction also says why you think so. 'The sugar will dissolve faster in warm water' is a guess. 'The sugar will dissolve faster in warm water, because I have seen sugar vanish quickly in hot tea and slowly in cold lemon juice' is a prediction. The reason matters for two things. It lets other people check your thinking. And when the result comes in, it tells you what to learn. If the result matches, the reason has passed one test. If the result does not match, something in the reason needs another look. Write the prediction down before the test, with a number if you can.",
+   "examples": [
+    "I predict the wet towel will dry in about 2 hours on the line, because yesterday a wet shirt took about that long.",
+    "I predict the bigger ice cube will take longer to melt, because there is more ice to warm up."
+   ],
+   "perspectives": [
+    {
+     "who": "The Nyaya Sutra of Gautama, book 1, chapter 1, sutra 5, with Vatsyayana's commentary of about the 5th century CE",
+     "explanation": "This Indian text on reasoning names three kinds of inference. The first goes from a cause to what will follow. The commentary's example is seeing dark clouds gather and inferring that rain will come. That is a prediction with a reason."
+    },
+    {
+     "who": "The Charaka Samhita, Sutrasthana, chapter 11, an Indian book of medicine whose oldest parts are about 2,000 years old",
+     "explanation": "It lists four ways of knowing: trusted teaching, direct seeing, inference, and yukti. Yukti is reasoning that puts many causes together to say what will result. Its example is a crop, which comes from water, ploughing, seed and season together."
+    }
+   ],
+   "art": "A notebook line that reads 'I predict ... because ...' with the word 'because' circled, beside a tumbler of water and a spoon of sugar.",
+   "context": "This card says what turns a guess into a scientific prediction: the reason."
+  },
+  {
+   "concept": "Predicting something new: reason from the nearest thing you know",
+   "status": "defined",
+   "definition": "In an unfamiliar situation, a prediction is made by finding a familiar case that is like it and asking what should stay the same and what should change.",
+   "description": "It is easy to predict what you have seen many times. The real power of science is predicting what nobody has seen. You do it by stepping from the known to the new. You know that sugar dissolves faster in warm water. Now someone hands you rock salt, which you have never tested. Rock salt is like sugar in one way: both dissolve in water. So you predict that warm water will speed rock salt up too. In 1871 the Russian chemist Dmitri Mendeleev did this with a metal nobody had found. He reasoned from the metals around its empty place in his table. He predicted that each cubic centimetre of it would weigh about 5.9 grams.",
+   "examples": [
+    "In 1875 the French chemist Paul-Émile Lecoq de Boisbaudran found the metal, now called gallium. He first measured 4.7 grams. Mendeleev wrote that the sample must be impure. Measured again on a pure piece, it came to 5.9.",
+    "You know a metal spoon in hot tea gets hot. Predict what a wooden spoon will do, and say what is the same and what is different.",
+    "You know a ball rolls farther on tile than on a mat. Predict what a ball will do on sand."
+   ],
+   "perspectives": [],
+   "one_view": "Reasoning from a known case to a new one is how predictions are made in every science. Whether such reasoning can ever be certain is a real debate, taken up in the roots.",
+   "art": "A stepping-stone path from a stone marked 'sugar in warm water, tested' to a stone marked 'rock salt in warm water, not yet tested', with a child mid-step.",
+   "context": "This card shows how to predict in a situation you have never met, by stepping from a case you know."
+  },
+  {
+   "concept": "Judging a prediction: write it first, then find the difference from the result",
+   "status": "defined",
+   "definition": "The accuracy of a prediction is how close it came to the measured result. It is found by taking the difference between the two.",
+   "description": "After the test, put the prediction and the result side by side. Suppose you predicted 40 seconds and the sugar took 52. The difference is 12 seconds. Then compare the difference with the size of the result. Being 12 seconds off in 52 is a miss of nearly a quarter. Being 12 seconds off in 10 minutes would be a tiny miss. Say which way you missed as well: 'I predicted too short a time.' All of this works only if the prediction was written before the test. After people see a result, they honestly remember having expected it. Psychologists call this hindsight. A number written in ink does not change.",
+   "examples": [
+    "Predicted: the towel dries in 2 hours. Result: 3 hours. Difference: 1 hour too short, which is one third of the result.",
+    "Predicted: the big cube lasts longer. Result: the big cube did last longer. The direction was right, though no number was predicted."
+   ],
+   "perspectives": [],
+   "one_view": "Subtracting the prediction from the result is plain arithmetic. What counts as close enough is a separate question, in the next card.",
+   "art": "A notebook with two boxed numbers, 'Predicted 40 s' and 'Result 52 s', joined by a bracket labelled 'difference 12 s, too short'.",
+   "context": "This card shows how to turn 'was I right?' into a number: the difference between prediction and result."
+  },
+  {
+   "concept": "How close is close enough depends on the spread of your results and on what the answer is for",
+   "status": "defined",
+   "definition": "A prediction counts as accurate when its miss is no bigger than the natural spread of repeated results, or small enough for the purpose it serves.",
+   "description": "No test gives the same number twice. Do the sugar test three times and you may get 48, 52 and 56 seconds. The results spread over 8 seconds without anything being wrong. So a prediction of 50 seconds is as close as this test can judge. A prediction of 40 is outside the spread, and is a real miss. The purpose matters too. The India Meteorological Department predicts each year's monsoon rain as a percentage of the long-term average. It states with the forecast that the forecast may be off by about 5 in every 100 either way. A farmer can plan around that. An engineer cutting a part for a rocket engine cannot accept a miss of 5 in 100.",
+   "examples": [
+    "Three results: 48, 52, 56 seconds. Prediction 50: inside the spread, so accurate. Prediction 40: outside, so a miss.",
+    "A recipe that says 'about a cup' accepts a large miss. A medicine dose does not.",
+    "A forecast of 'rain tomorrow afternoon' is close enough for carrying an umbrella, and not close enough for timing a kite festival to the minute."
+   ],
+   "perspectives": [],
+   "one_view": "Comparing a miss with the spread of repeats is the standard method. Each field then sets how small a miss it needs.",
+   "art": "A number line from 40 to 60 seconds with three dots at 48, 52 and 56, a shaded band between them, one arrow at 50 inside the band and one at 40 outside.",
+   "context": "This card gives a fair way to decide if a prediction was close: compare the miss with how much the results spread anyway."
+  },
+  {
+   "concept": "A missed prediction asks three questions: was the reason wrong, the tool wrong, or the doing wrong?",
+   "status": "debated",
+   "definition": "When a result does not match a prediction, the cause may lie in the idea behind the prediction, in the equipment, or in how the test was carried out. Deciding which is a matter of judgement.",
+   "description": "A miss is information. But what does it tell you? There are three places to look. The doing: did you stir one cup and not the other? The tool: was the spoon heaped one time and level the next? The reason: is your idea about warm water wrong, or missing something? Check them in that order, because the first two are easier to fix. Scientists face the same puzzle, and they do not always agree. In the 1840s the planet Uranus was not where the sums predicted. Astronomers kept Newton's law and blamed an unseen planet. Neptune was found in 1846, close to where they said. Later, Mercury also strayed from the sums. Astronomers again predicted an unseen planet, and named it Vulcan. Nobody ever found it. This time the law itself needed changing, and Albert Einstein changed it in 1915.",
+   "examples": [
+    "Your sugar took twice as long as predicted. You then notice that this spoonful had large crystals. The reason was missing something: crystal size matters too.",
+    "A plant you predicted would bend to the window grows straight. You check and find the curtain was closed all week. The doing was at fault."
+   ],
+   "perspectives": [
+    {
+     "who": "Karl Popper, a philosopher born in Vienna, in 1934",
+     "explanation": "A scientific idea must risk being wrong. When its prediction fails in a careful test, the honest thing is to give the idea up, and not to keep rescuing it with excuses."
+    },
+    {
+     "who": "Pierre Duhem, a French physicist, in 1906",
+     "explanation": "No prediction tests one idea alone. It tests the idea together with the tools, the set-up and many smaller assumptions. A miss says that something in the whole bundle is wrong, and it cannot say which part."
+    },
+    {
+     "who": "Imre Lakatos, a Hungarian philosopher, in 1970",
+     "explanation": "Scientists are right to protect a good idea for a while, as they did with Neptune. The test is what the protecting leads to. If it leads to new finds, carry on. If it leads only to more excuses, as with Vulcan, let go."
+    }
+   ],
+   "art": "A notebook page with a big question mark and three arrows from it, labelled 'my reason?', 'my tool?' and 'my doing?', each with a small picture.",
+   "context": "This card says what to do with a prediction that missed, and shows that scientists themselves argue about it."
+  },
+  {
+   "concept": "Can everything be predicted? Some things, only a short way ahead",
+   "status": "debated",
+   "definition": "Some systems, such as the weather, follow fixed laws and still cannot be predicted far ahead, because tiny differences at the start grow into large ones.",
+   "description": "If you knew enough, could you predict anything? In 1961 the American weather scientist Edward Lorenz ran a weather sum on his computer twice. The second time he typed one starting number as 0.506 in place of 0.506127. That is a difference of about one part in 4,000. After a short while the two forecasts had nothing in common. He had found that in weather, small differences do not stay small. We can never measure today's air perfectly, so a forecast gets worse with each day ahead. Today's forecasts are useful for about a week, and most weather scientists think two weeks is near the limit. An eclipse, though, can be predicted centuries ahead to the minute. So the reach of prediction depends on the thing being predicted.",
+   "examples": [
+    "A dropped steel spoon: easy to predict where it lands. A dropped sheet of paper: nearly impossible.",
+    "Tomorrow's high tide at Chennai can be found in a table printed a year ago. Tomorrow's exact cloud shapes cannot."
+   ],
+   "perspectives": [
+    {
+     "who": "Pierre-Simon Laplace, a French mathematician, in 'A Philosophical Essay on Probabilities' in 1814",
+     "explanation": "Imagine a mind that knew the place and motion of every particle at one moment. For that mind nothing would be uncertain, and the future would be as plain as the past. On this view, what we cannot predict is only what we do not know well enough."
+    },
+    {
+     "who": "Edward Lorenz, in 1963, and the scientists of chaos who followed",
+     "explanation": "The laws may be fixed, but perfect knowledge of the start is impossible. So for weather and many other things, long-range prediction is out of reach in practice, however good the computer."
+    },
+    {
+     "who": "Most physicists, since the 1920s",
+     "explanation": "Some events seem to have no cause that fixes their moment. In a lump of radioactive material, physics can predict that half the atoms will break up in a certain time. No one can predict which atom will go next. A smaller group of physicists thinks hidden causes exist that we have not found."
+    }
+   ],
+   "art": "Two wavy forecast lines starting from almost the same dot, running together for a short way and then swinging far apart.",
+   "context": "This card asks how far ahead prediction can reach, and gives three answers scientists have defended."
+  },
+  {
+   "concept": "Careful practical work is very old, and India's texts wrote down its rules",
+   "status": "defined",
+   "definition": "Rules for testing things carefully, choosing instruments and learning from results were written in several ancient cultures, long before modern laboratories.",
+   "description": "It is easy to think that careful testing began in Europe a few hundred years ago. The written record says otherwise. The Charaka Samhita, in its Vimanasthana section, chapter 8, tells a physician to examine in an ordered way before acting, and to judge a claim by reasoning and by what is seen. In Cairo, about the year 1021 CE, Ibn al-Haytham wrote in his Book of Optics that a person who studies nature must test what earlier writers say, and must suspect even his own judgement. In China, the Mozi, a book from about the 4th century BCE, gives three tests for any statement. One of them is to check it against what ordinary people's eyes and ears report. The tools have changed. The habits are the same ones this lesson teaches.",
+   "examples": [
+    "The Sushruta Samhita asks that a sharp instrument be so well made and sharpened that it can split a hair.",
+    "A potter in Manamadurai, a weaver in Kanchipuram and a cook testing sugar syrup between two fingers each follow tested rules passed from hand to hand, most of them never written down."
+   ],
+   "perspectives": [
+    {
+     "who": "Historians who place the start of modern science in Europe in the 1600s",
+     "explanation": "What was new then, they say, was joining tests to mathematics and to instruments, and publishing results so that strangers could repeat them. Earlier work was careful but was not organised in this way."
+    },
+    {
+     "who": "Historians such as Joseph Needham, who studied science in China, and Dharampal, who studied science and technology in 18th-century India",
+     "explanation": "Careful, tested knowledge was built in many places by many kinds of people, among them craftspeople, healers and farmers. Much of it was passed on by doing and was never credited, because it was not written in books."
+    }
+   ],
+   "art": "Three open books side by side, one in Sanskrit, one in Arabic and one in Chinese, with a pair of hands above each doing a careful test.",
+   "context": "This card shows that the habits of careful practical work were written down in India, the Arab world and China long ago."
+  }
+ ],
+ "agreed": [
+  {
+   "text": "A good prediction, shared in time, is one of the strongest safety tools people have.",
+   "evidence": "In October 2013 the India Meteorological Department, whose cyclone forecasting was led by Mrutyunjay Mohapatra, predicted days ahead where and how hard Cyclone Phailin would strike the Odisha coast. About a million people were moved inland before the storm arrived. A few dozen people died. A cyclone of similar strength struck the same coast in 1999, with much poorer warning, and about 10,000 people died."
+  },
+  {
+   "text": "After people learn a result, they remember their earlier expectation as closer to the result than it was.",
+   "evidence": "In 1975 the psychologist Baruch Fischhoff gave people accounts of events with different endings. People who were told an ending rated that ending as having been far more likely all along, and did not notice that knowing it had changed their view. The finding has been repeated many times."
+  },
+  {
+   "text": "A person needs about a fifth of a second to react to something seen, so hand timing cannot be trusted for very short events.",
+   "evidence": "Reaction-time tests since the 1800s, and the simple test of catching a dropped ruler, give about 0.2 seconds for most people. That is why races decided by hundredths of a second are timed by light beams and cameras."
+  }
+ ],
+ "challenging": [
+  {
+   "claim": "Children are kept too safe. A childhood with no risk harms them more than scrapes and small burns would.",
+   "who": "Ellen Sandseter and Leif Kennair, psychologists in Norway, in 2011, and Mariana Brussoni and colleagues in Canada, in 2015",
+   "for": "Children who climb, use real tools and handle fire with care learn to judge danger for themselves. A review of studies in 2015 found that such play went with better health and more activity, and found no rise in serious injuries.",
+   "against": "The studies are mostly of outdoor play in rich countries. They cannot say how much risk is the right amount. Some injuries, such as to an eye, do not heal, so many doctors and schools prefer to stay on the cautious side.",
+   "status": "debated",
+   "context": "This view challenges the idea that the safest test is always the best one. It is here so that families think about what a child gains from handling a small, named risk."
+  },
+  {
+   "claim": "Hot water can freeze faster than cold water.",
+   "who": "Erasto Mpemba, a schoolboy in Tanzania, in 1963, who published it with the physicist Denis Osborne in 1969. Aristotle noted something like it in his Meteorology, book 1, chapter 12, in the 4th century BCE.",
+   "for": "Mpemba put a hot ice-cream mix in the freezer and saw the mix freeze before his classmates' cooler ones. His teacher laughed at him. He kept asking, and Osborne tested it and saw the same. In 2020 Avinash Kumar and John Bechhoefer in Canada showed a clear effect of this kind with a tiny glass bead cooling in water.",
+   "against": "In 2016 Henry Burridge and Paul Linden in Britain repeated the water test with great care and found no such effect. They showed that where the thermometer sits in the cup can create a false one. Nobody has an agreed explanation for water.",
+   "status": "debated",
+   "context": "This is a prediction almost everyone gets 'right' by common sense, that cold water freezes first, and yet careful people have reported the opposite. It shows why a result is judged by the test and not by who reports it."
+  },
+  {
+   "claim": "When ordinary people fear a risk more than experts do, the people are not simply mistaken. They are counting things that the experts' numbers leave out.",
+   "who": "Paul Slovic, an American psychologist, in the journal Science in 1987",
+   "for": "Experts usually count expected deaths in a year. Slovic found that other people also weigh whether a risk is chosen or forced on them, whether it is understood, whether it could harm many at once, and whether it falls on children. These are real features of a risk.",
+   "against": "Fears that ignore the numbers lead people to dread rare harms and overlook common ones, such as road accidents. Many safety scientists hold that spending should follow the count of lives saved.",
+   "status": "debated",
+   "context": "This view questions who gets to decide what counts as risky. It matters at home too: a child's worry about a test deserves an answer, not only a number."
+  }
+ ],
+ "big_questions": [
+  {
+   "q": "A knife is a hazard in a drawer and in a hand, yet the risk is different. So where is the danger: in the knife, in the person, or somewhere between them?",
+   "kind": "deep",
+   "hint": "Try changing only one of them at a time in your mind, and see if the danger changes."
+  },
+  {
+   "q": "Your two hands disagreed about the same bowl of water, and the thermometer gave one number. Does that make the thermometer right and your hands wrong?",
+   "kind": "deep",
+   "hint": "Ask what each of them was built to report, and what the number leaves out."
+  },
+  {
+   "q": "You moved the cup away from the table's edge and nothing was spilled. How can you ever know if moving the cup was what kept you safe?",
+   "kind": "deep",
+   "hint": "Think about what you would have to compare, and if you could ever see the thing that did not happen."
+  },
+  {
+   "q": "If a prediction comes true, does that prove the reason behind it was right?",
+   "kind": "deep",
+   "hint": "Think of someone who predicts rain because a crow cawed, on a day when it then rains."
+  },
+  {
+   "q": "Who should decide how much risk is acceptable in a test: the person doing it, the person who could be hurt, or someone who knows the numbers?",
+   "kind": "big",
+   "hint": "Think of a case where these are three different people, and what each one knows that the others do not."
+  },
+  {
+   "q": "A snail, a plant or an ant cannot be asked if they agree to be in your test. Does that change what you may do?",
+   "kind": "big",
+   "hint": "Think about how you would want a being much bigger than you to decide about you."
+  },
+  {
+   "q": "Marie Curie's work harmed her, and it also led to treatments that have saved many lives. Was the risk worth it, and who gets to say?",
+   "kind": "big",
+   "hint": "Notice that she did not know the risk, and ask if that changes your answer."
+  },
+  {
+   "q": "If the world could be predicted perfectly, would your own choices be predicted too?",
+   "kind": "big",
+   "hint": "Think about what happens if someone tells you their prediction of what you will do next."
+  },
+  {
+   "q": "The sun has risen every day so far. Is that a good reason to predict that it will rise tomorrow, and can you say why without using the past again?",
+   "kind": "deep",
+   "hint": "Try to give a reason, then check if your reason quietly assumes that the future will be like the past."
+  }
+ ],
+ "story": {
+  "title": "Two Forecasts on Pamban Shore",
+  "mins": 9,
+  "read_aloud": true,
+  "note": "A made-up story. The people are imagined. What is real: on the coast of Ramanathapuram district in Tamil Nadu, near Pamban and Rameswaram, women dive for seaweed around the small islands of the Gulf of Mannar, wearing goggles and wrapping cloth round their fingers against sharp rock. The numbers in the story are invented for the story.",
+  "text": [
+   "The boat was pulled half out of the water, and the sky over Pamban was still grey. Selvi, who was nine, sat on the edge of the boat with her school notebook. Her grandmother Muniyammal was winding strips of old sari cloth round each finger.",
+   "'Why the cloth, paatti?' asked Selvi, though she had asked before.",
+   "'Because the rock where the seaweed grows is sharp, and I need my fingers tomorrow also,' said Muniyammal. She held up her swimming goggles and looked at the strap. She pulled it twice and frowned. 'This one is tired.' She took a second pair from the bag. 'A diver with water in her eyes is a diver who cannot see the rock.'",
+   "Selvi's cousin Anthony, who was eleven, came down the sand with his phone held high. 'The weather office says wind from the north-east, 15 kilometres an hour now, 30 by two o'clock. Sea rough after two.'",
+   "Muniyammal did not look at the phone. She looked at the water for a long time. She watched how the waves folded over near the island, and which way the foam was dragged. 'The pull between the islands will turn before noon,' she said. 'When it turns, it runs hard out to the open side. We come up before that. The wind I do not know. It smells like any morning.'",
+   "'Two forecasts,' said Selvi. Her teacher had said that a prediction must be written before the test. She wrote on a clean page. Paatti: the current turns before 12. Phone: wind 30 by 2 o'clock. Paatti says nothing about the wind. The phone says nothing about the current.",
+   "Anthony laughed. 'You are marking paatti like an exam.'",
+   "'I am marking the phone also,' said Selvi.",
+   "Four women went out in the boat, and Selvi and Anthony went with them to mind the rope. At the island the divers slid into the water with their net bags. Selvi tied a coconut husk to a string and let the husk float beside the boat. For two hours the husk hung lazily on the island side.",
+   "At twenty minutes to twelve the string went tight. The husk swung round and pointed to the open sea. Selvi wrote: 11.40. She banged the side of the boat with the oar, three times, as she had been told. One by one the heads came up.",
+   "They were on the sand by half past twelve, with the bags only three-quarters full. Kaliammal, one of the divers, was not pleased. 'Another hour and my bag was full. The sea is like a plate.'",
+   "It was. At one o'clock the sea was a plate. At two o'clock Anthony held up a strip of cloth and counted how it flapped. 'This is not 30,' he said. 'This is nothing.' At three, the palm leaves began to hiss, and by four the waves were white all the way to the island.",
+   "Selvi marked her page. Paatti's current: predicted before 12, came at 11.40. Close. Phone's wind: predicted 2, came about 4. Two hours late, but it came.",
+   "'So paatti wins,' said Anthony.",
+   "'Paatti wins on the current,' said Selvi. 'She had nothing to say on the wind. The phone has never put its hand in this water. Paatti has, for forty years. The phone has watched the whole sky from far above, and she has not.' She chewed her pencil. 'Each one is good exactly where it has looked.'",
+   "Muniyammal was unwinding the cloth from her fingers. There was not one cut on them.",
+   "Kaliammal was still counting her loss. 'We came up at 11.40, and for four hours nothing happened. We could have stayed.'",
+   "'Could we?' said Muniyammal. 'You were on the open side. Did you feel the pull when you came up?'",
+   "Kaliammal said nothing for a moment. 'A little,' she said.",
+   "Selvi looked at her page. There was a line on it for what was predicted, and a line for what happened. There was no line for what would have happened if they had stayed. She did not know what to write there. Nobody did."
+  ],
+  "epiphany": "A prediction is only as good as what its maker has watched. Selvi could mark the two forecasts because she wrote both down first and judged them by the sea, not by who made them. But she could not mark the safety. When a danger is avoided, the harm that did not happen leaves nothing to measure.",
+  "ask": [
+   "Muniyammal's fingers had no cuts. Is that evidence that the cloth worked? What else would you need to know?",
+   "The phone was two hours late about the wind. Would you call that prediction accurate? What would your answer depend on?",
+   "Was coming up at 11.40 the right choice, even though nothing went wrong afterwards? How could anyone tell?"
+  ],
+  "art": [
+   "An older woman on a beach at dawn winding strips of cloth round her fingers, with swimming goggles and a net bag beside a small boat.",
+   "A girl in a boat watching a coconut husk on a string swing round to point at the open sea, with a notebook on her knee.",
+   "A notebook page with two forecasts and two results, and one empty line at the bottom."
+  ]
+ },
+ "how_we_found_out": {
+  "story": "For most of history, people who were hurt at work were said to be unlucky or careless. Sickness from a trade was treated as part of the trade. It fitted what everyone saw: miners coughed, potters shook, and it had always been so. In the year 1700 an Italian doctor, Bernardino Ramazzini, published a book on the diseases of workers. He had gone into workshops and asked a question doctors did not ask: 'What is your work?' He matched each trade to its own illness. So the harm had causes, and causes can be changed. In 1910 the American doctor Alice Hamilton went from factory to factory in the state of Illinois, and to workers' homes, tracing lead poisoning. Owners told her that the workers were to blame for not washing. She showed that the lead dust in the air was to blame. In the 1920s the radium dial painters proved in court that their employer had known the danger and had hidden it. Out of work like this came the modern rule that risks are named before work starts, and that the person in charge must reduce them.",
+  "who": "Bernardino Ramazzini, Alice Hamilton, Grace Fryer and the radium dial painters, Harrison Martland",
+  "when": "1700 to 1928",
+  "wrong_idea": "Accidents and work sicknesses are bad luck or the worker's own carelessness, so nothing can be planned. It was believable because each injury looked like a separate event, until people counted them and found that the same work gave the same harm again and again."
+ },
+ "roots": {
+  "context": "You have chosen tools, named risks, written a prediction and checked it against the result. Now we ask what it means that a prediction can come true at all, and what that tells us about ourselves and the world.",
+  "deep_truth": {
+   "truth": "You wrote a number in your notebook before the sugar touched the warm water. Then the water gave a number of its own, and the two were close. You built your number from water you had watched earlier. So a pattern from the world was already at work in your thinking. Where your number missed, your thinking had not yet met that part of the world.",
+   "habit": "We speak of 'my mind in here' and 'the world out there', as if a prediction were made in one place and tested in another, separate place. That split makes a correct prediction look like a lucky match between two strangers.",
+   "evidence": "In the dissolving test, your prediction for warm water came from your own results for cold water and room-warm water. The closer you had watched those two, the closer the prediction came. A prediction for something you had never watched at all would have been a blind guess."
+  },
+  "three": {
+   "who_am_i": "You are someone who expects. Every step you take predicts that the floor will hold, and every sip predicts the taste. When a prediction of yours comes true, something of the world's pattern is living in you. So you are not looking in at the world through a window. You are a part of the world that has learned how other parts behave.",
+   "what_is_life": "Every living being predicts. A sunflower bud faces east before dawn, expecting the Sun. A crow drops a nut on the road and waits for a wheel. A being who expects wrongly gets a surprise, and learns or suffers. Life can be seen as matter that has learned to expect, and to lower its own risks.",
+   "what_is_this_world": "The world can be predicted in part. The tide keeps its table, and sugar keeps its habit in warm water. No one knows why the world has patterns that a mind can hold. The world also keeps surprises, such as tomorrow's cloud. A world with both pattern and surprise is one you can learn from and never finish learning."
+  },
+  "thread": "A risk and a prediction are the same act looked at from two sides. Both are a mind running ahead of the present moment, using patterns it took in earlier. This can happen only if the one who knows and the thing known are made to the same pattern. Consciousness is the ground from which both arise, so a true prediction is that one ground recognising its own ways. Many scientists explain the match differently: brains were shaped over millions of years by the world they had to survive in. Both accounts agree on the plain fact you tested. You come to know by attending closely, and you come to know only what you have attended to.",
+  "teachings": [
+   {
+    "source": "Bhagavad Gita, chapter 2, verse 47",
+    "teaching": "Your right is to the work itself, and never to its fruits. Do not let the result be your reason for acting, and do not fall into doing nothing.",
+    "link": "In practical work you control the choosing, the care and the doing. The result belongs to the world, and comes out as it comes. The verse and the notebook agree on one point: do the work fully, write the prediction honestly, and then accept the answer that arrives."
+   },
+   {
+    "source": "The Kalama Sutta, Anguttara Nikaya 3.65",
+    "teaching": "The Buddha told the Kalama people not to accept a teaching because it is repeated, or is in a scripture, or comes from a respected teacher. When you know for yourselves that a thing leads to harm, give it up. When you know for yourselves that it leads to good, take it up.",
+    "link": "This is the rule Selvi follows in the story when she marks her grandmother and the phone in the same way. A prediction is judged by what happens and not by who made it. The sutta is about how to live, and the lesson borrows only its method."
+   },
+   {
+    "source": "Zhuangzi, chapter 3, the story of Cook Ding, from China, about the 4th century BCE",
+    "teaching": "Cook Ding has used one knife for nineteen years and its edge is still like new. He explains that he no longer hacks. He lets the blade follow the natural gaps in what he is cutting.",
+    "link": "A tool used the right way works with the thing and not against it. The eye at the level of the water line and the ruler's zero on the edge of the leaf are small cases of the same fit between a hand, a tool and the world."
+   }
+  ],
+  "science": [
+   {
+    "text": "Several brain scientists, among them Karl Friston and Anil Seth, propose that a brain's main work is predicting what the senses will report next, and correcting itself when it is surprised. On this account, seeing and hearing are themselves predictions that are being checked.",
+    "status": "idea"
+   },
+   {
+    "text": "Plants act ahead of events. Young sunflowers turn back to face east during the night, before the Sun rises, and keep doing so for a few days even under a lamp that does not move. Hagop Atamian and colleagues reported this in the journal Science in 2016.",
+    "status": "settled"
+   }
+  ],
+  "other_view": {
+   "who": "The Charvaka thinkers of ancient India, as reported in Madhava's Sarvadarshanasangraha, chapter 1, of the 14th century CE, and the Scottish philosopher David Hume in 1748",
+   "view": "Only what is directly seen is certain. A prediction rests on the belief that tomorrow will be like yesterday, and nothing can prove that belief without using it. So a match between prediction and result shows a habit of the mind that has worked so far. It does not show any deep fit between mind and world."
+  },
+  "practice": {
+   "title": "One breath of prediction",
+   "mins": 3,
+   "say": "Sit comfortably and close your eyes. Before you breathe in, guess how many slow counts your next breath out will last. Hold the number in your mind. Now breathe in, and breathe out slowly while I count. Was your guess close? Do it twice more. Notice the small moment of waiting between the guess and the answer. Notice who made the guess, and who gave the answer.",
+   "kid": "Sit still and close your eyes. Guess how many slow counts your next breath out will last. Breathe in, then breathe out slowly and count. Was your guess close? Try it three times. Each time, notice the moment between your guess and your body's answer."
+  },
+  "ask": [
+   "Your body made the breath, and your mind made the guess about it. Are those two different makers, or one?",
+   "When your prediction is wrong, is the surprise in the world or in you?",
+   "A sunflower turns east before the Sun is up. Is the sunflower predicting? What would you look for to decide?"
+  ],
+  "art": "A child with closed eyes and a number floating above her head, and beside her a young sunflower already facing a dark eastern horizon."
+ },
+ "open_questions": [
+  {
+   "q": "Why can the world be predicted at all?",
+   "why_open": "Science finds patterns and uses them, but has no agreed account of why nature keeps to patterns that minds and mathematics can capture. The physicist Eugene Wigner called this an unreasonable effectiveness in 1960. Some think the answer lies in how minds evolved, some in the nature of mathematics, and no test has yet decided it."
+  },
+  {
+   "q": "Is the future already fixed by the present, or is some of it truly open?",
+   "why_open": "Chaos shows that we cannot predict some things in practice, which is a different matter from their being open. Quantum physics seems to show events without a deciding cause, but physicists still disagree about how to read it. No experiment so far settles the question."
+  },
+  {
+   "q": "Does hot water ever really freeze faster than cold, and if so, why?",
+   "why_open": "Careful tests on water disagree with each other, and the effect, where reported, depends on the cup, the freezer and where the thermometer sits. An effect of this kind has been shown in other, simpler systems. For water there is no agreed result and no agreed explanation."
+  },
+  {
+   "q": "How safe is safe enough?",
+   "why_open": "Measuring a risk is science. Deciding that a measured risk is acceptable is a judgement about what people value, and people value different things. No measurement can make that choice for them."
+  },
+  {
+   "q": "Do all living beings predict, and is predicting the same thing in a plant, an ant and a person?",
+   "why_open": "Plants and many animals clearly act ahead of events. Scientists disagree on what to call this and on how it is done in beings with very different bodies. The idea that predicting is the main work of every brain is still a proposal being tested."
+  }
+ ],
+ "sources": {
+  "founder": [],
+  "science": [
+   "Sushruta Samhita, Sutrasthana chapters 7 to 9, in the English translation by Kaviraj Kunja Lal Bhishagratna, 1907",
+   "Charaka Samhita, Sutrasthana chapter 11 and Vimanasthana chapter 8",
+   "Nyaya Sutra 1.1.5 with Vatsyayana's Bhashya, in the translation by Ganganatha Jha",
+   "John Locke, An Essay Concerning Human Understanding, 1690, book 2, chapter 8, section 21",
+   "Haynes, Weiser, Berry, Gawande and others, 'A surgical safety checklist to reduce morbidity and mortality in a global population', New England Journal of Medicine, 2009",
+   "Urbach, Govindarajan, Saskin and others, 'Introduction of surgical safety checklists in Ontario, Canada', New England Journal of Medicine, 2014",
+   "Russell and Burch, The Principles of Humane Experimental Technique, 1959",
+   "Rio Declaration on Environment and Development, 1992, Principle 15",
+   "Starr, 'Social benefit versus technological risk', Science, 1969",
+   "Sandseter and Kennair, 'Children's risky play from an evolutionary perspective', Evolutionary Psychology, 2011",
+   "Brussoni and others, 'What is the relationship between risky outdoor play and health in children? A systematic review', International Journal of Environmental Research and Public Health, 2015",
+   "Slovic, 'Perception of risk', Science, 1987",
+   "Fischhoff, 'Hindsight is not equal to foresight', Journal of Experimental Psychology, 1975",
+   "Mpemba and Osborne, 'Cool?', Physics Education, 1969",
+   "Burridge and Linden, 'Questioning the Mpemba effect', Scientific Reports, 2016",
+   "Kumar and Bechhoefer, 'Exponentially faster cooling in a colloidal system', Nature, 2020",
+   "Lorenz, 'Deterministic nonperiodic flow', Journal of the Atmospheric Sciences, 1963",
+   "Atamian and others, 'Circadian regulation of sunflower heliotropism, floral orientation, and pollinator visits', Science, 2016",
+   "Kate Moore, The Radium Girls, 2017, for the dial painters' case",
+   "India Meteorological Department, report on Very Severe Cyclonic Storm Phailin, 2013"
+  ]
+ },
+ "playtest": "Main hands-on investigation, to be written under this name: 'The dissolving-time test: choose your tools, name the risks, predict, then judge your prediction'. The child measures how long one level teaspoon of sugar takes to dissolve in cold water and in room-warm water, with the same stirring. From those two results the child predicts the time for warm tap water, writes the prediction, tests three times and compares the miss with the spread. A second round predicts for an unfamiliar solid, rock salt or powdered jaggery. Warm tap water only, never boiling, poured by a grown-up, in steel or plastic on a tray. The roots, the summary and the deep truth refer to this test, so keep its shape. A short second activity the cards rely on: the three bowls of water for the two hands. Facts a reviewer must verify: the Sushruta Samhita chapter numbers (Sutrasthana 7 for instruments and the hand, 9 for practice on gourds) and the hair-splitting sharpness line (Sutrasthana 8). Charaka Samhita Sutrasthana 11 for the four ways of knowing and the crop example of yukti, and Vimanasthana 8 for ordered examination. Nyaya Sutra 1.1.5 and the cloud example in Vatsyayana. Locke's two-hands passage. Boeing Model 299 crash, October 1935. WHO checklist figures: 19 items, 8 hospitals including one in New Delhi, deaths 1.5 per cent to 0.8 per cent. Urbach 2014: 101 hospitals. Scheele died 1786 aged 43. Curie's notebooks in lead-lined boxes at the Bibliothèque nationale de France. Grace Fryer and four others sued in 1927. Mendeleev's 5.9 and Lecoq de Boisbaudran's first 4.7 for gallium. India Meteorological Department monsoon forecast error of about plus or minus 5 per cent. Cyclone Phailin: about a million moved, a few dozen deaths, about 10,000 deaths in 1999, and Mrutyunjay Mohapatra's role. Lorenz's 0.506 and 0.506127 in 1961. Neptune 1846, Vulcan, Einstein 1915. Popper 1934, Duhem 1906, Lakatos 1970. Mozi's three tests. Ibn al-Haytham about 1021 CE. Acharanga Sutra 1.4.1. Zhuangzi chapter 3. Sunflower study, Science 2016. Alice Hamilton's Illinois survey, 1910. Ramazzini's book, 1700. The deep truth was not compared with other lessons' deep truths, because this helper was told to make no other tool calls: run deep_truths.py and check. The founder's notes and the Combined lessons were not searched for the same reason, so sources.founder is empty. Words that need flashcards, in the order met: practical work, equipment, quantity, length, volume, mass, temperature, millilitre, smallest mark, zero mark, eye level, reading, thermometer, stopwatch, senses, compare, hazard, risk, harm, likely, risk assessment, remove, swap, barrier, protection, hierarchy of controls, spill, scald, checklist, radioactive, acceptable risk, precaution, living being, prediction, reason, inference, familiar, unfamiliar, dissolve, result, difference, accuracy, hindsight, spread, forecast, miss, assumption, chaos."
+}

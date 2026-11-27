@@ -522,14 +522,14 @@ Today, laboratories all over the world still use her jelly. When a doctor in Che
 ## Worksheets
 ### Trillions of cells and their guests (core) (core, 15 questions)
 1. (mcq) About how many cells of their own does a ten-year-old have?  
-   Options: About 17 thousand / About 17 million / About 17 billion / About 17 trillion  
+   Options: About 17 thousand / About 17 million / About 17 trillion / About 17 billion  
    **Answer:** About 17 trillion. *Why:* About 17 trillion, which is 17 lakh crore. Choosing a smaller number is common, because trillions are hard to picture.
 2. (truefalse) True or false: scientists found the number of cells in a body by counting each one.  
    **Answer:** False. *Why:* False. They count the cells in small samples of each tissue and multiply. The answer is an estimate.
 3. (fill) A small part that you count, so that you can work out the whole, is called a ____.  
    **Answer:** ['sample']. *Why:* A sample. In Count Without Counting, one level spoon of chana was the sample.
 4. (mcq) Which kind of cell do you have the most of, by number?  
-   Options: Skin cells / Muscle cells / Red blood cells / Nerve cells  
+   Options: Red blood cells / Skin cells / Muscle cells / Nerve cells  
    **Answer:** Red blood cells. *Why:* About 84 in every 100 of your own cells are red blood cells. Skin and muscle are what we see and feel, so they are common guesses.
 5. (write) Give one piece of evidence that a single cell in your body is alive.  
    **Answer:** Cells taken from a body can live, feed and divide in a dish. A white blood cell crawls after a bacterium and swallows her. Heart cells in a dish keep beating.. *Why:* A strong answer names something the cell does on her own, such as feeding, moving, sensing or dividing.
@@ -547,7 +547,7 @@ Today, laboratories all over the world still use her jelly. When a doctor in Che
 11. (match) Match each word to what it means.  
    **Answer:** Microbiome → all the microbes living on and in a body; Plaque → the soft coat of bacteria on teeth; Fibre → plant food that only gut microbes can break down; Capillary → the thinnest kind of blood tube; Estimate → an answer worked out from measurements. *Why:* These words are used all through the unit. A strong answer could give an example of each.
 12. (mcq) In the Morning Coat test, where does the colour usually show first?  
-   Options: On the flat middle of each tooth / Along the gums and between teeth / Only on the back teeth / On the tongue only  
+   Options: On the flat middle of each tooth / Only on the back teeth / Along the gums and between teeth / On the tongue only  
    **Answer:** Along the gums and between teeth. *Why:* The brush, tongue and cheeks reach the gum line and the gaps least, so more bacteria are left there to multiply.
 13. (draw) Draw one front tooth the morning after brushing. Shade where the bacteria coat is thickest.  
    **Answer:** A tooth shape with shading in a band along the gum edge and up the two sides, and a clean middle.. *Why:* A strong drawing puts the shading at the gum line and the sides. Shading the whole tooth evenly shows the coat as dirt that settles, and not as something that grows from sheltered places.
@@ -558,7 +558,7 @@ Today, laboratories all over the world still use her jelly. When a doctor in Che
    **Answer:** They break down fibre that our own cells cannot digest. They make some vitamin K. They take up space and food, so harmful microbes find it hard to settle.. *Why:* Any two of these are right. A strong answer says how we know, for example from germ-free mice.
 ### Doubling, turnover and the body's guests (stretch) (stretch, 15 questions)
 1. (mcq) After 20 doublings, one cell has become about how many cells?  
-   Options: About 40 / About 400 / About a million / About a trillion  
+   Options: About 40 / About a million / About 400 / About a trillion  
    **Answer:** About a million. *Why:* Ten doublings make about a thousand. Ten more multiply that by a thousand again, which is about a million. Choosing 40 means adding 2 each time, where the number doubles.
 2. (truefalse) True or false: 44 doublings are enough to turn 1 cell into more than 17 trillion.  
    **Answer:** True. *Why:* True. 2 multiplied by itself 44 times is about 17.6 trillion.
@@ -569,7 +569,7 @@ Today, laboratories all over the world still use her jelly. When a doctor in Che
 5. (order) Put these cells in order, from the shortest life to the longest.  
    **Answer:** ['A gut lining cell', 'A red blood cell', 'A nerve cell in the outer brain']. *Why:* A gut lining cell lasts a few days, a red blood cell about four months, and most nerve cells of the outer brain last a lifetime.
 6. (mcq) 38 trillion bacteria weigh only about 200 grams. Why so little?  
-   Options: Bacteria are mostly air / A bacterium is far smaller than a human cell / They live in the gut, so they float / Scales do not measure living things  
+   Options: A bacterium is far smaller than a human cell / Bacteria are mostly air / They live in the gut, so they float / Scales do not measure living things  
    **Answer:** A bacterium is far smaller than a human cell. *Why:* A bacterium is about ten times smaller across than one of your cells. That makes her about a thousand times smaller in volume.
 7. (sort) Sort each one: is it one of your own living cells, or a living guest?  
    **Answer:** a red blood cell → My own living cell; a bacterium in plaque → A living guest; a nerve cell → My own living cell; a yeast on the scalp → A living guest; a gut lining cell → My own living cell; a bacterium breaking down fibre → A living guest. *Why:* Your own cells all grew from your first cell and share her instructions. Guests have instructions of their own.
@@ -589,13 +589,13 @@ Today, laboratories all over the world still use her jelly. When a doctor in Che
    Options: Measuring the large intestine's real size / Counting human cells more carefully / Repeating the old number in more books / Checking where the number came from  
    **Answer:** 2. *Why:* Repeating a number does not check it. The other three are what Rosner, Bianconi, Sender, Fuchs and Milo did.
 15. (mcq) A heaped spoon is counted, then multiplied by the number of level spoons. The estimate will be:  
-   Options: Too big / Too small / Exactly right / Impossible to work out  
+   Options: Too small / Exactly right / Impossible to work out / Too big  
    **Answer:** Too big. *Why:* A heaped spoon holds more than a level one, so every spoon is counted as fuller than it was. The estimate comes out too big.
 ### One being or many? (challenge) (challenge, 15 questions)
 1. (write) One spoon holds 27 chana, and 13 spoons fill a tumbler. Estimate the total. Why may it not be exact?  
    **Answer:** 27 multiplied by 13 is 351. It may not be exact because each spoonful differs by a few chana, and the last spoon may not have been full.. *Why:* A strong answer gives the sum and at least one real source of error.
 2. (mcq) Two careful teams estimate a grown-up's cells as 30 trillion and 36 trillion. What is the best conclusion?  
-   Options: One team made a mistake / Nobody knows anything / The true number is near those values / The body changed between studies  
+   Options: One team made a mistake / The true number is near those values / Nobody knows anything / The body changed between studies  
    **Answer:** The true number is near those values. *Why:* Estimates made in different ways never agree exactly. When they land close together, we can trust the rough size. Choosing 'a mistake' treats an estimate as if it were an exact count.
 3. (truefalse) True or false: most of your weight comes from the kind of cell you have most of.  
    **Answer:** False. *Why:* False. Most of your cells are red blood cells, but most of your weight is muscle and fat. One muscle cell is thousands of times bigger than a red blood cell.
@@ -606,7 +606,7 @@ Today, laboratories all over the world still use her jelly. When a doctor in Che
 6. (order) Put these in order, from the smallest number to the biggest.  
    **Answer:** ['People on Earth', 'Cells in a ten-year-old', 'Bacteria in one grown-up', 'Bacteria on the whole Earth']. *Why:* About 8 billion people, 17 trillion cells, 38 trillion bacteria in one grown-up, and about 1 followed by 30 zeros bacteria on Earth.
 7. (mcq) Mice raised with no microbes at all need more food to keep their weight. What does that suggest?  
-   Options: Microbes steal food from ordinary mice / Microbes help to get energy from food / Germ-free mice run about more / Food is worse in clean cages  
+   Options: Microbes steal food from ordinary mice / Germ-free mice run about more / Food is worse in clean cages / Microbes help to get energy from food  
    **Answer:** Microbes help to get energy from food. *Why:* Gut microbes break down fibre that the mouse cannot digest, and the mouse takes in what they make. Without them, some of the food is wasted.
 8. (truefalse) True or false: gut microbes help us because they want to be kind to us.  
    **Answer:** False. *Why:* False, as far as anyone can tell. They feed themselves, and what they leave over is useful to us. Both sides gain, and neither has to intend it.
@@ -633,10 +633,10 @@ Today, laboratories all over the world still use her jelly. When a doctor in Che
 
 ## Quiz
 1. (mcq) How do scientists know roughly how many cells are in a body?  
-   Options: They count every cell / They count samples and multiply / They weigh one cell / They guess  
+   Options: They count samples and multiply / They count every cell / They weigh one cell / They guess  
    **Answer:** They count samples and multiply. *Why:* They measure the cells in small samples of each tissue and multiply by how much tissue there is. Choosing 'guess' mixes up a guess and an estimate.
 2. (mcq) Which is the best evidence that one cell is alive on her own?  
-   Options: Cells are very small / Cells have a skin / A cell can live and divide in a dish / Cells are packed in rows  
+   Options: A cell can live and divide in a dish / Cells are very small / Cells have a skin / Cells are packed in rows  
    **Answer:** A cell can live and divide in a dish. *Why:* A cell that feeds and divides away from the body is clearly alive on her own. Being small or having a skin is true of some non-living things too.
 3. (mcq) You have about 17 trillion cells. About how many doublings from one cell would make that many?  
    Options: 44 / 440 / 17,000 / 17 trillion  
@@ -644,24 +644,24 @@ Today, laboratories all over the world still use her jelly. When a doctor in Che
 4. (truefalse) True or false: an elephant is bigger than a mouse mainly because her cells are bigger.  
    **Answer:** False. *Why:* False. Their cells are close to the same size. The elephant has far more of them.
 5. (mcq) A grown-up's body makes billions of new cells every day. Which cells make up most of them?  
-   Options: Brain cells / Blood cells and gut lining cells / Bone cells / Heart cells  
+   Options: Brain cells / Bone cells / Heart cells / Blood cells and gut lining cells  
    **Answer:** Blood cells and gut lining cells. *Why:* Blood cells and gut lining cells wear out fastest, so they are replaced most. Most brain and heart cells stay for many years.
 6. (mcq) About how many bacteria does a grown-up carry, compared with their own cells?  
-   Options: Almost none / About as many / Ten times as many / A thousand times as many  
+   Options: Almost none / Ten times as many / A thousand times as many / About as many  
    **Answer:** About as many. *Why:* About 38 trillion bacteria beside about 30 trillion human cells. 'Ten times as many' was believed for forty years and was shown wrong in 2016.
 7. (mcq) What do gut bacteria feed on that your own cells cannot digest?  
-   Options: Fibre / Water / Sugar / Salt  
+   Options: Water / Fibre / Sugar / Salt  
    **Answer:** Fibre. *Why:* Fibre from plants. The bacteria break it into small molecules, and some of these feed the cells of your gut wall.
 8. (mcq) Clean teeth took colour again after one night with no food. Why?  
-   Options: Bacteria in the mouth divided / The colour came back by itself / Teeth grow a new layer nightly / Water left a stain  
+   Options: The colour came back by itself / Teeth grow a new layer nightly / Water left a stain / Bacteria in the mouth divided  
    **Answer:** Bacteria in the mouth divided. *Why:* A few bacteria stay after any brushing. Each divides into two again and again, and by morning their families make a coat that takes the colour.
 9. (truefalse) True or false: a body with no microbes at all would be healthier.  
    **Answer:** False. *Why:* False. Germ-free mice need more food, need added vitamin K and fight infection poorly.
 10. (mcq) Which is a fair reason to say you are one organism and not a community?  
-   Options: Your microbes weigh very little / Your own cells share one set of instructions / Microbes are too small to matter / You were born alone  
+   Options: Your own cells share one set of instructions / Your microbes weigh very little / Microbes are too small to matter / You were born alone  
    **Answer:** Your own cells share one set of instructions. *Why:* All your own cells came from one fertilised egg and carry the same instructions, and the microbes carry their own. This is evidence for one side of a real debate.
 11. (mcq) Why did the 'ten to one' number last for forty years?  
-   Options: It was correct until 2016 / People repeated it without checking the working / Nobody was interested / Bodies have changed since  
+   Options: It was correct until 2016 / Nobody was interested / Bodies have changed since / People repeated it without checking the working  
    **Answer:** People repeated it without checking the working. *Why:* The number was copied from book to book. When the working was checked, a wrong size for the gut was found. A number is only as good as its working.
 
 ## Applications

@@ -1,0 +1,832 @@
+{
+ "id": "sci.community.caring-for-others.L2",
+ "title": "Caring for people who need help: ramps, aids, and how to offer help with respect",
+ "level": 2,
+ "summary": {
+  "text": "A girl in a wheelchair reaches a doorway with one step. She cannot get in. Is the trouble in her legs, or in the step? In this lesson you test how a ramp makes a climb easier, and you meet the tools that help people see, hear and move. You find out how to offer help so that the other person stays in charge. You also ask why humans and other animals look after their old, their sick and their hurt at all.",
+  "art": "A school doorway with one step, a girl in a wheelchair looking at it, and a wooden plank leaning against the wall nearby."
+ },
+ "intro": {
+  "hook": "Close one eye and keep your writing hand behind your back. Now open your water bottle and pour a drink. What was hard? What would have made it easier?",
+  "text": "For one minute your body worked differently, and an ordinary bottle became a problem. Perhaps you wished for a bottle with a flip top, or for someone to hold the cup. Many people live every day with a body or mind that works differently from most. Old people and sick people meet the same kind of trouble. Today you find out what really helps, and what only looks like help.",
+  "art": "A child with one arm behind the back, gripping a water bottle between the knees and twisting the cap with one hand."
+ },
+ "outcomes": [
+  "I can say that everyone needs help at some time in life, and give three examples.",
+  "I can explain how a ramp lets a wheelchair go where a step stops it, and why a longer ramp is easier.",
+  "I can name four aids, such as Braille, a white cane, a hearing aid and the Jaipur Foot, and say what each does.",
+  "I can show how to offer help: ask first, listen, and do what the person says.",
+  "I can say what dignity means and give one way to respect it.",
+  "I can give two ways to care for an old person and two ways to care for a sick person.",
+  "I can give three ways to care for animals, and say why they need care.",
+  "I can tell one way that a ramp or other aid made for some people turns out to help everybody."
+ ],
+ "explanations": [
+  {
+   "concept": "Everyone needs help at some time in life",
+   "status": "defined",
+   "definition": "To need help is to be unable to do something alone that one needs to do. Every person is in this position as a baby, when ill or hurt, and usually in old age.",
+   "description": "When you were a baby, you could not feed yourself, walk or keep yourself clean. Someone did all of it for you. Last time you had a fever, someone brought you water. If you break an arm, someone will button your shirt. And if you live to be old, you may need a hand on the stairs. So needing help is not a rare thing that happens to a few unlucky people. It is part of every human life. Some people need a certain kind of help for a short time, and some for all their lives.",
+   "examples": [
+    "A person carrying a sleeping child and two bags needs a door held open.",
+    "A visitor from another state who cannot read the bus board needs someone to read it.",
+    "A newborn calf is licked dry and nudged to stand by the mother."
+   ],
+   "perspectives": [
+    {
+     "who": "Eva Feder Kittay, a philosopher and the mother of a disabled daughter, in her book of 1999",
+     "explanation": "Everyone is 'some mother's child'. Every person alive was once kept alive by someone else's work. She argues that needing others is the normal human state, and standing alone is the short exception."
+    },
+    {
+     "who": "The usual picture in stories and advertisements",
+     "explanation": "The ideal person is strong and needs nobody, and people who need help are a separate group. This picture is common, and it leaves out everyone's babyhood, illnesses and old age."
+    }
+   ],
+   "art": "A line of one person at five ages: a baby being carried, a child with an arm in a sling, a grown-up carrying a parent's bag, and an old person holding an arm on the stairs.",
+   "context": "This card starts the lesson by showing that 'people who need help' includes every one of us."
+  },
+  {
+   "concept": "Bodies and minds come in many kinds, and about one person in six lives with a disability",
+   "status": "defined",
+   "definition": "A disability is a lasting difference in how a person's body, senses or mind work, which makes some everyday activities hard in the world as it is built.",
+   "description": "Some people cannot see, or see only a little. Some cannot hear. Some cannot walk, or have lost a hand or a leg. Some learn, speak or understand people in a different way. Some were born so, and others became so after an illness or an accident. The World Health Organization counted in 2022. About 130 crore people, one in every six on Earth, live with a disability that matters in daily life. India's 2011 census counted 2.68 crore. Many people who study this think the true number in India is far higher.",
+   "examples": [
+    "Wearing spectacles is so common that nobody calls it a disability, though without them many people could not read a board.",
+    "Avani Lekhara of Jaipur, who uses a wheelchair, won gold medals in shooting at the Paralympic Games of 2021 and 2024.",
+    "Not every disability can be seen. A person may look like everyone else and still find loud noise or a crowd very hard to bear."
+   ],
+   "perspectives": [],
+   "one_view": "These are counts. The counts differ because people disagree about what to count, and the next two cards take up that disagreement.",
+   "art": "A crowd of people in a market drawn from above, with one in every six shown in a brighter colour, some with a visible aid and some with none.",
+   "context": "This card says what a disability is and how many people it concerns."
+  },
+  {
+   "concept": "Which word is right: disabled, differently abled or divyang? People disagree",
+   "status": "debated",
+   "definition": "Several words are used in India for people with disabilities. The people described do not all prefer the same one.",
+   "description": "Words matter, because a word shows how you see a person. Old words such as 'handicapped' or 'lame' are hurtful and are no longer used. Your school book may say 'differently abled'. The Government of India has used 'divyang', meaning 'one with a divine body part', since 2016. India's law says 'persons with disabilities'. Many people say plainly 'disabled person'. Which is right? The people themselves do not agree. So the best rule is the simplest one. Use the person's name. If you need a word, use the word that person uses.",
+   "examples": [
+    "Many people who use sign language write Deaf with a capital D, to show they belong to a community with its own language.",
+    "A person who uses a wheelchair is a 'wheelchair user'. The chair is how that person gets about."
+   ],
+   "perspectives": [
+    {
+     "who": "Those who prefer 'differently abled' or 'divyang'",
+     "explanation": "These words look at what a person can do. They were chosen to be kind and to replace words that were used as insults."
+    },
+    {
+     "who": "Many disabled people's groups in India, including the National Platform for the Rights of the Disabled, in 2016",
+     "explanation": "They objected to 'divyang'. They said a sweet word changes nothing about the missing ramps and the missing jobs. It also suggests that disabled people are special beings, when they want to be treated as ordinary citizens."
+    },
+    {
+     "who": "People who choose 'disabled person'",
+     "explanation": "They say 'disabled' is a plain fact and nothing to hide. Many add that they are disabled by buildings and attitudes, and the word reminds everyone of that."
+    }
+   ],
+   "art": "Four name badges on a table, reading 'Divyang', 'Differently abled', 'Disabled person' and, in the largest letters, a person's own name, 'Nandini'.",
+   "context": "This card deals honestly with the words the child will meet, including the one in the school book."
+  },
+  {
+   "concept": "Is the problem in the person's body, or in the way the world is built?",
+   "status": "debated",
+   "definition": "The medical view says a disability is a fault in a body that medicine should mend. The social view says people are disabled by steps, attitudes and rules that were made without them in mind.",
+   "description": "Picture a woman who uses a wheelchair, at a shop with one step. She cannot enter. Why not? One answer: because her legs do not work. Another answer: because the shop has a step. Put a ramp there and she goes in like anyone else. Her legs are the same as before. In the 1970s disabled people in Britain said this clearly for the first time. They said, 'Our bodies are different. What shuts us out is how things are built.' Both views hold some truth, and people still argue about how much.",
+   "examples": [
+    "In a village where almost everyone knows some sign language, a deaf person can talk with anyone.",
+    "A left-handed child with right-handed scissors struggles. With left-handed scissors the trouble is gone.",
+    "If every door handle were two metres high, most adults would be 'disabled' and tall basketball players would not."
+   ],
+   "perspectives": [
+    {
+     "who": "Doctors, in the medical view",
+     "explanation": "Many conditions bring pain or illness that no ramp can remove. Medicine has given people eye operations, hearing aids, vaccines against polio and artificial limbs. Treating the body is real help."
+    },
+    {
+     "who": "The Union of the Physically Impaired Against Segregation in Britain, in 1976, and the writer Mike Oliver, a wheelchair user, who named the 'social model' in 1983",
+     "explanation": "A body's difference is one thing. Being shut out is another, and it is done by society. Change the buildings, the buses and the attitudes, and most of the disability goes."
+    },
+    {
+     "who": "Tom Shakespeare, a disabled scholar, in 2006",
+     "explanation": "Both are true together. Some difficulties come from the body and some from the world. A good society removes the barriers and also offers the medicine, and lets the person choose."
+    }
+   ],
+   "art": "The same woman in a wheelchair drawn twice at the same shop: once stopped at a step, once rolling in by a ramp, with a thought bubble asking 'What changed?'",
+   "context": "This card gives the central idea of the lesson: a 'cannot' may sit in the building and not in the person."
+  },
+  {
+   "concept": "A ramp turns one hard lift into a long, gentle push",
+   "status": "defined",
+   "definition": "A ramp is a sloping surface that joins a lower level to a higher one. The longer and gentler the slope, the smaller the push needed to go up it.",
+   "description": "To get a wheelchair up a step, you must lift the whole weight of the chair and the person straight up. That may be 80 kilograms. On a ramp you never lift it all at once. You push it along a slope, and the ramp carries most of the weight. You travel further, but each moment is easy. Make the ramp longer for the same height, and the push gets smaller still. A ramp gives you an easy push in exchange for a longer path.",
+   "examples": [
+    "Workers roll heavy drums up a plank into a lorry. They could not lift the drums straight up.",
+    "A road up to Ooty or Darjeeling winds back and forth. That makes the road longer and the climb gentle enough for a bus.",
+    "The builders of the great temple at Thanjavur, about 1,000 years ago, are thought to have hauled an 80-tonne capstone up a very long earth ramp."
+   ],
+   "perspectives": [],
+   "one_view": "How a slope reduces the push is measured physics. People who study machines call a ramp an 'inclined plane' and count it among the simple machines.",
+   "art": "A side view of a step with a short steep plank and a long gentle plank, a loaded cart on each and a big arrow and a small arrow for the push.",
+   "context": "This card explains the science of a ramp, which the child tests in the main investigation."
+  },
+  {
+   "concept": "A wheelchair ramp must rise no more than 1 for every 12 along",
+   "status": "defined",
+   "definition": "India's building guidelines say a ramp for wheelchair users should have a slope of 1 in 12 or gentler: for every 1 centimetre of height, at least 12 centimetres of length.",
+   "description": "How gentle is gentle enough? People tested it. A person turning the wheels with their own arms tires fast on a steep slope, and the chair can tip backwards. So India's guidelines give a number: 1 in 12. If a doorway is 30 centimetres above the road, the ramp must be at least 360 centimetres long. That is longer than a car. A steep ramp squeezed into a small space looks like help. For someone alone in a wheelchair, it can be as useless as stairs. A good ramp also has a handrail, a rough surface and a flat place to rest.",
+   "examples": [
+    "Two ordinary steps are about 30 centimetres high. Measure 360 centimetres on your floor to see how much room a proper ramp needs.",
+    "Many ramps outside shops in India rise about 1 in 3. Try pushing a loaded trolley up one."
+   ],
+   "perspectives": [],
+   "one_view": "The figure of 1 in 12 is written in India's Harmonised Guidelines for accessibility and in the rules of many other countries.",
+   "art": "A scale drawing of a ramp with a height of 1 block and a length of 12 blocks, a wheelchair user halfway up and a handrail along the side.",
+   "context": "This card gives the real number that decides if a ramp works, so the child can judge the ramps they see."
+  },
+  {
+   "concept": "The wheelchair was improved again and again by the people who used it",
+   "status": "defined",
+   "definition": "A wheelchair is a chair on wheels that a person moves by turning large hand rims, by a motor, or with a push from someone else.",
+   "description": "A wheel rolls, and rolling takes far less push than dragging. Put a chair on wheels and a person who cannot walk can travel. A stone carving from China, made about 1,500 years ago, shows a wheeled chair. In 1655 CE Stephan Farffler, a watchmaker in Germany who could not use his legs, built himself a chair that he drove with hand cranks. In 1933 Herbert Everest, an American engineer who had broken his back, built a light steel chair that folded to fit in a car, with his friend Harry Jennings. The people who needed the tool kept making it better.",
+   "examples": [
+    "The big wheel of a wheelchair has a second, smaller ring fixed to it. The user pushes this ring, so the hands stay clean.",
+    "Sports wheelchairs for basketball and tennis have wheels that lean inward, which lets them turn sharply without tipping."
+   ],
+   "perspectives": [],
+   "one_view": "These are recorded inventions. The oldest wheeled chairs are known only from pictures, so their dates are approximate.",
+   "art": "Three chairs in a row: an old carved Chinese wheeled chair, Farffler's three-wheeled hand-crank chair and a modern folding wheelchair.",
+   "context": "This card tells where the wheelchair came from and credits the users who invented it."
+  },
+  {
+   "concept": "A ramp made for wheelchairs helps almost everyone",
+   "status": "defined",
+   "definition": "Universal design means making buildings and things so that as many people as possible can use them from the start, without special arrangements.",
+   "description": "In 1972 students who used wheelchairs in Berkeley, a city in the USA, got the city to cut small slopes into the edges of its footpaths. Their leader was Ed Roberts. Then something happened that nobody had planned. Parents with prams used the slopes. So did people pulling suitcases, workers with handcarts, cyclists and old people with sticks. A change made for a few turned out to help most. Ronald Mace, an architect who used a wheelchair, gave this approach a name in the 1980s: universal design. Design for the person with the most difficulty, and it works for everyone.",
+   "examples": [
+    "At a railway station, count who uses the ramp or the lift in ten minutes. Most will not be in wheelchairs.",
+    "Words printed at the bottom of a video were made for deaf viewers. Now people use them in noisy buses and to learn languages.",
+    "A lever door handle, made for hands that cannot grip a round knob, can be opened with an elbow when your hands are full."
+   ],
+   "perspectives": [
+    {
+     "who": "Ronald Mace and designers who follow him",
+     "explanation": "Planning for everyone at the start costs little. Adding a ramp afterwards costs much more and often gives a poor ramp at the back door."
+    },
+    {
+     "who": "Some disabled writers, such as Aimi Hamraie in 2017",
+     "explanation": "Saying 'it helps everyone' can push disabled people out of the picture again. A ramp is owed to wheelchair users as a right, even if no one else ever used it."
+    }
+   ],
+   "art": "A footpath edge with a small slope, and a queue using it: a wheelchair user, a parent with a pram, a vegetable seller with a handcart and a child on a cycle.",
+   "context": "This card answers the board point about valuing ramps in schools and public places, and shows why they matter beyond wheelchairs."
+  },
+  {
+   "concept": "Braille lets fingers read, and it was invented by a blind boy of fifteen",
+   "status": "defined",
+   "definition": "Braille is a way of writing with raised dots that are read by touch. Each letter is a pattern of up to six dots in a cell small enough to fit under one fingertip.",
+   "description": "Run a finger over a strip of tablets from the chemist. You may feel small bumps. That is Braille, a way of writing for people who cannot see. Each letter is a pattern of raised dots in a small block, two dots wide and three dots high. Six dots can make 63 different patterns. That is enough for letters, numbers and music. Louis Braille of France lost his sight as a small child. In 1824, when he was fifteen, he worked out this system. Bharati Braille, agreed in 1951, uses the same six dots for the languages of India.",
+   "examples": [
+    "Lift buttons, medicine boxes and some ATM keys in India carry Braille.",
+    "Indian bank notes have raised marks near the edge, a different shape for each value, so that they can be told apart by touch.",
+    "A white cane swept ahead along the ground tells a blind walker about steps, poles and holes.",
+    "The yellow bumpy tiles on station platforms were invented by Seiichi Miyake in Japan in 1965. Feet and canes read them: lines mean 'go on' and dots mean 'stop, edge ahead'."
+   ],
+   "perspectives": [],
+   "one_view": "How Braille works and who made it are recorded facts. The story of how sighted teachers resisted it is told under 'How we found out'.",
+   "art": "A fingertip resting on a Braille cell drawn large, with the six dot positions numbered, beside a strip of tablets with Braille bumps.",
+   "context": "This card introduces aids for people who cannot see, starting with one the child can find at home."
+  },
+  {
+   "concept": "A sign language is a full language made with the hands, face and body",
+   "status": "defined",
+   "definition": "A sign language uses shapes and movements of the hands, together with the face and body, in place of spoken sounds. It has its own words and its own grammar.",
+   "description": "Many deaf people talk with their hands. For a long time, hearing people thought signing was only pointing and acting, a poor copy of speech. In 1960 William Stokoe studied American Sign Language closely. He showed that signs are built from parts, the way spoken words are built from sounds. A sign language can tell jokes, make poems and argue about anything. It is not the same everywhere. Indian Sign Language is different from American. Some deaf people also use a hearing aid, a small machine worn at the ear that makes sounds louder.",
+   "examples": [
+    "In Nicaragua in the 1980s, deaf children brought together in new schools made a new sign language among themselves within a few years. No adult taught it to them.",
+    "India set up a national centre for Indian Sign Language in New Delhi in 2015, and it has published a dictionary of thousands of signs.",
+    "Babies who see sign language from birth 'babble' with their hands."
+   ],
+   "perspectives": [
+    {
+     "who": "William Stokoe, and scientists of language after him",
+     "explanation": "Sign languages are complete human languages. The brain handles them in the same areas that handle speech."
+    },
+    {
+     "who": "Teachers at a meeting in Milan, Italy, in 1880",
+     "explanation": "They voted that deaf children should be taught only to speak and read lips, and signing was banned in many schools for about a hundred years. Almost all the voters could hear. Deaf adults today call this a great wrong that kept language from children."
+    }
+   ],
+   "art": "Two children signing to each other across a classroom, hands drawn in motion, with a third child watching and copying.",
+   "context": "This card introduces aids and language for people who cannot hear, and corrects the idea that signing is less than speech."
+  },
+  {
+   "concept": "Is deafness something to be fixed? Deaf people and doctors do not all agree",
+   "status": "debated",
+   "definition": "A cochlear implant is a device placed inside the ear by surgery that sends sound signals straight to the hearing nerve. Whether deaf children should receive one is debated within the Deaf community.",
+   "description": "Doctors can now put a small device inside the ear of a deaf child. With training, many such children learn to hear speech and to speak. To most hearing people this looks like a plain good. Many Deaf adults see it differently. They say, 'We are not broken. We have a language and a community. Why must our children be changed to fit yours?' Others in the same community welcome the device. Many families now choose both: the implant, and sign language as well.",
+   "examples": [
+    "A child with an implant hears something, but not what a hearing child hears, and needs years of practice.",
+    "Some Deaf parents are glad when their baby is born deaf, because the child will share their language."
+   ],
+   "perspectives": [
+    {
+     "who": "Ear doctors and many parents",
+     "explanation": "Nine in ten deaf children are born to hearing parents who do not know sign language. An implant given early lets the child share the family's speech and attend any school."
+    },
+    {
+     "who": "The National Association of the Deaf in the USA, in 1991",
+     "explanation": "It called implants in children an experiment done without the child's consent, and a threat to Deaf culture. In 2000 the Association softened this. It accepted families' choice and urged that sign language be taught too."
+    },
+    {
+     "who": "Scientists who study how children learn language",
+     "explanation": "What harms a child is having no full language at all in the first years. A child who gets rich language early, signed or spoken or both, does well."
+    }
+   ],
+   "art": "A family at a table, a small child with an implant behind one ear, signing 'more' to a parent who is signing back.",
+   "context": "This card shows that the people being helped may disagree with the helpers about what help is."
+  },
+  {
+   "concept": "The Jaipur Foot: a leg designed for the way people in India really live",
+   "status": "defined",
+   "definition": "The Jaipur Foot is an artificial foot and lower leg made of rubber, wood and plastic, developed in Jaipur in 1968, that lets the wearer squat, sit cross-legged and walk barefoot on rough ground.",
+   "description": "An artificial leg replaces a leg lost to an accident or illness. The ones made abroad in the 1960s were costly and stiff. They were built to be worn with shoes on flat floors. But people in India sit on the floor, squat, walk barefoot and work in wet fields. In Jaipur a master craftsman named Ram Chandra Sharma had little schooling. He thought of making a foot from rubber, as a cycle tyre is mended. He and Dr P. K. Sethi built it in 1968. It bends like a real foot and costs very little. Lakhs of people now walk on it.",
+   "examples": [
+    "The dancer Sudha Chandran lost a leg after an accident in 1981 and returned to the Bharatanatyam stage wearing a Jaipur Foot.",
+    "A charity started in Jaipur in 1975 fits the limb free of charge, and it has been sent to people in many countries hurt by wars.",
+    "Arunima Sinha climbed Mount Everest in 2013 on an artificial leg."
+   ],
+   "perspectives": [],
+   "one_view": "The making of the Jaipur Foot is well recorded. For many years Ram Chandra Sharma's share in it was told less often than Dr Sethi's.",
+   "art": "A workshop bench with a rubber foot in a mould, a craftsman's hands shaping it, and behind them a farmer squatting comfortably on the new leg.",
+   "context": "This card gives an aid invented in India by a craftsman, built for Indian ways of sitting and walking."
+  },
+  {
+   "concept": "When one sense is missing, the brain puts that space to other work",
+   "status": "defined",
+   "definition": "The brain can change how it uses its parts. In people blind from early life, the area that usually handles sight becomes active during touch and hearing.",
+   "description": "At the back of your head is a part of the brain that handles what your eyes see. What does that part do in a person who was born blind? It does not sit idle. In 1996 Norihiro Sadato and his team took pictures of the working brain of blind people as they read Braille. The 'seeing' part was busy, working on touch. Some blind people make sharp clicks with the tongue and listen to the echoes. In this way they can tell where a wall, a tree or a parked car is. So a blind person's world is built differently. It is a full world all the same.",
+   "examples": [
+    "Bats and dolphins find their way by echoes all the time.",
+    "Many deaf people notice movement at the edge of their sight more quickly than hearing people do.",
+    "Close your eyes while someone taps a steel tumbler in different corners of the room. You can already point to the sound."
+   ],
+   "perspectives": [
+    {
+     "who": "Lore Thaler and colleagues in Canada, in 2011",
+     "explanation": "They recorded the clicks and echoes used by two blind men and played them back while taking pictures of the brain. The echoes switched on the area normally used for sight. The men were, in a real sense, seeing with sound."
+    },
+    {
+     "who": "Blind writers such as Georgina Kleege",
+     "explanation": "Stories of blind people with amazing powers of hearing are a trap. Most blind people simply pay careful attention with ordinary ears, as anyone could learn to do."
+    }
+   ],
+   "art": "A side view of a head with the back of the brain glowing, and a hand reading Braille, joined by a dotted line.",
+   "context": "This card shows that a body working differently builds its own complete way of knowing the world."
+  },
+  {
+   "concept": "Growing old changes the eyes, ears, bones and balance, and old people hold what a family knows",
+   "status": "defined",
+   "definition": "Ageing brings slow changes: the eye's lens stiffens, high sounds are lost, bones become lighter and more easily broken, and balance and walking slow down.",
+   "description": "After about forty, the clear lens inside the eye gets stiff. Close things blur, and people hold the newspaper at arm's length. Later the ears lose high, soft sounds, so speech in a noisy room is hard to follow. Bones get lighter and break more easily. Balance is less sure, so a wet floor is a real danger. None of this changes who the person is. India has more than 10 crore people over sixty. They carry recipes, songs, cures, family stories and the memory of how things were done.",
+   "examples": [
+    "Speak a little slower and face an old person when you talk. Shouting does not help, because it bends the sounds.",
+    "A handrail, a light left on at night and a mat that does not slip prevent many falls.",
+    "Ask an old person how a festival was kept when they were small. You will hear things written in no book."
+   ],
+   "perspectives": [
+    {
+     "who": "Taittiriya Upanishad 1.11",
+     "explanation": "A teacher's parting words to students include: treat your mother as divine, your father as divine, your teacher as divine and your guest as divine. Care for elders is given as a duty that comes with learning."
+    },
+    {
+     "who": "Thiruvalluvar, Thirukkural chapter 45, 'Seeking the help of the great', written about 1,500 to 2,000 years ago",
+     "explanation": "The poet treats the wise and experienced as a treasure that a sensible person seeks out and keeps close. Elders here are a source of strength for the young, more than a burden to be carried."
+    },
+    {
+     "who": "Doctors who study ageing",
+     "explanation": "Old people who stay useful and connected stay healthier. Being cut off from others harms an old body about as much as a serious illness does."
+    }
+   ],
+   "art": "An old man holding a newspaper at arm's length with a child fetching his spectacles, and a handrail on the wall behind.",
+   "context": "This card gives the body changes of old age and what the old give to everyone else."
+  },
+  {
+   "concept": "A sick person needs rest, water, food and company, and care must not spread the illness",
+   "status": "defined",
+   "definition": "Caring for a sick person means meeting the needs the person cannot meet alone for a while, and stopping germs from passing to others.",
+   "description": "A sick body is busy. It is fighting germs or mending an injury, and has little strength left for other things. So others bring water, light food and medicine at the right time. They keep the room quiet and aired. Company matters as well. Sitting with someone and holding a hand has been shown to make pain and fear smaller. Some illnesses pass from person to person. So wash your hands with soap after helping. The sick person can cover a cough and use a separate towel. Caring and keeping safe go together.",
+   "examples": [
+    "A child can fetch water, read a story aloud, and keep the noise down.",
+    "A drawing or a phone call reaches a sick person in hospital when a visit is not allowed.",
+    "A person with a long illness is still the same person. They want to hear the news and be asked their opinion."
+   ],
+   "perspectives": [
+    {
+     "who": "The Buddha, in the Vinaya, Mahavagga 8.26",
+     "explanation": "The Buddha found a monk lying ill and dirty, left alone by the others. He washed the monk with his own hands, with Ananda's help. Then he told the community: whoever would look after me should look after the sick."
+    },
+    {
+     "who": "James Coan and colleagues in the USA, in 2006",
+     "explanation": "They took pictures of the brain of women who expected a small electric shock. When a woman held her husband's hand, the parts of her brain that react to danger were much quieter. A stranger's hand helped a little."
+    },
+    {
+     "who": "Nurses, following Florence Nightingale's 'Notes on Nursing' of 1859",
+     "explanation": "Fresh air, clean water, light, quiet and cleanliness do much of the healing. Nightingale also warned visitors against chatter that tires the patient. A good nurse watches what the sick person needs."
+    }
+   ],
+   "art": "A sick woman propped on pillows, a child placing a glass of water within her reach, and a bar of soap by a basin near the door.",
+   "context": "This card says what a sick person needs and how a child can give it safely."
+  },
+  {
+   "concept": "To offer help well: ask first, listen, and do what the person says",
+   "status": "defined",
+   "definition": "Help is good help when the person helped stays in charge. That means asking before acting, waiting for the answer, and accepting a 'no'.",
+   "description": "Imagine someone grabbing your school bag and pulling you along because they thought you were slow. That is how it feels to be 'helped' without being asked. So the first rule is simple. Ask, 'Would you like some help?' Then wait. If the answer is yes, ask, 'How shall I do it?' The person knows their own body best. If the answer is no, say 'all right' and mean it. Talk to the person, and never over their head to whoever is with them.",
+   "examples": [
+    "Do not push a wheelchair or lean on it unless asked. To the user, the chair is part of their own space.",
+    "To guide a blind person, offer your elbow and let them hold it. Never pull them by the hand or the cane.",
+    "With a deaf person, stand where your face is in the light and speak normally, or write it down.",
+    "A guide dog in harness is working. Do not pet or feed them without asking the person."
+   ],
+   "perspectives": [
+    {
+     "who": "Disabled people's organisations worldwide",
+     "explanation": "Their slogan since the 1990s is 'Nothing about us without us'. It was spread by activists in South Africa and by James Charlton's book of 1998. Decisions about a person's life must be made with that person."
+    },
+    {
+     "who": "Some families and carers",
+     "explanation": "Sometimes there is no time to ask, as when someone is about to fall. And some people cannot say what they want in words. Then the carer must act, and watch closely for what the person shows by face and body."
+    }
+   ],
+   "art": "A girl bending slightly towards an old woman at a road crossing, hand open and not touching, a speech bubble with a question mark, and the woman reaching to take her elbow.",
+   "context": "This card gives the practical rule for offering help, which the board asks every child to learn."
+  },
+  {
+   "concept": "Dignity: help is a right that people are owed, and pity gets in the way",
+   "status": "defined",
+   "definition": "Dignity is the worth every person has simply by being a person. To respect it is to treat someone as an equal who decides for themselves.",
+   "description": "There are two ways of thinking about help. In the first, a kind person gives and a poor thing receives. The giver feels good, and the other must be grateful. In the second, every person has the same right to enter a school, catch a bus and earn a living. If a step is in the way, the step must go, and nobody needs to say thank you for it. India's law took the second way in 2016. It says schools, offices, buses and websites must be usable by disabled people.",
+   "examples": [
+    "'Poor thing' said about someone in their hearing is not kindness. Asking 'What are you reading?' is.",
+    "A ramp at the front door says 'you belong here'. A ramp at the back beside the dustbins says something else.",
+    "Javed Abidi, a wheelchair user, led the campaign in the 1990s that won India's first disability law and had disabled people counted in the census."
+   ],
+   "perspectives": [
+    {
+     "who": "The tradition of seva and daan, found in every religion in India",
+     "explanation": "Serving those in need is among the highest acts, and millions are fed, housed and treated because of it. At its best the one who serves is taught to see the other as their equal or their better."
+    },
+    {
+     "who": "The disability rights movement, and the United Nations agreement of 2006",
+     "explanation": "Charity depends on someone's mood and can be taken away. A right cannot. Disabled people are citizens who are owed access, and should not have to wait for gifts."
+    },
+    {
+     "who": "An honest look at old law books, such as the Manusmriti, 9.201",
+     "explanation": "This text bars people born blind or deaf, and others, from a share of family property, though it says they must be fed and clothed. Some old texts also explain disability as the fruit of deeds in a past life. Disabled people today reject that idea as blame laid on the person."
+    }
+   ],
+   "art": "A school with a wide ramp leading to the main door, children of all kinds going in together, one in a wheelchair in the middle of the group.",
+   "context": "This card explains dignity and respect, and shows the difference between pity and rights."
+  },
+  {
+   "concept": "Old bones show that people cared for the sick and hurt tens of thousands of years ago",
+   "status": "defined",
+   "definition": "Skeletons of ancient people sometimes show serious injuries or conditions that had healed or lasted for years, which suggests that others fed and protected the person.",
+   "description": "How long have people looked after each other? Bones can tell us. In a cave at Shanidar in Iraq lay the skeleton of a Neanderthal man. He lived about 45,000 years ago. Neanderthals were a kind of human who no longer exist. One arm was withered and useless. He had been hit hard on the head, was probably blind in one eye and partly deaf, and walked with a limp. Yet the bones show that he lived for many years after these injuries. He could not have hunted. Someone must have shared food with him for years.",
+   "examples": [
+    "At Man Bac in Vietnam, Lorna Tilley studied a young man buried about 4,000 years ago. His bones show he could not move his arms or legs from boyhood, and he lived about ten years more. Others must have fed, washed and turned him every day.",
+    "Tilley started a new branch of study in 2011, called the bioarchaeology of care, to read such bones carefully."
+   ],
+   "perspectives": [
+    {
+     "who": "Erik Trinkaus, who studied the Shanidar bones, and Lorna Tilley",
+     "explanation": "A person so badly hurt could not have lived alone. The healed bones are direct evidence of help given over years, and so of care."
+    },
+    {
+     "who": "Katherine Dettwyler, an anthropologist, in 1991",
+     "explanation": "Bones show that a person survived. They cannot show kindness. The person may have done useful work in other ways, or been treated badly. We should not read our own feelings into a skeleton."
+    }
+   ],
+   "art": "A cave scene from long ago: an older man with one withered arm seated by a fire, a younger woman handing him food, drawn in earth colours.",
+   "context": "This card shows that caring for those who need help is far older than writing, cities or farming."
+  },
+  {
+   "concept": "Other animals care for their hurt and sick too",
+   "status": "defined",
+   "definition": "Many animals have been seen to rescue, feed, clean or stay beside an injured or trapped member of their group.",
+   "description": "Humans are not the only animals who help. In Africa, Matabele ants raid termite nests, and some ants lose legs in the fight. Their nestmates carry them home. There the others lick the wounds, which stops infection. Most of the carried ants live to raid again. Elephants stand around a fallen herd member and try to lift them with their tusks. In a laboratory, a rat will work to open a cage and free another rat who is trapped inside, even when chocolate is on offer in a second cage. Caring runs wide through the animal world.",
+   "examples": [
+    "Vampire bats who have fed share blood with a hungry roost-mate, who would otherwise starve within about three days.",
+    "Dolphins have been seen holding a sick dolphin up at the surface so that they can breathe.",
+    "Crows gather noisily around a dead or injured crow."
+   ],
+   "perspectives": [
+    {
+     "who": "Erik Frank, who studied Matabele ants in 2017 and 2023",
+     "explanation": "Injured ants call for help with a chemical signal. Badly hurt ants do not call and refuse rescue. The helpers treat wounds with a substance from their own bodies that kills germs."
+    },
+    {
+     "who": "Inbal Ben-Ami Bartal, Jean Decety and Peggy Mason, in 2011",
+     "explanation": "Rats freed trapped companions and often shared the chocolate afterwards. The team concluded that rats feel another's distress and act to end it."
+    },
+    {
+     "who": "Alan Silberberg and colleagues, in 2014",
+     "explanation": "They argued that the rats opened the cage because they wanted company. Some scientists also say ant rescue is a built-in habit that makes the colony stronger, with no feeling needed. This doubt has been raised about humans too."
+    }
+   ],
+   "art": "A Matabele ant carrying an injured nestmate, an elephant leaning down to a fallen elephant, and a rat pushing open a small cage door for another rat.",
+   "context": "This card shows that care is not only a human thing, and gives the scientists' argument about what the animals feel."
+  },
+  {
+   "concept": "Animals need our care, and the same rule holds: notice what they need, and do not force",
+   "status": "defined",
+   "definition": "Caring for animals means giving them water, food, shelter and safety where we can, causing them no needless pain or fear, and leaving wild animals free.",
+   "description": "The animals around you feel thirst, hunger, pain and fear. In the hot months a street dog, a cow, a squirrel and a sparrow may all be short of water. A bowl kept filled in the shade is real help. So is slowing down for animals on the road, and keeping loud crackers away from them. Do not tease, chase or throw things. And think of the rule for helping people. Ask first. An animal answers with the body. A dog who turns away, tucks the tail or shows teeth is saying no.",
+   "examples": [
+    "Put out a shallow clay dish of water on a balcony or wall, with a stone in it so that bees and small birds can drink safely.",
+    "A baby bird on the ground is usually being watched by the parents. Leave the bird alone unless a cat is near.",
+    "Kite strings coated with glass cut thousands of birds every Sankranti. Plain cotton string does not.",
+    "Plastic bags with food smells are eaten by cows and block their stomachs. Give peels without the bag."
+   ],
+   "perspectives": [
+    {
+     "who": "Emperor Ashoka, Rock Edict 2, cut in stone in about 257 BCE",
+     "explanation": "The edict says that he arranged medical treatment for humans and medical treatment for animals across his lands. He had healing plants grown, wells dug and trees planted along the roads for people and other animals to use."
+    },
+    {
+     "who": "Thiruvalluvar, Thirukkural 315",
+     "explanation": "What use is knowledge to a person who does not treat another being's pain as their own? The verse makes fellow-feeling the test of whether someone has really learned anything."
+    },
+    {
+     "who": "India's Constitution, Article 51A(g), and the law of 1960 against cruelty to animals",
+     "explanation": "Every citizen has a duty to have compassion for living creatures. Rukmini Devi Arundale, the dancer, pressed Parliament for the law against cruelty in the 1950s and led the board that it created."
+    },
+    {
+     "who": "Scientists who study wildlife",
+     "explanation": "Feeding wild animals such as monkeys can harm them. They lose their fear, fight over food and fall ill. For wild beings, care usually means protecting their homes and keeping our distance."
+    }
+   ],
+   "art": "A balcony wall with a clay water dish, a sparrow and a squirrel drinking, and a child watching from two steps back.",
+   "context": "This card delivers the board point on care and concern for animals, with the oldest known law about it."
+  },
+  {
+   "concept": "Do other animals feel pain as we do? Most scientists now say many do, and argue about which",
+   "status": "debated",
+   "definition": "Pain is an unpleasant inner feeling that usually comes with harm to the body. Because a feeling cannot be seen from outside, scientists use behaviour and the body's wiring as evidence for pain in other animals.",
+   "description": "You cannot feel another person's pain. You believe in it because they cry out and pull away, and because their body is built like yours. The same test can be used for other animals. Dogs, cows, birds and fish all have nerves that carry signals of harm. They guard a hurt part. They learn to avoid what hurt them, and they act normally again when given a painkiller. Animals feel. In 2012, and again in 2024, large groups of scientists signed statements saying the evidence for this is strong. The argument now is about fish, insects and crabs.",
+   "examples": [
+    "A dog with a thorn in the paw limps, licks the place and whimpers when it is touched.",
+    "Hermit crabs given a small shock inside their shell will leave a good shell, and are slower to leave when the shell is a better one. This looks like weighing up, and less like a jerk."
+   ],
+   "perspectives": [
+    {
+     "who": "Lynne Sneddon, who studied trout from 2003",
+     "explanation": "Trout have pain nerves in the face. When something that stings was put on their lips, they rubbed their lips on the gravel and stopped feeding. A painkiller brought them back to normal. Fish feel pain."
+    },
+    {
+     "who": "Brian Key, a brain scientist, in 2016",
+     "explanation": "Fish lack the folded outer layer of the brain that produces the feeling of pain in humans. Their reactions may happen without any inner hurt."
+    },
+    {
+     "who": "The New York Declaration on Animal Consciousness, signed by hundreds of scientists in 2024",
+     "explanation": "There is strong support for inner experience in mammals and birds, and a real possibility of it in fish, insects, crabs and octopuses. When there is a real possibility, it is wrong to ignore it."
+    },
+    {
+     "who": "Jain teaching, in the Acharanga Sutra, book 1",
+     "explanation": "All beings wish to live and none wishes to suffer. So no being should be harmed. Jains count beings with one sense, such as plants, among those who feel. Science has no test that settles where feeling stops."
+    }
+   ],
+   "art": "A dog holding up a paw, a trout near gravel, a hermit crab half out of a shell and a bee, each with a small question mark or exclamation mark above.",
+   "context": "This card gives the evidence and the debate behind the idea that animals deserve care."
+  },
+  {
+   "concept": "Caring is real work, most of it is done by women without pay, and carers need care too",
+   "status": "defined",
+   "definition": "Care work is the daily labour of feeding, washing, lifting, watching over and comforting those who cannot do these things alone.",
+   "description": "Someone gets up at night for the baby. Someone cooks for the grandfather, washes his clothes and remembers his medicine. This is work. It needs skill, strength and patience. India's government measured it in 2019. On an average day women spent about five hours on unpaid work at home. Men spent about an hour and a half. Nothing in the body makes it so. A boy can spoon kanji as well as a girl. A person who cares for others day after day gets tired too. Sharing the work is care for the carer.",
+   "examples": [
+    "Find out who in your home gives the medicines, and who takes an old or sick relative to the doctor.",
+    "A child can take over one small job for a week, such as filling the water bottles, and see how much time it takes.",
+    "Nurses, ayahs and hospital attendants do this work for a living, and it is among the lower-paid work in India."
+   ],
+   "perspectives": [
+    {
+     "who": "Economists such as Nancy Folbre",
+     "explanation": "Everything else in a country rests on care work, because no one can do any job without first having been raised and fed. It is left out when a country adds up its earnings. That hides the largest job of all."
+    },
+    {
+     "who": "A common belief in many homes",
+     "explanation": "Women are 'naturally' better at caring. Studies of fathers who do the main caring show their bodies and brains change in the same way mothers' do. Caring is learned by doing it."
+    }
+   ],
+   "art": "A kitchen and bedside scene in which a father feeds an old woman, a boy folds washing, and a mother rests in a chair with her feet up.",
+   "context": "This card names who does the caring, and says it is skilled work that should be shared."
+  }
+ ],
+ "agreed": [
+  {
+   "text": "Most disability comes after birth, through illness, accident and old age.",
+   "evidence": "Health surveys in India and across the world find that most disabled people were not born so. The share of people with a disability rises steeply with age, and passes one in three among the very old."
+  },
+  {
+   "text": "A vaccine ended polio in India, an illness that once left lakhs of children unable to walk.",
+   "evidence": "India's last case of wild polio was a two-year-old girl in Howrah, West Bengal, in January 2011. The World Health Organization declared India free of polio in 2014, after health workers had given drops to children in every village."
+  },
+  {
+   "text": "Children who learn beside disabled classmates do as well in their studies as other children.",
+   "evidence": "Reviews of many school studies, such as one by Thomas Hehir's team in 2016, find that the marks of non-disabled children do not fall in mixed classrooms, and their attitudes to people who are different improve."
+  },
+  {
+   "text": "Falls are the most common cause of serious injury in old people, and simple changes at home prevent many of them.",
+   "evidence": "Trials in which homes were given handrails, better light and non-slip mats recorded fewer falls among the old people living there than in homes left as they were."
+  }
+ ],
+ "challenging": [
+  {
+   "claim": "Humans and other animals help each other only because it helped their own kind of genes to spread.",
+   "who": "William Hamilton in 1964, Robert Trivers in 1971, and Richard Dawkins in 'The Selfish Gene', 1976",
+   "for": "Animals help close relatives most, as the sums predict, and they help unrelated animals who help them back. Vampire bats share blood mostly with bats who shared with them before.",
+   "against": "People and other animals also help strangers and other species, with no return. Frans de Waal argued that the feeling of care is real in the animal, whatever its distant origin. Why a feeling arose does not tell us what the feeling is.",
+   "status": "debated",
+   "context": "This view explains where caring came from without any kindness in it. It is strong science about origins, and scientists argue about how much it leaves out."
+  },
+  {
+   "claim": "Disabled children learn best in separate special schools.",
+   "who": "Many educators through the 1900s, and some parents and Deaf community leaders today",
+   "for": "A special school has trained teachers, Braille or sign language all day, and classmates who share the child's experience. Deaf children in sign-language schools often learn more than those left alone in a hearing classroom.",
+   "against": "Separate schools kept disabled people out of sight and out of ordinary life. India's 2016 law and the United Nations agreement call for every child to learn in the neighbourhood school, with support brought to them.",
+   "status": "debated",
+   "context": "Most countries now aim for schools that include everyone. Some of the people concerned still argue for schools of their own, for good reasons."
+  },
+  {
+   "claim": "Empathy, feeling what another feels, is a poor guide to helping well.",
+   "who": "Paul Bloom, a psychologist, in his book 'Against Empathy', 2016",
+   "for": "We feel most for those who are near, look like us or are cute. So empathy sends help to one child in a news story and ignores thousands who are not shown. Calm, fair thinking about what people need does better.",
+   "against": "Most scientists who study care, such as Frans de Waal, hold that without the feeling nobody would start helping at all. Feeling and thinking are both needed.",
+   "status": "minority",
+   "context": "Everyone praises empathy. One scientist argues it misleads us. His view is a minority one, and it raises a fair question about who gets helped."
+  },
+  {
+   "claim": "A disability is the result of a person's own bad deeds in an earlier life.",
+   "who": "A belief found in some old religious and legal texts in India and elsewhere, and still heard today",
+   "for": "It offered an explanation when no other was known, and in some tellings it urged people to do good.",
+   "against": "Medicine can trace the causes: a virus, an injury at birth, a change in a gene, an accident. The belief puts blame on the person and has been used to deny them schooling and respect. Disabled people's groups reject it.",
+   "status": "rejected",
+   "context": "A child may hear this said. It is here so that the family can talk about why it is unkind and what the causes really are."
+  }
+ ],
+ "big_questions": [
+  {
+   "q": "A girl in a wheelchair cannot get into a building with steps. Is she disabled, or is the building?",
+   "kind": "deep",
+   "hint": "Imagine the same girl at the same door after a ramp is built. Ask what changed and what did not."
+  },
+  {
+   "q": "If everybody needs help at some time, why do we talk about 'people who need help' as if they were a different group?",
+   "kind": "deep",
+   "hint": "Think back over your own week. Who helped you, and with what?"
+  },
+  {
+   "q": "When you help someone who did not ask, whose need are you meeting: theirs or your own?",
+   "kind": "deep",
+   "hint": "Think of a time someone 'helped' you when you wanted to do it yourself. How did it feel?"
+  },
+  {
+   "q": "A blind person's brain uses the 'seeing' part for touch and sound. Is that person missing a world, or living in a different one?",
+   "kind": "deep",
+   "hint": "A bat knows a room by echoes. Is the bat's room less real than yours?"
+  },
+  {
+   "q": "An ant carries a wounded ant home. A rat frees a trapped rat. Are they being kind, or is 'kind' a word only for humans?",
+   "kind": "big",
+   "hint": "Ask how you decide that a person is being kind. Then ask if the same test can be used on a rat."
+  },
+  {
+   "q": "Long ago someone fed a man with a useless arm for many years. He could not hunt. Why might they have done it?",
+   "kind": "big",
+   "hint": "List every reason you can think of, not only the nice ones. What could he have given the group?"
+  },
+  {
+   "q": "If a doctor could change a deaf child so that the child hears, should the parents always say yes?",
+   "kind": "big",
+   "hint": "Listen to both sides in your head: a hearing parent, and a Deaf grown-up who loves their language."
+  },
+  {
+   "q": "Is it better to help because you feel sorry for someone, or because it is fair? Does the reason matter if the help is the same?",
+   "kind": "big",
+   "hint": "Think how each would feel to the person being helped, and which help would still be there next year."
+  },
+  {
+   "q": "You cannot feel a fish's pain, or even your best friend's. So how do you know that anyone other than you feels anything?",
+   "kind": "deep",
+   "hint": "Think about what you see and hear when a friend is hurt, and why that is enough for you."
+  },
+  {
+   "q": "Caring for a baby, a sick person or an old person is hard work, and most of it is unpaid. Who should do it, and how should it be shared?",
+   "kind": "big",
+   "hint": "Find out how it is shared in your home now. Would everyone say that is fair?"
+  }
+ ],
+ "story": {
+  "title": "The Step and the Signboard",
+  "mins": 9,
+  "read_aloud": true,
+  "note": "A made-up story set in Mysuru, Karnataka. The children, the school and the carpenter are imagined. What is real: a ramp for a wheelchair should rise no more than 1 for every 12 along, and a longer plank over the same step needs a smaller push.",
+  "text": [
+   "Nandini was eight, and she had used a wheelchair since she was three. Her chair was red, with a bell that her aunt had fixed to the armrest. She could spin it in a full circle faster than anyone could count to two.",
+   "A new boy named Jintu joined her class in the middle of the term. His family had come to Mysuru from Guwahati, in Assam. That was three days away by train. He was tall and quiet, and he badly wanted to be useful.",
+   "On his first morning he saw Nandini rolling towards the classroom. He ran up behind her, took the handles and pushed.",
+   "'Ey!' said Nandini. The chair lurched. Her pencil box slid off her lap and burst open on the floor.",
+   "'I was helping,' said Jintu.",
+   "'You were driving,' said Nandini. 'Nobody asked for a driver. How would you like it if I picked you up and carried you to your desk?'",
+   "Jintu went red and sat at the back.",
+   "At the lunch break he stood for a long time in front of the notice board. Nandini rolled up beside him. The notice said, in Kannada, that Class 2 would visit the old library on Friday.",
+   "'Are you coming on Friday?' she asked.",
+   "Jintu looked at his feet. 'I do not know what it says. I can read Assamese and some English. Those letters all look like curly jalebis to me.'",
+   "Nandini began to say 'I will read it for you'. Then she stopped. 'Do you want me to read it to you?' she asked.",
+   "'Yes,' said Jintu. 'Please.'",
+   "So she read it aloud. Then she showed him the letter for 'ka' and the letter for 'ma'. He found three more of each on the board without any help.",
+   "On Friday the class walked to the old library. It had a carved wooden door, and in front of the door there was one stone step. The step was as high as a hand with the fingers spread.",
+   "Everyone went in. Nandini stopped at the step.",
+   "The librarian came out, a kind man with ink on his thumb. 'I will carry her in,' he said.",
+   "'No, thank you, sir,' said Nandini. 'I am not a parcel.'",
+   "Jintu had started forward. He stopped himself and put his hands in his pockets. 'What do you want to do?' he asked.",
+   "Nandini looked across the lane. A carpenter named Mary akka was planing a door there, and long planks leaned against her wall. 'I want a ramp,' said Nandini.",
+   "Mary akka brought a short plank first. It reached from the step to the ground, as steep as a slide. Nandini put her hands on the wheel rims and pushed. The chair went up a little way and rolled back. She tried again and it tipped. Jintu's hands flew out of his pockets, and he put them back.",
+   "'Too steep,' said Mary akka. 'A short plank asks for all your strength at once.' She fetched the longest plank she had, longer than two children lying head to toe. It met the step at a gentle slope.",
+   "Nandini pushed. The chair climbed slowly and steadily. She stopped once on the way up, and then she rolled in at the door. The bell on her armrest rang.",
+   "'It is the same step,' said Jintu. 'It is the same height. Why was it easy this time?'",
+   "'She went a longer way,' said Mary akka. 'She lifted herself by the same amount, but a little at a time. A ramp does not make the hill smaller. It lets you pay for it in small coins.'",
+   "Inside, the librarian was looking at his own doorway. 'In forty years,' he said, 'I never noticed that step.'",
+   "'You never needed to,' said Nandini. 'On Monday Jintu could not read the notice board. Nobody noticed that either, because all of you can read it.'",
+   "Jintu thought about that all the way back to school. In Guwahati he had been the best reader in his class. He was the same boy here, with the same eyes and the same head. Only the letters on the wall were different.",
+   "'Nandini,' he said, 'on Monday, was I disabled?'",
+   "Nandini spun her chair in a circle. 'I do not know,' she said. 'Was it you, or was it the notice board?'",
+   "Mary akka left the long plank at the library. By the next Friday it had two side rails and a coat of green paint. The first to use it was not Nandini at all. It was the old man who delivered the newspapers, wheeling his cycle up to the door."
+  ],
+  "epiphany": "Jintu could read in Guwahati and could not read in Mysuru, though he had not changed. Nandini could not enter by the step and could enter by the plank, though she had not changed. Being able or unable is something that happens between a person and a place.",
+  "ask": [
+   "Jintu asked if he was disabled on Monday. What would you tell him?",
+   "Jintu pushed the chair on the first day and kept his hands in his pockets at the library. Which was the better help, and why?",
+   "The librarian never noticed the step in forty years. What is there in your home or school that you have never needed to notice?"
+  ],
+  "art": [
+   "A school corridor with a red wheelchair jolted forward, a pencil box bursting open on the floor, and a tall boy behind with a shocked face.",
+   "Two children in front of a notice board in Kannada script, the girl in the wheelchair pointing to one letter and the boy tracing it in the air.",
+   "A long plank leading up one stone step to a carved library door, the girl halfway up pushing her own wheels, a carpenter and the boy watching with their hands at their sides."
+  ]
+ },
+ "how_we_found_out": {
+  "story": "Before the 1800s most people believed that blind children could not be taught to read, or should read the same letters as everyone else. In 1784 Valentin Haüy opened the first school for blind children in Paris. He printed books with ordinary letters pressed up from the page. It seemed sensible, because letters were the only writing that sighted teachers knew. But raised letters are slow to tell apart by touch, the books were enormous, and a child could not write them. In 1821 a soldier named Charles Barbier brought the school a code of raised dots that he had made for passing messages at night. It used up to twelve dots, too many to feel with one touch. A pupil at the school, Louis Braille, had been blind since an accident at the age of three. He worked on the idea for three years. In 1824, aged fifteen, he had a cell of six dots that fits under one fingertip, with patterns for letters, numbers and music. The pupils took to it at once. The sighted teachers did not. One director banned it, and children were punished for using it. They used it in secret. France accepted Braille officially in 1854, two years after Louis Braille had died.",
+  "who": "Valentin Haüy, Charles Barbier, Louis Braille",
+  "when": "1784 to 1854",
+  "wrong_idea": "People believed that blind readers should use raised ordinary letters. It was believable because sighted teachers judged by eye, and raised letters looked right to them, though they were poor for fingers."
+ },
+ "roots": {
+  "context": "You have tested a ramp and learned how to offer help. Now we ask what needing and giving help tell us about who we are.",
+  "deep_truth": {
+   "truth": "A step stopped the loaded cart, and a long plank let it climb with a small push. The cart did not change. So 'cannot' was never inside the cart alone. It sat between the cart and the step. People are like this too. What a person is able to do always depends on the world that meets them.",
+   "habit": "We say 'she can't walk in' or 'he is helpless' as if being unable were a thing inside a person, like the colour of their eyes. That label makes helper and helped look like two kinds of people.",
+   "evidence": "In the ramp test the same load needed a big stretch of the rubber band on the steep plank and a small stretch on the long plank. One and the same cart was 'unable' and 'able' within a minute, and only the plank had changed."
+  },
+  "three": {
+   "who_am_i": "You have been carried, fed and taught by others every day of your life. What you can do was built by many hands. So you are not a separate self who sometimes helps. You are someone made by help, who passes it on.",
+   "what_is_life": "No living being manages alone. A baby needs a parent, an old elephant needs the herd, a wounded ant needs a nestmate. A life is held up by other lives at its start, at its end, and at many points between.",
+   "what_is_this_world": "A step or a ramp, a notice in one script or in two: the world we build decides who can take part in it. The world is not finished. Every doorway is a choice about who belongs, and you will help to make those choices."
+  },
+  "thread": "The lesson's science is small and exact: a longer slope needs a smaller push. It carries a large idea. Ability is something that happens between a body and its surroundings. If that is so, then the line between 'the helpless' and 'the able' is drawn by how we build and behave. It also means that helping is less a gift from one separate person to another than a repair to something that joins them. Many old teachers said that the one who helps and the one helped are not truly two. Scientists who study evolution give a different account, and it is set out below.",
+  "teachings": [
+   {
+    "source": "Isha Upanishad, verse 6",
+    "teaching": "One who sees all beings in their own self, and their own self in all beings, does not shrink away from anyone.",
+    "link": "Shrinking away is what people often do on meeting someone whose body or mind is different. The verse says the cure is seeing clearly. The lesson gives one piece of that seeing: the person in the wheelchair and the person on foot differ less than the step makes it seem."
+   },
+   {
+    "source": "Thiruvalluvar, Thirukkural 315",
+    "teaching": "What is the use of all one's knowledge, if one does not guard another's pain as one's own?",
+    "link": "The scientists who showed that trout and rats react to hurt were doing what the verse asks, with instruments. The verse adds what no instrument gives: that knowing this must change how we act."
+   },
+   {
+    "source": "Vinaya, Mahavagga 8.26",
+    "teaching": "After washing a sick monk whom the others had neglected, the Buddha said: you have no mother or father here to look after you. If you do not look after each other, who will? Whoever would look after me should look after the sick.",
+    "link": "This is care given as a plain duty among equals, with no pity in it. It is close to what disabled people's groups ask for now: help that is owed."
+   }
+  ],
+  "science": [
+   {
+    "text": "Skeletons from tens of thousands of years ago show people surviving for years with injuries they could not have survived alone.",
+    "status": "settled"
+   },
+   {
+    "text": "Whether rescue and wound care in ants, rats and elephants come with a feeling like human concern is argued over, because feeling cannot be measured from outside.",
+    "status": "debated"
+   }
+  ],
+  "other_view": {
+   "who": "Biologists following William Hamilton (1964) and Richard Dawkins (1976)",
+   "view": "Helping exists because, over a very long time, animals who helped their relatives and their helpful neighbours left more young than those who did not. On this view each being is separate, and care is a clever way for separate beings to do well. It needs no oneness to explain it. The warm feeling is how the habit works from inside."
+  },
+  "practice": {
+   "title": "The other side of the door",
+   "mins": 4,
+   "say": "Stand at the main door of your home. Look at it as if you were someone else. First, be a person in a wheelchair. Is there a step? Is the door wide enough? Now be a person who cannot see. How would you find the bell? Now be very old and very tired. Is there somewhere to sit? Close your eyes and take three slow breaths. Think of one person you know who needs help, and of one thing they might like to be asked. Tell me what you would ask.",
+   "kid": "Stand at your front door. Pretend you use a wheelchair. Can you get in? Pretend you cannot see. Can you find the bell? Shut your eyes and breathe three times. Think of one person you could ask, 'Would you like some help?'"
+  },
+  "ask": [
+   "When you help someone, where does the help come from: from you, or from everyone who ever helped you?",
+   "If a ramp can make a 'cannot' disappear, how many other 'cannots' might be in the building and not in the person?",
+   "Are the one who helps and the one who is helped two different kinds of people, or one kind at two different moments?"
+  ],
+  "art": "Two hands meeting at an elbow, one old and one young, with a ramp and an open doorway in soft light behind them."
+ },
+ "open_questions": [
+  {
+   "q": "Do ants, rats and fish feel anything when they are hurt or when they help?",
+   "why_open": "Their behaviour and their nerves point towards feeling. But science has no instrument that detects inner experience, even in humans. It can only compare behaviour and brains, and scientists weigh that evidence differently."
+  },
+  {
+   "q": "Why did caring for the weak arise at all, when it costs the carer food and effort?",
+   "why_open": "Help to relatives, help that is returned, and groups that do well together have each been proposed. Each explains some cases. Care for strangers and for other species fits none of them neatly."
+  },
+  {
+   "q": "Did the people who fed the injured man at Shanidar feel what we call compassion?",
+   "why_open": "Bones record survival and healing. They do not record feelings or reasons. Archaeologists disagree about how far it is fair to read care into them."
+  },
+  {
+   "q": "What is the best way to teach a deaf child: sign language, an implant and speech, or both?",
+   "why_open": "Studies show that early, rich language of any kind is what matters most. But children, families and schools differ so much that no single plan has been shown to be best for all."
+  },
+  {
+   "q": "How should a country count and pay for care work done at home?",
+   "why_open": "Economists can measure the hours. They do not agree on how to value them, or on who should pay: families, employers or the government. Countries are trying different answers."
+  }
+ ],
+ "sources": {
+  "founder": [],
+  "science": [
+   "World Health Organization, 2022. Global report on health equity for persons with disabilities.",
+   "Census of India, 2011. Data on disability. Data on persons aged 60 and above.",
+   "Government of India, 2016. The Rights of Persons with Disabilities Act. Ministry of Housing and Urban Affairs, 2021. Harmonised Guidelines and Standards for Universal Accessibility in India.",
+   "Union of the Physically Impaired Against Segregation, 1976. Fundamental Principles of Disability. Oliver M., 1983. Social Work with Disabled People. Shakespeare T., 2006. Disability Rights and Wrongs.",
+   "Kittay E. F., 1999. Love's Labor: Essays on Women, Equality and Dependency.",
+   "Hamraie A., 2017. Building Access: Universal Design and the Politics of Disability.",
+   "Stokoe W. C., 1960. Sign Language Structure. Studies in Linguistics, Occasional Papers 8.",
+   "Senghas A., Kita S. and Özyürek A., 2004. Children creating core properties of language: evidence from an emerging sign language in Nicaragua. Science 305:1779.",
+   "Sadato N. and others, 1996. Activation of the primary visual cortex by Braille reading in blind subjects. Nature 380:526.",
+   "Thaler L., Arnott S. R. and Goodale M. A., 2011. Neural correlates of natural human echolocation in early and late blind echolocation experts. PLoS ONE 6:e20162.",
+   "Coan J. A., Schaefer H. S. and Davidson R. J., 2006. Lending a hand: social regulation of the neural response to threat. Psychological Science 17:1032.",
+   "Trinkaus E., 1983. The Shanidar Neandertals. Trinkaus E. and Villotte S., 2017. External auditory exostoses and hearing loss in the Shanidar 1 Neandertal. PLoS ONE 12:e0186684.",
+   "Tilley L. and Oxenham M. F., 2011. Survival against the odds: modeling the social implications of care provision to seriously disabled individuals. International Journal of Paleopathology 1:35.",
+   "Dettwyler K. A., 1991. Can paleopathology provide evidence for 'compassion'? American Journal of Physical Anthropology 84:375.",
+   "Frank E. T. and others, 2017. Saving the injured: rescue behavior in the termite-hunting ant Megaponera analis. Science Advances 3:e1602187. Frank E. T. and others, 2023. Targeted treatment of injured nestmates with antimicrobial compounds in an ant society. Nature Communications 14:8446.",
+   "Ben-Ami Bartal I., Decety J. and Mason P., 2011. Empathy and pro-social behavior in rats. Science 334:1427. Silberberg A. and others, 2014. Desire for social contact, not empathy, may explain 'rescue' behavior in rats. Animal Cognition 17:609.",
+   "Wilkinson G. S., 1984. Reciprocal food sharing in the vampire bat. Nature 308:181.",
+   "Sneddon L. U., Braithwaite V. A. and Gentle M. J., 2003. Do fishes have nociceptors? Proceedings of the Royal Society B 270:1115. Key B., 2016. Why fish do not feel pain. Animal Sentience 3.",
+   "Elwood R. W. and Appel M., 2009. Pain experience in hermit crabs? Animal Behaviour 77:1243.",
+   "The Cambridge Declaration on Consciousness, 2012. The New York Declaration on Animal Consciousness, 2024.",
+   "Ministry of Statistics and Programme Implementation, Government of India, 2020. Time Use in India 2019.",
+   "Hamilton W. D., 1964. The genetical evolution of social behaviour. Trivers R. L., 1971. The evolution of reciprocal altruism. Dawkins R., 1976. The Selfish Gene. de Waal F., 2009. The Age of Empathy. Bloom P., 2016. Against Empathy.",
+   "Hehir T. and others, 2016. A Summary of the Evidence on Inclusive Education. Abt Associates.",
+   "Texts: Isha Upanishad 6. Taittiriya Upanishad 1.11. Thirukkural 315 and chapter 45. Vinaya Pitaka, Mahavagga 8.26. Ashoka, Major Rock Edict 2. Acharanga Sutra, book 1. Manusmriti 9.201 to 9.202. Constitution of India, Article 51A(g). The Prevention of Cruelty to Animals Act, 1960."
+  ]
+ },
+ "playtest": {
+  "note": "Only the deep fields are written here. The founder's notes, the Combined lessons, the curriculum file and deep_truths.py were not opened for this draft, so sources.founder is empty and the deep truth has not been compared with the other lessons' deep truths. A reviewer should do both. The cards avoid repeating sci.community.community-and-helpers.L3 (jobs, public services, shared resources). All three ICSE points are delivered: care for old, sick and differently abled people (cards 1 to 4 and 14 to 17), valuing wheelchairs and ramps (cards 5 to 8), and care for animals (cards 19 to 21).",
+  "main_investigation": "How steep is too steep? The rubber-band ramp test. Make a 'step' from a pile of books about 10 centimetres high. Load a toy car or a small box on wheels with coins or a small steel tumbler so that it is heavy. Tie a thread to it and a rubber band to the thread. First lift the load straight up the step by the rubber band and measure how long the band stretches. Then pull the load up a short ramp (a 30-centimetre ruler or book) and up a long ramp (a board, tray or flattened carton about 1 metre long) to the same height, three times each, measuring the stretch of the band each time while the load moves slowly. The child guesses first which needs the biggest pull and says why. The stretch is greatest for the straight lift, less for the short ramp and least for the long ramp. Then mark out a 1-in-12 ramp for the same step (120 centimetres long) and compare. If the load has no wheels, friction can hide the result, so a wheeled toy or a box on round pencils is needed.",
+  "other_parts_to_write": [
+   "A ramp and step survey of the home, school or nearest shop: count steps, measure one ramp's height and length, and work out its slope against 1 in 12.",
+   "Write your name in Braille by pressing dots into thick paper from the back with a blunt pencil, and read a friend's name by touch.",
+   "The 'ask first' role play: one person plays someone crossing a road with a cane, the other practises asking, waiting and offering an elbow.",
+   "A water dish for birds and squirrels, kept filled for two weeks, with a record of who comes.",
+   "One minute with one hand and one eye: try three everyday jobs and design a change to the object that would make each easier."
+  ],
+  "verify": [
+   "WHO 2022: about 1.3 billion people, one in six. Census 2011: 2.68 crore people with disabilities, and about 10.4 crore people aged 60 and above.",
+   "The term 'divyang' in official use since 2016, and the objection by the National Platform for the Rights of the Disabled.",
+   "UPIAS 1976. Mike Oliver's term 'social model', 1983. Tom Shakespeare 2006.",
+   "India's Harmonised Guidelines: maximum ramp slope 1 in 12.",
+   "The Thanjavur capstone, about 80 tonnes, and the ramp tradition (the weight and the method are both traditional estimates).",
+   "The Chinese carving of a wheeled chair, about 525 CE. Stephan Farffler, 1655. Everest and Jennings, 1933.",
+   "Berkeley kerb slopes in 1972 and Ed Roberts. Ronald Mace and the term 'universal design'.",
+   "Louis Braille: blinded at three, six-dot cell in 1824 at fifteen, 63 patterns, official adoption in France in 1854, death in 1852. Barbier's visit in 1821. Haüy's school, 1784. Bharati Braille, 1951.",
+   "Seiichi Miyake, 1965, tactile paving.",
+   "Stokoe 1960. The Milan congress of 1880. Nicaraguan Sign Language. The Indian Sign Language centre, New Delhi, 2015.",
+   "The National Association of the Deaf statements of 1991 and 2000. About nine in ten deaf children have hearing parents.",
+   "The Jaipur Foot: 1968, Ram Chandra Sharma and Dr P. K. Sethi. The charity founded in 1975. Sudha Chandran's accident in 1981. Arunima Sinha on Everest, 2013. Avani Lekhara's gold medals in 2021 and 2024.",
+   "Sadato 1996 and Thaler 2011.",
+   "Coan 2006: the hand-holding study.",
+   "Shanidar 1: about 45,000 years old, with the injuries listed. Man Bac burial 9: about 4,000 years old, about ten years of survival.",
+   "Frank 2017 and 2023 on Matabele ants. Bartal 2011 and Silberberg 2014 on rats. Wilkinson 1984 on vampire bats.",
+   "Ashoka's Rock Edict 2 and its date, about 257 BCE. Thirukkural 315 and the title of chapter 45. Mahavagga 8.26. Taittiriya Upanishad 1.11. Isha Upanishad 6. Manusmriti 9.201. Acharanga Sutra book 1.",
+   "Article 51A(g). Rukmini Devi Arundale's part in the 1960 law and the Animal Welfare Board.",
+   "Sneddon 2003, Key 2016, the hermit crab study by Elwood and Appel 2009, and the declarations of 2012 and 2024.",
+   "Time Use Survey 2019: women about 5 hours and men about 1.5 hours a day of unpaid household work.",
+   "India's last wild polio case, Howrah, January 2011, and the 2014 declaration.",
+   "Javed Abidi's part in the 1995 law and the census count.",
+   "Hehir 2016 on inclusive classrooms. Aimi Hamraie 2017. Georgina Kleege's writing on blindness. Nancy Folbre on care work. Studies of caring fathers."
+  ],
+  "flashcard_words": [
+   "help", "care", "concern", "need", "disability", "disabled person", "differently abled", "wheelchair", "wheelchair user", "step", "ramp", "slope", "steep", "gentle", "push", "handrail", "barrier", "universal design", "aid", "blind", "Braille", "white cane", "tactile tiles", "deaf", "sign language", "hearing aid", "cochlear implant", "artificial limb", "Jaipur Foot", "echo", "elder", "old age", "balance", "sick", "germ", "rest", "company", "ask first", "consent", "dignity", "respect", "pity", "right", "charity", "skeleton", "Neanderthal", "rescue", "pain", "cruelty", "compassion", "care work", "carer", "vaccine"
+  ],
+  "parent_note": "If your child has a disability, or someone at home does, they are the expert in the room for this lesson. Ask them what the cards got right and wrong. The one-hand-one-eye activity shows a small difficulty for a minute and does not show what it is like to live with a disability, so say that to your child."
+ }
+}

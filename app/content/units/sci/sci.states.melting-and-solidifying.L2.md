@@ -453,7 +453,7 @@ That night, Lakshmi wrote in her notebook: "Coconut oil is the same oil in Kochi
 1. (match) Draw a line from each word to what it means.  
    **Answer:** Melt → a solid turns into a liquid; Solidify → a liquid turns into a solid; Freeze → solidify in the cold, like water into ice; Melting point → the warmth at which a solid melts. *Why:* These are the four main words of this lesson.
 2. (mcq) In the melting race, which solid did not melt in the warm water, and needed a candle flame?  
-   Options: The chocolate / The candle wax / The butter  
+   Options: The candle wax / The chocolate / The butter  
    **Answer:** The candle wax. *Why:* Wax melts at a much higher warmth than bath water. Picking chocolate may mean mixing up the warm water step with the plate step.
 3. (sort) Sort these into melting and solidifying.  
    **Answer:** kulfi dripping on a hot day → Melting; ghee going hard on a cold morning → Solidifying; butter going runny in a hot pan → Melting; water turning into ice in a tray → Solidifying; an ice cube shrinking in a glass of buttermilk → Melting; a drop of candle wax turning white on a plate → Solidifying. *Why:* Melting is a solid turning into a liquid as it warms. Solidifying is a liquid turning into a solid as it cools.
@@ -478,7 +478,7 @@ That night, Lakshmi wrote in her notebook: "Coconut oil is the same oil in Kochi
    **Answer:** The fridge is cold enough to make chocolate solidify, but water needs the freezer, which is much colder.. *Why:* A strong answer says each liquid solidifies at its own warmth, and water needs more cold than chocolate.
 ### Warm, Cold and In Between (stretch) (stretch, 12 questions)
 1. (mcq) In the story The Coconut Oil That Turned White, Lakshmi's coconut oil is golden and runny in Kochi, but white and hard on a January morning in Delhi. Why?  
-   Options: The oil went bad on the train / Delhi is colder than the oil's melting point that morning / Delhi oil is a different oil  
+   Options: Delhi is colder than the oil's melting point that morning / The oil went bad on the train / Delhi oil is a different oil  
    **Answer:** Delhi is colder than the oil's melting point that morning. *Why:* Coconut oil melts at about 24 degrees Celsius. A Delhi winter morning is colder than that, so the oil solidifies. Picking 'went bad' is what Lakshmi's Appa thought at first.
 2. (fill) When liquid wax cools and turns hard, we say it ____.  
    **Answer:** ['solidifies', 'sets']. *Why:* Solidifying is a liquid turning into a solid as it cools.
@@ -502,7 +502,7 @@ That night, Lakshmi wrote in her notebook: "Coconut oil is the same oil in Kochi
 11. (write) Many people think hot water can never freeze faster than cold water. A Tanzanian schoolboy, Erasto Mpemba, said he saw it happen. How could you test it at home?  
    **Answer:** Put the same amount of hot water and cold water in two tumblers that are the same, side by side in the freezer. Look every 30 minutes to see which one freezes first.. *Why:* A strong answer keeps everything the same except how hot the water starts. Scientists still argue about this, so any honest result is useful.
 12. (mcq) Why do we melt chocolate in a bowl floating on warm water, and not straight on the flame?  
-   Options: Chocolate melts with only a little warmth, and a flame can burn it / Chocolate never melts on a flame / Warm water makes more chocolate  
+   Options: Chocolate never melts on a flame / Warm water makes more chocolate / Chocolate melts with only a little warmth, and a flame can burn it  
    **Answer:** Chocolate melts with only a little warmth, and a flame can burn it. *Why:* Chocolate melts a little below the warmth of your body, so warm water is enough. A direct flame is far hotter, and the chocolate can burn.
 
 ## Videos
@@ -512,34 +512,34 @@ That night, Lakshmi wrote in her notebook: "Coconut oil is the same oil in Kochi
 
 ## Quiz
 1. (mcq) What is melting?  
-   Options: A solid turning into a liquid / A liquid turning into a solid / A liquid turning into a gas  
+   Options: A liquid turning into a solid / A solid turning into a liquid / A liquid turning into a gas  
    **Answer:** A solid turning into a liquid. *Why:* Melting is a solid turning into a liquid, like ice into water. Picking 'liquid into solid' mixes it up with solidifying.
 2. (mcq) Water in an ice tray turns into ice in the freezer. What is this called?  
-   Options: Melting / Freezing / Boiling  
+   Options: Melting / Boiling / Freezing  
    **Answer:** Freezing. *Why:* Freezing is solidifying in the cold. Water freezes at 0 degrees Celsius.
 3. (mcq) Which of these needs the most warmth to melt?  
-   Options: An ice cube / Butter / An iron nail  
+   Options: An ice cube / An iron nail / Butter  
    **Answer:** An iron nail. *Why:* Iron melts at about 1,500 degrees Celsius, in a furnace. Ice and butter melt in a warm room or a warm hand.
 4. (mcq) You float a piece of candle wax and a square of chocolate in bath-warm water. After five minutes, what do you see?  
    Options: The chocolate is runny and the wax is still hard / Both are runny / The wax is runny and the chocolate is still hard  
    **Answer:** The chocolate is runny and the wax is still hard. *Why:* Chocolate melts at a little below body warmth, so bath water melts it. Wax needs more warmth than bath water gives.
 5. (mcq) Melted chocolate is put in the fridge for 20 minutes. What happens?  
-   Options: It stays runny / It solidifies and is still chocolate / It turns into a new food  
+   Options: It solidifies and is still chocolate / It stays runny / It turns into a new food  
    **Answer:** It solidifies and is still chocolate. *Why:* Chocolate solidifies as it cools, and it is still chocolate. Melting can be undone.
 6. (mcq) You hold an ice cube in your hand. Why does your hand feel cold?  
-   Options: Cold flows out of the ice into your hand / Warmth flows out of your hand into the ice / The ice is wet  
+   Options: Cold flows out of the ice into your hand / The ice is wet / Warmth flows out of your hand into the ice  
    **Answer:** Warmth flows out of your hand into the ice. *Why:* Warmth always flows from the warmer thing to the cooler thing. Your hand loses warmth to melt the ice.
 7. (mcq) Why does a glass of buttermilk get colder when you add ice?  
-   Options: The ice takes warmth from the buttermilk to melt / The ice adds cold to the buttermilk / The buttermilk turns into ice  
+   Options: The ice adds cold to the buttermilk / The buttermilk turns into ice / The ice takes warmth from the buttermilk to melt  
    **Answer:** The ice takes warmth from the buttermilk to melt. *Why:* Melting ice takes in a lot of warmth from what is around it. That warmth comes out of the buttermilk, so it cools down.
 8. (mcq) Coconut oil is runny in Chennai but white and hard on a cold Delhi morning. Which is true?  
-   Options: It is the same oil in both places / The Delhi oil has gone bad / Only Chennai oil is real coconut oil  
+   Options: The Delhi oil has gone bad / Only Chennai oil is real coconut oil / It is the same oil in both places  
    **Answer:** It is the same oil in both places. *Why:* Coconut oil melts at about 24 degrees Celsius. Above that it is a liquid, below it a solid. It is the same oil.
 9. (mcq) You guessed the ice would melt last. Then you watched it melting on the plate. What should you do?  
-   Options: Say your guess was right anyway / Say what you saw, and change your idea / Stop the test  
+   Options: Say your guess was right anyway / Stop the test / Say what you saw, and change your idea  
    **Answer:** Say what you saw, and change your idea. *Why:* A good scientist guesses first, then says what the test really showed. A wrong guess is how we learn.
 10. (mcq) In a tumbler of water in the freezer, where does the ice usually start?  
-   Options: At the top and round the sides / In the very middle / Nowhere, it all freezes at once  
+   Options: In the very middle / Nowhere, it all freezes at once / At the top and round the sides  
    **Answer:** At the top and round the sides. *Why:* The top and sides touch the cold air and the cold cup, so they lose their warmth first.
 
 ## Applications

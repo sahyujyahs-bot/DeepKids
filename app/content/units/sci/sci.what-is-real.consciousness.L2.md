@@ -445,10 +445,10 @@ She laughed and took his hand. "Appa, sit down on the mat and close your eyes," 
 7. (write) Name one sound at home that you hardly ever notice. How could you make yourself notice it? Say it out loud and a grown-up can write it down.  
    **Answer:** For example: the fridge hum. I could sit still, shut my eyes and listen for it.. *Why:* A strong answer names a real steady sound and says that paying attention, or a change, makes us notice it.
 8. (mcq) In the lemon test, people showed different numbers of fingers for the same lemon. What does this tell us?  
-   Options: Some of them tasted it wrongly / Each person has their own experience, and we learn about it by being told / The lemon changed for each person  
+   Options: Some of them tasted it wrongly / The lemon changed for each person / Each person has their own experience, and we learn about it by being told  
    **Answer:** Each person has their own experience, and we learn about it by being told. *Why:* Only you have your own sour. Other people learn about it from your words, your face and your fingers.
 9. (mcq) In a dream, you fly like a bird. Where is your body?  
-   Options: Flying in the sky / Lying in bed / On the roof  
+   Options: Lying in bed / Flying in the sky / On the roof  
    **Answer:** Lying in bed. *Why:* In a dream you are aware of a world your sleeping mind makes. Your body stays in bed.
 10. (truefalse) True or false: almost everyone dreams every night, even people who forget their dreams.  
    **Answer:** True. *Why:* True. People woken during dreaming sleep in sleep laboratories usually say they were dreaming, even if they forget their dreams at home.
@@ -481,7 +481,7 @@ She laughed and took his hand. "Appa, sit down on the mat and close your eyes," 
 2. (perspective) Two scientists are talking about a touch-me-not plant, who folds her leaves when touched.  
    **Answer:** A strong answer picks a side and uses evidence: the medicine result, or the fact that brains change awareness in people. Then it says what the other side has right.. *Why:* Scientists really do argue about this. Both use real evidence.
 3. (mcq) Suppose you do the busy round in a noisy room in the day, and the still round in a quiet room at night. The busy round wins. Can you say that being busy helps you notice sounds?  
-   Options: Yes, the busy round won / No, because the room and the time changed too / Yes, because night is always quiet  
+   Options: No, because the room and the time changed too / Yes, the busy round won / Yes, because night is always quiet  
    **Answer:** No, because the room and the time changed too. *Why:* In a fair test only one thing changes. Here the noisy room simply had more sounds in it.
 4. (truefalse) True or false: scientists know exactly how being aware happens.  
    **Answer:** False. *Why:* False. Nobody knows how or why being aware happens at all. This is one of the biggest open questions in science.
@@ -492,12 +492,12 @@ She laughed and took his hand. "Appa, sit down on the mat and close your eyes," 
 7. (write) If you stop noticing the smell of your own home, has the smell gone? How could a visitor help you find out? Say it out loud and a grown-up can write it down.  
    **Answer:** No. The smell is still there. A visitor who has not got used to it can tell you what they smell.. *Why:* A strong answer says that getting used to a smell is different from the smell going, and uses someone fresh to check.
 8. (mcq) Which of these shows that the fan's sound still reaches you when you are not noticing it?  
-   Options: You notice at once when the fan stops / You hear the doorbell / You sing a song  
+   Options: You hear the doorbell / You notice at once when the fan stops / You sing a song  
    **Answer:** You notice at once when the fan stops. *Why:* If the sound was not reaching you, you could not notice the change when it stops.
 9. (sort) Sort these things your body does into 'I usually notice' and 'I usually do not notice'.  
    **Answer:** blinking → I usually do not notice; a mosquito bite → I usually notice; digesting food → I usually do not notice; feeling hungry → I usually notice; hair growing → I usually do not notice; a sneeze → I usually notice. *Why:* Your body does a great deal without your noticing. Changes, such as a bite or a sneeze, catch your attention.
 10. (mcq) In 1960, Anne Treisman, a student at Oxford, played one story into each ear and swapped the stories halfway. Many people followed their story into the wrong ear for a word or two. What did this show?  
-   Options: The ear they ignored was shut out completely / Some meaning from the ignored ear still gets through / People cannot hear with two ears  
+   Options: The ear they ignored was shut out completely / People cannot hear with two ears / Some meaning from the ignored ear still gets through  
    **Answer:** Some meaning from the ignored ear still gets through. *Why:* If the ignored ear were shut out like a closed door, nobody could follow a story into it. Its sounds are turned down, not shut out.
 
 ## Videos
@@ -507,22 +507,22 @@ She laughed and took his hand. "Appa, sit down on the mat and close your eyes," 
 
 ## Quiz
 1. (mcq) What does it mean to be aware of something?  
-   Options: You know or feel that it is there / You can draw it / You own it  
+   Options: You can draw it / You know or feel that it is there / You own it  
    **Answer:** You know or feel that it is there. *Why:* Being aware means knowing or feeling that something is there. Being aware of anything at all is called consciousness.
 2. (mcq) In the sound test, when do most children notice more sounds?  
-   Options: While racing to sort beans / While sitting still and listening / It is always the same  
+   Options: While racing to sort beans / It is always the same / While sitting still and listening  
    **Answer:** While sitting still and listening. *Why:* When you sit still and listen, your attention is on sounds, so you notice many more.
 3. (mcq) Why did we do the sound test in two rooms, in a different order each time?  
-   Options: To make it last longer / So that going second is not what made the difference / Because the first room was too noisy  
+   Options: To make it last longer / Because the first room was too noisy / So that going second is not what made the difference  
    **Answer:** So that going second is not what made the difference. *Why:* If the still round wins in both rooms, whichever round came first, then going second was not the reason.
 4. (mcq) You are reading a story and do not hear your name called. Why?  
-   Options: Your attention is on the story / Your ears are not working / You are asleep  
+   Options: Your ears are not working / Your attention is on the story / You are asleep  
    **Answer:** Your attention is on the story. *Why:* Attention picks what you notice. Your ears heard the call, but your attention was on the story.
 5. (mcq) The fan hums all evening. Why do you stop noticing it?  
-   Options: The fan gets quieter / Your mind lets a steady sound fade from notice / Your ears switch off  
+   Options: The fan gets quieter / Your ears switch off / Your mind lets a steady sound fade from notice  
    **Answer:** Your mind lets a steady sound fade from notice. *Why:* This is getting used to it, or habituation. The sound still reaches your ears.
 6. (mcq) In a power cut the fan suddenly stops. What usually happens?  
-   Options: You notice the quiet at once / You notice nothing / You fall asleep  
+   Options: You notice nothing / You notice the quiet at once / You fall asleep  
    **Answer:** You notice the quiet at once. *Why:* A change catches your attention. The stop is a change, so you notice it.
 7. (truefalse) True or false: two people tasting the same lemon always feel exactly the same sour.  
    **Answer:** False. *Why:* False. In the lemon test people often show different numbers. Even with the same number, nobody can check that their sours feel alike.
@@ -536,7 +536,7 @@ She laughed and took his hand. "Appa, sit down on the mat and close your eyes," 
    Options: Awake / Dreaming / Deep sleep  
    **Answer:** Deep sleep. *Why:* In deep sleep you are aware of very little. In the morning it can feel as if no time went by.
 11. (mcq) Which of these notice their world?  
-   Options: Only people / Only people and pet dogs / An ant, a crow, a tulsi plant and you  
+   Options: An ant, a crow, a tulsi plant and you / Only people / Only people and pet dogs  
    **Answer:** An ant, a crow, a tulsi plant and you. *Why:* Every being notices their world in their own way. Some scientists say only beings with brains are aware, and this is still argued about.
 12. (mcq) Which of these do scientists still not know?  
    Options: Whether people dream / How and why being aware happens at all / Whether steady sounds fade from notice  

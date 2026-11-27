@@ -510,7 +510,7 @@ Kavya kept the contest going for two whole weeks. At the end, the app had the mo
 1. (match) Match each cloud to what it often tells you.  
    **Answer:** Small puffy clouds that stay small → fine weather; A tall cloud with a flat, spreading top → a thunderstorm; A low grey sheet over the whole sky → steady rain; Thin high streaks that thicken day by day → rain in a day or two. *Why:* These are the four cloud signs in this lesson. A strong answer also says that no cloud is a sure sign, only a likely one.
 2. (mcq) You want to know if it will rain tomorrow. What is the best thing to look at?  
-   Options: What day of the week it is / The clouds, the wind and how damp the air feels / What colour your umbrella is / What you had for breakfast  
+   Options: What day of the week it is / What colour your umbrella is / The clouds, the wind and how damp the air feels / What you had for breakfast  
    **Answer:** The clouds, the wind and how damp the air feels. *Why:* Clouds, wind and damp air are signs of what is coming. What day of the week it is tells you nothing about the weather.
 3. (fill) Water in the form of an invisible gas is called water ____.  
    **Answer:** ['vapour']. *Why:* Water vapour is water as a gas. Humidity is how much water vapour is in the air.
@@ -535,7 +535,7 @@ Kavya kept the contest going for two whole weeks. At the end, the app had the mo
 12. (truefalse) True or false: the wind on a balcony always blows the same way the clouds are moving.  
    **Answer:** False. *Why:* False. The wind high up, which carries the clouds, can blow a different way from the wind near the ground. A strong answer mentions the Ground Wind and Cloud Wind experiment.
 13. (mcq) The weather office has given an orange warning for heavy rain. What does orange mean?  
-   Options: No warning / Be prepared / Take action / The rain is orange  
+   Options: No warning / Take action / Be prepared / The rain is orange  
    **Answer:** Be prepared. *Why:* Yellow means be aware, orange means be prepared, red means take action.
 14. (write) Write one weather saying you know or collected. Say how you could test whether it works.  
    **Answer:** Any saying, with a test that watches for the sign many times and counts how often the promised weather comes.. *Why:* A strong answer counts both the times the saying came true and the times it did not, over many days.
@@ -547,14 +547,14 @@ Kavya kept the contest going for two whole weeks. At the end, the app had the mo
 1. (write) In 1743 Benjamin Franklin watched a storm whose wind blew from the northeast. But the whole storm travelled towards the northeast. Explain how both can be true.  
    **Answer:** The wind swirls around the storm, while the whole storm moves along. So the wind at one place can blow one way while the storm travels another way.. *Why:* A strong answer separates the wind inside the storm from the movement of the whole storm, perhaps using the picture of water swirling in a bucket that is pushed along.
 2. (mcq) A satellite film shows a cloud swirl 300 km out at sea, moving towards the coast at about 100 km each day. When might it arrive?  
-   Options: Today / In about 3 days / In about 30 days / Never  
+   Options: In about 3 days / Today / In about 30 days / Never  
    **Answer:** In about 3 days. *Why:* 300 km at 100 km a day takes 3 days. A strong answer adds that storms can speed up, slow down or turn, so the forecast must be checked again each day.
 3. (write) In the Salt in the Steamy Bathroom experiment, the plate in the bathroom was kept away from splashes. Why did that matter?  
    **Answer:** So that the only water reaching the salt was water vapour from the air, not drops from the tap.. *Why:* A strong answer says this made the test fair: it showed the damp air, not splashes, changed the salt.
 4. (order) A thunderstorm builds on a hot afternoon in Bengaluru. Put what happens in order.  
    **Answer:** ['The sun heats the ground in the morning', 'Warm, damp air rises', 'Puffy clouds grow taller and taller', 'A tall storm cloud brings thunder and rain']. *Why:* Heat, then rising damp air, then growing clouds, then the storm. A strong answer says why the storm comes in the afternoon, not the early morning.
 5. (mcq) A weather computer works out the same forecast twice. The second time, one starting number is rounded off from 0.506127 to 0.506. What will most likely happen?  
-   Options: Both forecasts will come out the same / The computer will break / After a while, the two forecasts will be completely different / The second forecast will always be better  
+   Options: Both forecasts will come out the same / The computer will break / The second forecast will always be better / After a while, the two forecasts will be completely different  
    **Answer:** After a while, the two forecasts will be completely different. *Why:* The tiny difference grows until the two forecasts are completely different. This is why detailed forecasts many weeks ahead are not possible.
 6. (sort) Sort these sayings and signs: 'worth testing', 'about a season, not tomorrow', or 'cannot be about weather'.  
    **Answer:** salt goes lumpy before rain → Worth testing; in Aippasi the rain does not stop → About a season; it rains when you forget your umbrella → Cannot be about weather; a ring around the Moon means rain soon → Worth testing; peacocks dance when the rains come → About a season; ants carry their eggs up before rain → Worth testing. *Why:* A sign in the air or sky is worth testing. A sign that happens every monsoon tells you the season. Something with no link to the air cannot tell you the weather. A strong answer gives a reason for each.
@@ -565,7 +565,7 @@ Kavya kept the contest going for two whole weeks. At the end, the app had the mo
 9. (fill) The simplest forecast, 'tomorrow will be like today', is called a ____ forecast.  
    **Answer:** ['persistence']. *Why:* Persistence means staying the same. Meteorologists use it to check whether their own forecasts are any better.
 10. (mcq) In the wind ribbon test, the ribbon streams towards the west. Where is the wind coming from?  
-   Options: The east / The west / Straight down / Nowhere  
+   Options: The west / The east / Straight down / Nowhere  
    **Answer:** The east. *Why:* The ribbon streams away from where the wind comes from. So it points west when the wind blows from the east.
 11. (draw) Draw a map with a storm over the sea and your city on the coast. Draw where the storm is today, and where you forecast it will be tomorrow.  
    **Answer:** A storm drawn over the sea, an arrow, and the storm drawn again nearer to or over the city.. *Why:* A strong drawing shows the storm moving, with an arrow, and labels 'today' and 'tomorrow'.
@@ -583,7 +583,7 @@ Kavya kept the contest going for two whole weeks. At the end, the app had the mo
 2. (perspective) Two meteorologists disagree about the monsoon.  
    **Answer:** A strong answer explains that a forecast for the whole season can be given as a chance, such as 'more rain than usual is likely', while a forecast for one day in July cannot be made in April. Both have a point.. *Why:* This is a real difference between forecasting the weather on one day and forecasting a whole season. Both are done, in different ways.
 3. (mcq) A weather office runs its model 50 times, each time with tiny changes to the starting readings. 45 of the runs show heavy rain on Friday. What should the forecast say?  
-   Options: No rain on Friday / Heavy rain is very likely on Friday, about a 90% chance / Rain for 45 minutes / The model is broken  
+   Options: Heavy rain is very likely on Friday, about a 90% chance / No rain on Friday / Rain for 45 minutes / The model is broken  
    **Answer:** Heavy rain is very likely on Friday, about a 90% chance. *Why:* 45 out of 50 is 90 out of 100, so heavy rain is very likely. Running the model many times shows how sure a forecast is.
 4. (write) Why might a saying that works well in England fail in Chennai? Use 'Red sky at night, shepherd's delight' as your example.  
    **Answer:** In England most weather comes from the west, so a red sunset means clear sky to the west and fine weather coming. In Chennai, rain often comes from the east, from the Bay of Bengal, so the sunset sky in the west tells you less.. *Why:* A strong answer links the saying to the direction weather usually travels from in each place.
@@ -592,10 +592,10 @@ Kavya kept the contest going for two whole weeks. At the end, the app had the mo
 6. (write) In 1999 a very strong cyclone hit Odisha and about ten thousand people died. In 2013 Cyclone Phailin was also very powerful, but far fewer died. Give two reasons forecasting helped.  
    **Answer:** The storm was tracked for days, so people knew where and when it would hit. Close to a million people moved to shelters in time, and boats were brought in.. *Why:* A strong answer names knowing early and acting on the warning. A very strong answer says the forecast was only useful because people trusted it and acted.
 7. (mcq) Lewis Fry Richardson, an English scientist, worked out a 6-hour forecast by hand about a hundred years ago. It took him weeks. Why was it not useful, even if it had been right?  
-   Options: The weather had already happened long before he finished / He used the wrong paper / Forecasts are never useful / It was in another language  
+   Options: He used the wrong paper / The weather had already happened long before he finished / Forecasts are never useful / It was in another language  
    **Answer:** The weather had already happened long before he finished. *Why:* A forecast must arrive before the weather does. A 6-hour forecast that takes weeks to work out arrives long after the weather has happened. Fast computers solved this.
 8. (mcq) In the Ground Wind and Cloud Wind experiment, suppose your ribbon showed wind from the east, but the clouds came from the west. Which tells you more about where tomorrow's rain might come from?  
-   Options: The ground wind / The way the clouds are moving / Neither / The colour of the ribbon  
+   Options: The ground wind / Neither / The way the clouds are moving / The colour of the ribbon  
    **Answer:** The way the clouds are moving. *Why:* Clouds are carried by the wind high up, so the way the clouds move shows where the weather is coming from. The ground wind is bent by buildings and the sea breeze.
 9. (write) Many people say, 'Ants carry their eggs to high ground before rain.' Design a fair test of this saying in your building. What would you watch, how often, and for how long?  
    **Answer:** Find an ant trail near the building. Every evening for a month, note whether ants are carrying eggs upward. Next day, note whether it rained. Count all four kinds of day: eggs and rain, eggs and no rain, no eggs and rain, no eggs and no rain.. *Why:* A strong answer counts the days the ants were wrong as well as the days they were right, and tests for many days.
@@ -619,34 +619,34 @@ Kavya kept the contest going for two whole weeks. At the end, the app had the mo
 
 ## Quiz
 1. (mcq) A low grey sheet of cloud covers the whole sky. What weather is most likely?  
-   Options: Long, steady rain / A thunderstorm in ten minutes / A clear night / Snow  
+   Options: A thunderstorm in ten minutes / Long, steady rain / A clear night / Snow  
    **Answer:** Long, steady rain. *Why:* A low grey sheet of cloud over the whole sky often brings long, steady rain. A thunderstorm comes from tall, growing clouds, not from a flat sheet.
 2. (mcq) Someone says, 'My grandmother's saying worked last Tuesday, so it always works.' What is the best way to check?  
-   Options: Ask more people whether they like the saying / Watch for the sign many times and count how often the weather it promises really comes / Test it once more / Look it up in a storybook  
+   Options: Watch for the sign many times and count how often the weather it promises really comes / Ask more people whether they like the saying / Test it once more / Look it up in a storybook  
    **Answer:** Watch for the sign many times and count how often the weather it promises really comes. *Why:* One time can be luck. Counting the times a saying comes true and the times it fails, over many tries, shows how good it is.
 3. (mcq) In a forecast contest, 'tomorrow will be like today' got most days right. On which kind of day did it go wrong?  
-   Options: On days when the weather stayed the same / On days when the weather changed / On Sundays / On sunny days  
+   Options: On days when the weather changed / On days when the weather stayed the same / On Sundays / On sunny days  
    **Answer:** On days when the weather changed. *Why:* 'Same as today' always predicts no change. So it is right when the weather stays the same and wrong every time it changes. Catching those changes is what makes a forecast useful.
 4. (mcq) A satellite picture shows a big swirl of cloud over the Bay of Bengal, moving towards the coast. What is the best forecast for Chennai?  
-   Options: Rain may come soon, because the cloud is moving towards the city / No rain, because the sky over Chennai is blue now / Snow / The cloud will stay where it is  
+   Options: No rain, because the sky over Chennai is blue now / Snow / Rain may come soon, because the cloud is moving towards the city / The cloud will stay where it is  
    **Answer:** Rain may come soon, because the cloud is moving towards the city. *Why:* Weather travels. A storm moving towards the coast today may reach the city tomorrow, even if the sky over the city is still blue.
 5. (mcq) The forecast says '70% chance of rain'. What does it mean?  
-   Options: It will rain for 70 minutes / 70% of the city will get wet / On 10 days like this, rain would fall on about 7 / It will certainly rain  
+   Options: On 10 days like this, rain would fall on about 7 / It will rain for 70 minutes / 70% of the city will get wet / It will certainly rain  
    **Answer:** On 10 days like this, rain would fall on about 7. *Why:* A 70% chance means rain on about 7 of 10 days like this one. It does not mean minutes or how much of the city gets wet.
 6. (mcq) The forecast said '20% chance of rain', and it rained. Was the forecast wrong?  
-   Options: Yes, it was completely wrong / Not necessarily: rain happens on about 2 of 10 days like this / Yes, because 20% means no rain / Forecasts are always wrong  
+   Options: Yes, it was completely wrong / Yes, because 20% means no rain / Not necessarily: rain happens on about 2 of 10 days like this / Forecasts are always wrong  
    **Answer:** Not necessarily: rain happens on about 2 of 10 days like this. *Why:* 20% means rain is unlikely but possible. Rain on 2 of every 10 such days is what 20% means. You would need to check many days to judge the forecaster.
 7. (mcq) Why is a forecast for next week less sure than a forecast for tomorrow?  
-   Options: Weather offices try less hard for next week / Small errors in today's measurements grow bigger over time / Computers switch off after one day / Next week's weather is decided by the Moon  
+   Options: Small errors in today's measurements grow bigger over time / Weather offices try less hard for next week / Computers switch off after one day / Next week's weather is decided by the Moon  
    **Answer:** Small errors in today's measurements grow bigger over time. *Why:* Nobody can measure every bit of air. The small errors grow day by day. Edward Lorenz found this in 1961, when rounding off one number in his weather program gave a completely different forecast. So forecasts get less sure the further ahead they look.
 8. (mcq) What does a red weather warning from the India Meteorological Department mean?  
-   Options: Be aware / Be prepared / Take action / No warning  
+   Options: Be aware / Take action / Be prepared / No warning  
    **Answer:** Take action. *Why:* Green means no warning, yellow means be aware, orange means be prepared, and red means take action, for example moving to safety.
 9. (mcq) Why do weather offices need readings from far away to forecast your city's weather?  
-   Options: Because the weather coming to your city is often somewhere else today / Because far-away readings are more exciting / Because your city has no weather / Because computers only work with far-away numbers  
+   Options: Because far-away readings are more exciting / Because your city has no weather / Because the weather coming to your city is often somewhere else today / Because computers only work with far-away numbers  
    **Answer:** Because the weather coming to your city is often somewhere else today. *Why:* Weather travels across land and sea. To know what is coming, forecasters need to know what the air is doing in the places it is coming from.
 10. (mcq) Someone says, 'The sky is blue today, so it will be dry on Saturday.' The weather app says 90% chance of rain on Saturday. What is the best reason to trust the app?  
-   Options: The app is always right / The app can see the weather that is still far away, such as clouds over the sea / Blue sky always means dry weather / The app has never been wrong  
+   Options: The app is always right / Blue sky always means dry weather / The app has never been wrong / The app can see the weather that is still far away, such as clouds over the sea  
    **Answer:** The app can see the weather that is still far away, such as clouds over the sea. *Why:* The app uses satellites and readings from far away, so it sees weather that has not reached your sky yet. It is not always right, but it sees more than one sky can show.
 
 ## Applications

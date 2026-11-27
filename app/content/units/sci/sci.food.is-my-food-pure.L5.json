@@ -1,0 +1,632 @@
+{
+ "id": "sci.food.is-my-food-pure.L5",
+ "title": "Is my food pure? Adulteration, simple tests, and what a test cannot tell",
+ "level": 5,
+ "summary": {
+  "text": "A spoon of turmeric powder is stirred into a glass of water. In one glass the water stays almost clear. In another it turns bright yellow at once. Why the difference, and what does it say about what was in the packet? In this lesson you learn how food is secretly changed to make money, and how that can cheat or poison a family. You try simple tests that use water, a magnet and a slanting plate, on samples a grown-up has secretly changed. You find out what such tests can and cannot show, how laboratories and the law go further, and why 'pure' is harder to define than it sounds.",
+  "art": "Two glasses of water side by side on a kitchen counter, one with pale yellow powder settling at the bottom and clear water above, the other bright yellow all through."
+ },
+ "intro": {
+  "hook": "Pour a little milk into a steel tumbler and look at it. Smell it. If someone had added a quarter of a tumbler of water to the packet this morning, could you tell?",
+  "text": "Most of what matters about food is hidden from our eyes, nose and tongue. That is what makes cheating possible. For as long as food has been sold, some sellers have mixed in cheaper things, and buyers and rulers have looked for ways to catch them. Today you become a tester. You will learn the tricks, the tests, the limits of the tests, and the honest answer to how worried a family needs to be.",
+  "art": "A child peering closely into a steel tumbler of milk with a question mark above the tumbler."
+ },
+ "outcomes": [
+  "I can say what food adulteration is, and give examples of adding, removing and swapping.",
+  "I can explain why adulteration happens and why a buyer usually cannot see it.",
+  "I can tell apart adulteration that cheats and adulteration that poisons, with an example of each.",
+  "I can carry out simple tests on turmeric, chilli powder, tea, sugar and milk, and say what difference each test uses.",
+  "I can say what a home test cannot show, and why passing a test is not proof that food is pure.",
+  "I can explain why 'pure' has more than one meaning, and why some additions to food are not adulteration.",
+  "I can say what families and the law in India can do about adulteration."
+ ],
+ "explanations": [
+  {
+   "concept": "Adulteration is secretly making food worse in order to make money",
+   "status": "defined",
+   "definition": "Food adulteration is the hidden adding of a cheaper or harmful substance to food, the removing of a valuable part, or the swapping of one food for a cheaper one, so that the seller gains and the buyer does not know.",
+   "description": "There are three ways to adulterate a food. The first is to add something cheaper, such as water to milk. The second is to take something valuable out, such as the cream from milk, and sell what is left as whole milk. The third is to swap, such as selling dried papaya seeds as black pepper, because the two look alike. In each case two things are true. The food is worth less than the buyer paid for. And the buyer is not told. The secrecy is the heart of it. A shop that sells milk mixed with water and says so on the label is selling a different product. A shop that does the same and says nothing is adulterating.",
+   "examples": [
+    "Adding: chalk powder in sugar, brick powder in chilli powder, water in milk.",
+    "Removing: tea leaves that have already been used once, dried, coloured and sold again.",
+    "Swapping: a cheaper oil sold as coconut oil or as mustard oil."
+   ],
+   "perspectives": [],
+   "one_view": "This is the meaning of the word in everyday use and in food law. What exactly counts as 'worse' is argued over, and that argument has its own card.",
+   "art": "Three small pictures labelled adding, removing and swapping: water going into a milk can, cream being skimmed off, and papaya seeds beside peppercorns.",
+   "context": "This card says what adulteration is and names its three forms."
+  },
+  {
+   "concept": "Why it is done: food is sold by weight and by looks",
+   "status": "defined",
+   "definition": "Adulteration pays when a cheap substance can add weight, volume or an attractive look to a food that sells for more.",
+   "description": "Follow the money with a sum. A seller has 100 litres of milk and sells it at 60 rupees a litre. That brings 6,000 rupees. If the seller adds 25 litres of water, there are 125 litres to sell, which brings 7,500 rupees. The water cost almost nothing, so the extra 1,500 rupees is profit. The same sum works for anything sold by weight. Looks pay too. Buyers pick the reddest chilli powder and the yellowest turmeric, so a little dye makes poor spices sell as good ones. The more costly the food, the more a cheat gains. That is why saffron, honey, ghee, spices and oils have been adulterated more than rice or potatoes.",
+   "examples": [
+    "Saffron is among the costliest foods by weight, and dyed threads of other plants have been sold as saffron for centuries.",
+    "A kilogram of chilli powder with 100 grams of brick powder in it has only 900 grams of chilli."
+   ],
+   "perspectives": [],
+   "one_view": "The profit sum is plain arithmetic. Who in the chain does the adulterating, and why, is a matter of different views in the next card.",
+   "art": "A milk can with 100 litres marked, a bucket of 25 litres of water being poured in, and two piles of rupee notes, the second taller than the first.",
+   "context": "This card shows with one sum why adulteration is tempting, and which foods it strikes most."
+  },
+  {
+   "concept": "The buyer cannot see inside the packet, and the chain from farm to kitchen is long",
+   "status": "defined",
+   "definition": "A seller knows more about a food than a buyer does. When buyers cannot tell good from bad, cheating is hard to punish and honest sellers are undercut.",
+   "description": "You can judge a brinjal by looking. You cannot judge a spoon of ghee, a packet of turmeric or a bottle of honey that way. The seller, or someone further back, knows what went in. You do not. In 1970 the American economist George Akerlof showed what follows from this. If buyers cannot tell good from bad, they will not pay extra for good. Then the honest seller, whose costs are higher, loses customers to the cheat. Food also passes through many hands: farmer, trader, grinder, packer, wholesaler, shop. Each hand is a place where something can be added, and each can blame the hand before.",
+   "examples": [
+    "A pale, honest turmeric powder sits unsold beside a bright one, and the shopkeeper learns which to stock.",
+    "A milk seller who buys from twenty farms cannot easily know which can was watered."
+   ],
+   "perspectives": [
+    {
+     "who": "George Akerlof, in his paper 'The Market for Lemons' in 1970",
+     "explanation": "The trouble starts with hidden knowledge, not with bad people. Where quality cannot be seen, even a market full of mostly honest sellers drifts towards the worst goods. Labels, brands, testing and guarantees are all ways to let the buyer see."
+    },
+    {
+     "who": "Small traders and vendors",
+     "explanation": "They are the ones the inspector can reach, so they are the ones fined. Often they sold exactly what the wholesaler gave them. They ask that testing be done further up the chain, where the mixing is done in bulk."
+    },
+    {
+     "who": "Consumer groups",
+     "explanation": "Buyers have power when they act together. A food sells only if someone buys it, so informed buyers and public test results change what shops stock faster than fines do."
+    }
+   ],
+   "art": "A chain of six hands passing a sack from a field to a kitchen, with a small question mark over each hand and a child at the end looking at a sealed packet.",
+   "context": "This card explains why adulteration is so hard to see and to stop: knowledge is hidden, and the chain is long."
+  },
+  {
+   "concept": "Two kinds of harm: some adulterants cheat you, and some poison you",
+   "status": "defined",
+   "definition": "An adulterant may be harmless in itself and still rob the eater of money and nourishment. Another may be a poison. The law treats both as offences, and the second as far more serious.",
+   "description": "Water added to milk is not a poison, if the water is clean. But a child who drinks that milk gets less protein, less fat and less calcium from each tumbler than the family paid for. Over months, that is a real loss. This is harm by cheating. Other adulterants harm by what they are. A dye made for cloth or paint may damage the body. A seed that looks like mustard may carry a poison. So for any adulterant, ask two questions. What is the eater losing? And what is the eater getting that should not be in food at all? The worst cases answer both.",
+   "examples": [
+    "Cheats: water in milk, starch in paneer, used tea leaves.",
+    "Poisons: lead chromate, a paint pigment, in turmeric. Metanil yellow, a cloth dye, in sweets and dal. Argemone oil in mustard oil.",
+    "Both at once: milk that is watered, and then thickened and whitened again with detergent or urea."
+   ],
+   "perspectives": [],
+   "one_view": "The division between economic harm and harm to health is used in food law everywhere. Where to place a few substances is argued over, and one such case, kesari dal, has its own card.",
+   "art": "Two columns headed 'cheats you' and 'poisons you', with a watered milk tumbler under the first and a bright yellow turmeric heap with a warning sign under the second.",
+   "context": "This card sorts adulterants by the kind of harm they do."
+  },
+  {
+   "concept": "A slow poison: lead in turmeric, stored in a child's bones",
+   "status": "defined",
+   "definition": "Lead chromate is a bright yellow paint pigment that has been added to turmeric to improve its colour. Lead builds up in the body and harms the growing brain.",
+   "description": "Turmeric roots that are old or poorly dried give a dull powder. Some processors in South Asia have polished roots with lead chromate, a yellow pigment made for paint, to make them glow. Lead is a metal that the body mistakes for calcium. So the body stores lead in bones, where it stays for years, and leaks back into the blood. In a growing child, lead harms the brain and lowers the ability to learn. The World Health Organization says that no level of lead in the blood is known to be safe. In 2019 Jenna Forsyth and colleagues in Bangladesh, working with the health research centre icddr,b, traced high lead in the blood of village women to their turmeric. Some samples held hundreds of times the legal limit.",
+   "examples": [
+    "After the findings, Bangladesh's food authority warned traders, checked markets with a hand-held scanner and fined offenders. A follow-up study in 2023 found that lead in market turmeric had fallen sharply.",
+    "A study published in 2024 found some turmeric samples from Patna, Karachi and Peshawar far above the limit. India's limit for lead in turmeric is 10 parts in a million by weight."
+   ],
+   "perspectives": [],
+   "one_view": "The harm done by lead and its storage in bone are among the best-established facts in medicine. How common the adulteration is in each region is still being measured.",
+   "art": "A turmeric root being rubbed with bright yellow powder, and beside it an outline of a child with small dots gathered in the bones.",
+   "context": "This card follows one poisonous adulterant, lead chromate, from the spice mill into the body."
+  },
+  {
+   "concept": "A fast poison: argemone oil in mustard oil, Delhi, 1998",
+   "status": "defined",
+   "definition": "Epidemic dropsy is an illness caused by eating oil that contains oil from the seeds of the Mexican prickly poppy, Argemone mexicana.",
+   "description": "The Mexican prickly poppy is a thorny plant with yellow flowers who grows wild on roadsides across India. Their seeds are small, round and dark, and look very like mustard seeds. Their oil contains a poison called sanguinarine. When the seeds are pressed together with mustard, by accident or on purpose, the oil looks and smells normal. People who cook with it for some days get swollen legs, breathlessness and heart trouble. The illness is called epidemic dropsy. In August 1998 it struck Delhi. About 3,000 people fell ill and about 60 died. The city banned the sale of loose mustard oil for a time. The illness had been described in Kolkata as early as 1877, and Indian doctors in the 1920s and 1930s traced it to argemone.",
+   "examples": [
+    "Under a hand lens, a mustard seed is smooth, and an argemone seed is rough and pitted with a tiny point at one end. Crushed, mustard is yellow inside and argemone is white.",
+    "Outbreaks have also been recorded in Gwalior, Lucknow and Kolkata."
+   ],
+   "perspectives": [],
+   "one_view": "The cause of epidemic dropsy was established by Indian medical researchers and has been confirmed in every outbreak since.",
+   "art": "A thorny plant with yellow poppy flowers and a seed pod, and a magnified circle comparing a smooth mustard seed with a rough, pitted argemone seed.",
+   "context": "This card tells how one look-alike seed poisoned a city, and how the seeds can be told apart."
+  },
+  {
+   "concept": "Not every addition is adulteration: additives and fortified foods are declared on the label",
+   "status": "defined",
+   "definition": "A food additive is a substance added openly, within legal limits, for a stated purpose. Fortification is the open adding of a nutrient. Both appear on the label. An adulterant is hidden.",
+   "description": "If adding things to food were always wrong, salt would be in trouble. Since 2006, all salt sold for eating in India must have iodine added, because iodine protects the thyroid gland and the growing brain. Adding a nutrient in this way is called fortification. Fortified packets carry a blue '+F' mark. Many foods also contain permitted additives. India allows eight artificial colours in certain foods, each within a set limit. A preservative slows spoiling. What separates these from adulteration? Three things. The substance has been tested and is allowed. The amount is within the limit. And the label says so. A permitted colour used secretly to hide stale food breaks the third rule and becomes adulteration.",
+   "examples": [
+    "Allowed and declared: iodine in salt, vitamin A and D in fortified oil and milk, a permitted yellow colour named on a sweet packet.",
+    "Never allowed in food: rhodamine B, a pink dye for cloth. In 2024 Tamil Nadu and Karnataka banned cotton candy coloured with rhodamine B after tests found the dye in samples."
+   ],
+   "perspectives": [
+    {
+     "who": "Food regulators such as the Food Safety and Standards Authority of India",
+     "explanation": "An additive is acceptable when tests show it is safe at the amount used, when it serves a purpose, and when it is declared. The dose decides the safety."
+    },
+    {
+     "who": "Some doctors, parents and consumer groups",
+     "explanation": "Artificial colours add nothing to nourishment. They make food look better than it is, most of all food aimed at children. They ask why any risk, however small, should be accepted for looks alone."
+    },
+    {
+     "who": "Some critics of fortification",
+     "explanation": "Adding a nutrient to everyone's salt, rice or oil treats everyone alike, though needs differ. They prefer that families be able to afford varied food. Supporters answer that fortified salt has sharply reduced goitre and has cost very little."
+    }
+   ],
+   "art": "A salt packet with a blue '+F' mark and an ingredient list, beside a stick of bright pink cotton candy with a crossed-out dye bottle.",
+   "context": "This card draws the line between open, permitted additions and hidden ones."
+  },
+  {
+   "concept": "'Pure' has no single meaning: even pure milk is a mixture",
+   "status": "debated",
+   "definition": "In chemistry, pure means one substance only. In food law, pure means meeting a written standard with nothing hidden. In everyday talk it often means natural or untouched. These meanings do not agree.",
+   "description": "A packet says 'pure milk'. Ask a chemist, and she will say that nothing about milk is pure. In every 100 grams of cow's milk, about 87 grams are water. The rest is fat, protein, milk sugar and minerals, many hundreds of substances in all. Turmeric, honey and ghee are mixtures too. So the chemist's meaning, one substance only, fits almost no food. The law uses a different meaning. Milk is pure if it meets a standard, such as a minimum amount of fat, and has nothing added. Many shoppers mean a third thing: natural, as it came from the cow, the bee or the plant. Yet the cow's own milk changes with her feed and the season, and some natural things are poisons.",
+   "examples": [
+    "Buffalo milk has about twice the fat of cow's milk. Both are 'pure milk', and they are different mixtures.",
+    "The argemone seed is completely natural.",
+    "'Toned' milk has had some fat removed and is sold openly under that name, so it is not adulterated."
+   ],
+   "perspectives": [
+    {
+     "who": "Chemists",
+     "explanation": "Pure means one kind of substance. By that meaning, distilled water and refined white sugar are among the purest things in a kitchen, and nobody thinks they are the best foods."
+    },
+    {
+     "who": "Food law in India and most countries",
+     "explanation": "Pure is a promise, not a property. A food is pure if it is what the label says, meets the written standard for that food, and hides nothing."
+    },
+    {
+     "who": "Chandogya Upanishad, chapter 7, section 26, verse 2",
+     "explanation": "'When the food is pure, the being becomes pure. When the being is pure, memory becomes firm.' The commentator Shankara, in about the 8th century CE, read 'food' here as everything taken in through all the senses, not only what is eaten. Others read it as the food on the plate."
+    },
+    {
+     "who": "The Buddha, in the Amagandha Sutta, Sutta Nipata 2.2",
+     "explanation": "What makes a person impure is cruelty, lying and cheating, not the kind of food that is eaten. On this view purity lies in conduct and not in substances."
+    }
+   ],
+   "art": "A tumbler of milk with a magnified circle showing water, fat droplets, protein and sugar as different shapes, and three speech bubbles each defining 'pure' differently.",
+   "context": "This card shows that the main word of the lesson, 'pure', means different things to a chemist, the law and a shopper."
+  },
+  {
+   "concept": "How any simple test works: find one way the food and the adulterant behave differently",
+   "status": "defined",
+   "definition": "A test for an adulterant uses a property in which the adulterant differs from the food, such as sinking or floating, dissolving, being attracted by a magnet, or changing colour with a chemical.",
+   "description": "An adulterant is chosen because it looks like the food. So looking will not find it. A test works by finding some other way in which the two differ. Does one dissolve in water and the other not? Sugar dissolves and chalk does not. Does one sink and the other float? Does a magnet attract one? Iron filings jump to a magnet and tea leaves do not. Does one change colour with a certain chemical? Iodine turns starch blue-black and leaves pure milk alone. Every test in this lesson, and every test in a laboratory, is built on one such difference. Before you run any test, say aloud which difference it uses. Then you will know what it can find, and what it cannot.",
+   "examples": [
+    "Sugar and chalk: the difference is dissolving in water.",
+    "Tea leaves and iron filings: the difference is attraction to a magnet.",
+    "Milk and added starch: the difference is the colour with iodine."
+   ],
+   "perspectives": [],
+   "one_view": "This is the logic of all testing, from the kitchen to the laboratory, so there is only one honest view.",
+   "art": "A table with three pairs: sugar and chalk in water, tea and iron filings near a magnet, and two drops of milk with iodine, one white and one blue-black.",
+   "context": "This card gives the one idea behind every purity test, before the tests themselves."
+  },
+  {
+   "concept": "Tests with a glass of water: turmeric, chilli powder, sugar and tea",
+   "status": "defined",
+   "definition": "Many powdered adulterants can be shown up in plain water, because they dissolve, settle or release colour differently from the food.",
+   "description": "The Food Safety and Standards Authority of India publishes a booklet of home tests called DART, which stands for Detect Adulteration with Rapid Test. Several need only a clear glass of water. Turmeric: add a teaspoon of powder and do not stir. Turmeric's own yellow substance, curcumin, hardly dissolves in water, so natural powder sinks and leaves the water pale. An added dye dissolves and colours the water strongly at once. Chilli powder: sprinkle some on the water. Artificial colour runs down in streaks. Brick powder sinks fast and feels gritty at the bottom. Sugar: stir a spoonful until it dissolves. Chalk powder stays as a white layer. Tea: spread a pinch of leaves on wet white paper. Added colour stains the paper within a minute.",
+   "examples": [
+    "Black pepper in water: the booklet says pepper sinks and papaya seeds float.",
+    "Coffee powder in water: coffee floats for a while, and chicory, the roasted root of a plant, sinks quickly and leaves brown trails.",
+    "Tea leaves and a magnet: iron filings cling to the magnet."
+   ],
+   "perspectives": [],
+   "one_view": "These tests come from the food authority's own booklet. Their limits are real and are the subject of a later card.",
+   "art": "Four glasses in a row labelled turmeric, chilli, sugar and tea paper, each showing a 'looks like this if pure' side and a 'looks like this if not' side.",
+   "context": "This card gives four tests a family can do with a glass of water, and says why each one works."
+  },
+  {
+   "concept": "Tests for milk: a slanting plate, a shake, and a drop of iodine",
+   "status": "defined",
+   "definition": "Added water, detergent and starch each change one property of milk that can be seen at home: how it flows, how it froths, and its colour with iodine.",
+   "description": "Milk is a costly food bought every day, so it has a long list of adulterants. Three can be looked for at home. Water: put one drop of milk on a polished plate held at a slant. Whole milk moves slowly and leaves a white trail. Watered milk runs down fast and leaves little or no trail. Detergent: shake a little milk with the same amount of water in a closed bottle. Milk gives a thin layer of froth. Milk with detergent gives a thick, lasting lather. Starch: a grown-up boils a few spoons of milk, cools it, and adds two or three drops of tincture of iodine from a medical shop. A blue-black colour means starch was added to thicken watered milk.",
+   "examples": [
+    "The same iodine test works on paneer and khoya, which are sometimes bulked out with starch.",
+    "Dairies measure added water with a lactometer, a weighted glass float that sinks deeper in thinner milk."
+   ],
+   "perspectives": [],
+   "one_view": "These tests are in the food authority's booklet and rest on simple properties. The iodine and starch reaction has been known since 1814.",
+   "art": "A steel plate held at a slant with two drops running down, one slow with a white trail and one fast with none, beside a small bottle of frothy milk.",
+   "context": "This card gives three home tests for the food most often named when people talk of adulteration: milk."
+  },
+  {
+   "concept": "Colours that run: separating a dye from a food on wet paper",
+   "status": "defined",
+   "definition": "Chromatography is a way of separating mixed substances by letting a liquid carry them along paper or another material. Substances that cling less to the paper travel farther.",
+   "description": "The tea test on wet paper is a small case of a powerful method. When water creeps through paper, it carries along anything that dissolves in it. Different dyes cling to paper by different amounts, so they travel different distances and spread into separate bands. The method is called chromatography, which means 'colour writing'. The Russian-Italian botanist Mikhail Tsvet invented it in the early 1900s to separate the green and yellow colours in leaves. Food laboratories use far finer versions today to name the exact dye in a sweet. At home it shows two things. A natural colour that will not dissolve in water stays put. And a single 'green' colouring often turns out to be a blue dye and a yellow dye mixed.",
+   "examples": [
+    "Rub green peas or green chillies with a piece of wet white cotton. A green stain on the cotton suggests added colour.",
+    "Put a dot of green food colouring near the bottom of a strip of filter paper or tissue and stand the strip in a little water. In some minutes the dot may separate into blue and yellow."
+   ],
+   "perspectives": [],
+   "one_view": "Chromatography is a standard, well-understood method used in every food laboratory.",
+   "art": "A strip of white paper standing in a shallow dish of water with a green dot near the bottom that has spread upward into a yellow band and a blue band.",
+   "context": "This card names the method behind the colour tests and shows how a dye can be pulled apart on paper."
+  },
+  {
+   "concept": "What a home test cannot tell: passing a test is not proof of purity",
+   "status": "defined",
+   "definition": "Each test detects one kind of adulterant, above a certain amount. A food that passes may still contain a different adulterant, or the same one in a smaller amount.",
+   "description": "A test can say 'I found this.' It can never say 'There is nothing here.' There are two reasons. First, each test looks for one difference only. The magnet finds iron and is blind to dye. Second, every test has a smallest amount it can notice. A little added water will not change how a drop of milk runs. Honey shows the problem best. Honeybees make honey from nectar by drying it until it is too thick for microbes to live in. Home tests for honey, such as a drop holding together in water, check only that thickness. A thick sugar syrup passes just as well. In December 2020 the Centre for Science and Environment in Delhi, led by Sunita Narain, sent honey of 13 brands to a laboratory in Germany. Ten of the 13 failed an advanced test, though most had passed India's standard tests.",
+   "examples": [
+    "A turmeric sample that leaves the water pale has passed the dye test. That test says nothing about lead chromate, which does not dissolve in water.",
+    "Adulterated honey also undercuts beekeepers, whose bees pollinate crops and wild plants."
+   ],
+   "perspectives": [
+    {
+     "who": "The Centre for Science and Environment, in its 2020 honey report",
+     "explanation": "Syrups were being designed and sold specially to pass the official tests. So standards must keep moving to newer methods, and results must be made public."
+    },
+    {
+     "who": "Some honey companies and food scientists, in reply",
+     "explanation": "The advanced method, called NMR, was not then part of India's legal standard, and it depends on a library of known honeys which had few Indian samples. A failure on it, they said, is a reason to look closer and not a proof of fraud."
+    }
+   ],
+   "art": "A jar of honey passing through a row of test gates, each gate catching one kind of adulterant, with a syrup-shaped shadow slipping through all but the last, most complex gate.",
+   "context": "This card gives the most important limit of all testing: a pass means 'not found', which is weaker than 'not there'."
+  },
+  {
+   "concept": "Cheats aim at the test: the lactometer, and the melamine milk of 2008",
+   "status": "defined",
+   "definition": "When a test checks one property as a stand-in for quality, an adulterant can be chosen that restores that one property while the food stays poor or becomes dangerous.",
+   "description": "Each new test changes the cheating. Water makes milk thinner, and a lactometer detects thin milk. So cheats learned to add sugar, starch or salt, which bring the thickness back. Then came tests for sugar, starch and salt. The most terrible case came in China in 2008. Dairies there tested milk for protein by measuring nitrogen, an element that proteins contain. Some suppliers watered the milk and then added melamine, a chemical used to make plastics, which is rich in nitrogen. The test read 'plenty of protein'. Melamine forms stones in the kidneys. About 300,000 babies fed on formula made from this milk fell ill, and six died. The test had measured something easy that usually goes along with protein, and the cheats supplied that thing alone.",
+   "examples": [
+    "The nitrogen test was invented by the Danish chemist Johan Kjeldahl in 1883 and is still used. Laboratories now also test for melamine directly.",
+    "In a school, marks stand in for learning. A student who copies supplies the marks without the learning. It is the same pattern."
+   ],
+   "perspectives": [],
+   "one_view": "The events of 2008 and the weakness of stand-in measurements are fully documented. The general pattern is also known outside food, and it appears in the big questions.",
+   "art": "A lactometer floating in a jar of milk reading 'normal', with small sacks labelled water, sugar and starch tipped in behind the jar.",
+   "context": "This card shows that testing is a contest, and tells the worst known case of a test being fooled."
+  },
+  {
+   "concept": "How laboratories find what kitchens cannot: weight for size, the microscope, fingerprints of molecules, and DNA",
+   "status": "defined",
+   "definition": "Food laboratories identify adulterants by measuring density, by examining particles under a microscope, by reading the pattern a substance gives to light or magnetism, and by reading DNA.",
+   "description": "The oldest laboratory method is density, which is how much a thing weighs for its size. A story from Sicily, about 250 BCE, tells how Archimedes checked a gold crown for hidden silver by comparing its weight with the water it pushed aside. The Roman writer Vitruvius told the story about 200 years later, and historians doubt its details. The principle is sound, and a lactometer uses it. The microscope came next. Starch grains from potato, rice and wheat each have their own shape, so a trained eye can name a hidden flour. Modern machines read a kind of fingerprint that each mixture of molecules gives. And DNA, the molecule in every cell that carries a living being's inherited instructions, tells one species from another.",
+   "examples": [
+    "In January 2013 food inspectors in Ireland used DNA tests on beef burgers and found horse meat. The finding led to checks and recalls across Europe.",
+    "Scientists at the Centre for DNA Fingerprinting and Diagnostics in Hyderabad developed a DNA test that tells true basmati rice from look-alike long-grain varieties.",
+    "Hand-held scanners that read metals by X-rays can find lead in turmeric in under a minute, in the market itself."
+   ],
+   "perspectives": [],
+   "one_view": "These are established methods. Which of them should be written into legal standards, and how fast, is argued over, as the honey card showed.",
+   "art": "Four panels: a crown on a balance in water, starch grains of three shapes under a microscope, a wavy fingerprint graph, and a short DNA ladder beside two rice grains.",
+   "context": "This card follows testing from the kitchen into the laboratory, from an ancient method to DNA."
+  },
+  {
+   "concept": "How common is adulteration? The answer depends on what is counted",
+   "status": "debated",
+   "definition": "Surveys of the same food can report very different rates of adulteration, because they differ in whether they count failing a quality standard, containing a contaminant, or containing a harmful adulterant.",
+   "description": "Is most Indian milk adulterated? Two national surveys by the food authority seem to disagree. In 2011, a quick survey of 1,791 samples reported that about 68 in every 100 did not meet the standard. In 2018, a larger survey of 6,432 samples reported that 93 in every 100 were safe to drink. Both can be true. The 2011 number counted every sample that fell short in any way, and most fell short through added water or low fat. The 2018 number asked a narrower question: is anything harmful in it? Only 12 samples held a harmful adulterant. About 6 in 100 held traces of a mould poison that had come through the cattle's feed, which nobody had added on purpose. About 4 in 10 were safe but below the standard for fat or other solids.",
+   "examples": [
+    "A message passed round on phones in 2018 and 2019 claimed the World Health Organization had warned that 87 in 100 Indians would get cancer by 2025 from adulterated milk. The World Health Organization said it had issued no such warning.",
+    "A substance that gets into food without anyone intending it, such as a mould poison or a pesticide trace, is called a contaminant, not an adulterant."
+   ],
+   "perspectives": [
+    {
+     "who": "The Food Safety and Standards Authority of India, on its 2018 survey",
+     "explanation": "Milk in India is largely safe. The main problems are quality, meaning thin milk, and contamination from feed. Frightening claims do harm by making families give up a nourishing food."
+    },
+    {
+     "who": "Consumer groups and some dairy scientists",
+     "explanation": "A child given thin milk every day is being cheated of food, and that deserves to be counted as a serious failure. Surveys also sample on chosen days and may miss the festival seasons, when demand is high and adulteration is said to rise."
+    }
+   ],
+   "art": "The same row of 100 milk tumblers drawn twice: once with 68 shaded 'did not meet the standard', once with only a few shaded 'unsafe'.",
+   "context": "This card shows how two honest surveys can give opposite-sounding answers, and how to read such numbers."
+  },
+  {
+   "concept": "Ripening fruit: a banned shortcut that copies the fruit's own signal",
+   "status": "defined",
+   "definition": "Fruits such as mangoes and bananas ripen in response to ethylene, a gas they make themselves. Calcium carbide, which is banned for ripening in India, gives off a similar gas along with poisonous impurities.",
+   "description": "A mango picked hard and green can still ripen, because the mango makes a gas called ethylene. Ethylene is a signal. When a fruit senses it, they soften, sweeten, change colour and make more ethylene, which sets off the fruits nearby. That is why one ripe banana in a bag ripens the rest. Traders want fruit that travels hard and ripens on arrival. India allows ripening rooms that release small, measured amounts of ethylene gas, which is the fruit's own signal. The banned shortcut is calcium carbide, a grey stone used in welding. With moisture, carbide gives off acetylene, a gas that acts on fruit much as ethylene does. Industrial carbide also carries traces of arsenic and phosphorus, which are poisons, and the workers who handle it are harmed first.",
+   "examples": [
+    "A carbide-ripened mango is often evenly yellow outside while still pale, sour and hard near the seed.",
+    "At home, raw mangoes ripen in a few days wrapped in paper or buried in rice or hay, which holds their own ethylene close.",
+    "In 1934 the British scientist Richard Gane showed that ripening apples themselves give off ethylene."
+   ],
+   "perspectives": [],
+   "one_view": "The role of ethylene in ripening and the hazards of industrial carbide are established. Enforcement of the ban varies from market to market.",
+   "art": "A crate of green mangoes with one ripe mango in the middle giving off small wavy lines labelled 'ethylene', and a crossed-out paper packet of grey stones tucked in a corner.",
+   "context": "This card shows adulteration by a process and not by an ingredient: forcing fruit to ripen with a banned chemical."
+  },
+  {
+   "concept": "Kesari dal: a banned adulterant, or a drought food wrongly blamed?",
+   "status": "debated",
+   "definition": "Kesari dal is the split seed of the grass pea, Lathyrus sativus. Eaten as the main food for months, it can cause lathyrism, a lasting paralysis of the legs. Its sale has been banned in most of India since 1961, and scientists disagree on whether the ban should stay.",
+   "description": "The grass pea is a tough plant. They grow in drought and in flooded fields where other pulses die. Their dal looks like toor dal and costs much less, so it has long been mixed into toor dal and besan. The seeds contain a substance that harms nerves. In famines, when people ate little else for two or three months, many were left unable to walk properly. The illness is called lathyrism. In 1961 India banned the sale of kesari dal, and it became a classic adulterant. Yet the plant is still grown and eaten in parts of Chhattisgarh, Madhya Pradesh, Bihar and West Bengal, and lathyrism has become very rare.",
+   "examples": [
+    "Under a lens, kesari dal is wedge-shaped with one slanting side, while toor dal is rounded.",
+    "Plant breeders in India have developed grass pea varieties with much less of the harmful substance."
+   ],
+   "perspectives": [
+    {
+     "who": "An expert panel of the Indian Council of Medical Research, in 2016",
+     "explanation": "The panel advised lifting the ban. It reasoned that harm came only when the dal was nearly the whole diet for months. With a mixed diet and the new low-toxin varieties, the risk is very small, and a hardy, protein-rich crop is valuable to poor farmers in dry years."
+    },
+    {
+     "who": "Doctors and consumer groups who want the ban kept",
+     "explanation": "Legal sale would make it impossible to stop cheap kesari dal being mixed into costlier dals without the buyer knowing. The people most likely to eat a lot of the cheapest dal are the poorest, who are also the least able to keep their diet mixed."
+    },
+    {
+     "who": "Farmers who grow and eat it",
+     "explanation": "Their families have eaten it for generations, soaked and cooked in ways that wash out part of the harmful substance. To them the ban punished a food of the poor, while the fault lay with famine."
+    }
+   ],
+   "art": "A hardy pea plant with blue flowers standing in cracked dry soil, and a magnified circle comparing a wedge-shaped kesari dal grain with a rounded toor dal grain.",
+   "context": "This card presents a case where science and fairness pull in different directions, and the question is still open."
+  },
+  {
+   "concept": "Rules against adulteration are ancient, and India's present law dates from 2006",
+   "status": "defined",
+   "definition": "The Food Safety and Standards Act, 2006, is India's food law. It created the Food Safety and Standards Authority of India, which sets standards, licenses food businesses and tests food.",
+   "description": "Wherever markets grew, rules against food fraud followed. India's present law is the Food Safety and Standards Act of 2006, which replaced the Prevention of Food Adulteration Act of 1954. It set up the Food Safety and Standards Authority of India, known as FSSAI. Every food business must hold an FSSAI licence or registration, and its 14-digit number is printed on the packet. The law sorts bad food into three kinds. Sub-standard food falls short of the standard. Misbranded food has a false label. Unsafe food can injure health. Fines run up to 5 lakh rupees for sub-standard food. If unsafe food causes a death, the punishment can be prison for life.",
+   "examples": [
+    "AGMARK, a mark under a law of 1937, certifies that a farm product such as ghee, honey or spices was graded and tested.",
+    "A licence number on a packet tells you that the business is registered and can be traced. It does not tell you that this packet was tested."
+   ],
+   "perspectives": [
+    {
+     "who": "Kautilya's Arthashastra, book 4, chapter 2, composed between about the 2nd century BCE and the 3rd century CE",
+     "explanation": "The chapter is about protecting people against merchants. It sets a fine of 12 panas for adulterating grains, oils, alkalis, salts, scents and medicines with similar articles of no quality. It also sets penalties for false weights and measures."
+    },
+    {
+     "who": "The market inspectors, called muhtasib, of Arab and Persian cities, as described by Ibn al-Ukhuwwa of Egypt in the early 14th century CE",
+     "explanation": "His handbook tells the inspector how to check each trade in turn, among them bakers, milk sellers and spice sellers, and lists the tricks to look for. The inspector's duty came from a religious command to promote what is right in public life."
+    },
+    {
+     "who": "Lawmakers in 19th-century Britain before 1860",
+     "explanation": "They held that the state should not interfere in trade, and that buyers must look after themselves. This view lost ground once chemists and microscopists showed adulterants that no buyer could ever detect."
+    }
+   ],
+   "art": "A timeline with an ancient market scene and a balance at one end, a medieval inspector in the middle, and a modern food packet with a 14-digit licence number at the other end.",
+   "context": "This card gives India's present food law and shows that rules against food fraud are as old as markets."
+  },
+  {
+   "concept": "What a family can do: buy whole, look closely, test, keep the packet, and report",
+   "status": "defined",
+   "definition": "A household lowers its risk of adulterated food by choosing forms that are hard to adulterate, checking labels and samples, and reporting suspected cases to the food safety authority.",
+   "description": "No family can test everything, and none needs to. A few habits cover most of the risk. Buy spices whole where you can, and grind them at home or at a mill you can watch. A whole turmeric root or peppercorn is far harder to fake than a powder. Be a little wary of the brightest colour on the shelf. Check a packet for its FSSAI number, the maker's address, and the batch number, which lets a bad lot be traced. Now and then, run the water tests on powders bought loose. If a test shows something, keep the packet and the bill. India's food authority takes complaints through its Food Safety Connect app and through each state's food safety office. Mobile testing vans called Food Safety on Wheels visit markets and test samples that people bring.",
+   "examples": [
+    "A housing society or a school class that tests ten samples together and shares the results has more effect than one family alone.",
+    "The National Consumer Helpline can be reached by dialling 1915."
+   ],
+   "perspectives": [],
+   "one_view": "These are the steps advised by the food authority and by consumer groups alike. They differ on how much of the burden should fall on families at all, which is taken up in the views that challenge.",
+   "art": "A kitchen counter with whole turmeric roots and peppercorns in jars, a packet turned to show its licence number, a glass of water for testing, and a phone showing a complaint form.",
+   "context": "This card turns the lesson into a short list of things a family can do this month."
+  }
+ ],
+ "agreed": [
+  {
+   "text": "Food fraud has turned up in every country and century in which anyone tested for it.",
+   "evidence": "Pliny the Elder, in his Natural History, book 12, written in the 1st century CE, complained that pepper in Rome was adulterated with juniper berries. Frederick Accum found it across London in 1820. Inspectors in Ireland found horse meat sold as beef in 2013. Each time, new tests showed frauds that had been going on unnoticed."
+  },
+  {
+   "text": "Iodine turns starch blue-black, and this colour change is a reliable sign of starch.",
+   "evidence": "The French chemists Jean-Jacques Colin and Henri-François Gaultier de Claubry reported the reaction in 1814, soon after iodine was discovered. It has been used as a test ever since. The colour appears because iodine slips inside the coiled chains of the starch molecule."
+  },
+  {
+   "text": "Children take in far more of the lead they swallow than adults do.",
+   "evidence": "Measurements summarised by the World Health Organization show that young children absorb about four to five times as much of the lead in their food as adults. Their brains are also still being built. This is why lead in a family's spices harms the youngest most."
+  }
+ ],
+ "challenging": [
+  {
+   "claim": "Branded food in sealed packets is safer than food sold loose.",
+   "who": "Food regulators in many countries, and most food companies",
+   "for": "A sealed packet with a licence number and a batch number can be traced back to its maker, who has a name to lose. Loose food passes through open sacks and many hands. Delhi banned loose mustard oil after the 1998 poisoning for this reason.",
+   "against": "The honey investigation of 2020 found that most of the failing samples were from large brands. A packet hides the food from the buyer's eyes entirely. Loose whole foods bought from a seller you know can be seen, smelled and tested. Packets also cost more, which matters to poor families.",
+   "status": "debated",
+   "context": "This is advice families hear often. The evidence supports it for some foods, such as oils, and not for all."
+  },
+  {
+   "claim": "Many packaged foods that are legally pure are harmful because of how heavily they are processed, and should worry us more than old-style adulteration.",
+   "who": "Carlos Monteiro, a Brazilian nutrition scientist, who proposed the idea of 'ultra-processed' food in 2009",
+   "for": "Many studies link diets high in ultra-processed foods with obesity, diabetes and heart disease. In a controlled trial by Kevin Hall in 2019, people offered ultra-processed meals ate about 500 kilocalories more a day than when offered unprocessed meals. Nothing in such food is hidden or illegal.",
+   "against": "Critics say the category is too loose. It puts packaged wholemeal bread and fizzy drinks in one group. They argue that the harm comes from too much sugar, salt and fat and too little fibre, which is already known. They add that processing also makes food safe and cheap.",
+   "status": "debated",
+   "context": "This view asks whether 'Is anything hidden in my food?' is even the most important question. It is here to widen what the child means by food being good."
+  },
+  {
+   "claim": "If it is natural, it is safe. Only 'chemicals' are harmful.",
+   "who": "A widespread popular belief, used in much food advertising",
+   "for": "Many of the worst adulterants are factory-made: paint pigments, cloth dyes, melamine. Foods eaten for thousands of years have had a long trial.",
+   "against": "Everything is made of chemicals, water and turmeric included. Argemone oil and the nerve-harming substance in kesari dal are natural. So are the poisons made by moulds on badly stored groundnuts. Whether a substance harms depends on what it is and how much is eaten, not on where it came from.",
+   "status": "rejected",
+   "context": "This belief sounds like common sense and shapes how many families shop. It is here so the child can test it against cases from this lesson."
+  }
+ ],
+ "big_questions": [
+  {
+   "q": "Milk is already mostly water. So why is adding more water to it wrong?",
+   "kind": "deep",
+   "hint": "Ask what exactly the buyer was promised, and whether the wrong is in the water or somewhere else."
+  },
+  {
+   "q": "If a food passes every test you have, do you know that it is pure, or only that you have not found anything?",
+   "kind": "deep",
+   "hint": "Think about what each test was looking for, and about the adulterants nobody has thought of yet."
+  },
+  {
+   "q": "A test for protein was fooled by a chemical that copied only the thing the test measured. Where else in life do we measure one easy thing and trust that it stands for something bigger?",
+   "kind": "big",
+   "hint": "Think of marks and learning, of likes and friendship, of price and quality."
+  },
+  {
+   "q": "Buyers choose the brightest turmeric, and some sellers add colour to supply it. Who is responsible for the dye: the seller, the buyer, or both?",
+   "kind": "big",
+   "hint": "Ask what would happen to an honest seller if every buyer kept choosing by colour."
+  },
+  {
+   "q": "Iodine added to salt is welcomed, and chalk added to sugar is a crime. What exactly makes one adding good and the other bad?",
+   "kind": "deep",
+   "hint": "Try each possible answer, such as 'it is harmless', 'it is useful', 'it is declared', on both cases and see which survive."
+  },
+  {
+   "q": "Kesari dal harmed people in famines and feeds people in droughts. Should a food be banned because it is dangerous when it is the only food?",
+   "kind": "big",
+   "hint": "Think about who eats the cheapest dal, who grows the hardiest crop, and who gets to decide."
+  },
+  {
+   "q": "Can any food be called pure if every food is a mixture, and every plant and animal takes in whatever is in their soil, water and air?",
+   "kind": "deep",
+   "hint": "Decide first what you want the word to promise. Then ask if anything could keep that promise."
+  },
+  {
+   "q": "You trust hundreds of strangers every time you eat. What makes that trust reasonable, and what would make it foolish?",
+   "kind": "big",
+   "hint": "List who handled your last meal before it reached you, and what would let you check each one."
+  },
+  {
+   "q": "A rat tastes a tiny bit of a new food and waits to see what happens. You run a water test on turmeric. Are the two of you doing the same thing?",
+   "kind": "deep",
+   "hint": "Compare what each tester is trying to find out, and what each uses as a tool."
+  }
+ ],
+ "story": {
+  "title": "The Colour They Asked For",
+  "mins": 9,
+  "read_aloud": true,
+  "note": "A made-up story set in Erode, Tamil Nadu, which is a real centre of the turmeric trade. The people and the mill are imagined. What is real: turmeric powders differ naturally in colour, from pale yellow to deep orange, depending on the variety and on how much curcumin the roots hold. Researchers in Bangladesh found that buyers' liking for bright yellow turmeric was one reason processors added lead chromate. The water test is from the food authority's booklet.",
+  "text": [
+   "The grinding mill on Brough Road in Erode had been Kanagavalli's for eleven years, and her mother's before that. On Saturdays her daughter Thenmozhi, who was ten, sat on the flour sacks and did her homework in the smell of chilli and coriander.",
+   "This Saturday there was a problem, and the problem was a customer.",
+   "'It is dull,' said the woman, holding the open packet of turmeric powder to the light. 'Last month I bought from the new shop near the bus stand. Theirs was like gold. Yours is like dust. Are you mixing something?'",
+   "Kanagavalli wiped her hands. 'I am mixing nothing. These are this year's roots from Kodumudi. I boiled, dried and ground them myself. This is their colour.'",
+   "'Then the roots are bad,' said the woman, and she left without buying.",
+   "She was the third that week. Thenmozhi watched her mother stand quite still beside the grinder.",
+   "In the afternoon a man came with a sample bag. He was a trader named Ramasamy, friendly, with a pen in his pocket. He put a pinch of brilliant yellow powder on the counter. 'Polish,' he said. 'Two spoons to a sack of roots before grinding. Your turmeric will shine like the bus-stand shop's. Everyone is using it. The customers want it. You are only giving them what they ask for.'",
+   "'What is it?' said Kanagavalli.",
+   "'Colour,' said Ramasamy. 'Only colour.'",
+   "Thenmozhi had been reading her science book. She slid off the sacks. 'Amma, can I have two glasses of water?'",
+   "She dropped a spoon of her mother's turmeric into one glass and did not stir. The powder sank in a soft cloud. The water above stayed nearly clear, the faintest yellow.",
+   "'And a little of the bus-stand shop's,' she said. Her mother found the neighbour's packet. Thenmozhi dropped a spoon of that into the second glass. Yellow streamed off the powder as it fell, and in a few seconds the whole glass was the colour of a marigold.",
+   "'Turmeric's own colour does not like water,' said Thenmozhi. 'It stays in the powder. So that colour is something else. A dye.'",
+   "Ramasamy smiled. 'Clever girl. But my polish is not that cheap dye. Try it.' He tipped his pinch into a third glass.",
+   "The yellow powder sank straight to the bottom, heavy as sand. The water above stayed clear. Clearer than her mother's.",
+   "'You see?' said Ramasamy. 'It passes your test.'",
+   "Thenmozhi stared at the glass. Her test had said: nothing found. And yet the powder at the bottom was plainly not turmeric. It was too bright and too heavy, and no root had ever made it. 'It passed,' she said slowly, 'because my test only asks one question. Does the colour run in water? I did not ask anything else.' She looked up at the trader. 'Why is it so heavy?'",
+   "Ramasamy stopped smiling. He folded his sample bag. 'It is what painters use,' he said, not to her. 'It has lead in it. I do not eat turmeric from the shops I sell to.' He said it as a plain fact, the way a man mentions the weather, and he went out.",
+   "Nobody spoke for a while. Then Kanagavalli took a piece of cardboard and a marker. She wrote in Tamil, in large letters: OUR TURMERIC IS PALE BECAUSE NOTHING IS ADDED. BRING A GLASS OF WATER AND SEE. She set two glasses on the counter beside it, one pale and settled, one marigold.",
+   "'Will they come back?' asked Thenmozhi.",
+   "'Some,' said her mother. 'The ones who look.'",
+   "Thenmozhi sat down again with her homework and did not do it. She was thinking about the woman who had held the packet to the light. That woman had not wanted lead. She had wanted gold-coloured turmeric, because gold looked like good. And up and down the road, traders had heard her, and had given her the colour.",
+   "So who had put it there?"
+  ],
+  "epiphany": "The dye was added by a seller, but the wish for it began with buyers who judged turmeric by brightness. And the test that caught one adulterant was blind to a worse one, because a test answers only the question it was built to ask.",
+  "ask": [
+   "The trader's powder passed Thenmozhi's water test. What other difference between that powder and turmeric could a new test use?",
+   "The customer wanted bright turmeric and did not want lead. Did she have any part in the lead being there? Give your reasons.",
+   "Kanagavalli put two glasses on the counter. Why might letting buyers see a test work better than telling them 'my turmeric is pure'?"
+  ],
+  "art": [
+   "A woman holding an open packet of pale turmeric up to the light in a spice-grinding mill, while the mill owner stands with flour-dusted hands.",
+   "Three glasses of water on a counter: one with pale powder settled and faintly yellow water, one bright marigold all through, and one with a heavy, vivid yellow layer under clear water.",
+   "A hand-lettered cardboard sign on a mill counter beside two glasses of water, with a girl on flour sacks looking out at the road."
+  ]
+ },
+ "how_we_found_out": {
+  "story": "For a long time the rule of the market was 'let the buyer beware'. It seemed fair, because in a small market a buyer could look, smell and taste, and knew the seller's face. As towns grew and food came from far away, that stopped being true. In 1820 Frederick Accum, a German chemist working in London, published a book of chemical tests showing chalk and alum in bread, red lead in cheese and copper in pickles. Merchants were furious, and little changed. Between 1851 and 1854 the English doctor Arthur Hill Hassall examined about 2,500 samples of food under a microscope for the medical journal The Lancet. Its editor, Thomas Wakley, printed the results with the names and addresses of the shops. Hassall could see what no buyer could: ground-up roots in coffee, foreign starches in flour. Britain passed its first food adulteration law in 1860. In the United States, the chemist Harvey Wiley fed common preservatives to volunteers from 1902 to study their effects, which led to a food law in 1906. India passed the Prevention of Food Adulteration Act in 1954.",
+  "who": "Frederick Accum, Arthur Hill Hassall, Thomas Wakley, Harvey Wiley",
+  "when": "1820 to 1954",
+  "wrong_idea": "It is the buyer's own job to notice bad food, so no law is needed. It was believable while buyers could judge food with their senses. The microscope and chemistry showed adulterants that no buyer could ever see, smell or taste."
+ },
+ "roots": {
+  "context": "You have tested food for what was secretly added to it. Now we ask what 'pure' really points to, and what the food you eat tells you about yourself and the world.",
+  "deep_truth": {
+   "truth": "You tested milk and found extra water. But the milk was mostly water before anyone touched it. Turmeric, honey and ghee are each made of hundreds of substances. So 'pure' never meant that a food is one thing alone. Your tests were finding something hidden by a person, and purity turned out to be honesty between people about a mixture.",
+   "habit": "We speak of 'pure' as a property that sits inside a substance, the way weight does. That makes purity look like a fact about milk or turmeric. The lesson's tests show it is a fact about what one person told another.",
+   "evidence": "In the mystery cups test, the watered milk and the whole milk contained exactly the same kinds of substance. The only difference was the amount of water and the fact that nobody had been told. The tests detected the first, and the wrong lay in the second."
+  },
+  "three": {
+   "who_am_i": "The calcium in your bones and the protein in your muscles arrived as food. Lead, if it is in your food, is stored in the same bones. So your body is built from what you were given to eat, including the parts nobody mentioned. You are made of other people's care, and sometimes of their carelessness.",
+   "what_is_life": "Every living being tests what they take in. A rat nibbles a new food and waits. A bee's antennae judge nectar. A bacterium senses sugar and swims towards it, and senses a poison and turns away. To be alive is to keep choosing what may cross from outside to inside.",
+   "what_is_this_world": "A spoon of turmeric holds soil from a field, rain, a farmer's season, a miller's hands and a trader's choices. If any of them fails, the failure reaches your plate. The world is joined so closely that no meal comes from one place or one person."
+  },
+  "thread": "This lesson set out to catch cheats and found something else as well. No food is one thing alone, and nobody eats alone. Each mouthful is a mixture made by plants, animals, microbes, weather and many people, most of whom you will never meet. Adulteration is a break in that chain at the one place where a person chose to hide something. Consciousness is the ground from which the eater, the food and the grower all arise, so eating is that one ground passing through its own forms. Many scientists would put it more simply: atoms are shared and recycled among living things. Their view is given below. Both accounts agree that the line between your food and you lasts only a few hours.",
+  "teachings": [
+   {
+    "source": "Taittiriya Upanishad, part 3, sections 2 and 7",
+    "teaching": "Bhrigu, a student, is told by his father to find out what everything comes from. His first answer is food: beings are born from food, live by food, and return to food. Later the text gives a rule: 'Do not speak ill of food.'",
+    "link": "The student's first answer is the one biology confirms: bodies are built from what is eaten. The Upanishad treats this as a first step, and Bhrigu goes on to deeper answers. The lesson stays at the first step and finds it already large."
+   },
+   {
+    "source": "Thich Nhat Hanh, a Vietnamese Buddhist teacher, in 'The Heart of Understanding', 1988",
+    "teaching": "He holds up a sheet of paper and says that a cloud is floating in it. Without the cloud there is no rain, without rain no tree, and without the tree no paper. He calls this interbeing: a thing is made of everything that is not that thing.",
+    "link": "The story's turmeric holds a field, a mill and a road full of buyers in the same way. The lesson's science traced each of those links one by one, and found that a fault in any of them shows up in the powder."
+   },
+   {
+    "source": "Kautilya's Arthashastra, book 4, chapter 2",
+    "teaching": "A ruler must protect people from merchants who use false weights or sell mixed goods as good ones.",
+    "link": "This is a book of government, not of the spirit, and it is here for that reason. It shows an old recognition that honesty about food cannot be left to each buyer's eyes. It has to be kept up by people together."
+   }
+  ],
+  "science": [
+   {
+    "text": "The atoms of the body are steadily replaced by atoms from food and water. Studies that label food with traceable atoms, begun by Rudolf Schoenheimer in the 1930s, showed that even bone and fat are constantly being taken apart and rebuilt.",
+    "status": "settled"
+   },
+   {
+    "text": "Rats who fall ill after a new taste avoid that taste afterwards, even when the illness comes hours later. John Garcia and colleagues reported this in 1955. Many other animals show the same learning.",
+    "status": "settled"
+   }
+  ],
+  "other_view": {
+   "who": "The Buddha in the Amagandha Sutta, Sutta Nipata 2.2, and separately the Charvaka thinkers of ancient India",
+   "view": "The Buddha taught that no food makes a person pure or impure, and that only actions do. On that view the search for pure food can become a distraction from how one lives. The Charvakas held that a person is the body and nothing more. For them, food builds the body and matters for that reason alone, and there is no deeper joining to be found in a meal."
+  },
+  "practice": {
+   "title": "One mouthful, traced back",
+   "mins": 3,
+   "say": "Take one small piece of food: a grain of cooked rice, or a pinch of dal. Before you eat it, look at it for three slow breaths. In your mind, walk backwards along its journey. The kitchen. The shop. The lorry. The mill. The field. The rain. Do not hurry. Now eat it slowly, and notice the moment when you can no longer say where the food ends and you begin.",
+   "kid": "Hold one grain of cooked rice. Look at it for three slow breaths. Think backwards: kitchen, shop, lorry, mill, field, rain. Now eat it slowly. Can you notice the moment when the rice stops being rice and starts being you?"
+  },
+  "ask": [
+   "How many people and other beings touched that one grain before you did? Can you count them?",
+   "If your body is built from food, and food is built from soil, water and air, where does 'you' begin?",
+   "When a seller hides something in food, what exactly is broken: the food, or something between people?"
+  ],
+  "art": "A child holding one grain of rice, with a faint dotted trail leading back from the grain through a kitchen, a shop, a mill and a green field under a rain cloud."
+ },
+ "open_questions": [
+  {
+   "q": "Is there any amount of an artificial food colour that is truly without effect on children?",
+   "why_open": "A British study in 2007 by Donna McCann and colleagues found that mixtures of some colours and a preservative increased restless behaviour in some children. Later reviews judged the effect small and uncertain. Regulators in different countries have drawn different conclusions from the same studies."
+  },
+  {
+   "q": "Should kesari dal be legal to sell in India?",
+   "why_open": "The science of low-toxin varieties and mixed diets suggests the risk is small. Whether it could be sold openly without being mixed secretly into other dals, and who would bear the risk, are questions about markets and fairness that no experiment has settled."
+  },
+  {
+   "q": "Can testing ever get ahead of adulteration, or will cheats always design around each new test?",
+   "why_open": "Every test so far has been followed by adulterants designed to pass it. Methods that read the whole fingerprint of a food are harder to fool, but they are costly and need large libraries of genuine samples. Nobody knows if a test can exist that cannot be gamed."
+  },
+  {
+   "q": "How much of the harm linked to heavily processed food comes from the processing itself?",
+   "why_open": "Studies link such diets to illness, and one controlled trial showed people eat more of them. Scientists do not agree on the cause: the ingredients, the softness and speed of eating, the additives, or something not yet identified."
+  },
+  {
+   "q": "How much lead are Indian children taking in from spices, compared with other sources?",
+   "why_open": "Lead also comes from old paint, battery recycling, some cookware and some cosmetics. Few studies in India have measured all the sources in the same homes, so the share from adulterated spices is not known."
+  }
+ ],
+ "sources": {
+  "founder": [],
+  "science": [
+   "Food Safety and Standards Authority of India, 'Detect Adulteration with Rapid Test (DART)' booklet",
+   "Food Safety and Standards Act, 2006, and the Food Safety and Standards Regulations, 2011, Government of India",
+   "Food Safety and Standards Authority of India, National Milk Safety and Quality Survey, 2018, and the national survey on milk adulteration, 2011",
+   "Forsyth and others, 'Turmeric means yellow in Bengali: lead chromate pigments added to turmeric threaten public health across Bangladesh', Environmental Research, 2019",
+   "Forsyth and others, 'Food safety policy enforcement and associated actions reduce lead chromate adulteration in turmeric across Bangladesh', Environmental Research, 2023",
+   "Forsyth and others, 'Evidence of turmeric adulteration with lead chromate across South Asia', Science of the Total Environment, 2024",
+   "World Health Organization, fact sheet on lead poisoning",
+   "Sharma and others, 'Epidemic dropsy in India', Postgraduate Medical Journal, 1999",
+   "Centre for Science and Environment, New Delhi, report on honey adulteration, December 2020",
+   "World Health Organization, 'Toxicological and health aspects of melamine and cyanuric acid', 2009",
+   "Akerlof, 'The market for lemons: quality uncertainty and the market mechanism', Quarterly Journal of Economics, 1970",
+   "Monteiro, 'Nutrition and health: the issue is not food, nor nutrients, so much as processing', Public Health Nutrition, 2009",
+   "Hall and others, 'Ultra-processed diets cause excess calorie intake and weight gain', Cell Metabolism, 2019",
+   "McCann and others, 'Food additives and hyperactive behaviour in 3-year-old and 8 and 9-year-old children in the community', The Lancet, 2007",
+   "Garcia, Kimeldorf and Koelling, 'Conditioned aversion to saccharin resulting from exposure to gamma radiation', Science, 1955",
+   "Accum, 'A Treatise on Adulterations of Food, and Culinary Poisons', 1820",
+   "Hassall, 'Food and its Adulterations', 1855",
+   "Kautilya, Arthashastra, book 4, chapter 2, in the translation by R. Shamasastry",
+   "Chandogya Upanishad 7.26.2, Taittiriya Upanishad 3.2 and 3.7, Sutta Nipata 2.2",
+   "Indian Council of Medical Research, expert panel recommendation on Lathyrus sativus, 2016"
+  ]
+ },
+ "playtest": "Main hands-on investigation, to be written under this name: 'The mystery cups test: can simple tests find what a grown-up has secretly added?' A grown-up prepares pairs of samples out of the child's sight: sugar with and without a pinch of chalk powder, tea leaves with and without a drop of food colouring dried on them, turmeric powder with and without a pinch of food colouring, and milk with none, a little and a lot of added water. The child predicts, tests each with water, wet paper and the slanting plate, and names which cup was changed. The milk series shows the smallest amount a test can notice, so the result is not known beforehand. Only then does the child test the family's own kitchen samples. A clean result on a kitchen sample is to be reported as 'nothing found by this test', never as 'pure'. Nothing tested is eaten or drunk afterwards. The iodine test is optional, with a grown-up, because tincture of iodine stains and must not be swallowed. No test for lead is possible at home, and the lesson must not suggest one. The roots, the summary and the deep truth refer to this test. A parent should know that most home samples will pass, and that this is the expected and honest result. Facts a reviewer must verify: the exact wording of each DART test, above all pepper and papaya seeds in water, coffee and chicory, the milk drop on a slanting surface, and the detergent shake. India's lead limit for turmeric of 10 parts per million. The Bangladesh studies of 2019 and 2023 and the 2024 South Asia study, and the role of icddr,b. Delhi 1998 figures of about 3,000 ill and about 60 dead, and the 1877 Kolkata report. Mandatory iodised salt since 2006. Eight permitted synthetic colours. The 2024 cotton candy bans in Tamil Nadu and Karnataka. Milk at about 87 per cent water. Chandogya Upanishad 7.26.2 and Shankara's reading of 'food'. Amagandha Sutta, Sutta Nipata 2.2. The honey report: 13 brands, 10 failing NMR. Melamine 2008: about 300,000 babies ill and six deaths. Kjeldahl 1883. Vitruvius and the crown story. The Irish horse meat finding of January 2013. The basmati DNA test from the Centre for DNA Fingerprinting and Diagnostics, Hyderabad. Milk surveys: 1,791 samples and about 68 per cent in 2011, and 6,432 samples, 93 per cent safe, 12 unsafe adulterated samples, about 6 per cent with aflatoxin M1 and about 41 per cent below quality standards in 2018. The false '87 per cent cancer' message. Calcium carbide ban and permitted ethylene. Richard Gane 1934. Kesari dal ban of 1961, the states where it is still grown, and the 2016 Indian Council of Medical Research panel. Arthashastra 4.2 and the fine of 12 panas. Ibn al-Ukhuwwa's handbook. The 1954 and 2006 Acts, the 14-digit licence number, and the fines of 5 lakh rupees and life imprisonment. AGMARK and the 1937 Act. Food Safety Connect app, Food Safety on Wheels and helpline 1915. Pliny, Natural History book 12, on pepper. Colin and Gaultier de Claubry 1814. Children absorbing four to five times as much lead. Monteiro 2009 and Hall 2019. McCann 2007. Schoenheimer. Garcia 1955. Accum 1820, Hassall's roughly 2,500 samples from 1851 to 1854, the 1860 British law, Wiley from 1902 and the 1906 law. Erode as a turmeric centre and Kodumudi as a growing area. The price of milk in the profit sum is an example only. The deep truth was not compared with other lessons' deep truths, because this helper was told to make no other tool calls: run deep_truths.py and check. The founder's notes and the Combined lessons were not searched for the same reason, so sources.founder is empty. Words that need flashcards, in the order met: pure, adulteration, adulterant, adding, removing, swapping, profit, by weight, label, supply chain, trader, wholesaler, nourishment, poison, dye, pigment, lead, lead chromate, argemone, epidemic dropsy, additive, fortification, iodised salt, permitted colour, preservative, mixture, standard, toned milk, property, dissolve, settle, float, magnet, iodine, starch, curcumin, detergent, lather, lactometer, chromatography, band, detect, limit of a test, nectar, syrup, stand-in measurement, protein, nitrogen, melamine, density, microscope, DNA, survey, sample, contaminant, ethylene, ripening, calcium carbide, kesari dal, lathyrism, drought, licence number, sub-standard, misbranded, unsafe, batch number, complaint."
+}

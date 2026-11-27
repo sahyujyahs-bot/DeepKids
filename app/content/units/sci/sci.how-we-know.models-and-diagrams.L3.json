@@ -1,0 +1,679 @@
+{
+ "id": "sci.how-we-know.models-and-diagrams.L3",
+ "title": "Models and diagrams: how scientists show ideas, and what every model leaves out",
+ "level": 3,
+ "summary": {
+  "text": "A globe is a model of the Earth, yet no rain falls on a globe and nobody lives there. So how can something that leaves out nearly everything help us understand the real thing? In this lesson you find out what a model is, how a diagram differs from a picture, and why scientists use several kinds of model. You build a model of something you cannot see, inside a sealed box, and test it. Then you ask a harder question: is the world you see with your own eyes also a kind of model?",
+  "art": "A child holding a small globe in one hand and looking out of a window at real hills, with a paper map lying on the table."
+ },
+ "intro": {
+  "hook": "Draw the way from your bed to your front door, so that a visitor could follow it. Now look at your drawing. Did you draw the fan, the smell of the kitchen, the colour of the floor? Why not?",
+  "text": "You left those things out without being told to. You kept only what a visitor needs: the doors, the turns, the order of the rooms. That drawing is a model of your home. Scientists do the same thing when they study the Earth, a heart or an atom. They keep a few important features and leave the rest out. Today you will learn how to make a model, how to read one, and how to ask what it is hiding.",
+  "art": "A child's hand-drawn floor plan with a dotted line running from a bed to a front door."
+ },
+ "outcomes": [
+  "I can say what a model is: something that shows an object or an idea in a clear way.",
+  "I can name different types of models in science, including physical models and diagrams.",
+  "I can say how a diagram is different from a picture.",
+  "I can point out what a model shows and what it leaves out.",
+  "I can use a model to explain something and to predict what will happen.",
+  "I can build a model of something I cannot see, test it, and change it when the test goes against it.",
+  "I can explain why one thing can have several models, each good for a different job."
+ ],
+ "explanations": [
+  {
+   "concept": "A model shows an object or an idea in a clear way",
+   "status": "defined",
+   "definition": "A model is something made to stand for a real object, a process or an idea, so that we can see it and think about it clearly.",
+   "description": "Some things are hard to study directly. The Earth is too big to see all at once. A germ is too small. A mountain growing is too slow. Lightning is too fast and too dangerous. An idea, such as how sound travels, cannot be seen at all. So people make something that stands for the real thing and is easy to look at. That is a model. A globe stands for the Earth. A plastic skeleton stands for the bones inside you. A drawing of arrows stands for moving air. A model is not the real thing. It is a tool for thinking about the real thing.",
+   "examples": [
+    "A globe on a teacher's table is a model of the Earth.",
+    "A toy auto-rickshaw is a model of a real one.",
+    "A clay heart with tubes is a model of the heart in your chest.",
+    "A row of children passing a ball along is a model of how a message travels along a nerve."
+   ],
+   "perspectives": [],
+   "one_view": "This is the working meaning of 'model' that scientists and school boards share. Later cards ask the harder question of how a model relates to what is real.",
+   "art": "A real mountain range in the background and, on a table in front, a small clay model of the same mountains with a child's finger tracing a valley.",
+   "context": "This card says what a model is and why people need one."
+  },
+  {
+   "concept": "Every model leaves things out on purpose",
+   "status": "defined",
+   "definition": "A model shows some important features of the real thing and leaves out the rest. What it keeps depends on what the model is for.",
+   "description": "A globe shows the shapes of the land and the sea. It leaves out rain, smells, traffic and nearly everything else. That is not a mistake. Leaving things out is what makes a model clear. A classroom globe is about 30 centimetres across. The real Earth is about 12,742 kilometres across. So one centimetre on the globe stands for about 425 kilometres. At that size Mount Everest would be a bump only one-fifth of a millimetre high, too small to feel. The maker has to choose. A model that kept everything would be as big and as confusing as the thing itself.",
+   "examples": [
+    "A toy car shows the shape and the wheels. It leaves out the engine, the petrol and the noise.",
+    "A plastic skeleton shows the bones. It leaves out the muscles, the blood and the living person.",
+    "In a story by Lewis Carroll, printed in 1893, a country makes a map as large as the country itself. The farmers complain that it would cover the fields and shut out the sunlight, so the map is never unrolled."
+   ],
+   "perspectives": [],
+   "one_view": "That a model shows only some features is part of what the word means. Nobody disputes it.",
+   "art": "A globe beside a list in two columns, 'shown' with land, sea and countries, and 'left out' with rain, people, smells and mountains you can feel.",
+   "context": "This card shows that leaving things out is how a model works, with the numbers for a classroom globe."
+  },
+  {
+   "concept": "Physical models are things you can hold and turn",
+   "status": "defined",
+   "definition": "A physical model is a solid object built to stand for something real. It may be smaller than the real thing, larger, or the same size.",
+   "description": "A physical model has length, width and height. You can pick it up, turn it round and look from behind. Some physical models are smaller than the real thing, such as a globe or a model bridge. Some are larger, such as a plastic flower as big as a football, made so that a whole class can see the parts. Some move. A model of the Sun, the Earth and the Moon on wire arms can show how an eclipse happens. The size of a model compared with the real thing is called its scale.",
+   "examples": [
+    "A model eye that comes apart shows the lens and the layers behind it.",
+    "A doll's house is a physical model of a house.",
+    "A lump of atta dough pressed with a thumb is a model of how soft rock can be squeezed into folds.",
+    "Shop models of teeth let a dentist show a child how to brush."
+   ],
+   "perspectives": [],
+   "one_view": "This is a plain description of one type of model, and there is nothing in it for scientists to disagree about.",
+   "art": "A table holding a globe, a giant plastic flower split in half, and a small wire model of the Sun, Earth and Moon.",
+   "context": "This card describes the first type of model in science: the physical model."
+  },
+  {
+   "concept": "A diagram is a simple drawing that explains",
+   "status": "defined",
+   "definition": "A diagram is a drawing made of simple lines, labels and arrows that shows the parts of something and how they join or work.",
+   "description": "A diagram is a model on paper. It uses plain lines and few colours. It has labels, which are words that name the parts. It often has arrows to show what moves and which way. A diagram can show things you could never see at one glance. It can slice a mango in half to show the seed. It can show the inside of your body with the skin left off. It can show a whole year of rain and sunshine in one loop of arrows. A diagram is made to be understood, not to look pretty.",
+   "examples": [
+    "A diagram of a plant with labels for root, stem, leaf, flower and fruit.",
+    "The diagram on a medicine leaflet showing how to use an inhaler.",
+    "The steps printed on a packet of instant noodles, with arrows from one step to the next.",
+    "A raised diagram made of dots and lines that a child who cannot see can read with the fingers."
+   ],
+   "perspectives": [],
+   "one_view": "This is a plain description of the second type of model, the diagram, and it is not in dispute.",
+   "art": "A labelled line diagram of a bean plant, with straight label lines and an arrow showing water moving up from the roots.",
+   "context": "This card describes the second type of model in science: the diagram."
+  },
+  {
+   "concept": "How a diagram is different from a picture",
+   "status": "defined",
+   "definition": "A picture shows how a thing looks. A diagram shows how a thing is put together or how it works.",
+   "description": "Take a photograph of a hibiscus flower. It shows this one flower, on this one day, with its colour, its shadow and the ant walking on a petal. Now look at a diagram of a flower. It has no shadow and no ant. It has clean lines and the names of the parts. It stands for every flower of that kind. A picture keeps whatever the eye or the camera happened to catch. A diagram keeps only what its maker chose, and adds labels and arrows that are not there in real life. So a picture is good for knowing what something looks like. A diagram is good for understanding the thing.",
+   "examples": [
+    "A photo of a bicycle shows the mud, the bell and the rust. A diagram of a bicycle shows how the pedals, the chain and the back wheel are joined.",
+    "A painting of a river shows the light on the water. A diagram shows where the river starts, which streams join, and where the river meets the sea.",
+    "A picture of the Moon shows one evening's Moon. A diagram can show eight shapes of the Moon over a month in one row."
+   ],
+   "perspectives": [
+    {
+     "who": "Science teachers and textbook writers",
+     "explanation": "A diagram is clearer than a picture for learning, because everything that does not matter has been taken away."
+    },
+    {
+     "who": "Field naturalists, such as the bird expert Salim Ali",
+     "explanation": "A clean drawing shows the perfect bird. The real bird in the bush is half hidden, wet or young. To know a living being you need pictures, notes and many hours of watching as well as the diagram."
+    },
+    {
+     "who": "Artists of the Warli people of Maharashtra",
+     "explanation": "Warli paintings show people, animals and trees with circles, triangles and lines. They do not copy how things look. They show how things are joined: the dance, the harvest, the village. A drawing can sit between a picture and a diagram."
+    }
+   ],
+   "art": "A photograph-style drawing of a hibiscus with an ant and a shadow on the left, and a clean labelled diagram of the same flower on the right.",
+   "context": "This card sets a picture and a diagram side by side and says what each is good for."
+  },
+  {
+   "concept": "A map is a diagram of a place, and a flat map must stretch something",
+   "status": "defined",
+   "definition": "A map is a diagram of land or sea, drawn smaller than real size, using a scale and agreed signs.",
+   "description": "A map is a model of a place seen from above. It has a scale, which tells you how much real ground each centimetre stands for. It has a key, which explains its signs, such as a blue line for a river. Here is a problem. The Earth is round like a ball, and paper is flat. Try to flatten an orange peel and it tears or stretches. So every flat map of the world stretches some part. On the map used in most classrooms, Greenland looks about as large as Africa. In truth Africa is about 14 times larger than Greenland. India is larger than Greenland too.",
+   "examples": [
+    "The classroom map was designed by Gerardus Mercator in 1569 to help sailors steer. It keeps directions right and makes lands far from the middle look too big.",
+    "A globe shows sizes truly, but you cannot fold it into a school bag.",
+    "A map of your town on a phone leaves out every tree and every dog, and shows every road."
+   ],
+   "perspectives": [
+    {
+     "who": "Sailors and pilots",
+     "explanation": "On Mercator's map a straight line is a steady compass direction. For steering a ship this matters more than true sizes."
+    },
+    {
+     "who": "Arno Peters in 1973, following James Gall in 1855",
+     "explanation": "They drew a world map that keeps the sizes of lands true. It makes the shapes look pulled long. Peters argued that the usual map made Europe look more important than Africa, India and South America."
+    },
+    {
+     "who": "Map-makers today",
+     "explanation": "No flat map can keep sizes, shapes, distances and directions all true at once. This was proved by the mathematician Carl Friedrich Gauss in 1827. So you pick the map for the job."
+    }
+   ],
+   "art": "An orange with a face of continents drawn on it, beside its peel flattened and torn, beside a rectangular world map with Greenland drawn huge.",
+   "context": "This card shows that a map is a model too, and that even a trusted map bends the truth in one way to keep it in another."
+  },
+  {
+   "concept": "Some models are made of numbers and run inside computers",
+   "status": "defined",
+   "definition": "A computer model is a set of rules and numbers that stands for a real process, such as the weather, and is worked out by a computer.",
+   "description": "A model does not have to be a thing or a drawing. It can be a rule. 'Distance equals speed multiplied by time' is a model of a journey. A weather forecast comes from a very large model of this kind. The air over India is divided into boxes. For each box the computer holds numbers for heat, wind and wetness. Rules from science say how each box changes the boxes beside it. The computer steps the numbers forward, hour by hour, and out comes tomorrow's weather. The model leaves out a great deal, so the forecast is a likelihood and not a promise.",
+   "examples": [
+    "In October 2013 the India Meteorological Department's models predicted the path of Cyclone Phailin days ahead. About ten lakh people in Odisha and Andhra Pradesh moved to safety. A cyclone of similar strength in 1999, before such models, killed about 10,000 people in Odisha.",
+    "A recipe that says 'one tumbler of rice needs two tumblers of water' is a number model of cooking rice.",
+    "Doctors use number models to work out how fast an illness might spread through a city."
+   ],
+   "perspectives": [],
+   "one_view": "That such models exist and how they are built is plain fact. How far to trust any one of them is taken up in the card about models being true or useful.",
+   "art": "A map of India covered by a grid of boxes, each holding a small arrow and a number, with a swirl of cloud over the Bay of Bengal.",
+   "context": "This card adds a third type of model, the kind made of numbers, with an Indian example of what it can do."
+  },
+  {
+   "concept": "A model in words: 'this is like that'",
+   "status": "defined",
+   "definition": "An analogy is a comparison that explains something unfamiliar by saying it is like something familiar in one way.",
+   "description": "You can build a model out of words. 'The heart is like a pump.' 'Electricity in a wire is like water in a pipe.' A comparison like this is called an analogy. It lets you carry what you know about one thing over to another. But an analogy is right in some ways and wrong in others, like every model. Cut a pipe and water spills on the floor. Cut a wire and no electricity pours out. So with every 'this is like that', ask two things. In what way is it like? And where does the likeness stop?",
+   "examples": [
+    "'A seed is like a packed tiffin box.' True: the seed holds a food store for the young plant. Not true: nobody packed the seed from outside.",
+    "'The Earth is like a spinning top.' True: both spin about a line through the middle. Not true: nobody set the Earth spinning with a string.",
+    "'A nerve is like a telephone wire.' True: both carry signals. Not true: a nerve is alive and passes the signal along by their own chemistry."
+   ],
+   "perspectives": [
+    {
+     "who": "Nyaya Sutra 1.1.6, by Akshapada Gautama, composed perhaps about 2,000 years ago",
+     "explanation": "The Nyaya school of Indian philosophy counts comparison, called upamana, as one of four proper ways of knowing. The usual example: a man is told that a gavaya, a wild ox, looks like a cow. Later he meets one in the forest and knows what he is seeing."
+    },
+    {
+     "who": "The Vaisheshika and Buddhist schools of the same period",
+     "explanation": "They replied that comparison is not a separate way of knowing. It is only seeing joined with reasoning. The schools argued about this for centuries."
+    },
+    {
+     "who": "The physicist James Clerk Maxwell, in 1855",
+     "explanation": "He worked out the rules of electricity and magnetism by comparing them with flowing water. He warned that such a comparison lends its ideas without proving that the two things are truly alike."
+    }
+   ],
+   "art": "A heart drawn on the left and a hand pump at a village well on the right, with a ribbon between them marked 'like, in one way'.",
+   "context": "This card shows that a comparison is a model made of words, and that Indian philosophers studied it as a way of knowing."
+  },
+  {
+   "concept": "We use a model to explain what we see",
+   "status": "defined",
+   "definition": "To explain with a model is to show, step by step on the model, how the real thing comes about.",
+   "description": "Why is it day in Kochi while it is night in Mexico? Words alone make this hard. A model makes it easy. Hold a ball in a dark room and shine a torch on it. Half the ball is lit and half is dark. Put a dot of pen on the ball for Kochi and turn the ball slowly. The dot goes into the light and then into the dark. Now you can say why day and night happen: the Earth turns, and each place is carried into the Sun's light and out again. The model did not prove this. It let you see how the explanation works.",
+   "examples": [
+    "A sponge squeezed in a bowl of water explains how soil holds rain and lets it go.",
+    "Marbles packed in a box, then shaken, explain how the tiny particles of a solid differ from those of a liquid.",
+    "A doctor uses a model of the knee to explain to a patient what is torn."
+   ],
+   "perspectives": [],
+   "one_view": "Using a model to explain is a method that every science uses. The debates are about particular models, which later cards give.",
+   "art": "A dark room with a torch shining on a ball held by a child, half the ball lit, and a pen dot on the edge of the light.",
+   "context": "This card shows the first job of a model: explaining something you have seen."
+  },
+  {
+   "concept": "A good model also predicts, and a prediction can show the model is wrong",
+   "status": "defined",
+   "definition": "A model predicts when it lets you say what will happen in a case you have not yet seen. If the prediction fails, the model must be changed.",
+   "description": "A model earns trust by telling you something before you look. Take the torch and ball again. Ask it a new question: at the very top of the ball, how long does a day last? Turn the ball. If the ball stands straight, the top is always at the edge of the light. If you tilt the ball, the top stays in the light for turn after turn. So the tilted model predicts that the far north has a season when the Sun does not set. That is true. In June the Sun stays up all night in the far north of Norway. When a model's prediction turns out false, scientists do not hide it. They mend the model or build a new one.",
+   "examples": [
+    "A model of a paper bridge predicts where it will fold. Load it with coins and see.",
+    "A weather model predicts rain on Thursday. Thursday comes and tests the model.",
+    "In 1846 astronomers used Newton's model of gravity to predict where an unseen planet must be. They pointed a telescope there and found Neptune."
+   ],
+   "perspectives": [],
+   "one_view": "That a model should be tested by its predictions is the shared rule of working scientists.",
+   "art": "A tilted ball lit by a torch, with a small figure standing at the top of the ball in the light, and a dotted circle showing the figure staying lit as the ball turns.",
+   "context": "This card shows the second job of a model, predicting, which is how a model is tested."
+  },
+  {
+   "concept": "One thing can have many models, each good for one job",
+   "status": "defined",
+   "definition": "Different models of the same thing keep different features. The best one depends on the question being asked.",
+   "description": "Think of a city's metro. One map shows the lines as straight coloured strokes with the stations evenly spaced. It is wrong about distances and bends. It is perfect for answering 'where do I change trains?' Another map shows the true path of the tracks under the streets. It is hard to read on a platform. It is what an engineer needs to dig a tunnel. Neither map is the real metro. Each is right for its job. In science too, one thing often has several models, and a scientist picks one the way you pick a tool.",
+   "examples": [
+    "The metro map idea came from Harry Beck in London in 1933. His job was drawing electrical wiring plans, and he drew the railway the same way.",
+    "The Earth has a globe, a flat map, a model cut open to show its layers, and a computer model of its weather.",
+    "Light is modelled as straight rays to explain shadows and as waves to explain the colours on a soap bubble.",
+    "Your body has a skeleton model, a model of the blood vessels and a model of the nerves. No single model shows all three clearly."
+   ],
+   "perspectives": [
+    {
+     "who": "Jain philosophers, in the teaching called anekantavada",
+     "explanation": "A real thing has countless sides, and any one statement about it is true only from one standpoint. So several different accounts can each be right in part."
+    },
+    {
+     "who": "The Udana, a Buddhist text, section 6.4",
+     "explanation": "A king has men who were born blind each touch one part of an elephant. One says the elephant is like a pot, another like a plough, another like a pillar. They quarrel, because each takes a part for the whole."
+    },
+    {
+     "who": "Physicists who look for one final theory, such as Steven Weinberg",
+     "explanation": "They hold that the many models are steps on the way. Underneath there should be one set of laws from which all the others follow."
+    }
+   ],
+   "art": "A straight-line metro map with coloured lines and round stations beside a street map of the same city with the wiggly true track drawn in.",
+   "context": "This card pushes against the idea that there is one correct model of each thing."
+  },
+  {
+   "concept": "Scale: when a model cannot be drawn to true size",
+   "status": "defined",
+   "definition": "A scale model keeps every size and distance in the same proportion to the real thing. Some real things are spread out so widely that a true scale model will not fit on a page.",
+   "description": "Textbook diagrams of the solar system show the Sun and the planets in a neat row, close together. Let us make that model true to scale. Let the Sun be a ball 22 centimetres across, about the size of a football. Then the Earth is a mustard seed 2 millimetres across. The seed must sit about 24 metres from the ball, which is two bus lengths. Neptune is a peppercorn about 700 metres away. No page can hold that. So the diagram cheats on distance to keep everything in view. Honest diagrams say so, with the words 'not to scale'.",
+   "examples": [
+    "A diagram of an atom draws the centre large. If the centre of an atom were a grain of sand at the middle of a cricket ground, the edge of the atom would be near the boundary rope.",
+    "A map of India in an atlas draws the Ganga as a line you can see. At true scale the river would be far thinner than a hair on that page."
+   ],
+   "perspectives": [],
+   "one_view": "These sizes and distances are measured, and the arithmetic of scaling them is not in dispute.",
+   "art": "A football at one end of a long school corridor and, far down the corridor, a child crouching to point at a mustard seed on the floor.",
+   "context": "This card gives the numbers that show why some diagrams cannot be true to scale, and why they should say so."
+  },
+  {
+   "concept": "A wrong model can still predict well: the Earth-centred sky",
+   "status": "defined",
+   "definition": "A model can give correct predictions and still be wrong about how the real thing is arranged.",
+   "description": "About 150 CE, in Egypt, Ptolemy built a model of the sky with the Earth standing still at the centre. The Sun, the Moon and the planets went round the Earth on circles carried by other circles. This model predicted where each planet would appear, well enough to be used for about 1,400 years. Yet the Earth is not at the centre. The model worked because circles on circles can copy almost any path. A model that gives the right answers has not yet shown that it is built the way the world is built.",
+   "examples": [
+    "A timetable predicts when the bus comes. It tells you nothing true about how the engine works.",
+    "You can predict the Sun's place in the sky tomorrow perfectly well while believing that the Sun goes round the Earth."
+   ],
+   "perspectives": [
+    {
+     "who": "Aryabhata, in the Aryabhatiya, Gola section, verse 9, written in 499 CE",
+     "explanation": "He wrote that the stars only seem to move westward, because the Earth turns, as the bank seems to move backward to someone in a boat. Most astronomers of his time, in India and outside, did not accept this."
+    },
+    {
+     "who": "Nilakantha Somayaji of Kerala, in the Tantrasangraha, written in 1500 CE",
+     "explanation": "He changed the model so that Mercury, Venus, Mars, Jupiter and Saturn go round the Sun, while the Sun goes round the Earth. It fitted the planets better than earlier models."
+    },
+    {
+     "who": "Nicolaus Copernicus in Poland in 1543, and Johannes Kepler in 1609",
+     "explanation": "Copernicus put the Sun at the centre with the Earth as one of the planets. Kepler found that the paths are stretched circles called ellipses. That model predicted better still, and is the one used today."
+    }
+   ],
+   "art": "Two sky models side by side: one with the Earth at the centre and planets on small circles riding on big circles, and one with the Sun at the centre and plain oval paths.",
+   "context": "This card shows that predicting well is not the same as being right about what is really there."
+  },
+  {
+   "concept": "Models change when new evidence arrives: the atom",
+   "status": "defined",
+   "definition": "A scientific model is kept only while it fits the evidence. When a test goes against it, a better model replaces it.",
+   "description": "All things are made of tiny particles called atoms. Nobody could see one, so scientists made models. In 1803 John Dalton pictured an atom as a tiny solid ball. In 1904 J. J. Thomson, who had found still smaller particles inside the atom, pictured a soft ball with bits dotted through it. In 1909 Hans Geiger and Ernest Marsden fired fast particles at thin gold. A few bounced straight back, which a soft ball could never do. So in 1911 Ernest Rutherford drew a new model: a tiny hard centre with mostly empty space round it. The model has been changed twice more since. Each change came from a test the old model failed.",
+   "examples": [
+    "Your model of what is inside a wrapped present changes when you shake it and hear a rattle.",
+    "Doctors once pictured the stomach as too sour for anything to live there. In 1982 Barry Marshall and Robin Warren found bacteria living in the stomach, and the model had to change."
+   ],
+   "perspectives": [
+    {
+     "who": "Kanada, in the Vaisheshika Sutra, composed in India more than 2,000 years ago",
+     "explanation": "He reasoned that if you keep dividing a thing you must reach a smallest part that cannot be divided, which he called paramanu. He reached this by argument and not by experiment."
+    },
+    {
+     "who": "Ernst Mach, a physicist in Vienna, until his death in 1916",
+     "explanation": "He held that atoms were only a handy model for doing sums, since nobody had seen one. He asked, 'Have you seen one?'"
+    },
+    {
+     "who": "Erwin Müller and his student Kanwar Bahadur, in the United States in 1955",
+     "explanation": "With a new kind of microscope they made the first pictures in which single atoms showed as separate dots. After that, few doubted that atoms are real things."
+    }
+   ],
+   "art": "Four small drawings in a row with dates: a solid ball (1803), a ball with dots in it (1904), a tiny centre with empty space around it (1911) and a fuzzy cloud (1926).",
+   "context": "This card follows one model through its changes, to show that changing a model is how science is supposed to work."
+  },
+  {
+   "concept": "A diagram can be wrong and still be copied for years",
+   "status": "defined",
+   "definition": "A diagram looks certain because its lines are clean. It is only as true as the evidence behind it.",
+   "description": "Many school books once had a diagram of the tongue divided into zones: sweet at the tip, bitter at the back, sour and salty at the sides. It is wrong. Every part of the tongue that has taste buds can sense every taste. The mistake began when a German study of 1901 by David Hänig, which found only very small differences, was redrawn in a book of 1942 as a map with firm borders. The neat map was copied from book to book. In 1974 Virginia Collings tested it again and showed that the differences are tiny. You can test it too, with a grain of sugar on the back of your tongue.",
+   "examples": [
+    "A picture of an ape slowly straightening into a walking human suggests that living beings change in one straight line towards us. They do not. The family of living beings branches like a banyan.",
+    "Diagrams often draw blood in veins as blue. Blood is always red, darker or brighter."
+   ],
+   "perspectives": [],
+   "one_view": "The tongue map has been tested and found wrong, and taste scientists agree. The card is about a risk that belongs to all diagrams.",
+   "art": "An old textbook-style tongue with four coloured zones and a large red cross over it, beside a tongue covered evenly with small dots.",
+   "context": "This card warns that a clean diagram can carry a mistake, and tells of the woman who checked."
+  },
+  {
+   "concept": "Engineers test models before they build the real thing",
+   "status": "defined",
+   "definition": "A test model is a small, cheap copy of something that is tried out first, so that mistakes are found before the real thing is built.",
+   "description": "A real bridge, dam or rocket costs a great deal, and a mistake can kill. So engineers build a small model and test that. A model aeroplane is held in a tunnel while a fan blows air past, and instruments measure the push of the air. A model river, with real water and sand, shows where a flood would break the bank. Today many of these tests are first run as number models inside a computer. A physical model is then built to check the computer.",
+   "examples": [
+    "In 1901 Wilbur and Orville Wright built a wind tunnel from a wooden box and a fan. They tested about 200 small wing shapes before building the aeroplane that flew in 1903.",
+    "The Central Water and Power Research Station in Pune, founded in 1916, builds models of rivers, dams and harbours that are as large as playgrounds.",
+    "Small models of India's rockets and aircraft are tested in wind tunnels in Bengaluru before the real ones are built.",
+    "A tailor cuts a paper pattern, a flat model of the blouse, before cutting the silk."
+   ],
+   "perspectives": [],
+   "one_view": "This is how engineering is done everywhere, and it is described here as plain fact.",
+   "art": "A small model aeroplane on a stand inside a clear tunnel with streamers of smoke flowing over its wings, and an engineer taking notes.",
+   "context": "This card shows how models are used in engineering to try an idea safely."
+  },
+  {
+   "concept": "Other living beings use models too",
+   "status": "defined",
+   "definition": "Many animals pass on or carry a simplified version of the world, which is what a model is.",
+   "description": "A honeybee who finds flowers flies home and dances on the comb in the dark hive. She runs in a straight line, waggling her body, then circles back and repeats. The direction of her run, measured from straight up, shows the direction of the flowers measured from the Sun. The time she waggles shows how far to fly, roughly one second for each kilometre. Her sisters read the dance and fly to flowers they have never seen. The dance is a small moving diagram of a journey. It leaves out everything except direction and distance.",
+   "examples": [
+    "Karl von Frisch in Austria worked out the meaning of the dance in the 1940s and shared a Nobel Prize for it in 1973.",
+    "In 1948 Edward Tolman showed that rats who had explored a maze could take a new short cut when the usual path was blocked. He said they carry a map of the maze in their heads."
+   ],
+   "perspectives": [
+    {
+     "who": "Karl von Frisch and most bee scientists today",
+     "explanation": "The dance carries information that other bees use, and radar tracking of bees in 2005 confirmed that they fly where the dance points."
+    },
+    {
+     "who": "Adrian Wenner, an American bee scientist, from the 1960s",
+     "explanation": "He argued for decades that bees find the flowers by smell alone and that the dance is not read. Later tests went against him, but his challenge forced better experiments."
+    },
+    {
+     "who": "Scientists who study animal minds",
+     "explanation": "Bees think, remember and decide. Some scientists prefer to call the dance an automatic signal and avoid the word 'model'. What it is like for a bee to dance or to follow a dance is not known to anyone."
+    }
+   ],
+   "art": "A honeycomb seen from the front with one bee tracing a figure-of-eight, an arrow along her straight run, and a small Sun and flower drawn to show the matching angle outside.",
+   "context": "This card shows that making and reading a model is not something only people do."
+  },
+  {
+   "concept": "Is a good model true, or only useful?",
+   "status": "debated",
+   "definition": "Scientists and philosophers disagree about whether a successful model describes the world as it really is or is only a tool that works.",
+   "description": "The atom model works. The Sun-centred model works. Does that mean the world really is the way these models say? Or only that the models are handy for getting right answers? This is one of the oldest arguments in science, and it is not settled. Remember Ptolemy, whose model worked for 1,400 years and was wrong. Remember also the atom, which began as a model and was later photographed. One model turned out to be a mere tool. The other turned out to be a real thing. Nobody has a sure way to tell in advance which kind a new model is.",
+   "examples": [
+    "A weather forecast of '70 in 100 chance of rain' is useful. It makes no claim that the sky contains a 70.",
+    "A map is useful for finding the bus stand, and the bus stand is really there."
+   ],
+   "perspectives": [
+    {
+     "who": "Realists, such as the philosopher Hilary Putnam in 1975",
+     "explanation": "If our best models were not at least roughly true, their success in predicting new things would be a miracle. So good models describe what is really there."
+    },
+    {
+     "who": "George Box, a statistician, in 1976",
+     "explanation": "He wrote that all models are wrong, and later added that some are useful. A model always leaves things out, so the right question is whether it helps."
+    },
+    {
+     "who": "Alfred Korzybski, a Polish-American thinker, in 1931",
+     "explanation": "He put it in a phrase that is still quoted: a map is not the territory. The words and pictures we use for a thing are never the thing."
+    },
+    {
+     "who": "Nagarjuna, a Buddhist philosopher of South India, about the 2nd century CE, in the Mulamadhyamakakarika, chapter 24",
+     "explanation": "He taught two levels of truth. Everyday truth, in words and ideas, is needed for living and for teaching. Final truth cannot be held in any idea. The first is the way to the second, and should not be mistaken for it."
+    }
+   ],
+   "art": "A scientist holding up a paper map in front of a real landscape, with the edges of the map lining up with the hills in some places and not in others.",
+   "context": "This card gives the open argument about what a successful model tells us about the real world."
+  },
+  {
+   "concept": "The world you see may be a model that your body builds",
+   "status": "idea",
+   "definition": "Many scientists think that seeing is not like a camera taking a picture. The brain builds a best guess about what is out there and checks the guess against signals from the eyes.",
+   "description": "Each of your eyes has a small spot at the back where the nerve leaves. That spot has no light sensors, so it sees nothing. Yet you never notice a hole in the world. Why not? The usual explanation is that the brain fills the gap with a guess made from what lies around it. If that is right, part of what you see at this moment is not coming in through the eye. It is being supplied. Some scientists go further and say all seeing works like this: the brain keeps a running model of the world and uses the eyes to correct it. Others disagree. What seeing finally is, and why there is any inner experience at all, science cannot yet say.",
+   "examples": [
+    "The blind spot was found by Edme Mariotte in France in 1660. You can find your own with a dot and a cross drawn 10 centimetres apart on paper.",
+    "In dim light a coil of rope can look like a snake. Your eyes received the same light both times. What changed was the guess.",
+    "A bee sees ultraviolet patterns on a flower that you cannot see. Her world and yours are built from different signals."
+   ],
+   "perspectives": [
+    {
+     "who": "Hermann von Helmholtz in 1867, and the brain scientist Anil Seth today",
+     "explanation": "Seeing is a kind of guessing that we are not aware of doing. The brain predicts what is there and the senses correct the prediction."
+    },
+    {
+     "who": "James Gibson, an American scientist of seeing, in 1979",
+     "explanation": "He argued that there is no inner model. The light arriving at a moving animal already holds all the information needed, and the animal picks it up directly."
+    },
+    {
+     "who": "Gaudapada, in the Mandukya Karika, chapter 2, verses 17 and 18, about the 7th century CE",
+     "explanation": "He writes that a rope not seen clearly in the dark is imagined to be a snake, and when the rope is known the snake is gone. He uses this to say that we lay our own ideas over what is really there."
+    }
+   ],
+   "art": "A side view of an eye with the blind spot marked, and beside it a card with a cross and a dot for the blind-spot test.",
+   "context": "This card turns the idea of a model on the child's own seeing, and says plainly where science runs out."
+  },
+  {
+   "concept": "Three questions to ask of any model",
+   "status": "defined",
+   "definition": "To judge a model, ask what it shows, what it leaves out, and where it stops being like the real thing.",
+   "description": "You now have a way to read any model, diagram, map or comparison. First: what does this model show clearly? Second: what has it left out, and does that matter for my question? Third: where does it break, which means where would it give me a wrong answer? Try it on a globe. It shows the shapes and places of the lands. It leaves out height, weather and life. It breaks if you use it to guess how rough the Earth feels, because the globe is smooth and the Himalayas are not. A person who asks these three questions is hard to fool with a neat diagram.",
+   "examples": [
+    "A food pyramid on a packet shows which foods to eat more of. It leaves out who paid for the packet.",
+    "A toy stethoscope shows the shape of a doctor's tool. It breaks if you try to hear a heartbeat with it.",
+    "A diagram of the water cycle shows one drop going round one loop. It leaves out that a drop may wait in the deep sea for hundreds of years."
+   ],
+   "perspectives": [],
+   "one_view": "These questions are a working method gathered from the earlier cards, and they carry no dispute of their own.",
+   "art": "A magnifying glass held over a globe, with three speech bubbles: 'shows?', 'leaves out?' and 'breaks where?'.",
+   "context": "This card gives a short method for judging any model you meet."
+  }
+ ],
+ "agreed": [
+  {
+   "text": "People were drawing accurate maps to scale thousands of years ago.",
+   "evidence": "A clay tablet from Nippur in ancient Iraq, made about 1500 BCE, shows the city's walls, canals and temple. When archaeologists dug at Nippur they found that the tablet's layout matched the ruins closely."
+  },
+  {
+   "text": "Building a physical model can lead to a discovery that measurements alone did not give.",
+   "evidence": "In 1953 the shape of DNA, the molecule that carries the instructions of living beings, was worked out by fitting metal model pieces together until they agreed with X-ray photographs. The account is in the part of this lesson called 'How we found out'."
+  },
+  {
+   "text": "People understand and remember an explanation better when they draw their own diagram of it.",
+   "evidence": "In 2011 Shaaron Ainsworth, Vaughan Prain and Russell Tytler gathered classroom studies in the journal Science. Children who drew what they thought was happening, including the parts they could not see, reasoned better than children who only read or copied."
+  },
+  {
+   "text": "Honeybees who watch a dance fly in the direction and to the distance that the dance shows.",
+   "evidence": "In 2005 Joe Riley and his colleagues in England fixed tiny radar aerials to bees who had watched a dance, and tracked their flights. The bees flew straight to the area the dance pointed to, even when they were released from a different spot."
+  }
+ ],
+ "challenging": [
+  {
+   "claim": "A model that only predicts, without explaining why, is good enough for science.",
+   "who": "Some builders of artificial intelligence weather models, since about 2022",
+   "for": "Computer programs trained on forty years of past weather now forecast several days ahead about as well as the models built from the rules of physics, and far faster. They contain no rules about air or heat.",
+   "against": "Many scientists reply that a model you cannot look inside may fail without warning when the world changes, as the climate is doing. Ptolemy's circles also predicted well without being right.",
+   "status": "debated",
+   "context": "This is a live argument among scientists about what a model is for: to predict, or also to understand."
+  },
+  {
+   "claim": "There is no world 'as it really is' apart from our models. Each good model makes its own reality.",
+   "who": "Stephen Hawking and Leonard Mlodinow, in 'The Grand Design', 2010",
+   "for": "A goldfish in a curved bowl sees a bent world and could still work out correct laws for it. We have no way to step outside all our models and compare them with the bare world.",
+   "against": "Realists answer that the world pushes back. Models fail, and something makes them fail. That something is the world, whatever our models say.",
+   "status": "debated",
+   "context": "This view challenges the common idea that science is slowly uncovering the one true picture."
+  },
+  {
+   "claim": "Seeing is direct. The brain builds no inner model of the world.",
+   "who": "James Gibson in 1979, and scientists of the 'ecological' school after him",
+   "for": "Animals with very small nervous systems steer through the world skilfully. The light reaching a moving eye changes in ways that directly signal distance and speed, with no need for a built picture.",
+   "against": "Filling-in at the blind spot, and the many pictures that fool the eye, are hard to explain unless the brain is supplying something. Most brain scientists today favour some kind of inner model.",
+   "status": "minority",
+   "context": "This view is held by a smaller group of scientists. It is here because the idea that seeing is a model is not proven."
+  },
+  {
+   "claim": "Children should learn from real things first, because models and diagrams plant wrong ideas.",
+   "who": "Some science educators, following the work of Rosalind Driver in the 1980s on children's ideas",
+   "for": "Studies find that many children take a model literally. They believe that atoms are coloured balls, or that the planets are close together, because the diagram showed them so.",
+   "against": "Other educators answer that nobody can study an atom or a solar system directly. The cure is to teach, with every model, what it leaves out.",
+   "status": "debated",
+   "context": "Both sides agree that models can mislead. They disagree about what to do, and this lesson follows the second answer."
+  }
+ ],
+ "big_questions": [
+  {
+   "q": "If you kept adding detail to a map until nothing was left out, what would you end up with?",
+   "kind": "deep",
+   "hint": "Imagine adding every lane, then every stone, then every ant. Ask how big the map would be and what you could use it for."
+  },
+  {
+   "q": "Ptolemy's model of the sky gave right answers for 1,400 years and was wrong. How could we find out if one of today's models is wrong in the same way?",
+   "kind": "deep",
+   "hint": "Think about what finally went against Ptolemy. Was it a better argument, or a new kind of looking?"
+  },
+  {
+   "q": "A diagram of a flower stands for every flower of that kind. Has anyone ever seen the flower that the diagram shows?",
+   "kind": "deep",
+   "hint": "Pick three real flowers from one plant and compare each with the diagram. Then ask where the diagram's flower exists."
+  },
+  {
+   "q": "Your eye has a spot that sees nothing, and you see no hole. How much of what you see right now is coming in, and how much is being filled in?",
+   "kind": "deep",
+   "hint": "Do the blind-spot test first. Then ask how you could ever check the rest of your view."
+  },
+  {
+   "q": "A bee's dance leaves out the colour and smell of the flowers. A phone map leaves out the trees. Who decides what a model leaves out, and what does that tell you about the maker?",
+   "kind": "big",
+   "hint": "Compare a map drawn by a bus driver, a postman and a crow, if a crow could draw."
+  },
+  {
+   "q": "You have a picture in your mind of what your best friend is like. Is that picture a model? What might it leave out?",
+   "kind": "big",
+   "hint": "Think of a time a friend surprised you. Ask what in your picture had to change."
+  },
+  {
+   "q": "Most world maps put north at the top and Europe near the middle. Would people think differently about the world if the map on the wall were turned upside down?",
+   "kind": "big",
+   "hint": "Turn an atlas page upside down and look at India for a full minute. Notice what looks important now."
+  },
+  {
+   "q": "When you say 'the heart is like a pump', you learn about the heart from a machine. Could people have understood the heart before pumps were invented?",
+   "kind": "big",
+   "hint": "Ask what people compared the heart with before there were pumps, and what a comparison can and cannot give you."
+  },
+  {
+   "q": "Is your idea of yourself, the 'me' you think about, also a model? If it is, who made it and what does it leave out?",
+   "kind": "big",
+   "hint": "Try to list everything that is true of you. Notice what you put first and what you never thought to add."
+  }
+ ],
+ "story": {
+  "title": "Three Maps of One Hill",
+  "mins": 9,
+  "read_aloud": true,
+  "note": "The children, the aunt, the dog and the bakery are made up. Munsiyari is a real town in Uttarakhand. Nain Singh Rawat was a real surveyor, born in 1830 in the village of Milam in the Johar valley. In 1865 and 1866 he walked to Lhasa for the Survey of India, measuring the way by counting equal steps on a string of 100 beads and hiding his notes in a prayer wheel. He found his height above the sea by boiling water and reading a thermometer. The Royal Geographical Society gave him a gold medal in 1877. What the herders he met carried in their heads is imagined, though herders everywhere hold such knowledge.",
+  "text": [
+   "Karan, who was ten, had come from Chennai to stay with his cousin Pema in Munsiyari, a town high in the mountains of Uttarakhand. Pema was nine and had lived there all her life. On the second morning Karan wanted to walk to the bakery alone. 'Draw me a map,' he said.",
+   "Pema drew fast. Her house. Stone steps going down. A big walnut tree. A dog with very large teeth, and the word RUN beside him. A tap where the path split in two. Then the bakery, with a bun drawn on the roof.",
+   "Karan held his phone next to her paper. 'Your map is wrong. The phone shows a road going right round the hill. Yours goes straight down. And the phone has no dog.'",
+   "'The phone has no steps,' said Pema, 'because cars cannot use steps. And the phone does not care if you get bitten.'",
+   "Their aunt Lhamu taught geography at the school. She had been listening from the doorway. 'Neither map is wrong,' she said. 'Each one leaves out what its maker did not need. Shall I show you a third? It was made by a man from the next valley, and he was not allowed to carry even a measuring tape.'",
+   "She took a book from the shelf. 'Nain Singh Rawat was born in 1830 in Milam, a few days' walk from here. In 1865 the Survey of India wanted a map of Tibet. The rulers of Tibet did not allow map-makers in. So Nain Singh went dressed as a trader. He had trained himself to make every step the same length. He carried a string of prayer beads, but his string had one hundred beads and not the usual one hundred and eight. Every hundred steps, he slipped one bead along.'",
+   "'He counted every single step?' said Karan.",
+   "'All the way to Lhasa and far beyond. He wrote the numbers on paper rolled up inside his prayer wheel. And to find how high he had climbed, he boiled water and read a thermometer, because water boils at a lower temperature the higher you go.'",
+   "She opened the book at his map. It was a thin line with a river beside it, a few dots with names, and rows of numbers. There was no dog, no bakery and no walnut tree.",
+   "'It is so empty,' said Karan.",
+   "'It holds exactly what the Survey asked for. How far, in which direction, how high. With only those three things, people who had never left their desks could mark Lhasa correctly on a globe.'",
+   "Pema frowned. 'But the people in Tibet did not want to be on that map.'",
+   "'No, they did not,' said Lhamu aunty. 'A map is always made for someone. The yak herders who walked beside Nain Singh had a map as well, in their heads. Theirs held where the grass comes first in spring, which pass is deadly in a storm, which stream is safe to drink from. None of that is on his sheet. Their map could keep you alive up there. His could tell a trader or an army how many days the march would take.'",
+   "Karan looked from the phone to the paper to the book. 'So which one is the real Munsiyari?'",
+   "'Go and see,' said Lhamu aunty.",
+   "He took Pema's map. On the steps he met things that were on no map at all. The smell of wood smoke. A woman spreading red chillies to dry on a roof. Air so cold that it stung his teeth. The dog was exactly where the map said. Karan ran.",
+   "He came back with four buns. He picked up Pema's pencil and wrote 'chillies' beside the steps. Then he stopped and rubbed it out. 'They will be gone next week,' he said. 'A map cannot keep things that change. It would have to choose one day.'",
+   "'What if you made a map with everything on it?' said Pema. 'Every stone and every smell, on every day?'",
+   "Karan thought. 'It would be as big as the town. I would have to live inside it.'",
+   "'You already do,' said Pema, and took the biggest bun.",
+   "That night Karan lay awake. In his head he walked from his flat in Chennai to the beach. He knew every turn. But it was a map as well, he saw now, and he had made it himself. What had he left out of it, without ever deciding to?"
+  ],
+  "epiphany": "Each map answered its maker's question and left out everything else. No map was the hill. Even the picture of home that Karan carried in his own head was a map he had drawn without noticing.",
+  "ask": [
+   "Pema's map had a dog and Nain Singh's had numbers. What does each map tell you about the person who made it?",
+   "The people of Tibet did not want their land mapped. Can making a model of something ever be unfair to it?",
+   "Karan rubbed out the chillies. What would be on a map of your street that is true only today?",
+   "What is in the map of your home that you carry in your head, and what have you left out?"
+  ],
+  "art": [
+   "A child's pencil map with steps, a walnut tree, a dog marked RUN and a bakery with a bun on the roof, held beside a phone showing a curving road.",
+   "A man in trader's clothes walking a high mountain path, a string of beads in one hand and a prayer wheel in the other.",
+   "An old survey map: a thin route line beside a river, a few named dots and columns of numbers, with wide blank paper around.",
+   "A boy running down stone steps past a large dog, with red chillies drying on a roof and snow peaks behind."
+  ]
+ },
+ "how_we_found_out": {
+  "story": "In 1951 scientists knew that a long molecule called DNA carries the instructions of living beings, but nobody knew DNA's shape. Many believed that careful X-ray photographs alone would give the answer, and that building models was guessing. In London, Rosalind Franklin took the sharpest photographs yet. In Cambridge, James Watson and Francis Crick built a model from metal rods. Their first model, in November 1951, had three strands. Franklin came to see it and showed that it could not hold the water that real DNA holds. It was wrong. In early 1953 the famous chemist Linus Pauling published a three-strand model that was also wrong. In May 1952 Franklin and her student Raymond Gosling had taken a photograph, numbered 51, with a clear cross pattern. In January 1953 a colleague showed it to Watson without her knowledge. The cross meant a twisted shape. With her measurements, Watson and Crick built a new model of two strands twisted round each other, and every piece fitted. Franklin died in 1958. The Nobel Prize of 1962 went to Watson, Crick and Maurice Wilkins. Her part was left out of the usual telling for many years.",
+  "who": "Rosalind Franklin, Raymond Gosling, James Watson, Francis Crick, Maurice Wilkins, Linus Pauling",
+  "when": "1951 to 1953",
+  "wrong_idea": "Two wrong ideas met here. One was that DNA has three strands, which two teams built as models before it failed. The other was that a model is only a guess and a photograph is the truth. The photograph could not be read without a model, and the model could not be trusted without the photograph."
+ },
+ "roots": {
+  "context": "You have learnt that every model keeps a little and leaves out a lot. Now we ask what that tells us about our own seeing, about life and about this world.",
+  "deep_truth": {
+   "truth": "Each of your eyes has a spot that sees nothing. You found it with a dot and a cross. Yet you have never seen a hole in the world, because something fills the gap with a likely guess. So part of what you see is supplied and not received. Plain seeing already has things left out and things put in, as every model does.",
+   "habit": "We say 'I saw it with my own eyes' as if seeing were the thing itself, with nothing chosen and nothing added. That habit makes us treat our own view as the world and other views as mistakes.",
+   "evidence": "In the blind-spot test, the dot vanished at about 30 centimetres from the eye, and the paper looked whole where the dot had been. Nothing in the eye reported that white paper. In the sealed box test, the child also built a confident picture of something never seen."
+  },
+  "three": {
+   "who_am_i": "You carry a model of yourself: your name, what you are good at, what you are like. It is useful, and it leaves most of you out, as a globe leaves out the rain. Knowing that it is a model lets you ask what is there before any model is made.",
+   "what_is_life": "A bee, a bat and a child each build a world from different signals, and each world is enough to live by. Every living being is a maker of models. Understanding this, you stop asking which being sees correctly and start asking what each one's seeing is for.",
+   "what_is_this_world": "The Earth has a globe, a map and a weather model, and none of them is the Earth. The same is true of our best science. The world is what all the models are about, and it is more than any of them holds."
+  },
+  "thread": "This lesson showed that leaving things out is how understanding works. A globe leaves out the rain, a diagram leaves out the shadows, and your eye leaves out a patch and covers the gap. That is not a fault to fix. It does mean that what we call 'the world' is always the world as shaped by a viewer. Consciousness is the ground in which every view arises, the bee's and the child's alike. The views are many and partial, and the ground they arise in is one. Many scientists stop before this last step, and their view is given below.",
+  "teachings": [
+   {
+    "source": "Tao Te Ching, chapter 1",
+    "teaching": "Laozi's book opens: the way that can be spoken of is not the lasting way, and the name that can be named is not the lasting name.",
+    "link": "A name is a small model. The verse says that whatever can be put into a name or a description has already left the whole behind. The lesson found the same about maps and diagrams, by measuring what a globe leaves out."
+   },
+   {
+    "source": "Brihadaranyaka Upanishad 2.3.6",
+    "teaching": "The sage describes the ground of everything by saying 'neti, neti', which means 'not this, not this'. Whatever you can point to or picture, that is not the whole of it.",
+    "link": "This is a method of knowing by setting models aside one after another. Science keeps its models and tests them. The Upanishad uses them as steps and then lets them go. The two methods aim at different things."
+   },
+   {
+    "source": "The Shurangama Sutra, a Buddhist text known in China from about the 8th century CE",
+    "teaching": "The Buddha says that when someone points a finger at the Moon, a foolish person looks at the finger and misses the Moon.",
+    "link": "A diagram is a pointing finger. The lesson's tongue map shows what happens when the neat drawing is studied in place of the tongue."
+   }
+  ],
+  "science": [
+   {
+    "text": "Each eye has a blind spot where the nerve leaves, and we do not notice a gap in what we see. This has been measured since 1660.",
+    "status": "settled"
+   },
+   {
+    "text": "The brain may work chiefly by predicting what the senses will report and correcting its predictions. This idea, called predictive processing, is supported by many experiments and is not yet agreed.",
+    "status": "debated"
+   }
+  ],
+  "other_view": {
+   "who": "Scientific realists, and the Nyaya school of Indian philosophy",
+   "view": "The world exists just as it is whether or not anyone models it, and careful looking and reasoning give us true knowledge of it. The blind spot is a small fault in a reliable instrument. To say that all seeing is a model goes too far, and risks suggesting that nothing can be known."
+  },
+  "practice": {
+   "title": "Looking before naming",
+   "mins": 3,
+   "say": "Choose one thing in the room, such as a tumbler. Look at it for one minute without saying its name in your head. Look at the edge, the light on it, the dark side. Each time the word 'tumbler' comes, let it go and keep looking. After a minute, close your eyes for three breaths. Then tell me one thing you saw that the word 'tumbler' leaves out.",
+   "kid": "Pick one thing and look at it for one minute. Try not to say its name in your head. Look at its edges, its light and its shadow. Close your eyes for three breaths. Then say one thing you saw that its name leaves out."
+  },
+  "ask": [
+   "In the blind-spot test, what did you see in the place where the dot had been? Where did that come from?",
+   "If a bee and you look at the same flower and see different things, is one of you wrong?",
+   "You have a model of who you are. What is one true thing about you that it leaves out?"
+  ],
+  "art": "A child looking at a steel tumbler on a table, with the word 'tumbler' floating away from it like a loose label."
+ },
+ "open_questions": [
+  {
+   "q": "Does the brain build an inner model of the world, or does it pick up what is there directly?",
+   "why_open": "Experiments on filling-in and on pictures that fool the eye favour an inner model. Studies of how animals steer by the changing light favour direct pick-up. Both sides explain some findings and neither explains all."
+  },
+  {
+   "q": "Why is there any inner experience of seeing at all?",
+   "why_open": "Science can follow the signals from the eye into the brain. It cannot yet say why those signals come with an experience, such as the redness of red. The philosopher David Chalmers named this the hard problem in 1995."
+  },
+  {
+   "q": "Is there one final model from which all other scientific models follow?",
+   "why_open": "Physics has two very successful models, one for gravity and one for the tiny particles, and they do not fit together. Many physicists are looking for one model that joins them. Nobody knows if one exists."
+  },
+  {
+   "q": "Can a computer model that predicts well, but cannot be looked inside, count as understanding?",
+   "why_open": "New weather models trained only on past weather forecast as well as models built from the rules of physics. Scientists disagree about whether prediction without explanation is knowledge, and about when such a model can be trusted."
+  },
+  {
+   "q": "What is it like to be a bee following a dance?",
+   "why_open": "We can track where bees fly. We have no way to learn what a bee experiences, or if she pictures the route in anything like the way a person does."
+  }
+ ],
+ "sources": {
+  "founder": [],
+  "science": [
+   "George Box, 'Science and statistics', Journal of the American Statistical Association, 1976.",
+   "Shaaron Ainsworth, Vaughan Prain and Russell Tytler, 'Drawing to learn in science', Science, 2011.",
+   "K. Ramasubramanian, M. D. Srinivas and M. S. Sriram, 'Modification of the earlier Indian planetary theory by the Kerala astronomers (c. 1500 AD) and the implied heliocentric picture of planetary motion', Current Science, 1994.",
+   "Virginia Collings, 'Human taste response as a function of locus of stimulation on the tongue and soft palate', Perception and Psychophysics, 1974.",
+   "Joe Riley and others, 'The flight paths of honeybees recruited by the waggle dance', Nature, 2005.",
+   "Edward Tolman, 'Cognitive maps in rats and men', Psychological Review, 1948.",
+   "Erwin Müller and Kanwar Bahadur, 'Field ionization of gases at a metal surface and the resolution of the field ion microscope', Physical Review, 1956.",
+   "Brenda Maddox, 'Rosalind Franklin: The Dark Lady of DNA', 2002.",
+   "Anil Seth, 'Being You: A New Science of Consciousness', 2021.",
+   "James Gibson, 'The Ecological Approach to Visual Perception', 1979.",
+   "Derek Waller, 'The Pundits: British Exploration of Tibet and Central Asia', University Press of Kentucky, 1990."
+  ]
+ },
+ "playtest": "Main hands-on investigation, to be written under this name: 'The sealed box test: build a model of what you cannot see'. A grown-up tapes one or two things inside a shoebox or steel dabba out of the child's sight, for example a marble and a strip of card standing as a low wall, and seals it. The child tilts, shakes and listens, draws a diagram of what they think is inside, predicts what the box will do when tilted a new way, tests the prediction and changes the diagram. The box is not opened until the very end, or not at all, so the child feels what a scientist feels about an atom. It works in any home in 25 to 30 minutes. A second short activity the roots depend on: 'The blind-spot test', with a cross and a dot drawn 10 centimetres apart on white paper. Cover the left eye, look at the cross with the right eye and move the paper slowly from arm's length towards the face. The dot vanishes at about 30 centimetres. A third: the torch and ball model of day and night, with a tilted ball to predict the midnight Sun. Facts a reviewer must verify: the Earth's width of 12,742 kilometres and the arithmetic for a 30 centimetre globe. Africa at about 14 times the area of Greenland. Mercator in 1569, Gall in 1855, Peters in 1973, and Gauss in 1827. Cyclone Phailin in October 2013 with about ten lakh people moved, and about 10,000 deaths in 1999. Nyaya Sutra 1.1.6 on upamana. Maxwell's remark of 1855. Harry Beck in 1933. Udana 6.4. The solar system scale: a 22 centimetre Sun gives a 2 millimetre Earth at about 24 metres and Neptune at about 700 metres. The atom compared with a cricket ground. Ptolemy about 150 CE. Aryabhatiya, Gola section, verse 9. Nilakantha's Tantrasangraha of 1500 CE. The dates of the atom models, and Geiger and Marsden in 1909. Müller and Kanwar Bahadur in 1955. Marshall and Warren in 1982. The tongue map history: Hänig in 1901, the 1942 book by Edwin Boring, and Collings in 1974. The Wright wind tunnel of 1901 and about 200 wing shapes. The Pune research station founded in 1916. The waggle dance at roughly one second for each kilometre, which differs between kinds of bee. Wenner's challenge and the 2005 radar study. Lewis Carroll's map story of 1893, from 'Sylvie and Bruno Concluded'. Box in 1976, Korzybski in 1931, Putnam in 1975. Nagarjuna's two truths in chapter 24 of the Mulamadhyamakakarika. Mariotte in 1660. Mandukya Karika 2.17 and 2.18. The Nippur map tablet of about 1500 BCE. Every date in the DNA account, and that the first model was shown to Franklin in November 1951. All the details of Nain Singh Rawat in the story note. Brihadaranyaka Upanishad 2.3.6 for 'neti, neti'. The Shurangama Sutra for the finger and the Moon. The Hawking and Mlodinow goldfish example. I could not open the founder's notes, the list of other lessons' deep truths or the lesson on stories of discovery. So the founder sources are empty, the deep truth about the blind spot must be checked for overlap, and a reviewer should check that Rosalind Franklin's story is not already told in the discovery lesson. DNA is written without the word 'it' on purpose. Words that need flashcards, in the order met: model, feature, physical model, scale, diagram, label, arrow, picture, photograph, map, key, globe, computer model, forecast, analogy, comparison, explain, predict, prediction, evidence, scale model, not to scale, solar system, planet, ellipse, atom, particle, taste bud, engineer, wind tunnel, test model, pattern, waggle dance, blind spot, nerve, guess, useful, true, standpoint, territory."
+}

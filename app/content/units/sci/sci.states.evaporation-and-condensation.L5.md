@@ -632,7 +632,7 @@ The six cracked pots went into the soaking pit. By Sunday they had slumped into 
 6. (write) A plate and a tumbler hold the same water. Explain why the plate loses more in a day.  
    **Answer:** Water leaves only from its surface. The plate gives the water a much bigger surface, so many more particles are at the surface. More of them escape each second.. *Why:* A strong answer says that the amount of water is the same. The size of the surface is what differs.
 7. (mcq) Which particles escape from the surface of water?  
-   Options: The fastest ones / The slowest ones / The largest ones / The ones at the bottom  
+   Options: The slowest ones / The largest ones / The fastest ones / The ones at the bottom  
    **Answer:** The fastest ones. *Why:* A particle needs enough speed to break away from its neighbours. All water particles are the same size, so 'the largest' cannot be right.
 8. (draw) Draw the particles of liquid water and of water vapour in two boxes of the same size.  
    **Answer:** In the box of liquid water, draw many particles, touching and jumbled. In the box of water vapour, draw only one or two particles, far apart, with arrows to show them flying.. *Why:* A strong drawing keeps the particles the same size in both boxes, and leaves the vapour box almost empty.
@@ -648,13 +648,13 @@ The six cracked pots went into the soaking pit. By Sunday they had slumped into 
 13. (perspective) Two children watch hot milk cool in a wide davara. They explain it in different ways.  
    **Answer:** A strong answer says that both happen. In The Oil Lid, the bowl under oil still cooled. So heat does flow out through the steel and the oil. But the open bowl cooled faster, so evaporation carries away heat as well.. *Why:* Neither child is wrong. The Oil Lid separates the two ways of cooling, because the oil stops only the evaporation.
 14. (mcq) A fan dries a wet floor faster. What does the moving air do?  
-   Options: Carries escaped particles away / Heats the water on the floor / Pushes water into the floor / Turns the water into air  
+   Options: Heats the water on the floor / Pushes water into the floor / Carries escaped particles away / Turns the water into air  
    **Answer:** Carries escaped particles away. *Why:* Moving air sweeps away the vapour above the floor, so fewer particles land back. A fan does not heat the water.
 15. (write) Name two ways your family uses evaporation at home. For each, say what evaporates.  
    **Answer:** For example: we dry clothes on the balcony, and the water in the cloth evaporates. We keep drinking water in a clay pot, and water that seeps through the clay evaporates and cools the pot.. *Why:* A strong answer names a real use and says which liquid leaves, and where it goes.
 ### Faster, Slower, Cooler (stretch) (stretch, 16 questions)
 1. (mcq) One water surface is 300 square cm and another is 75. How much more water does the bigger one lose?  
-   Options: About 4 times as much / About twice as much / The same amount / About 300 times as much  
+   Options: About twice as much / About 4 times as much / The same amount / About 300 times as much  
    **Answer:** About 4 times as much. *Why:* 300 ÷ 75 = 4. Water leaves only from the surface, so 4 times the surface loses about 4 times the water.
 2. (write) In The Oil Lid, two bowls of water started equally hot. Explain why the open bowl ended cooler.  
    **Answer:** In the open bowl the fastest particles at the surface kept escaping as vapour. The particles left behind were slower on average, so the water was cooler. The oil stopped particles escaping from the other bowl.. *Why:* A strong answer uses the idea of fast and slow particles, and says what the oil did.
@@ -665,7 +665,7 @@ The six cracked pots went into the soaking pit. By Sunday they had slumped into 
 5. (sort) For each change, does heat go into the water or come out of it?  
    **Answer:** ice melting → Heat goes in; a puddle evaporating → Heat goes in; water boiling → Heat goes in; water freezing → Heat comes out; vapour condensing → Heat comes out; dew forming → Heat comes out. *Why:* Particles need energy to break away from each other, and they give it out when they join again. Dew forming is condensation.
 6. (mcq) When does sweat cool your body?  
-   Options: When it evaporates / When it drips off / When it stays on the skin / When it is wiped away  
+   Options: When it drips off / When it evaporates / When it stays on the skin / When it is wiped away  
    **Answer:** When it evaporates. *Why:* Sweat cools you only as it evaporates, because the fastest particles take heat away. Sweat that drips off carries almost no heat with it.
 7. (draw) Draw the surface of the water inside a closed jar. Show particles leaving and particles landing back.  
    **Answer:** A water surface under a lid, with a few arrows going up from it. The same number of arrows come down onto it.. *Why:* A strong drawing shows as many particles landing as leaving. That is why the level in a closed jar does not fall.
@@ -676,7 +676,7 @@ The six cracked pots went into the soaking pit. By Sunday they had slumped into 
 10. (match) Match each thing you see to what the particles are doing.  
    **Answer:** A fan dries a cloth → escaped particles are carried away; Sunshine dries a puddle → the particles move faster; A spread cloth dries fast → more particles are at the surface; Damp air slows drying → many particles land back; A cold tumbler mists over → vapour particles slow down and stick. *Why:* Every one of these has the same cause underneath: how many particles leave the liquid and how many come back.
 11. (mcq) Tiny bubbles appear in a pan while the water is only warm. What are they?  
-   Options: Dissolved air coming out / Water vapour / Gas from the stove / Bits of steel  
+   Options: Water vapour / Gas from the stove / Dissolved air coming out / Bits of steel  
    **Answer:** Dissolved air coming out. *Why:* Tap water holds dissolved air, and warm water holds less of it. Bubbles of water vapour come much later, at the boil.
 12. (write) A friend says, 'The Sun pulls the water out of wet clothes.' Explain what really happens, using particles.  
    **Answer:** The Sun does not pull. Sunlight warms the water in the cloth, so its particles move faster. More of them are fast enough to escape from the surface into the air as vapour.. *Why:* A strong answer replaces 'pulls' with what the particles do, and says where the water goes.
@@ -693,7 +693,7 @@ The six cracked pots went into the soaking pit. By Sunday they had slumped into 
 1. (perspective) A thermometer in a tumbler of water reads 30 degrees. Two scientists disagree about what that number is.  
    **Answer:** A strong answer uses the unit: evaporation lowers the temperature by removing the fastest particles, so temperature does come from the particles. It also sees that the average does real things that no single particle does.. *Why:* Physicists and philosophers still argue about this. Both views fit every experiment.
 2. (mcq) Twelve particles have an average speed of 3.5. The two fastest leave. What happens to the average of the rest?  
-   Options: It falls / It rises / It stays at 3.5 / It becomes zero  
+   Options: It rises / It stays at 3.5 / It falls / It becomes zero  
    **Answer:** It falls. *Why:* Taking away the highest numbers always lowers the average of what is left. This is why evaporation cools water.
 3. (write) In Wide or Narrow, the tumbler lost less water than the size of its surface suggested. Give a reason.  
    **Answer:** The walls of the tumbler stand above the water. They shelter the surface from the fan, so damp air collects there. More particles land back on the water, and the tumbler loses less.. *Why:* A strong answer finds something that differed besides the area: the high walls and the still, damp air inside them.
@@ -706,7 +706,7 @@ The six cracked pots went into the soaking pit. By Sunday they had slumped into 
 7. (sort) Is it true of evaporation, of boiling, or of both?  
    **Answer:** happens only at the surface → Evaporation; happens at any temperature → Evaporation; bubbles form inside the liquid → Boiling; needs 100 degrees for water at sea level → Boiling; a liquid turns into a gas → Both; takes heat in → Both. *Why:* Both turn a liquid into a gas and both take heat in. They differ in where they happen and at what temperature.
 8. (mcq) Air rising up a mountainside cools, and a cloud forms. Why does cooling make a cloud?  
-   Options: Vapour particles slow down and join / Cold air makes new water / The mountain squeezes water out / The wind brings water from rivers  
+   Options: Cold air makes new water / The mountain squeezes water out / Vapour particles slow down and join / The wind brings water from rivers  
    **Answer:** Vapour particles slow down and join. *Why:* Cooling slows the vapour particles until they stick to dust specks and to each other. No new water is made. It was already in the air as vapour.
 9. (order) Mist formed on four tumblers at these temperatures. Put the rooms in order, from the dampest air to the driest.  
    **Answer:** ['Room A: mist at 26 degrees', 'Room B: mist at 19 degrees', 'Room C: mist at 12 degrees', 'Room D: mist at 4 degrees']. *Why:* The temperature at which mist forms is the dew point. The higher the dew point, the more vapour the air holds.
@@ -715,7 +715,7 @@ The six cracked pots went into the soaking pit. By Sunday they had slumped into 
 11. (match) Match each living being to the way they use evaporation to cool down.  
    **Answer:** A human → sweats from the skin; A dog → pants with a wet tongue; Honeybees → fan thin films of water in the hive; A neem tree → opens tiny holes in the leaves; A crow → pants with an open beak. *Why:* All of them lose water to the air, and the water takes heat with it.
 12. (mcq) The sea loses about 3 mm of depth to evaporation every day. About how much is that in one year?  
-   Options: About 1 metre / About 3 metres / About 10 centimetres / About 30 metres  
+   Options: About 3 metres / About 1 metre / About 10 centimetres / About 30 metres  
    **Answer:** About 1 metre. *Why:* 3 mm × 365 days = 1,095 mm, which is a little more than 1 metre. Rain and rivers put the same amount back.
 13. (write) Some scientists report that light can free water particles without heat. What evidence would make you believe it?  
    **Answer:** For example: other laboratories repeat the test and get the same result. The scientists measure the heat very carefully, to show that heating cannot explain the extra evaporation. The effect changes with the colour of the light, as they predict.. *Why:* A strong answer asks for the result to be repeated by others. It also asks for the ordinary explanation to be ruled out.
@@ -735,37 +735,37 @@ The six cracked pots went into the soaking pit. By Sunday they had slumped into 
    Options: Fast particles at the surface escape / Water soaks into the steel / The water shrinks as it gets old / The water leaks through the bottom  
    **Answer:** Fast particles at the surface escape. *Why:* At any temperature a few particles at the surface are fast enough to leave. Steel does not soak up water, and water does not shrink with age.
 2. (mcq) Water at 30 degrees evaporates slowly, not all at once. What does this show about its particles?  
-   Options: They move at many different speeds / They all move at one speed / They do not move at all / They are of many different sizes  
+   Options: They all move at one speed / They do not move at all / They move at many different speeds / They are of many different sizes  
    **Answer:** They move at many different speeds. *Why:* Only a few are fast enough to escape at any moment. If all had one speed, all would leave together or none would.
 3. (mcq) Drops form on the outside of a cold steel tumbler. What happened to the particles of water vapour?  
-   Options: They slowed down and stuck together / They leaked through the steel / They sped up and split / They turned into air  
+   Options: They leaked through the steel / They sped up and split / They turned into air / They slowed down and stuck together  
    **Answer:** They slowed down and stuck together. *Why:* The cold steel took energy from the vapour particles. Slow particles stick together as a liquid. Nothing passes through steel.
 4. (mcq) A wet cloth dries faster on a dry day than on a humid day. Why?  
    Options: Fewer particles land back on it / Dry air is always hotter / Dry air is always windier / Humid air is heavier  
    **Answer:** Fewer particles land back on it. *Why:* Humid air holds a lot of vapour, so many particles land back on the cloth. Dry air has few to give back.
 5. (mcq) Which change would make a wet towel dry more slowly?  
-   Options: Folding it in four / Hanging it in a breeze / Putting it in the sun / Spreading it out  
+   Options: Hanging it in a breeze / Putting it in the sun / Spreading it out / Folding it in four  
    **Answer:** Folding it in four. *Why:* Folding hides most of the surface, and water can leave only from a surface that touches the air.
 6. (mcq) A bowl loses 6 mm of water a day. How much does a plate with 3 times the surface lose?  
    Options: 18 mm / 6 mm / 2 mm / 9 mm  
    **Answer:** 18 mm. *Why:* Three times the surface loses about three times the water. 6 × 3 = 18 mm. Choosing 6 mm treats the amount of water as what matters.
 7. (mcq) Why does evaporation cool the water that is left behind?  
-   Options: The fastest particles leave / Cold air enters the water / The slowest particles leave / The water gets heavier  
+   Options: Cold air enters the water / The fastest particles leave / The slowest particles leave / The water gets heavier  
    **Answer:** The fastest particles leave. *Why:* With the fastest gone, the average speed of the rest is lower, and that means a lower temperature. Cold is not a thing that enters.
 8. (mcq) A layer of oil stops hot water evaporating. How does that water cool, compared with an open bowl?  
    Options: More slowly / Faster / At the same speed / It gets hotter  
    **Answer:** More slowly. *Why:* It still loses heat through the bowl, but it cannot lose its fastest particles. So it cools more slowly.
 9. (mcq) Which is true of boiling but not of evaporation?  
-   Options: Bubbles of vapour form inside the liquid / A liquid turns into a gas / Heat goes into the liquid / It can happen to water  
+   Options: A liquid turns into a gas / Heat goes into the liquid / Bubbles of vapour form inside the liquid / It can happen to water  
    **Answer:** Bubbles of vapour form inside the liquid. *Why:* Evaporation happens only at the surface. In boiling, vapour forms all through the liquid. The other three are true of both.
 10. (mcq) In the water cycle, what happens to the salt when sea water evaporates?  
-   Options: It stays in the sea / It rises into the clouds / It turns into vapour too / It falls with the rain  
+   Options: It rises into the clouds / It turns into vapour too / It stays in the sea / It falls with the rain  
    **Answer:** It stays in the sea. *Why:* Only particles of water leave the surface. That is why rain is fresh, though most of it rose from the salty sea.
 11. (mcq) Which list holds only kinds of precipitation?  
-   Options: Rain, snow, hail / Dew, fog, mist / Rain, rivers, lakes / Vapour, clouds, steam  
+   Options: Dew, fog, mist / Rain, snow, hail / Rain, rivers, lakes / Vapour, clouds, steam  
    **Answer:** Rain, snow, hail. *Why:* Precipitation is water that falls from clouds. Dew and fog do not fall, and rivers and lakes are water already on the ground.
 12. (mcq) You test whether a fan speeds up drying. What must stay the same for both cloths?  
-   Options: The cloth, the water and the warmth / Only the colour of the cloth / Nothing needs to stay the same / The fan must blow on both  
+   Options: Only the colour of the cloth / Nothing needs to stay the same / The fan must blow on both / The cloth, the water and the warmth  
    **Answer:** The cloth, the water and the warmth. *Why:* In a fair test only one thing changes: here, the moving air. If the fan blew on both, nothing would have been tested.
 13. (mcq) A plate of salty water is left in the sun until all the water has gone. What is left on the plate, and why?  
    Options: Salt, because only the water particles escape from the surface as vapour / Water vapour, because the salt turns into vapour too / Nothing, because the salt dissolves into the air / Water, because salt stops evaporation  

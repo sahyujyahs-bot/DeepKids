@@ -527,7 +527,7 @@ And next to the word 'Temperature' she added a small note to herself, in red pen
 3. (match) Match each tool to what it measures.  
    **Answer:** Thermometer → how warm the air is; Rain gauge → how much rain fell; Wind vane → where the wind comes from; Anemometer → how fast the wind blows. *Why:* Each part of the weather needs its own tool. A strong answer could also say where each tool should be placed.
 4. (mcq) A wind vane points east. Where is the wind coming from?  
-   Options: From the east / From the west / From the north / It is not blowing  
+   Options: From the west / From the north / From the east / It is not blowing  
    **Answer:** From the east. *Why:* A wind vane points into the wind, to where it comes from. So it is an east wind. Picking 'west' is the common mix-up of thinking the arrow shows where the wind is going.
 5. (write) In the story, Nila's thermometer read 45 °C in the sun and 36 °C under a paper roof in the same spot. Explain why.  
    **Answer:** The paper roof stopped sunlight landing on the thermometer. In the sun, the sunlight heated the thermometer itself, so it read higher than the air. Under the roof, only the air warmed it, so it showed the air's temperature.. *Why:* A strong answer says the air was the same in both places, and that sunlight heated the thermometer, not the air.
@@ -553,11 +553,11 @@ And next to the word 'Temperature' she added a small note to herself, in red pen
 15. (truefalse) You miss the 3 o'clock reading in your weather diary. You should write a number that is probably right.  
    **Answer:** False. *Why:* False. Write 'missed'. A guessed number looks like a real reading, and then the record cannot be trusted.
 16. (mcq) Which of these tells you the most about how strong the wind is, without any tool?  
-   Options: Whether the sky is blue / Whether big branches are swaying / Whether the road is dry / Whether it is morning  
+   Options: Whether the sky is blue / Whether the road is dry / Whether big branches are swaying / Whether it is morning  
    **Answer:** Whether big branches are swaying. *Why:* Wind moves things: leaves, branches, clothes, flags. The bigger the thing it moves, the stronger the wind.
 ### Reading the Records (stretch) (stretch, 16 questions)
 1. (mcq) At 7 in the morning, a shade thermometer in Kochi reads 26 °C. At noon it reads 31 °C. What will it most likely read at 3 in the afternoon on a clear day?  
-   Options: About 24 °C / About 26 °C / About 32 °C / About 50 °C  
+   Options: About 24 °C / About 32 °C / About 26 °C / About 50 °C  
    **Answer:** About 32 °C. *Why:* On a clear day the air keeps warming after noon, until the middle of the afternoon. So it will probably be a little warmer than at noon. 50 °C is far too high for shade air in Kochi.
 2. (write) Arun, Nila's little brother in the story, thinks noon is the hottest time of day, because the Sun is highest then. Explain what really happens, and how you could test it.  
    **Answer:** The ground and walls keep taking in sunlight and warming the air after noon, so the air is usually warmest at about 2 to 4 in the afternoon. To test it, read a shade thermometer every two hours through a clear day and find the highest reading.. *Why:* A strong answer gives the reason and a fair way to test it: same thermometer, same shaded place, many readings.
@@ -579,7 +579,7 @@ And next to the word 'Temperature' she added a small note to herself, in red pen
 10. (perspective) Two sisters in Bengaluru look at the weather app. It says 30 °C, but 'feels like 34 °C'.  
    **Answer:** A strong answer sees that both are partly right. The first child is right that 30 °C was measured in the shade, and that 'feels like' is worked out from a formula, not measured. The second child is right that damp air and no wind make it feel hotter to people, and that matters for health. A good answer says each number answers a different question.. *Why:* The measured temperature describes the air. The 'feels like' number tries to describe how people's bodies cope. Different apps work it out differently.
 11. (mcq) Why are weather screens painted white?  
-   Options: White reflects most sunlight, so the box stays cool / White is easy to see from far away / Paint keeps insects out / Weather scientists like white  
+   Options: White is easy to see from far away / Paint keeps insects out / White reflects most sunlight, so the box stays cool / Weather scientists like white  
    **Answer:** White reflects most sunlight, so the box stays cool. *Why:* A white surface reflects most sunlight. A dark box would heat up in the sun, warm the air inside, and the thermometer would read too high.
 12. (draw) Draw a line chart for this day in Chennai: 7 am 27 °C, 10 am 31 °C, 1 pm 34 °C, 3 pm 35 °C, 6 pm 31 °C. Circle the warmest time.  
    **Answer:** A line rising from 27 to a peak of 35 at 3 pm, then falling to 31, with the 3 pm point circled.. *Why:* A strong chart has the times evenly along the bottom, the temperatures up the side, and the highest point at 3 pm circled.
@@ -596,7 +596,7 @@ And next to the word 'Temperature' she added a small note to herself, in red pen
 1. (write) You have two thermometers. Before a Sun or Shade test, you hang them side by side in the shade. One reads 30 °C and the other 32 °C. What should you do before comparing sun and shade with them?  
    **Answer:** Note that one reads 2 degrees higher than the other. Then either correct for it, or use the same thermometer in both places. Otherwise a difference you see might come from the thermometers, not from the sun.. *Why:* A strong answer understands that tools must be checked against each other first, so the only difference in the test is the sunlight.
 2. (mcq) In Korea in 1441, people stopped measuring rain by digging into the soil. Why was the soil a poor rain gauge?  
-   Options: Soil is too heavy to carry / Dry soil soaks up more rain than wet soil, so the same rain gave different answers / Soil turns into mud / Kings did not like digging  
+   Options: Dry soil soaks up more rain than wet soil, so the same rain gave different answers / Soil is too heavy to carry / Soil turns into mud / Kings did not like digging  
    **Answer:** Dry soil soaks up more rain than wet soil, so the same rain gave different answers. *Why:* How deep the soil got wet depended on how dry it was before, and on the kind of soil. A metal vessel soaks up nothing, so it measures only the rain.
 3. (perspective) Here are three views about the thermometer at a bus stop in Hyderabad, which stands in the sun and shows 47 °C.  
    **Answer:** A strong answer agrees with Usha about the air, using the Sun or Shade test: a thermometer in the sun reads many degrees above the shade. It also gives Zara her due: the sign really is at 47, which is true of the sign. It gives Gopal his due: a person standing in the sun is heated by sunlight too, just like the sign, so it can feel far hotter than the air.. *Why:* Each view describes something true: the sign, the air, and a person standing in the sun. The weather report gives the air in the shade, because that can be fairly compared.
@@ -612,7 +612,7 @@ And next to the word 'Temperature' she added a small note to herself, in red pen
 8. (draw) Design your own weather screen from things at home. Draw it, and label how it keeps sunlight out and lets air in.  
    **Answer:** Any design with a shade that stops all direct sunlight, gaps or slots for air, a light colour, and the thermometer hanging free inside.. *Why:* A strong design gives a reason for each part, as the real weather screen does.
 9. (mcq) A week of weather diary readings in Kochi, in July, shows the wind coming from the southwest on 6 days out of 7. What is the best conclusion?  
-   Options: The southwest monsoon wind was blowing that week / The vane is stuck / Winds never change / The wind was going towards the southwest  
+   Options: The vane is stuck / Winds never change / The wind was going towards the southwest / The southwest monsoon wind was blowing that week  
    **Answer:** The southwest monsoon wind was blowing that week. *Why:* In July, the southwest monsoon brings winds from the southwest over Kerala. The vane pointed southwest, into the wind. Picking 'going towards the southwest' is the common mix-up about which way a vane points.
 10. (order) Put these in order, from the reading that is most likely to be too high to the one most likely to be right for the air.  
    **Answer:** ['A thermometer lying on a black car roof in the sun', 'A thermometer hanging in full sun', 'A thermometer under a white paper roof in the sun', 'A thermometer in a white slatted box in the shade']. *Why:* The black roof heats the thermometer by touching it, on top of the sunlight. Full sun heats it directly. The paper roof shades it, but the paper warms a little. The weather screen is the best shade with air flowing through.
@@ -635,40 +635,40 @@ And next to the word 'Temperature' she added a small note to herself, in red pen
 
 ## Quiz
 1. (mcq) One thermometer hangs in the sun and one in the shade, a metre apart. Which reads higher?  
-   Options: The one in the sun / The one in the shade / They read the same / Neither works outside  
+   Options: The one in the shade / They read the same / Neither works outside / The one in the sun  
    **Answer:** The one in the sun. *Why:* Sunlight heats the thermometer in the sun, so it reads higher than the air. Picking 'the same' means thinking a thermometer only feels the air.
 2. (mcq) What does a thermometer in the shade show?  
-   Options: The temperature of the air / How bright the sunlight is / How much rain will fall / The wind speed  
+   Options: How bright the sunlight is / How much rain will fall / The temperature of the air / The wind speed  
    **Answer:** The temperature of the air. *Why:* In the shade, only the air warms or cools the thermometer, so it shows the air's temperature.
 3. (mcq) In the Sun or Shade test, why do we keep the thermometer at the same height and on the same thread each time?  
-   Options: So that only the sunlight changes, and the test is fair / So it looks neat / Because the thread is magic / So it reads higher  
+   Options: So it looks neat / Because the thread is magic / So it reads higher / So that only the sunlight changes, and the test is fair  
    **Answer:** So that only the sunlight changes, and the test is fair. *Why:* A fair test changes only one thing. Here that thing is the sunlight.
 4. (mcq) Rain fills a narrow straight glass to 15 mm. A wide straight dabba stands next to it. How deep is the water in the dabba?  
-   Options: About 15 mm / Much more than 15 mm / Much less than 15 mm / It is empty  
+   Options: Much more than 15 mm / Much less than 15 mm / It is empty / About 15 mm  
    **Answer:** About 15 mm. *Why:* Straight-sided containers fill to the same depth in the same rain. The dabba holds more water, at the same depth.
 5. (mcq) You read the water in a rain gauge with a ruler. Where should your eye be?  
    Options: Level with the water line / High above the gauge, looking down / Low down, looking up at the water  
    **Answer:** Level with the water line. *Why:* Looking from above or below moves the water line in your view, so you read the wrong mm. Looking level with the line gives the true depth.
 6. (mcq) On a windy day, the rain falls at a slant. What is the wind doing to the rain?  
-   Options: Pushing the falling drops sideways / Making the drops fall straight down faster / Making the drops smaller  
+   Options: Making the drops fall straight down faster / Making the drops smaller / Pushing the falling drops sideways  
    **Answer:** Pushing the falling drops sideways. *Why:* Wind pushes the falling drops sideways, so the rain slants. Wind does not make the drops smaller, and gravity still pulls them down.
 7. (mcq) Rainfall is measured as...  
-   Options: a depth, in millimetres / a weight, in kilograms / a temperature, in degrees / a number of drops  
+   Options: a weight, in kilograms / a temperature, in degrees / a number of drops / a depth, in millimetres  
    **Answer:** a depth, in millimetres. *Why:* Rain is measured as the depth of water it makes, in millimetres. That way, any straight-sided gauge gives the same answer.
 8. (mcq) A wind vane's arrow points north. What is the wind called?  
-   Options: A north wind, coming from the north / A south wind, going south / A west wind / No wind  
+   Options: A south wind, going south / A west wind / No wind / A north wind, coming from the north  
    **Answer:** A north wind, coming from the north. *Why:* A vane points into the wind, to where it comes from. Winds are named for where they come from.
 9. (mcq) In a weather diary, the shade temperature on a clear day is usually highest at...  
    Options: about 2 to 4 in the afternoon / sunrise / midnight / exactly noon  
    **Answer:** about 2 to 4 in the afternoon. *Why:* The ground and buildings keep warming the air after noon. Picking noon is the common guess.
 10. (mcq) On a dry day, you write '0 mm' in your weather diary. Is that useful?  
-   Options: Yes, a dry day is a real reading / No, only rainy days count / No, you should guess a number / Only if it is cloudy  
+   Options: No, only rainy days count / No, you should guess a number / Only if it is cloudy / Yes, a dry day is a real reading  
    **Answer:** Yes, a dry day is a real reading. *Why:* A dry day is part of the record. Leaving it out would make the week look wetter than it was.
 11. (mcq) Long ago, people measured rain by digging to see how deep the soil was wet. Which is a better way to measure rain?  
    Options: Catch the rain in a straight-sided metal pot and measure the water's depth with a ruler / Count the raindrops / Ask farmers to guess / Weigh the clouds  
    **Answer:** Catch the rain in a straight-sided metal pot and measure the water's depth with a ruler. *Why:* A pot soaks up nothing, so the depth of water in it shows only the rain. Soil soaks up different amounts depending on how dry it was before.
 12. (mcq) A weather report for Kolkata says 'Max 38, Min 27'. What does 'Min 27' mean?  
-   Options: The lowest air temperature that day was 27 °C / 27 mm of rain fell / The wind blew at 27 / It was 27 °C at noon  
+   Options: 27 mm of rain fell / The wind blew at 27 / The lowest air temperature that day was 27 °C / It was 27 °C at noon  
    **Answer:** The lowest air temperature that day was 27 °C. *Why:* Min is the minimum, the lowest temperature of the day, usually just before sunrise.
 
 ## Applications

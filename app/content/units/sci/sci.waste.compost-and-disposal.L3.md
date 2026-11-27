@@ -431,7 +431,7 @@ She mixed it into the soil of a pot and planted a tulsi seedling in the pot. Chi
 5. (order) Put the steps for starting a compost pot in order.  
    **Answer:** ['A grown-up makes air holes in the bucket', 'Put browns and a little soil at the bottom', "Add today's chopped peels", 'Cover the peels with twice as much browns']. *Why:* First the holes, so air can get in. Then a dry bottom layer to soak up drips. Then peels, covered so flies can't reach them.
 6. (mcq) What does good compost smell like?  
-   Options: Damp earth, like the first rain / Old curd / Rotten eggs  
+   Options: Old curd / Rotten eggs / Damp earth, like the first rain  
    **Answer:** Damp earth, like the first rain. *Why:* Good compost is made by microbes that use air. Soil bacteria in the compost make the smell of damp earth. Sour or rotten smells mean there is too little air.
 7. (write) In the Peels Alone or Peels with Paper test, jar A had only peels. Jar B had the same peels with torn paper mixed in. Jar B smelled less than jar A. Explain why. Use the words 'paper' and 'air'.  
    **Answer:** The paper soaked up the water from the peels and held them apart. So air could get in. Microbes that use air did the work, and they do not make sour smells.. *Why:* A full answer says what the paper did (soaked up water, kept spaces open) and why that matters (air for the microbes).
@@ -440,7 +440,7 @@ She mixed it into the soil of a pot and planted a tulsi seedling in the pot. Chi
 9. (label) Label the drawing of an earthworm: mouth, gizzard, skin, worm cast.  
    **Answer:** Mouth at the front end. Gizzard a little way behind the mouth, where food is ground with sand. Skin all over the body, which the worm breathes through. Worm cast coming out at the back end.. *Why:* A worm has no teeth, so the gizzard grinds the food. The skin must stay damp for the worm to breathe.
 10. (mcq) Why does chopping peels into small pieces help them become compost faster?  
-   Options: Small pieces have more surface for microbes to work on / Small pieces are lighter / Chopping kills the microbes  
+   Options: Small pieces are lighter / Small pieces have more surface for microbes to work on / Chopping kills the microbes  
    **Answer:** Small pieces have more surface for microbes to work on. *Why:* Microbes work on the outside of each piece. Cutting a peel into many pieces gives them much more outside to work on.
 11. (truefalse) Egg shells can go in a home compost pot if you crush them small.  
    **Answer:** True. *Why:* True. Egg shells break down slowly, but crushed small they rot faster. Whole shells take a very long time.
@@ -450,7 +450,7 @@ She mixed it into the soil of a pot and planted a tulsi seedling in the pot. Chi
 13. (truefalse) A plastic spoon in a compost pot turns into compost if you wait long enough.  
    **Answer:** False. *Why:* False. Plastic does not rot, because microbes cannot feed on it quickly. It goes in the dry-waste bin.
 14. (mcq) You squeeze a handful of compost and one or two drops of water come out. What does that tell you?  
-   Options: The pot is just right: damp, like a squeezed-out sponge / The pot is far too wet / The pot is far too dry  
+   Options: The pot is far too wet / The pot is just right: damp, like a squeezed-out sponge / The pot is far too dry  
    **Answer:** The pot is just right: damp, like a squeezed-out sponge. *Why:* One or two drops means damp but not soggy. Many drops mean too wet, so add browns. Dust and no drops mean too dry, so sprinkle a little water.
 15. (fill) Wet, fresh waste for a compost pot, such as peels and used tea leaves, is called ____.  
    **Answer:** ['greens']. *Why:* Greens are wet and fresh. They must be balanced with dry browns.
@@ -470,12 +470,12 @@ She mixed it into the soil of a pot and planted a tulsi seedling in the pot. Chi
 7. (write) The middle of a big compost heap on a farm can get hotter than a cup of tea. A small pot on a balcony hardly gets warm. Why?  
    **Answer:** Microbes give out heat as they work. In a big heap, the heat is trapped in the middle and builds up. A small pot loses its heat to the air quickly.. *Why:* A full answer says where the heat comes from (the microbes' work) and why size matters (a small pot loses heat fast).
 8. (mcq) Which living things make the earthy smell of soil and good compost?  
-   Options: Soil bacteria called Streptomyces / Earthworms / Flies  
+   Options: Earthworms / Flies / Soil bacteria called Streptomyces  
    **Answer:** Soil bacteria called Streptomyces. *Why:* Streptomyces bacteria make geosmin, the substance that smells of damp earth. They grow where there is air and damp.
 9. (sort) Sort these: do they happen when microbes have air, or when they have no air?  
    **Answer:** smell of damp earth → With air; sour smell like old curd → Without air; methane gas → Without air; dark, crumbly compost → With air; slimy grey peels → Without air; rotten-egg smell → Without air. *Why:* With air, aerobic microbes make compost and earthy smells. Without air, anaerobic microbes make acids, smelly gases and methane.
 10. (mcq) India's waste rules ask every home to keep wet and dry waste in separate bins. Why?  
-   Options: So wet waste can be composted, and dry waste can be sorted and recycled / So the garbage truck has less to carry / Because wet waste is dangerous to touch  
+   Options: So the garbage truck has less to carry / Because wet waste is dangerous to touch / So wet waste can be composted, and dry waste can be sorted and recycled  
    **Answer:** So wet waste can be composted, and dry waste can be sorted and recycled. *Why:* Mixed waste is hard to compost and hard to recycle. Kept apart, wet waste can become compost or biogas, and clean dry waste can be sorted and sold for recycling.
 11. (write) Before 1861, most people thought every living thing needed air. Then Louis Pasteur found microbes that live without air. In the Peels Alone or Peels with Paper test, jar A had only peels. Where in that test did you see signs of microbes that live without air?  
    **Answer:** At the bottom of jar A, where the peels were packed and wet. That is where there was least air, and it was slimy, grey and sour.. *Why:* A strong answer connects Pasteur's discovery to evidence the child saw: the airless, sour bottom layer.
@@ -484,7 +484,7 @@ She mixed it into the soil of a pot and planted a tulsi seedling in the pot. Chi
 13. (fill) Bacteria and fungi have no mouth. They let out juices called ____ that break food into tiny pieces.  
    **Answer:** ['enzymes']. *Why:* Enzymes break food down outside the body. Then the microbes soak up the tiny pieces.
 14. (mcq) You see white, fluffy threads on an old peel in a compost pot. What are they?  
-   Options: A fungus feeding on the peel / Cotton from the cloth / Plastic  
+   Options: Cotton from the cloth / Plastic / A fungus feeding on the peel  
    **Answer:** A fungus feeding on the peel. *Why:* White threads are a fungus. It is a helper, not a pest.
 15. (write) The Peels Alone or Peels with Paper test used one jar of peels alone and one jar of peels with paper. Why would a scientist repeat the test with more jars?  
    **Answer:** One pair of jars could be different by luck, for example if one jar got warmer. If many pairs show the same result, we can trust it more.. *Why:* A strong answer says that one result can be a fluke, and that repeating it makes the result more trustworthy.
@@ -496,7 +496,7 @@ She mixed it into the soil of a pot and planted a tulsi seedling in the pot. Chi
 3. (perspective) In a housing society in Guwahati, people disagree about the fallen leaves in the compound.  
    **Answer:** A strong answer uses the unit's facts: dry leaves are browns that help compost stay airy and not smell, and burning makes smoke that harms lungs. It also gives a fair point to the watchman: his work is hard, and composting must not just add more work for him.. *Why:* There is a real trade-off between quick cleaning, people's health, and the work composting takes.
 4. (mcq) 100 grams of peels and paper turn into much less than 100 grams of compost. Where did most of the rest go?  
-   Options: Into the air, as water and carbon dioxide made by the microbes / It vanished, and nothing is left of it anywhere / It turned into worms  
+   Options: It vanished, and nothing is left of it anywhere / It turned into worms / Into the air, as water and carbon dioxide made by the microbes  
    **Answer:** Into the air, as water and carbon dioxide made by the microbes. *Why:* Nothing just vanishes. As microbes feed, they breathe out carbon dioxide and let out water, which go into the air. Picking 'vanished' is a common idea, but the stuff of the peel is still in the world.
 5. (truefalse) Every microbe that lives without air makes a rotten smell.  
    **Answer:** False. *Why:* False. The bacteria that turn milk into curd can live without air, and curd smells pleasantly sour. Bokashi bins ferment food without air, and smell like pickle, not rot.
@@ -507,7 +507,7 @@ She mixed it into the soil of a pot and planted a tulsi seedling in the pot. Chi
 8. (order) In a compost pot, which would become compost first? Put them in order, fastest first.  
    **Answer:** ['chopped cucumber peel', 'torn newspaper', 'a whole coconut shell']. *Why:* Soft, wet, chopped peel is easiest for microbes to eat. Paper takes longer. A coconut shell is very hard and tough, and can take many months or years.
 9. (mcq) Many families in Bengaluru compost in terracotta pots. Why does a clay pot work well?  
-   Options: Its walls let a little air and water through / Clay kills smells by itself / Clay is the only thing microbes can live in  
+   Options: Clay kills smells by itself / Clay is the only thing microbes can live in / Its walls let a little air and water through  
    **Answer:** Its walls let a little air and water through. *Why:* Unglazed clay has tiny holes. Air can pass in, and extra water can soak out and dry, so the compost does not get airless and soggy.
 10. (truefalse) When a city composts its wet waste instead of dumping it, its dumps make less methane.  
    **Answer:** True. *Why:* True. Methane comes from wet waste rotting without air in the dump. Composted with air, the same waste makes carbon dioxide and compost instead.
@@ -516,7 +516,7 @@ She mixed it into the soil of a pot and planted a tulsi seedling in the pot. Chi
 12. (label) Label the drawing of a compost pot cut open: air holes, greens, browns, ready compost at the bottom, tray.  
    **Answer:** Air holes in the sides and lid. Greens (peels) in layers. Browns (paper and leaves) covering each layer. Dark ready compost at the very bottom, the oldest part. A tray under the pot to catch drips.. *Why:* The oldest waste is at the bottom, so that is where compost is ready first.
 13. (mcq) A farm has a big compost heap. Which of these would let the most air into the middle of it?  
-   Options: A pipe full of holes pushed through the middle / A plastic sheet over the top / Pressing it down with a roller / Pouring water on it  
+   Options: A plastic sheet over the top / A pipe full of holes pushed through the middle / Pressing it down with a roller / Pouring water on it  
    **Answer:** A pipe full of holes pushed through the middle. *Why:* A pipe with holes carries air into the middle, where it is hardest to reach. A plastic sheet and pressing both keep air out, and too much water fills the air spaces.
 14. (write) In the Peels Alone or Peels with Paper test, each jar got a spoon of soil. Plan a fair test to find out whether the soil made any difference. Say what you keep the same and what you change.  
    **Answer:** Use two jars that are the same, with the same amount of the same peels and paper, in the same place. Put a spoon of soil in one jar and none in the other. Compare the smell and the look every few days.. *Why:* A fair test changes only one thing, here the soil, and keeps all the rest the same.
@@ -530,40 +530,40 @@ She mixed it into the soil of a pot and planted a tulsi seedling in the pot. Chi
 
 ## Quiz
 1. (mcq) Which of these is a green for a compost pot?  
-   Options: Torn newspaper / Papaya peel / A dry leaf / An egg tray  
+   Options: Torn newspaper / A dry leaf / An egg tray / Papaya peel  
    **Answer:** Papaya peel. *Why:* A papaya peel is wet, fresh plant waste, so a papaya peel is a green. Newspaper, a dry leaf and an egg tray are dry, so they are browns. Picking one of those usually means mixing up the two groups: greens are wet, browns are dry.
 2. (mcq) Why should leftover cooked rice stay out of a small compost pot at home?  
    Options: It smells strongly and brings rats and flies / Microbes cannot eat rice / Rice turns into plastic  
    **Answer:** It smells strongly and brings rats and flies. *Why:* Microbes can eat rice, but in a small home pot cooked food smells strongly and brings rats and flies. Big city plants and hot heaps can handle it.
 3. (mcq) The same peels go into two jars. Torn paper is mixed into jar B only. After a week, jar A has liquid at the bottom and smells sour. What does this show?  
-   Options: Paper keeps peels drier and lets air in / Paper makes peels rot faster than anything / Jar A had no microbes  
+   Options: Paper makes peels rot faster than anything / Jar A had no microbes / Paper keeps peels drier and lets air in  
    **Answer:** Paper keeps peels drier and lets air in. *Why:* The only difference was the paper. It soaked up the liquid and held the peels apart, so air could get in and microbes that use air could work. Jar A had plenty of microbes, but they were the kind that live without air.
 4. (mcq) In the Peels Alone or Peels with Paper test, jar B has paper mixed in and jar A does not. Why do both jars get exactly one cup of the same peels?  
-   Options: So the only difference is the paper / Because one cup is the most a jar can hold / So the jars look nice  
+   Options: Because one cup is the most a jar can hold / So the only difference is the paper / So the jars look nice  
    **Answer:** So the only difference is the paper. *Why:* In a fair test only one thing changes. If jar A had more peels, we could not tell whether the smell came from the extra peels or from having no paper.
 5. (mcq) Who does most of the work of turning peels into compost?  
-   Options: Bacteria / Earthworms / Flies / The Sun  
+   Options: Earthworms / Flies / Bacteria / The Sun  
    **Answer:** Bacteria. *Why:* Bacteria do most of the work. Worms help a lot, but a pot with no worms still makes compost. If you picked earthworms, remember that they are the decomposers we can see. Most of the work is done by the ones we cannot.
 6. (mcq) Microbes that live without air are called anaerobic. What do many of them make?  
-   Options: Sour and rotten smells / Sweet smells, like flowers / Plastic  
+   Options: Sweet smells, like flowers / Plastic / Sour and rotten smells  
    **Answer:** Sour and rotten smells. *Why:* Many anaerobic microbes make sour acids and smelly gases. Some also make methane, which has no smell but burns easily.
 7. (mcq) A compost pot is dry and dusty, and nothing has changed for two weeks. What should you do?  
-   Options: Sprinkle a little water and stir / Add a tight lid / Put it in the fridge  
+   Options: Add a tight lid / Sprinkle a little water and stir / Put it in the fridge  
    **Answer:** Sprinkle a little water and stir. *Why:* Microbes need water to digest food. A dry pot is too dry for them to work. A little water, until it feels like a squeezed sponge, gets them going again.
 8. (mcq) Why does a compost pot need holes in its sides?  
-   Options: To let air in for the microbes that use air / To let the compost fall out / To let worms escape  
+   Options: To let the compost fall out / To let air in for the microbes that use air / To let worms escape  
    **Answer:** To let air in for the microbes that use air. *Why:* Air holes let oxygen reach the waste. Then aerobic microbes do the work, and the pot smells of damp earth instead of turning sour.
 9. (mcq) Food and paper in a dump can last for many years. Why?  
-   Options: The garbage is pressed tight with almost no air / There are no microbes in a city / Dumps are kept very cold  
+   Options: There are no microbes in a city / Dumps are kept very cold / The garbage is pressed tight with almost no air  
    **Answer:** The garbage is pressed tight with almost no air. *Why:* Microbes are everywhere, also in dumps. But without air only the slow anaerobic microbes can work. William Rathje's team found newspapers they could still read decades after they were buried.
 10. (mcq) Dumps often catch fire. Which gas, made by microbes that live without air, helps the fires start?  
-   Options: Methane / Oxygen / Water vapour  
+   Options: Oxygen / Methane / Water vapour  
    **Answer:** Methane. *Why:* Anaerobic microbes in the dump make methane, which burns easily. That is one reason fires like the one at Brahmapuram, near Kochi, in 2023 are so hard to put out.
 11. (mcq) How can you tell that compost in a pot is ready to use?  
-   Options: It is dark and crumbly, smells like damp earth, and you cannot see the peels / It is wet and slimy / It smells sour  
+   Options: It is wet and slimy / It smells sour / It is dark and crumbly, smells like damp earth, and you cannot see the peels  
    **Answer:** It is dark and crumbly, smells like damp earth, and you cannot see the peels. *Why:* Ready compost looks like dark soil and smells earthy. Slime and a sour smell mean it needs more browns and air, and more time.
 12. (mcq) What should go on top of each day's peels in a compost pot?  
-   Options: About twice as much browns, such as torn paper or dry leaves / Water, to keep them wet / A plastic sheet  
+   Options: Water, to keep them wet / A plastic sheet / About twice as much browns, such as torn paper or dry leaves  
    **Answer:** About twice as much browns, such as torn paper or dry leaves. *Why:* Browns soak up the wet, make air spaces and hide the peels from flies. Water would make the pot too wet, and plastic would keep air out.
 
 ## Applications

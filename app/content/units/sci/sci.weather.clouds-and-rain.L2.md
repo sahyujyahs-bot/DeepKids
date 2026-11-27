@@ -487,28 +487,28 @@ Paati brought them hot sundal in steel bowls. "So the sky did not open after all
    Options: Smoke / Millions of tiny drops of water / Cotton-like threads  
    **Answer:** Millions of tiny drops of water. *Why:* A cloud is made of tiny drops of water, or tiny bits of ice. It only looks like smoke or cotton from far away.
 2. (mcq) Why can a cloud float, even though it is made of water?  
-   Options: Its drops are so tiny that they fall very slowly, and rising air holds them up / Clouds have no weight / Clouds are hollow bubbles  
+   Options: Clouds have no weight / Its drops are so tiny that they fall very slowly, and rising air holds them up / Clouds are hollow bubbles  
    **Answer:** Its drops are so tiny that they fall very slowly, and rising air holds them up. *Why:* Clouds do weigh a lot. But their water is split into tiny drops that fall very slowly. The hollow bubble idea was shown wrong in 1846.
 3. (mcq) How does rain start inside a cloud?  
-   Options: The cloud bursts open / Tiny drops join into drops heavy enough to fall / The wind shakes the water out  
+   Options: Tiny drops join into drops heavy enough to fall / The cloud bursts open / The wind shakes the water out  
    **Answer:** Tiny drops join into drops heavy enough to fall. *Why:* Rain begins when tiny cloud drops grow and join. A cloud has no skin to burst.
 4. (mcq) Where does the water in a cloud come from?  
-   Options: From water that evaporated from seas, rivers and wet things / From space / Clouds make new water  
+   Options: From space / From water that evaporated from seas, rivers and wet things / Clouds make new water  
    **Answer:** From water that evaporated from seas, rivers and wet things. *Why:* Water evaporates into the air as invisible vapour, then cools high up into tiny drops. No new water is made.
 5. (mcq) Wet clothes hang on a balcony. By evening they are dry. Where did the water go?  
-   Options: Into the air, as water vapour / Into the clothes pegs / It disappeared for ever  
+   Options: Into the clothes pegs / It disappeared for ever / Into the air, as water vapour  
    **Answer:** Into the air, as water vapour. *Why:* The water evaporated into the air as vapour. Some day, that water may be part of a cloud.
 6. (mcq) Which clouds are most likely to bring rain?  
-   Options: Thin white clouds / Thick clouds with dark grey bottoms / Small clouds on a sunny morning  
+   Options: Thick clouds with dark grey bottoms / Thin white clouds / Small clouds on a sunny morning  
    **Answer:** Thick clouds with dark grey bottoms. *Why:* Thick clouds hold more water, so their drops have more chances to join. They look dark because little light comes out of the bottom.
 7. (mcq) Why does the bottom of a rain cloud look grey?  
-   Options: The water in it is dirty / The cloud is so thick that little sunlight gets through / It is full of smoke  
+   Options: The water in it is dirty / It is full of smoke / The cloud is so thick that little sunlight gets through  
    **Answer:** The cloud is so thick that little sunlight gets through. *Why:* Grey clouds are made of clear water drops, like white clouds. They are just thick enough to stop most of the light.
 8. (mcq) In the torch beam, which reached the floor first?  
    Options: The mist / The drop from the spoon / Both at the same time  
    **Answer:** The drop from the spoon. *Why:* The big spoon drop fell in a blink. The tiny mist drops drifted slowly, the way cloud drops do.
 9. (mcq) You do the spray plate test three times and get 10, 13 and 11 sprays. What should you say?  
-   Options: The test failed, because the numbers are different / It always took many sprays before a drop ran down / Only the first try counts  
+   Options: The test failed, because the numbers are different / Only the first try counts / It always took many sprays before a drop ran down  
    **Answer:** It always took many sprays before a drop ran down. *Why:* Small differences are normal in any test. What all three tries agree on is the big result: tiny drops must join before they fall.
 10. (mcq) About how many cloud drops does it take to make one raindrop?  
    Options: About 10 / About 100 / About a million  

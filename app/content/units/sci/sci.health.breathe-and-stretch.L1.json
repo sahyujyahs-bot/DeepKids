@@ -1,0 +1,711 @@
+{
+ "id": "sci.health.breathe-and-stretch.L1",
+ "title": "Breathe and stretch: what slow breathing and stretching do inside you",
+ "level": 1,
+ "summary": {
+  "text": "Hold your breath and count. Very soon your body makes you breathe again. So who is in charge of your breath, you or your body? In this lesson you feel your breath go in and out, slow it down, and notice what changes inside you. You stretch like a cat and a cobra, measure how far you can reach, and meet yoga, kabaddi and other breath-and-stretch play from India.",
+  "art": "A child lying on a mat with a paper boat on the tummy, a street dog beside the mat stretching with front legs forward."
+ },
+ "intro": {
+  "hook": "Put one hand on your tummy and one hand on your chest. Sit still and do nothing at all. Which hand moves?",
+  "text": "You did nothing, and still a hand moved. Air went into you and came out again. Your body did that by itself. Now take one big slow breath on purpose. This time you did it. Today you find out what breath and stretching do inside you, and why people in India have practised both for a very long time.",
+  "art": "A child sitting cross-legged with one hand on the chest and one on the tummy, small arrows showing air going in at the nose."
+ },
+ "outcomes": [
+  "I can feel my breath go in and out, and show which parts of my body move.",
+  "I can say that my body breathes by itself, and that I can also change my breath when I choose.",
+  "I can breathe slowly and say how my body feels afterwards.",
+  "I can do a gentle stretch and point to where I feel the pull.",
+  "I can tell a gentle pull from pain, and I stop when a stretch hurts.",
+  "I can show two yoga poses or games from India that use breath and stretching.",
+  "I can say why my body needs both moving and resting."
+ ],
+ "explanations": [
+  {
+   "concept": "Breathing is air going into you and coming out of you",
+   "status": "defined",
+   "definition": "Breathing is taking air into the lungs and pushing it out again. The lungs are two soft bags inside the chest.",
+   "description": "Air is all around you, though you cannot see it. When you breathe in, air goes through your nose, down a tube in your throat, and into your lungs. Your lungs are two soft bags inside your chest. They fill up like slow balloons, so your chest and tummy get bigger. When you breathe out, the air leaves and your chest gets smaller again. In and out together make one breath.",
+   "examples": [
+    "Hold your palm near your nose. You feel warm air touch your hand each time you breathe out.",
+    "Breathe out on a steel plate or a mirror. A patch of mist shows the air that came out of you.",
+    "Lie down with a paper boat on your tummy. The boat rides up when you breathe in and down when you breathe out."
+   ],
+   "perspectives": [],
+   "one_view": "That air goes in and out of the lungs is seen and measured in every breathing person. What breath means to people comes in later cards.",
+   "art": "A side view of a child with the nose, the throat tube and two lungs drawn in soft colour, and arrows for air going in and out.",
+   "context": "This card says what a breath is, so every later card can use the word."
+  },
+  {
+   "concept": "You take about 20 breaths every minute, and more than 20,000 every day",
+   "status": "defined",
+   "definition": "A child of six at rest takes about 20 breaths each minute. A grown-up at rest takes about 12 to 20.",
+   "description": "Ask a grown-up to time one minute while you sit still. Count each time your tummy rises. Most six-year-olds count about 20. Now think of a whole day. Twenty breaths a minute comes to more than 20,000 breaths between one morning and the next. You did not plan even one of them. Smaller bodies breathe faster. A new baby takes about 40 breaths a minute, and a grown-up takes fewer than you.",
+   "examples": [
+    "A sleeping baby's tummy goes up and down about twice as fast as yours.",
+    "A resting dog takes about 15 to 30 breaths a minute, close to your own count.",
+    "A mouse takes more than 100 breaths a minute. An elephant at rest takes about 4 to 12."
+   ],
+   "perspectives": [],
+   "one_view": "These are counts that anyone can repeat with a clock, so there is only one honest view of them.",
+   "art": "A row of four beings, a mouse, a baby, a child and an elephant, each with a number of breaths per minute above the head.",
+   "context": "This card puts a number on breathing, and shows that small bodies breathe faster than big ones."
+  },
+  {
+   "concept": "Your body breathes by itself, and you can also breathe on purpose",
+   "status": "defined",
+   "definition": "Breathing is automatic, which means it happens without your choosing. It can also be done by choice for a short time.",
+   "description": "You breathe when you sleep. You breathe when you forget all about it. A small part at the bottom of your brain sends the signal for every breath. But you can also step in. You can breathe fast, breathe slowly, or hold your breath. Try to do that with your heartbeat. You cannot tell your heart to stop for a moment. Breath is one of the few things inside you that works both ways. And when you hold your breath too long, your body takes over again.",
+   "examples": [
+    "Hold your breath and count. After some seconds the wish to breathe grows too strong to refuse.",
+    "You blink without thinking, and you can also blink on purpose. Blinking works both ways too.",
+    "A singer in a Carnatic concert plans every breath for a long line of song. The same singer does not plan a single breath while asleep."
+   ],
+   "perspectives": [
+    {
+     "who": "Doctors who study breathing",
+     "explanation": "A group of nerve cells low in the brain keeps the rhythm of breathing going. Other parts of the brain, the ones you use for choosing, can change the rhythm for a while. So two parts of you share one job."
+    },
+    {
+     "who": "Yoga teachers, following Patanjali's Yoga Sutras, written about 2,000 years ago",
+     "explanation": "Breath is the one thing inside the body that a person can easily reach by choice. So yoga uses the breath as a way to reach what cannot be reached directly, such as a restless mind."
+    },
+    {
+     "who": "Scientists who study dolphins and whales",
+     "explanation": "A dolphin lives in water and must come up to breathe air. Many scientists think dolphins choose every breath. Dolphins rest one half of the brain at a time, and this may be why."
+    }
+   ],
+   "art": "A sleeping child with a small glowing dot low in the brain and a wavy line of breath, beside the same child awake and puffing the cheeks.",
+   "context": "This card shows that breathing is both something your body does and something you do."
+  },
+  {
+   "concept": "A flat muscle under your lungs does most of the work of breathing",
+   "status": "defined",
+   "definition": "The diaphragm is a flat muscle that lies under the lungs. When it moves down, air is drawn into the lungs.",
+   "description": "A muscle is a part of the body that can pull. Under your lungs lies a flat muscle shaped like an upturned bowl. Its name is the diaphragm, said 'dye-a-fram'. When the diaphragm pulls down, your lungs get more room and air comes in. Your tummy gets pushed out of the way, so it rises. When the diaphragm lets go, it goes back up and the air leaves. That is why your tummy moves when you breathe, though no air goes into your tummy.",
+   "examples": [
+    "A hiccup is the diaphragm pulling down suddenly when you did not ask.",
+    "Babies breathe mostly with the tummy. Watch a sleeping baby and you see the tummy rise, not the chest.",
+    "After running, the muscles between your ribs and in your neck help too, so your chest and shoulders lift."
+   ],
+   "perspectives": [],
+   "one_view": "The diaphragm and its movement can be seen on scans of a breathing person, so there is one agreed view.",
+   "art": "A cut-away drawing of a chest showing the lungs and the bowl-shaped diaphragm below them, in two positions, up and down.",
+   "context": "This card explains why the tummy rises when you breathe in."
+  },
+  {
+   "concept": "Your nose warms, wets and cleans the air before it reaches your lungs",
+   "status": "defined",
+   "definition": "The nose is the body's air filter. Hairs and a sticky wet lining catch dust, and the air is warmed and dampened on the way in.",
+   "description": "The inside of your nose is wet and warm. Small hairs stand near the opening. Further in, a sticky wet layer called mucus coats the walls. Dust and smoke stick to the hairs and the mucus. Cold air warms up as it passes, and dry air picks up water. So the air that reaches your lungs is cleaner, warmer and wetter than the air outside. Your mouth can also take in air, and that helps when you run hard. But the mouth does not clean the air as well.",
+   "examples": [
+    "After a dusty bus ride, the inside of your nose is grey when you blow it. That dust did not reach your lungs.",
+    "On a cold morning in Shimla or Ooty, the air feels sharp in your nose and softer in your chest.",
+    "A camel can close the nostrils to keep desert sand out."
+   ],
+   "perspectives": [],
+   "one_view": "What the nose does to air has been measured, and doctors agree on it.",
+   "art": "A zoom-in on the inside of a nose with small hairs catching dust specks, and blue cold air turning orange as it passes.",
+   "context": "This card says why slow breathing is usually done through the nose."
+  },
+  {
+   "concept": "Your heart beats a little faster as you breathe in, and a little slower as you breathe out",
+   "status": "defined",
+   "definition": "In a healthy body the heartbeat speeds up slightly during each in-breath and slows slightly during each out-breath.",
+   "description": "Your heart is a muscle in your chest that pushes blood round your body. You can feel each push as a tap on your wrist or neck. This tap is called your pulse. Now breathe in slowly for four counts and out slowly for six. A grown-up who feels your pulse can notice a change. The taps come a little closer together on the in-breath. They spread out on the out-breath. This happens in every healthy child, and it is stronger in children than in grown-ups. So a long, slow out-breath gives the heart a small rest.",
+   "examples": [
+    "The German doctor Carl Ludwig first recorded this in 1847, in a dog whose pulse he traced on paper.",
+    "Dogs, horses and seals show the same pattern, often more strongly than people do.",
+    "A sigh is one long out-breath. Many people sigh without planning to after something hard is over."
+   ],
+   "perspectives": [],
+   "one_view": "The link between breath and heartbeat is measured every day in hospitals. Why it helps the body is still studied, and the next card takes that up.",
+   "art": "A wavy line for breath with heart shapes along it, close together on the rising part and spread apart on the falling part.",
+   "context": "This card shows that breath and heartbeat are joined, which is the first clue to why slow breathing feels different."
+  },
+  {
+   "concept": "Slow breathing often makes people feel calmer, and scientists are still working out why",
+   "status": "debated",
+   "definition": "Many studies find that breathing slowly, about six breaths a minute for a grown-up, leaves people feeling calmer. The reason is not settled.",
+   "description": "Try five slow breaths when you feel cross or jumpy. Breathe out as if you are cooling hot kanji on a spoon. Many people feel quieter afterwards. Their heartbeat is a little slower and their shoulders drop. Tests on thousands of people have found the same. But why does it work? Scientists have several ideas and they do not agree. It also does not work for everyone, every time. That is worth knowing, so you do not feel you have done it wrong.",
+   "examples": [
+    "A review of many studies in 2018, led by Andrea Zaccaro in Italy, found that slow breathing was linked with feeling more at ease and more alert.",
+    "Divers who collect clams from Vembanad lake in Kerala breathe slowly before going under, because a quiet body uses up its air more slowly."
+   ],
+   "perspectives": [
+    {
+     "who": "Patanjali, Yoga Sutras 1.34, about 2,000 years ago",
+     "explanation": "The mind becomes steady by breathing out fully and holding the breath gently. Patanjali lists this as one of several ways to calm the mind, and does not say it is the only one."
+    },
+    {
+     "who": "Svatmarama, Hatha Yoga Pradipika 2.2, written in about the 15th century CE",
+     "explanation": "When the breath moves, the mind moves. When the breath is still, the mind is still. This book treats breath and mind as two ends of one rope."
+    },
+    {
+     "who": "Kevin Yackle, Mark Krasnow and their team in California, in 2017",
+     "explanation": "In mice they found a small group of nerve cells inside the breathing centre of the brain. These cells pass news of the breathing rhythm to the part of the brain that makes a mouse alert. Slow breath, less alarm. This was shown in mice, and people have not been tested in the same way."
+    },
+    {
+     "who": "Doctors who study the vagus nerve",
+     "explanation": "A long nerve called the vagus runs from the brain to the heart, lungs and stomach. A long out-breath makes this nerve slow the heart. A slower heart may then tell the brain that all is well."
+    },
+    {
+     "who": "Psychologists who study attention",
+     "explanation": "Counting breaths gives the mind one small job. While it does that job, it stops going over the thing that upset it. On this view any quiet task that holds your attention could help, and breath is simply always at hand."
+    }
+   ],
+   "art": "A child blowing gently over a spoon of steaming kanji, with a small heart and a small brain joined by a dotted line.",
+   "context": "This card gives the main ideas about why slow breathing calms many people, and says plainly that the question is open."
+  },
+  {
+   "concept": "A stretch gently pulls a muscle longer for a little while",
+   "status": "defined",
+   "definition": "To stretch is to move a part of the body so that a muscle is pulled gently towards its full length and held there.",
+   "description": "Muscles are the parts that move you. Each muscle is tied to bones at both ends. When a muscle pulls, it gets shorter and fatter, and a bone moves. Bend your arm and feel the bump above your elbow. That muscle has got shorter. Now reach your arm straight up as high as you can. The muscles along your side are pulled long. That is a stretch. A muscle that has sat short for a long time feels tight, and a stretch feels good to it.",
+   "examples": [
+    "After a long car ride your legs feel stiff, and you want to stretch them the moment you get out.",
+    "Reach both arms up after waking and you feel a pull from your hips to your fingertips.",
+    "Sit with your legs straight and reach for your toes. The pull is at the back of your legs."
+   ],
+   "perspectives": [],
+   "one_view": "That a stretch lengthens a muscle for the moment can be seen and measured. What changes after weeks of stretching is debated, and has its own card.",
+   "art": "An arm drawn twice, bent with a short fat muscle and stretched overhead with a long thin muscle.",
+   "context": "This card says what a stretch is and what a muscle does."
+  },
+  {
+   "concept": "Sensors inside your muscles tell you where your body is, even with your eyes shut",
+   "status": "defined",
+   "definition": "Muscles and joints hold tiny sensors that report how long each muscle is and how hard it is pulling. This sense of body position is called proprioception.",
+   "description": "Close your eyes and touch your nose with one finger. You found it without looking. How? Inside every muscle are tiny sensors that feel how long the muscle is. More sensors sit where the muscle joins the bone. They send messages to your brain all day. So you know where your arms and legs are without seeing them. When you stretch, these sensors send the feeling of pull. Your body has thousands of kinds of sensors, far more than the five that people usually count.",
+   "examples": [
+    "You can clap your hands behind your back, though you cannot see them there.",
+    "Stand on one leg with your eyes shut. It is harder, because your eyes were helping your muscle sensors.",
+    "A cat walking along a wall places the back paws exactly where the front paws stepped, without looking back."
+   ],
+   "perspectives": [
+    {
+     "who": "Charles Sherrington, an English scientist, in 1906",
+     "explanation": "He gave this sense the name proprioception, which means 'feeling one's own self'. He showed that the body senses itself as well as the outside world."
+    },
+    {
+     "who": "Yoga and kalaripayattu teachers",
+     "explanation": "Kalaripayattu is a fighting art from Kerala. Its teachers, like yoga teachers, train students to notice exactly where each limb is. They treat this noticing as a skill that grows with practice, like reading."
+    }
+   ],
+   "art": "A child with eyes closed touching the nose, with small glowing dots along the arm muscles and thin lines going up to the brain.",
+   "context": "This card explains how you can feel a stretch, and adds body position to the senses a child already knows."
+  },
+  {
+   "concept": "A good stretch feels like a gentle pull, and pain means stop",
+   "status": "defined",
+   "definition": "A safe stretch is slow, is held without bouncing, and gives a mild pull. Sharp pain is the body's signal to ease off.",
+   "description": "Reach slowly until you feel a gentle pull. Stop there. Keep breathing. Stay for about three slow breaths, and then come back slowly. If you feel a sharp pain, a burning or a pinch, you have gone too far. Come back a little. Pain is a message from your body, and it is worth listening to. Warm muscles stretch more easily than cold ones. So walk about or play for a few minutes before you stretch.",
+   "examples": [
+    "A stretch done after playing reaches further than the same stretch done just after waking.",
+    "Bouncing in a stretch makes the muscle sensors pull the muscle tight again, so you reach less, not more.",
+    "Each body is different. One child folds flat over her legs, another reaches his knees, and both are stretching well."
+   ],
+   "perspectives": [
+    {
+     "who": "Patanjali, Yoga Sutras 2.46, about 2,000 years ago",
+     "explanation": "A posture should be steady and comfortable. Patanjali gives no list of difficult shapes. On his view, a pose that hurts or wobbles is not yet a pose."
+    },
+    {
+     "who": "Doctors who treat sports injuries",
+     "explanation": "A muscle pulled too hard or too fast can tear. They advise slow stretches held for about 15 to 30 seconds for grown-ups, and less for young children, who are usually bendy already."
+    }
+   ],
+   "art": "Two drawings of a child reaching for the toes, one with a calm face and a green tick near the back of the legs, one with a wince and a red mark.",
+   "context": "This card says how to stretch without getting hurt."
+  },
+  {
+   "concept": "If you stretch every day you can reach further, and scientists argue about why",
+   "status": "debated",
+   "definition": "Regular stretching increases how far a person can reach. Whether the muscle becomes longer, or the person simply gets used to the feeling, is not settled.",
+   "description": "Touch your toes every day for three weeks and you will reach further. Almost everyone does. For a long time people thought the reason was plain: the muscle had grown longer. Then scientists measured the muscle itself, and many found something odd. The muscle was about as stiff as before. What had changed was the point where the person said 'enough'. So is your muscle longer, or are you braver about the pull? Both ideas have evidence.",
+   "examples": [
+    "In your own test with a ruler, you may reach a few centimetres further after three gentle stretches. Ten minutes is too short for a muscle to grow.",
+    "Dancers and gymnasts who train for years do show longer muscle fibres in some studies."
+   ],
+   "perspectives": [
+    {
+     "who": "Peter Magnusson, a Danish scientist, with Cynthia Weppler, in a review of 2010",
+     "explanation": "In studies lasting a few weeks, the muscle pulls back just as hard as before. People reach further because they can bear a stronger feeling of stretch. The change is in the sensing, and not in the length."
+    },
+    {
+     "who": "Scientists who study long training, such as Anthony Blazevich in Australia",
+     "explanation": "Over many months of hard stretching, pictures taken with sound waves show the muscle fibres getting longer. So the muscle does change, but slowly, and only with a lot of stretching."
+    },
+    {
+     "who": "Yoga teachers",
+     "explanation": "Reaching further is not the aim. The aim is to be steady, to breathe easily and to notice the body. On this view the question of length misses the point of the practice."
+    }
+   ],
+   "art": "A child sitting with legs straight reaching along a ruler on two different days, with a question mark over the back of the leg.",
+   "context": "This card takes a thing everyone believes, that stretching lengthens muscles, and shows what scientists found when they measured."
+  },
+  {
+   "concept": "Dogs, cats and many other animals stretch after resting, and nobody taught them",
+   "status": "defined",
+   "definition": "Many animals with backbones stretch and yawn after sleep or long stillness. Scientists call this waking stretch pandiculation.",
+   "description": "Watch a street dog wake up. The front legs go forward, the chest goes down, and the back makes a long slope. A cat arches up like a bridge. A hen stretches one wing and one leg on the same side. A baby stretches before birth, inside the mother. Nobody taught any of them. Animals, including us, are born knowing how to stretch. After long stillness, muscles sit short and blood moves slowly. The stretch wakes the muscle sensors and gets everything ready to move.",
+   "examples": [
+    "The yoga pose called 'the dog facing down' has the same shape as a dog's waking stretch.",
+    "A crow on a wire stretches one wing down past the foot, and then the other.",
+    "You often stretch your arms without planning to when you wake up or stand up from a long sit."
+   ],
+   "perspectives": [
+    {
+     "who": "Scientists who study animal behaviour",
+     "explanation": "The waking stretch is built in. It resets the muscles after rest so the animal is ready to run or climb at once. An animal who wakes up stiff may be caught."
+    },
+    {
+     "who": "The makers of yoga postures, as recorded in the Gheranda Samhita, a yoga book of about 1700 CE",
+     "explanation": "This book describes 32 postures and names many after other beings: the cobra, the tree, the peacock, the frog, the camel, the lion, the fish. The names record whom people watched and learned from."
+    }
+   ],
+   "art": "A street dog, a cat, a hen and a child, each in a waking stretch, side by side in morning light.",
+   "context": "This card shows that stretching is something bodies know before anyone teaches it."
+  },
+  {
+   "concept": "Why do we yawn? Nobody is sure",
+   "status": "debated",
+   "definition": "A yawn is a long, deep in-breath with the mouth wide open, followed by a shorter out-breath. Its purpose is not known.",
+   "description": "A yawn stretches the jaw, the face and the chest. People long believed that we yawn to pull in more air when the body runs short. It sounds right. But in 1987 the American scientist Robert Provine tested it. He gave people air with extra oxygen, the part of air our bodies use. They yawned just as often. So that idea did not pass the test. Scientists have other ideas now, and none is agreed. Yawns also spread. Seeing a yawn, or even reading about one, can make you yawn.",
+   "examples": [
+    "Fish, snakes, birds, dogs and people all yawn.",
+    "Dogs sometimes yawn after a person they know yawns. Ramiro Joly-Mascheroni and his team in London showed this in 2008.",
+    "You may have yawned while this card was read to you."
+   ],
+   "perspectives": [
+    {
+     "who": "Andrew Gallup, an American scientist, since 2007",
+     "explanation": "A yawn cools the brain. The big in-breath and the stretched jaw bring cooler blood to the head. People yawn less with a cold pack held to the forehead, and animals with bigger brains yawn for longer."
+    },
+    {
+     "who": "Scientists who see the yawn as a wake-up stretch",
+     "explanation": "A yawn is a stretch for the face and chest. It comes when the body is changing from rest to action or from action to rest, and it helps the change along."
+    },
+    {
+     "who": "Scientists who study animals living in groups",
+     "explanation": "A yawn that spreads puts a whole group into the same mood at the same time, sleepy together or alert together. That may be why yawns pass most easily between friends and family."
+    }
+   ],
+   "art": "A child, a dog and a fish all yawning in a row, with a thought bubble holding a question mark.",
+   "context": "This card shows a common belief about yawning that failed a test, and the ideas that scientists now compare."
+  },
+  {
+   "concept": "Yoga began in India, and its poses are named after trees, animals and mountains",
+   "status": "defined",
+   "definition": "Yoga is a practice from India that joins steady postures, called asanas, with attention to the breath and the mind.",
+   "description": "In yoga you hold your body in a shape, breathe quietly and pay attention. Each shape is called an asana. Stand on one leg with your hands joined above your head, and you are a tree: Vrikshasana. Lie on your tummy and lift your chest, and you are a cobra: Bhujangasana. Go on hands and knees and arch your back, and you are a cat: Marjariasana. Yoga is very old. Patanjali's Yoga Sutras were written about 2,000 years ago. They speak mostly about the mind and say little about poses.",
+   "examples": [
+    "Tadasana, the mountain: stand tall and still with your feet together. It looks like doing nothing, and it takes attention.",
+    "Baddha Konasana, often called the butterfly: sit with the soles of your feet together and let your knees move like wings.",
+    "The Hatha Yoga Pradipika, from about the 15th century CE, describes 15 postures. The Gheranda Samhita, about 1700 CE, describes 32."
+   ],
+   "perspectives": [
+    {
+     "who": "Mark Singleton, a historian, in his book 'Yoga Body', 2010",
+     "explanation": "Many standing and flowing poses done in yoga classes today took their present form in the early 1900s. Teachers such as T. Krishnamacharya in Mysuru, in the 1930s, mixed older yoga with wrestlers' exercises and gymnastics of that time."
+    },
+    {
+     "who": "Jason Birch, a scholar of Sanskrit, in 2018",
+     "explanation": "He studied yoga manuscripts from the 1600s and 1700s CE that few had read. They describe well over a hundred postures, some of them moving and standing. So much of what looks new has older roots in India than Singleton's book allowed."
+    },
+    {
+     "who": "Yoga teachers in the line of Patanjali",
+     "explanation": "The age of a pose matters less than what it is for. Postures are one of eight parts of yoga. The others include how you treat other beings, how you breathe and how you steady your mind."
+    }
+   ],
+   "art": "Four children in tree, cobra, cat and mountain poses, each beside a small drawing of the tree, cobra, cat and mountain.",
+   "context": "This card introduces yoga, names four poses a child can try, and shows that historians debate how old the poses are."
+  },
+  {
+   "concept": "Kabaddi is a game played on one breath, and India has many games that stretch and bend the body",
+   "status": "defined",
+   "definition": "In traditional kabaddi a raider crosses into the other team's half and must keep chanting 'kabaddi' on a single out-breath until back home.",
+   "description": "In kabaddi one player, the raider, runs into the other team's half. The raider tries to touch someone and get back. In the old way of playing, the raider chants 'kabaddi, kabaddi, kabaddi' without taking a new breath. If the chant stops, the raid is over. So the game is a test of breath as well as of speed. Try it. Most children manage about six to ten 'kabaddis'. India has many more such games, and other countries have their own.",
+   "examples": [
+    "Kho-kho and langdi, played across Maharashtra and beyond, need quick bends, lunges and hops on one leg.",
+    "Mallakhamb, from Maharashtra, is yoga and wrestling moves done on a tall wooden pole or a hanging rope.",
+    "Surya Namaskar is a chain of twelve poses done with the breath. The Raja of Aundh, Bhawanrao Pant Pratinidhi, made it widely known in the 1920s.",
+    "In China, people of every age practise tai chi and qigong in parks at dawn: slow movements matched to slow breaths.",
+    "Thang-ta from Manipur and kalaripayattu from Kerala begin every lesson with long, deep stretches."
+   ],
+   "perspectives": [],
+   "one_view": "These are games and practices as people play them today. Their rules differ from place to place, and that is variety, not disagreement about facts.",
+   "art": "A sandy kabaddi ground with a raider mid-chant, a speech ribbon of 'kabaddi kabaddi kabaddi' trailing behind like a streamer.",
+   "context": "This card shows breath and stretching inside the games children already play."
+  },
+  {
+   "concept": "Your body needs both moving and resting, and rest is not the same as doing nothing",
+   "status": "defined",
+   "definition": "A healthy body moves a lot each day and also rests. During rest the heart, lungs and brain keep working, and muscles mend.",
+   "description": "After a game of catch your breath is fast and your face is warm. Sit down, and in a few minutes your breath is slow again. Your body swings between these two all day. Both are needed. When you move, muscles and bones are asked to work, and they grow stronger. When you rest, the small wear from that work is mended. Even at rest your heart beats and your lungs fill. Slow breathing and gentle stretching sit in between. You are awake and working, and quiet at the same time.",
+   "examples": [
+    "The World Health Organization advises that children from 5 to 17 years move energetically for about 60 minutes a day in total.",
+    "A lioness rests or sleeps for most of the day, and then runs at full speed for a short hunt.",
+    "A swift, a small bird, can stay in the air for months and rests while gliding."
+   ],
+   "perspectives": [
+    {
+     "who": "Doctors and the World Health Organization, in guidelines of 2020",
+     "explanation": "Children today sit too long. More movement of any kind, including play, cycling and walking to school, helps the heart, bones, sleep and mood."
+    },
+    {
+     "who": "Teachers of yoga's resting pose, Shavasana",
+     "explanation": "Lying completely still while staying awake is a skill, and is listed as a posture in the Hatha Yoga Pradipika. On this view rest is something you practise, the way you practise a stretch."
+    }
+   ],
+   "art": "A see-saw with a running child on one side and a child lying in rest on the other, balanced level.",
+   "context": "This card says why a day needs both lively play and quiet, and where breathing and stretching fit."
+  },
+  {
+   "concept": "The air you breathe out is used by plants, and the air you breathe in was made by them",
+   "status": "defined",
+   "definition": "Animals take a gas called oxygen from the air and give out a gas called carbon dioxide. Plants and tiny green beings in the sea take in carbon dioxide and give out oxygen.",
+   "description": "Air is a mix of gases you cannot see. One of them is oxygen. Your body takes some oxygen from every in-breath. It uses the oxygen to get energy out of your food. Your out-breath carries a waste gas called carbon dioxide. Here is the surprise. The tulsi on the balcony and the neem by the road take in that carbon dioxide. They use it, with sunlight and water, to build their bodies. And they give out oxygen. About half the oxygen in the air comes from tiny green beings floating in the sea.",
+   "examples": [
+    "The air in your lungs now was in the room a moment ago, and will be outside the window soon.",
+    "A fish breathes the oxygen that is mixed into water, using gills. An earthworm breathes through their damp skin.",
+    "A leaf breathes through thousands of tiny openings, mostly on the underside, too small to see."
+   ],
+   "perspectives": [
+    {
+     "who": "Scientists, since Joseph Priestley's test of 1771",
+     "explanation": "Priestley found that a mouse in a sealed jar soon grew weak, and that a sprig of mint in the jar kept the air fit for the mouse. Later scientists named the gases and showed how animals and plants pass them back and forth."
+    },
+    {
+     "who": "Thich Nhat Hanh, a Buddhist teacher from Vietnam, in his talks on 'interbeing'",
+     "explanation": "When you breathe, the tree is in you and you are in the tree. He asked people to notice that no clear edge can be found where the breather ends and the air begins."
+    }
+   ],
+   "art": "A child and a neem tree facing each other, with a blue arrow of oxygen from leaf to nose and a grey arrow of carbon dioxide from mouth to leaf.",
+   "context": "This card follows the breath outside the body and shows that breathing joins you to plants and the sea."
+  },
+  {
+   "concept": "Some animals hold their breath for hours, and some never breathe with lungs at all",
+   "status": "defined",
+   "definition": "Every animal needs to exchange gases with the surroundings, but bodies do this in different ways: lungs, gills, skin or tiny air tubes.",
+   "description": "You can hold your breath for perhaps half a minute. A sea turtle resting under water can stay down for hours. A Cuvier's beaked whale was once timed staying under for more than three hours. These animals have lungs like yours, and they have learned to make one breath last. Other animals do it another way. An ant has no lungs. Air goes in through small holes along the sides of the body and travels down tiny tubes. A frog breathes with lungs and also through the skin.",
+   "examples": [
+    "The Bajau people of Indonesia and nearby seas dive for fish on one breath, some for several minutes, and have done so for many generations.",
+    "A bar-headed goose flies over the Himalayas, where the air is so thin that a person would struggle to walk.",
+    "A dolphin sleeping at the surface comes up for each breath with half the brain awake."
+   ],
+   "perspectives": [],
+   "one_view": "These are measured facts about different bodies. They are here to show that your way of breathing is one way among many.",
+   "art": "A whale, a turtle, an ant, a frog and a goose, each with a small label showing how that animal takes in air.",
+   "context": "This card compares your breath with the breathing of other animals, so that human breathing is not taken as the only kind."
+  },
+  {
+   "concept": "Prana: the old Indian idea that breath carries life",
+   "status": "idea",
+   "definition": "Prana is a Sanskrit word that means both breath and the force of life. Many old traditions used one word for breath and for life or spirit.",
+   "description": "A living body breathes. When breathing stops for good, life ends. People everywhere noticed this long ago. In India, thinkers used the word prana for the breath and also for the life in a being. The Chandogya Upanishad tells a story. The eye, the ear, the mind and the breath argue about who is the most important. Each leaves the body for a year. The body manages without sight, without hearing, without thinking. When the breath starts to leave, all the others are pulled out with it. So they agree that breath comes first.",
+   "examples": [
+    "In Chinese the word qi, in Greek the word pneuma, in Hebrew the word ruach, and in Latin the word spiritus all mean breath or wind, and also life or spirit.",
+    "The Zhuangzi, a Chinese book of about the 4th century BCE, says in chapter 6 that the wise breathe from their heels, while most people breathe from their throats."
+   ],
+   "perspectives": [
+    {
+     "who": "Chandogya Upanishad 5.1, and Prashna Upanishad, second question",
+     "explanation": "Prana is the chief of the powers in the body, the one the others depend on. In these texts prana is more than air. It is the life that moves in every being."
+    },
+    {
+     "who": "Most scientists who study the body",
+     "explanation": "Breath carries oxygen in and carbon dioxide out. No separate life force has been found by any instrument. A body with a machine doing its breathing stays alive, so life depends on the gases, however they are moved."
+    },
+    {
+     "who": "Scientists and thinkers who ask what life is",
+     "explanation": "Science has no final definition of life, only working ones. Scientists can list what living bodies do, such as breathe, grow and mend. They cannot yet say what makes a set of chemicals alive. So the old question behind the word prana is still open."
+    }
+   ],
+   "art": "An old palm-leaf manuscript beside a child breathing out on a cold morning, the breath showing as a small cloud.",
+   "context": "This card gives the ancient Indian view of breath as life, what science says about it, and what neither can yet answer."
+  }
+ ],
+ "agreed": [
+  {
+   "text": "People who cannot breathe well through the nose, because of a cold or large adenoids, sleep less well.",
+   "evidence": "Sleep doctors record breathing during the night. Children with a blocked nose wake more often and are more tired the next day, and this improves when the blockage is treated."
+  },
+  {
+   "text": "A body that stays still for many days loses muscle quickly.",
+   "evidence": "People resting in bed in hospital, and astronauts floating in space, lose muscle within a week or two. Space agencies make astronauts exercise for about two hours every day for this reason."
+  },
+  {
+   "text": "Children are more bendy than grown-ups.",
+   "evidence": "Measurements of joints at different ages show that the range of movement is greatest in young children and falls slowly through life, faster in people who move little."
+  },
+  {
+   "text": "Smoke and dirty air harm the lungs of children more than those of grown-ups.",
+   "evidence": "Children breathe faster for their size and their lungs are still growing. Studies in Delhi and other cities have found smaller lung capacity in children who grow up in badly polluted air."
+  }
+ ],
+ "challenging": [
+  {
+   "claim": "Stretching before a game prevents injuries.",
+   "who": "Generations of sports coaches. Tested by Rodney Pope and colleagues in Australia in 2000, and by Rob Herbert and Michael Gabriel in a review of 2002",
+   "for": "A tight muscle seems more likely to tear, and players feel readier after stretching.",
+   "against": "Pope's team followed more than 1,500 army recruits. Half stretched before training and half did not. The two groups were injured about equally often. Warming up by moving, such as jogging, has better support.",
+   "status": "debated",
+   "context": "Almost every coach says this. When it was tested on many people, the result surprised them. It is here to show that a sensible-sounding rule still needs a test."
+  },
+  {
+   "claim": "Breathing through the mouth instead of the nose changes the shape of a growing child's face.",
+   "who": "Egil Harvold, an orthodontist, from tests on monkeys in the 1970s and 1980s, and some dentists today",
+   "for": "Young monkeys whose noses were blocked grew longer faces and narrower jaws. Some children who breathe through the mouth for years show similar shapes.",
+   "against": "Studies of children give mixed results. A narrow face may be the cause of mouth breathing and not the result. Many doctors say the evidence in people is too weak to be sure.",
+   "status": "debated",
+   "context": "This claim is popular in books and videos. The evidence is real but thin, and scientists disagree on how much to trust it."
+  },
+  {
+   "claim": "People should breathe much less than they do, and deep breathing is harmful.",
+   "who": "Konstantin Buteyko, a doctor in the Soviet Union, from the 1950s",
+   "for": "Some people with asthma, an illness that narrows the air tubes, report fewer symptoms after practising his method of small, quiet breaths.",
+   "against": "Careful trials found that the method did not improve how well the lungs work, though some people used less medicine. His idea that many illnesses come from breathing too much is not accepted.",
+   "status": "minority",
+   "context": "Most advice says 'breathe deeply'. One doctor said the opposite. Most scientists do not accept his reasons, but his view shows that even breathing advice is argued over."
+  },
+  {
+   "claim": "Yawning brings extra oxygen to the body.",
+   "who": "A belief held widely for centuries, and still printed in some books",
+   "for": "A yawn is a very deep breath, and it comes when we are sleepy or bored, when breathing is shallow.",
+   "against": "Robert Provine's test in 1987 found that breathing extra oxygen did not reduce yawning, and breathing extra carbon dioxide did not increase it.",
+   "status": "rejected",
+   "context": "This is a belief that fitted what people saw and still failed its test."
+  }
+ ],
+ "big_questions": [
+  {
+   "q": "When you are asleep, your body keeps breathing. When you hold your breath, you are in charge. So who is the one that breathes: you, or your body?",
+   "kind": "deep",
+   "hint": "Ask yourself if 'you' and 'your body' are two things or one. Try holding your breath and notice who wins."
+  },
+  {
+   "q": "A dog was never taught to stretch, and you were never taught to breathe. What else do you know how to do that nobody taught you?",
+   "kind": "big",
+   "hint": "Think about what a new baby can already do on the first day."
+  },
+  {
+   "q": "After five slow breaths you feel calmer. Did the breath change the feeling, or did you change the feeling by paying attention?",
+   "kind": "deep",
+   "hint": "How could you test it? What could you do instead of breathing slowly that also needs attention?"
+  },
+  {
+   "q": "The air you breathe out goes into a tree, and the air the tree gives out goes into you. Where does your breath stop being yours?",
+   "kind": "deep",
+   "hint": "Try to point to the exact place where the air becomes 'you'."
+  },
+  {
+   "q": "If stretching every day does not make the muscle longer, but only makes you feel the pull differently, has your body changed or has your mind changed?",
+   "kind": "deep",
+   "hint": "Think about where the feeling of a stretch is made: in the leg, in the brain, or in both."
+  },
+  {
+   "q": "A whale chooses every breath. You choose almost none. Would your day feel different if you had to choose each one?",
+   "kind": "big",
+   "hint": "Imagine reading, eating and sleeping while remembering to breathe."
+  },
+  {
+   "q": "Many old languages use one word for breath and for life. Were those people right that breath is life, or did they mix up two things?",
+   "kind": "big",
+   "hint": "Think of a seed, who does not seem to breathe, and of a person breathing with the help of a machine."
+  },
+  {
+   "q": "Yoga poses are named after the cobra, the cat and the tree. Is a person in tree pose learning something about being a tree, or only making a shape?",
+   "kind": "big",
+   "hint": "Stand in the pose for ten breaths on a windy day, and then say what you noticed."
+  },
+  {
+   "q": "Is sitting still and breathing slowly resting, or is it doing something?",
+   "kind": "deep",
+   "hint": "Compare it with watching a cartoon. Which one takes more effort from you?"
+  }
+ ],
+ "story": {
+  "title": "Who Taught the Dog?",
+  "mins": 8,
+  "read_aloud": true,
+  "note": "A made-up story set in Alappuzha, Kerala. The people and the dog are imagined. What is real: the yoga pose named after a dog's stretch, the one-breath chant in traditional kabaddi, and the clam divers of Vembanad lake, who work on a held breath. Nobody knows what a stretch feels like to a dog.",
+  "text": [
+   "Ammini was six, and she woke before the crows. She sat on the back step with her chin on her knees. Under the jackfruit tree a brown street dog named Kari was still asleep.",
+   "Then Kari woke. She did not jump up. First she pushed her front legs far forward. Her chest went down to the ground and her back made a long slope. She held it. Then she opened her mouth in a huge yawn and shook herself from nose to tail.",
+   "On the veranda next door, Shyla aunty was on her mat. Shyla aunty played kabaddi for the district team. Her hands were on the mat, her hips were high, and her back made a long slope.",
+   "'Aunty!' said Ammini. 'You are copying Kari!'",
+   "Shyla aunty laughed upside down. 'I am. This pose is called the dog facing down. Long ago, people watched dogs and thought, that looks useful.'",
+   "'Then who taught Kari?'",
+   "'Nobody taught Kari. She was born knowing.'",
+   "Ammini went over and tried it. The backs of her legs pulled. 'It hurts,' she said.",
+   "'Is it a hurt, or is it a pull?' asked Shyla aunty. 'A hurt is sharp. A pull is like a kite string in the wind.'",
+   "Ammini thought. 'A pull.'",
+   "'Then stay for three breaths. If it turns into a hurt, come back.'",
+   "In the evening Ammini went with her aunt to the sand ground. The team was practising raids. A raider ran across the line saying 'kabaddi-kabaddi-kabaddi' without stopping. She touched a player's ankle, twisted free and dived home, still chanting.",
+   "'Why does she keep saying it?' asked Ammini.",
+   "'To show she has not taken a new breath,' said Shyla aunty. 'One raid, one breath. Try.'",
+   "Ammini filled her chest. 'Kabaddi-kabaddi-kabaddi-kabaddi-kabaddi-kabaddi-kab...' She gasped. Six and a half.",
+   "Then the small children played a real game. Ammini was caught on her first raid. A bigger boy named Sunil held her foot, and she was out. Her face went hot. Her breath came fast and high in her chest. She sat down hard on the sand and would not look at anyone.",
+   "Shyla aunty sat beside her. She did not say 'never mind'. She said, 'Put your hand on your tummy. Breathe out as if you are cooling hot kanji. Slowly. Again.'",
+   "Ammini did not want to. She did it anyway. One. Two. Three. Four. Five. The hot feeling was still there, but it had become smaller, like a wave going back down the beach.",
+   "'Did I make the angry go small?' she asked. 'Or did my breath do it?'",
+   "'I have played this game for twenty years,' said Shyla aunty, 'and I still ask that.'",
+   "On the way home they passed Beevi umma, who sat mending a net. Beevi umma had dived for clams in Vembanad lake for thirty years.",
+   "'Umma,' said Ammini, 'how long can you hold your breath?'",
+   "'Longer when I am quiet,' said Beevi umma. 'Before a dive I sat in the boat and breathed slowly. A quiet body uses up its air slowly. A frightened body eats it in no time. The lake taught me that. No teacher did.'",
+   "'Like Kari,' said Ammini.",
+   "'Like Kari,' said Beevi umma. 'But Kari cannot choose to do it when she is angry. You can. That part people had to find out.'",
+   "'How do you know Kari cannot?' asked Ammini.",
+   "Beevi umma put down the net. 'I do not know,' she said slowly. 'I have never asked her.'",
+   "That night Kari slept under the jackfruit tree. Her side went up and down, up and down. Ammini lay by the window and made her own breath go with Kari's. In with Kari. Out with Kari.",
+   "Somewhere in the middle she stopped trying. She was asleep. And her breath went on all night without her, as it had every night since she was born."
+  ],
+  "epiphany": "The body already knows how to stretch and how to breathe. What people added was noticing it, and choosing to do it when it is needed.",
+  "ask": [
+   "Ammini asked if she made the angry feeling small, or if her breath did. What do you think?",
+   "Kari stretches without being taught. Beevi umma learned to breathe slowly before a dive. Is one of these cleverer than the other?",
+   "When Ammini fell asleep, who was breathing?"
+  ],
+  "art": [
+   "A brown street dog under a jackfruit tree in a deep waking stretch, and on a veranda behind her a woman in the same shape on a mat.",
+   "A girl sitting on the sand of a kabaddi ground with one hand on her tummy, her aunt beside her.",
+   "A girl asleep at a window at night, with the dog asleep outside, both drawn with the same gentle rise of the ribs."
+  ]
+ },
+ "how_we_found_out": {
+  "story": "For about two thousand years, doctors believed that we breathe to cool the heart. The Greek thinker Aristotle taught this in the 4th century BCE, and the doctor Galen repeated it in the 2nd century CE. It fitted what people felt. The chest is warm, the air coming in feels cool, and a person who runs gets hot and breathes harder. Around 1242 CE in Cairo, the doctor Ibn al-Nafis worked out that blood passes from the heart through the lungs and meets the air there. His finding was little known for centuries. In 1771 in England, Joseph Priestley found that a mint plant could restore air that a burning candle had spoiled, so that a mouse could live in it again. In Paris, Antoine Lavoisier and Marie-Anne Paulze Lavoisier tested breathing with care. In 1783, with Pierre-Simon Laplace, Antoine measured the heat given off by a guinea pig and the gas the animal breathed out. The amounts matched those of a slow fire. Marie-Anne translated the English reports, kept the records and drew the experiments. Their conclusion was that breathing does not cool the body. It feeds a slow, gentle burning of food that keeps the body warm and working.",
+  "who": "Aristotle, Galen, Ibn al-Nafis, Joseph Priestley, Antoine Lavoisier, Marie-Anne Paulze Lavoisier, Pierre-Simon Laplace",
+  "when": "The 4th century BCE to 1783",
+  "wrong_idea": "People believed that breathing exists to cool the heart. It was believable because the chest is warm, the in-breath feels cool, and a hot, running person breathes harder."
+ },
+ "roots": {
+  "context": "You have felt your breath go in and out, and you have slowed it down. Now we ask what the breath tells us about who we are.",
+  "deep_truth": {
+   "truth": "You held your breath, and after some seconds your body took the next breath without asking you. Then you breathed slowly on purpose, and your body followed you. The same breath belongs to the part of you that chooses and to the part that runs by itself. No line can be found in the breath where one stops and the other starts.",
+   "habit": "We say 'I did it' for some things and 'my body did it' for others, as if a chooser sat inside a machine. The breath does not fit on either side of that split, because the same act is both.",
+   "evidence": "In the lesson the child holds a breath until the body breaks the hold, and then slows the breath by choice for five counts. Both happen with the same lungs within one minute."
+  },
+  "three": {
+   "who_am_i": "You are not only the part that decides. You are also the part that keeps you breathing while you sleep. When you watch your breath, the chooser and the body meet, and you can see that they were never two.",
+   "what_is_life": "Every living being trades something with the world around them, all the time. You trade gases with the air. A fish trades with the water and a leaf trades with the sky. A life is this trading that never stops, and not a thing sealed in a skin.",
+   "what_is_this_world": "The oxygen in your chest was given out by a leaf or by a tiny green being in the sea. The gas you breathe out will become part of a plant. The world is passing through you with every breath, and you are passing through the world."
+  },
+  "thread": "Breath is the easiest place to notice that you are not sealed off. Air that was outside becomes part of your blood within seconds, and air that was part of you is outside again. The breath also shows that the one who chooses and the body that runs by itself are a single being. Old teachers in India used the breath as the first step in looking inward for exactly this reason. It is always present, and it is always on the border between you and everything else.",
+  "teachings": [
+   {
+    "source": "Chandogya Upanishad 5.1",
+    "teaching": "The powers of the body, sight, hearing, mind and breath, argue about who is greatest. Each leaves for a year, and the body lives on. When the breath begins to leave, all the others are pulled up with it, as a strong horse pulls up the pegs of the ropes. They agree that breath is the first among them.",
+    "link": "The story makes a point a child can test. You can shut your eyes or block your ears for a minute and carry on. You cannot stop your breath for long. The text goes further than science does, and calls breath the life in all beings."
+   },
+   {
+    "source": "Anapanasati Sutta, Majjhima Nikaya 118",
+    "teaching": "The Buddha teaches: breathing in a long breath, know that you are breathing in a long breath. Breathing out a short breath, know that you are breathing out a short breath. He does not ask for the breath to be changed, only known.",
+    "link": "This is the lesson's noticing, done with care. The body breathes by itself and the mind watches. The Buddha taught that this simple watching steadies the mind."
+   },
+   {
+    "source": "Patanjali, Yoga Sutras 2.46 and 1.34",
+    "teaching": "A posture should be steady and comfortable. And the mind can be calmed by breathing out and holding the breath gently.",
+    "link": "The child's rule for stretching, a gentle pull and no pain, is Patanjali's rule in other words. The link between out-breath and calm is the one scientists are still testing."
+   }
+  ],
+  "science": [
+   {
+    "text": "The oxygen that animals breathe is made by plants, algae and tiny green beings in the sea, and the carbon dioxide that animals breathe out is taken in by them.",
+    "status": "settled"
+   },
+   {
+    "text": "Slow breathing changes the heartbeat and often changes how a person feels. The pathway from breath to feeling is being traced, and is not fully known.",
+    "status": "open"
+   }
+  ],
+  "other_view": {
+   "who": "Most scientists who study the brain, and the old Indian Charvaka school",
+   "view": "Breathing is a rhythm kept by nerve cells low in the brain, and choosing is the work of other nerve cells. Both are parts of one body made of matter. On this view there is nothing more to find in the breath than gases and signals, and the feeling of a self who watches is something the brain makes."
+  },
+  "practice": {
+   "title": "Whose breath is this?",
+   "mins": 3,
+   "say": "Sit or lie down comfortably. Put one hand on your tummy. For five breaths, do nothing. Only feel your hand go up and down. Now for five breaths, make the out-breath long and slow, as if cooling hot kanji. Now stop choosing, and let your body breathe again. Notice the moment when your body takes over. Tell me what you noticed.",
+   "kid": "Lie down. Put a hand on your tummy. Feel five breaths happen by themselves. Now make five slow breaths yourself. Then let go, and feel your body take over again."
+  },
+  "ask": [
+   "When your body took the breath back from you, did it feel like someone else, or like you?",
+   "The air in your chest came from a leaf. Is that air part of you now, or part of the leaf, or both?",
+   "A cat stretches without thinking about it, and you can stretch on purpose. Are these the same stretch?"
+  ],
+  "art": "A child lying on the grass under a tree with a hand on the tummy, a faint loop of arrows joining the child's nose and the tree's leaves."
+ },
+ "open_questions": [
+  {
+   "q": "Why does slow breathing make many people feel calmer?",
+   "why_open": "Scientists have found a nerve pathway in mice that links breathing rhythm to alertness, and they know the out-breath slows the heart. They have not shown which of these, if any, produces the feeling of calm in people, or why it fails for some."
+  },
+  {
+   "q": "What is a yawn for?",
+   "why_open": "The oxygen idea failed its test. The brain-cooling idea, the wake-up-stretch idea and the group-signal idea each explain some findings and not others. No single test has yet separated them."
+  },
+  {
+   "q": "When stretching lets you reach further, what has changed?",
+   "why_open": "Short studies point to a change in how the pull is felt. Long studies find some change in the muscle. Scientists do not yet know how much each matters, or how it differs between children and grown-ups."
+  },
+  {
+   "q": "Do dolphins and whales really choose every breath?",
+   "why_open": "Their sleep with half the brain awake suggests it, and they do not breathe under deep anaesthesia. But nobody can ask a dolphin, and the nerve cells that control their breathing are hard to study."
+  },
+  {
+   "q": "What is life, if it is more than breathing?",
+   "why_open": "Science has only working definitions of life. A dry seed and a frozen water bear do not breathe in any way we can measure, and they can become active again. What exactly was there the whole time is not agreed."
+  }
+ ],
+ "sources": {
+  "founder": [],
+  "science": [
+   "Zaccaro A. and others, 2018. How breath-control can change your life: a systematic review on psycho-physiological correlates of slow breathing. Frontiers in Human Neuroscience 12:353.",
+   "Yackle K. and others, 2017. Breathing control center neurons that promote arousal in mice. Science 355:1411.",
+   "Weppler C. H. and Magnusson S. P., 2010. Increasing muscle extensibility: a matter of increasing length or modifying sensation? Physical Therapy 90:438.",
+   "Provine R. R., Tate B. C. and Geldmacher L. L., 1987. Yawning: no effect of 3 to 5% CO2, 100% O2, and exercise. Behavioral and Neural Biology 48:382.",
+   "Gallup A. C. and Gallup G. G., 2007. Yawning as a brain cooling mechanism. Evolutionary Psychology 5:92.",
+   "Joly-Mascheroni R. M., Senju A. and Shepherd A. J., 2008. Dogs catch human yawns. Biology Letters 4:446.",
+   "Pope R. P. and others, 2000. A randomized trial of preexercise stretching for prevention of lower-limb injury. Medicine and Science in Sports and Exercise 32:271.",
+   "Herbert R. D. and Gabriel M., 2002. Effects of stretching before and after exercising on muscle soreness and risk of injury. BMJ 325:468.",
+   "World Health Organization, 2020. Guidelines on physical activity and sedentary behaviour.",
+   "Singleton M., 2010. Yoga Body: The Origins of Modern Posture Practice. Oxford University Press.",
+   "Birch J., 2018. The proliferation of asana-s in late-medieval yoga texts. In Yoga in Transformation, Vienna University Press.",
+   "Quick N. J. and others, 2020. Extreme diving in mammals: first estimates of behavioural aerobic dive limits in Cuvier's beaked whales. Journal of Experimental Biology 223.",
+   "Sherrington C. S., 1906. The Integrative Action of the Nervous System.",
+   "Texts: Patanjali, Yoga Sutras 1.34 and 2.46. Hatha Yoga Pradipika 2.2. Gheranda Samhita, chapter 2. Chandogya Upanishad 5.1. Prashna Upanishad, question 2. Majjhima Nikaya 118. Zhuangzi, chapter 6."
+  ]
+ },
+ "playtest": {
+  "note": "Only the deep fields are written here. The founder's notes, the Combined lessons, the curriculum file and deep_truths.py were not opened for this draft, so sources.founder is empty and the deep truth has not been compared with the other lessons' deep truths. A reviewer should do both. The cards avoid repeating sci.health.exercise-and-rest.L2 (why moving makes you breathe hard) and sci.health.feelings-and-wellbeing.L1 (naming feelings).",
+  "main_investigation": "How far can I reach? A stretch test with a ruler. The child sits with legs straight and feet flat against a wall or a box, and reaches forward along a ruler. Measure three times. Then do three gentle toe-reach holds of three slow breaths each, and measure three times again. The child guesses first if the reach will change, and says why. Most children gain 1 to 4 centimetres. Afterwards ask what could have changed in ten minutes, the muscle or the feeling. It needs no bought material and works in any home.",
+  "other_parts_to_write": [
+   "Boat on the tummy: lying down with a paper boat on the tummy to see the diaphragm at work.",
+   "How many kabaddis on one breath? Count before and after a minute of slow breathing.",
+   "Four poses named after beings: tree, cobra, cat, mountain, each held for three breaths.",
+   "Watch a dog, a cat or a crow stretch, and copy the shape."
+  ],
+  "verify": [
+   "Resting breaths per minute: about 20 for a six-year-old, 12 to 20 for a grown-up, about 40 for a newborn, 15 to 30 for a dog, 4 to 12 for an elephant.",
+   "Carl Ludwig recorded the breath-linked change in heartbeat in 1847, in a dog.",
+   "Yoga Sutras 1.34 (calming the mind by out-breath and holding) and 2.46 (posture steady and comfortable).",
+   "Hatha Yoga Pradipika 2.2 (when breath moves, mind moves) and its count of 15 postures. Gheranda Samhita's count of 32 postures and the animal names listed.",
+   "Chandogya Upanishad 5.1: the quarrel of the senses, with breath leaving last, and the image of the horse and the pegs.",
+   "Zhuangzi chapter 6: the true person breathes from the heels.",
+   "Robert Provine's 1987 oxygen test on yawning. Andrew Gallup's cold-pack finding. Dogs catching human yawns, 2008.",
+   "Rodney Pope's 2000 trial of army recruits: the number of recruits (given here as more than 1,500) and the result.",
+   "Cuvier's beaked whale dive of more than three hours (reported in 2020).",
+   "Vembanad lake clam collectors dive on a held breath.",
+   "Bhawanrao Pant Pratinidhi, Raja of Aundh, popularised Surya Namaskar in the 1920s. T. Krishnamacharya taught in Mysuru in the 1930s.",
+   "Egil Harvold's monkey studies on mouth breathing, and the present state of the evidence in children.",
+   "Anthony Blazevich's findings on longer muscle fibres after long-term stretching.",
+   "About half of the oxygen in the air comes from tiny green beings in the sea.",
+   "Joseph Priestley's mouse and mint test, 1771. Lavoisier and Laplace's guinea pig measurement, 1783. Ibn al-Nafis, about 1242 CE."
+  ],
+  "flashcard_words": [
+   "breath", "breathe in", "breathe out", "air", "lungs", "nose", "mucus", "diaphragm", "hiccup", "automatic", "on purpose", "heart", "heartbeat", "pulse", "sigh", "calm", "nerve", "brain", "muscle", "bone", "stretch", "gentle pull", "pain", "sensor", "body-position sense (proprioception)", "warm up", "bendy (flexible)", "yawn", "yoga", "asana", "Vrikshasana (tree pose)", "Bhujangasana (cobra pose)", "Marjariasana (cat pose)", "Tadasana (mountain pose)", "Shavasana (resting pose)", "Surya Namaskar", "kabaddi", "raider", "rest", "active", "oxygen", "carbon dioxide", "gills", "prana"
+  ],
+  "parent_note": "A child with asthma or a cold can do everything here gently. Nobody should hold the breath until dizzy: the breath-holding in the lesson is a few seconds, to feel the body take over."
+ }
+}

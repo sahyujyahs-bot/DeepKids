@@ -510,12 +510,12 @@ In the morning the tile was empty. Out by the pepper vines, something the size o
 6. (sort) Sort these cells by the kind of division that made them.  
    **Answer:** a new skin cell → Made by mitosis; a sperm cell → Made by meiosis; a cell at a root tip → Made by mitosis; an egg cell → Made by meiosis; a new liver cell → Made by mitosis; a young pollen grain → Made by meiosis. *Why:* Body cells for growing and mending come from mitosis. Sex cells, and the young pollen grains of a flower, come from meiosis.
 7. (mcq) What can a stem cell do that a red blood cell cannot?  
-   Options: Divide and make other kinds of cell / Carry oxygen / Travel in the blood / Use food for energy  
+   Options: Carry oxygen / Travel in the blood / Use food for energy / Divide and make other kinds of cell  
    **Answer:** Divide and make other kinds of cell. *Why:* A stem cell can divide, and her daughters can specialise. A red blood cell is fully specialised and never divides. Carrying oxygen is the red cell's own job.
 8. (truefalse) True or false: a blood stem cell in a grown-up can make new nerve cells.  
    **Answer:** False. *Why:* False. An adult stem cell makes only the cells of her own tissue. A blood stem cell makes blood cells. Only the stem cells of a very young embryo can make every kind.
 9. (mcq) How did your fingers become separate before you were born?  
-   Options: The cells between them died by plan / The skin between them tore / Each finger was added one by one / The bones cut through the skin  
+   Options: The skin between them tore / Each finger was added one by one / The cells between them died by plan / The bones cut through the skin  
    **Answer:** The cells between them died by plan. *Why:* The hand begins as a paddle. The cells between the finger bones die by plan and are cleared away. Nothing tears, and nothing is hurt.
 10. (fill) The death of cells by injury, such as a burn, is called ____.  
    **Answer:** ['necrosis']. *Why:* In necrosis the cells swell and burst, and the place becomes sore. Apoptosis is the planned, tidy kind of cell death.
@@ -524,7 +524,7 @@ In the morning the tile was empty. Out by the pepper vines, something the size o
 12. (write) In the Pudina Pieces Test, a bare node grew roots and a leaf alone did not. What does that show?  
    **Answer:** It shows that the cells that can make new roots are at the node. The bare node had no leaves and still made roots, so leaves are not what makes roots. The leaf had no node and made none.. *Why:* A strong answer uses both pieces: the node without a leaf, and the leaf without a node.
 13. (mcq) Why does the Pudina Pieces Test use five pieces of each kind, and not one?  
-   Options: One piece could fail by bad luck / Five pieces grow faster together / Pudina needs company / To use up the bunch  
+   Options: Five pieces grow faster together / One piece could fail by bad luck / Pudina needs company / To use up the bunch  
    **Answer:** One piece could fail by bad luck. *Why:* A single piece can rot or dry out for reasons that have nothing to do with nodes. If four or five of a kind do the same thing, the result can be trusted.
 14. (write) Name two things in your home made of cells that died by plan. Say what job the dead cells did.  
    **Answer:** For example: a wooden spoon and a cotton towel. Wood is made of a tree's dead, hollow water pipes and stiff fibres, which carried water and held the tree up. Hair, nails, coir, wool and feathers are also right.. *Why:* A strong answer names the living being the thing came from, and says what the dead cells did there.
@@ -532,7 +532,7 @@ In the morning the tile was empty. Out by the pepper vines, something the size o
    **Answer:** One cell with 4 chromosomes, and two cells below it that each have the same 4 chromosomes.. *Why:* A strong drawing gives each new cell all 4 chromosomes. A drawing with 2 in each cell shows a mix-up with meiosis.
 ### Halving, shuffling and cells that can still divide (stretch) (stretch, 15 questions)
 1. (mcq) Why do matching chromosomes line up as partners in meiosis?  
-   Options: So each new cell gets one of every pair / To make the cell bigger / So the DNA is copied again / To save energy  
+   Options: To make the cell bigger / So the DNA is copied again / To save energy / So each new cell gets one of every pair  
    **Answer:** So each new cell gets one of every pair. *Why:* When partners line up together and then separate, each side gets one of every pair. Without the pairing, a cell could get two of one kind and none of another.
 2. (count) A rice plant has 24 chromosomes in each body cell. How many are in a rice egg cell?  
    **Answer:** 12. *Why:* A sex cell has half the set. 24 ÷ 2 = 12. A rice sperm cell brings 12 more, so the new seed has 24 again.
@@ -558,17 +558,17 @@ In the morning the tile was empty. Out by the pepper vines, something the size o
 12. (order) Put the steps of meiosis in order.  
    **Answer:** ['The cell copies every chromosome', 'Partners line up side by side and swap pieces', 'The first division separates the partners', 'The second division separates the copies']. *Why:* Copying comes first. Then the partners pair up and cross over. The first division parts the partners, and the second parts the copies.
 13. (mcq) Which of these is one cause of cancer?  
-   Options: Damaged cells that fail to die / Too many red blood cells / Too much planned cell death / Cells that specialise  
+   Options: Too many red blood cells / Too much planned cell death / Damaged cells that fail to die / Cells that specialise  
    **Answer:** Damaged cells that fail to die. *Why:* A cell with damaged instructions normally takes herself apart. If she does not, and keeps dividing, a cancer can start. Too much planned death causes other problems, not cancer.
 14. (mcq) Which stem cell treatment is well proven?  
    Options: A bone marrow transplant for blood cancer / An injection that cures any illness / Regrowing a lost arm / Making an old person young  
    **Answer:** A bone marrow transplant for blood cancer. *Why:* Bone marrow transplants have worked for decades. The other three are not possible today, and anyone who offers them is selling something unproven.
 15. (mcq) A pudina piece cut from between two nodes grows one root. What should you check first?  
-   Options: Whether a node is hidden at one end / Whether the water was too cold / Whether the piece was green enough / Nothing, because results never matter  
+   Options: Whether the water was too cold / Whether the piece was green enough / Whether a node is hidden at one end / Nothing, because results never matter  
    **Answer:** Whether a node is hidden at one end. *Why:* An odd result deserves a second look before you change your idea. A node at the very end of the piece is the most likely cause.
 ### Mistakes, going back and open questions (challenge) (challenge, 15 questions)
 1. (mcq) A woman of 30 releases an egg cell. When did that egg cell begin meiosis?  
-   Options: Before the woman was born / When she was 12 / One month ago / Yesterday  
+   Options: When she was 12 / One month ago / Before the woman was born / Yesterday  
    **Answer:** Before the woman was born. *Why:* All of a girl's egg cells begin meiosis before she is born and then pause. This one waited for more than 30 years.
 2. (count) A tiny roundworm makes 1,090 body cells, and 131 of them die by plan. How many are left?  
    **Answer:** 959. *Why:* 1,090 − 131 = 959. Every worm of this kind ends with the same 959 cells, which showed that the deaths are planned.
@@ -594,13 +594,13 @@ In the morning the tile was empty. Out by the pepper vines, something the size o
 12. (fill) Scientists turned mouse skin cells back into ____ cells by switching on four genes.  
    **Answer:** ['stem']. *Why:* This showed that a specialised cell still holds the instructions for other jobs. They are closed, not lost.
 13. (mcq) Why is a gecko's regrown tail called a repair and not a copy?  
-   Options: It has a cartilage rod, not new bones / It is a different animal's tail / It cannot move at all / It is made of plant cells  
+   Options: It is a different animal's tail / It has a cartilage rod, not new bones / It cannot move at all / It is made of plant cells  
    **Answer:** It has a cartilage rod, not new bones. *Why:* The first tail has a row of small bones. The new tail has a single rod of cartilage, the bendy material in your ear. It works, but it is not the same as the first.
 14. (mcq) A human has 23 pairs of chromosomes. About how many different egg cells can the shuffle make?  
-   Options: 23 / 46 / About 8 million / About 100  
+   Options: 23 / 46 / About 100 / About 8 million  
    **Answer:** About 8 million. *Why:* Each pair doubles the number, and doubling 23 times gives 8,388,608. Answering 46 comes from adding 2 for each pair, when each pair doubles it.
 15. (mcq) Old yeast cells sometimes die in a tidy, programmed way. Why do they do it?  
-   Options: Scientists disagree about why / It is proved to feed the colony / It never really happens / Yeast cells are not alive  
+   Options: It is proved to feed the colony / It never really happens / Scientists disagree about why / Yeast cells are not alive  
    **Answer:** Scientists disagree about why. *Why:* Some biologists say the death helps the yeast cell's sisters. Others say it may be a side effect of other machinery. The question is still open.
 
 ## Videos
@@ -622,24 +622,24 @@ In the morning the tile was empty. Out by the pepper vines, something the size o
    Options: Each grew from a different egg and sperm / They ate different food / Mitosis made many mistakes / One is older  
    **Answer:** Each grew from a different egg and sperm. *Why:* Meiosis gives every egg cell and every sperm cell a different mix of chromosomes. Food and age change a body, but they do not change which chromosomes it started with.
 5. (mcq) Which cells can become every kind of cell in the body?  
-   Options: Stem cells of an embryo a few days old / Blood stem cells / Skin stem cells / Red blood cells  
+   Options: Blood stem cells / Skin stem cells / Stem cells of an embryo a few days old / Red blood cells  
    **Answer:** Stem cells of an embryo a few days old. *Why:* Only the stem cells of a very young embryo can make every kind. Blood and skin stem cells make only their own tissue, and red blood cells do not divide at all.
 6. (truefalse) True or false: your bone marrow makes new blood cells every second.  
    **Answer:** True. *Why:* True. Blood stem cells in the marrow make about two million red blood cells each second, to replace those that wear out.
 7. (mcq) Which of these is planned cell death?  
-   Options: A tadpole's tail shrinking / Skin burnt by a hot pan / A crushed fingertip / A frozen toe  
+   Options: Skin burnt by a hot pan / A tadpole's tail shrinking / A crushed fingertip / A frozen toe  
    **Answer:** A tadpole's tail shrinking. *Why:* The tail cells die on a signal and are reused. Burning, crushing and freezing kill cells by injury, which is necrosis.
 8. (mcq) How is planned cell death different from death by injury?  
    Options: The cell packs herself up and nothing spills / The cell swells and bursts / It only happens in plants / It always hurts  
    **Answer:** The cell packs herself up and nothing spills. *Why:* In planned death the cell shrinks into sealed parcels, and cleaner cells remove them. A burst cell that spills and causes soreness is the sign of injury.
 9. (mcq) Roots grew at the node of a pudina piece and not between nodes. What is at the node?  
-   Options: Cells that can start dividing again / More water / Only dead cells / The oldest cells  
+   Options: More water / Only dead cells / The oldest cells / Cells that can start dividing again  
    **Answer:** Cells that can start dividing again. *Why:* A node holds a bud and cells that can go back to dividing. The stem between the nodes is finished, and makes no new parts.
 10. (mcq) Three pairs of chromosomes can be shuffled into 8 different sex cells. How many for four pairs?  
    Options: 10 / 12 / 16 / 24  
    **Answer:** 16. *Why:* Each extra pair doubles the number, and 8 × 2 = 16. Answering 10 comes from adding 2.
 11. (mcq) Why do most animals have two parents, when copying looks simpler?  
-   Options: There is a leading idea, still debated / It is fully proved / Nobody has studied it / Copying is impossible for animals  
+   Options: It is fully proved / There is a leading idea, still debated / Nobody has studied it / Copying is impossible for animals  
    **Answer:** There is a leading idea, still debated. *Why:* The leading idea is that shuffled children are harder for germs to beat. But some animals copy themselves very well, so scientists still debate it.
 
 ## Applications

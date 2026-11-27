@@ -522,7 +522,7 @@ Afterwards, the girls lay in the boat with their arms hanging over the sides, la
 7. (order) Put these steps in order for how a cell makes a protein.  
    **Answer:** ['A gene is copied into a messenger copy', 'The copy leaves the nucleus through a pore', 'A ribosome reads the copy', 'Building blocks are joined in order', 'The chain folds into a protein']. *Why:* A cell copies the recipe first and keeps the book. The copy travels to a ribosome, which reads it and builds the chain. The chain folds into its shape last.
 8. (mcq) Beetroot cubes turn the water red in hot water but not in cold water. What is the best explanation?  
-   Options: Heat makes new red colour / Heat breaks the cell skins, so the red leaves the cells / Cold water washes the red away  
+   Options: Heat makes new red colour / Cold water washes the red away / Heat breaks the cell skins, so the red leaves the cells  
    **Answer:** Heat breaks the cell skins, so the red leaves the cells. *Why:* The red is stored inside the cells. A whole skin keeps it in. Heat melts the fatty skin, so the red spills. Cold leaves the skin whole.
 9. (truefalse) Plant cells have chloroplasts and no mitochondria.  
    **Answer:** False. *Why:* False. Plant cells have both. Chloroplasts make sugar in light, and mitochondria release energy from the sugar, day and night.
@@ -544,7 +544,7 @@ Afterwards, the girls lay in the boat with their arms hanging over the sides, la
    Options: The folds give more surface for the energy machines to sit on / The folds make the mitochondrion green / The folds let the mitochondrion hold more water  
    **Answer:** The folds give more surface for the energy machines to sit on. *Why:* The machines that release energy sit in the inner wall. Folding gives a much larger wall in the same small room, so more machines can work. It is like folding a long towel into a small bucket.
 2. (mcq) Scientists put the nucleus of a frog's gut cell into an egg cell that had no nucleus of her own, and a tadpole grew. What does this show?  
-   Options: Gut cells are really egg cells / The gut cell's nucleus still held the whole recipe / Eggs do not need a nucleus  
+   Options: Gut cells are really egg cells / Eggs do not need a nucleus / The gut cell's nucleus still held the whole recipe  
    **Answer:** The gut cell's nucleus still held the whole recipe. *Why:* A tadpole needs all the recipes, so the gut cell's nucleus must have held them all. The gut cell used only a few pages. The rest were still there.
 3. (mcq) Mitochondria divide in two inside a cell, much as bacteria do. Why is this a clue about their past?  
    Options: The cell cannot make a new mitochondrion from nothing, so each comes from an older one / They are bigger than bacteria / They are the same colour as bacteria  
@@ -581,37 +581,37 @@ Afterwards, the girls lay in the boat with their arms hanging over the sides, la
 
 ## Quiz
 1. (mcq) Which room of a cell keeps the DNA?  
-   Options: The mitochondrion / The nucleus / The lysosome  
+   Options: The nucleus / The mitochondrion / The lysosome  
    **Answer:** The nucleus. *Why:* The nucleus keeps the DNA. Mitochondria release energy and lysosomes digest old parts.
 2. (mcq) Why do you breathe harder when you run?  
-   Options: Your cells need more oxygen to release more energy / Your lungs get smaller / Your blood turns blue  
+   Options: Your lungs get smaller / Your blood turns blue / Your cells need more oxygen to release more energy  
    **Answer:** Your cells need more oxygen to release more energy. *Why:* Your mitochondria use oxygen to release energy for your muscles. More work needs more oxygen, so you breathe harder.
 3. (truefalse) Plant cells have mitochondria.  
    **Answer:** True. *Why:* Yes. Plant cells have chloroplasts and mitochondria. Mitochondria release energy from sugar in the day and in the night.
 4. (mcq) In what order does a cell make a protein?  
-   Options: Copy the gene, carry the copy, build the protein / Build the protein, copy the gene, carry the copy / Carry the book, build the protein, copy the gene  
+   Options: Build the protein, copy the gene, carry the copy / Copy the gene, carry the copy, build the protein / Carry the book, build the protein, copy the gene  
    **Answer:** Copy the gene, carry the copy, build the protein. *Why:* The nucleus keeps the book and sends out a copy. The copy goes to a ribosome, which builds the protein.
 5. (mcq) Beetroot cubes stay pale in cold water and spill red in hot water. What does this show?  
-   Options: Whole cell skins hold the red in, and heat breaks them / Beetroot makes red in hot water / Cold water has no effect on anything  
+   Options: Beetroot makes red in hot water / Cold water has no effect on anything / Whole cell skins hold the red in, and heat breaks them  
    **Answer:** Whole cell skins hold the red in, and heat breaks them. *Why:* The red is stored inside whole cells. Heat melts the fat of the skins, so the red leaves. In cold water the skins stay whole.
 6. (fill) A ____ reads a messenger copy and builds a protein.  
    **Answer:** ['ribosome']. *Why:* A ribosome is the tiny machine that reads the copy and joins the building blocks.
 7. (mcq) Which fact shows that the nucleus is not the only part in charge of a cell?  
-   Options: A red blood cell lives for months with no nucleus / Nuclei are round / Plant cells are bigger than animal cells  
+   Options: Nuclei are round / A red blood cell lives for months with no nucleus / Plant cells are bigger than animal cells  
    **Answer:** A red blood cell lives for months with no nucleus. *Why:* A red blood cell works for months without a nucleus. The nucleus keeps the recipes, but the whole cell does the work.
 8. (truefalse) Mitochondria have a small piece of DNA of their own.  
    **Answer:** True. *Why:* True. Human mitochondria have a ring of DNA 16,569 letters long with 37 genes. This is one clue that they began as bacteria.
 9. (mcq) What does the city picture of a cell leave out?  
-   Options: That a cell is always moving and has no single boss / That a cell has rooms / That a cell has a skin  
+   Options: That a cell has rooms / That a cell has a skin / That a cell is always moving and has no single boss  
    **Answer:** That a cell is always moving and has no single boss. *Why:* A city picture shows rooms with jobs, which is useful. It leaves out the constant motion and the lack of any single ruler.
 10. (mcq) Which room digests old parts and swallowed germs?  
-   Options: The lysosome / The ribosome / The chloroplast  
+   Options: The ribosome / The chloroplast / The lysosome  
    **Answer:** The lysosome. *Why:* Lysosomes are small bags of strong juice. Ribosomes build proteins and chloroplasts catch light.
 11. (mcq) Which of these is still an open question?  
-   Options: How the first cell with a nucleus and mitochondria began / Whether cells have a skin / Whether mitochondria use oxygen  
+   Options: Whether cells have a skin / How the first cell with a nucleus and mitochondria began / Whether mitochondria use oxygen  
    **Answer:** How the first cell with a nucleus and mitochondria began. *Why:* Scientists agree that cells have skins and that mitochondria use oxygen. How the first complex cell began is still argued.
 12. (mcq) Muscle cells and skin cells hold the same DNA. Why are they different?  
-   Options: They switch on different genes / Their DNA is different / Muscle cells have no nucleus  
+   Options: Their DNA is different / They switch on different genes / Muscle cells have no nucleus  
    **Answer:** They switch on different genes. *Why:* Each cell uses the recipes she needs. Gurdon's frog experiment showed that a grown-up cell still holds the whole book.
 
 ## Applications

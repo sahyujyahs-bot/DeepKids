@@ -506,17 +506,17 @@ Daiaphi looked down at the thin pale tip of her own young root, hanging over the
 4. (fill) Before a cell divides, she must make a copy of her ____.  
    **Answer:** ['DNA', 'chromosomes', 'instructions']. *Why:* If a cell split before copying, each daughter would get only half of the instructions.
 5. (mcq) Why do the copied chromosomes line up in the middle of the cell before they are pulled apart?  
-   Options: So that one copy of each can be pulled to each end / So that the cell can store them / So that the cell can become bigger  
+   Options: So that the cell can store them / So that one copy of each can be pulled to each end / So that the cell can become bigger  
    **Answer:** So that one copy of each can be pulled to each end. *Why:* Lining up puts each pair where threads can pull one copy each way. Then each daughter gets exactly one full set.
 6. (mcq) A root with its tip cut off hardly grows longer, but a root left alone does. What does this suggest?  
-   Options: Cells dividing at the tip make most of the new length / The tip is the only part that drinks water / Cutting makes roots weaker for ever  
+   Options: The tip is the only part that drinks water / Cutting makes roots weaker for ever / Cells dividing at the tip make most of the new length  
    **Answer:** Cells dividing at the tip make most of the new length. *Why:* The two roots differed only in the tip. So the tip is where most of the lengthening comes from. Cells divide there and then stretch a little.
 7. (truefalse) A root grows longer evenly along its whole length, like a rubber band stretching.  
    **Answer:** False. *Why:* False. Dots marked along a growing root show that only the part within a few millimetres of the tip lengthens. The rest stays the same length.
 8. (match) Match each kind of cell to how she finishes dividing.  
    **Answer:** Bacterium → pinches in two, without mitosis; Yeast cell → grows a bud that breaks off; Plant cell → builds a new wall across the middle; Animal cell → pinches in the middle. *Why:* All these cells copy their instructions and split, but they finish in different ways. A plant cell has a stiff wall, so she builds a new wall. An animal cell has no wall, so she pinches.
 9. (mcq) What is a fertilised egg?  
-   Options: The first cell of a new animal, which divides to make the whole body / A cell that cannot divide / The last cell to form in a body  
+   Options: A cell that cannot divide / The first cell of a new animal, which divides to make the whole body / The last cell to form in a body  
    **Answer:** The first cell of a new animal, which divides to make the whole body. *Why:* A fertilised egg is made when a sperm cell joins an egg cell. She divides again and again, and her daughters take on different jobs.
 10. (sort) Sort each item: is it the same in a muscle cell and a skin cell, or different?  
    **Answer:** The full set of 46 chromosomes → Same in both; Which pages of the instruction book are used → Different in the two cells; The shape of the cell → Different in the two cells; The job the cell does → Different in the two cells; The letters of DNA in the nucleus → Same in both. *Why:* Both cells came from one fertilised egg, so they hold the same instructions. They look different and work differently because they use different pages of the same book.
@@ -557,7 +557,7 @@ Daiaphi looked down at the thin pale tip of her own young root, hanging over the
 10. (odd) Which one is the odd one out, and why? Mitosis, binary fission, budding, photosynthesis.  
    **Answer:** Photosynthesis, because it is how plants make food from light. The other three are ways that cells divide.. *Why:* Mitosis, binary fission and budding are all ways one cell becomes two. Photosynthesis is a different process, which makes sugar using sunlight.
 11. (mcq) You put dots 2 millimetres apart along a growing root. After a day, only the gaps near the tip are wider. Which statement fits?  
-   Options: Lengthening happens in a short zone near the tip / The whole root stretched evenly / The dots near the tip fell off  
+   Options: The whole root stretched evenly / The dots near the tip fell off / Lengthening happens in a short zone near the tip  
    **Answer:** Lengthening happens in a short zone near the tip. *Why:* If the whole root stretched evenly, every gap would be wider. Only the gaps near the tip grew, so the growing zone is short and close to the end.
 12. (write) John Gurdon put the nucleus of a frog's gut cell into an egg and got a tadpole. What does this tell us about the gut cell?  
    **Answer:** The gut cell still held the whole set of instructions for the entire frog. She used only the gut pages, but the other pages were still in her nucleus.. *Why:* A strong answer says that a specialised cell keeps all the instructions, even though she uses only some.
@@ -577,7 +577,7 @@ Daiaphi looked down at the thin pale tip of her own young root, hanging over the
 3. (count) Your marrow makes about 2 million red blood cells every second. About how many is that in one minute?  
    **Answer:** 120 million. *Why:* There are 60 seconds in a minute. 2 million times 60 is 120 million. So marrow makes about 120 million red blood cells every minute.
 4. (mcq) After the bomb tests of the 1950s and 1960s, the air carried extra carbon-14. Scientists use the carbon-14 in a cell's DNA to tell how old she is. Why does this work?  
-   Options: Her DNA was built in the year she was made, from carbon with that year's level of carbon-14 / Carbon-14 is made by the cell herself / Carbon-14 makes cells divide  
+   Options: Carbon-14 is made by the cell herself / Her DNA was built in the year she was made, from carbon with that year's level of carbon-14 / Carbon-14 makes cells divide  
    **Answer:** Her DNA was built in the year she was made, from carbon with that year's level of carbon-14. *Why:* The carbon in food comes from plants, which take it from the air. A cell's DNA is built when she is made, so it holds the carbon-14 level of that year. Older and younger cells carry different levels.
 5. (truefalse) A cell that ends up with an extra copy of a chromosome after dividing always works better.  
    **Answer:** False. *Why:* False. A cell needs exactly one full set. An extra chromosome or a missing one upsets the balance of her instructions, and may cause illness.
@@ -588,7 +588,7 @@ Daiaphi looked down at the thin pale tip of her own young root, hanging over the
 8. (match) Match each finding to what it suggests.  
    **Answer:** Roots with the tip cut off stop lengthening → Cells at the tip make the new length; Flakes lifted from skin by tape → The top layer is made of finished cells; Muscle and skin share the same DNA → Cells use different pages of one book; Cancer cells ignore stop signals → Control of division can fail. *Why:* Each finding points to an idea. Cutting a tip shows where lengthening starts. Skin flakes show cells wearing off. Sharing DNA shows that cells choose pages. Ignored stop signals show that division is normally controlled.
 9. (mcq) In a Cut the Tip test, the roots with cut tips were kept in the fridge and the roots with their tips on were kept on a shelf. The cut roots grew less. Why does this not show that the tip matters?  
-   Options: Cold could have slowed the cut roots, so two things were different at once / Scissors are not allowed in tests / Roots should never be cut  
+   Options: Scissors are not allowed in tests / Roots should never be cut / Cold could have slowed the cut roots, so two things were different at once  
    **Answer:** Cold could have slowed the cut roots, so two things were different at once. *Why:* A fair test changes only one thing. Here the tip and the temperature were both different. So you cannot tell which one caused the slower growth.
 10. (order) Put these steps of a new person's beginning in order, earliest first.  
    **Answer:** ['A sperm cell joins an egg cell', 'The fertilised egg divides into 2, 4, 8 cells', 'The cells take on different jobs', 'A baby is born']. *Why:* The egg must be fertilised before she divides. Division comes before the cells take on different jobs. The baby is born many weeks later.
@@ -597,7 +597,7 @@ Daiaphi looked down at the thin pale tip of her own young root, hanging over the
 12. (perspective) Cells from Henrietta Lacks were taken in 1951 without her knowing. They have helped to make medicines for 70 years. What should happen when something useful is taken from someone without asking?  
    **Answer:** Answers vary. A strong answer weighs the benefit to many people against the choice of the person, and says what would be fair, such as asking first and sharing the credit.. *Why:* This question has no single right answer. A strong answer shows that the child can hold two things at once, the good that came from the cells and the wrong of not asking.
 13. (mcq) Which statement about 'all your cells are replaced every seven years' is best?  
-   Options: Different cells last very different times, so there is no one number / It is exactly right for every part of the body / It is right only for children  
+   Options: It is exactly right for every part of the body / Different cells last very different times, so there is no one number / It is right only for children  
    **Answer:** Different cells last very different times, so there is no one number. *Why:* Gut cells last days, skin cells weeks, red blood cells months, and many nerve cells and lens cells a lifetime. So no single number fits the whole body.
 14. (draw) Draw a timeline from a fertilised egg to a child. Mark where cells divide and where they take on different jobs.  
    **Answer:** A timeline starting with one cell, then 2, 4 and 8 cells, then a ball of cells, then shapes for skin, muscle and nerve cells, ending with a child. Arrows or labels mark division and different jobs.. *Why:* A strong drawing shows division first, giving more and more cells, followed by cells taking different shapes and jobs.
@@ -614,21 +614,21 @@ Daiaphi looked down at the thin pale tip of her own young root, hanging over the
    Options: One cell copies her instructions and splits into two / A cell grows bigger until she bursts / Two cells join to make one  
    **Answer:** One cell copies her instructions and splits into two. *Why:* Cell division is one cell becoming two. She first copies all her DNA, and then each daughter cell gets a full set.
 2. (mcq) What is copied before a cell divides?  
-   Options: Her DNA, wound up in chromosomes / Her cell skin only / Her water  
+   Options: Her cell skin only / Her DNA, wound up in chromosomes / Her water  
    **Answer:** Her DNA, wound up in chromosomes. *Why:* The DNA holds the instructions. If it were not copied, one daughter would get nothing.
 3. (order) Put these in order: pull apart, copy, pinch in two, line up.  
    **Answer:** ['Copy', 'Line up', 'Pull apart', 'Pinch in two']. *Why:* The copying comes first, then the line-up, then the pulling. The pinching comes last.
 4. (mcq) A root with the tip cut off does not grow much. Which is the best explanation?  
-   Options: Cells dividing at the tip make the new length / Roots grow from the seed only / The scissors made the root dry  
+   Options: Roots grow from the seed only / The scissors made the root dry / Cells dividing at the tip make the new length  
    **Answer:** Cells dividing at the tip make the new length. *Why:* Cells divide in a small zone at the very tip. Without the tip, there is nowhere for new cells to be made.
 5. (mcq) Which statement is true about the first cell of a new person?  
    Options: She divides again and again, and her daughters take on different jobs / She turns into a baby without dividing / She holds a tiny baby inside  
    **Answer:** She divides again and again, and her daughters take on different jobs. *Why:* A fertilised egg divides into 2, 4, 8 and more cells. The cells then take on different jobs.
 6. (mcq) A muscle cell and a skin cell in the same person differ because...  
-   Options: They use different pages of the same instructions / They have different DNA / One of them is not alive  
+   Options: They have different DNA / They use different pages of the same instructions / One of them is not alive  
    **Answer:** They use different pages of the same instructions. *Why:* Nearly every cell holds the same full set of instructions. Signals from the cells around her decide which pages a cell uses.
 7. (mcq) Which part of a grown person has cells that are replaced after only a few days?  
-   Options: The lining of the gut / Heart muscle / The centre of the eye lens  
+   Options: Heart muscle / The centre of the eye lens / The lining of the gut  
    **Answer:** The lining of the gut. *Why:* The gut lining is replaced in a few days. Heart muscle and lens cells last far longer.
 8. (mcq) Why are the cells of skin and the gut lining replaced often?  
    Options: They meet the outside world and get worn down / They are not alive / They are made of a different kind of DNA  
@@ -636,7 +636,7 @@ Daiaphi looked down at the thin pale tip of her own young root, hanging over the
 9. (count) A bacterium divides in two every 20 minutes. Start with 1. How many are there after 1 hour?  
    **Answer:** 8. *Why:* One hour is three periods of 20 minutes. The number doubles three times: 2, 4, 8.
 10. (mcq) About how many doublings of one cell would it take to reach about 35 trillion cells?  
-   Options: About 45 / About 350 / About 35 trillion  
+   Options: About 350 / About 45 / About 35 trillion  
    **Answer:** About 45. *Why:* Each doubling multiplies the number by 2. Ten doublings give about a thousand, twenty about a million, and forty-five about 35 trillion.
 11. (truefalse) All the cells in your body are replaced every seven years.  
    **Answer:** False. *Why:* False. Different cells last very different times. Gut cells last days, but many nerve cells in the thinking part of the brain last a whole life.

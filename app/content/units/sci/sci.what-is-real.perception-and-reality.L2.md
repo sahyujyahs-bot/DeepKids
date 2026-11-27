@@ -410,7 +410,7 @@ That night, Anju dreamed she was at school. The clock on the wall said seven o'c
 ## Worksheets
 ### Real Sounds, Real Air, Real Dreams? (core) (core, 10 questions)
 1. (mcq) You hear a clink-clink from behind a closed door. What does the sound tell you for sure?  
-   Options: Something behind the door vibrated / A steel tumbler is behind the door / Nothing, because you cannot see it  
+   Options: A steel tumbler is behind the door / Something behind the door vibrated / Nothing, because you cannot see it  
    **Answer:** Something behind the door vibrated. *Why:* Every sound comes from something vibrating, so you know something made it. It might be a tumbler, or a phone recording of one. Only opening the door can tell you which.
 2. (truefalse) A phone recording of a tumbler is a real sound.  
    **Answer:** True. *Why:* True. The phone's speaker vibrates and shakes the air, so a real sound reaches your ears. The tumbler in the recording is not there, but the sound is.
@@ -423,7 +423,7 @@ That night, Anju dreamed she was at school. The clock on the wall said seven o'c
 6. (sort) Sort these: really there in your home now, or only in a dream or a story?  
    **Answer:** the air in your room → Really there; a dragon from a storybook → Only in a dream or story; a cooker whistle from the next flat → Really there; a monster you dreamed was under the bed → Only in a dream or story; the smell of jasmine from the next room → Really there; a talking cat from last night's dream → Only in a dream or story. *Why:* The things that are really there can be checked another way: smelled again, heard again, or found by someone else. The dream and story things cannot.
 7. (mcq) While you are in a dream, how does the dream usually feel?  
-   Options: Real / Like a film you know is pretend / Like nothing at all  
+   Options: Like a film you know is pretend / Like nothing at all / Real  
    **Answer:** Real. *Why:* Most of the time, a dream feels real until you wake. A dream feels like 'a film you know is pretend' only in a lucid dream, when you know you are dreaming. That is rare.
 8. (fill) Something that is ____ can be checked in more than one way, and other people can check it too.  
    **Answer:** ['real']. *Why:* A real thing can be seen again, touched, heard or found by others. A dream cannot be checked by anyone else.
@@ -486,34 +486,34 @@ That night, Anju dreamed she was at school. The clock on the wall said seven o'c
 
 ## Quiz
 1. (mcq) A girl dreams her silver anklet is under the sofa. When she wakes and looks, it is not there. What does this show?  
-   Options: A dream can feel real but not match the room / Someone took the anklet in the night / Her eyes stopped working  
+   Options: Someone took the anklet in the night / Her eyes stopped working / A dream can feel real but not match the room  
    **Answer:** A dream can feel real but not match the room. *Why:* The dream felt real, but nothing in the room agreed with it. Picking 'someone took it' means trusting the dream as if it were real.
 2. (mcq) When does a dream usually stop feeling real?  
-   Options: When we wake up / While we are dreaming it / Never  
+   Options: While we are dreaming it / When we wake up / Never  
    **Answer:** When we wake up. *Why:* Inside a dream, it nearly always feels real. Only after waking do we see it was a dream.
 3. (mcq) A sound comes from behind a closed door. What do you know for sure?  
-   Options: Something there vibrated / A person is there / A tumbler is there  
+   Options: A person is there / A tumbler is there / Something there vibrated  
    **Answer:** Something there vibrated. *Why:* Every sound starts with something vibrating. What it was is a guess until you check. 'A tumbler' is only a guess, and the sound alone cannot prove it.
 4. (mcq) In the door test, the phone played a recording of crumpling newspaper. Was it a real sound?  
    Options: Yes, the phone speaker vibrated the air / No, because no newspaper was crumpling / Only if you guessed right  
    **Answer:** Yes, the phone speaker vibrated the air. *Why:* The sound was real, made by the phone. The newspaper was not there. Picking 'no' mixes up the sound with the thing it seemed to come from.
 5. (mcq) In the door test, a grown-up made each sound behind a closed door, either for real or from a phone. Why were shuffled slips used to choose real or phone?  
-   Options: So you could not guess from a pattern / To make the test take longer / Because the phone needed the slips  
+   Options: To make the test take longer / So you could not guess from a pattern / Because the phone needed the slips  
    **Answer:** So you could not guess from a pattern. *Why:* If the order went real, phone, real, phone, you could guess from the pattern instead of your ears. Shuffling keeps the test fair.
 6. (mcq) Why can water hardly get into an 'empty' bottle pushed mouth down into a bucket?  
    Options: The bottle is full of air, which takes up space / Water does not like plastic / The bottle is too small  
    **Answer:** The bottle is full of air, which takes up space. *Why:* Air takes up space. Only when the bottle is tipped and the air bubbles out can water come in.
 7. (mcq) Which of these shows that wind is real?  
-   Options: Clothes flapping on a balcony line / A clear blue sky / A quiet room  
+   Options: A clear blue sky / A quiet room / Clothes flapping on a balcony line  
    **Answer:** Clothes flapping on a balcony line. *Why:* We cannot see the wind, but we see what it does to the clothes.
 8. (mcq) You are not sure if you are dreaming. Which is the best check?  
-   Options: Read a word, look away, and read it again / Close your eyes tightly / Decide you are awake  
+   Options: Close your eyes tightly / Decide you are awake / Read a word, look away, and read it again  
    **Answer:** Read a word, look away, and read it again. *Why:* In dreams, words and clocks often change when you look again. Awake, they stay the same.
 9. (mcq) You hear a jingle in the washing and think it is your lost anklet. What is the best way to check that it is your anklet?  
-   Options: Shake the cloth again, ask someone else to listen, and feel for it / Decide it must be the anklet / Go to sleep and dream about it  
+   Options: Decide it must be the anklet / Go to sleep and dream about it / Shake the cloth again, ask someone else to listen, and feel for it  
    **Answer:** Shake the cloth again, ask someone else to listen, and feel for it. *Why:* Testing it again, with another sense and another person, is how we check what is real.
 10. (mcq) Before the door test, you guessed you would get all 8 sounds right. You got 5. What should you write?  
-   Options: I guessed 8. I got 5. Some phone sounds fooled me. / I got 8, because I guessed 8. / Nothing, because my guess was wrong.  
+   Options: I got 8, because I guessed 8. / Nothing, because my guess was wrong. / I guessed 8. I got 5. Some phone sounds fooled me.  
    **Answer:** I guessed 8. I got 5. Some phone sounds fooled me.. *Why:* A good scientist writes the guess and the real result, even when they differ. A wrong guess is how we learn something new.
 
 ## Applications

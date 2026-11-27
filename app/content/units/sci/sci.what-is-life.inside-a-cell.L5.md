@@ -480,7 +480,7 @@ Thenmozhi wrote the digits in the squares, one in each, as large as they would g
 ## Worksheets
 ### Inside a cell: routes, recycling and tracks (core) (core, 15 questions)
 1. (mcq) Which part of a cell folds new proteins that are going to leave the cell?  
-   Options: The rough ER / A lysosome / The nucleus / A mitochondrion  
+   Options: A lysosome / The rough ER / The nucleus / A mitochondrion  
    **Answer:** The rough ER. *Why:* A protein for export is fed into the rough ER as it is made, and it is folded there. Choosing the nucleus mixes up where the recipe is kept with where the protein is made.
 2. (truefalse) True or false: a bacterium has ribosomes.  
    **Answer:** True. *Why:* True. Every living cell builds proteins on ribosomes. A bacterium's ribosomes are a little smaller than yours.
@@ -495,7 +495,7 @@ Thenmozhi wrote the digits in the squares, one in each, as large as they would g
 7. (write) In the Potato Colour Test, four times the time gave only about twice the depth. Explain why.  
    **Answer:** The colour drifts because its molecules are knocked about in all directions. They wander forward and back and do not travel straight. So each extra millimetre takes longer than the one before, and four times the time gives only about twice the depth.. *Why:* A strong answer says that drifting molecules wander, and that this makes the time grow much faster than the distance.
 8. (mcq) What happens to a new protein that has no signal label?  
-   Options: It stays in the watery inside of the cell / It is carried into the nucleus / It is sent out of the cell / It is taken to a lysosome  
+   Options: It is carried into the nucleus / It is sent out of the cell / It is taken to a lysosome / It stays in the watery inside of the cell  
    **Answer:** It stays in the watery inside of the cell. *Why:* With no label, nothing carries the protein anywhere, so it stays where it was made. Choosing 'sent out' forgets that export needs a label for the ER.
 9. (draw) Draw a motor protein carrying a vesicle along a microtubule. Label all three.  
    **Answer:** A long tube labelled 'microtubule'. On it, a small two-footed protein labelled 'motor protein'. Above the motor, a round bubble much bigger than the motor, labelled 'vesicle'.. *Why:* A strong drawing shows the motor touching the track with its feet and the vesicle held above. The vesicle should be much bigger than the motor.
@@ -511,7 +511,7 @@ Thenmozhi wrote the digits in the squares, one in each, as large as they would g
 14. (label) Draw a large animal cell. Draw and label in it: rough ER, Golgi body, lysosome, vesicle and microtubule.  
    **Answer:** ['Rough ER: folded bags with dots, next to the nucleus', 'Golgi body: a stack of flat curved bags', 'Lysosome: a small round bag', 'Vesicle: a tiny bubble between the Golgi body and the membrane', 'Microtubule: a long straight line from near the nucleus to the edge']. *Why:* A strong drawing puts the rough ER beside the nucleus and the Golgi body between the ER and the cell membrane, because that is the route a protein takes.
 15. (mcq) Why can a bacterium live without motor proteins and tracks?  
-   Options: She is so small that drifting reaches everywhere quickly / She does not make any proteins / Her nucleus does the carrying / Nothing inside her needs to move  
+   Options: She does not make any proteins / She is so small that drifting reaches everywhere quickly / Her nucleus does the carrying / Nothing inside her needs to move  
    **Answer:** She is so small that drifting reaches everywhere quickly. *Why:* A bacterium is about 2 micrometres long, and molecules drift that far in a fraction of a second. Choosing 'her nucleus' forgets that a bacterium has no nucleus.
 ### Inside a cell: labels, fibres and evidence (stretch) (stretch, 15 questions)
 1. (mcq) A cell makes antibodies all day and sends them out. Which part will she have a great deal of?  
@@ -534,14 +534,14 @@ Thenmozhi wrote the digits in the squares, one in each, as large as they would g
 9. (sort) Sort each of these under the right fibre of the cytoskeleton.  
    **Answer:** pushes the front edge of a crawling cell forward → Actin filament; a hollow tube that kinesin walks along → Microtubule; a keratin rope that stops a skin cell tearing → Intermediate filament; pulled on by myosin in a muscle → Actin filament; pulls the chromosomes apart when a cell divides → Microtubule; what hair and nails are made of → Intermediate filament. *Why:* Actin filaments push and pull the membrane and work with myosin. Microtubules are tracks and pull chromosomes apart. Intermediate filaments are lasting ropes, such as keratin.
 10. (mcq) A nerve cell is one metre long. Why does she not rely on drifting to send vesicles to her far end?  
-   Options: Drifting that far would take hundreds of years / Vesicles are too heavy to float / Drifting uses too much ATP / Drifting only goes towards the nucleus  
+   Options: Vesicles are too heavy to float / Drifting uses too much ATP / Drifting only goes towards the nucleus / Drifting that far would take hundreds of years  
    **Answer:** Drifting that far would take hundreds of years. *Why:* The time for drifting grows much faster than the distance. Over a metre it would take hundreds of years. Choosing 'uses too much ATP' has it the wrong way round: drifting costs no ATP, and motors do.
 11. (draw) Draw a mitochondrion and a bacterium side by side. Mark three things they share.  
    **Answer:** Two bean shapes of the same size. In each: a ring of DNA and small dots for ribosomes. Other right answers: both make ATP on a membrane, and both multiply by splitting in two.. *Why:* A strong drawing makes them the same size and puts the same kind of DNA ring and ribosomes in both. The mitochondrion should have two membranes, with the inner one folded.
 12. (order) Put in order the steps by which a cell recycles a worn-out mitochondrion.  
    **Answer:** ['A mitochondrion wears out', 'A membrane wraps round her', 'The wrapped parcel joins a lysosome', 'Enzymes cut her large molecules into small ones', 'The small molecules are used to build new parts']. *Why:* This is autophagy. The old part is wrapped, delivered, taken apart and used again.
 13. (mcq) A few antibiotics that jam bacterial ribosomes also disturb mitochondria. What does this suggest?  
-   Options: Mitochondria have ribosomes like those of bacteria / Antibiotics jam every ribosome there is / Mitochondria have a cell wall / Mitochondria make antibiotics  
+   Options: Antibiotics jam every ribosome there is / Mitochondria have a cell wall / Mitochondria make antibiotics / Mitochondria have ribosomes like those of bacteria  
    **Answer:** Mitochondria have ribosomes like those of bacteria. *Why:* These antibiotics fit the bacterial kind of ribosome. Mitochondria have their own ribosomes of that kind, which is evidence of where mitochondria came from. The main ribosomes of your cells are not jammed.
 14. (write) In the Coin Walk, wandering took about six times as many tosses as walking straight. What does this say about large cells?  
    **Answer:** Wandering is like drifting, and stepping forward is like a motor protein on a track. Over a long distance, drifting takes far longer than walking straight. So a large cell uses motor proteins and tracks to carry large cargo, even though they cost ATP.. *Why:* A strong answer links wandering to drifting and stepping to a motor protein, and says that the gap grows with distance.
@@ -554,7 +554,7 @@ Thenmozhi wrote the digits in the squares, one in each, as large as they would g
 2. (perspective) Three people talk about what a mitochondrion is.  
    **Answer:** A strong answer uses evidence from both sides: her own DNA, ribosomes and splitting, and also the genes she has passed to the nucleus and the fact that she cannot live alone. It chooses one view and gives a fair point from another.. *Why:* Scientists agree on the facts and differ on the word. The question of when two beings count as one has no agreed answer.
 3. (mcq) A scientist cuts the signal stretch off a protein that normally leaves the cell. Where does the protein end up?  
-   Options: In the watery inside of the cell / Outside the cell, as before / In the Golgi body / In a lysosome  
+   Options: Outside the cell, as before / In the watery inside of the cell / In the Golgi body / In a lysosome  
    **Answer:** In the watery inside of the cell. *Why:* Without its signal stretch the protein is never brought to the ER, so it stays where it was made. This experiment is part of the evidence that the address is in the protein itself.
 4. (count) A motor protein takes 100 steps a second, each 8 millionths of a millimetre. How many millionths in one second?  
    **Answer:** 800. *Why:* 100 steps × 8 = 800 millionths of a millimetre each second. That is a little less than one micrometre a second.
@@ -563,7 +563,7 @@ Thenmozhi wrote the digits in the squares, one in each, as large as they would g
 6. (sort) Sort each statement: shown by strong evidence, or still argued about.  
    **Answer:** Mitochondria came from free-living bacteria → Shown by strong evidence; A protein carries its own address label → Shown by strong evidence; The host cell was already large when mitochondria arrived → Still argued about; The bags of the Golgi body themselves move through the stack → Still argued about; Microtubules grow and shrink within minutes → Shown by strong evidence; A mitochondrion should be called a living being of her own → Still argued about. *Why:* The first group rests on many experiments that agree. In the second group, scientists accept the same facts but explain them differently, or the evidence is not yet enough.
 7. (mcq) A new medicine stops bacteria building their cell wall. Why should it leave your cells unharmed?  
-   Options: Your cells have no cell wall / Your cells are too big for it / Your nucleus protects the cell / Your cell walls are thicker  
+   Options: Your cells are too big for it / Your nucleus protects the cell / Your cell walls are thicker / Your cells have no cell wall  
    **Answer:** Your cells have no cell wall. *Why:* A medicine that blocks wall-building has nothing to block in a cell with no wall. Choosing 'thicker walls' assumes that animal cells have walls. They have only a membrane.
 8. (draw) Two vesicles reach the cell membrane. Only one has surface proteins that match the membrane. Draw what happens to each.  
    **Answer:** One vesicle joined to the membrane and open to the outside, with its matching proteins fitted to the membrane's proteins. The other vesicle still closed and still inside the cell.. *Why:* A strong drawing shows that only the vesicle with matching proteins joins. The other does not join, because joining needs the two sets of proteins to fit.
@@ -576,7 +576,7 @@ Thenmozhi wrote the digits in the squares, one in each, as large as they would g
 12. (order) Put these in order of size, smallest first.  
    **Answer:** ['A ribosome', 'A vesicle', 'A lysosome', 'A mitochondrion', 'A nucleus', 'A whole skin cell']. *Why:* In the true-scale model these were a grain of salt, a khus khus seed, a peppercorn, a rajma bean, a lemon and a circle 20 centimetres wide.
 13. (mcq) In the Thread Line, one push did not carry the parcel 2 metres. What does a cell do about the same problem?  
-   Options: Her motors use ATP at every step of the way / She pushes cargo once, from the nucleus / She waits for cargo to drift / She makes her cargo lighter  
+   Options: She pushes cargo once, from the nucleus / Her motors use ATP at every step of the way / She waits for cargo to drift / She makes her cargo lighter  
    **Answer:** Her motors use ATP at every step of the way. *Why:* A push at the start runs out. A motor protein takes in new energy at each step, so the cargo keeps going for the whole distance.
 14. (write) Laboratory amoebas came to need bacteria that had infected them. What does this show about mitochondria, and what not?  
    **Answer:** It shows that a guest living inside a cell can become a needed partner over many generations. So the first step towards a mitochondrion is possible. It does not show that mitochondria began this way two billion years ago. That evidence comes from their DNA and ribosomes.. *Why:* A strong answer separates 'this can happen' from 'this is what happened'. An experiment today can show only the first.
@@ -593,7 +593,7 @@ Thenmozhi wrote the digits in the squares, one in each, as large as they would g
    Options: 20 minutes / 40 minutes / 10 minutes / 100 minutes  
    **Answer:** 40 minutes. *Why:* Twice as far takes about four times as long, and 4 × 10 = 40 minutes. Choosing 20 minutes means thinking that drifting has a steady speed.
 2. (mcq) Where in a cell are sugars added to proteins, and proteins sorted into different vesicles?  
-   Options: In the Golgi body / In the nucleus / In a mitochondrion / On the cytoskeleton  
+   Options: In the nucleus / In a mitochondrion / In the Golgi body / On the cytoskeleton  
    **Answer:** In the Golgi body. *Why:* The Golgi body finishes proteins from the ER and sorts them by their labels. The cytoskeleton carries the vesicles afterwards, but it does not sort them.
 3. (mcq) Which of these proteins must pass through the rough ER and the Golgi body?  
    Options: Insulin, which leaves the cell / Haemoglobin, which stays in a red blood cell / Actin, which builds fibres in the cell / Tubulin, which builds microtubules  
@@ -610,13 +610,13 @@ Thenmozhi wrote the digits in the squares, one in each, as large as they would g
    Options: A microtubule / A keratin rope / A strand of DNA / The cell wall  
    **Answer:** A microtubule. *Why:* Kinesin and dynein walk along microtubules. Keratin ropes give strength, and no motor walks on them.
 8. (mcq) Why does a cell keep taking her microtubules apart and building new ones?  
-   Options: So she can quickly change shape, move or divide / Because they are badly made / To warm herself up / Because tubulin is harmful if it is left  
+   Options: Because they are badly made / To warm herself up / So she can quickly change shape, move or divide / Because tubulin is harmful if it is left  
    **Answer:** So she can quickly change shape, move or divide. *Why:* A skeleton that is rebuilt every few minutes can be rebuilt in a new arrangement. That lets a cell crawl, change shape and divide.
 9. (mcq) Which of these does a bacterium not have?  
-   Options: Mitochondria / Ribosomes / DNA / A cell membrane  
+   Options: Ribosomes / DNA / Mitochondria / A cell membrane  
    **Answer:** Mitochondria. *Why:* A bacterium is about the size of one mitochondrion. She makes ATP on her own cell membrane. She has the other three, as every living cell does.
 10. (mcq) A growing cell needs more mitochondria. Where do the new ones come from?  
-   Options: Old mitochondria grow and split in two / The nucleus builds them / The Golgi body packs them / They come in with food  
+   Options: The nucleus builds them / The Golgi body packs them / They come in with food / Old mitochondria grow and split in two  
    **Answer:** Old mitochondria grow and split in two. *Why:* New mitochondria come only from older ones, as new bacteria come only from older bacteria. This is one piece of evidence for where mitochondria came from.
 11. (mcq) Which of these do scientists still argue about?  
    Options: Whether the first host cell was already large / Whether mitochondria have their own DNA / Whether bacteria have ribosomes / Whether proteins carry address labels  

@@ -500,13 +500,13 @@ The next morning, Kavya wrote a sign in big letters and stuck it on the syrup bo
    Options: The salt melted / The salt dissolved / The salt evaporated  
    **Answer:** The salt dissolved. *Why:* Salt breaking up in water and spreading through it is dissolving. Melting needs heat. Evaporating is a liquid going into the air.
 2. (mcq) Which of these is made of particles?  
-   Options: Only a stone / Only water / A stone, water and air  
+   Options: A stone, water and air / Only a stone / Only water  
    **Answer:** A stone, water and air. *Why:* Solids, liquids and gases are all made of particles. Picking only the stone means thinking only hard things have pieces.
 3. (mcq) Why can't we see sugar particles?  
    Options: They are far too small / They are see-through like glass / They hide at the bottom  
    **Answer:** They are far too small. *Why:* A sugar particle is about a millionth of a millimetre across, far too small for eyes or ordinary microscopes.
 4. (mcq) In the hanger balance test, what happened to the straw pointer when the sugar dissolved?  
-   Options: It swung towards bottle A / It swung towards bottle B / It stayed at the line  
+   Options: It stayed at the line / It swung towards bottle A / It swung towards bottle B  
    **Answer:** It stayed at the line. *Why:* The sugar was still in the bottle, so the weight did not change and the balance stayed level.
 5. (mcq) A sugar grain has flat sides and sharp corners. What is a solid like this called?  
    Options: A crystal / A liquid / A solution  
@@ -542,10 +542,10 @@ The next morning, Kavya wrote a sign in big letters and stuck it on the syrup bo
    Options: Sugar sits at the bottom and never changes / Sugar slowly makes the water above it sweet, even with no stirring / A stone stays where you put it  
    **Answer:** Sugar slowly makes the water above it sweet, even with no stirring. *Why:* Over days, sugar particles keep moving and spread up through the water by themselves. A stone's particles move too, but they jiggle in place.
 4. (mcq) When a sugar grain dissolves, which particles leave first?  
-   Options: The ones in the middle / The ones on the outside / All of them at once  
+   Options: The ones in the middle / All of them at once / The ones on the outside  
    **Answer:** The ones on the outside. *Why:* Water can only reach the outside of the grain, so the outside particles leave first. That is why corners go round first.
 5. (mcq) The tablet of camphor in a closed jar hardly shrank in a week. Why?  
-   Options: Camphor in jars cannot move / The camphor particles could not escape, so the air in the jar filled up with them / The jar was cold  
+   Options: The camphor particles could not escape, so the air in the jar filled up with them / Camphor in jars cannot move / The jar was cold  
    **Answer:** The camphor particles could not escape, so the air in the jar filled up with them. *Why:* Particles leave the tablet in the jar too. But they stay trapped, so soon as many go back onto the tablet as leave it.
 6. (truefalse) A sugar particle is the smallest piece of sugar there can be.  
    **Answer:** True. *Why:* True. Break a sugar particle and you get atoms of carbon, hydrogen and oxygen, which are not sugar.
@@ -569,16 +569,16 @@ The next morning, Kavya wrote a sign in big letters and stuck it on the syrup bo
    **Answer:** A strong answer agrees with Kamala for drinking now, using the tall glass test, where the top stayed plain after 30 minutes. It also says Divya is right that particles move by themselves, but the spreading is far too slow for a cup of coffee.. *Why:* Both have a point. Particles do spread by themselves, as Divya says. But it takes days, so Kamala's stirring is what makes the first sip sweet.
 ### Prove It With Particles (challenge) (challenge, 15 questions)
 1. (mcq) You put a camphor tablet in an empty jar, close the lid tight, and weigh the jar every day for a week. What happens to the weight of the closed jar?  
-   Options: It goes down / It stays the same / It goes up  
+   Options: It goes down / It goes up / It stays the same  
    **Answer:** It stays the same. *Why:* Some camphor particles leave the tablet, but they stay in the air inside the closed jar. Nothing escapes, so the total weight stays the same.
 2. (mcq) You put 4 teaspoons of sugar into a full glass of water. Will the water spill over the top?  
    Options: No, the sugar takes up no space at all / A little may spill, because the sugar particles still take up some space / It will spill a whole cupful  
    **Answer:** A little may spill, because the sugar particles still take up some space. *Why:* Sugar particles are still there, so they take up some room. The level rises a little. A heap of sugar on a spoon also has air between the grains, so the rise is less than the size of the heap.
 3. (mcq) Which test would best show that dissolved salt is still in water, without tasting?  
-   Options: Looking at the water closely / Letting a few drops dry on a clean steel plate / Smelling the water  
+   Options: Looking at the water closely / Smelling the water / Letting a few drops dry on a clean steel plate  
    **Answer:** Letting a few drops dry on a clean steel plate. *Why:* When the water goes into the air, the salt particles stay behind and gather into white grains again. Looking cannot work, because the particles are too small to see.
 4. (mcq) In the old days, some scientists said particles were not real because nobody could see one. What is the problem with that reason?  
-   Options: Nothing, it is a good reason / Many real things are too small to see, and we can find them in other ways / Particles are big enough to see  
+   Options: Nothing, it is a good reason / Particles are big enough to see / Many real things are too small to see, and we can find them in other ways  
    **Answer:** Many real things are too small to see, and we can find them in other ways. *Why:* Tasting, weighing and the ants all found sugar we could not see. Not being able to see something does not show it is not there.
 5. (truefalse) If you could keep cutting a grain of sugar in half, you would always get smaller sugar.  
    **Answer:** False. *Why:* False. After about 60 cuts, each halving the amount, you would reach one sugar particle. Cut that, and you get atoms of carbon, hydrogen and oxygen, which are not sugar.
@@ -610,37 +610,37 @@ The next morning, Kavya wrote a sign in big letters and stuck it on the syrup bo
 
 ## Quiz
 1. (mcq) What is everything around you made of?  
-   Options: Particles only in solids, not in water or air / Particles far too small to see, in solids, liquids and gases / Grains you can see with a magnifying glass  
+   Options: Particles only in solids, not in water or air / Grains you can see with a magnifying glass / Particles far too small to see, in solids, liquids and gases  
    **Answer:** Particles far too small to see, in solids, liquids and gases. *Why:* Solids, liquids and gases are all made of particles far too small to see. Picking 'only in solids' means thinking water and air are smooth all the way down, with no pieces. Picking 'grains you can see' confuses grains, which are huge heaps of particles, with particles.
 2. (mcq) You stir sugar into water and the grains disappear. Where is the sugar now?  
-   Options: It has been destroyed / Spread through the water as tiny sugar particles / It has turned into water  
+   Options: It has been destroyed / It has turned into water / Spread through the water as tiny sugar particles  
    **Answer:** Spread through the water as tiny sugar particles. *Why:* The sugar broke into particles too small to see, and they spread among the water particles. Picking 'destroyed' is the most common guess, because we trust our eyes. Picking 'turned into water' misses that the water tastes sweet: the sugar is still sugar.
 3. (mcq) On a kitchen scale, a closed bottle of water and a packet of sugar weigh 120 grams together. You pour the sugar into the bottle, close it and shake it until the sugar is gone. You put the bottle and the empty packet back on the scale. What does the scale show?  
-   Options: Less than 120 grams / 120 grams / More than 120 grams  
+   Options: 120 grams / Less than 120 grams / More than 120 grams  
    **Answer:** 120 grams. *Why:* Every sugar particle is still in the bottle, so the weight stays the same. Picking 'less' means thinking dissolved sugar weighs nothing. Picking 'more' is a guess that sugar water is heavier than water and sugar apart, but nothing was added.
 4. (mcq) In the hanger balance test, why did we first lift the sugar packet out of the bag and watch the straw?  
-   Options: To check that the balance could feel the weight of the sugar / To let the sugar cool down / To make the test go faster  
+   Options: To let the sugar cool down / To make the test go faster / To check that the balance could feel the weight of the sugar  
    **Answer:** To check that the balance could feel the weight of the sugar. *Why:* If the balance moved when the packet was lifted out, we knew it could feel the sugar. So when it did not move after dissolving, we knew the sugar had not lost any weight.
 5. (mcq) Which dissolves fastest in a glass of water?  
    Options: A lump of kalkandu / Ordinary sugar grains / Powdered sugar  
    **Answer:** Powdered sugar. *Why:* Powder has the most outside, so water can pull off many particles at once. Picking kalkandu means thinking a bigger piece holds more and so goes faster, but it has the least outside.
 6. (mcq) You want to test whether stirring makes sugar dissolve faster. What should you keep the same?  
-   Options: Nothing, it doesn't matter / The water, the glass and the amount of sugar / Only the glass  
+   Options: The water, the glass and the amount of sugar / Nothing, it doesn't matter / Only the glass  
    **Answer:** The water, the glass and the amount of sugar. *Why:* In a fair test only one thing changes, here the stirring. Everything else stays the same, so you know the stirring made the difference.
 7. (mcq) Which of these is melting, not dissolving?  
    Options: Salt disappearing in rasam / Ghee turning runny in a warm pan / Sugar disappearing in cold milk  
    **Answer:** Ghee turning runny in a warm pan. *Why:* Ghee turns liquid because it is heated, with nothing else added. That is melting. Salt in rasam and sugar in cold milk are dissolving: they break up in a liquid, with no heat needed.
 8. (mcq) Someone says, 'Sugar melts in tea because the tea is hot.' What is wrong with this?  
-   Options: Nothing, it is right / Sugar dissolves even in cold water, so it is dissolving, not melting / Sugar never goes into tea  
+   Options: Nothing, it is right / Sugar never goes into tea / Sugar dissolves even in cold water, so it is dissolving, not melting  
    **Answer:** Sugar dissolves even in cold water, so it is dissolving, not melting. *Why:* Sugar dissolves in ice-cold water too. Melting sugar needs a dry pan at about 186 degrees Celsius. Hot tea only makes dissolving faster.
 9. (mcq) Some people once said that when silver dissolves in a strong acid, the silver stops existing. Which result would show they were wrong?  
-   Options: Getting the same silver back out of the acid / Seeing nothing in the acid / Weighing the air  
+   Options: Seeing nothing in the acid / Getting the same silver back out of the acid / Weighing the air  
    **Answer:** Getting the same silver back out of the acid. *Why:* If the silver had stopped existing, nobody could get it back. So it must have been there all along, as tiny particles. A doctor called Daniel Sennert did this in the 1600s.
 10. (mcq) Sugar was left at the bottom of a tall glass with no stirring. After 30 minutes, how did the top taste?  
    Options: Plain, because sugar particles spread very slowly by themselves / Very sweet, because sugar rises / Salty  
    **Answer:** Plain, because sugar particles spread very slowly by themselves. *Why:* Sugar particles do move by themselves, but through water this spreading is very slow. It could take days to reach the top. Picking 'sugar rises' is a fair guess, but sweet water is heavier, so it stays at the bottom.
 11. (mcq) Ants went to a drop of sugar water and left a drop of plain water alone. The drops looked the same. How did the ants know?  
-   Options: They sensed the sugar particles with their antennae / They saw the sugar / They guessed  
+   Options: They saw the sugar / They sensed the sugar particles with their antennae / They guessed  
    **Answer:** They sensed the sugar particles with their antennae. *Why:* Ants smell and taste with their antennae. When an ant touches the sugar water, she picks up the sugar particles and knows it is food. Nobody can see dissolved sugar.
 
 ## Applications

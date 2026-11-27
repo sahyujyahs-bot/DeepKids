@@ -483,10 +483,10 @@ On the second trip, the rice came across, and the line stayed dry the whole way.
 ## Worksheets
 ### Floating and Sinking (core) (core, 16 questions)
 1. (mcq) Which is the best reason a big steel ship floats?  
-   Options: Most of its hull is air, so the ship is lighter than the water it pushes aside / Steel is lighter than water / The sea is always pushing the ship up by magic  
+   Options: Steel is lighter than water / The sea is always pushing the ship up by magic / Most of its hull is air, so the ship is lighter than the water it pushes aside  
    **Answer:** Most of its hull is air, so the ship is lighter than the water it pushes aside. *Why:* Steel itself is much denser than water. But a ship is a hollow shape full of air. The whole ship, steel and air together, is lighter than the water it pushes aside.
 2. (mcq) What does the word density tell you about a material?  
-   Options: How much stuff is packed into a certain space / How hot the material is / How shiny the material is  
+   Options: How hot the material is / How much stuff is packed into a certain space / How shiny the material is  
    **Answer:** How much stuff is packed into a certain space. *Why:* Density is mass divided by volume. A dense material is heavy for its size.
 3. (truefalse) A heavy thing always sinks in water.  
    **Answer:** False. *Why:* False. A loaded steel ship is very heavy and floats, because it pushes aside a huge amount of water. What matters is how heavy a thing is for its size.
@@ -497,7 +497,7 @@ On the second trip, the rice came across, and the line stayed dry the whole way.
 6. (sort) Sort each thing by what it does in plain water.  
    **Answer:** wooden spoon → Floats; steel spoon → Sinks; lemon → Floats; potato → Sinks; candle stub → Floats; one-rupee coin → Sinks; closed empty plastic bottle → Floats; brick → Sinks. *Why:* Wood, lemon, candle wax and a bottle full of air are lighter than the same amount of water, so they float. Steel, a potato, a coin and a brick are heavier, so they sink.
 7. (mcq) A ball of foil sinks, but a foil boat made from the same foil floats. Why?  
-   Options: The boat holds air and pushes aside more water / The boat is made of lighter foil / Water likes boats better than balls  
+   Options: The boat is made of lighter foil / Water likes boats better than balls / The boat holds air and pushes aside more water  
    **Answer:** The boat holds air and pushes aside more water. *Why:* The foil is the same, but the boat has a hollow shape with air in it. It pushes aside much more water than the ball does, so the upthrust is bigger.
 8. (count) A measuring jug holds 250 millilitres of water. You drop in a stone, and the water level rises to 310 millilitres. What is the volume of the stone, in millilitres?  
    **Answer:** 60. *Why:* 310 take away 250 is 60. The stone pushed aside 60 millilitres of water, so its volume is 60 millilitres.
@@ -524,7 +524,7 @@ On the second trip, the rice came across, and the line stayed dry the whole way.
    Options: The salt made the water denser than the potato / The salt made the potato lighter / The potato dried out  
    **Answer:** The salt made the water denser than the potato. *Why:* The potato was the same in both glasses. The salt dissolved and made the water denser. When the water is denser than the potato, the potato floats.
 2. (mcq) A small block has a volume of 10 millilitres and a mass of 8 grams. 10 millilitres of water has a mass of 10 grams. What will the block do in water?  
-   Options: Float, because it is lighter than the same amount of water / Sink, because it is solid / Hover in the middle  
+   Options: Sink, because it is solid / Hover in the middle / Float, because it is lighter than the same amount of water  
    **Answer:** Float, because it is lighter than the same amount of water. *Why:* The block has less mass than the same volume of water. That means it is less dense than water, so it floats.
 3. (truefalse) Ice cubes float because ice is denser than water.  
    **Answer:** False. *Why:* False. Ice floats because it is less dense than liquid water. When water freezes, it takes up about one tenth more space.
@@ -540,7 +540,7 @@ On the second trip, the rice came across, and the line stayed dry the whole way.
 8. (write) A steel katori floats when it is set gently on the water. It sinks when it is pushed down and filled with water. Explain why, using the word air.  
    **Answer:** When the katori is empty, it holds a lot of air, so the katori and the air together are lighter than the water they push aside. When it fills with water, the air is gone, and the steel is denser than the water, so it sinks.. *Why:* A strong answer says that the air pocket made the katori light for its size, and that filling it with water removed that advantage.
 9. (mcq) A ship sits lower in a river than in the sea. Why?  
-   Options: River water is less dense than sea water, so the ship must push aside more of it / The river is warmer / The sea pulls the ship up  
+   Options: The river is warmer / River water is less dense than sea water, so the ship must push aside more of it / The sea pulls the ship up  
    **Answer:** River water is less dense than sea water, so the ship must push aside more of it. *Why:* The ship must push aside water that weighs as much as the ship. Fresh water is less dense, so the ship sinks a little deeper to push aside enough.
 10. (match) Match each thing to the reason it floats or rises.  
    **Answer:** Helium balloon → helium is lighter than air; Hot air balloon → the heated air inside is less dense than the air around it; Banana-stem raft → the stems are full of air spaces; Coracle → a wide hollow basket holds air and pushes aside water. *Why:* Each one is lighter for its size than the water or air around it. Air is held in the raft and the basket, and the gas or hot air is less dense in the balloons.
@@ -551,7 +551,7 @@ On the second trip, the rice came across, and the line stayed dry the whole way.
 13. (draw) Draw a glass with three layers: oil, water and syrup. Label which layer is on top and which is at the bottom, and write why.  
    **Answer:** A glass with oil on top, water in the middle and syrup at the bottom, with a short reason such as that oil is the least dense and syrup is the most dense.. *Why:* A strong drawing puts the least dense liquid on top and the most dense at the bottom, and says that each liquid floats on a liquid that is denser than itself.
 14. (mcq) Which change would let a foil boat carry more cargo?  
-   Options: A bigger hollow space that holds more air / A thicker layer of foil / Making the base rough  
+   Options: A thicker layer of foil / Making the base rough / A bigger hollow space that holds more air  
    **Answer:** A bigger hollow space that holds more air. *Why:* A bigger hollow space holds more air and pushes aside more water. More water pushed aside means more upthrust, and more cargo can be carried.
 15. (count) A boat pushes aside 120 cubic centimetres of water when it is just about to sink. One cubic centimetre of water has a mass of 1 gram. What is the most that the boat and its cargo can weigh, in grams?  
    **Answer:** 120. *Why:* The water pushed aside has a mass of 120 grams, so the upthrust is the weight of 120 grams. If the boat and cargo weigh more than that, it will sink.
@@ -567,7 +567,7 @@ On the second trip, the rice came across, and the line stayed dry the whole way.
 2. (count) A boat pushes aside 300 grams of water when the water reaches its rim. The boat weighs 40 grams. How many grams of cargo can it carry before it sinks?  
    **Answer:** 260. *Why:* The boat and cargo together can weigh as much as the water pushed aside, 300 grams. The boat itself weighs 40 grams, so the cargo can weigh 300 take away 40, which is 260 grams.
 3. (mcq) A block of wood floats with three quarters of itself under the water. What does this tell you about the wood?  
-   Options: It is less dense than water, but not by a lot / It is much lighter than water / It is denser than water  
+   Options: It is much lighter than water / It is denser than water / It is less dense than water, but not by a lot  
    **Answer:** It is less dense than water, but not by a lot. *Why:* Most of the block is under the water, so the wood is close to the density of water. A much lighter wood, such as balsa, would sit higher.
 4. (perspective) A ferry owner wants to carry more passengers than the load line allows.  
    **Answer:** Answers vary. A strong answer picks a side, gives a reason, and notes that a boat sitting low has less room before water comes in, so a small wave can sink it.. *Why:* The load line is based on how a boat floats. The more a boat carries, the less spare room it has. Safety rules protect people on rough days.
@@ -591,7 +591,7 @@ On the second trip, the rice came across, and the line stayed dry the whole way.
 13. (draw) Draw a bottle diver in a bottle. Draw the air bubble in the diver before you squeeze and after you squeeze, and say what happens to the diver.  
    **Answer:** Two bottles, one with a larger air bubble and the diver near the top, and one with a smaller bubble and the diver sinking, with a note that squeezing squashes the air so the diver pushes aside less water.. *Why:* A strong drawing shows the bubble getting smaller when squeezed and the diver sinking, with a reason about upthrust.
 14. (mcq) A hot air balloon rises. Which sentence is correct?  
-   Options: The hot air inside is less dense than the cooler air outside / The hot air is heavier than the cooler air / The balloon is pulled up by the Sun  
+   Options: The hot air is heavier than the cooler air / The balloon is pulled up by the Sun / The hot air inside is less dense than the cooler air outside  
    **Answer:** The hot air inside is less dense than the cooler air outside. *Why:* Heating makes air expand, so the same amount of air takes up more room and is less dense. The balloon rises in the denser, cooler air around it.
 15. (count) A swimming pool holds 100,000 litres of water. One litre of water has a mass of 1 kilogram. One tonne is 1,000 kilograms. How many tonnes of water is that?  
    **Answer:** 100. *Why:* 100,000 kilograms divided by 1,000 is 100 tonnes.
@@ -608,40 +608,40 @@ On the second trip, the rice came across, and the line stayed dry the whole way.
    Options: It is less dense than water / It is small / It is made of wood  
    **Answer:** It is less dense than water. *Why:* A thing that is less dense than water is lighter than the same amount of water, so it floats. Size and material alone do not settle it.
 2. (mcq) A solid cube takes up the same space as 100 millilitres of water, but weighs 120 grams. 100 millilitres of water weighs 100 grams. What will the cube do?  
-   Options: Sink / Float / Hover in the middle  
+   Options: Float / Hover in the middle / Sink  
    **Answer:** Sink. *Why:* The cube is heavier than the same amount of water, so it is denser, and it sinks.
 3. (mcq) What changes when you fold a foil ball into a foil boat?  
-   Options: It pushes aside more water, because it holds a big space of air / The foil gets lighter / The foil becomes a different material  
+   Options: The foil gets lighter / The foil becomes a different material / It pushes aside more water, because it holds a big space of air  
    **Answer:** It pushes aside more water, because it holds a big space of air. *Why:* The foil is the same. The hollow shape holds air, and the shape pushes aside more water, so the upthrust is bigger.
 4. (mcq) A steel katori is set mouth up on water and floats. What inside the katori helps it float?  
    Options: Air / Steel / Sunlight  
    **Answer:** Air. *Why:* The katori and the air inside it are together lighter than the water they push aside.
 5. (mcq) You want a fair test of three boat shapes. What must be the same for all three boats?  
-   Options: The size of the foil, the water, and the way the coins are added / The shape of the boat / The number of coins each one carries  
+   Options: The shape of the boat / The size of the foil, the water, and the way the coins are added / The number of coins each one carries  
    **Answer:** The size of the foil, the water, and the way the coins are added. *Why:* In a fair test, only one thing changes. Here the shape changes, so everything else, including the foil size and the loading, must stay the same.
 6. (mcq) One boat carries 12, 14 and 13 coins in three tries. What does this show?  
-   Options: The result is steady, so we can trust it / The boat is broken / The test is not fair  
+   Options: The boat is broken / The test is not fair / The result is steady, so we can trust it  
    **Answer:** The result is steady, so we can trust it. *Why:* Results that are close together show the test gives about the same answer each time, so we can trust it.
 7. (mcq) In which water is it easiest to float?  
-   Options: Very salty water / Warm tap water / Cold fresh water  
+   Options: Warm tap water / Very salty water / Cold fresh water  
    **Answer:** Very salty water. *Why:* Salt makes water denser, and denser water pushes up harder. This is why people float easily in the Dead Sea.
 8. (mcq) A potato hovers in the middle of a glass of salty water. What does this mean?  
-   Options: The potato and the water are about equally dense / The potato is much lighter than the water / The potato is much heavier than the water  
+   Options: The potato is much lighter than the water / The potato and the water are about equally dense / The potato is much heavier than the water  
    **Answer:** The potato and the water are about equally dense. *Why:* A thing that is denser would sink. A thing that is less dense would float. Hovering means they have about the same density.
 9. (mcq) Why does ice float on water?  
-   Options: Ice is less dense than liquid water / Ice is colder than water / Ice is smaller than water  
+   Options: Ice is colder than water / Ice is smaller than water / Ice is less dense than liquid water  
    **Answer:** Ice is less dense than liquid water. *Why:* When water freezes, it takes up more space. The same amount of water is less dense as ice, so ice floats.
 10. (mcq) You pour oil, water and honey slowly into a glass. Which layer is on top?  
-   Options: The oil / The water / The honey  
+   Options: The water / The oil / The honey  
    **Answer:** The oil. *Why:* Oil is the least dense of the three, so it floats on top. Honey is the densest, so it sinks to the bottom.
 11. (mcq) How does a submarine rise to the surface?  
    Options: It pushes the water out of its ballast tanks with compressed air / It fills its tanks with more water / It switches off its engine  
    **Answer:** It pushes the water out of its ballast tanks with compressed air. *Why:* Pushing out the water makes the submarine lighter overall, so it is less dense and rises. Taking in water makes it sink.
 12. (mcq) Many people believe that heavy things sink. A steel ship floats. What does this show about the pattern?  
-   Options: The pattern is not always true, so it must be tested / The ship is not really heavy / The pattern is always true  
+   Options: The ship is not really heavy / The pattern is not always true, so it must be tested / The pattern is always true  
    **Answer:** The pattern is not always true, so it must be tested. *Why:* A pattern is something you notice, not a rule you can trust yet. One clear exception, such as a ship, shows that the pattern is incomplete and needs testing.
 13. (mcq) A straw with clay at one end floats on water, then a gust tips it over. What brings it back upright?  
-   Options: Its heavy end sits low, so its weight pulls it back to upright / The air inside the straw pushes it sideways / The water warms up, and the straw rights itself / The straw gets lighter at the top  
+   Options: The air inside the straw pushes it sideways / The water warms up, and the straw rights itself / Its heavy end sits low, so its weight pulls it back to upright / The straw gets lighter at the top  
    **Answer:** Its heavy end sits low, so its weight pulls it back to upright. *Why:* The clay is heavy and sits low, so the weight pulls the straw back to upright. Air inside and warm water do not balance a floating straw.
 
 ## Applications

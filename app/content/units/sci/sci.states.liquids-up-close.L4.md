@@ -541,16 +541,16 @@ Anoop called her on the phone. 'Is your tap better?' 'Yes,' said Devika. 'Now th
 ## Worksheets
 ### Pressure and Depth (core) (core, 17 questions)
 1. (mcq) What does the word pressure mean?  
-   Options: How hard something pushes on each small part of a surface / How heavy something is / How hot something is  
+   Options: How heavy something is / How hot something is / How hard something pushes on each small part of a surface  
    **Answer:** How hard something pushes on each small part of a surface. *Why:* Pressure is the push on each small bit of a surface. The same weight on a smaller area makes a bigger pressure. Picking 'how heavy' leaves out the area that the push is spread over.
 2. (mcq) A swimmer swims from 1 metre deep to 3 metres deep. What happens to the push of the water on her?  
-   Options: It gets bigger / It gets smaller / It stays the same  
+   Options: It gets smaller / It stays the same / It gets bigger  
    **Answer:** It gets bigger. *Why:* There is more water above her at 3 metres, so the push is bigger. The deeper you go, the bigger the push.
 3. (mcq) Where does the push of water at a depth come from?  
    Options: The weight of the water above it / The colour of the water / The wind on the surface  
    **Answer:** The weight of the water above it. *Why:* Gravity pulls on the water above a point, and the water below has to hold it up. That is the push. Colour and wind do not change it.
 4. (mcq) A clear hose full of water has its two ends held against a wall, 3 metres apart. What do you expect about the water in the two ends?  
-   Options: It stands at the same height in both ends / It stands higher in the end held lower / It stands higher in the end that is wider  
+   Options: It stands higher in the end held lower / It stands at the same height in both ends / It stands higher in the end that is wider  
    **Answer:** It stands at the same height in both ends. *Why:* Water that can flow freely settles to the same level everywhere it is joined. If one end were higher, the push would move water until the two levels were equal.
 5. (mcq) Why is a dam wall thicker at the bottom than at the top?  
    Options: The push of the water is biggest at the bottom / It is easier to build that way / There is less water at the bottom  
@@ -582,13 +582,13 @@ Anoop called her on the phone. 'Is your tap better?' 'Yes,' said Devika. 'Now th
    **Answer:** True. *Why:* True. The push grows with depth, and the lowest hole has the most water above it.
 ### Tanks, Taps and Machines (stretch) (stretch, 17 questions)
 1. (mcq) A tank and a thin tube are both filled with water to a depth of 3 metres. Which has the bigger push on each bit of its bottom?  
-   Options: The tank / The tube / They are the same  
+   Options: The tank / They are the same / The tube  
    **Answer:** They are the same. *Why:* The push depends only on the depth. The tank pushes on a bigger area, so its total force is bigger, but each bit feels the same push.
 2. (mcq) A bottle with three holes stands on the floor, and the lowest jet lands very short. Why?  
    Options: It has little height to fall, so it has little time in the air / The lowest hole is smaller / Low water has no push  
    **Answer:** It has little height to fall, so it has little time in the air. *Why:* The lowest jet leaves fast, but it starts close to the floor, so it lands soon. On a stool, it has time to travel farther.
 3. (mcq) Coconut oil 20 centimetres deep pushes less on the bottom of a jar than water 20 centimetres deep, though coconut oil is thicker. Why?  
-   Options: Coconut oil is lighter for its size / Coconut oil is slower / Coconut oil has no weight  
+   Options: Coconut oil is slower / Coconut oil has no weight / Coconut oil is lighter for its size  
    **Answer:** Coconut oil is lighter for its size. *Why:* The push comes from the weight of the liquid above. Oil is lighter than water for the same amount. How thick or runny a liquid is does not change the pressure.
 4. (mcq) A small piston of 2 square centimetres is pushed with a force of 10 newtons. It is joined by oil to a big piston of 20 square centimetres. What force does the big piston give?  
    Options: 10 newtons / 100 newtons / 20 newtons  
@@ -623,7 +623,7 @@ Anoop called her on the phone. 'Is your tap better?' 'Yes,' said Devika. 'Now th
    **Answer:** A strong answer agrees with Rani's friend, because pressure depends only on depth, and both are 5 metres deep. It also says Rani is right that the lake has a much bigger total force, because it pushes on a much bigger area.. *Why:* Both have a point. The push on each bit is the same, as Rani's friend says. But the whole lake bed is far bigger, so the total force on it is bigger. That is the part Rani has right.
 ### Think Like a Water Engineer (challenge) (challenge, 16 questions)
 1. (mcq) A dam holds back water 30 metres deep. Every 10 metres of water pushes about as hard as the air does. Leave out the air itself. About how many times as hard as the air does the water push at the bottom?  
-   Options: 3 times / 30 times / The same as the air  
+   Options: 30 times / The same as the air / 3 times  
    **Answer:** 3 times. *Why:* Every 10 metres of water adds about the push of the air. 30 divided by 10 is 3, so the water at the bottom pushes about 3 times as hard as the air does.
 2. (mcq) A diver is 20 metres down in the sea. Every 10 metres of water adds about as much push as the air at the surface. Counting the air too, about how many times the push at the surface does the diver feel?  
    Options: 2 times / 3 times / 20 times  
@@ -632,10 +632,10 @@ Anoop called her on the phone. 'Is your tap better?' 'Yes,' said Devika. 'Now th
    Options: 5 metres / 10 metres / 1 metre  
    **Answer:** 5 metres. *Why:* A jet can rise at most to the level of the water that feeds it, apart from small splashes. That is 5 metres above the nozzle.
 4. (mcq) A bucket has one hole 8 centimetres below the water surface and another 2 centimetres below. How do the speeds of the two jets compare?  
-   Options: The deeper jet is faster / They are the same / The shallower jet is faster  
+   Options: They are the same / The deeper jet is faster / The shallower jet is faster  
    **Answer:** The deeper jet is faster. *Why:* The push is bigger at the deeper hole, so the water leaves it faster.
 5. (mcq) A giraffe has a very high blood pressure. What is the best reason?  
-   Options: Her heart has to push blood up her long neck to her head / Giraffes are very heavy / Giraffes drink lots of water  
+   Options: Giraffes are very heavy / Her heart has to push blood up her long neck to her head / Giraffes drink lots of water  
    **Answer:** Her heart has to push blood up her long neck to her head. *Why:* Blood is a liquid, and the push needed to lift it grows with the height. A long neck needs a high pressure from the heart.
 6. (truefalse) A hydraulic machine can lift a heavy load with a small push and also with a small movement.  
    **Answer:** False. *Why:* False. A small push on a small piston gives a big force on a big piston, but the big piston moves much less. You trade distance for force.
@@ -667,16 +667,16 @@ Anoop called her on the phone. 'Is your tap better?' 'Yes,' said Devika. 'Now th
 
 ## Quiz
 1. (mcq) What does the push of water at a point depend on?  
-   Options: How deep the point is / How wide the container is / How much water is in the container  
+   Options: How wide the container is / How much water is in the container / How deep the point is  
    **Answer:** How deep the point is. *Why:* The push comes from the water straight above the point, so it depends on the depth only. The width and the amount of water do not change it.
 2. (mcq) When you dive deeper and deeper in a pool, your ears start to hurt. Why?  
-   Options: The push of the water on your ears gets bigger with depth / The water gets colder / The water gets lighter  
+   Options: The water gets colder / The push of the water on your ears gets bigger with depth / The water gets lighter  
    **Answer:** The push of the water on your ears gets bigger with depth. *Why:* The deeper you go, the more water there is above you, so it pushes harder on your ears.
 3. (mcq) A kettle has water in it. How high does the water stand in the spout, compared with the body?  
-   Options: The same height / Higher in the spout / Higher in the body  
+   Options: Higher in the spout / Higher in the body / The same height  
    **Answer:** The same height. *Why:* Water in joined containers settles at the same level, whatever their shapes.
 4. (mcq) A closed pipe is full of liquid. You push on a piston at one end. What happens?  
-   Options: The push goes to every part of the liquid / The push stays at the piston / The liquid disappears  
+   Options: The push stays at the piston / The liquid disappears / The push goes to every part of the liquid  
    **Answer:** The push goes to every part of the liquid. *Why:* A push on a trapped liquid is passed on equally to every part of it. This is why hydraulic machines work.
 5. (mcq) Why is the hull of a deep-diving submarine very thick?  
    Options: The push of the water is huge at great depth / To make it heavy / To make it shine  
@@ -690,7 +690,7 @@ Anoop called her on the phone. 'Is your tap better?' 'Yes,' said Devika. 'Now th
    Options: Making the water deeper above the taps / Painting the tank white / Making the pipe longer  
    **Answer:** Making the water deeper above the taps. *Why:* The push at a tap comes from the depth of the water above it. Colour does nothing, and a longer pipe usually slows the flow.
 9. (mcq) When you drink through a straw, what pushes the drink up the straw?  
-   Options: The air pressure on the drink in the glass / Your mouth, which pulls like a rope / The colour of the straw  
+   Options: Your mouth, which pulls like a rope / The air pressure on the drink in the glass / The colour of the straw  
    **Answer:** The air pressure on the drink in the glass. *Why:* Drawing in your breath lowers the pressure in the straw. The air pushing on the drink in the glass is what drives it up.
 10. (truefalse) A dam wall is built the same thickness all the way down.  
    **Answer:** False. *Why:* False. The push grows with depth, so the wall is thickest at the bottom.
@@ -698,7 +698,7 @@ Anoop called her on the phone. 'Is your tap better?' 'Yes,' said Devika. 'Now th
    Options: Honey, because it is heavier for its size / Coconut oil, because it is thicker / They push equally  
    **Answer:** Honey, because it is heavier for its size. *Why:* At the same depth, a liquid that is heavier for its size pushes harder. Honey is heavier for its size than water, and coconut oil is lighter than water.
 12. (mcq) A big piston has 10 times the area of a small piston, and the two are joined by a liquid. You push the small piston. What do you gain and what do you lose at the big piston?  
-   Options: Ten times the force, but the big piston moves one tenth as far / Ten times the force and ten times the distance / The same force but more distance  
+   Options: Ten times the force and ten times the distance / The same force but more distance / Ten times the force, but the big piston moves one tenth as far  
    **Answer:** Ten times the force, but the big piston moves one tenth as far. *Why:* The same pressure on a bigger area gives a bigger force. But the same amount of liquid moves the big piston a shorter way.
 
 ## Applications

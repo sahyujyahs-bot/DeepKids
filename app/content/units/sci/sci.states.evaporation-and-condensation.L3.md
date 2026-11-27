@@ -466,7 +466,7 @@ That night the rain stopped for a while. Nila went to the balcony and ran her fi
    Options: Into the floor tiles / Into the air, as water vapour / It was used up and is gone / Down the drain  
    **Answer:** Into the air, as water vapour. *Why:* The water evaporated. It became water vapour, an invisible gas, and mixed into the air. Picking 'used up and gone' means thinking water can be destroyed. It cannot: a cold surface can turn the vapour back into drops.
 2. (mcq) A cold water bottle is taken out of the fridge. Soon its outside is covered in drops. Where did the drops come from?  
-   Options: Water leaked through the bottle / Water vapour in the room's air condensed on the cold bottle / The fridge sprayed the bottle / The bottle is melting  
+   Options: Water leaked through the bottle / The fridge sprayed the bottle / Water vapour in the room's air condensed on the cold bottle / The bottle is melting  
    **Answer:** Water vapour in the room's air condensed on the cold bottle. *Why:* The cold bottle cools the water vapour in the air that touches it, and the vapour condenses into drops. A closed bottle cannot leak, and a steel bottle gets drops too.
 3. (truefalse) Water evaporates only when it boils.  
    **Answer:** False. *Why:* False. Water evaporates at any temperature. A mopped floor dries without being heated. Boiling is just very fast evaporation.
@@ -483,7 +483,7 @@ That night the rain stopped for a while. Nila went to the balcony and ran her fi
 9. (sort) Sort these. Is each one evaporation or condensation?  
    **Answer:** wet clothes drying on a line → Evaporation; drops under the lid of a rice pot → Condensation; a puddle shrinking in the sun → Evaporation; spectacles misting when you step out of an AC room → Condensation; a wet kolam drawing drying on the doorstep → Evaporation; dew on a scooter seat in the morning → Condensation. *Why:* In evaporation, water leaves something wet and goes into the air. In condensation, water comes out of the air onto something cold.
 10. (mcq) In the Closed Box Test, the cloth in the open box dried, but the cloth in the closed box stayed wet. What was different for the cloth in the closed box?  
-   Options: It had more water to begin with / The air in its box filled up with water vapour, so as much water landed back as left / It was in a colder place / Cloth cannot dry in plastic  
+   Options: The air in its box filled up with water vapour, so as much water landed back as left / It had more water to begin with / It was in a colder place / Cloth cannot dry in plastic  
    **Answer:** The air in its box filled up with water vapour, so as much water landed back as left. *Why:* Both cloths got the same water and the same place. Only the lid was different. In the closed box the vapour could not drift away, so water landed back as fast as it left.
 11. (order) Put the steps of the Closed Box Test in order.  
    **Answer:** ['Wet and squeeze two cloths the same way', 'Put one cloth in a closed box and one in an open box', 'Check both cloths every 30 minutes', 'Put ice on the closed lid and look for drops']. *Why:* First give both cloths the same start, then change only the lid, then watch, and last look for the trapped water vapour.
@@ -497,12 +497,12 @@ That night the rain stopped for a while. Nila went to the balcony and ran her fi
    **Answer:** A strong answer picks one and explains it with the science. For example, the iron is fastest because heat makes water evaporate very quickly, but a grown-up must do it and it uses electricity. Then it gives a fair point for another idea, such as the fan being free and safe, or the spare uniform needing no rush at all.. *Why:* All three can work, and each has a cost. The fan is slow on a humid day. The iron is fast but needs a grown-up and electricity. The spare uniform means wearing an older one.
 ### Damp Air and Cold Surfaces (stretch) (stretch, 15 questions)
 1. (mcq) Clothes take much longer to dry in Chennai in November than in May. Why?  
-   Options: Clothes are heavier in November / The damp November air makes water land back almost as fast as it leaves / Water only evaporates in summer / There is no wind in November  
+   Options: Clothes are heavier in November / Water only evaporates in summer / There is no wind in November / The damp November air makes water land back almost as fast as it leaves  
    **Answer:** The damp November air makes water land back almost as fast as it leaves. *Why:* In the northeast monsoon the air is very humid. Water still evaporates, but nearly as much lands back. In hot, dry May, much more leaves than lands back.
 2. (write) Just in front of a kettle's spout there is a clear gap. Then comes a white cloud. Higher up, the cloud vanishes. Explain each of the three parts.  
    **Answer:** In the gap, the water is invisible water vapour. A little further, the vapour cools in the air and condenses into tiny drops, the white cloud. Higher up, the drops evaporate again into the air, so the cloud vanishes.. *Why:* A strong answer uses both words: condensation for the white cloud, and evaporation for where it vanishes.
 3. (mcq) You wear spectacles. You walk out of a cold, air-conditioned shop into a hot, damp street in Kochi. What happens to your spectacles?  
-   Options: They mist up / They get hot and dry / Nothing happens  
+   Options: They get hot and dry / They mist up / Nothing happens  
    **Answer:** They mist up. *Why:* The spectacles are still cold from the shop. The street's damp air touches them, and its water vapour condenses into a mist of drops.
 4. (odd) Which one is the odd one out?  
    Options: Wet clothes drying / A puddle shrinking / Drops forming on a cold bottle / Sweat drying on your skin  
@@ -514,7 +514,7 @@ That night the rain stopped for a while. Nila went to the balcony and ran her fi
 7. (label) Label the drawing of a pot of dal cooking with a lid on: where water evaporates, where water vapour moves, where it condenses, and where drops fall back.  
    **Answer:** Evaporates at the top of the dal. Water vapour moves up through the space in the pot. It condenses on the underside of the lid. Drops fall back into the dal.. *Why:* A covered pot is a tiny water cycle: the same water goes up and comes back down.
 8. (mcq) Which of these would dry a wet cloth fastest?  
-   Options: Warm air that is still / Cool air that is still / Warm air with a breeze / Cool, damp air  
+   Options: Warm air with a breeze / Warm air that is still / Cool air that is still / Cool, damp air  
    **Answer:** Warm air with a breeze. *Why:* Warmth makes more particles escape, and a breeze carries the damp air away so fewer land back. Both together are fastest.
 9. (sort) Sort these. Does each one speed up drying or slow it down?  
    **Answer:** a fan → Speeds up drying; a lid → Slows down drying; sunshine → Speeds up drying; folding in a heap → Slows down drying; damp, rainy air → Slows down drying; spreading out wide → Speeds up drying. *Why:* Warmth, moving air and spreading out help water leave and get away. Lids, heaps and damp air make more water land back.
@@ -525,7 +525,7 @@ That night the rain stopped for a while. Nila went to the balcony and ran her fi
 12. (write) On a clear night, dew forms on a scooter parked in the open, but not on one parked under a shed. Why?  
    **Answer:** In the open, the scooter loses warmth to the clear sky and gets colder than the air, so water vapour condenses on it. Under the shed, the roof stops it cooling as much, so it stays too warm for dew.. *Why:* A strong answer says dew needs a surface that has cooled down, and the shed stops that cooling. William Wells found the same with covered wool.
 13. (mcq) On a hot, humid day, sweat stays on your skin and feels sticky. Why does it not dry quickly?  
-   Options: Humid air already holds a lot of water vapour, so evaporation slows down / Sweat cannot evaporate in hot weather / Your skin stops sweat from drying  
+   Options: Sweat cannot evaporate in hot weather / Humid air already holds a lot of water vapour, so evaporation slows down / Your skin stops sweat from drying  
    **Answer:** Humid air already holds a lot of water vapour, so evaporation slows down. *Why:* Damp air makes water land back almost as fast as it leaves, just as with a wet cloth on a monsoon day. So sweat dries slowly.
 14. (write) You want to test whether a thin cotton cloth dries faster than a thick towel. Name two things you must keep the same, and the one thing you change.  
    **Answer:** Keep the same amount of water in each, by squeezing them the same way. Keep the same place and time. Change only the kind of cloth.. *Why:* A strong answer names the things kept the same and says only one thing is changed, so the result can be trusted.
@@ -534,7 +534,7 @@ That night the rain stopped for a while. Nila went to the balcony and ran her fi
    **Answer:** A little water seeps through the clay and evaporates from the outside, taking warmth away. *Why:* Evaporation takes warmth away from what it leaves, just as it cools wet skin. The matka keeps cooling because water keeps evaporating from its outside.
 ### Leaving and Landing Back (challenge) (challenge, 15 questions)
 1. (mcq) A glass jar with a little water at the bottom is closed tightly and left on a table for a week. What happens to the amount of water?  
-   Options: It all evaporates / It stays nearly the same, because as many particles land back as leave / It grows bigger every day / It turns into ice  
+   Options: It all evaporates / It grows bigger every day / It turns into ice / It stays nearly the same, because as many particles land back as leave  
    **Answer:** It stays nearly the same, because as many particles land back as leave. *Why:* A tiny amount evaporates until the air in the jar is saturated. After that, leaving and landing back are equal, so the water stays almost the same for weeks.
 2. (write) In the Closed Box Test, the cloth stayed wet. Was evaporation still happening from the cloth? Use what you saw as evidence.  
    **Answer:** Yes. Drops formed under the cold lid, so water had left the cloth as vapour. The cloth stayed wet because the same amount of water landed back. When the lid came off, it dried.. *Why:* A strong answer uses the drops as evidence that water was leaving, and explains why the cloth stayed wet anyway.
@@ -553,7 +553,7 @@ That night the rain stopped for a while. Nila went to the balcony and ran her fi
 9. (fill) When air holds so much water vapour that as many particles land back on a wet thing as leave it, scientists say the air is ____.  
    **Answer:** ['saturated']. *Why:* Saturated air is why the cloth in the closed box could not dry.
 10. (mcq) In the Namib Desert it almost never rains. Why does a beetle there stand on top of a sand dune on foggy mornings, with their back raised?  
-   Options: To warm up in the sun / So fog drops collect on their back and run down to their mouth to drink / To look out for enemies / To dig a hole  
+   Options: To warm up in the sun / To look out for enemies / To dig a hole / So fog drops collect on their back and run down to their mouth to drink  
    **Answer:** So fog drops collect on their back and run down to their mouth to drink. *Why:* The beetle needs water and has no puddles to drink from. Fog drops condense and join on their back, then run down to their mouth. The dune top is where most fog blows past.
 11. (write) A solar still is a bowl of salty water under a clear plastic sheet in the sun. Clean drops of water gather on the sheet and run into a cup. Say where evaporation happens and where condensation happens.  
    **Answer:** Evaporation happens at the surface of the salty water, as the sun warms it. The salt stays behind. The water vapour condenses into clean drops on the cooler plastic sheet.. *Why:* A strong answer puts evaporation at the water and condensation at the cooler sheet, and says the salt stays behind.
@@ -574,40 +574,40 @@ That night the rain stopped for a while. Nila went to the balcony and ran her fi
 
 ## Quiz
 1. (mcq) What is evaporation?  
-   Options: Water vapour turning into drops / Liquid water turning into water vapour / Water turning into ice / Water soaking into the ground  
+   Options: Water vapour turning into drops / Water turning into ice / Water soaking into the ground / Liquid water turning into water vapour  
    **Answer:** Liquid water turning into water vapour. *Why:* Evaporation is liquid turning into gas. Picking 'water vapour turning into drops' mixes it up with condensation, its opposite.
 2. (mcq) What is condensation?  
    Options: Water vapour turning back into liquid water on something cold / Water getting hot / Water drying up / Ice melting  
    **Answer:** Water vapour turning back into liquid water on something cold. *Why:* Condensation is gas turning back into liquid. It needs something cold, like a bottle from the fridge.
 3. (mcq) Can water evaporate without boiling?  
-   Options: No, it must reach 100 degrees Celsius / Yes, at any temperature, only faster when warm / Only in the sun / Only at night  
+   Options: No, it must reach 100 degrees Celsius / Only in the sun / Only at night / Yes, at any temperature, only faster when warm  
    **Answer:** Yes, at any temperature, only faster when warm. *Why:* Puddles and mopped floors dry without boiling. Warmth only makes evaporation faster.
 4. (mcq) A wet cloth is put in a box, and the lid is closed tightly. What will happen after a day?  
    Options: The cloth will be dry / The cloth will still be wet, with drops on the inside of the box / The cloth will be frozen / The box will be empty  
    **Answer:** The cloth will still be wet, with drops on the inside of the box. *Why:* Water leaves the cloth, but the vapour cannot get out. The air in the box becomes saturated and as much water lands back as leaves.
 5. (mcq) Why does a fan help a wet uniform dry?  
-   Options: The fan makes the air hotter / The fan carries the damp air away from the cloth, so fewer water particles land back / The fan pushes the water out through the cloth / The fan makes the uniform lighter  
+   Options: The fan makes the air hotter / The fan pushes the water out through the cloth / The fan carries the damp air away from the cloth, so fewer water particles land back / The fan makes the uniform lighter  
    **Answer:** The fan carries the damp air away from the cloth, so fewer water particles land back. *Why:* A fan does not heat the air. It replaces the damp air next to the cloth with other air, so more water leaves than lands back.
 6. (mcq) Which day is best for drying clothes?  
-   Options: A rainy, still day / A warm, breezy, dry day / A cold, foggy morning / A humid, cloudy day  
+   Options: A warm, breezy, dry day / A rainy, still day / A cold, foggy morning / A humid, cloudy day  
    **Answer:** A warm, breezy, dry day. *Why:* Warmth helps particles escape, the breeze carries the damp away, and dry air has little water vapour to land back.
 7. (mcq) The lid is lifted off a pot of cooking rice. Drops of water hang under the lid. Where did they come from?  
-   Options: From the steel of the lid / From the rice water, which evaporated and condensed on the cooler lid / From the air in the kitchen only / From the gas flame  
+   Options: From the rice water, which evaporated and condensed on the cooler lid / From the steel of the lid / From the air in the kitchen only / From the gas flame  
    **Answer:** From the rice water, which evaporated and condensed on the cooler lid. *Why:* Hot water in the pot evaporates fast. The lid is cooler than the vapour, so the vapour condenses on it.
 8. (mcq) Where does the water dripping from an AC pipe come from?  
-   Options: From the water tank / From water vapour in the room's air, condensed on the cold parts inside the AC / From rain / The AC makes it from electricity  
+   Options: From water vapour in the room's air, condensed on the cold parts inside the AC / From the water tank / From rain / The AC makes it from electricity  
    **Answer:** From water vapour in the room's air, condensed on the cold parts inside the AC. *Why:* The room's air is blown over very cold metal inside the AC, and its water vapour condenses there and drips out.
 9. (mcq) You want to test whether a fan makes a cloth dry faster. Which is a fair test?  
    Options: One cloth under a fan in the sun, and one with no fan in the shade / Two identical wet cloths in the same place, one with a fan and one without / One big towel under a fan, and a small hanky without one / One cloth under a fan today, and one without tomorrow  
    **Answer:** Two identical wet cloths in the same place, one with a fan and one without. *Why:* In a fair test only one thing changes. The other choices change two things at once: the sun, the size, or the day.
 10. (mcq) On a clear, still night, the grass gets colder than the air above it. By morning, the grass is covered in dew. Where did the dew come from?  
-   Options: It fell from the sky like fine rain / Water vapour in the air condensed on the cold grass / It came up out of the soil / The Moon made it  
+   Options: It fell from the sky like fine rain / It came up out of the soil / The Moon made it / Water vapour in the air condensed on the cold grass  
    **Answer:** Water vapour in the air condensed on the cold grass. *Why:* Cold surfaces turn water vapour back into drops, just like a cold bottle from the fridge. The grass cooled first, then the vapour in the air touching it condensed. Dew does not fall like rain.
 11. (mcq) The white cloud above a boiling kettle is made of what?  
-   Options: Water vapour / Tiny drops of liquid water / Smoke / Air  
+   Options: Tiny drops of liquid water / Water vapour / Smoke / Air  
    **Answer:** Tiny drops of liquid water. *Why:* The vapour itself is invisible. It condenses into tiny drops in the cooler air, and those drops make the white cloud.
 12. (mcq) A wet cloth in the open air is drying. What is happening at its surface?  
-   Options: Water is only leaving / Water is leaving and landing back, but more leaves than lands back / Water is only landing back / Nothing is happening  
+   Options: Water is leaving and landing back, but more leaves than lands back / Water is only leaving / Water is only landing back / Nothing is happening  
    **Answer:** Water is leaving and landing back, but more leaves than lands back. *Why:* At every wet surface both happen at once. The cloth dries because more particles leave than land back.
 
 ## Applications

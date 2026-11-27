@@ -652,7 +652,7 @@ Tuli took the feather. Before she began, she touched the shy plant, very gently,
 2. (fill) Getting energy out of food, inside every cell of the body, is called ____.  
    **Answer:** ['respiration']. *Why:* Respiration happens in every cell, all day and all night. Most living things use oxygen for it.
 3. (mcq) Many people think breathing and respiration mean the same thing. Which sentence is right?  
-   Options: They are two words for the same thing / Respiration happens only inside the lungs / Only animals respire / Breathing moves air in and out of the lungs. Respiration happens in every cell and gets energy from food  
+   Options: Breathing moves air in and out of the lungs. Respiration happens in every cell and gets energy from food / They are two words for the same thing / Respiration happens only inside the lungs / Only animals respire  
    **Answer:** Breathing moves air in and out of the lungs. Respiration happens in every cell and gets energy from food. *Why:* Breathing brings in the oxygen that respiration uses. Respiration itself happens in every cell, even in plants, which have no lungs. A strong answer keeps the two words apart.
 4. (truefalse) A tulsi plant on the balcony shows movement, even though the plant never walks anywhere.  
    **Answer:** True. *Why:* True. Plants move by growing. Their leaves turn to the light and their roots grow down. A touch-me-not plant can even fold their leaves in a second.
@@ -662,14 +662,14 @@ Tuli took the feather. Before she began, she touched the shy plant, very gently,
    Options: That boiling makes seeds grow faster / That water alone does not make a seed grow. The seed must be alive too / That cotton is alive / That seeds do not need water  
    **Answer:** That water alone does not make a seed grow. The seed must be alive too. *Why:* The boiled seeds got the same water as the soaked seeds, but never grew. So water was not the difference. Life was. A strong answer says what cup C was compared with: cup A.
 7. (mcq) In the balloon test, bottle B had yeast and warm water, but no sugar. Before you try it, predict what bottle B's balloon will do.  
-   Options: Grow the most of all three / Burst / Grow only a little, because the yeast have almost no food / Get smaller  
+   Options: Grow the most of all three / Burst / Get smaller / Grow only a little, because the yeast have almost no food  
    **Answer:** Grow only a little, because the yeast have almost no food. *Why:* Yeast are alive and need food to give out gas. Sugar is their food. Without sugar, they make very little gas. Picking 'grow the most' forgets that living things need food.
 8. (truefalse) A child grows taller because the child's body builds new cells out of the food eaten.  
    **Answer:** True. *Why:* True. Living things grow from inside. Cells use food to build new cells, so the body gets bigger. A cloud or a crystal only gets bigger when more stuff is added to the outside.
 9. (fill) Breathing out carbon dioxide, sweating and passing wee all get rid of waste from inside the body. This sign of life is called ____.  
    **Answer:** ['excretion']. *Why:* Excretion is getting rid of waste that the body made. Plants excrete too, through tiny holes in their leaves.
 10. (mcq) A dry neem leaf lies on the ground. Which is the best evidence that the leaf is no longer alive?  
-   Options: The leaf no longer takes in water or grows, and will never make anything new / The leaf is brown / The leaf is on the ground / The leaf is very light  
+   Options: The leaf is brown / The leaf is on the ground / The leaf is very light / The leaf no longer takes in water or grows, and will never make anything new  
    **Answer:** The leaf no longer takes in water or grows, and will never make anything new. *Why:* Colour, place and weight do not tell you about life. What matters is what the leaf does. A dead leaf does none of the signs of life, so the leaf is once alive.
 11. (write) Explain to a younger child why a cloud is not alive, even though a cloud moves and grows. Write what you could say.  
    **Answer:** You could say: 'A cloud moves because the wind pushes it. A cloud grows because more water vapour in the air cools into drops. It does not eat, respire or make baby clouds. Living things do all seven signs, not just one or two.'. *Why:* A strong answer explains why the cloud moves and grows, then names signs the cloud does not show.
@@ -683,10 +683,10 @@ Tuli took the feather. Before she began, she touched the shy plant, very gently,
    **Answer:** A strong answer uses a sign of life. For the mother: the bacteria in curd make more of themselves in warm milk, which is reproduction. For the grandmother: the living part is the bacteria, not the whole bowl. For the classmate: most of the curd really is changed milk. Then a strong answer says what is true in another person's view.. *Why:* Each person sees something true. A strong answer gives evidence, like setting curd from milk, and is fair to another side.
 ### Life on Trial (stretch) (stretch, 15 questions)
 1. (mcq) A money plant sits in a closed jar world, in the dark, for one whole night. What is the plant doing?  
-   Options: Nothing at all until the morning / Making food from moonlight / Respiring: using sugar and oxygen for energy, and giving out carbon dioxide / Breathing with tiny lungs  
+   Options: Respiring: using sugar and oxygen for energy, and giving out carbon dioxide / Nothing at all until the morning / Making food from moonlight / Breathing with tiny lungs  
    **Answer:** Respiring: using sugar and oxygen for energy, and giving out carbon dioxide. *Why:* Plants respire all the time, day and night, like animals. In the dark they cannot make food, so they only respire. A strong answer names respiration and the gas given out.
 2. (mcq) Which of these is NOT true excretion, because it is mostly food the body could not use?  
-   Options: Doing poo / Passing wee / Sweating / Breathing out carbon dioxide  
+   Options: Passing wee / Sweating / Doing poo / Breathing out carbon dioxide  
    **Answer:** Doing poo. *Why:* Poo is mostly water, gut bacteria and food that was never digested. Scientists call it egestion. Wee, sweat and carbon dioxide are waste made inside the body. A strong answer says where each waste comes from.
 3. (mcq) You count 11 breaths in 15 seconds, just after skipping. How many breaths is that in one minute?  
    Options: 11 / 26 / 44 / 60  
@@ -704,12 +704,12 @@ Tuli took the feather. Before she began, she touched the shy plant, very gently,
 9. (perspective) In 2014, scientists dropped touch-me-not plants a short, harmless distance again and again. After a while, the plants stopped folding their leaves when dropped. Weeks later, they still did not fold when dropped. But they did fold when shaken in a new way.  
    **Answer:** A strong answer uses the evidence. The plants still folded when shaken in a new way, so they were not just tired. That supports Gagliano. A strong answer also admits that one test is not enough, and that scientists still argue about the words.. *Why:* This is a real argument among scientists. There is no single right answer. A strong answer uses the shaking result.
 10. (mcq) A crow's feather has fallen onto the balcony. Which of these is true?  
-   Options: The feather is still alive / The feather was never alive / The feather comes alive when wet / The feather is once alive. The feather was part of a living crow, but no longer grows  
+   Options: The feather is once alive. The feather was part of a living crow, but no longer grows / The feather is still alive / The feather was never alive / The feather comes alive when wet  
    **Answer:** The feather is once alive. The feather was part of a living crow, but no longer grows. *Why:* A feather grew on a living bird, so the feather is once alive. On the balcony, the feather does none of the signs of life. The crow, flying off somewhere, is still alive.
 11. (truefalse) A flower picked from a plant is still alive for a while.  
    **Answer:** True. *Why:* True. A freshly picked flower still takes in water and respires for a few days. Then the flower slowly dies, because they can no longer get food and water from the plant.
 12. (mcq) You turn a sprouting moong seed upside down, so the root points up. Predict what the root will do over the next day.  
-   Options: Keep growing upwards / Stop growing for ever / Bend round and grow downwards again / Fall off the seed  
+   Options: Keep growing upwards / Stop growing for ever / Fall off the seed / Bend round and grow downwards again  
    **Answer:** Bend round and grow downwards again. *Why:* Roots sense gravity and grow down, wherever the seed is facing. This is sensing and movement at the same time.
 13. (fill) A green plant makes sugar as food, using sunlight, air and ____.  
    **Answer:** ['water']. *Why:* Plants take in water through their roots, carbon dioxide from the air and energy from sunlight, and make sugar. The soil gives water and minerals, not food.
@@ -723,10 +723,10 @@ Tuli took the feather. Before she began, she touched the shy plant, very gently,
 2. (perspective) Your body keeps replacing many of its cells. Your red blood cells last only about four months. A girl aged 10, her brother aged 8 and their grandmother talk about it.  
    **Answer:** A strong answer uses a fact from the unit, like cells being replaced or atoms coming from food, and is fair to another side. Many people end up close to the grandmother: the stuff changes, the pattern stays.. *Why:* This is an old question with no single right answer. A strong answer gives a reason, not just a feeling.
 3. (mcq) Predict: what happens to a moong seedling kept in total darkness for three weeks, with water but no light?  
-   Options: They stay healthy for ever / They turn back into a seed / They grow tall and pale, use up their stored food, and then die / They make food from water alone  
+   Options: They stay healthy for ever / They turn back into a seed / They make food from water alone / They grow tall and pale, use up their stored food, and then die  
    **Answer:** They grow tall and pale, use up their stored food, and then die. *Why:* A seedling lives on the food stored in the seed at first. After that, they need light to make food. In the dark, the store runs out. All the energy in a plant's food comes from the Sun.
 4. (mcq) In the 1860s, Louis Pasteur, a French scientist, boiled soup in a flask with a long, bent neck. Dust from the air got stuck in the bend. The soup stayed clear for months. When he broke the neck off, the soup went cloudy with tiny living things. What did this show?  
-   Options: The tiny living things came in on dust from the air. They did not grow out of the soup / Soup turns into living things by itself / Boiling makes soup alive / The glass flask was alive  
+   Options: Soup turns into living things by itself / The tiny living things came in on dust from the air. They did not grow out of the soup / Boiling makes soup alive / The glass flask was alive  
    **Answer:** The tiny living things came in on dust from the air. They did not grow out of the soup. *Why:* The soup only went cloudy when dust could fall in. So living things come only from other living things. A strong answer explains why the bent neck mattered.
 5. (mcq) All living things on Earth, from bacteria to banyan trees to you, use the same kind of instructions, called DNA. What do most scientists think this shows?  
    Options: People put DNA into living things / Only animals have DNA / All life on Earth is related, from one shared ancestor long ago / All living things are the same size  
@@ -738,12 +738,12 @@ Tuli took the feather. Before she began, she touched the shy plant, very gently,
 8. (write) Moss on a dry wall looks brown and dead in April. After the first rain, the moss turns green again. Is the dry moss alive? Use the seed test to back up your answer.  
    **Answer:** The dry moss is alive, but resting, like the dry seeds in cup B. The dry seeds did nothing until they got water, then they sprouted. Boiled seeds never did. The moss also wakes up with water, so the moss was dormant, not dead.. *Why:* A strong answer compares the moss with the dry seeds and says why 'dead' cannot be right: dead things never wake.
 9. (mcq) A friend says: 'Plants get their food from the soil. That is why they need soil.' What is the mistake?  
-   Options: Plants make their own food from air, water and sunlight. Soil gives them water and minerals, not food energy / Plants eat insects from the soil / Plants do not need any food / There is no mistake  
+   Options: Plants eat insects from the soil / Plants do not need any food / Plants make their own food from air, water and sunlight. Soil gives them water and minerals, not food energy / There is no mistake  
    **Answer:** Plants make their own food from air, water and sunlight. Soil gives them water and minerals, not food energy. *Why:* This is one of the most common ideas, even among grown-ups. In the 1600s, Jan Baptist van Helmont grew a willow tree in a pot for five years. The tree gained a lot of weight, but the soil lost almost none.
 10. (truefalse) Scientists have made a whole living cell from scratch, starting only with non-living chemicals.  
    **Answer:** False. *Why:* False. Scientists have built a full set of DNA and put it into a bacterium, where the DNA worked. But nobody has yet built a whole living cell from non-living chemicals.
 11. (mcq) What would happen to the animals in a forest if the Sun stopped shining for a whole year?  
-   Options: Nothing, because animals do not need the Sun / Only the plants would be affected / The plants could not make food, so plant-eaters and then meat-eaters would starve / The animals would eat soil instead  
+   Options: Nothing, because animals do not need the Sun / Only the plants would be affected / The animals would eat soil instead / The plants could not make food, so plant-eaters and then meat-eaters would starve  
    **Answer:** The plants could not make food, so plant-eaters and then meat-eaters would starve. *Why:* Almost all the energy in food starts as sunlight caught by plants. Every food chain in the forest leads back to the plants, and the plants lead back to the Sun.
 12. (order) Follow one carbon atom on a journey. Put the steps in order.  
    **Answer:** [0, 1, 2, 3, 4]. *Why:* The same atoms move between air, plants and animals, again and again. Living and non-living things share the same atoms.
@@ -762,41 +762,41 @@ Tuli took the feather. Before she began, she touched the shy plant, very gently,
 
 ## Quiz
 1. (mcq) A dog hears her name, pricks up her ears and runs to the door. Which two signs of life is she showing?  
-   Options: Growth and excretion / Nutrition and reproduction / Sensing and movement / Respiration and growth  
+   Options: Sensing and movement / Growth and excretion / Nutrition and reproduction / Respiration and growth  
    **Answer:** Sensing and movement. *Why:* Hearing her name is sensing. Running to the door is movement. Respiration is going on too, inside her cells, but you cannot see it here.
 2. (mcq) A hen's eggs hatch into chicks. Which sign of life is this?  
-   Options: Growth / Reproduction / Nutrition / Sensing  
+   Options: Growth / Nutrition / Sensing / Reproduction  
    **Answer:** Reproduction. *Why:* Reproduction is making young of your own kind. The chicks will grow up into hens and roosters.
 3. (mcq) You are filling in a seven-signs table for a steel spoon. How many signs of life should you tick?  
-   Options: One / Three / None / All seven  
+   Options: One / Three / All seven / None  
    **Answer:** None. *Why:* A spoon does not feed, respire, grow, move by itself, sense, excrete or make young. Steel was never part of a living thing.
 4. (mcq) A ceiling fan moves round and round very fast. Why is moving not enough to show that the fan is alive?  
-   Options: Non-living things can move too. A living thing shows all the signs together / The fan moves too fast / Fans are made of metal / Moving is not a sign of life  
+   Options: The fan moves too fast / Fans are made of metal / Non-living things can move too. A living thing shows all the signs together / Moving is not a sign of life  
    **Answer:** Non-living things can move too. A living thing shows all the signs together. *Why:* Moving is a sign of life, but clouds, rivers and fans move too. One sign alone is never enough.
 5. (truefalse) If a thing grows bigger, that proves it is alive.  
    **Answer:** False. *Why:* False. A cloud grows bigger, and so does a salt crystal. Living things grow from inside, using food. One sign is not enough.
 6. (mcq) You test yeast in two bottles of warm water. You add sugar to one bottle and not to the other. What are you testing?  
-   Options: Whether yeast need warmth / Whether the bottles are alive / Whether water is alive / Whether yeast need sugar, their food, to make gas  
+   Options: Whether yeast need sugar, their food, to make gas / Whether yeast need warmth / Whether the bottles are alive / Whether water is alive  
    **Answer:** Whether yeast need sugar, their food, to make gas. *Why:* Only one thing changed, the sugar. So any difference in the balloons must come from the sugar. That makes it a fair test.
 7. (mcq) In the seed test, the three wet cups got the same amount of water, and all four cups sat in the same warm place. Why?  
-   Options: So that the cups look neat / So that the only difference between the cups was what was in them: soaked, dry or boiled seeds, or beads / Because seeds only grow in a row / So the cotton does not dry out  
+   Options: So that the cups look neat / Because seeds only grow in a row / So that the only difference between the cups was what was in them: soaked, dry or boiled seeds, or beads / So the cotton does not dry out  
    **Answer:** So that the only difference between the cups was what was in them: soaked, dry or boiled seeds, or beads. *Why:* A fair test keeps everything the same except the one thing you are testing. Then any difference must come from that one thing.
 8. (mcq) In sunlight, a green plant gives out more of one gas than they use up. Which gas?  
-   Options: Carbon dioxide / Smoke / Oxygen / Steam  
+   Options: Carbon dioxide / Smoke / Steam / Oxygen  
    **Answer:** Oxygen. *Why:* In sunlight, plants make food and give out oxygen. They also respire and use some oxygen, but they make more than they use.
 9. (truefalse) A touch-me-not plant senses a touch and folds their leaflets within a second or two.  
    **Answer:** True. *Why:* True. This shows two signs of life at once: sensing and movement.
 10. (mcq) A wooden cricket bat is…  
-   Options: Alive / Never alive / Once alive  
+   Options: Alive / Once alive / Never alive  
    **Answer:** Once alive. *Why:* Wood comes from a tree that was alive. The bat does no signs of life now, so the bat is once alive.
 11. (mcq) A clay pot is…  
    Options: Alive / Once alive / Never alive  
    **Answer:** Never alive. *Why:* Clay comes from the earth. It was never part of a living thing. A plant growing in the pot is alive, but the pot is not.
 12. (mcq) Where did the energy in a glass of milk come from, in the end?  
-   Options: The cow's drinking water / The fridge / The soil / The Sun  
+   Options: The cow's drinking water / The fridge / The Sun / The soil  
    **Answer:** The Sun. *Why:* The cow ate grass. The grass caught sunlight and stored its energy as food. So the energy in milk began as sunlight.
 13. (mcq) Which of these questions do scientists still not know the answer to?  
-   Options: Whether plants need water / Whether yeast are alive / How the very first living thing on Earth began / Whether a stone is alive  
+   Options: Whether plants need water / Whether yeast are alive / Whether a stone is alive / How the very first living thing on Earth began  
    **Answer:** How the very first living thing on Earth began. *Why:* There are ideas, like warm ponds or hot springs deep in the sea, but nobody knows yet. The other questions have been answered by tests.
 
 ## Applications

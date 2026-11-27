@@ -400,7 +400,7 @@ The snail did not say anything. But the next morning, the cabbage was full of ho
    Options: A wooden spoon / A cotton towel / A steel tumbler / A dry leaf  
    **Answer:** 2. *Why:* The wooden spoon came from a tree. Cotton comes from a cotton plant. The dry leaf was on a tree. The steel tumbler was never part of a living thing.
 7. (mcq) In the Droopy Mint experiment, the droopy mint stood up in water. The paper leaf did not. Why?  
-   Options: The mint was still alive / The paper leaf was too big / The mint was heavier  
+   Options: The paper leaf was too big / The mint was heavier / The mint was still alive  
    **Answer:** The mint was still alive. *Why:* Living mint fills up with water and goes firm. Paper only soaks up water and goes soggy. So the mint was still alive.
 8. (draw) Draw one living thing you can see from your window.  
    **Answer:** Any living thing: a crow, a pigeon, a tree, a plant, a dog or a person.. *Why:* A strong drawing shows a real living thing from the window, not a car or a building.
@@ -420,7 +420,7 @@ The snail did not say anything. But the next morning, the cabbage was full of ho
    **Answer:** Any pair, such as a chick and a hen, or a caterpillar and a butterfly.. *Why:* Young living things grow up to be like their parents. A strong drawing shows the same kind of animal, small and grown-up.
 ### Tricky Cases (stretch) (stretch, 15 questions)
 1. (mcq) Is a potato alive?  
-   Options: No, a potato never moves / Yes, a potato can grow shoots / No, a potato is food  
+   Options: No, a potato never moves / No, a potato is food / Yes, a potato can grow shoots  
    **Answer:** Yes, a potato can grow shoots. *Why:* A potato left in a dark cupboard grows shoots after some weeks. A potato is alive, resting until the right time to grow. Being food does not stop a thing being alive.
 2. (draw) Draw the droopy mint sprig before going into water, and the same sprig after one hour in water.  
    **Answer:** A droopy mint sprig in the first picture, and the same sprig standing up in the second.. *Why:* Living mint takes in water and stands up firm. A strong drawing shows the change clearly.
@@ -443,7 +443,7 @@ The snail did not say anything. But the next morning, the cabbage was full of ho
 10. (match) Match each sign of life to what you saw.  
    **Answer:** Breathing → a cloudy patch on the steel plate; Growing → a baby sock that no longer fits; Having young → the seeds inside a tomato; Eating → a snail scraping a cabbage leaf. *Why:* Each thing we did showed one sign of life. A strong answer can say which activity showed each one.
 11. (mcq) An empty snail shell is lying behind a pot. What is it?  
-   Options: Alive / Once alive / Never alive  
+   Options: Once alive / Alive / Never alive  
    **Answer:** Once alive. *Why:* The shell was once part of a living snail, so the shell was once alive. No snail lives in the shell now.
 12. (write) Say out loud, and a grown-up writes it down: in the Droopy Mint experiment, why did we leave one droopy mint sprig on a dry plate?  
    **Answer:** To see what happens without water. The sprig on the plate stayed droopy, so the water made the other mint stand up.. *Why:* A strong answer says the sprig on the dry plate shows what happens without water. Without that sprig, we could not be sure the water made the difference.
@@ -464,28 +464,28 @@ The snail did not say anything. But the next morning, the cabbage was full of ho
    Options: A coconut shell / A stone / A dry leaf  
    **Answer:** A stone. *Why:* A stone was never part of a living thing. The coconut shell and the dry leaf came from trees, so they were once alive.
 2. (mcq) Which one is alive now?  
-   Options: A wooden spoon / A crow on the window / A steel plate  
+   Options: A wooden spoon / A steel plate / A crow on the window  
    **Answer:** A crow on the window. *Why:* The crow eats, flies, breathes and lays eggs. The wooden spoon was once alive. The steel plate was never alive.
 3. (mcq) A cotton shirt is…  
-   Options: alive / once alive / never alive  
+   Options: alive / never alive / once alive  
    **Answer:** once alive. *Why:* Cotton comes from the cotton plant. The shirt is not alive now, but it was part of a living plant.
 4. (mcq) Which of these is a sign of life?  
-   Options: Being shiny / Growing / Being hard  
+   Options: Being shiny / Being hard / Growing  
    **Answer:** Growing. *Why:* Living things grow. A steel spoon is shiny and hard, and was never alive.
 5. (mcq) You breathed on a cool steel plate. What did you see?  
-   Options: Nothing / A cloudy patch / A red spot  
+   Options: Nothing / A red spot / A cloudy patch  
    **Answer:** A cloudy patch. *Why:* Your breath is warm and wet. On a cool plate it makes a cloudy patch. Breathing is a sign of life.
 6. (mcq) Is a tulsi plant alive?  
    Options: No, the plant stays in the pot / Yes, the plant grows and makes seeds / Only in the morning  
    **Answer:** Yes, the plant grows and makes seeds. *Why:* Plants grow, make food, breathe and make seeds. Staying in one place does not mean a thing is not alive.
 7. (mcq) What is the young of a cow called?  
-   Options: A kid / A calf / A chick  
+   Options: A calf / A kid / A chick  
    **Answer:** A calf. *Why:* A calf is the young of a cow. A kid is a young goat. A chick is a young bird.
 8. (mcq) A tadpole grows up to be…  
    Options: a fish / a frog / a snail  
    **Answer:** a frog. *Why:* A tadpole hatches from a frog's egg, grows legs and loses the tail, and becomes a frog.
 9. (mcq) In the Droopy Mint experiment, what happened to the droopy mint in water?  
-   Options: The mint stood up firm again / The mint went soggy like paper / Nothing happened  
+   Options: The mint went soggy like paper / The mint stood up firm again / Nothing happened  
    **Answer:** The mint stood up firm again. *Why:* The mint stood up, because the picked mint was still alive and filled up with water. The paper only went soggy.
 10. (mcq) A toy robot walks and talks. Is the robot alive?  
    Options: Yes, because the robot walks / No, the robot does not eat, grow or have young / Yes, because the robot talks  

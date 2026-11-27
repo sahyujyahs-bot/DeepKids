@@ -1,0 +1,739 @@
+{
+ "id": "sci.energy.renewable-and-not.L3",
+ "title": "Renewable and non-renewable energy: what runs out, what comes back, and who decides",
+ "level": 3,
+ "summary": {
+  "text": "A lump of coal and a gust of wind can both light the same bulb. So why do people say that one will run out and the other will not? In this lesson you sort energy sources by how fast they come back after we use them. You find that coal, oil and gas are sunlight caught by living beings hundreds of millions of years ago, and that wind, rain and firewood are sunlight caught this week or this year. Then you test, with two bowls of beans, how a source that comes back can still run out when we take too fast.",
+  "art": "A kitchen at dusk with one glowing bulb, and two faint paths leading to it: one from a black lump of coal and one from a white wind turbine on a hill."
+ },
+ "intro": {
+  "hook": "Look at a bulb, a fan or a phone charger in your home. The electricity in the wire looks the same every day. Can you tell, by looking, if it came from burning coal or from the wind?",
+  "text": "You cannot tell. Electricity from a coal power station and electricity from a wind turbine are exactly alike when they reach your wall. The difference lies far away, at the place where the energy was collected. Some of those places are being emptied. Others are filled again every morning. Today you will find out which is which, and why the answer is less simple than two boxes.",
+  "art": "A child looking closely at a wall socket, with a thought bubble showing a question mark between a coal heap and a wind turbine."
+ },
+ "outcomes": [
+  "I can say what an energy source is and name six that my family uses.",
+  "I can sort energy sources into renewable and non-renewable, and give the reason for each.",
+  "I can explain why coal, oil and gas are called fossil fuels and why they cannot be made again in our lifetimes.",
+  "I can show, with a model, that a renewable source runs out if we take from it faster than it comes back.",
+  "I can trace wind, rain, firewood and coal back to the Sun.",
+  "I can give one good thing and one problem for coal, for a big dam, for solar panels and for nuclear power.",
+  "I can name three ways my family can use less energy, and say why using less matters in India."
+ ],
+ "explanations": [
+  {
+   "concept": "An energy source is a place we collect energy from",
+   "status": "idea",
+   "definition": "An energy source is anything we can collect energy from to make things move, heat up, light up or grow.",
+   "description": "Energy is what it takes to make something happen: to move, to warm, to light, to grow. We cannot make energy. We can only collect it from somewhere and pass it on. The place we collect it from is called an energy source. Rice is an energy source for your body. Cooking gas is an energy source for the stove. Sunlight is an energy source for a paddy field. Scientists can count energy and follow it from place to place. But nobody can say what energy finally is. The physicist Richard Feynman wrote that physics has no knowledge of what energy is. We know how to use the word, and the rest is an open question.",
+   "examples": [
+    "Idli and sambar are the energy source for your morning run.",
+    "A cylinder of cooking gas is the energy source for the dosa tawa.",
+    "Diesel is the energy source for a bus, and electricity is the energy source for a metro train.",
+    "Sunlight is the energy source for a neem tree, who uses it to build leaves, wood and seeds."
+   ],
+   "perspectives": [
+    {
+     "who": "Physicists, following Richard Feynman in his Lectures on Physics, volume 1, chapter 4",
+     "explanation": "Energy is a number we can calculate. When things change, the number stays the same. That rule has never failed. It does not tell us what energy is made of."
+    },
+    {
+     "who": "Engineers who run power stations",
+     "explanation": "A source matters only if energy can be collected from it at a cost people can pay. Lightning holds a lot of energy, but nobody can catch it usefully, so engineers do not count it as a source."
+    },
+    {
+     "who": "Yoga and Ayurveda teachers in India",
+     "explanation": "They speak of prana, the life-force carried by breath and food. This is an older idea than the physicist's energy and it is not measured in the same way. The two words should not be mixed up."
+    }
+   ],
+   "art": "Four small pictures in a row: a plate of idlis beside a running child, a gas cylinder beside a stove, a diesel pump beside a bus, and the Sun above a neem tree.",
+   "context": "This card says what an energy source is, and admits that science cannot yet say what energy itself is."
+  },
+  {
+   "concept": "A fuel is a store of energy that we burn",
+   "status": "defined",
+   "definition": "A fuel is a material that holds stored energy and gives it out as heat and light when it burns.",
+   "description": "Many energy sources are fuels. A fuel is something we burn. Burning lets out the energy that was stored inside the fuel. Firewood, dried cow dung cakes, coal, kerosene, petrol, diesel and cooking gas are all fuels. After a fuel burns, the fuel is gone. You are left with ash, smoke and gases. The energy has not vanished. It has spread out into the room as warmth. But you cannot gather that warmth up and burn it again. So a fuel can be used only once.",
+   "examples": [
+    "One cooking gas cylinder holds about 14 kilograms of gas. A family of four uses it up in about a month or two.",
+    "A candle is a fuel. The wax gets shorter as it burns, because the wax is what is burning.",
+    "A wood fire leaves a small heap of ash. Most of the wood has gone into the air as gases you cannot see.",
+    "Sunlight and wind are energy sources, but they are not fuels, because nothing is burnt."
+   ],
+   "perspectives": [],
+   "one_view": "What a fuel is and what burning does to it are agreed by everyone who has measured them.",
+   "art": "A candle drawn three times, tall, half and a stub, with wavy lines of warmth spreading away from the flame.",
+   "context": "This card explains the word fuel, which the next cards use many times."
+  },
+  {
+   "concept": "A renewable source comes back about as fast as we use it",
+   "status": "defined",
+   "definition": "A renewable energy source is one that nature replaces within days, seasons or a few years, so it can be used again and again.",
+   "description": "Some sources fill up again soon after we take from them. The Sun shines again tomorrow. The wind blows again next week. Rain fills the river again next monsoon. A field that gave rice this year can give rice next year. Sources like these are called renewable. The word means 'able to be made new again'. The important part is the time. A renewable source comes back in a time that people can wait for: a day, a season, a few years.",
+   "examples": [
+    "Sunlight comes back every morning.",
+    "A river in Kerala runs low in April and fills again by July.",
+    "A bamboo clump cut this year can be cut again in about three to five years.",
+    "Wind at Muppandal in Tamil Nadu blows hardest from May to September, every year."
+   ],
+   "perspectives": [],
+   "one_view": "This is the meaning of the word that scientists, governments and school boards share. The next cards show where the simple meaning gets harder.",
+   "art": "A calendar page with a sunrise, a filling river, a growing bamboo shoot and a turning wind turbine, each with a small arrow curving back to its start.",
+   "context": "This card gives the plain meaning of renewable: the source comes back in a time people can wait for."
+  },
+  {
+   "concept": "A non-renewable source takes millions of years to form",
+   "status": "defined",
+   "definition": "A non-renewable energy source is one that forms so slowly that, once we use it, it will not come back for millions of years.",
+   "description": "Coal, oil and natural gas are non-renewable. They do form in nature, but very slowly. Most of India's coal took shape from forests that grew about 250 to 300 million years ago. People started burning coal in large amounts only about 250 years ago. So we are using in a few hundred years what took millions of years to make. That is like filling a bucket one drop each year and then emptying it with a mug. New coal is still forming in swamps today. It will be ready long after anyone we can imagine.",
+   "examples": [
+    "Coal is dug at Jharia in Jharkhand, Talcher in Odisha, Singareni in Telangana and Neyveli in Tamil Nadu.",
+    "Oil is pumped from under the sea at Bombay High, off Mumbai, and from the ground at Digboi in Assam, where oil was struck in 1889.",
+    "Petrol, diesel, kerosene and most cooking gas are all made from oil and natural gas.",
+    "A coal mine that is emptied stays empty. No mine has ever filled up again."
+   ],
+   "perspectives": [],
+   "one_view": "The ages of coal and oil are measured from the rocks around them, and geologists agree on them.",
+   "art": "A long timeline with a tiny slice at the right end labelled 'people burning coal' and a huge stretch on the left labelled 'coal forming'.",
+   "context": "This card gives the plain meaning of non-renewable and the numbers behind it."
+  },
+  {
+   "concept": "Coal, oil and gas are the remains of ancient living beings",
+   "status": "defined",
+   "definition": "A fossil fuel is a fuel formed from the buried remains of plants and tiny sea beings that lived millions of years ago.",
+   "description": "Coal began as living plants. Long ago, tall plants grew in warm swamps. When they died, they fell into the water and were covered by mud before they could rot. More mud piled on top. Over millions of years the weight and the heat of the Earth pressed the plants into black rock, which is coal. Oil and gas began in the sea. Tiny beings floated near the surface, as they still do today. When they died they sank and were buried in mud. Heat and pressure slowly turned them into oil and gas. A fossil is a trace of ancient life kept in rock. So these three are called fossil fuels.",
+   "examples": [
+    "Miners sometimes find the print of a leaf or a piece of tree bark pressed into a slab of coal.",
+    "Oil did not come from dinosaurs. Most of it came from sea beings too small to see without a microscope.",
+    "At Neyveli in Tamil Nadu the fuel is lignite, a soft brown coal that is much younger than black coal and still looks a little like wood."
+   ],
+   "perspectives": [
+    {
+     "who": "Geologists and chemists, since the 1800s",
+     "explanation": "Coal holds leaf prints and plant cells. Oil holds molecules that only living beings make. So both came from life."
+    },
+    {
+     "who": "Thomas Gold, an astronomer, in the 1970s to 1990s, and some Russian and Ukrainian geologists before him",
+     "explanation": "They proposed that some oil and gas rise from deep inside the Earth and never were alive. A deep hole drilled in Sweden in the 1980s to test this found almost no oil. Nearly all geologists rejected the idea, though small amounts of gas made without life are known."
+    }
+   ],
+   "art": "Three layers stacked like a sandwich: a green swamp forest on top, the same plants buried under mud in the middle, and a black coal seam with a leaf print at the bottom.",
+   "context": "This card explains what a fossil fuel is and where coal, oil and gas really came from."
+  },
+  {
+   "concept": "Renewable is about speed: a forest can run out too",
+   "status": "defined",
+   "definition": "A source stays renewable only while we take from it more slowly than it comes back.",
+   "description": "Firewood is on every list of renewable sources, because trees grow again. But suppose a village cuts ten trees a year and only four grow back. Each year the forest is smaller. One day the forest is gone. The wood did not change. The speed of cutting was greater than the speed of growing. So renewable is not a kind of thing. It is a match between two speeds: how fast we take and how fast nature gives back. Take more slowly than nature gives, and the source lasts. Take faster, and even a renewable source runs out.",
+   "examples": [
+    "A well is refilled by rain soaking into the ground. Pump out more than the rain puts in, and the well goes dry. This has happened in parts of Punjab, Rajasthan and Tamil Nadu.",
+    "A lake stocked with fish gives fish for ever if people catch fewer than are born each year.",
+    "Peat is half-rotted swamp plants. Peat does grow back, about one millimetre a year, so people argue about which box it belongs in."
+   ],
+   "perspectives": [
+    {
+     "who": "School textbooks and most government lists",
+     "explanation": "They sort each source into one of two boxes by its kind. Wood, water, wind and Sun go in one box. Coal, oil and gas go in the other. This is quick to learn and mostly right."
+    },
+    {
+     "who": "Elinor Ostrom, who won the Nobel Prize in economics in 2009",
+     "explanation": "She studied forests, fishing grounds and water channels shared by villages around the world, including in Nepal. She found that many villages keep a shared source alive for hundreds of years by making their own rules about how much each family may take."
+    },
+    {
+     "who": "Forest communities of India, such as the Bishnoi of Rajasthan",
+     "explanation": "Rules given by Guru Jambheshwar in 1485 CE forbid cutting green trees. People collect only dead wood. By such rules a dry land has kept its khejri trees for more than 500 years."
+    }
+   ],
+   "art": "Two pictures of the same hillside: in one, a few stumps among many trees with saplings growing, and in the other, many stumps and no saplings.",
+   "context": "This card pushes against the two-box idea: whether a source lasts depends on how fast we take."
+  },
+  {
+   "concept": "Nearly all our energy is sunlight, fresh or stored",
+   "status": "defined",
+   "definition": "Wind, rain, plants and fossil fuels all get their energy from the Sun. Only a few sources, such as the Earth's inner heat, the tides and nuclear fuel, do not.",
+   "description": "Follow almost any source back and you reach the Sun. Plants catch sunlight in their leaves and store it as food and wood. The Sun warms land and sea unevenly, and that makes the air move, which is wind. The Sun lifts water from the sea as vapour, the water falls as rain on the hills, and it runs down as rivers. Coal, oil and gas are sunlight that living beings caught long ago. So the real difference between coal and wind is the age of the sunlight. Wind is this week's sunlight. Coal is sunlight from before the dinosaurs.",
+   "examples": [
+    "Your breakfast is sunlight caught by a rice plant a few months ago.",
+    "The wood in a bullock cart is sunlight caught over about thirty years.",
+    "Three sources do not come from the Sun. Hot springs, such as those in the Puga valley in Ladakh, are heated by the inside of the Earth. Tides are raised mostly by the pull of the Moon. Nuclear fuel was made in exploding and colliding stars long before the Sun was born."
+   ],
+   "perspectives": [
+    {
+     "who": "Rig Veda 1.115.1, a hymn to Surya, composed more than 3,000 years ago",
+     "explanation": "The hymn calls the Sun the self of all that moves and all that stands still. The poets were praising, and they were not measuring. Still, they placed the Sun at the root of every living and moving thing."
+    },
+    {
+     "who": "Plant scientists, since Jan Ingenhousz in 1779",
+     "explanation": "Ingenhousz showed that plants need light to do their work on the air. Later scientists measured that all the food and wood on Earth is built using energy from light."
+    },
+    {
+     "who": "Deep-sea biologists, since 1977",
+     "explanation": "Scientists in the research submarine Alvin found communities of living beings at hot vents on the dark sea floor. Bacteria there make food using chemicals from inside the Earth. So a small part of life runs without sunlight."
+    }
+   ],
+   "art": "The Sun at the centre with arrows going out to a rice plant, a windy sea, a rain cloud over hills and a buried coal seam, and three small boxes to one side for a hot spring, the Moon over a tide and a star.",
+   "context": "This card traces each source back to where its energy first came from."
+  },
+  {
+   "concept": "How much sunlight reaches us: about 1,000 watts on each square metre",
+   "status": "defined",
+   "definition": "On a clear day at noon, sunlight brings about 1,000 watts of power to each square metre of ground that faces the Sun.",
+   "description": "A watt measures how fast energy arrives. An LED bulb uses about 9 watts. At noon on a clear day, a patch of ground one metre long and one metre wide receives about 1,000 watts of sunlight. That is the power of about 100 LED bulbs falling on a space the size of a small table. Add up the whole Earth, and the sunlight that arrives in one to two hours holds about as much energy as all the people of the world use in a whole year. So there is plenty of sunlight. The hard part is catching it, because it is spread thinly and stops at night.",
+   "examples": [
+    "A black car seat left in the sun becomes too hot to touch. That heat is sunlight collected by one small surface.",
+    "Clothes on a line in Chennai dry in about two hours on a sunny day, with no fuel at all.",
+    "Most of India gets clear sunshine on about 250 to 300 days a year."
+   ],
+   "perspectives": [],
+   "one_view": "These amounts are measured by instruments on the ground and on satellites, and scientists agree on them.",
+   "art": "A one-metre square chalked on a terrace in bright sun, with 100 small bulbs drawn inside the square.",
+   "context": "This card puts a number on sunlight, so you can see how much there is to catch."
+  },
+  {
+   "concept": "Two ways to catch sunlight: as heat and as electricity",
+   "status": "defined",
+   "definition": "A solar cooker or solar water heater catches sunlight as heat. A solar cell turns sunlight straight into electricity.",
+   "description": "The first way is to catch warmth. A black surface soaks up sunlight and gets hot. Put it in a box under clear plastic, and the heat stays in. That is a solar cooker. The second way is a solar cell. A solar cell is a thin slice made mostly of silicon, which comes from sand. When light falls on the slice, electricity flows. Nothing burns and nothing moves. Many cells joined together make a solar panel. A good panel today turns about 20 parts of every 100 parts of sunlight into electricity. The rest becomes warmth.",
+   "examples": [
+    "Cochin International Airport in Kerala has run fully on its own solar panels since 2015. It was the first airport in the world to do so.",
+    "Bhadla Solar Park in Rajasthan covers more than 50 square kilometres of desert and is one of the largest in the world.",
+    "Solar water heaters sit on many roofs in Bengaluru and Pune.",
+    "Large kitchens at Shirdi in Maharashtra use curved mirrors to make steam and cook food for thousands of people each day."
+   ],
+   "perspectives": [
+    {
+     "who": "Mária Telkes, a Hungarian-born scientist, with the architect Eleanor Raymond, in 1948",
+     "explanation": "They built a house in the United States that was heated only by stored sunlight. Telkes also designed solar cookers and a solar still that made drinking water from sea water. She showed that sunlight could do daily household work."
+    },
+    {
+     "who": "Daryl Chapin, Calvin Fuller and Gerald Pearson, at Bell Laboratories, in 1954",
+     "explanation": "They made the first silicon solar cell that gave a useful amount of electricity. It turned about 6 parts in every 100 of the light into electricity."
+    },
+    {
+     "who": "The women trained at the Barefoot College in Tilonia, Rajasthan",
+     "explanation": "Since the 1990s the college has taught village women, many of whom never went to school, to build and repair solar lamps and panels. They show that this work does not need a degree."
+    }
+   ],
+   "art": "A cardboard solar cooker with a black pot inside on the left, and a solar panel on a roof with a wire going to a bulb on the right.",
+   "context": "This card shows the two ways people catch sunlight, and who worked them out."
+  },
+  {
+   "concept": "Wind and falling water turn machines that make electricity",
+   "status": "defined",
+   "definition": "A turbine is a wheel with blades that is spun by moving air or falling water. A generator joined to the turbine makes electricity as it spins.",
+   "description": "Moving air and moving water carry energy. People have used them for a very long time. Sails pushed boats across the Indian Ocean. Water wheels called gharats still grind grain in the hills of Uttarakhand. Today the same push turns a turbine. The spinning turbine turns a generator, a machine that makes electricity when it spins. A dam holds river water high up. When the water is let fall through pipes, it spins the turbines at the bottom. This is called hydropower.",
+   "examples": [
+    "The wind farms at Muppandal in Kanyakumari district are among the largest in India.",
+    "The power station at Shivanasamudra falls on the Kaveri in Karnataka opened in 1902. It sent electricity about 150 kilometres to the Kolar gold mines.",
+    "Windmills with upright sails were grinding grain in Sistan, in what is now Iran and Afghanistan, by about the 9th century CE. Some at Nashtifan in Iran still turn.",
+    "One blade of a large modern wind turbine is longer than five buses parked end to end."
+   ],
+   "perspectives": [],
+   "one_view": "How turbines and generators work is engineering that has been built and measured for more than a hundred years. The arguments about dams and wind farms come in a later card.",
+   "art": "A cut-away drawing of a dam with water falling through a pipe onto a turbine wheel, beside a wind turbine with a small generator box behind its blades.",
+   "context": "This card explains how wind and water become electricity, and shows that the idea is old."
+  },
+  {
+   "concept": "Biomass and biogas: energy from beings that lived recently",
+   "status": "defined",
+   "definition": "Biomass is material from plants and other living beings that lived recently, such as wood, straw and dung. Biogas is a fuel gas made when microbes break down biomass without air.",
+   "description": "Wood, crop stalks, coconut shells and dried dung cakes are called biomass. They are fuels made by beings who lived recently, so new ones keep coming. There is also a cleaner way to use them. Put cow dung and kitchen scraps with water in a closed tank with no air. Tiny living beings called microbes eat the waste. As they eat, they give off a gas that burns with a blue flame. This is biogas, which many people in India call gobar gas. The gas goes to the stove. What is left in the tank goes to the fields as manure.",
+   "examples": [
+    "A family with three or four cattle can cook most of its meals on gobar gas.",
+    "Sugar mills in Maharashtra and Uttar Pradesh burn bagasse, the crushed stalks left after the juice is pressed out, to make their own electricity.",
+    "In Kerala, coconut shells and husks are burnt to dry copra, the white flesh of the coconut."
+   ],
+   "perspectives": [
+    {
+     "who": "Engineers who promote biomass",
+     "explanation": "The gas given off in burning was taken from the air by the plant only a year or two ago. A new plant takes it back. So the amount in the air stays about the same."
+    },
+    {
+     "who": "Doctors and the World Health Organization",
+     "explanation": "Smoke from wood and dung fires inside a home harms the lungs of whoever cooks, and of small children nearby. Renewable is not the same as healthy."
+    }
+   ],
+   "art": "A dome-shaped gobar gas tank beside a cowshed, with a pipe running to a kitchen stove showing a blue flame.",
+   "context": "This card covers fuels from recently living beings, and shows that microbes do the work in a gobar gas tank."
+  },
+  {
+   "concept": "Burning fossil fuels adds carbon dioxide to the air, and that warms the Earth",
+   "status": "defined",
+   "definition": "Carbon dioxide is a gas given off when anything containing carbon burns. In the air it lets sunlight in and slows the escape of heat.",
+   "description": "Ancient plants took a gas called carbon dioxide out of the air and built their bodies from it. When coal, oil or gas burns, that carbon dioxide goes back into the air, all at once. Carbon dioxide has no colour and no smell. It lets sunlight pass down to the ground. It holds back some of the heat that the warm ground gives off. So more carbon dioxide means a warmer Earth. Before factories, about 280 of every million parts of air were carbon dioxide. Today the number is above 420. The Earth is now a little more than 1 degree Celsius warmer than it was 150 years ago.",
+   "examples": [
+    "One degree sounds small. It is enough to melt glaciers in the Himalayas faster, raise the sea and make heat waves stronger.",
+    "Burning one litre of petrol puts about 2.3 kilograms of carbon dioxide into the air, more than the petrol weighed, because the carbon joins with oxygen from the air.",
+    "Coal smoke also carries soot and other gases that make city air unhealthy to breathe."
+   ],
+   "perspectives": [
+    {
+     "who": "Eunice Foote, an American scientist, in 1856",
+     "explanation": "She filled glass cylinders with different gases and stood them in the Sun. The cylinder of carbon dioxide grew warmest and stayed warm longest. She wrote that air with more of this gas would give the Earth a higher temperature."
+    },
+    {
+     "who": "Climate scientists of the world, reporting together since 1990",
+     "explanation": "Thousands of scientists check each other's measurements and write joint reports. They agree that the warming since the 1800s is caused mainly by people burning fossil fuels."
+    },
+    {
+     "who": "A few scientists, such as Richard Lindzen",
+     "explanation": "He accepts that carbon dioxide warms the Earth, but has argued that clouds will cancel much of the warming. Measurements since then have not supported this, and nearly all climate scientists disagree with him."
+    }
+   ],
+   "art": "A cut-away of the Earth's air with yellow arrows of sunlight coming down and red arrows of heat going up, some of them turned back by small dots labelled carbon dioxide.",
+   "context": "This card explains the main reason people want to burn less coal, oil and gas."
+  },
+  {
+   "concept": "Renewable does not mean harmless",
+   "status": "debated",
+   "definition": "Every way of collecting energy changes the land, the water or the lives of beings nearby. Renewable sources do this too.",
+   "description": "A big dam makes clean electricity for a hundred years. It also drowns the valley behind it: forests, fields, temples, villages. Fish who swim upriver to lay eggs find a wall. Wind turbines and solar parks need a lot of land, and the wires that carry their electricity cross the paths of birds. Solar panels and batteries need metals that are dug from mines. None of this means renewable energy is bad. It means every source has a cost that someone pays. Often the ones who pay are forest people, farmers and wild beings who do not get the electricity.",
+   "examples": [
+    "The Sardar Sarovar dam on the Narmada moved about 40,000 families by official counts, and more by other counts. The Narmada Bachao Andolan, led by Medha Patkar, argued for those families for decades.",
+    "Fewer than 200 great Indian bustards are left, mostly in Rajasthan and Gujarat. These large birds fly low and die when they hit power lines. In 2021 the Supreme Court of India ordered some lines to be put underground.",
+    "A worn-out solar panel holds glass, aluminium and silicon that can be used again, but only if someone collects it."
+   ],
+   "perspectives": [
+    {
+     "who": "Governments and power engineers",
+     "explanation": "A warming Earth harms everyone, the poorest most. Dams, wind and solar parks must be built quickly and on a large scale. Some harm to some places is the price of avoiding a greater harm to all."
+    },
+    {
+     "who": "Medha Patkar and the Narmada Bachao Andolan, from 1985",
+     "explanation": "The people who lose their land and river to a dam are rarely asked and rarely given land of equal worth. A project that is clean for the city can be ruin for a village."
+    },
+    {
+     "who": "Wildlife scientists at the Wildlife Institute of India",
+     "explanation": "Clean energy and wild beings can both be served if wires are buried or marked where rare birds fly, and if parks are built on land that is already damaged."
+    }
+   ],
+   "art": "A dam with a bright town below it on one side and, on the other side, the tops of trees and a hut roof showing above the water of the reservoir.",
+   "context": "This card looks at who pays for renewable energy, so that the word 'clean' is not taken to mean 'free of harm'."
+  },
+  {
+   "concept": "Nuclear energy: non-renewable, but it adds almost no carbon dioxide",
+   "status": "debated",
+   "definition": "Nuclear energy is heat released when the centres of very heavy atoms, such as uranium, are split. The heat boils water, and the steam turns a turbine.",
+   "description": "Everything is made of tiny particles called atoms. The atoms of a metal called uranium are very heavy. When the centre of a uranium atom is split, a great deal of heat comes out. A nuclear power station uses this heat to boil water and turn turbines. Uranium is dug from mines and is not replaced, so it is non-renewable. But nothing is burnt, so almost no carbon dioxide goes into the air. A small amount of fuel gives a very large amount of energy. The used fuel stays dangerous for thousands of years and must be kept safely away from all living beings.",
+   "examples": [
+    "India has nuclear power stations at Kudankulam and Kalpakkam in Tamil Nadu, Kaiga in Karnataka, Tarapur in Maharashtra and other places.",
+    "The beach sands of Kerala, Tamil Nadu and Odisha hold a metal called thorium. In the 1950s Homi Bhabha planned a way for India to use thorium as nuclear fuel in three stages. The third stage is not yet working.",
+    "The Sun itself runs on a different nuclear process, in which very light atoms join together."
+   ],
+   "perspectives": [
+    {
+     "who": "Supporters, such as many engineers of India's Department of Atomic Energy",
+     "explanation": "Nuclear stations run day and night in any weather and add almost no carbon dioxide. Counting deaths for each unit of electricity, nuclear power has harmed far fewer people than coal smoke has."
+    },
+    {
+     "who": "Opponents, such as the fishing communities who protested at Kudankulam in 2011 and 2012",
+     "explanation": "Accidents are rare but terrible, as at Chernobyl in 1986 and Fukushima in 2011. Nobody has yet shown a store for used fuel that has stayed safe for thousands of years. The people living nearest carry the risk."
+    }
+   ],
+   "art": "A simple diagram of a nuclear power station: a fuel rod heating water, steam turning a turbine, and a sealed cask labelled 'used fuel' standing apart.",
+   "context": "This card places nuclear energy, which fits neither box neatly, and gives both sides of the argument about it."
+  },
+  {
+   "concept": "When will coal and oil run out? Nobody can give a date",
+   "status": "debated",
+   "definition": "A reserve is the amount of a fuel that people have found and can dig up at a price worth paying. It is always smaller than the amount in the ground.",
+   "description": "People have been predicting the end of oil for a hundred years, and the date keeps moving. Why? Because the amount we can use depends on two changing things: the tools for getting it and the price people will pay. New tools reach oil that old tools could not. A higher price makes a difficult mine worth opening. So the last tonne of coal will probably never be dug. Long before then, coal will cost more than the other choices. Many scientists now say the real limit is the air. Most of the known coal must stay in the ground if the Earth is not to warm much more.",
+   "examples": [
+    "In 1956 the geologist M. King Hubbert predicted that oil from the United States would reach its highest level around 1970 and then fall. It did fall after 1970. Then new drilling methods pushed it above the 1970 level by 2018.",
+    "A saying often credited to Sheikh Ahmed Zaki Yamani, once the oil minister of Saudi Arabia, goes: the Stone Age did not end because the world ran out of stone."
+   ],
+   "perspectives": [
+    {
+     "who": "Geologists who follow M. King Hubbert",
+     "explanation": "Every oil field gives more each year until about half is gone, and then less. Add up all the fields and the world must reach a peak. The easy fuel goes first, and what is left costs more and more to reach."
+    },
+    {
+     "who": "Economists such as Morris Adelman",
+     "explanation": "Reserves are not a fixed tank. They grow when prices rise and tools improve. Warnings of the last barrel have been wrong many times."
+    },
+    {
+     "who": "Christophe McGlade and Paul Ekins, in the journal Nature in 2015",
+     "explanation": "They calculated that to keep warming under 2 degrees Celsius, more than 80 parts in every 100 of the world's known coal should not be burnt before 2050. On this view the fuel will not run out. We must choose to leave it."
+    }
+   ],
+   "art": "A graph shaped like a hill labelled 'oil pumped each year', with a second, later hump drawn in dotted line and a question mark above it.",
+   "context": "This card shows why 'running out' is harder to pin down than it sounds, and what scientists disagree about."
+  },
+  {
+   "concept": "Where India's electricity comes from today",
+   "status": "defined",
+   "definition": "About 7 of every 10 units of electricity made in India come from burning coal. The rest come mostly from water, Sun, wind and nuclear fuel.",
+   "description": "India has a great deal of coal and few oil fields. So coal power stations make most of the country's electricity. This is changing quickly. Counted by size, about half of India's power stations now run on sources other than fossil fuels. But they do not make half the electricity. A coal station can run all day and night. A solar park works only in daylight, and a wind farm only when the wind blows. India has promised to add no more carbon dioxide to the air, on balance, by the year 2070.",
+   "examples": [
+    "The power station at Thoothukudi in Tamil Nadu burns coal brought by ship.",
+    "Tamil Nadu, Gujarat, Rajasthan and Karnataka make the most wind and solar electricity.",
+    "Most of the oil India uses, more than 8 parts in every 10, is bought from other countries.",
+    "An electric scooter charged in India today still runs partly on coal, because the charging electricity comes mostly from coal."
+   ],
+   "perspectives": [],
+   "one_view": "These shares are counted every year by India's Central Electricity Authority. The numbers change each year, so check the latest ones.",
+   "art": "A row of ten bulbs, seven coloured grey for coal and three coloured blue, yellow and green for water, Sun and wind.",
+   "context": "This card gives the picture for India, so the lesson is about your own switchboard and not a faraway country."
+  },
+  {
+   "concept": "The Sun sets and the wind drops, so energy must be stored",
+   "status": "defined",
+   "definition": "Storing energy means putting it into a form that keeps, such as a charged battery or water pumped uphill, so it can be used later.",
+   "description": "Coal has one great advantage. It waits. A heap of coal sits beside the power station until it is needed. Sunlight and wind do not wait. People want the most electricity in the evening, just when solar panels stop. So renewable electricity needs a store. A battery is one kind of store. Another is a pair of lakes, one high and one low. At noon, spare solar electricity pumps water up to the high lake. At night the water runs back down through turbines. Building enough stores, cheaply, is one of the biggest jobs engineers have today.",
+   "examples": [
+    "A home inverter is a small energy store. It fills a battery while the power is on and gives the energy back during a power cut.",
+    "A solar lantern stores the day's sunlight in a battery and gives it out at night.",
+    "The Kadamparai station in the hills near Coimbatore, Tamil Nadu, pumps water uphill at quiet hours and lets it down at busy hours.",
+    "Plants were the first to solve this. A potato and a grain of rice are sunlight stored for a dark season."
+   ],
+   "perspectives": [],
+   "one_view": "That sunlight and wind vary, and that electricity must be made at the moment it is used unless it is stored, are plain facts of engineering. How to store it best is an open problem, listed among the open questions.",
+   "art": "Two lakes on a hillside joined by a pipe, with a sun and an arrow going up on the left half and a moon and an arrow going down on the right half.",
+   "context": "This card explains the main difficulty with Sun and wind, and how people get round it."
+  },
+  {
+   "concept": "Using less is the quickest way to make a source last",
+   "status": "defined",
+   "definition": "Saving energy means getting the same light, cooking or travel from less energy.",
+   "description": "There are two ways to make a bowl of beans last. Add beans more quickly, or take them more slowly. The second way is open to every family today. An LED bulb of 9 watts gives as much light as an old glass bulb of 60 watts. So six or seven LED bulbs can shine on the energy that one old bulb used. Since 2015, more than 36 crore LED bulbs have been sold through one Indian government programme. Each unit of electricity that is not used is coal that stays in the ground.",
+   "examples": [
+    "A pressure cooker cooks dal with about half the gas that an open pot needs, because the steam is kept in.",
+    "A lid on a pot of water brings it to the boil sooner.",
+    "A full bus carries fifty people on the fuel of about five cars.",
+    "A fan uses about 50 to 75 watts. An air conditioner uses 1,000 watts or more."
+   ],
+   "perspectives": [
+    {
+     "who": "Energy engineers, such as Amory Lovins since 1976",
+     "explanation": "The cheapest and cleanest unit of energy is the one you never needed. Better bulbs, motors and buildings can do the same work with far less."
+    },
+    {
+     "who": "William Stanley Jevons, an English economist, in 1865",
+     "explanation": "He noticed that when steam engines became better at using coal, England burnt more coal, not less, because engines became worth using for many more jobs. When something gets cheaper to run, people often use more of it."
+    }
+   ],
+   "art": "One old glass bulb on the left and six LED bulbs on the right, joined by an equals sign, with '60 watts' under each side.",
+   "context": "This card shows what a family can do today, and one honest reason why saving does not always lower the total."
+  },
+  {
+   "concept": "Who used the old sunlight, and who should stop first?",
+   "status": "debated",
+   "definition": "Countries have burnt very different amounts of fossil fuel. People disagree about how the remaining share should be divided.",
+   "description": "The carbon dioxide in the air today was put there over 250 years, mostly by countries that grew rich first. Each person in India adds about 2 tonnes of carbon dioxide a year. The average for the world is nearly 5 tonnes. For each person in the United States it is about 15. But India has very many people, so India's total is the third largest in the world. Crores of Indian families still need more electricity, not less. So the question is hard. Should every country cut at the same speed? Or should the ones who burnt most cut first and help the others build clean power?",
+   "examples": [
+    "A family that cooks on a wood fire and owns one bulb has added almost nothing to the problem, and will feel the heat waves most.",
+    "At world climate meetings, India argues for 'common but differentiated responsibilities', which means: everyone must act, but not equally."
+   ],
+   "perspectives": [
+    {
+     "who": "Anil Agarwal and Sunita Narain, of the Centre for Science and Environment in Delhi, in 1991",
+     "explanation": "In a report called 'Global Warming in an Unequal World' they argued that the air belongs equally to every person. They separated 'survival' use, such as a poor farmer's rice field, from 'luxury' use, such as a second car. Counting per person is the fair way."
+    },
+    {
+     "who": "Governments of several rich countries",
+     "explanation": "The air does not care who burns the coal. The countries whose use is growing fastest today must cut too, or no cut elsewhere will be enough."
+    },
+    {
+     "who": "Leaders of small island countries, such as the Maldives and Tuvalu",
+     "explanation": "Their land is only a metre or two above the sea. They ask all large countries, rich and poor, to cut quickly, because their homes will go under water first."
+    }
+   ],
+   "art": "Three bars of different heights labelled India, world average and United States, each with a small figure of one person standing on top.",
+   "context": "This card raises the fairness question that sits behind every argument about fossil fuels."
+  },
+  {
+   "concept": "Old teachings on taking from the Earth: take what can grow back",
+   "status": "idea",
+   "definition": "Many old traditions hold that people should take from land, forest and water only at a speed at which these can recover.",
+   "description": "The idea of a source that must be allowed to renew is far older than the word renewable. People who lived close to forests and rivers learnt it by living it. Many wrote it into verses, rules and customs. These teachings do not prove anything about coal or carbon dioxide. They show that people long ago had already noticed the two speeds, taking and giving back.",
+   "examples": [
+    "Sacred groves, called kavu in Kerala, devarakadu in Karnataka and sarna in Jharkhand, are patches of forest where nobody cuts or hunts. Many shelter plants and animals now rare elsewhere.",
+    "At Khejarli in Rajasthan in 1730, Amrita Devi Bishnoi and 362 other Bishnois gave their lives to stop the king's men from felling khejri trees."
+   ],
+   "perspectives": [
+    {
+     "who": "Atharva Veda 12.1.35, in the Hymn to the Earth",
+     "explanation": "The poet says to the Earth: whatever I dig from you, may it quickly grow again. May I not pierce your vital parts or your heart."
+    },
+    {
+     "who": "The Haudenosaunee peoples of North America",
+     "explanation": "Their teaching, often called the seventh generation principle, asks leaders to weigh each decision by its effect on people who will be born seven generations later."
+    },
+    {
+     "who": "Many economists, from the 1700s onward",
+     "explanation": "They describe land, coal and rivers as resources, meaning stores of wealth for people to use. This view helped build railways, hospitals and schools. It also left other living beings and future people out of the sums."
+    }
+   ],
+   "art": "A small dense grove of old trees with a stone at its edge, surrounded by open fields, and a hand planting a sapling at the border.",
+   "context": "This card shows that taking only what grows back is an old idea in India and elsewhere, and sets a newer view beside it."
+  },
+  {
+   "concept": "Even the Sun will end: renewable means renewable for us",
+   "status": "defined",
+   "definition": "The Sun is using up its own fuel. It is expected to shine steadily for about 5 billion more years.",
+   "description": "Is anything renewable for ever? The Sun is a star. It shines by joining very light atoms together deep inside, and this uses them up. The Sun is about 4.6 billion years old. Astronomers work out that it will shine much as it does now for about 5 billion years more. A billion is 100 crore. So the Sun is non-renewable too, on a very long clock. When we call sunlight renewable, we mean it will last far longer than any time people can plan for. Renewable and non-renewable are words about our own clock.",
+   "examples": [
+    "For a mayfly who lives one day as an adult, a pond that dries every summer would seem to last for ever.",
+    "For a mountain, a forest that takes 500 years to grow back comes and goes quickly."
+   ],
+   "perspectives": [],
+   "one_view": "The Sun's age and its likely lifetime come from measuring its light and from the ages of meteorites, and astronomers agree on them to within a few parts in a hundred.",
+   "art": "A long ribbon timeline with the Sun drawn small at the start, large and steady in the middle with a 'you are here' pin, and swollen and red at the far end.",
+   "context": "This card stretches the clock to show that 'renewable' depends on whose lifetime we measure by."
+  }
+ ],
+ "agreed": [
+  {
+   "text": "The extra carbon dioxide in the air came from fossil fuels and not from volcanoes or the sea.",
+   "evidence": "Carbon from living plants carries a small amount of a slowly fading kind of carbon called carbon-14. Fossil carbon is so old that all of this has faded away. In 1955 the chemist Hans Suess found that the carbon in the air was losing its share of carbon-14, year by year, exactly as it would if very old carbon were being added."
+  },
+  {
+   "text": "Smoke from cooking fires inside homes is one of the largest causes of illness in the world.",
+   "evidence": "The World Health Organization estimates that about 3 million people die early each year from breathing smoke from wood, dung and coal burnt indoors. Since 2016 an Indian government scheme has given cooking gas connections to more than 10 crore families for this reason."
+  },
+  {
+   "text": "Electricity from solar panels has become much cheaper to make.",
+   "evidence": "The International Renewable Energy Agency compared large solar parks built around the world. The cost of a unit of their electricity fell by more than four-fifths between 2010 and 2020. In many places a new solar park now makes cheaper electricity than a new coal station."
+  },
+  {
+   "text": "Coal seams can catch fire underground and burn for a very long time.",
+   "evidence": "Fires in the coal seams under Jharia in Jharkhand were first recorded in 1916 and are still burning. They waste coal, crack the ground and send smoke into nearby homes."
+  }
+ ],
+ "challenging": [
+  {
+   "claim": "We need not fear running out of any resource, because people always invent a replacement.",
+   "who": "Julian Simon, an economist, in his book 'The Ultimate Resource' of 1981",
+   "for": "In 1980 Simon made a bet with the biologist Paul Ehrlich that five metals would be cheaper in 1990. They were, and Ehrlich paid. Whale oil for lamps was replaced by kerosene, and kerosene by electricity, before either ran out.",
+   "against": "A clever replacement does not bring back a drowned valley, a lost species or a stable climate. The air's ability to take up carbon dioxide has no replacement. Economists have also shown that Simon would have lost the same bet in many other ten-year periods.",
+   "status": "debated",
+   "context": "This view challenges the fear of 'running out'. It is here because it is partly right and partly leaves something out."
+  },
+  {
+   "claim": "Natural gas is a clean 'bridge' from coal to renewable energy.",
+   "who": "Many energy companies and some governments, since about 2005",
+   "for": "Burning gas gives off about half as much carbon dioxide as burning coal for the same electricity, and far less soot. Gas stations can be switched on quickly when the wind drops.",
+   "against": "Natural gas is mostly methane, which holds back much more heat than carbon dioxide if it escapes unburnt. In 2011 Robert Howarth and his colleagues at Cornell University calculated that leaks from wells and pipes could cancel the advantage. How much really leaks is still being measured.",
+   "status": "debated",
+   "context": "This is an argument among scientists and engineers that is not settled, because it depends on a number that is hard to measure."
+  },
+  {
+   "claim": "A whole country can run on wind, water and sunlight alone by 2050.",
+   "who": "Mark Jacobson of Stanford University and his colleagues, in 2015",
+   "for": "They published a plan showing, hour by hour, how the United States could meet all its energy needs with wind, water and Sun and with stores of heat and hydrogen.",
+   "against": "In 2017 Christopher Clack and twenty other scientists replied that the plan assumed far more hydropower and storage than could be built. They argued that nuclear power or other steady sources would be needed as well.",
+   "status": "debated",
+   "context": "Both sides want to stop burning fossil fuels. They disagree about what mix can do it."
+  },
+  {
+   "claim": "A large dam should be counted as renewable energy.",
+   "who": "The Government of India, which began counting large hydropower as renewable in 2019",
+   "for": "The rain refills the reservoir every year, nothing is burnt, and a dam can be turned up within minutes when the Sun sets.",
+   "against": "Plants drowned under a new reservoir rot and give off methane, sometimes for decades. The river, the fish and the villages do not come back. Reservoirs also fill slowly with mud, so a dam has a lifetime.",
+   "status": "debated",
+   "context": "The same word, renewable, is being argued over. It shows that the label is a decision people make."
+  },
+  {
+   "claim": "Oil and gas are made deep in the Earth without life, and are refilling from below.",
+   "who": "Thomas Gold, and before him Nikolai Kudryavtsev in the 1950s",
+   "for": "Methane exists on planets and moons that have no known life, so it can form without life.",
+   "against": "Oil carries the chemical marks of living beings, and oil fields lie where rocks rich in ancient life were buried and heated. Wells drilled to test the idea found almost nothing. No oil field has been seen to refill.",
+   "status": "rejected",
+   "context": "This idea was tested fairly and did not hold. It is here to show how scientists treat an unusual claim."
+  }
+ ],
+ "big_questions": [
+  {
+   "q": "Coal is sunlight caught by plants about 300 million years ago. When you switch on a light, whose work are you using?",
+   "kind": "deep",
+   "hint": "Follow the energy backwards one step at a time, and count how many living beings and how many years lie between the Sun and the bulb."
+  },
+  {
+   "q": "If a forest is cut faster than it grows, is wood still a renewable source?",
+   "kind": "deep",
+   "hint": "Think about what the two bowls of beans did. Ask where the word 'renewable' lives: in the wood, or somewhere else."
+  },
+  {
+   "q": "Energy is never destroyed. So what exactly do we lose when a fuel is 'used up'?",
+   "kind": "deep",
+   "hint": "Think about a hot cup of tea left on a table. Where has its warmth gone an hour later, and could you collect it again?"
+  },
+  {
+   "q": "The Sun will stop shining in about 5 billion years. Is there any energy source that is truly for ever?",
+   "kind": "deep",
+   "hint": "Try each source in turn, and ask what it depends on. Then ask what 'for ever' could mean for a being who lives eighty years."
+  },
+  {
+   "q": "A dam gives clean electricity to a city and drowns a village and a forest. Who should decide if it is built?",
+   "kind": "big",
+   "hint": "List everyone who gains and everyone who loses, including the beings who cannot speak at a meeting. Then ask how each could be heard."
+  },
+  {
+   "q": "People who are not yet born will live with the air we leave. Do we owe them anything, when they can do nothing for us?",
+   "kind": "big",
+   "hint": "Think of something useful that someone left for you before you were born: a tree, a well, a road. Did they owe it to you?"
+  },
+  {
+   "q": "Rich countries burnt most of the coal so far. Should a poorer country be allowed to burn more now, to catch up?",
+   "kind": "big",
+   "hint": "Try arguing it once as a family that has no electricity, and once as a family whose island is going under the sea."
+  },
+  {
+   "q": "A plant stores sunlight in a seed without being asked. Is a plant saving for the future?",
+   "kind": "big",
+   "hint": "Think about what a seed is for, and who gains from the store inside. Then ask what you mean by 'saving'."
+  },
+  {
+   "q": "If using less energy were the best answer, why do people who save money on fuel often end up using more?",
+   "kind": "deep",
+   "hint": "Imagine your bus fare became half. Would you take the same number of trips?"
+  }
+ ],
+ "story": {
+  "title": "How Old Is the Light in the Bulb?",
+  "mins": 9,
+  "read_aloud": true,
+  "note": "A made-up story set in Thoothukudi, Tamil Nadu. The family is imagined. What is real: Thoothukudi has a coal power station, salt pans and wind farms nearby. Salt is made there by letting the Sun and wind dry sea water in flat pans. Coal from Odisha formed more than 250 million years ago, before the first dinosaurs.",
+  "text": [
+   "The power went off in Thoothukudi at seven in the evening, just as Selvi, who was nine, reached the last sum on the page. Her brother Arul, who was six, cheered. A power cut meant the old kerosene lantern and no homework.",
+   "Their aunt Mariamma lit the lantern. Mariamma chithi climbed wind turbines for her living and mended them, and her hands still smelt of grease. Their uncle Murugan came in behind her. He drove a lorry that carried coal from the harbour to the power station.",
+   "'Your windmills have gone to sleep again,' said Murugan mama. 'No wind this evening. Good thing my coal is still burning, or the hospital would be dark too.'",
+   "'Your coal is why my eyes sting on the harbour road,' said Mariamma chithi. But she was smiling. They had this argument every week.",
+   "Selvi watched the lantern flame. 'Chithi, where does the light in a bulb come from?'",
+   "'Tonight, mostly from his coal. On a windy night, a good part from my turbines.'",
+   "'And where does the coal get its light from?'",
+   "Mariamma chithi sat down on the step. 'From a forest. The coal on your uncle's lorry was dug in Odisha. More than two hundred and fifty million years ago there were swamps there, full of tall plants. Each plant caught sunlight in their leaves and used it to build their body. The plants fell into the water and were buried, and then pressed under rock for longer than anyone can picture. The sunlight they had caught stayed locked inside. When coal burns, it comes out again.'",
+   "Arul stared at the dark bulb. 'So the bulb shines with old sunlight?'",
+   "'Very old. Older than the first dinosaur.'",
+   "'And the wind?' asked Selvi.",
+   "'The Sun warms the land faster than the sea. Warm air rises, cooler air slides in under it, and that is wind. The wind that turned my blades this morning was made by this week's sunlight.'",
+   "Their grandmother Pechiammal spoke from her cot in the corner. She had worked on the salt pans for forty years. 'You two talk as if you invented it. We let the sea into the pans, and the Sun and the wind carried the water away and left us the salt. They dried our fish and our clothes as well. Nobody sent us a bill, and nobody called it energy.'",
+   "Selvi began counting on her fingers. 'The rice I ate is sunlight from last season. The salt on it is sunlight from last month. The wind is from this week. And the coal is from before the dinosaurs.' She looked up. 'It is all the same sunlight. So what are you two fighting about?'",
+   "'About how fast it comes back,' said Mariamma chithi. 'Tomorrow the Sun will make new wind. In four months the field will make new rice. A new seam of coal needs a swamp left alone for millions of years. The forest took longer to save that sunlight than there have been people on the Earth. We are spending it in a few hundred years.'",
+   "'And about when it comes,' said Murugan mama. 'My coal waits in a heap until it is needed. Her wind comes when it pleases. The ice factory cannot ask the fish to wait for a breeze. And half this street eats because of that power station.'",
+   "'That is true,' said Mariamma chithi. 'Keeping the wind for later is the hardest part of my job.'",
+   "'What about the smoke?' asked Arul.",
+   "'When the old forest burns, everything the plants took out of the air goes back into the air, all in one go. That gas holds heat. The sea your Paatti worked beside is a little warmer and a little higher than when she was a girl.'",
+   "Paatti was quiet for a while. Then she said, 'Those plants saved their sunlight without knowing we would come. I wonder what we are saving, and for whom.'",
+   "Nobody answered. A breeze came through the window and the lantern flame leaned over. Far off, the turbines would be starting to turn.",
+   "Then the bulb came on. Arul groaned and reached for his school bag.",
+   "Selvi kept looking at the bulb. Was this light from the coal, or from the wind that had just come up? Was it a few minutes old, or older than the dinosaurs? She looked as hard as she could. The light looked exactly the same either way."
+  ],
+  "epiphany": "The rice, the salt, the wind and the coal were all sunlight, caught at different times. What differs is how long each takes to come back. That difference cannot be seen in the bulb. It can only be known by asking where the light came from.",
+  "ask": [
+   "Selvi could not tell by looking how old the light was. What would she have to find out to know?",
+   "Murugan mama and Mariamma chithi were both telling the truth. Can two people both be right and still disagree about what to do?",
+   "Paatti asked what we are saving, and for whom. What would your answer be?",
+   "What in your home was made or dried by the Sun without anyone calling it energy?"
+  ],
+  "art": [
+   "A small house in Thoothukudi at dusk with a kerosene lantern on the step, a girl with a notebook, a small boy, a woman in work overalls and a man in a lorry driver's shirt.",
+   "An ancient swamp of tall, strange plants under a bright Sun, drawn inside the outline of a lump of coal.",
+   "A grandmother on a cot, and behind her a memory picture of white salt heaps beside flat pans of sea water.",
+   "A girl staring at a glowing bulb, with a faint wind turbine reflected on one side of the glass and a faint coal heap on the other."
+  ]
+ },
+ "how_we_found_out": {
+  "story": "For a long time people believed the air was far too large for chimney smoke to change it. This fitted what they saw: smoke rises, thins out and is gone. In 1856 Eunice Foote, in the United States, stood glass cylinders of different gases in the Sun with a thermometer in each. The cylinder of carbon dioxide grew hottest. She wrote that more of this gas in the air would warm the Earth. As a woman she was not invited to read her own paper at the science meeting, and a man read it for her. Her work was then forgotten until 2011. In 1859 John Tyndall in London measured, with better instruments, how carbon dioxide holds back heat. In 1896 the Swedish chemist Svante Arrhenius calculated by hand how much the Earth would warm if the gas doubled. Many scientists replied that the sea would soak up any extra. In 1957 Roger Revelle and Hans Suess showed that the sea takes it up too slowly. In 1958 Charles David Keeling began measuring the air on Mauna Loa, a mountain in Hawaii. His numbers have risen every year since, from about 315 parts in a million to more than 420.",
+  "who": "Eunice Foote, John Tyndall, Svante Arrhenius, Roger Revelle, Hans Suess, Charles David Keeling",
+  "when": "1856 to 1958, and continuing",
+  "wrong_idea": "People held that the air and the sea are so vast that nothing people burn could change them. It was believable because smoke always seemed to vanish. Careful measuring of the air, year after year, showed that the gas does not vanish. It builds up."
+ },
+ "roots": {
+  "context": "You have sorted energy sources by how fast they come back. Now we ask what that tells us about ourselves, about life and about this world.",
+  "deep_truth": {
+   "truth": "In the two bowls test, the same beans lasted and lasted in one game and ran out in the next. The beans had not changed. What changed was how fast you took them, compared with how fast they came back. A forest, a well and a field behave in the same way. So whether a source lasts is decided by the giver and the taker together.",
+   "habit": "We sort sources into two boxes, renewable and non-renewable, as if the label were written inside the wood or the water. That habit hides our own part. It lets us think the forest 'ran out', when the forest and the cutting were always one story.",
+   "evidence": "With 3 beans added and 2 taken each round, the bowl never emptied. With 3 added and 6 taken, the same bowl was empty in a few rounds. The bowl with no beans added emptied at every speed, only sooner or later."
+  },
+  "three": {
+   "who_am_i": "Your body runs on rice, dal and fruit, which are sunlight caught by plants a few months ago. The fan above you may run on sunlight caught before the dinosaurs. You are a meeting place for sunlight of many ages. You are also one of the takers whose speed decides what lasts.",
+   "what_is_life": "Living beings were the first to catch sunlight and keep it. Every fuel we burn, except nuclear fuel, was first made by plants or by tiny sea beings. Life is the great saver of sunlight, and every life also spends what other lives have saved.",
+   "what_is_this_world": "The Sun, the air, the sea, the plants and the lamp in your room are links in one long passing-on of energy. Each link receives before it gives. When you look for where one link's energy 'really' belongs, you are led to the next link, and the next."
+  },
+  "thread": "This lesson began with two boxes and ended with a chain. Coal turned out to be a forest, and the forest turned out to be the Sun. The wind was the Sun too, and so was your breakfast. When a child follows any energy back far enough, the separate 'sources' join up. Consciousness is the ground from which the Sun, the leaf and the one who eats all arise, and the chain of energy is one way of seeing that they were never apart. Many scientists accept the chain and do not accept this last step. Their view is given below.",
+  "teachings": [
+   {
+    "source": "Isha Upanishad, verse 1",
+    "teaching": "All this, whatever moves in this moving world, is filled with the one Lord. Enjoy by letting go. Do not grab what belongs to another.",
+    "link": "The verse does not speak of coal or rivers. It gives a way of using the world: take what you need and do not grasp. The bowls test showed in beans what grasping does to a shared source."
+   },
+   {
+    "source": "Thich Nhat Hanh, 'The Heart of Understanding', 1988",
+    "teaching": "This Vietnamese Buddhist teacher wrote that if you look deeply into a sheet of paper you can see the cloud and the sunshine in it. Without the cloud there is no rain, without rain no tree, and without the tree no paper. He called this interbeing.",
+    "link": "The lesson did the same looking with a lump of coal and a plate of rice, and found the Sun in both. His teaching is about how to see. The science gives the measured links."
+   },
+   {
+    "source": "Chandogya Upanishad 3.19.1",
+    "teaching": "The sage teaches: the Sun is Brahman. This is the instruction. Brahman is the Upanishads' word for the one ground of everything.",
+    "link": "The sage points to the Sun as a way of pointing to the source of all things. Science finds that the Sun is the source of nearly all the energy we use. One is a teaching about the whole, the other a measurement of a part, and they should not be taken for the same claim."
+   }
+  ],
+  "science": [
+   {
+    "text": "Energy is never made or destroyed. It only passes from one thing to another and changes form. Every measurement ever made agrees with this.",
+    "status": "settled"
+   },
+   {
+    "text": "James Lovelock and Lynn Margulis proposed in the 1970s that living beings and the air, sea and rocks together keep the Earth fit for life, like one body. They called this the Gaia hypothesis. Parts of it are accepted and the strong form is not.",
+    "status": "debated"
+   }
+  ],
+  "other_view": {
+   "who": "Physicalist scientists and the old Indian Charvaka school",
+   "view": "The chain of energy is real and can be measured. It needs nothing behind it. The Sun is a ball of hot gas, a leaf is a chemical factory, and awareness is something that brains do. Seeing a oneness in the chain is a feeling people add, and the sums work the same without it."
+  },
+  "practice": {
+   "title": "One mouthful, traced back",
+   "mins": 3,
+   "say": "Take one mouthful of your next meal and chew it slowly. Before you swallow, tell me where its energy was yesterday. Now tell me where it was a month ago, in the shop or the field. Now six months ago, in a leaf, in the light. Close your eyes and sit for three breaths with the thought that this mouthful was once sunlight.",
+   "kid": "Take one mouthful and chew slowly. Ask yourself where this energy was yesterday, a month ago and six months ago. Follow it back to a leaf and to the Sun. Close your eyes for three breaths and hold that thought."
+  },
+  "ask": [
+   "In the bowls test, who made the beans run out: the bowl, the beans or the taker?",
+   "If your body is built from sunlight that plants caught, where does the Sun stop and where do you begin?",
+   "The swamp plants stored sunlight for 300 million years. Is anything you do today a store for someone far in the future?"
+  ],
+  "art": "A child holding a spoonful of rice, with a faint line running from the spoon back to a paddy field, then to a leaf, then to the Sun."
+ },
+ "open_questions": [
+  {
+   "q": "How can large amounts of energy be stored cheaply for weeks, and not only for hours?",
+   "why_open": "Batteries today can cover an evening. A cloudy, windless fortnight needs far more. Engineers are testing pumped water, hot sand and salt, hydrogen gas and new kinds of battery. None is yet both cheap and large enough."
+  },
+  {
+   "q": "Exactly how much will the Earth warm for a given amount of carbon dioxide?",
+   "why_open": "Scientists agree it will warm. For a doubling of the gas, the best estimate is about 3 degrees Celsius, but the likely range runs from about 2.5 to 4. The main uncertainty is how clouds will change."
+  },
+  {
+   "q": "Can people make electricity the way the Sun makes its heat, by joining light atoms?",
+   "why_open": "In December 2022 a laboratory in the United States got more energy out of a tiny fuel pellet than its lasers put in, for a fraction of a second. A power station needs this to happen many times a second, all day. India is a partner in ITER, a large test machine being built in France. Nobody knows yet if it can be made to pay."
+  },
+  {
+   "q": "What should be done with nuclear fuel after it is used?",
+   "why_open": "It must be kept away from living beings for thousands of years. Finland has built a store deep in solid rock. No store has yet been tested over anything like the time needed, and nobody knows how to warn people that far in the future."
+  },
+  {
+   "q": "What is energy?",
+   "why_open": "Physicists can calculate energy and have never seen the total change. They have no agreed account of what it is beyond the number. Confusion about this is honest, and questions about it are welcome."
+  }
+ ],
+ "sources": {
+  "founder": [],
+  "science": [
+   "Richard Feynman, The Feynman Lectures on Physics, volume 1, chapter 4, 'Conservation of Energy', 1963.",
+   "Eunice Foote, 'Circumstances affecting the heat of the Sun's rays', American Journal of Science and Arts, 1856.",
+   "Svante Arrhenius, 'On the influence of carbonic acid in the air upon the temperature of the ground', Philosophical Magazine, 1896.",
+   "Hans Suess, 'Radiocarbon concentration in modern wood', Science, 1955.",
+   "Christophe McGlade and Paul Ekins, 'The geographical distribution of fossil fuels unused when limiting global warming to 2 °C', Nature, 2015.",
+   "Mark Jacobson and others, 'Low-cost solution to the grid reliability problem with 100% penetration of intermittent wind, water, and solar for all purposes', PNAS, 2015, and the reply by Christopher Clack and others, PNAS, 2017.",
+   "Robert Howarth, Renee Santoro and Anthony Ingraffea, 'Methane and the greenhouse-gas footprint of natural gas from shale formations', Climatic Change, 2011.",
+   "Anil Agarwal and Sunita Narain, 'Global Warming in an Unequal World', Centre for Science and Environment, New Delhi, 1991.",
+   "Elinor Ostrom, 'Governing the Commons', Cambridge University Press, 1990.",
+   "Intergovernmental Panel on Climate Change, Sixth Assessment Report, Working Group 1, 2021.",
+   "Central Electricity Authority, Government of India, monthly and yearly generation reports.",
+   "International Renewable Energy Agency, 'Renewable Power Generation Costs in 2020'."
+  ]
+ },
+ "playtest": "Main hands-on investigation, to be written under this name: 'The two bowls test: which store lasts?' Two steel bowls each start with 20 rajma beans. Nothing is ever added to the first bowl. After every round, 3 beans are added to the second bowl. The child predicts, then takes 2 beans a round from each, then repeats with 4 a round and with 6 a round, counting the rounds until a bowl is empty or stopping at 15 rounds. The result the lesson relies on: the first bowl always empties, and the second bowl lasts only when the child takes 3 or fewer a round. The deep truth and the roots quote these numbers, so keep them. A second, optional test for a sunny day: 'The sun-catcher test', warming water in a black-wrapped and a foil-wrapped steel tumbler on a sunny sill for 30 minutes. It depends on the weather, so it must not be in the core path. Facts a reviewer must verify: India's coal age of about 250 to 300 million years and the age of Odisha coal. Oil struck at Digboi in 1889. About 1,000 watts on a square metre at noon, and one to two hours of sunlight matching a year of the world's energy use. Solar panels at about 20 parts in 100. Cochin airport fully solar since 2015. The size of Bhadla Solar Park. Shivanasamudra opening in 1902 and the distance to Kolar. Sistan windmills by about the 9th century CE. Carbon dioxide at 280 and above 420 parts in a million. About 2.3 kilograms of carbon dioxide from a litre of petrol. Sardar Sarovar families moved. The number of great Indian bustards and the 2021 Supreme Court order. Coal's share of about 7 in 10 units of India's electricity and non-fossil capacity at about half, which change every year. India's oil imports at more than 8 parts in 10. More than 36 crore LED bulbs. Carbon dioxide per person for India, the world and the United States, and India's total as third largest. The year 1485 CE for Guru Jambheshwar's rules and 1730 for Khejarli with 363 deaths. Peat growing about 1 millimetre a year. Hubbert's 1956 prediction and United States oil passing its 1970 level in 2018. The Jevons observation of 1865. The Simon and Ehrlich bet. Large hydropower counted as renewable in India from 2019. Jharia fires since 1916. The wording of Rig Veda 1.115.1, Atharva Veda 12.1.35, Isha Upanishad verse 1 and Chandogya Upanishad 3.19.1. Eunice Foote's paper being read by a man in 1856 and being rediscovered in 2011. Kadamparai as a pumped storage station. Richard Lindzen's view as stated. I could not open the founder's notes or the list of other lessons' deep truths, so the founder sources are empty and the deep truth must be checked against the others for overlap. Words that need flashcards, in the order met: energy source, fuel, burn, renewable, non-renewable, coal, oil, natural gas, fossil, fossil fuel, lignite, swamp, reserve, sunlight, watt, solar cooker, solar cell, solar panel, silicon, wind, turbine, generator, dam, hydropower, biomass, biogas, microbe, manure, carbon dioxide, methane, atom, uranium, nuclear energy, thorium, power station, electricity, store of energy, battery, pumped storage, LED bulb, saving energy, sacred grove, tonne, billion."
+}

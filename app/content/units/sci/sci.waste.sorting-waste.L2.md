@@ -329,7 +329,7 @@ The next morning, the bell rang twice. Thangam Akka looked in both bins and gave
 1. (sort) Sort these into the wet bin and the dry bin.  
    **Answer:** banana peel → Wet bin; glass jar → Dry bin; used tea leaves → Wet bin; newspaper → Dry bin; eggshell → Wet bin; tin can → Dry bin. *Why:* Peels, tea leaves and eggshells rot, so they are wet waste. Glass, paper and metal do not rot quickly, so they are dry waste.
 2. (mcq) In the Napkin Press Test, which piece left no wet mark but still goes in the wet bin?  
-   Options: The banana peel / The dry onion skin / The plastic wrapper  
+   Options: The dry onion skin / The banana peel / The plastic wrapper  
    **Answer:** The dry onion skin. *Why:* The onion skin is dry, so it left the napkin clean. But it rots, so it goes in the wet bin. The plastic wrapper also left no mark, but it does not rot, so it goes in the dry bin.
 3. (draw) Draw two napkins from the Napkin Press Test: one with a wet mark, and one with no mark. Write what was on each.  
    **Answer:** One napkin with a grey patch, labelled peel, rice or tea leaves. One clean napkin, labelled onion skin, dry leaf, wrapper or newspaper.. *Why:* A strong drawing shows the mark clearly and names the waste. The best ones pick a clean napkin from the wet bin group, like the onion skin.
@@ -347,7 +347,7 @@ The next morning, the bell rang twice. Thangam Akka looked in both bins and gave
 9. (count) You throw away 4 peels, 2 packets, 1 tin and 3 eggshells. How many things go in the wet bin?  
    **Answer:** 7. *Why:* The peels and eggshells rot. 4 peels and 3 eggshells make 7. The packets and the tin go in the dry bin.
 10. (mcq) Where does sorted wet waste go in many cities?  
-   Options: To a compost place, where it turns into soil / Into the sea / To a shop to be sold  
+   Options: Into the sea / To a compost place, where it turns into soil / To a shop to be sold  
    **Answer:** To a compost place, where it turns into soil. *Why:* Wet waste rots, so it can be made into compost for plants. Picking 'a shop' mixes it up with dry waste, which can be sold.
 11. (fill) Tiny living beings that eat dead plants and turn them into soil are called ____.  
    **Answer:** ['decomposers']. *Why:* Bacteria, fungi and earthworms are decomposers.
@@ -357,7 +357,7 @@ The next morning, the bell rang twice. Thangam Akka looked in both bins and gave
 1. (perspective) Two children argue about a dry leaf from the balcony.  
    **Answer:** A strong answer agrees with the second child: the dry leaf left no wet mark, but it rots, so it goes in the wet bin. It also says the first child is right that the leaf is dry to touch.. *Why:* Both children notice something true. The test shows the leaf is dry, and the bin depends on whether it rots.
 2. (mcq) On the Hanger Balance, the small wet bag went down and the big dry bag went up. Why?  
-   Options: The wet bag was heavier, because peels and food hold water / The big bag was heavier / The hanger was broken  
+   Options: The big bag was heavier / The hanger was broken / The wet bag was heavier, because peels and food hold water  
    **Answer:** The wet bag was heavier, because peels and food hold water. *Why:* A hanger tips towards the heavier side. Packets are big but light. Picking 'the big bag' may mean thinking bigger is always heavier.
 3. (order) Put the journey of a banana peel in order.  
    **Answer:** [0, 1, 2, 3, 4]. *Why:* The peel leaves home sorted, reaches a compost place, and is eaten until it becomes soil.
@@ -395,28 +395,28 @@ The next morning, the bell rang twice. Thangam Akka looked in both bins and gave
    Options: The wet bin / The dry bin / Neither  
    **Answer:** The wet bin. *Why:* The onion skin feels dry, but it rots. So it goes in the wet bin.
 4. (mcq) You have a milk packet with milk still inside. What should you do?  
-   Options: Rinse it, dry it, and put it in the dry bin / Put it in the wet bin, because it is wet / Put it in the dry bin with the milk inside  
+   Options: Put it in the wet bin, because it is wet / Rinse it, dry it, and put it in the dry bin / Put it in the dry bin with the milk inside  
    **Answer:** Rinse it, dry it, and put it in the dry bin. *Why:* The packet is plastic, so it is dry waste. Rinsing stops the milk from spoiling the paper in the dry bin.
 5. (mcq) In the Napkin Press Test, which piece usually leaves a wet mark?  
-   Options: The newspaper / The banana peel / The dry leaf  
+   Options: The banana peel / The newspaper / The dry leaf  
    **Answer:** The banana peel. *Why:* A peel is full of water, so it wets the napkin. Paper and dry leaves leave it clean.
 6. (mcq) In the Napkin Press Test, the dry onion skin left no wet mark, but it goes in the wet bin. What does this tell us?  
-   Options: A wet mark does not decide the bin. Whether it rots does. / The onion skin goes in the dry bin / The test went wrong  
+   Options: The onion skin goes in the dry bin / A wet mark does not decide the bin. Whether it rots does. / The test went wrong  
    **Answer:** A wet mark does not decide the bin. Whether it rots does.. *Why:* The onion skin is dry, but it rots. So the napkin mark does not tell us the bin.
 7. (mcq) On the Hanger Balance, which side goes down?  
-   Options: The heavier bag / The bigger bag / The bag with more colours  
+   Options: The bigger bag / The bag with more colours / The heavier bag  
    **Answer:** The heavier bag. *Why:* A hanger balance tips towards the heavier side. A big bag can be light.
 8. (mcq) Packets and boxes take a lot of space but are light. Why?  
    Options: They are full of air / They are full of water / They are made of stone  
    **Answer:** They are full of air. *Why:* Packets and boxes hold air, so they are big but light. Peels hold water, so they are small but heavy.
 9. (mcq) Where does sorted dry waste go in many cities?  
-   Options: To a sorting shed, then to be made into new things / To a compost place / Into a river  
+   Options: To a compost place / Into a river / To a sorting shed, then to be made into new things  
    **Answer:** To a sorting shed, then to be made into new things. *Why:* Workers sort dry waste into paper, plastic, glass and metal, and sell it to be recycled.
 10. (mcq) Where does mixed waste often end up?  
-   Options: At a dump / In the compost place / Back in our home  
+   Options: In the compost place / At a dump / Back in our home  
    **Answer:** At a dump. *Why:* Mixed waste is hard to compost or recycle, so it often goes to a dump.
 11. (mcq) You guess that the tea leaves will leave a wet mark on the napkin. What should you do next?  
-   Options: Test it, and see if you were right / Change your guess to be safe / Ask someone else to guess  
+   Options: Change your guess to be safe / Ask someone else to guess / Test it, and see if you were right  
    **Answer:** Test it, and see if you were right. *Why:* A guess with a reason is a good start. The test tells us what really happens.
 
 ## Applications

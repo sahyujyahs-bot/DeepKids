@@ -675,7 +675,7 @@ The water in the drum grew still. One last flake, caught on the rim, slipped in.
 ## Worksheets
 ### Where Waste Goes (core) (core, 17 questions)
 1. (mcq) What makes a piece of waste 'organic'?  
-   Options: It is wet / It came from a living being / It is brown / It smells bad  
+   Options: It is wet / It is brown / It smells bad / It came from a living being  
    **Answer:** It came from a living being. *Why:* Organic waste was made by a plant or an animal, so decomposers can eat it. Choosing 'wet' is a common slip. Paper and cotton are dry and still organic.
 2. (truefalse) True or false: newspaper is organic waste, although it is dry.  
    **Answer:** True. *Why:* True. Paper is made from trees, so decomposers can eat it. A strong answer adds that dry paper still goes in the dry waste, to be recycled first.
@@ -686,7 +686,7 @@ The water in the drum grew still. One last flake, caught on the rim, slipped in.
 5. (match) Match each word to what it means.  
    **Answer:** Segregation → keeping kinds of waste apart; Compost → what decomposers leave when they have air; Methane → a gas made when waste rots without air; Landfill → a lined place built for burying waste; Recycling → making new things from old material. *Why:* These five words are needed to talk about where waste goes. A strong answer could give an example of each.
 6. (mcq) A piece of drink bottle sinks in water. A piece of its cap floats. Why?  
-   Options: The cap is coloured / They are two different plastics / The bottle piece is bigger / The cap has tiny holes  
+   Options: They are two different plastics / The cap is coloured / The bottle piece is bigger / The cap has tiny holes  
    **Answer:** They are two different plastics. *Why:* The bottle and the cap are different materials. Bottle plastic is denser than water, and cap plastic is less dense. Colour and size make no difference to floating.
 7. (write) In the Float Tank Test, water sorted 20 mixed flakes. Explain how, using the word 'density'.  
    **Answer:** The bottle flakes are denser than water, so they sank. The box flakes are less dense than water, so they floated. I skimmed the floating flakes off the top, and the two plastics were apart.. *Why:* A strong answer says which plastic is denser than water and which is less dense, and how that separated them.
@@ -706,7 +706,7 @@ The water in the drum grew still. One last flake, caught on the rim, slipped in.
 14. (perspective) A family has a big heap of dry leaves swept from the yard. Two neighbours disagree about it.  
    **Answer:** A strong answer says that burning moves the leaves into the air as smoke and gases, which everyone breathes. It also takes the other side seriously: a loose heap can shelter pests, so the leaves should go in a covered compost pit or bin.. *Why:* Both neighbours want a clean, safe yard. The science shows where the leaves go in each plan.
 15. (mcq) Which of these is hazardous waste?  
-   Options: A banana peel / A used battery / A cardboard box / A glass jar  
+   Options: A used battery / A banana peel / A cardboard box / A glass jar  
    **Answer:** A used battery. *Why:* A battery holds metals that can leak and poison soil and water. The other three are ordinary wet or dry waste.
 16. (write) Your family will keep two bins at home. Write the label for each bin, and name three things that go in each. Where will you keep them?  
    **Answer:** Organic: peels, leftover food, a banana leaf. Inorganic: a chips packet, a steel tin, a glass bottle. I will keep them by the kitchen door, where everyone passes.. *Why:* A strong answer puts things that once lived in one bin and things that never rot in the other, and chooses a place that is easy to use.
@@ -714,7 +714,7 @@ The water in the drum grew still. One last flake, caught on the rim, slipped in.
    **Answer:** Rainwater soaks down through the waste and picks up salts, rotting matter and metals. This leachate seeps into the soil under the dump and reaches the groundwater. The well draws from that groundwater.. *Why:* A strong answer follows the water step by step: rain, through the waste, into the soil, into the groundwater, into the well.
 ### Sorting, Rotting and Leaking (stretch) (stretch, 17 questions)
 1. (mcq) Deep inside a dump there is no air. Which gas does rotting food make there?  
-   Options: Oxygen / Methane / Steam / Nitrogen  
+   Options: Methane / Oxygen / Steam / Nitrogen  
    **Answer:** Methane. *Why:* Without air, a different set of microbes takes over, and they give off methane. Methane burns and traps heat in the air.
 2. (write) A chips packet springs open after you scrunch it. Kitchen foil stays in a ball. What does this tell you?  
    **Answer:** The chips packet is mostly plastic film, which springs back. Kitchen foil is metal, which stays bent. So the silver inside the packet is only a very thin coat of metal on plastic.. *Why:* A strong answer uses the result as evidence about the material, and does not judge by the silver colour.
@@ -725,7 +725,7 @@ The water in the drum grew still. One last flake, caught on the rim, slipped in.
 5. (sort) Sort these by what should be done with each.  
    **Answer:** vegetable peels → Compost; newspapers → Sell for recycling; used batteries → Hazard box; tea leaves → Compost; aluminium cans → Sell for recycling; old medicines → Hazard box; glass jars → Sell for recycling; a broken tube light → Hazard box; dry flowers → Compost. *Why:* Organic kitchen waste can be composted. Clean single materials can be sold. Things that poison or cut are kept apart in a closed box.
 6. (mcq) Flattened dry waste filled a quarter of the bucket it had filled before. What left the bucket?  
-   Options: Plastic / Air / Mass / Cardboard  
+   Options: Plastic / Mass / Air / Cardboard  
    **Answer:** Air. *Why:* Bottles and boxes are mostly air inside. Flattening pushes the air out. The plastic, the card and their mass all stay.
 7. (draw) Draw one banana peel in a compost pot. Add arrows to show where its matter goes.  
    **Answer:** A peel in a pot with decomposers on it. One arrow goes up to the air, labelled carbon dioxide and water vapour. One arrow goes down, labelled compost.. *Why:* A strong drawing shows matter going two ways: into the air as gases and into the soil as compost. It shows decomposers doing the work.
@@ -740,7 +740,7 @@ The water in the drum grew still. One last flake, caught on the rim, slipped in.
 12. (match) Match each action to how it keeps soil clean.  
    **Answer:** Neem-leaf spray on crops → keeps insects off without a strong poison; Compost and cow dung manure → feeds the soil with rotted waste; Sorting and recycling waste → less plastic and glass buried in fields; A factory cleans its waste water → metals and chemicals stay out of fields. *Why:* Each action stops a different kind of harm to soil before it starts.
 13. (mcq) Paper can be recycled about five to seven times. Why not for ever?  
-   Options: The ink runs out / Its fibres get shorter each time / Paper turns into plastic / Factories refuse old paper  
+   Options: Its fibres get shorter each time / The ink runs out / Paper turns into plastic / Factories refuse old paper  
    **Answer:** Its fibres get shorter each time. *Why:* Each time paper is pulped, its plant fibres break and get shorter. Short fibres cannot hold a sheet together. Glass and metal do not have this limit.
 14. (odd) Three of these are multi-layer packaging. Which is the odd one out?  
    Options: Juice carton / Chips packet / Glass jar / Shampoo sachet  
@@ -757,7 +757,7 @@ The water in the drum grew still. One last flake, caught on the rim, slipped in.
 2. (perspective) A snack company sells chips in a packet that nobody can recycle. Three people speak about the empty packets.  
    **Answer:** A strong answer uses the finding that a multi-layer packet cannot be separated or remelted. It notes that the buyer did not choose the material. It is fair to the manager: the packet really does save food and fuel.. *Why:* India's rules now make companies collect their plastic back, but people still argue about how well this works.
 3. (mcq) A solid piece of plastic sinks in plain water and floats in strong salt water. What does this show?  
-   Options: It is denser than both liquids / It is denser than plain water only / It is less dense than both / Salt makes plastic lighter  
+   Options: It is denser than plain water only / It is denser than both liquids / It is less dense than both / Salt makes plastic lighter  
    **Answer:** It is denser than plain water only. *Why:* Its density lies between the two. It is a little denser than plain water and less dense than salt water. The salt changes the water, not the plastic.
 4. (write) A sack holds chopped bottle bits and cap bits, all mixed. Design a way to separate them.  
    **Answer:** Tip the bits into a tank of water and stir. The bottle bits are denser than water and sink. The cap bits are less dense and float. Skim off the floating bits and scoop out the sunk ones.. *Why:* A strong answer uses density and says which bits go where. It mentions stirring, so that air bubbles do not hold bits up.
@@ -773,7 +773,7 @@ The water in the drum grew still. One last flake, caught on the rim, slipped in.
 9. (sort) Sort each thing by where most of its matter is one year later.  
    **Answer:** a peel burnt in a street fire → In the air; finished compost dug into a pot → In the soil; a glass bottle in a lake → Still the same thing; methane from a dump → In the air; a plastic spoon in a field → Still the same thing; ash from burnt leaves → In the soil. *Why:* Burning and rotting without air send matter into the air. Compost and ash join the soil. Glass and plastic stay as they are.
 10. (mcq) A paper bag takes more water and energy to make than a plastic bag. When is paper better?  
-   Options: Always, whatever is done with it / When it is reused several times / Never / Only when it is white  
+   Options: Always, whatever is done with it / Never / When it is reused several times / Only when it is white  
    **Answer:** When it is reused several times. *Why:* A study in Britain found that a paper bag must be used 3 times to harm the climate less. Paper also rots if it is littered, which plastic does not. So the answer depends on how the bag is used.
 11. (order) A used battery is thrown on an open dump. Put what follows in order.  
    **Answer:** ['The steel case rusts open', 'Metals leak out of the battery', 'Rain washes the metals down through the waste', 'The metals reach the groundwater', 'People draw the water from a well']. *Why:* Hazardous waste harms through a chain of small steps. Keeping the battery out of the dump breaks the chain at the start.
@@ -796,55 +796,55 @@ The water in the drum grew still. One last flake, caught on the rim, slipped in.
 
 ## Quiz
 1. (mcq) Which pair is organic waste?  
-   Options: A glass jar and a steel tin / A newspaper and a cotton rag / A milk packet and a bottle / Foil and a broken tile  
+   Options: A glass jar and a steel tin / A milk packet and a bottle / A newspaper and a cotton rag / Foil and a broken tile  
    **Answer:** A newspaper and a cotton rag. *Why:* Newspaper is made from trees and cotton from a plant, so decomposers can eat both. They are dry, but organic does not mean wet.
 2. (mcq) Why can decomposers eat a peel but not a plastic bag?  
    Options: The peel is softer / They have enzymes for what living beings make / The bag is too big / Plastic is too cold  
    **Answer:** They have enzymes for what living beings make. *Why:* Decomposers have had hundreds of millions of years to fit their enzymes to plants and animals. Plastic is new, and its long chains fit almost no enzyme. Softness makes no difference. A hard coconut shell rots.
 3. (mcq) Peels rot in a compost pot with plenty of air. What do they become?  
-   Options: Methane and leachate / Compost, carbon dioxide and water / Ash and smoke / Small pieces of plastic  
+   Options: Methane and leachate / Ash and smoke / Small pieces of plastic / Compost, carbon dioxide and water  
    **Answer:** Compost, carbon dioxide and water. *Why:* With air, decomposers turn peels into compost, carbon dioxide and water. Methane and leachate come from rotting without air, as in a dump.
 4. (mcq) A sheet of paper weighs 5 grams. Its ash weighs far less. Where is the rest?  
-   Options: It was destroyed by the fire / In the air, as gases and smoke / Hidden inside the ash / It turned into light only  
+   Options: In the air, as gases and smoke / It was destroyed by the fire / Hidden inside the ash / It turned into light only  
    **Answer:** In the air, as gases and smoke. *Why:* The atoms joined with oxygen and left as carbon dioxide, water vapour and smoke. Choosing 'destroyed' means thinking that matter we cannot see has stopped existing.
 5. (mcq) Why can a big dump catch fire by itself?  
-   Options: Buried food waste makes methane, which burns / Plastic gets hot in the rain / Glass rots and makes heat / Leachate is a fuel  
+   Options: Plastic gets hot in the rain / Glass rots and makes heat / Buried food waste makes methane, which burns / Leachate is a fuel  
    **Answer:** Buried food waste makes methane, which burns. *Why:* Deep in a dump there is no air, so rotting food gives off methane. Methane burns easily and can smoulder inside the heap for weeks.
 6. (mcq) Two plastic flakes look the same. In water, one sinks and one floats. What can you say for sure?  
-   Options: They are different materials / One is older than the other / One is dirtier than the other / They are the same plastic  
+   Options: One is older than the other / One is dirtier than the other / They are the same plastic / They are different materials  
    **Answer:** They are different materials. *Why:* The same water treated them differently, so their densities differ, and so they are different materials. Age and dirt do not change whether a plastic floats.
 7. (mcq) Why does a recycling factory want one kind of plastic at a time?  
-   Options: Mixed plastics melt into a weak material / Mixed plastics are heavier / One kind looks prettier / Mixed plastics rot in the machine  
+   Options: Mixed plastics are heavier / One kind looks prettier / Mixed plastics melt into a weak material / Mixed plastics rot in the machine  
    **Answer:** Mixed plastics melt into a weak material. *Why:* Different plastics melt at different temperatures and do not mix well. The result is cloudy and weak, and few buyers want it.
 8. (mcq) A juice carton is paper, plastic and metal foil stuck together. Why is it hard to recycle?  
    Options: The layers cannot be pulled apart cheaply / Paper cannot be recycled / Metal cannot be melted / It is too heavy to carry  
    **Answer:** The layers cannot be pulled apart cheaply. *Why:* Each of the three materials can be recycled alone. Stuck together in thin layers, they need special machines to separate, and few places have them.
 9. (mcq) Where should a used battery go?  
-   Options: In the wet waste / In the dry bag with paper / In a separate closed box for hazardous waste / Down the drain  
+   Options: In the wet waste / In a separate closed box for hazardous waste / In the dry bag with paper / Down the drain  
    **Answer:** In a separate closed box for hazardous waste. *Why:* A battery holds metals that leak into soil and water. It is kept apart and given to a collection point. In the dry bag it can be crushed in the truck.
 10. (mcq) Four people made 14 kilograms of waste in 7 days. How much is that for each person in a day?  
    Options: 2 kilograms / 500 grams / 3.5 kilograms / 200 grams  
    **Answer:** 500 grams. *Why:* One day: 14 ÷ 7 = 2 kilograms. One person: 2 kilograms ÷ 4 = 500 grams. Choosing 2 kilograms stops after the first step.
 11. (mcq) Which choice is highest on the waste hierarchy?  
-   Options: Recycling a plastic bottle / Carrying water in a steel bottle / Burning a plastic bottle / Burying a plastic bottle  
+   Options: Recycling a plastic bottle / Burning a plastic bottle / Burying a plastic bottle / Carrying water in a steel bottle  
    **Answer:** Carrying water in a steel bottle. *Why:* Carrying a steel bottle means no plastic bottle is made or thrown at all. Reducing comes before recycling, because nothing has to be collected or melted.
 12. (mcq) Which of these do scientists still not know about plastic?  
-   Options: Whether it floats / How long it really lasts in nature / What it is made from / Whether it can melt  
+   Options: Whether it floats / What it is made from / How long it really lasts in nature / Whether it can melt  
    **Answer:** How long it really lasts in nature. *Why:* Plastic has been in wide use for less than a hundred years, so nobody has watched it for longer. The figures of hundreds of years are worked out from short tests.
 13. (mcq) A farmer's field is next to a factory drain. Her wheat grows weak. Which could be the reason?  
-   Options: Metals and chemicals from the drain have got into the soil / The soil has too many earthworms / The wheat is too well watered  
+   Options: The soil has too many earthworms / The wheat is too well watered / Metals and chemicals from the drain have got into the soil  
    **Answer:** Metals and chemicals from the drain have got into the soil. *Why:* Poisons in the soil can stop seeds sprouting, or be taken up by the roots. Earthworms help soil, and they die when soil is poisoned.
 14. (mcq) Which action keeps a field's soil cleaner?  
-   Options: Spraying a neem-leaf mixture and spreading compost / Burning polythene bags at the edge of the field / Burying plastic bags in the soil  
+   Options: Burning polythene bags at the edge of the field / Burying plastic bags in the soil / Spraying a neem-leaf mixture and spreading compost  
    **Answer:** Spraying a neem-leaf mixture and spreading compost. *Why:* Neem spray and compost use things that rot, and they feed the soil. Burning polythene makes poison smoke, and buried plastic stays for years.
 15. (mcq) Which of these is part of the environment?  
-   Options: Only forests and rivers / Only things that people have made / A pond, a road and a tulsi plant  
+   Options: A pond, a road and a tulsi plant / Only forests and rivers / Only things that people have made  
    **Answer:** A pond, a road and a tulsi plant. *Why:* The environment is everything around us, whether nature made it or people did. A pond and a tulsi plant came from nature, and the road was made by people.
 16. (mcq) A home has two labelled bins, organic and inorganic. Where do a mango peel and a dry chips packet go?  
-   Options: Both in the organic bin / The peel in the organic bin, the packet in the inorganic bin / The peel in the inorganic bin, the packet in the organic bin  
+   Options: The peel in the organic bin, the packet in the inorganic bin / Both in the organic bin / The peel in the inorganic bin, the packet in the organic bin  
    **Answer:** The peel in the organic bin, the packet in the inorganic bin. *Why:* A peel came from a plant and decomposers can eat it. A chips packet is plastic and does not rot.
 17. (mcq) Which of these can go into a village biogas plant?  
-   Options: Cow dung, dry leaves and crop leftovers / Glass bottles and steel tins / Plastic bags and old batteries  
+   Options: Glass bottles and steel tins / Plastic bags and old batteries / Cow dung, dry leaves and crop leftovers  
    **Answer:** Cow dung, dry leaves and crop leftovers. *Why:* Microbes can eat dung, leaves and crop leftovers, and they make gas. They cannot eat glass, steel or plastic, and batteries poison the tank.
 
 ## Applications

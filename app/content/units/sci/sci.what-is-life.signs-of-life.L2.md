@@ -487,7 +487,7 @@ Ajji laughed. 'Put one on a glass of water and see,' she said.
 7. (draw) Draw a plant that senses light. Show where the light comes from and which way the plant bends.  
    **Answer:** A plant with shoots or leaves bending towards a window or a lamp.. *Why:* Plants sense where the light is and grow that way. A strong drawing shows the light and the plant bending towards the light, such as a potato shoot in a maze or a money plant at a window.
 8. (mcq) A spoon of curd set a whole katori of warm milk overnight. Which sign of life did the curd bacteria show?  
-   Options: They had young: they made more of themselves / They moved to a new house / They got rid of the milk  
+   Options: They moved to a new house / They got rid of the milk / They had young: they made more of themselves  
    **Answer:** They had young: they made more of themselves. *Why:* The bacteria ate the milk sugar, grew and split into more bacteria. Making more of their own kind is having young.
 9. (fill) When you sit very still, you still ________ in and out.  
    **Answer:** ['breathe']. *Why:* Breathing never stops, even when you are still or asleep. Sprouts keep breathing too, even though they lie still.
@@ -524,36 +524,36 @@ Ajji laughed. 'Put one on a glass of water and see,' she said.
 
 ## Quiz
 1. (mcq) How many signs of life are there?  
-   Options: Three / Seven / Ten  
+   Options: Seven / Three / Ten  
    **Answer:** Seven. *Why:* There are seven: eat, breathe, grow, move, sense, get rid of waste and have young.
 2. (mcq) Which of these is a sign of life?  
-   Options: Being shiny / Having young / Being heavy  
+   Options: Being shiny / Being heavy / Having young  
    **Answer:** Having young. *Why:* Having young is one of the seven signs. Being shiny or heavy has nothing to do with being alive: a steel spoon is shiny, and a stone is heavy.
 3. (mcq) In the chuna water test, clear chuna water turned milky next to the moong sprouts. What made it milky?  
-   Options: Carbon dioxide breathed out by the sprouts / Water from the wet cloth / Light from the window  
+   Options: Water from the wet cloth / Light from the window / Carbon dioxide breathed out by the sprouts  
    **Answer:** Carbon dioxide breathed out by the sprouts. *Why:* The dabba with only a wet cloth had the same wet cloth and stayed clear. The dabba was shut, so light did not matter. The sprouts breathed out carbon dioxide.
 4. (mcq) Why do plants seem still, though they are alive?  
-   Options: Plants move slowly, mostly by growing / Plants are only pretending to be alive / Plants move only at night  
+   Options: Plants are only pretending to be alive / Plants move only at night / Plants move slowly, mostly by growing  
    **Answer:** Plants move slowly, mostly by growing. *Why:* Plants move by growing: shoots bend to light and roots grow down. This is too slow for our eyes to see. If you said plants move only at night, think of the money plant turning to the window in daytime.
 5. (mcq) Someone says, 'My toy car moves, so my car is alive.' What is wrong with this idea?  
-   Options: Moving is not enough: the car never eats, grows or has young / Nothing, the idea is right / A car is alive only when the engine is on  
+   Options: Nothing, the idea is right / Moving is not enough: the car never eats, grows or has young / A car is alive only when the engine is on  
    **Answer:** Moving is not enough: the car never eats, grows or has young. *Why:* One sign alone does not show life. A living being does all seven signs.
 6. (mcq) Which of these is alive, though it seems to do nothing?  
-   Options: A glass marble / A dry moong seed / A plastic spoon  
+   Options: A dry moong seed / A glass marble / A plastic spoon  
    **Answer:** A dry moong seed. *Why:* A dry moong seed is alive and resting. With water, the seed sprouts. A marble and a plastic spoon were never alive.
 7. (mcq) Why does a spoon of curd turn warm milk into curd?  
-   Options: The curd has tiny living bacteria that grow in the milk / Curd makes milk cold / Curd is heavier than milk  
+   Options: Curd makes milk cold / Curd is heavier than milk / The curd has tiny living bacteria that grow in the milk  
    **Answer:** The curd has tiny living bacteria that grow in the milk. *Why:* Curd bacteria eat the sugar in milk, grow and make more of themselves. As they do, the milk turns thick and sour.
 8. (truefalse) Plants breathe in the daytime and at night.  
    **Answer:** True. *Why:* True. Plants breathe all the time. In sunlight they also make food, which hides the breathing.
 9. (mcq) In the chuna water test, why was there a dabba with only a wet cloth?  
-   Options: To compare: it shows what happens with no sprouts / To keep a spare dabba / To make the test quicker  
+   Options: To keep a spare dabba / To compare: it shows what happens with no sprouts / To make the test quicker  
    **Answer:** To compare: it shows what happens with no sprouts. *Why:* The dabba with only a wet cloth is the same in every way except the sprouts. So any difference must be caused by the sprouts. This is a fair test.
 10. (mcq) Which tricky case was never alive?  
    Options: A potato / Curd / A cloud  
    **Answer:** A cloud. *Why:* A cloud grows and moves, but never eats, breathes or has young. A potato is alive, and curd is full of living bacteria.
 11. (mcq) A karela vine on a balcony touches a string with a thin tendril. The tendril curls tightly round the string. Which sign of life is this?  
-   Options: Sensing touch / Having young / Getting rid of waste  
+   Options: Having young / Sensing touch / Getting rid of waste  
    **Answer:** Sensing touch. *Why:* The tendril senses the touch of the string and curls round it. That is sensing, and moving too.
 
 ## Applications

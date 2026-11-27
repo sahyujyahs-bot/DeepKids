@@ -426,7 +426,7 @@ Meenakshi stared at the smudge. 'So the cloud wasn't a cloud,' she said slowly, 
 ## Worksheets
 ### Our Galaxy (core) (core, 15 questions)
 1. (mcq) The Milky Way is:  
-   Options: our galaxy / a planet / a constellation  
+   Options: a planet / our galaxy / a constellation  
    **Answer:** our galaxy. *Why:* The Milky Way is the galaxy we live in. A constellation is a pattern of stars seen from Earth, and all those stars are inside the Milky Way.
 2. (truefalse) The stars in a galaxy are packed so close that they touch each other.  
    **Answer:** False. *Why:* False. Stars in a galaxy are very far apart. Between the Sun and the nearest star there are about 4 light-years of almost empty space.
@@ -437,7 +437,7 @@ Meenakshi stared at the smudge. 'So the cloud wasn't a cloud,' she said slowly, 
 5. (write) In the Pinhole Galaxy experiment, which pair of holes looked like one light first as you walked back? Why?  
    **Answer:** The pair 1 millimetre apart, because its gap was smallest. The further away I was, the smaller the gap looked, so the closest pair blurred first.. *Why:* A strong answer names the pair from the child's own results and links it to the size of the gap.
 6. (mcq) From far away, the bunch of 15 pinholes looked like one fuzzy light. Which real thing in the sky does this explain?  
-   Options: Why the Moon changes shape / Why the Milky Way looks like a pale glow / Why the Sun is hot  
+   Options: Why the Milky Way looks like a pale glow / Why the Moon changes shape / Why the Sun is hot  
    **Answer:** Why the Milky Way looks like a pale glow. *Why:* Many faint stars, close together as seen from Earth, blur into one glow, like the bunch of pinholes from far away.
 7. (draw) Draw the Milky Way from the side: a thin disc with a bulge in the middle. Mark the Sun. Draw one arrow along the disc and one arrow up out of it.  
    **Answer:** A thin line with a bulge in the middle, the Sun about halfway along inside the line, an arrow along the line and an arrow pointing up.. *Why:* The arrow along the disc crosses many more stars. That direction is the band we see.
@@ -467,7 +467,7 @@ Meenakshi stared at the smudge. 'So the cloud wasn't a cloud,' she said slowly, 
 3. (truefalse) Binoculars make faraway stars bigger, so the Milky Way breaks into stars.  
    **Answer:** False. *Why:* False. Stars are so far away that they stay tiny points even in binoculars. What binoculars make bigger is the gap between stars, so your eyes can tell them apart. They also gather more light, so fainter stars show.
 4. (mcq) Andromeda has hundreds of billions of stars. Why does it look like one faint smudge to our eyes?  
-   Options: It is very small / It is so far away that its stars blur together / It has no stars, only gas  
+   Options: It is very small / It has no stars, only gas / It is so far away that its stars blur together  
    **Answer:** It is so far away that its stars blur together. *Why:* Andromeda is about 2 and a half million light-years away. From here its stars look far too close together, and are too faint, for our eyes to tell apart. It is like the bunch of pinholes in the Pinhole Galaxy experiment, seen from very far away.
 5. (fill) Nobody can see the black hole at the centre of the Milky Way. We know it is there because nearby stars race round it very ____.  
    **Answer:** ['fast', 'quickly']. *Why:* Only something very heavy can pull stars round that fast. The black hole gives out no light of its own, so we find it by how stars move around it.
@@ -480,7 +480,7 @@ Meenakshi stared at the smudge. 'So the cloud wasn't a cloud,' she said slowly, 
 9. (sort) Sort these. Do they help you see the Milky Way, or hide it?  
    **Answer:** a dark village far from towns → Helps you see it; streetlights → Hides it; a bright full Moon → Hides it; waiting 15 minutes in the dark → Helps you see it; binoculars → Helps you see it; clouds of the monsoon → Hides it. *Why:* The Milky Way is faint. Anything that brightens the sky, or blocks it, hides it. Darkness, dark-adapted eyes and binoculars help.
 10. (mcq) If the whole solar system, out to Neptune, shrank to the size of a 1 rupee coin, the nearest star would be about 90 metres away, about the length of a football field. What does this tell you?  
-   Options: Stars are very far apart compared with the size of a solar system / The nearest star is inside our solar system / Stars are packed close together  
+   Options: The nearest star is inside our solar system / Stars are very far apart compared with the size of a solar system / Stars are packed close together  
    **Answer:** Stars are very far apart compared with the size of a solar system. *Why:* If a whole solar system is the size of a tiny coin, the next star is a football field away. Most of a galaxy is empty space between the stars.
 11. (odd) Which one is not a galaxy?  
    Options: The Milky Way / Andromeda / The Large Magellanic Cloud / Jyeshtha  
@@ -501,7 +501,7 @@ Meenakshi stared at the smudge. 'So the cloud wasn't a cloud,' she said slowly, 
 3. (write) Nobody has ever been outside the Milky Way to look at it. So how do astronomers know it is a flat spiral? Give two kinds of evidence.  
    **Answer:** We see it as a band all round the sky, which is what a flat disc looks like from inside. Star counts in different directions show where it goes on longest. Maps of its gas made with radio telescopes show spiral arms. Other galaxies we can see from outside have the same shape.. *Why:* A strong answer gives two different pieces of evidence and says what each shows. It may mention that every picture of our galaxy from above is a drawing.
 4. (mcq) Light from Andromeda takes about 2 and a half million years to reach us. When you look at Andromeda tonight, what are you seeing?  
-   Options: Andromeda as it is tonight / Andromeda as it was 2 and a half million years ago / Andromeda as it will be in the future  
+   Options: Andromeda as it was 2 and a half million years ago / Andromeda as it is tonight / Andromeda as it will be in the future  
    **Answer:** Andromeda as it was 2 and a half million years ago. *Why:* The light set off 2 and a half million years ago. You see Andromeda as it was then, long before there were any humans to look.
 5. (mcq) Astronomers built an observatory at Hanle in Ladakh, high in the mountains. Which reason fits best?  
    Options: The sky there is dark, dry and often clear / Hanle is close to the stars / There are no people to ask questions  
@@ -513,7 +513,7 @@ Meenakshi stared at the smudge. 'So the cloud wasn't a cloud,' she said slowly, 
 8. (write) Vera Rubin found that the outer stars of spiral galaxies go round too fast. Explain in your own words why that was a puzzle.  
    **Answer:** The stars we can see do not have enough gravity to hold stars going that fast. They should fly away, but they don't. So either there is extra unseen stuff pulling, or gravity works differently far out.. *Why:* A strong answer says that speed needs pull to hold it, and that the visible stars do not give enough pull.
 9. (mcq) Henrietta Leavitt studied pulsing stars in the Small Magellanic Cloud. Why was it useful that all those stars are about the same distance from us?  
-   Options: So she could see them with her own eyes / So that a star that looked brighter really was brighter / So they all pulsed at the same speed  
+   Options: So that a star that looked brighter really was brighter / So she could see them with her own eyes / So they all pulsed at the same speed  
    **Answer:** So that a star that looked brighter really was brighter. *Why:* If the stars are all about the same distance away, the brighter-looking ones really are brighter. That let her see that the brighter ones pulse more slowly.
 10. (match) Match each galaxy to a fact about it.  
    **Answer:** The Milky Way → a barred spiral with the Sun in it; Andromeda → the nearest big spiral galaxy, moving towards us; The Large Magellanic Cloud → a small irregular galaxy near ours; Messier 87 → a giant elliptical whose black hole was photographed in 2019. *Why:* Each galaxy shows a different shape or story. Together they show that the Milky Way is one galaxy among many.
@@ -536,10 +536,10 @@ Meenakshi stared at the smudge. 'So the cloud wasn't a cloud,' she said slowly, 
 
 ## Quiz
 1. (mcq) What is a galaxy?  
-   Options: One very big star / A huge group of stars, gas and dust held together by gravity / A planet with many moons  
+   Options: One very big star / A planet with many moons / A huge group of stars, gas and dust held together by gravity  
    **Answer:** A huge group of stars, gas and dust held together by gravity. *Why:* A galaxy is a huge group of stars, gas and dust that gravity holds together. Picking 'one very big star' mixes up a galaxy with a star. The Sun is one star in our galaxy.
 2. (mcq) The Sun is:  
-   Options: one of the stars of the Milky Way / outside every galaxy / the centre of the Milky Way  
+   Options: outside every galaxy / the centre of the Milky Way / one of the stars of the Milky Way  
    **Answer:** one of the stars of the Milky Way. *Why:* The Sun is one of between 100 and 400 billion stars in the Milky Way, about halfway out from the centre. People once thought it was at the centre, because dust hid the faraway stars and fooled them.
 3. (mcq) Why does the Milky Way look like a band across the sky?  
    Options: The stars are arranged in a long straight line / Our galaxy is a flat disc and we see it from inside / It is a cloud of water high above the Earth  
@@ -548,28 +548,28 @@ Meenakshi stared at the smudge. 'So the cloud wasn't a cloud,' she said slowly, 
    Options: The two lights get further apart / At some distance the two lights look like one / The lights change colour  
    **Answer:** At some distance the two lights look like one. *Why:* From further away the gap looks smaller, until your eyes cannot tell the two lights apart. The Milky Way's stars blur together in the same way.
 5. (mcq) You look at the faint glow of the Milky Way through a telescope. What do you see?  
-   Options: It is a river of water / It is made of countless stars / It is a cloud of gas  
+   Options: It is made of countless stars / It is a river of water / It is a cloud of gas  
    **Answer:** It is made of countless stars. *Why:* A telescope makes the gaps between the stars look bigger, so the glow breaks into stars. Our eyes alone see only the glow.
 6. (mcq) A galaxy shaped like a flat pinwheel with curved arms is called:  
-   Options: an elliptical galaxy / an irregular galaxy / a spiral galaxy  
+   Options: a spiral galaxy / an elliptical galaxy / an irregular galaxy  
    **Answer:** a spiral galaxy. *Why:* Spiral galaxies have curved arms winding out from a bright middle. Elliptical ones are smooth ovals, and irregular ones have no clear shape.
 7. (mcq) A galaxy that looks like a smooth, glowing egg with no arms is:  
-   Options: elliptical / spiral / irregular  
+   Options: spiral / elliptical / irregular  
    **Answer:** elliptical. *Why:* Elliptical galaxies are smooth balls or eggs of mostly old stars. If you picked spiral, look for arms: an elliptical has none.
 8. (mcq) Some pulsing stars pulse more slowly when they are really brighter. Why is this so useful to astronomers?  
-   Options: It tells us when a star will explode / From the pulse we know how bright the star really is, so how faint it looks tells us how far away it is / It shows which stars have planets  
+   Options: From the pulse we know how bright the star really is, so how faint it looks tells us how far away it is / It tells us when a star will explode / It shows which stars have planets  
    **Answer:** From the pulse we know how bright the star really is, so how faint it looks tells us how far away it is. *Why:* The pulse tells how bright the star really is. A star that is really bright but looks faint must be far away. So these stars work like distance markers in the sky.
 9. (mcq) Astronomers find a pulsing star in the fuzzy Andromeda patch and work out that it is millions of light-years away. Our galaxy is only about 100,000 light-years across. What does this show?  
-   Options: Andromeda is a cloud of gas inside the Milky Way / Andromeda is a galaxy far outside the Milky Way / Andromeda is a planet  
+   Options: Andromeda is a galaxy far outside the Milky Way / Andromeda is a cloud of gas inside the Milky Way / Andromeda is a planet  
    **Answer:** Andromeda is a galaxy far outside the Milky Way. *Why:* The star is far beyond the edge of our galaxy. So Andromeda is a whole galaxy of its own, and the Milky Way is not the whole universe.
 10. (mcq) What is at the very centre of the Milky Way?  
-   Options: The Sun / A black hole about 4 million times as heavy as the Sun / Nothing at all  
+   Options: The Sun / Nothing at all / A black hole about 4 million times as heavy as the Sun  
    **Answer:** A black hole about 4 million times as heavy as the Sun. *Why:* Astronomers watched stars racing round an unseen object at the centre. It is a black hole called Sagittarius A star. The Sun is about 26,000 light-years away from it.
 11. (mcq) About how long does the Sun take to go once round the centre of the Milky Way?  
    Options: One year / About 230 million years / About 100 years  
    **Answer:** About 230 million years. *Why:* One year is how long the Earth takes to go round the Sun. The Sun's trip round the galaxy is far longer, about 230 million years.
 12. (mcq) Why can't most people in Chennai see the Milky Way from home?  
-   Options: It is only in the sky in other countries / City lights make the sky glow and drown out its faint light / It only comes out in the daytime  
+   Options: It is only in the sky in other countries / It only comes out in the daytime / City lights make the sky glow and drown out its faint light  
    **Answer:** City lights make the sky glow and drown out its faint light. *Why:* The Milky Way is in the sky over every country, but its light is faint. Street and building lights make the city sky glow, and that glow hides it. From a dark place, far from cities, it is easy to see.
 
 ## Applications

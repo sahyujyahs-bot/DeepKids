@@ -1,0 +1,665 @@
+{
+ "id": "sci.sound.noise-and-ears.L5",
+ "title": "Noise and our ears: what loud sound does, who it reaches, and how sounds warn",
+ "level": 5,
+ "summary": {
+  "text": "A drummer loves the sound of her drum. The baby next door is woken by it, and a myna leaves her nest because of it. Is the drumming noise, or is it music? In this lesson you measure the sounds of your own home and street in decibels. You find out what loud sound does to the tiny hair cells inside the ear, and why that damage does not heal. You look at what noise does to sleep, to learning and to other animals, at India's rules about noise, and at the sounds that are loud on purpose because they warn us.",
+  "art": "A street seen from a balcony with a drummer, a honking auto, a sleeping baby at a window and a myna on a wire, with a child holding a phone that shows a decibel number."
+ },
+ "intro": {
+  "hook": "Close your eyes for one minute and count every different sound you can hear. Now open them. Which of those sounds did you want to hear, and which would you switch off if you could?",
+  "text": "You can shut your eyes, but you cannot shut your ears. Sound reaches them all day and all night, wanted or not. Some of it is only a nuisance. Some of it is strong enough to harm the ear for life, and gives no pain while it does so. Today you will measure sound with a number, learn what happens deep inside the ear, and work out how a family, a street and a city can keep their hearing.",
+  "art": "A child sitting with closed eyes while small labelled sound-lines arrive from a fan, a pressure cooker, a crow, a horn and a far-off loudspeaker."
+ },
+ "outcomes": [
+  "I can say why 'noise' depends on the listener and 'loudness' can be measured.",
+  "I can measure sound levels around my home in decibels and compare them with safe limits.",
+  "I can explain what loud sound does to the hair cells in the ear, and why the damage stays.",
+  "I can name harms of noise beyond the ear, for people and for other animals.",
+  "I can state India's main rules on noise from loudspeakers, crackers and horns.",
+  "I can protect my ears in three ways: a quieter source, more distance or a barrier, and less time.",
+  "I can say what makes a good warning sound, and why too many warnings stop working."
+ ],
+ "explanations": [
+  {
+   "concept": "Noise is sound that the listener does not want, so no instrument can measure it",
+   "status": "defined",
+   "definition": "Noise is unwanted sound. Whether a sound is noise depends on who is listening, when, and why.",
+   "description": "A sound is a vibration travelling through the air. That part is physics, and it is the same for everyone. Noise is a judgement about a sound. The mixer-grinder at seven in the morning is a useful sound to the person making chutney. It is noise to the person asleep in the next room. The vibration is the same in both rooms. So a meter can tell you how strong a sound is. No meter can tell you that a sound is noise. For that you have to ask the listeners, and they will not all agree. This is why arguments about noise are so hard to settle.",
+   "examples": [
+    "A film song you love, played by a neighbour at midnight, becomes noise.",
+    "A dripping tap is very quiet, and it can still be noise to someone trying to sleep.",
+    "A mridangam is music in a concert and noise during an examination next door."
+   ],
+   "perspectives": [
+    {
+     "who": "Sound engineers and radio engineers",
+     "explanation": "Noise is anything that gets in the way of the signal you are trying to receive. The hiss under a phone call is noise because it carries no message. On this view, noise depends on what you are listening for."
+    },
+    {
+     "who": "R. Murray Schafer, a Canadian composer, in his book 'The Soundscape' in 1977",
+     "explanation": "Noises are the sounds we have learned to ignore. He asked people to listen to their surroundings as carefully as to a piece of music, and to decide which sounds they wish to keep."
+    },
+    {
+     "who": "The law of India, since the Air Act was changed in 1987",
+     "explanation": "Noise is counted as a pollutant of the air, in the same law as smoke. So the law treats it as something put into shared air that can harm others, whatever the maker thinks of it."
+    }
+   ],
+   "art": "One mixer-grinder with a wavy sound line going to two rooms: in one a smiling cook, in the other a person with a pillow over their head.",
+   "context": "This card separates sound, which can be measured, from noise, which is a listener's judgement."
+  },
+  {
+   "concept": "Decibels do not add like ordinary numbers: two horns are 3 decibels more than one",
+   "status": "defined",
+   "definition": "The decibel is the unit for how strong a sound is. Every 10 decibels more means 10 times the sound energy, and doubling the energy adds about 3 decibels.",
+   "description": "Sound strength is measured in decibels, written dB. The scale is built so that each step of 10 decibels means 10 times as much sound energy reaching the ear. That gives the scale an odd arithmetic. Suppose one auto horn measures 90 decibels where you stand. Two such horns together do not make 180. They make about 93. Ten horns make 100, and a hundred horns make 110. This has a hopeful side and a hard side. The hard side is that removing half the vehicles from a road lowers the level by only 3 decibels. The hopeful side is that every 3 decibels you do remove halves the energy reaching the ear.",
+   "examples": [
+    "A whisper is about 30 decibels and ordinary talk about 60. Talk carries about 1,000 times the sound energy of a whisper.",
+    "A mixer-grinder at arm's length is often 85 to 95 decibels.",
+    "If a classroom of 40 children measures 80 decibels, 20 children talking the same way would measure about 77."
+   ],
+   "perspectives": [],
+   "one_view": "This is how the decibel scale is defined, so there is only one honest view.",
+   "art": "One horn labelled 90 dB, two horns labelled 93 dB, ten horns labelled 100 dB, drawn as growing piles of small energy blocks.",
+   "context": "This card shows the special arithmetic of decibels, which is needed to read every number later in the lesson."
+  },
+  {
+   "concept": "A sound-level meter listens the way a human ear does, and a phone can be one",
+   "status": "defined",
+   "definition": "A sound-level meter is a microphone joined to a display that shows decibels. Most readings are 'A-weighted', written dB(A), which means the meter counts each pitch about as strongly as a human ear hears it.",
+   "description": "A human ear does not hear every pitch equally well. We hear the pitches of speech best, and very low rumbles poorly. So most sound-level meters are set to copy this. Such a reading is called A-weighted and is written dB(A). India's noise rules use it. A phone has a microphone, and free apps turn a phone into a rough meter. In 2014 two scientists at the safety institute of the United States, Chucri Kardous and Peter Shaw, tested many such apps. A few read within about 2 decibels of a proper meter, and many were far off. So a phone is good for comparing one place with another, and poor for proving that a law was broken.",
+   "examples": [
+    "Hold the phone at arm's length, with the microphone end towards the sound, and read the average over 30 seconds, not the jumping number.",
+    "A dog hears much higher pitches than we do, so a meter set for human ears leaves out sounds that matter to a dog."
+   ],
+   "perspectives": [],
+   "one_view": "How meters are built and weighted is an agreed standard. That the standard is built round human ears alone is taken up in the card on other animals.",
+   "art": "A phone held at arm's length showing '72 dB(A)', with a small graph beside it of how well a human ear hears low, middle and high pitches.",
+   "context": "This card explains what a decibel reading on a meter or a phone really measures."
+  },
+  {
+   "concept": "Deep in the ear, about 15,000 hair cells turn vibration into nerve signals",
+   "status": "defined",
+   "definition": "Hair cells are sensing cells in the cochlea, the coiled part of the inner ear. Each carries a tuft of tiny stiff hairs. When sound bends the tuft, the cell sends a signal to the brain.",
+   "description": "Sound entering the ear ends its journey in the cochlea, a coiled tube about the size of a pea, filled with liquid. Along the inside stand rows of hair cells, about 15,000 in each ear. They are named for the tuft of very fine, stiff hairs on top of each cell. A sound makes the liquid move, the movement bends the tufts, and each bent cell sends a signal along a nerve. A quiet sound bends the tufts a little. A loud sound bends them a lot. A very loud sound bends them too far. Tufts go limp, break or fuse together. With enough loud sound, over minutes or over years, the hair cells themselves die.",
+   "examples": [
+    "The hair cells nearest the cochlea's entrance sense high pitches, and loud sound usually harms them first. People with noise damage often first lose the hearing of pitches around 4,000 hertz.",
+    "Under a powerful microscope, healthy tufts stand in neat rows like combs, and noise-damaged ones lie flat or tangled."
+   ],
+   "perspectives": [],
+   "one_view": "The structure of the cochlea and the damage loud sound does to hair cells have been seen directly under microscopes since the 1800s. Scientists do not disagree about it.",
+   "art": "A cut-open cochlea with a zoom circle showing two rows of hair cells: one row with upright tufts, one with bent and broken tufts.",
+   "context": "This card goes inside the ear to show the cells that loud sound harms, and how."
+  },
+  {
+   "concept": "In people, dead hair cells are not replaced. In birds and fishes, they are",
+   "status": "defined",
+   "definition": "Humans and other mammals are born with all the cochlear hair cells they will ever have. Birds, fishes and frogs can grow new ones.",
+   "description": "Skin heals, and bone heals. The hair cells of the human cochlea do not. You are born with about 15,000 in each ear. When one dies, a scar forms in their place. This is why hearing lost to loud sound never comes back. For a long time scientists thought that was true of all animals. In 1987 and 1988, researchers in the United States deafened young chickens with loud sound and looked again days later. New hair cells had grown, and the birds could hear again. The work was done by Douglas Cotanche and Jeffrey Corwin, and by Brenda Ryals and Edwin Rubel. Fishes and frogs can do this too. Why mammals cannot is still being worked out.",
+   "examples": [
+    "A hearing aid makes sounds louder for the hair cells that remain. A cochlear implant sends electrical signals straight to the hearing nerve.",
+    "A zebrafish, a small striped fish from India's rivers, regrows hair cells within days, and laboratories around the world study them to learn how."
+   ],
+   "perspectives": [
+    {
+     "who": "Researchers trying to regrow human hair cells",
+     "explanation": "The cells beside each hair cell in a bird's ear can turn into new hair cells. Mammals have the same neighbour cells, and they stay as they are. If the switch can be found, hearing loss might one day be reversed. Trials in people have not yet restored hearing."
+    },
+    {
+     "who": "Many Deaf people who use Indian Sign Language and other sign languages",
+     "explanation": "Being Deaf is a way of living with a full language and a community of its own. On this view deafness is not always something broken that waits to be fixed. They ask that hearing people do not assume every Deaf person wants to hear."
+    }
+   ],
+   "art": "Two rows of hair cells after loud sound: a human row with gaps and scars, and a chicken's row with small new cells growing in the gaps.",
+   "context": "This card explains why noise damage is permanent in people, and tells how birds showed that it need not be so in every animal."
+  },
+  {
+   "concept": "Muffled hearing and ringing after loud sound are the ear's report of overwork",
+   "status": "defined",
+   "definition": "After loud sound, hearing may be dulled for hours, and a ringing or buzzing may be heard that has no outside source. The ringing is called tinnitus.",
+   "description": "After a loud wedding band or a night of crackers, the world can sound as if wrapped in cotton. Quiet sounds go missing. This is called a temporary shift in hearing. The overworked hair cells respond weakly for some hours or a day, and then most recover. Often there is also a ringing, hissing or buzzing that nobody else can hear. That is tinnitus. Both are signs that the sound was more than the ear could take. If they happen again and again, the muffling stops going away. Scientists do not fully know where tinnitus is made. The leading idea is that the brain, getting less signal from the ear, turns up its own sensitivity and begins to hear its own activity.",
+   "examples": [
+    "If you must shout to be heard by someone an arm's length away, the sound around you is strong enough to cause this.",
+    "For some people tinnitus never stops. There is no cure yet, though there are ways to make it easier to live with."
+   ],
+   "perspectives": [
+    {
+     "who": "Sushruta Samhita, Uttara Tantra, chapter 20, an Indian medical text whose oldest parts are more than 2,000 years old",
+     "explanation": "The chapter lists 28 diseases of the ear. Two of them are karnanada, a sound heard in the ear such as a ringing or a drum, and badhirya, deafness. The text explains them by a disturbance of vata, the moving principle of the body, in the channels of hearing."
+    },
+    {
+     "who": "Hearing scientists today",
+     "explanation": "Most place the start of tinnitus in damage to the ear and its continuing in the brain. They agree that the details are not settled, and that different people's tinnitus may have different causes."
+    }
+   ],
+   "art": "A child leaving a loud function with a cotton-wool cloud drawn round her head and a thin wavy line in one ear labelled 'ringing'.",
+   "context": "This card explains the two warning signs that follow loud sound, and says honestly what is not yet known about the ringing."
+  },
+  {
+   "concept": "Hearing can come back after loud sound while hidden damage stays",
+   "status": "debated",
+   "definition": "Hidden hearing loss is the idea that loud sound can destroy the connections between hair cells and the hearing nerve even when a normal hearing test shows full recovery.",
+   "description": "If your hearing returns the next day, was any harm done? For a long time the answer given was no. In 2009 Sharon Kujawa and Charles Liberman, at a hospital in Boston in the United States, tested this in mice. They gave the mice loud sound for two hours, enough to dull their hearing for a while. Within two weeks the mice passed a hearing test again. Their hair cells were alive. But under the microscope, up to half of the connections joining those hair cells to the nerve were gone, and they did not grow back. A standard hearing test, which uses quiet beeps in a silent room, cannot detect this. It might show up instead as trouble following speech in a noisy place.",
+   "examples": [
+    "A person may pass a hearing test and still say, 'I can hear you, but in a crowd I cannot make out the words.'"
+   ],
+   "perspectives": [
+    {
+     "who": "Sharon Kujawa, Charles Liberman and others who study animals' ears",
+     "explanation": "The same loss of connections has been found in guinea pigs and monkeys, and in ears of people examined after death. So 'my hearing came back' may not mean 'no harm was done'."
+    },
+    {
+     "who": "Garreth Prendergast and colleagues in Manchester, Britain, in 2017, and other groups testing living people",
+     "explanation": "They compared young adults with a lot of noise in their past and with little, and found no clear difference in the nerve signals or in understanding speech in noise. Human ears may be tougher than mouse ears, or the tests may be too blunt to show the loss."
+    }
+   ],
+   "art": "A hair cell joined to a nerve by several small links, shown before and after loud sound, with half the links missing afterwards though the cell looks the same.",
+   "context": "This card presents a live debate: does loud sound do lasting harm even when hearing seems to recover?"
+  },
+  {
+   "concept": "The ear has its own guard, and a sudden bang is too quick for it",
+   "status": "defined",
+   "definition": "The acoustic reflex is the automatic tightening of a tiny muscle in the middle ear when a loud sound arrives. It lowers the sound passed to the inner ear, but it needs about a tenth of a second to act.",
+   "description": "Behind the eardrum sit three very small bones that pass vibration inwards. A tiny muscle is attached to the last of them. When a sound louder than about 80 decibels arrives, this muscle tightens, without your choosing, and stiffens the chain of bones. Less vibration gets through, mostly of low pitches. This is the acoustic reflex. It has two weaknesses. It tires during long loud sound. And it takes about a tenth of a second to work, while the bang of a cracker reaches full strength in less than a thousandth of a second. So the loudest and most sudden sounds arrive before the guard is up.",
+   "examples": [
+    "The same muscle tightens just before you speak, which helps to stop your own voice from deafening you.",
+    "A single very loud bang close to the ear can cause lasting loss in one moment. Doctors call this acoustic trauma."
+   ],
+   "perspectives": [],
+   "one_view": "The reflex and its timing have been measured many times in clinics, so there is only one honest view.",
+   "art": "Three tiny ear bones with a small muscle pulling the last one, and a timeline below showing a cracker's bang arriving long before the muscle tightens.",
+   "context": "This card describes the ear's built-in protection and shows exactly why it fails against crackers and other bangs."
+  },
+  {
+   "concept": "Crackers and other bangs: the law sets a limit of 125 decibels at 4 metres",
+   "status": "defined",
+   "definition": "India's rules forbid making or selling a firecracker that produces more than 125 decibels of impulse sound measured 4 metres from where it bursts.",
+   "description": "A bang is a single sharp jump in air pressure. Because it is over so fast, people often think it is harmless. The ear disagrees, as the last card showed. India has had a rule about this since 1999. A cracker must not make more than 125 decibels, measured in a special way for bangs, at 4 metres from the bursting point. Now think about where people stand. A child lighting a cracker is often 1 metre away or less, where the sound is far stronger than at 4 metres. In 2018 the Supreme Court of India also limited the bursting of crackers on Diwali to two hours, from 8 to 10 in the evening, and allowed only lower-smoke 'green' crackers.",
+   "examples": [
+    "Crackers are burst at Diwali, at weddings, at Vishu in Kerala, at Christmas and New Year, at cricket wins and at election results. The ear responds the same way at each.",
+    "A burst balloon close to the ear and a cap gun fired beside the head are bangs too.",
+    "People who make crackers, many of them in and around Sivakasi in Tamil Nadu, face the greatest risks of all, from explosions at work."
+   ],
+   "perspectives": [
+    {
+     "who": "Families and communities for whom crackers are part of celebration",
+     "explanation": "The sound is the joy. A festival without it feels smaller, and many people's living depends on making and selling crackers. They ask why a few nights a year should be singled out when traffic is loud every day."
+    },
+    {
+     "who": "Ear doctors, and people who care for babies, the old, the sick and animals",
+     "explanation": "One night is enough to cause a loss that lasts for life. Babies cannot cover their ears or move away. Dogs, cats, cattle and roosting birds are terrified, and cannot know that it will end. They ask for light without the bang, or for one shared display at a distance."
+    }
+   ],
+   "art": "A cracker with circles spreading from it, a mark at 4 metres labelled '125 dB limit', and a child standing much closer at 1 metre.",
+   "context": "This card gives India's rule for crackers and shows why the place where you stand matters more than the label on the box."
+  },
+  {
+   "concept": "Noise harms more than the ears: sleep, the heart and the body's alarm system",
+   "status": "defined",
+   "definition": "Long-lasting noise, even at levels too low to damage hearing, raises the body's stress responses, breaks up sleep, and is linked with heart disease.",
+   "description": "Hearing never switches off, not even in sleep. That served our ancestors well, because a sound in the night could mean danger. So when a lorry passes at night, your heart beats faster and your blood pressure rises, though you may not wake or remember it. If this happens night after night for years, the body pays. In 2018 the World Health Organization reviewed the studies for Europe. It advised that road traffic noise outside homes should average below 53 decibels over the day and below 45 at night. It judged that the evidence was strong that road noise raises the risk of heart disease. India's rule for homes, 55 by day and 45 by night, is close to these values.",
+   "examples": [
+    "You can 'get used to' the trains passing your house and stop noticing them. Measurements show the sleeping body still responds to each one.",
+    "Florence Nightingale wrote in 'Notes on Nursing' in 1859 that unnecessary noise is the cruellest absence of care that can be inflicted on the sick or the well."
+   ],
+   "perspectives": [
+    {
+     "who": "The World Health Organization's expert group, in 2018",
+     "explanation": "The link between road noise and heart disease is strong enough to act on. The link with some other illnesses is weaker, and they said so."
+    },
+    {
+     "who": "Scientists who urge caution about these studies",
+     "explanation": "Homes on noisy roads also have dirtier air, and the families in them are often poorer. Separating the effect of noise from the effects of smoke and of poverty is hard. Most agree that noise does harm, and disagree about how much."
+    }
+   ],
+   "art": "A sleeping child with a small heart-rate line above the bed that jumps each time a lorry passes outside the window.",
+   "context": "This card shows that noise acts on the whole body, even at levels that are safe for the ears."
+  },
+  {
+   "concept": "Noise slows learning: the school beside the railway",
+   "status": "defined",
+   "definition": "Children who learn in steadily noisy rooms tend to fall behind in reading, and catch up when the noise is reduced.",
+   "description": "In the 1970s, a school in New York stood beside a raised railway line. A train went past the classrooms on one side about every four and a half minutes, at about 89 decibels, and teachers had to stop speaking each time. The psychologist Arline Bronzaft compared the children on the railway side with the children on the quiet side of the same school. By the sixth class, the railway-side children were up to 11 months behind in reading. The city then fitted rubber pads to the track and sound-absorbing ceilings to the rooms. When Bronzaft tested again, the two sides of the school read equally well. So the cause had been the noise, and the harm could be undone.",
+   "examples": [
+    "A teacher who must stop for every passing train or horn loses many minutes of each lesson.",
+    "A child trying to read while a television plays must work harder to hold each sentence in mind."
+   ],
+   "perspectives": [],
+   "one_view": "The finding has been repeated near airports and roads in several countries, including a study of three European airports in 2005. Researchers differ only on the size of the effect.",
+   "art": "A school cut in half: on one side a train passing the window and a teacher waiting with her mouth closed, on the other side a quiet class reading.",
+   "context": "This card tells of a real test showing that noise harms learning, and that the harm stopped when the noise stopped."
+  },
+  {
+   "concept": "Other animals live inside our noise, and some change their voices because of it",
+   "status": "defined",
+   "definition": "Human-made noise changes how other animals communicate, find food, and cope with stress, on land and in the sea.",
+   "description": "Most animals depend on sound more than we do. A bird's song holds a territory and finds a mate. A whale's call keeps a group together across many kilometres of dark water. Our noise covers these sounds. In 2003 Hans Slabbekoorn and Margriet Peet reported in the journal Nature that great tits, small songbirds, sing at a higher pitch in the noisy parts of a Dutch city. Traffic rumble is low, so a higher song gets through. In the sea, a team led by Rosalind Rolland was collecting dung from right whales near Canada in September 2001. Ship traffic stopped for some days, and the water became quieter. The stress chemicals in the whales' dung fell.",
+   "examples": [
+    "In many Indian cities, magpie-robins, koels and other birds sing well before dawn, when the roads are quiet.",
+    "Street dogs and pet dogs hide, shake and run during cracker nights, and many are lost.",
+    "In 2014 Heidi Appel and Reginald Cocroft found that thale cress plants made more of their defence chemicals after they were played the vibrations of a caterpillar chewing. So plants also attend to vibration, and nobody has yet studied what our noise does to them."
+   ],
+   "perspectives": [
+    {
+     "who": "Biologists who study animals in cities",
+     "explanation": "Some beings adjust: they sing higher, louder or at different hours. Others simply leave. A quieter-looking city park may have lost the birds who could not adjust."
+    },
+    {
+     "who": "The usual way noise rules are written",
+     "explanation": "Limits are set in dB(A), which is shaped to the human ear, and are measured where people live. They take no account of the pitches other animals hear, or of forests and seas."
+    }
+   ],
+   "art": "A small bird singing on a wire above heavy traffic with her song drawn as a high thin line above a thick low band of traffic rumble, and a whale below a ship in a corner.",
+   "context": "This card looks at noise from the side of birds, whales, dogs and plants."
+  },
+  {
+   "concept": "India's noise rules: four kinds of area, day and night limits, and quiet from 10 at night to 6 in the morning",
+   "status": "defined",
+   "definition": "The Noise Pollution (Regulation and Control) Rules, 2000, set limits in dB(A) for four kinds of area and forbid loudspeakers at night.",
+   "description": "India has had national noise rules since the year 2000. They sort every place into four kinds of area and give each a day limit and a night limit, in dB(A). Industrial areas: 75 by day and 70 by night. Commercial areas, such as markets: 65 and 55. Residential areas, where people live: 55 and 45. Silence zones: 50 and 40. A silence zone is the area within 100 metres of a hospital, a school or a court. Day means 6 in the morning to 10 at night. A loudspeaker needs written permission, and may not be used between 10 at night and 6 in the morning except inside a closed hall. States may relax the night hours to midnight on up to 15 days a year for festivals.",
+   "examples": [
+    "A home is meant to have no more than 55 dB(A) outside the window by day. Ordinary talk at one metre is about 60.",
+    "Blowing a horn in a silence zone is an offence, which is why some roads near hospitals carry 'No Horn' boards."
+   ],
+   "perspectives": [],
+   "one_view": "These are the limits as written in the rules. How well they work, and whose sound they stop, is a real argument and is the subject of the next card.",
+   "art": "A simple town map coloured in four zones, factory, market, homes and a ring around a hospital, each with its day and night numbers.",
+   "context": "This card states India's noise limits so the child can compare them with their own measurements."
+  },
+  {
+   "concept": "Why rules alone have not made India quiet: whose sound counts?",
+   "status": "debated",
+   "definition": "Noise limits are widely exceeded in Indian cities. People disagree about why, and about whose sounds should give way.",
+   "description": "Measure a busy junction in almost any Indian city and you will read 80 decibels or more, well above every limit in the rules. Why? Horns are one reason, and they are a habit, not a need. Another reason is that noise rules ask someone to complain about a neighbour, a wedding, a place of worship or a political meeting, and few people want to. In Mumbai, Sumaira Abdulali began measuring noise with a meter in the early 2000s and took her numbers to the Bombay High Court. The court ordered silence zones to be marked and enforced. In 2020 the Mumbai police tried a traffic signal that stayed red for longer whenever honking at the junction went above 85 decibels.",
+   "examples": [
+    "A wedding procession with a band, a festival loudspeaker, a call from a place of worship and an election rally are each precious to some and a burden to others nearby.",
+    "A night-shift nurse who sleeps by day has no 'quiet hours' in the rules at all."
+   ],
+   "perspectives": [
+    {
+     "who": "Campaigners such as Sumaira Abdulali and the Awaaz Foundation",
+     "explanation": "The limits protect health, so they should apply to every source equally, whoever is making the sound and for whatever reason. A number on a meter treats everyone the same."
+    },
+    {
+     "who": "People who defend loud celebration and worship",
+     "explanation": "Sound in public is how a community shows that it is there. Rules, they say, are often used against the poor, street vendors and smaller communities, while traffic and construction, which are louder for longer, go on unchecked."
+    },
+    {
+     "who": "Traffic researchers",
+     "explanation": "Fines for honking change little. Road design, signal timing and quieter horns change more. They point out that drivers honk because roads are shared by walkers, cycles, carts and lorries with no separate space."
+    }
+   ],
+   "art": "A busy junction with a traffic signal whose display shows a decibel number, and around it a band, a loudspeaker and many horns, each with its own sound line.",
+   "context": "This card asks why noise stays high in India in spite of clear rules, and gives three different answers."
+  },
+  {
+   "concept": "Three ways to protect ears: make less sound, get farther or put something between, and stay for less time",
+   "status": "defined",
+   "definition": "The dose of sound an ear receives depends on the level at the source, the distance and barriers in the path, and the length of time. Lowering any one protects the ear.",
+   "description": "Every plan to protect hearing uses one of three levers. The first is the source: turn it down, or choose a quieter one. The second is the path between the source and you: move away, shut a door, or wear ear protection. The third is time: stay for a shorter while, and give your ears quiet hours afterwards. Ear protection is worth knowing in numbers. Soft foam earplugs, rolled thin and pushed gently into the ear canal, cut sound by about 15 to 30 decibels when they fit well. Ear muffs that cover the whole ear cut about as much. A ball of dry cotton wool cuts only about 5 to 7 decibels, which is why cotton in the ears on a cracker night helps so little.",
+   "examples": [
+    "At a loud function, sitting at the back and far from the speakers changes the level more than anything else you can do.",
+    "People who work with loud machines, such as road drills and factory looms, should be given ear protection by their employer.",
+    "A baby cannot move away or say that it hurts, so the family must be the one to carry the baby away from the sound."
+   ],
+   "perspectives": [],
+   "one_view": "Source, path and time are the three parts of every hearing-protection plan used by health agencies, so there is only one honest view.",
+   "art": "Three panels: a hand turning a volume knob down, a child walking away from a loudspeaker and putting in earplugs, and a clock with a short slice shaded.",
+   "context": "This card gives the three levers that protect hearing, with real numbers for earplugs and cotton wool."
+  },
+  {
+   "concept": "Earphones put the source inside the ear, so volume and hours both count",
+   "status": "defined",
+   "definition": "Earphones deliver sound straight into the ear canal with no distance to weaken it. Safe listening depends on both the level and the total hours each week.",
+   "description": "With earphones, two of the three levers disappear. There is no distance and no barrier. Only the volume and the time are left. Many phones at full volume send more than 100 decibels into the ear. The World Health Organization gives a simple weekly allowance. For an adult it is 80 decibels for up to 40 hours a week. For a child it is 75 decibels for up to 40 hours. Every 3 decibels above that halves the safe hours. The World Health Organization estimates that more than one billion young people in the world are at risk of hearing loss from unsafe listening. A practical rule is to keep the volume at or below 60 per cent, and to be able to hear someone speaking to you at arm's length.",
+   "examples": [
+    "In a noisy bus people turn the volume up to beat the engine, so earphones in traffic are riskier than the same earphones at home.",
+    "Many phones can show your listening level for the week, and can be set to limit the maximum."
+   ],
+   "perspectives": [],
+   "one_view": "The weekly allowance comes from the same measured relation between sound dose and damage used for workplaces. The debate on hidden damage, in an earlier card, could one day lower these numbers.",
+   "art": "A child wearing earphones with a volume bar at 60 per cent and a weekly calendar partly shaded to show listening hours.",
+   "context": "This card applies the rules of sound dose to earphones, which many children now use every day."
+  },
+  {
+   "concept": "Engineering quiet: block it, soak it up, or cancel it with its own mirror image",
+   "status": "defined",
+   "definition": "Engineers reduce noise with barriers that reflect sound, soft materials that absorb it, and active cancelling, in which a speaker plays the opposite of the incoming sound wave.",
+   "description": "A wall beside a flyover reflects traffic sound back. A heavy, solid barrier that hides the road from view can lower the level behind it by 5 to 10 decibels. Soft, porous things such as thick curtains, mats and foam soak sound up. Their many small air spaces turn the vibration into a tiny amount of heat. The cleverest method adds sound to remove sound. A sound wave is a pattern of air squeezed and stretched. If a speaker plays the exact opposite pattern, stretched where the noise is squeezed, the two cancel. The German physicist Paul Lueg patented the idea in the 1930s. In 1978 the engineer Amar Bose, whose father had come to the United States from Bengal, sketched a headphone using it during a flight. His company sold the first such headsets to pilots in 1989.",
+   "examples": [
+    "Cancelling works best on steady, low sounds such as an aeroplane's engine drone. It works poorly on sudden or high sounds such as a horn.",
+    "A room with bare walls and floor echoes. The same room with mattresses, curtains and people in it sounds much quieter.",
+    "A belt of trees hides a road well, but it must be thick and dense to lower the measured level by much."
+   ],
+   "perspectives": [],
+   "one_view": "These three methods are standard engineering, and how well each works has been measured.",
+   "art": "Three small diagrams: a wall bouncing sound back, a thick curtain with sound fading inside it, and two opposite waves adding up to a flat line.",
+   "context": "This card shows the three ways engineers make things quieter, including how noise-cancelling headphones work."
+  },
+  {
+   "concept": "Some sounds are loud on purpose: what makes a good warning",
+   "status": "defined",
+   "definition": "A warning sound is made to be noticed over everything else, to show where it comes from, and to carry a meaning that listeners have learned.",
+   "description": "Sound is the best carrier for a warning. It travels round corners, works in the dark, and reaches people who are looking the other way or asleep. A good warning does three things. It stands out: engineers aim for a warning about 15 decibels above the background sound. It can be located: a siren that sweeps up and down in pitch is easier for two ears to place than one steady note. And it has a meaning people have been taught. A pressure cooker's whistle says the steam inside has reached full pressure. A train's horn says keep off the track. An ambulance siren says move aside. A sound with no agreed meaning warns nobody.",
+   "examples": [
+    "Along the coasts of Odisha and Tamil Nadu, sirens on towers warn of cyclones and tsunamis.",
+    "A smoke alarm is made shrill and unpleasant on purpose, so that nobody can sleep through it.",
+    "Deaf people are warned by other means: flashing lights, or a pad under the pillow that shakes."
+   ],
+   "perspectives": [],
+   "one_view": "What makes a warning effective has been tested for decades in factories, hospitals and vehicles, and the three needs are agreed.",
+   "art": "A pressure cooker, a train, an ambulance and a coastal siren tower in a row, each with its sound pattern and its meaning written beneath.",
+   "context": "This card turns to the sounds we need to be loud, and explains what makes a warning work."
+  },
+  {
+   "concept": "Other animals give warnings too, and scientists argue about what their calls mean",
+   "status": "debated",
+   "definition": "Many animals give alarm calls when they detect danger. Some species use different calls for different dangers, and listeners respond differently to each.",
+   "description": "In an Indian forest, a langur high in a tree sees a tiger and gives a harsh bark. The chital deer grazing below cannot see the tiger. They run at once. The deer have learned the monkeys' alarm, and the monkeys in turn heed the deer's. In Kenya in 1980, Robert Seyfarth, Dorothy Cheney and Peter Marler studied vervet monkeys, who give one call for a leopard, another for an eagle and another for a snake. The scientists hid a loudspeaker and played recorded calls when no danger was near. At the leopard call the monkeys ran up trees. At the eagle call they looked up and dived into bushes. At the snake call they stood up and searched the grass.",
+   "examples": [
+    "Forest guides in tiger reserves such as Bandipur, Kanha and Periyar find a tiger by listening for the alarm calls of deer, langurs and peafowl.",
+    "A babbler's alarm sends a whole mixed flock of different bird species into cover."
+   ],
+   "perspectives": [
+    {
+     "who": "Seyfarth, Cheney and Marler, in the journal Science in 1980",
+     "explanation": "The calls work like words. Each one stands for a particular kind of danger, and a listener who has seen nothing knows what to do from the call alone."
+    },
+    {
+     "who": "Michael Owren and Drew Rendall, in the 1990s and 2000s",
+     "explanation": "A call may work by startling and stirring up the listener, as a scream does, and not by naming anything. The different responses could be learned links between a sound and an escape, without any meaning being passed."
+    },
+    {
+     "who": "Toshitaka Suzuki, a Japanese biologist, in 2016",
+     "explanation": "Japanese tits join two calls in a fixed order, and listening tits respond properly only to that order. He argues that this is a simple grammar, which goes beyond a mere startle."
+    }
+   ],
+   "art": "A langur barking from a branch, chital deer below with heads up and beginning to run, and a tiger half-hidden in the grass.",
+   "context": "This card shows that warning by sound is shared across animals, and presents the debate about what an alarm call means."
+  },
+  {
+   "concept": "Too many warnings become noise, and a vehicle with no sound is a danger too",
+   "status": "defined",
+   "definition": "Alarm fatigue is the dulled response of people who hear warnings too often. A warning protects only if it is rare enough to be believed and present when it is needed.",
+   "description": "A warning that sounds all the time stops being a warning. In hospital wards, machines beside each bed beep whenever a number crosses a line. Studies find that most of these alarms need no action. Nurses, hearing hundreds in a shift, begin to tune them out, and now and then a real one is missed. This is called alarm fatigue. The horn on an Indian road has gone the same way. It is used so often that it tells nobody anything. The opposite problem also exists. Electric cars and scooters are nearly silent at low speed, and people who are blind, and anyone stepping off a kerb, rely on hearing a vehicle. So the European Union has required new electric cars since 2019 to make an artificial sound at low speeds.",
+   "examples": [
+    "The reversing beep of a lorry is heard streets away by people it does not concern. Deborah Withington at the University of Leeds in Britain developed a 'shh-shh' reversing alarm that is easy to locate nearby and fades quickly with distance.",
+    "A car alarm that goes off every time a lorry passes is soon ignored by the whole street."
+   ],
+   "perspectives": [],
+   "one_view": "Alarm fatigue has been measured in hospitals and control rooms, and the need for quiet vehicles to be heard is accepted by regulators. The designs for solving both are still being improved.",
+   "art": "A nurse's station ringed with many small beeping symbols and one real alarm lost among them, beside a silent electric scooter approaching a child at a kerb.",
+   "context": "This card shows the two ways a warning system fails: by crying out too often, and by not sounding at all."
+  },
+  {
+   "concept": "Is there such a thing as silence?",
+   "status": "idea",
+   "definition": "Silence is usually taken to mean no sound. In practice, a hearing person has never been found to experience a complete absence of sound.",
+   "description": "The opposite of noise seems to be silence. But try to find it. In 1951 the American composer John Cage went into a special room at Harvard University, built with deep foam wedges so that no sound comes in and nothing echoes. He expected to hear nothing. He heard two sounds, one high and one low. The engineer told him that the low one was his blood moving and the high one was his nervous system. Hearing scientists today think the high sound was more likely a faint tinnitus, which many people have. Cage concluded that silence does not exist for a living listener. Indian thinkers had examined the same inner sound long before, as something to attend to and not as a fault.",
+   "examples": [
+    "Press your palms gently over your ears in a quiet room. You will hear a low rumble, made mostly by the muscles of your own arms and head.",
+    "The quietest rooms ever built measure below zero decibels. Zero on the scale is only the faintest sound a young human ear can hear, not the absence of sound."
+   ],
+   "perspectives": [
+    {
+     "who": "John Cage, whose piece 4'33\" was first performed in 1952",
+     "explanation": "In the piece the performer plays nothing for 4 minutes and 33 seconds. The music is whatever the audience hears in that time: rain, coughs, their own breath. For Cage, what we call silence is only the sounds we did not intend."
+    },
+    {
+     "who": "Chandogya Upanishad, chapter 3, section 13, verse 8",
+     "explanation": "When a person covers the ears, they hear a sound like the rumbling of a blazing fire. The text takes this as a sign of the light and warmth that is within the body and beyond the sky alike."
+    },
+    {
+     "who": "Svatmarama, in the Hatha Yoga Pradipika, chapter 4, about the 15th century CE",
+     "explanation": "The chapter teaches nada, attention to inner sound. The listener closes the ears and attends to finer and finer sounds within, until the mind becomes still. Here, quiet is reached by listening more closely, not by having nothing to hear."
+    },
+    {
+     "who": "Physicists",
+     "explanation": "Sound needs a material to travel in. In the near-emptiness of space between the planets there is almost nothing to carry it, so there is no sound there in the ordinary sense. Wherever there is air and anything moving, there is some sound."
+    }
+   ],
+   "art": "A person sitting alone in a room lined with deep foam wedges, with two small sound lines, one high and one low, coming from inside their own body.",
+   "context": "This card asks what the opposite of noise is, and finds that science and old Indian texts both doubt that full silence can be heard."
+  }
+ ],
+ "agreed": [
+  {
+   "text": "People whose work is very loud lose their hearing in a pattern that matches the loudness and the years.",
+   "evidence": "In 1886 the Scottish doctor Thomas Barr tested 100 men who hammered rivets inside ship boilers in Glasgow and found that hardly any had normal hearing. He compared them with iron-workers in quieter jobs and with letter carriers, who heard far better. The same pattern has since been measured in weavers, miners, soldiers and musicians."
+  },
+  {
+   "text": "Hearing loss is very common, and a large share of it could be prevented.",
+   "evidence": "The World Health Organization's World Report on Hearing of 2021 estimates that more than 400 million people have hearing loss serious enough to need care, and that loud sound, ear infections and some medicines are leading causes that can be prevented."
+  },
+  {
+   "text": "People who are deaf can perceive rhythm and loud sound through the skin, the bones and the chest.",
+   "evidence": "Sound is vibration, and the body has touch sensors that respond to vibration. The Scottish percussionist Evelyn Glennie, who has been profoundly deaf since childhood, performs barefoot to feel the music through the floor. Brain scans by Dean Shibata in 2001 showed that in deaf people the part of the brain that usually handles hearing becomes active when the hands feel vibration."
+  }
+ ],
+ "challenging": [
+  {
+   "claim": "The ears get used to noise, so people who live or work in loud places are not harmed by it.",
+   "who": "A common belief among people in loud trades and loud neighbourhoods, and the usual view before the late 1800s",
+   "for": "It matches experience. After some weeks, a new worker stops being bothered by the machines, and a family stops noticing the trains.",
+   "against": "Thomas Barr's tests in 1886, and every study since, show that what feels like getting used to noise is partly the loss of the hair cells that sensed it. The body's stress response to night noise also continues after the person has stopped noticing.",
+   "status": "rejected",
+   "context": "This is the most common belief about noise, and it feels true from the inside. It is here so the child can see how a comfortable belief was tested and failed."
+  },
+  {
+   "claim": "A person's own taste decides the harm: sound you enjoy does not damage the ear the way unwanted noise does.",
+   "who": "Many music lovers and musicians. A few researchers have also asked whether the stress of unwanted sound adds to its damage.",
+   "for": "Unwanted noise raises stress chemicals in the body and enjoyed music does not, so the whole-body harm really does differ. Some animal studies suggest that stress can change how vulnerable the ear is.",
+   "against": "Hair cells respond to the energy of the vibration. Surveys of orchestra players and rock musicians find more hearing loss and tinnitus than in other people of the same age. A large German study of insurance records in 2014 found that professional musicians were nearly four times as likely to have noise-induced hearing loss.",
+   "status": "minority",
+   "context": "This view matters because most loud sound in a child's life will be sound they chose. It is partly right about stress and wrong about the ear."
+  },
+  {
+   "claim": "Quiet should be treated as a right that belongs to everyone, like clean air, and not as a matter of manners.",
+   "who": "Julia Barnett Rice, who founded the Society for the Suppression of Unnecessary Noise in New York in 1906, and later the Supreme Court of India in its noise judgment of 2005",
+   "for": "The Supreme Court held that the right to life in the Constitution includes the right to live in peace and to sleep, and that nobody can claim a right to force sound on unwilling listeners. Noise falls hardest on those who cannot move away: the poor, the sick, babies.",
+   "against": "A right to quiet can clash with freedoms of speech, worship and assembly, which the Constitution also protects. Critics add that in practice such rights are enforced for well-off neighbourhoods and against street life.",
+   "status": "debated",
+   "context": "This view turns noise from a nuisance into a question of fairness. It is here because the science says what noise does, and cannot say whose needs come first."
+  }
+ ],
+ "big_questions": [
+  {
+   "q": "The same drumbeat is music to the drummer and noise to the neighbour. Is the noise in the air, in the neighbour, or somewhere else?",
+   "kind": "deep",
+   "hint": "Ask what a meter would find in each room, and what it could never find."
+  },
+  {
+   "q": "If you have stopped noticing a sound, are you still hearing it?",
+   "kind": "deep",
+   "hint": "Think about what your sleeping body does when a lorry passes, and about who or what 'you' means in the question."
+  },
+  {
+   "q": "A bird can regrow her hair cells and you cannot. Does that make a bird's ear better than yours, or only different?",
+   "kind": "deep",
+   "hint": "Think about what each animal's ear has to do in a lifetime, and what 'better' would be measured by."
+  },
+  {
+   "q": "In a perfectly quiet room you would hear your own body. Is your body then a source of noise, or is that sound part of you?",
+   "kind": "deep",
+   "hint": "Go back to what makes a sound noise, and ask if you can be an unwilling listener to yourself."
+  },
+  {
+   "q": "A wedding band gives joy to two hundred guests and keeps one sick neighbour awake. How should a street decide?",
+   "kind": "big",
+   "hint": "Try counting people, then try asking who can move away and who cannot. See if the two methods agree."
+  },
+  {
+   "q": "Whales, birds and dogs did not agree to our noise and cannot complain. Who should speak for them when rules are made?",
+   "kind": "big",
+   "hint": "Think about how rules are made now, and whose ears the meter is built to copy."
+  },
+  {
+   "q": "A horn that is always blowing warns nobody. Can you think of other things in life that lose their meaning when they are used too much?",
+   "kind": "big",
+   "hint": "Think of words, of praise, of scolding, of alarms on a phone."
+  },
+  {
+   "q": "If scientists learn to regrow human hair cells, should every deaf person be expected to have their hearing 'fixed'?",
+   "kind": "big",
+   "hint": "Listen to what Deaf people who sign say about their own lives before you answer."
+  },
+  {
+   "q": "You cannot close your ears as you close your eyes. Why might bodies have been built with ears that never shut?",
+   "kind": "deep",
+   "hint": "Think about what could happen to a sleeping animal, and what hearing can do that sight cannot."
+  }
+ ],
+ "story": {
+  "title": "The Number on Ammini's Phone",
+  "mins": 9,
+  "read_aloud": true,
+  "note": "A made-up story set in a village near Palakkad in Kerala. The people are imagined. The chenda is a real drum of Kerala, played with sticks, and groups of chenda players are very loud at close range. The decibel numbers in the story are invented but realistic: sound falls by about 6 decibels each time the distance doubles in the open. That deaf people feel drums through the floor and the body is real.",
+  "text": [
+   "Ammini, who was ten, had a school project and a borrowed phone. The project was called 'The Sounds of My Village'. The phone had an app that showed a number, and the number was decibels.",
+   "By four o'clock she had measured the fan, which was 48, the mixer-grinder, which was 88, and the bus horn at the junction, which was 101 and made her jump. Then she walked to the shed behind the coconut trees, where her uncle Raman and five others practised the chenda every evening before the festival season.",
+   "She stood one metre from her uncle and held up the phone. The sticks came down. The number went to 104 and stayed there.",
+   "When they stopped to tighten the ropes, she showed him. 'Maama, your chenda is louder than the bus.'",
+   "Raman laughed. 'The bus is noise. This is chenda. Do not put them on the same page.'",
+   "'The phone puts them on the same page,' said Ammini.",
+   "'Then the phone knows nothing about sound,' said Raman. But he was rubbing his left ear as he said it. 'What did you say just now, before the bus?'",
+   "'I said it is louder than the bus. Maama, I already said it twice.'",
+   "He did not answer that. At night, Ammini knew, he heard crickets that were not there. He had told her once, as if it were a joke.",
+   "Her friend Jomol came round the shed just then. Jomol was eleven and had been deaf since she was born. She and Ammini talked with their hands, in signs they had half learned at school and half made up. Jomol pointed at the drummers and signed: again?",
+   "The drummers began. Jomol walked straight up to the wooden wall of the shed and put both palms flat on it. Then she took off her chappals and stood barefoot on the packed earth. Her face opened into a huge smile. She put Ammini's hand on the wall beside hers. The planks were jumping.",
+   "Good, Jomol signed. Best one. Better than the grinder. The grinder is only buzzing. This one has steps.",
+   "Ammini held the phone against the wall. It still said 104. The phone did not know about steps either.",
+   "On the way home she passed Shanta chechi's house. Shanta was a nurse who worked nights at the hospital in town and slept in the day. Her window was shut and a blanket was nailed over it, and behind the blanket the baby was crying. Ammini held up the phone. 71. Not very much. It was plainly enough.",
+   "That night she wrote three lines in her project book. To Maama it is his life. To Jomol it is the best touch in the village. To Shanta chechi's baby it is the thing that will not let her sleep. Under them she wrote: all three are 104 at the shed. Then she wrote a fourth line, slowly, because she did not like it. Maama loves it, and his ear is ringing anyway.",
+   "That was the part she could not get past. She had thought that noise was sound you did not want. But her uncle wanted every beat, and his ear had not asked what he wanted.",
+   "The next evening she did not tell anyone to stop. She walked away from the shed with the phone, counting steps. At two metres, 98. At four metres, 92. At eight metres, 86. At the far end of the grove, behind the old cattle shed wall, the phone showed 74, and at Shanta chechi's window she could hardly find the drums at all.",
+   "She drew it as a map and gave it to her uncle. He looked at it for a long time. 'So we carry six chendas to the far end every evening because of a phone.'",
+   "'Because of a baby,' said Ammini. 'And these are because of your ear.' She held out a small packet of foam earplugs from the medical shop.",
+   "Raman turned the packet over. 'With these I will hear my own chenda like a man under water.'",
+   "'Jomol does not hear any of it at all,' said Ammini, 'and she says it has steps.'",
+   "He put one plug in, then the other, and played a short pattern with his eyes shut. When he opened them he looked surprised. 'It is still in the arms,' he said.",
+   "Ammini wrote one more line in her book. The phone can say how much. It cannot say what it is. Then she sat and wondered who could."
+  ],
+  "epiphany": "The meter gives one number for a sound, and every listener gives a different meaning. Yet the ear's hair cells take the number and not the meaning. A loved sound and a hated sound of the same strength do the same work on them.",
+  "ask": [
+   "Jomol felt the chenda with her hands and feet. Was she hearing the drums? What would you need to decide what 'hearing' means?",
+   "Raman's ear rang though he loved the sound. Does that change what you think noise is?",
+   "Ammini moved the drummers and did not stop them. Can you think of another loud sound in your street where moving it would help more than banning it?"
+  ],
+  "art": [
+   "A girl holding up a phone showing 104 beside a row of chenda drummers in a shed among coconut trees.",
+   "A barefoot girl with both palms pressed on the wooden wall of the shed, smiling widely, while the planks are drawn with small shake lines.",
+   "A hand-drawn map of a coconut grove with numbers falling from 104 at the shed to 74 behind a far wall, and a house with a blanketed window."
+  ]
+ },
+ "how_we_found_out": {
+  "story": "For centuries people said that ears get used to noise. It fitted what they felt. A new worker in a smithy suffered for some weeks, and then the din stopped troubling him. In 1700 the Italian doctor Bernardino Ramazzini visited the coppersmiths of Venice, who hammered metal all day in one quarter of the city. He wrote that they first grew hard of hearing and, if they lived long in the trade, became wholly deaf. So getting used to the noise was the beginning of losing the hearing. In 1851 the Italian anatomist Alfonso Corti described, under his microscope, the rows of hair cells in the cochlea. In 1886 Thomas Barr in Glasgow measured the hearing of 100 boilermakers and compared them with men in quieter work. Almost none of the boilermakers heard normally. In 1890 the Austrian doctor Johann Habermann examined the inner ear of a metal-worker after death and found the hair cells gone in the part of the cochlea that senses high pitches. A century later, in 1987 and 1988, Douglas Cotanche, Jeffrey Corwin, Brenda Ryals and Edwin Rubel found that birds grow such cells back. That showed the loss is not a law for all ears, and opened the search for a way to mend ours.",
+  "who": "Bernardino Ramazzini, Alfonso Corti, Thomas Barr, Johann Habermann, Douglas Cotanche, Jeffrey Corwin, Brenda Ryals, Edwin Rubel",
+  "when": "1700 to 1988",
+  "wrong_idea": "Ears toughen with use, so people in loud work are in no danger once they stop minding it. It was believable because the discomfort really does fade. It was shown wrong by measuring the hearing of such workers and by looking at their hair cells."
+ },
+ "roots": {
+  "context": "You have measured the sounds around you and followed them into the ear. Now we ask what it means that sound cannot be kept out, and what that tells us about ourselves and the world.",
+  "deep_truth": {
+   "truth": "You measured the street's sound from inside your own room, with the window shut. A cracker burst three lanes away bends hair cells inside your head. Your eyelids can shut out light, but nothing on your body shuts out sound. So a sound made by one being becomes a change inside the bodies of all who are near. In sound, nobody's doing stays inside their own skin.",
+   "habit": "We think 'my sound is my own business' and 'my body ends at my skin'. Both ideas treat each person as sealed off from the others. Sound shows that the air we stand in is one shared thing, and that what one being does to it reaches inside the rest.",
+   "evidence": "In the noise map, the meter inside the home showed readings from sources the child could not see: a horn, a neighbour's television, a far loudspeaker. The readings fell with distance and walls, and did not reach zero anywhere."
+  },
+  "three": {
+   "who_am_i": "Your ears were open before you were born, and they stay open while you sleep. All your life the world has been arriving in you as sound, without asking. Your own voice and footsteps arrive in others in the same way. You are a listener who cannot stop listening, and a maker of sound that others cannot refuse.",
+   "what_is_life": "A langur's bark saves a deer. A bird sings higher to be heard above traffic. A plant makes defence chemicals when they sense the chewing of a caterpillar. Living beings are joined through the air, the ground and the water by vibration. To be alive is to be within reach of the others.",
+   "what_is_this_world": "A sound is the air itself moving, and the air does not belong to anyone. Each sound spreads until it fades into the small random motion of the air, which is warmth. Even the quietest room holds that motion. The world is never still, and what we call quiet is a level of motion that suits us."
+  },
+  "thread": "This lesson began with a question about a nuisance and found something larger under it. The harm of noise and the help of a warning are possible for the same reason. Bodies are open to each other through the air, and that openness cannot be switched off. One person's celebration lands in another's hair cells. One monkey's fear becomes a deer's leap. Consciousness is the ground from which every listener and every sound arise, so hearing is that one ground reaching itself across what looks like a gap. Most hearing scientists describe it more simply, as pressure waves and nerve signals, and their view is given below. Both descriptions leave you with the same practical fact: your sound is never only yours.",
+  "teachings": [
+   {
+    "source": "Kena Upanishad, part 1, verse 2",
+    "teaching": "The sage speaks of 'the Ear of the ear': that by which the ear hears, which the ear itself cannot hear.",
+    "link": "The lesson followed sound from the air to the eardrum, to the hair cells and to the nerve. Science can trace every step of that chain and still cannot say how a nerve signal becomes the experience of hearing a drum. The verse points at that same gap. Science has not confirmed the sage's answer, and it has not closed the question either."
+   },
+   {
+    "source": "Tiruvalluvar, Tirukkural, chapter 42, 'Listening', verses 411 and 418",
+    "teaching": "Verse 411 says that the wealth gained through the ear is the chief of all wealth. Verse 418 says that an ear which has not been opened by careful listening is deaf, even though it hears.",
+    "link": "The Tamil poet separates hearing from listening, as this lesson separates a decibel number from what a sound means to someone. Protecting hair cells keeps the hearing. What a person does with it is the other half."
+   },
+   {
+    "source": "Jalaluddin Rumi, Masnavi, book 1, the opening lines known as the Song of the Reed, 13th century CE",
+    "teaching": "'Listen to the reed flute, how it tells a tale, complaining of separations.' The reed was cut from the reed bed, and its sound is its longing for where it came from.",
+    "link": "Rumi makes listening the first act of understanding another being. The science is plainer: a flute's sound is air vibrating. The link is only this, that sound is how beings who seem separate first reach each other."
+   }
+  ],
+  "science": [
+   {
+    "text": "Sound energy does not vanish. It spreads out and ends as a very slight warming of the air and of whatever it strikes. This follows from the conservation of energy.",
+    "status": "settled"
+   },
+   {
+    "text": "How the activity of hair cells and nerve cells becomes the felt experience of a sound is not known. The philosopher David Chalmers named this the hard problem in 1995.",
+    "status": "open"
+   }
+  ],
+  "other_view": {
+   "who": "Most hearing scientists and neuroscientists, who hold a physicalist view",
+   "view": "Hearing is what ears and brains do. A sound wave is a pressure change, the ear turns it into nerve signals, and the brain's activity is the hearing. On this view there is no deeper joining of beings in sound. There are separate bodies that affect each other through the air, and that is enough reason to be considerate."
+  },
+  "practice": {
+   "title": "Far, near, within",
+   "mins": 3,
+   "say": "Sit still and close your eyes. For one minute, listen for the farthest sound you can find. Do not name it. Just notice it. Now, for one minute, listen for the nearest sound outside your body. Now cup your hands gently over your ears and listen, for one minute, to the sound inside. Take your hands away slowly. Notice that all three were there the whole time.",
+   "kid": "Sit still and close your eyes. First find the farthest sound you can hear. Then find the nearest one. Then cup your hands softly over your ears and listen to the sound inside you. Take your hands away slowly. Were all three there all along?"
+  },
+  "ask": [
+   "When you covered your ears, the outside went quiet and something else was heard. Who was making that sound, and who was hearing it?",
+   "The sound you make by walking, talking and playing goes into other beings. Which beings near your home hear you most?",
+   "If no sound can be kept fully in or fully out, where exactly does your home end?"
+  ],
+  "art": "A child sitting with hands cupped over her ears, with three faint rings of sound around her labelled far, near and within."
+ },
+ "open_questions": [
+  {
+   "q": "Why can birds and fishes regrow hair cells while humans and other mammals cannot?",
+   "why_open": "The neighbour cells that become new hair cells in a bird exist in mammals too. Researchers have found some of the genetic switches involved, and switching them on in mice has produced only a few, immature cells. Nobody knows why mammals lost the ability, or what it would cost to restore it."
+  },
+  {
+   "q": "Where does tinnitus come from, and why does it stay in some people and fade in others?",
+   "why_open": "Most evidence points to the brain raising its own sensitivity after the ear is damaged, but people with the same ear damage differ greatly. There is no test that measures tinnitus from outside, which makes it hard to study and to treat."
+  },
+  {
+   "q": "Does loud sound cause hidden damage in people whose hearing tests stay normal?",
+   "why_open": "The loss of nerve connections is clear in mice and other animals. In living people it cannot be seen directly, and the indirect tests give mixed results. Until a reliable test exists, nobody knows how common it is."
+  },
+  {
+   "q": "What do alarm calls mean to the animals who give and hear them?",
+   "why_open": "Playback tests show what listeners do, and cannot show what they understand. Researchers disagree on whether calls name things, pass on feeling, or both, and the answer may differ from species to species."
+  },
+  {
+   "q": "How much are plants and small animals such as insects affected by human noise?",
+   "why_open": "A few studies show that plants and insects respond to vibration. Almost all noise research has been done on people, birds and sea mammals, so for most living beings the question has hardly been asked."
+  }
+ ],
+ "sources": {
+  "founder": [],
+  "science": [
+   "The Noise Pollution (Regulation and Control) Rules, 2000, Ministry of Environment and Forests, Government of India, with the Schedule of ambient air quality standards in respect of noise",
+   "Environment (Protection) Rules, 1986, noise standards for firecrackers, notified 1999",
+   "Supreme Court of India, In re Noise Pollution, 2005, and Arjun Gopal versus Union of India, 2018",
+   "World Health Organization, Environmental Noise Guidelines for the European Region, 2018",
+   "World Health Organization, World Report on Hearing, 2021, and the WHO and ITU global standard for safe listening devices, 2019",
+   "Kardous and Shaw, 'Evaluation of smartphone sound measurement applications', Journal of the Acoustical Society of America, 2014",
+   "Kujawa and Liberman, 'Adding insult to injury: cochlear nerve degeneration after temporary noise-induced hearing loss', Journal of Neuroscience, 2009",
+   "Prendergast and others, 'Effects of noise exposure on young adults with normal audiograms', Hearing Research, 2017",
+   "Corwin and Cotanche, 'Regeneration of sensory hair cells after acoustic trauma', and Ryals and Rubel, 'Hair cell regeneration after acoustic trauma in adult Coturnix quail', both in Science, 1988",
+   "Bronzaft and McCarthy, 'The effect of elevated train noise on reading ability', Environment and Behavior, 1975, and Bronzaft's follow-up in 1981",
+   "Slabbekoorn and Peet, 'Birds sing at a higher pitch in urban noise', Nature, 2003",
+   "Rolland and others, 'Evidence that ship noise increases stress in right whales', Proceedings of the Royal Society B, 2012",
+   "Appel and Cocroft, 'Plants respond to leaf vibrations caused by insect herbivore chewing', Oecologia, 2014",
+   "Seyfarth, Cheney and Marler, 'Monkey responses to three different alarm calls', Science, 1980",
+   "Suzuki, Wheatcroft and Griesser, 'Experimental evidence for compositional syntax in bird calls', Nature Communications, 2016",
+   "Barr, 'Enquiry into the effects of loud sounds upon the hearing of boilermakers', Proceedings of the Philosophical Society of Glasgow, 1886",
+   "Schink and others, 'Incidence and relative risk of hearing disorders in professional musicians', Occupational and Environmental Medicine, 2014",
+   "Shibata and others, report on vibration and the auditory cortex in deaf people, Radiological Society of North America, 2001",
+   "Sushruta Samhita, Uttara Tantra, chapter 20",
+   "Chandogya Upanishad 3.13, Kena Upanishad 1.2, Tirukkural chapter 42, Hatha Yoga Pradipika chapter 4"
+  ]
+ },
+ "playtest": "Main hands-on investigation, to be written under this name: 'A noise map of my home and street'. The child uses a free sound-meter app on a phone to take 30-second average readings in about eight places and times: bedroom with window shut and open, kitchen with the mixer-grinder on, the street side by day and after 10 at night, and one reading at 1, 2 and 4 big steps from a steady source such as a phone playing a ringtone. The child predicts each reading first, then compares with India's limits for homes. The result is unknown beforehand. Backup with no app: count how many steps away a ticking clock or a softly spoken word can still be made out in each place. A parent should know that phone apps differ by several decibels, so the map compares places and does not prove a breach of the law. No loud test sound is to be made near anyone's ears, and no crackers are used. The roots and the deep truth refer to this map. Facts a reviewer must verify: the four zone limits and the 10 at night to 6 in the morning rule. The 15 relaxed days a year. The cracker limit of 125 dB(AI) at 4 metres, and the 2018 two-hour Diwali window. The 1987 change to the Air Act. WHO 2018 values of 53 and 45. WHO child allowance of 75 decibels for 40 hours. 'More than one billion young people at risk'. About 15,000 hair cells per cochlea. The reflex threshold of about 80 decibels and its delay. Earplug and cotton wool figures. Bronzaft's 89 decibels, four and a half minutes and 11 months. Kujawa and Liberman's 'up to half'. Prendergast 2017. The bird regeneration papers and authors. Slabbekoorn and Peet 2003. Rolland 2012. Appel and Cocroft 2014. Seyfarth, Cheney and Marler 1980. Owren and Rendall. Suzuki 2016. Sumaira Abdulali's court work and dates. The Mumbai honking signal of 2020 and its 85 decibels. Paul Lueg's patent, and Amar Bose's 1978 flight and 1989 headset. Deborah Withington's broadband reversing alarm. The European Union's 2019 rule for electric cars. John Cage at Harvard in 1951 and 4'33\" in 1952. Chandogya Upanishad 3.13.8 (some editions number it 3.13.7). Sushruta Samhita Uttara Tantra 20 and its count of 28 ear diseases. Tirukkural 411 and 418. Kena Upanishad 1.2. Nightingale's line from Notes on Nursing, 1859. Barr 1886. Habermann 1890. Corti 1851. Ramazzini 1700 on the coppersmiths of Venice. The 2014 German musicians study and 'nearly four times'. Julia Barnett Rice, 1906. Evelyn Glennie and Dean Shibata 2001. The readings of 80 decibels or more at Indian junctions are a general statement and should be checked against Central Pollution Control Board data. The deep truth was not compared with other lessons' deep truths, because this helper was told to make no other tool calls: run deep_truths.py and check. The founder's notes and the Combined lessons were not searched for the same reason, so sources.founder is empty. Words that need flashcards, in the order met: noise, vibration, signal, pollutant, decibel, sound energy, sound-level meter, A-weighted, microphone, average reading, cochlea, hair cell, nerve signal, pitch, hertz, regrow, hearing aid, cochlear implant, Deaf, sign language, muffled, tinnitus, hidden hearing loss, connection, acoustic reflex, eardrum, middle ear, bang, impulse sound, firecracker limit, stress, blood pressure, noise pollution, residential area, silence zone, loudspeaker, source, barrier, dose, earplug, ear muff, earphone, weekly allowance, absorb, reflect, cancel, noise-cancelling, warning, siren, locate, alarm call, playback, alarm fatigue, silence, echo."
+}

@@ -317,7 +317,7 @@ Back home in Chennai, Meenakshi held her red sweater in front of the fan and put
 1. (match) Draw a line from each weather to its picture.  
    **Answer:** Sunny → A bright sun and a dark, sharp shadow; Rainy → Drops falling and a puddle; Windy → A tree bending and clothes flapping; Cloudy → A grey sky and a soft shadow. *Why:* Each weather has its own clues. A sharp shadow means sun. A bending tree means wind.
 2. (mcq) In the fan test, one steel tumbler stood in the fan's wind for five minutes. The other tumbler was kept far from the fan. How did the tumbler from the wind feel next to the other one?  
-   Options: Much colder / The same / Wet  
+   Options: The same / Much colder / Wet  
    **Answer:** The same. *Why:* The fan moves air but does not make it colder. The tumbler was as warm as the room, so it had no extra warmth to lose.
 3. (draw) In the fan test, you held a paper strip behind each cloth. Draw the strip behind the sweater, and the strip behind the raincoat. Show what each strip did.  
    **Answer:** Behind the sweater, the strip waves or flies. Behind the raincoat, the strip hangs straight down.. *Why:* A strong drawing shows the difference: wind came through the sweater's tiny gaps, but not through the raincoat.
@@ -347,7 +347,7 @@ Back home in Chennai, Meenakshi held her red sweater in front of the fan and put
 3. (order) Put the pictures in order, from first to last.  
    **Answer:** ['A cloud of tiny drops floats in the sky', 'The tiny drops join and grow bigger', 'Big drops fall as rain']. *Why:* Cloud drops are too small to fall. When they join into bigger, heavier drops, they fall as rain.
 4. (mcq) In A Cloud for the Torch, you held a thin white cloth in front of the torch. What did the cloth do to the toy's shadow?  
-   Options: Made it sharper / Made it soft and pale / Made it red  
+   Options: Made it sharper / Made it red / Made it soft and pale  
    **Answer:** Made it soft and pale. *Why:* The cloth spread out the torch's light, like a cloud spreads sunlight. So the shadow went soft.
 5. (draw) Draw a windy day. Show three things that the wind is moving.  
    **Answer:** A drawing with three things the wind moves, such as a bending tree, flapping clothes and a flying kite.. *Why:* A strong drawing shows wind by what it moves, because we cannot see air itself.
@@ -372,40 +372,40 @@ Back home in Chennai, Meenakshi held her red sweater in front of the fan and put
 
 ## Quiz
 1. (mcq) What is wind?  
-   Options: Moving air / Cold water / Smoke  
+   Options: Cold water / Smoke / Moving air  
    **Answer:** Moving air. *Why:* Wind is air that is moving. We can't see air, but we see what wind moves.
 2. (mcq) Which is a kind of weather?  
-   Options: Rainy / Sleepy / Hungry  
+   Options: Sleepy / Rainy / Hungry  
    **Answer:** Rainy. *Why:* Rainy is a kind of weather. Sleepy and hungry are how a body feels.
 3. (mcq) Ravi wears a school uniform: a shirt and shorts. Which words name his clothes?  
-   Options: Shirt and shorts / Sun and rain / A cloud  
+   Options: Sun and rain / A cloud / Shirt and shorts  
    **Answer:** Shirt and shorts. *Why:* A shirt and shorts are clothes, worn on the body. Sun and rain are weather, and a cloud is weather too. They are not clothes.
 4. (mcq) In the fan test, what did the paper strip do behind the raincoat?  
-   Options: Flew about / Hung still / Caught fire  
+   Options: Flew about / Caught fire / Hung still  
    **Answer:** Hung still. *Why:* The raincoat has no gaps, so the wind could not get through. The strip hung still.
 5. (mcq) Which lets the most wind through?  
    Options: A newspaper / A woollen sweater / A plastic sheet  
    **Answer:** A woollen sweater. *Why:* Wool has tiny gaps between the threads, and wind blows through them. Newspaper and plastic have no gaps.
 6. (mcq) Why does the fan make your arm feel cold?  
-   Options: The fan makes cold air / The moving air carries your warmth away / The fan is made of ice  
+   Options: The fan makes cold air / The fan is made of ice / The moving air carries your warmth away  
    **Answer:** The moving air carries your warmth away. *Why:* Your arm is warmer than the air. The moving air keeps carrying that warmth away.
 7. (mcq) What is a cloud made of?  
    Options: Cotton / Tiny drops of water / Smoke from fires  
    **Answer:** Tiny drops of water. *Why:* A cloud is millions of tiny water drops floating in the air. It only looks like cotton.
 8. (mcq) You are going out in the hot May sun. What should you wear?  
-   Options: A thick sweater / A cap and loose cotton clothes / A raincoat  
+   Options: A cap and loose cotton clothes / A thick sweater / A raincoat  
    **Answer:** A cap and loose cotton clothes. *Why:* A cap shades your head, and loose cotton lets your sweat dry and cool you.
 9. (mcq) It is cold and windy on a hill. What should you wear?  
    Options: Only a cotton shirt / A sweater with a jacket on top / Only a cap  
    **Answer:** A sweater with a jacket on top. *Why:* The sweater keeps your warmth in. The jacket on top stops the wind blowing it away.
 10. (mcq) Anita draws her own clothes on paper: a blue cotton frock and yellow sandals. Which weather is her drawing for?  
-   Options: A hot, sunny day / A cold, windy hill / A rainy day in the monsoon  
+   Options: A cold, windy hill / A hot, sunny day / A rainy day in the monsoon  
    **Answer:** A hot, sunny day. *Why:* A thin cotton frock and sandals keep the sun off and keep you cool. A cold, windy hill needs a sweater and a layer that stops the wind. In the rain you need a raincoat or an umbrella.
 11. (mcq) What are shadows like on a cloudy day?  
    Options: Soft and pale / Sharp and dark / Blue  
    **Answer:** Soft and pale. *Why:* Clouds spread out the Sun's light, so shadows go soft and pale.
 12. (mcq) You guessed the sweater would stop the wind. In the fan test, wind came through it. What should you do?  
-   Options: Say the test was wrong / Change your idea to fit what you saw / Never test again  
+   Options: Say the test was wrong / Never test again / Change your idea to fit what you saw  
    **Answer:** Change your idea to fit what you saw. *Why:* A good scientist changes her idea when the test shows something new. A wrong guess helps you learn.
 
 ## Applications

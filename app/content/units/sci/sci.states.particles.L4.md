@@ -565,16 +565,16 @@ That afternoon, over the best dal he had ever eaten, Raghu asked Lalitha to expl
    Options: They are far apart and fly about / They touch their neighbours and are held in place, jiggling on the spot / They slide past each other  
    **Answer:** They touch their neighbours and are held in place, jiggling on the spot. *Why:* In a solid the particles are close and held in place by pulls between them. The first answer describes a gas. The last answer describes a liquid.
 2. (mcq) The end of a syringe full of air is sealed, and the plunger is pushed. It goes in about half way. What does this tell you about air?  
-   Options: Air is made of nothing / There is empty space between the air particles / Air particles are soft  
+   Options: There is empty space between the air particles / Air is made of nothing / Air particles are soft  
    **Answer:** There is empty space between the air particles. *Why:* The particles moved closer together into the empty space between them. Air is made of particles, so it is not nothing. The particles do not get squashed, they just get closer.
 3. (mcq) Why does the steam from a kettle spread out until you cannot see it?  
-   Options: Gas particles fly about and spread into all the space they can reach / Steam is lighter than the kitchen / Steam particles melt away  
+   Options: Steam is lighter than the kitchen / Steam particles melt away / Gas particles fly about and spread into all the space they can reach  
    **Answer:** Gas particles fly about and spread into all the space they can reach. *Why:* Gas particles are free to fly in every direction, so a gas spreads out to fill the space it is in. Particles do not melt away.
 4. (mcq) Ice, water and steam are three states of one substance. What is the same in all three?  
-   Options: The distance between the particles / The kind of particle / How fast the particles move  
+   Options: The kind of particle / The distance between the particles / How fast the particles move  
    **Answer:** The kind of particle. *Why:* All three are made of the same water particles. What changes is the distance between them and how fast they move.
 5. (mcq) Why does a football feel hard when it is pumped up?  
-   Options: Nothing is hitting the inside wall / Air particles hit the inside wall very often and push outwards / The air has turned into a solid  
+   Options: Air particles hit the inside wall very often and push outwards / Nothing is hitting the inside wall / The air has turned into a solid  
    **Answer:** Air particles hit the inside wall very often and push outwards. *Why:* A huge number of air particles hit the inside wall every second. Together they push outwards, and that makes the ball hard. The air is still a gas.
 6. (truefalse) The particles in a steel spoon are completely still.  
    **Answer:** False. *Why:* False. The particles in a solid jiggle on the spot all the time. They just do not swap places.
@@ -597,23 +597,23 @@ That afternoon, over the best dal he had ever eaten, Raghu asked Lalitha to expl
 15. (draw) Draw the particles in steam. Show how far apart they are and add arrows to show how they move.  
    **Answer:** Small circles far apart, each with a long arrow in a different direction.. *Why:* A strong drawing shows the particles far apart with arrows in all directions, because steam is a gas.
 16. (mcq) A pressure cooker is heated, and the steam cannot escape. What happens to the push of the steam on the lid?  
-   Options: It gets smaller / It stays the same / It gets bigger, because the particles fly faster and hit the lid harder  
+   Options: It gets smaller / It gets bigger, because the particles fly faster and hit the lid harder / It stays the same  
    **Answer:** It gets bigger, because the particles fly faster and hit the lid harder. *Why:* Heat makes the steam particles move faster. They hit the lid harder and more often, so the pressure goes up. This is also why the lid will not open until the cooker cools.
 ### Gaps, Hits and Models (stretch) (stretch, 17 questions)
 1. (mcq) A jar is full to the top with big chana, and then small mustard seeds slide in between them. What does this show?  
    Options: The chana had gaps between the grains / The chana was soft / The mustard seeds were heavier  
    **Answer:** The chana had gaps between the grains. *Why:* Small things fit into the gaps between big things. In the same way, small particles can fit into the gaps between bigger ones.
 2. (mcq) A smell takes minutes to cross a room, though air particles fly at hundreds of metres a second. What is the best reason?  
-   Options: The smell particles keep colliding with air particles and zigzag / The smell particles are very slow / Smells are not made of particles  
+   Options: The smell particles are very slow / Smells are not made of particles / The smell particles keep colliding with air particles and zigzag  
    **Answer:** The smell particles keep colliding with air particles and zigzag. *Why:* A smell particle hits an air particle billions of times each second, and changes direction each time. So it travels only a little way from where it started. Moving air from a fan carries it much faster.
 3. (mcq) A balloon left in a hot car bursts. What is the best reason?  
-   Options: The hot air particles fly faster and hit the skin harder / The rubber melts into the air / The air particles grow bigger  
+   Options: The rubber melts into the air / The hot air particles fly faster and hit the skin harder / The air particles grow bigger  
    **Answer:** The hot air particles fly faster and hit the skin harder. *Why:* Heat makes the particles faster, so they hit the balloon harder and more often. The pressure goes up until the skin gives way. The particles do not grow.
 4. (mcq) A gas is squashed into half the space. What changes?  
    Options: Each particle is half the size / The particles are closer together and hit the walls more often / There are fewer particles  
    **Answer:** The particles are closer together and hit the walls more often. *Why:* The same particles are now in half the space. They are closer, so they reach the walls twice as often. The particles themselves do not change.
 5. (mcq) Which of these is a mixture?  
-   Options: A glass of distilled water / A bowl of sambar / A grain of table sugar  
+   Options: A bowl of sambar / A glass of distilled water / A grain of table sugar  
    **Answer:** A bowl of sambar. *Why:* Sambar has water, dal, vegetables, tamarind and spices. The other two are very nearly one substance.
 6. (mcq) Which statement about an atom is correct?  
    Options: An atom is a solid ball with no empty space / An atom is mostly empty space, with a tiny nucleus in the middle / All atoms are the same size and kind  
@@ -642,13 +642,13 @@ That afternoon, over the best dal he had ever eaten, Raghu asked Lalitha to expl
    **Answer:** A strong answer agrees with the second person, because a hot spoon is evidence the particles move, since heat is movement. It also says the first person is right that the spoon as a whole does not move, and that the particles stay in their places.. *Why:* Both have part of it. The spoon stays where it is, and its particles stay in their places, as the first person says. But they jiggle on the spot all the time, as the second person says, and heating makes the jiggle bigger.
 ### Think Like a Particle Scientist (challenge) (challenge, 16 questions)
 1. (mcq) 100 millilitres of mustard seeds are poured into 100 millilitres of big dal. What total is most likely?  
-   Options: 200 millilitres / About 170 millilitres, because the seeds fill gaps / 300 millilitres  
+   Options: About 170 millilitres, because the seeds fill gaps / 200 millilitres / 300 millilitres  
    **Answer:** About 170 millilitres, because the seeds fill gaps. *Why:* Small seeds slip into the gaps between the big grains, so the total is less than the two added together.
 2. (mcq) A syringe holds 10 millilitres of air. It is squashed to 2 millilitres. About how many times as many air particles are there in each millilitre now?  
-   Options: The same number / 5 times as many / 10 times as many  
+   Options: 5 times as many / The same number / 10 times as many  
    **Answer:** 5 times as many. *Why:* The same particles are in one fifth of the space. 10 divided by 2 is 5, so there are 5 times as many in each millilitre.
 3. (mcq) The air in a bicycle tyre is at about three times the push of the outside air, at the same warmth. What does this mean for the particles?  
-   Options: There are about three times as many particles in the same space / The particles are three times bigger / The particles are three times slower  
+   Options: The particles are three times bigger / There are about three times as many particles in the same space / The particles are three times slower  
    **Answer:** There are about three times as many particles in the same space. *Why:* At the same warmth, the particles move at the same speed. The extra push comes from more particles hitting the wall each second.
 4. (mcq) A scientist draws particles as tiny round balls. What is the most honest way to describe this drawing?  
    Options: An exact photograph / A useful model that is not exactly true / A wrong idea that nobody uses  
@@ -689,35 +689,35 @@ That afternoon, over the best dal he had ever eaten, Raghu asked Lalitha to expl
    Options: The kind of particle / How the particles are arranged and how they move / The colour of the particles  
    **Answer:** How the particles are arranged and how they move. *Why:* The particles are the same. In a solid they are held in place. In a liquid they slide. In a gas they fly about, far apart.
 2. (mcq) Water is poured from a bottle into a wide bowl. Why does the water take the shape of the bowl, but stay the same amount?  
-   Options: The particles slide past each other but stay close / The particles fly apart / The particles are fixed in rows  
+   Options: The particles fly apart / The particles are fixed in rows / The particles slide past each other but stay close  
    **Answer:** The particles slide past each other but stay close. *Why:* Liquid particles slide, so the liquid can change shape. They stay touching, so the amount stays the same.
 3. (mcq) Why can air be squeezed into a smaller space?  
-   Options: Its particles are far apart, with empty space between them / Its particles are soft / Air has no particles  
+   Options: Its particles are soft / Air has no particles / Its particles are far apart, with empty space between them  
    **Answer:** Its particles are far apart, with empty space between them. *Why:* The particles are not squashed. They are pushed closer together, into the empty space.
 4. (mcq) A drop of colour is stirred into a cup, and a spoonful of that is stirred into another cup, again and again. The last cup looks clear. What is the best description?  
-   Options: The colour is gone / The colour is there, spread so thin you cannot see it / The colour is at the bottom of the first cup  
+   Options: The colour is gone / The colour is at the bottom of the first cup / The colour is there, spread so thin you cannot see it  
    **Answer:** The colour is there, spread so thin you cannot see it. *Why:* Each spoonful carries a tenth of the colour onward. Some always goes on, even when too faint to see.
 5. (mcq) What makes gas pressure?  
-   Options: Particles hitting the walls / Particles being heavy / Particles sticking to the walls  
+   Options: Particles being heavy / Particles hitting the walls / Particles sticking to the walls  
    **Answer:** Particles hitting the walls. *Why:* A gas pushes on its container because its particles hit the walls and bounce back.
 6. (mcq) Sambar is best described as which of these?  
    Options: A substance / A mixture / A gas  
    **Answer:** A mixture. *Why:* Sambar is made of several substances, such as water, dal and spices, mixed together.
 7. (mcq) Which change makes the particles of a solid move faster?  
-   Options: Cooling it / Heating it / Putting it in a box  
+   Options: Cooling it / Putting it in a box / Heating it  
    **Answer:** Heating it. *Why:* Heat is movement of particles. A warmer solid has particles that jiggle harder.
 8. (truefalse) The particles in a gas hardly pull on each other at all.  
    **Answer:** True. *Why:* True. Gas particles are so far apart that they barely pull on each other, so they fly free.
 9. (mcq) A model of particles uses tiny balls. What is true about this model?  
-   Options: It is useful, but not exactly right / It is exactly right / It is useless  
+   Options: It is exactly right / It is useful, but not exactly right / It is useless  
    **Answer:** It is useful, but not exactly right. *Why:* The balls help us think, but real atoms are fuzzy. All models have limits.
 10. (mcq) Which of these makes a smell spread faster across a room?  
-   Options: A fan moving the air / Closing all the windows / Cooling the room  
+   Options: Closing all the windows / Cooling the room / A fan moving the air  
    **Answer:** A fan moving the air. *Why:* Moving air carries the smell particles much faster than they could spread by themselves.
 11. (truefalse) A gas can be made of exactly the same particles as a liquid.  
    **Answer:** True. *Why:* True. Steam and liquid water are both made of water particles.
 12. (mcq) Why was the idea of flying gas particles so useful to scientists?  
-   Options: It explained why heating a gas raises its pressure / It explained why ice floats / It explained why metals shine  
+   Options: It explained why ice floats / It explained why metals shine / It explained why heating a gas raises its pressure  
    **Answer:** It explained why heating a gas raises its pressure. *Why:* Faster particles hit harder, so a hotter gas pushes more. The older idea of fixed particles could not explain this.
 
 ## Applications

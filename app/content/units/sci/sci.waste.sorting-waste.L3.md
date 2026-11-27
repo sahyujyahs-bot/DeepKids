@@ -542,7 +542,7 @@ Lissy chechi weighed the paper on her hanging scale and smiled. 'Now this,' she 
 6. (match) Match each thing to where it goes.  
    **Answer:** Onion peel → Wet bin; Glass jar → Dry bin; Fused tube light → Danger box; Old newspaper → Dry bin. *Why:* Peels rot, so they are wet. Glass and clean paper are dry. A tube light holds mercury, a poison, so it goes in the danger box.
 7. (mcq) In the Two-Jar Test, what happened to the newspaper strip in the jar with sambar?  
-   Options: It stayed clean / It soaked up the sambar and tore when pulled / It turned into plastic / It floated away  
+   Options: It soaked up the sambar and tore when pulled / It stayed clean / It turned into plastic / It floated away  
    **Answer:** It soaked up the sambar and tore when pulled. *Why:* Paper is made of plant fibres with gaps between them. The sambar soaked into the gaps, the fibres came loose, and the strip tore.
 8. (odd) Three of these are wet waste. Which one is the odd one out?  
    Options: Coconut scrapings / A jasmine garland / A plastic straw / Curry leaves  
@@ -559,7 +559,7 @@ Lissy chechi weighed the paper on her hanging scale and smiled. 'Now this,' she 
    Options: Loose in the dry bin / Wrapped in thick newspaper, marked 'broken glass', and kept apart / In the wet bin, under the peels / Out of the window  
    **Answer:** Wrapped in thick newspaper, marked 'broken glass', and kept apart. *Why:* Wrapping and marking warns the next person, so nobody is cut. Hiding it under peels is the most dangerous choice, because nobody can see it.
 14. (mcq) A pizza box has cheese stuck on one corner. What is the best thing to do?  
-   Options: Put the whole box in the dry bin / Tear off the clean part for the dry bin, and put the cheesy part in the wet bin / Put it in the danger box / Leave it on the stairs  
+   Options: Tear off the clean part for the dry bin, and put the cheesy part in the wet bin / Put the whole box in the dry bin / Put it in the danger box / Leave it on the stairs  
    **Answer:** Tear off the clean part for the dry bin, and put the cheesy part in the wet bin. *Why:* Paper with food stuck on it cannot be recycled, but the clean part can. Separating them saves what can be saved.
 15. (write) Think of one thing from your kitchen today that was hard to sort. Which bin did you choose, and why?  
    **Answer:** A good answer names a real thing, such as a tea bag or a curd cup, picks a bin, and gives a reason from what rots, what soaks up liquid, or what is dangerous.. *Why:* A strong answer gives a reason, not only a bin. If you are unsure, say what you would check.
@@ -567,14 +567,14 @@ Lissy chechi weighed the paper on her hanging scale and smiled. 'Now this,' she 
    **Answer:** fresh leftover rice from lunch → Eat or share; a banana peel → Compost pot; a bowl of dal, still fresh → Eat or share; used tea leaves → Compost pot. *Why:* Fresh food that is still good should be eaten or shared. Peels and tea leaves cannot be eaten, so they go to the compost pot.
 ### Why Sorting Matters (stretch) (stretch, 16 questions)
 1. (mcq) In the Two-Jar Test, the milk packet from the sambar jar came clean when rinsed, but the biscuit-box piece stayed stained. What explains this?  
-   Options: Cardboard is made of paper fibres that absorb liquid, and plastic is not / The biscuit box was older / Sambar likes cardboard more / The milk packet was rinsed for longer  
+   Options: The biscuit box was older / Sambar likes cardboard more / Cardboard is made of paper fibres that absorb liquid, and plastic is not / The milk packet was rinsed for longer  
    **Answer:** Cardboard is made of paper fibres that absorb liquid, and plastic is not. *Why:* Cardboard is pressed paper fibres, so liquid soaks in. Plastic has no gaps, so liquid stays on the surface. Picking 'rinsed for longer' would mean the test was unfair, but both were rinsed for ten seconds.
 2. (write) Before the Two-Jar Test, you guessed which things would still be good enough to sell. What did you guess, and what happened? Were you right? What did the test teach you that the guess did not?  
    **Answer:** I guessed everything could be washed. But the newspaper tore and the box piece stayed stained. Only the milk packet came clean. So paper can't be saved once it is soaked.. *Why:* A strong answer compares the guess and the result honestly, and says what was learned. Being wrong in a guess is how scientists learn.
 3. (count) In the Sorting Race, Round 1 took 40 seconds. Round 2, with mixed waste, took 200 seconds. How many times longer did Round 2 take?  
    **Answer:** 5. *Why:* 200 divided by 40 is 5. So sorting the mixed waste took 5 times as long. You can check: 40 + 40 + 40 + 40 + 40 = 200.
 4. (mcq) Why does a heap of mixed waste on a dumping ground sometimes catch fire?  
-   Options: The Sun is hotter there / Food rotting deep inside, without air, makes methane, a gas that burns / Plastic is always hot / Crows bring matches  
+   Options: Food rotting deep inside, without air, makes methane, a gas that burns / The Sun is hotter there / Plastic is always hot / Crows bring matches  
    **Answer:** Food rotting deep inside, without air, makes methane, a gas that burns. *Why:* Deep in a heap, food rots without air and the tiny living things doing it give off methane. Methane burns easily. Once a fire starts, the plastic and paper burn too.
 5. (truefalse) Waste that is poisonous becomes safe if you pour it into a big sea, because it spreads out.  
    **Answer:** False. *Why:* False. At Minamata in Japan, mercury poured into the sea was taken up by tiny living things, then fish, and built up instead of spreading out. People and cats who ate the fish were poisoned.
@@ -583,7 +583,7 @@ Lissy chechi weighed the paper on her hanging scale and smiled. 'Now this,' she 
 7. (order) Put these in order, from what happens first to what happens last, for a bag of sorted dry waste.  
    **Answer:** order shown. *Why:* Dry waste moves from home, to the collector, to a sorting centre, and then to factories that recycle each material.
 8. (mcq) A family puts their peels inside a plastic bag and then puts the bag into the wet bin. What is the problem?  
-   Options: There is no problem / The plastic bag won't rot, so it spoils the compost / Peels need light to rot / The bag makes the peels dry  
+   Options: There is no problem / Peels need light to rot / The plastic bag won't rot, so it spoils the compost / The bag makes the peels dry  
    **Answer:** The plastic bag won't rot, so it spoils the compost. *Why:* Compost is made from things that rot. A plastic bag stays in the compost as plastic pieces. Peels can go into the wet bin loose, or wrapped in newspaper.
 9. (sort) Is each of these a danger to people, or a danger to the soil and water, or both?  
    **Answer:** a used razor blade → People who touch it; old medicines → Soil and water; a broken tube light → Both; a leaking battery → Both. *Why:* A blade cuts hands. Medicines that get into water harm fish. A broken tube light has sharp glass and mercury. A leaking battery can burn skin and its metals can reach soil.
@@ -606,7 +606,7 @@ Lissy chechi weighed the paper on her hanging scale and smiled. 'Now this,' she 
 1. (write) Sugar stirred into tea spreads out by itself, but it never gathers back into a lump. How is this like mixed waste?  
    **Answer:** Things mix by themselves when they touch, like sambar soaking into paper. Getting them apart again needs a lot of work, or can't be done. So it is easier to keep them apart from the start.. *Why:* A strong answer sees the same pattern in both: mixing happens by itself, unmixing does not.
 2. (mcq) You want to test whether wet waste spoils cotton cloth too. Which test is fair?  
-   Options: Put a cotton rag in sambar and compare it with nothing / Put one cotton rag in a dry jar and the same kind of rag in a jar with sambar, for the same time / Put cotton in sambar and plastic in water / Ask a friend what they think  
+   Options: Put one cotton rag in a dry jar and the same kind of rag in a jar with sambar, for the same time / Put a cotton rag in sambar and compare it with nothing / Put cotton in sambar and plastic in water / Ask a friend what they think  
    **Answer:** Put one cotton rag in a dry jar and the same kind of rag in a jar with sambar, for the same time. *Why:* A fair test changes only one thing. Here the only difference is the sambar. Without a dry jar to compare, you can't be sure the sambar made the difference.
 3. (perspective) At Minamata in Japan, a factory poured mercury into the sea, and people and cats who ate the fish became very ill. Two people talk about it.  
    **Answer:** A strong answer picks a side, explains that mercury built up from tiny living things to small fish to big fish, and fairly admits the other point, for example that it was not well understood at first. It may add that after people fell ill, the factory kept pouring for years.. *Why:* This is a real argument about who is responsible when harm is not yet understood. The factory went on pouring waste until 1968, long after the illness was found.
@@ -627,7 +627,7 @@ Lissy chechi weighed the paper on her hanging scale and smiled. 'Now this,' she 
    Options: Putting the bins right beside the stove / Picture labels on each bin / One big bin for everything / A small bowl for tea leaves near the tea pot  
    **Answer:** 2. *Why:* One bin means everything gets mixed. The others put the right choice close at hand, which makes it easy.
 11. (mcq) Why do waste pickers earn more from sorted dry waste than from mixed waste?  
-   Options: Sorted waste is heavier / Clean, dry paper and plastic can be sold, but soaked and dirty ones can't / Mixed waste smells nicer / Factories pay for food waste  
+   Options: Clean, dry paper and plastic can be sold, but soaked and dirty ones can't / Sorted waste is heavier / Mixed waste smells nicer / Factories pay for food waste  
    **Answer:** Clean, dry paper and plastic can be sold, but soaked and dirty ones can't. *Why:* Recyclers pay for clean material they can use. Wet, dirty material is worth little or nothing, and takes hours to clean.
 12. (write) Plan a new test: does wet waste spoil glass, like it spoils paper? Write your question, what you will compare, and what you predict, with a reason.  
    **Answer:** Question: does sambar spoil a glass bottle cap? Compare one glass piece in a dry jar with one in a sambar jar. Predict: the glass will rinse clean, because glass, like plastic, does not soak up liquid.. *Why:* A strong plan asks one question, changes only one thing, and gives a prediction with a reason.
@@ -653,43 +653,43 @@ Lissy chechi weighed the paper on her hanging scale and smiled. 'Now this,' she 
    Options: An old phone battery / A cardboard box / Onion peels / A newspaper  
    **Answer:** An old phone battery. *Why:* Phone batteries can catch fire if they are crushed in a truck. The others are ordinary wet or dry waste.
 3. (mcq) You put a newspaper strip in a jar of dal for 15 minutes, and another strip in an empty jar. What will you most likely find?  
-   Options: Both strips stay the same / The strip in the dal is soaked and tears easily / The strip in the empty jar tears / The dal turns into paper  
+   Options: Both strips stay the same / The strip in the empty jar tears / The strip in the dal is soaked and tears easily / The dal turns into paper  
    **Answer:** The strip in the dal is soaked and tears easily. *Why:* Paper soaks up liquid between its fibres, so the dal strip weakens and tears. The strip in the empty jar is the comparison, and it stays strong.
 4. (mcq) In the Two-Jar Test, why did we also have a jar with no sambar?  
    Options: To have a spare jar / To compare, so we know the sambar caused the difference / Because sambar ran out / To keep the newspaper for later  
    **Answer:** To compare, so we know the sambar caused the difference. *Why:* The jar with no sambar shows what happens when nothing is changed. Then any difference in the other jar must come from the sambar.
 5. (mcq) When is it easiest to sort waste?  
-   Options: At the dumping ground / When you throw each thing, before anything is mixed / Once a week, all together / After it has rotted  
+   Options: At the dumping ground / Once a week, all together / When you throw each thing, before anything is mixed / After it has rotted  
    **Answer:** When you throw each thing, before anything is mixed. *Why:* Before mixing, each thing takes one second to place. After mixing, things stick together and some, like soaked paper, can never be saved.
 6. (mcq) In the Sorting Race, sorting the mixed bowl took much longer. What was the main reason?  
    Options: The bowls were smaller / Things were stuck together and had to be found and pulled apart / There were more things in Round 2 / The timer was slow  
    **Answer:** Things were stuck together and had to be found and pulled apart. *Why:* Both rounds had the same 30 things. In Round 2 they were mixed, and wet tea leaves stuck to the paper. Unmixing takes work.
 7. (mcq) Why should a fused tube light be kept whole and not broken?  
-   Options: It might still work / It holds a tiny amount of mercury, a poison, and sharp glass / It is worth a lot of money / It will rot faster  
+   Options: It might still work / It is worth a lot of money / It holds a tiny amount of mercury, a poison, and sharp glass / It will rot faster  
    **Answer:** It holds a tiny amount of mercury, a poison, and sharp glass. *Why:* Kept whole, the mercury stays sealed inside and the glass cuts nobody. Wrap it and keep it in the danger box.
 8. (mcq) A thrown-away cup fills with rainwater on a terrace. What can happen within about a week?  
    Options: Nothing / Mosquitoes can breed in the still water / The cup turns into compost / The water turns into ice  
    **Answer:** Mosquitoes can breed in the still water. *Why:* Mosquitoes lay eggs in still water, and their young grow there for about a week. Some mosquitoes spread dengue.
 9. (mcq) Why does an open wet bin bring ants and flies?  
-   Options: They like the colour of bins / They follow the smell of the food to it / Bins are warm / They come for the plastic  
+   Options: They like the colour of bins / Bins are warm / They come for the plastic / They follow the smell of the food to it  
    **Answer:** They follow the smell of the food to it. *Why:* Ants and flies find food by smell. A lid keeps most of the smell in and blocks the way in.
 10. (mcq) How does sorting at home help the woman who collects your waste?  
-   Options: It doesn't / She is not cut by hidden glass, and she can sell clean dry waste / It makes her bag heavier / It means she doesn't need gloves  
+   Options: It doesn't / It makes her bag heavier / It means she doesn't need gloves / She is not cut by hidden glass, and she can sell clean dry waste  
    **Answer:** She is not cut by hidden glass, and she can sell clean dry waste. *Why:* Wrapped glass is safe to handle, and clean paper and plastic can be sold. Gloves are still needed.
 11. (mcq) A factory pours a little mercury, a poison, into the sea. Tiny living things take it in, small fish eat them, and big fish eat many small fish. What happens to the mercury?  
-   Options: It spreads out and becomes harmless / It builds up in the big fish, and people and cats who eat them can be poisoned / It turns into salt / It sinks and stays in the factory pipe  
+   Options: It spreads out and becomes harmless / It turns into salt / It sinks and stays in the factory pipe / It builds up in the big fish, and people and cats who eat them can be poisoned  
    **Answer:** It builds up in the big fish, and people and cats who eat them can be poisoned. *Why:* Each big fish eats many small fish, and keeps the poison from all of them. So the poison builds up at each step. This is why poisonous waste is kept apart.
 12. (mcq) Which of these can be rinsed and still go in the dry bin?  
-   Options: A newspaper soaked in sambar / A curd cup with curd on it / A paper plate covered in oil / A wet cardboard box  
+   Options: A newspaper soaked in sambar / A paper plate covered in oil / A curd cup with curd on it / A wet cardboard box  
    **Answer:** A curd cup with curd on it. *Why:* Plastic does not absorb liquid, so a rinsed curd cup is clean dry waste. Paper and cardboard soak up food and oil, so they can't be saved.
 13. (mcq) Why do cows sometimes swallow plastic bags?  
-   Options: The bag smells of the food stuck inside it / Cows like the taste of plastic / Plastic is good for a cow's stomach  
+   Options: Cows like the taste of plastic / Plastic is good for a cow's stomach / The bag smells of the food stuck inside it  
    **Answer:** The bag smells of the food stuck inside it. *Why:* A cow cannot tell a bag with food scraps from the food. Plastic cannot be digested, so it stays in her stomach and makes her ill. Cows do not like plastic. They are fooled by the smell of food.
 14. (mcq) Guests come for lunch. How can your family make the least wet waste?  
    Options: Cook twice as much, to be safe / Serve small helpings, offer more, and share fresh extra with a neighbour / Throw the extra rice in the dry bin  
    **Answer:** Serve small helpings, offer more, and share fresh extra with a neighbour. *Why:* Small helpings mean less is left on plates, and fresh extra food can be shared. Cooking too much makes waste. Rice is wet waste, so it never goes in the dry bin.
 15. (mcq) What did the people of Silluk do to become a zero-waste village?  
-   Options: They waited for a big machine to come / They worked together: weekly cleaning, compost pits, bamboo dustbins and fines for littering / They burned all their waste at night  
+   Options: They waited for a big machine to come / They burned all their waste at night / They worked together: weekly cleaning, compost pits, bamboo dustbins and fines for littering  
    **Answer:** They worked together: weekly cleaning, compost pits, bamboo dustbins and fines for littering. *Why:* The villagers did the work themselves, as neighbours. A machine did not do it for them, and burning waste would spread smoke and harmful gases.
 
 ## Applications

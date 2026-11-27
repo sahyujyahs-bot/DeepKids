@@ -521,16 +521,16 @@ The next morning, Arjun pulled Nila across to the man with the scooter. Arjun wa
 ## Worksheets
 ### Thick, Runny and the Water's Skin (core) (core, 15 questions)
 1. (mcq) What does viscosity mean?  
-   Options: How heavy a liquid is / How much a liquid resists flowing / How hot a liquid is  
+   Options: How heavy a liquid is / How hot a liquid is / How much a liquid resists flowing  
    **Answer:** How much a liquid resists flowing. *Why:* Viscosity is how much a liquid resists flowing. Honey has a high viscosity and flows slowly. Picking 'heavy' is the most common mix-up: thick and heavy are different things.
 2. (mcq) Half a teaspoon each of water, honey and shampoo is put at the top of a sloping tray. Which reaches the bottom first?  
-   Options: Water / Shampoo / Honey  
+   Options: Shampoo / Water / Honey  
    **Answer:** Water. *Why:* Water has the lowest viscosity of the three, so it flows fastest. Shampoo is slower, and honey is slowest.
 3. (mcq) Plain water made a tall dome on a coin. Then you try water with a drop of soap in it. What do you see?  
    Options: A taller dome / A flatter puddle that spilled sooner / Exactly the same dome  
    **Answer:** A flatter puddle that spilled sooner. *Why:* Soap weakens the water's skin, so it cannot hold up a tall dome. It spills after fewer drops.
 4. (mcq) How do a water strider's legs help them stand on water?  
-   Options: Their legs are full of air like balloons / Their legs have tiny waxy hairs that keep water off, so the water's skin holds / Their legs are sticky, so they hold on to the water  
+   Options: Their legs have tiny waxy hairs that keep water off, so the water's skin holds / Their legs are full of air like balloons / Their legs are sticky, so they hold on to the water  
    **Answer:** Their legs have tiny waxy hairs that keep water off, so the water's skin holds. *Why:* The hairs and wax keep the legs dry, so each foot only dents the water's skin and does not break through.
 5. (truefalse) A thick liquid is always heavier than a runny liquid.  
    **Answer:** False. *Why:* False. Coconut oil is thicker than water, but lighter, so it floats on water.
@@ -557,10 +557,10 @@ The next morning, Arjun pulled Nila across to the man with the scooter. Arjun wa
    **Answer:** A coin with a rounded dome of water rising clearly above its edge.. *Why:* A strong drawing shows the water higher than the coin's edge, held up by its skin.
 ### Liquid Detective (stretch) (stretch, 15 questions)
 1. (mcq) Closed bottles of water, oil and honey are flipped upside down. In which one does the air bubble rise slowest?  
-   Options: Water / Oil / Honey  
+   Options: Water / Honey / Oil  
    **Answer:** Honey. *Why:* Honey is the most viscous, so it moves out of the bubble's way very slowly.
 2. (mcq) Honey is left in the fridge for an hour, then raced down the tray. What do you predict?  
-   Options: It will be slower than honey at room warmth / It will be faster than honey at room warmth / It will be as fast as water  
+   Options: It will be faster than honey at room warmth / It will be as fast as water / It will be slower than honey at room warmth  
    **Answer:** It will be slower than honey at room warmth. *Why:* Cold makes the honey's particles move more slowly, so they slide past each other less easily. The honey becomes even more viscous.
 3. (mcq) A painter wants paint that spreads easily under the brush but does not drip down the wall. What should the paint do?  
    Options: Get runnier when brushed, and thicker when left alone / Stay as runny as water all the time / Stay as thick as honey all the time  
@@ -591,13 +591,13 @@ The next morning, Arjun pulled Nila across to the man with the scooter. Arjun wa
    **Answer:** Mosquito larvae hang from the water's skin to breathe through a small tube. The oil weakens the skin, so they cannot hang on and breathe.. *Why:* A strong answer links the oil to a weaker water skin, and the weaker skin to the larvae not being able to breathe.
 ### Think Like a Liquid Scientist (challenge) (challenge, 15 questions)
 1. (mcq) In a race between water and oil, the oil won. That is strange. Which is the most likely reason?  
-   Options: Oil is runnier than water / The tray was tipped more steeply in the oil's lane, or the water spread out sideways / Oil is heavier than water  
+   Options: Oil is runnier than water / Oil is heavier than water / The tray was tipped more steeply in the oil's lane, or the water spread out sideways  
    **Answer:** The tray was tipped more steeply in the oil's lane, or the water spread out sideways. *Why:* Usually water is faster. When a result is odd, check the test before changing the idea. A tilted tray or water spreading sideways can change the result.
 2. (mcq) A sweet-maker warms thick jaggery syrup before pouring it into moulds. Why?  
-   Options: Warm syrup is runnier, so it pours easily / Warm syrup is sweeter / Warm syrup is lighter, so it floats  
+   Options: Warm syrup is sweeter / Warm syrup is lighter, so it floats / Warm syrup is runnier, so it pours easily  
    **Answer:** Warm syrup is runnier, so it pours easily. *Why:* Warming lowers the syrup's viscosity, just like the warm honey in the syrup race.
 3. (mcq) Baby water striders move their legs too slowly to make proper ripples, yet they still move well. What did this tell scientists?  
-   Options: Baby striders cannot really move / Striders must move in some other way than by making ripples / Ripples are not real  
+   Options: Baby striders cannot really move / Ripples are not real / Striders must move in some other way than by making ripples  
    **Answer:** Striders must move in some other way than by making ripples. *Why:* If babies move without making those ripples, ripples cannot be the main way striders move. In 2003, filming showed they push swirls of water backwards with their legs.
 4. (mcq) Some physicists say glass is a solid, and others say it is a very slow liquid. What does this disagreement show?  
    Options: Scientists still do not fully understand how a hot liquid slows into glass / Someone made a mistake in weighing the glass / Glass is a gas  
@@ -632,40 +632,40 @@ The next morning, Arjun pulled Nila across to the man with the scooter. Arjun wa
 
 ## Quiz
 1. (mcq) What is viscosity?  
-   Options: How heavy a liquid is / How much a liquid resists flowing / How clear a liquid is  
+   Options: How heavy a liquid is / How clear a liquid is / How much a liquid resists flowing  
    **Answer:** How much a liquid resists flowing. *Why:* Viscosity is how much a liquid resists flowing. Picking 'heavy' mixes up thick and heavy, and coconut oil shows they are different: thicker than water, but it floats.
 2. (mcq) Which of these has the highest viscosity?  
    Options: Water / Rasam / Honey  
    **Answer:** Honey. *Why:* Honey flows slowest, so it has the highest viscosity. Water and rasam are runny.
 3. (mcq) In the syrup race, half a teaspoon of each liquid is raced down a tray. Why must every liquid use the same amount?  
-   Options: So the test is fair, and only the liquid changes / So less honey is used / So the tray stays clean  
+   Options: So less honey is used / So the tray stays clean / So the test is fair, and only the liquid changes  
    **Answer:** So the test is fair, and only the liquid changes. *Why:* In a fair test only one thing changes. A bigger blob can flow differently, so the amounts must be the same.
 4. (mcq) In the syrup race, water took about 1 second and honey took about 150 seconds. What does that tell you?  
-   Options: Honey is much more viscous than water / Honey is lighter than water / The tray was wet  
+   Options: Honey is lighter than water / The tray was wet / Honey is much more viscous than water  
    **Answer:** Honey is much more viscous than water. *Why:* The longer a liquid takes to flow, the higher its viscosity. Honey took far longer.
 5. (mcq) Why does warm honey flow faster than cool honey?  
-   Options: Warm honey has water in it / Warmth makes honey's particles move faster, so they slip past each other more easily / Warm honey is heavier  
+   Options: Warm honey has water in it / Warm honey is heavier / Warmth makes honey's particles move faster, so they slip past each other more easily  
    **Answer:** Warmth makes honey's particles move faster, so they slip past each other more easily. *Why:* Warmth makes the particles jiggle harder, so they let go of their neighbours more easily. Picking 'water in it' is a fair worry, but in the syrup race the honey was warmed in its own dry bowl.
 6. (mcq) Ghee is thick on a cool morning. What will make it pour easily?  
-   Options: Putting it in the fridge / Warming it a little / Stirring in cold water  
+   Options: Putting it in the fridge / Stirring in cold water / Warming it a little  
    **Answer:** Warming it a little. *Why:* Warming lowers viscosity, so the ghee flows. Cold makes it thicker.
 7. (mcq) Why can a coin hold a dome of water higher than its edge?  
-   Options: Water particles attract each other, so the surface acts like a stretchy skin / The coin is magnetic / Air pushes the water up  
+   Options: The coin is magnetic / Water particles attract each other, so the surface acts like a stretchy skin / Air pushes the water up  
    **Answer:** Water particles attract each other, so the surface acts like a stretchy skin. *Why:* This is surface tension. The pull between water particles at the surface holds the dome together. The coin's metal has nothing to do with it.
 8. (mcq) What does soap do to the water's skin?  
-   Options: Makes it stronger / Makes it weaker / Nothing  
+   Options: Makes it stronger / Nothing / Makes it weaker  
    **Answer:** Makes it weaker. *Why:* Soap weakens the skin. That is why soapy water spilled off the coin sooner than plain water, and why the thread loop jumped into a circle when soap touched the water inside it.
 9. (mcq) A water strider hunts insects that fall onto ponds. How do they find a fallen ant?  
    Options: They smell the ant from far away / They feel the ant's ripples through their legs / They wait for the ant to swim to them  
    **Answer:** They feel the ant's ripples through their legs. *Why:* A struggling ant sends out ripples. The strider feels them through their legs and skates towards them.
 10. (mcq) Soapy water runs into a pond. What happens to the water striders there?  
-   Options: They skate faster / They sink, because the skin weakens and their legs get wet / Nothing, because they are light  
+   Options: They sink, because the skin weakens and their legs get wet / They skate faster / Nothing, because they are light  
    **Answer:** They sink, because the skin weakens and their legs get wet. *Why:* The striders need a strong skin and dry legs. Soap takes away both, so they break through and sink.
 11. (mcq) In the pitch drop experiment, what did the dripping funnel show?  
-   Options: Pitch is a liquid that flows extremely slowly / Pitch melts in the sun / Pitch is a gas  
+   Options: Pitch melts in the sun / Pitch is a liquid that flows extremely slowly / Pitch is a gas  
    **Answer:** Pitch is a liquid that flows extremely slowly. *Why:* Pitch feels hard and shatters when hit, but it has dripped out of the funnel since 1930. It flows, only extremely slowly.
 12. (mcq) Pitch shatters under a hammer, but drips over many years. What does this show about solids and liquids?  
-   Options: They are always easy to tell apart / Whether something acts solid or liquid can depend on how long you watch it / Pitch is a special kind of gas  
+   Options: They are always easy to tell apart / Pitch is a special kind of gas / Whether something acts solid or liquid can depend on how long you watch it  
    **Answer:** Whether something acts solid or liquid can depend on how long you watch it. *Why:* Hit fast, pitch breaks like a solid. Over years, it flows like a liquid. The time you watch for decides what you see.
 
 ## Applications

@@ -525,19 +525,19 @@ Thenmozhi began to answer, and stopped. She had opened forty moulds and had neve
 ## Worksheets
 ### Melting and solidifying: the main ideas (core, 16 questions)
 1. (mcq) Butter on a hot dosa turns runny. Which change is this?  
-   Options: Dissolving / Melting / Evaporating  
+   Options: Dissolving / Evaporating / Melting  
    **Answer:** Melting. *Why:* Melting. One substance, butter, turns into its own liquid because of heat. Dissolving would need a second substance, a liquid for the butter to spread into.
 2. (mcq) Coconut oil melts at about 24 degrees. The kitchen is at 19 degrees. What is the oil?  
-   Options: A solid / A liquid / A gas  
+   Options: A liquid / A gas / A solid  
    **Answer:** A solid. *Why:* A solid. 19 is below 24, so the oil is colder than its melting point. If you chose liquid, compare the two numbers again: below the melting point means solid.
 3. (mcq) Melted candle wax drips on a table and turns hard. Where did its heat go?  
-   Options: Into the table and the air / It was used up and is gone / Deeper into the wax  
+   Options: It was used up and is gone / Into the table and the air / Deeper into the wax  
    **Answer:** Into the table and the air. *Why:* A liquid gives out heat as it solidifies, and the heat goes into whatever it touches. Heat is not used up. You can feel the table warm under a fresh wax drop.
 4. (mcq) Iron melts at 1,538 degrees and wax at about 60. Which has stronger pulls between its particles?  
-   Options: Iron / Wax / They are the same  
+   Options: Wax / They are the same / Iron  
    **Answer:** Iron. *Why:* Iron. Stronger pulls hold the particles in place more firmly, so the solid must be much hotter before they break free.
 5. (mcq) Sugar stirred into cold water seems to vanish. Which change is this?  
-   Options: Melting / Dissolving / Freezing  
+   Options: Dissolving / Melting / Freezing  
    **Answer:** Dissolving. *Why:* Dissolving. There are two substances, and the water is far colder than the temperature at which sugar turns liquid. If you chose melting, count the substances.
 6. (truefalse) True or false: water is the only substance that can freeze.  
    **Answer:** False. *Why:* False. Freezing means a liquid turning solid. Melted wax, ghee, gold and iron all freeze, each at its own temperature.
@@ -563,19 +563,19 @@ Thenmozhi began to answer, and stopped. She had opened forty moulds and had neve
    **Answer:** Keep the same: the number and size of ice cubes, the bowls, the place and the time. Change only the salt. Measure the meltwater in teaspoons.. *Why:* A strong answer changes one thing only and names something that can be counted or measured.
 ### Hidden heat, salt and what comes back (stretch, 15 questions)
 1. (mcq) Ice and water are stirred in a tumbler in a warm room. What does a thermometer show while ice is left?  
-   Options: About 0 degrees the whole time / A slow, steady rise / The same as the room  
+   Options: A slow, steady rise / The same as the room / About 0 degrees the whole time  
    **Answer:** About 0 degrees the whole time. *Why:* About 0. The heat coming in is used to melt the ice, so the temperature holds at the melting point. A steady rise begins only when the ice has gone.
 2. (mcq) What is the heat that goes into melting ice used for?  
    Options: Pulling particles out of their places / Making each particle bigger / Making each particle heavier  
    **Answer:** Pulling particles out of their places. *Why:* The heat pulls the particles out of their fixed places against the pulls between them. The particles do not change in size or weight.
 3. (mcq) Why does a bowl of salted ice get colder than a bowl of plain ice?  
-   Options: Salt is cold when it leaves the shelf / The extra melting takes heat from the ice and bowl / Salt keeps the room's heat out  
+   Options: The extra melting takes heat from the ice and bowl / Salt is cold when it leaves the shelf / Salt keeps the room's heat out  
    **Answer:** The extra melting takes heat from the ice and bowl. *Why:* Salt makes more ice melt, and melting takes in heat. With no one heating the bowl, the heat comes from the ice, the bowl and the salty water. Salt on the shelf is at room temperature.
 4. (mcq) A spoon of sugar melts less ice than a spoon of salt. What is the main reason?  
-   Options: Sugar is sweet / A spoon of sugar has far fewer particles / Sugar is colder than salt  
+   Options: Sugar is sweet / Sugar is colder than salt / A spoon of sugar has far fewer particles  
    **Answer:** A spoon of sugar has far fewer particles. *Why:* What matters most is how many dissolved particles get in the way at the surface of the ice. Sugar particles are big, so a spoonful holds about ten times fewer.
 5. (mcq) Ghee melts bit by bit and not at one temperature. Why?  
-   Options: It is a mixture of many fats / It has been kept too long / Its particles are very large  
+   Options: It has been kept too long / Its particles are very large / It is a mixture of many fats  
    **Answer:** It is a mixture of many fats. *Why:* Each fat in ghee has its own melting point. The low ones melt first and the high ones last, so ghee softens over a stretch of temperatures.
 6. (truefalse) True or false: a sealed bottle of ice gets lighter when the ice melts.  
    **Answer:** False. *Why:* False. Nothing leaves the sealed bottle, so the weight is the same. Try it on a kitchen scale.
@@ -602,16 +602,16 @@ Thenmozhi began to answer, and stopped. She had opened forty moulds and had neve
    Options: To get much colder first / A seed, from a speck or a knock / More water in the bottle  
    **Answer:** A seed, from a speck or a knock. *Why:* It is already cold enough. It needs a first group of particles in the pattern of ice. A speck, a scratch or a knock helps one to form.
 2. (mcq) Supercooled water flash-freezes into slush, not a hard block. Why?  
-   Options: Freezing gives out heat, which warms it back to 0 / The bottle is too small / Slush is a different substance  
+   Options: The bottle is too small / Slush is a different substance / Freezing gives out heat, which warms it back to 0  
    **Answer:** Freezing gives out heat, which warms it back to 0. *Why:* As ice forms it gives out hidden heat. This warms the water back up to 0 degrees, and then no more can freeze until the freezer takes that heat away.
 3. (mcq) The Earth's inner core is solid iron at more than 5,000 degrees. What keeps it solid?  
-   Options: Huge pressure / Its great age / Ice mixed into it  
+   Options: Its great age / Huge pressure / Ice mixed into it  
    **Answer:** Huge pressure. *Why:* Pressure raises the melting point of iron. At the centre of the Earth the pressure is millions of times that of the air, so iron stays solid far above 1,538 degrees.
 4. (mcq) A tiny speck of gold melts at a lower temperature than a gold bangle. Why?  
-   Options: Most of its particles are at the surface / Small things are always warmer / The speck is not real gold  
+   Options: Small things are always warmer / Most of its particles are at the surface / The speck is not real gold  
    **Answer:** Most of its particles are at the surface. *Why:* Particles at a surface have fewer neighbours holding them, so they break free more easily. In a tiny speck, most particles are at the surface.
 5. (mcq) You want to mark 0 degrees on a new thermometer. Which would you trust more?  
-   Options: Stirred, melting ice / Still water in a freezer, as it freezes / Either, they always agree  
+   Options: Still water in a freezer, as it freezes / Either, they always agree / Stirred, melting ice  
    **Answer:** Stirred, melting ice. *Why:* Melting ice always holds 0 degrees. Still water can go below 0 before it freezes, so the moment of freezing is not a dependable mark.
 6. (truefalse) True or false: camphor left in an open tin turns into a liquid first, and then into a gas.  
    **Answer:** False. *Why:* False. In the open air camphor goes straight from solid to gas and leaves no puddle. This is called sublimation.
@@ -641,16 +641,16 @@ Thenmozhi began to answer, and stopped. She had opened forty moulds and had neve
 
 ## Quiz
 1. (mcq) Melted bronze cools from 1,100 degrees to 900 and turns solid. What is this change called?  
-   Options: Freezing, or solidifying / Melting / Burning  
+   Options: Melting / Burning / Freezing, or solidifying  
    **Answer:** Freezing, or solidifying. *Why:* A liquid turning solid is freezing, at any temperature. If you chose melting, think about which way the change went: from liquid to solid.
 2. (mcq) Pure water can freeze at 0 degrees. At what temperature does pure ice melt?  
    Options: 0 degrees / 4 degrees / 100 degrees  
    **Answer:** 0 degrees. *Why:* For a pure substance the melting point and the freezing point are the same temperature. 100 degrees is where water boils.
 3. (mcq) Pure water is heated in a pan at sea level. At what temperature does it boil and turn into steam?  
-   Options: About 100 degrees Celsius / About 0 degrees Celsius / About 60 degrees Celsius  
+   Options: About 0 degrees Celsius / About 100 degrees Celsius / About 60 degrees Celsius  
    **Answer:** About 100 degrees Celsius. *Why:* At sea level, pure water boils at 100 degrees Celsius. 0 degrees is where it freezes and melts, not where it boils. About 60 is where candle wax melts, not water.
 4. (mcq) What do the particles of a solid do at its melting point?  
-   Options: Break out of their places and slide past each other / Stop moving / Split into smaller particles  
+   Options: Stop moving / Split into smaller particles / Break out of their places and slide past each other  
    **Answer:** Break out of their places and slide past each other. *Why:* The particles shake hard enough to break out of their places. They never stop moving, and they do not split. They are the same particles in the liquid.
 5. (truefalse) True or false: when ice melts, each water particle melts too.  
    **Answer:** False. *Why:* False. One particle cannot be solid or liquid. Melting is a change in how the particles are arranged and how they move.
@@ -661,24 +661,24 @@ Thenmozhi began to answer, and stopped. She had opened forty moulds and had neve
    Options: It is below the winter temperature / It is above 24 degrees / Mustard oil has none  
    **Answer:** It is below the winter temperature. *Why:* A substance is liquid when it is warmer than its melting point. So the melting point of mustard oil must be lower than a Delhi winter day.
 8. (mcq) A tumbler of ice and water stands in the sun. Half the ice has gone. How warm is the water, if stirred?  
-   Options: About 0 degrees / About 15 degrees / As warm as the air  
+   Options: About 15 degrees / As warm as the air / About 0 degrees  
    **Answer:** About 0 degrees. *Why:* While any ice is left, the heat from the sun goes into melting it. The stirred water stays at about 0 degrees.
 9. (mcq) You stir salt into a bowl of ice. What happens?  
-   Options: It melts faster and gets colder / It melts faster and gets warmer / It melts more slowly and gets colder  
+   Options: It melts faster and gets warmer / It melts more slowly and gets colder / It melts faster and gets colder  
    **Answer:** It melts faster and gets colder. *Why:* Salt tips the balance towards melting, and melting takes in heat from the ice and the bowl. If you chose warmer, remember that salt gives no heat.
 10. (mcq) Why does a kulfi seller mix salt into the ice around the kulfi?  
-   Options: To make the ice mix colder than 0 degrees / To make the kulfi salty / To stop the ice from melting  
+   Options: To make the kulfi salty / To stop the ice from melting / To make the ice mix colder than 0 degrees  
    **Answer:** To make the ice mix colder than 0 degrees. *Why:* Sweet milk freezes below 0 degrees, and plain ice is only at 0. Ice with salt can reach minus 15, which is cold enough. The salt makes the ice melt faster, not slower.
 11. (mcq) A goldsmith melts a ring and casts a coin from it. What is the same before and after?  
-   Options: The substance and its weight / The shape / Nothing at all  
+   Options: The shape / The substance and its weight / Nothing at all  
    **Answer:** The substance and its weight. *Why:* Melting and solidifying are reversible. The gold and its weight are unchanged. The shape is new, because the liquid took the shape of the mould.
 12. (mcq) Which sentence about window glass is true?  
-   Options: It softens slowly, with no exact melting point / It melts at one exact temperature / It has flowed down in old windows  
+   Options: It melts at one exact temperature / It has flowed down in old windows / It softens slowly, with no exact melting point  
    **Answer:** It softens slowly, with no exact melting point. *Why:* The particles of glass are jumbled, so it softens over a stretch of temperatures. Careful sums show old panes have not flowed. They were made uneven.
 13. (truefalse) True or false: scientists fully agree on how melting first starts inside a solid.  
    **Answer:** False. *Why:* False. They agree on what melting is, but how the very first particles break free is still being studied.
 14. (mcq) In a fair test of salt on ice, what is the only thing that should change?  
-   Options: What is sprinkled on the ice / The size of the bowls / The number of ice cubes  
+   Options: The size of the bowls / The number of ice cubes / What is sprinkled on the ice  
    **Answer:** What is sprinkled on the ice. *Why:* If the bowls or the number of cubes changed too, you could not tell what caused the difference. Change one thing and keep the rest the same.
 15. (mcq) Your test gave 8 spoons of meltwater for salt and 3 for plain ice, once. What should you do next?  
    Options: Repeat the test and compare / Change the numbers to look neater / Stop, because once is enough  

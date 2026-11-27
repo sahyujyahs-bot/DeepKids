@@ -361,7 +361,7 @@ Meenakshi looked out of the window at the dark sky. 'Thank you, rain,' she said.
 1. (sort) Circle in blue the things that need water. Cross out the things that do not.  
    **Answer:** a crow → Needs water; a tulsi plant → Needs water; you → Needs water; a stone → Does not need water; a spoon → Does not need water; a cow → Needs water. *Why:* Every living being needs water: crows, plants, cows and you. A stone and a spoon are not alive, so they do not drink.
 2. (mcq) To test what water and oil do to poha, you set up three katoris of poha: one with water, one with oil, and one with nothing. Why keep one with nothing?  
-   Options: To see what dry poha does by itself / Because we ran out of water / Because the poha was tired  
+   Options: Because we ran out of water / To see what dry poha does by itself / Because the poha was tired  
    **Answer:** To see what dry poha does by itself. *Why:* The katori with nothing shows what poha does on its own. Then we know the water or the oil made the change.
 3. (draw) Draw one flake of poha from the water katori and one from the oil katori. Show which one squashed.  
    **Answer:** A fat, soft, squashed flake for water. A flat, shiny, hard flake for oil.. *Why:* A strong drawing shows the water flake bigger and squashed, and the oil flake still flat and hard.
@@ -401,7 +401,7 @@ Meenakshi looked out of the window at the dark sky. 'Thank you, rain,' she said.
 8. (write) Tell a grown-up your answer, and ask them to write it down. Why do people put out bowls of water for birds in the summer?  
    **Answer:** Birds need water too. In hot weather, many puddles and ponds dry up, so it is hard for birds to find a drink in a city.. *Why:* A strong answer says that birds need water like we do, and that in a hot city water is hard to find.
 9. (mcq) Our tap water came out of a pipe. Where did the water in the pipe come from first?  
-   Options: From the tap itself / From rain, which fills lakes, rivers and wells / From the shop  
+   Options: From the tap itself / From the shop / From rain, which fills lakes, rivers and wells  
    **Answer:** From rain, which fills lakes, rivers and wells. *Why:* Pipes bring water from tanks, lakes, rivers and wells. All of them are filled by rain.
 10. (perspective) Three people in Puducherry talk about the best way to use one bucket of water.  
    **Answer:** Any choice with a reason is fine. For example: Revathi, because people need water to live. But the first child is right that birds need water too and cannot get it from a tap.. *Why:* A strong answer picks one person, gives a reason, and is fair to another view. Every living being needs water, so there is no single right answer.
@@ -415,34 +415,34 @@ Meenakshi looked out of the window at the dark sky. 'Thank you, rain,' she said.
 
 ## Quiz
 1. (mcq) Which of these is a job that water does for us?  
-   Options: Cooking rice / Making a stone / Turning on the light  
+   Options: Making a stone / Turning on the light / Cooking rice  
    **Answer:** Cooking rice. *Why:* We cook rice in water. We also drink water, wash with it, and give it to plants and animals.
 2. (mcq) Which of these is NOT a job for water at home?  
-   Options: Washing plates / Watering the tulsi / Sharpening a pencil  
+   Options: Washing plates / Sharpening a pencil / Watering the tulsi  
    **Answer:** Sharpening a pencil. *Why:* We sharpen a pencil with a sharpener, not with water. Washing plates and watering plants both need water.
 3. (mcq) Where does the water in our tap come from, before the pipes?  
-   Options: From inside the tap / From rain, rivers, lakes and wells / From the fridge  
+   Options: From inside the tap / From the fridge / From rain, rivers, lakes and wells  
    **Answer:** From rain, rivers, lakes and wells. *Why:* The tap is only the end of a pipe. The water comes from tanks, lakes, rivers and wells, which are filled by rain.
 4. (mcq) Which one is a water source?  
-   Options: A lake / A chair / A pencil  
+   Options: A chair / A lake / A pencil  
    **Answer:** A lake. *Why:* A water source is a place we get water from. A lake holds rain water.
 5. (mcq) Look at Earth from space. Which sentence is true?  
-   Options: Most of Earth's surface is covered by water / Most of Earth's surface is covered by sand / Earth has no water on its surface  
+   Options: Most of Earth's surface is covered by sand / Earth has no water on its surface / Most of Earth's surface is covered by water  
    **Answer:** Most of Earth's surface is covered by water. *Why:* About seven out of every ten parts of Earth's surface are water. Most of it is in the salty oceans, which is why we need rivers, lakes and wells for water to drink. Earth has deserts with sand, but they are only a small part.
 6. (mcq) Poha sat in oil for ten minutes. What was it like?  
-   Options: Soft and squashy / Shiny and still hard / Gone  
+   Options: Soft and squashy / Gone / Shiny and still hard  
    **Answer:** Shiny and still hard. *Why:* Oil does not go inside poha. It only coats the outside, so the poha stays hard.
 7. (mcq) Dry poha is put in a katori of plain water. After a while it goes soft. Why?  
-   Options: The water went inside each flake / The water was hot / The katori was steel  
+   Options: The water was hot / The water went inside each flake / The katori was steel  
    **Answer:** The water went inside each flake. *Why:* Water soaks into each flake of poha and makes it soft. It does not need to be hot.
 8. (mcq) You pour a glass of clean drinking water. What will you find?  
    Options: It is clear and has no taste and no smell / It is yellow and smells of onions / It is white and tastes of milk  
    **Answer:** It is clear and has no taste and no smell. *Why:* Clean drinking water has no colour, no taste and no smell. Milk is white, and it has a taste. Water only looks yellow or smells strange when something else is mixed in.
 9. (mcq) Which of these needs water to live?  
-   Options: A spoon / A plant / A stone  
+   Options: A spoon / A stone / A plant  
    **Answer:** A plant. *Why:* A plant is alive and needs water. A spoon and a stone are not alive.
 10. (mcq) How does a cat drink?  
-   Options: Laps with a fast tongue / Through her skin / With a trunk  
+   Options: Through her skin / Laps with a fast tongue / With a trunk  
    **Answer:** Laps with a fast tongue. *Why:* A cat laps with her tongue, very fast. Each lap pulls up a little water.
 11. (mcq) You guess that oil will make poha soft. What should you do to find out?  
    Options: Ask a friend / Try it and look / Just believe it  

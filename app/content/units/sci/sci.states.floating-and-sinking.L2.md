@@ -424,13 +424,13 @@ Appooppa dropped the coin in, and it sank. He laughed. "I have lived for seventy
    Options: An apple / A wooden matchstick / A glass marble / A plastic bottle cap  
    **Answer:** 2. *Why:* A glass marble sinks, because glass is heavier than the water that would fill the same space. The other three float.
 11. (mcq) You want to know if a tiny piece of potato floats. What should you do first?  
-   Options: Drop it in and see / Guess, and say why / Ask a friend  
+   Options: Drop it in and see / Ask a friend / Guess, and say why  
    **Answer:** Guess, and say why. *Why:* First you guess and give a reason. Then the test shows if you were right. Guessing first helps you notice what surprised you.
 12. (fill) The push of water upwards on anything put into it is called ________.  
    **Answer:** upthrust. *Why:* Upthrust is what you feel when you push a ball down into water. It is what holds floaters up.
 ### Air, Upthrust and Good Tests (stretch) (stretch, 11 questions)
 1. (mcq) In the orange test, what happened to the orange after it was peeled?  
-   Options: It floated higher / It usually sank / It broke into pieces  
+   Options: It usually sank / It floated higher / It broke into pieces  
    **Answer:** It usually sank. *Why:* The peel is full of tiny air pockets. Without it, the orange is heavier than the water that would fill the same space, so it usually sinks. Picking 'floated higher' means thinking lighter always floats.
 2. (write) Why does a life jacket help a person float? Say your answer out loud, and a grown-up writes it down.  
    **Answer:** A life jacket is full of foam with air in it. Air is very light. The jacket and the person together weigh less than the water that would fill the same space, so they float.. *Why:* A strong answer links the jacket to the orange peel or to thermocol: things full of air float.
@@ -461,10 +461,10 @@ Appooppa dropped the coin in, and it sank. He laughed. "I have lived for seventy
 
 ## Quiz
 1. (mcq) What does 'float' mean?  
-   Options: It goes to the bottom and stays there / It stays at the top and comes back up when pushed under / It melts in the water  
+   Options: It goes to the bottom and stays there / It melts in the water / It stays at the top and comes back up when pushed under  
    **Answer:** It stays at the top and comes back up when pushed under. *Why:* A floater stays at the top. Push it under, let go, and it comes back up. Picking 'goes to the bottom' mixes it up with sinking.
 2. (mcq) Which of these sinks?  
-   Options: A wooden spoon / A steel spoon / A plastic bottle cap  
+   Options: A wooden spoon / A plastic bottle cap / A steel spoon  
    **Answer:** A steel spoon. *Why:* Steel is heavier than the water that would fill the same space, so a steel spoon sinks. Wood and most bottle caps float.
 3. (mcq) You are about to test a cucumber. What is a good prediction?  
    Options: 'It will float.' / 'It will float, because it feels light.' / 'Let's see.'  
@@ -482,16 +482,16 @@ Appooppa dropped the coin in, and it sank. He laughed. "I have lived for seventy
    Options: The log floats, the twig sinks / Both float / Both sink  
    **Answer:** Both float. *Why:* Both are made of the same wood, so both float. Size does not decide.
 8. (mcq) You push a ball down into a bucket of water. What do you feel?  
-   Options: The water pushing it back up / The water pulling it down / Nothing at all  
+   Options: The water pulling it down / The water pushing it back up / Nothing at all  
    **Answer:** The water pushing it back up. *Why:* Water pushes up on anything put into it. This push is called upthrust.
 9. (mcq) Why does a whole orange float, when a peeled orange usually sinks?  
-   Options: The peel is full of tiny air pockets / The peel is heavy / The juice floats  
+   Options: The peel is heavy / The peel is full of tiny air pockets / The juice floats  
    **Answer:** The peel is full of tiny air pockets. *Why:* Air is very light. The peel's air pockets mean the whole orange weighs less than a solid ball of that size would. If the peel were heavy, the peeled orange would float better, and it does not.
 10. (mcq) At Hogenakkal on the Kaveri river, people ride in round boats called coracles. Why do coracles float?  
-   Options: They are made of light, woven bamboo with a waterproof cover, and hold air inside / They are made of steel / The river is too shallow to sink in  
+   Options: They are made of steel / The river is too shallow to sink in / They are made of light, woven bamboo with a waterproof cover, and hold air inside  
    **Answer:** They are made of light, woven bamboo with a waterproof cover, and hold air inside. *Why:* Coracles are made of woven bamboo with a waterproof cover underneath. Bamboo floats, and the round bowl shape holds air above the water.
 11. (mcq) In the kitchen, which of these floats to the top when you wash rice?  
-   Options: Thin dry husks and empty grains / Full, heavy grains / Small stones  
+   Options: Full, heavy grains / Thin dry husks and empty grains / Small stones  
    **Answer:** Thin dry husks and empty grains. *Why:* Husks and empty grains are thin and light, or hold air, so they float. Full grains and stones sink.
 
 ## Applications

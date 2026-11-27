@@ -425,7 +425,7 @@ Arjun looked at the ice tray, the cold water in his bottle and the white cloud o
    Options: An ice cube / A steel tumbler / Buttermilk / A wooden spoon  
    **Answer:** 2. *Why:* Buttermilk is a liquid. It takes the shape of whatever holds it. The other three are solids.
 11. (mcq) When you blow up a balloon, where does the air go?  
-   Options: Only to the bottom of the balloon / It fills the whole balloon / It stays near the mouth  
+   Options: Only to the bottom of the balloon / It stays near the mouth / It fills the whole balloon  
    **Answer:** It fills the whole balloon. *Why:* Air is a gas, and a gas spreads out to fill all the space it has. If you picked 'only to the bottom', you mixed up a gas with a liquid.
 12. (write) Say out loud, and a grown-up writes it down: name one solid, one liquid and one gas in your kitchen.  
    **Answer:** For example: a steel plate (solid), coconut oil on a warm day (liquid) and the steam from the idli pot (gas).. *Why:* A strong answer gives one of each and can say why: it keeps its shape, it flows, or it spreads out.
@@ -471,22 +471,22 @@ Arjun looked at the ice tray, the cold water in his bottle and the white cloud o
    Options: It keeps its own shape / It flows and takes the shape of its cup / It spreads out to fill the room  
    **Answer:** It keeps its own shape. *Why:* A solid, like a stone or an ice cube, keeps its own shape. If you picked 'flows', you mixed up a solid with a liquid.
 2. (mcq) Which of these is a liquid?  
-   Options: A steel plate / Coconut oil on a hot day / The air in a tyre  
+   Options: Coconut oil on a hot day / A steel plate / The air in a tyre  
    **Answer:** Coconut oil on a hot day. *Why:* On a hot day coconut oil flows and takes the shape of its bottle, so it is a liquid. A steel plate is a solid. Air is a gas.
 3. (mcq) You pour a tumbler of water into a wide plate with a rim. The water looks very low. How much water is on the plate?  
-   Options: Less than was in the tumbler / The same as was in the tumbler / More than was in the tumbler  
+   Options: The same as was in the tumbler / Less than was in the tumbler / More than was in the tumbler  
    **Answer:** The same as was in the tumbler. *Why:* Water takes the shape of the plate, so it spreads out low. The amount stays the same. If you picked 'less', you judged the amount by its height.
 4. (mcq) In the pouring test, why did the water stand taller in the thin bottle?  
-   Options: The bottle made more water / The bottle is narrow, so the same water has to stand higher / The water got heavier  
+   Options: The bottle is narrow, so the same water has to stand higher / The bottle made more water / The water got heavier  
    **Answer:** The bottle is narrow, so the same water has to stand higher. *Why:* A narrow container has less room across, so the same amount of water stands taller.
 5. (mcq) In the Three Bags activity, one bag held a stone, one held water and one held air. Which one filled its whole bag, even upside down?  
-   Options: The stone / The water / The air  
+   Options: The stone / The air / The water  
    **Answer:** The air. *Why:* Air is a gas, so it spreads out to fill all the space. The stone and the water went to the bottom.
 6. (mcq) What is ice?  
-   Options: Water as a solid / A different thing from water / Water as a gas  
+   Options: A different thing from water / Water as a gas / Water as a solid  
    **Answer:** Water as a solid. *Why:* Ice is frozen water. Let it melt and it becomes liquid water again. Nothing is added or taken away.
 7. (mcq) What is real steam like?  
-   Options: White and cloudy / Invisible, like air / Hard, like ice  
+   Options: White and cloudy / Hard, like ice / Invisible, like air  
    **Answer:** Invisible, like air. *Why:* Real steam is water as a gas, and it is invisible. The white cloud is tiny drops of liquid water. Most people pick 'white', because they think the cloud is the steam.
 8. (mcq) You leave an ice cube on a plate in a warm room. What happens to it?  
    Options: It melts into a flat pool of water / It stays a cube for ever / It turns into steam straight away  
@@ -495,13 +495,13 @@ Arjun looked at the ice tray, the cold water in his bottle and the white cloud o
    Options: Ice is a solid, so it keeps its own shape / The glove was still inside it / The water was still a liquid  
    **Answer:** Ice is a solid, so it keeps its own shape. *Why:* The water froze in the glove's shape. As a solid, it keeps that shape until it melts.
 10. (mcq) Before the pouring test, what should you do first?  
-   Options: Guess what will happen, and say why / Ask someone for the answer / Pour without looking  
+   Options: Ask someone for the answer / Pour without looking / Guess what will happen, and say why  
    **Answer:** Guess what will happen, and say why. *Why:* A guess with a reason helps you notice when the test surprises you.
 11. (mcq) At lunch, why does Amma put dal in a katori, but she can pass a roti from hand to hand?  
-   Options: Dal is a liquid with no shape of its own, but a roti is a solid that keeps its shape / Dal is hotter than roti / A roti is lighter than dal / Dal cannot be eaten without a spoon  
+   Options: Dal is hotter than roti / A roti is lighter than dal / Dal cannot be eaten without a spoon / Dal is a liquid with no shape of its own, but a roti is a solid that keeps its shape  
    **Answer:** Dal is a liquid with no shape of its own, but a roti is a solid that keeps its shape. *Why:* A liquid flows, so it needs a container to hold it. A solid keeps its own shape, so you can hold it in your hand. Dal being hotter or roti being lighter does not explain why one needs a katori.
 12. (mcq) Two glasses stand on the table. One has clean water and one has milk. You do not look at them. You only sniff and sip. What do you find?  
-   Options: The water has almost no smell or taste, and the milk has its own / Both have exactly the same smell and taste / The water is sweet and the milk has no taste / Neither one has a smell  
+   Options: Both have exactly the same smell and taste / The water has almost no smell or taste, and the milk has its own / The water is sweet and the milk has no taste / Neither one has a smell  
    **Answer:** The water has almost no smell or taste, and the milk has its own. *Why:* Clean water has almost no smell or taste. Milk has its own smell and taste. So we can tell the two liquids apart even with our eyes closed.
 
 ## Applications
