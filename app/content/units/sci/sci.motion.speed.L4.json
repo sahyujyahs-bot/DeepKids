@@ -67,6 +67,78 @@
    "meaning": "The speed at which light travels through empty space, about 3 lakh kilometres every second.",
    "example": "Light from the Sun takes a little over 8 minutes to reach your window.",
    "art": "The Sun and the Earth with a dotted beam between them marked '8 minutes'."
+  },
+  {
+   "term": "Energy",
+   "meaning": "The thing that makes things move, heat up or glow. Physicists calculate a number for it that stays the same when things change, and nobody has a final definition of what it is.",
+   "example": "A rolling ball has energy of movement, and it gives some of it to a pin it hits.",
+   "art": "A ball rolling into a pin that falls over."
+  },
+  {
+   "term": "Atom",
+   "meaning": "One of the tiny building blocks that everything is made of.",
+   "example": "A drop of water holds billions of billions of atoms.",
+   "art": "A water drop zoomed in to show small round dots."
+  },
+  {
+   "term": "Mass",
+   "meaning": "How much stuff something is made of. The more mass, the harder it is to speed up.",
+   "example": "A full bucket has more mass than an empty one, so it is harder to push.",
+   "art": "An empty and a full bucket on a floor, with a hand pushing each."
+  },
+  {
+   "term": "Momentum",
+   "meaning": "A moving thing's mass times its speed. It is the push a moving thing carries.",
+   "example": "A heavy lorry at 10 kilometres per hour is harder to stop than a bicycle at the same speed.",
+   "art": "A lorry and a bicycle side by side with equal speed arrows."
+  },
+  {
+   "term": "Gravity",
+   "meaning": "The pull that makes things fall and keeps the Moon going round the Earth. Newton described how it acts, and Einstein described it as the bending of space and time. A theory that joins it with quantum physics does not yet exist.",
+   "example": "A dropped ball falls to the floor.",
+   "art": "A ball falling beside the Moon circling the Earth."
+  },
+  {
+   "term": "Particle",
+   "meaning": "A very tiny piece of matter. Atoms, and the smaller pieces inside them such as protons, neutrons and electrons, are particles.",
+   "example": "A proton is a particle inside an atom.",
+   "art": "A tiny dot inside a bigger ring of dots."
+  },
+  {
+   "term": "Electromagnetic wave",
+   "meaning": "One of a family of waves that includes radio waves, microwaves, visible light and X-rays. All of them travel at the speed of light in empty space.",
+   "example": "The light from a lamp and the signal from a phone tower are both electromagnetic waves.",
+   "art": "A lamp and a phone tower with wavy lines of different lengths."
+  },
+  {
+   "term": "Radio wave",
+   "meaning": "An electromagnetic wave with a long wavelength, light that our eyes cannot see. Phones, radios and televisions use radio waves.",
+   "example": "A phone sends your voice to the nearest tower as radio waves.",
+   "art": "A phone with wavy lines going to a tall tower."
+  },
+  {
+   "term": "Ether",
+   "meaning": "A still, invisible substance, the same everywhere, that was once guessed to carry light.",
+   "example": "Michelson and Morley looked for an 'ether wind' in 1887 and found none.",
+   "art": "A wind of dots blowing across a light beam."
+  },
+  {
+   "term": "Dark matter",
+   "meaning": "Unseen matter that is guessed to add extra pull, by gravity, to galaxies. No particle of it has been found directly.",
+   "example": "The outer stars of galaxies orbit faster than the matter we can see allows.",
+   "art": "A galaxy inside a faint ring of cloud."
+  },
+  {
+   "term": "Velocity",
+   "meaning": "Speed together with the direction of travel. Two things with the same speed but different directions have different velocities.",
+   "example": "A bus going 40 kilometres per hour towards the north and a bus going 40 kilometres per hour towards the south have the same speed but different velocities.",
+   "art": "Two buses on a road, one with an arrow pointing north and one pointing south, both labelled 40 kilometres per hour."
+  },
+  {
+   "term": "Vacuum",
+   "meaning": "A space with almost nothing in it, not even air. Sound cannot travel through a vacuum, and light can.",
+   "example": "The space between the stars is almost a vacuum. A steel flask keeps tea hot partly because there is almost no air in a layer inside its walls.",
+   "art": "A steel flask cut open to show the thin empty layer between its two walls."
   }
  ],
  "explanations": [
@@ -74,11 +146,12 @@
    "concept": "Speed is the distance covered in each second, minute or hour",
    "status": "defined",
    "definition": "Speed is the distance something covers divided by the time it takes.",
-   "description": "To know how fast something goes, you need two measurements. One is how far it went, and the other is how long that took. Divide the distance by the time, and you get the speed. A toy car that covers 200 centimetres in 4 seconds covers 50 centimetres in each second. We write that as 50 centimetres per second. The word 'per' means 'in each'. There are two fair ways to compare movers. Give them the same distance, and the one who takes less time is faster. Or give them the same time, and the one who goes farther is faster. A running race uses the first way. A game of 'how far can you hop in ten seconds' uses the second.",
+   "description": "Speed tells you how fast something goes. To find it, you need two measurements. One is how far it went, and the other is how long that took. Divide the distance by the time, and you get the speed. A toy car that covers 200 centimetres in 4 seconds covers 50 centimetres in each second. We write that as 50 centimetres per second. The word 'per' means 'in each'. There are two fair ways to compare movers. Give them the same distance, and the one who takes less time is faster. Or give them the same time, and the one who goes farther is faster. But did the toy car really go 50 centimetres in every single second?",
    "examples": [
     "A child walks 4 kilometres in 1 hour. Her speed is 4 kilometres per hour.",
     "A garden snail covers about 1 millimetre each second, so a 30 centimetre ruler takes them about 5 minutes.",
-    "A bus that goes 90 kilometres in 3 hours has a speed of 30 kilometres per hour."
+    "A bus that goes 90 kilometres in 3 hours has a speed of 30 kilometres per hour.",
+    "A running race gives every runner the same distance and sees who takes less time. A game of 'how far can you hop in ten seconds' gives everyone the same time and sees who goes farther."
    ],
    "perspectives": [
     {
@@ -91,17 +164,17 @@
     },
     {
      "who": "The Vaisheshika school of India, in Prashastapada's commentary of about the 6th century",
-     "explanation": "These thinkers described 'vega' as a quality that a moving thing carries inside it, which keeps the thing going after the hand lets go. On this view, speed belongs to the thing. Physics today keeps part of this idea under the name momentum, and says that the number for speed still depends on who measures it."
+     "explanation": "These thinkers described 'vega' as a quality that a moving thing carries inside it, which keeps the thing going after the hand lets go. On this view, speed belongs to the thing. Physics today keeps part of this idea under the name momentum, which is a thing's mass times its speed. Mass is how much stuff a thing is made of. Physics also says that the number for speed still depends on who measures it."
     }
    ],
    "art": "A toy car on a track with four equal 50-centimetre jumps drawn as arches, and a stopwatch tick above each arch.",
    "context": "This card says what speed is and how to work it out from a distance and a time."
   },
   {
-   "concept": "Average speed over a trip, and speed at one moment",
+   "concept": "Average speed over a whole trip, and speed at one moment",
    "status": "defined",
    "definition": "Average speed is the whole distance divided by the whole time. The speed at one moment is how fast something is going just then.",
-   "description": "In the toy car test, the car took longer over the second metre than over the first. So the car did not have one speed. It was a little slower at every moment, because the floor and the air rubbed against it. When you divided 200 centimetres by the whole time, you found the average speed. That is the one steady speed that would have covered the same track in the same time. The needle of a scooter's speedometer shows something else, which is the speed at this moment. To get close to the speed at a moment, measure a very short piece of the trip. The shorter the piece, the closer you get.",
+   "description": "In the toy car test, the car took longer over the second metre than over the first. So the car did not have one speed. It was a little slower at every moment, because the floor and the air rubbed against it. When you divided 200 centimetres by the whole time, you found the average speed. That is the one steady speed that would have covered the same track in the same time. The needle of a scooter's speedometer shows something else, which is the speed at this moment. To get close to the speed at a moment, measure a very short piece of the trip. The shorter the piece, the closer you get. Yet each of these speeds still hides a question: measured against what?",
    "examples": [
     "A train from Chennai to Coimbatore covers about 500 kilometres in about 6 hours. Its average speed is about 83 kilometres per hour, though the train stood still at each station.",
     "A cricket ball's speed on television is measured over a tiny part of its flight, just after the ball leaves the bowler's hand.",
@@ -125,14 +198,16 @@
    "context": "This card explains why one trip can have many speeds, and what the single number you worked out really means."
   },
   {
-   "concept": "Every speed is measured against something",
+   "concept": "Every speed is measured against something, so one mover has many speeds",
    "status": "defined",
    "definition": "A speed is always stated against a reference point. Change the reference point, and the same mover has a different speed.",
-   "description": "Walk down the aisle of a moving train. Measured against the seats, you go at about 4 kilometres per hour. Measured against the platform, you go at the train's speed plus your own, perhaps 104 kilometres per hour. Both numbers are correct. Each needs the words 'compared with' to be complete. Now sit still on the floor. Compared with the floor, your speed is zero. But the floor is on the Earth, and the Earth turns once a day. In Chennai that carries you eastward at about 1,600 kilometres per hour. In Srinagar, which is nearer the pole and goes round a smaller circle, it is about 1,400. The Earth also goes round the Sun at more than one lakh kilometres per hour. You feel none of it, because everything around you moves along with you.",
+   "description": "Walk down the aisle of a moving train. Measured against the seats, you go at about 4 kilometres per hour. Measured against the platform, you go at the train's speed plus your own, perhaps 104 kilometres per hour. Both numbers are correct. Each needs the words 'compared with' to be complete. Now sit still on the floor. Compared with the floor, your speed is zero. But the floor is on the Earth, which is itself moving. You feel none of that motion, because everything around you moves along with you. So sitting still is also a kind of moving, and every speed still comes from the same sum.",
    "examples": [
     "Two buses side by side at the same speed: a passenger in one sees the other bus as standing still.",
     "A ball tossed straight up in a moving train comes straight back to the hand, though someone on the platform sees it travel forward in a curve.",
-    "At a station, the train beside yours starts to move, and for a moment you cannot tell which train is moving."
+    "At a station, the train beside yours starts to move, and for a moment you cannot tell which train is moving.",
+    "The Earth turns once a day. In Chennai that carries you eastward at about 1,600 kilometres per hour. In Srinagar, which is nearer the pole and goes round a smaller circle, it is about 1,400.",
+    "The Earth also goes round the Sun at more than one lakh kilometres per hour, and you sit still on the floor through all of it."
    ],
    "perspectives": [
     {
@@ -156,40 +231,30 @@
    "context": "This card asks 'compared with what?' and shows that sitting still is also a kind of moving."
   },
   {
-   "concept": "Light: the speed that is the same for everyone, and the top speed",
+   "concept": "Distance divided by time works for everything: sound, thunder and the drifting ground of India",
    "status": "defined",
-   "definition": "Light in empty space always travels at 299,792 kilometres per second. Everyone who measures it gets this same number, even if they are moving towards the lamp or away from it. Light has no mass, and nothing that does have mass, such as you, a car or a rocket, can ever reach this speed.",
-   "description": "Throw a ball forward from a moving train. The train's speed and the ball's speed add up, so a person on the platform sees the ball go faster. Light does not follow this rule. Switch on a torch at the front of a moving train. The person on the train and the person on the platform both measure the same speed for the light. Nothing is added and nothing is taken away. This sounds wrong, but it has been tested again and again. In 1887, Albert Michelson and Edward Morley looked for a change in the speed of light as the Earth moved through space. They found none. In 1905, Albert Einstein took this result seriously. He asked what must be true if everyone measures the same speed for light. His answer was strange. Time and length cannot be the same for everyone. A clock that moves past you ticks a little more slowly than your own. Light also has no mass. Mass is how much stuff a thing is made of. The more mass a thing has, the more energy it takes to speed it up, and the cost grows without end as it nears the speed of light. So things with mass can get close to this speed, but can never reach it. Light has no mass, and so it always travels at exactly this speed.",
+   "definition": "Any speed, however great or small, is found in the same way: a measured distance divided by a measured time.",
+   "description": "The same sum works for every mover, fast or slow. Sound travels through air at about 340 metres each second, a little faster on a hot day. Light is so much faster that a lightning flash reaches you almost at once. So count the seconds from the flash to the thunder. Every 3 seconds means the lightning was about 1 kilometre away. The land of India is moving too. India rides on a plate of rock that pushes north-east at about 5 centimetres a year. In a child's lifetime that cannot be seen. In a million years it adds up to 50 kilometres, and the push has raised the Himalayas. Which living beings go fastest of all?",
    "examples": [
-    "Light could go round the Earth more than 7 times in one second.",
-    "Moonlight is about 1.3 seconds old when it reaches your eyes.",
-    "A phone call through a satellite high above the Earth has a small pause, because the signal travels up and down at the speed of light and no faster."
+    "At a cricket ground, you see the bat hit the ball before you hear the crack from the far stand.",
+    "Satellites measure the distance between two points on different plates year after year, and find it changing by a few centimetres."
    ],
-   "perspectives": [
-    {
-     "who": "Isaac Newton, in the Principia of 1687",
-     "explanation": "Time flows at the same rate for everyone, everywhere. Speeds simply add. This view predicts the motion of balls, trains and planets very well, and it fails only when things move extremely fast."
-    },
-    {
-     "who": "Hendrik Lorentz and George FitzGerald, between 1889 and 1904",
-     "explanation": "Space is filled with a still, unseen 'ether' that carries light. Things that move through it shrink a little along their path, and that hides the change in light's speed. Their sums give the same answers as Einstein's. Most physicists dropped the ether because nothing has ever detected it."
-    },
-    {
-     "who": "Albert Einstein, in 1905",
-     "explanation": "There is no ether and no single time for everyone. The speed of light is the same for all, and time and length are what differ between watchers. Every test so far agrees with this."
-    }
-   ],
-   "art": "A train with a ball thrown forward (arrows adding up) and a headlamp beam beside it (one arrow that stays the same length).",
-   "context": "This card explains why light does not obey the rule that speeds add up, and why its speed is a limit."
+   "perspectives": [],
+   "art": "A ladder of speeds from bottom to top: a continent, a fingernail, a snail, a walker, sound, a space station, the Earth in orbit, and light.",
+   "context": "This card carries the sum from the toy car out to thunder and to the slow drift of continents.",
+   "one_view": "These are measured values that scientists agree on, and the sum is the same for all of them. Any disagreements about why some speeds are what they are come in the later cards."
   },
   {
-   "concept": "Living beings each move at speeds that fit their bodies and their lives",
-   "status": "idea",
-   "description": "A garden snail glides at about 1 millimetre each second. A cheetah in the wild has been measured at 93 kilometres per hour, and she can keep that up for only a few seconds. A shaheen falcon, the peregrine of the Indian hills, dives at more than 300 kilometres per hour. The biggest animals are not the fastest. An elephant and a blue whale are both slower than animals of middle size. Speeds run inside bodies too. The fastest nerve signals in you travel at about 100 metres each second, and the slowest at about 1. That is why you feel the knock of a stubbed toe first and the ache a moment later. Plants move as well. A bamboo shoot can rise several centimetres in a day, and a root tip feels their way round a stone.",
+   "concept": "Living beings move at speeds that fit their bodies, and who is fastest depends on the ruler",
+   "status": "defined",
+   "definition": "Each kind of living being has its own usual and top speeds, measured in the same way as any other speed.",
+   "description": "A garden snail glides at about 1 millimetre each second. A cheetah in the wild has been measured at 93 kilometres per hour, and she can keep that up for only a few seconds. A shaheen falcon, the peregrine of the Indian hills, dives at more than 300 kilometres per hour. The biggest animals are not the fastest. An elephant and a blue whale are both slower than animals of middle size. Measured in kilometres per hour, the falcon wins. Measured against the mover's own length, a tiny bacterium can win. So how do all these speeds, and the ones in the sky, fit in one line?",
    "examples": [
     "A bacterium such as E. coli swims about 10 of their own body lengths each second, turning towards food and away from harm.",
     "A human sprinter at full speed covers about 6 body lengths each second.",
-    "Your fingernails grow about 3 millimetres in a month, which is a speed too."
+    "Your fingernails grow about 3 millimetres in a month, which is a speed too.",
+    "Speeds run inside bodies too. The fastest nerve signals in you travel at about 100 metres each second, and the slowest at about 1. That is why you feel the knock of a stubbed toe first and the ache a moment later.",
+    "Plants move as well. A bamboo shoot can rise several centimetres in a day, and a root tip feels their way round a stone."
    ],
    "perspectives": [
     {
@@ -209,24 +274,129 @@
    "context": "This card looks at how fast living beings go, inside and outside their bodies, and why the biggest are not the fastest."
   },
   {
-   "concept": "The same sum works for sound, for the ground under India and for the sky",
+   "concept": "A ladder of speeds from a walker to a spacecraft, each as a part of the speed of light",
    "status": "defined",
-   "definition": "Any speed, however great or small, is found in the same way: a measured distance divided by a measured time.",
-   "description": "Sound travels through air at about 340 metres each second, a little faster on a hot day. Light is so much faster that a lightning flash reaches you almost at once. So count the seconds from the flash to the thunder. Every 3 seconds means the lightning was about 1 kilometre away. The land of India is moving too. India rides on a plate of rock that pushes north-east at about 5 centimetres a year. In a child's lifetime that cannot be seen. In a million years it adds up to 50 kilometres, and the push has raised the Himalayas. Above us, the Moon goes round the Earth at about 1 kilometre each second. The International Space Station goes round at about 7.7 kilometres each second, and circles the Earth about 16 times a day. The Earth goes round the Sun at about 30 kilometres each second. The Sun carries us round the centre of our galaxy at about 230.",
+   "definition": "Speeds can be put in one line, from slowest to fastest, and each can be written as a fraction of the speed of light, which is 299,792 kilometres each second.",
+   "description": "Put the speeds in one line, and a pattern appears. A walker goes about 5 kilometres per hour, a car about 100 and a jet about 900. Sound in air goes about 340 metres each second. The Earth's spin carries you at the equator about 1,670 kilometres per hour, which is 0.46 kilometres each second. To escape the Earth, a rocket needs 11.2 kilometres each second. The Earth goes round the Sun at 29.8. The fastest spacecraft, the Parker Solar Probe, reaches about 190 at its fastest. Light goes 299,792. Even the Earth round the Sun is only about 1 part in 10,000 of that. What is this light that leaves everything behind?",
    "examples": [
-    "At a cricket ground, you see the bat hit the ball before you hear the crack from the far stand.",
-    "Satellites measure the distance between two points on different plates year after year, and find it changing by a few centimetres.",
-    "A spacecraft must reach nearly 8 kilometres each second sideways to stay in orbit close to the Earth."
+    "The Moon goes round the Earth at about 1 kilometre each second. The International Space Station goes round at about 7.7 kilometres each second, and circles the Earth about 16 times a day.",
+    "A spacecraft must reach nearly 8 kilometres each second sideways to stay in orbit close to the Earth.",
+    "The Earth goes round the Sun at about 30 kilometres each second. The Sun carries us round the centre of our galaxy at about 230 kilometres each second.",
+    "As parts of light's speed, a walker is about 1 part in 200 million, a car about 1 in 10 million, a jet about 1 in 1.2 million and sound about 1 in 900,000. The Earth's spin is about 1 in 650,000, escaping the Earth about 1 in 27,000 and the space station about 1 in 39,000.",
+    "The Earth round the Sun is about 1 part in 10,000. The Sun round the galaxy is about 1 in 1,300, and the Parker Solar Probe at its fastest is about 1 in 1,600."
    ],
-   "one_view": "These are measured values that scientists agree on. They disagree about why some of them are what they are, and those debates are given in the challenging views.",
-   "art": "A ladder of speeds from bottom to top: a continent, a fingernail, a snail, a walker, sound, a space station, the Earth in orbit, and light.",
-   "context": "This card carries the sum from the toy car out to thunder, to the slow drift of continents and to orbits.",
-   "perspectives": []
+   "perspectives": [],
+   "art": "A tall ladder of speeds: a walker, a car, a jet, sound, the Earth's spin, escape from Earth, Earth round the Sun, the Parker Solar Probe, and at the very top a beam of light, each with its fraction of light's speed.",
+   "context": "This card puts the speeds from daily life and the sky in one line, and shows how far light is above all of them.",
+   "one_view": "These are measured values that scientists agree on, so there is no rival view of the numbers themselves."
+  },
+  {
+   "concept": "Light is the fastest thing we know, and 'light' includes light we cannot see",
+   "status": "defined",
+   "definition": "Light in empty space always travels at 299,792 kilometres per second. Visible light is one small part of a family of waves called electromagnetic waves, which all travel at this speed in empty space.",
+   "description": "Light crosses empty space at 299,792 kilometres each second. Our eyes see only a small part of a large family of waves, called electromagnetic waves. The family holds radio waves, microwaves, X-rays and the light we see. They differ in how long each wave is, and radio waves are longer than light waves. In empty space all of them travel at light's speed. So a radio wave is light that our eyes cannot see. That is why a phone call can travel at the speed of light. But does light's speed behave like other speeds?",
+   "examples": [
+    "Light could go round the Earth more than 7 times in one second.",
+    "Moonlight is about 1.3 seconds old when it reaches your eyes.",
+    "Light from the Sun takes a little over 8 minutes to reach your window.",
+    "A phone turns your voice into a pattern and sends it as radio waves to the nearest tower. From there the call travels on through glass fibre, microwave links or a satellite. In glass fibre the call is pulses of light, which move at about two-thirds of light's speed in glass.",
+    "A phone call through a satellite high above the Earth, about 36,000 kilometres up, has a small pause, because the signal travels up and down at the speed of light and no faster."
+   ],
+   "perspectives": [],
+   "art": "A rainbow-like strip of waves from long radio waves to short X-rays, with the small visible part marked, and a phone, a tower and a satellite joined by a dotted beam.",
+   "context": "This card gives light's speed and shows that radio waves, which carry phone calls, are light our eyes cannot see.",
+   "one_view": "The speed of light and the family of electromagnetic waves are measured and agreed. The different ways of thinking about what the speed means come in the next cards."
+  },
+  {
+   "concept": "Light's speed is the same for everyone, which breaks the rule that speeds add up",
+   "status": "defined",
+   "definition": "Everyone who measures light's speed in empty space gets the same number, even if they are moving towards the lamp or away from it.",
+   "description": "Throw a ball forward from a moving train. The train's speed and the ball's speed add up, so a person on the platform sees the ball go faster. Light does not follow this rule. Switch on a torch at the front of the train. The person on the train and the person on the platform both measure the same speed for the light. This sounds wrong, but it has been tested again and again. In 1887, Albert Michelson and Edward Morley looked for a change in the speed of light as the Earth moved through space. They found none. So what must be true, if everyone measures the same speed for light?",
+   "examples": [
+    "A ball thrown at 20 kilometres per hour from a train going at 80 is seen by someone on the platform to go at 100. A torch on that same train is seen by the same person to shine at light's speed, not at light's speed plus 80.",
+    "Michelson and Morley sent beams of light in different directions. If the Earth's motion had added to or taken away from light's speed, one beam would have come back a little before the other. They came back together."
+   ],
+   "perspectives": [],
+   "art": "A train with a ball thrown forward (arrows adding up) and a headlamp beam beside it (one arrow that stays the same length).",
+   "context": "This card explains why light does not obey the rule that speeds add up, and what that does to time."
+  },
+  {
+   "concept": "If light's speed is the same for everyone, then time and length are not",
+   "status": "defined",
+   "definition": "Moving clocks tick more slowly than still ones, and lengths change, as seen by someone who is not moving along with them. Every test so far agrees.",
+   "description": "In 1905, Albert Einstein asked what must be true if everyone measures the same speed for light. His answer was strange. Time and length cannot be the same for everyone. A clock that moves past you ticks a little more slowly than your own. The faster it moves, the bigger the difference. At everyday speeds the difference is far too small to notice, which is why nobody saw it for so long. Why can nothing with mass match light's speed?",
+   "examples": [
+    "Satellite navigation systems correct for this difference between fast clocks and slow clocks every day."
+   ],
+   "perspectives": [
+    {
+     "who": "Isaac Newton, in the Principia of 1687",
+     "explanation": "Time flows at the same rate for everyone, everywhere. Speeds simply add. This view predicts the motion of balls, trains and planets very well, and it fails only when things move extremely fast."
+    },
+    {
+     "who": "Albert Einstein, in 1905",
+     "explanation": "There is no ether and no single time for everyone. The speed of light is the same for all, and time and length are what differ between watchers. Every test so far agrees with this."
+    },
+    {
+     "who": "Augustine of Hippo in his Confessions, book 11, and physicists such as Carlo Rovelli and Lee Smolin",
+     "explanation": "Nobody has a final definition of time. Scientists use a working one: time is what clocks measure, and with it they predict the motion of everything above. Augustine wrote that he knew what time was until someone asked him to explain it. Rovelli argues that time is not basic and appears only when many things change together. Smolin argues that time is the most real thing there is. No experiment can yet decide. What do you think time is?"
+    }
+   ],
+   "art": "A train with a ball thrown forward (arrows adding up) and a headlamp beam beside it (one arrow that stays the same length).",
+   "context": "This card follows from the one before: if everyone measures the same speed for light, something else has to give. It is here to show what Einstein concluded, and which older ideas he and others set against."
+  },
+  {
+   "concept": "Nothing with mass can reach the speed of light, and the Large Hadron Collider shows how close it gets",
+   "status": "defined",
+   "definition": "Anything with mass always travels slower than light. The nearer it gets to light's speed, the more energy it needs to speed up, without end.",
+   "description": "Mass is how much stuff something is made of. The more mass something has, the harder it is to speed up. Light has no mass. Measurements find it to be zero, or too small to measure. Energy is what makes things move, heat up or glow. A thing with mass needs more and more energy to go faster and faster, and the energy needed grows without end as it nears light's speed. The examples below show how close the biggest machine on Earth gets. It uses protons, which are particles, tiny pieces of matter inside atoms. Atoms are the tiny building blocks of everything. So what makes light different from all of them?",
+   "examples": [
+    "You, a car and a rocket all have mass, so none of them can ever reach the speed of light.",
+    "The Large Hadron Collider in Switzerland pushes protons to more than 99.999999 percent of light's speed, and the protons never reach 100 percent."
+   ],
+   "perspectives": [
+    {
+     "who": "Albert Einstein, whose theory of 1905 sets the limit",
+     "explanation": "A particle with mass would need endless energy to reach the speed of light, so only things with no mass can travel at exactly that speed."
+    },
+    {
+     "who": "Richard Feynman, in his Lectures on Physics, volume 1, chapter 4",
+     "explanation": "Physicists calculate a number called energy that stays the same when things change, and it works. Feynman wrote that in physics today we have no knowledge of what energy is. So we use the word for a number that works, and nobody has a final definition."
+    },
+    {
+     "who": "Particle physicists, who study the smallest pieces of matter",
+     "explanation": "Most of the mass of an everyday thing comes from the energy that holds the tiny pieces inside protons and neutrons together, not from the pieces. What matter and mass finally are remains an open question."
+    }
+   ],
+   "art": "A rocket and a proton drawn as racers near a finish line marked 'speed of light', with a bar of 'energy needed' growing taller as they come closer.",
+   "context": "This card explains why things with mass can get close to the speed of light but never reach it."
+  },
+  {
+   "concept": "Why does light have this one speed? Nobody knows",
+   "status": "idea",
+   "definition": "Science can say what light's speed does. It cannot yet say why the speed is this number, or why light has no mass.",
+   "description": "In Einstein's theory, anything with no mass must always travel at exactly the speed of light in empty space. It can never be slowed down or stopped. Light has no mass, so it keeps this one speed. That is the part we can say. Here is where science runs out. Nobody knows why light has no mass. Nobody knows why the speed has this number, 299,792 kilometres each second. Einstein started from the speed as a fact, and every test since then agrees with him. What would you wonder about, and what would you test?",
+   "examples": [
+    "A torch beam, a radio wave and a ray of sunlight all have no mass, and all travel at exactly this one speed in empty space."
+   ],
+   "perspectives": [
+    {
+     "who": "Albert Einstein, in 1905",
+     "explanation": "He began from the speed of light as a fact of nature. He did not explain why it has this value, and every test since agrees with what he built on it."
+    },
+    {
+     "who": "Some physicists today",
+     "explanation": "They suspect the answer lies in what space and time are made of, which is not yet known. No accepted theory explains the number or why there is a limit."
+    }
+   ],
+   "art": "A beam of light with a large question mark at its start, and a dial that shows one fixed number.",
+   "context": "This card says plainly what science can tell about light's speed and where it has no answer."
   },
   {
    "concept": "Can anything go faster than light?",
    "status": "debated",
-   "description": "Einstein's limit says that nothing with mass can be pushed up to the speed of light. In 2011 a team in Italy reported tiny particles called neutrinos arriving a little sooner than light would. Physicists did not cheer. They checked. In 2012 the team found a loose cable in their timing equipment, and the early arrival vanished. Still, some questions about the limit are open. Very distant galaxies are getting farther from us faster than light could travel. This does not break the limit, because the galaxies are not racing through space. The space between us and them is stretching. Nobody knows why the limit has the value it has.",
+   "definition": "The limit says nothing with mass can be pushed up to the speed of light. Scientists still argue about what else might get past it.",
+   "description": "That limit has passed every test so far, and people keep testing it. In 2011 a team in Italy reported tiny particles called neutrinos arriving a little sooner than light would. Physicists did not cheer. They checked. In 2012 the team found a loose cable in their timing equipment, and the early arrival vanished. Still, some questions about the limit are open. Very distant galaxies are getting farther from us faster than light could travel. This does not break the limit, because the galaxies are not racing through space. The space between us and them is stretching. So is empty space really empty?",
    "examples": [
     "A torch beam swept across the Moon can make a spot of light that crosses the surface faster than light. No thing and no message travels along with the spot, so the limit holds.",
     "In water, light slows to about three-quarters of its top speed, and fast particles can overtake it there. They give off a blue glow, seen in the water around nuclear reactors."
@@ -247,6 +417,105 @@
    ],
    "art": "A finish line marked 'speed of light' with a rocket slowing as it nears the line, and behind it a row of galaxies on a stretching rubber sheet.",
    "context": "This card tells how the speed limit of the universe has been tested, and which questions about it are still open."
+  },
+  {
+   "concept": "Is empty space really empty? The ether that was guessed to carry light",
+   "status": "idea",
+   "definition": "The ether was a still, invisible substance, the same everywhere, that was guessed to carry light. Today space itself is said to have physical properties.",
+   "description": "Sound needs air to travel through, so people asked what carries light across empty space. Between 1892 and 1904 Hendrik Lorentz worked on an answer: an ether, a still, invisible substance, the same everywhere. In 1887 Michelson and Morley had looked for an 'ether wind' and found no sign of one. In 1905 Einstein showed the ether was not needed. In 1920, in a lecture at Leiden called 'Ether and the Theory of Relativity', he said that in general relativity space itself has physical properties. Does empty space hold anything else?",
+   "examples": [
+    "Michelson and Morley measured light's speed in different directions as the Earth moved. A wind of ether would have changed it, and they found no change."
+   ],
+   "perspectives": [
+    {
+     "who": "Hendrik Lorentz and George FitzGerald, between 1889 and 1904",
+     "explanation": "Space is filled with a still, unseen 'ether' that carries light. Things that move through it shrink a little along their path, and that hides the change in light's speed. Their sums give the same answers as Einstein's. Most physicists dropped the ether because nothing has ever detected it."
+    },
+    {
+     "who": "Albert Einstein, in his lecture 'Ether and the Theory of Relativity', Leiden, 1920",
+     "explanation": "In general relativity, space itself has physical properties. So there is an ether in that sense, but one with no state of motion."
+    },
+    {
+     "who": "Newton, Leibniz and Einstein, on what space is",
+     "explanation": "Newton treated space as an empty stage. Leibniz said it is only the relations between things. Einstein treated it as something that bends. Many physicists think a theory joining gravity and quantum physics may show that space is not basic. What space finally is remains open."
+    }
+   ],
+   "art": "A light wave crossing a dark space, with a ghostly wind of dots drawn behind it and a crossed-out label 'ether wind'.",
+   "context": "This card tells the story of the ether, the invisible substance once guessed to carry light, and what became of it."
+  },
+  {
+   "concept": "Could the ether and dark matter be the same? Probably not, but nobody has proved it",
+   "status": "idea",
+   "definition": "Dark matter is an unseen kind of matter, guessed because galaxies behave as if they have extra pull. No dark matter particle has been found directly.",
+   "description": "Dark matter is a guess at unseen stuff that adds extra pull, by gravity, to galaxies. Gravity is the pull that makes things fall and keeps the Moon going round the Earth. The two ideas were guessed to answer different questions. The ether was meant to explain how light travels, and dark matter to explain why galaxies hold together. Their properties clash. The ether was smooth, at rest and carried light. Dark matter clumps in huge clouds around galaxies, moves, pulls by gravity and does not carry light. Still, both are guesses at hidden stuff. There is no evidence either way, and asking is how science works.",
+   "examples": [
+    "Fritz Zwicky saw in 1933 that galaxies in the Coma cluster moved too fast for the matter we can see.",
+    "From 1970 onward, Vera Rubin and Kent Ford found that the outer stars of galaxies orbit too fast.",
+    "Gravitational lensing, the bending of light by mass, and the Bullet Cluster of 2006 show extra mass that is separate from the ordinary glowing gas.",
+    "In 2018 the Planck satellite put ordinary matter at about 5 percent of everything, dark matter at about 27 percent and dark energy at about 68 percent.",
+    "The ether wind was looked for and not found, but the pull of dark matter is seen."
+   ],
+   "perspectives": [
+    {
+     "who": "Most astronomers",
+     "explanation": "An unseen kind of matter, called dark matter, adds extra pull. Decades of searching have not caught a particle of it."
+    },
+    {
+     "who": "Mordehai Milgrom, in 1983, with his idea called MOND",
+     "explanation": "There may be no hidden stuff at all. Gravity itself may change at very small accelerations, which are very small changes of speed in each second."
+    },
+    {
+     "who": "Physicists who study empty space today",
+     "explanation": "What Lorentz and Einstein glimpsed, that empty space might not be empty, is still alive in physics. Space has fields and energy. Nobody has proved that this has anything to do with dark matter, and nobody has proved that it has not."
+    }
+   ],
+   "art": "A galaxy with a faint ring of cloud around it labelled 'dark matter', and beside it a smooth sheet labelled 'ether', with a question mark between them.",
+   "context": "This card sets the ether beside dark matter and says fairly why they are probably different and why the question is still a good one."
+  },
+  {
+   "concept": "Guesses about hidden things sometimes turn out right and sometimes wrong",
+   "status": "defined",
+   "definition": "Scientists often guess at a hidden cause. The history of science holds right guesses and wrong ones.",
+   "description": "A puzzle that old ideas cannot explain makes scientists guess at something hidden. Sometimes the guess is right, and sometimes it is wrong. The four cases below show both. Which kind of guess is dark matter? Nobody knows yet, and other peoples also asked what fills space.",
+   "examples": [
+    "Neptune: predicted from the odd path of Uranus in 1846, and then found.",
+    "The neutrino: guessed by Wolfgang Pauli in 1930 and found in 1956.",
+    "Vulcan: a planet that Urbain Le Verrier guessed in 1859 to explain Mercury's odd orbit. Einstein's new theory of gravity explained the orbit in 1915 with no hidden planet.",
+    "The ether: guessed to carry light, then found to be unnecessary."
+   ],
+   "perspectives": [],
+   "art": "Four stepping stones in a row: Neptune and the neutrino marked with ticks, Vulcan and the ether marked with crosses, and a fifth stone with a question mark for dark matter.",
+   "context": "This card shows from history that a guess at hidden stuff can turn out right or wrong, so no guess should be taken as settled.",
+   "one_view": "These are historical facts that historians of science agree on, and the lesson drawn from them is simply that a guess has to be tested."
+  },
+  {
+   "concept": "Ākāśa: what Indian thinkers said space is, and what sound and all beings come from",
+   "status": "idea",
+   "definition": "In Indian thought, ākāśa is space, the thing that sound is a sign of and that beings arise from. It was an idea formed without experiments of this kind.",
+   "description": "In Indian thought, ākāśa means space. Thinkers asked what sound travels in and what things arise from, and ākāśa was their answer. They formed it with no experiments of the kind used for the ether or dark matter. The Vaisheshika school said ākāśa is one and everywhere, and that sound points to it. The Upanishads, old Indian texts, say that beings arise from ākāśa and go back into it. Some modern writers compare ākāśa to the ether or to the quantum vacuum. Nothing shows that anyone anticipated dark matter. It is an interesting parallel in role, not evidence. What would you want to test?",
+   "examples": [
+    "Put your ear to a long railing while someone taps the far end. The sound of the tap, which the Vaisheshika thinkers took as the sign of ākāśa, reaches you through the metal."
+   ],
+   "perspectives": [
+    {
+     "who": "The Vaisheshika school: Kanada's Vaisheshika Sutra, and Prashastapada's commentary of about the 6th century",
+     "explanation": "The sutra 2.1.27 says that ākāśa is known by a mark, which the commentators explain as sound. Sound is a quality, and a quality needs something it belongs to, so these thinkers reasoned that sound belongs to ākāśa. Prashastapada treats sound as a quality of ākāśa and says ākāśa is one and all-pervading."
+    },
+    {
+     "who": "Taittiriya Upanishad, 2.1",
+     "explanation": "From the Self, the text says, space (ākāśa) came, and from space came air. Fire, water and earth follow in turn."
+    },
+    {
+     "who": "Chandogya Upanishad, 1.9.1",
+     "explanation": "All these beings arise from ākāśa alone, and they go back into ākāśa. The text calls ākāśa their final resting place."
+    },
+    {
+     "who": "Some modern writers",
+     "explanation": "They compare ākāśa to the ether or to the quantum vacuum, which physics describes as empty space that still has fields and energy. Nothing shows that anyone anticipated dark matter, so this is a parallel in role and not evidence."
+    }
+   ],
+   "art": "An Indian courtyard drawing: a tapped bell, rings of sound spreading out, and a wide open sky above, with the word ākāśa.",
+   "context": "This card tells what Indian thinkers meant by ākāśa and says honestly how far the comparison with the ether and dark matter goes."
   }
  ],
  "agreed": [
@@ -376,6 +645,14 @@
   {
    "q": "When did the Earth's plates begin to move?",
    "why_open": "Estimates range from more than 4 billion years ago to less than 1 billion. The oldest rocks have been melted and remade so many times that the clues are faint, and geologists read them differently."
+  },
+  {
+   "q": "What is energy?",
+   "why_open": "Physicists calculate a number called energy that stays the same when things change, and it works. Richard Feynman wrote that in physics today we have no knowledge of what energy is. We have working definitions and no final one."
+  },
+  {
+   "q": "What is space, and is empty space really empty?",
+   "why_open": "Newton treated space as an empty stage, Leibniz as only the relations between things, and Einstein as something that bends. Physics says empty space still has fields and energy. Many physicists think a theory joining gravity and quantum physics may show that space is not basic."
   }
  ],
  "story": {
@@ -850,7 +1127,7 @@
   "Doctors measure how fast signals travel along a nerve in an arm or a leg. A signal that is slower than usual helps them find where a nerve is pinched or hurt.",
   "A rocket from Sriharikota must give a satellite a sideways speed of nearly 8 kilometres each second. At a lower speed the satellite falls back, and that speed decides how much fuel the rocket carries."
  ],
- "playtest": "Written from reading and working out on paper, not yet tried at home. TO VERIFY BEFORE PUBLISHING. (1) The Two-Metre Track: the times in step s4 are estimates for a small die-cast car leaving a 6 centimetre ramp onto tiles. Try it with two different cars and a marble, and on a rough floor. Check that the second metre is reliably slower by an amount a hand-pressed stopwatch can show. If the gap is too small, lengthen the two pieces or lower the ramp. (2) The key clock: a 25 centimetre thread gives a swing of about 1 second and a 6 centimetre thread about half a second, by the pendulum formula. Check that a child can count the short one. (3) My Own Pace: the claim that five ordinary walks fall within about half a second is from experience of walking studies, not a home trial. (4) Sources to check against the texts: Aryabhatiya Gola 9 (boat verse); Vaisheshika 'vega' in Prashastapada; Tattvartha Sutra 5.17 numbering; Sayana on Rig Veda 1.50.4 and the figure 2,202 yojanas in half a nimesha; Bhagavata Purana 9.3 for Kakudmi and Revati; Isha Upanishad 4 and 5 paraphrase; Aristotle Physics 6.9 for Zeno's arrow. (5) Numbers to check: fly flicker rate of about 250 and human about 60 (Healy 2013); Hirt 2017 used about 470 species; cheetah 93 kilometres per hour (Wilson 2013); some bacteria at 50 or more body lengths each second; Earth's spin speed of about 1,600 kilometres per hour at Chennai and 1,400 at Srinagar; India's past drift of 15 to 20 centimetres a year and the plate-thickness finding (Kumar 2007); Ralston 1958 and the horse studies; Smoot 1977 and 370 kilometres each second; the Chennai to Coimbatore train figures (about 500 kilometres, about 6 hours) are round numbers for the sum. (7) The deep truth is near sci.space-time.time.L2 ('nobody has measured time without watching something change'). This one goes on to say a speed belongs to two movements and never to one thing. Check that the two read as different. (8) A parent should know: the watchmaker's blinking lamp in the story is imagined, and the story says so in its note. Checked: every quiz item has an outcome and all six outcomes are covered. Every worksheet has 16 items, at least 4 thinking items and one perspective item. No question or sum repeats. I worked every sum by hand: the average of 30 and 60 kilometres per hour over equal distances is 40, 72 kilometres per hour is 20 metres per second, 5 centimetres for 2 crore years is 1,000 kilometres, 20 light-minutes is 36 crore kilometres, and light crosses India in about one hundredth of a second. Game g1: played in my head with 2 and 4 players. The 36 cards use up the draw pile exactly with 4 players. The project and the challenge include backups for cool weather, a thin strip and phones that cannot step through video. Unsure: open the PhET and Nehru Science Centre addresses once to confirm they work. The videos have no ids yet. Speeds on the journey cards are rounded and realistic. Moong shoots can be slow in winter, so the project has a warm-place backup.",
+ "playtest": "Written from reading and working out on paper, not yet tried at home. TO VERIFY BEFORE PUBLISHING. (1) The Two-Metre Track: the times in step s4 are estimates for a small die-cast car leaving a 6 centimetre ramp onto tiles. Try it with two different cars and a marble, and on a rough floor. Check that the second metre is reliably slower by an amount a hand-pressed stopwatch can show. If the gap is too small, lengthen the two pieces or lower the ramp. (2) The key clock: a 25 centimetre thread gives a swing of about 1 second and a 6 centimetre thread about half a second, by the pendulum formula. Check that a child can count the short one. (3) My Own Pace: the claim that five ordinary walks fall within about half a second is from experience of walking studies, not a home trial. (4) Sources to check against the texts: Aryabhatiya Gola 9 (boat verse); Vaisheshika 'vega' in Prashastapada; Tattvartha Sutra 5.17 numbering; Sayana on Rig Veda 1.50.4 and the figure 2,202 yojanas in half a nimesha; Bhagavata Purana 9.3 for Kakudmi and Revati; Isha Upanishad 4 and 5 paraphrase; Aristotle Physics 6.9 for Zeno's arrow. (5) Numbers to check: fly flicker rate of about 250 and human about 60 (Healy 2013); Hirt 2017 used about 470 species; cheetah 93 kilometres per hour (Wilson 2013); some bacteria at 50 or more body lengths each second; Earth's spin speed of about 1,600 kilometres per hour at Chennai and 1,400 at Srinagar; India's past drift of 15 to 20 centimetres a year and the plate-thickness finding (Kumar 2007); Ralston 1958 and the horse studies; Smoot 1977 and 370 kilometres each second; the Chennai to Coimbatore train figures (about 500 kilometres, about 6 hours) are round numbers for the sum. (7) The deep truth is near sci.space-time.time.L2 ('nobody has measured time without watching something change'). This one goes on to say a speed belongs to two movements and never to one thing. Check that the two read as different. (8) A parent should know: the watchmaker's blinking lamp in the story is imagined, and the story says so in its note. Checked: every quiz item has an outcome and all six outcomes are covered. Every worksheet has 16 items, at least 4 thinking items and one perspective item. No question or sum repeats. I worked every sum by hand: the average of 30 and 60 kilometres per hour over equal distances is 40, 72 kilometres per hour is 20 metres per second, 5 centimetres for 2 crore years is 1,000 kilometres, 20 light-minutes is 36 crore kilometres, and light crosses India in about one hundredth of a second. Game g1: played in my head with 2 and 4 players. The 36 cards use up the draw pile exactly with 4 players. The project and the challenge include backups for cool weather, a thin strip and phones that cannot step through video. Unsure: open the PhET and Nehru Science Centre addresses once to confirm they work. The videos have no ids yet. Speeds on the journey cards are rounded and realistic. Moong shoots can be slow in winter, so the project has a warm-place backup. Facts still to verify: (1) Lorentz dates: the old card said 1889 to 1904 with FitzGerald, the brief says 1892 to 1904, both are kept in different places, check which to keep. (2) The fractions of light's speed in the ladder card are my own divisions (for example Earth round the Sun 29.8 km/s is about 1 in 10,000, escape speed 11.2 km/s about 1 in 27,000, Parker 190 km/s about 1 in 1,600, Sun round galaxy 230 km/s about 1 in 1,300). The 'Sun round the galaxy 230 kilometres each second' unit is added to the old bare '230'. (3) Feynman Lectures vol 1 ch 4, Augustine Confessions book 11, Newton and Leibniz on space, and the particle-physics point on the source of mass are taken from WRITER_BRIEF safe examples and were not re-checked by me. (4) 'Sound needs air to travel through' and 'Uranus path, Neptune found 1846' use common knowledge beyond the brief. (5) Vedic passages. Chandogya Upanishad 1.9.1: VERIFIED (wisdomlib English edition, answer 'ākāśa', beings arise from ākāśa and go back into it, ākāśa the highest goal). Taittiriya Upanishad 2.1: VERIFIED by chapter and section for the order space, air, fire, water, earth (Shankara and Max Muller summaries), but I did not see the exact Sanskrit of 2.1.1 itself, so the verse number is given as 2.1 only. Vaisheshika Sutra 2.1.27 'pariśeṣāl liṅgam ākāśasya' (ākāśa is known by a mark, by elimination, with sound as the mark) VERIFIED in the wisdomlib commentary. Prashastapada: VERIFIED that sound is a quality of ākāśa and that ākāśa is one and all-pervading (vibhu), from the Padarthadharmasamgraha translation. NOT verified and LEFT OUT: that ākāśa is 'not made of atoms', because no source stated it. Also left out: the Sanskrit quotations themselves, since I could not check the exact wording. A scholar of Sanskrit should read the three perspectives once. (6) The word 'velocity' is not used in the new cards, so no term was added for it.",
  "worksheets": [
   {
    "id": "ws-core",

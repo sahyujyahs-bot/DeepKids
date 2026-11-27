@@ -88,7 +88,9 @@ def parent_test(u):
     known = " ".join(str(x.get("term", "")) + " " + str(x.get("meaning", "")) for x in u.get("terms", []) if isinstance(x, dict)).lower()
     unexplained = []
     for w in JARGON:
-        if re.search(r"\b" + w + r"\b", allt) and not re.search(r"\b" + w + r"\b", known) and not re.search(r"\b" + w + r"s?\b[^.]{0,25}\b(?:is|are|means|stands for)\b|\b(?:called|means)\b[^.]{0,30}\b" + w + r"\b|\b" + w + r"s?\b ?\(", allt):
+        base = w[:-1] if w.endswith("s") and not w.endswith("ss") else w
+        if base != w: continue   # the plural is checked through its singular
+        if re.search(r"\b" + w + r"s?\b", allt) and not re.search(r"\b" + w + r"s?\b", known) and not re.search(r"\b" + w + r"s?\b[^.]{0,25}\b(?:is|are|means|stands for)\b|\b(?:called|means)\b[^.]{0,30}\b" + w + r"\b|\b" + w + r"s?\b ?\(", allt):
             unexplained.append(w)
     if unexplained: W.append("science words used but never explained in plain words (add a term with an everyday example, or explain at first use): " + ", ".join(unexplained[:8]))
     # an idea stated in the abstract with no numbers or scene beside it (found in review: "the number the average gets closer to")
