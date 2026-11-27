@@ -7,8 +7,8 @@
   "art": "A school doorway with one step, a girl in a wheelchair looking at it, and a wooden plank leaning against the wall nearby."
  },
  "intro": {
-  "hook": "Think of the step at a shop door. A child with a heavy school bag, a grandmother with a stick, a parent with a pram and a person in a wheelchair all arrive at the same step. Who gets in easily, and who has to stop? Who was the step built for?",
-  "text": "A step is a small thing. Whoever drew the plan for the door was probably thinking of a person who walks in with free hands. But look at who really comes to a door: people of every age, carrying and pushing all kinds of things. Some people live every day with a body or a mind that works differently from most. And everyone needs help at some time: as a baby, when hurt or ill, and in old age. Today you find out what really helps, and what only looks like help.",
+  "hook": "Think of the step at a shop door. Four people arrive at it. One is a child with a heavy bag. One is a grandmother with a stick. One is a parent with a pram. One uses a wheelchair. Who gets in easily, and who has to stop? Who was the step built for?",
+  "text": "A step is a small thing. Whoever drew the plan for the door was probably thinking of a person who walks in with free hands. But look at who really comes to a door: people of every age, carrying and pushing all kinds of things. Some people live every day with a body or a mind that works differently from most. And every one of us will need help from other people at some time. Today you find out what really helps, and what only looks like help.",
   "art": "A shop door with one step. Five people stand in front of it: a child with a heavy bag, a grandmother with a stick, a parent with a pram, a delivery man with a trolley and a person in a wheelchair. Each looks at the step in a different way."
  },
  "outcomes": [
@@ -387,8 +387,8 @@
   {
    "concept": "Bodies and minds come in many kinds, and about one person in six lives with a disability",
    "status": "defined",
-   "definition": "A disability is a lasting difference in how a person's body, senses or mind work, which makes some everyday activities hard in the world as it is built.",
-   "description": "Some people cannot see, or see only a little. Some cannot hear. Some cannot walk, or have lost a hand or a leg. Some learn, speak or understand people in a different way. Some were born so, and others became so after an illness or an accident. In 2022 the World Health Organization reported that about 130 crore people, one in every six on Earth, live with a disability that matters in daily life. India's 2011 census counted 2.68 crore. Many people who study this think the true number in India is far higher.",
+   "definition": "A disability is a lasting difference in how a person's body, senses or mind work. It makes some everyday activities hard in the world as it is built.",
+   "description": "Some people cannot see, or see only a little. Some cannot hear. Some cannot walk, or have lost a hand or a leg. Some learn, speak or understand people in a different way. Some were born so, and others became so after an illness or an accident. In 2022 the World Health Organization reported that roughly 130 crore people live with a disability that matters in daily life. That is one in every six people on Earth. India's 2011 census counted 2.68 crore. Many people who study this think the true number in India is far higher.",
    "examples": [
     "Wearing spectacles is so common that nobody calls it a disability, though without them many people could not read a board.",
     "Avani Lekhara of Jaipur, who uses a wheelchair, won gold medals in shooting at the Paralympic Games of 2021 and 2024.",
@@ -445,7 +445,7 @@
      "explanation": "Many conditions bring pain or illness that no ramp can remove. Medicine has given people eye operations, hearing aids, vaccines against polio and artificial limbs. Treating the body is real help."
     },
     {
-     "who": "The Union of the Physically Impaired Against Segregation in Britain, in 1976, and the writer Mike Oliver, a wheelchair user, who named the 'social model' in 1983",
+     "who": "The Union of the Physically Impaired Against Segregation, Britain, 1976, and Mike Oliver, a wheelchair user who named the 'social model' in 1983",
      "explanation": "A body's difference is one thing. Being shut out is another, and it is done by society. Change the buildings, the buses and the attitudes, and most of the disability goes."
     },
     {
@@ -489,7 +489,7 @@
    "concept": "The wheelchair was improved again and again by the people who used it",
    "status": "defined",
    "definition": "A wheelchair is a chair on wheels that a person moves by turning large hand rims, by a motor, or with a push from someone else.",
-   "description": "A wheel rolls, and rolling takes far less push than dragging. Put a chair on wheels and a person who cannot walk can travel. A stone carving from China, made about 1,500 years ago, shows a wheeled chair. In 1655 CE Stephan Farffler, a watchmaker in Germany who could not use his legs, built himself a chair that he drove with hand cranks. In 1933 Herbert Everest, an American engineer who had broken his back, built a light steel chair that folded to fit in a car, with his friend Harry Jennings. The people who needed the tool kept making it better.",
+   "description": "A wheel rolls, and rolling takes far less push than dragging. Put a chair on wheels and a person who cannot walk can travel. A stone carving from China, made about 1,500 years ago, shows a wheeled chair. In 1655 CE Stephan Farffler, a watchmaker in Germany who could not use his legs, built himself a chair that he drove with hand cranks. In 1933 Herbert Everest, an American engineer who had broken his back, built a light steel chair with his friend Harry Jennings. It folded to fit in a car. The people who needed the tool kept making it better.",
    "examples": [
     "The big wheel of a wheelchair has a second, smaller ring fixed to it. The user pushes this ring, so the hands stay clean.",
     "Sports wheelchairs for basketball and tennis have wheels that lean inward, which lets them turn sharply without tipping."
@@ -503,7 +503,7 @@
    "concept": "A ramp made for wheelchairs helps almost everyone",
    "status": "defined",
    "definition": "Universal design means making buildings and things so that as many people as possible can use them from the start, without special arrangements.",
-   "description": "In the early 1970s students who used wheelchairs in Berkeley, a city in the USA, got the city to cut small slopes into the edges of its footpaths. Their leader was Ed Roberts. Then something happened that nobody had planned. Parents with prams used the slopes. So did people pulling suitcases, workers with handcarts, cyclists and old people with sticks. A change made for a few turned out to help most. Ronald Mace, an architect who used a wheelchair, gave this approach a name in the 1980s: universal design. Design for the person with the most difficulty, and it works for everyone.",
+   "description": "In the early 1970s students who used wheelchairs in Berkeley, a city in the USA, asked the city for slopes at the edges of its footpaths. The city cut them. Their leader was Ed Roberts. Then something happened that nobody had planned. Parents with prams used the slopes. So did people pulling suitcases, workers with handcarts, cyclists and old people with sticks. A change made for a few turned out to help most. Ronald Mace, an architect who used a wheelchair, gave this approach a name in the 1980s: universal design. Design for the person with the most difficulty, and it works for everyone.",
    "examples": [
     "At a railway station, count who uses the ramp or the lift in ten minutes. Most will not be in wheelchairs.",
     "Words printed at the bottom of a video were made for deaf viewers. Now people use them in noisy buses and to learn languages.",
@@ -599,7 +599,7 @@
    ],
    "perspectives": [],
    "one_view": "The making of the Jaipur Foot is well recorded. For many years Ram Chandra Sharma's share in it was told less often than Dr Sethi's.",
-   "art": "A workshop bench with a rubber foot in a mould, a craftsman's hands shaping it, and behind them a farmer squatting comfortably on the new leg.",
+   "art": "A workshop bench with a rubber foot in a mould, a craftsman's hands shaping the mould, and behind them a farmer squatting comfortably on the new leg.",
    "context": "This card gives an aid invented in India by a craftsman, built for Indian ways of sitting and walking."
   },
   {
@@ -756,7 +756,7 @@
    "concept": "Other animals care for their hurt and sick too",
    "status": "defined",
    "definition": "Many animals have been seen to rescue, feed, clean or stay beside an injured or trapped member of their group.",
-   "description": "Humans are not the only animals who help. In Africa, Matabele ants raid termite nests, and some ants lose legs in the fight. Their nestmates carry them home. There the others lick the wounds, which stops infection. Most of the carried ants live to raid again. Elephants stand around a fallen herd member and try to lift them with their tusks. In a laboratory, a rat will work to open a cage and free another rat who is trapped inside, even when chocolate is on offer in a second cage. Caring runs wide through the animal world.",
+   "description": "Humans are not the only animals who help. In Africa, Matabele ants raid termite nests, and some ants lose legs in the fight. Their nestmates carry them home. There the others lick the wounds, which stops infection. Most of the carried ants live to raid again. Elephants stand around a fallen herd member and try to lift them with their tusks. In a laboratory, a rat will work to open a cage and free another rat who is trapped inside. The rat keeps working even when chocolate is on offer in a second cage. Caring runs wide through the animal world.",
    "examples": [
     "Vampire bats who have fed share blood with a hungry roost-mate, who would otherwise starve within about three days.",
     "Dolphins have been seen holding a sick dolphin up at the surface so that they can breathe.",
@@ -785,7 +785,7 @@
    "definition": "Caring for animals means giving them water, food, shelter and safety where we can, causing them no needless pain or fear, and leaving wild animals free.",
    "description": "The animals around you feel thirst, hunger, pain and fear. In the hot months a street dog, a cow, a squirrel and a sparrow may all be short of water. A bowl kept filled in the shade is real help. So is slowing down for animals on the road, and keeping loud crackers away from them. Do not tease, chase or throw things. And think of the rule for helping people. Ask first. An animal answers with the body. A dog who turns away, tucks the tail or shows teeth is saying no.",
    "examples": [
-    "Put out a shallow clay dish of water on a balcony or wall, with a stone in it so that bees and small birds can drink safely.",
+    "Put out a shallow clay dish of water on a balcony or wall. Put a stone in it so that bees and small birds can drink safely.",
     "A baby bird on the ground is usually being watched by the parents. Leave the bird alone unless a cat is near.",
     "Kite strings coated with glass cut thousands of birds every Sankranti. Plain cotton string does far less harm.",
     "Plastic bags with food smells are eaten by cows and block their stomachs. Give peels without the bag."
@@ -801,7 +801,7 @@
     },
     {
      "who": "India's Constitution, Article 51A(g), and the law of 1960 against cruelty to animals",
-     "explanation": "Every citizen has a duty to have compassion for living creatures. Rukmini Devi Arundale, the dancer, pressed Parliament for the law against cruelty in the 1950s and led the board that it created."
+     "explanation": "Every citizen has a duty to have compassion for living creatures. In the 1950s the dancer Rukmini Devi Arundale pressed Parliament for the law against cruelty. She then led the board that the law created."
     },
     {
      "who": "Scientists who study wildlife",
@@ -814,7 +814,7 @@
   {
    "concept": "Do other animals feel pain as we do? Most scientists now say many do, and argue about which",
    "status": "debated",
-   "definition": "Pain is an unpleasant inner feeling that usually comes with harm to the body. Because a feeling cannot be seen from outside, scientists use behaviour and the body's wiring as evidence for pain in other animals.",
+   "definition": "Pain is an unpleasant inner feeling that usually comes with harm to the body. A feeling cannot be seen from outside. So scientists use behaviour and the body's wiring as evidence for pain in other animals.",
    "description": "You cannot step inside another person's pain. You believe in it because they cry out and pull away, and because their body is built like yours. The same test can be used for other animals. Dogs, cows, birds and fish all have nerves that carry signals of harm. They guard a hurt part. They learn to avoid what hurt them, and they act normally again when given a painkiller. Animals feel. In 2012, and again in 2024, large groups of scientists signed statements saying the evidence for this is strong. The argument now is about fish, insects and crabs.",
    "examples": [
     "A dog with a thorn in the paw limps, licks the place and whimpers when it is touched.",
@@ -872,7 +872,7 @@
   },
   {
    "text": "A vaccine ended polio in India, an illness that once left lakhs of children unable to walk.",
-   "evidence": "India's last case of wild polio was a two-year-old girl in Howrah, West Bengal, in January 2011. The World Health Organization declared India free of polio in 2014, after health workers had given drops to children in every village."
+   "evidence": "India's last case of wild polio was a two-year-old girl in Howrah, West Bengal, in January 2011. Health workers had given drops to children in every village. In 2014 the World Health Organization declared India free of polio."
   },
   {
    "text": "Children who learn beside disabled classmates do as well in their studies as other children.",
@@ -880,7 +880,7 @@
   },
   {
    "text": "Falls are the most common cause of serious injury in old people, and simple changes at home prevent many of them.",
-   "evidence": "Trials in which homes were given handrails, better light and non-slip mats recorded fewer falls among the old people living there than in homes left as they were."
+   "evidence": "In trials, some homes were given handrails, better light and non-slip mats. Fewer falls were recorded among the old people in those homes than in homes left as they were."
   }
  ],
  "challenging": [
@@ -2832,7 +2832,7 @@
      "t": "write",
      "p": "What can the rubber-band ramp test not tell us about a real wheelchair ramp?",
      "lines": 3,
-     "a": "It cannot show how tired a person's arms get, how a wet surface grips, where a rest place is needed, or how the ramp feels to use in rain.",
+     "a": "It cannot show how tired a person's arms get or how a wet surface grips. It cannot show where a rest place is needed, or how the ramp feels to use in rain.",
      "how": "e1",
      "why": "A test answers one question. A real ramp has more to it: arms, surface, rest and weather."
     },
@@ -3479,9 +3479,9 @@
  "roots": {
   "context": "You have tested a ramp and learned how to offer help. Now we ask what needing and giving help tell us about who we are.",
   "deep_truth": {
-   "truth": "A step stopped the loaded cart, and a long plank let it climb with a small push. The cart did not change. So 'cannot' was never inside the cart alone. It sat between the cart and the step. People are like this too. What a person is able to do depends partly on the world that meets them: its steps, its signs, its rules and its ways of treating people.",
+   "truth": "A step stopped the loaded toy lorry. A long board let it climb with a small pull. The lorry did not change. So 'cannot' was never inside the lorry alone. It sat between the lorry and the step. People are like this too. What a person can do depends partly on the world that meets them. That world has steps, signs, rules and ways of treating people.",
    "habit": "We say 'she can't walk in' or 'he is helpless' as if being unable were a thing inside a person, like the colour of their eyes. That label makes helper and helped look like two kinds of people.",
-   "evidence": "In the ramp test the same load needed a big stretch of the rubber band on the steep plank and a small stretch on the long plank. One and the same cart was 'unable' and 'able' within a minute, and only the plank had changed."
+   "evidence": "In the ramp test the same load needed a big stretch of the rubber band when lifted straight up. It needed a small stretch on the long board. The same lorry was 'unable' and 'able' within a minute, and only the way up had changed."
   },
   "three": {
    "who_am_i": "You have been carried, fed and taught by others every day of your life. What you can do was built by many hands. So you are not a separate self who sometimes helps. You are someone made by help, who passes it on.",
@@ -3512,7 +3512,7 @@
     "status": "settled"
    },
    {
-    "text": "Whether rescue and wound care in ants, rats and elephants come with a feeling like human concern is argued over, because feeling cannot be measured from outside.",
+    "text": "Ants, rats and elephants rescue and tend the wounded. Whether this comes with a feeling like human concern is argued over, because feeling cannot be measured from outside.",
     "status": "debated"
    }
   ],

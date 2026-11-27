@@ -110,7 +110,7 @@
     },
     {
      "who": "Scientists who study other animals' senses",
-     "explanation": "Every being has their own equipment. A pit viper senses the warmth of a mouse from a distance, and a bee sees ultraviolet marks on a flower, a kind of light that human eyes cannot see. No being's senses report the whole world."
+     "explanation": "Every being has their own equipment. A pit viper senses the warmth of a mouse from a distance. A bee sees ultraviolet marks on a flower, a kind of light that human eyes cannot see. No being's senses report the whole world."
     }
    ],
    "art": "Three bowls in a row with a child's two hands going from the outer bowls into the middle one, and a thermometer in the middle bowl showing one number.",
@@ -237,7 +237,7 @@
    "perspectives": [
     {
      "who": "The Rio Declaration of the United Nations, Principle 15, in 1992",
-     "explanation": "Where serious harm to the environment is possible, do not wait for full proof before you act to prevent it. This is called the precautionary approach. Suppose fish start dying in a river below a new factory. Waiting years for proof means years of harm, so the factory is asked to cut its waste now, while scientists study the river."
+     "explanation": "Where serious harm to the environment is possible, do not wait for full proof before you act to prevent it. This idea is known as the precautionary principle. Suppose fish start dying in a river below a new factory. Waiting years for proof means years of harm, so the factory is asked to cut its waste now, while scientists study the river."
     },
     {
      "who": "Chauncey Starr, an American engineer, in the journal Science in 1969",
@@ -255,10 +255,10 @@
    "concept": "The other beings in your test are at risk too",
    "status": "defined",
    "definition": "A risk assessment counts every living being the test touches, not only people.",
-   "description": "Many tests at home use living beings. There may be a potted plant, sprouting seeds, ants on a wall, a snail from the balcony or the curd bacteria in a bowl. Each of them can be harmed by the test, so they go on the list. Ask what the test will do to them, and how to do less. Watch ants where they already walk, and do not shut them in a jar. If a test keeps a plant in the dark, do it for a few days at most, then bring the plant back to the light. Put a snail back where you found them within the hour. Plants and animals feel, remember and decide. Some scientists call these automatic responses.",
+   "description": "Many tests at home use living beings. There may be a potted plant, sprouting seeds, ants on a wall, a snail from the balcony or the curd bacteria in a bowl. Each of them can be harmed by the test, so they go on the list. Ask what the test will do to them, and how to do less. Watch ants where they already walk, and do not shut them in a jar. If a test keeps a plant in the dark, keep the plant there for a few days at most. Then bring the plant back to the light. Put a snail back where you found them within the hour. Plants and animals feel, remember and decide. Some scientists call these automatic responses.",
    "examples": [
     "To learn what ants like to eat, place a grain of sugar and a grain of salt near their path and watch. No ant needs to be caught.",
-    "To test whether seeds need light to sprout, put ten seeds on a damp cloth, some in light and some in a dark cupboard, and plant them all afterwards."
+    "To test whether seeds need light to sprout, put ten seeds on a damp cloth. Keep some in light and some in a dark cupboard, and plant them all afterwards."
    ],
    "perspectives": [
     {
@@ -281,7 +281,7 @@
    "concept": "A prediction is what you expect to happen, with a reason taken from what you already know",
    "status": "defined",
    "definition": "A prediction is a statement, made before a test, of what the result will be. A scientific prediction comes with a reason.",
-   "description": "A guess says what will happen. A prediction also says why you think so. 'The sugar will dissolve faster in warm water' is a guess. Here is a prediction. 'The sugar will dissolve faster in warm water, because I have seen sugar vanish quickly in hot tea and slowly in cold lemon juice.' The reason matters for two things. It lets other people check your thinking. And when the result comes in, it tells you what to learn. If the result matches, the reason has passed one test. If the result does not match, something in the reason needs another look. Write the prediction down before the test, with a number if you can.",
+   "description": "A guess says what will happen. A prediction also says why you think so. 'The sugar will dissolve faster in warm water' is a guess. Here is a prediction. 'Sugar will dissolve faster in warm water, because I have seen it vanish fast in hot tea and slowly in cold lemon juice'. The reason matters for two things. It lets other people check your thinking. And when the result comes in, it tells you what to learn. If the result matches, the reason has passed one test. If the result does not match, something in the reason needs another look. Write the prediction down before the test, with a number if you can.",
    "examples": [
     "I predict the wet towel will dry in about 2 hours on the line, because yesterday a wet shirt took about that long.",
     "I predict the bigger ice cube will take longer to melt, because there is more ice to warm up."
@@ -416,7 +416,7 @@
    "description": "It is easy to think that careful testing began in Europe a few hundred years ago. The written record says otherwise. The Charaka Samhita, in its Vimanasthana section, chapter 8, tells a physician to examine in an ordered way before acting. It says to judge a claim by reasoning and by what is seen. In Cairo, about the year 1021 CE, Ibn al-Haytham wrote in his Book of Optics that a person who studies nature must test what earlier writers say. He added that you must suspect even your own judgement. In China, the Mozi, a book from about the 4th century BCE, gives three tests for any statement. One of them is to check it against what ordinary people's eyes and ears report. The tools have changed. The habits are the same ones this lesson teaches.",
    "examples": [
     "The Sushruta Samhita asks that a sharp instrument be so well made and sharpened that it can split a hair.",
-    "A potter in Manamadurai, a weaver in Kanchipuram and a cook testing sugar syrup between two fingers all use rules that were tested many times. The rules were passed from hand to hand, and most were never written down."
+    "A potter in Manamadurai, a weaver in Kanchipuram and a cook testing sugar syrup all use rules that were tested many times. These rules passed from hand to hand. Most were never written down."
    ],
    "perspectives": [
     {
@@ -2151,7 +2151,7 @@
    "id": "ch2",
    "title": "Make your own measuring cup from a bottle",
    "mins": 35,
-   "context": "You turn a clear plastic bottle into a measuring cup and mark it every 25 millilitres. Then you test how close your marks are to a real one.",
+   "context": "This is a design problem about measuring. You check your home-made cup against a real one and find where it is least exact.",
    "days": 1,
    "problem": "Turn a clear plastic bottle into a measuring cup with a mark every 25 millilitres up to 200. Your marks must agree with a real measuring cup to within 10 millilitres. There is more than one good way.",
    "constraints": [
@@ -3070,7 +3070,7 @@
     "A miss alone cannot say what is wrong"
    ],
    "a": 2,
-   "why": "In one case the cause was hidden outside the idea. In the other the idea itself needed changing. A miss is a clue, and more tests are needed to tell which.",
+   "why": "In one case the cause was hidden outside the idea. In the other the idea itself needed changing. A miss is a clue. Further tests are needed to tell which.",
    "outcome": 6
   }
  ],
