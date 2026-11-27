@@ -1,4 +1,36 @@
 {
+ "expl.0": {
+  "src": "media/img/sci.energy.using-the-sun.L3/expl.0.webp",
+  "drawn": true
+ },
+ "expl.1": {
+  "src": "media/img/sci.energy.using-the-sun.L3/expl.1.webp",
+  "drawn": true
+ },
+ "expl.2": {
+  "src": "media/img/sci.energy.using-the-sun.L3/expl.2.webp",
+  "drawn": true
+ },
+ "expl.3": {
+  "src": "media/img/sci.energy.using-the-sun.L3/expl.3.webp",
+  "drawn": true
+ },
+ "expl.4": {
+  "src": "media/img/sci.energy.using-the-sun.L3/expl.4.webp",
+  "drawn": true
+ },
+ "intro": {
+  "src": "media/img/sci.energy.using-the-sun.L3/intro.webp",
+  "drawn": true
+ },
+ "roots.0": {
+  "src": "media/img/sci.energy.using-the-sun.L3/roots.0.webp",
+  "drawn": true
+ },
+ "story": {
+  "src": "media/img/sci.energy.using-the-sun.L3/story.webp",
+  "drawn": true
+ },
  "term.19": {
   "src": "media/img/sci.energy.using-the-sun.L3/term.19.webp",
   "credit": "R. Henrik Nilsson, CC BY 4.0, via Wikimedia Commons"
