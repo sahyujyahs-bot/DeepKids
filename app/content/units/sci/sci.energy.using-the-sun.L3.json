@@ -3,7 +3,7 @@
  "title": "Using the Sun's heat and light: the solar cooker, the solar water heater and the solar cell",
  "level": 3,
  "summary": {
-  "text": "A steel tumbler of water left in the noon sun gets warm, but it never boils. Put the same tumbler in a black box under a clear lid, and the water gets far hotter. A full-size box like this can cook rice. The box has no flame and no wire, so where does the extra heat come from? In this lesson you build a simple solar cooker. Then you find out how a solar water heater and a solar cell use sunlight in their own ways. After that you follow the same sunlight into a basking lizard, a leaf, the whole Earth and your own body.",
+  "text": "A steel tumbler of water left in the noon sun gets warm, but it never boils. Put the same tumbler in a black box under a clear lid, and the water gets far hotter, hot enough that bigger boxes cook rice. The box has no flame and no wire, so where does the extra heat come from? In this lesson you build a solar cooker and meet a solar water heater and a solar cell. After that you follow the same sunlight into a basking lizard, a leaf, the whole Earth and your own body.",
   "art": "Two steel tumblers of water on a sunny terrace, one standing in the open and one inside a black cardboard box with a clear lid and a foil flap tilted towards the Sun."
  },
  "intro": {
@@ -24,7 +24,7 @@
    "concept": "Sunlight carries energy from the Sun to the Earth",
    "status": "defined",
    "definition": "Sunlight is energy that travels from the Sun to the Earth as light. Some of it we can see, and some we cannot see.",
-   "description": "The Sun is about 15 crore kilometres away, and the space in between is almost empty. Sunlight crosses that space in about 8 minutes. When it lands on your skin, your skin gets warm. That warming shows that sunlight carries energy. Part of sunlight is the light our eyes see. Part is infrared, a kind of light our eyes cannot see. Infrared carries about half of the Sun's energy that reaches the ground. Our skin cannot feel light itself. It feels only the warmth that appears when the light is taken in. So what do people do with all this arriving energy?",
+   "description": "The Sun is about 15 crore kilometres away, and the space in between is almost empty. Sunlight crosses that space in about 8 minutes. When it lands on your skin, your skin gets warm. That warming shows that sunlight carries energy. Part of sunlight is the light our eyes see. Part is infrared, a kind of light our eyes cannot see. Infrared carries about half of the Sun's energy that reaches the ground. Our skin senses sunlight only as warmth. The warmth appears when the light is taken in. So what do people do with all this arriving energy?",
    "examples": [
     "A black scooter seat parked in the sun at noon is too hot to sit on. No flame and no wire ever touched it.",
     "On a clear winter morning in Delhi or Shillong the air is cold, yet your face feels warm the moment the Sun's light falls on it."
@@ -74,7 +74,7 @@
    "concept": "Sunlight turns into heat only where it is absorbed",
    "status": "defined",
    "definition": "To absorb light is to take it in. To reflect light is to send it away again. Light that a surface absorbs turns into heat in that surface.",
-   "description": "Light that lands on a surface can do two things. The surface can absorb it, which means take it in. Or the surface can reflect it, which means send it away again. Absorbed light turns into heat. (In a solar cell or a leaf, part of it does other work, as later cards show.) Reflected light keeps travelling as light and heats nothing here. A dull black surface absorbs nearly all the light that falls on it. A shiny surface, such as kitchen foil, reflects most of it. So a person building a solar cooker uses both. Black goes where the heat is wanted. Shiny goes where light must be sent somewhere else. But a black pot in the open sun still does not boil. Why not?",
+   "description": "Light that lands on a surface can do two things. The surface can absorb it, which means take it in. Or the surface can reflect it, which means send it away again. Absorbed light turns into heat. In a solar cell or a leaf, part of it does other work, as later cards show. Reflected light keeps travelling as light and heats nothing here. A dull black surface absorbs nearly all the light that falls on it. A shiny surface, such as kitchen foil, reflects most of it. So a person building a solar cooker uses both. Black goes where the heat is wanted. Shiny goes where light must be sent somewhere else. But a black pot in the open sun still does not boil. Why not?",
    "examples": [
     "Walk barefoot from a white painted line on a road to the black tar beside it at noon. The tar is far hotter under the same sunlight.",
     "Many terraces in Chennai and Ahmedabad are painted white so that the rooms below stay cooler."
@@ -99,7 +99,7 @@
    "description": "A black tumbler of water in the open sun warms up, and then it stops at about the warmth of bath water. The Sun is still shining on it. So why does it stop? As the water warms, it loses heat faster. Moving air carries heat away. The warm tumbler also sends out its own infrared. Soon heat is leaving as fast as sunlight brings it in, and the temperature stays where it is. This gives two ways to make the water hotter. You can bring more sunlight in. Or you can make the heat leave more slowly. A solar cooker does both.",
    "examples": [
     "Fill a bucket from a tap while its drain hole is open. The water level rises only until water leaves as fast as it enters.",
-    "A parked car with its windows shut gets much hotter inside than the air outside. Sunlight comes in through the glass, and the warm air cannot get out."
+    "A parked car with its windows shut gets much hotter inside than the air outside. The glass lets the Sun in and keeps the warm air from leaving."
    ],
    "perspectives": [],
    "one_view": "This is the measured behaviour of every warm thing, from a tumbler to a planet, and scientists agree on it. It follows from energy never being lost, only moved.",
@@ -247,7 +247,7 @@
    "description": "In silicon, most electrons are held in place between the atoms. When a photon is absorbed, its energy knocks one electron loose. A solar cell is made of two thin layers of silicon. Each layer has a tiny amount of a different element mixed in. Where the two layers meet, loose electrons are pushed one way and cannot go back. So they travel out through a wire, through a bulb or a fan, and round to the other side of the cell. More light means more photons, more loose electrons and a larger current. In the dark no electrons are freed, and the current stops.",
    "examples": [
     "Shade half of a small solar cell with a card. About half as many photons land, and the current drops to about half.",
-    "At noon, about 3 followed by 17 zeros of photons land on a fingernail-sized piece of a cell every second. Each photon pushes only one electron, but there are so many that together they make a steady current."
+    "In one second at noon, about 3 followed by 17 zeros of photons hit a piece of cell the size of a fingernail. Each one frees a single electron. Together they make a steady current."
    ],
    "perspectives": [
     {
@@ -327,7 +327,7 @@
    "description": "Sunlight arrives free, and a working solar panel gives off no smoke. Many people call solar energy clean for that reason. The whole story is longer. Silicon for panels is purified in very hot furnaces, and most of those run on electricity from coal. A panel repays that energy in about one to three years, and then works for about 25 years. After that, the old panel must be taken apart or it becomes waste. Large solar parks need land. In western Rajasthan that land was grazing ground for herders' animals. It is also the home of the great Indian bustard, a large bird with fewer than 200 left. Bustards die when they fly into power lines.",
    "examples": [
     "A panel on the roof of a house, a school or a railway station uses no extra land at all.",
-    "In 2021 the Supreme Court of India ordered that power lines in the main bustard areas go underground where possible. Power companies said this could not be done everywhere, and the order was later changed."
+    "In 2021 the Supreme Court of India ordered power lines in the main bustard areas to go underground where possible. Power companies said this could not be done everywhere. The order was later changed."
    ],
    "perspectives": [
     {
@@ -444,7 +444,7 @@
   },
   {
    "text": "Heat from the Sun can be stored in a material that melts by day and sets again at night.",
-   "evidence": "In 1948 the scientist Mária Telkes, the architect Eleanor Raymond and the sculptor Amelia Peabody built a house at Dover in Massachusetts, heated only by the Sun. Peabody paid for it. Sun-warmed air melted a salt kept in drums, and the salt gave the heat back as it set. The house stayed warm through cloudy days for about two winters, and then the salt stopped setting properly. Melting-and-setting heat stores are used today in buildings and in some solar cookers."
+   "evidence": "In 1948 three women built a house at Dover in Massachusetts, heated only by the Sun. They were the scientist Mária Telkes, the architect Eleanor Raymond and the sculptor Amelia Peabody, who paid for it. Sun-warmed air melted a salt kept in drums, and the salt gave the heat back as it set. The house stayed warm through cloudy days for about two winters, and then the salt stopped setting properly. Melting-and-setting heat stores are used today in buildings and in some solar cookers."
   },
   {
    "text": "The price of solar cells has fallen to less than one hundredth of what it was in the 1970s.",
@@ -480,7 +480,7 @@
    "claim": "Giving families solar cookers cuts the smoke they breathe and the wood they burn.",
    "who": "Many aid groups and government programmes since the 1980s",
    "for": "Smoke from cooking fires is linked to about 30 lakh early deaths a year across the world, by the World Health Organization's count. A solar cooker makes no smoke. Tests in kitchens show a box cooker can cook a family's rice and dal on a clear day.",
-   "against": "In the Senegal trial by Theresa Beltramo and David Levine, published in 2013, families with solar ovens burned as much wood as families without them, so their smoke did not fall either. The ovens were too small and too slow for the main meal. A machine that works in a test does not always fit a household.",
+   "against": "In the Senegal trial by Theresa Beltramo and David Levine (published in 2013), families with solar ovens burned as much wood as families without them. So their smoke did not fall either. The ovens were too small and too slow for the main meal. A machine that works in a test does not always fit a household.",
    "status": "debated",
    "context": "This is a claim about whether a good machine does good in real homes. It is here because the measurements disagree with the hopes."
   }
@@ -3471,7 +3471,7 @@
   "At the salt pans of Thoothukudi and Kutch, the Sun dries sea water to leave salt. Dried chillies, tamarind and fish are also kept for months by sun-drying.",
   "Many satellites from India run on solar cells. In a picture of a satellite, find the long flat wings. Those are its solar panels.",
   "A white painted terrace in Chennai or Ahmedabad reflects much sunlight and keeps the rooms below cooler. Find a white roof and a dark roof near you and touch the walls beneath them.",
-  "A closed car in the Sun gets much hotter than the outside air. Sunlight comes in through the glass and the warm air cannot leave. No child or animal is ever left in a shut car."
+  "A closed car in the Sun gets much hotter than the outside air. It works like a box cooker with its lid on. No child or animal is ever left in a shut car."
  ],
  "ask_kids": [
   "Where in our home does the Sun land at noon? Where does it land in the evening?",
